@@ -21,12 +21,41 @@ jobs:
           curl -s "https://newsdata.io/api/1/latest?apikey=${{ secrets.NEWSDATA_API_KEY }}&country=in&language=en" \
             -o news.json
 
+      - name: Generate category JSON files
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          root = Path('.')
+          data = json.loads((root / 'news.json').read_text(encoding='utf-8'))
+          categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology']
+
+          (root / 'news_all.json').write_text(json.dumps(data, indent=2), encoding='utf-8')
+
+          results = data.get('results', [])
+          for cat in categories:
+              filtered = [
+                  item for item in results
+                  if (
+                      (isinstance(item.get('category'), list) and cat in item.get('category'))
+                      or item.get('category') == cat
+                  )
+              ]
+              out = {
+                  'status': data.get('status'),
+                  'totalResults': len(filtered),
+                  'results': filtered,
+              }
+              (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
+          PY
+
       - name: Configure git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-      - name: Commit and push news.json
+      - name: Commit and push generated JSON files
         run: |
-          git add news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)
+          git add news*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news category files - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)

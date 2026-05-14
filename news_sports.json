@@ -1,0 +1,80 @@
+{
+  "status": "success",
+  "totalResults": 2,
+  "results": [
+    {
+      "article_id": "223c56cc944aabbbb1df2aebb436ce0f",
+      "link": "https://www.latestly.com/agency-news/sports-news-ipl-virat-kohli-becomes-first-indian-to-complete-14000-t20-runs-7429013.html",
+      "title": "Sports News | IPL: Virat Kohli Becomes First Indian to Complete 14000 T20 Runs",
+      "description": "Get latest articles and stories on Sports at LatestLY. Royal Challengers Bengaluru (RCB) star batter Virat Kohli has become the first Indian batter to reach 14,000 runs in T20 cricket.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "ani"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-05-14 00:12:18",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-05-14 00:34:32",
+      "image_url": "https://st1.latestly.com/wp-content/uploads/2026/05/ANI-20260513193526.jpg",
+      "video_url": null,
+      "source_id": "latestly",
+      "source_name": "Latestly",
+      "source_priority": 31923,
+      "source_url": "https://www.latestly.com",
+      "source_icon": "https://n.bytvi.com/latestly.png",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b36725d86d983f783de2b89a67c8742d",
+      "link": "https://new7tv.com/world/canadian-grand-prix-organizers-prepare-for-earlier-race-date-possible-habs-run/.html",
+      "title": "Canadian Grand Prix organizers prepare for earlier race date, possible Habs run",
+      "description": "By Morgan Lowrie The Canadian Press Posted May 13, 2026 8:07 pm 1 min read Descrease article font size Increase article font size Organizers of the Canadian Grand Prix say they\u2019re ready for their new, earlier slot on the Formula One calendar, even if it raises the possibility of overlap with a Montreal Canadiens playoff run. [...] The post Canadian Grand Prix organizers prepare for earlier race date, possible Habs run appeared first on News7tv .",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "keywords": null,
+      "creator": [
+        "admin news7tv"
+      ],
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "sports",
+        "top"
+      ],
+      "datatype": "news",
+      "pubDate": "2026-05-14 00:12:00",
+      "pubDateTZ": "UTC",
+      "fetched_at": "2026-05-14 00:26:05",
+      "image_url": "https://new7tv.com/wp-content/uploads/2026/05/2822a0210e187c45418d88fcdd87ac129315c22a92ee1a94343b82fa68ef7413.jpg",
+      "video_url": null,
+      "source_id": "new7tv",
+      "source_name": "News7tv",
+      "source_priority": 99999999,
+      "source_url": "https://new7tv.com",
+      "source_icon": null,
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+      "duplicate": true
+    }
+  ]
+}

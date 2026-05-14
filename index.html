@@ -92,7 +92,10 @@
             item.description.toLowerCase().includes(searchTerm.toLowerCase());
           
           const matchesCategory = !category || 
-            (item.category && item.category === category);
+            (item.category && (
+              (Array.isArray(item.category) && item.category.includes(category)) ||
+              item.category === category
+            ));
           
           return matchesSearch && matchesCategory;
         });
@@ -105,13 +108,21 @@
 
         const q = searchEl.value.trim();
         const category = categoryEl.value;
-        statusEl.textContent = 'Loading…';
+        const fileName = category ? `news_${category}.json` : 'news_all.json';
+        statusEl.textContent = `Loading ${category || 'all categories'}…`;
         articlesEl.innerHTML = '';
         try {
-          // Load from local news.json file
-          const res = await fetch('news.json');
+          // Load category-specific JSON when a category is selected
+          let res = await fetch(fileName);
           if (!res.ok) {
-            throw new Error(`Failed to load news.json: ${res.status}`);
+            if (category) {
+              res = await fetch('news_all.json');
+              if (!res.ok) {
+                throw new Error(`Failed to load ${fileName} and fallback news_all.json: ${res.status}`);
+              }
+            } else {
+              throw new Error(`Failed to load ${fileName}: ${res.status}`);
+            }
           }
           const data = await res.json();
           const items = data.results || [];
@@ -124,7 +135,7 @@
               description: it.description || it.content || '',
               urlToImage: it.image_url || it.image || '',
               source: { name: it.source_id || it.source_name || '' },
-              category: it.category || ''
+              category: Array.isArray(it.category) ? it.category : (it.category ? [it.category] : [])
             };
           });
 

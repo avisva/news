@@ -1,0 +1,32 @@
+name: Fetch News Hourly
+
+on:
+  schedule:
+    # Run every hour at minute 0
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch news from NewsData.io
+        run: |
+          curl -s "https://newsdata.io/api/1/latest?apikey=${{ secrets.NEWSDATA_API_KEY }}&country=in&language=en" \
+            -o news.json
+
+      - name: Configure git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push news.json
+        run: |
+          git add news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)

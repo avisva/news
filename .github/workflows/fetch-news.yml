@@ -18,8 +18,68 @@ jobs:
 
       - name: Fetch news from NewsData.io
         run: |
-          curl -s "https://newsdata.io/api/1/latest?apikey=${{ secrets.NEWSDATA_API_KEY }}&country=in&language=en" \
-            -o news.json
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+
+          root = Path('.')
+          api_key = '${{ secrets.NEWSDATA_API_KEY }}'
+          
+          # Single API call for all latest news
+          url = f"https://newsdata.io/api/1/latest?apikey={api_key}&language=en&size=100"
+          result = subprocess.run(['curl', '-s', url], capture_output=True, text=True)
+          if result.returncode != 0:
+              raise Exception("Failed to fetch news")
+          
+          data = json.loads(result.stdout)
+          all_results = data.get('results', [])
+          
+          # Remove duplicates based on article_id
+          seen = set()
+          unique_results = []
+          for item in all_results:
+              aid = item.get('article_id')
+              if aid and aid not in seen:
+                  seen.add(aid)
+                  unique_results.append(item)
+          
+          # Save all news
+          news_data = {
+              'status': data.get('status'),
+              'totalResults': len(unique_results),
+              'results': unique_results
+          }
+          (root / 'news.json').write_text(json.dumps(news_data, indent=2), encoding='utf-8')
+          
+          # Split into categories
+          categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology', 'politics', 'automobile', 'top']
+          (root / 'news_all.json').write_text(json.dumps(news_data, indent=2), encoding='utf-8')
+          
+          for cat in categories:
+              filtered = [
+                  item for item in unique_results
+                  if (
+                      (isinstance(item.get('category'), list) and cat in item.get('category'))
+                      or item.get('category') == cat
+                  )
+              ]
+              out = {
+                  'status': data.get('status'),
+                  'totalResults': len(filtered),
+                  'results': filtered,
+              }
+              (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
+          
+          # National: filter by country india
+          national_results = [item for item in unique_results if item.get('country') == ['india']]
+          national_data = {
+              'status': data.get('status'),
+              'totalResults': len(national_results),
+              'results': national_results,
+          }
+          (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
+          PY
 
       - name: Generate category JSON files
         run: |
@@ -29,7 +89,7 @@ jobs:
 
           root = Path('.')
           data = json.loads((root / 'news.json').read_text(encoding='utf-8'))
-          categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology']
+          categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology', 'politics', 'automobile', 'top', 'national']
 
           (root / 'news_all.json').write_text(json.dumps(data, indent=2), encoding='utf-8')
 

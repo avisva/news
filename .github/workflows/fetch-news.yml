@@ -2,9 +2,8 @@ name: Fetch News Every 15 Minutes
 
 on:
   schedule:
-    # Run every 15 minutes
-    - cron: '*/15 * * * *'
-  workflow_dispatch: # Allow manual trigger
+    - cron: '*/15 * * * *'   # Run every 15 minutes (UTC)
+  workflow_dispatch:          # Allow manual trigger
 
 jobs:
   fetch-news:
@@ -16,98 +15,62 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Fetch news from NewsData.io
+      - name: Fetch and clean news from Google RSS
         run: |
           python - <<'PY'
-          import json
-          import subprocess
+          import json, feedparser
           from pathlib import Path
 
           root = Path('.')
-          api_key = '${{ secrets.NEWSDATA_API_KEY }}'
-          
-          # Single API call for all latest news
-          url = f"https://newsdata.io/api/1/latest?apikey={api_key}&language=en&size=100"
-          result = subprocess.run(['curl', '-s', url], capture_output=True, text=True)
-          if result.returncode != 0:
-              raise Exception("Failed to fetch news")
-          
-          data = json.loads(result.stdout)
-          all_results = data.get('results', [])
-          
-          # Remove duplicates based on article_id
-          seen = set()
-          unique_results = []
-          for item in all_results:
-              aid = item.get('article_id')
-              if aid and aid not in seen:
-                  seen.add(aid)
-                  unique_results.append(item)
-          
-          # Save all news
-          news_data = {
-              'status': data.get('status'),
-              'totalResults': len(unique_results),
-              'results': unique_results
+
+          # Google News RSS feeds by category
+          categories = {
+              "top": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+              "business": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en",
+              "technology": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en",
+              "sports": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-IN&gl=IN&ceid=IN:en",
+              "science": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-IN&gl=IN&ceid=IN:en",
+              "health": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-IN&gl=IN&ceid=IN:en",
+              "entertainment": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
+              "world": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IN&gl=IN&ceid=IN:en"
           }
-          (root / 'news.json').write_text(json.dumps(news_data, indent=2), encoding='utf-8')
-          
-          # Split into categories
-          categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology', 'politics', 'automobile', 'top']
-          (root / 'news_all.json').write_text(json.dumps(news_data, indent=2), encoding='utf-8')
-          
-          for cat in categories:
-              filtered = [
-                  item for item in unique_results
-                  if (
-                      (isinstance(item.get('category'), list) and cat in item.get('category'))
-                      or item.get('category') == cat
-                  )
-              ]
-              out = {
-                  'status': data.get('status'),
-                  'totalResults': len(filtered),
-                  'results': filtered,
-              }
+
+          all_results = []
+
+          # Fetch each category feed
+          for cat, url in categories.items():
+              feed = feedparser.parse(url)
+              results = []
+              for entry in feed.entries[:30]:  # cap at 30 per category
+                  results.append({
+                      "title": entry.title,
+                      "link": entry.link,
+                      "published": entry.published,
+                      "source": entry.get("source", {}).get("title", "Google News"),
+                      "category": cat
+                  })
+              out = {"status": "ok", "totalResults": len(results), "results": results}
               (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
-          
-          # National: filter by country india
-          national_results = [item for item in unique_results if item.get('country') == ['india']]
-          national_data = {
-              'status': data.get('status'),
-              'totalResults': len(national_results),
-              'results': national_results,
-          }
+              all_results.extend(results)
+
+          # Master file with all categories combined
+          master = {"status": "ok", "totalResults": len(all_results), "results": all_results}
+          (root / 'news.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
+          (root / 'news_all.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
+
+          # National (India-only headlines from Top feed)
+          national_feed = feedparser.parse("https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en")
+          national_results = []
+          for entry in national_feed.entries[:30]:
+              national_results.append({
+                  "title": entry.title,
+                  "link": entry.link,
+                  "published": entry.published,
+                  "source": entry.get("source", {}).get("title", "Google News"),
+                  "category": "national"
+              })
+          national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
           (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
-          PY
-
-      - name: Generate category JSON files
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-
-          root = Path('.')
-          data = json.loads((root / 'news.json').read_text(encoding='utf-8'))
-          categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology', 'politics', 'automobile', 'top', 'national']
-
-          (root / 'news_all.json').write_text(json.dumps(data, indent=2), encoding='utf-8')
-
-          results = data.get('results', [])
-          for cat in categories:
-              filtered = [
-                  item for item in results
-                  if (
-                      (isinstance(item.get('category'), list) and cat in item.get('category'))
-                      or item.get('category') == cat
-                  )
-              ]
-              out = {
-                  'status': data.get('status'),
-                  'totalResults': len(filtered),
-                  'results': filtered,
-              }
-              (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
           PY
 
       - name: Configure git
@@ -118,4 +81,5 @@ jobs:
       - name: Commit and push generated JSON files
         run: |
           git add news*.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news category files - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)
+          git diff --quiet && git diff --staged --quiet || \
+          (git commit -m "Update Google News files - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)

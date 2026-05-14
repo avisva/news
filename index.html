@@ -62,7 +62,7 @@
     </header>
 
     <main>
-      <div class="notice"><span class="notice-text">Top latest trending news at the moment from global and national headlines, technology, automobile, politics, geopolitics, health, business, sports and more — always fresh and easy to browse.</span></div>
+      <div class="notice"><span class="notice-text">Top trending news from global and national headlines, technology, automobile, politics, geopolitics, health, business, sports and more — always fresh and easy to browse.</span></div>
       <div id="status" class="status"></div>
       <div id="articles" class="articles"></div>
       <div class="pagination">
@@ -178,8 +178,8 @@
           card.className = 'card';
           const img = document.createElement('img');
           img.className = 'thumb';
-          img.src = a.urlToImage || 'https://via.placeholder.com/600x360?text=No+Image';
-          img.alt = a.title || '';
+          img.src = a.urlToImage || './news-img.jpg';
+          img.alt = a.title || 'Top News';
           const body = document.createElement('div');
           body.className = 'card-body';
           const meta = document.createElement('div');

@@ -77,6 +77,7 @@
       const pageSize = 9;
       let totalResults = 0;
       let cachedItems = [];
+      const isLocalFile = location.protocol === 'file:';
 
       // Filter articles by search and category
       function filterArticles(items, searchTerm, category) {
@@ -93,6 +94,10 @@
       }
 
       async function fetchNews() {
+        if (isLocalFile) {
+          throw new Error('Page is loaded using file:// protocol. Start a local server and open via http://localhost:8000/.');
+        }
+
         const q = searchEl.value.trim();
         const category = categoryEl.value;
         statusEl.textContent = 'Loading…';
@@ -186,7 +191,11 @@
       nextBtn.addEventListener('click', () => { if (page * pageSize < totalResults) { page++; renderPage(); }});
 
       // Initial load
-      fetchNews();
+      if (isLocalFile) {
+        statusEl.textContent = 'Error: file:// pages are blocked from fetching local JSON. Start a local server and open via http://localhost:8000/.';
+      } else {
+        fetchNews();
+      }
     </script>
   </body>
 </html>

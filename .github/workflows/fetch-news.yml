@@ -1,8 +1,8 @@
-name: Fetch News Every 15 Minutes
+name: Fetch News Every 30 Minutes
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # Run every 15 minutes (UTC)
+    - cron: '*/30 * * * *'   # Run every 30 minutes (UTC)
   workflow_dispatch:          # Allow manual trigger
 
 jobs:
@@ -59,14 +59,14 @@ jobs:
                   (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
                   all_results.extend(results)
               except Exception as e:
-                  # Write empty file if feed fails
-                  out = {"status": "error", "message": str(e), "results": []}
-                  (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
+                  # If feed fails, skip writing new file (keep old one)
+                  print(f"Failed to fetch {cat}: {e}")
 
-          # Master file with all categories combined
-          master = {"status": "ok", "totalResults": len(all_results), "results": all_results}
-          (root / 'news.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
-          (root / 'news_all.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
+          # Only overwrite master if we got results
+          if all_results:
+              master = {"status": "ok", "totalResults": len(all_results), "results": all_results}
+              (root / 'news.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
+              (root / 'news_all.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
 
           # National (India-only headlines from Top feed)
           try:
@@ -80,11 +80,11 @@ jobs:
                       "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
                       "category": "national"
                   })
-              national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
-              (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
+              if national_results:
+                  national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
+                  (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
           except Exception as e:
-              national_data = {"status": "error", "message": str(e), "results": []}
-              (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
+              print(f"Failed to fetch national feed: {e}")
           PY
 
       - name: Configure git

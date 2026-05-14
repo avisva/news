@@ -1,4 +1,4 @@
-name: Fetch News Every 1 hour
+name: Fetch NewsData Top News Every 1 hour
 
 on:
   schedule:

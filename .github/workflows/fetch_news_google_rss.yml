@@ -1,4 +1,4 @@
-name: Fetch News Every 30 Minutes
+name: Fetch Google RSS News Every 30 Minutes
 
 on:
   schedule:

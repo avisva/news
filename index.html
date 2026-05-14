@@ -138,10 +138,10 @@
             return {
               title: it.title || '', 
               url: it.link || '',
-              publishedAt: it.pubDate || it.published_date || '',
+              publishedAt: it.pubDate || it.published_date || it.published || '',
               description: it.description || it.content || '',
               urlToImage: it.image_url || it.image || '',
-              source: { name: it.source_id || it.source_name || '' },
+              source: { name: it.source_id || it.source_name || it.source || '' },
               category: Array.isArray(it.category) ? it.category : (it.category ? [it.category] : [])
             };
           });

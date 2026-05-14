@@ -1,8 +1,8 @@
-name: Fetch News Every 15 Minutes
+name: Fetch News Every 1 hour
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # Run every 15 minutes (UTC)
+    - cron: '0 * * * *'   # Run every 1 hour (UTC)
   workflow_dispatch:          # Allow manual trigger
 
 jobs:

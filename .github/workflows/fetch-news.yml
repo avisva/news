@@ -15,6 +15,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+
       - name: Fetch and clean news from Google RSS
         run: |
           python - <<'PY'
@@ -37,21 +42,26 @@ jobs:
 
           all_results = []
 
-          # Fetch each category feed
+          # Fetch each category feed safely
           for cat, url in categories.items():
-              feed = feedparser.parse(url)
-              results = []
-              for entry in feed.entries[:30]:  # cap at 30 per category
-                  results.append({
-                      "title": entry.title,
-                      "link": entry.link,
-                      "published": entry.published,
-                      "source": entry.get("source", {}).get("title", "Google News"),
-                      "category": cat
-                  })
-              out = {"status": "ok", "totalResults": len(results), "results": results}
-              (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
-              all_results.extend(results)
+              try:
+                  feed = feedparser.parse(url)
+                  results = []
+                  for entry in feed.entries[:30]:  # cap at 30 per category
+                      results.append({
+                          "title": entry.title,
+                          "link": entry.link,
+                          "published": getattr(entry, "published", ""),
+                          "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
+                          "category": cat
+                      })
+                  out = {"status": "ok", "totalResults": len(results), "results": results}
+                  (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
+                  all_results.extend(results)
+              except Exception as e:
+                  # Write empty file if feed fails
+                  out = {"status": "error", "message": str(e), "results": []}
+                  (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
 
           # Master file with all categories combined
           master = {"status": "ok", "totalResults": len(all_results), "results": all_results}
@@ -59,18 +69,22 @@ jobs:
           (root / 'news_all.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
 
           # National (India-only headlines from Top feed)
-          national_feed = feedparser.parse("https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en")
-          national_results = []
-          for entry in national_feed.entries[:30]:
-              national_results.append({
-                  "title": entry.title,
-                  "link": entry.link,
-                  "published": entry.published,
-                  "source": entry.get("source", {}).get("title", "Google News"),
-                  "category": "national"
-              })
-          national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
-          (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
+          try:
+              national_feed = feedparser.parse("https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en")
+              national_results = []
+              for entry in national_feed.entries[:30]:
+                  national_results.append({
+                      "title": entry.title,
+                      "link": entry.link,
+                      "published": getattr(entry, "published", ""),
+                      "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
+                      "category": "national"
+                  })
+              national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
+              (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
+          except Exception as e:
+              national_data = {"status": "error", "message": str(e), "results": []}
+              (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
           PY
 
       - name: Configure git

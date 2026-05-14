@@ -1,8 +1,8 @@
-name: Fetch News Every 30 Minutes
+name: Fetch News Every 15 Minutes
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # Run every 30 minutes (UTC)
+    - cron: '*/15 * * * *'   # Run every 15 minutes (UTC)
   workflow_dispatch:          # Allow manual trigger
 
 jobs:
@@ -15,76 +15,79 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser
-
-      - name: Fetch and clean news from Google RSS
+      - name: Fetch and clean news from NewsData.io
         run: |
           python - <<'PY'
-          import json, feedparser
+          import json, subprocess
           from pathlib import Path
 
           root = Path('.')
+          api_key = '${{ secrets.NEWSDATA_API_KEY }}'
 
-          # Google News RSS feeds by category
-          categories = {
-              "top": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
-              "business": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en",
-              "technology": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en",
-              "sports": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-IN&gl=IN&ceid=IN:en",
-              "science": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-IN&gl=IN&ceid=IN:en",
-              "health": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-IN&gl=IN&ceid=IN:en",
-              "entertainment": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
-              "world": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IN&gl=IN&ceid=IN:en"
+          def fetch_page(url):
+              result = subprocess.run(['curl', '-s', url], capture_output=True, text=True)
+              if result.returncode != 0:
+                  raise Exception("Failed to fetch news")
+              return json.loads(result.stdout)
+
+          # Start with first page
+          url = f"https://newsdata.io/api/1/latest?apikey={api_key}&language=en&size=10"
+          data = fetch_page(url)
+
+          all_results = data.get('results', [])
+          next_page = data.get('nextPage')
+
+          # Fetch 2 more pages (≈30 articles total)
+          for _ in range(2):
+              if next_page:
+                  url = f"https://newsdata.io/api/1/latest?apikey={api_key}&language=en&page={next_page}&size=10"
+                  page_data = fetch_page(url)
+                  all_results.extend(page_data.get('results', []))
+                  next_page = page_data.get('nextPage')
+
+          # Deduplicate by article_id
+          seen, unique_results = set(), []
+          for item in all_results:
+              aid = item.get('article_id')
+              if aid and aid not in seen:
+                  seen.add(aid)
+                  # Clean fields
+                  cleaned = {
+                      'title': item.get('title'),
+                      'description': item.get('description'),
+                      'link': item.get('link'),
+                      'source': item.get('source_name'),
+                      'image': item.get('image_url'),
+                      'published': item.get('pubDate'),
+                      'category': item.get('category'),
+                      'country': item.get('country')
+                  }
+                  unique_results.append(cleaned)
+
+          # Keep only latest 30
+          unique_results = unique_results[:30]
+
+          # Save master file
+          news_data = {
+              'status': data.get('status'),
+              'totalResults': len(unique_results),
+              'results': unique_results
           }
+          (root / 'news.json').write_text(json.dumps(news_data, indent=2), encoding='utf-8')
 
-          all_results = []
+          # Split into categories
+          categories = ['business','entertainment','general','health','science','sports','technology','politics','automobile','top']
+          (root / 'news_all.json').write_text(json.dumps(news_data, indent=2), encoding='utf-8')
 
-          # Fetch each category feed safely
-          for cat, url in categories.items():
-              try:
-                  feed = feedparser.parse(url)
-                  results = []
-                  for entry in feed.entries[:30]:  # cap at 30 per category
-                      results.append({
-                          "title": entry.title,
-                          "link": entry.link,
-                          "published": getattr(entry, "published", ""),
-                          "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
-                          "category": cat
-                      })
-                  out = {"status": "ok", "totalResults": len(results), "results": results}
-                  (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
-                  all_results.extend(results)
-              except Exception as e:
-                  # If feed fails, skip writing new file (keep old one)
-                  print(f"Failed to fetch {cat}: {e}")
+          for cat in categories:
+              filtered = [item for item in unique_results if (isinstance(item.get('category'), list) and cat in item.get('category')) or item.get('category') == cat]
+              out = {'status': data.get('status'), 'totalResults': len(filtered), 'results': filtered}
+              (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
 
-          # Only overwrite master if we got results
-          if all_results:
-              master = {"status": "ok", "totalResults": len(all_results), "results": all_results}
-              (root / 'news.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
-              (root / 'news_all.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
-
-          # National (India-only headlines from Top feed)
-          try:
-              national_feed = feedparser.parse("https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en")
-              national_results = []
-              for entry in national_feed.entries[:30]:
-                  national_results.append({
-                      "title": entry.title,
-                      "link": entry.link,
-                      "published": getattr(entry, "published", ""),
-                      "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
-                      "category": "national"
-                  })
-              if national_results:
-                  national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
-                  (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
-          except Exception as e:
-              print(f"Failed to fetch national feed: {e}")
+          # National (India only)
+          national_results = [item for item in unique_results if item.get('country') == ['india']]
+          national_data = {'status': data.get('status'), 'totalResults': len(national_results), 'results': national_results}
+          (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
           PY
 
       - name: Configure git
@@ -95,5 +98,4 @@ jobs:
       - name: Commit and push generated JSON files
         run: |
           git add news*.json
-          git diff --quiet && git diff --staged --quiet || \
-          (git commit -m "Update Google News files - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news files - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)

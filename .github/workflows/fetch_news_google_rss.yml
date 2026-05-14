@@ -1,0 +1,99 @@
+name: Fetch News Every 30 Minutes
+
+on:
+  schedule:
+    - cron: '* * * * *'   # Run every 30 minutes (UTC)
+  workflow_dispatch:          # Allow manual trigger
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+
+      - name: Fetch and clean news from Google RSS
+        run: |
+          python - <<'PY'
+          import json, feedparser
+          from pathlib import Path
+
+          root = Path('.')
+
+          # Google News RSS feeds by category
+          categories = {
+              "top": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+              "business": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-IN&gl=IN&ceid=IN:en",
+              "technology": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-IN&gl=IN&ceid=IN:en",
+              "sports": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-IN&gl=IN&ceid=IN:en",
+              "science": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-IN&gl=IN&ceid=IN:en",
+              "health": "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-IN&gl=IN&ceid=IN:en",
+              "entertainment": "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-IN&gl=IN&ceid=IN:en",
+              "world": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IN&gl=IN&ceid=IN:en"
+          }
+
+          all_results = []
+
+          # Fetch each category feed safely
+          for cat, url in categories.items():
+              try:
+                  feed = feedparser.parse(url)
+                  results = []
+                  for entry in feed.entries[:30]:  # cap at 30 per category
+                      results.append({
+                          "title": entry.title,
+                          "link": entry.link,
+                          "published": getattr(entry, "published", ""),
+                          "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
+                          "category": cat
+                      })
+                  out = {"status": "ok", "totalResults": len(results), "results": results}
+                  (root / f'news_{cat}.json').write_text(json.dumps(out, indent=2), encoding='utf-8')
+                  all_results.extend(results)
+              except Exception as e:
+                  # If feed fails, skip writing new file (keep old one)
+                  print(f"Failed to fetch {cat}: {e}")
+
+          # Only overwrite master if we got results
+          if all_results:
+              master = {"status": "ok", "totalResults": len(all_results), "results": all_results}
+              (root / 'news.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
+              (root / 'news_all.json').write_text(json.dumps(master, indent=2), encoding='utf-8')
+
+          # National (India-only headlines from Top feed)
+          try:
+              national_feed = feedparser.parse("https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en")
+              national_results = []
+              for entry in national_feed.entries[:30]:
+                  national_results.append({
+                      "title": entry.title,
+                      "link": entry.link,
+                      "published": getattr(entry, "published", ""),
+                      "source": getattr(getattr(entry, "source", {}), "title", "Google News"),
+                      "category": "national"
+                  })
+              if national_results:
+                  national_data = {"status": "ok", "totalResults": len(national_results), "results": national_results}
+                  (root / 'news_national.json').write_text(json.dumps(national_data, indent=2), encoding='utf-8')
+          except Exception as e:
+              print(f"Failed to fetch national feed: {e}")
+          PY
+
+      - name: Configure git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push generated JSON files
+        run: |
+          git add news*.json
+          git diff --quiet && git diff --staged --quiet || \
+          (git commit -m "Update Google News files - $(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push)

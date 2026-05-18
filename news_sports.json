@@ -1,14 +1,42 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 11,
   "results": [
     {
-      "title": "The BFI Are Preserving Vintage Memes On An Ever-Changing Internet",
-      "description": "While it may seem silly to archive 'Charlie bit my finger' for future generations, it's good practice to treat the internet as an impermanent space",
-      "link": "https://kotaku.com/the-bfi-are-preserving-vintage-memes-on-an-ever-changing-internet-2000696844",
-      "source": "Kotaku",
-      "image": "https://kotaku.com/app/uploads/2026/05/bfibadgers.jpg",
-      "published": "2026-05-17 20:00:54",
+      "title": "Noble Helium prepares North Rukwa drilling as global supply pressures build",
+      "description": "Noble Helium Ltd (ASX:NHE, OTC:NBHEF, FRA:GN1) has outlined plans for its upcoming North Rukwa drilling program in Tanzania while highlighting growing disruption across the global helium market that could strengthen future demand for new supply sources. Executive chairman Dennis Donald told...",
+      "link": "https://ca.finance.yahoo.com/news/noble-helium-prepares-north-rukwa-002800138.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/c9dxCT9A9UeNO7awLP1L0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMTA4/https://media.zenfs.com/en/proactive_us_504/616ecf2ecc262a7f8ff285d4ab9cbdea",
+      "published": "2026-05-18 00:28:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "NBA releases full MVP voting results: Jokic finishes top-two for sixth straight year",
+      "description": "We now know how the votes were distributed in the MVP race.",
+      "link": "https://ca.sports.yahoo.com/news/nba-releases-full-mvp-voting-002748362.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/E.Izne172c6.SMqKgkO4uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MjA7aD04NTY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_sporting_news_articles_584/1a7b6f58394743e2fd091a8a2d93d6dc",
+      "published": "2026-05-18 00:27:48",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "NBA releases full MVP voting results: Jokic finishes top-two for sixth straight year",
+      "description": "We now know how the votes were distributed in the MVP race.",
+      "link": "https://www.sportingnews.com/us/nba/news/nba-releases-mvp-voting-results-jokic/d7787aa16cf720fe257dc273",
+      "source": "Sporting News",
+      "image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2026-04/mvps.jpg.webp?itok=mtYlfTqk",
+      "published": "2026-05-18 00:27:48",
       "category": [
         "sports"
       ],
@@ -17,27 +45,72 @@
       ]
     },
     {
-      "title": "I Want To Inspire The Next Generation of Nigerian Rugby Players- Grandidier-Nkanang",
-      "description": "Aaron Grandidier-Nkanang is an English-French-Nigerian professional rugby player who plays for the French National team. He won a gold",
-      "link": "https://guardian.ng/sport/i-want-to-inspire-the-next-generation-of-nigerian-rugby-players-grandidier-nkanang/",
-      "source": "The Guardian",
-      "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/fast1330.webp",
-      "published": "2026-05-17 20:00:51",
+      "title": "Hasaacas Ladies beat Army Ladies on penalties to win Women\u2019s FA Cup",
+      "description": "The Hasmal Ladies won 5-3 on penalties after the two teams had played out a 1-1 draw in 120 minutes of play.",
+      "link": "https://www.myjoyonline.com/hasaacas-ladies-beat-army-ladies-on-penalties-to-win-womens-fa-cup/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/05/Hasaacas-Ladies-819x1024.jpg",
+      "published": "2026-05-18 00:27:45",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "nigeria"
+        "ghana"
       ]
     },
     {
-      "title": "Fidelity Enhanced Large Cap Core ETF (NYSEARCA:FELC) Short Interest Up 133.5% in April",
-      "description": "Fidelity Enhanced Large Cap Core ETF (NYSEARCA:FELC \u2013 Get Free Report) saw a significant increase in short interest in the month of April. As of April 30th, there was short interest totaling 335,272 shares, an increase of 133.5% from the April 15th total of 143,565 shares. Approximately 0.2% of the company\u2019s shares are sold short. [...]",
-      "link": "https://baseballnewssource.com/2026/05/17/fidelity-enhanced-large-cap-core-etf-nysearcafelc-short-interest-up-133-5-in-april/11126420.html",
-      "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/fidelity-enhanced-large-cap-core-etf-logo-1200x675.png?v=20250207073059",
-      "published": "2026-05-17 20:00:48",
+      "title": "Axar Patel credits opening stand for Delhi Capitals\u2019 win over Rajasthan Royals",
+      "description": "Delhi Capitals skipper Axar Patel described the team's five-wicket victory over Rajasthan Royals on Sunday as a special win, particularly as it came at home",
+      "link": "https://thenewsmill.com/2026/05/axar-patel-credits-opening-stand-for-delhi-capitals-win-over-rajasthan-royals/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/05/axar-patel-credits-opening-stand-for-delhi-capitals-win-over-rajasthan-royals.jpg",
+      "published": "2026-05-18 00:27:42",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mitchell Starc takes four wickets as Delhi Capitals beat Rajasthan Royals by five wickets",
+      "description": "Veteran seamer Mitchell Starc credited Delhi Capitals' disciplined bowling and adaptability after his four-wicket haul helped secure a five-wicket victory",
+      "link": "https://thenewsmill.com/2026/05/mitchell-starc-takes-four-wickets-as-delhi-capitals-beat-rajasthan-royals-by-five-wickets/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/05/mitchell-starc-takes-four-wickets-as-delhi-capitals-beat-rajasthan-royals-by-five-wickets.jpg",
+      "published": "2026-05-18 00:27:34",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Riyan Parag says Rajasthan Royals fell short in five-wicket loss to Delhi Capitals",
+      "description": "Rajasthan Royals captain Riyan Parag expressed disappointment after his team\u2019s five-wicket defeat to Delhi Capitals in the Indian Premier League (IPL) 2026",
+      "link": "https://thenewsmill.com/2026/05/riyan-parag-says-rajasthan-royals-fell-short-in-five-wicket-loss-to-delhi-capitals/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/05/riyan-parag-says-rajasthan-royals-fell-short-in-five-wicket-loss-to-delhi-capitals.jpg",
+      "published": "2026-05-18 00:27:26",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Raiders\u2019 Mike Washington Jr. To Fill RB2 Role",
+      "description": "After spending the No. 6 overall pick in the 2025 NFL Draft to select Boise State star running back Ashton Jeanty, the Raiders still finished the 2025 season with the fewest rushing yards in the league.",
+      "link": "https://www.yardbarker.com/nfl/articles/raiders_mike_washington_jr_to_fill_rb2_role/s1_14819_43854975",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/3/2/322c6da7be5ab19541309588d9187a9609a3f013/thumb_16x9/2-2026-henderson-nv-usa-las-vegas-raiders-running.jpg",
+      "published": "2026-05-18 00:27:26",
       "category": [
         "sports"
       ],
@@ -46,26 +119,40 @@
       ]
     },
     {
-      "title": "Franklin Ultra Short Bond ETF (NYSEARCA:FLUD) Short Interest Update",
-      "description": "Franklin Ultra Short Bond ETF (NYSEARCA:FLUD \u2013 Get Free Report) was the target of a significant growth in short interest in April. As of April 30th, there was short interest totaling 103,599 shares, a growth of 135.9% from the April 15th total of 43,917 shares. Currently, 1.0% of the shares of the stock are short [...]",
-      "link": "https://baseballnewssource.com/2026/05/17/franklin-ultra-short-bond-etf-nysearcaflud-short-interest-update/11126421.html",
-      "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/generic-stocks3.jpg",
-      "published": "2026-05-17 20:00:48",
+      "title": "Kacey Musgraves Goes Vintage Pinup in Black Velvet and Ivory Ruffles at 2026 ACM Awards",
+      "description": "The singer wore Tanner Fletcher fall 2026 with pointed black pumps and a curled bang before performing in Las Vegas.",
+      "link": "https://ca.news.yahoo.com/kacey-musgraves-goes-vintage-pinup-002716985.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/f1j14Zd4aZEd7hdjiLJyAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0zNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/wwd_409/b545f688d6afccceeed99bd13d94b623",
+      "published": "2026-05-18 00:27:16",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "Frontier Asset Core Bond ETF (NYSEARCA:FCBD) Short Interest Update",
-      "description": "Frontier Asset Core Bond ETF (NYSEARCA:FCBD \u2013 Get Free Report) saw a significant growth in short interest during the month of April. As of April 30th, there was short interest totaling 1,832 shares, a growth of 138.2% from the April 15th total of 769 shares. Approximately 0.1% of the shares of the stock are sold [...]",
-      "link": "https://baseballnewssource.com/2026/05/17/frontier-asset-core-bond-etf-nysearcafcbd-short-interest-update/11126422.html",
-      "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-      "published": "2026-05-17 20:00:48",
+      "title": "Rickea Jackson injury update: Chicago star's status vs Lynx",
+      "description": "Chicago Sky forward Rickea Jackson left a game against the Minnesota Lynx in the second quarter with an apparent knee injury. Here's what we know.",
+      "link": "https://ca.sports.yahoo.com/news/rickea-jackson-injury-chicago-stars-002714569.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/plyIUHVse5NC2GkyDc2yvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/usa_today_sports_articles_558/e80b1dab5f8862f18ac7c4156d6a7598",
+      "published": "2026-05-18 00:27:14",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Rickea Jackson injury update: Chicago star's status vs Lynx",
+      "description": "Chicago Sky forward Rickea Jackson left a game against the Minnesota Lynx in the second quarter with an apparent knee injury. Here's what we know.",
+      "link": "https://www.usatoday.com/story/sports/wnba/2026/05/17/rickea-jackson-injury-update-sky-lynx/90135952007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/18/USAT/90136082007-2276581797.jpg?crop=5658,3183,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-05-18 00:27:14",
       "category": [
         "sports"
       ],

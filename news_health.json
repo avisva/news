@@ -1,35 +1,19 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Transcric\u0327a\u0303o do call de resultados: Harrow Health decepciona no 1o tri de 2026",
-      "description": null,
-      "link": "https://br.investing.com/news/transcripts/transcricao-do-call-de-resultados-harrow-health-decepciona-no-1o-tri-de-2026-93CH-1942415",
-      "source": "Investing Brasil",
-      "image": null,
-      "published": "2026-05-18 06:49:55",
+      "title": "Here's how NJ bill would protect transgender care and abortion access",
+      "description": "A New Jersey bill would protect providers and patients from prosecution by other states where transgender and abortion services are illegal.",
+      "link": "https://www.northjersey.com/story/news/health/2026/05/18/nj-bill-would-protect-transgender-care-and-abortion-access/90082495007/",
+      "source": "North Jersey Media Group",
+      "image": "https://www.northjersey.com/gcdn/presto/2022/06/18/PNJM/03b5b6cb-3594-4932-b794-ee6e65dfee7d-061822_e_clinic_002.JPG?crop=6807,3829,x0,y348&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-05-18 08:22:41",
       "category": [
-        "top",
         "health"
       ],
       "country": [
-        "brazil"
-      ]
-    },
-    {
-      "title": "All you need to know as NHS tells some to stop taking statins",
-      "description": null,
-      "link": "https://www.mirror.co.uk/news/health/you-need-know-nhs-tells-37169738",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/news/uk-news/article36034605.ece/ALTERNATES/s615/1_Man-having-a-heart-attack.jpg",
-      "published": "2026-05-18 06:49:37",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united kingdom"
+        "united states of america"
       ]
     }
   ]

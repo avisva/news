@@ -2,7 +2,7 @@ name: Fetch Google RSS News Every 30 Minutes
 
 on:
   schedule:
-    - cron: '30 * * * *'   # Run every 30 minutes (UTC)
+    - cron: '*/30 * * * *'   # Run every 30 minutes (UTC)
   workflow_dispatch:          # Allow manual trigger
 
 jobs:

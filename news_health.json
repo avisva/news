@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Dudley mum had '11 courses of antibiotics in one year' after devastating diagnosis",
+      "description": "Claire Smith, 38, said she suffers from frequent infections",
+      "link": "https://www.birminghammail.co.uk/black-country/dudley-mum-11-courses-antibiotics-33960870",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/incoming/article33960906.ece/ALTERNATES/s615/0_JS406556257.jpg",
+      "published": "2026-05-18 04:21:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

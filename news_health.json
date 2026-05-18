@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Dudley mum had '11 courses of antibiotics in one year' after devastating diagnosis",
-      "description": "Claire Smith, 38, said she suffers from frequent infections",
-      "link": "https://www.birminghammail.co.uk/black-country/dudley-mum-11-courses-antibiotics-33960870",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article33960906.ece/ALTERNATES/s615/0_JS406556257.jpg",
-      "published": "2026-05-18 04:21:00",
+      "title": "Transcric\u0327a\u0303o do call de resultados: Harrow Health decepciona no 1o tri de 2026",
+      "description": null,
+      "link": "https://br.investing.com/news/transcripts/transcricao-do-call-de-resultados-harrow-health-decepciona-no-1o-tri-de-2026-93CH-1942415",
+      "source": "Investing Brasil",
+      "image": null,
+      "published": "2026-05-18 06:49:55",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "brazil"
+      ]
+    },
+    {
+      "title": "All you need to know as NHS tells some to stop taking statins",
+      "description": null,
+      "link": "https://www.mirror.co.uk/news/health/you-need-know-nhs-tells-37169738",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/news/uk-news/article36034605.ece/ALTERNATES/s615/1_Man-having-a-heart-attack.jpg",
+      "published": "2026-05-18 06:49:37",
       "category": [
         "top",
         "health"

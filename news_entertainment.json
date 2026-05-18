@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Kola Karims Relentless March Across Continents",
-      "description": "For billionaire businessman and Chairman of Shoreline Group, Kola Karim, the year appears to be unfolding like a carefully scripted success story. The suave entrepreneur, reputed for his sharp",
-      "link": "https://www.latestnigeriannews.com/p/284517/kola-karims-relentless-march-across-continents.html",
-      "source": "Latest Nigerian News",
-      "image": null,
-      "published": "2026-05-18 04:20:36",
+      "title": "DJ Pumma, Influential New York-Based Korean DJ, Dies of Cancer at 46",
+      "description": "New York-based South Korean artist DJ Pumma has died at the age of 46 following a courageous battle with cancer, according to an announcement on her social media channels. Known for her open-format style, she built a distinct career in the city's music scene with notable performances on Sway in the Morning and collaborations with global brands.",
+      "link": "https://www.latestly.com/entertainment/dj-pumma-influential-new-york-based-korean-dj-dies-of-cancer-at-46-7435046.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/05/1-471898559.jpg",
+      "published": "2026-05-18 06:49:43",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "nigeria"
+        "india"
+      ]
+    },
+    {
+      "title": "Pati Patni aur Woh Do box office collection Day 3: Ayushmann Khurrana's romedy shows good growth on Sunday, yet trails Kartik Aaryan's version",
+      "description": "Pati Patni aur Woh Do has a decent weekend, but when it is compared to 2019's Pati Patni aur Woh, there's a stark difference between the two.",
+      "link": "https://www.dnaindia.com/bollywood/report-pati-patni-aur-woh-do-box-office-collection-day-3-ayushmann-khurrana-rakul-preet-singh-sara-ali-khan-wamiqa-gabbi-romedy-shows-good-growth-on-sunday-yet-trails-kartik-aaryan-pati-patni-aur-woh-3210706",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/05/18/2749188-oati.jpg",
+      "published": "2026-05-18 06:49:43",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Samsung strike risk: Worst has been avoided, but competitiveness in memory chip market takes a hit",
+      "description": "Rolf Bulk, Head of Semiconductor & Infrastructure Equity Research at Futurum Equities, discusses the looming labor strikes at Samsung Electronics. He says the strikes will be a \"major negative\" for the company and South Korea's economic growth, and highlights U.S.-based Micron and Chinese semiconductor company CXMT as potential beneficiaries of this scenario.",
+      "link": "https://www.cnbc.com/video/2026/05/19/samsung-strike-risk-worst-avoided-but-competitiveness-takes-a-hit.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108308840-17791671071779167104-46039907854-1080pnbcnews.jpg?v=1779167107",
+      "published": "2026-05-19 06:57:30",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,31 +1,17 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Musk vows to appeal after losing case against OpenAI",
-      "description": "X owner Elon Musk vowed to appeal a federal grand jury\u2019s verdict against his claim that OpenAI CEO Sam Altman was abandoning the company\u2019s original nonprofit vision after it ruled it was not brought in a timely manner. Musk said the jury did not rule on the evidence of the case, but rather a \u201ccalendar [...] The post Musk vows to appeal after losing case against OpenAI appeared first on CBNC .",
-      "link": "https://cbnc.com/musk-vows-to-appeal-after-losing-case-against-openai/",
-      "source": "Cbnc",
-      "image": null,
-      "published": "2026-05-19 00:08:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Sherman pizzeria celebrates 40 years with throwback slice special",
-      "description": "A longtime Sherman pizza shop is marking a major milestone: 40 years in business.",
-      "link": "https://www.kxii.com/2026/05/19/sherman-pizzeria-celebrates-40-years-with-throwback-slice-special/",
-      "source": "Https://www.kxii.com",
-      "image": "https://gray-kxii-prod.gtv-cdn.com/resizer/v2//SHSE2J3XRBEKPKBTRA7P3TBBIU.png?auth=9316798d19de021fa35fcca0df91e11cd36dd037002b34b978258a2933f4d36c&smart=true&width=1280&height=720",
-      "published": "2026-05-19 00:07:48",
+      "title": "Credit Management SSCUIs with \"1QM, BD6\" scope reference - Required when only BD6 (Basic Credit Mana",
+      "description": "Hi SAP Community, We are implementing SAP S/4HANA Cloud Public Edition for a manufacturing company. Our scope includes **BD6 (Basic Credit Management)** but **NOT 1QM (Advanced Credit Management)**. However, several Credit Management SSCUIs in our BDCQ have **both \"1QM, BD6\"** listed in the Scope Re...",
+      "link": "https://community.sap.com/t5/technology-q-a/credit-management-sscuis-with-quot-1qm-bd6-quot-scope-reference-required/qaq-p/14398862",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-05-19 04:17:54",
       "category": [
         "top",
-        "lifestyle",
+        "technology",
         "business"
       ],
       "country": [
@@ -33,17 +19,19 @@
       ]
     },
     {
-      "title": "Stock Picks: Top Glove And Ranhill Utilities",
-      "description": "RHB Investment Bank Bhd (RHB Research) has identified Top Glove Corporation Berhad and Ranhill Utilities Berhad as trading ideas after both counters staged bullish technical breakouts. The research house said Top Glove is attempting to continue its upward movement after breaking above the RM0.80 resistance level with a bullish candlestick pattern. It noted that trading [...]",
-      "link": "https://www.businesstoday.com.my/2026/05/19/stock-picks-top-glove-and-ranhill-utilities/",
-      "source": "Businesstoday | Malaysia",
-      "image": null,
-      "published": "2026-05-19 00:07:44",
+      "title": "Haryana CM Promotes Fuel Conservation by Cycling to Sukna Lake",
+      "description": "Chandigarh, May 19: In response to Prime Minister Narendra Modi\u2019s appeal for fuel conservation amid the global energy crisis, Haryana Chief Minister Nayab Singh Saini took to cycling on Tuesday. He rode to the rainwater-filled Sukna Lake and then embarked on his morning walk. A government spokesperson informed that during his walk, CM Saini interacted ... Read more Haryana CM Promotes Fuel Conservation by Cycling to Sukna Lake",
+      "link": "https://udaipurkiran.com/haryana-cm-promotes-fuel-conservation-by-cycling-to-sukna-lake/",
+      "source": "Udaipur Kiran",
+      "image": "https://udaipurkiran.com/wp-content/uploads/2026/05/haryana-cm-promotes-fuel-conservation-by-cycling-to-sukna-lake-1.webp",
+      "published": "2026-05-19 04:17:41",
       "category": [
+        "top",
+        "environment",
         "business"
       ],
       "country": [
-        "malaysia"
+        "india"
       ]
     }
   ]

@@ -1,19 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "LinkedIn Data Reveals the 5 Skills Redefining Communications in the AI Age \u2013 PRNEWS",
-      "description": "AI isn't just changing how people work\u2014it's rewriting what communicators are expected to be. For comms professionals, the set of tasks and the skills required are changing. In so many ways. But let\u2019s start with one of the most important: content is easier to produce, but harder than ever to get right and to reach the right audience at scale. That shift is sharpening the focus on what strong communicators actually need to do well. \"Storytellers\" Are in Demand Companies are taking notice, with the role of a communicator going beyond just message development toward storytelling. On LinkedIn, job postings that mention \u201cstoryteller\u201d have doubled over the last year. Companies like Anthropic, Chime, Vanta and PayPal are hiring for a new kind of communicator, someone who combines earned media instincts with content creation, social fluency and cross-functional leadership. Notion went one step further, merging comms, social and influencer teams into one single storytelling function. That\u2019s more than a structural change, it\u2019s a signal that storytelling today is cross-channel, cross-functional and deeply tied to how businesses show up in the world. The same shift is happening at the individual level. More professionals, executives and creators are building audiences directly on LinkedIn\u2014using video",
-      "link": "https://socialnetworkrelease.com/linkedin-data-reveals-the-5-skills-redefining-communications-in-the-ai-age-prnews/",
-      "source": "Social Network Release",
+      "title": "Telstra and Ericsson to jointly research and test 6G",
+      "description": null,
+      "link": "https://www.itnews.com.au/news/telstra-and-ericsson-to-jointly-research-and-test-6g-625974",
+      "source": "Itnews",
       "image": null,
-      "published": "2026-05-18 16:59:00",
+      "published": "2026-05-18 20:35:00",
       "category": [
         "technology"
       ],
       "country": [
-        "united states of america"
+        "australia"
+      ]
+    },
+    {
+      "title": "'I'm sorry Dave': NASA is working on an AI chip to help next-generation spacecraft think for themselves \u2014 so clearly they haven't seen 2001: A Space Odyssey",
+      "description": "NASA developed a powerful autonomous spacecraft processor designed to improve deep-space decision-making without constant Earth communication.",
+      "link": "https://www.techradar.com/pro/im-sorry-dave-once-again-nasa-is-working-on-an-ai-chip-to-help-next-generation-spacecraft-think-for-themselves-clearly-they-havent-seen-2001-a-space-odyssey",
+      "source": "Techradar Sg",
+      "image": "https://cdn.mos.cms.futurecdn.net/HeA6hhhXhn7W6MAj3j4RWk-1280-80.png",
+      "published": "2026-05-18 20:35:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
       ]
     }
   ]

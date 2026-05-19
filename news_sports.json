@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "TexAgs Rewind (5/18)",
-      "description": "Monday's edition of the rewind heard TexAgs columnist Olin Buchanan, Texas A&M head baseball coach Michael Earley, former Texas A&M infielder John Scheschuk and TexAgs co-owner Billy Liucci.",
-      "link": "https://texags.com/s/76292/texags-rewind-518",
-      "source": "Texags",
-      "image": "https://texags.blob.core.windows.net/photos/0262921-tvjp-1280x720.jpg",
-      "published": "2026-05-18 12:04:00",
+      "title": "Oregon infielder Ryan Cooney celebrates a double as the Oregon Ducks host the USC Trojans on May 14, 2026, in Eugene, Oregon.",
+      "description": null,
+      "link": "https://www.si.com/college/oregon/baseball/oregon-ducks-big-ten-baseball-tournament-bracket-tracker-schedule",
+      "source": "Si",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1563,h_879,x_1031,y_196/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/ducks_digest/01krwcdzwmeshppxeznd.jpg",
+      "published": "2026-05-18 16:58:53",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kansas State Wildcats guard Andrej Kostic (47) dribbles up court against Kansas Jayhawks during the Sunflower Showdown game inside Allen Fieldhouse in Lawrence, Kansas, on Saturday, March 7, 2026.",
+      "description": null,
+      "link": "https://www.si.com/college/kstate/latest-news/casey-alexander-sees-major-potential-in-andrej-kostic-at-k-state-01krxy5ksqc4",
+      "source": "Si",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4710,h_2649,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/kstate/01krxykjw78dwc9v37yt.jpg",
+      "published": "2026-05-18 16:58:48",
       "category": [
         "sports"
       ],

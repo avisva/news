@@ -1,42 +1,28 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Can a water leak detector save you from costly water damage?",
-      "description": "Water leak detectors promise peace of mind from water leaks when you are away. But are they worth buying? And is a simple $50 kit as good as an installed $1,000 system?",
-      "link": "https://www.wcpo.com/money/consumer/dont-waste-your-money/can-a-water-leak-detector-save-you-from-costly-water-damage",
-      "source": "Wcpo",
+      "title": "Reeves 3p pay-per-mile update as 'rules keep changing'",
+      "description": "Chancellor Rachel Reeves announced the new 3p pay-per-mile electric vehicle road tax at November's Budget",
+      "link": "https://www.express.co.uk/finance/personalfinance/2206789/reeves-3p-pay-per-mile-update-rules-keep-changing",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/23/590x/2206789_1.jpg",
+      "published": "2026-05-18 12:04:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "NextEra-Dominion $190bn merger creates world's largest regulated utility as AI power race intensifies",
+      "description": null,
+      "link": "https://finance.yahoo.com/sectors/energy/articles/nextera-dominion-190bn-merger-creates-120400871.html",
+      "source": "Yahoo Finance",
       "image": null,
-      "published": "2026-05-18 10:00:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Inside Lucy Guo\u2019s Workplace Strategy for Building Retention",
-      "description": "The Passes founder says an emphasis on \u201cemotional\u201d retention changed her company culture for the better.",
-      "link": "https://www.inc.com/sarah-lynch/inside-lucy-guos-workplace-strategy-for-building-retention/91339389",
-      "source": "Inc",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/05/inc-best-workplaces-2026-lucy-guo.jpg",
-      "published": "2026-05-18 10:00:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "AI Slop Is Making Everyone Skeptical. Here Are 3 Ways CEOs Can Build Trust in AI",
-      "description": "Governance and responsibility are non-negotiables, says Mark Surman, president of Mozilla.",
-      "link": "https://www.inc.com/stephanie-mehta/ai-slop-is-making-everyone-skeptical-here-are-3-ways-ceos-can-build-trust-in-ai/91345531",
-      "source": "Inc",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/05/p-1-91543169-modern-ceo-mark-surman.jpg",
-      "published": "2026-05-18 10:00:00",
+      "published": "2026-05-18 12:04:00",
       "category": [
         "business"
       ],

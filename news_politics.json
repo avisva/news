@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "From Basket Weaving to Oyster Reef Conservation, Gullah Geechee Women Are Preserving a Living Heritage",
+      "description": "Along America\u2019s southeastern coast, descendants of enslaved Africans pass down traditions and knowledge of crafts, ecology and food through generations",
+      "link": "https://www.smithsonianmag.com/travel/from-basket-weaving-to-oyster-reef-conservation-gullah-geechee-women-are-preserving-a-living-heritage-180988762/",
+      "source": "Smithsonian Magazine",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/HT6pHYOdaI_l589P9hk5dodEelk=/1280x1280/filters:focal(1000x667:1001x668)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/1c/b21cc915-7750-49ab-a4de-285addb10696/gullah_geechee_basket_weaving.jpg",
+      "published": "2026-05-19 17:02:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Obi Emerges Sole NDC Presidential Aspirant For 2027",
+      "description": "Former Labour Party presidential candidate, Peter Obi, is poised to emerge as the presidential flagbearer of the Nigeria Democratic Congress (NDC) after he became the sole aspirant to purchase the party\u2019s Expression of Interest and Nomination forms ahead of the 2027 general election. The development comes amid widening cracks within Nigeria\u2019s opposition bloc, following the [...]",
+      "link": "https://leadership.ng/obi-emerges-sole-ndc-presidential-aspirant-for-2027/",
+      "source": "Leadership",
+      "image": "https://leadership.ng/wp-content/uploads/2026/01/Peter-Obi.webp",
+      "published": "2026-05-19 17:02:57",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "El-Rufai interview played in court over Ribadu claim",
+      "description": "A Federal High Court in Abuja heard El-Rufai\u2019s Arise TV interview in evidence over an alleged wiretapped conversation involving NSA Nuhu Ribadu. The post El-Rufai interview played in court over Ribadu claim appeared first on The Sun Nigeria .",
+      "link": "https://thesun.ng/el-rufai-interview-played-in-court-over-ribadu-claim/",
+      "source": "The Sun Nigeria",
+      "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/05/Nasir-El-Rufai-2.webp",
+      "published": "2026-05-19 17:02:55",
+      "category": [
+        "top",
+        "politics",
+        "crime"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

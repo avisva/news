@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Emily sold pink buns as a teenager to raise cash for cancer research - but now she's been given her own devastating diagnosis",
+      "description": "Emily Harrison-Suhr, 31, was diagnosed with metastatic breast cancer five years ago after finding a strange lump in her breast.",
+      "link": "https://www.dailymail.com/news/article-15813531/emily-harrison-suhr-melbourne-breast-cancer-bakers-delight-pink-bun-campaign.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/05/14/04/108596541-0-image-a-51_1778730900790.jpg",
+      "published": "2026-05-20 04:23:31",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

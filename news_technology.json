@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Claude was the nice guy of AI \u2013 what changed?",
-      "description": "The narrative around Anthropic\u2019s Claude, initially perceived as the \u201cethical AI company,\u201d has recently shifted due to concerns over perceived hypocrisy, aggressive ambition, model degradation, platform restrictions, and vendor lock-in risk, causing customers and developers to seek alternatives, says Lewis Liu Working title: Claude Was the Intellectual Nice Guy of AI. Then Something Shifted \u201cYou [...]",
-      "link": "https://www.cityam.com/claude-was-the-nice-guy-of-ai-what-changed/",
-      "source": "City A.m.",
-      "image": "https://www.cityam.com/wp-content/uploads/2026/05/Claude-AI-e1779190315910.jpg",
-      "published": "2026-05-20 04:24:00",
+      "title": "Merritronix Limited IPO (Merritronix IPO)",
+      "description": "Merritronix Limited is an Electronics Systems Design and Manufacturing (ESDM) company specializing in high-reliability and mission-critical electronic assemblies for defence, aerospace, telecom, and industrial electronics sectors. The company provides end-to-end B2B electronic manufacturing services, including component sourcing, PCB assembly, system integration, testing, box-build assembly, and delivery of finished electronic products, all designed to meet the [...]",
+      "link": "https://ipohub.in/merritronix-limited-ipo-merritronix-ipo/",
+      "source": "Ipohub",
+      "image": "https://ipohub.in/wp-content/uploads/2026/05/Merritronix-IPO-1-696x391.jpeg",
+      "published": "2026-05-20 07:22:49",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "india"
+      ]
+    },
+    {
+      "title": "Leaving your SSD in the front panel ruins its speed and lifespan",
+      "description": "If you own an external SSD, you\u2019re already ahead of the curve when it comes to following the 3-2-1 rule for backups. But while using an external SSD is as easy as just plugging it in and drag-and-dropping some files, you might be hindering its performance by plugging it in at the front. Read More",
+      "link": "https://www.madshrimps.be/news/leaving-your-ssd-in-the-front-panel-ruins-its-speed-and-lifespan/",
+      "source": "Madshrimps",
+      "image": null,
+      "published": "2026-05-20 07:22:44",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "belgium"
       ]
     }
   ]

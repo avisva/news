@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "3 Best Smart Ring Brands: Oura, RingConn, and Samsung (2026)",
+      "description": "A svelte smart ring can track important activity, sleep, and health metrics. Plus\u2014unlike most smartwatches\u2014it doesn\u2019t need to be charged every day.",
+      "link": "https://www.wired.com/gallery/best-smart-rings/",
+      "source": "Wired",
+      "image": "https://media.wired.com/photos/6a0cb118e28d6d0653346e6f/16:9/w_1200,h_675,c_limit/Update%20Best%20Smart%20Rings%20top%20art%20052026%20SOURCE%20Oura-RingConn-Samsung.jpg",
+      "published": "2026-05-21 11:01:00",
+      "category": [
+        "health",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

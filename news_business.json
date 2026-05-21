@@ -1,64 +1,94 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Tokyo stocks surge, Nikkei up 3%, on Middle East hopes",
-      "description": "Tokyo stocks surged on Thursday, with the Nikkei stock index up over 3 percent, as hopes for a settlement in the Middle East confl Read full story here",
-      "link": "https://english.kyodonews.net/articles/-/76424",
-      "source": "Kyodo News",
-      "image": "https://english-kyodo.ismcdn.jp/mwimgs/0/8/-/img_084361df175ca0cb45171a9346a5b423301662.jpg",
-      "published": "2026-05-21 03:20:00",
+      "title": "Silver Rebounds to \u20b9285/g on May 21 After Recent Pullback: Check Latest City-Wise Rates",
+      "description": null,
+      "link": "https://www.5paisa.com/news/silver-price-on-may-21-2026",
+      "source": "5paisa",
+      "image": "https://storage.googleapis.com/5paisa-prod-storage/files/2026-05/Silver%20Main_11.webp",
+      "published": "2026-05-21 05:55:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "japan"
+        "india"
       ]
     },
     {
-      "title": "How America\u2019s FinTech Ecosystem Actually Fits Together",
-      "description": "Most ecosystem maps of U.S. FinTech are wall art. They put hundreds of logos on a slide, group them into pretty boxes, and call it a market view. The real ecosystem is messier and more interesting. It is a layered system where infrastructure providers, banks, regulators, and consumer brands sit in uneven tension, each pulling [...] The post How America\u2019s FinTech Ecosystem Actually Fits Together appeared first on TechBullion .",
-      "link": "https://techbullion.com/how-americas-fintech-ecosystem-actually-fits-together/",
-      "source": "Techbullion",
-      "image": "https://techbullion.com/wp-content/uploads/2026/05/hero-748316.jpg",
-      "published": "2026-05-21 03:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Eureka Robotics\u3001\u300cROBOT TECHNOLOGY JAPAN 2026\u300d\u306b\u51fa\u5c55",
-      "description": "Eureka Robotics\u3001\u300cROBOT TECHNOLOGY JAPAN 2026\u300d\u306b\u51fa\u5c55 \u30a8\u30a6\u30ec\u30ab\u30ed\u30db\u3099\u30c6\u30a3\u30c3\u30af\u30b9\u682a\u5f0f\u4f1a\u793e\u306e\u30d5\u309a\u30ec\u30b9\u30ea\u30ea\u30fc\u30b9",
-      "link": "https://prtimes.jp/main/html/rd/p/000000009.000153512.html",
-      "source": "Pr Times",
-      "image": "https://prcdn.freetls.fastly.net/release_image/153512/9/153512-9-3d54cd44109d51182b093e435fc55432-3900x2504.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "published": "2026-05-21 03:19:48",
-      "category": [
-        "technology",
-        "business"
-      ],
-      "country": [
-        "japan"
-      ]
-    },
-    {
-      "title": "LASG recovers N450m for consumers, prosecutes erring businesses",
-      "description": "Lagos State Government, yesterday, said it had recovered more than N450 million for consumers through interventions",
-      "link": "https://guardian.ng/news/lasg-recovers-n450m-for-consumers-prosecutes-erring-businesses/",
-      "source": "The Guardian",
-      "image": "https://cdn.guardian.ng/wp-content/uploads/2026/05/Folashade-Medebem.jpg",
-      "published": "2026-05-21 03:19:47",
+      "title": "Ghana\u2019s economic activity strengthens, but business confidence eases to 12.6% \u2013 BoG",
+      "description": "Economic activity in Ghana recorded a strong improvement in the first quarter of 2026, with the Bank of Ghana\u2019s Composite Index of Economic Activity (CIEA) expanding by 12.6% year-on-year in March 2026. This marks a sharp rise from the 2.3% growth recorded during the same period in 2025. According to the Bank\u2019s latest real sector [...] The post Ghana\u2019s economic activity strengthens, but business confidence eases to 12.6% \u2013 BoG appeared first on Ghanamma.com .",
+      "link": "https://www.ghanamma.com/2026/05/21/ghanas-economic-activity-strengthens-but-business-confidence-eases-to-12-6-bog/",
+      "source": "Ghanamma",
+      "image": "https://www.ghanamma.com/wp-content/uploads/2026/05/makola.jpg",
+      "published": "2026-05-21 05:54:58",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "nigeria"
+        "ghana"
+      ]
+    },
+    {
+      "title": "Melody diplomacy sweetens India\u2019s toffee exports",
+      "description": null,
+      "link": "https://www.thehansindia.com/business/melody-diplomacy-sweetens-indias-toffee-exports-1077767",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/05/21/1657317-toffee.webp",
+      "published": "2026-05-21 05:54:48",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "NCLAT says NCLT cannot directly order SFIO Probe; refers matter to Centre",
+      "description": "The National Company Law Appellate Tribunal (NCLAT) has held that the National Company Law Tribunal (NCLT) could not directly order an investigation by the Serious Fraud Investigation Office (SFIO) and clarified that such power rests with the Central Government under the Companies Act.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/nclat-says-nclt-cannot-directly-order-serious-fraud-probe-refers-matter-to-centre/articleshow/131240689.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-131240825,resizemode-4,width-1200,height-900,imgsize-46876,overlay-economictimes/articleshow.jpg",
+      "published": "2026-05-21 05:54:44",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Consumer discretionary churn: Why Ambit likes Titan, Trent over QSR, SMIDs",
+      "description": "Ambit said crude-linked RM inflation is expected to impact companies unevenly, with margin outcomes depending on pricing strategy, balance sheet strength, and operating leverage",
+      "link": "https://www.business-standard.com/markets/news/consumer-discretionary-churn-why-ambit-likes-titan-trent-over-qsr-smids-126052100407_1.html",
+      "source": "Business Standard",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/04/full/1777876617-3225.jpeg",
+      "published": "2026-05-21 05:54:33",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Indian Rupee bounces back due to RBI\u2019s intervention, sharp correction in oil prices",
+      "description": "The Indian Rupee (INR) extends its recovery against the US Dollar (USD) on Thursday after underperforming for almost two weeks.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-bounces-back-due-to-rbis-intervention-sharp-correction-in-oil-prices-202605210554",
+      "source": "Fxstreet",
+      "image": "https://editorial.fxsstatic.com/images/i/india-02.jpg",
+      "published": "2026-05-21 05:54:29",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "spain"
       ]
     }
   ]

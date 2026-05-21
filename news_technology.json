@@ -1,24 +1,48 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Vivo Y600 Turbo set to launch on May 25, here\u2019s what to expect",
-      "description": "Last month, Vivo unveiled the Vivo Y600 Pro equipped with a massive 10,200mAh battery. The brand has now started teasing a new phone dubbed the Vivo Y600 Turbo. Here\u2019s a look at what to expect from the upcoming device. Vivo Y600 Turbo specifications (expected) The poster above confirms that the Vivo Y600 Turbo will be [...] The post Vivo Y600 Turbo set to launch on May 25, here\u2019s what to expect appeared first on Gizmochina .",
-      "link": "https://www.gizmochina.com/2026/05/21/vivo-y600-turbo-launch-date-confirmed/",
-      "source": "Gizmochina",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/05/VIvo-Y600-Turbo.jpg",
-      "published": "2026-05-21 05:54:39",
+      "title": "QIAGEN and NVIDIA Join Forces to Advance AI-Driven Drug Discovery",
+      "description": "QIAGEN\u2019s Digital Insights bioinformatics division is set to integrate NVIDIA\u2019s accelerated computing infrastructure and the BioNeMo platform to strengthen AI-driven drug discovery capabilities for pharmaceutical and biotechnology researchers. The collaboration aims to make AI more actionable in research settings by combining advanced bioinformatics tools with curated biomedical knowledge bases. The partnership is designed to help [...] The post QIAGEN and NVIDIA Join Forces to Advance AI-Driven Drug Discovery first appeared on World Pharma Today .",
+      "link": "https://www.worldpharmatoday.com/news/qiagen-and-nvidia-join-forces-to-advance-ai-driven-drug-discovery/",
+      "source": "World Pharma Today",
+      "image": "https://www.worldpharmatoday.com/wp-content/uploads/2026/05/AI-driven-drug-discovery.webp",
+      "published": "2026-05-21 07:52:54",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "GitHub Hack: Internal Repositories Compromised via Employee Device",
+      "description": "GitHub, the popular developer platform owned by Microsoft, has confirmed unauthorised access to its internal repositories who stole data from around 3,800 of them. The code hosting and sharing company detected a compromised employee device infected through a malicious video studio code extension. In a series of posts on X, the company said it had [...] The post GitHub Hack: Internal Repositories Compromised via Employee Device appeared first on CXOToday.com .",
+      "link": "https://cxotoday.com/cybersecurity/github-hack-internal-repositories-compromised-via-employee-device/",
+      "source": "Cxotoday",
+      "image": "https://cxotoday.com/wp-content/uploads/2020/07/cyberattacks.jpg",
+      "published": "2026-05-21 07:52:51",
       "category": [
         "technology"
       ],
       "country": [
-        "india",
-        "singapore",
-        "australia",
-        "united kingdom",
-        "china",
-        "canada",
+        "india"
+      ]
+    },
+    {
+      "title": "IGEL and Zscaler Release Healthcare Security Blueprints for Distributed Care Delivery",
+      "description": "New joint blueprints help healthcare organizations modernize infrastructure by extending a secure, immutable endpoint OS foundation into SASE architectures IGEL, a global software company delivering the Adaptive Secure Endpoint PlatformTM, announced the availability of new healthcare security blueprints developed in partnership with Zscaler, the leader in cloud security. Introduced at... The post IGEL and Zscaler Release Healthcare Security Blueprints for Distributed Care Delivery appeared first on CIO Influence .",
+      "link": "https://cioinfluence.com/security/igel-and-zscaler-release-healthcare-security-blueprints-for-distributed-care-delivery/",
+      "source": "Cio Influence",
+      "image": null,
+      "published": "2026-05-21 07:52:47",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
         "united states of america"
       ]
     }

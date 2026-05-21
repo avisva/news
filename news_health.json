@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Evidence still not strong enough to say shingles vaccine reduces risk of dementia, says Hiqa",
+      "description": null,
+      "link": "https://www.independent.ie/irish-news/health/evidence-still-not-strong-enough-to-say-shingles-vaccine-reduces-risk-of-dementia-says-hiqa/a/152161680.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-05-20 15:30:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "ireland"
+      ]
+    }
+  ]
 }

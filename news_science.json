@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Put The Moon On Your Desk - Hackaday",
+      "description": null,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KRUhrTmNGXzFqQUNubHd1X3VDa1lDWGFESVpHTnAyUG55MlVRVFpoMGxldWYyb1dTakFRQlhyODQzRjJ3Y2p1dm4zcnZ4ZFVNeVFlTTY3eHlHNHROWHRyN2ZBQU5odVdKSlE?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-05-20 15:30:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "HD Hyundai and TerraPower Sign Natrium\u00ae Reactor Supply Framework Agreement",
+      "description": "Signed Agreement to establish Natrium reactor supply chain for serial production based on a year-long joint study HD Hyundai selected as a preferred manufacturer to supply Natrium Reactor Enclosure System (RES) components leveraging its world-class fabrication capabilities, industrial production expertise,... The post HD Hyundai and TerraPower Sign Natrium\u00ae Reactor Supply Framework Agreement appeared first on Kosmo Digital .",
+      "link": "https://www.kosmo.com.my/2026/05/20/hd-hyundai-and-terrapower-sign-natrium-reactor-supply-framework-agreement/",
+      "source": "Kosmo Digital",
+      "image": "https://www.kosmo.com.my/wp-content/uploads/prnewswire/prnewswire.png",
+      "published": "2026-05-20 15:30:00",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    }
+  ]
 }

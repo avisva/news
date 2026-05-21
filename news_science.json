@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The Neural Basis of Thought Symbols Identified for the First Time",
+      "description": "Researchers have discovered the first evidence of the neural substrates that underlie the basic units of thought. They located this activity in the ventral premotor cortex, which appears to mediate between the prefrontal cortex, where higher-level thinking occurs, and the motor cortex, which enables movement. The findings illuminate fundamental properties of neural function and have implications for improving computer-brain interfaces and studying brain disorders.",
+      "link": "https://www.newswise.com/articles/the-neural-basis-of-thought-symbols-identified-for-the-first-time/?sc=rsla",
+      "source": "Newswise",
+      "image": "https://www.newswise.com/assets/new/img/Newswise-Logo.png",
+      "published": "2026-05-20 23:20:42",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

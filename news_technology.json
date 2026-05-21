@@ -1,5 +1,41 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "ChartAnimator Launches as the Only Animated Candlestick Chart Maker",
+      "description": "Financial educators and trading course creators switch to ChartAnimator to automate bar-by-bar market animations and Smart Money Concept visuals in minutes.",
+      "link": "https://www.financialcontent.com/article/marketersmedia-2026-5-20-chartanimator-launches-as-the-only-animated-candlestick-chart-maker",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-05-20 23:21:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Factbird erweitert seine Manufacturing-Intelligence-Plattform um Quality & Compliance sowie Reports",
+      "description": null,
+      "link": "http://www.businesswire.com/news/home/20260519415481/de/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA%3D%3D",
+      "source": "Businesswire",
+      "image": null,
+      "published": "2026-05-20 23:21:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "germany",
+        "australia",
+        "united kingdom",
+        "china",
+        "canada",
+        "france",
+        "united states of america",
+        "japan"
+      ]
+    }
+  ]
 }

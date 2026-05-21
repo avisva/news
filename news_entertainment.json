@@ -1,16 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "A depressing regional literary view",
+      "title": "The Funny Time Brad Pitt Didn\u2019t Believe Leonardo DiCaprio Was Pointing Out His Real Parents In Once Upon A Time In Hollywood Scene",
       "description": null,
-      "link": "https://www.dailycourier.com/opinion/a-depressing-regional-literary-view/article_f606129e-f228-46cc-ba15-474b8d075473.html",
-      "source": "Daily Courier",
-      "image": null,
-      "published": "2026-05-20 19:49:00",
+      "link": "https://www.cinemablend.com/movies/brad-pitt-thought-leonardo-dicaprio-parents-extras-once-upon-a-time-in-hollywood",
+      "source": "Cinemablend",
+      "image": "https://cdn.mos.cms.futurecdn.net/968pJhdGxommKriBsePdjT-1280-80.jpg",
+      "published": "2026-05-20 23:21:00",
       "category": [
-        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Stephen Colbert Gets Real About Where He Stands With Paramount\u2019s CEO Following The Late Show\u2019s Cancellation",
+      "description": null,
+      "link": "https://www.cinemablend.com/television/stephen-colbert-explains-standing-with-paramount-ceo-after-the-late-show-cancellation",
+      "source": "Cinemablend",
+      "image": "https://cdn.mos.cms.futurecdn.net/BfgzfVLQcQF24bM5VrxmTe-1280-80.jpg",
+      "published": "2026-05-20 23:21:00",
+      "category": [
         "entertainment"
       ],
       "country": [

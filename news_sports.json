@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "THURSDAY'S HIGH SCHOOL ROUNDUP: Union High softball team rolls to WPIAL Class 1A championship game berth",
+      "description": "The Union High softball team is heading back to the WPIAL Class 1A championship game.",
+      "link": "https://www.ncnewsonline.com/sports/thursdays-high-school-roundup-union-high-softball-team-rolls-to-wpial-class-1a-championship-game/article_00cf085d-557c-4362-8c49-f6932dbb6e61.html",
+      "source": "Nc News Online",
+      "image": "https://bloximages.chicago2.vip.townnews.com/ncnewsonline.com/content/tncms/assets/v3/editorial/f/53/f5399680-4282-11e9-84f9-4b7bd293ba69/6747882fa0df2.image.jpg",
+      "published": "2026-05-21 22:48:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

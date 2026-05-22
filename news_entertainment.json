@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "\u2018Like I\u2019m back in China\u2019: Cheng Lei accuses arts festival of censorship",
+      "description": "Imprisoned for three years in China, Australian Cheng Lei says she now feels like she\u2019s being silenced again.",
+      "link": "https://www.theage.com.au/culture/theatre/like-i-m-back-in-china-cheng-lei-accuses-arts-festival-of-censorship-20260203-p5nz4a.html",
+      "source": "The Age",
+      "image": "https://static.ffx.io/images/$zoom_0.3755%2C$multiply_0.7025%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f6436a5da2699ea9ac64658f361a3c5334fdb440",
+      "published": "2026-05-22 01:30:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "\u2018Like I\u2019m back in China\u2019: Cheng Lei accuses arts festival of censorship",
+      "description": "Imprisoned for three years in China, Australian Cheng Lei says she now feels like she\u2019s being silenced again.",
+      "link": "https://www.smh.com.au/culture/theatre/like-i-m-back-in-china-cheng-lei-accuses-arts-festival-of-censorship-20260203-p5nz4a.html",
+      "source": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$zoom_0.3755%2C$multiply_0.7025%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f6436a5da2699ea9ac64658f361a3c5334fdb440",
+      "published": "2026-05-22 01:30:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

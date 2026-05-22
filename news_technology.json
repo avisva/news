@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "The SpaceX Starship V3 Set for Liftoff Today: What to Know",
-      "description": "SpaceX, founded by Elon Musk, is getting ready for the 12th test flight of its Starship rocket ahead of the company's plans to go public in June.",
-      "link": "https://www.cnet.com/science/space/elon-musk-spacex-starship-v3-set-for-liftoff-today/",
-      "source": "Cnet",
-      "image": "https://www.cnet.com/a/img/resize/70dbb2500033a6669283648a6bfbf2e45103c7d7/hub/2025/10/14/a6d62cac-656b-4997-bece-18be4c5c888a/starship-flight-test-11-clean.jpg?auto=webp&fit=crop&height=614&width=1092",
-      "published": "2026-05-21 22:48:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

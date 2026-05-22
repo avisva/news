@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Oppo Find X9 Ultra, Find X9s launched in India with 7,050mAh battery: Prices, camera, features, and performance",
+      "description": "Oppo Find X9 Ultra, Find X9s: The Find X9 Ultra is priced at Rs 1,69,999, while the Find X9s starts at Rs 79,999. Both phones will go on sale on May 30 across Amazon, Flipkart, and Oppo's own website.",
+      "link": "https://zeenews.india.com/technology/oppo-find-x9-ultra-find-x9s-launched-in-india-with-7050mah-battery-prices-camera-features-and-performance-3049486.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/05/22/1945943-oppo-find-x9s-ultra.jpg?im=Resize=(1200,900)",
+      "published": "2026-05-22 04:24:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Delhi-Noida International Airport in just 21 minutes: New RRTS corridor plan moves ahead, proposal to connect Jewar via bullet train",
+      "description": "The proposed high-speed corridor is expected to cut travel time between the capital and the airport to around 21 minutes.",
+      "link": "https://www.financialexpress.com/business/infrastructure-delhi-noida-international-airport-in-just-21-minutes-new-rrts-corridor-plan-moves-ahead-proposal-to-connect-jewar-via-bullet-train-4247950/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/05/NewRRTS-corridorplan.jpg",
+      "published": "2026-05-22 04:23:58",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

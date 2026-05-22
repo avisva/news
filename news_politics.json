@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "\u2018I\u2019ll Be Taken To Tihar Jail The Moment I Land In Delhi\u2019: Cockroach Janta Party Founder Abhijeet Dipke",
+      "description": "Cockroach Janta Party founder Abhijeet Dipke says he fears arrest in Delhi as the satirical party gains Gen Z support.",
+      "link": "https://www.news18.com/india/ill-be-taken-to-tihar-jail-the-moment-i-land-in-delhi-cockroach-janta-party-founder-abhijeet-dipke-ws-l-10105431.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/cockroach-janta-party-1-2026-05-c66bb07b9971d37d20413f65e2468143-1200x800.png",
+      "published": "2026-05-22 06:51:49",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Singing of 'Vande Mataram' compulsory in all schools, madrasas in Bengal: Dilip Ghosh",
+      "description": "West Bengal mandates 'Vande Mataram' singing in all schools and madrasas, sparking resistance from some minority groups.",
+      "link": "https://www.thehindu.com/news/national/west-bengal/singing-of-vande-mataram-compulsory-in-all-schools-madrasas-in-bengal-dilip-ghosh/article71009507.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/lhs6rx/article71009545.ece/alternates/FREE_1200/20260407204L.jpg",
+      "published": "2026-05-22 06:51:34",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "British mother's horror as she finds man, 33, 'kissing and hugging' her four-year-old son in Magaluf hotel pool",
+      "description": "The Romanian 33-year-old was detained after allegedly going up to the youngster and hugging and kissing him on the face in front of stunned holidaymakers.",
+      "link": "https://www.dailymail.com/news/article-15839887/British-mothers-horror-finds-man-33-kissing-hugging-four-year-old-son-Magaluf-hotel-pool.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/05/22/07/108794257-0-image-a-10_1779432280646.jpg",
+      "published": "2026-05-22 06:51:33",
+      "category": [
+        "top",
+        "politics",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

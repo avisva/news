@@ -1,46 +1,301 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 23,
   "results": [
     {
-      "title": "Eleven people, including teenager, injured in Russian strikes on Sumy Oblast \u2013 photos",
-      "description": "Russian forces attacked Sumy Oblast over the past day, injuring 11 people, including a 13-year-old boy.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/05/22/8035874/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/3/833458/a3e39b3315c352a70a085b74c01b5028.jpeg",
-      "published": "2026-05-22 04:24:00",
+      "title": "Amir congratulates chairman of Yemeni Presidential Leadership Council",
+      "description": "DOHA: His Highness the Amir of the State of Qatar Sheikh Tamim bin Hamad Al Thani sent a cable of congratulations to Chairman of the Presidential Leadership Council of the sisterly...",
+      "link": "https://www.qatar-tribune.com/article/235702/latest-news/amir-congratulates-chairman-of-yemeni-presidential-leadership-council",
+      "source": "Qatar Tribune",
+      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/05/22/363704.png",
+      "published": "2026-05-22 06:52:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "qatar"
+      ]
+    },
+    {
+      "title": "Invitation to presentation of Sectra's year-end report 2025/2026",
+      "description": "LINKO\u0308PING, Sweden, May 22, 2026 /PRNewswire/ -- International medical imaging IT and cybersecurity company Sectra (STO: SECT B) invites investors, analysts, and the media to a presentation of the company's year-end report with President Torbjo\u0308rn Kronander and CFO Jessica Holmquist....",
+      "link": "https://www.prnewswire.com/news-releases/invitation-to-presentation-of-sectras-year-end-report-20252026-302779924.html",
+      "source": "Pr Newswire",
+      "image": null,
+      "published": "2026-05-22 06:52:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Benchmark Bond Yield Slips Ahead Of Debt Sale",
+      "description": "Indian government bond yields eased on May 22 after recent sharp gains",
+      "link": "https://www.5paisa.com/news/benchmark-bond-yield-slips-ahead-of-debt-sale",
+      "source": "5paisa",
+      "image": "https://storage.googleapis.com/5paisa-prod-storage/files/2026-05/bonddd.webp",
+      "published": "2026-05-22 06:52:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Canadiens thrash well-rested \u2019Canes",
+      "description": "RALEIGH, N.C. -- The Montreal Canadiens never flinched in winning two Game 7s on the road to reach the Eastern Conference final. Opening on the road again was no different, even against a well-rested top seed that had yet to lose in the postseason.",
+      "link": "https://www.nwaonline.com/news/2026/may/22/canadiens-thrash-well-rested-canes/",
+      "source": "Nwaonline",
+      "image": null,
+      "published": "2026-05-22 06:52:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Buy Metro Brands; target of Rs 1250: Emkay Global Financial",
+      "description": "Emkay Global Financial is bullish on Metro Brands has recommended buy rating on the stock with a target price of Rs 1250 in its research report dated May 22, 2026.",
+      "link": "https://www.moneycontrol.com/news/business/stocks/buy-metro-brands-target-of-rs-1250-emkay-global-financial-13927740.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png",
+      "published": "2026-05-22 06:51:59",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Brown rice vs white rice vs chapati: Which is the healthiest for daily meals and weight loss?",
+      "description": "Rice and chapati are staples in Indian meals, with health benefits varying by type, preparation, and portion size. Brown rice offers more fiber for satiety, white rice is easily digestible, and whole wheat chapati provides a balanced option. The best choice for weight loss depends on individual fullness and satisfaction, emphasizing balanced meals over isolated grain choices.",
+      "link": "https://timesofindia.indiatimes.com/life-style/food-news/brown-rice-vs-white-rice-vs-chapati-which-is-the-healthiest-for-daily-meals-and-weight-loss/articleshow/131257505.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131257589/131257589.jpg",
+      "published": "2026-05-22 06:51:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Himachal Pradesh to study Bengaluru\u2019s urban development model",
+      "description": "Himachal Public Works and Urban Development Minister Vikramaditya Singh on Thursday hailed the Karnataka government\u2019s efforts in the urban development sector, emphasising that many of the initiatives...",
+      "link": "https://www.thehansindia.com/news/national/himachal-pradesh-to-study-bengalurus-urban-development-model-1078148",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/05/22/1657695-hp.webp",
+      "published": "2026-05-22 06:51:57",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Veterinary API Market Strategic Partnerships Transforming Global Competition",
+      "description": "The global Veterinary API Market is witnessing substantial growth as pharmaceutical manufacturers increase investments in animal healthcare innovation, contract manufacturing, and advanced drug development. The market was [read full press release...]",
+      "link": "https://express-press-release.net/news/2026/05/22/1754389",
+      "source": "Express-press-release",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "published": "2026-05-22 06:51:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "2-time NASCAR champion Kyle Busch has died at 41, NASCAR says",
+      "description": "2-time NASCAR champion Kyle Busch hospitalized with severe illness, family says",
+      "link": "https://gulfnews.com/sport/motorsport/7th-ld-writethru-253-1.500549042",
+      "source": "Gulf News",
+      "image": "https://gumlet-images.assettype.com/gulfnews/2026-05-21/z6s5tffc/preview.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-05-22 06:51:54",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Delhi Government Issues Strict Guidelines for Bakra Eid Celebrations",
+      "description": "As Bakra Eid approaches, the Delhi government has announced stringent regulations to ensure public safety and cleanliness during the festival. With the celebration expected on May 27, officials are emphasizing the prohibition of illegal animal sacrifices and the importance of proper waste disposal. Residents are encouraged to report any violations to authorities. This article outlines the key guidelines and the government's commitment to maintaining order during the festivities.",
+      "link": "https://gyanhigyan.com/national/delhi-government-issues-strict-guidelines-for-bakra-eid/cid18719725.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/88916a7a13cb47e1a849c8298822ffec.jpeg?width=1280&height=720&resizemode=4",
+      "published": "2026-05-22 06:51:51",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "LG India expects mid-teen revenue growth in FY27 after dampened year as localization increases",
+      "description": "LG Electronics India's record quarterly profit came after broad-based demand recovery as the company rolled out products in the premium and budget-friendly segments.",
+      "link": "https://www.livemint.com/companies/news/lg-electronics-india-fy27-growth-outlook-price-hike-air-conditioners-11779424246385.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/22/1600x900/logo/LG-DISPLAY-RESULTS--0_1726299802013_1779431397928_38a6674f-704a-43da-93aa-219df1cf23df.JPG",
+      "published": "2026-05-22 06:51:49",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\u2018I\u2019ll Be Taken To Tihar Jail The Moment I Land In Delhi\u2019: Cockroach Janta Party Founder Abhijeet Dipke",
+      "description": "Cockroach Janta Party founder Abhijeet Dipke says he fears arrest in Delhi as the satirical party gains Gen Z support.",
+      "link": "https://www.news18.com/india/ill-be-taken-to-tihar-jail-the-moment-i-land-in-delhi-cockroach-janta-party-founder-abhijeet-dipke-ws-l-10105431.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/cockroach-janta-party-1-2026-05-c66bb07b9971d37d20413f65e2468143-1200x800.png",
+      "published": "2026-05-22 06:51:49",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "France's beloved Citroen 2CV revived as electric car",
+      "description": "The 2CV, the iconic French car popular for much of the last century, is to be reincarnated as an electric vehicle 36 years after production ceased, carmaker Citroen announced.",
+      "link": "https://www.thelocal.fr/20260522/frances-beloved-citroen-2cv-revived-as-electric-car",
+      "source": "The Local France",
+      "image": null,
+      "published": "2026-05-22 06:51:45",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Vale\u2019s SWOT analysis: stock faces iron ore headwinds, base metals strength",
+      "description": "Vale\u2019s SWOT analysis: stock faces iron ore headwinds, base metals strength",
+      "link": "https://www.investing.com/news/swot-analysis/vales-swot-analysis-stock-faces-iron-ore-headwinds-base-metals-strength-93CH-4705823",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/gold_2_800x533_L_1411976874.jpg",
+      "published": "2026-05-22 06:51:43",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Retired teacher dies due to negligence in Kota, Rajasthan",
+      "description": "<p>Retired teacher dies due to negligence in Kota, Rajasthan</p>",
+      "link": "https://news.abplive.com/short-videos/news/india-retired-teacher-dies-due-to-negligence-in-kota-rajasthan-1845388",
+      "source": "Abp News",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/22/a6ba49a2b23fd179fdfb417f71b979cd1779432642551963_original.png?impolicy=abp_cdn&imwidth=720",
+      "published": "2026-05-22 06:51:42",
       "category": [
         "top",
         "crime"
       ],
       "country": [
-        "ukraine"
+        "india"
       ]
     },
     {
-      "title": "Caregiver, 60, nabbed for allegedly abusing four-year-old",
-      "description": "SEREMBAN: A 60-year-old woman has been arrested for allegedly abusing a four-year-old boy under her care at a house here on Thursday (May 21).",
-      "link": "https://www.thestar.com.my/news/nation/2026/05/22/caregiver-60-nabbed-for-allegedly-abusing-four-year-old",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3921246.jpg",
-      "published": "2026-05-22 04:24:00",
+      "title": "Indian expats in UAE rush to send money home as rupee weakens to historic low",
+      "description": "Indian rupee hits a record low against the UAE dirham, prompting a surge in remittances from Indian expatriates in the Gulf even as economists warn of inflationary pressures and widening external imbalances",
+      "link": "https://www.firstpost.com/business/indian-rupee-record-low-uae-dirham-remittances-gulf-expats-inflation-impact-forex-14013983.html",
+      "source": "Firstpost",
+      "image": "https://images.firstpost.com/uploads/2026/02/INDIA-MARKETS-RUPEE1200-2026-02-545c7e51105f62d163f0c79c61141c8b.jpg",
+      "published": "2026-05-22 06:51:40",
       "category": [
         "top",
-        "crime"
+        "business"
       ],
       "country": [
-        "malaysia"
+        "india"
       ]
     },
     {
-      "title": "Solihull crime falling after patrol crackdown for these offences",
-      "description": "Police said increased patrols in hotspot areas is one of the reasons crime has fallen in Solihull",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/solihull-crime-falling-after-patrol-33984728",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article33985599.ece/ALTERNATES/s615/0_soli_1.jpg",
-      "published": "2026-05-22 04:24:00",
+      "title": "School trust installs US-style knife arches to protect hundreds of students in UK first",
+      "description": "A school trust is installing US-style knife arches across all of its facilities to protect hundreds of its students. Dudley Academies Trust has become the first academy trust in the UK to equip all of its secondary schools with the metal detecting technology. Approximately \u00a350,000 has been invested in installing nine screening devices across four sites. The Black Country trust claims the initiative represents a proportionate safeguarding measure in response to broader concerns about knife crime across the West Midlands. TRENDING Stories Videos Your Say The measures are seen as precautionary, as the leading body notes that it has not experienced any knife-related incidents. Hundreds of pupils now walk through the detectors each morning as part of their daily arrival routine, with the process designed to take just seconds per student. At Beacon Hill Academy in Sedgley, over 1,100 students arrive daily and deposit mobile phones, keys and other belongings into trays before passing through the scanners. Principal Sukhjot Dhami said: \"We've never had an incident involving a knife\" He added: \"But we want to absolutely reassure our learners and parents that they are coming into an incredibly safe environment.\" The trust conducted what it described as its largest-ever consultation with parents before implementing the system, receiving overwhelming backing for the initiative. Dhami noted that aerosols and fizzy drinks have been the most frequently confiscated items rather than weapons. Pooja Khanda, whose son Ronan was murdered in Wolverhampton in 2022 with a ninja sword purchased online, visited Beacon Hill Academy to address pupils. LATEST DEVELOPMENTS: Police probe terrifying armed 'school wars' on streets of London after children urged to 'be violent' and bring weapons to classrooms Boy, 13, charged with attempted murder over school stabbing that left three children injured Knife crime labelled 'national crisis' by grieving grandmother as she says stabbings are now 'normalised' The campaigner, who helped secure changes through Ronan's Law banning weapons such as ninja swords, said it was premature to assess the arches' impact but welcomed the action. She said: \"I always welcome every measure that's being taken, but there's a long way to go.\" Ms Khanda added that education and awareness remain as crucial as legislation. A student at Link Academy, whose uncle was fatally stabbed in a Stourbridge nightclub in 2017, told the BBC: \"It's always good to prevent it before it even happens. It's the effect it has on families - it's just terrible.\" Knife crime offences in the West Midlands have ranked among the highest in England in recent years, though police report that overall figures have started to decline. Ministry of Justice data indicate that slightly more than 1,100 children were convicted of knife possession in England and Wales during the year ending September 2025, representing a modest reduction from the previous period. NHS statistics reveal that between 400 and 500 children are admitted to English hospitals annually following assaults involving sharp objects. The Department for Education maintains that screening decisions should be made locally, noting that such measures may not suit every school environment. Some education figures argue that the arches offer reassurance but fail to tackle the root causes of knife crime. Our Standards: The GB News Editorial Charter",
+      "link": "https://www.gbnews.com/news/dudley-school-trust-knife-arches-uk-first",
+      "source": "Gb News",
+      "image": "https://assets.rbl.ms/66779229/origin.jpg",
+      "published": "2026-05-22 06:51:40",
       "category": [
         "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Your emergency fund is not a backup budget but when can you use it?",
+      "description": "If you have an emergency fund, you are already ahead of most people. But there is a good",
+      "link": "https://k24.digital/lifestyle/money/your-emergency-fund-is-not-a-backup-budget-when-to-use-it",
+      "source": "K24 Tv",
+      "image": "https://k24.digital/wp-content/uploads/2026/05/Gemini_Generated_Image_3rffqm3rffqm3rff-1200x630.png",
+      "published": "2026-05-22 06:51:36",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "kenya"
+      ]
+    },
+    {
+      "title": "Singing of 'Vande Mataram' compulsory in all schools, madrasas in Bengal: Dilip Ghosh",
+      "description": "West Bengal mandates 'Vande Mataram' singing in all schools and madrasas, sparking resistance from some minority groups.",
+      "link": "https://www.thehindu.com/news/national/west-bengal/singing-of-vande-mataram-compulsory-in-all-schools-madrasas-in-bengal-dilip-ghosh/article71009507.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/lhs6rx/article71009545.ece/alternates/FREE_1200/20260407204L.jpg",
+      "published": "2026-05-22 06:51:34",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "British mother's horror as she finds man, 33, 'kissing and hugging' her four-year-old son in Magaluf hotel pool",
+      "description": "The Romanian 33-year-old was detained after allegedly going up to the youngster and hugging and kissing him on the face in front of stunned holidaymakers.",
+      "link": "https://www.dailymail.com/news/article-15839887/British-mothers-horror-finds-man-33-kissing-hugging-four-year-old-son-Magaluf-hotel-pool.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/05/22/07/108794257-0-image-a-10_1779432280646.jpg",
+      "published": "2026-05-22 06:51:33",
+      "category": [
+        "top",
+        "politics",
         "crime"
       ],
       "country": [
@@ -48,74 +303,46 @@
       ]
     },
     {
-      "title": "Memories of Stamford Bridge carnage fade as Arsenal rule the Premier League roost",
-      "description": "A nostalgic look back at Chelsea\u2019s 6-0 demolition of Arsenal in 2014 serves as a stark reminder of how the tables have turned, with the Gunners now dominant.",
-      "link": "https://businessreport.co.za/sport/opinion/2026-05-22-memories-of-stamford-bridge-carnage-fade-as-arsenal-rule-the-premier-league-roost/",
-      "source": "Business Report",
-      "image": "https://iol-prod.appspot.com/image/5b4d7eca40a566565064c306d85ce4b78945419e",
-      "published": "2026-05-22 04:24:00",
+      "title": "Elk Grove captures 12th section championship with win over Rodriguez",
+      "description": "SACRAMENTO, Calif. (KTXL) - Elk Grove baseball is bringing another section banner home. The Thundering Herd held off Rodriguez 5-4 Thursday night at Sacramento City College to win the CIF Sac-Joaquin Section Division II championship, adding to the program\u2019s rich history with its 12th section title. Elk Grove entered the postseason as one of the [...]",
+      "link": "https://fox40.com/sports/high-school/elk-grove-captures-12th-section-championship-with-win-over-rodriguez/",
+      "source": "Fox40 News",
+      "image": null,
+      "published": "2026-05-22 06:51:33",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "south africa"
+        "united states of america"
       ]
     },
     {
-      "title": "Transparency \u201cEssential for Investor Confidence in Africa,\u201d Boakai Says",
-      "description": "President Boakai emphasizes importance of transparency and accountability in regional conference for English-speaking audit institutions in Liberia, aiming to strengthen oversight and investor confidence across Africa.",
-      "link": "https://www.liberianobserver.com/news/transparency-essential-for-investor-confidence-in-africa-boakai-says/article_e6183a68-b5b9-4cc5-bd70-cc5b3959eb55.html",
-      "source": "Liberian Observer",
-      "image": "https://bloximages.chicago2.vip.townnews.com/liberianobserver.com/content/tncms/assets/v3/editorial/e/06/e06e8e74-2f5f-4ec3-93f4-3ffb0666d019/6a0fdba23ca33.image.jpg?crop=995%2C522%2C0%2C75",
-      "published": "2026-05-22 04:24:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "liberia"
-      ]
-    },
-    {
-      "title": "Delhi-Noida International Airport in just 21 minutes: New RRTS corridor plan moves ahead, proposal to connect Jewar via bullet train",
-      "description": "The proposed high-speed corridor is expected to cut travel time between the capital and the airport to around 21 minutes.",
-      "link": "https://www.financialexpress.com/business/infrastructure-delhi-noida-international-airport-in-just-21-minutes-new-rrts-corridor-plan-moves-ahead-proposal-to-connect-jewar-via-bullet-train-4247950/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/05/NewRRTS-corridorplan.jpg",
-      "published": "2026-05-22 04:23:58",
+      "title": "British Climber Summits Everest for Record 20th Time, 2 Die on Mountain",
+      "description": "A Briton improved his own Everest record on Friday and notched his 20th ascent to the world\u2019s highest peak, as two Indian climbers died on the mountain, taking the season's toll to five, hiking officials said. Kenton Cool, 52, climbed the 8,849-meter (29,032-foot) peak before dawn and was descending to lower camps. He was expected to reach the base camp over the weekend, his expedition organizers said, according to Reuters.",
+      "link": "https://english.aawsat.com/node/5276000",
+      "source": "Al-sharq Al-awsat",
+      "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-05/1555663_0.jpeg.webp",
+      "published": "2026-05-22 06:51:31",
       "category": [
         "top",
-        "technology"
+        "sports",
+        "lifestyle"
       ],
       "country": [
-        "india"
+        "united arab emirates"
       ]
     },
     {
-      "title": "Today's weather LIVE updates: Delhi sees first severe heatstroke patients; searches for \u2018Manali weather\u2019 spike",
-      "description": "Today's weather live updates: Unbearable heatwave conditions have hit parts of India, including Delhi, prompting the India Meteorological Department (IMD) to issue major orange and red alerts for several states and cities to stay prepared to handle the sizzling hot weather.",
-      "link": "https://www.hindustantimes.com/india-news/today-weather-live-updates-manali-shimla-weather-delhi-heatwave-temperature-imd-alert-heatstroke-auto-taxi-strike-101779422672556.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/22/1600x900/logo/delhi_weather_today_manali_weather_1779423532455_1779423532600_ff54d6e9-1370-41c3-985b-55775772d2d8.jpg",
-      "published": "2026-05-22 04:23:58",
+      "title": "Howard Fendrich, award-winning AP national sports writer and tennis expert, dies at 55",
+      "description": "Howard Fendrich, a longtime national sports writer for The Associated Press, has died at 55",
+      "link": "https://abcnews.com/US/wireStory/howard-fendrich-award-winning-ap-national-sports-writer-133196285",
+      "source": "Abc News",
+      "image": "https://i.abcnewsfe.com/a/f28d7e3a-2850-4faf-a141-5b8b7ad45834/wirestory_30ea6a1f7fc981d47b59ecb885ff3509_16x9.jpg?w=1600",
+      "published": "2026-05-22 06:51:31",
       "category": [
         "top",
-        "environment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Lennar Corporation\u2019s SWOT analysis: stock faces headwinds",
-      "description": "Lennar Corporation\u2019s SWOT analysis: stock faces headwinds",
-      "link": "https://www.investing.com/news/swot-analysis/lennar-corporations-swot-analysis-stock-faces-headwinds-93CH-4705742",
-      "source": "Investing Us",
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPELAD0VD_L.jpg",
-      "published": "2026-05-22 04:23:55",
-      "category": [
-        "top",
-        "business"
+        "sports"
       ],
       "country": [
         "united states of america"

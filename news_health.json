@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Brown rice vs white rice vs chapati: Which is the healthiest for daily meals and weight loss?",
+      "description": "Rice and chapati are staples in Indian meals, with health benefits varying by type, preparation, and portion size. Brown rice offers more fiber for satiety, white rice is easily digestible, and whole wheat chapati provides a balanced option. The best choice for weight loss depends on individual fullness and satisfaction, emphasizing balanced meals over isolated grain choices.",
+      "link": "https://timesofindia.indiatimes.com/life-style/food-news/brown-rice-vs-white-rice-vs-chapati-which-is-the-healthiest-for-daily-meals-and-weight-loss/articleshow/131257505.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131257589/131257589.jpg",
+      "published": "2026-05-22 06:51:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Veterinary API Market Strategic Partnerships Transforming Global Competition",
+      "description": "The global Veterinary API Market is witnessing substantial growth as pharmaceutical manufacturers increase investments in animal healthcare innovation, contract manufacturing, and advanced drug development. The market was [read full press release...]",
+      "link": "https://express-press-release.net/news/2026/05/22/1754389",
+      "source": "Express-press-release",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "published": "2026-05-22 06:51:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

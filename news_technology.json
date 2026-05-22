@@ -1,60 +1,15 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Proposed VPN Fees Face Criticism and Technical Challenges in Russia",
-      "description": "Russian authorities have postponed discussions about introducing charges for VPN traffic until at least September, according to sources cited by Kommersant. The delay reportedly relates to both political considerations and unresolved technical challenges surrounding the proposal. VPN Traffic Charges Unlikely Before Parliamentary Elections Sources in the telecommunications industry told the newspaper that officials do not plan to require internet providers to introduce payments for international VPN traffic before Russia's State Duma elections, scheduled for September 18-20. At the moment, no official regulatory document defines the responsibilities of telecom operators or establishes concrete deadlines for implementing such measures.",
-      "link": "https://english.pravda.ru/news/russia/166811-russia-delays-vpn-traffic-fees-until-september/",
-      "source": "Pravda",
-      "image": "https://english.pravda.ru/image/preview/article/8/1/1/166811_amp.jpeg",
-      "published": "2026-05-21 15:29:00",
+      "title": "Two men charged with creating AI-generated porn under new law targeting 'deepfakes'",
+      "description": "Federal prosecutors have charged two men with using AI to create nude videos and photos under a new law targeting deepfake pornography. Cornelius Shannon, 51, and Arturo Hernandez, 20, were arrested Tuesday for distributing AI fakes that gained millions of...",
+      "link": "https://kdhnews.com/business/technology/two-men-charged-with-creating-ai-generated-porn-under-new-law-targeting-deepfakes/article_d2b0b523-c29a-5400-89b6-c2d076c21bad.html",
+      "source": "Killeen Daily Herald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/4/d4/4d435b84-18fc-557a-a183-78d55c528232/6a0f5353cd060.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-05-21 19:42:00",
       "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Lenovo releases new 17-inch laptop internationally with numberpad and Intel Wildcat Lake",
-      "description": "Lenovo has released its first Intel Wildcat Lake laptop internationally. Featuring a 17-inch display, the IdeaPad Slim 3i 17IWC11 supports up to 32 GB of RAM with a 60 Wh battery and over 18 hours of battery life according to official tests.",
-      "link": "https://www.notebookcheck.net/Lenovo-releases-new-17-inch-laptop-internationally-with-numberpad-and-Intel-Wildcat-Lake.1302471.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/17inch-wildcat-lake-laptop-international-released-kv.jpg",
-      "published": "2026-05-21 15:29:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "TCL Nxtpaper 11 Plus at $236: Your Late-Night Scroll Buddy Just Got Cheaper",
-      "description": "With its softer display and included extras, this deal delivers about 36% off, making it easier to justify upgrading your daily screen time setup without second-guessing the spend.",
-      "link": "https://www.cnet.com/deals/tcl-nxtpaper-11-plus-android-tablet-deal/",
-      "source": "Cnet",
-      "image": "https://www.cnet.com/a/img/resize/7d9766136781342ea81363fbe97d767cffeba415/hub/2026/05/21/e5e28c42-5282-40ed-b462-5d558a7848be/tcl-nxtpaper-11.jpg?auto=webp&fit=crop&height=614&width=1092",
-      "published": "2026-05-21 15:29:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Harford County data center ban advances as leaders weigh permanent prohibition",
-      "description": "Harford County data center ban advances as officials consider emergency legislation over energy use, zoning, water demand and local concerns.",
-      "link": "https://baltimorechronicle.com/baltimore/harford-county-data-center-ban/",
-      "source": "Baltimore Chronicle",
-      "image": "https://baltimorechronicle.com/wp-content/uploads/2026/05/photo_5222131112237276697_y.jpg",
-      "published": "2026-05-21 15:29:00",
-      "category": [
-        "top",
         "technology",
         "business"
       ],

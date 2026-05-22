@@ -1,18 +1,62 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "3 Best Smart Ring Brands: Oura, RingConn, and Samsung (2026)",
-      "description": "A svelte smart ring can track important activity, sleep, and health metrics. Plus\u2014unlike most smartwatches\u2014it doesn\u2019t need to be charged every day.",
-      "link": "https://www.wired.com/gallery/best-smart-rings/",
-      "source": "Wired",
-      "image": "https://media.wired.com/photos/6a0cb118e28d6d0653346e6f/16:9/w_1200,h_675,c_limit/Update%20Best%20Smart%20Rings%20top%20art%20052026%20SOURCE%20Oura-RingConn-Samsung.jpg",
-      "published": "2026-05-21 11:01:00",
+      "title": "Proposed VPN Fees Face Criticism and Technical Challenges in Russia",
+      "description": "Russian authorities have postponed discussions about introducing charges for VPN traffic until at least September, according to sources cited by Kommersant. The delay reportedly relates to both political considerations and unresolved technical challenges surrounding the proposal. VPN Traffic Charges Unlikely Before Parliamentary Elections Sources in the telecommunications industry told the newspaper that officials do not plan to require internet providers to introduce payments for international VPN traffic before Russia's State Duma elections, scheduled for September 18-20. At the moment, no official regulatory document defines the responsibilities of telecom operators or establishes concrete deadlines for implementing such measures.",
+      "link": "https://english.pravda.ru/news/russia/166811-russia-delays-vpn-traffic-fees-until-september/",
+      "source": "Pravda",
+      "image": "https://english.pravda.ru/image/preview/article/8/1/1/166811_amp.jpeg",
+      "published": "2026-05-21 15:29:00",
       "category": [
-        "health",
         "top",
         "technology"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "title": "Lenovo releases new 17-inch laptop internationally with numberpad and Intel Wildcat Lake",
+      "description": "Lenovo has released its first Intel Wildcat Lake laptop internationally. Featuring a 17-inch display, the IdeaPad Slim 3i 17IWC11 supports up to 32 GB of RAM with a 60 Wh battery and over 18 hours of battery life according to official tests.",
+      "link": "https://www.notebookcheck.net/Lenovo-releases-new-17-inch-laptop-internationally-with-numberpad-and-Intel-Wildcat-Lake.1302471.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/17inch-wildcat-lake-laptop-international-released-kv.jpg",
+      "published": "2026-05-21 15:29:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "TCL Nxtpaper 11 Plus at $236: Your Late-Night Scroll Buddy Just Got Cheaper",
+      "description": "With its softer display and included extras, this deal delivers about 36% off, making it easier to justify upgrading your daily screen time setup without second-guessing the spend.",
+      "link": "https://www.cnet.com/deals/tcl-nxtpaper-11-plus-android-tablet-deal/",
+      "source": "Cnet",
+      "image": "https://www.cnet.com/a/img/resize/7d9766136781342ea81363fbe97d767cffeba415/hub/2026/05/21/e5e28c42-5282-40ed-b462-5d558a7848be/tcl-nxtpaper-11.jpg?auto=webp&fit=crop&height=614&width=1092",
+      "published": "2026-05-21 15:29:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Harford County data center ban advances as leaders weigh permanent prohibition",
+      "description": "Harford County data center ban advances as officials consider emergency legislation over energy use, zoning, water demand and local concerns.",
+      "link": "https://baltimorechronicle.com/baltimore/harford-county-data-center-ban/",
+      "source": "Baltimore Chronicle",
+      "image": "https://baltimorechronicle.com/wp-content/uploads/2026/05/photo_5222131112237276697_y.jpg",
+      "published": "2026-05-21 15:29:00",
+      "category": [
+        "top",
+        "technology",
+        "business"
       ],
       "country": [
         "united states of america"

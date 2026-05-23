@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Thought of the day inspired by Bhagavad Gita: \u201cNot every battle deserves your energy\u201d",
+      "description": "Life constantly brings situations that test our patience, emotions, and peace of mind. In our daily activities, we often experience workplace disagreements and debates about various social issues with contradicting...",
+      "link": "https://www.swapupdate.in/thought-of-the-day-inspired-by-bhagavad-gita-not-every-battle-deserves-your-energy/",
+      "source": "Swapupdate",
+      "image": null,
+      "published": "2026-05-23 02:58:55",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Chief secretary launches innovative solar and battery system at Melanesian Haus",
+      "description": "Chief Secretary to the Government, Mr Ivan Pomaleu, has officially launched the new solar grid and solar-class Battery Energy Storage System (BESS) for the Department of the Prime Minister and National Executive Council (NEC) today at Melanesian Haus. The post Chief secretary launches innovative solar and battery system at Melanesian Haus appeared first on Post Courier .",
+      "link": "https://www.postcourier.com.pg/chief-secretary-launches-innovative-solar-and-battery-system-at-melanesian-haus/",
+      "source": "Post Courier",
+      "image": "https://www.postcourier.com.pg/wp-content/uploads/2026/05/Chief-secretary-launches-innovative-solar-and-battery-system-at-Melanesian-Haus.png",
+      "published": "2026-05-23 02:58:52",
+      "category": [
+        "top",
+        "technology",
+        "business"
+      ],
+      "country": [
+        "papua new guinea"
+      ]
+    }
+  ]
 }

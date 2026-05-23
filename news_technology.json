@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "A fire and shipyard explosion on Staten Island injures at least 16, including 3 seriously",
-      "description": null,
-      "link": "https://www.wsbtv.com/news/national/fire-shipyard/GPAXVV6XEUZOBIOB3CMK4WSAOM/",
-      "source": "Wsb-tv Channel 2 - Atlanta",
-      "image": null,
-      "published": "2026-05-22 21:49:35",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

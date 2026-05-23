@@ -1,50 +1,5 @@
 {
   "status": "success",
-  "totalResults": 3,
-  "results": [
-    {
-      "title": "\u2018Masterpiece\u2019 movie that is \u2018best war film of all time\u2019 and streaming on Amazon Prime",
-      "description": "This war epic has an impressive 92% rating on Rotten Tomatoes.",
-      "link": "https://www.express.co.uk/entertainment/films/2208856/masterpiece-movie-best-war-film",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/36/590x/2208856_1.jpg",
-      "published": "2026-05-23 09:53:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Makers of Ilaiyaraaja biopic unveil AI-powered tribute video celebrating 50 years of musical legacy",
-      "description": "AI Tribute Video: Dive into Ilaiyaraaja's 50-year cinematic legacy, with a special AI-powered video celebrating this iconic composer\u2019s contribution to Indian cinema. See how technology and emotion blend in this heartfelt tribute.",
-      "link": "https://www.deccanherald.com/entertainment/makers-of-ilaiyaraaja-biopic-unveil-ai-powered-tribute-video-celebrating-50-years-of-musical-legacy-4013549",
-      "source": "Deccan Herald",
-      "image": "https://media.assettype.com/deccanherald/2026-05-23/acojmb2e/insets-3.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-05-23 09:52:58",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Cannes Film Festival: Barbra Streisand to receive Palme d'Or",
-      "description": "The 79th Cannes Film Festival draws to a close Saturday with the presentation of one of cinema\u2019s highest honors, the Palme d\u2019Or.",
-      "link": "https://www.france24.com/en/cannes-film-festival-barbra-streisand-to-receive-palme-d-or",
-      "source": "France 24",
-      "image": "https://s.france24.com/media/display/3c92a4d6-568a-11f1-8d71-005056bfb2b6/w:1280/p:16x9/EN-20260523-082344-082619-CS.jpg",
-      "published": "2026-05-23 09:52:32",
-      "category": [
-        "entertainment",
-        "environment"
-      ],
-      "country": [
-        "france"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,14 +1,130 @@
 {
   "status": "success",
-  "totalResults": 11,
+  "totalResults": 12,
   "results": [
     {
-      "title": "Outlook on state finances improves",
-      "description": "A state panel has mildly downgraded its forecast for Hawaii general fund revenue growth next fiscal year, but also improved its outlook for the current fiscal year that results in an overall net benefit.",
-      "link": "https://www.staradvertiser.com/2026/05/22/hawaii-news/outlook-on-state-finances-improves/",
+      "title": "The Hydrogen Stream: Netherlands commissions 32-km hydrogen pipeline",
+      "description": "Gasunie has launched a 32-km hydrogen pipeline in the Port of Rotterdam linking Maasvlakte and Pernis, marking the first operational section of the Dutch hydrogen backbone and enabling future expan...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-05/68573683-the-hydrogen-stream-netherlands-commissions-32-km-hydrogen-pipeline-451.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/content/g/fb.png",
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "top",
+        "environment",
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Favelle Favco secures RM90.6mil tower crane supply contracts",
+      "description": "KUALA LUMPUR: Favelle Favco Bhd has secured purchase orders and a letter of intent worth a combined RM90.6mil for the supply of tower cranes.",
+      "link": "https://www.thestar.com.my/business/business-news/2026/05/22/favelle-favco-secures-rm906mil-tower-crane-supply-contracts",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/22/3922182.jpg",
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "RDC passes resolution to TIF new south side apartment development",
+      "description": "The City of Shelbyville Redevelopment Commission Thursday passed a resolution to establish a new Tax Increment Financing District for a proposed apartment complex on Progress Parkway.",
+      "link": "https://www.shelbynews.com/news/rdc-passes-resolution-to-tif-new-south-side-apartment-development/article_866a4de0-1b40-5485-aca4-ade81ca3ada7.html",
+      "source": "Shelbynews Com",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How People Actually Get to the C-Suite in S&P 500 Companies",
+      "description": "New research demystifies who gets these jobs and how they ascended.",
+      "link": "https://hbr.org/2026/05/how-people-actually-get-to-the-c-suite-in-sp-500-companies",
+      "source": "Harvard Business Review",
+      "image": "https://hbr.org/resources/images/article_assets/2026/05/May26_22_526933007.jpg",
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "FRO \u2013 Q1 2026 Presentation",
+      "description": "Please find enclosed the presentation of Frontline plc \u0301s first quarter 2026 results to be held on the webcast / conference call 22 May, 2026 at 15:00 CEST.",
+      "link": "https://www.globenewswire.com/news-release/2026/05/22/3300097/0/en/FRO-Q1-2026-Presentation.html",
+      "source": "Globe Newswire",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "FRO \u2013 Q1 2026 Presentation",
+      "description": "Please find enclosed the presentation of Frontline plc \u0301s first quarter 2026 results to be held on the webcast / conference call 22 May, 2026 at 15:00 CEST.",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/05/22/3300097/0/en/FRO-Q1-2026-Presentation.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Lucosky Brookman's Joseph Lucosky Engages with Lawmakers on Capitol Hill as Debate Intensifies Over Nasdaq's Proposed $5 Million Market Cap Delisting Rule",
+      "description": "WOODBRIDGE, N.J., May 22, 2026 /PRNewswire/ -- Lucosky Brookman LLP, a national law firm with leading capital markets, corporate finance, and commercial litigation practices, today announced that Managing Partner Joseph Lucosky traveled to Washington, D.C. with members of the Small Public...",
+      "link": "https://www.prnewswire.com/news-releases/lucosky-brookmans-joseph-lucosky-engages-with-lawmakers-on-capitol-hill-as-debate-intensifies-over-nasdaqs-proposed-5-million-market-cap-delisting-rule-302778242.html",
+      "source": "Pr Newswire",
+      "image": "https://mma.prnewswire.com/media/454039/Lucosky_Brookman_Logo.jpg?p=original",
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Xeriant and UAV Corp Sign MOU to Advance Next-Generation Aerospace Technologies",
+      "description": "Xeriant (OTCQB: XERI) signs MOU with UAV Corp. (OTCPK: UMAV) to pursue a strategic combination and to explore advanced space-age materials integration",
+      "link": "https://www.globenewswire.com/news-release/2026/05/22/3300096/0/en/Xeriant-and-UAV-Corp-Sign-MOU-to-Advance-Next-Generation-Aerospace-Technologies.html",
+      "source": "Globe Newswire",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mortgage rates hit highest level since war began",
+      "description": "The interest rate on a 30-year, fixed-rate mortgage rose Thursday to its highest level since the war began, upending several weeks of steady rates as the U.S.-Israeli war with Iran approached its third month without significant progress toward peace.",
+      "link": "https://www.staradvertiser.com/2026/05/22/breaking-news/mortgage-rates-hit-highest-level-since-war-began/",
       "source": "Hawaii News",
-      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/05/web1_CTY-tourism-shock-930.jpg",
-      "published": "2026-05-22 10:06:00",
+      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/05/web1_20260326_brk_kap01.jpg",
+      "published": "2026-05-22 12:05:00",
       "category": [
         "top",
         "business"
@@ -18,14 +134,27 @@
       ]
     },
     {
-      "title": "International Paper breaks ground on Brandon packaging plant",
-      "description": "International Paper selected Brandon based on its ability to reach customers within a 300-mile radius. Credit: ChristianLphoto/Shutterstock International Paper has broken ground on a $225m sustainable packaging facility in Brandon city in Mississippi, US. Company representatives and local officials attended the groundbreaking event at the East Metro Center Industrial Park on 20 May. Discover B2B [...] The post International Paper breaks ground on Brandon packaging plant appeared first on NYT News Today .",
-      "link": "https://www.nytimesnewstoday.com/international-paper-breaks-ground-on-brandon-packaging-plant/",
-      "source": "Nyt News Today",
-      "image": "https://www.worldconstructionnetwork.com/wp-content/uploads/sites/26/2026/05/International-Paper.jpg",
-      "published": "2026-05-22 10:06:00",
+      "title": "Xeriant and UAV Corp Sign MOU to Advance Next-Generation Aerospace Technologies",
+      "description": "Xeriant (OTCQB: XERI) signs MOU with UAV Corp. (OTCPK: UMAV) to pursue a strategic combination and to explore advanced space-age materials integration",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/05/22/3300096/0/en/Xeriant-and-UAV-Corp-Sign-MOU-to-Advance-Next-Generation-Aerospace-Technologies.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
       "category": [
-        "top",
+        "business"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Xeriant and UAV Corp Sign MOU to Advance Next-Generation Aerospace Technologies",
+      "description": "BOCA RATON, Fla. and WEWAHITCKA, Fla., May 22, 2026 (GLOBE NEWSWIRE) -- Xeriant, Inc. (OTCQB: XERI ) (\"Xeriant\" or \"the Company\"), a company dedicated to the discovery, development, and commercialization of transformative technologies, today announced it has entered into a Memorandum of Understanding (MOU) with UAV Corp. (OTCPK: UMAV) to potentially pursue a strategic combination through a merger or acquisition and to explore advanced space-age materials integration. Under the MOU, Xeriant was selected as the ideal partner due to its proprietary advanced materials technology, including the DUREVERTM platform with NEXBOARDTM and fire-resistant composites, which can significantly enhance UAV Corp.'s lighter-than-air airships and drone platforms by enabling lighter, stronger, and more fire-resistant designs. The envisioned transaction would create a combined entity with complementary strengths in advanced materials, quantum AI, hybrid propulsion, and unmanned aerial systems, with the goal of uplisting to Nasdaq or the NYSE. UAV Corp., through its subsidiary Skyborne Technology, specializes in innovative lighter-than-air tethered airships (including the DART Series) and is actively exploring applications in swarm drones, persistent surveillance, disaster relief, and space-related missions, including potential use on near-space Moon-Mars initiatives, where helium-3 (H3) is prevalent and could be leveraged for advanced propulsion, energy systems and new advanced structures for terrestrial or space based efforts. Brig. Gen. Blaine Holt, President of Factor X, Xeriant's advanced research and innovation hub, stated, \"We are excited to partner with UAV Corp. Our advanced nanomaterials and fire-resistant composite technologies are a natural fit to optimize the weight, durability, and performance of UAV's airships and ... Full story available on Benzinga.com",
+      "link": "https://www.benzinga.com/pressreleases/26/05/g52741321/xeriant-and-uav-corp-sign-mou-to-advance-next-generation-aerospace-technologies",
+      "source": "Benzinga",
+      "image": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+      "published": "2026-05-22 12:05:00",
+      "category": [
         "business"
       ],
       "country": [
@@ -33,137 +162,17 @@
       ]
     },
     {
-      "title": "Powder Coatings Market worth $23.07 billion by 2031 - Exclusive Report by MarketsandMarkets",
-      "description": "DELRAY BEACH, Fla., May 22, 2026 /PRNewswire/ -- According to MarketsandMarkets, 'Powder Coatings Market by Resin Type (Thermoset and Thermoplastic), End-use Industry (Appliances, Automotive, Gene...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-05/68571953-powder-coatings-market-worth-dollar-23-07-billion-by-2031-exclusive-report-by-marketsandmarkets-008.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN66211&Transmission_Id=202605220600PR_NEWS_EURO_ND__EN66211&DateId=20260522",
-      "published": "2026-05-22 10:06:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "lululemon athletica inc.: First lululemon Stores in Greece to Open in Athens",
-      "description": "Greece marks lululemon's third market entry of 2026 in partnership with Arion Retail Group lululemon (NASDAQ:LULU) today announced the opening of the first lululemon stores in Greece through its f...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-05/68571950-lululemon-athletica-inc-first-lululemon-stores-in-greece-to-open-in-athens-004.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/chart-lululemon-athletica-inc-aktie-intraklein-tradegate.png",
-      "published": "2026-05-22 10:06:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Nvidia Surges on AI Boom While US Markets End Higher",
-      "description": "Market Analysis by covering: S&P 500, Nikkei 225, Microsoft Corporation, Deere & Company. Read 's Market Analysis on Investing.com ZA.",
-      "link": "https://za.investing.com/analysis/nvidia-surges-on-ai-boom-while-us-markets-end-higher-200619870",
-      "source": "Investing South Africa",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "published": "2026-05-22 10:06:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "THE UN KNOWN earns international Awwwards recognition of honors",
-      "description": "/CNW/ - Creative agency THE UN KNOWN has been awarded honors by the international platform Awwwards for its new website, a distinction that highlights the...",
-      "link": "https://www.newswire.ca/news-releases/the-un-known-earns-international-awwwards-recognition-of-honors-888253317.html",
-      "source": "Newswire",
-      "image": "https://mma.prnewswire.com/media/2985722/The_Un_Known_THE_UN_KNOWN_earns_international_Awwwards_recogniti.jpg",
-      "published": "2026-05-22 10:06:00",
+      "title": "New life sciences hub to bridge companies with talent, foster collaboration",
+      "description": "The $1.4 billion project marks the completion of phase 1 of CapitaLand\u2019s transformation of Science Park.",
+      "link": "https://www.straitstimes.com/business/new-life-sciences-hub-to-bridge-companies-with-talent-foster-collaboration",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
       "category": [
         "business"
       ],
       "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Ottawa still pledging to double construction pace despite homebuilding headwinds",
-      "description": "OTTAWA \u2014 The federal Liberal government is sticking to its pledge to double the pace of homebuilding even as headwinds buffet the construction industry. Prime Minister Mark Carney promised in his 2025 election platform to make investments that would double the pace of housing construction over the next decade to drive down the costs of [...] The post Ottawa still pledging to double construction pace despite homebuilding headwinds appeared first on constructconnect.com .",
-      "link": "https://canada.constructconnect.com/dcn/news/government/2026/05/ottawa-still-pledging-to-double-construction-pace-despite-homebuilding-headwinds",
-      "source": "Construct Connect",
-      "image": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2024/02/HousingFastTrackMainWEB.jpg",
-      "published": "2026-05-22 10:05:58",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Meghalaya CM Initiates Foundation Work for Major Rs 150-Crore Tura Development Project",
-      "description": null,
-      "link": "https://expressnewschannel.com/meghalaya-cm-initiates-foundation-work-for-major-rs-150-crore-tura-development-project/",
-      "source": "Express News Channel",
-      "image": "https://expressnewschannel.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-22-at-3.20.43-PM.jpeg",
-      "published": "2026-05-22 10:05:55",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "State releases unemployment data for April 2026",
-      "description": "FRANKFORT, Ky. \u2014 Kentucky\u2019s seasonally adjusted preliminary April 2026 unemployment rate was 4.3%, according to ...",
-      "link": "https://ocmonitor.com/2026/05/22/state-releases-unemployment-data-for-april-2026/",
-      "source": "The Ohio County Monitor",
-      "image": "https://ocmonitor.wpenginepowered.com/wp-content/uploads/2023/11/KY-Education-labor-cabinet.jpg",
-      "published": "2026-05-22 10:05:53",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Service Tax Not Payable on Un-Invoiced Allocations By Foreign Parent Company Without Service And Consideration: CESTAT [Read Order]",
-      "description": "The Chennai Bench of the Customs, Excise and Service Tax Appellate CESTAT held that service tax cannot be levied on mere accounting allocations by foreign parent companies without proof of actual service and consideration.",
-      "link": "https://www.taxscan.in/top-stories/service-tax-not-payable-on-un-invoiced-allocations-by-foreign-parent-company-without-service-and-consideration-cestat-1446356",
-      "source": "Taxscan",
-      "image": "https://images.taxscan.in/h-upload/2026/05/22/2137830-service-tax-nclat-taxscan.jfif",
-      "published": "2026-05-22 10:05:52",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Attorney general race heating up in Wisconsin with Republican ad buy",
-      "description": "Wisconsin's attorney general race is kicking off with a Republican group buying hundreds of thousands of dollars in ads to boost Eric Toney.",
-      "link": "https://www.jsonline.com/story/news/politics/2026/05/22/wisconsin-attorney-general-race-heating-up-with-republican-ad-buy/90199978007/",
-      "source": "Journal Sentinel",
-      "image": "https://www.jsonline.com/gcdn/presto/2022/04/15/PMJS/23a0d147-57da-4dc8-b7f6-617b67160aab-kaul_toney.jpg?crop=659,371,x0,y0&width=659&height=329&format=pjpg&auto=webp",
-      "published": "2026-05-22 10:05:50",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
+        "singapore"
       ]
     }
   ]

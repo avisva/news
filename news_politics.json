@@ -1,50 +1,36 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system",
-      "description": "Donald Trump has a reputation for slashing his taxes using techniques that some experts find aggressive. Now the Justice Department has told the president he doesn't have to worry about being called out on it. In an extraordinary decision earlier...",
-      "link": "https://www.yoursun.com/ap/business/trump-immunity-from-irs-audit-shocks-experts-who-warn-it-could-undermine-trust-in-tax/article_754fef00-9ffa-54ea-9026-b40a1108e6eb.html",
-      "source": "Yoursun.com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/yoursun.com/content/tncms/assets/v3/editorial/2/2f/22f52ced-1c27-5054-b7be-4dc7f2b6c9cc/6a0f4a617b39c.image.jpg?resize=750%2C500",
-      "published": "2026-05-22 10:06:00",
+      "title": "Understanding legal philosophy key to ensuring justice: Former CJ Refat Ahmed",
+      "description": "UITS VC says such initiatives help build a knowledge-based society",
+      "link": "https://www.tbsnews.net/bangladesh/education/understanding-legal-philosophy-key-ensuring-justice-former-cj-refat-ahmed",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/05/22/seminar_uits.jpg",
+      "published": "2026-05-22 12:05:00",
       "category": [
         "top",
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Dear Abby: I hate having to pump my husband for info about his family",
-      "description": "How can I help him see I\u2019m a part of his family now, just as he is a part of mine?",
-      "link": "https://www.lehighvalleylive.com/advice/2026/05/dear-abby-i-hate-having-to-pump-my-husband-for-info-about-his-family.html",
-      "source": "Lehighvalleylive",
-      "image": "https://www.lehighvalleylive.com/resizer/v2/DIHDGNWZUZFGDDVWZX7SHSBAGM.png?auth=c455d8300f7d98b13e80c6ccb5b402e3eef4868eda1e934fc89f6e277ef5e402&smart=true&height=1200",
-      "published": "2026-05-22 10:06:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Dear Abby: I hate having to pump my husband for info about his family",
-      "description": "How can I help him see I\u2019m a part of his family now, just as he is a part of mine?",
-      "link": "https://www.pennlive.com/advice/2026/05/dear-abby-i-hate-having-to-pump-my-husband-for-info-about-his-family.html",
-      "source": "Pennlive",
-      "image": "https://www.pennlive.com/resizer/v2/DIHDGNWZUZFGDDVWZX7SHSBAGM.png?auth=c455d8300f7d98b13e80c6ccb5b402e3eef4868eda1e934fc89f6e277ef5e402&smart=true&height=1200",
-      "published": "2026-05-22 10:06:00",
-      "category": [
         "politics",
-        "top"
+        "education"
       ],
       "country": [
-        "united states of america"
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Calcutta HC grants interim protection from arrest to ex-Trinamool legislator, husband",
+      "description": "Kolkata, May 22 (IANS) A single-judge bench of the Calcutta High Court, on Friday, granted interim protection from coercive police action, including arrest, to former [...]",
+      "link": "https://bhaskarlive.in/calcutta-hc-grants-interim-protection-from-arrest-to-ex-trinamool-legislator-husband/",
+      "source": "Bhaskarlive",
+      "image": "https://i1.wp.com/bhaskarlive.in/wp-content/uploads/2025/12/images-1.jpg?ssl=1",
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

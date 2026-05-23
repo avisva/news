@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Fola embarks on Chelsea FC Stamford Bridge tour",
-      "description": "Nigerian singer and songwriter Folarin Odunlami, popularly known as Fola, has paid an exclusive visit to Chelsea Football Club\u2019s iconic Stamford Bridge stadium in West London, United Kingdom.",
-      "link": "https://pmnewsnigeria.com/2026/05/22/fola-embarks-on-chelsea-fc-stamford-bridge-tour/",
-      "source": "Pm News Nigeria",
-      "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-22-at-11.02.49-AM.jpeg",
-      "published": "2026-05-22 10:06:00",
+      "title": "Wizards on wheels: Quirky parade returns to Grand Rapids this weekend",
+      "description": "The whimsical event celebrates city's mysterious, roller-skating wizard, inviting participants to dress up and enjoy playful downtown festivities.",
+      "link": "https://www.mlive.com/news/grand-rapids/2026/05/wizards-on-wheels-quirky-parade-returns-to-grand-rapids-this-weekend.html",
+      "source": "Mlive",
+      "image": "https://www.mlive.com/resizer/v2/MALSNNHTYVGBPBZLVDX7CAR4SE.JPG?auth=1961051c3a185775d6e29e89918e7e95613a721c07c5b999674e0bc99bfb7e0c&smart=true&height=1200",
+      "published": "2026-05-22 12:05:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "nigeria"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Matt Brittin breaks from norm to sit with BBC commissioners",
+      "description": "New director general will be based on seventh floor of Broadcasting House",
+      "link": "https://www.screendaily.com/bbc/matt-brittin-breaks-from-norm-to-sit-with-bbc-commissioners/5217137.article",
+      "source": "Screen Daily",
+      "image": null,
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Female Dogs and Directors Dominate Palm Dog Awards",
+      "description": "Two films, two women directors, two female dogs. Sometimes the festival writes its own thematic through-lines. The Palm Dog \u2014 the beloved unofficial awards show celebrating the best canine performances across the festival\u2019s official selection and various sidebars \u2014 has long since become a genuine Cannes fixture, founded by Toby Rose back in 2001. This [...] The post Female Dogs and Directors Dominate Palm Dog Awards appeared first on NYT News Today .",
+      "link": "https://www.nytimesnewstoday.com/female-dogs-and-directors-dominate-palm-dog-awards/",
+      "source": "Nyt News Today",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/La-Perra-Simone-DArcangelo.webp?w=1150&h=650&crop=1",
+      "published": "2026-05-22 12:05:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

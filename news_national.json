@@ -1,106 +1,31 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Indian Legend Drops MS Dhoni Bombshell, Accuses CSK of Misleading Fans",
-      "description": "Former Indian captain Krishnamachari Srikkanth heavily criticised the Chennai Super Kings management, including captain Ruturaj Gaikwad and coach Stephen Fleming, for misleading fans about MS Dhoni's availability during the IPL season.",
-      "link": "https://www.timesnownews.com/sports/cricket/indian-legend-drops-ms-dhoni-bombshell-accuses-csk-of-misleading-fans-article-154375501",
-      "source": "Times Now News",
-      "image": "https://images.timesnownews.com/thumb/msid-154375616,width-1280,height-720,resizemode-75/154375616.jpg",
-      "published": "2026-05-22 10:05:57",
+      "title": "Calcutta HC grants interim protection from arrest to ex-Trinamool legislator, husband",
+      "description": "Kolkata, May 22 (IANS) A single-judge bench of the Calcutta High Court, on Friday, granted interim protection from coercive police action, including arrest, to former [...]",
+      "link": "https://bhaskarlive.in/calcutta-hc-grants-interim-protection-from-arrest-to-ex-trinamool-legislator-husband/",
+      "source": "Bhaskarlive",
+      "image": "https://i1.wp.com/bhaskarlive.in/wp-content/uploads/2025/12/images-1.jpg?ssl=1",
+      "published": "2026-05-22 12:05:00",
       "category": [
-        "sports"
+        "top",
+        "politics"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Governor\u2019s Address Marks Second Day of 16th Assam Legislative Assembly Session",
-      "description": "The second day of the 16th Assam Legislative Assembly session began today with the traditional address by Governor Lakshman Prasad Acharya. Delivering his speech in Assamese, the Governor extended warm congratulations to all newly elected MLAs who won through the democratic process. He described the BJP\u2019s victory in the recently concluded Assembly elections as historic. [...]",
-      "link": "https://www.nktv.in/governors-address-marks-second-day-of-16th-assam-legislative-assembly-session/",
-      "source": "Nktv",
-      "image": "https://www.nktv.in/wp-content/uploads/2026/05/Screenshot-2026-05-22-153504.png",
-      "published": "2026-05-22 10:05:56",
+      "title": "Filing ITR this year? Know about your AIS and check carefully to avoid tax notices",
+      "description": "Tax experts are urging taxpayers to carefully review their Annual Information Statement before filing ITRs, warning that mismatches can trigger income tax notices.",
+      "link": "https://newseisamay.com/business/investment-and-mutual-funds/filing-itr-this-year-know-about-your-ais-and-check-carefully-to-avoid-tax-notices-5ee51603-d041-4cb0-8bec-5e2fc2d3a3dd.cms",
+      "source": "Newseisamay",
+      "image": "https://static.phoenix.ms/1001/99d166ecc505d5e776e62fcc5dacfb0b.png",
+      "published": "2026-05-22 12:04:59",
       "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Meghalaya CM Initiates Foundation Work for Major Rs 150-Crore Tura Development Project",
-      "description": null,
-      "link": "https://expressnewschannel.com/meghalaya-cm-initiates-foundation-work-for-major-rs-150-crore-tura-development-project/",
-      "source": "Express News Channel",
-      "image": "https://expressnewschannel.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-22-at-3.20.43-PM.jpeg",
-      "published": "2026-05-22 10:05:55",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Gaming studio Bungie to fire staff amid 'Destiny 2' shutdown",
-      "description": "Bungie, the studio behind the popular Destiny franchise, is reportedly planning a round of layoffs.",
-      "link": "https://www.newsbytesapp.com/news/business/bungie-reportedly-plans-significant-layoffs-as-no-destiny-3-greenlit/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l86120260522150631.jpeg",
-      "published": "2026-05-22 10:05:52",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Government mulls single entrance exam for engineering, medical courses",
-      "description": "The central government is mulling over a proposal to introduce a single entrance examination for engineering and medical courses.",
-      "link": "https://www.newsbytesapp.com/news/india/proposal-tabled-to-merge-jee-and-neet-into-one-exam/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l321_33471779441987.jpg",
-      "published": "2026-05-22 10:05:52",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Is Meta building its own version of Reddit?",
-      "description": "Meta has quietly launched a new app called Forum. The app was discovered by Geekout Newsletter's Matt Navarra in the App Store.",
-      "link": "https://www.newsbytesapp.com/news/science/meta-s-forum-is-a-reddit-like-app-for-facebook-groups/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l41120260522152310.png",
-      "published": "2026-05-22 10:05:52",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Service Tax Not Payable on Un-Invoiced Allocations By Foreign Parent Company Without Service And Consideration: CESTAT [Read Order]",
-      "description": "The Chennai Bench of the Customs, Excise and Service Tax Appellate CESTAT held that service tax cannot be levied on mere accounting allocations by foreign parent companies without proof of actual service and consideration.",
-      "link": "https://www.taxscan.in/top-stories/service-tax-not-payable-on-un-invoiced-allocations-by-foreign-parent-company-without-service-and-consideration-cestat-1446356",
-      "source": "Taxscan",
-      "image": "https://images.taxscan.in/h-upload/2026/05/22/2137830-service-tax-nclat-taxscan.jfif",
-      "published": "2026-05-22 10:05:52",
-      "category": [
-        "top",
-        "business"
+        "top"
       ],
       "country": [
         "india"

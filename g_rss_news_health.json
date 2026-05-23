@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 19,
+  "totalResults": 21,
   "results": [
     {
       "title": "New outbreak of Ebola kills 65 in eastern DR Congo - Newsonair",
@@ -24,6 +24,13 @@
       "category": "health"
     },
     {
+      "title": "Suspected and confirmed measles deaths top 500 in Bangladesh - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0EwTzJtblh0ZndhYndNc1BUdHlneV9zRGhkQUplUVJFRy1tVGJ0aXhVdUV3NDB4Z0dRSEwyQ2N0UXF3Wi1lZnZkc3BFOU8xRUtBdE9Yd2xHdFljNVR2SWVCTmktRUxCWGJNUTJIdmRPay1Jc0NYUWYycUl0aVVsSS1ZekpRNm1haXo2ZEpCVF9MQU95WXdjTWdLQXV2aXNrYWtPUUVGOTUyUkdYWFFvRmJiQQ?oc=5",
+      "published": "Sat, 23 May 2026 14:38:12 GMT",
+      "source": "marketscreener.com",
+      "category": "health"
+    },
+    {
       "title": "High Blood Pressure in Pregnancy Still Threatening Mothers, Babies Despite Medical Advances: AIIMS Expert - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXFkOXB1NU5XVXpWQVpBdy1XbmRQTTFMVVhDVENNMVBkX2xhREQteHYxOHNQRGxIalQ4QmNJVHpnMjR0Q29yRFBEMFZrbHd0d293Q0pjZ0swTGRuTzdVYXBEVVpDVG9IWW5Qd2M0dW9hWlNLaks4VG1semJQZ0dfeFkzQmt2elpLb3NNZWZPaDlsQTNJUEFPNGV6dzBleVNOQkdPdnNBTWkwQjhhLVUwd0ptMEZvMzNMa0hReDRxS3lySXZLbFc5WmtYRVI3RVVxZkNYM3FNajZYT3k2WnZNN1JIVjhGbjN0Uk1xMW1jelVfQkJOQzlwZ2I5NEplbXFoQ0QyNEc4WFfSAY4CQVVfeXFMTmw0TFJhbVk4dmVRTDlVdC12UDl5LTdENjhBZDFjWlJRYlU4VG83S2J3SjgyVENUX2ZMNVk5SjkwSFRmbFk5TmlFZHpfOXpfTFBqSWhobzQxVUFxVXVLRFkzOFF0SDRLN050Z3hQU05xbFBESWZpV0NUZXA1WXhGTFVnWnM0T25xa24xMW1Ub3pNcWJnMms2ZkpLN2liNmJkS2JJeWJOc1VmZTUwVnVJQnA4bWY1dXlLZGswNTBEYXdVYkdxNUdhaEl6UW02emJLV1AtX3dnQm9YaXdUSmRmbW5yRmtmOEkzdzZXRjlha0VOMWNIM1g5bUlWS1kxT1RldS02b2ZHQ3lKRXlqX0hB?oc=5",
       "published": "Fri, 22 May 2026 18:01:00 GMT",
@@ -35,13 +42,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdWlkNzA1aU9MRkpadmtYejRWbnJXSDFkWVFSY29vck5lUk8yZGxxOVcyaGNMMWhoT2lpM3R2Q2pKOFZ1OUdLUzRwQm56YlE3b0g0VWVyWGZ6WG42UWdFUzRQOEJnSmdZRGRWbGJ6WUpaQUpiVnI4N2R2MXY2YTNpQW1BUl94elFUbUJqUndtaUNYTXhtLURiTXdSN2E?oc=5",
       "published": "Fri, 22 May 2026 03:57:36 GMT",
       "source": "Tripuratimes",
-      "category": "health"
-    },
-    {
-      "title": "Suspected and confirmed measles deaths top 500 in Bangladesh - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0EwTzJtblh0ZndhYndNc1BUdHlneV9zRGhkQUplUVJFRy1tVGJ0aXhVdUV3NDB4Z0dRSEwyQ2N0UXF3Wi1lZnZkc3BFOU8xRUtBdE9Yd2xHdFljNVR2SWVCTmktRUxCWGJNUTJIdmRPay1Jc0NYUWYycUl0aVVsSS1ZekpRNm1haXo2ZEpCVF9MQU95WXdjTWdLQXV2aXNrYWtPUUVGOTUyUkdYWFFvRmJiQQ?oc=5",
-      "published": "Sat, 23 May 2026 14:38:12 GMT",
-      "source": "marketscreener.com",
       "category": "health"
     },
     {
@@ -91,6 +91,20 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTVhbzdXUkNRYUpBSzBZWksyTHBOdXJTa3Rkek5ZeHFjdFZ6RDloYXRrQ3FzeTVmdlhLOGpTNGtHQWpxdnJaTUtXa0pubEw0SHF2aGMwaUt5dzUtd0ZfUWp0Qnh6Njktbk1WOHg2c3g5NlJ2RGY5NnM1NE52QXhaN29pN0J5N2RPRjNfT2lFbzdtQXc3RkZBUnRrbnZrUjhKRjVLYU5vN1NFYk5NbGxxaE9TakkxVEtDU3FHdlZrRDRQX29sNDNBaHpxNkJoclpHbmN4eFlSYw?oc=5",
       "published": "Sat, 23 May 2026 13:44:46 GMT",
       "source": "The Hindu",
+      "category": "health"
+    },
+    {
+      "title": "How scientists cracked a rare hantavirus outbreak linked to a cruise ship far from shore - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTJXa29taEEteDczRXhSdmFXUVpNdWNLZDJ3NlBDdUduZkMtWDRwUENMbjd3Y0VrUzhjc2VIZEs2X2dpVFA4NVFyc0gteWN5MW1XdXQ5cDI0cGRkSG9iQ0tqdXlyMHhiRUNSejhPN09BdHUxcEpOQkpRQ19YVGxiT0tDbDlfOHVwNDlIQWJYakV1VGdHSTFfc0pJVm4xakhyV3RrZG1TX2dCYmFsMnZzaUo5VHM4dw?oc=5",
+      "published": "Sat, 23 May 2026 08:42:46 GMT",
+      "source": "Telangana Today",
+      "category": "health"
+    },
+    {
+      "title": "Childhood junk food can rewire brain for life: Study - ET HealthWorld",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEtkV3VYQmx3UnhBd0xKOGpHbExTaGJZT3k0VW54T3piY213MXFNMWNuZV9ZVmhyYU1weGs3OXg0Z1I1YmcxZVhlckpRSGRrVU1BSzEyLVZsdEw4eWl2MW5FTlIwT0RPdnp5X0lKb2h3QVJXdzhheV9LWnd5S3BERTBxamlZQlVENzB6SW16MFBNNmI3U3FZZHRrTEJ6OUEtbWJrUWd4bF90LVdJVmstdmphd2hDMklQNlcw0gHAAUFVX3lxTE1IMFdaQi1iN3Z4QVpZYk5ENmhrVzYzNGcwZDdDUGFSX1M2d2dQdWtzQ1NlOWI5clViWlpqdHdRM2RqM3dyU3B4aFRNeUFlUjdCMjV2cWNwUUhOb3Rsa1hScXJPRU5EWFV6bGszOHRqNWhzU0p5blJxbEN6NzlOd3VRZXhzdkdZOTRtQ19ub2UtZmc2QUZMc2tvblpkRHhQSFcyaFFTZU5OMnhQU2xUbVk2aDg2eEpqZG1Xb3N1Ti05Zw?oc=5",
+      "published": "Fri, 22 May 2026 01:38:37 GMT",
+      "source": "ET HealthWorld",
       "category": "health"
     },
     {

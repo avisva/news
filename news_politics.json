@@ -1,36 +1,59 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Understanding legal philosophy key to ensuring justice: Former CJ Refat Ahmed",
-      "description": "UITS VC says such initiatives help build a knowledge-based society",
-      "link": "https://www.tbsnews.net/bangladesh/education/understanding-legal-philosophy-key-ensuring-justice-former-cj-refat-ahmed",
-      "source": "The Business Standard",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/05/22/seminar_uits.jpg",
-      "published": "2026-05-22 12:05:00",
-      "category": [
-        "top",
-        "politics",
-        "education"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "Calcutta HC grants interim protection from arrest to ex-Trinamool legislator, husband",
-      "description": "Kolkata, May 22 (IANS) A single-judge bench of the Calcutta High Court, on Friday, granted interim protection from coercive police action, including arrest, to former [...]",
-      "link": "https://bhaskarlive.in/calcutta-hc-grants-interim-protection-from-arrest-to-ex-trinamool-legislator-husband/",
-      "source": "Bhaskarlive",
-      "image": "https://i1.wp.com/bhaskarlive.in/wp-content/uploads/2025/12/images-1.jpg?ssl=1",
-      "published": "2026-05-22 12:05:00",
+      "title": "Green candidate will challenge oil and gas firms in crucial Aberdeen by-election",
+      "description": "The party is fielding a Robert Gordon University student who says local people have been abandoned by oil and gas companies.",
+      "link": "https://www.pressandjournal.co.uk/fp/politics/7024962/green-party-aberdeen-south-byelection/",
+      "source": "Pressandjournal",
+      "image": "https://wpcluster.dctdigital.com/wp-content/uploads/sites/2/2026/05/Jorg_75134277-2mpinvau8-e1779467284959-937x564.jpg",
+      "published": "2026-05-22 16:38:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "india"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "L'Europe termine en hausse, les espoirs d'un accord a\u0300 Te\u0301he\u0301ran pre\u0301dominent",
+      "description": null,
+      "link": "https://www.reuters.com/fr/affaires/leurope-termine-en-hausse-les-espoirs-dun-accord-thran-prdominent-2026-05-22/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/LEH4KDWPSBPDLCW3RZJTSV7M7Y.jpg?auth=837946636d08e0c9f397a59f97ebecc5ec245ae638cd19514b99c7d0d9ce8e0e&smart=true&width=1920",
+      "published": "2026-05-22 16:37:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india",
+        "united kingdom",
+        "japan",
+        "ukraine",
+        "south africa",
+        "israel",
+        "china",
+        "iran",
+        "russia",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Alberta to vote on whether to initiate independence referendum after adverse court rulings",
+      "description": "Alberta Premier Danielle Smith announced Thursday that the government will ask voters in a fall referendum whether the province should remain in Canada. The announcement comes after a provincial court twice quashed a citizen-initiated independence petition over concerns that First Nations were not properly consulted. The scheduled October provincial referendum will ask Albertan voters if [...] The post Alberta to vote on whether to initiate independence referendum after adverse court rulings appeared first on JURIST - News .",
+      "link": "https://www.jurist.org/news/2026/05/alberta-to-vote-whether-to-initiate-separation-referendum-after-adverse-court-rulings/",
+      "source": "Jurist",
+      "image": "https://www.jurist.org/news/wp-content/uploads/sites/4/2025/12/Alberta_Legislature_Building_June_7_2024.jpg",
+      "published": "2026-05-22 16:37:54",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

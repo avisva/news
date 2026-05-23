@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The natural balm I\u2019ve found to be better than Ibuprofen gel for soothing sore muscles",
+      "description": "I\u2019ve been using Espa\u2019s essential oil blend for eight years, and it can help ease headaches too",
+      "link": "https://www.independent.co.uk/extras/indybest/fashion-beauty/skincare/espa-muscle-rescue-balm-review-b2978444.html",
+      "source": "The Independent",
+      "image": "https://static.independent.co.uk/2026/05/18/10/18/espa-muscle-rescue-balm-indybest-review.png?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-05-22 16:37:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

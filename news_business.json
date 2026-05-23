@@ -1,15 +1,31 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Britain\u2019s EV boom hits second-hand bump in the road - Financial Times",
-      "description": "Britain\u2019s EV boom hits second-hand bump in the road Financial Times April 2026 \u2018strongest ever month\u2019 for used Tesla sales in the UK motortrader.com Used EV shortages emerge as demand surges in UK AM-online Used EV demand exceeded supply in May, says Indicata Motor Trade News Used EV sales gain momentum as lease wave takes hold Car Dealership Guy News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWUotRGtCdGZaQ1YxWmRLaDhjVzNrdzBoMjJLcEVoTTBsTlpCeFg2MGZLV0hJZGdrZlFUdXBHUnRTSExja3hhOW0wWmZwTjdiV01CUjNaMG9KSUIxcnJldW43ZTY0NXNybnJWT1BwcHQ3QXQza3VrT2ZDb1V5RFl0RWsxWUU?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-05-23 04:06:45",
+      "title": "Dunloe Hotel in Killarney gets \u20ac100m renovation from German Liebherr family",
+      "description": "Owners have begun demolition work on the site, with plans for new spa and conferencing facilities as well as 18 high-end suites",
+      "link": "https://www.irishtimes.com/business/2026/05/23/dunloe-hotel-in-killarney-gets-100m-renovation-from-german-liebherr-family/",
+      "source": "The Irish Times",
+      "image": "https://www.irishtimes.com/resizer/v2/LY4RSI5AGNCP7PWXS4JKLCFMDM.jpg?auth=8fcf311e93073cab59e6c027fbf33f9faf7ca1cfe3b7026379e83a9c24bc65ce&smart=true&width=630&height=350",
+      "published": "2026-05-23 05:59:00",
       "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Why it is now easier to get to top attractions in Suffolk",
+      "description": "People heading to the coast this summer will benefit from improved integrated public transport links.",
+      "link": "https://www.eadt.co.uk/news/26130225.first-bus-99-x1-services-use-lowestoft-rail-station/",
+      "source": "East Anglian Daily Times",
+      "image": null,
+      "published": "2026-05-23 05:59:00",
+      "category": [
+        "top",
         "business"
       ],
       "country": [
@@ -17,18 +33,48 @@
       ]
     },
     {
-      "title": "Business : AICB Recognises Over 700 Banking Professionals, Strengthens Regional Banking Talent Pipeline",
-      "description": "KUALA LUMPUR, May 23 (Bernama) -- The Asian Institute of Chartered Bankers (AICB) has reaffirmed its commitment to strengthening the banking talent pipeline in Malaysia and across the region, with over 700 banking professionals recognised at its 9th Chartered Banker Conferment Ceremony.",
-      "link": "http://www.bernama.com/en/news.php?id=2560556",
-      "source": "Bernama",
-      "image": "https://www.bernama.com/storage/photos/d2dfa48e38af30a01568c632e8db52e16a1120d40cd54-medium",
-      "published": "2026-05-23 04:06:24",
+      "title": "Why it is now easier to get to top attractions in Suffolk",
+      "description": "People heading to the coast this summer will benefit from improved integrated public transport links.",
+      "link": "https://www.edp24.co.uk/news/26130225.first-bus-99-x1-services-use-lowestoft-rail-station/",
+      "source": "Edp24",
+      "image": null,
+      "published": "2026-05-23 05:59:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "malaysia"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "North Kolkata traffic update: May 23",
+      "description": null,
+      "link": "https://newseisamay.com/west-bengal/kolkata/north-kolkata-traffic-update-may-23-9927d586-8c75-42cb-b6b8-9381215f83df.cms",
+      "source": "Newseisamay",
+      "image": null,
+      "published": "2026-05-23 05:58:36",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Challenges farmers are facing today",
+      "description": "The risen fuel prices are already driving transport costs upwards and making it harder for farmers to transport their farm yields to markets",
+      "link": "https://www.monitor.co.ug/uganda/magazines/farming/challenges-farmers-are-facing-today-5469658",
+      "source": "Monitor",
+      "image": "https://www.monitor.co.ug/resource/blob/5367304/d167e8fcb7d39d4f18d58a3d8f4a9879/seed06pix-data.jpg",
+      "published": "2026-05-23 05:58:20",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "uganda"
       ]
     }
   ]

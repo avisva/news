@@ -1,21 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Testimony: Northumberland County Jail officials never asked IT supervisor to search for missing documents",
-      "description": "SUNBURY \u2014 An IT administrator for the Northumberland County Jail testified no one asked her to search for missing documents, despite multiple requests by Northumberland County District Attorney Michael O\u2019Donnell and an order by Judge Edward Greco.",
-      "link": "https://www.dailyitem.com/news/testimony-northumberland-county-jail-officials-never-asked-it-supervisor-to-search-for-missing-documents/article_65829d93-2ee1-4382-922e-8009899b68e0.html",
-      "source": "Daily Item",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/f/43/f431a380-a23b-5517-8f3b-b7f86df4813f/578d7f1da4f6b.image.jpg?resize=400%2C300",
-      "published": "2026-05-22 19:30:00",
+      "title": "NYT publisher AG Sulzberger criticized President Trump's incursions on press freedom and chastised some news outlets for capitulating to the president (Gregory Svirnovskiy/Politico)",
+      "description": "Gregory Svirnovskiy / Politico : NYT publisher AG Sulzberger criticized President Trump's incursions on press freedom and chastised some news outlets for capitulating to the president \u2014 Sulzberger reprehended publications he said have settled \u201cwinnable cases\u201d with the president, refocused their editorial pages away ...",
+      "link": "https://mediagazer.com/260522/p15",
+      "source": "Mediagazer",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fbb%2F30%2F594632cb4939a2213a39f3ac1c2a%2Fnew-york-times-new-editor-32772.jpg",
+      "published": "2026-05-22 21:50:00",
       "category": [
         "top",
-        "politics",
-        "crime"
+        "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Breaking: Orduen wins ADC ticket for House of Representatives in Vandeikya/Konshisha",
+      "description": "Dr. Aondoaseer Gbe Benjamin Orduen, AG-BEN, secures ADC candidacy for Vandeikya/Konshisha in 2027 elections, promising grassroots solutions and unity.",
+      "link": "https://www.legit.ng/politics/1711323-breaking-orduen-wins-adc-ticket-house-representatives-vandeikyakonshisha/",
+      "source": "Legit Nigeria",
+      "image": "https://cdn.legit.ng/images/1200x675/f04d64556bfb4891.jpeg?v=1",
+      "published": "2026-05-22 21:49:43",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "nigeria"
       ]
     }
   ]

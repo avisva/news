@@ -1,5 +1,64 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Primark staff taught me click and collect method to save money every time",
+      "description": "If you love the Primark click and collect option because you can buy additional things at the till without queuing, this sneaky little trick is going to be a game-changer and money-saver for you...",
+      "link": "https://www.liverpoolecho.co.uk/whats-on/shopping/primark-staff-taught-click-collect-33982855",
+      "source": "Liverpool Echo",
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article33981960.ece/ALTERNATES/s615/0_Primarks.jpg",
+      "published": "2026-05-24 03:02:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Netflix to launch cheaper ad-supported plan in Thailand",
+      "description": "Netflix plans to expand its lower-cost ad-supported subscription package to more countries, including Thailand, in 2027, after reporting strong growth in the service and rising viewer engagement worldwide.",
+      "link": "https://www.bangkokpost.com/life/tech/3260043/netflix-to-launch-cheaper-adsupported-plan-in-thailand",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.comhttps//static.bangkokpost.com/media/content/20260524/6099094.jpg",
+      "published": "2026-05-24 03:02:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "BYD\u2019s Denza Z9 GT Chopard edition sold for 811,000 USD, most expensive Denza ever",
+      "description": "BYD and Chopard\u2019s one-off Denza Z9GT sold for 700,000 euros at Cannes amfAR gala, raising funds for AIDS research. The post BYD\u2019s Denza Z9 GT Chopard edition sold for 811,000 USD, most expensive Denza ever appeared first on CarNewsChina.com .",
+      "link": "https://carnewschina.com/2026/05/24/byds-denza-z9-gt-chopard-edition-sold-for-811000-usd-most-expensive-denza-ever/",
+      "source": "Car News China",
+      "image": "https://carnewschina.com/wp-content/uploads/2026/05/e59088e68890e6b1bde8bda6e59bbee78987e5b9b6e68da2e8838ce699af.png",
+      "published": "2026-05-24 03:01:54",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "china"
+      ]
+    },
+    {
+      "title": "Is Siemens Energy The Missing Link Between Data Centre Power Surge And Grid Expansion?",
+      "description": "Synopsis: Siemens Energy India is not a direct data centre or AI company. Its real story sits deeper in the electricity chain, where rising power demand needs transformers, substations, switchgear,...",
+      "link": "https://incbusiness.in/stocks/is-siemens-energy-the-missing-link-between-data-centre-power-surge-and-grid-expansion/",
+      "source": "Inc Business",
+      "image": "https://incbusiness.in/wp-content/uploads/2026/05/Siemens-Energy-1024x683-1.jpg",
+      "published": "2026-05-24 03:01:23",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

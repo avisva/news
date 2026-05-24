@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 12,
   "results": [
     {
-      "title": "'Time of flux': ACT Independent Senator David Pocock leaves door open to big political move",
-      "description": "ACT independent senator David Pocock confirms talks among independents to form a political party to 'deal with the root causes' of Australia's challenges",
-      "link": "https://www.canberratimes.com.au/story/9252467/david-pocock-independents-discuss-forming-a-new-political-party/?src=rss",
-      "source": "The Canberra Times",
+      "title": "Letter: Senate District 27 deserves chance for change",
+      "description": null,
+      "link": "https://www.timescitizen.com/opinion/letter-senate-district-27-deserves-chance-for-change/article_1473536a-985f-429f-98b6-9f5e38d5c5f8.html",
+      "source": "Times-citizen Communications",
+      "image": "https://bloximages.newyork1.vip.townnews.com/timescitizen.com/content/tncms/assets/v3/editorial/0/8f/08fa261f-27c6-42f0-a626-7d710a1c9279/683f57dac8ddf.image.jpg?resize=200%2C200",
+      "published": "2026-05-24 04:58:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://www.armidaleexpress.com.au/story/9252596/defence-helps-pacific-partners-fight-illegal-fishing/?src=rss",
+      "source": "Armidale Express",
       "image": null,
-      "published": "2026-05-24 03:02:00",
+      "published": "2026-05-24 04:57:59",
       "category": [
         "top",
         "politics"
@@ -18,46 +32,151 @@
       ]
     },
     {
-      "title": "Photo Gallery: Sikeston R-6 Superintendent Shannon Holifield's retirement party",
-      "description": "Sikeston R-6 staff and community members gathered May 21 to honor retiring superintendent Shannon Holifield, marking the close of her 19-year career in the district.",
-      "link": "https://www.standard-democrat.com/news/photo-gallery-sikeston-r-6-superintendent-shannon-holifields-retirement-party-a11aad19",
-      "source": "Standard Democrat",
-      "image": "https://public-assets-prod.pubgen.ai/brand_99ed60df-1a25-4373-949a-f397940d33bb/asset_2a4a2bcf-2b31-477f-9282-8ed3be356084.JPG",
-      "published": "2026-05-24 03:01:53",
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://michaelwest.com.au/defence-helps-pacific-partners-fight-illegal-fishing/",
+      "source": "Michael West Media",
+      "image": "https://michaelwest.com.au/wp-content/uploads/2026/05/05cc7764-e6ed-44d7-a05f-b709c95345be.jpg",
+      "published": "2026-05-24 04:57:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://www.therural.com.au/story/9252596/defence-helps-pacific-partners-fight-illegal-fishing/?src=rss",
+      "source": "The Rural",
+      "image": null,
+      "published": "2026-05-24 04:57:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://www.braidwoodtimes.com.au/story/9252596/defence-helps-pacific-partners-fight-illegal-fishing/?src=rss",
+      "source": "Braidwood Times",
+      "image": null,
+      "published": "2026-05-24 04:57:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://www.blayneychronicle.com.au/story/9252596/defence-helps-pacific-partners-fight-illegal-fishing/?src=rss",
+      "source": "Blayney, Nsw",
+      "image": null,
+      "published": "2026-05-24 04:57:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://www.bluemountainsgazette.com.au/story/9252596/defence-helps-pacific-partners-fight-illegal-fishing/?src=rss",
+      "source": "Blue Mountains Gazette",
+      "image": null,
+      "published": "2026-05-24 04:57:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Defence helps Pacific partners fight illegal fishing",
+      "description": "The Australian Defence Force is helping detect and deter illegal and unregulated fishing across the Southwest Pacific as part of a multinational crackdown.",
+      "link": "https://www.bordermail.com.au/story/9252596/defence-helps-pacific-partners-fight-illegal-fishing/?src=rss",
+      "source": "The Border Mail",
+      "image": null,
+      "published": "2026-05-24 04:57:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "497 Nigerians Repatriated From Niger Republic Arrive Kano",
+      "description": "No fewer than 497 stranded Nigerian migrants repatriated from Agadez in Niger Republic arrived in Kano on Friday under the Voluntary Humanitarian Return programme facilitated by the International Organisation for Migration (IOM) in collaboration with the Federal Government. The returnees were received at the Aminu Kano International Airport by officials of the National Commission for [...]",
+      "link": "https://leadership.ng/497-nigerians-repatriated-from-niger-republic-arrive-kano/",
+      "source": "Leadership",
+      "image": "https://leadership.ng/wp-content/uploads/2026/05/NEMA-repatriates-497-Nigerians-from-Niger-Republic-696x428-1.jpg",
+      "published": "2026-05-24 04:57:46",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "10,000 Kurds Apply for Syrian Citizenship",
+      "description": "Damascus announced on Saturday that it has received over 10,000 applications for Syrian citizenship from Kurds in wake of a recent decree that preserves their rights in the country. The Interior Ministry said it received applications for citizenship from 2,892 families and 10,516 individuals. The majority of the applications were filed in the northeastern Hasakeh region, followed by Aleppo, Raqqa, then Deir Ezzor.",
+      "link": "https://english.aawsat.com/node/5276604",
+      "source": "Al-sharq Al-awsat",
+      "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-05/1558253.jpeg.webp",
+      "published": "2026-05-24 04:57:31",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Police Invite SDP NWC Members Over Secretariat Takeover Attempt",
+      "description": "The leadership crisis rocking the Social Democratic Party (SDP) has taken a fresh turn after the police reportedly invited members of the party\u2019s National... The post Police Invite SDP NWC Members Over Secretariat Takeover Attempt appeared first on Naija News .",
+      "link": "https://www.naijanews.com/2026/05/24/police-invite-sdp-nwc-members/",
+      "source": "Naija News",
+      "image": "https://www.naijanews.com/wp-content/uploads/2026/05/Social-Democratic-Party-SDP.webp",
+      "published": "2026-05-24 04:57:25",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Devotees gather at Shri Ram Janmabhoomi Temple on Purushottam Maas Ashtami",
+      "description": "Ayodhya witnessed a large influx of devotees at the Shri Ram Janmabhoomi Temple on Sunday, marking the auspicious occasion of Shukla Paksha Purushottam Maas",
+      "link": "https://thenewsmill.com/2026/05/devotees-gather-at-shri-ram-janmabhoomi-temple-on-purushottam-maas-ashtami/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/05/devotees-gather-at-shri-ram-janmabhoomi-temple-on-purushottam-maas-ashtami.jpg",
+      "published": "2026-05-24 04:57:21",
       "category": [
         "top",
         "politics",
         "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Seoul Mayoral Race Tightens as Oh Se-hoon, Jung Won-oh Run Neck-and-Neck",
-      "description": "Seoul's mayoral race has narrowed to a dead heat, with Democratic Party candidate Jung Won-oh and People Power Party's Oh Se-hoon separated by less than 1 percentage point in recent polls.",
-      "link": "https://en.sedaily.com/politics/2026/05/24/seoul-mayoral-race-tightens-as-oh-se-hoon-jung-won-oh-run",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/05/24/20047718_1.jpg",
-      "published": "2026-05-24 03:01:29",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Today Breaking News | \u09b8\u0995\u09be\u09b2 \u09ee-\u099f\u09be\u09b0 \u09ac\u09a1\u09bc \u0996\u09ac\u09b0 | Suvendu Adhikari | Falta Election Results | Weather News",
-      "description": "Today Breaking News | \u09b8\u0995\u09be\u09b2 \u09ee-\u099f\u09be\u09b0 \u09ac\u09a1\u09bc \u0996\u09ac\u09b0 | Suvendu Adhikari | Falta Election Results | Weather Falta Election Results | \u0986\u099c \u09ab\u09b2\u09a4\u09be\u09b0 \u09ab\u09b2\u0964 \u09ad\u09c7\u09be\u099f\u09c7\u09b0 \u0986\u0997\u09c7\u0987 \u09ae\u09af\u09bc\u09a6\u09be\u09a8 \u099b\u09be\u09a1\u09bc\u09c7\u09a8 \u09a4\u09c3\u09a3\u09ae\u09c2\u09b2 \u09aa\u09cd\u09b0\u09be\u09b0\u09cd\u09a5\u09c0 \u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09bf\u09b0\u0964 \u0986\u09a7\u09be\u09b8\u09c7\u09a8\u09be\u09b0 \u0998\u09c7\u09b0\u09be\u099f\u09c7\u09be\u09aa\u09c7 \u098f\u0995\u09c1\u09b6\u09c7 \u09ae\u09c7 \u0989\u09ce\u09b8\u09ac\u09c7\u09b0 \u09ae\u09c7\u099c\u09be\u099c\u09c7 \u09aa\u09c1\u09a8\u09b0\u09cd\u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u0964 \u09ad\u09af\u09bc\u09b9\u09c0\u09a8 \u09ad\u09c7\u09be\u099f\u09c7 \u09b0\u09be\u09af\u09bc \u0995\u09c7\u09be\u09a8 \u09a6\u09bf\u0995\u09c7? \u09b9\u09be\u0987\u09ad\u09c7\u09be\u09b2\u09cd\u099f\u09c7\u099c \u0986\u09b8\u09a8\u09c7\u09b0 \u09b0\u09c7\u099c\u09be\u09b2\u09cd\u099f, \u09a8\u09bf\u0989\u099c18 \u09ac\u09be\u0982\u09b2\u09be\u09af\u09bc \u09b8\u09ac\u09be\u09b0 \u0986\u0997\u09c7\u0964Ayushman Bharat | \u09b0\u09be\u099c\u09cd\u09af\u09c7 \u09a1\u09be\u09ac\u09b2 \u098f\u099e\u09cd\u099c\u09bf\u09a8\u09c7\u09b0 \u09b8\u09c1\u09ab\u09b2\u0964 \u099c\u09c1\u09b2\u09be\u0987 \u09a5\u09c7\u0995\u09c7 \u0986\u09af\u09bc\u09c1\u09b7\u09cd\u09ae\u09be\u09a8 \u09ad\u09be\u09b0\u09a4 \u0995\u09be\u09b0\u09cd\u09a1\u09c7\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09b0\u09be\u099c\u09cd\u09af\u09ac\u09be\u09b8\u09c0\u09b0\u0964 \u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995\u09ad\u09be\u09ac\u09c7 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u09b8\u09be\u09a5\u09bf\u09b0 \u0986\u0993\u09a4\u09be\u09af\u09bc \u09a5\u09be\u0995\u09be \u09ec \u0995\u09c7\u09be\u099f\u09bf \u0989\u09aa\u09ad\u09c7\u09be\u0995\u09cd\u09a4\u09be\u0995\u09c7 \u09ac\u09bf\u09a8\u09be\u09ae\u09c2\u09b2\u09cd\u09af\u09c7 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be\u0964 \u09ef\u09ed\u09ec \u0995\u09c7\u09be\u099f\u09bf \u099f\u09be\u0995\u09be \u09ac\u09b0\u09be\u09a6\u09cd\u09a6 \u0995\u09b0\u09b2 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0\u0964Suvendu Adhikari | \u09ac\u09bf\u099c\u09c7\u09aa\u09bf \u0986\u09ae\u09b2\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09b0 \u09b0\u09c7\u09b2\u09aa\u09a5\u09c7 \u09a8\u09af\u09bc\u09be \u0997\u09a4\u09bf\u0964 \u09a4\u09c3\u09a3\u09ae\u09c2\u09b2 \u099c\u09ae\u09be\u09a8\u09be\u09af\u09bc \u0986\u099f\u0995\u09c7 \u09a5\u09be\u0995\u09be \u09ec\u09e7\u099f\u09bf \u09aa\u09cd\u09b0\u0995\u09b2\u09cd\u09aa\u09c7\u09b0 \u0995\u09be\u099c \u09b6\u09c1\u09b0\u09c1\u0964 \u099c\u09ae\u09bf \u0985\u09a7\u09bf\u0997\u09cd\u09b0\u09b9\u09a3 \u0995\u09b0\u09c7 \u09b9\u09b8\u09cd\u09a4\u09be\u09a8\u09cd\u09a4\u09b0 \u09ac\u09b2\u09c7 \u09a6\u09be\u09ac\u09bf\u0964 \u09a1\u09be\u09ac\u09b2 \u098f\u099e\u09cd\u099c\u09bf\u09a8 \u09a1\u09c7\u09be\u099c\u09c7 \u099a\u09bf\u0982\u09a1\u09bc\u09bf\u09b9\u09be\u099f\u09be\u09a4\u09c7\u0993 \u09ae\u09c7\u099f\u09cd\u09b0\u09c7\u09be\u09b0 \u0995\u09be\u099c \u09a6\u09cd\u09b0\u09c1\u09a4 \u09b6\u09c7\u09b7\u0964 \u09ac\u09be\u09b0\u09cd\u09a4\u09be \u09ae\u09c1\u0996\u09cd\u09af\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0\u09b0\u0964 n18oc_kolkataWatch LIVE updates from News18 Bangla for the latest news from West Bengal, Kolkata, India, and around the world. Today\u2019s top headlines include updates on Suvendu Adhikari Delhi visit, \u09b6\u09c1\u09ad\u09c7\u09a8\u09cd\u09a6\u09c1 \u0985\u09a7\u09bf\u0995\u09be\u09b0\u09c0, Mamata Banerjee, TMC meeting at Kalighat, TMC councillors and KMC developments, Kolkata bus crisis, private bus strike. Major state developments also include updates on Sandip Ghosh, demolition linked to the former RG Kar Principal\u2019s residence, ED raids in West Bengal, Jay Kamdar ED case, Tiljala illegal building demolition, press conference by Subhankar Sarkar, Ashok Kirtania press conference, along with updates on sand smuggling and Arjun Singh. National headlines include updates from Pahalgam, death of a Pulwama accused, and key political developments across the country. International coverage includes the Iran Strait of Hormuz crisis news, Persian Gulf tensions, US-Iran blockade concerns, developments around global oil trade routes, Pakistan situation, and the latest on Ebola outbreak. For the latest \u09ac\u09be\u0982\u09b2\u09be \u0996\u09ac\u09b0, \u0995\u09b2\u0995\u09be\u09a4\u09be \u0996\u09ac\u09b0, \u09ac\u09be\u0982\u09b2\u09be \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf, breaking news, and live updates from North Bengal, South Bengal, and Kolkata, stay tuned to News18 Bangla LIVE.News 18 Bangla is an exclusive news channel on YouTube which streams news related to West Bengal, Nation and the World. The channel also has contemporary topic based debate and subject special series which are interesting & informative. Our channel aims to update the viewers with the current news.\u09ac\u09be\u0982\u09b2\u09be\u09b0 \u09aa\u09cd\u09b0\u09a5\u09ae \u09b8\u09be\u09b0\u09bf\u09b0 \u0996\u09ac\u09b0\u09c7\u09b0 \u099a\u09cd\u09af\u09be\u09a8\u09c7\u09b2 \u09a8\u09bf\u0989\u099c18 \u09ac\u09be\u0982\u09b2\u09be \u09f7 \u0997\u09a4 \u09ac\u09c7\u09b6 \u0995\u09af\u09bc\u09c7\u0995\u09ac\u099b\u09b0 \u09a7\u09b0\u09c7 \u09b8\u09be\u09ab\u09b2\u09cd\u09af\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u0996\u09ac\u09b0 \u09aa\u09b0\u09bf\u09ac\u09b6\u09c7\u09a8 \u0995\u09b0\u09c7 \u0986\u09b8\u099b\u09c7 \u098f\u0987 \u099a\u09cd\u09af\u09be\u09a8\u09c7\u09b2 \u09f7 \u09ac\u09cd\u09b0\u09c7\u0995\u09bf\u0982 \u09a8\u09bf\u0989\u099c \u09a5\u09c7\u0995\u09c7 \u09b6\u09c1\u09b0\u09c1 \u0995\u09b0\u09c7 \u09b0\u09be\u099c\u09a8\u09c0\u09a4\u09bf\u09b0 \u0996\u09ac\u09b0 \u09f7 \u099c\u09c7\u09b2\u09be, \u0995\u09cd\u09b0\u09be\u0987\u09ae, \u09ac\u09bf\u09a8\u09c7\u09be\u09a6\u09a8, \u0996\u09c7\u09b2\u09be, \u09ac\u09cd\u09af\u09ac\u09b8\u09be-\u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af, \u09aa\u09cd\u09b0\u09be\u0987\u09ae \u099f\u09be\u0987\u09ae \u09a1\u09bf\u09ac\u09c7\u099f- \u09b8\u09ac \u0996\u09ac\u09b0 \u09b8\u09ac\u09be\u09b0 \u0986\u0997\u09c7 \u099c\u09be\u09a8\u09a4\u09c7, \u09a6\u09c7\u0996\u09a4\u09c7 \u09a5\u09be\u0995\u09c1\u09a8 News18 Bangla \u09f7 \u099a\u09cd\u09af\u09be\u09a8\u09c7\u09b2\u09c7\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u09a8\u09bf\u0989\u099c18 \u09ac\u09be\u0982\u09b2\u09be\u09b0 \u0993\u09af\u09bc\u09c7\u09ac\u09b8\u09be\u0987\u099f https://bengali.news18.com/ -\u098f \u09a8\u099c\u09b0 \u09b0\u09be\u0996\u09c1\u09a8 \u09f7Connect with us on social:Visit us: https://bengali.news18.com/For More Video: https://bengali.news18.com/videos/Facebook: / news18bangla Twitter: / news18bengali Instagram: / news18bangla News18 Mobile App - https://onelink.to/desc-youtubeID_TRC",
-      "link": "https://bengali.news18.com/videos/kolkata/today-breaking-news-suvendu-adhikari-falta-election-results-weather-news-2719457.html",
-      "source": "Bengali News 18",
-      "image": "https://images.news18.com/static-bengali/uploads/2026/05/1779594421_d6719bff-c35e-48b0-9996-c8e11bc40dcb-1200x720.jpeg",
-      "published": "2026-05-24 03:01:26",
-      "category": [
-        "top",
-        "politics"
       ],
       "country": [
         "india"

@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "ARC Discovery Project Awarded to a Multidisciplinary Team on Quantum Research",
-      "description": "Dr. Trong Toan Tran, an academic in the School of Electrical and Data Engineering (SEDE), has been named one of the recipients of the ARC Discovery Project...",
-      "link": "https://www.uts.edu.au/news/2023/11/arc-discovery-project-awarded-multidisciplinary-team-quantum-research",
-      "source": "Uts",
-      "image": "https://www.uts.edu.au/sites/default/files/2022-11/UTS-default-social-image.jpg",
-      "published": "2026-05-23 21:22:41",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

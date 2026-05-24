@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "ARC awards new training centre for future quantum leaders",
-      "description": "QSI's Troy Lee, Marika Kieferova, Yuval Sanders are named CIs on the $5 million project.",
-      "link": "https://www.uts.edu.au/news/2024/07/arc-awards-new-training-centre-future-quantum-leaders",
-      "source": "Uts",
-      "image": "https://www.uts.edu.au/sites/default/files/2022-11/UTS-default-social-image.jpg",
-      "published": "2026-05-23 21:22:31",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

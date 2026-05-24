@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "At least 82 dead in China\u2019s worst mining disaster in 17 years",
+      "description": "Coal miners in the sleepy Chinese county of Qinyuan sometimes dine at Zhang\u2019s skewer eatery, especially on payday, so a gas explosion that killed at least 82 of these workers left her feeling sorrow for their bereaved families. The tragedy unfolded in northern Shanxi province, with preliminary findings showing the company operating the mine had [...]",
+      "link": "https://hongkongfp.com/2026/05/24/at-least-82-dead-in-chinas-worst-mining-disaster-in-17-years/",
+      "source": "Hong Kong Free Press",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/05/china-mining-disaster.jpg",
+      "published": "2026-05-24 01:21:50",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "hong kong"
+      ]
+    }
+  ]
 }

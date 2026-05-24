@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The Paddy Wagon relocates in Moose Jaw, emphasizing family-friendly dining",
+      "description": "The Paddy Wagon, a Regina-based eatery renowned for its smash burgers, has officially reopened at a new location in Moose Jaw, now sharing a building with Taco Time at 204 Manitoba Street West. Owner Kyle Forrest confirmed the move, emphasizing the restaurant\u2019s commitment to a family-oriented atmosphere in line with its mission statement. \u201cWe just [...]",
+      "link": "https://moosejawexpress.com/the-paddy-wagon-relocates-in-moose-jaw-emphasizing-family-friendly-dining/",
+      "source": "Moose Jaw Express",
+      "image": "https://moosejawexpress.com/wp-content/uploads/2026/05/The-Paddy-Wagon-MJ-scaled.jpg",
+      "published": "2026-05-23 18:56:44",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

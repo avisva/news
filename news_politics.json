@@ -1,32 +1,30 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Czech news in brief for May 23: Saturday's top afternoon headlines",
-      "description": "Pavel says NATO should \u201cshow its teeth\u201d to Russia, German expulsion memorial defaced, and more weekend headlines.",
-      "link": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-may-23-2026-saturday-top-afternoon-headlines",
-      "source": "Expats",
-      "image": "https://www.expats.cz/images/publishing/articles/2026/05/og/daily-news-briefing-evening-edition-swzqi.jpg",
-      "published": "2026-05-23 15:32:00",
+      "title": "U.S. and Iran move closer to agreement, Trump says",
+      "description": "Donald Trump said that ongoing diplomatic efforts are progressing positively, adding that \"every day it gets better and better,\" although he declined to provide specific details about the emerging framework.",
+      "link": "https://www.azernews.az/region/258825.html",
+      "source": "Azernews",
+      "image": "https://www.azernews.az/media/2026/02/07/20260207_trump_obama_ape.jpg",
+      "published": "2026-05-23 18:57:00",
       "category": [
         "top",
-        "politics",
-        "crime"
+        "politics"
       ],
       "country": [
-        "czech republic"
+        "azerbaijan"
       ]
     },
     {
-      "title": "Oluremi Tinubu urges end to child marriage, better maternal care",
-      "description": "First Lady Oluremi Tinubu calls for urgent action to end child marriage in Nigeria, expand girls\u2019 education, and ensure quality maternal healthcare for all Read More: https://punchng.com/oluremi-tinubu-urges-end-to-child-marriage-better-maternal-care/",
-      "link": "https://punchng.com/oluremi-tinubu-urges-end-to-child-marriage-better-maternal-care/",
-      "source": "Punch",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/04/03020030/Remi-Tinubu.jpg",
-      "published": "2026-05-23 15:31:56",
+      "title": "President Tinubu\u2019s Re-Election Not Negotiable \u2013 Eradiri",
+      "description": "May 23 (THEWILL) \u2014 A former governorship candidate in Bayelsa State, Engr. Udengs Eradiri, has led the door-to-door campaign for President Bola Ahmed Tinubu to monitor the presidential primary election in his ward, declaring that the reelection of the President is not negotiable. Eradiri, who represented the campaign founded by High Chief Government Ekpemupolo, alias [...] The post President Tinubu\u2019s Re-Election Not Negotiable \u2013 Eradiri appeared first on THEWILL NEWS MEDIA .",
+      "link": "https://thewillnews.com/president-tinubus-re-election-not-negotiable-eradiri/",
+      "source": "Thewill News",
+      "image": "https://thewillnews.com/wp-content/uploads/2024/12/IMG_6047.jpeg",
+      "published": "2026-05-23 18:56:54",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
@@ -34,63 +32,47 @@
       ]
     },
     {
-      "title": "PRP clears Donald Duke, two others for presidential primaries",
-      "description": "The Peoples Redemption Party (PRP) has cleared Donald Duke, Nnaoke Ufere, and Yakubu Mohammed Kingsley for its presidential primaries. Learn more about the Read More: https://punchng.com/prp-clears-donald-duke-two-others-for-presidential-primaries/",
-      "link": "https://punchng.com/prp-clears-donald-duke-two-others-for-presidential-primaries/",
-      "source": "Punch",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2026/05/23154130/PRP.webp",
-      "published": "2026-05-23 15:31:56",
+      "title": "Democrats Fret Over Party Chair",
+      "description": "\u201cThe Democratic National Committee was already in a hole. Democrats worry Ken Martin is digging it deeper,\u201d Politico reports. \u201cMartin\u2019s decision to release and then disavow a scattershot autopsy on the Democrats\u2019 2024 losses has ratcheted up calls on the embattled Minnesotan to step aside and rattled donors already hesitant to cut checks to a [...]",
+      "link": "https://politicalwire.com/2026/05/23/democrats-fret-over-party-chair/",
+      "source": "Political Wire",
+      "image": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "published": "2026-05-23 18:56:45",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pakistan at centre of emerging World Order: Strategic significance of PM Shehbaz Sharif\u2019s China visit",
+      "description": "The visit of Shehbaz Sharif to China has emerged as one of the most strategically important diplomatic engagements in the rapidly changing global political environment.",
+      "link": "https://www.24newshd.tv/23-May-2026/pakistan-centre-emerging-world-order-strategic-significance-pm-shehbaz-sharif-s-china-visit",
+      "source": "24 News Hd",
+      "image": "https://www.24newshd.tv/digital_images/extra-large/2026-05-23/pakistan-centre-emerging-world-order-strategic-significance-pm-shehbaz-sharif-s-china-visit-1779562582-1428.jpeg",
+      "published": "2026-05-23 18:56:43",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Galadima wins Adamawa APC governorship primary, Haske fumes",
+      "description": "Mr Galadima polled 414,444 votes, while House of Representatives member Abdulrazak Namdas placed second with 86,004 votes. Abdulrahman Haske came third with 65,424 votes. The post Galadima wins Adamawa APC governorship primary, Haske fumes appeared first on Premium Times Nigeria .",
+      "link": "https://www.premiumtimesng.com/news/top-news/882199-galadima-wins-adamawa-apc-governorship-primary-haske-fumes.html",
+      "source": "Premium Times",
+      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/706198355_122188762328864151_6837382548334742578_n.jpg?fit=1080%2C730&ssl=1",
+      "published": "2026-05-23 18:56:29",
       "category": [
         "top",
         "politics"
       ],
       "country": [
         "nigeria"
-      ]
-    },
-    {
-      "title": "Nasha Mukt Jammu Kashmir Abhiyaan sees widespread public support, intensified enforcement across J&K",
-      "description": "SRINAGAR, MAY 23: The ongoing anti-drug campaign, \u2018Nasha Mukt JK Abhiyaan has recorded remarkable achievements and impact across... The post Nasha Mukt Jammu Kashmir Abhiyaan sees widespread public support, intensified enforcement across J&K appeared first on Morning Kashmir .",
-      "link": "https://www.morningkashmir.com/nasha-mukt-jammu-kashmir-abhiyaan-sees-widespread-public-support-intensified-enforcement-across-jk/",
-      "source": "Morning Kashmir",
-      "image": "https://i0.wp.com/www.morningkashmir.com/wp-content/uploads/2026/05/20260523_210055.jpg",
-      "published": "2026-05-23 15:31:44",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Belfast man and Lurgan woman among flotilla activists to return home after Israeli detention",
-      "description": "Fra Hughes and Helena Kearns return to Ireland after being deported by Israel",
-      "link": "https://www.irishnews.com/news/ireland/belfast-man-and-lurgan-woman-among-flotilla-activists-to-return-home-after-israeli-detention-E2EZ4PG2RNEWFGPFJW3PS2H6FI/",
-      "source": "The Irish News",
-      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/xCnCRGYO_YN_0YJTc1Flg_mufnI=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/4EE3C7ZIUBHORNCSFRIAC54A34.jpg",
-      "published": "2026-05-23 15:31:42",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Just over 300 votes separating two Galway West candidates based on one tally",
-      "description": "Tallies have put Noel Thomas (Independent Ireland) on 9,512 which is 21% of the first preference vote with Fine Gael\u2019s Sea\u0301n Kyne pulling in 9,201 which is 20% of first preference votes.",
-      "link": "https://www.connachttribune.ie/news/politics/galway-west-bye-election-2026/live-only-311-votes-separate-two-galway-west-candidates-in-one-tally-8638535",
-      "source": "Connacht Tribune",
-      "image": "https://www.connachttribune.ie/jpim-static/image/2026/05/23/15/14/Election-count-7-(1).jpeg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-05-23 15:31:39",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "ireland"
       ]
     }
   ]

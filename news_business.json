@@ -1,15 +1,31 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Lois Lofts Plans 93 Apartments on South Tampa Lot",
-      "description": "A 93\u2010unit Lois Lofts is proposed at 5210 S. Lois Ave under Florida's Live Local Act; city filings and press reports differ on the affordability set\u2010aside.",
-      "link": "https://hoodline.com/2026/05/from-rust-to-rent-lois-lofts-aims-to-pack-93-units-into-south-tampa-lot/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/5/lois-lofts-plans-93-apartments-on-south-tampa-lot-2.webp",
-      "published": "2026-05-23 15:31:39",
+      "title": "$1.82M NCInnovation grant supporting sweet potato startup at App State",
+      "description": "BOONE \u2014 Backed by a $1.82 million NCInnovation grant, Appalachian State University professor Dr. Brett Taubman and his research team are transforming surplus North Carolina sweet potatoes into a first-of-its-kind,",
+      "link": "https://www.wataugademocrat.com/news/asu_news/1-82m-ncinnovation-grant-supporting-sweet-potato-startup-at-app-state/article_8b46ebf7-640f-42d3-95db-89ddde81a8a1.html",
+      "source": "Watauga Democrat",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wataugademocrat.com/content/tncms/assets/v3/editorial/b/de/bdefd946-da9e-4bd3-9053-789ba1aff8b2/6a11f976e4814.image.webp?crop=1661%2C872%2C49%2C7&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-05-23 18:57:00",
       "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "10 most expensive homes sold in Washington Township, May 11-17",
+      "description": "A single-family home in Blackwood that sold for $600,000 tops the list of the most expensive residential real estate sales in Washington Township in the past week.",
+      "link": "https://www.nj.com/realestate-news/2026/05/10-most-expensive-homes-sold-in-washington-township-may-11-17.html",
+      "source": "Nj",
+      "image": "https://www.nj.com/resizer/v2/6G3XJNJAIVA23MV56F7NBALZBA.jpg?auth=ddca5bf6667807382958d9e1e95411d09b18486b900162240c72dd4e9e36db88&smart=true&height=1200",
+      "published": "2026-05-23 18:56:42",
+      "category": [
+        "top",
         "business"
       ],
       "country": [

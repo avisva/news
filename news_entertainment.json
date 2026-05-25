@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "'I've finally had a good sleep' with Dunelm's new \u00a329 'breathable' summer bedding",
+      "description": "Dunelm shoppers are racing to get their hands on the brand-new striped bedding set hailed \"perfect\" for keeping cool in summer",
+      "link": "https://www.dailyrecord.co.uk/lifestyle/ive-finally-good-sleep-dunelms-37182576",
+      "source": "Daily Record",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37182701.ece/ALTERNATES/s615/0_dunelmJPG.jpg",
+      "published": "2026-05-25 06:24:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

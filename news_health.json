@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "New research upends the argument for a popular longevity supplement",
+      "description": "Gwyneth Paltrow has tried it. So have Kendall Jenner and Hailey Bieber. And lest you think this product is just for women, know that influencers such as Andrew Huberman, Bryan Johnson and Gary Brecka have all endorsed its use, too. The post New research upends the argument for a popular longevity supplement appeared first on Hawaii Tribune-Herald .",
+      "link": "https://www.hawaiitribune-herald.com/2026/05/25/nation-world-news/new-research-upends-the-argument-for-a-popular-longevity-supplement/",
+      "source": "Hawaii Tribune-herald",
+      "image": "https://www.hawaiitribune-herald.com/wp-content/uploads/sites/6/2026/05/web1_LONGEVITY-SUPPLEMENT.jpg",
+      "published": "2026-05-25 10:05:00",
+      "category": [
+        "top",
+        "entertainment",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Letter: Flavored vape order has dire isle consequences",
+      "description": "The Trump administration has ordered the FDA to allow marketing of flavored vapes (\u201cFlavored favor,\u201d Star-Advertiser, May 17) . This decision endangers our keiki. Big Tobacco says that transferring tobacco addiction to nicotine addiction through vaping reduces harm. This weak argument collapses in the case of fruit-flavored vapes. They are, basically, a gateway to nicotine addiction for adolescents, generating a steady source clientele for Big Tobacco. Nine out of 10 youth who vape use flavored products. Fruit-flavored vaping is linked to higher rates of continuous, long-term use among teens.",
+      "link": "https://www.staradvertiser.com/2026/05/25/editorial/letters/letter-flavored-vape-order-has-dire-isle-consequences/",
+      "source": "Hawaii News",
+      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/05/web1_20260525-oped-vape-demonstration.jpg",
+      "published": "2026-05-25 10:05:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

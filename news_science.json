@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Tartu scientists map how genes affect metabolism",
-      "description": "Researchers at the University of Tartu have mapped how genes influence human metabolism using data from more than half a million people. The large-scale study gives scientists a more precise picture of the causes of disease and could help speed up drug development.",
-      "link": "https://news.err.ee/1610036314/tartu-scientists-map-how-genes-affect-metabolism",
-      "source": "Err",
-      "image": "https://s.err.ee/photo/crop/2026/03/26/3276891h96c4t2.jpg",
-      "published": "2026-05-25 08:21:00",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "estonia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

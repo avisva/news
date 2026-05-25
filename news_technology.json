@@ -1,15 +1,31 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Best Memorial Day Deals Under $50: Don\u2019t Miss These Top Discounts on Tech, Home and More",
-      "description": "Upgrade your home without breaking the bank -- shop major deals on air purifiers, kitchen gear, smart security and more.",
-      "link": "https://www.cnet.com/deals/best-memorial-day-deals-under-50-2026-5-25/",
-      "source": "Cnet",
-      "image": "https://www.cnet.com/a/img/resize/1f3dfd79a1eae17dc2f438118b86bc468a10843c/hub/2025/05/23/984dbcd0-7523-49c2-8f98-49d0082309b7/under-50.png?auto=webp&fit=crop&height=614&width=1092",
-      "published": "2026-05-25 08:21:00",
+      "title": "Editorial cartoon for Monday, May 25, 2026",
+      "description": null,
+      "link": "https://www.staradvertiser.com/2026/05/25/editorial/editorial-cartoons/editorial-cartoon-for-monday-may-25-2026/",
+      "source": "Hawaii News",
+      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/05/web1_5-25-US-Heroes-toon.jpg",
+      "published": "2026-05-25 10:05:00",
       "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "China sends astronaut on year-long space mission as it eyes 2030 moon landing",
+      "description": "JIUQUAN, China \u2014 China sent three astronauts to its space station on Sunday, one of whom will stay for a year, a record length for the country, enabling the study of long-duration human physiology in space as Beijing works towards its ambition of a crewed moon landing by 2030. The post China sends astronaut on year-long space mission as it eyes 2030 moon landing appeared first on Hawaii Tribune-Herald .",
+      "link": "https://www.hawaiitribune-herald.com/2026/05/25/nation-world-news/china-sends-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing/",
+      "source": "Hawaii Tribune-herald",
+      "image": "https://www.hawaiitribune-herald.com/wp-content/uploads/sites/6/2026/05/web1_2026-05-24T124911Z_1636293751_RC2OFLAOP9LF_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.jpg",
+      "published": "2026-05-25 10:05:00",
+      "category": [
+        "top",
         "technology"
       ],
       "country": [

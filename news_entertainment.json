@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Person shot by officer in Southwest Albuquerque on Sunday",
-      "description": "An Albuquerque police officer shot and injured a person Sunday evening in the 6200 block of Gonzales SW. A multiagency task force is investigating the shooting.",
-      "link": "https://www.abqjournal.com/news/person-shot-by-police-in-southwest-albuquerque/3049453",
-      "source": "Albuquerque Journal",
-      "image": "https://image.abqjournal.com/?imageId=3049459&format=webp&width=1200",
-      "published": "2026-05-25 01:57:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

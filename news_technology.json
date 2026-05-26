@@ -1,35 +1,19 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Editorial cartoon for Monday, May 25, 2026",
-      "description": null,
-      "link": "https://www.staradvertiser.com/2026/05/25/editorial/editorial-cartoons/editorial-cartoon-for-monday-may-25-2026/",
-      "source": "Hawaii News",
-      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/05/web1_5-25-US-Heroes-toon.jpg",
-      "published": "2026-05-25 10:05:00",
+      "title": "DeepSeek\u2019s steep V4-Pro price cut escalates AI pricing war",
+      "description": "Chinese AI startup DeepSeek has announced a steep price cut for its recently launched flagship AI model, V4-Pro. The company has reduced pricing for the model by 75%, just a month after unveiling the V4 generation, which includes V4 Pro and V4 Flash. Earlier, usage costs ranged from $0.0145 for one million tokens (cache hit) to $3.48 for one million output tokens. Following the revision, the V4 Pro will now cost starting at $0.003625 per million tokens and going up to $0.87 per million tokens, respectively. The Deepseek V4 Pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC, said the company. \u201cV4-Pro was engineered to cut the cost of long-context inference, reportedly running at roughly a quarter of the single-token compute and a tenth of the memory footprint of its predecessor at very long context. This is why the price cut is permanent rather than promotional. It is not a discount. It is an efficiency gain being passed through,\u201d said Sanchit Vir Gogia, chief analyst and CEO at Greyhound Research. DeepSeek narrows gap with Western AI rivals Almost a year after introducing its R1 reasoning model offering performance and cost efficiency, DeepSeek released the preview of V4 LLM. Similar to the earlier models, even V4 is open source, which allows developers to download the code to run it locally and even modify it. The new models were optimized for use with popular agent tools such as Anthropic\u2019s Claude Code and OpenClaw . \u201cFrom a pure capabilities perspective, DeepSeek V4-Pro has effectively closed the performance gap on critical tasks like complex math and reasoning, while aggressively leading the market on openness and inference costs. Its specialized reasoning modes and architectural enhancements make it a formidable alternative to Western frontier models,\u201d said Neil Shah, vice president at Counterpoint Research. However, its primary limitations aren\u2019t found in its raw intelligence; rather, it lags behind Western rivals on broader ecosystem adoption, global support structures, clear IP provenance, and the deep and secure hyperscaler integrations natively offered by AWS, Microsoft, and Google, he added. Lower costs, better ROI As inference costs remain one of the biggest barriers to scaling pilots into organization-wide deployments, DeepSeek\u2019s aggressive discounts could translate into substantial savings for enterprises, say experts. The first wave of enterprise AI was full of impressive demonstrations and uncomfortable invoices. CIOs learnt quickly that the cost of AI was never just the model call but included retrieval, orchestration, and more, added Gogia. However, the 75% cut is meaningful only if CIOs can actually access it at scale. \u201cFor most enterprises, the relevant comparison is not DeepSeek\u2019s direct API but the cost of running a local deployment versus using any external inference provider. If a CIO can host DeepSeek V4-Pro on their own infrastructure, inference costs drop dramatically, and many projects that were previously uneconomical at scale become viable. That includes always-on copilots, bulk document review, code generation, L1 support, and multi-agent workflows,\u201d explained Amit Jaju, senior managing director at Ankura Consulting. He added that if the model is consumed through third-party providers, the effective rate may be higher and the ROI benefit smaller. AI pricing pressure to intensify DeepSeek\u2019s discounted pricing strategy is likely to intensify pressure on major AI vendors whose models often command premium enterprise pricing. This could lead vendors such as OpenAI, Anthropic, and Google to respond with better packages. Shah noted high-margin, high-consumption token pricing models from Anthropic and OpenAI are becoming harder to justify for many enterprise workloads and workflows. The presence of a viable open-weights alternative gives enterprise buyers decent leverage. This will likely prompt these premium flagship Western AI labs to gradually shift from basic consumption-based pricing toward more defensible, outcome-oriented or value-based monetization models. Consequently, CIOs will also adopt a multi-model AI strategy, similar to migration to multi-cloud architectures. \u201cThis will result in an AI portfolio architecture where premium models will be for high-stakes work, domain models for specialist tasks, smaller models for repeatable execution, and an orchestration layer to route, log, govern, and monitor the whole estate,\u201d added Gogia. CIOs must proceed cautiously Despite the cost advantages DeepSeek offers, CIOs should remain cautious when evaluating Chinese-origin AI models and carefully assess risks around sensitive data exposure, regulatory compliance, and geopolitical dependency. Jaju added that the primary risk is data sovereignty and cross-border exposure. If CIOs rely on external APIs hosted in China, prompts, documents, embeddings, logs, and telemetry can leave the enterprise perimeter and traverse jurisdictions with different legal regimes. Another big risk is IP leakage as developers may paste source code, product designs, legal drafts, M&A material, or incident data into model workflows. If the model is external, that data can be stored, used for training, or exposed through logs or plugins, he added. Jaju highlighted that the third risk is regulatory defensibility . CIOs need clarity on where data is processed, what is retained, who can access it, what contractual protections exist, whether the model can be self-hosted, and how outputs can be audited. Experts warn that the safest way will be to host DeepSeek locally or in a sovereign cloud under enterprise control, with encryption, access controls, and audit trails. The article originally appeared on InfoWorld .",
+      "link": "https://www.computerworld.com/article/4176713/deepseeks-steep-v4-pro-price-cut-escalates-ai-pricing-war-2.html",
+      "source": "Computerworldin",
+      "image": "https://www.computerworld.com/wp-content/uploads/2026/05/4176713-0-42198100-1779710628-Deepseek-AI.jpg?quality=50&strip=all",
+      "published": "2026-05-25 12:02:56",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "China sends astronaut on year-long space mission as it eyes 2030 moon landing",
-      "description": "JIUQUAN, China \u2014 China sent three astronauts to its space station on Sunday, one of whom will stay for a year, a record length for the country, enabling the study of long-duration human physiology in space as Beijing works towards its ambition of a crewed moon landing by 2030. The post China sends astronaut on year-long space mission as it eyes 2030 moon landing appeared first on Hawaii Tribune-Herald .",
-      "link": "https://www.hawaiitribune-herald.com/2026/05/25/nation-world-news/china-sends-astronaut-on-year-long-space-mission-as-it-eyes-2030-moon-landing/",
-      "source": "Hawaii Tribune-herald",
-      "image": "https://www.hawaiitribune-herald.com/wp-content/uploads/sites/6/2026/05/web1_2026-05-24T124911Z_1636293751_RC2OFLAOP9LF_RTRMADP_3_SPACE-EXPLORATION-CHINA-SHENZHOU.jpg",
-      "published": "2026-05-25 10:05:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

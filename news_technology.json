@@ -1,16 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Huawei announces 1.4 nm chipmaking technology to compete with TSMC",
-      "description": "Huawei has announced its new approach to keep up with industry leader TSMC. It will use what it calls logic folding technology to produce chips that are as dense as the ones manufactured on TSMC\u2019s 1.4 nm node.",
-      "link": "https://www.notebookcheck.net/Huawei-announces-1-4-nm-chipmaking-technology-to-compete-with-TSMC.1305174.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Huawei-1.4-nm.png",
-      "published": "2026-05-25 17:02:00",
+      "title": "Can Huawei outpace US sanctions with its new 1.4nm chip strategy by 2031?",
+      "description": "Huawei, which provided no independent performance data, unveiled the Tau Scaling Law, a chip design principle aimed at speeding data movement by folding and stacking chips.",
+      "link": "https://newseisamay.com/technology/can-huawei-outpace-us-sanctions-with-its-new-14nm-chip-strategy-by-2031-d810afcc-1c47-44e9-90da-75261574109f.cms",
+      "source": "Newseisamay",
+      "image": "https://static.phoenix.ms/1001/1a2a2070017d0ad97ff4383d37563bd0.jpg",
+      "published": "2026-05-25 21:52:39",
       "category": [
         "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Suspect in GSU MARTA station stabbing is at large",
+      "description": null,
+      "link": "https://www.wsbtv.com/news/local/atlanta/suspect-gsu-marta-station-stabbing-is-large/27I3FU6UFZFSXDQNGEVOXXKBIY/",
+      "source": "Wsb-tv Channel 2 - Atlanta",
+      "image": "https://www.wsbtv.com/resizer/v2/PU3B63BACBAW5DLDWBEI3R6LGU.jpeg?auth=d7c4a03ee217410aba98f2178a58af1cc34a517510f71292743bac1152ffa17b&smart=true&width=1280&height=720",
+      "published": "2026-05-25 21:52:20",
+      "category": [
         "technology"
       ],
       "country": [

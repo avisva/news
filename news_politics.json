@@ -1,19 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Huckabee: America is worth fighting for",
-      "description": "The U.S. diplomat marks Memorial Day for the \u201cbrave Americans\u201d who gave their lives to defend \u201cour natural rights.\u201d",
-      "link": "https://www.jns.org/news/u-s-news/huckabee-america-is-worth-fighting-for",
-      "source": "Jns.org",
-      "image": "https://static.jns.org/dims4/default/00b535f/2147483647/strip/false/crop/7405x5289+0+0/resize/1486x1061!/quality/90/?url=https%3A%2F%2Fk2-prod-jns-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F60%2F31dba0ca4503a4fb21a4dd254b54%2F55265140456-de173800ef-o.jpg",
-      "published": "2026-05-25 12:03:00",
+      "title": "Trinamool Congress MP Kakoli Ghosh Dastidar blames I-PAC\u2019s \u2018rude behaviour\u2019 for poll losses",
+      "description": "The TMC leader said, 'They (I-PAC) had absolutely no manners of working; they spoke very rudely'",
+      "link": "https://www.moneycontrol.com/news/india/trinamool-congress-mp-kakoli-ghosh-dastidar-blames-i-pac-s-rude-behaviour-for-poll-losses-13930454.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260515120200_KG.jpg",
+      "published": "2026-05-25 17:01:55",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Lewiston police cruiser totaled after Massachusetts man allegedly rammed it with stolen vehicle",
+      "description": "Police believe the trio were in Maine to continue a crime spree that began in Massachusetts earlier in the day.",
+      "link": "https://www.bangordailynews.com/2026/05/25/central-maine/central-maine-police-courts/lewiston-maine-police-cruiser-rammed-stolen-truck-massachusetts/",
+      "source": "Bangor Daily News",
+      "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/05/Lewiston-PD-Cruiser-Totaled.jpg?fit=1200%2C895&ssl=1",
+      "published": "2026-05-25 17:01:38",
       "category": [
         "politics"
       ],
       "country": [
-        "israel"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Dominion of sun and heat before the warm peak of the episode",
+      "description": "The mass of warm air over the Iberian Peninsula has for days been leaving us an atmosphere more typical of early July than May, but this week it will reach its peak, with a warm spell that will leave values approaching 38 \u00b0C in western Catalonia and transport us directly to August. All this, moreover, with many hours of very intense sun that will only be disturbed by the presence of some afternoon clouds in the Pyrenees. At the end of this information you will find a summary of this heatwave and a comparison with the usual temperature at the end of May, far from current records.",
+      "link": "https://en.ara.cat/weather/dominion-of-sun-and-heat-before-the-warm-peak-of-the-episode_1_5748002.html",
+      "source": "Diari Ara",
+      "image": "https://static1.ara.cat/clip/11afa9d4-69a3-47fb-8968-62eb459c4d77_16-9-aspect-ratio_default_0.jpg",
+      "published": "2026-05-25 17:01:35",
+      "category": [
+        "education",
+        "politics"
+      ],
+      "country": [
+        "spain"
       ]
     }
   ]

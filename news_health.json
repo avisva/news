@@ -1,26 +1,63 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Croma Skincare \u2013 Where Science Meets Skin",
-      "description": "LEOBENDORF, Austria--(BUSINESS WIRE)-- #cromapharma--With Croma Skincare, Austrian family-owned company Croma Pharma translates decades of expertise in aesthetic medicine into a modern skincare line designed for everyday results. Rather than following short-lived trends, Croma focuses on scientifically proven ingredients and pharmaceutical-grade formulations that deliver visible performance while fitting seamlessly into daily routines. Building on 50 years of experience in hyaluronic acid, Croma Pharma develo",
-      "link": "http://www.businesswire.com/news/home/20260520830163/en/Croma-Skincare-%E2%80%93-Where-Science-Meets-Skin/?feedref=JjAwJuNHiystnCoBq_hl-RLXHJgazfQJNuOVHefdHP-D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5ieT3WxPE8m_kWI77F87CseT",
-      "source": "Businesswire",
-      "image": null,
-      "published": "2026-05-26 09:43:00",
+      "title": "\u2018I just don\u2019t want it to take over my life\u2019: Hantavirus sparks fear, questions for some students in a post-COVID world",
+      "description": "Hantavirus is reigniting health fears for students who survived lockdown during COVID-19.",
+      "link": "https://www.oneidadispatch.com/2026/05/26/hantavirus-student-fears-covid-pandemic/",
+      "source": "Oneida Dispatch",
+      "image": "https://www.oneidadispatch.com/wp-content/uploads/2026/05/ctc-l-hantavirus_4eb658.jpg?w=1600&resize=1600,900",
+      "published": "2026-05-26 11:08:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018I just don\u2019t want it to take over my life\u2019: Hantavirus sparks fear, questions for some students in a post-COVID world",
+      "description": "Hantavirus is reigniting health fears for students who survived lockdown during COVID-19.",
+      "link": "https://www.dailypress.com/2026/05/26/hantavirus-student-fears-covid-pandemic/",
+      "source": "Daily Press",
+      "image": "https://www.dailypress.com/wp-content/uploads/2026/05/ctc-l-hantavirus_4eb658.jpg?w=1600&resize=1600,900",
+      "published": "2026-05-26 11:08:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The consumer continues to do well, says Hightower's Stephanie Link",
+      "description": "Stephanie Link, Hightower chief investment strategist, joins 'Squawk Box' to discuss the latest market trends, state of the consumer, takeaways from earnings season, and more.",
+      "link": "https://www.cnbc.com/video/2026/05/26/the-consumer-continues-to-do-well-says-hightowers-stephanie-link.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108311795-17797932561779793252-46173285165-1080pnbcnews.jpg?v=1779793255",
+      "published": "2026-05-26 11:07:55",
       "category": [
         "health"
       ],
       "country": [
-        "japan",
-        "germany",
-        "australia",
-        "china",
-        "united kingdom",
-        "france",
-        "united states of america",
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ride-share drivers in Massachusetts become first in U.S. to formally unionize",
+      "description": "CNBC's Andrew Ross Sorkin reports on the latest news.",
+      "link": "https://www.cnbc.com/video/2026/05/26/ride-share-drivers-in-massachusetts-become-first-in-u-s-to-formally-unionize.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108311786-17797925361779792534-46173139554-1080pnbcnews.jpg?v=1779792535",
+      "published": "2026-05-26 11:07:47",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

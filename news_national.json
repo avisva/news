@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Shradha Sharma and the Missing Infrastructure India Must Build Together",
+      "description": "Shradha Sharma writes about a reality that many Indians quietly observe but rarely articulate with clarity, India is not short of people willing to work hard, help others, or improve society. What often remains absent is the system that connects these efforts into something larger than isolated acts. Her reflections on villages, small towns, Purvanchal, [...]",
+      "link": "https://audiencereports.in/shradha-sharma-and-infrastructure-india-must-build-together/",
+      "source": "Audience Reports",
+      "image": "https://audiencereports.in/wp-content/uploads/2026/05/Shradha-Sharma.png",
+      "published": "2026-05-27 04:35:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "From Search Engines to Autonomous Agents: AI industry enters its next phase",
+      "description": "The AI industry is rapidly shifting from conversational chatbots to autonomous \u201cAgentic AI\u201d systems capable of independently executing complex tasks across workflows and applications. Companies including OpenAI, Microsoft, Google, and Salesforce are leading investments in AI agents designed to automate research, customer support, scheduling, and enterprise operations. The shift is expected to redefine productivity, workplace automation, and how businesses interact with software globally.",
+      "link": "https://economictimes.indiatimes.com/ai/ai-insights/from-search-engines-to-autonomous-agents-ai-industry-enters-its-next-phase/articleshow/131346643.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-131346749,resizemode-4,width-1200,height-900,imgsize-9714984,overlay-economictimes/articleshow.jpg",
+      "published": "2026-05-27 04:34:57",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

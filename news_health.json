@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Sense India launches mental health screening tool for deafblind persons",
+      "description": "Mental health screening: Sense India launched India's first structured and validated screening tool for children and young adults with deafblindness and multiple disabilities, aiming to improve early mental health support and wider access to care all",
+      "link": "https://www.deccanherald.com/india/sense-india-launches-mental-health-screening-tool-for-deafblind-persons-4017934",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-05-27/v323a25x/iStock-1453374327.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-05-27 09:51:52",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

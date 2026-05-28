@@ -1,64 +1,38 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Cloudelligent and Honeycomb Partner to Bring Enterprise Observability to AWS-Native Organizations in the AI Era",
-      "description": "DALLAS and SAN FRANCISCO, May 27, 2026 /PRNewswire/ -- Cloudelligent, an AWS Premier Tier Services Partner, and Honeycomb.io, the observability platform built for the new shape of software, today announced a strategic partnership to help engineering organizations modernize on AWS and gain...",
-      "link": "https://www.prnewswire.com/news-releases/cloudelligent-and-honeycomb-partner-to-bring-enterprise-observability-to-aws-native-organizations-in-the-ai-era-302783275.html",
-      "source": "Pr Newswire",
-      "image": "https://mma.prnewswire.com/media/2328977/Cloudelligent_Logo.jpg?p=original",
-      "published": "2026-05-27 14:55:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "County needs to stop data center projects",
-      "description": null,
-      "link": "https://www.mainstreetnews.com/jackson/opinion/county-needs-to-stop-data-center-projects/article_fc976c29-a7cf-498c-ac19-4cd0825efca8.html",
-      "source": "Mainstreetnews.com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/mainstreetnews.com/content/tncms/custom/image/5a1f1fd4-733e-11e9-8747-8f2d3f72e263.jpg?resize=600%2C599",
-      "published": "2026-05-27 14:55:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New in town: Newman Auto Body",
-      "description": null,
-      "link": "https://norfolkdailynews.com/select/new-in-town-newman-auto-body/article_8e3aa176-783f-4f23-8ce0-5f89f3f9a6fa.html",
-      "source": "Norfolk Daily News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/0/e7/0e791ca6-52a5-4076-a8c4-3e13c2db0755/6a17062e7c551.image.jpg?crop=700%2C368%2C0%2C22",
-      "published": "2026-05-27 14:55:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Your car can stay cooler for longer during heatwave by pressing one button",
-      "description": "The RAC has shared a crucial car cooling tip that could help keep your vehicle comfortable on long drives during the May heatwave",
-      "link": "https://www.express.co.uk/news/weather/2210288/how-cool-your-car-hot-weather-rac-s-expert-ac-tip-explained",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/153/590x/2210288_1.jpg",
-      "published": "2026-05-27 14:55:00",
+      "title": "Google Home gets a new outdoor camera from Walmart that\u2019s just $35",
+      "description": "Quietly launched this week, Walmart is launching its third camera as a part of Google Home\u2019s \u201cGemini built in\u201d program, with a new $35 outdoor wired camera. more...",
+      "link": "https://9to5google.com/2026/05/27/google-home-outdoor-camera-walmart/",
+      "source": "9to5google",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/walmart-onn-outdoor-camera-1.jpg?quality=82&strip=all",
+      "published": "2026-05-27 18:55:00",
       "category": [
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "united kingdom",
+        "germany",
+        "united states of america",
+        "india",
+        "australia",
+        "canada"
+      ]
+    },
+    {
+      "title": "Google Home gets a new outdoor camera from Walmart that\u2019s just $35 - 9to5Google",
+      "description": "Google Home gets a new outdoor camera from Walmart that\u2019s just $35 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95OE9sTFRlQUFfT3ZIQnlxZDFVTHE4YzB1UXJ4aW4wTm1BX2dNQzJQVlZNTl9pQzh1TjZIYXg3TUhhY3ZlN0hYT1o5VGtYWk5MOUlUbmN0Q1RLY2RnN3drOUFWNmRXUUVzZy13VVJzZ1pHeTRzamlTYw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-05-27 18:55:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

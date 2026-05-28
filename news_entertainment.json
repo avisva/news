@@ -1,33 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "St. Louis artisan's furniture featured at Smithsonian show",
-      "description": "Martin Goebel works with everything from exotic woods to leftover construction debris.",
-      "link": "https://www.stltoday.com/life-entertainment/local/article_63a20bde-2c15-4325-b345-d2b73234bf15.html",
-      "source": "Stltoday",
-      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/7a/37a60bcd-8c95-42a4-b723-46c2378111ee/6a047aa009bd1.image.png?resize=1200%2C675",
-      "published": "2026-05-27 11:15:00",
+      "title": "The Who's Roger Daltrey to perform in New Buffalo, Michigan",
+      "description": "Roger Daltrey, the legendary co-founder of The Who, will stop at Four Winds New Buffalo during a U.S. tour this year.",
+      "link": "https://nwitimes.com/news/local/article_d1a4d5e7-96d1-4c60-88f5-506a82633826.html",
+      "source": "The Times Of Northwest Indiana | Breaking News | R",
+      "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/1a/d1a4d5e7-96d1-4c60-88f5-506a82633826/6a16ae5a9e6eb.preview.jpg?crop=1134%2C595%2C0%2C80",
+      "published": "2026-05-27 14:55:00",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Eid travel guide: Five unforgettable destinations to experience culture and celebration",
-      "description": "From Istanbul\u2019s historic bazaars to Dubai\u2019s festive skyline, discover the best Eid travel destinations for 2026 and check out cultural celebrations across the world.",
-      "link": "https://www.news9live.com/lifestyle/travel/eid-travel-guide-global-destinations-2974861",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/05/Global-Eid-destinations.jpg",
-      "published": "2026-05-27 11:15:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "india"
       ]
     }
   ]

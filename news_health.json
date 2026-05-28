@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Bowel cancer screening age getting lowered",
+      "description": "The screening age will be lower from 58 to 56 in September in the latest step towards aligning with Australia",
+      "link": "https://www.stuff.co.nz/politics/360985178/bowel-cancer-screening-age-lowered-56-years-old-budget-2026",
+      "source": "Stuff",
+      "image": null,
+      "published": "2026-05-28 02:37:51",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Bowel cancer screening age getting lowered",
-      "description": "The screening age will be lower from 58 to 56 in September in the latest step towards aligning with Australia",
-      "link": "https://www.stuff.co.nz/politics/360985178/bowel-cancer-screening-age-lowered-56-years-old-budget-2026",
-      "source": "Stuff",
+      "title": "'A new kidney would give me the freedom to live' - Yahoo News Australia",
+      "description": "'A new kidney would give me the freedom to live' Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fWkhrWk9GMFVFNVIwb2UtSVEzWE5ELThhMEt2d09oeGJOdHFoNlZsbXBYRGpzQ1dGR2lDdVFDRlN5d2daQWE2YWRvVkNWMGo2aGZLcHNsUEJ0aFNRa19BaENocWlGX0dRQXplaQ?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-05-28 02:37:51",
+      "published": "2026-05-28 06:10:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Trogenix doses first patient in Phase I/II clinical trial of TGX-007 gene therapy for glioblastoma",
+      "description": "UK and US trial sites open; first patient dosed with TGX-007, Trogenix's proprietary dual-payload AAV gene therapyTGX-007 leverages Trogenix's precision synthetic super-enhancer platform that selec...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-05/68613062-trogenix-doses-first-patient-in-phase-i-ii-clinical-trial-of-tgx-007-gene-therapy-for-glioblastoma-399.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://ml-eu.globenewswire.com/media/NDdlZGIyOGEtMTRmMS00NTc3LWI5M2ItOWJiOGI0OWQxOTQ5LTcwMDAyNTE5MS0yMDI2LTA1LTI4LWVu/tiny/Trogenix.png",
+      "published": "2026-05-28 06:10:00",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "new zealand"
+        "germany"
       ]
     }
   ]

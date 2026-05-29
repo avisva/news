@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Spike Lee Was (Finally!) Right About the Knicks",
+      "description": "Even as a long-suffering fan of New York\u2019s oldest basketball team, I didn\u2019t totally believe the legendary director when he told me this would be our year.",
+      "link": "https://www.menshealth.com/entertainment/a71432971/spike-lee-knicks-nba-finals-correct-prediction/",
+      "source": "Men's Health",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/979c63eb-0d77-404e-b5ee-4cf3b9bd5d6c.jpg",
+      "published": "2026-05-28 19:52:47",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Snowflake buys Natoma to help freeze out rogue agents",
+      "description": "It is the database titan\u2019s sixth acquisition announcement since June 2025",
+      "link": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+      "source": "The Register",
+      "image": null,
+      "published": "2026-05-28 19:52:47",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

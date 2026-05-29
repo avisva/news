@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Tata Bets On Hatchback With New Tiago, Expands Affordable EV",
+      "description": "Tata expects the hatchback segment to continue to be a critical alternative for thousands of first-time car buyers in the country.",
+      "link": "https://www.deccanchronicle.com/business/autos/tata-bets-on-hatchback-with-new-tiago-expands-affordable-ev-1959818",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/05/29/2045418-image-1-1.webp",
+      "published": "2026-05-29 03:21:39",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Firefly Aerospace Announces Pricing of Public Offering of Common Stock",
+      "description": "CEDAR PARK, Texas, May 28, 2026 (GLOBE NEWSWIRE) -- Firefly Aerospace (Nasdaq: FLY), a market leading space and defense technology company, today announced the pricing of its public offering of 4,000,000 shares of its common stock and 8,000,000 shares of...",
+      "link": "https://www.postregister.com/businessreport/technology/firefly-aerospace-announces-pricing-of-public-offering-of-common-stock/article_7645976d-a5f8-5a39-964f-073e62c1c99d.html",
+      "source": "Postregister",
+      "image": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+      "published": "2026-05-29 03:21:35",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

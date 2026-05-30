@@ -1,21 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "After treatment delay at Tumpat Hospital goes viral, Kelantan Health Dept offers explanation",
-      "description": "KOTA BHARU, May 30 \u2014 The Kelantan Health Department will conduct a further investigation and improve operating pro...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/05/30/after-treatment-delay-at-tumpat-hospital-goes-viral-kelantan-health-dept-offers-explanation/221882",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/30/343754.jpg",
-      "published": "2026-05-30 01:24:08",
+      "title": "Jennifer Siebel Newsom encourages sports for CA body, mind at Sacramento event",
+      "description": "First Partner Jennifer Siebel Newsom speaks during an event celebrating the Move Your Body, Calm Your Mind campaign at Street Soccer USA in Sacramento on Friday, May 29, 2026. The initiative encourages Californians of all ages to increase their physical activity and improve their mental well-being.",
+      "link": "https://www.mercedsunstar.com/news/california/article315944844.html",
+      "source": "Merced Sun-star",
+      "image": "https://www.sacbee.com/public/latest-news/44bd5e/picture315944825/alternates/FREE_1140/SAC_0191_RCB_20260529_JenniferNewsom.JPG",
+      "published": "2026-05-30 03:03:48",
       "category": [
         "health",
         "top"
       ],
       "country": [
-        "malaysia",
-        "singapore"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Jennifer Siebel Newsom encourages sports for CA body, mind at Sacramento event",
+      "description": "First Partner Jennifer Siebel Newsom speaks during an event celebrating the Move Your Body, Calm Your Mind campaign at Street Soccer USA in Sacramento on Friday, May 29, 2026. The initiative encourages Californians of all ages to increase their physical activity and improve their mental well-being.",
+      "link": "https://www.modbee.com/news/california/article315944844.html",
+      "source": "Modbee",
+      "image": "https://www.sacbee.com/public/latest-news/44bd5e/picture315944825/alternates/FREE_1140/SAC_0191_RCB_20260529_JenniferNewsom.JPG",
+      "published": "2026-05-30 03:03:48",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Jennifer Siebel Newsom encourages sports for CA body, mind at Sacramento event",
+      "description": "First Partner Jennifer Siebel Newsom speaks during an event celebrating the Move Your Body, Calm Your Mind campaign at Street Soccer USA in Sacramento on Friday, May 29, 2026. The initiative encourages Californians of all ages to increase their physical activity and improve their mental well-being.",
+      "link": "https://www.sanluisobispo.com/news/california/article315944844.html",
+      "source": "San Luis Obispo Tribune",
+      "image": "https://www.sacbee.com/public/latest-news/44bd5e/picture315944825/alternates/FREE_1140/SAC_0191_RCB_20260529_JenniferNewsom.JPG",
+      "published": "2026-05-30 03:03:48",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

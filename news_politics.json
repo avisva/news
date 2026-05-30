@@ -1,65 +1,51 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Strategic Significance Of U.S.-China Summit",
-      "description": "A summit meeting between the leaders of the two most powerful countries in the world, namely the United States and China...",
-      "link": "https://risingnepaldaily.com/news/81113",
-      "source": "The Rising Nepal",
-      "image": "https://risingnepaldaily.com/storage/media/103282/Untitled-1.jpg",
-      "published": "2026-05-30 01:24:52",
+      "title": "Shalersville residents rally against a proposed data center",
+      "description": "Hundreds showed up to either protest or get more details about a proposed data center that is planned for a 257-acre plot of land just off the Ohio Turnpike in Shalersville Township.",
+      "link": "https://www.cleveland19.com/2026/05/30/shalersville-residents-rally-against-proposed-data-center/",
+      "source": "Https://www.cleveland19.com",
+      "image": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/PKPOYWU23VFTZK5DQ42V62VVFM.jpg?auth=623b4f12698ebc2c11b8d3743baea4c549033080887deea12efc09d6696427a2&width=1200&height=600&smart=true",
+      "published": "2026-05-30 03:03:50",
+      "category": [
+        "top",
+        "politics",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The best way out of this political quagmire",
+      "description": "Sir: Independent National Electoral Commission (INEC), as the electoral umpire, has the statutory right to adjust the election",
+      "link": "https://guardian.ng/opinion/letters/the-best-way-out-of-this-political-quagmire/",
+      "source": "The Guardian",
+      "image": "https://cdn.guardian.ng/wp-content/uploads/2026/04/fast1313.webp",
+      "published": "2026-05-30 03:03:30",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "nepal"
+        "nigeria"
       ]
     },
     {
-      "title": "Trump tells agencies to align with study calling for narrower childhood vaccine recommendations",
-      "description": null,
-      "link": "https://www.960theref.com/news/health/trump-tells-agencies/XA7PNPCGDI5JRLDPCGOO7G4QZM/",
-      "source": "960 The Ref",
-      "image": "https://www.960theref.com/resizer/v2/7JOTTP7AQI3YBHZG3TFNF2BCHM.jpg?auth=3d9fd241298e1d1d72ac678ed0c6b5dea3224320b5fe01db350cc1de3631ee00&smart=true&width=5616&height=3744",
-      "published": "2026-05-30 01:24:49",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trump tells agencies to align with study calling for narrower childhood vaccine recommendations",
-      "description": null,
-      "link": "https://www.actionnewsjax.com/news/health/trump-tells-agencies/XA7PNPCGDI5JRLDPCGOO7G4QZM/",
-      "source": "Action News Jax",
-      "image": "https://www.actionnewsjax.com/resizer/v2/7JOTTP7AQI3YBHZG3TFNF2BCHM.jpg?auth=3d9fd241298e1d1d72ac678ed0c6b5dea3224320b5fe01db350cc1de3631ee00&smart=true&width=5616&height=3744",
-      "published": "2026-05-30 01:24:49",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "2026 Primary Election: What to know about Don\u0303a Ana County Sherrif race",
-      "description": "There are 11 candidates involved in the Don\u0303a Ana County Sherrif race primary election according to the Secretary of State website.",
-      "link": "https://www.lcsun-news.com/story/news/politics/elections/2026/05/29/what-to-know-about-doa-ana-county-sherrif-race/90101180007/",
-      "source": "Las Cruces Sun-news",
-      "image": "https://www.gannett-cdn.com/presto/2022/11/09/PNM2/04e1747f-d4de-4399-8210-cc79c0c24c24-_20221108_midtermsvoters_29.JPG?auto=webp&crop=5306,2985,x0,y269&format=pjpg&width=1200",
-      "published": "2026-05-30 01:24:34",
+      "title": "Trump's name must be removed from Kennedy Center, judge rules",
+      "description": "\"The Kennedy Center is an institution that belongs to the American people, not to Donald Trump,\" said Rep. Joyce Beatty, who sued over the renaming. Trump's name must be removed from Kennedy Center, judge rules",
+      "link": "https://www.indiavision.com/business/trumps-name-must-be-removed-from-kennedy-center-judge-rules/603295/",
+      "source": "Indiavision India News & Information",
+      "image": "https://www.indiavision.com/wp-content/uploads/2024/08/unnamed.png",
+      "published": "2026-05-30 03:03:25",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

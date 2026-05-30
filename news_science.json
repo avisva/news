@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Watch: Gill shares a heartwarming moment with parents after GT reach Final",
+      "description": "Shubman Gill's spectacular century powered Gujarat Titans to a record-breaking chase in IPL 2026 Qualifier 2, securing their spot in the final. He was celebrated with his family after the thrilling 7-wicket victory over Rajasthan Royals. The Titans now head to Ahmedabad to face Royal Challengers Bengaluru in a highly anticipated title clash.",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/watch-shubman-gill-shares-a-heartwarming-moment-with-parents-after-gt-reach-ipl-2026-final/articleshow/131403076.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131403140/131403140.jpg",
+      "published": "2026-05-30 03:03:53",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

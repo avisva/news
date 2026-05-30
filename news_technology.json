@@ -1,20 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "AI plays pivotal role in taking faster decisions, managing complex battlefields, says Army Chief",
-      "description": "Pune, May 30, 2026 Indian Army chief General Upendra Dwivedi on Saturday emphasised the increasing significance of Artificial Intelligence (AI) in contemporary warfare, stating that emerging technologies are becoming indispensable for faster decision-making and effective management of the growing complexity of military operations. Addressing reporters after reviewing the Passing Out Parade of the 150th Course [...] The post AI plays pivotal role in taking faster decisions, managing complex battlefields, says Army Chief appeared first on Yes Punjab News .",
-      "link": "https://yespunjab.com/ai-plays-pivotal-role-in-taking-faster-decisions-managing-complex-battlefields-says-army-chief/",
-      "source": "Yes Punjab News",
-      "image": "https://yespunjab.com/wp-content/uploads/2026/05/Army-Chief-General-Upendra-Dwivedi.jpg",
-      "published": "2026-05-30 08:53:00",
+      "title": "[OPINION] A massacre of trees and people",
+      "description": "Across this archipelago, we are witnessing a massacre of trees. And where trees fall, people bleed.",
+      "link": "https://www.rappler.com/voices/thought-leaders/opinion-massacre-trees-people/",
+      "source": "Rappler",
+      "image": "https://www.rappler.com/tachyon/2026/05/massacre-of-trees-may-30-2026.jpg",
+      "published": "2026-05-30 10:00:00",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "india"
+        "philippines"
+      ]
+    },
+    {
+      "title": "Yale's New Google-Friendly Smart Lock Makes a Great Security Starter. Here's Why",
+      "description": "The new Matter-friendly Yale Smart Lock is especially great for Google Home users, but anyone will find it easy to get started.",
+      "link": "https://www.cnet.com/home/security/yale-smart-lock-matter-review-google-friendly-great-security-starter/",
+      "source": "Cnet",
+      "image": "https://www.cnet.com/a/img/resize/e46d11711b202a4d2b6c81c46ec7adb51534ac3d/hub/2026/05/28/135fb7ff-2b31-49fc-a912-d8e9a87c8258/yale-smart-lock-keypad-lit-up-installation-1.jpg?auto=webp&fit=crop&height=614&width=1092",
+      "published": "2026-05-30 10:00:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

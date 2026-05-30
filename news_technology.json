@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Honda Vietnam accelerates electrification strategy",
+      "description": "Under the plan, all newly manufactured and distributed internal combustion engine motorcycles from fiscal year 2027, starting from April 1 2026 to March 31, 2027, will meet Euro 4 emission standards in line with the Government\u2019s emissions control roadmap. LG Energy Solution, Honda eye Vietnam\u2019s e-motorbike market Honda Vietnam proposes investment incentives for hybrid, electric vehicle production Honda Vietnam sees decline in motorcycle, car sales",
+      "link": "https://en.vietnamplus.vn/honda-vietnam-accelerates-electrification-strategy-post343671.vnp",
+      "source": "Vietnam+",
+      "image": "https://mediaen.vietnamplus.vn/images/f579a678cf9e90879541752073c26005eb4c6e9fda6b407f0d651cf29dd9d90d601eac31ae9edb27ee134618ee064ace3f0f08a4cd495aba689cd1052964c366f2bae17061cc70fb4c03d30e2c137298/honda-viet-nam-10921-20260520152650.jpg.webp",
+      "published": "2026-05-29 21:13:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "vietnam"
+      ]
+    },
+    {
+      "title": "SpaceX lands $4.16 billion Pentagon contract tied to Golden Dome shield",
+      "description": "The Trump administration's flagship Golden Dome missile defense system has many layers, one of them being a sensing and tracking layer.",
+      "link": "https://www.hindustantimes.com/world-news/us-news/spacex-lands-4-16-billion-pentagon-contract-tied-to-golden-dome-shield-101780088795401.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/29/1600x900/logo/USA-SPACEX-0_1780089282169_1780089295822_304722b3-3b73-4d5e-bbdc-052da33d18d6.JPG",
+      "published": "2026-05-29 21:12:40",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,16 +1,31 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Mexico President Sheinbaum gifts her World Cup ticket to Indigenous athlete",
-      "description": "Mexico President Claudia Sheinbaum delivered a promise on Friday by giving away her ticket to the World Cup opening match.",
-      "link": "https://www.washingtontimes.com/news/2026/may/29/mexico-president-sheinbaum-gifts-world-cup-ticket-indigenous-athlete/",
-      "source": "The Washington Times",
-      "image": "https://twt-thumbs.washtimes.com/media/image/2026/05/29/Mexico_Sheinbaum_97134_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-      "published": "2026-05-29 18:22:00",
+      "title": "Brewers\u2019 Abner Uribe suspended 1 game for inappropriate gesture",
+      "description": "May 26, 2026; Milwaukee, Wisconsin, USA; Milwaukee Brewers pitcher Abner Uribe (45) celebrates the final out of in the eighth inning against the St. Louis Cardinals at American Family Field. Mandatory Credit: Michael McLoone-Imagn Images Milwaukee Brewers pitcher Abner Uribe has been suspended one game and fined an undisclosed amount by Major League Baseball for [...] The post Brewers\u2019 Abner Uribe suspended 1 game for inappropriate gesture appeared first on CBNC .",
+      "link": "https://cbnc.com/brewers-abner-uribe-suspended-1-game-for-inappropriate-gesture/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/05/29062673.jpg",
+      "published": "2026-05-29 21:13:00",
       "category": [
-        "world"
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "SpaceX lands $4.16 billion Pentagon contract tied to Golden Dome shield",
+      "description": "The Trump administration's flagship Golden Dome missile defense system has many layers, one of them being a sensing and tracking layer.",
+      "link": "https://www.hindustantimes.com/world-news/us-news/spacex-lands-4-16-billion-pentagon-contract-tied-to-golden-dome-shield-101780088795401.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/29/1600x900/logo/USA-SPACEX-0_1780089282169_1780089295822_304722b3-3b73-4d5e-bbdc-052da33d18d6.JPG",
+      "published": "2026-05-29 21:12:40",
+      "category": [
+        "technology",
+        "top"
       ],
       "country": [
         "india"

@@ -1,30 +1,17 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "[OPINION] A massacre of trees and people",
-      "description": "Across this archipelago, we are witnessing a massacre of trees. And where trees fall, people bleed.",
-      "link": "https://www.rappler.com/voices/thought-leaders/opinion-massacre-trees-people/",
-      "source": "Rappler",
-      "image": "https://www.rappler.com/tachyon/2026/05/massacre-of-trees-may-30-2026.jpg",
-      "published": "2026-05-30 10:00:00",
+      "title": "How businesses are deploying AI in customer support in 2026 and what the data shows",
+      "description": "91% of customer service leaders face pressure to deploy AI, and the global market has hit $15.12 billion. ServiceNow now resolves 80% of inquiries autonomously, cutting complex case time by 52%.",
+      "link": "https://completeaitraining.com/news/how-businesses-are-deploying-ai-in-customer-support-in-2026/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/how-businesses-are-deploying-ai-in-customer-support-in-2026-and-what-the-data-sh_2026-05-30.jpg",
+      "published": "2026-05-30 11:07:28",
       "category": [
-        "technology"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Yale's New Google-Friendly Smart Lock Makes a Great Security Starter. Here's Why",
-      "description": "The new Matter-friendly Yale Smart Lock is especially great for Google Home users, but anyone will find it easy to get started.",
-      "link": "https://www.cnet.com/home/security/yale-smart-lock-matter-review-google-friendly-great-security-starter/",
-      "source": "Cnet",
-      "image": "https://www.cnet.com/a/img/resize/e46d11711b202a4d2b6c81c46ec7adb51534ac3d/hub/2026/05/28/135fb7ff-2b31-49fc-a912-d8e9a87c8258/yale-smart-lock-keypad-lit-up-installation-1.jpg?auto=webp&fit=crop&height=614&width=1092",
-      "published": "2026-05-30 10:00:00",
-      "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"

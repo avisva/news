@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "After treatment delay at Tumpat Hospital goes viral, Kelantan Health Dept offers explanation",
+      "description": "KOTA BHARU, May 30 \u2014 The Kelantan Health Department will conduct a further investigation and improve operating pro...",
+      "link": "https://www.malaymail.com/news/malaysia/2026/05/30/after-treatment-delay-at-tumpat-hospital-goes-viral-kelantan-health-dept-offers-explanation/221882",
+      "source": "Malay Mail",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/05/30/343754.jpg",
+      "published": "2026-05-30 01:24:08",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "malaysia",
+        "singapore"
+      ]
+    }
+  ]
 }

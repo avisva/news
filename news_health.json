@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Royal discharged from hospital as Palace issues health update",
-      "description": "The queen was admitted to hospital for the second time.",
-      "link": "https://www.express.co.uk/news/royal/2211283/queen-margrethe-health-update-latest",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/106/590x/2211283_1.jpg",
-      "published": "2026-05-29 14:52:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

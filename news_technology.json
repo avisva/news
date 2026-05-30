@@ -1,20 +1,94 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Flow Foundation providing free Wi-Fi to 100 early childhood institutions",
-      "description": "Flow Foundation has deepened its commitment to national development with a $5-million annual investment to bring free high-speed Internet connectivity to 100 early childhood institutions across Jamaica. The initiative, in partnership with the Early Childhood Commission (ECC), was formalised through the signing of a memorandum of understanding between the two organisations. This represents the latest expansion of the foundation\u2019s Internet in Schools Programme \u2014 a flagship initiative that has, since its launch in 2012, grown from a modest intervention in primary schools to one of the most far-reaching private investments in Jamaican education, now serving more than 200 institutions nationwide. The decision to extend the programme to the early childhood level is one that both parties say has been long overdue. Dr Karlene Degrasse-Deslandes, executive director of the ECC, welcomed the partnership as she noted that the early introduction of digital technology will set the students up for long-term success. \u201cEnsuring digital literacy from a young age is critical. Access to reliable high-speed Internet will enhance teaching, enrich learning, and better prepare our children for success in an increasingly technology-driven world,\u201d said Degrasse-Deslandes For Flow Foundation Executive Director Rhys Campbell, the expansion is consistent with its philosophy of advancement through digital access and education. Speaking at the signing ceremony Campbell said the investment reflects the organisation\u2019s recognition that the skills children will need to navigate tomorrow\u2019s economy must begin to take root today. \u201cThe landscape for career development has evolved significantly, driven by rapid technological advancement across every aspect of life,\u201d Campbell said. \u201cThrough our partnership with the Early Childhood Commission we are expanding the Internet in Schools Programme to reach our youngest learners. We are proud to build Jamaica\u2019s future by ensuring our children have the tools to succeed in a connected world,\u201d added Campbell. Since its inception, the Internet in Schools Programme has evolved into a sustained, annually funded commitment to ensuring that Jamaican students \u2014 regardless of the level at which they are learning \u2014 are not left behind as the world grows increasingly dependent on digital access. With this latest agreement, that commitment now extends to the island\u2019s youngest students.",
-      "link": "https://www.jamaicaobserver.com/2026/05/30/flow-foundation-providing-free-wi-fi-100-early-childhood-institutions/",
-      "source": "Jamaica Observer",
-      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/05/3d75dd5fccd1fdad6dafb11218275af8-1024x683.jpg",
-      "published": "2026-05-30 05:01:00",
+      "title": "Japan to set special aid category for community-based startups",
+      "description": "The internal affairs ministry aims to promote what is known as AI transformation, in which companies reform themselves by placing AI at the center.",
+      "link": "https://www.japantimes.co.jp/news/2026/05/30/japan/japan-startups-ai-aid/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/theme_japantimes/images/no-image.png",
+      "published": "2026-05-30 07:10:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "jamaica"
+        "japan"
+      ]
+    },
+    {
+      "title": "New tech upgrade at Stepping Hill to fast-track 9.5 million test results",
+      "description": null,
+      "link": "https://www.inyourarea.co.uk/news/new-tech-upgrade-at-stepping-hill-to-fast-track-9-5-million-test-results",
+      "source": "Inyourarea.co.uk",
+      "image": "https://images-cropper-prod.inyourarea.co.uk/unsafe/700x394/smart/harvester-img-6606a20a0cf191baaff9e97eb22a1feb.jpg",
+      "published": "2026-05-30 07:10:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "UAE Urges Citizens Not To Travel To 3 Ebola-Hit Countries Unless Necessary",
+      "description": "(MENAFN - Khaleej Times) The Ministry also urges citizens present in these countries to exercise the utmost caution and vigilance, to adhere to the health and safety instructions issued by the local ...",
+      "link": "https://menafn.com/1111186553/UAE-Urges-Citizens-Not-To-Travel-To-3-Ebola-Hit-Countries-Unless-Necessary",
+      "source": "Menafn",
+      "image": "https://menafn.com/updates/pr/2026-05/30/KT_9d693image_story.jpeg",
+      "published": "2026-05-30 07:09:56",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "egypt",
+        "bahrain",
+        "kuwait",
+        "qatar",
+        "pakistan",
+        "india",
+        "jordan",
+        "saudi arabia",
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Coding Legacy: How Erth Dubai Winner Built 200-Year Family Tree",
+      "description": "(MENAFN - Khaleej Times) Ghaith's project preserves the history of the AlSiri family, a lineage tracing its UAE roots to 1800 AD and descended from the Al-Qemzi tribe By: Nasreen Abdulla ...",
+      "link": "https://menafn.com/1111186554/Coding-Legacy-How-Erth-Dubai-Winner-Built-200-Year-Family-Tree",
+      "source": "Menafn",
+      "image": "https://menafn.com/updates/pr/2026-05/30/KT_3a6e2image_story.jpeg",
+      "published": "2026-05-30 07:09:56",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "egypt",
+        "bahrain",
+        "kuwait",
+        "qatar",
+        "pakistan",
+        "india",
+        "jordan",
+        "saudi arabia",
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "\u2018Blind checking\u2019, series of technical issues: Red flags CBSE \u2018ignored\u2019 before OSM rollout",
+      "description": "A report prepared after a trial of the on-screen marking system in January 2026 flagged at least 36 technical, operational and evaluation-related concerns.",
+      "link": "https://www.hindustantimes.com/india-news/blind-checking-technical-issues-red-flags-cbse-ignored-before-osm-rollout-class-12-board-exams-101780119192570.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/1600x900/logo/PTI05-28-2026-000368A-0_1780119686714_1780119699879_6ae61523-bdf8-487b-bd69-655f5580e660.jpg",
+      "published": "2026-05-30 07:09:53",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

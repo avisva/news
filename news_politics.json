@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Today in History, 1964: After Jackie Robinson visit, Concordia\u2019s choir canceled a segregated concert",
-      "description": "On May 30, 1964, a Forum editorial praised Concordia College for canceling segregated choir performances in the South, calling the decision a principled stand against racial discrimination.",
-      "link": "https://www.inforum.com/community/today-in-history-1964-after-jackie-robinson-visit-concordias-choir-canceled-a-segregated-concert",
-      "source": "Inforum",
-      "image": "https://cdn.forumcomm.com/dims4/default/b718537/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F6e%2F67%2F5d7baf574dffaf9e4e7b4da6cd4c%2Fmay-30-frontpage.jpg",
-      "published": "2026-05-30 05:01:00",
+      "title": "U.S. support for Taiwan reaffirmed by members of Congress even after Trump called arms sales a \u2018negotiating chip\u2019 with China",
+      "description": "A ship fires a weapon during drills east of Taiwan, in this screenshot from a video released by the Eastern Theatre Command of China\u2019s People\u2019s Liberation Army (PLA) on Dec. 29, 2025. Eastern Theatre Command | Via Reuters The U.S. Congress continues to have strong support for Taiwan even as it remains a focal point [...] The post U.S. support for Taiwan reaffirmed by members of Congress even after Trump called arms sales a \u2018negotiating chip\u2019 with China appeared first on NYT News Today .",
+      "link": "https://www.nytimesnewstoday.com/u-s-support-for-taiwan-reaffirmed-by-members-of-congress-even-after-trump-called-arms-sales-a-negotiating-chip-with-china/",
+      "source": "Nyt News Today",
+      "image": "https://image.cnbcfm.com/api/v1/image/108246264-17670226712025-12-29t043053z_682402530_rc24qiaw2x91_rtrmadp_0_china-taiwan-drills.jpeg?v=1767022776&w=1920&h=1080",
+      "published": "2026-05-30 07:10:00",
       "category": [
         "top",
         "politics"
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "title": "Governor Sindh extends heartfelt congratulations to Nation on Youm-e-Takbeer",
-      "description": "KARACHI - Governor Sindh, Syed Muhammad Nihal Hashmi, has extended heart-felt congratulations to the entire nation on the historic occasion of Youm-e-Takbeer, commemorating Pakistan\u2019s successful nuclear tests conducted on May 28, 1998.",
-      "link": "https://www.nation.com.pk/30-May-2026/governor-sindh-extends-heartfelt-congratulations-nation-youm-e-takbeer",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-05-30 05:01:00",
+      "title": "Princess Eugenie \u2018gives up' major King Charles honour amid new tension",
+      "description": "Princess Eugenie, who had undertaken a special role at the behest of King Charles, took a surprising step amid uncertainty regarding her royal future. The daughter of shamed Andrew Mountbatten-Windsor and Sarah Ferguson was a mentor of young creatives selected by the King\u2019s...",
+      "link": "https://www.geo.tv/latest/666585-princess-eugenie-gives-up-major-king-charles-honour-amid-new-tension",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/2026-05-30/666585_121047_updates.jpg",
+      "published": "2026-05-30 07:10:00",
       "category": [
         "top",
         "politics"
@@ -33,34 +33,18 @@
       ]
     },
     {
-      "title": "Fife Highland Cows attraction owner staged \u2018dead calf\u2019 protest against shooters",
-      "description": "The owner of Kelty Highland Coos lashed out at shooters next to her land, which she blamed on a cow miscarrying.",
-      "link": "https://www.thecourier.co.uk/fp/news/courts/5500859/fife-highland-cows-protest-shooters/",
-      "source": "The Courier",
-      "image": "https://wpcluster.dctdigital.com/wp-content/uploads/sites/12/2026/05/JoanneFischbacher1-2l6e3btf8-scaled-e1780071979775-940x564.jpg",
-      "published": "2026-05-30 05:00:58",
-      "category": [
-        "top",
-        "politics",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Westminster committee to 'consider' probe into Peter Murrell embezzlement",
-      "description": "Scottish Affairs Committee chair Patricia Ferguson said she was \u201caware of calls\u201d for an inquiry, after eight of the committee\u2019s members said they backed an investigation",
-      "link": "https://www.scotsman.com/news/politics/westminster-committee-to-consider-probe-into-peter-murrell-embezzlement-8649231",
-      "source": "The Scotsman",
-      "image": "https://www.scotsman.com/jpim-static/image/2026/05/25/16/56/PA-48971347.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-05-30 05:00:57",
+      "title": "Ethiopia Is Open for Business, and the Time to Act Is Now",
+      "description": "For too long, Ethiopia has been discussed only in terms of crisis, risk, or untapped potential. Today\u2019s Ethiopia is not simply waiting for opportunity\u2014it is building it. The recent visit by senior Ethiopian officials to Washington, D.C. during the week of May 11, led by Foreign Minister Gedion Timothewos, showed that the country is serious [...]",
+      "link": "https://www.thereporterethiopia.com/50891/",
+      "source": "The Reporter Ethiopia",
+      "image": "https://www.thereporterethiopia.com/wp-content/uploads/2022/06/The-Reporter-Ethiopia.jpg",
+      "published": "2026-05-30 07:09:37",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united kingdom"
+        "ethiopia"
       ]
     }
   ]

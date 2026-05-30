@@ -1,34 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "One common thing may be fuelling rise in cancer among under 50s",
-      "description": "A study found people with a common health problem were more likely to receive a cancer diagnosis.",
-      "link": "https://www.express.co.uk/life-style/health/2211359/cancer-early-onset-sleep-insomnia",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/11/590x/2211359_1.jpg",
-      "published": "2026-05-30 05:01:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Exercise less, burn more fat: Scientists unveil a simple method for weekly weight loss - Yahoo News Singapore",
-      "description": "Exercise less, burn more fat: Scientists unveil a simple method for weekly weight loss Yahoo News Singapore",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZkJNcTNNc0NnN21Wc2RkN3hPQ2dzVklCSUh6RkptZ3I1OE03eU81X19OZjhtN215WkgycmhsZXlteTNERXhFS0VYTTkyWG1kMTRsSlpIVVgzdVNvamgxSHhJQVpoTEo1RFg0OExscHB1WlhhcTI0?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-05-30 05:01:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "singapore"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

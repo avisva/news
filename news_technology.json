@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "How businesses are deploying AI in customer support in 2026 and what the data shows",
-      "description": "91% of customer service leaders face pressure to deploy AI, and the global market has hit $15.12 billion. ServiceNow now resolves 80% of inquiries autonomously, cutting complex case time by 52%.",
-      "link": "https://completeaitraining.com/news/how-businesses-are-deploying-ai-in-customer-support-in-2026/",
-      "source": "Complete Ai Training",
-      "image": "https://cdn.completeaitraining.com/news_images/how-businesses-are-deploying-ai-in-customer-support-in-2026-and-what-the-data-sh_2026-05-30.jpg",
-      "published": "2026-05-30 11:07:28",
+      "title": "27 more Indian airports to have DigiYatra by next year",
+      "description": "Passenger data shared with DigiYatra remains encrypted and securely stored on the user's own device, shared only for a limited duration with the origin airport for immediate verification purposes, the ministry said.",
+      "link": "https://newsarenaindia.com/nation/27-more-indian-airports-to-have-digiyatra-by-next-year/78692",
+      "source": "Newsarenaindia",
+      "image": "https://images.newsarenaindia.com/digiyatra-naijpg_1780155420040.jpg",
+      "published": "2026-05-30 15:37:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Viral video: CarryMinati recreates PM Narendra Modi- Giorgia Meloni's Melody moment with MrBeast, internet can't handle it: 'No way, it's AI'",
+      "description": "Prime Minister Narendra Modi can make anything viral, and his recent Melody moment with Georgia Meloni has now inspired countless memes, including the one from CarryMinati and MrBeast.",
+      "link": "https://www.dnaindia.com/viral/report-viral-video-carryminati-recreates-pm-narendra-modi-giorgia-meloni-s-melody-moment-with-mrbeast-internet-can-t-handle-it-no-way-it-s-ai-3212053",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/05/30/2750251-modi-2.jpg",
+      "published": "2026-05-30 15:36:43",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

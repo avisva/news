@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Freddie Mercury's final gift to forgotten daughter after denying existence for years",
-      "description": "The Queen frontman kept much of his personal life out of the public eye until shortly before his death.",
-      "link": "https://www.express.co.uk/celebrity-news/2211190/freddie-mercurys-final-gift-forgotten-daughter",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/79/590x/2211190_1.jpg",
-      "published": "2026-05-31 12:04:00",
+      "title": "The Marilyn Monroe You Don\u2019t Know: An Interview with the Design Studio Who Reimagined Bungalow 1",
+      "description": "Courtney Brannan of Champalimaud Design discusses balancing the storied history of Bungalow 1 with a soft, emotional reading of the retreat",
+      "link": "https://www.homesandgardens.com/celebrity-style/marilyn-monroe-bungalow-1-champalimaud-design-interview",
+      "source": "Homes And Gardens",
+      "image": "https://cdn.mos.cms.futurecdn.net/uDN7b3TZFtzXU7JFpbQ9QP-1280-80.jpg",
+      "published": "2026-05-31 18:00:00",
       "category": [
         "entertainment"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Special needs youth are the stars in 'Disney's Frozen Jr.' at Lincoln Community Playhouse",
+      "description": "The Lincoln Community Playhouse announced \"Disney's Frozen Jr.\" as its annual Penguin Project. The production stars youth with special needs.",
+      "link": "https://nptelegraph.com/news/state-regional/nebraska/article_84ba4533-d310-549b-8429-1ccdd185a5a0.html",
+      "source": "North Platte Telegraph",
+      "image": "https://bloximages.chicago2.vip.townnews.com/nptelegraph.com/content/tncms/assets/v3/editorial/c/aa/caaa25a4-ca48-5e63-972f-1c9bac667b5c/6a1b1e54eb721.image.jpg?resize=1200%2C675",
+      "published": "2026-05-31 18:00:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

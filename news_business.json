@@ -1,20 +1,78 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Accenture is currently hiring IT Customer Service Representative",
-      "description": "<p>The post Accenture is currently hiring IT Customer Service Representative first appeared on Job4freshers .</p>",
-      "link": "https://job4freshers.co.in/accenture-hiring-it-customer-service/",
-      "source": "Job4freshers",
-      "image": "https://job4freshers.co.in/wp-content/uploads/2023/01/job4freshers-2023-01-05T173845.392.webp",
-      "published": "2026-05-31 12:03:46",
+      "title": "Property prices holding steady, for now at least",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/nation/property-prices-holding-steady-for-now-at-least/news-story/436ae0b1780a251c90434a0ca0616dfa",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-05-31 18:00:00",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
-        "india"
+        "australia"
+      ]
+    },
+    {
+      "title": "Colorado School Finance Act signed into law, with some adjustments to funding for Western Slope districts",
+      "description": "Lawmakers have successfully avoided cuts to Colorado\u2019s K-12 public schools, though some last-minute adjustments to the School Finance Act mean some districts are seeing smaller funding increases than expected. Colorado Gov. Jared Polis signed the...",
+      "link": "https://www.skyhinews.com/news/colorado-school-finance-act-signed-funding-adjustments/",
+      "source": "Skyhinews",
+      "image": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/9/2026/05/29133834/soda_creek_elementary_front_of_building-scaled-1-1024x675.jpg",
+      "published": "2026-05-31 18:00:00",
+      "category": [
+        "top",
+        "business",
+        "education"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Rising exports lower US goods trade deficit",
+      "description": "The US trade deficit in goods contracted more than expected in April as a surge in exports blunted rising imports, but economists cautioned the trend was \u200bunlikely to be sustainable, with businesses ramping up investment in artificial intelligence.",
+      "link": "https://www.thedailystar.net/business/global-economy/news/rising-exports-lower-us-goods-trade-deficit-4187556",
+      "source": "The Daily Star",
+      "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+      "published": "2026-05-31 18:00:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "China factory activity stalls in May as demand weakens",
+      "description": "China\u2019s \u200bfactory activity stalled in May as new export orders contracted and input costs kept rising, an official survey showed on Sunday, \u200cadding to concerns the world\u2019s second-largest economy is losing momentum despite pockets of strength in services and high-tech manufacturing.",
+      "link": "https://www.thedailystar.net/business/global-economy/news/china-factory-activity-stalls-may-demand-weakens-4187566",
+      "source": "The Daily Star",
+      "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+      "published": "2026-05-31 18:00:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Crypto News Today: Retail Crypto Investors Move From Hype to Bitcoin, Large-Cap Assets, and SIP Plans",
+      "description": "Cryptocurrency investing gains structure as experts suggest SIP-style plans, Bitcoin focus, and 2% to 5% portfolio exposure for retail investors.",
+      "link": "https://www.analyticsinsight.net/news/crypto-news-today-retail-crypto-investors-move-from-hype-to-bitcoin-large-cap-assets-and-sip-plans",
+      "source": "Analytics And Insight",
+      "image": "https://media.assettype.com/analyticsinsight/2025-06-18/lb39onix/Crypto-Price-Today18-1.jpg",
+      "published": "2026-05-31 18:00:00",
+      "category": [
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

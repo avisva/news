@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Blue Language Labs Emerges from Stealth to Launch the Coordination Layer for AI Agents That Do Real Business",
+      "description": "Gives businesses and financial institutions the structure to approve, verify, and rely on agent-driven business processes Blue Language Labs today emerged from stealth to introduce the coordinatio...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-06/68641353-blue-language-labs-emerges-from-stealth-to-launch-the-coordination-layer-for-ai-agents-that-do-real-business-004.htm",
+      "source": "Finanznachrichten.de",
+      "image": null,
+      "published": "2026-06-01 06:36:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "2026 Tata Tiago Variant Breakdown \u2014 Base Smart vs Top Creative Plus!",
+      "description": "The 2026 Tata Tiago in India starts at Rs 4.69 lakh (ex-showroom) and offers six variants: Smart, Pure, Pure+, Pure+ A, Creative and Creative+. The car features a 1.2-litre Revotron engine with petrol and CNG options.",
+      "link": "https://www.timesnownews.com/auto/car-news/2026-tata-tiago-variant-breakdown-base-smart-vs-top-creative-plus-article-154439241",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-154439328,width-1280,height-720,resizemode-75/154439328.jpg",
+      "published": "2026-06-01 06:36:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Sui Addresses Three Network Outages With Major Upgrade",
+      "description": "The Sui blockchain has deployed a major network upgrade to fix bugs that caused three outages and over 15 hours of downtime last week, according to the Sui Foundation.",
+      "link": "https://us.headtopics.com/news/sui-addresses-three-network-outages-with-major-upgrade-83988954",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/6/1/cointelegraph/sui-addresses-three-network-outages-with-major-upg-sui-addresses-three-network-outages-with-major-upg-209AD4920202002A9DA3FF9998FB8386.webp",
+      "published": "2026-06-01 06:35:59",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

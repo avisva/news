@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Horizon Health Physical Therapy opens in Indiana",
+      "description": "PARIS \u2014 Sycamore Pain & Wellness, a service of Horizon Health, has added physical therapy to its comprehensive healthcare services, reinforcing its commitment to whole-person care and optimal patient outcomes.",
+      "link": "https://www.commercial-news.com/news/horizon-health-physical-therapy-opens-in-indiana/article_43692848-27dd-4207-a666-469cdbd9613e.html",
+      "source": "Commercial News",
+      "image": null,
+      "published": "2026-06-01 20:27:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "County chips in for ADA sidewalk installation",
+      "description": "For some, visiting the Indiana Health Clinic then going to the Cass County Health Department is as simple as walking from one door to the other.",
+      "link": "https://www.pharostribune.com/news/article_f5365087-eae4-4328-8864-9b5f33566102.html",
+      "source": "Pharostribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/pharostribune.com/content/tncms/assets/v3/editorial/4/92/492eb1b6-e779-4e2d-8f2c-067501d8bdb4/6a06290e9032d.image.jpg?crop=1440%2C756%2C0%2C161&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Telehealth Booms As Demand For GLP-1s Surges And Questions Mount About Safety, Oversight",
+      "description": "Many telehealth companies have started offering GLP-1 medications for weight loss as demand has exploded. But certain medication errors tied to GLP-1s have exploded too, according to a KFF Health News review of Food and Drug Administration data.",
+      "link": "https://ctnewsjunkie.com/2026/06/02/telehealth-booms-as-demand-for-glp-1s-surges-and-questions-mount-about-safety-oversight/",
+      "source": "Ct News Junkie",
+      "image": "https://i0.wp.com/ctnewsjunkie.com/wp-content/uploads/2026/06/McClain_01-1350x900-1.jpg?fit=1350%2C900&ssl=1",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lenoir-Rhyne grad took her first trip on an airplane to save a life through bone marrow donation",
+      "description": "\u201cThe impact is ... (someone\u2019s) going to go into remission because of a week of your time that you gave,\u201d McCrannie said. \u201cI just, I love that.\"",
+      "link": "https://mcdowellnews.com/life-entertainment/local/article_dc2c38ad-758a-504b-865c-f436abafedb6.html",
+      "source": "Mcdowell News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/5/50/5509a6fc-f22f-5f57-8f21-d3f8e1ab9915/6a19c70393fb6.image.jpg?resize=1200%2C801",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "health",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

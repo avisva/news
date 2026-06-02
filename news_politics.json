@@ -1,50 +1,140 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 9,
   "results": [
     {
-      "title": "Council of Presidential Advisers welcomes new chairman Tan Chong Meng and four members",
-      "description": null,
-      "link": "https://sg.news.yahoo.com/council-presidential-advisers-welcomes-chairman-052100158.html",
-      "source": "Yahoo!news",
-      "image": null,
-      "published": "2026-06-02 05:21:00",
+      "title": "Hickory city manager to present proposed budget at tonight's city council meeting",
+      "description": "Hickory City Manager Warren Wood's recommended budget calls for keeping the property tax rate at 46 cents per $100 of assessed value.",
+      "link": "https://hickoryrecord.com/news/local/government-politics/article_a7d0b976-fd6b-45da-80ad-050b1f830abe.html",
+      "source": "Hickory Daily Record",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/2/49/249c404d-9846-5f52-b37e-e8a3643b2578/6a1e27de398ed.image.jpg",
+      "published": "2026-06-02 08:45:00",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
-        "singapore"
+        "united states of america"
       ]
     },
     {
-      "title": "Bagbin warns of cultural decline and rising Xenophobia in Africa",
-      "description": "Speaker of Parliament Alban Bagbin has raised concerns about what he describes as growing threats to Africa\u2019s cultural identity, warning that the combined effects of globalisation and xenophobia are placing increasing pressure on the continent\u2019s values and social fabric.",
-      "link": "https://www.myjoyonline.com/bagbin-warns-of-cultural-decline-and-rising-xenophobia-in-africa/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/BAGBIN-22-1140x570-1-1024x512.png",
-      "published": "2026-06-02 05:21:00",
+      "title": "Zelensky says US air defence absolutely necessary after Russian barrage",
+      "description": "Europe needs its own anti-ballistic defence so that this war can finally be brought to an end",
+      "link": "https://www.tbsnews.net/world/zelensky-says-us-air-defence-absolutely-necessary-after-russian-barrage-1452266",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/01/23/zelensky.jpg",
+      "published": "2026-06-02 08:45:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ghana"
+        "bangladesh"
       ]
     },
     {
-      "title": "Shock to Raja Bhaiya from Delhi High Court, court approves summons in domestic violence case.",
-      "description": "Delhi High Court has refused to grant relief to Kunda MLA Raja Bhaiya in the domestic violence case and has upheld the summons issued by the MP/MLA court at Rouse Avenue. The court said that the special courts constituted for speedy disposal of cases involving public representatives are competent to hear cases under the Domestic Violence Act.",
-      "link": "https://newsaddaindia.com/news/shock-to-raja-bhaiya-from-delhi-high-court-court-a",
-      "source": "Newsaddaindia",
+      "title": "Bangladesh is not doing well: Jamaat ameer",
+      "description": "He warned that higher fuel prices would place an additional burden on ordinary people.",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-not-doing-well-jamaat-ameer-1452271",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/06/02/jamaat_ameer.jpeg",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Israel, Hezbollah exchange fire after Trump announcement",
+      "description": "BEIRUT (LEBANON) - Israel conducted strikes on south Lebanon and Hezbollah fired into northern Israel on Tuesday, after US President Donald Trump announced an agreement to halt attacks that neither side has publicly accepted.",
+      "link": "https://www.bangkokpost.com/world/3264845/israel-hezbollah-exchange-fire-after-trump-announcement",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260602/c1_6109355.jpg",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "CJ Sharma orders courts to clear old cases, crack down on irregularities",
+      "description": "Kathmandu, June 2: Chief Justice Manoj Sharma has directed courts across the country to curb irregularities within the judiciary and ensure that no cases older than two years remain pending by the end of the current fiscal year. Issuing a written circular to the chief judges of high courts and district court judges, Sharma instructed [...] The post CJ Sharma orders courts to clear old cases, crack down on irregularities appeared first on Peoples' Review .",
+      "link": "https://peoplesreview.com.np/2026/06/02/cj-sharma-orders-courts-to-clear-old-cases-crack-down-on-irregularities/",
+      "source": "Peoples' Review",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/06/CJ.jpg",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "nepal"
+      ]
+    },
+    {
+      "title": "Hampshire police commissioner urges religious-knives review - The Guardian",
+      "description": "Hampshire police commissioner urges religious-knives review The Guardian UK Sikh restaurateur Harman Singh calls for kirpan ban, says it is being used against unarmed civilians The Times of India Zia Yusuf doesn\u2019t hold back The Spectator Australia POLL: Should the UK ban the kirpan after Sikh man convicted of murder? Vote now Daily Express Reform racist Yusuf wants to ban Sikhs fulfilling their religion thecanary.co",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFVRdjRRRi0zTVhhdFJPel8wZzJPU2cwcVNuUy1ZYXRrR29vVEJJV0FnRHlXXzJyZ3hBT1d6b0RBOG5tTjRlaERQaXFaM3JLRHlnUzcxc3VHZHFrSFdXWFZ2Rkx3ejY2VVJ2WnJRcTRPSTdVcDFQOTNGeW8ydFZmSkExaWtTWm9nUVE1R0VfdzBLUmdGQklRbHNSeDlOWGpOMVVPQzJtN2Zjdlk?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-06-02 05:20:56",
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "lifestyle",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Letters to the Editor: NYS Primary, Trump's words, ethanol use",
+      "description": "Today's letter-writers discuss the issues North Country is facing ahead of the Primary, Trump saying he doesn't think about Americans' financial situation, and our use of ethanol in relation to the nation's energy policy.",
+      "link": "https://poststar.com/opinion/letters/article_a60164f6-3082-4822-bb5b-486a6f08a1cb.html",
+      "source": "Post Star",
+      "image": null,
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Brenda Lucas: Community news for Tuesday, June 2",
+      "description": null,
+      "link": "https://www.herald-dispatch.com/features_entertainment/brenda-lucas-community-news-for-tuesday-june-2/article_da03babe-eeb0-416b-97d7-03e621c4bc0b.html",
+      "source": "The Herald-dispatch",
+      "image": null,
+      "published": "2026-06-02 08:45:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Toriseva seeks to replace Pushkin as state Democratic chair",
+      "description": null,
+      "link": "https://www.herald-dispatch.com/news/toriseva-seeks-to-replace-pushkin-as-state-democratic-chair/article_3da22e6a-ba29-443d-b5cc-2b82c9810b86.html",
+      "source": "The Herald-dispatch",
+      "image": null,
+      "published": "2026-06-02 08:45:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

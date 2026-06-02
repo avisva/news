@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Lower new car prices weigh on auto loan demand in Kazakhstan as of 1Q2026",
+      "description": null,
+      "link": "https://www.trend.az/business/4192987.html",
+      "source": "Trend",
+      "image": null,
+      "published": "2026-06-02 05:21:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "South Africa\u2019s top companies trust Codehesion with their software projects \u2013 This is why",
+      "description": "Codehesion is helping South African businesses scale faster with AI-augmented software development and elite engineering teams.",
+      "link": "https://businesstech.co.za/news/industry-news/862168/south-africas-top-companies-trust-codehesion-with-their-software-projects-this-is-why/",
+      "source": "Businesstech",
+      "image": "https://businesstech.co.za/news/wp-content/uploads/2026/06/Codehesion.jpg",
+      "published": "2026-06-02 05:20:54",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Wye Valley Brewery in Stoke Lacy unveils expansion plans - BBC",
+      "description": "Wye Valley Brewery in Stoke Lacy unveils expansion plans BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JUUhDaDNtdFU2UUhoMmpMXzhsakJuNWlmWGJHdEJKQ240ZHppSWliaUxwZkhZYXBUVVd4Z1JCUm1fUGpocWFuQ1Z6bFFTSm1KdkxMLWRXXzlBdEhj?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-02 05:20:51",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

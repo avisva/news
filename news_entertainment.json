@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Toy Story 5 shows \u2018terror\u2019 of children\u2019s screen addiction, says Tom Hanks",
+      "description": "US actor Tom Hanks has said the latest Toy Story film highlights children's addiction to screens, an issue that he says strikes \"terror in the heart\".",
+      "link": "https://www.myjoyonline.com/toy-story-5-shows-terror-of-childrens-screen-addiction-says-tom-hanks/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/image-213-1024x576.png",
+      "published": "2026-06-02 00:40:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "LEGO releases 4 new Botanical sets, and they\u2019re cheaper than you think",
+      "description": "LEGO unveils four creative Botanical sets, including fungi and aquatic plants, expanding its adult-oriented collection.",
+      "link": "https://www.masslive.com/shopping-deals/2026/06/lego-releases-4-new-botanical-sets-and-theyre-cheaper-than-you-think.html",
+      "source": "Masslive",
+      "image": "https://www.masslive.com/resizer/v2/WSOM637DVRHQPBDAXHHZ5LFQHM.png?auth=04ca3c2abee81f5bbb44d50d631da7f46908862f0c6be2055aade7bc0da52d4a&smart=true&height=1200",
+      "published": "2026-06-02 00:39:59",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Samsung's getting fit: early rumors spark Galaxy Fit 4 interest, but launch will have to wait",
+      "description": "Rumors suggest consumers could get another dose of Samsung's Galaxy Fit tracker series later this year.",
+      "link": "https://www.androidcentral.com/wearables/samsungs-getting-fit-early-rumors-spark-galaxy-fit-4-interest-but-launch-will-have-to-wait",
+      "source": "Android Central",
+      "image": "https://cdn.mos.cms.futurecdn.net/WgpNuLgRJSirYHfmN7KZSf-1280-80.jpg",
+      "published": "2026-06-03 09:47:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "HBSUK and Hexaware partner to enhance clinician onboarding efficiency",
+      "description": "HBSUK and Hexaware Technologies have announced a strategic collaboration to enhance HBSUK\u2019s workforce management proposition. With around 7.22 million people currently awaiting treatment within the NHS, healthcare providers face growing pressure to mobilise clinician and support workforce capacity quickly while maintaining strict regulatory checks and governance standards. Modernising workforce onboarding processes has therefore become critical [...] The post HBSUK and Hexaware partner to enhance clinician onboarding efficiency appeared first on CXOToday.com .",
+      "link": "https://cxotoday.com/media-coverage/hbsuk-and-hexaware-partner-to-enhance-clinician-onboarding-efficiency/",
+      "source": "Cxotoday",
+      "image": "https://cxotoday.com/wp-content/uploads/2023/10/Hexaware-New-Blue-Logo-300x40.jpg",
+      "published": "2026-06-03 09:46:57",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

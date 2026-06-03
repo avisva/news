@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "French Open semi-finalist copying Emma Raducanu after causing major upset",
+      "description": "Maja Chwalinska is through to the semi-finals at Roland Garros.",
+      "link": "https://www.express.co.uk/sport/tennis/2212917/French-Open-Maja-Chwalinska-Emma-Raducanu",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/72/590x/2212917_1.jpg",
+      "published": "2026-06-03 11:41:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "'He knew everything already': why Messi's childhood coach threw in the towel",
+      "description": "Coach Enrique Dominguez was just 45 when Barcelona legend Messi was blazing a trial as a pre-teen in his hometown of Rosario.",
+      "link": "https://citizen.digital/article/he-knew-everything-already-why-messis-childhood-coach-threw-in-the-towel-n383894",
+      "source": "Citizen Digital",
+      "image": "https://assets.citizen.digital/169840/conversions/4a7405f0-75cd-48ee-bd68-b70fbaa14d62_AFP__20260514__A9JA748__v1__HighRes__FblArgRosarioMessiHometown-og_image.webp",
+      "published": "2026-06-03 11:41:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "kenya"
+      ]
+    },
+    {
+      "title": "England Vs New Zealand 1st Test: Live Streaming, Squads, And All You Need To Know",
+      "description": "England's men\u2019s cricket team is set to kick off their home summer with a three-match Test series against New Zealand, starting June 4 at Lord's. Ben Stokes will lead England, while Tom Latham captains New Zealand.",
+      "link": "https://www.timesnownews.com/sports/cricket/england-vs-new-zealand-1st-test-live-streaming-squads-and-all-you-need-to-know-article-154453630",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-154453854,width-1280,height-720,resizemode-75/154453854.jpg",
+      "published": "2026-06-03 11:40:48",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

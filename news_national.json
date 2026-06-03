@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "The accidental matchmaker: how a PhD in hydrodynamics built an elite matrimonial service",
+      "description": "Anil Kumar spent over a decade and a half in American academia and consulting before his own bruising search for love convinced him that Indian matchmaking was broken. Seventeen years and several near-death experiences later, Jodi365 is a profitable, growing business.",
+      "link": "https://yourstory.com/2026/06/the-accidental-matchmaker-phd-hydrodynamics-matrimonial-service",
+      "source": "Yourstory",
+      "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Jodi3651600x900-1780403429941.jpg",
+      "published": "2026-06-03 01:15:00",
+      "category": [
+        "top",
+        "education"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Gold, silver prices today, June 3, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more",
+      "description": "As of June 3, 2026, the prices of gold and silver in India continue to be influenced by global market trends, local demand and changing currency rates. Here is a breakdown of the current prices of gold and silver.",
+      "link": "https://www.dnaindia.com/business/report-gold-silver-prices-today-june-3-2026-check-city-wise-rates-in-delhi-mumbai-chennai-kolkata-and-more-3212329",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/06/03/2750513-untitled-design-2026-06-03t064515.301.jpg",
+      "published": "2026-06-03 01:15:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

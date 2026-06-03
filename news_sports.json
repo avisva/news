@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Pop culture: Spurs lean on legends as Finals near",
-      "description": "Gregg Popovich remains a trusted resource for the Spurs as they prepare for their first Finals without the legendary coach on the sideline.",
-      "link": "https://www.espn.com/nba/story/_/id/48950639/gregg-popovich-welcome-resource-finals-bound-spurs",
-      "source": "Entertainment And Sports Programming Network",
-      "image": null,
-      "published": "2026-06-02 20:53:48",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Knicks mum on Robinson's status for Game 1",
-      "description": "The Knicks declined to reveal whether Mitchell Robinson will play in Game 1 of the NBA Finals due to his broken finger, though the center participated in individual drills during practice on Tuesday.",
-      "link": "https://www.espn.com/nba/story/_/id/48950555/knicks-mum-status-mitchell-robinson-finger-game-1",
-      "source": "Entertainment And Sports Programming Network",
-      "image": null,
-      "published": "2026-06-02 20:53:48",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

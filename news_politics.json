@@ -1,29 +1,14 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Belgian-Russian citizen sentenced to 16 years in prison in Russia",
-      "description": null,
-      "link": "https://www.brusselstimes.com/belgium/2169105/belgian-russian-citizen-sentenced-to-16-years-in-prison-in-russia/",
-      "source": "The Brussels Times",
-      "image": "https://api.brusselstimes.com/wp-content/uploads/2026/06/1e00585e-schermafbeelding-2026-06-02-181306-1024x576.webp",
-      "published": "2026-06-02 20:53:58",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "belgium"
-      ]
-    },
-    {
-      "title": "Where\u2019s Trump? Speculation rages as president hasn\u2019t held a public event in 7 days",
-      "description": "Commander-in-chief's disappearing act follows recent health check-up.",
-      "link": "https://www.silive.com/politics/2026/06/wheres-trump-speculation-rages-as-president-hasnt-been-seen-in-public-in-7-days.html",
-      "source": "Staten Island Ny Local News",
-      "image": "https://www.silive.com/resizer/v2/3Y4ARFU75JFWBA24RH47AJGLOI.jpg?auth=7422f6caad520e9fcb1ecbdab50c9c48385920a3a7e5edec963d944dcbecbafb&smart=true&height=1200",
-      "published": "2026-06-02 20:53:43",
+      "title": "Election Results: Haaland leading Bregman in race for governor nomination",
+      "description": "Vote tallies are unofficial until canvassed in a special meeting by a county commission where the ballots were collected. The post Election Results: Haaland leading Bregman in race for governor nomination appeared first on Artesia Daily Press .",
+      "link": "https://artesianews.com/election-results-haaland-leading-bregman-in-race-for-governor-nomination/",
+      "source": "Artesia Daily Press",
+      "image": null,
+      "published": "2026-06-03 01:15:00",
       "category": [
         "politics",
         "top"
@@ -33,17 +18,48 @@
       ]
     },
     {
-      "title": "Judge lifts publication ban in sex assault case but accused can\u2019t yet be named",
-      "description": "A Nunavut judge revoked a court-ordered ban on identifying a man facing sexual assault charges but imposed another ban that doesn\u2019t yet allow the man\u2019s name to be published.",
-      "link": "https://nunatsiaq.com/stories/article/judge-lifts-publication-ban-in-sex-assault-case-but-accused-cant-yet-be-named/",
-      "source": "Nunatsiaq",
-      "image": "https://cdn.nunatsiaq.com/wp-content/uploads/2026/06/court_house_view_1000px-1-3-1000x630.jpg",
-      "published": "2026-06-02 20:53:40",
+      "title": "Election Results: Haaland leading Bregman in race for governor nomination",
+      "description": "Vote tallies are unofficial until canvassed in a special meeting by a county commission where the ballots were collected. The post Election Results: Haaland leading Bregman in race for governor nomination appeared first on Alamogordo News .",
+      "link": "https://alamogordonews.com/election-results-haaland-leading-bregman-in-race-for-governor-nomination/",
+      "source": "Alamogordo Daily News",
+      "image": "https://alamogordonews.com/media/2026/06/18534-img_9852.jpeg",
+      "published": "2026-06-03 01:15:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Election Results: Haaland leading Bregman in race for governor nomination",
+      "description": "Vote tallies are unofficial until canvassed in a special by a county commission where the ballots were collected. The post Election Results: Haaland leading Bregman in race for governor nomination appeared first on Carlsbad Current Argus .",
+      "link": "https://currentargus.com/election-results-haaland-leading-bregman-in-race-for-governor-nomination/",
+      "source": "Carlsbad Current-argus",
+      "image": "https://currentargus.com/media/2026/03/18534-img_9852.jpeg",
+      "published": "2026-06-03 01:15:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Election Results: Haaland leading Bregman in race for governor nomination",
+      "description": "Vote tallies are unofficial until canvassed in a special meeting by a county commission where the ballots were collected. The post Election Results: Haaland leading Bregman in race for governor nomination appeared first on Ruidoso News .",
+      "link": "https://ruidosonews.com/election-results-haaland-leading-bregman-in-race-for-governor-nomination/",
+      "source": "Ruidoso News",
+      "image": "https://ruidosonews.com/media/2026/06/18534-img_9852.jpeg",
+      "published": "2026-06-03 01:15:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,20 +1,63 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Princess Anne left Palace staff bewildered after breaking royal protocol",
-      "description": null,
-      "link": "https://www.express.co.uk/news/royal/2212404/princess-anne-royal-family-latest",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/106/590x/2212404_1.jpg",
-      "published": "2026-06-02 11:01:00",
+      "title": "Gov. Mills says she never dropped out of Senate race and is still on primary ballot",
+      "description": "Mills told the Sun Journal over the weekend that while she suspended her campaign, she never actually withdrew or dropped out.",
+      "link": "https://katv.com/news/nation-world/gov-mills-says-she-never-dropped-out-of-senate-race-and-is-still-on-primary-ballot-maine-politics-democrats",
+      "source": "Katv",
+      "image": "https://katv.com/resources/media2/16x9/1280/1320/center/90/d047f490-3d96-4fa4-91c9-7ad1d1edb482-VMILLSSTILLONTHEBALLOT.transfer_frame_134.jpeg",
+      "published": "2026-06-02 15:54:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gov. Mills says she never dropped out of Senate race and is still on primary ballot",
+      "description": "Mills told the Sun Journal over the weekend that while she suspended her campaign, she never actually withdrew or dropped out.",
+      "link": "https://ktul.com/news/nation-world/gov-mills-says-she-never-dropped-out-of-senate-race-and-is-still-on-primary-ballot-maine-politics-democrats",
+      "source": "Ktul",
+      "image": "https://ktul.com/resources/media2/16x9/1280/1320/center/90/d047f490-3d96-4fa4-91c9-7ad1d1edb482-VMILLSSTILLONTHEBALLOT.transfer_frame_134.jpeg",
+      "published": "2026-06-02 15:54:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Photographer recounts unprovoked stabbing at Maine wedding",
+      "description": "\u201cI looked down, and I saw a hole in my stomach. And I said, \u2018That\u2019s not very good.\u2019\"",
+      "link": "https://www.bangordailynews.com/2026/06/02/central-maine/central-maine-police-courts/raymond-maine-wedding-stabbing-donald-halsing-interview/",
+      "source": "Bangor Daily News",
+      "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/06/adults-bride-bride-and-groom-193043.jpeg?fit=1200%2C800&ssl=1",
+      "published": "2026-06-02 15:54:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "UC Faculty Blames Test-Free Admissions for Math Gaps",
+      "description": "More than 1,100 University of California math and science professors said declining student preparedness is forcing instructors to teach middle-school math in college classrooms, prompting a call to restore SAT and ACT requirements across the UC system.",
+      "link": "https://www.newsmax.com/newsfront/university-of-california-sat-act/2026/06/02/id/1258283",
+      "source": "Newsmax.com",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e96c5f12-d5ba-4973-b696-1bec52f0b905&SiteName=Newsmax",
+      "published": "2026-06-02 15:53:58",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

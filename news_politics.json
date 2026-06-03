@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Gov. Mills says she never dropped out of Senate race and is still on primary ballot",
-      "description": "Mills told the Sun Journal over the weekend that while she suspended her campaign, she never actually withdrew or dropped out.",
-      "link": "https://katv.com/news/nation-world/gov-mills-says-she-never-dropped-out-of-senate-race-and-is-still-on-primary-ballot-maine-politics-democrats",
-      "source": "Katv",
-      "image": "https://katv.com/resources/media2/16x9/1280/1320/center/90/d047f490-3d96-4fa4-91c9-7ad1d1edb482-VMILLSSTILLONTHEBALLOT.transfer_frame_134.jpeg",
-      "published": "2026-06-02 15:54:00",
+      "title": "Belgian-Russian citizen sentenced to 16 years in prison in Russia",
+      "description": null,
+      "link": "https://www.brusselstimes.com/belgium/2169105/belgian-russian-citizen-sentenced-to-16-years-in-prison-in-russia/",
+      "source": "The Brussels Times",
+      "image": "https://api.brusselstimes.com/wp-content/uploads/2026/06/1e00585e-schermafbeelding-2026-06-02-181306-1024x576.webp",
+      "published": "2026-06-02 20:53:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "belgium"
+      ]
+    },
+    {
+      "title": "Where\u2019s Trump? Speculation rages as president hasn\u2019t held a public event in 7 days",
+      "description": "Commander-in-chief's disappearing act follows recent health check-up.",
+      "link": "https://www.silive.com/politics/2026/06/wheres-trump-speculation-rages-as-president-hasnt-been-seen-in-public-in-7-days.html",
+      "source": "Staten Island Ny Local News",
+      "image": "https://www.silive.com/resizer/v2/3Y4ARFU75JFWBA24RH47AJGLOI.jpg?auth=7422f6caad520e9fcb1ecbdab50c9c48385920a3a7e5edec963d944dcbecbafb&smart=true&height=1200",
+      "published": "2026-06-02 20:53:43",
       "category": [
         "politics",
         "top"
@@ -18,46 +33,17 @@
       ]
     },
     {
-      "title": "Gov. Mills says she never dropped out of Senate race and is still on primary ballot",
-      "description": "Mills told the Sun Journal over the weekend that while she suspended her campaign, she never actually withdrew or dropped out.",
-      "link": "https://ktul.com/news/nation-world/gov-mills-says-she-never-dropped-out-of-senate-race-and-is-still-on-primary-ballot-maine-politics-democrats",
-      "source": "Ktul",
-      "image": "https://ktul.com/resources/media2/16x9/1280/1320/center/90/d047f490-3d96-4fa4-91c9-7ad1d1edb482-VMILLSSTILLONTHEBALLOT.transfer_frame_134.jpeg",
-      "published": "2026-06-02 15:54:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Photographer recounts unprovoked stabbing at Maine wedding",
-      "description": "\u201cI looked down, and I saw a hole in my stomach. And I said, \u2018That\u2019s not very good.\u2019\"",
-      "link": "https://www.bangordailynews.com/2026/06/02/central-maine/central-maine-police-courts/raymond-maine-wedding-stabbing-donald-halsing-interview/",
-      "source": "Bangor Daily News",
-      "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/06/adults-bride-bride-and-groom-193043.jpeg?fit=1200%2C800&ssl=1",
-      "published": "2026-06-02 15:54:00",
+      "title": "Judge lifts publication ban in sex assault case but accused can\u2019t yet be named",
+      "description": "A Nunavut judge revoked a court-ordered ban on identifying a man facing sexual assault charges but imposed another ban that doesn\u2019t yet allow the man\u2019s name to be published.",
+      "link": "https://nunatsiaq.com/stories/article/judge-lifts-publication-ban-in-sex-assault-case-but-accused-cant-yet-be-named/",
+      "source": "Nunatsiaq",
+      "image": "https://cdn.nunatsiaq.com/wp-content/uploads/2026/06/court_house_view_1000px-1-3-1000x630.jpg",
+      "published": "2026-06-02 20:53:40",
       "category": [
         "politics"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "UC Faculty Blames Test-Free Admissions for Math Gaps",
-      "description": "More than 1,100 University of California math and science professors said declining student preparedness is forcing instructors to teach middle-school math in college classrooms, prompting a call to restore SAT and ACT requirements across the UC system.",
-      "link": "https://www.newsmax.com/newsfront/university-of-california-sat-act/2026/06/02/id/1258283",
-      "source": "Newsmax.com",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e96c5f12-d5ba-4973-b696-1bec52f0b905&SiteName=Newsmax",
-      "published": "2026-06-02 15:53:58",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
+        "canada"
       ]
     }
   ]

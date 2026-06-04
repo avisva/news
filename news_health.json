@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Glen Rock\u2019s Evan Yuzon claims shot put state title on final throw",
+      "description": "Evan Yuzon of Glen Rock and several other North Jersey stars shined at the 2026 state Meet of Champions.",
+      "link": "https://www.northjersey.com/story/sports/high-school/track/2026/06/03/glen-rock-nj-evan-yuzon-shot-put-state-meet-champions-2026/90356425007/",
+      "source": "North Jersey Media Group",
+      "image": "https://www.northjersey.com/gcdn/authoring/authoring-images/2026/04/24/PNJM/89772549007-krw-9411-ct.jpg?crop=3341,1880,x0,y111&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-06-03 23:50:52",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

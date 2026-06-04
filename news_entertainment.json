@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Quentin Tarantino Says Post-Pandemic Movies Are Riddled by \u201cFlaws, Miscast Performers or Just Plain Stupid S***\u201d",
+      "description": "Quentin Tarantino is sharing his opinion on the new films coming out as of late, slamming them for the \u201cjust plain stupid shit [that] usually torpedoes every new movie coming out of the flavorless sausage factory that used to call itself Hollywood.\u201d The Pulp Fiction director penned a new op-ed for Sight and Sound magazine, [...] The post Quentin Tarantino Says Post-Pandemic Movies Are Riddled by \u201cFlaws, Miscast Performers or Just Plain Stupid S***\u201d appeared first on NYT News Today .",
+      "link": "https://www.nytimesnewstoday.com/quentin-tarantino-says-post-pandemic-movies-are-riddled-by-flaws-miscast-performers-or-just-plain-stupid-s/",
+      "source": "Nyt News Today",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2237984537-H-2026.jpg?w=1296&h=730&crop=1",
+      "published": "2026-06-03 23:51:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What Correspondents Have Been Fired From \u201960 Minutes\u2019 Since Bari Weiss Took Over?",
+      "description": "Bari Weiss has made a number of changes to '60 Minutes.' What correspondents have lost their jobs on the show.",
+      "link": "https://www.cheatsheet.com/news/correspondents-fired-60-minutes-bari-weiss-took.html/",
+      "source": "Showbiz Cheatsheet",
+      "image": "https://www.cheatsheet.com/wp-content/uploads/2026/06/Scott-Pelley-60-Minutes-1.webp",
+      "published": "2026-06-03 23:51:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

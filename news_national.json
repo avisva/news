@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Bengaluru: Realtor alleges blackmail by live-in partner",
+      "description": "Extortion case: A Bengaluru realtor accused his live-in partner and her husband of blackmail, alleging threats to leak private photographs and demands for money. Police registered a case and launched an investigation.",
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-realtor-alleges-blackmail-by-live-in-partner-4026626",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2024-11-23/1xsr62qc/crime%20istok.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-06-03 20:18:54",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "International forum to discuss climate resilience, sustainable development",
+      "description": "Government Degree College (GDC), Salooni, in collaboration with Global Forum for Sustainable Rural Development (GFSRD) will organise an international virtual symposium on June 5 to mark World Environment Day from 4 pm to 6 pm. The symposium aims to raise awareness about environmental conservation, sustainable development, climate resilience and inclusive approaches to addressing ecological challenges, [...]",
+      "link": "https://www.tribuneindia.com/news/himachal/international-forum-to-discuss-climate-resilience-sustainable-development",
+      "source": "The Tribune India",
+      "image": null,
+      "published": "2026-06-03 20:18:44",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,60 +1,31 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "WhatsApp iOS update brings cleaner chat filters, new Drafts category",
-      "description": "WhatsApp is updating the Chats tab on iPhone with more customisation options, helping users better organise conversations and revisit unsent messages.",
-      "link": "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-ios-update-brings-cleaner-chat-filters-new-drafts-category-10723867/",
-      "source": "The Indian Express",
-      "image": "https://images.indianexpress.com/2026/06/WhatsApp-is-rolling-out-a-new-system-to-manage-chat-lists-on-iOS.png",
-      "published": "2026-06-04 10:18:56",
+      "title": "Registration Now Open for Free Public Admission to Fifth Hong Kong Science Fair",
+      "description": "Over five years, nearly 9,000 teachers and students have participated in the Fair to drive youth engagement in innovation and technology HONG KONG SAR \u2013 Media OutReach Newswire \u2013 4 June 2026 \u2013 Organised by the Hong Kong Innovation Foundation (\u2018HKIF\u2019), the Fifth Hong Kong Science Fair (\u2018Science Fair\u2019) will take place from 27 to [...] The post Registration Now Open for Free Public Admission to Fifth Hong Kong Science Fair appeared first on Forever NEWS .",
+      "link": "https://www.forevernews.in/media-outreach/registration-now-open-for-free-public-admission-to-fifth-hong-kong-science-fair-897186",
+      "source": "Forever News",
+      "image": "https://www.forevernews.in/wp-content/uploads/2026/06/771906-Photo-2-2-jpg-400x0-2.jpeg",
+      "published": "2026-06-04 12:05:00",
+      "category": [
+        "top",
+        "education"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US telecom giant T-Mobile sets up global tech centre in Hyderabad",
+      "description": "US telecom giant T-Mobile USA has launched its first global capability center outside the US in Hyderabad. The facility, aiming to hire 1,000 employees by 2027, will focus on software engineering, AI, and cloud technologies. Telangana's IT minister highlighted Hyderabad's skilled talent pool and robust innovation ecosystem, underscoring the city's growing appeal for global tech hubs.",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-telecom-giant-t-mobile-sets-up-global-tech-centre-in-hyderabad/articleshow/131506505.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131506483/131506483.jpg",
+      "published": "2026-06-04 12:05:00",
       "category": [
         "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Bomb scare at Gurugram municipal corporation headquarters, mayor's office, search ops underway",
-      "description": "The Gurugram municipal corporation headquarters and the mayor's office in Sector 34 received a bomb threat on Thursday, police said. Soon after receiving information about the bomb threat, police started a search operation as the authorities are sweeping the premises for suspicious objects or explosives. The threat email brought police and security agencies on their toes, with personnel, dog squad, and bomb disposal units rushing to the civic body's Sector 34 office.",
-      "link": "https://www.indiatvnews.com/news/india/bomb-scare-at-gurugram-municipal-corporation-headquarters-mayor-s-office-search-ops-underway-2026-06-04-1043627",
-      "source": "India Tv",
-      "image": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2026/06/bomb-threat-1780568967.webp",
-      "published": "2026-06-04 10:18:53",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Seventeen projects, initiatives selected for National Awards for e-Governance",
-      "description": "Seventeen projects will receive National Awards for e-Governance 2026. These awards recognize outstanding digital governance initiatives. Winners span seven categories, including grassroots service delivery and AI innovation. Projects like Agri Stack and Mahakumbh 2025 are among the honorees. The awards ceremony will take place in Jaipur, Rajasthan.",
-      "link": "https://economictimes.indiatimes.com/news/india/seventeen-projects-initiatives-selected-for-national-awards-for-e-governance/articleshow/131503964.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-131504115,resizemode-4,width-1200,height-900,imgsize-33564,overlay-economictimes/articleshow.jpg",
-      "published": "2026-06-04 10:18:51",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "'Bring Sticks, Turn India Into Nepal': Meet 3 Gen Z Leaders of Cockroach Janata Party over June 6 Protest Slogan",
-      "description": "The Cockroach Janata Party (CJP), founded by Abhijeet Dipke, has announced three spokespersons\u2014Saurav Das, Vijeta Dahiya, and Ashutosh Ranka\u2014ahead of its June 6 protest at Jantar Mantar demanding the resignation of Education Minister Dharmendra Pradhan over examination-related controversies.",
-      "link": "https://www.ibtimes.co.in/bring-sticks-turn-india-into-nepal-meet-3-gen-z-leaders-cockroach-janata-party-over-june-6-902630",
-      "source": "International Business Times",
-      "image": "https://data1.ibtimes.co.in/en/full/833073/bring-sticks-turn-india-into-nepal-meet-3-gen-z-leaders-cockroach-janata-party-behind.jpg",
-      "published": "2026-06-04 10:18:47",
-      "category": [
-        "politics",
         "top"
       ],
       "country": [

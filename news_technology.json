@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "WhatsApp iOS update brings cleaner chat filters, new Drafts category",
-      "description": "WhatsApp is updating the Chats tab on iPhone with more customisation options, helping users better organise conversations and revisit unsent messages.",
-      "link": "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-ios-update-brings-cleaner-chat-filters-new-drafts-category-10723867/",
-      "source": "The Indian Express",
-      "image": "https://images.indianexpress.com/2026/06/WhatsApp-is-rolling-out-a-new-system-to-manage-chat-lists-on-iOS.png",
-      "published": "2026-06-04 10:18:56",
+      "title": "US telecom giant T-Mobile sets up global tech centre in Hyderabad",
+      "description": "US telecom giant T-Mobile USA has launched its first global capability center outside the US in Hyderabad. The facility, aiming to hire 1,000 employees by 2027, will focus on software engineering, AI, and cloud technologies. Telangana's IT minister highlighted Hyderabad's skilled talent pool and robust innovation ecosystem, underscoring the city's growing appeal for global tech hubs.",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-telecom-giant-t-mobile-sets-up-global-tech-centre-in-hyderabad/articleshow/131506505.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131506483/131506483.jpg",
+      "published": "2026-06-04 12:05:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Fake Claude Code Installer Spreads Fileless .NET Infostealer",
+      "description": "Hackers are actively abusing interest in AI development tools by launching a sophisticated SEO poisoning campaign that impersonates Anthropic\u2019s Claude Code installation flow to deliver a fully fileless .NET infostealer, according to researchers at Howler Cell. The campaign targets users... Read more \u2192 The post Fake Claude Code Installer Spreads Fileless .NET Infostealer appeared first on IT Security News .",
+      "link": "https://www.itsecuritynews.info/fake-claude-code-installer-spreads-fileless-net-infostealer/",
+      "source": "It Security News",
+      "image": null,
+      "published": "2026-06-04 12:05:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ivanti Finds System of Record Unlocks AI Value & Breaks Down Silos: 57% Report Improved Information Sharing Across IT and Security",
+      "description": "And, Nearly Half of IT Operations Will be Automated by AI Within 18 Months",
+      "link": "https://www.hjnews.com/news/state/ivanti-finds-system-of-record-unlocks-ai-value-breaks-down-silos-57-report-improved-information/article_946a80d6-7ebe-596d-8ecb-9d477ee62c26.html",
+      "source": "Hjnews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/8/d8/8d8179f4-8433-5bc9-bbfd-4f8222817dd8/698dd51b992de.image.jpg?crop=1208%2C634%2C299%2C0&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-04 12:05:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

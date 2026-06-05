@@ -1,46 +1,31 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "US telecom giant T-Mobile sets up global tech centre in Hyderabad",
-      "description": "US telecom giant T-Mobile USA has launched its first global capability center outside the US in Hyderabad. The facility, aiming to hire 1,000 employees by 2027, will focus on software engineering, AI, and cloud technologies. Telangana's IT minister highlighted Hyderabad's skilled talent pool and robust innovation ecosystem, underscoring the city's growing appeal for global tech hubs.",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-telecom-giant-t-mobile-sets-up-global-tech-centre-in-hyderabad/articleshow/131506505.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131506483/131506483.jpg",
-      "published": "2026-06-04 12:05:00",
+      "title": "Woman with self-imposed lifetime ban at casinos hits jackpot, then gets kicked out",
+      "description": null,
+      "link": "https://www.wsbtv.com/news/trending/woman-with-self-imposed-lifetime-ban-casinos-hits-jackpot-then-gets-kicked-out/NB7QTLFNQVB2TBHS6DVK42KQ5A/",
+      "source": "Wsb-tv Channel 2 - Atlanta",
+      "image": "https://www.wsbtv.com/resizer/v2/DLK6DAFAZVDBBI3YS43VBWLPUU.jpg?auth=f795c60e4ddb4e015bbb5c455ae0d74baace0beb35b94b9be672191862963162&smart=true&width=1280&height=720",
+      "published": "2026-06-04 17:13:57",
       "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Fake Claude Code Installer Spreads Fileless .NET Infostealer",
-      "description": "Hackers are actively abusing interest in AI development tools by launching a sophisticated SEO poisoning campaign that impersonates Anthropic\u2019s Claude Code installation flow to deliver a fully fileless .NET infostealer, according to researchers at Howler Cell. The campaign targets users... Read more \u2192 The post Fake Claude Code Installer Spreads Fileless .NET Infostealer appeared first on IT Security News .",
-      "link": "https://www.itsecuritynews.info/fake-claude-code-installer-spreads-fileless-net-infostealer/",
-      "source": "It Security News",
-      "image": null,
-      "published": "2026-06-04 12:05:00",
-      "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Ivanti Finds System of Record Unlocks AI Value & Breaks Down Silos: 57% Report Improved Information Sharing Across IT and Security",
-      "description": "And, Nearly Half of IT Operations Will be Automated by AI Within 18 Months",
-      "link": "https://www.hjnews.com/news/state/ivanti-finds-system-of-record-unlocks-ai-value-breaks-down-silos-57-report-improved-information/article_946a80d6-7ebe-596d-8ecb-9d477ee62c26.html",
-      "source": "Hjnews",
-      "image": "https://bloximages.chicago2.vip.townnews.com/hjnews.com/content/tncms/assets/v3/editorial/8/d8/8d8179f4-8433-5bc9-bbfd-4f8222817dd8/698dd51b992de.image.jpg?crop=1208%2C634%2C299%2C0&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-04 12:05:00",
+      "title": "Canadian Prime Minister Mark Carney warns foreign AI platforms can be used against Canadians",
+      "description": "TORONTO (AP) \u2014 Canadian Prime Minister Mark Carney warned Thursday that foreign artificial intelligence platforms could be used against Canadians....",
+      "link": "https://wtop.com/world/2026/06/canadian-prime-minister-mark-carney-warns-foreign-ai-platforms-can-be-used-against-canadians/",
+      "source": "Wtop News",
+      "image": "https://wtop.com/wp-content/uploads/2026/06/Canada_Carney__9286-1024x683.jpg",
+      "published": "2026-06-04 17:13:55",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"

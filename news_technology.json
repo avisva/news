@@ -1,22 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Several NZers almost gave sensitive information to China, SIS boss says",
-      "description": "Chinese military used an \"aggressive online recruitment strategy\", pressuring successful candidates to provide sensitive information.",
-      "link": "https://www.1news.co.nz/2026/06/05/several-nzers-almost-gave-sensitive-information-to-china-sis-boss-says/",
-      "source": "1news",
-      "image": "https://www.1news.co.nz/resizer/v2/T7GSMQBU35DURESREQ6JHRN26Y.jpg?auth=2d35ab35736f8f9be4becd8626e366576fd278f5cc690421955466ce95665e4a&smart=true&width=817&height=460",
-      "published": "2026-06-05 00:34:37",
-      "category": [
-        "politics",
-        "technology",
-        "top"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

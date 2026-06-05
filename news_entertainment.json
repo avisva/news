@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Birmingham chip shops and posh restaurants beg for the same thing and it's not more customers",
+      "description": "As we cover closure after closure, those calling time on their businesses are all crying out for the same thing - and it's not more customers",
+      "link": "https://www.birminghammail.co.uk/whats-on/food-drink-news/birmingham-chip-shops-posh-restaurants-34064534",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34066861.ece/ALTERNATES/s615/0_NWP_BEM_040626Bedders_08JPG.jpg",
+      "published": "2026-06-05 05:52:00",
+      "category": [
+        "breaking",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018To Infinity And Beyond\u2019: How Taylor Swift Turned a Lifelong Love of \u2018Toy Story\u2019 Into Her Latest Project",
+      "description": "\u201cWriting this song felt like a musical departure and coming home at the same time,\u201d Swift writes in a social post.",
+      "link": "https://www.billboard.com/music/music-news/taylor-swift-lifelong-love-toy-story-new-project-1236264906/",
+      "source": "Billboard",
+      "image": "https://www.billboard.com/wp-content/uploads/2026/06/02-taylor-swift-toy-story-5-cr-Beth-Garrabrant-billboard-1800.jpg",
+      "published": "2026-06-05 05:51:25",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,29 +1,119 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 12,
   "results": [
     {
-      "title": "Atlanta transit system under federal probe",
-      "description": "(The Center Square) \u2013 Atlanta's transit system, expected to see an influx in two weeks from global soccer's biggest stage, is under investigation for security protocols by the U.S. Department of Transportation, Secretary Sean Duffy said Thursday.",
-      "link": "https://www.griffindailynews.com/news/state/atlanta-transit-system-under-federal-probe/article_43ca5492-a9d9-519a-a59f-aac6e7a4c2fd.html",
-      "source": "Griffindailynews",
-      "image": "https://bloximages.newyork1.vip.townnews.com/griffindailynews.com/content/tncms/custom/image/6e8a8f74-c79f-11ea-9099-cbc214f5a07b.jpg?resize=600%2C315",
-      "published": "2026-06-04 17:14:00",
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://peninsulanewsreview.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Peninsula News Review",
+      "image": "https://peninsulanewsreview.com/wp-content/uploads/sites/16/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "Aaron Judge misses 3rd straight game with bone bruise in rib as Yankees await clarity",
-      "description": "Aaron Judge is out of the lineup for a third straight game and the New York Yankees are awaiting clarity about a bone bruise in one of the slugger\u2019s right ribs that is causing right shoulder pain. Judge underwent a...",
-      "link": "https://www.romesentinel.com/ap/sports/aaron-judge-misses-3rd-straight-game-with-bone-bruise-in-rib-as-yankees-await-clarity/article_37a81b67-3d2a-57a7-85cf-07128df0a932.html",
-      "source": "Romesentinel",
-      "image": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/c/56/c56ac5c2-ec03-58cd-ab80-ccce0e832e72/6a21b30f683dc.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-04 17:14:00",
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://vicnews.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Victoria News",
+      "image": "https://vicnews.com/wp-content/uploads/sites/2/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://oakbaynews.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Oak Bay News",
+      "image": "https://oakbaynews.com/wp-content/uploads/sites/18/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://saanichnews.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Saanich News",
+      "image": "https://saanichnews.com/wp-content/uploads/sites/15/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://vancouverislandfreedaily.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Vancouver Island Free Daily",
+      "image": "https://vancouverislandfreedaily.com/wp-content/uploads/sites/17/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://sookenewsmirror.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Sooke News Mirror",
+      "image": "https://sookenewsmirror.com/wp-content/uploads/sites/21/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Royal Victoria marathon aims for 17,000 runners this fall",
+      "description": "More than 10,800 runners have registered for Victoria\u2019s marathon weekend happening in October",
+      "link": "https://goldstreamgazette.com/2026/06/04/royal-victoria-marathon-aims-for-17000-runners-this-fall/",
+      "source": "Goldstream News Gazette",
+      "image": "https://goldstreamgazette.com/wp-content/uploads/sites/19/2026/06/42485930_web1_260604-VNE-RoyalVictoriaMarathon-_2.jpg",
+      "published": "2026-06-04 21:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Noah Lyles clocks 9.88-second 100m victory, his fastest time since 2024 Olympics: 'I'm here to win'",
+      "description": "Lyles won with daylight, producing the second-quickest time of any sprinter in 2026, behind only Kayinsola Ajayi (9.84s) of Nigeria.",
+      "link": "https://www.nytimes.com/athletic/7334073/2026/06/04/noah-lyles-100m-time-diamond-league/",
+      "source": "Theathleticuk",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/06/04173459/GettyImages-2279099541-scaled.jpg",
+      "published": "2026-06-04 21:42:53",
       "category": [
         "sports"
       ],
@@ -32,47 +122,66 @@
       ]
     },
     {
-      "title": "Bewene\u2019s dream debut, Okoye\u2019s heroics, VAR drama: Lessons from Nigeria\u2019s draw with Poland",
-      "description": "The encounter lived up to expectations, producing four goals, VAR drama, standout individual performances and a late twist that left both sides sharing the spoils The post Bewene\u2019s dream debut, Okoye\u2019s heroics, VAR drama: Lessons from Nigeria\u2019s draw with Poland appeared first on Premium Times Nigeria .",
-      "link": "https://www.premiumtimesng.com/sports/football/885090-bewenes-dream-debut-okoyes-heroics-var-drama-lessons-from-nigerias-draw-with-poland.html",
-      "source": "Premium Times",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/941573-scaled-e1780592948218.jpg?fit=2560%2C1600&ssl=1",
-      "published": "2026-06-04 17:13:57",
+      "title": "\u201cCanada is not prepared to host a World Cup\u201d \u2014 Jose\u0301 Carlos Silva",
+      "description": "With decades of connection to Luso-Canadian soccer, and to Gil Vicente Toronto in particular, Jose\u0301 Carlos Silva looks at the 2026 World Cup with a mix of enthusiasm and skepticism. ...",
+      "link": "https://mileniostadium.com/uncategorized/canada-is-not-prepared-to-host-a-world-cup-jose-carlos-silva/",
+      "source": "Milenio Stadium",
+      "image": "https://mileniostadium.com/wp-content/uploads/2026/06/Jose-Carlos-Silva-236x300.jpg",
+      "published": "2026-06-04 21:42:53",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "nigeria"
+        "canada"
       ]
     },
     {
-      "title": "Josh Hart scored only three, but one sneaky play sealed Knicks\u2019 game 1 win",
-      "description": "Josh Hart only put up three points in Game 1 of the NBA Finals, but his impact went well beyond the scoreboard. His 15 rebounds, ...",
-      "link": "https://www.hitc.com/josh-hart-scored-only-three-but-one-sneaky-play-sealed-knicks-game-1-win/",
-      "source": "Hitc",
-      "image": "https://cdn3.hitc.com/uploads/1/2026/05/GettyImages-2277578476-scaled.jpg",
-      "published": "2026-06-04 17:13:46",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Josh Hart scored only three, but one sneaky play sealed Knicks\u2019 game 1 win",
-      "description": "Josh Hart only put up three points in Game 1 of the NBA Finals, but his impact went well beyond the scoreboard. His 15 rebounds, six assists and four steals helped the Knicks to a 105-95 win over the Spurs, giving them a 1-0 lead and home-court advantage.",
-      "link": "https://www.yardbarker.com/nba/articles/josh_hart_scored_only_three_but_one_sneaky_play_sealed_knicks_game_1_win/s1_17664_43917998",
-      "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/2/0/20f10a74f2d16d205d6e34e126d6c1a6b38287c9/thumb_16x9/GettyImages-2277578476-scaled.jpg",
-      "published": "2026-06-04 17:13:46",
+      "title": "LIVE BLOG: Golden Knights vs. Hurricanes Game 2 live score, updates, highlights",
+      "description": "The Golden Knights look for the road sweep against the Hurricanes in Game 2 of the Stanley Cup Final on Thursday at Raleigh, North Carolina. Follow for live updates.",
+      "link": "https://www.reviewjournal.com/sports/goldenknights/live-blog-golden-knights-vs-hurricanes-game-2-live-score-updates-highlights-3833419/",
+      "source": "Las-vegas Review Journal",
+      "image": "https://www.reviewjournal.com/wp-content/uploads/2026/06/21748974_web1_WEB-HKN-KNIGHTS_060226cs_030.jpg?w=700",
+      "published": "2026-06-04 21:42:49",
       "category": [
         "sports"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Four-wicket Robinson sparks New Zealand collapse in 1st test after England slump",
+      "description": "England's Ollie Robinson marked his first test for more than two years with four wickets, including three in a sensational opening over, as New Zealand collapsed to 61-6...",
+      "link": "https://japantoday.com/category/sports/four-wicket-robinson-rocks-new-zealand-in-1st-test-after-england-collapse",
+      "source": "Japan Today",
+      "image": "https://media.japantoday.com/img/store/67/e4/7800c10a2655b4da4f2a17ba9f9dd98cf1a3/5e4747c169719cf83f98e164ae715921d14b715d/_w1700.jpeg",
+      "published": "2026-06-04 21:42:48",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Trump to attend NBA Finals Game 3 in New York",
+      "description": "President Trump said Thursday that he has accepted an invitation from New York Knicks owner James Dolan to attend an NBA Finals game at Madison Square Garden next week.",
+      "link": "https://www.espn.com/nba/story/_/id/48969036/trump-accepts-invite-attend-nba-finals-game-3-new-york",
+      "source": "Entertainment And Sports Programming Network",
+      "image": "https://a.espncdn.com/photo/2025/1110/r1573425_1296x729_16-9.jpg",
+      "published": "2026-06-04 21:42:47",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom",
+        "singapore",
+        "australia",
+        "india",
+        "united states of america",
+        "canada"
       ]
     }
   ]

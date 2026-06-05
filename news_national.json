@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Trump says India-US trade deal likely soon, \u2018we are making a lot of money with India\u2019",
+      "description": "Donald Trump says the US and India are likely to reach a trade deal soon, while calling PM Narendra Modi a \u201cgood friend.\u201d The remarks come amid fresh US tariffs and ongoing negotiations aimed at strengthening economic ties between the two countries.",
+      "link": "https://www.financialexpress.com/business/news/trump-says-india-usnbsptrade-deal-likely-soon-accusesnbspindia-of-taking-advantage-of-america-for-years/4259573/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/05/Trump_Modi.jpg",
+      "published": "2026-06-05 00:34:47",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

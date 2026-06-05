@@ -1,29 +1,14 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Romania\u2019s Voxa launches child-friendly audiobook and stories section",
-      "description": "Voxa, Romania's largest audiobook and eBook platform, announced the launch of Voxa Kids, a dedicated section designed specifically for children. The new feature aims to provide young users with a safe digital environment where they can discover stories and audiobooks tailored to their age. According to Voxa, around 30% of its users already listen to children's audiobooks, generating nearly 500,000 listening hours over the past 12 months. The company said the new section was created in response to growing demand for quality, screen-free digital entertainment for children. Voxa Kids said it offers curated content tailored to different age groups, a simplified and colorful interface designed specifically for children, parental controls protected by passwords and PIN codes, and the option to create multiple child profiles within the same account. \u201cWith Voxa Kids, we wanted to solve a challenge faced by every modern parent: how to offer children quality digital entertainment without worrying about inappropriate content,\" said Dan Vidras\u0326cu, CEO of Voxa. Parents can activate Voxa Kids directly from the \"My Profile\" section of the Voxa app and customize security settings and child profiles. Voxa said the launch is part of its broader strategy to expand family-focused digital experiences and encourage reading and audio content consumption among younger audiences. The platform currently offers access to more than 200,000 audiobook and digital book titles in Romanian and English, alongside podcasts and educational content. irina.marica@romania-insider.com (Photo source: press release)",
-      "link": "https://www.romania-insider.com/voxa-kids-romania-june-2026",
-      "source": "Romania Insider",
-      "image": null,
-      "published": "2026-06-05 07:50:57",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "romania"
-      ]
-    },
-    {
-      "title": "Google Implements Job Cuts Amid Rising AI Investments in Tech Sector",
-      "description": "Google has initiated further job cuts, affecting its Cloud division, in a move that reportedly took place over the past two weeks. This development follows a broader trend of layoffs within the technology sector, suggesting a continuing wave of workforce reductions. Recent reports indicate that several employees were impacted by these layoffs, particularly within Google [...] The post Google Implements Job Cuts Amid Rising AI Investments in Tech Sector appeared first on The CSR Journal .",
-      "link": "https://thecsrjournal.in/google-job-cuts-rising-ai-investments-tech-sector/",
-      "source": "The Csr Journal",
-      "image": "https://thecsrjournal.in/wp-content/uploads/2026/06/Google-Cloud.webp",
-      "published": "2026-06-05 07:50:50",
+      "title": "\u2018Temporary Misconfiguration\u2019: IIT Roorkee Calls JEE Advanced Data Breach Claims 'Misleading'",
+      "description": "The affected storage, IIT Roorkee said, was \u201cread-only\" and access was limited to less than 0.05% of the data. No sensitive information was compromised or mass-extracted, it added.",
+      "link": "https://www.news18.com/education-career/jee-advanced-temporary-misconfiguration-iit-roorkee-calls-data-breach-claims-misleading-10132276.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/02/IIT-Roorkee-2025-02-8eb1496f1f84805b5332d6fc5931ae1d-3x2.png",
+      "published": "2026-06-05 09:23:59",
       "category": [
         "technology",
         "top"
@@ -33,23 +18,57 @@
       ]
     },
     {
-      "title": "Kyocera to acquire Ushio\u2019s laser diode business",
-      "description": "Kyocera Corp of Kyoto, Japan (which manufactures fine ceramic components) has entered into a share purchase agreement for the laser diode business of Tokyo-based Ushio Inc...",
-      "link": "https://www.semiconductor-today.com/news_items/2026/jun/kyocera-ushio-050626.shtml",
-      "source": "News Semiconductor",
-      "image": null,
-      "published": "2026-06-05 07:50:48",
+      "title": "ChatGPT app can now remember more about your conversations; Without a paid subscription",
+      "description": "The new memory architecture is built on top of its \"dreaming\" system, which automatically identifies information from past conversations.",
+      "link": "https://www.businesstoday.in/technology/artificial-intelligence/story/chatgpt-app-can-now-remember-more-about-your-conversations-without-a-paid-subscription-535126-2026-06-05",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a229466891f9-chatgpt-memory-feature-051825252-16x9.png?size=1280:720",
+      "published": "2026-06-05 09:23:59",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "germany",
-        "china",
-        "united states of america",
-        "south korea",
-        "singapore",
-        "japan",
-        "taiwan",
+        "india"
+      ]
+    },
+    {
+      "title": "Cyberpunk TCG Already Faces Significant Rule Changes After Massive $28M Kickstarter Campaign",
+      "description": "Switching things up. If you found yourself lurking around Kickstarter a few months back, or really the internet in general, you probably heard something about The Official Cyberpunk Trading Card Game . Pulling in more than $28 million dollars and taking the top spot as the most-funded game on the ...",
+      "link": "https://me.ign.com/en/cd-projekt-red-project-untitled/244967/cyberpunk-tcg-already-faces-significant-rule-changes-after-massive-28m-kickstarter-campaign",
+      "source": "Ign Middle East",
+      "image": "https://sm.ign.com/ign_me/news/c/cyberpunk-/cyberpunk-tcg-already-faces-significant-rule-changes-after-m_ganj.jpg",
+      "published": "2026-06-05 09:23:58",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "egypt",
+        "syria",
+        "bahrain",
+        "yemen",
+        "jordan",
+        "iraq",
+        "saudi arabia",
+        "united arab emirates",
+        "israel",
+        "turkey",
+        "cyprus"
+      ]
+    },
+    {
+      "title": "Nissan in talks to build Chery cars at Sunderland plant under recovery plan",
+      "description": "Nissan is exploring a deal that could see Chinese brand Chery\u2019s cars built at its Sunderland plant from 2027, while insisting the factory stays Nissan\u2010owned and existing jobs are protected.",
+      "link": "https://www.thenorthernecho.co.uk/news/26168946.nissan-talks-build-chery-cars-sunderland-factory/",
+      "source": "The Northern Echo",
+      "image": null,
+      "published": "2026-06-05 09:23:57",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
         "united kingdom"
       ]
     }

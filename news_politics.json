@@ -1,29 +1,59 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "End poverty, not alimony",
-      "description": "Women have reacted with outrage following the AYM's annulment of the provision allowing poverty alimony to be granted 'indefinitely'. The decision was evaluated as the newest link in a broader political line targeting the right to an equal and free life.",
-      "link": "https://www.birgun.net/haber/end-poverty-not-alimony-716574",
-      "source": "Birg\u00fcn Gazetesi",
-      "image": "https://static.birgun.net/resim/haber/2026/06/05/end-poverty-not-alimony.jpg",
-      "published": "2026-06-05 07:51:00",
+      "title": "Russian drone strike on food plant in Kyiv region kills four, injures seven",
+      "description": "A Russian drone attack on a food processing enterprise in the Brovary district, Kyiv region, on the morning of June 5 has left four people dead and seven injured, while rescuers continue searching for two people believed to be trapped under the rubble.",
+      "link": "https://www.ukrinform.net/rubric-ato/4130788-russian-drone-strike-on-food-plant-in-kyiv-region-kills-four-injures-seven.html",
+      "source": "Ukrinform",
+      "image": null,
+      "published": "2026-06-05 09:24:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "\u2018Freedom\u2019s Battleground\u2019: Monmouth County unveils USA 250 monument",
+      "description": "New bronze statues in Monmouth County honor the local families and soldiers who fought in the American Revolution.",
+      "link": "https://www.app.com/story/news/local/monmouth-county/2026/06/05/monmouth-county-american250-freedoms-battleground-sculpture/90357935007/",
+      "source": "Asbury Park Press",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/06/04/PAPP/90404927007-dsc-02975-copy.jpg?auto=webp&crop=7007,3942,x0,y0&format=pjpg&width=1200",
+      "published": "2026-06-05 09:23:47",
+      "category": [
+        "lifestyle",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Wilmington City Council wants new plan for Christina Park residents",
+      "description": "Wilmington City Council wants Mayor John Carney's office to delay the closure of a tent village homeless population in Christina Park.",
+      "link": "https://www.delawareonline.com/story/news/politics/2026/06/05/wilmington-city-council-calls-for-new-plan-for-parks-homeless/90372572007/",
+      "source": "The News Journal",
+      "image": "https://www.delawareonline.com/gcdn/authoring/authoring-images/2026/04/08/PWIL/89522434007-park-return-1.jpg?crop=5909,3324,x0,y575&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-06-05 09:23:46",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "turkey"
+        "united states of america"
       ]
     },
     {
-      "title": "Justice Meenakshi Madan Rai takes oath as Patna HC CJ",
-      "description": "File image of justice Meenakshi Madan Rai at oath-taking ceremony , Patna Lok Bhawan(Photo: IANS) Patna, June 5 : Justice Meenakshi Madan Rai was sworn in on Friday as the Chief Justice of the Patna High Court. Bihar Governor Syed Ata Hasnain administered the oath of office to Chief Justice Rai at a ceremony held at Bihar Lok Bhavan in Patna, attended by judges of the Patna High Court and other dignitaries. Governor Syed Ata Hasnain and Chief Justice Meenakshi Madan Rai greeted each other after the swearing-in ceremony. Earlier this week, the Centre had cleared the appointment of Justice Rai as the Chief Justice of the Patna High Court, acting on the recommendation of the Supreme Court Collegium headed by Chief Justice of India (CJI) Surya Kant. \u201cIn exercise of the power conferred by the Constitution of India and in consultation with the Chief Justice of India, the President is pleased to appoint Smt. Justice Meenakshi Madan Rai, Judge of the Sikkim High Court, as Chief Justice of the Patna High Court,\u201d Union Minister of State (I/C) for Law and Justice Arjun Ram Meghwal had said in a post on X while announcing the appointment. The apex court Collegium, in its meeting held on May 22, had recommended the appointment of Justice Rai, a judge of the Sikkim High Court, as Chief Justice of the Patna High Court consequent upon the retirement of the incumbent Chief Justice Sangam Kumar Sahoo on June 4. Justice Rai takes over as the head of the Patna High Court following the retirement of Chief Justice Sahoo. Born on July 12, 1964, Justice Meenakshi Madan Rai completed her schooling in Gangtok and Kurseong before pursuing Political Science (Honours) at Lady Shri Ram College, Delhi University, on a merit scholarship from the Government of Sikkim. She later obtained her LL.B. degree from the Campus Law Centre, Delhi University, in 1989. Before her elevation to the Bench, she was enrolled with the Bar Association of Delhi in 1990 and practised beforethe Delhi High Court and the Supreme Court under an Advocate-on-Record. She was appointed as a judge of the Sikkim High Court on April 15, 2015, becoming the first woman from Sikkim to be elevated to the post. Justice Rai has also served as Acting Chief Justice of the Sikkim High Court on multiple occasions and currently serves as the Executive Chairperson of the Sikkim State Legal Services Authority. --IANS",
-      "link": "https://assamtribune.com/national/justice-meenakshi-madan-rai-takes-oath-as-patna-hc-cj-1612399",
-      "source": "The Assam Tribune",
-      "image": "https://assamtribune.com/h-upload/2026/06/05/1784249-screenshot-2026-06-05-131603.webp",
-      "published": "2026-06-05 07:50:44",
+      "title": "K Annamalai Quits BJP, Announces New Political Movement",
+      "description": "K Annamalai resigns from BJP after meetings with top leadership BJP formally accepts resignation from primary membership Former IPS officer announces launch of new political movement Says his party will contest next Tamil Nadu Assembly elections GG News Bureau Chennai, 5th June: In a major political development ahead of the next Tamil Nadu Assembly elections, [...] The post K Annamalai Quits BJP, Announces New Political Movement appeared first on Global Governanace News .",
+      "link": "https://globalgovernancenews.com/k-annamalai-quits-bjp-announces-new-political-movement/",
+      "source": "Global Governanace News",
+      "image": "https://globalgovernancenews.com/wp-content/uploads/2026/01/K-Annamalai-express-photo_20260112083325.jpeg",
+      "published": "2026-06-05 09:23:45",
       "category": [
         "politics",
         "top"

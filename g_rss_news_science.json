@@ -1,12 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 14,
+  "totalResults": 12,
   "results": [
     {
       "title": "Space station astronauts prepared for possible evacuation during air leak repairs - The National",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZzBNTmtrSzA5R3dIR3JYc21nVXJaSGNNcjRBSXYtamhnUGd4cFEwb3A0cVRjOVRmUmc4TDVRWFJaV2syaThaOE1rYWlaNTNaZGVEY0pWTm5HT2tYbmNnZWtGSktYOE5CWmhGRU15TzFJY3hOUlEtWWh4T2V3d3VGV1QxTjM0Rmk4QUFGSDZLZGNmRExzODhGdVpZWG0zZnpDZVFwU1B3clM1MWtlT0FvQ2tDLUxuN1F3UXRvRUs2R21MYUl1LXhpTmJreXRwdVUydUt4Yw?oc=5",
       "published": "Sat, 06 Jun 2026 06:22:38 GMT",
       "source": "The National",
+      "category": "science"
+    },
+    {
+      "title": "Total Solar Eclipse on August 12, 2026 - NASA Science (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGJINFl0QWQxUEhOeGFReUJnZk85cHY3dkh3UW5YcEZaQXdxdE5pWGkzeWRVd3ZoZ1pqZVNsdGFUSTZtd09jdGphdkpKbWJjdnBCQW5IU0c0Y2hEYWhmQXhNTXJjaHdvZDlZR1RKLWxzZmJFeEptMTM4a1g5R1MxdGZtcVNQXzRBb0JaSExBclNYZw?oc=5",
+      "published": "Sat, 06 Jun 2026 00:11:27 GMT",
+      "source": "NASA Science (.gov)",
       "category": "science"
     },
     {
@@ -24,13 +31,6 @@
       "category": "science"
     },
     {
-      "title": "NASA-backed study reveals how Earth got key ingredients for life - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1BlN3Z0MUtlNFdjNHJJLWJWWTZpRTdHdVNmaTBRQzZ0QjZzQTAzbjBhYkc5dGo1S1ZpMS1zRXU5UGh0QW5aLUhyRTBQYTVReFEtWU5temEtNWdJUlNneUxQUGtGckxPbFVIbzREVmppcG1nNWxfeE1NVWxlSElER2taQ0U4LTNyRFNWQ3k2eDQ2OW1FZmVrTzFObnhGSnRUT0sxc0ZKQmVGVEd1Q2RHT09zR1pORlJkM3M3MC1DaUlTQl9BdTRtOHFJb9IB0gFBVV95cUxQRDMtbzBFUVBrbGtDajk3ZmJpUWVyaXRNVThIb0poTzQ5VzU4dE9hN0FKY0QwYWl6QnZRWGdGQk9nc2JPT1V3eHhxbTRrS0lUNEJSMnVtR0Q5MUtjdEtXLUg0aDdCaVRkQ2I1QzFtYnozWWU0UWFFQ1lzZXNrV0d6NzlsU3Brd2Y5SF9HWF95S0tKZHhpR0lZaDE5RmI0YXBSNTBjNDdPVkg4bTQ0ZC15ZnVuSlVHTC1oYW95X2Z2aVFPQzhtVWtZaUJuWHNJaXV3RHc?oc=5",
-      "published": "Sat, 06 Jun 2026 07:52:39 GMT",
-      "source": "The Indian Express",
-      "category": "science"
-    },
-    {
       "title": "Record ultraviolet quasar wind reaches 30% light speed near supermassive black hole - Phys.org",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZnVGbUpQVmdoUXh1YTR1d0tMM3AweGlUYzFYR1FzeFNmSTBtOHN4OHg4T1BIalBldnlCWkpPWERUM0ZFc3Rlci1NUGw4bUYyMi1kOUlQXzhRblFPTmI3NFNiY19QUXluQlRsdlBOdW9ZdHdpOXNwU3ZOcHRLVWVqQmhtVQ?oc=5",
       "published": "Thu, 04 Jun 2026 21:20:01 GMT",
@@ -38,10 +38,10 @@
       "category": "science"
     },
     {
-      "title": "Total Solar Eclipse on August 12, 2026 - NASA Science (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGJINFl0QWQxUEhOeGFReUJnZk85cHY3dkh3UW5YcEZaQXdxdE5pWGkzeWRVd3ZoZ1pqZVNsdGFUSTZtd09jdGphdkpKbWJjdnBCQW5IU0c0Y2hEYWhmQXhNTXJjaHdvZDlZR1RKLWxzZmJFeEptMTM4a1g5R1MxdGZtcVNQXzRBb0JaSExBclNYZw?oc=5",
-      "published": "Sat, 06 Jun 2026 00:11:27 GMT",
-      "source": "NASA Science (.gov)",
+      "title": "NASA-backed study reveals how Earth got key ingredients for life - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1BlN3Z0MUtlNFdjNHJJLWJWWTZpRTdHdVNmaTBRQzZ0QjZzQTAzbjBhYkc5dGo1S1ZpMS1zRXU5UGh0QW5aLUhyRTBQYTVReFEtWU5temEtNWdJUlNneUxQUGtGckxPbFVIbzREVmppcG1nNWxfeE1NVWxlSElER2taQ0U4LTNyRFNWQ3k2eDQ2OW1FZmVrTzFObnhGSnRUT0sxc0ZKQmVGVEd1Q2RHT09zR1pORlJkM3M3MC1DaUlTQl9BdTRtOHFJb9IB0gFBVV95cUxQRDMtbzBFUVBrbGtDajk3ZmJpUWVyaXRNVThIb0poTzQ5VzU4dE9hN0FKY0QwYWl6QnZRWGdGQk9nc2JPT1V3eHhxbTRrS0lUNEJSMnVtR0Q5MUtjdEtXLUg0aDdCaVRkQ2I1QzFtYnozWWU0UWFFQ1lzZXNrV0d6NzlsU3Brd2Y5SF9HWF95S0tKZHhpR0lZaDE5RmI0YXBSNTBjNDdPVkg4bTQ0ZC15ZnVuSlVHTC1oYW95X2Z2aVFPQzhtVWtZaUJuWHNJaXV3RHc?oc=5",
+      "published": "Sat, 06 Jun 2026 07:52:39 GMT",
+      "source": "The Indian Express",
       "category": "science"
     },
     {
@@ -66,13 +66,6 @@
       "category": "science"
     },
     {
-      "title": "Scientists Discover Dog-Sized Scorpion That Once Roamed Earth - Infomance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3ZiX1NyMVZfbVNZWk02UTVBZ3U1YUFxVGJPSjJsV3dGZDlnczdEMEVDOFd3R2Z3enhsejYyN2pWYkFnVmlvcms1aDExQy1sVVNPekdydElJb08zSDJPXzd3dlgzTGFHb0tBN1FqZlhQeS03cGIyUTdmblpoSVZVVHNVbW1Nemdjbk1fcmllSEJiU0NEOWsxUndRcXVLQ1dZ?oc=5",
-      "published": "Sat, 06 Jun 2026 10:15:58 GMT",
-      "source": "Infomance",
-      "category": "science"
-    },
-    {
       "title": "NASA\u2019s Roman Space Telescope gets August 2026 launch date, ahead of schedule - The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVlU1bTNqSkZOMnlaV3ViNzJXWE1ucHdjUlI2UTgtVHFTbm5hTEFoNmxEVVI2ek40ZFZXdmRhMkFHZEpMelZ3T1VyOXZIWGRZQ1phMTBUS2RzTElza09RZUh2VTZVV09PcVV2MmMtczBsRFJ0c1E4VERSYWVCbEw4aU1heWxmMDhZdjBQU0hGY045OUNROXdOZjdpcnZtbHNDTnZWVmZla0pyclc4NkJ0UU9rcS05MExCdlBtODJkazlnMTQ3SFdGSXVMVmlFdTdZMWNV0gHaAUFVX3lxTE9YbmxTWDItNlVaUHgxZGt1eGJieUlrWjFiY0lDcEd0dnNaMjFjd3Vrd0tDTG1VdUliZDMwZERuRVI3MFhqSnlqSnFGSl9PMDVWdmVQV09wSXp0YzA0V2ZjM1JOdHlGVFFTUHFRNkxfZUlSS2xWbXlxek5YN2RsaGs2d2lFVGNlSDJJMFQxS2tnLVYyMWZBd0E4c3c4SWNYeHlhVU0zZmdTSnd4SHRlN01UZmZUUy1kTEY3Mkc5bWlUNjc4bW83RUpDN0FYblJwLUxNQW4zRlR0WTJB?oc=5",
       "published": "Fri, 05 Jun 2026 14:13:59 GMT",
@@ -87,17 +80,10 @@
       "category": "science"
     },
     {
-      "title": "NASA Concludes MAVEN Mars Mission After Irrecoverable Spacecraft Loss - The Sentinel - of this Land, for its People",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenV2WW83aDRDTy1nSnphU0xoWHJ6MTlWOUFVQW0wOFEtekUtb3lTQUxqQjNsQ0tfTUVLdTFPN2JvU29haEMwaUhfV2Uyd19ISGlvUU41S3JQRzlCTDhmNEdYUHI1NElBNVVodnZrVVR3NUxTMjg4S0lpS01mZjZobmtvaW5kVDN4c25KUXRhU2VONWxUWHd1VEhqc2dKckF3S0lMUjllWXNiclBGdG9zcnJkSzRMYXJSSlg5cVl5NGrSAc4BQVVfeXFMTzM1UUdEeVlNTzNDV1BuUnhoQWpNV3ZCUV9WbWxYcnU1RXlGRUozZlJUQnV3MFk4ZkFIVWVVN2c0UGRxV2JzSGQ1SEp6aFpFVTd1cXVHMy1CMVdaLTBZU0NaMnBLSFV6d25ZY2RGdERKWTdVdTh3UFVVSUFBWjlhdnNveVdGZzFGX1ZhQmZGWGJ5eDM3UVMwUXNpeFF5MDNwc2lwbUw1WThvYy1JdHNyUlgyeTJ5THZ3TVhzU1daMEtHSXZEeUI3dVNfWEFlcUE?oc=5",
-      "published": "Fri, 05 Jun 2026 06:32:38 GMT",
-      "source": "The Sentinel - of this Land, for its People",
-      "category": "science"
-    },
-    {
-      "title": "Sahara Meteorite May Be Fragment of a Lost Moon-Sized World, Study Suggests - Gadgets 360",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0FHcHVVd1Q5eHppMnZpcm1LWnVNenJMZGZGNTFXVVVGbkF0UEtITVI1TVZ1YWgzVFBxMjNjWU5FRHdrUF9Yd2RlNU52cDh2blQzdDV0UEd2M2M3bWNyeFkyNTY0eVRfRGlSWnNKMkpCdDdBdGRSWW1JbDFwbGZZR1p2TXpLb0lYeTNtdzc0SGZCSVhCZ1Z1QW8tWGdDREF3YkM1MVdQX2I4NkJybFHSAbMBQVVfeXFMUDQzdXI0TklwMGdNbVR0ek1fMzBtUTQ2VWtGanQtTVNuTldibEdNQ3k1SnpVVG9VZE51QVZldUpuV1NHSmlMbDFPSG1RVUt3RFRsZXUxLUhVMVByYjhNdU9mV192aWxNMXRMdjNmTS1iN3M5emstRWpjVXpjMm52ejd2dlNDXzR0SGRLWFZBaGdLUnZ0SllCdWVWUld5QUVwNmZPa0ctXzloU2RoOGdZY196Z3c?oc=5",
-      "published": "Fri, 05 Jun 2026 14:30:46 GMT",
-      "source": "Gadgets 360",
+      "title": "NASA Ends MAVEN Mars Mission After Losing Contact With Spacecraft - INDToday",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajI4bjlGQzBrazlMaHFrMDBHV1FrQ2lET1pZaW9NZ3ZnTDNvNEk0SzVvUWpxWllod282SFZacG9VSEFhX2hpOXc5dzIyUHBRanZLdi0xTFljT2VDblk5MDRnbU4yZGJwbFVzY3ZqWFFCbDNsV2Vfa2JBdE12bnVoVXVOTU9KeTNxM2RNT0lkWEk?oc=5",
+      "published": "Fri, 05 Jun 2026 05:35:37 GMT",
+      "source": "INDToday",
       "category": "science"
     }
   ]

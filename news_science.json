@@ -1,5 +1,37 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "How UBC-trained food scientists are advancing food and beverage manufacturing in Canada",
+      "description": "Pushing the economy forward: Together with industry, UBC graduates are turning research into high-demand food and beverage products.",
+      "link": "https://news.ubc.ca/2026/06/ubc-trained-food-scientists-advancing-food-and-beverage-manufacturing-in-canada/",
+      "source": "The University Of British Columbia",
+      "image": "https://news.ubc.ca/wp-content/uploads/2026/06/ubc_20260430_pj_7673.jpg",
+      "published": "2026-06-05 14:55:00",
+      "category": [
+        "business",
+        "science",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "ISS Astronauts Ordered to Enter Evacuation Mode",
+      "description": "\"Out of an abundance of caution, NASA has directed all four of the agency's SpaceX Crew-12 members and NASA astronaut Chris Williams to assume an elevated safety posture in the Dragon spacecraft while the repair is underway.\" The post ISS Astronauts Ordered to Enter Evacuation Mode appeared first on Futurism .",
+      "link": "https://futurism.com/space/iss-astronauts-evacuation-mode",
+      "source": "Futurism",
+      "image": "https://futurism.com/wp-content/uploads/2026/06/iss-astronauts-evacuation-mode.jpg",
+      "published": "2026-06-05 14:54:55",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

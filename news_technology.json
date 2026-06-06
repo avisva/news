@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Akinfenwa partners Adobe Express, NUJ FCT to train 100 Journalists on digital content creation",
-      "description": "As part of efforts to enhance modern journalism practice, Chief Executive Officer (CEO), Lifestyle Hues and Adobe Ambassador in Nigeria,",
-      "link": "https://guardian.ng/news/akinfenwa-partners-adobe-express-nuj-fct-to-train-100-journalists-on-digital-content-creation/",
-      "source": "The Guardian",
-      "image": "https://cdn.guardian.ng/wp-content/uploads/2026/06/IMG_7080.jpg",
-      "published": "2026-06-06 03:12:20",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Moratorium for AI Data Centers now in Hochul's hands",
-      "description": "BUFFALO, N.Y. (WIVB) \u2013 A proposed AI data center in the Town of Tonawanda remains delayed as developers look for more information on energy availability and infrastructure needs, but opponents of the project are celebrating another development. A bill that would place a temporary moratorium on permits for centers like this has passed the state [...]",
-      "link": "https://www.wivb.com/news/local-news/moratorium-for-ai-data-centers-now-in-hochuls-hands/",
-      "source": "Wivb",
-      "image": null,
-      "published": "2026-06-06 03:12:07",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

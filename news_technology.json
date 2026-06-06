@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "AI is making cyberattacks more autonomous, harder to assess",
+      "description": "New Delhi, June 6 (SocialNews.XYZ) Artificial intelligence (AI) is increasingly making cyberattacks more autonomous, enabling threat actors to carry out more advanced operations and challenging traditional cybersecurity frameworks, a report has said. According to an... The post AI is making cyberattacks more autonomous, harder to assess appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/06/06/ai-is-making-cyberattacks-more-autonomous-harder-to-assess/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/06/06/202606063815739.jpg?fit=1228%2C819&quality=80&zoom=1&ssl=1",
+      "published": "2026-06-06 07:18:59",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Google\u2019s Updated Guidance Urges FTC Complaints Against Shady SEOs",
+      "description": "Google now encourages FTC complaints in its SEO hiring guidance, while cautioning about AI SEO services, SEO tools, and misleading claims. The post Google\u2019s Updated Guidance Urges FTC Complaints Against Shady SEOs appeared first on Search Engine Journal .",
+      "link": "https://www.searchenginejournal.com/googles-updated-guidance-urges-ftc-complaints-against-shady-seos/578151/",
+      "source": "Search Engine Journal",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/06/google-seo-guidance-797-1440x810.jpg",
+      "published": "2026-06-06 07:18:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

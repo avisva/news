@@ -1,50 +1,70 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "City approves agreement for below-market housing",
-      "description": "Livingston City Commissioners voted unanimously Tuesday to approve a development agreement with Bozeman-based Boundary Development for the construction of a 48-unit apartment complex.",
-      "link": "https://www.livingstonenterprise.com/news/city-approves-agreement-for-below-market-housing/article_44cec805-6e15-4082-b84b-1c02d595a67f.html",
-      "source": "Livingstonenterprise.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/livingstonenterprise.com/content/tncms/assets/v3/editorial/7/c5/7c527d99-5168-4397-9fa7-f7bec88feed6/682f6da8c0700.image.png?crop=1242%2C652%2C103%2C0&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-05 18:30:00",
+      "title": "Contra Costa Voters: Reject Tax, Renew Growth Limits",
+      "description": "Measure B and a community college bond measure fell short, while voters overwhelmingly backed extending the county's urban growth boundary.",
+      "link": "https://patch.com/california/lamorinda/contra-costa-voters-reject-tax-renew-growth-limits",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/users/27173486/20260605/052218/styles/patch_image/public/contracostacounty___05170956238.jpg",
+      "published": "2026-06-05 21:23:51",
       "category": [
-        "business",
-        "top"
+        "top",
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Livingston approves agreement for below-market housing",
-      "description": "Livingston City Commissioners voted unanimously Tuesday to approve a development agreement with Bozeman-based Boundary Development for the construction of a 48-unit apartment complex.",
-      "link": "https://www.bozemandailychronicle.com/apgstate/livingston-approves-agreement-for-below-market-housing/article_c80f238f-b4d7-5a62-bcd3-01670602378a.html",
-      "source": "Bozeman Daily Chronicle",
-      "image": null,
-      "published": "2026-06-05 18:30:00",
+      "title": "BitFlow Claxon Frame Grabbers Accelerate AI-Driven Machine Vision Systems with NVIDIA GPU Performance",
+      "description": "Full CoaXPress 2.0 Throughput and Direct GPU Integration Put Real-Time AI Inference Within Reach of Vision Engineers",
+      "link": "http://www.roboticstomorrow.com/news/2026/06/05/bitflow-claxon-frame-grabbers-accelerate-ai-driven-machine-vision-systems-with-nvidia-gpu-performance/26678",
+      "source": "Roboticstomorrow",
+      "image": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+      "published": "2026-06-05 21:23:50",
       "category": [
-        "business",
-        "top"
+        "technology",
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Mobix Labs to Acquire U.S.-Built Drone Manufacturer Vision Aerial, Expanding Into Global Drone and Aerial Intelligence Markets",
-      "description": "Mobix Labs, Inc. (Nasdaq: MOBX) today announced that it has signed a binding Letter of Intent to acquire Vision Aerial, Inc., a Montana-based manufacturer of American-built drones trusted in national security, government, energy, public safety, and critical infrastructure operations. The acquisition expands Mobix Labs into a fast-growing global market and marks the latest step in its previously [...]",
-      "link": "https://cerebral-overload.com/2026/06/mobix-labs-to-acquire-u-s-built-drone-manufacturer-vision-aerial-expanding-into-global-drone-and-aerial-intelligence-markets/",
-      "source": "Cerebral-overload",
-      "image": "https://cerebral-overload.com/wp-content/uploads/2026/06/MOBX_VisionAerial_PR_image_10.webp",
-      "published": "2026-06-05 18:30:00",
+      "title": "Quantinuum",
+      "description": "Quantinuum is a leading quantum computing company offering a full-stack platform designed to make quantum computing deployable in real-world environments. The company has commercially deployed multiple generations of quantum systems built on the well-established QCCD architecture, which it has imple...",
+      "link": "https://investingnews.com/stocks/nasdaq-qnt/quantinuum/",
+      "source": "Investing News Network (inn)",
+      "image": "https://investingnews.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTg1ODg1NS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgzNDgyNTIxOX0.cBVUy2sasvxLR5NTr0bPLuWJNxfsXjBDtCUD28kRSJM/image.png?width=210",
+      "published": "2026-06-05 21:23:45",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
-        "united states of america"
+        "canada",
+        "united states of america",
+        "china",
+        "japan",
+        "australia",
+        "germany",
+        "south africa",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Police, paramedics called to city bus this afternoon",
+      "description": null,
+      "link": "https://www.sootoday.com/city-police-beat/police-paramedics-called-to-city-bus-this-afternoon-12383943",
+      "source": "Sootoday",
+      "image": "https://www.vmcdn.ca/f/files/sootoday/images/police/20260606-police-at-city-bus/20260605-policeatbus1-ka.jpeg",
+      "published": "2026-06-05 21:23:43",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

@@ -1,70 +1,57 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Contra Costa Voters: Reject Tax, Renew Growth Limits",
-      "description": "Measure B and a community college bond measure fell short, while voters overwhelmingly backed extending the county's urban growth boundary.",
-      "link": "https://patch.com/california/lamorinda/contra-costa-voters-reject-tax-renew-growth-limits",
-      "source": "Patch",
-      "image": "https://patch.com/img/cdn20/users/27173486/20260605/052218/styles/patch_image/public/contracostacounty___05170956238.jpg",
-      "published": "2026-06-05 21:23:51",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "BitFlow Claxon Frame Grabbers Accelerate AI-Driven Machine Vision Systems with NVIDIA GPU Performance",
-      "description": "Full CoaXPress 2.0 Throughput and Direct GPU Integration Put Real-Time AI Inference Within Reach of Vision Engineers",
-      "link": "http://www.roboticstomorrow.com/news/2026/06/05/bitflow-claxon-frame-grabbers-accelerate-ai-driven-machine-vision-systems-with-nvidia-gpu-performance/26678",
-      "source": "Roboticstomorrow",
-      "image": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
-      "published": "2026-06-05 21:23:50",
-      "category": [
-        "technology",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Quantinuum",
-      "description": "Quantinuum is a leading quantum computing company offering a full-stack platform designed to make quantum computing deployable in real-world environments. The company has commercially deployed multiple generations of quantum systems built on the well-established QCCD architecture, which it has imple...",
-      "link": "https://investingnews.com/stocks/nasdaq-qnt/quantinuum/",
-      "source": "Investing News Network (inn)",
-      "image": "https://investingnews.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTg1ODg1NS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgzNDgyNTIxOX0.cBVUy2sasvxLR5NTr0bPLuWJNxfsXjBDtCUD28kRSJM/image.png?width=210",
-      "published": "2026-06-05 21:23:45",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada",
-        "united states of america",
-        "china",
-        "japan",
-        "australia",
-        "germany",
-        "south africa",
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Police, paramedics called to city bus this afternoon",
-      "description": null,
-      "link": "https://www.sootoday.com/city-police-beat/police-paramedics-called-to-city-bus-this-afternoon-12383943",
-      "source": "Sootoday",
-      "image": "https://www.vmcdn.ca/f/files/sootoday/images/police/20260606-police-at-city-bus/20260605-policeatbus1-ka.jpeg",
-      "published": "2026-06-05 21:23:43",
+      "title": "Momentum Group Limited (MMTHF) Analyst/Investor Day - Slideshow",
+      "description": "2026-06-05. The following slide deck was published by Momentum Group Limited in conjunction with this event.",
+      "link": "https://seekingalpha.com/article/4912531-momentum-group-limited-mmthf-analyst-investor-day-slideshow",
+      "source": "Seeking Alpha",
+      "image": "https://seekingalpha.com/samw/static/images/DefaultArticleImage.7d3405a63.png",
+      "published": "2026-06-05 23:24:00",
       "category": [
         "business"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "Why Mineral Resources\u2019 Biggest Bet Yet Is Turning Heads Across The Mining Sector",
+      "description": "Mineral Resources progresses Mt Marion expansion and Onslow Iron development while strengthening portfolio diversification across lithium and iron ore.",
+      "link": "https://kalkinemedia.com/au/stocks/metal-and-mining/why-mineral-resources-biggest-bet-yet-is-turning-heads-across-the-mining-sector",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Miningm,nm_01_16_2025_20_15_33_713671.jpg",
+      "published": "2026-06-05 23:24:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "America\u2019s Roundup: Dollar firms after strong US jobs data, Wall Street ends sharply lower, Gold dips, Oil prices fall",
+      "description": "Market Roundup US Average Hourly Earnings (MoM) (May): 0.3%, 0.3% forecast, 0.2% previous. US Nonfarm Payrolls (May): 172K, 85K forecast, 179K previous. US Unemployment Rate (May): 4.3%, 4.3% forecast, 4.3%...",
+      "link": "https://econotimes.com/Americas-Roundup-Dollar-firms-after-strong-US-jobs-data-Wall-Street-ends-sharply-lower-Gold-dips-Oil-prices-fall-1743659",
+      "source": "Econotimes",
+      "image": "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png",
+      "published": "2026-06-05 23:23:49",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "germany",
+        "india",
+        "australia",
+        "south korea",
+        "japan",
+        "china",
+        "united kingdom",
+        "united states of america",
+        "canada",
+        "france"
       ]
     }
   ]

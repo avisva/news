@@ -1,17 +1,46 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "ISS Astronauts Ordered to Enter Evacuation Mode",
-      "description": "\"Out of an abundance of caution, NASA has directed all four of the agency's SpaceX Crew-12 members and NASA astronaut Chris Williams to assume an elevated safety posture in the Dragon spacecraft while the repair is underway.\" The post ISS Astronauts Ordered to Enter Evacuation Mode appeared first on Futurism .",
-      "link": "https://futurism.com/space/iss-astronauts-evacuation-mode",
-      "source": "Futurism",
-      "image": "https://futurism.com/wp-content/uploads/2026/06/iss-astronauts-evacuation-mode.jpg",
-      "published": "2026-06-05 14:54:55",
+      "title": "Sanofi launches AI-powered agent for sales representatives",
+      "description": "Built on Snowflake Cortex AI, the agent enables representatives to generate comprehensive pre-call plans through a single conversational interface",
+      "link": "https://www.indianpharmapost.com/digitisation/sanofi-launches-ai-powered-agent-for-sales-representatives-20497",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-06-05 18:30:00",
       "category": [
-        "science",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Horoscope Today: Daily astrological predictions for June 6, 2026",
+      "description": "Horoscope Today: Read daily horoscope predictions for June 6, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the stars to bring you the most accurate and up-to-date horoscope predictions for the day ahead. Get ready to discover what the stars have in store for you today.",
+      "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-june-6-2026/articleshow/131531873.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131531832/131531832.jpg",
+      "published": "2026-06-05 18:30:00",
+      "category": [
         "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Walmart has a $650 electric bike for just $350 that goes 65 miles on one charge",
+      "description": "\"This bike is a monster; I rode it for three days, and it still has 50% battery life.\"",
+      "link": "https://www.thestreet.com/deals/askgo-peak-electric-bike-walmart-flash-sale",
+      "source": "Thestreet",
+      "image": "https://www.thestreet.com/.image/MjEwMDA3NTQzMzkxNDYyNzc4/walmart-distribution-center.jpg?profile=rss",
+      "published": "2026-06-05 18:30:00",
+      "category": [
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"

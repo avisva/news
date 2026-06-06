@@ -1,16 +1,62 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "What Texas pet owners need to know about New World screwworm",
-      "description": "There is at least one confirmed case found in South Texas. What can you do to protect your pets?",
-      "link": "https://www.keranews.org/health-wellness/2026-06-05/new-world-screwworm-treatment-prevention-pets-humans",
-      "source": "Kera",
-      "image": "https://npr.brightspotcdn.com/dims4/default/48e2def/2147483647/strip/false/crop/7948x5290+0+0/resize/792x527!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2Ff9%2F02d79a284fbfac8b4c4abe9dba2f%2Fpexels-ar-kay-768552413-33252199.jpg",
-      "published": "2026-06-05 14:54:52",
+      "title": "Lupin secures U.S. FDA approval for interchangeable biosimilar Ranibizumab",
+      "description": "Ranluspec is the only interchangeable ranibizumab biosimilar approved in the United States in both vial and pre-filled syringe (PFS) presentations",
+      "link": "https://www.indianpharmapost.com/drug-approval/lupin-secures-us-fda-approval-for-interchangeable-biosimilar-ranibizumab-20496",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-06-05 18:30:00",
       "category": [
-        "health"
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Dr. L H Hiranandani Hospital expands cancer care with advanced radiation therapy unit",
+      "description": "The addition of the Halcyon system represents a significant milestone in the hospital\u2019s oncology services",
+      "link": "https://www.indianpharmapost.com/hospitals/dr-l-h-hiranandani-hospital-expands-cancer-care-with-advanced-radiation-therapy-unit-20495",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-06-05 18:30:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Alembic Pharma receives USFDA approval for Haloperidol tablets",
+      "description": "The approved product is therapeutically equivalent to Haldol tablets of Ortho McNeil Pharmaceutical",
+      "link": "https://www.indianpharmapost.com/news/alembic-pharma-receives-usfda-approval-for-haloperidol-tablets-20494",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-06-05 18:30:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Veterans with PTSD found some relief in `quietest place on Earth\u2019",
+      "description": "Military veterans reported fewer flashbacks and nightmares related to PTSD after spending a 60-minute session in a Minneapolis research lab dubbed \u201cthe quietest place on Earth.\u201d The results, reported this week by researchers at the Minneapolis Veterans Medical Center, suggest...",
+      "link": "https://chippewa.com/news/state-regional/minnesota/article_22ec3e23-c2d8-5cbf-8d27-2a3a50167c7b.html",
+      "source": "Chippewa Herald",
+      "image": "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/9/41/94196179-70f9-55bb-842a-81c8a1cfa815/6a22c512cb38f.image.jpg",
+      "published": "2026-06-05 18:30:00",
+      "category": [
+        "health",
+        "top"
       ],
       "country": [
         "united states of america"

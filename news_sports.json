@@ -1,14 +1,43 @@
 {
   "status": "success",
-  "totalResults": 15,
+  "totalResults": 9,
   "results": [
     {
-      "title": "Arkansas baseball adds commitments from pitchers Ridge Harvey, Lance Alexander",
-      "description": "Harvey of Belmont and Alexander of Johnson County Community College were the second and third commitments this week.",
-      "link": "https://www.nwaonline.com/news/2026/jun/06/arkansas-baseball-adds-commitments-from-pitchers-ridge-harvey-lance-alexander/",
-      "source": "Nwaonline",
+      "title": "Indonesian Cricket Wins 3 Regional ICC Awards, Reaches Global Stage",
+      "description": "Indonesian cricket won three regional categories at the 2025 ICC Development Awards and advanced to four global award categories.",
+      "link": "https://en.tempo.co/read/2107245/indonesian-cricket-wins-3-regional-icc-awards-reaches-global-stage",
+      "source": "Tempo.co",
+      "image": "https://statik.tempo.co/data/2023/05/02/id_1200850/1200850_720.jpg",
+      "published": "2026-06-07 02:49:54",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "indonesia"
+      ]
+    },
+    {
+      "title": "\u2018Ain\u2019t nothing better\u2019: Putnam County jumps on Fulton early, wins first sectional title since 2013",
+      "description": "The Putnam County baseball team scored three runs in the first inning and led throughout in an 11-2 victory over Fulton to win the Class 1A Putnam County Sectional title, the Panthers' first sectional crown since 2013.",
+      "link": "https://www.shawlocal.com/illinois-valley/high-school-sports/2026/06/07/aint-nothing-better-putnam-county-jumps-on-fulton-early-wins-first-sectional-title-since-2013/",
+      "source": "Shaw Local",
+      "image": "https://www.shawlocal.com/resizer/JrJijAGXiJaGfs291EB_sAvI2GY=/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/EX23V7PL5VC4BLQJHW5N3EC3JA.jpeg",
+      "published": "2026-06-07 02:49:52",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Double-A Southern League Glance",
+      "description": "North DivisionWLPct.GBChattanooga (Cincinnati)3025.545\u2014Knoxville (Chicago Cubs)2926.5271Rocket City (L.A. Angels)2827.5092Birmingham (Chicago White Sox)2134.3829",
+      "link": "https://www.dailyitem.com/ap/sports/agate/double-a-southern-league-glance/article_228f4973-88a1-5551-8d2d-c7c3ea8ffb53.html",
+      "source": "Daily Item",
       "image": null,
-      "published": "2026-06-07 00:19:00",
+      "published": "2026-06-07 02:49:44",
       "category": [
         "sports",
         "top"
@@ -18,14 +47,13 @@
       ]
     },
     {
-      "title": "NBA insider clarifies Cavs stance on Evan Mobley",
-      "description": "Another report suggests that the Cavs plan on holding on to Mobley.",
-      "link": "https://sports.yahoo.com/articles/nba-insider-clarifies-cavs-stance-001859722.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/B_yArjF4JnyerqGlK_wWrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/2382ed9cdffce35a69426b0d718619f2",
-      "published": "2026-06-07 00:18:59",
+      "title": "Double-A Southern League Glance",
+      "description": "North DivisionWLPct.GBChattanooga (Cincinnati)3025.545\u2014Knoxville (Chicago Cubs)2926.5271Rocket City (L.A. Angels)2827.5092Birmingham (Chicago White Sox)2134.3829",
+      "link": "https://www.newspressnow.com/news/national_news/business/double-a-southern-league-glance/article_c6b5cc61-f9f5-5ff3-9827-b1ec24c77585.html",
+      "source": "Newspressnow",
+      "image": null,
+      "published": "2026-06-07 02:49:44",
       "category": [
-        "breaking",
         "sports"
       ],
       "country": [
@@ -33,42 +61,55 @@
       ]
     },
     {
-      "title": "White Sox give the Phillies the willies, 6-3",
+      "title": "Double-A Southern League Glance",
+      "description": "North DivisionWLPct.GBChattanooga (Cincinnati)3025.545\u2014Knoxville (Chicago Cubs)2926.5271Rocket City (L.A. Angels)2827.5092Birmingham (Chicago White Sox)2134.3829",
+      "link": "https://www.ncnewsonline.com/ap/sports/agate/double-a-southern-league-glance/article_48814cf0-b06a-55c7-ad2f-16b445b92ce3.html",
+      "source": "Nc News Online",
+      "image": null,
+      "published": "2026-06-07 02:49:44",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "3 goals, 39 seconds: Hurricanes get back into Game 3 with record scoring barrage",
+      "description": "Down 4-0 in the third period of Game 3 of the Stanley Cup Final, the Carolina Hurricanes ripped off three goals in just 39 seconds.",
+      "link": "https://ca.sports.yahoo.com/news/3-goals-39-seconds-hurricanes-024942274.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/6OjyyUbFC.N3WK08lzJKDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/388f29fd7009e922f811c2ec1ce5388f",
+      "published": "2026-06-07 02:49:42",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Breanna Stewart explodes in second half to lead Liberty past Fever",
+      "description": "Breanna Stewart scored 23 of her 30 points in the second half, French rookie Pauline Astier had a massive fourth quarter and the host New York Liberty pulled out an 83-75 win over the Indiana Fever on Saturday night.",
+      "link": "https://www.yardbarker.com/wnba/articles/breanna_stewart_explodes_in_second_half_to_lead_liberty_past_fever/s1_17054_43927129",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/6/8/68f6840db6cf5ede2655d88203075bca837ce6cf/thumb_16x9/29141812.jpg",
+      "published": "2026-06-07 02:49:37",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Hurricanes\u2019 William Carrier exits Game 3 with upper-body injury",
       "description": null,
-      "link": "https://sports.yahoo.com/articles/white-sox-phillies-willies-6-001854737.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/xDktboCOKmFLinuvozv0lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/339eb90220673d2e410650d4a9b5bfe5",
-      "published": "2026-06-07 00:18:54",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "NCAA baseball tournament: Tracking the MCWS teams",
-      "description": "Here is each team that has advanced to Omaha for the Men\u2019s College World Series",
-      "link": "https://sports.yahoo.com/articles/ncaa-baseball-tournament-tracking-mcws-212127461.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/mLSxTgM8FYFRdgInTGiVWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/b996085cbb5767aa74a8c34c4a52b4bc",
-      "published": "2026-06-07 00:18:48",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Texas bolsters class with commitment from 2027 WR Briceson Thrower: \u2018I see myself thriving there\u2019",
-      "description": "After a series of visits this spring and time to mull over his options, a decision came easily for Briceson Thrower. The playing wide receiver from North Forney committed to Texas, which topped Texas Tech, Texas A&M, and also Illinois for one of the most coveted prospects at his position inside the Lone Star State. [...]",
-      "link": "https://ca.sports.yahoo.com/news/texas-bolsters-class-commitment-2027-001847273.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/gEDdShlWOWCB5FLGpqhwuA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMjYwO2NmPXdlYnA-/https://media.zenfs.com/en/on3_recruiting_articles_521/f8a93a7158bd3fbd43fb352341c9d584",
-      "published": "2026-06-07 00:18:47",
+      "link": "https://www.sportsnet.ca/nhl/article/hurricanes-william-carrier-exits-game-3-with-upper-body-injury/",
+      "source": "Sportsnet",
+      "image": "https://www.sportsnet.ca/wp-content/uploads/2026/06/CP176272548.jpg",
+      "published": "2026-06-07 02:49:28",
       "category": [
         "sports"
       ],
@@ -77,169 +118,12 @@
       ]
     },
     {
-      "title": "How The MacroGenics (MGNX) Story Is Shifting With ADC Pipeline Bets And 2026 Data Risks",
-      "description": "MacroGenics is back in focus after bullish analysts raised price targets by about US$1 to US$2, including one move from US$3 to US$4 tied to the company\u2019s recent Q4 update. These shifts are closely linked to Street commentary around the antibody drug conjugate pipeline, upcoming data expected in 2026, and reactions to the Tubulus deal and recent corporate activity. As you read on, you will see how these evolving targets fit into the broader analyst narrative and what to watch next. Wall...",
-      "link": "https://ca.finance.yahoo.com/news/macrogenics-mgnx-story-shifting-adc-001843275.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PTXGDy1Jc9goebaryufypA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjYw/https://media.zenfs.com/en/simply_wall_st__316/43bb6c6432c7d142f1636887b6915123",
-      "published": "2026-06-07 00:18:43",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Yordan Alvarez hits a grand slam for AL-leading 22nd homer as Astros blast Athletics 13-2",
-      "description": "Yordan Alvarez hit a grand slam for his 22nd home run, leading the Houston Astros to a 13-2 victory over the Athletics. Alvarez tops the American League with 48 RBIs. LaMonte Wade Jr. and Jose Altuve also homered for the Astros, who roughed up Athletics starter Kade Morris in his major league debut. Morris gave up nine runs in four innings. Astros starter Tatsuya Imai struck out eight, allowing two runs in five innings. The Athletics scored their only runs in the third inning. Houston blew it open with a six-run fifth inning.",
-      "link": "https://mymotherlode.com/sports/baseball-general-news/10898671/yordan-alvarez-hits-a-grand-slam-for-al-leading-22nd-homer-as-astros-blast-athletics-13-2.html",
-      "source": "Mymotherlode.com - The Mother Lode's Local News, S",
-      "image": "https://mymotherlode.com/wp-content/uploads/2026/06/AP_b35cdca4d71c4ddbb4f0a7f81cddbc5b_9fefd91806.jpg",
-      "published": "2026-06-07 00:18:43",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "How ID@XBOX is Helping Korean Games Reach a Mass Audience | IGN Live 2026",
-      "description": "How can Korean indie developers catch the attention of ID@XBOX?",
-      "link": "https://za.ign.com/gungrave-gore-blood-heat/234150/how-idxbox-is-helping-korean-games-reach-a-mass-audience-ign-live-2026",
-      "source": "Ign Africa",
-      "image": "https://sm.ign.com/t/ign_za/video/h/how-idxbox/how-idxbox-is-helping-korean-games-reach-a-mass-audience-ign_hhq3.1280.jpg",
-      "published": "2026-06-07 00:18:38",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "mozambique",
-        "uganda",
-        "dr congo",
-        "ghana",
-        "senegal",
-        "tunisia",
-        "zimbabwe",
-        "algeria",
-        "kenya",
-        "zambia",
-        "rwanda",
-        "comoros",
-        "ivory coast",
-        "libya",
-        "angola",
-        "cameroon",
-        "namibia",
-        "tanzania",
-        "ethiopia",
-        "mauritania",
-        "madagascar",
-        "egypt",
-        "morocco",
-        "djibouti",
-        "gabon",
-        "south africa",
-        "malawi",
-        "sudan"
-      ]
-    },
-    {
-      "title": "AbCellera\u2019s Shift To Proprietary Drugs Puts ABCL635 And Governance In Focus",
-      "description": "AbCellera Biologics (NasdaqGS:ABCL) reported positive Phase 1 results for its lead antibody, ABCL635, targeting menopause-related hot flashes. The company is shifting its model from partner-based antibody discovery toward developing its own proprietary drugs. AbCellera appointed Dr. Victor Sandor, a clinical development leader with experience in multiple regulatory drug approvals, to its Board of Directors. AbCellera has built its business around antibody discovery partnerships, and the...",
-      "link": "https://ca.finance.yahoo.com/news/abcellera-shift-proprietary-drugs-puts-001830894.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/msAws_2KlUsLYIYX2rOYMg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNTMy/https://media.zenfs.com/en/simply_wall_st__316/0f47c29b08ea4ba8e119b7d1a38fc039",
-      "published": "2026-06-07 00:18:30",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks\u2019 Mythos AI Push Meets Rich Valuation And Hot Momentum",
-      "description": "Palo Alto Networks is using Anthropic's Mythos AI cybersecurity model to scan its own products and has identified multiple new vulnerabilities. The move marks an early example of a major security vendor applying advanced AI directly to product testing and response workflows. Industry commentators are describing this as a potential game changer for how cybersecurity vendors manage risk at machine speed. For investors tracking NasdaqGS:PANW, this AI move sits alongside a stock that has posted...",
-      "link": "https://ca.finance.yahoo.com/news/palo-alto-networks-mythos-ai-001825024.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/OgB36NvMTv2SZxf6Mhe0ag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNTMy/https://media.zenfs.com/en/simply_wall_st__316/4ec5c63d894966a84759ab8e8f0bbb60",
-      "published": "2026-06-07 00:18:25",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "PHOTOS: Ryan Rozicki and Chris Billam-Smith collide in Zuffa Boxing 07 main event in England",
-      "description": "Ryan Rozicki of Sydney Forks and Chris Billam-Smith met in the Zuffa Boxing 07 main event in England on Saturday.",
-      "link": "https://www.saltwire.com/cape-breton/photos-ryan-rozicki-and-chris-billam-smith-collide-in-zuffa-boxing-07-main-event-in-england",
-      "source": "Pniatlantic",
-      "image": "https://smartcdn.gprod.postmedia.digital/saltwire/wp-content/uploads/2026/06/0606-cb-rozicki-2_303571534.jpeg",
-      "published": "2026-06-07 00:18:22",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Memorial Tournament 2026 prize money: Full payout from $20 million purse",
-      "description": "Here's how the $20 million purse will be paid out at the PGA Tour's seventh signature event, the Memorial Tournament.",
-      "link": "https://sports.yahoo.com/articles/memorial-tournament-2026-prize-money-001804067.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/35rvjRXmCr0NSdIFp3FR3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUwO2NmPXdlYnA-/https://media.zenfs.com/it/golf_channel_versant_464/574d4c1bd65e01459a4fadf4226c1e3b",
-      "published": "2026-06-07 00:18:04",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "How Investors May Respond To Sanmina (SANM) Volatility On Higher Yields And Softer Infrastructure Demand",
-      "description": "In early June 2026, Sanmina was hit by volatility as macroeconomic worries over higher Treasury yields and softer demand for large-scale electrical infrastructure projects weighed on sentiment toward its electronics manufacturing business. Alongside sector peers, the company\u2019s reaction to shifting financing conditions highlights how sensitive its end markets can be to broader funding costs and project pipeline expectations. We\u2019ll now examine how concerns about higher financing costs for...",
-      "link": "https://ca.finance.yahoo.com/news/investors-may-respond-sanmina-sanm-001804043.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PwL8Ly1XlYLnTWvFH7hrhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjYw/https://media.zenfs.com/en/simply_wall_st__316/be34ef4d4789b0264b707bec2468578e",
-      "published": "2026-06-07 00:18:04",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Memorial Tournament 2026 prize money: Full payout from $20 million purse",
-      "description": "Here's how the $20 million purse will be paid out at the PGA Tour's seventh signature event, the Memorial Tournament.",
-      "link": "https://www.golfchannel.com/pga-tour/news/memorial-tournament-2026-prize-money-full-payout-from-20-million-purse",
+      "title": "Nelly Korda round 3 interview",
+      "description": "Nelly Korda discussed playing more freely and her mindset shift this season that's allowed her to meet challenges on the course head-on, a mentality she'll use going into Sunday with a share of the lead at the U.S. Women's Open.",
+      "link": "https://www.golfchannel.com/watch/usga/nelly-korda-us-womens-open-interview-leader",
       "source": "Golf",
-      "image": "https://assets.golfchannel.com/dims4/default/54df83e/2147483647/strip/false/crop/1920x1080+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fassets2.golfchannel.com%2Fdb%2F2f%2Fc48f3a1e1069262d5e386d5bd55c%2Fnicklaus-1920-memorial19-trophy.jpg",
-      "published": "2026-06-07 00:18:04",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Is It Time To Reassess LPL Financial Holdings (LPLA) After Its Recent Share Price Slide?",
-      "description": "This article examines whether LPL Financial Holdings stock is starting to look attractive or still pricing in plenty of optimism, by exploring what the current share price might be implying about value. The stock last closed at US$288.49, with a mixed return profile: up 5.4% over the past week but down 11.2% over the past month, down 20.2% year to date, and down 25.6% over the last year, while still showing a 42.9% gain over three years and 112.5% over five years. Recent headlines around LPL...",
-      "link": "https://ca.finance.yahoo.com/news/time-reassess-lpl-financial-holdings-001803609.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/WxX2rdV4ffP2Tiyu1ELKkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMDcw/https://media.zenfs.com/en/simply_wall_st__316/8c7dcb2e7a417a501c4bb823d5fae3af",
-      "published": "2026-06-07 00:18:03",
+      "image": null,
+      "published": "2026-06-07 02:49:17",
       "category": [
         "sports"
       ],

@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Jaipur Ebola Scare: Ugandan Woman Isolated With Ebola-Like Symptoms Tests Negative",
+      "description": "A Ugandan woman admitted to a Jaipur hospital with Ebola-like symptoms has tested negative for the Ebola virus, Rajasthan health authorities said. The tourist was isolated at RUHS Hospital as a precaution after developing symptoms associated with the disease, officials added.",
+      "link": "https://www.latestly.com/india/news/jaipur-ebola-scare-ugandan-woman-isolated-with-ebola-like-symptoms-tests-negative-7462369.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/06/HOSPITAL-.jpg",
+      "published": "2026-06-07 02:49:42",
+      "category": [
+        "health",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

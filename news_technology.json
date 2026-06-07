@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Rob Sand to rally in Iowa governor bid with Kentucky Gov. Andy Beshear as Democrats eye a flip",
+      "description": null,
+      "link": "https://www.wsbtv.com/news/politics/rob-sand-rally-iowa/53OWFTM2ME4QZMZLMNN7W6GJVY/",
+      "source": "Wsb-tv Channel 2 - Atlanta",
+      "image": "https://www.wsbtv.com/resizer/v2/HTRRAOPXUA4KNIVQRWCVEHUPMM.jpg?auth=d3206fa3bfc7755471d56a992df3a12589635f5ea6e328eba798087eaa128941&smart=true&width=7008&height=4672",
+      "published": "2026-06-07 04:12:49",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

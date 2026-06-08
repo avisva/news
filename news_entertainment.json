@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "The tawdry Tonys! CBS viewers left agape as The Hobbit star Luke Evans puts on X-rated display onstage",
+      "description": "The Hobbit heartthrob is featuring in a revival of Richard O'Brien's The Rocky Horror Show as Frank-N-Furter, the role immortalized on film by Tim Curry.",
+      "link": "https://www.dailymail.com/tvshowbiz/article-15881965/tawdry-tonys-cbs-viewers-agape-hobbit-luke-evans-x-rated-display.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/06/08/06/109196403-0-image-a-141_1780897657468.jpg",
+      "published": "2026-06-08 05:49:51",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Kangana Ranaut's Bharat Bhhagya Viddhaata Set for Theatrical Release",
+      "description": "Kangana Ranaut is set to return to the big screen with her film Bharat Bhhagya Viddhaata, inspired by the courageous nurses of Cama Hospital. Scheduled for theatrical release on June 12, the film will later stream on ZEE5. In an interview, Kangana highlighted the essential roles of nurses and the bravery they displayed during the Mumbai 26/11 attacks. The film, produced by Manikarnika Films and others, aims to honor these frontline workers. With a strong cast and a compelling story, excitement is building among fans. Stay tuned for more updates on its OTT release!",
+      "link": "https://gyanhigyan.com/entertainment/kangana-ranauts-bharat-bhhagya-viddhaata-set-for-theatrical/cid18804458.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/d15dd03713740a0e92796d5ce6cb3308.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-06-08 05:49:37",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

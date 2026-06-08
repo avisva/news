@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Brain Imaging Study Identifies Two Distinct Biological Forms of Autism",
+      "description": "Autism may not be a single condition with one underlying biology. A major international study has found evidence for at least two distinct brain-based autism subtypes, each marked by a different...",
+      "link": "https://medicaldialogues.in/mdtv/neurology-neurosurgery/videos/brain-imaging-study-identifies-two-distinct-biological-forms-of-autism-172343",
+      "source": "Business Medical Dialogues",
+      "image": "https://medicaldialogues.in/h-upload/2026/06/06/352242-experts-say-cardio-strength-combination-maximizes-health-and-performance.webp",
+      "published": "2026-06-08 02:45:56",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

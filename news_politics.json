@@ -1,20 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Provincial Government provides prosthesis to 22 PWDs in Zambales",
-      "description": "Provincial Government provides prosthesis to 22 PWDs in Zambales",
-      "link": "https://tribune.net.ph/2026/06/08/provincial-government-provides-prosthesis-to-22-pwds-in-zambales",
-      "source": "Daily Tribune",
-      "image": "https://media.assettype.com/tribune/2026-06-08/fjjpzs7z/71804367315105923708641204424821812897965656n.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-06-08 08:10:59",
+      "title": "Bensouda: Coalition candidate must not be selected based on party size",
+      "description": "By Omar Bah The Unite Movement for Change (UMC) leader Talib Bensouda has rejected the notion that the size of a political party should determine who leads the opposition coalition ahead of the 2026 presidential election, arguing that trust, shared values, and national vision must come first. Speaking on Eye Africa TV recently, Bensouda argued: [...]",
+      "link": "https://standard.gm/bensouda-coalition-candidate-must-not-be-selected-based-on-party-size/",
+      "source": "The Standard Newspaper | Gambia",
+      "image": "https://i0.wp.com/standard.gm/wp-content/uploads/2023/05/Mayor-Talib-Bensouda-1-1.jpg",
+      "published": "2026-06-08 10:24:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "gambia"
+      ]
+    },
+    {
+      "title": "CAN Calls For State Of Emergency On Insecurity Nationwide",
+      "description": "The Christian Association of Nigeria (CAN), South-West zone, has called on the federal government to declare a state of emergency on insecurity, citing the worsening wave of kidnappings, banditry, and other violent crimes across the country. In a statement issued on Sunday, the chairman of the South-West CAN, Barnabas Akin-Akinsanya, said recent security incidents across [...]",
+      "link": "https://leadership.ng/can-calls-for-state-of-emergency-on-insecurity-nationwide/",
+      "source": "Leadership",
+      "image": "https://leadership.ng/wp-content/uploads/2022/05/LeadershipHeader.png",
+      "published": "2026-06-08 10:23:59",
+      "category": [
+        "politics",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Nishant Kumar, Pawan Singh File Nomination For Bihar MLC Polls",
+      "description": "Patna: On the final day for filing nominations for the Bihar Legislative Council (MLC) elections, all nine candidates of the NDA alliance, including Bihar",
+      "link": "https://ommcomnews.com/india-news/nishant-kumar-pawan-singh-file-nomination-for-bihar-mlc-polls/",
+      "source": "Odisha News, Odisha Breaking News, Odisha Latest N",
+      "image": "https://ommcomnews.com/wp-content/uploads/2026/06/202606083817940-e1780914215273.jpg",
+      "published": "2026-06-08 10:23:38",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "philippines"
+        "india"
       ]
     }
   ]

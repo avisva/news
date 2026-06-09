@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Indian cancer patients battle shortage of key drugs as platinum costs surge",
+      "description": "Kumar Ajit spent more than a week calling dozens of pharmacies in India before he tracked down the platinum-based cancer drug cisplatin his 70-year old mother needed to treat her liver cancer.",
+      "link": "https://www.dailymaverick.co.za/article/2026-06-09-indian-cancer-patients-battle-shortage-of-key-drugs-as-platinum-costs-surge/",
+      "source": "Daily Maverick",
+      "image": "https://cdn.dailymaverick.co.za/i/qJtTRH05NaiLRKa6dEP45KB8xqo=/800x0/smart/filters:strip_exif()/file/attachments/2993/12614338_237673.jpg",
+      "published": "2026-06-09 10:23:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Men\u2019s mental health month 2026: When \u2018I\u2019m fine\u2019 isn\u2019t the whole story, 6 conversations experts recommend",
+      "description": "Despite growing mental health awareness, many men still struggle in silence, often conditioned to hide vulnerability. This Men's Mental Health Month, experts emphasize that life-changing conversations can start with simple, genuine check-ins. Asking about coping mechanisms, what's weighing on their minds, or if expectations are overwhelming can open crucial dialogues, fostering support and encouraging men to seek help when needed.",
+      "link": "https://timesofindia.indiatimes.com/health/mens-mental-health-month-2026-when-im-fine-isnt-the-whole-story-6-conversations-experts-recommend/articleshow/131608056.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131608088/131608088.jpg",
+      "published": "2026-06-09 10:22:59",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

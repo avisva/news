@@ -1,80 +1,64 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Stavtar selects Westfall",
-      "description": "Greg Westfall has been chosen as head of strategic accounts at Stavtar",
-      "link": "https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php",
-      "source": "Asset Servicing Times",
-      "image": null,
-      "published": "2026-06-09 08:55:00",
+      "title": "Are You a New Stock Market Investor in June 2026? Here's Warren Buffett's Advice.",
+      "description": "After learning about the S&P 500 index's growth in the past, it makes sense why you'd want to start putting money to work.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investor-june-2026-102300830.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/motleyfool.com/7bcb059972d6d454e0ae4140e09410c7",
+      "published": "2026-06-09 10:23:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mandarin Oriental sets December return to Makati after 12-year absence",
+      "description": "Real estate giant Ayala Land Inc. will officially reopen the Mandarin Oriental Manila in Makati City on Dec. 14, 2026, marking the luxury hospitality brand\u2019s return to the country\u2019s financial capital 12 years after closing its original location. \u201cWhen you go on the website, you\u2019ll see that we're open for business and we are taking reservations as of Monday, the 14th of December,\u201d said Mandarin Oriental Manila General Manager Franck Droin during a media briefing. Paloma Urquijo Zobel de Ayala, Creative Director of Ayala Land Hospitality, noted the brand's deep roots in the area: \u201cFew brands are as closely woven into the Makati story as Mandarin Oriental. For decades, it stood at the heart of the city, not only physically, but culturally. Designed by national artist Leandro Locsin and opened in 1976, it became the backdrop for countless memories and milestones.\u201d \u201cIts return is therefore more than the opening of a hotel\u2014it is the return of a beloved part of the Makati story, almost like a friend and family member,\u201d she added. Located at Ayala Triangle Gardens in Makati\u2019s central business district, the hotel is being developed in partnership with Ayala Land and will offer seamless access to the city\u2019s most sought-after retail, dining, business, and cultural destinations. The new Mandarin Oriental Makati, Manila will feature 275 elegantly designed guestrooms and suites, conceived as a contemporary expression of Filipino luxury. Drawing inspiration from nature, the interiors will incorporate natural materials, timber, and woven elements while highlighting local craftsmanship and artisan collaboration. Designed to cater to today\u2019s discerning travelers, accommodations will include flexible room configurations suited for multigenerational travel, while select room categories will enjoy exclusive Club Lounge access and personalized 24-hour butler service. Guests will also experience five distinct dining and bar concepts showcasing a curated mix of Cantonese, Filipino, and international cuisines. Each venue will emphasize locally sourced ingredients and the warmth of Filipino hospitality, creating memorable culinary experiences rooted in place and culture. Wellness will be a cornerstone of the guest experience. An expansive 800-square-meter Spa and Wellness floor will feature holistic treatments inspired by Filipino healing traditions. The wellness offering will also include dedicated fitness and yoga facilities, complemented by a 25-meter outdoor swimming pool overlooking Ayala Triangle Gardens. For business, social, and cultural gatherings, the property will house a 740-square-meter Grand Hall with eight-meter ceilings and capacity for up to 1,000 guests, alongside a collection of meeting rooms, boardrooms, and flexible event venues. Strategically located approximately 15 minutes from Manila\u2019s international airport, Mandarin Oriental Makati will further strengthen the capital\u2019s position as a regional business and cultural destination while supporting Mandarin Oriental\u2019s continued expansion across Southeast Asia.",
+      "link": "https://mb.com.ph/article/10921727/business/the-stock-market/mandarin-oriental-sets-december-return-to-makati-after-12-year-absence",
+      "source": "Manila Bulletin",
+      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/06/09/107691.webp",
+      "published": "2026-06-09 10:23:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Time to rebuild mining education and training",
+      "description": "Less developed countries have the chance to become the education and training hubs",
+      "link": "https://www.mining-journal.com/esg/news-analysis/4532475/rebuild-mining-education-training",
+      "source": "Mining Journal",
+      "image": "https://image.chitra.live/api/v1/wps/c9d9416/4888fa3b-7d95-4f67-b745-32da8a22393c/2/1842182-1-eng-GB-graduation-100x100.jpg",
+      "published": "2026-06-09 10:22:52",
       "category": [
         "business"
       ],
       "country": [
         "united states of america",
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Eskom Restructuring Task Team outlines terms of reference for creation of TSO",
-      "description": "The Eskom Restructuring Task Team (ERTT) has outlined the terms of reference guiding its deliberations on the establishment of an independent State-owned Transmission System Operator (TSO) that owns and controls the country\u2019s transmission assets and is responsible for operating the electricity market. President Cyril Ramaphosa announced the establishment of the task team during his February State of the Nation Address, while reaffirming government\u2019s support for a fully independent TSO.",
-      "link": "https://www.miningweekly.com/article/eskom-restructuring-task-team-outlines-terms-of-reference-for-creation-of-tso-2026-06-09",
-      "source": "Australasia Global Mining News",
-      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001277798_resized_powerlines10312duaneonlineen.jpeg",
-      "published": "2026-06-09 08:55:00",
-      "category": [
-        "breaking",
-        "business"
-      ],
-      "country": [
         "australia",
-        "zambia",
-        "zimbabwe",
-        "south africa",
+        "peru",
+        "indonesia",
+        "russia",
+        "united kingdom",
+        "chile",
         "canada",
-        "ghana",
-        "united states of america",
-        "namibia"
+        "south africa"
       ]
     },
     {
-      "title": "Downside Risks Rise As Tech Volatility Spikes",
-      "description": "Implied volatilities jumped across asset classes last week as markets grappled with rising US-Iran tensions, higher bond yields, and a sharp pullback in tech. Read more here.",
-      "link": "https://seekingalpha.com/article/4913172-downside-risks-rise-as-tech-volatility-spikes",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168933111/image_2168933111.jpg?io=getty-c-w1280",
-      "published": "2026-06-09 08:55:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Ministry of Industry obtains new powers to solidify foundations of sustainable development & diversify national economy",
-      "description": "The Ministry of Industry and Minerals revealed yesterday that Tripoli Prime Minister, Abdel Hamid Aldabaiba, issued Decree No. (298) of 2026, establishing the \u201cGeneral Directorate for Industrial Regulation\u201d within the organizational structure of the Ministry of Industry and Minerals. The Ministry of Industry and Minerals said the move embodies cohesive leadership and integrated institutional work. [...] The post Ministry of Industry obtains new powers to solidify foundations of sustainable development & diversify national economy appeared first on LibyaHerald .",
-      "link": "https://libyaherald.com/2026/06/ministry-of-industry-obtains-new-powers-to-solidify-foundations-of-sustainable-development-diversify-national-economy/",
-      "source": "Libyaherald",
-      "image": "https://libyaherald.com/wp-content/uploads/2023/09/Ministry-of-Industry-and-Minerals-Eng-logo-080923.jpg",
-      "published": "2026-06-09 08:54:58",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "libya"
-      ]
-    },
-    {
-      "title": "TN Committed to Creating Transparent, Policy-Driven environment for energy investors: Minister",
-      "description": "Tamil Nadu government is committed to establishing a transparent, policy-driven environment for energy sector investors, emphasising the state's potential to become a leading hub for green hydrogen and offshore wind energy project development",
-      "link": "https://www.outlookindia.com/national/tn-committed-to-creating-transparent-policy-driven-environment-for-energy-investors-minister-3",
-      "source": "Outlook",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-06-09/ebice0e9/Tamil-Nadu-Assembly-Election-2026-campaign-4-n.jpg",
-      "published": "2026-06-09 08:54:57",
+      "title": "Chhattisgarh cabinet okays power utility IPO plan, \u20b915,000/ acre aid for non-paddy crop cultivation",
+      "description": "Chhattisgarh cabinet okays power utility IPO plan, \u20b915,000/ acre aid for non-paddy crop cultivation",
+      "link": "https://www.hindustantimes.com/india-news/chhattisgarh-cabinet-okays-power-utility-ipo-plan-rs-15-000-acre-aid-for-non-paddy-crop-cultivation-101781000561793.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
+      "published": "2026-06-09 10:22:41",
       "category": [
         "business",
         "top"
@@ -84,45 +68,17 @@
       ]
     },
     {
-      "title": "Pak 'N Save 'Death by Chicken' burger recalled over safety concerns",
-      "description": "The Ministry for Primary Industries said it was concerned about the possibility of the ironically named Pak 'N Save chicken being undercooked.",
-      "link": "https://www.rnz.co.nz/news/business/597704/pak-n-save-death-by-chicken-burger-recalled-over-safety-concerns",
-      "source": "Rnz Co Nz",
-      "image": null,
-      "published": "2026-06-09 08:54:55",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "first export shipment of GI tagged Tezpur litchi from Assam to Dubai, milestone celebrated by Union Minister Piyush Goyal",
-      "description": "\u09a4\u09c7\u099c\u09aa\u09c1\u09f0\u09f0 \u09b2\u09bf\u099a\u09c1\u09f1\u09c7 \u09ac\u09bf\u09b6\u09cd\u09ac\u099c\u09a8\u09c0\u09a8 \u09aa\u09f0\u09bf\u099a\u09af\u09bc \u09b2\u09be\u09ad \u0995\u09f0\u09be\u09f0 \u0986\u09b6\u09be \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0\u09c0\u09af\u09bc \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af \u0986\u09f0\u09c1 \u0989\u09a6\u09cd\u09af\u09c7\u09be\u0997 \u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09c0\u09f0 \u0964",
-      "link": "https://www.etvbharat.com/as/state/first-export-shipment-of-gi-tagged-tezpur-litchi-from-assam-to-dubai-milestone-celebrated-by-union-minister-piyush-goyal-on-social-media-ass26060902227",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/09-06-2026/1200-675-26879330-thumbnail-16x9-tez-aspera.jpg",
-      "published": "2026-06-09 08:54:49",
+      "title": "FPI inflows into FAR securities rise by Rs 8,795 cr after govt tax exemption move",
+      "description": "Foreign investors are pouring money into Indian government bonds. This follows a tax exemption on interest and capital gains for investments in Fully Accessible Route securities. The government's move aims to attract foreign capital and support the rupee. These measures are opening up India's bond market to global investors. This is a significant development for India's debt market.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-inflows-into-far-securities-rise-by-rs-8795-cr-after-govt-tax-exemption-move/articleshow/131608124.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-131608124,resizemode-4,width-1200,height-900,imgsize-957850,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-06-09 10:22:36",
       "category": [
         "business"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "EDGE Markets secures $29.2m Series A from CoinFund",
-      "description": "EDGE Markets, a financial services firm building infrastructure products for gaming, digital asset and prediction markets, has closed a $29.2m Series A funding round. The raise was led by CoinFund, with additional participation from Indicator Ventures, Mantis VC, Stepstone Group, and Bullpen Capital. Proceeds will be used in part to launch EDGE Pro, described as [...] The post EDGE Markets secures $29.2m Series A from CoinFund appeared first on FinTech Global .",
-      "link": "https://fintech.global/2026/06/09/edge-markets-secures-29-2m-series-a-from-coinfund/",
-      "source": "Fintech Global",
-      "image": null,
-      "published": "2026-06-09 08:54:48",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
       ]
     }
   ]

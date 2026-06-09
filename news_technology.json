@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "VeriSilicon Drives Commercial Adoption of AV2 Across New Video and Streaming Applications",
+      "description": "VeriSilicon announced that its VC9800D Video Processing Unit(VPU) IP supports AV2 decoding, further expanding the company\u2019s advanced video codec portfolio for next-generation video and streaming applications. The VC9800D enables flexible deployment of next-generation video technologies across a broa",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=215601",
+      "source": "It\ube44\uc988\ub274\uc2a4",
+      "image": "https://cdn.itbiznews.com/news/photo/202606/215601_217599_4341.jpg",
+      "published": "2026-06-09 03:53:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Bajaj Auto to Maruti Suzuki: Axis Securities\u2019 top 5 conviction Ideas for auto sector with 15% upside potential",
+      "description": "Axis Securities backs Bajaj Auto, Maruti, Eicher and more as exports, EV opportunities and capacity expansion gain pace.",
+      "link": "https://www.financialexpress.com/market/bajaj-auto-to-maruti-suzuki-axis-securities-top-5-conviction-ideas-for-auto-sector-with-15-upside-potential-4262632/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/05/top-brokerage-stock-picks-India-Sagility-Coforge-Infosys-upside-1_20260522181223.png",
+      "published": "2026-06-09 03:52:50",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "One impaired driving incident can quietly unravel years of hard-earned progress",
+      "description": null,
+      "link": "https://www.wsbtv.com/contributor/one-impaired-driving/ELZMD2ET4Q74PBTL5PJSIHVV2Y/",
+      "source": "Wsb-tv Channel 2 - Atlanta",
+      "image": "https://www.wsbtv.com/resizer/v2/SSGJPJG4WU67HI2JKQWRS4OPZE.jpg?auth=f1d68deac548732af199247759bac45ed9e38e80a98b1a042ea0aa7b9ba65590&smart=true&width=2000&height=1333",
+      "published": "2026-06-09 03:52:43",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

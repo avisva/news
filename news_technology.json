@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Radio Heart: Lofi Hours Trailer",
-      "description": "Radio Heart: Lofi Hours is a cozy game where Suzume works alongside you. Set your mood, change your room, and study together with calm lofi music.",
-      "link": "https://in.ign.com/radio-heart-lofi-hours/262639/radio-heart-lofi-hours-trailer",
-      "source": "In Ign",
-      "image": "https://sm.ign.com/t/ign_in/video/r/radio-hear/radio-heart-lofi-hours-trailer_57b7.1280.jpg",
-      "published": "2026-06-08 17:03:00",
-      "category": [
-        "technology",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Can Apple and Google stop children from sharing explicit images?",
-      "description": "UK Prime Minister Keir Starmer has warned tech firms, including Apple and Google, that they must voluntarily implement tools to stop children sharing explicit images, but experts warn this is easier said than done",
-      "link": "https://www.newscientist.com/article/2529562-can-apple-and-google-stop-children-from-sharing-explicit-images/",
-      "source": "Newscientist",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/08165437/SEI_300641453.jpg?crop=16:9,smart&width=1200&height=675&upscale=true",
-      "published": "2026-06-08 17:02:52",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

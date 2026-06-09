@@ -1,49 +1,65 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
-      "description": "OpenAI CEO Sam Altman, pictured, speaks with SoftBank Group CEO Masayoshi Son at an event in Tokyo on Feb. 3, 2025. Tomohiro Ohsumi | Getty Images News | Getty Images OpenAI has confidentially filed for an IPO with the Securities and Exchange Commission, joining the party a week after Anthropic did the same and days [...] The post OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut appeared first on NYT News Today .",
-      "link": "https://www.nytimesnewstoday.com/openai-confidentially-files-for-ipo-prepping-wall-street-for-mega-ai-debut/",
-      "source": "Nyt News Today",
-      "image": "https://image.cnbcfm.com/api/v1/image/108163566-1750813219176-gettyimages-2197366846-dsc00553_qmdcp7an.jpeg?v=1761664550&w=1920&h=1080",
-      "published": "2026-06-08 21:39:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Georgia tallies cost of gas tax suspension",
-      "description": "The gas tax was suspended from late March through May 19 this year.",
-      "link": "https://www.forsythnews.com/news/state/georgia-tallies-cost-of-gas-tax-suspension/",
-      "source": "Forsyth County News",
-      "image": "https://forsythnews.cdn-anvilcms.net/media/images/2026/05/17/images/032426_scr_GasPrices_6.max-540x540.jpg",
-      "published": "2026-06-08 21:38:57",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "georgia"
-      ]
-    },
-    {
-      "title": "Harbor Freight Tools Coupon Deals: Up to 60% off + shipping from $7",
-      "description": "We've pictured the Warrior 4.3A 4-1/2\" Angle Grinder for $9.99 ($7 savings). Shipping starts at $6.99; pickup may also be available. Note that some deals are in-store only. Deal ends June 21st. Shop Now at Harbor Freight Tools",
-      "link": "https://www.dealnews.com/Harbor-Freight-Tools-Coupon-Deals-Up-to-60-off-shipping-from-7/21839139.html?iref=rss",
-      "source": "Dealnews",
-      "image": "https://d.dlnws.com/64599/1780954393-black-decker-angle-grinder-qg3d.webp?h=1024&w=1024",
-      "published": "2026-06-08 21:38:47",
+      "title": "US import cargo volume to see temporary boost before drops below 2025 levels into fall",
+      "description": "Import volumes at major U.S. container ports are expected to see a skewed year-over-year bump again this month in anticipation of more tariffs and rising fuel prices but then remain below last year\u2019s levels into the fall, according to the Global Port Tracker report released on Monday by the National Retail Federation (NRF) and Hackett [...] The post US import cargo volume to see temporary boost before drops below 2025 levels into fall appeared first on Shipping Telegraph .",
+      "link": "https://shippingtelegraph.com/port-news/us-import-cargo-volume-to-see-temporary-boost-before-drops-below-2025-levels-into-fall/",
+      "source": "Shipping Telegraph",
+      "image": "https://shippingtelegraph.com/wp-content/uploads/2024/11/US-PORTS-scaled.jpg",
+      "published": "2026-06-09 00:35:00",
       "category": [
         "business"
       ],
       "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Game Co. Calls Out Rival's $1.4B Damages Enhancement Bid",
+      "description": null,
+      "link": "https://www.law360.com/articles/2486995/game-co-calls-out-rival-s-1-4b-damages-enhancement-bid",
+      "source": "Law360",
+      "image": null,
+      "published": "2026-06-09 00:34:57",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Woodland council approves $36,000 employee settlement agreement",
+      "description": "The Woodland City Council voted unanimously on Monday, June 1, to approve a settlement agreement with the Woodland Teamsters Local 58 union. The decision authorizes Mayor Todd Dinehart to sign the",
+      "link": "https://www.thereflector.com/stories/woodland-council-approves-36000-employee-settlement-agreement,403807",
+      "source": "The Reflector",
+      "image": "https://gamma.creativecirclecdn.com/lafromboise/original/20260608-103358-c5e-260610.news.WoodlandCityEmployeeSettlement.1.jpg",
+      "published": "2026-06-09 00:34:49",
+      "category": [
+        "business",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Japan's Kiuchi hopes BoJ will keep cooperating with government on fighting deflation",
+      "description": "Japan's Economy Minister, Minoru Kiuchi, said on Tuesday that long-term rates are determined by markets through diverse factors, including supply-demand and steady economic recovery.",
+      "link": "https://www.fxstreet.com/news/japans-kiuchi-hopes-boj-will-keep-cooperating-with-government-on-fighting-deflation-202606090034",
+      "source": "Fxstreet",
+      "image": "https://editorial.fxsstatic.com/images/i/Japanese-Bank_5.png",
+      "published": "2026-06-09 00:34:49",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "spain"
       ]
     }
   ]

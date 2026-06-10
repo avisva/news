@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "CII meet lays thrust on investments",
+      "description": "Kakinada: District collector and Magistrate MN Harendhira Prasad has called upon entrepreneurs and industry leaders to partner with the government in transforming Kakinada into a major manufacturing...",
+      "link": "https://www.thehansindia.com/andhra-pradesh/cii-meet-lays-thrust-on-investments-1084600",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/06/10/1663798-ci.webp",
+      "published": "2026-06-10 00:55:34",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

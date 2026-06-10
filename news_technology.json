@@ -1,35 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "GM to offer EV owners ability to sell power to US electricity grid",
-      "description": null,
-      "link": "https://www.investing.com/news/stock-market-news/gm-to-offer-ev-owners-ability-to-sell-power-to-us-electricity-grid-4734123",
-      "source": "Investing Us",
-      "image": null,
-      "published": "2026-06-09 21:54:52",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Possible issue in Alternative Account Determination after renumbering YCOA",
-      "description": "Hello everyone, We have recently performed a renumbering of the YCOA in our SAP S/4HANA Cloud system. My concern is related to the impact this renumbering might have on the Alternative Account Determination. As you can see in the screenshot below, the accounts have changed from their original numbe...",
-      "link": "https://community.sap.com/t5/enterprise-resource-planning-q-a/possible-issue-in-alternative-account-determination-after-renumbering-ycoa/qaq-p/14414999",
-      "source": "Sap",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "published": "2026-06-09 21:54:47",
+      "title": "London, Ont. retirement home goes viral on social media",
+      "description": "Employees and residents at Oakcrossing Retirement Living in London, Ont. are using social media to teach users an important lesson.",
+      "link": "https://www.ctvnews.ca/london/article/london-ont-retirement-home-goes-viral-on-social-media/",
+      "source": "Ctv News",
+      "image": "https://www.ctvnews.ca/resizer/v2/6JDO6AL5AJHSTH3USKPLB4SBHI.png?auth=dbbf9d8b62431b9bf23d014583dbe17118a474266b607044800877f04cae8adf&smart=true&width=1920&height=1080",
+      "published": "2026-06-10 00:55:56",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     }
   ]

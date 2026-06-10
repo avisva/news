@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Finnish bio-based materials project advances 100% cellulose-based film and coating technology as a scalable alternative to fossil-based packaging",
+      "description": "A new cellulose-based material platform developed in Finland responds to tightening regulatory requirements and industry pressure to both replace and reduce plastic in packaging, including emerging thresholds such as limiting plastic content to below 5 wt% in fibre-based materials. The...",
+      "link": "https://www.prnewswire.com/news-releases/finnish-bio-based-materials-project-advances-100-cellulose-based-film-and-coating-technology-as-a-scalable-alternative-to-fossil-based-packaging-302796455.html",
+      "source": "Pr Newswire",
+      "image": null,
+      "published": "2026-06-10 07:33:00",
+      "category": [
+        "science",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

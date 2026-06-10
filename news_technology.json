@@ -1,94 +1,21 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Japan Advanced Packaging Semiconductor Market Set to Reach US$ 46.98 billion by 2035, Share as Chiplet Ecosystem Growth, 3D ICs, Chiplet Architecture & Semiconductor Ecosystem Expansion",
-      "description": "DataM Intelligence has published a new research report titled \"Advanced Packaging Semiconductor Market Size 2026\", delivering comprehensive insights into global market dynamics, including regional growth trends, detailed segmentation analysis, and CAGR forecasts. The report evaluates revenue performance of leading industry",
-      "link": "https://www.openpr.com/news/4544322/japan-advanced-packaging-semiconductor-market-set-to-reach-us",
-      "source": "Openpr.com",
-      "image": "https://cdn.open-pr.com/L/6/L610712008_g.jpg",
-      "published": "2026-06-10 04:35:59",
+      "title": "Finnish bio-based materials project advances 100% cellulose-based film and coating technology as a scalable alternative to fossil-based packaging",
+      "description": "A new cellulose-based material platform developed in Finland responds to tightening regulatory requirements and industry pressure to both replace and reduce plastic in packaging, including emerging thresholds such as limiting plastic content to below 5 wt% in fibre-based materials. The...",
+      "link": "https://www.prnewswire.com/news-releases/finnish-bio-based-materials-project-advances-100-cellulose-based-film-and-coating-technology-as-a-scalable-alternative-to-fossil-based-packaging-302796455.html",
+      "source": "Pr Newswire",
+      "image": null,
+      "published": "2026-06-10 07:33:00",
       "category": [
-        "technology"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Google's Gemini 3.5 Live Translate breaks language barriers in real-time",
-      "description": "Google has launched its latest artificial intelligence (AI) model, Gemini 3.5 Live Translate, to break down language barriers in real time.",
-      "link": "https://www.newsbytesapp.com/news/science/google-launches-gemini-3-5-live-translate-for-real-time-natural-language-convos/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l200_22971781062549.jpg",
-      "published": "2026-06-10 04:35:49",
-      "category": [
+        "science",
         "technology",
         "top"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Anthropic finally offering its Mythos AI model to the public",
-      "description": "Anthropic has launched two new artificial intelligence (AI) models, Claude Fable 5 and Claude Mythos 5.",
-      "link": "https://www.newsbytesapp.com/news/science/anthropic-s-new-ai-models-could-help-hackers-find-software-vulnerabilities/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l28720260610092448.jpeg",
-      "published": "2026-06-10 04:35:49",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Your searches on other websites will shape your Instagram feed",
-      "description": "Meta, the parent company of Facebook and Instagram, has announced a major update in its content personalization strategy.",
-      "link": "https://www.newsbytesapp.com/news/science/meta-to-personalize-facebook-instagram-feeds-using-off-platform-data/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l11920260610093440.png",
-      "published": "2026-06-10 04:35:49",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Why xAI, SpaceX are facing class-action lawsuit in the US",
-      "description": "Elon Musk's companies, xAI and SpaceX, are facing a class-action lawsuit filed by residents of Mississippi, US.",
-      "link": "https://www.newsbytesapp.com/news/business/elon-musk-s-companies-sued-over-offensive-noise/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l76120260610095343.png",
-      "published": "2026-06-10 04:35:49",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Reliance to build Meta's 1st AI data center in India",
-      "description": "Meta, the parent company of Facebook, has teamed up with Reliance Industries Limited (RIL) to establish its first artificial intelligence (AI)-driven data center in India.",
-      "link": "https://www.newsbytesapp.com/news/business/meta-partners-with-reliance-to-set-up-ai-data-center/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l72820260610100105.jpeg",
-      "published": "2026-06-10 04:35:49",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

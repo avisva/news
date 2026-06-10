@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Salman Khan to begin 'Bigg Boss 20' shoot in September",
+      "description": "Salman Khan, the beloved host of Bigg Boss, will reportedly begin shooting for the upcoming season on September 21.",
+      "link": "https://www.newsbytesapp.com/news/entertainment/bigg-boss-20-salman-khan-to-begin-filming-soon/story",
+      "source": "Newsbytes",
+      "image": "https://i.cdn.newsbytesapp.com/images/l282_47491781063055.jpg",
+      "published": "2026-06-10 04:35:49",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Janhvi Kapoor to lead 'Tumbbad' director's horror film?",
+      "description": "Actor Janhvi Kapoor is in advanced talks for a high-concept creature-horror film, directed by acclaimed filmmaker Rahi Anil Barve, per Pinkvilla.",
+      "link": "https://www.newsbytesapp.com/news/entertainment/janhvi-kapoor-might-work-with-rahi-anil-barve/story",
+      "source": "Newsbytes",
+      "image": "https://i.cdn.newsbytesapp.com/images/l282_13511781064925.jpg",
+      "published": "2026-06-10 04:35:49",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Made-in-India Prosthetic Breakthrough",
+      "description": "At the centre of this effort is Grippy, a lightweight, 3D-printed prosthetic hand designed for below-elbow amputees. The post Made-in-India Prosthetic Breakthrough appeared first on Fusion - WeRIndia .",
+      "link": "https://fusion.werindia.com/innovation/made-in-india-prosthetic-breakthrough",
+      "source": "Fusion - Werindia",
+      "image": "https://fusion.werindia.com/wp-content/uploads/2026/06/Robo-Bionics_Fusion_WeRIndia.jpg",
+      "published": "2026-06-10 04:36:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

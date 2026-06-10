@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Lizzo can see the comeback clearly",
-      "description": "The pop hitmaker has had a rough couple of years. 'I think I'm healing something in myself,' she says.",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-10/lizzo-bitch-backlash-sza-interview",
-      "source": "Los Angeles Times",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/7fa47dd/2147483647/strip/false/crop/4098x6144+0+0/resize/991x1486!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F72%2Fd4%2F542194004bffb2bf7960aeee75ab%2F1556638-et-lizzo-2410.jpg",
-      "published": "2026-06-10 10:00:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

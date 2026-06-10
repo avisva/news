@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "The surprising science behind the 2026 World Cup grass",
-      "description": "How scientists are engineering the perfect World Cup pitch\u2014one so flawless that players never notice it",
-      "link": "https://www.scientificamerican.com/podcast/episode/the-surprising-science-behind-the-2026-world-cup-grass/",
-      "source": "Scientificamerican",
-      "image": "https://static.scientificamerican.com/dam/asset/6d1cc81e-6f23-4845-ab2e-64b5e47c634e/2606_SQ_WED_TURF_GRASS.png?m=1781036926.21&w=1200",
-      "published": "2026-06-10 10:00:00",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

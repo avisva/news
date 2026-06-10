@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Artemis 3 crew announced as NASA names astronauts for next Moon mission",
-      "description": "Artemis 3 has announced its crew for the NASA Moon mission",
-      "link": "https://www.express.co.uk/news/world/2215395/artemis-3-live-crew-announced-nasa-moon",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2215395_1.jpg",
-      "published": "2026-06-09 17:16:00",
+      "title": "GM to offer EV owners ability to sell power to US electricity grid",
+      "description": null,
+      "link": "https://www.investing.com/news/stock-market-news/gm-to-offer-ev-owners-ability-to-sell-power-to-us-electricity-grid-4734123",
+      "source": "Investing Us",
+      "image": null,
+      "published": "2026-06-09 21:54:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Possible issue in Alternative Account Determination after renumbering YCOA",
+      "description": "Hello everyone, We have recently performed a renumbering of the YCOA in our SAP S/4HANA Cloud system. My concern is related to the impact this renumbering might have on the Alternative Account Determination. As you can see in the screenshot below, the accounts have changed from their original numbe...",
+      "link": "https://community.sap.com/t5/enterprise-resource-planning-q-a/possible-issue-in-alternative-account-determination-after-renumbering-ycoa/qaq-p/14414999",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-06-09 21:54:47",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     }
   ]

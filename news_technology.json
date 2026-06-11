@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "\u00a34,310 payments announced for drivers 'giving up' petrol and diesel cars",
-      "description": "It has set itself the lofty target of having 845,000 electric vehicles (EVs) on the roads within four years\u2019 time.",
-      "link": "https://www.birminghammail.co.uk/motoring/motoring-news/4310-payments-announced-drivers-giving-34101571",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34101577.ece/ALTERNATES/s615/0_petrol.jpg",
-      "published": "2026-06-11 04:52:53",
+      "title": "Azerbaijan targets hyperscaler investments to strengthen data center ecosystem",
+      "description": null,
+      "link": "https://www.trend.az/azerbaijan/business/4196678.html",
+      "source": "Trend",
+      "image": null,
+      "published": "2026-06-11 07:34:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Inside SpaceX\u2019s Orbital Economy: AI Data Centers And Wireless Power",
+      "description": "From Starlink broadband and orbital data centers to space-based solar power, here\u2019s what a $2 trillion SpaceX might actually build.",
+      "link": "https://www.forbes.com/sites/jamiecartereurope/2026/06/11/inside-spacexs-orbital-economy-ai-data-centers-and-wireless-power/",
+      "source": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a23cf6ea663f33288baf084/0x0.jpg?width=960",
+      "published": "2026-06-11 07:34:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

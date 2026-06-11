@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "'Postcode lottery' for patients with IBD, says North Yorkshire MP",
+      "description": "Tom Gordon MP has called for \"urgent\" improvements in IBD care, sharing his own experience living with ulcerative colitis",
+      "link": "https://www.gazetteherald.co.uk/news/26183749.tom-gordon-mp-calls-urgent-changes-bowel-disease-care/",
+      "source": "Gazette & Herald, Ryedale",
+      "image": null,
+      "published": "2026-06-10 15:44:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "'Postcode lottery' for patients with IBD, says North Yorkshire MP",
+      "description": "Tom Gordon MP has called for \"urgent\" improvements in IBD care, sharing his own experience living with ulcerative colitis",
+      "link": "https://www.yorkpress.co.uk/news/26183749.tom-gordon-mp-calls-urgent-changes-bowel-disease-care/",
+      "source": "The Press",
+      "image": "https://www.yorkpress.co.uk/resources/images/21031320/",
+      "published": "2026-06-10 15:44:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

@@ -1,31 +1,29 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Dual citizenship: What are the political elite seeing that the rest of us are not?",
-      "description": null,
-      "link": "https://www.monitor.co.ug/uganda/oped/commentary/dual-citizenship-what-are-the-political-elite-seeing-that-the-rest-of-us-are-not--5492248",
-      "source": "Monitor",
-      "image": "https://www.monitor.co.ug/resource/blob/5433256/d0f0111a21bfa8a138b1d03c96abea97/come03pix-data.jpg",
-      "published": "2026-06-11 07:34:00",
+      "title": "Honolulu Council Member Is Shoo-In, But Can He Get More Done?",
+      "description": "Weyer has the distinction of being both sidelined by the council majority and running unopposed for reelection.",
+      "link": "https://civilbeat.org/2026/06/sidelined-honolulu-council-member-is-shoo-in-but-can-he-get-more-done/",
+      "source": "Civilbeat Org",
+      "image": "https://civilbeat.org/wp-content/uploads/2026/05/HCB00139-300x218.jpg",
+      "published": "2026-06-11 10:01:00",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
-        "uganda"
+        "united states of america"
       ]
     },
     {
-      "title": "DEF board finds way to work around lack of quorum",
-      "description": "The Desert Empire Fair Board of Directors has found a workaround for its lack of quorum, allowing it to make decisions until the governor appoints at least two more people to the board.",
-      "link": "https://www.ridgecrestca.com/news/def-board-finds-way-to-work-around-lack-of-quorum/article_be56e49f-1d66-4899-8a94-809a87d9ce33.html",
-      "source": "Ridgecrestca",
-      "image": "https://bloximages.newyork1.vip.townnews.com/ridgecrestca.com/content/tncms/custom/image/a8452f18-f6b9-11eb-8535-5f319485ad38.png?resize=600%2C315",
-      "published": "2026-06-11 07:34:00",
+      "title": "Word Row: June 11",
+      "description": "We're mixing it up with a six-letter word today. Good luck!",
+      "link": "https://civilbeat.org/2026/06/word-row-june-11/",
+      "source": "Civilbeat Org",
+      "image": "https://civilbeat.org/wp-content/uploads/2025/04/wordrow-2-300x200.jpg",
+      "published": "2026-06-11 10:01:00",
       "category": [
-        "business",
         "politics",
         "top"
       ],
@@ -34,140 +32,61 @@
       ]
     },
     {
-      "title": "Indian judiciary promotes mediation as robust dispute resolution mechanism: CJI Surya Kant",
-      "description": "Chief Justice of India Surya Kant highlighted mediation as a strong dispute resolution mechanism during a London panel discussion. He said India has widely promoted mediation through judicial initiatives and the Mediation Act, 2023, while stressing its advantages over prolonged litigation",
-      "link": "https://telanganatoday.com/indian-judiciary-promotes-mediation-as-robust-dispute-resolution-mechanism-cji-surya-kant",
-      "source": "Telangana Today",
-      "image": "https://media.telanganatoday.com/wp-content/uploads/2025/12/CJI-1.jpg",
-      "published": "2026-06-11 07:33:58",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Supreme Court Calls Homemakers \u2018Nation Builders\u2019, Recognises Economic Value of Unpaid Domestic Work",
-      "description": "The Supreme Court has made a substantial ruling, asserting that the term \u201chomemaker\u201d inadequately represents the contributions of women managing households. The court noted that these women\u2019s roles extend far beyond traditional domestic duties, primarily contributing to family development, nurturing future generations, and promoting national progress. A bench led by Justice Sanjay Karol observed that [...] The post Supreme Court Calls Homemakers \u2018Nation Builders\u2019, Recognises Economic Value of Unpaid Domestic Work appeared first on The CSR Journal .",
-      "link": "https://thecsrjournal.in/supreme-court-calls-homemakers-nation-builders-recognises-economic-value-of-unpaid-domestic-work/",
-      "source": "The Csr Journal",
-      "image": "https://thecsrjournal.in/wp-content/uploads/2026/06/ChatGPT-Image-Jun-11-2026-01_03_07-PM.jpg",
-      "published": "2026-06-11 07:33:52",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "India Lodges Protest with US After Incident Involving Vessel Near Oman",
-      "description": "(MENAFN) India on Wednesday summoned a senior US diplomat in New Delhi to formally protest what it described as an attack on a commercial vessel operating off the coast of Oman.According to reports, ...",
-      "link": "https://menafn.com/1111244366/India-Lodges-Protest-with-US-After-Incident-Involving-Vessel-Near-Oman",
-      "source": "Menafn",
-      "image": "https://menafn.com/updates/pr/Menafn_News_Images/local_politics_1051.jpg",
-      "published": "2026-06-11 07:33:52",
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "iran",
-        "cyprus",
-        "brunei",
-        "kuwait",
-        "tajikistan",
-        "vietnam",
-        "bhutan",
-        "syria",
-        "uzbekistan",
-        "turkey",
-        "turkmenistan",
-        "north korea",
-        "georgia",
-        "macau",
-        "jordan",
-        "malaysia",
-        "cambodia",
-        "israel",
-        "thailand",
-        "iraq",
-        "sri lanka",
-        "armenia",
-        "united arab emirates",
-        "kyrgyzstan",
-        "philippines",
-        "china",
-        "india",
-        "yemen",
-        "saudi arabia",
-        "bangladesh",
-        "nepal",
-        "indonesia",
-        "japan",
-        "bahrain",
-        "timor-leste",
-        "singapore",
-        "azerbaijan",
-        "kazakhstan",
-        "maldives",
-        "taiwan",
-        "afghanistan",
-        "qatar",
-        "lebanon",
-        "mongolia",
-        "pakistan",
-        "myanmar",
-        "south korea",
-        "laos"
-      ]
-    },
-    {
-      "title": "US Allies Scramble for Patriot Missiles as Iran War Drains Stockpiles",
-      "description": "America\u2019s allies are getting an uncomfortable message from Lockheed Martin, the Pentagon contractor that manufactures one of the West\u2019s most important air-defense missiles: don\u2019t expect any timeline delivery guarantees.",
-      "link": "https://sputnikglobe.com/20260611/us-allies-scramble-for-patriot-missiles-as-iran-war-drains-stockpiles-1124296113.html",
-      "source": "Sputnik News",
-      "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124296113.jpg?11172967491781163232",
-      "published": "2026-06-11 07:33:51",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Police find 2 missing migrant Sisters",
-      "description": "\u0a32\u0a3e\u0a2a\u0a24\u0a3e \u0a39\u0a4b\u0a08\u0a06\u0a02 \u0a27\u0a40\u0a06\u0a02 \u0a2e\u0a3f\u0a32\u0a23 \u0a24\u0a4b\u0a02 \u0a2c\u0a3e\u0a05\u0a26 \u0a16\u0a41\u0a38\u0a3c\u0a40 '\u0a1a \u0a2a\u0a3f\u0a24\u0a3e \u0a28\u0a47 \u0a2a\u0a70\u0a1c\u0a3e\u0a2c \u0a2a\u0a41\u0a32\u0a3f\u0a38 \u0a26\u0a3e \u0a27\u0a70\u0a28\u0a35\u0a3e\u0a26 \u0a15\u0a40\u0a24\u0a3e \u0a05\u0a24\u0a47 \u0a38\u0a3f\u0a30\u0a4b\u0a2a\u0a3e\u0a13 \u0a2d\u0a47\u0a02\u0a1f \u0a15\u0a30 \u0a15\u0a47 \u0a2e\u0a41\u0a70\u0a39 \u0a2e\u0a40\u0a20\u0a3e \u0a15\u0a30\u0a35\u0a3e\u0a07\u0a06\u0964",
-      "link": "https://www.etvbharat.com/pa/state/migrant-presents-siropa-to-police-personnel-searching-for-missing-daughters-from-amritsar-pbs26061101085",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/11-06-2026/1200-675-26894141-590-26894141-1781157536881.jpg",
-      "published": "2026-06-11 07:33:49",
+      "title": "EDITORIAL: Accelerate actions against Medicaid fraud",
+      "description": "If this was an effort to get Hawaii\u2019s attention, it worked. The federal government last week alerted state authorities that Hawaii\u2019s Medicaid Fraud Control Unit has been decertified, meaning that it would lose the $3 million in annual federal dollars that pays for its operation. The post EDITORIAL: Accelerate actions against Medicaid fraud appeared first on The Garden Island .",
+      "link": "https://www.thegardenisland.com/2026/06/11/opinion/editorial-accelerate-actions-against-medicaid-fraud/",
+      "source": "The Garden Island Newspaper",
+      "image": "https://www.thegardenisland.com/wp-content/uploads/sites/9/2026/06/web1_6-23-Medicaid-logo.jpg",
+      "published": "2026-06-11 10:01:00",
       "category": [
         "politics"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "\u2018Blatant falsehood!\u2019 - Edem Agbana rejects allegations of airlifting NDC MPs to World Cup",
-      "description": "Member of Parliament for Ketu North, Eric Edem Agbana, has strongly denied allegations that the government or the Ministry of Sports allocated special slots to National Democratic Congress (NDC) Members of Parliament to facilitate travel to the...",
-      "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Blatant-falsehood-Edem-Agbana-rejects-allegations-of-airlifting-NDC-MPs-to-World-Cup-2038658",
-      "source": "Ghana Web",
-      "image": "https://cdn.ghanaweb.com/imagelib/src/Eric_Edem_Agbana--Eric_Edem_Agbana--Edem_Agbana.jpg",
-      "published": "2026-06-11 07:33:48",
+      "title": "Oil executives warn White House that gas prices will get worse",
+      "description": "Grim predictions add to the problems of a president already facing a sharp rise in inflation.",
+      "link": "https://www.washingtonpost.com/politics/2026/06/11/oil-executives-warn-white-house-that-gas-prices-will-get-worse/",
+      "source": "The Washington Post",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5UFBXDDFBUI7DPOUQBPLXGNGSM_size-normalized.jpg&w=1600&h=900",
+      "published": "2026-06-11 10:01:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "St. Joseph Planning Commission in the midst of leadership change",
+      "description": "ST. JOSEPH \u2014 A policy adopted this winter in St. Joseph is starting to have an impact on the boards and commissions which help the city function.",
+      "link": "https://www.heraldpalladium.com/communities/st_joseph/st-joseph-planning-commission-in-the-midst-of-leadership-change/article_674dcaea-ff43-517d-94f9-9d9ca1fd5c18.html",
+      "source": "Herald Palladium",
+      "image": null,
+      "published": "2026-06-11 10:01:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ghana"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The Sunshine Blog: Montana Man Charged With Threatening Hawai\u02bbi Governor",
+      "description": "Short takes, outtakes, our takes and other stuff you should know about public information, government accountability and ethical leadership in Hawai\u2018i.",
+      "link": "https://civilbeat.org/2026/06/the-sunshine-blog-montana-man-charged-with-threatening-hawai%CA%BBi-governor/",
+      "source": "Civilbeat Org",
+      "image": "https://civilbeat.org/wp-content/uploads/2026/04/DSC02041-300x200.jpg",
+      "published": "2026-06-11 10:01:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

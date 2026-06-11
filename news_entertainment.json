@@ -1,33 +1,63 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "BBC Breakfast host scolds stuttering Labour MP after Belfast migrant clash remark",
-      "description": "BBC Breakfast host Charlie Stayt interrupted the politician during the on air interview.",
-      "link": "https://www.express.co.uk/showbiz/tv-radio/2215981/bbc-breakfast-labour-belfast-stabbing-migrants",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/2215981_1.jpg",
-      "published": "2026-06-11 07:34:00",
+      "title": "Hawaii Children\u2019s Theatre announces summer lineup",
+      "description": "LIHUE \u2014 The Hawaii Children\u2019s Theatre announced on Tuesday its summer lineup of performances that feature talented youth performers, alumni artists and emerging theatre professionals. The post Hawaii Children\u2019s Theatre announces summer lineup appeared first on The Garden Island .",
+      "link": "https://www.thegardenisland.com/2026/06/11/lifestyles/hawaii-childrens-theatre-announces-summer-lineup/",
+      "source": "The Garden Island Newspaper",
+      "image": "https://www.thegardenisland.com/wp-content/themes/Thegardenisland/images/logo-600x200.png",
+      "published": "2026-06-11 10:01:00",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "Supermarket own-brand cheese has been named best - better than Cathedral City",
-      "description": "In a Which? blind taste test, supermarket cheddar cheeses were pitted against major brands including Cathedral City and Davidstow",
-      "link": "https://www.mirror.co.uk/lifestyle/food-drink/supermarket-brand-cheese-been-named-37267623",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/lifestyle/article37267622.ece/ALTERNATES/s615/0_Piece-of-semi-hard-cheese-and-grated-cheese-with-grater-Wooden-background-Top-view.jpg",
-      "published": "2026-06-11 07:33:52",
+      "title": "U mad, bro?: Fans call for Paul Skenes trade, get extreme about Nick Herbig contract",
+      "description": "For a quiet week in the middle of June, there was certainly a ton of material for \u201cU mad, bro?\u201d",
+      "link": "https://triblive.com/sports/u-mad-bro-fans-call-for-paul-skenes-trade-get-extreme-about-nick-herbig-contract/",
+      "source": "Home | Triblive.com",
+      "image": "https://assets-varnish.triblive.com/2026/06/9659166_web1_ptr-HerbigSkenes-061126.jpg",
+      "published": "2026-06-11 10:01:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "For First Time, US Is Getting More Of Its Electricity From Solar Than Coal",
+      "description": "Solar provides more than twice the share of electricity it did five years ago.",
+      "link": "https://civilbeat.org/2026/06/for-first-time-us-is-getting-more-of-its-electricity-from-solar-than-coal/",
+      "source": "Civilbeat Org",
+      "image": "https://civilbeat.org/wp-content/uploads/2023/01/solar-mililani-aerial3-300x225.jpg",
+      "published": "2026-06-11 10:01:00",
       "category": [
         "entertainment"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ranching Could Soon Come To An End On Moloka\u2018i. Paniolo Blame TB Testing",
+      "description": "Quarantine rules to prevent bovine tuberculosis are crippling the industry \u2014 and a way of life \u2014 on rural Hawai\u2018i island.",
+      "link": "https://civilbeat.org/2026/06/ranching-could-soon-come-to-an-end-on-molokai-paniolo-blame-tb-testing/",
+      "source": "Civilbeat Org",
+      "image": "https://civilbeat.org/wp-content/uploads/2026/05/260527-kf-Molokai-Rural-0424-1-300x200.jpg",
+      "published": "2026-06-11 10:01:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

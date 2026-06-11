@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Dubai Launches Longevity Authority to Lead Global Advanced Healthcare Race",
+      "description": "Dubai has established the Dubai Longevity Authority (DLA), a new regulatory body tasked with positioning the emirate as the world's foremost hub for longevity, wellness and advanced healthcare",
+      "link": "https://focus.hidubai.com/dubai-launches-longevity-authority-to-lead-global-advanced-healthcare-race/",
+      "source": "Hidubai Focus",
+      "image": "https://storage.ghost.io/c/8e/d7/8ed7937e-239e-4c73-8661-3ab95a578ef0/content/images/2026/06/mohammed-bin-rashid.jpg",
+      "published": "2026-06-11 04:52:56",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    }
+  ]
 }

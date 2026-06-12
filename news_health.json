@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Dehydration Headache vs Migraine: Physician Explains Key Differences",
+      "description": "Confused between a dehydration headache and a migraine? Experts explain the key differences, symptoms and prevention tips for summer.",
+      "link": "https://kolkatatoday.com/dehydration-headache-vs-migraine",
+      "source": "Kolkata Today",
+      "image": "https://kolkatatoday.com/uploads/2026/06/be6f99fe76364dd4-large.png",
+      "published": "2026-06-11 12:18:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

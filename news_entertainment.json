@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Larry May: Katelyn Drye discusses \u2018Dolly Parton\u2019s Threads: My Songs in Symphony\u2019",
+      "description": null,
+      "link": "https://www.annistonstar.com/features/entertainment/music/larry-may-katelyn-drye-discusses-dolly-parton-s-threads-my-songs-in-symphony/article_5222e517-a73e-4ad3-862c-575ec3d46851.html",
+      "source": "Anniston Star",
+      "image": null,
+      "published": "2026-06-11 22:08:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Wrapping the Week with Kerre Woodham and Tim Wilson: Uber Eats, Ben Stokes, FIFA World Cup",
+      "description": "Friday has arrived, which means Kerre Woodham and Tim Wilson joined Heather du Plessis-Allan to Wrap the Week that Was.",
+      "link": "https://www.newstalkzb.co.nz/on-air/mike-hosking-breakfast/audio/wrapping-the-week-with-kerre-woodham-and-tim-wilson-uber-eats-ben-stokes-fifa-world-cup/",
+      "source": "Newstalkzb",
+      "image": "https://www.newstalkzb.co.nz/media/au3j4m33/general-view-of-the-adidas-trionda-official-match-ball-of-the-fifa-world-cup-2026-at-sofi-stadium-on-june-09-2026-in-los-angeles-california-photo-by-matt-mcnulty-fifafifa-via-getty-images.jpg",
+      "published": "2026-06-11 22:07:37",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    }
+  ]
 }

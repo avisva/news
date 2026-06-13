@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "JWST finds and weighs the most distant dormant black hole ever detected",
+      "description": "Astronomers discovered the most distant dormant black hole ever found, MRG-M0138, offering a rare glimpse into the young universe.",
+      "link": "https://www.earth.com/news/jwst-finds-and-weighs-the-most-distant-dormant-black-hole-ever-detected-mrg-m0138/",
+      "source": "Earth.com",
+      "image": "https://cff2.earth.com/uploads/2026/06/12134625/red-galaxy-MRG-M0138_distant-dormant-black-hole_JWST_1m.jpg",
+      "published": "2026-06-13 07:22:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "IITM unveils most detailed 3D atlas of human brainstem",
+      "description": "In a major breakthrough in neuroscience, Indian Institute of Technology Madras has released the world\u2019s most detailed 3D atlas of the human brainstem, marking a significant milestone in brain research and clinical science. The post IITM unveils most detailed 3D atlas of human brainstem appeared first on News Today | First with the news .",
+      "link": "https://newstodaynet.com/2026/06/13/iitm-unveils-most-detailed-3d-atlas-of-human-brainstem/",
+      "source": "News Today",
+      "image": "https://newstodaynet.com/storage/2026/06/c2-3.avif",
+      "published": "2026-06-13 07:21:27",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

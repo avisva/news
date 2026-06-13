@@ -1,37 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Macquarie sees diverging EV trends in US, Europe and China",
-      "description": null,
-      "link": "https://www.investing.com/news/stock-market-news/macquarie-sees-diverging-ev-trends-in-us-europe-and-china-93CH-4740145",
-      "source": "Investing Us",
-      "image": null,
-      "published": "2026-06-12 17:18:57",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "description": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Ars Technica",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-1024x648.jpg",
-      "published": "2026-06-12 17:18:49",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "canada",
-        "india",
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -3,57 +3,179 @@
   "totalResults": 30,
   "results": [
     {
-      "title": "A viral photo of Pope Leo XIV and a Barcelona boy sparked an emotional search for his family",
-      "description": "Pope Leo XIV shared a touching moment with a 7-year-old boy, captured by AP photographer Emilio Morenatti. The photo, taken during the pope\u2019s visit to Barcelona, sparked a worldwide search for the boy\u2019s family. Morenatti posted the image on social...",
-      "link": "https://www.thesunchronicle.com/news/nation_world/a-viral-photo-of-pope-leo-xiv-and-a-barcelona-boy-sparked-an-emotional-search/article_40de2c95-d6ea-5b2e-ba25-21355b18f39e.html",
-      "source": "The Sun Chronicle",
-      "image": null,
-      "published": "2026-06-12 17:19:00",
+      "title": "Tim Allen admits to being 'a little more hesitant' for 'Toy Story 5'",
+      "description": "Tim Allen admits to being 'a little more hesitant' for 'Toy Story 5'Tim Allen has finally confirmed that he was reluctant to mark his return to Toy Story 5.For those unaware, Allen is playing the role of Buzz Lightyear in the 2026 American animated adventure comedy-drama film produced by Pixar...",
+      "link": "https://www.thenews.com.pk/latest/1405725-tim-allen-admits-to-being-a-little-more-hesitant-for-toy-story-5",
+      "source": "The News International",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-06-13/1405725_015511_updates.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "world"
+        "entertainment"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "World Cup fans express excitement and share their predictions",
+      "description": "Ahead of the US\u2019s first match, Al Jazeera spoke to World Cup fans in Los Angeles.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/world-cup-fans-express-excitement-and-share-their-predictions",
+      "source": "Al Jazeera",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781297603.jpg?resize=1920%2C1080&quality=80",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "qatar",
+        "united states of america",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://langleyadvancetimes.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Langley Advance Times",
+      "image": "https://langleyadvancetimes.com/wp-content/uploads/sites/10/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Michael Anthony Woodworth, 72, of San Marco died Friday, June 5",
+      "description": "Services for Michael Anthony Woodworth, 72, of San Marco are pending with Young's Daughters Funeral Home & Bereavement Center in Temple.",
+      "link": "https://www.tdtnews.com/obituaries/article_6313fc88-664f-4811-8268-5b64809333dc.html",
+      "source": "Tdtnews.com",
+      "image": null,
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "crime",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Sky News halts for major breaking news - and it is major blow to Starmer",
-      "description": "Another resignation forces Keir Starmer back to the drawing board.",
-      "link": "https://www.express.co.uk/showbiz/tv-radio/2216804/sky-news-halts-breaking-news-blow-starmer",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/2216804_1.jpg",
-      "published": "2026-06-12 17:19:00",
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://surreynowleader.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Surrey Now-leader",
+      "image": "https://surreynowleader.com/wp-content/uploads/sites/8/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "entertainment"
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://missioncityrecord.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Mission City Record",
+      "image": "https://missioncityrecord.com/wp-content/uploads/sites/14/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://agassizharrisonobserver.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Agassiz Harrison Observer",
+      "image": "https://agassizharrisonobserver.com/wp-content/uploads/sites/24/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://abbynews.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "The Abbotsford News",
+      "image": "https://abbynews.com/wp-content/uploads/sites/6/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Prince William to lead climate gathering with Al Gore and Emma Watson",
+      "description": "Prince William to lead climate gathering with Al Gore and Emma Watson Prince William is set to play a leading role during London Climate Action Week later this month, joining global environmental leaders and business figures at two major events in the capital. The Prince of Wales will...",
+      "link": "https://www.geo.tv/latest/668485-prince-william-to-lead-climate-gathering-with-al-gore-and-emma-watson",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/2026-06-12/668485_115324_updates.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Who holds the cards in the fight to be PM? - The Telegraph",
+      "description": "Who holds the cards in the fight to be PM? The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWxqT1FPUFF1WDNOTDhGSUpCODM5b1QyMFpOcldoZUt3bzVvYUxXQVpwQVBobzJMa3RkRFk5alRHSHBZVVNpQWhhSThhMXNSWHEtZ0dlcDRzWkg3ZFREQ2xBRWJnX0g5MWw2LS1ReFJnTkFJX3lCelhpeDdMSzhWWUltRXM3TFNxQUMtSGRGS0YteGRqOUVERkoycW8zdlc1?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Deratany Law Firm and Nolan Law Group Secure $9.1 Million Medical Malpractice Verdict",
-      "description": "CHICAGO, June 12, 2026 /PRNewswire/ -- A Cook County jury has returned a verdict totaling $9,102,029 in favor of Plaintiffs Frederick Pleasant and Staci Walker in the medical malpractice case of Pleasant v. Sowade, Case No. 2024 L 007781 (Circuit Court of Cook County, Illinois)....",
-      "link": "https://www.prnewswire.com/news-releases/deratany-law-firm-and-nolan-law-group-secure-9-1-million-medical-malpractice-verdict-302799295.html",
-      "source": "Pr Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS1737822/Nolan_Law_Group_Logo.jpg?id=OA2704012&p=original",
-      "published": "2026-06-12 17:19:00",
+      "title": "Cardinals promote Blaze Jordan, send Nolan Gorman to Class AAA in series of roster moves",
+      "description": "The Cardinals are promoting Blaze Jordan, one of the leading hitters from Class AAA Memphis, to join them Friday in Minnesota.",
+      "link": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_724a8754-2afc-47b6-9732-ba48a479ecd3.html",
+      "source": "Stltoday",
+      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/2f/32fff6df-8124-57ae-9ff4-62316126fae9/6a28438e5e97d.image.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "business",
-        "top"
+        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Airdrie Public Library records 398,009 visits in 2025",
-      "description": "The number marks a 79 per cent increase, with the library loaning out more than 827,000 items.",
-      "link": "https://www.airdriecityview.com/community/airdrie-public-library-records-398009-visits-in-2025-12407859",
-      "source": "Airdrie News",
-      "image": "https://www.vmcdn.ca/f/files/airdrietoday/2025/inspire-in-airdrie.jpg",
-      "published": "2026-06-12 17:19:00",
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://cloverdalereporter.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Cloverdale Reporter",
+      "image": "https://cloverdalereporter.com/wp-content/uploads/sites/25/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "business",
+        "health",
         "top"
       ],
       "country": [
@@ -61,99 +183,86 @@
       ]
     },
     {
-      "title": "US judge won't block Trump's White House UFC mixed martial arts event",
-      "description": "WASHINGTON, June 12 (Reuters) - A federal judge \u2060declined on Friday to block President Donald Trump from hosting a special Ultimate Fighting Championship mixed martial arts event \u2060on the White House grounds, letting the fights set to be held on Sunday inside a towering new structure \u200cproceed.",
-      "link": "https://www.thestar.com.my/sport/others/2026/06/13/us-judge-won039t-block-trump039s-white-house-ufc-mixed-martial-arts-event",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/13/3956047.jpg",
-      "published": "2026-06-12 17:19:00",
+      "title": "Obituary: Clarence 'Robbie' Batchelder Jr.",
+      "description": "Clarence \u201cRobbie\u201d Batchelder Jr, of Fryeburg, Maine, passed away on Friday, May 22, 2026, at the age of 62 at Maine Medical Center with his loving family by his side. He was born on April 6, 1964, in Bridgton, Maine,...",
+      "link": "https://www.conwaydailysun.com/community/obituaries/obituary-clarence-robbie-batchelder-jr/article_5ee443b6-b146-41b4-bec4-d1b4644677cc.html",
+      "source": "Conwaydailysun",
+      "image": null,
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "sports"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "12 Highest-Rated Wheeled Coolers Under $100 On Amazon",
-      "description": "Summer means cold drinks are a must-have - enjoy icy cold drinks in the great outdoors without breaking the bank with one of these fan-favorite Amazon coolers.",
-      "link": "https://www.thedailymeal.com/2192271/best-wheeled-coolers-under-100-reviews/",
-      "source": "Daily Meal",
-      "image": "https://www.thedailymeal.com/img/gallery/12-highest-rated-wheeled-coolers-under-100-on-amazon/l-intro-1781193593.jpg",
-      "published": "2026-06-12 17:19:00",
-      "category": [
-        "food"
+        "crime"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Overturned semi-truck blocks Interstate 57 near Marion",
-      "description": "MARION \u2014 An overturned semi-truck on Interstate 57 closed multiple southbound lanes for several hours Friday afternoon near The Hill Avenue exit in Marion.",
-      "link": "https://thesouthern.com/news/overturned-semi-truck-blocks-interstate-57-near-marion/article_9030803c-9d33-5dcf-8a8b-01462a8c9ed1.html",
-      "source": "Southern Illinoisan",
-      "image": null,
-      "published": "2026-06-12 17:19:00",
+      "title": "Obituary: Robert Francis Macdonald",
+      "description": "Robert Francis Macdonald, a loving and beloved family patriarch, died on June 8, 2026. A longtime resident of Bridgton, Maine, he was 84, just 34 days from his 85th birthday. He was a good man.",
+      "link": "https://www.conwaydailysun.com/community/obituaries/obituary-robert-francis-macdonald/article_2c3dbfc9-2a21-4342-94e4-4bc7d9efd64a.html",
+      "source": "Conwaydailysun",
+      "image": "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/7/2b/72bd35c2-7af6-452d-9edf-b0d00d9c36de/6a2c722769e53.image.jpg?resize=278%2C500",
+      "published": "2026-06-12 20:55:00",
       "category": [
         "crime",
-        "top"
+        "lifestyle"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Russian attacks on Dnipropetrovsk region leave one person killed, three injured",
-      "description": "Russian forces launched more than 50 attacks on the Nikopol and Kryvyi Rih districts of the Dnipropetrovsk region throughout the day, killing one person and injuring three others.",
-      "link": "https://www.ukrinform.net/rubric-ato/4133310-russian-attacks-on-dnipropetrovsk-region-leave-one-person-killed-three-injured.html",
-      "source": "Ukrinform",
-      "image": "https://static.ukrinform.com/photos/2026_06/thumb_files/630_360_1781281759-571.jpg",
-      "published": "2026-06-12 17:19:00",
+      "title": "WAPDA chairman addresses Int\u2019l Infrastructure Investment Forum in Macao, SAR",
+      "description": "LAHORE - WAPDA Chairman Lt Gen (retd) Muhammad Saeed, alongwith a 3-member delegation, represented Pakistan in the 17th International Infrastructure Investment and Construction Forum (IIICF) in Macao Special Administrative Region.",
+      "link": "https://www.nation.com.pk/13-Jun-2026/wapda-chairman-addresses-int-l-infrastructure-investment-forum-macao-sar",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/print_images/extra-large/2026-06-13/wapda-chairman-addresses-int-l-infrastructure-investment-forum-macao-sar-1781297717-7514.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "crime",
+        "business",
         "top"
       ],
       "country": [
-        "ukraine"
+        "pakistan"
       ]
     },
     {
-      "title": "Casa Minerals Inc. Provides MCTO Update",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - June 12, 2026) - Casa Minerals Inc. (TSXV: CASA) (OTCQB: CASXF) (FSE: 0CM) (the \"Company\" or \"Casa\") is providing an update to its news release dated June 8, 2026, wherein the Company announced that it expected the management cease trade order that was granted on May 1, 2026 (the \"MCTO\") to be revoked shortly after completing the filing of: (1) the audited annual financial statements for the year ended December 31, 2025, (2) the",
-      "link": "https://www.newsfilecorp.com/release/301382/Casa-Minerals-Inc.-Provides-MCTO-Update",
-      "source": "Newsfilecorp",
-      "image": null,
-      "published": "2026-06-12 17:19:00",
+      "title": "Bound to Friction",
+      "description": "Structural paralysis of Western security arrangements in the Indo-Pacific has a clear cause.",
+      "link": "https://www.nation.com.pk/13-Jun-2026/bound-friction",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "business"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://northdeltareporter.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "North Delta Reporter",
+      "image": "https://northdeltareporter.com/wp-content/uploads/sites/28/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "health",
+        "top"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "Rigorous Training now offering fitness classes in Porter",
-      "description": "The training center offers class-based services for all skill levels including conditioning, cross training and strength training.",
-      "link": "https://communityimpact.com/houston/new-caney-porter/business/2026/06/12/rigorous-training-now-offering-fitness-classes-in-porter/",
-      "source": "Communityimpact",
-      "image": "https://assets.communityimpact.com/uploads/images/2026/06/12/428498.jpg",
-      "published": "2026-06-12 17:19:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Early voting begins Saturday: What you need to know for New York's primary election",
-      "description": "Here's everything you need to know about where and when you can cast your early vote in New York's primary election.",
-      "link": "https://abc7ny.com/post/early-voting-new-yorks-primary-election-beings-saturday-what-need-know/19282383/",
-      "source": "Abc7 New York",
-      "image": "https://cdn.abcotvs.com/dip/images/19282428_voting.jpg",
-      "published": "2026-06-12 17:19:00",
+      "title": "City Admin resignation exposes divisions within Surfside Beach government",
+      "description": "SURFSIDE BEACH \u2014 The resignation of City Administrator William Cox has exposed deep divisions within Surfside Beach government, sparking emotional debate among elected officials, employees and residents over the city\u2019s direction and leadership.",
+      "link": "https://thefacts.com/news/city-admin-resignation-exposes-divisions-within-surfside-beach-government/article_528143e5-e30a-4163-b08d-f00b281a8366.html",
+      "source": "Scoregolf",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thefacts.com/content/tncms/assets/v3/editorial/3/32/332ae382-e188-4aaa-82b2-75d807ea6086/69ea77d558e04.image.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
         "politics",
         "top"
@@ -163,114 +272,42 @@
       ]
     },
     {
-      "title": "Emergency Dentist Bradford Wibsey Dr Carl Taylor Providing Urgent Treatments and Same Day Appointments at Taylored Dental Care",
-      "description": "Bradford, England - June 12, 2026 - PRESSADVANTAGE - Taylored Dental Care Wibsey has confirmed that same-day and urgent",
-      "link": "https://norfolkdailynews.com/online_features/press_releases/emergency-dentist-bradford-wibsey-dr-carl-taylor-providing-urgent-treatments-and-same-day-appointments-at/article_30d9a435-6cc6-5446-b365-e9f96ff452c5.html",
-      "source": "Norfolk Daily News",
-      "image": null,
-      "published": "2026-06-12 17:18:59",
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://theprogress.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Chilliwack Progress",
+      "image": "https://theprogress.com/wp-content/uploads/sites/3/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
         "health",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Fernando Alonso FIA verdict reached as punishments issued",
-      "description": "The Aston Martin was seen breaking the rules during FP2 in his home race.",
-      "link": "https://www.planetf1.com/news/fernando-alonso-fia-punishment-reached-pit-lane-exit-incident",
-      "source": "Planet F1",
-      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/06/12181533/fernando-alonso-aston-martin.jpg",
-      "published": "2026-06-12 17:18:59",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Macquarie ziet uiteenlopende EV-trends in VS, Europa en China",
-      "description": null,
-      "link": "https://nl.investing.com/news/stock-market-news/macquarie-ziet-uiteenlopende-evtrends-in-vs-europa-en-china-93CH-832476",
-      "source": "Investing",
-      "image": null,
-      "published": "2026-06-12 17:18:58",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "netherland"
-      ]
-    },
-    {
-      "title": "David Hockney, revolutionary British artist famed for his pools and portraits, dies aged 88",
-      "description": "The Bradford-born painter made his name with sunkissed visions of California and never stopped breaking barriers, going on to become one of contemporary art\u2019s most important figures",
-      "link": "https://ca.news.yahoo.com/revolutionary-british-artist-david-hockney-095211212.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/6bf905976f74944d095280925c151a55977919055c578473a3ff01f69c40d92e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftheguardian_763%2F208579588e428e1c27e224641c8e64f0",
-      "published": "2026-06-12 17:18:58",
-      "category": [
-        "sports"
-      ],
-      "country": [
         "canada"
       ]
     },
     {
-      "title": "Ripple CEO Says JPMorgan Boss Jamie Dimon's CLARITY Act Criticism Was 'A Disservice' To Crypto Regulation",
-      "description": "Ripple (CRYPTO: XRP ) CEO Brad Garlinghouse sharply criticized JPMorgan Importance Rank: 1 read more",
-      "link": "https://www.benzinga.com/crypto/cryptocurrency/26/06/53174345/ripple-ceo-says-jpmorgan-boss-jamie-dimons-clarity-act-criticism-was-a-disservice-to-crypto",
-      "source": "Benzinga",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/06/12/Ripple-Coin.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop",
-      "published": "2026-06-12 17:18:57",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Macquarie sees diverging EV trends in US, Europe and China",
-      "description": null,
-      "link": "https://www.investing.com/news/stock-market-news/macquarie-sees-diverging-ev-trends-in-us-europe-and-china-93CH-4740145",
-      "source": "Investing Us",
-      "image": null,
-      "published": "2026-06-12 17:18:57",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mysuru: Unfinished road excavation works troubles residents",
-      "description": "Incomplete drainage pipeline works and poorly restored roads leave Mysuru's Paduvarahalli streets slippery, dusty, and hazardous for commuters.",
-      "link": "https://www.deccanherald.com/india/karnataka/mysuru/mysuru-unfinished-road-excavation-works-troubles-residents-4037371",
-      "source": "Deccan Herald",
-      "image": "https://media.assettype.com/deccanherald/2026-06-12/jwb5nyn0/0.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-06-12 17:18:56",
+      "title": "Deputy arrested after 'off-duty incident'",
+      "description": "A Park County Sheriff\u2019s deputy was involved in an off-duty incident in Livingston that led to the deputy's arrest, according to a Friday-afternoon statement from the sheriff's office.",
+      "link": "https://www.livingstonenterprise.com/news/deputy-arrested-after-off-duty-incident/article_a1324617-4ca4-4104-b75b-e60c947dbd85.html",
+      "source": "Livingstonenterprise.com",
+      "image": "https://bloximages.chicago2.vip.townnews.com/livingstonenterprise.com/content/tncms/assets/v3/editorial/a/13/a1324617-4ca4-4104-b75b-e60c947dbd85/6a2c74065978e.preview.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-12 20:55:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "B.C. gang unit, RCMP air services assist with drug bust in Nanaimo",
-      "description": "Officers with B.C\u2019s special Uniform Gang Enforcement Team (UGET) are touting the arrest of two people and the seizure of drugs and a gun in Nanaimo, with help from local police and RCMP Air Services. The post B.C. gang unit, RCMP air services assist with drug bust in Nanaimo appeared first on CHEK .",
-      "link": "https://cheknews.ca/b-c-gang-unit-rcmp-air-services-assist-with-drug-bust-in-nanaimo-1330201/",
-      "source": "Chek News",
-      "image": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2026/06/Photo-1-e1781284537422.png?fit=1080%2C608&ssl=1",
-      "published": "2026-06-12 17:18:53",
+      "title": "EPS being investigated for possible misconduct for letter objecting to manslaughter plea",
+      "description": "8-year-old victim suffered \u2018terrible\u2019 abuse, was dumped in Maskwacis in hockey bag",
+      "link": "https://ponokanews.com/2026/06/12/eps-being-investigated-for-possible-misconduct-for-letter-objecting-to-manslaughter-plea/",
+      "source": "Ponoka News",
+      "image": "https://ponokanews.com/wp-content/uploads/sites/28/2026/06/42553948_web1_260617-PON-ASIRT-EPS-letter_1.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
         "crime",
         "top"
@@ -280,58 +317,74 @@
       ]
     },
     {
-      "title": "'Due To Uncertainty In Region': Pakistan Boosts Defence Budget By 18%, Trims Development Spend",
-      "description": "Islamabad on Friday proposed an 18.77 trillion (USD 67.49 billion) annual budget for the fiscal year, marking an increase of Rs 3 trillion from the previous year's outlay",
-      "link": "https://www.news18.com/world/due-to-uncertainty-in-region-pakistan-boosts-defence-budget-by-18-trims-development-spend-ws-l-10146405.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/05/pakistan-china-j10-2026-05-cabe111f2d0cc6a8af8c814f1ddce707-1200x800.jpg",
-      "published": "2026-06-12 17:18:53",
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://peacearchnews.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Peace Arch News",
+      "image": "https://peacearchnews.com/wp-content/uploads/sites/7/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "business",
+        "health",
         "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Udhay questions CM Vijay's silence on Mekedatu issue",
-      "description": "However, during the NITI Aayog meeting, Vijay highlighted Tamil Nadu's achievements in areas such as economic growth, women's welfare and the progress of self-help groups.",
-      "link": "https://www.dtnext.in/news/tamilnadu/udhay-questions-cm-vijays-silence-on-mekedatu-issue",
-      "source": "Dt Next",
-      "image": "https://gumlet-images.assettype.com/dt-next/2026-05-26/qespp6uw/CMS-new-quintype-13.png",
-      "published": "2026-06-12 17:18:52",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Why Phillies are Byron Buxton's best landing spot at MLB trade deadline",
-      "description": "There's no better fit than the Phillies for Byron Buxton.",
-      "link": "https://ca.sports.yahoo.com/news/why-phillies-byron-buxtons-best-171850456.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ApRnlT8znbdlYd5LxDd5WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MjA7aD04NTQ7Y2Y9d2VicA--/https://media.zenfs.com/en/the_sporting_news_articles_584/2ac6c1b08c26543114f2fac7531e2ffa",
-      "published": "2026-06-12 17:18:50",
-      "category": [
-        "sports"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "Is Greenland the Most Socialist Country in the World?",
-      "description": "It has an immense sector of state-owned companies, and it seems to work pretty well. The post Is Greenland the Most Socialist Country in the World? appeared first on The American Prospect .",
-      "link": "https://prospect.org/2026/06/12/is-greenland-the-most-socialist-country-in-the-world/",
-      "source": "The American Prospect",
-      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/06/Cooper-video-061226.jpg?fit=2121%2C1414&ssl=1",
-      "published": "2026-06-12 17:18:50",
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://aldergrovestar.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Aldergrove Star",
+      "image": "https://aldergrovestar.com/wp-content/uploads/sites/22/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
       "category": [
-        "business",
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Toxic drug alert issued for Lower Mainland community",
+      "description": "Fraser Health issued the warning Friday, June 12 for Maple Ridge",
+      "link": "https://hopestandard.com/2026/06/12/toxic-drug-alert-issued-for-lower-mainland-community/",
+      "source": "Hope Standard",
+      "image": "https://hopestandard.com/wp-content/uploads/sites/23/2026/06/42555196_web1_260612-MRN-CF-toxic-drug-alert_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "EPS being investigated for possible misconduct for letter objecting to manslaughter plea",
+      "description": "8-year-old victim suffered \u2018terrible\u2019 abuse, was dumped in Maskwacis in hockey bag",
+      "link": "https://pipestoneflyer.ca/2026/06/12/eps-being-investigated-for-possible-misconduct-for-letter-objecting-to-manslaughter-plea/",
+      "source": "Pipestone Flyer",
+      "image": "https://pipestoneflyer.ca/wp-content/uploads/sites/44/2026/06/42553948_web1_260617-PON-ASIRT-EPS-letter_1.jpg",
+      "published": "2026-06-12 20:55:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "GIA/irl Teams Up With Emma Arletta for a Chic Plus-Size Bridal Collection",
+      "description": "Independent fashion label GIA/irl has launched inclusive bridal in partnership with content creator Emma Arletta.",
+      "link": "https://www.whowhatwear.com/fashion/shopping/gia-irl-emma-arletta-bridal-collection-june-2026",
+      "source": "Who What Wear",
+      "image": "https://cdn.mos.cms.futurecdn.net/69CDYTdWQRZAKEH5daNa2h-1280-80.jpg",
+      "published": "2026-06-12 20:54:58",
+      "category": [
+        "lifestyle",
         "top"
       ],
       "country": [
@@ -339,12 +392,12 @@
       ]
     },
     {
-      "title": "Judge denies Kennedy Center request for pause in ruling ordering Trump\u2019s name removed from building",
-      "description": "A judge has denied a request from the Kennedy Center to pause a ruling ordering President Donald Trump\u2019s name removed from building.",
-      "link": "https://wtop.com/dc/2026/06/judge-denies-kennedy-center-request-for-pause-in-ruling-ordering-trumps-name-removed-from-building-2/",
-      "source": "Wtop News",
-      "image": "https://wtop.com/wp-content/uploads/2026/06/Trump_Kennedy_Center_79_2-1024x681.jpg",
-      "published": "2026-06-12 17:18:50",
+      "title": "PIAA Class 3A baseball championship: South Park narrowly loses pitching duel to Bermudian Springs",
+      "description": null,
+      "link": "https://www.post-gazette.com/sports/hsother/2026/06/12/piaa-wpial-class-3a-baseball-south-park-bermudian-springs/stories/202606120044",
+      "source": "Pittsburgh Post-gazette",
+      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202606120044/1140x_a10-7_cTC/20260612mf-southpark02_1781297718.jpg",
+      "published": "2026-06-12 20:54:56",
       "category": [
         "domestic"
       ],
@@ -353,93 +406,48 @@
       ]
     },
     {
-      "title": "Why Phillies are Byron Buxton's best landing spot at MLB trade deadline",
-      "description": "There's no better fit than the Phillies for Byron Buxton.",
-      "link": "https://www.sportingnews.com/us/mlb/philadelphia-phillies/news/why-phillies-byron-buxtons-best-landing-spot-trade-deadline/e86f423be7e49c0e79b1893f",
-      "source": "Sporting News",
-      "image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2025-07/Byron%20Buxton.jpg.webp?itok=KyT8aydE",
-      "published": "2026-06-12 17:18:50",
+      "title": "Heartbroken family of Kayden Moy to attend memorial organised by strangers in honour of murdered teen",
+      "description": "\"We are overwhelmed by the kindness being shown for Kayden.\"",
+      "link": "https://www.dailyrecord.co.uk/news/scottish-news/heartbroken-family-kayden-moy-attend-37288728",
+      "source": "Daily Record",
+      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37275993.ece/ALTERNATES/s615/1_CapturePNG.png",
+      "published": "2026-06-12 20:54:55",
       "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "\u2018After papa passed away, I only had mamma\u2019: Daughter revisits AI-171 crash site on first anniversary",
-      "description": "Ahmedabad, June 12 (IANS) When Honey Patel (Sharma) received a video call from her mother shortly before Air India flight AI-171 took off from Ahmedabad for London on June 12 last year, there was nothing to suggest it would be their final conversation. Her mother, 56-year-old Anju Sharma, had already boarded the aircraft and wanted to show it to her grandson, Dihan, who loved watching aeroplanes. \u201cShe video-called us to show the plane because my son loves watching planes,\u201d Honey recalled while standing at the crash site on the first anniversary of the disaster. \u201cShe said, \u2018This is Nani\u2019s plane.\u2019 We still have that video and her voice. Then she told us, \u2018I am sitting in the plane now, beta. I will call you after I reach there,\" Honey told IANS. That call never came. Anju Sharma was among those killed when the London-bound Air India Boeing 787 Dreamliner crashed seconds after take-off from Ahmedabad on June 12, 2025. The aircraft struck the B.J. Medical College hostel complex in Meghaninagar area, killing 241 of the 242 people on board and 19 people on the ground, making it one of the deadliest aviation disasters in India's history. The investigation remains ongoing one year later. For Honey, the tragedy was compounded by an earlier loss. Her father had died in 2021, leaving her mother as the central figure in her life. \u201cAfter Papa passed away, I only had Mamma here. My sister lives in London, so we lived like friends,\" she said emotionally. The bond between mother and daughter had deepened over the years. Honey described her mother not merely as a parent but as her closest companion. She said, \u201cShe was more than a friend. I don't have any friends. She was my friend, she was everything for me.\u201d The day began like any other travel day. Anju was excited about visiting her family in London. Honey spent the previous night and the morning with her mother before the journey. \u201cShe made my favourite food herself before leaving. She was so happy that she was going to London this time. They had so many plans there,\" she noted. At 1.51 p.m., Honey's world changed. Her relatives in Ahmedabad called urgently, asking for her mother's flight ticket after hearing reports of a crash involving a London-bound aircraft. \u201cI said it couldn't be Mamma's plane. They told me there was only one London flight and asked me to send the ticket,\" she recalled. After switching on television news channels and speaking to family members, the horrifying reality became clear. Honey immediately contacted her elder sister in London. She then called her husband and, once the flight details were confirmed, the family left Vadodara for Ahmedabad. Rather than travelling to the crash site, they were advised to go directly to Ahmedabad Civil Hospital. \u201cWe searched every floor for Mamma. We went everywhere, but we couldn't find her,\" she said. Eventually, officials informed the family that nobody had survived the crash. \u201cThen we were told that from the crash site, nobody had survived. After that, the DNA test happened,\" she told IANS. The identification process took days as authorities relied heavily on DNA matching because of the condition of many victims' remains. One year later, Honey has returned to the site. It is her third visit. Twelve days after the crash, she and her sister came to pray. Two months later, she attended a candlelight memorial. On Friday, she returned for the first anniversary. The grief, she said, has not eased. The family received some of Anju Sharma's belongings, including two T-shirts, a slipper and fragments of the luggage she had carried. Other personal possessions, including jewellery and her mobile phone, were never recovered. \u201cWe got some clothes, but not her ornaments or her mobile phone,\u201d Honey said. The family submitted documents to Air India regarding missing belongings, but says some items remain untraced. Among them was an earring believed to belong to Anju. \u201cThey told us many people had claimed the same item and it would only be given if there was a match,\u201d Honey said. Ultimately, she has tried to accept the loss. \"If Mamma is not here, what can we do? Whatever belonged to her has gone with her,\" she said. The loss continues to ripple through the wider family. Anju's younger brother, Milan Sharma (38), who lives in Vadodara but originally comes from Kurukshetra in Haryana, still struggles to comprehend how a routine airport farewell became his final goodbye. \u201cThe last time I came here was to drop my sister. I never imagined I would later bring her back in a coffin,\" he said. Milan described Anju not simply as an elder sibling but as a maternal figure who helped raise him after he moved to Gujarat as a child. \u201cShe was not my sister; she was my mother. I was very young when I came to live with her,\" he told IANS. Anju was the eldest among eight sisters and, according to Milan, the person whose word carried weight throughout the family. \u201cNobody could refuse her. Nobody could ignore what she said. We used to call her \u2018Daddy\u2019 because she was fearless and always took responsibility for everyone,\" he recalled. Even now, the family remains haunted by memories of her final hours. Milan remembers receiving a video call from his sister while she waited in the airport lounge. He was travelling to Mumbai that day. \u201cShe told me she had ordered a dosa but did not feel like eating it,\u201d he said. He also remembers one of her final messages: \u201cShe always used to tell me to take care of myself.\u201d When news of the crash first emerged, the family clung to reports that some injured passengers had been taken to the hospital. \u201cThere was hope she might be among them. We stood outside the hospital with that hope,\" he said. The reality proved devastating. His niece provided DNA samples, and the family received Anju's remains three days later. \u201cThere was not much left of the body,\u201d he said quietly. The tragedy also deeply affected Anju's elderly parents in Haryana. Milan said his father remains in bed rest and still struggles to accept the loss of his eldest daughter. \u201cEven today, sometimes he feels she has just gone to London and will come back,\u201d he said. His mother, meanwhile, continues to preserve memories stretching back decades. Among them is the first dress Anju wore as a newborn. \u201cMy mother still has that dress. She kept it all these years,\" he said. As speculation continues over the cause of the crash, both Honey and Milan reject suggestions that pilot error was responsible and believe a technical issue may have been involved. The Aircraft Accident Investigation Bureau (AAIB) has said the investigation remains ongoing and has urged restraint over speculation until the final report is released. For the Sharma family, however, the investigation's conclusions will not alter the central fact of their lives. Milan lost the sister he called a mother. Honey lost the woman she called her best friend. \u201cAfter Papa went, I only had Mamma,\u201d Honey said. Five years after losing her father and one year after losing her mother, those words capture the void left behind by a tragedy that changed her family forever. --IANS mys/dan",
-      "link": "https://www.thehawk.in/news/india/after-papa-passed-away-i-only-had-mamma-daughter-revisits-ai-171-crash-site-on-first-anniversary",
-      "source": "Thehawk",
-      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/bf4228a7-d513-4ba8-a429-ec5a27f8e535/202606123823178-d5eead0d-4127-4e26-acda-4a7ae82286dd.jpg",
-      "published": "2026-06-12 17:18:49",
-      "category": [
-        "crime",
+        "lifestyle",
         "top"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     },
     {
-      "title": "Ahmedabad crash: Husband who lost pregnant wife rejects final compensation",
-      "description": "Ahmedabad, June 12 (IANS) A year after he lost both his wife and their unborn child in the Air India AI171 disaster, Gunjan Kumar Chaudhary returned to the Ahmedabad crash site carrying a photograph of the woman with whom he had spent 12 years of his life, saying he still wakes up at night calling out her name and remains determined to seek answers about the tragedy that shattered his family. Standing amid the memories of one of India\u2019s deadliest aviation disasters, the local resident paid tribute to his wife, Jaimini Chaudhary, who was two months pregnant when she boarded the London-bound flight on June 12, 2025. The Boeing 787-8 Dreamliner crashed into the B.J. Medical College hostel complex shortly after take-off from Ahmedabad, killing 241 of the 242 people on board and 19 people on the ground. The disaster claimed 260 lives in total and remains under investigation a year later. For Gunjan, the anniversary brought back memories of a future that never arrived. \u201cMy wife was two months pregnant. We lost two lives together,\u201d he said. Gunjan and Jaimini had been together for 12 years, including two years of engagement and 10 years of marriage. Their 10th wedding anniversary was on January 25, 2025. \u201cWe were together for 12 years. I want to live with her memories. I still live in the same apartment where we lived together,\" he told IANS. The couple had moved to London together in 2022 and had spent more than three years building a life there. Both were employed, with Jaimini working at Nikie Health Care Limited and Gunjan employed at Othon Chemical Limited. According to Gunjan, they had long wanted to start a family. \u201cWe planned earlier, but my wife said first we should settle abroad and then plan for a child. After that, our child plan succeeded, and suddenly this happened. We lost everything,\" he said. The couple travelled to India together on May 9 last year. Gunjan returned to London on May 21 because he had exhausted much of his annual leave after an earlier trip to India in 2024. Jaimini remained behind because she had accumulated sufficient leave and wanted to spend more time with her family. \u201cShe came to India after three years. I did not have enough holiday, but she had enough holiday,\u201d he recalled. The trip had also been prompted by family concerns. Gunjan said his mother, now 64, had been experiencing health issues, while Jaimini wanted dental treatment during her stay. \u201cMy wife said we should come home and meet everyone. My mother was not well, and she also wanted to get her teeth checked,\" he told IANS. After arriving in India, the couple first stayed with Gunjan\u2019s family before Jaimini travelled to meet her parents in Valsad. On the day of the crash, the couple spoke one last time via video call at 12:39 p.m. \u201cShe told me, \u2018I have left. Come and pick me up at London Airport,\u201d Gunjan recalled. Within minutes, the aircraft crashed. At the time, Gunjan was at work in London. \u201cWhen I heard the news, I collapsed. I fell to the floor,\u201d he said. One year later, Gunjan said the emotional impact remains overwhelming. Speaking to IANS, he said: \u201cEvery time I sleep, I wake up around 4 o\u2019clock. We used to hold hands before we went to sleep. I suddenly wake up, say my wife\u2019s name, and then realise she is not here. She has passed away. I still cannot accept it.\u201d Gunjan has also rejected a final compensation proposal linked to the crash, arguing that no financial calculation can adequately account for the loss of his wife and unborn child. \u201cThey calculated it as 16 times my wife\u2019s salary. How can they decide how long my wife would have lived? Nobody knows that. The calculation is totally wrong,\" he said. Gunjan clarified that he accepted the initial assistance provided to all affected families, including the ex gratia payments announced after the crash, but rejected what he described as the final compensation offer. He said, \u201cThe first compensation was given to everyone. I accepted that. It is the final compensation that I rejected.\u201d The interim package included Rs one crore from the Tata Group and additional payments from Air India. Gunjan maintains that he will wait for the final investigation findings before deciding his next legal steps. \u201cOnly when the investigation is finished will we know whether it was Boeing, General Electric or something else. We do not know yet,\" he said. He said he intends to pursue legal action independently in the United Kingdom rather than through any of the law firms representing groups of victims\u2019 families. \u201cNo, I am not associated with them. I will do it according to my own understanding,\" he asserted. His work permit in London remains valid until July 16, 2028, and he plans to pursue any future legal proceedings there. \u201cI will file the case individually in the UK, not in Indian courts,\" he confirmed to IANS. Asked whom he held responsible, Gunjan said Air India would remain central to any future legal action. He said, \u201cAfter the report, we will take action. But we will definitely proceed against Air India.\u201d Explaining his refusal, he added, \u201cI do not know whose fault it is. Air India destroyed everything for me. I lost my wife and my unborn child. I lost everything.\u201d Gunjan said he remains unconvinced by suggestions that pilot error caused the crash. \u201cI do not believe the pilot did this intentionally. The pilot\u2019s job was to save people. I trust him,\" he said. He said he suspects a technical issue may have played a role. \u201cI think maybe it was an electrical failure, but I do not know the exact reason. We are waiting for proof,\" he added. Asked whether he would challenge a final report that blamed human error, he replied: \u201cYes, we will challenge it. They say the pilot cut off a switch. Why would he do that? It is not possible. I cannot accept such a report.\u201d The anniversary has renewed calls from many bereaved families for answers as investigators continue to examine the causes of the disaster. The Aircraft Accident Investigation Bureau (AAIB) has said the inquiry remains ongoing and has not provided a timeline for the final report. Families gathering in Ahmedabad this week said they continue to seek clarity about how the London-bound aircraft crashed less than a minute after take-off. For Gunjan, however, the investigation remains only one part of a loss that cannot be measured by reports, legal claims or compensation. --IANS mys/dan",
-      "link": "https://www.thehawk.in/news/india/ahmedabad-crash-husband-who-lost-pregnant-wife-rejects-final-compensation",
-      "source": "Thehawk",
-      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/655d1829-47fd-4904-bead-af87999c307c/202606123823194-7ee5af19-e653-4bf5-8e8e-59cf6ea0ff20.jpg",
-      "published": "2026-06-12 17:18:49",
+      "title": "Ha Long Bay temporarily closes Soi Sim beach to visitors",
+      "description": "The move comes shortly after Soi Sim beach became the only Vietnamese beach included in the 2026 Corona Beach 100, an annual global guide recognising the world's top 100 beaches, compiled by the US-based Corona organisation in collaboration with international tourism experts. 7 Wonders Day to spotlight UNESCO heritage jewel Ha Long Bay Quang Ninh launches traditional sailboat tours along Ha Long Bay Quang Ninh launches round-the-clock medical service on Ha Long Bay",
+      "link": "https://en.vietnamplus.vn/ha-long-bay-temporarily-closes-soi-sim-beach-to-visitors-post344497.vnp",
+      "source": "Vietnam+",
+      "image": "https://mediaen.vietnamplus.vn/images/f579a678cf9e90879541752073c260050a28e2430d39c9c5f70c4b9fc94df7272496547fcd3bda77c25bc3f95faa6f83a95f9e0ba8a56a9b79bb85369aa7caca8fc01ae8a2e843653dc595ab8c260f7c550c79016d05b7157793f3d10caabd5a193460d7aa8c090609dbb07f23cc98841b515b033e32e1ed331206a90ac2b8a4/vnanet-potal-quang-ninh-han-che-hoat-dong-duong-thuy-do-anh-huong-bao-so-1-8090528.jpg.webp",
+      "published": "2026-06-12 20:54:54",
       "category": [
-        "crime",
+        "environment",
         "top"
       ],
       "country": [
-        "india"
+        "vietnam"
       ]
     },
     {
-      "title": "Arunachal CM Khandu advocates funding reforms, hydropower push and infrastructure boost",
-      "description": "Itanagar, June 12 (IANS) Arunachal Pradesh Chief Minister Pema Khandu on Friday sought special policy interventions and enhanced central support to address the state\u2019s unique developmental and strategic challenges during a high-level interaction of Northeastern Chief Ministers convened by NITI Aayog. Khandu thanked Prime Minister Narendra Modi for his continued support to the Northeast and said the Act East Policy has significantly improved connectivity, infrastructure and public confidence across the region, creating new opportunities for growth and development. Highlighting Arunachal Pradesh\u2019s vast geographical expanse and strategic importance, the Chief Minister stressed the need for dedicated infrastructure support to overcome challenges posed by difficult terrain and dispersed settlements. He noted that, despite being the largest Northeastern state by area, Arunachal Pradesh continues to face distinct developmental constraints that require special policy attention. The Chief Minister informed the meeting that the state has set a target of generating 40,000 MW of hydropower by 2047 and sought coordinated support from NITI Aayog and central ministries to sustainably harness its vast hydropower potential. He also underscored the need to skill local youth and promote ancillary industries to ensure greater employment opportunities from hydropower projects. Drawing attention to funding challenges, Khandu urged a review of population-based allocation criteria, arguing that existing mechanisms often disadvantage geographically large but sparsely populated states such as Arunachal Pradesh. He called for alternative funding parameters that take into account terrain, area and strategic significance. On connectivity, he sought to expand the Pradhan Mantri Gram Sadak Yojana (PMGSY) to include villages with populations of 250 or more, noting that several remote habitations remain unconnected despite the success of the Vibrant Villages Programme. The Chief Minister also pointed out that Arunachal Pradesh has benefited less from externally aided projects compared to several other Northeastern states and requested NITI Aayog to explore mechanisms to bridge the gap. Seeking institutional support, Khandu informed the meeting about the establishment of the Institute of Transforming Arunachal and sought NITI Aayog's guidance in developing it into a premier policy and governance think tank. He highlighted governance initiatives such as Sarkar Aapke Dwar, Seva Aapke Dwar and Cabinet Aapke Dwar, which have improved citizen outreach by delivering government services directly to remote villages. On administrative reforms, Khandu strongly advocated the creation of a separate All India Services (AIS) cadre for Arunachal Pradesh, stating that frequent transfers under the existing arrangement affect continuity in governance and policy implementation. He proposed a joint cadre arrangement with Mizoram, a suggestion that received support from Mizoram Chief Minister Lalduhoma. The Chief Minister also proposed empowering the North Eastern Council (NEC) to function as the \u201cNITI Aayog of the Northeast\u201d to strengthen regional planning and address region-specific developmental priorities. During the meeting, NITI Aayog Vice Chairman Suman Bery appreciated Arunachal Pradesh's human capital and suggested strengthening Industrial Training Institutes (ITIs) through partnerships with major hydropower companies. He assured support in taking up the state's concerns with relevant ministries. Assam Chief Minister Himanta Biswa Sarma lauded Arunachal Pradesh's hydropower policies and stressed the importance of sustainable utilisation of natural resources. Khandu reaffirmed Arunachal Pradesh\u2019s commitment to cooperative federalism and said the state would continue working closely with NITI Aayog, the NEC and the Centre to ensure inclusive and sustainable development. --IANS sc/dan",
-      "link": "https://www.thehawk.in/news/india/arunachal-cm-khandu-advocates-funding-reforms-hydropower-push-and-infrastructure-boost",
-      "source": "Thehawk",
-      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/07287602-11ff-474e-830f-18544dd7bbf0/202606123823185-35f9b015-4af4-4240-9f0e-3f6c4d129248.jpeg",
-      "published": "2026-06-12 17:18:49",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "description": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Ars Technica",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2275860721-1024x648.jpg",
-      "published": "2026-06-12 17:18:49",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "canada",
-        "india",
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Women farmers\u2019 empowerment bill to be tabled in monsoon session: Maha CM",
-      "description": "Mumbai, June 12 (IANS) The Maharashtra Women Farmers Empowerment Bill, 2026, will be introduced during the forthcoming Monsoon Session to provide legal recognition to women farmers as independent farmers in the state. Chief Minister Devendra Fadnavis on Friday directed officials to formulate a comprehensive policy to safeguard the rights of women farmers and promote their holistic empowerment. He was speaking at a presentation on the Women Farmers Empowerment Bill. CM Fadnavis said women account for more than 81 per cent of participation in Maharashtra\u2019s agricultural sector. However, most agricultural policies and government schemes remain male-centric. Since land ownership is often a prerequisite for availing benefits under agricultural schemes, a large number of women farmers are excluded. Women cultivating family- or community-owned land, as well as those engaged in allied activities such as fisheries, livestock rearing, poultry farming, and the collection of forest produce, are often not recognised as farmers. It is against this backdrop that the proposed legislation has been drafted. The Chief Minister directed that all suggestions received be incorporated into the final draft of the Bill. The legislation should aim to provide statutory recognition to women engaged in agriculture as \u201cfarmers,\u201d establish institutional mechanisms to support their welfare, and ensure access to credit, technology, markets, and other essential services. He further stated that, in addition to conventional farming, the Bill should cover activities such as animal husbandry, dairy farming, poultry farming, beekeeping, fisheries, sericulture, horticulture, floriculture, mushroom cultivation, agroforestry and collection of forest produce. It should also include landless farmers, tenant farmers, agricultural labourers, pastoral workers and migrant agricultural workers. A detailed study should be undertaken to establish an effective digital system through which women farmers can access state government loan schemes, agricultural subsidies, seeds, fertilisers, crop insurance, extension services, market facilities, transportation, storage infrastructure and social security schemes. The Bill should also provide for the creation of an independent digital database of women farmers, the CM said. CM Fadnavis emphasised that the proposal should also examine the establishment of a dedicated \u201cMaharashtra State Women Farmers Fund\u201d to empower women farmers, along with mechanisms to effectively implement the legislation. A strong institutional framework should be created at the district, taluka and village levels. He further suggested that a State-Level Monitoring Committee, headed by the Chief Secretary, be constituted to oversee the implementation of the law and regularly review its progress. The proposed legislation will be a significant step toward providing millions of women farmers in the state with an independent identity, rights and opportunities, while also setting a new benchmark for gender equality in the agricultural sector, he said. --IANS sj/dan",
-      "link": "https://www.thehawk.in/news/india/women-farmers-empowerment-bill-to-be-tabled-in-monsoon-session-maha-cm",
-      "source": "Thehawk",
-      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/528043a2-d7dc-4940-ae8a-8b7e974538b9/20260612442f-2093dda9-245b-47bc-b315-94bb8957f193.jpg",
-      "published": "2026-06-12 17:18:48",
+      "title": "Trump spends his Friday firing off conspiracy-linked QAnon Truth Social posts",
+      "description": null,
+      "link": "https://www.independent.co.uk/bulletin/news/trump-truth-social-rant-qanon-ai-b2994967.html",
+      "source": "The Independent",
+      "image": "https://static.independent.co.uk/2026/06/12/09/2026-06-12T081211Z_1462275619_RC2YFKADCHL6_RTRMADP_3_USA-JUSTICE-FUND.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "published": "2026-06-12 20:54:53",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     }
   ]

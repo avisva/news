@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Supplier Says Sikorsky Owes $14M For Helicopter Job",
+      "description": null,
+      "link": "https://www.law360.com/articles/2489153/supplier-says-sikorsky-owes-14m-for-helicopter-job",
+      "source": "Law360",
+      "image": null,
+      "published": "2026-06-12 23:12:43",
+      "category": [
+        "business",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

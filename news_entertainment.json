@@ -1,35 +1,48 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Wellington\u2019s Next Comedy Stars Take The Mic",
-      "description": null,
-      "link": "https://www.scoop.co.nz/stories/CU2606/S00097/wellingtons-next-comedy-stars-take-the-mic.htm",
-      "source": "Scoop",
-      "image": null,
-      "published": "2026-06-13 07:22:00",
+      "title": "PS6 Release Date Pushed Ahead To 2028? Here's What We Know So Far",
+      "description": "The PlayStation 6, Sony's upcoming console, has been a topic of speculation, especially regarding its launch timeline. Initially anticipated for late 2027, recent news suggests that the PS6's release may be pushed back to after 2028 due to the PS5's strong sales performance and extended lifecycle.",
+      "link": "https://www.timesnownews.com/technology-science/gaming/ps6-release-date-pushed-ahead-to-2028-heres-what-we-know-so-far-article-153520677",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-153520675,width-1280,height-720,resizemode-75/153520675.jpg",
+      "published": "2026-06-13 09:12:55",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "new zealand"
+        "india"
       ]
     },
     {
-      "title": "Nikki Glaser thinks stand-up comedy is similar to sex",
-      "description": "The 42-year-old comedian - who is best known for hosting the Golden Globe awards - admits that her real-life self is distinctly different to her on-stage persona.",
-      "link": "https://home.nzcity.co.nz/news/article.aspx?id=447634",
-      "source": "Nzcity Personal",
-      "image": null,
-      "published": "2026-06-13 07:21:23",
+      "title": "This Delhi art exhibition spotlights Abdul Aziz Raiba\u2019s work on Indian modernism",
+      "description": "A.A. Raiba\u2019s artworks from the 1950s and 60s are on display at this Delhi exhibition",
+      "link": "https://www.indulgexpress.com/culture/art/2026/Jun/13/this-delhi-art-exhibition-spotlights-abdul-aziz-raibas-work-on-indian-modernism",
+      "source": "Indulgexpress",
+      "image": "https://cf-images.assettype.com/indulgexpress/2026-06-13/8sqgznld/2C4A7764.jpg",
+      "published": "2026-06-13 09:12:51",
       "category": [
-        "entertainment",
-        "top"
+        "entertainment"
       ],
       "country": [
-        "new zealand"
+        "india"
+      ]
+    },
+    {
+      "title": "Did Lisa Just Make FIFA World Cup History? BLACKPINK Star Pulls Off Major First At Opening Ceremony",
+      "description": "BLACKPINK's Lisa performed Goals, a track featured on the tournament\u2019s official album. The post Did Lisa Just Make FIFA World Cup History? BLACKPINK Star Pulls Off Major First At Opening Ceremony appeared first on The Sunday Guardian .",
+      "link": "https://sundayguardianlive.com/entertainment-news/did-lisa-just-make-fifa-world-cup-history-blackpink-star-pulls-off-major-first-at-opening-ceremony-206038/",
+      "source": "The Sunday Guardian",
+      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/06/lisa-performed-alongside-brazilian-singer-anitta-and-nigerian-rapper-rema-at-fifa-world-cup-2026-opening-ceremony.jpg",
+      "published": "2026-06-13 09:12:22",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

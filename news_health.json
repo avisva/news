@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "People aged over 66 with a health condition could top up income to \u00a318,500 a year",
+      "description": "People advised to check if you could be eligible for extra support",
+      "link": "https://www.dailypost.co.uk/news/north-wales-news/people-aged-over-66-health-34116055",
+      "source": "North Wales Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34103386.ece/ALTERNATES/s615/0_payments.jpg",
+      "published": "2026-06-13 11:01:43",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

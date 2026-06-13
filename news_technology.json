@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Slate CEO dishes new details on company\u2019s 'mid-$20s' EV pickup",
+      "description": "Slate aims to build an electric pickup priced in 'the mid-$20s' with an unprecedented level of customization.",
+      "link": "https://www.freep.com/story/money/cars/mark-phelan/2026/06/13/slate-ceo-new-details-mid-20s-electric-pickup/90492827007/",
+      "source": "Detroit Free Press",
+      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/06/11/PDTF/90501048007-img-8988.jpeg?crop=4031,2269,x0,y377&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-06-13 11:01:46",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Slate CEO dishes new details on company\u2019s 'mid-$20s' EV pickup",
+      "description": "Slate aims to build an electric pickup priced in 'the mid-$20s' with an unprecedented level of customization.",
+      "link": "https://autos.yahoo.com/ev-and-future-tech/articles/slate-ceo-dishes-details-company-110146077.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/detroit-free-press/9a9c7e85e8bdaed63fcf43aa7d97b73a",
+      "published": "2026-06-13 11:01:46",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

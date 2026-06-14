@@ -1,225 +1,321 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>News — Single File</title>
-    <meta name="description" content="Single-file News SPA using NewsAPI" />
+    <title>News — Live Headlines</title>
+    <meta name="description" content="News homepage showing the latest API and RSS headlines with category filters." />
     <style>
-      :root{--bg:#f6f7fb;--card:#fff;--accent:#0b5fff;--muted:#6b6b6b}
-      *{box-sizing:border-box}
-      body{font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;margin:0;background:var(--bg);color:#111}
-      .topbar{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.06)}
-      .topbar h1{margin:0;font-size:1.25rem}
-      .controls{display:flex;gap:8px;align-items:center}
-      input#search{padding:8px 10px;border:1px solid #ddd;border-radius:6px;min-width:180px}
-      select{padding:8px;border:1px solid #ddd;border-radius:6px}
-      select:disabled{background:#f5f5f5;color:#999;cursor:not-allowed}
-      button{background:var(--accent);color:#fff;border:none;padding:8px 12px;border-radius:6px;cursor:pointer}
-      main{max-width:980px;margin:20px auto;padding:0 16px}
-      .status{margin-bottom:12px;color:var(--muted)}
-      .articles{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
-      .card{background:var(--card);border-radius:8px;overflow:hidden;box-shadow:0 1px 4px rgba(15,15,15,.06);display:flex;flex-direction:column}
-      .thumb{height:160px;object-fit:cover;width:100%}
-      .card-body{padding:12px;flex:1;display:flex;flex-direction:column}
-      .meta{font-size:.85rem;color:var(--muted);margin-bottom:6px}
-      .title{font-weight:600;margin:0 0 8px}
-      .desc{flex:1;color:#333}
-      .source{font-size:.8rem;color:var(--muted);margin-top:8px}
-      .pagination{display:flex;gap:10px;align-items:center;justify-content:center;margin:18px 0}
-      .foot{text-align:center;padding:18px;color:var(--muted)}
-      @media (max-width:480px){.controls{flex-direction:column;align-items:stretch}input#search{width:100%} select{width:100%}}
-      .notice{background:#fff3cd;border:1px solid #ffeeba;color:#856404;padding:10px;border-radius:6px;margin-bottom:12px;overflow:hidden;position:relative}
-      .notice-text{display:inline-block;white-space:nowrap;animation:marquee 30s linear infinite}
-      @keyframes marquee{0%{transform:translateX(100%)}100%{transform:translateX(-100%)}}
+      :root {
+        color-scheme: light;
+        font-family: Inter,Segoe UI,Roboto,Arial,sans-serif;
+        font-size: 15px;
+        line-height: 1.6;
+        background: #f2f5fb;
+        color: #101828;
+        --surface: #ffffff;
+        --surface-soft: #f8fbff;
+        --border: #e2e8f0;
+        --text-muted: #687182;
+        --accent: #1d4ed8;
+        --accent-soft: rgba(29,78,216,.08);
+        --shadow: 0 24px 80px rgba(15,23,42,.06);
+      }
+
+      * { box-sizing: border-box; }
+      body { margin: 0; min-height: 100vh; background: linear-gradient(180deg, #eef4ff 0%, #f7fbff 45%, #f2f5fb 100%); }
+      html { scroll-behavior: smooth; }
+      a { color: inherit; text-decoration: none; }
+      button, select, input { font: inherit; }
+
+      .page-shell { width: min(1200px, calc(100% - 32px)); margin: 0 auto; padding: 10px 0 32px; }
+      .brand-bar { position: sticky; top: 0; z-index: 300; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 14px; align-items: center; margin: 0 -16px 24px; padding: 12px 16px; background: rgba(255,255,255,.95); border: 1px solid rgba(79,70,229,.12); border-radius: 20px; box-shadow: 0 18px 40px rgba(79,70,229,.06); }
+      .brand-site { display: flex; flex-direction: column; gap: 4px; min-width: 180px; }
+      .brand-title { margin: 0; font-size: clamp(1.35rem, 2.1vw, 1.95rem); letter-spacing: -.03em; color: #4f46e5; }
+
+      .top-controls { display: flex; flex-wrap: nowrap; align-items: center; gap: 8px; width: min(100%, 880px); justify-content: flex-end; overflow-x: auto; }
+      .top-controls::-webkit-scrollbar { height: 6px; }
+      .top-controls::-webkit-scrollbar-thumb { background: rgba(79,70,229,.2); border-radius: 999px; }
+      select, input[type="search"] { border: 1px solid rgba(79,70,229,.18); background: rgba(255,255,255,.98); border-radius: 999px; padding: 10px 12px; color: #0f172a; min-width: 120px; }
+      select { min-width: 110px; }
+      input[type="search"] { flex: 1 1 220px; min-width: 150px; max-width: 280px; }
+      button.primary { background: #4f46e5; color: #fff; border: none; padding: 10px 16px; border-radius: 999px; cursor: pointer; font-weight: 600; box-shadow: 0 10px 26px rgba(79,70,229,.22); transition: transform .15s ease, box-shadow .15s ease; }
+      button.primary:hover { transform: translateY(-1px); box-shadow: 0 14px 28px rgba(79,70,229,.28); }
+      .chip { display: inline-flex; align-items: center; gap: 8px; background: var(--surface-soft); border: 1px solid var(--border); border-radius: 999px; padding: 10px 14px; color: var(--text-muted); }
+      .chip span { font-weight: 600; color: #0f172a; }
+
+      .hero { display: grid; gap: 14px; margin-bottom: 18px; }
+      .top-marquee { overflow: hidden; border-radius: 16px; background: rgba(79,70,229,.08); border: 1px solid rgba(79,70,229,.17); padding: 10px 14px; color: #1e293b; font-size: .92rem; line-height: 1.4; font-weight: 600; box-shadow: inset 0 0 0 1px rgba(79,70,229,.06); }
+      .top-marquee span { display: inline-block; padding-left: 90%; animation: marquee 18s linear infinite; white-space: nowrap; }
+      @keyframes marquee { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+
+      .content-grid { display: grid; grid-template-columns: 2.2fr 1fr; gap: 24px; }
+      .section-card { background: var(--surface); border: 1px solid var(--border); border-radius: 24px; box-shadow: var(--shadow); overflow: hidden; }
+      .section-head { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 24px; border-bottom: 1px solid #e2e8f0; }
+      .section-title { margin: 0; font-size: 1.2rem; letter-spacing: -.02em; }
+      .section-subtitle { color: var(--text-muted); font-size: .95rem; }
+      .section-body { padding: 20px 24px 24px; display: grid; gap: 18px; }
+
+      .headline-grid { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+      .story-card { display: grid; grid-template-rows: auto 1fr; background: #fff; border: 1px solid #f0f4ff; border-radius: 20px; overflow: hidden; transition: transform .18s ease, box-shadow .18s ease; }
+      .story-card:hover { transform: translateY(-3px); box-shadow: 0 16px 40px rgba(15,23,42,.12); }
+      .story-image { width: 100%; min-height: 180px; object-fit: cover; display: block; background: linear-gradient(180deg, #dbeafe 0%, #eff6ff 100%); }
+      .story-meta { padding: 18px 20px; display: grid; gap: 12px; }
+      .story-kicker { display: inline-flex; align-items: center; gap: 8px; background: var(--accent-soft); color: var(--accent); font-size: .82rem; letter-spacing:.02em; border-radius: 999px; padding: 6px 10px; width: fit-content; }
+      .story-headline { margin: 0; font-size: 1.05rem; line-height: 1.45; }
+      .story-headline a { color: #111827; }
+      .story-snippet { margin: 0; color: #334155; min-height: 3.2rem; }
+      .story-footer { display: flex; justify-content: space-between; align-items: center; gap: 12px; font-size: .9rem; color: var(--text-muted); }
+      .story-footer .source-name { font-weight: 600; color: #0f172a; }
+      .story-footer time { font-style: normal; }
+
+      .rss-list { display: grid; gap: 12px; }
+      .rss-card { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: start; gap: 14px; background: #f8fbff; border: 1px solid #dbeafe; border-radius: 18px; padding: 16px 18px; min-width: 0; }
+      .rss-card strong { display: block; font-size: .95rem; line-height: 1.45; word-break: break-word; overflow-wrap: anywhere; white-space: normal; }
+      .rss-card strong a { display: inline; white-space: normal; word-break: break-word; overflow-wrap: anywhere; }
+      .rss-card p { margin: 8px 0 0; color: #475569; font-size: .88rem; line-height: 1.45; white-space: normal; word-break: break-word; overflow-wrap: anywhere; }
+      .rss-card a.rss-open { color: var(--accent); font-weight: 700; white-space: nowrap; }
+      .rss-badge { display: inline-flex; align-items: center; gap: 6px; background: #e0f2fe; color: #0369a1; border-radius: 999px; padding: 6px 10px; font-size: .8rem; }
+
+      .footer { margin-top: 30px; padding: 20px 0 10px; color: #475569; text-align: center; font-size: .95rem; }
+      .footer a { color: #2563eb; }
+
+      @media (max-width: 960px) {
+        .content-grid { grid-template-columns: 1fr; }
+      }
+
+      @media (max-width: 860px) {
+        .top-controls { justify-content: flex-start; gap: 10px; }
+        input[type="search"] { flex: 1 1 100%; min-width: 0; }
+      }
+
+      @media (max-width: 720px) {
+        .brand-bar { flex-direction: column; align-items: flex-start; }
+        .top-controls { width: 100%; flex-direction: column; align-items: stretch; gap: 10px; }
+        select, input[type="search"], button.primary { width: 100%; min-width: 0; }
+        .brand-bar { padding-left: 14px; padding-right: 14px; margin: 0 -14px 22px; }
+      }
     </style>
   </head>
   <body>
-    <header class="topbar">
-      <h1>News</h1>
-      <div class="controls">
-        <select id="region">
-          <option value="global">Global</option>
-          <option value="national">National</option>
-        </select>
-        
-        <input id="search" placeholder="Search news..." />
-        <select id="category">
-          <option value="">All categories</option>
-          <option value="business">Business</option>
-          <option value="entertainment">Entertainment</option>
-          <option value="general">General</option>
-          <option value="health">Health</option>
-          <option value="science">Science</option>
-          <option value="sports">Sports</option>
-          <option value="technology">Technology</option>
-          <option value="politics">Politics</option>
-          <option value="automobile">Automobile</option>
-          <option value="top">Top</option>
-        </select>
-        <button id="searchBtn">Go</button>
-      </div>
-    </header>
+    <div class="page-shell">
+      <header class="brand-bar">
+        <div class="brand-site">
+          <h1 class="brand-title">News</h1>
+        </div>
 
-    <main>
-      <div class="notice"><span class="notice-text">Top trending news from global and national headlines, technology, automobile, politics, geopolitics, health, business, sports and more — always fresh and easy to browse.</span></div>
-      <div id="status" class="status"></div>
-      <div id="articles" class="articles"></div>
-      <div class="pagination">
-        <button id="prev">Previous</button>
-        <span id="pageInfo"></span>
-        <button id="next">Next</button>
-      </div>
-    </main>
+        <div class="top-controls">
+          <select id="region" aria-label="Select news region">
+            <option value="global">Global</option>
+            <option value="national">National</option>
+          </select>
 
-    <footer style="text-align:center; font-size:12px; color:#666; margin-top:20px;">
-      © 2026 news.enviz.in | powered by <a href="https://enviz.in" target="_blank">enviz.in</a> | source   
-      <a href="https://newsdata.io" target="_blank">newsdata.io</a> | news refreshed every hour 
-    </footer>
+          <input id="search" type="search" placeholder="Search headlines..." aria-label="Search headlines" />
+
+          <select id="category" aria-label="Select category">
+            <option value="">All categories</option>
+            <option value="top">Top</option>
+            <option value="business">Business</option>
+            <option value="entertainment">Entertainment</option>
+            <option value="general">General</option>
+            <option value="health">Health</option>
+            <option value="science">Science</option>
+            <option value="sports">Sports</option>
+            <option value="technology">Technology</option>
+            <option value="politics">Politics</option>
+            <option value="automobile">Automobile</option>
+            <option value="world">World</option>
+          </select>
+
+          <button id="searchBtn" class="primary" type="button">Go</button>
+        </div>
+      </header>
+
+      <div class="hero">
+        <div class="top-marquee" aria-live="polite">
+          <span>Top trending news from global and national headlines, technology, automobile, politics, geopolitics, health, business, sports and more — always latest and easy to browse</span>
+        </div>
+      </div>
+
+      <div class="content-grid">
+        <section class="section-card" aria-labelledby="api-headline-title">
+          <div class="section-head">
+            <div>
+              <h2 id="api-headline-title" class="section-title">Top Stories</h2>
+              <p class="section-subtitle">Breaking news and in-depth reports refreshed from the latest feed.</p>
+            </div>
+            <div class="chip">Articles: <span id="apiCount">0</span></div>
+          </div>
+          <div class="section-body">
+            <div id="apiArticles" class="headline-grid"></div>
+          </div>
+        </section>
+
+        <aside class="section-card" aria-labelledby="rss-headline-title">
+          <div class="section-head">
+            <div>
+              <h2 id="rss-headline-title" class="section-title">RSS Briefs</h2>
+            </div>
+            <div class="rss-badge">Open to read</div>
+          </div>
+          <div class="section-body">
+            <div id="rssArticles" class="rss-list"></div>
+          </div>
+        </aside>
+      </div>
+
+      <footer class="footer">© 2026 <a href="https://news.enviz.in" target="_blank" rel="noopener noreferrer">news.enviz.in</a> | powered by <a href="https://enviz.in" target="_blank" rel="noopener noreferrer">enviz.in</a> | source <a href="https://newsdata.io" target="_blank" rel="noopener noreferrer">newsdata.io</a> &amp; <a href="https://www.google.com/search?q=google+rss" target="_blank" rel="noopener noreferrer">Google RSS</a> | news refreshed every hour</footer>
+    </div>
 
     <script>
-      const statusEl = document.getElementById('status');
-      const articlesEl = document.getElementById('articles');
+      const apiArticlesEl = document.getElementById('apiArticles');
+      const rssArticlesEl = document.getElementById('rssArticles');
       const searchEl = document.getElementById('search');
       const categoryEl = document.getElementById('category');
       const regionEl = document.getElementById('region');
       const searchBtn = document.getElementById('searchBtn');
-      const prevBtn = document.getElementById('prev');
-      const nextBtn = document.getElementById('next');
-      const pageInfo = document.getElementById('pageInfo');
+      const apiCountEl = document.getElementById('apiCount');
 
-      let page = 1;
-      const pageSize = 9;
-      let totalResults = 0;
-      let cachedItems = [];
+      const sourceFiles = {
+        api: { global: 'news_all.json', national: 'news_national.json' },
+        rss: { global: 'g_rss_news_all.json', national: 'g_rss_news_national.json' }
+      };
+
+      let apiItems = [];
+      let rssItems = [];
       const isLocalFile = location.protocol === 'file:';
 
-      // Filter articles by search and category
-      function filterArticles(items, searchTerm, category) {
+      function normalizeApiItem(item) {
+        return {
+          sourceType: 'api',
+          title: item.title || 'Untitled headline',
+          url: item.link || item.url || '#',
+          publishedAt: item.pubDate || item.published || item.published_date || '',
+          description: item.description || item.content || '',
+          image: item.image_url || item.image || '',
+          sourceName: item.source_name || item.source || (item.source && item.source.name) || 'NewsData',
+          categories: Array.isArray(item.category) ? item.category : item.category ? [item.category] : []
+        };
+      }
+
+      function normalizeRssItem(item) {
+        return {
+          sourceType: 'rss',
+          title: item.title || 'Untitled headline',
+          url: item.link || item.url || '#',
+          publishedAt: item.published || item.pubDate || '',
+          description: item.summary || item.description || '',
+          image: '',
+          sourceName: item.source || (item.source && item.source.title) || 'Google RSS',
+          categories: Array.isArray(item.category) ? item.category : item.category ? [item.category] : []
+        };
+      }
+
+      function formatDate(value) {
+        if (!value) return '';
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return value;
+        return date.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+      }
+
+      function buildFilterList(items, searchTerm, category) {
         return items.filter(item => {
-          const matchesSearch = !searchTerm || 
-            item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            item.description.toLowerCase().includes(searchTerm.toLowerCase());
-          
-          const matchesCategory = !category || 
-            (item.category && (
-              (Array.isArray(item.category) && item.category.includes(category)) ||
-              item.category === category
-            ));
-          
+          const text = `${item.title} ${item.description} ${item.sourceName}`.toLowerCase();
+          const matchesSearch = !searchTerm || text.includes(searchTerm.toLowerCase());
+          const matchesCategory = !category || item.categories.some(cat => cat.toLowerCase() === category.toLowerCase());
           return matchesSearch && matchesCategory;
         });
       }
 
-      async function fetchNews() {
+      function renderApiStories(items) {
+        apiArticlesEl.innerHTML = items.length ? items.map(item => {
+          const image = item.image || 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80';
+          const category = item.categories[0] || 'Top Story';
+          return `
+            <article class="story-card">
+              <img class="story-image" src="${image}" alt="${item.title}" loading="lazy" />
+              <div class="story-meta">
+                <span class="story-kicker">${category}</span>
+                <h3 class="story-headline"><a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+                <p class="story-snippet">${item.description || 'Read the full story from the original source.'}</p>
+                <div class="story-footer">
+                  <span class="source-name">${item.sourceName}</span>
+                  <time datetime="${item.publishedAt}">${formatDate(item.publishedAt)}</time>
+                </div>
+              </div>
+            </article>
+          `;
+        }).join('') : '<p>No API headlines match this search.</p>';
+      }
+
+      function renderRssStories(items) {
+        rssArticlesEl.innerHTML = items.length ? items.map(item => {
+          return `
+            <article class="rss-card">
+              <div>
+                <strong><a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></strong>
+                <p>${item.sourceName} · ${formatDate(item.publishedAt)}</p>
+              </div>
+              <a class="rss-open" href="${item.url}" target="_blank" rel="noopener noreferrer">Open</a>
+            </article>
+          `;
+        }).join('') : '<p>No RSS briefs match this filter.</p>';
+      }
+
+      async function fetchJson(path) {
+        const response = await fetch(path, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`Unable to load ${path} (${response.status})`);
+        return response.json();
+      }
+
+      async function loadNews() {
         if (isLocalFile) {
-          throw new Error('Page is loaded using file:// protocol. Start a local server and open via http://localhost:8000/.');
-        }
-
-        const q = searchEl.value.trim();
-        const category = categoryEl.value;
-        const region = regionEl.value;
-        const fileName = region === 'national' ? 'news_national.json' : 'news_all.json';
-        statusEl.textContent = `Loading ${region === 'national' ? 'national' : 'global'} news…`;
-        articlesEl.innerHTML = '';
-        try {
-          // Load region-specific JSON
-          let res = await fetch(fileName);
-          if (!res.ok) {
-            res = await fetch('news_all.json');
-            if (!res.ok) {
-              throw new Error(`Failed to load ${fileName} and fallback news_all.json: ${res.status}`);
-            }
-          }
-          const data = await res.json();
-          const items = data.results || [];
-          
-          const mapped = items.map(it => {
-            return {
-              title: it.title || '', 
-              url: it.link || '',
-              publishedAt: it.pubDate || it.published_date || it.published || '',
-              description: it.description || it.content || '',
-              urlToImage: it.image_url || it.image || '',
-              source: { name: it.source_id || it.source_name || it.source || '' },
-              category: Array.isArray(it.category) ? it.category : (it.category ? [it.category] : [])
-            };
-          });
-
-          // Apply filters
-          let searchTerm = q;
-          const filtered = filterArticles(mapped, searchTerm, category);
-          cachedItems = filtered;
-          totalResults = filtered.length;
-          page = 1; // Reset to page 1 after filtering
-          renderPage();
-          statusEl.textContent = '';
-        } catch (err) {
-          console.error('Error loading news:', err);
-          statusEl.textContent = 'Error: ' + (err.message || err) + '. Check console for details.';
-        }
-      }
-
-      function renderPage() {
-        const start = (page - 1) * pageSize;
-        const pageItems = cachedItems.slice(start, start + pageSize);
-        pageInfo.textContent = `Page ${page} — ${totalResults} results`;
-        renderArticles(pageItems);
-      }
-
-      function renderArticles(list) {
-        if (!list.length) {
-          articlesEl.innerHTML = '<p>No articles found.</p>';
           return;
         }
-        articlesEl.innerHTML = '';
-        for (const a of list) {
-          const card = document.createElement('article');
-          card.className = 'card';
-          const img = document.createElement('img');
-          img.className = 'thumb';
-          img.src = a.urlToImage || './news-img.jpg';
-          img.alt = a.title || 'Top News';
-          const body = document.createElement('div');
-          body.className = 'card-body';
-          const meta = document.createElement('div');
-          meta.className = 'meta';
-          meta.textContent = a.publishedAt ? new Date(a.publishedAt).toLocaleString() : '';
-          const title = document.createElement('h3');
-          title.className = 'title';
-          const link = document.createElement('a');
-          link.href = a.url;
-          link.target = '_blank';
-          link.rel = 'noopener noreferrer';
-          link.textContent = a.title || 'Untitled';
-          title.appendChild(link);
-          const desc = document.createElement('p');
-          desc.className = 'desc';
-          desc.textContent = a.description || '';
-          const src = document.createElement('div');
-          src.className = 'source';
-          src.textContent = a.source && a.source.name ? a.source.name : '';
-          body.appendChild(meta);
-          body.appendChild(title);
-          body.appendChild(desc);
-          body.appendChild(src);
-          card.appendChild(img);
-          card.appendChild(body);
-          articlesEl.appendChild(card);
+
+        const selectedRegion = regionEl.value === 'all' ? 'global' : regionEl.value;
+        const apiPath = sourceFiles.api[selectedRegion];
+        const rssPath = sourceFiles.rss[selectedRegion];
+
+        try {
+          const [apiData, rssData] = await Promise.all([
+            fetchJson(apiPath).catch(() => ({ results: [] })),
+            fetchJson(rssPath).catch(() => ({ results: [] }))
+          ]);
+
+          apiItems = (apiData.results || []).map(normalizeApiItem);
+          rssItems = (rssData.results || []).map(normalizeRssItem);
+
+          applyFilters();
+        } catch (error) {
+          console.error(error);
         }
       }
 
-      searchBtn.addEventListener('click', () => { page = 1; fetchNews(); });
-      searchEl.addEventListener('keydown', (e) => { if (e.key === 'Enter') { page = 1; fetchNews(); } });
-      prevBtn.addEventListener('click', () => { if (page > 1) { page--; renderPage(); }});
-      nextBtn.addEventListener('click', () => { if (page * pageSize < totalResults) { page++; renderPage(); }});
+      function applyFilters() {
+        const searchTerm = searchEl.value.trim();
+        const category = categoryEl.value;
 
-      // Initial load
-      if (isLocalFile) {
-        statusEl.textContent = 'Error: file:// pages are blocked from fetching local JSON. Start a local server and open via http://localhost:8000/.';
-      } else {
-        fetchNews();
+        const filteredApi = buildFilterList(apiItems, searchTerm, category);
+        const filteredRss = buildFilterList(rssItems, searchTerm, category);
+
+        apiCountEl.textContent = filteredApi.length;
+
+        renderApiStories(filteredApi);
+        renderRssStories(filteredRss);
       }
+
+      searchBtn.addEventListener('click', loadNews);
+      [searchEl, categoryEl, regionEl].forEach(el => el.addEventListener('change', () => {
+        if (el === regionEl) {
+          loadNews();
+        } else {
+          applyFilters();
+        }
+      }));
+      searchEl.addEventListener('keydown', event => { if (event.key === 'Enter') applyFilters(); });
+
+      loadNews();
     </script>
   </body>
 </html>

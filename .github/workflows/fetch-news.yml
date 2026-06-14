@@ -45,24 +45,47 @@ jobs:
                   all_results.extend(page_data.get('results', []))
                   next_page = page_data.get('nextPage')
 
-          # Deduplicate by article_id
-          seen, unique_results = set(), []
+          # Deduplicate by article_id, link, or title to avoid the same story appearing from multiple sources
+          seen_ids = set()
+          seen_links = set()
+          seen_titles = set()
+          unique_results = []
+
+          def normalize_text(value):
+              return (value or '').strip().lower()
+
           for item in all_results:
               aid = item.get('article_id')
-              if aid and aid not in seen:
-                  seen.add(aid)
-                  # Clean fields
-                  cleaned = {
-                      'title': item.get('title'),
-                      'description': item.get('description'),
-                      'link': item.get('link'),
-                      'source': item.get('source_name'),
-                      'image': item.get('image_url'),
-                      'published': item.get('pubDate'),
-                      'category': item.get('category'),
-                      'country': item.get('country')
-                  }
-                  unique_results.append(cleaned)
+              title = normalize_text(item.get('title'))
+              link = (item.get('link') or '').strip()
+              link_key = link.lower() if link else ''
+
+              if aid and aid in seen_ids:
+                  continue
+              if link_key and link_key in seen_links:
+                  continue
+              if title and title in seen_titles:
+                  continue
+
+              if aid:
+                  seen_ids.add(aid)
+              if link_key:
+                  seen_links.add(link_key)
+              if title:
+                  seen_titles.add(title)
+
+              # Clean fields
+              cleaned = {
+                  'title': item.get('title'),
+                  'description': item.get('description'),
+                  'link': item.get('link'),
+                  'source': item.get('source_name'),
+                  'image': item.get('image_url'),
+                  'published': item.get('pubDate'),
+                  'category': item.get('category'),
+                  'country': item.get('country')
+              }
+              unique_results.append(cleaned)
 
           # Keep only latest 30
           unique_results = unique_results[:30]

@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Trump tried to block state AI regulations, but some states are forging ahead",
+      "description": "States are scrutinizing how chatbots interact with children, how employers use AI and what developers must do to prevent an AI-caused catastrophe.",
+      "link": "https://www.adn.com/nation-world/2026/06/14/trump-tried-to-block-state-ai-regulations-but-some-states-are-forging-ahead/",
+      "source": "Adn",
+      "image": "https://www.adn.com/resizer/1ueyzBNSIOLwXBAnm4sk6JnZmvk=/cloudfront-us-east-1.images.arcpublishing.com/adn/7LFIFNGU635KCBCA27MJJ7HPDE.jpg",
+      "published": "2026-06-14 22:52:13",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Consulting Giants Stumble on AI: KPMG and Peers Issue Reports Riddled With Fabrications",
+      "description": "Major consulting firms including KPMG, EY and Deloitte have issued reports containing AI hallucinations ranging from fabricated case studies to nonexistent citations. KPMG's October 2025 agentic AI report claimed successes at UBS, Swiss railways and others that proved false. The incidents raise fresh doubts about the industry's ability to manage the technology it sells.",
+      "link": "https://www.webpronews.com/consulting-giants-stumble-on-ai-kpmg-and-peers-issue-reports-riddled-with-fabrications/",
+      "source": "Webpronews",
+      "image": "https://www.webpronews.com/wp-content/uploads/2026/06/article-19062-1781474807.jpeg",
+      "published": "2026-06-14 22:52:05",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

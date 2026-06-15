@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Trump tried to block state AI regulations, but some states are forging ahead",
-      "description": "States are scrutinizing how chatbots interact with children, how employers use AI and what developers must do to prevent an AI-caused catastrophe.",
-      "link": "https://www.adn.com/nation-world/2026/06/14/trump-tried-to-block-state-ai-regulations-but-some-states-are-forging-ahead/",
-      "source": "Adn",
-      "image": "https://www.adn.com/resizer/1ueyzBNSIOLwXBAnm4sk6JnZmvk=/cloudfront-us-east-1.images.arcpublishing.com/adn/7LFIFNGU635KCBCA27MJJ7HPDE.jpg",
-      "published": "2026-06-14 22:52:13",
+      "title": "How Long Do Owners Say iPhones Usually Last? - bgr.com",
+      "description": "How Long Do Owners Say iPhones Usually Last? bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12alViTG5lNTFqUHpyU1otc3o2QlZrLTlCQ09sV1NtUVlyLTRHU0xCN3RlNmRtbGprS0ZkSU1kS254Nk5fX05QcU5xVGtyZGVaRmFLWGNSaUdSNXJWR1FDcWdZTjJhTHVhYmM4?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-15 04:17:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "SAP Integration Suite Instance for Test - Error P007",
+      "description": "Dear SAP, We have already activated the \"Manage Capabilities \u2013 Data Space Integration\" capability. However, we received the following error message: Error P007: Activation of the Data Space Integration capability has failed. To resolve this issue, please refer to SAP Note 2904202. SAP Integration Su...",
+      "link": "https://community.sap.com/t5/technology-q-a/sap-integration-suite-instance-for-test-error-p007/qaq-p/14418587",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-06-15 04:16:56",
       "category": [
         "technology",
         "top"
@@ -18,18 +32,18 @@
       ]
     },
     {
-      "title": "Consulting Giants Stumble on AI: KPMG and Peers Issue Reports Riddled With Fabrications",
-      "description": "Major consulting firms including KPMG, EY and Deloitte have issued reports containing AI hallucinations ranging from fabricated case studies to nonexistent citations. KPMG's October 2025 agentic AI report claimed successes at UBS, Swiss railways and others that proved false. The incidents raise fresh doubts about the industry's ability to manage the technology it sells.",
-      "link": "https://www.webpronews.com/consulting-giants-stumble-on-ai-kpmg-and-peers-issue-reports-riddled-with-fabrications/",
-      "source": "Webpronews",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/06/article-19062-1781474807.jpeg",
-      "published": "2026-06-14 22:52:05",
+      "title": "Airport \u2013 Canggu Water Taxi Service Under Review by Jakarta",
+      "description": "Detailed Engineering Designs Being Finalized for Bali Airport - Canggu Water Taxi Service. The post Airport \u2013 Canggu Water Taxi Service Under Review by Jakarta first appeared on Bali Discovery .",
+      "link": "https://balidiscovery.com/airport-canggu-water-taxi-service-under-review-by-jakarta/",
+      "source": "Bali Discovery | News On Bali Tourism & Life Since",
+      "image": "https://balidiscovery.com/wp-content/uploads/2026/06/watertaxi2.jpg",
+      "published": "2026-06-15 04:16:49",
       "category": [
-        "top",
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "indonesia"
       ]
     }
   ]

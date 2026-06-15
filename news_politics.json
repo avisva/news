@@ -1,21 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "JDU Nagaland Youth flays Konsakhul killings",
-      "description": "DIMAPUR: Janata Dal (United) Nagaland State Youth Wing has condemned the recent killing of six innocent Nagas in Manipur, terming the incident a \u201ctragic and senseless act\u201d and a grave violation of humanity and peace.In a statement, JDU Nagaland Youth president Mhao Yanthan said there could be \u201cabsolutely no justification for violence against innocent individuals,\u201d [...] The post JDU Nagaland Youth flays Konsakhul killings first appeared on Nagaland Post .",
-      "link": "https://nagalandpost.com/jdu-nagaland-youth-flays-konsakhul-killings/",
-      "source": "Nagaland Post - Get The Latest Nagaland News, Brea",
-      "image": null,
-      "published": "2026-06-15 04:16:48",
+      "title": "Iran may continue low-level uranium enrichment, Trump says",
+      "description": null,
+      "link": "http://www.today.az/news/regions/268396.html",
+      "source": "Today.az",
+      "image": "http://www.today.az/pictures/pic268396.jpg",
+      "published": "2026-06-15 08:24:00",
       "category": [
-        "crime",
         "politics",
         "top"
       ],
       "country": [
-        "india"
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Britain to ban under 16s from social media",
+      "description": "A representation image of a teenager using phone. \u2014 Reuters/File British Prime Minister Keir Starmer said he would ban social media sites for the under-16s and impose restrictions on gaming and livestreaming platforms, in some of the most far-reaching online restrictions to date...",
+      "link": "https://www.geo.tv/latest/668793-britain-to-ban-under-16s-from-social-media",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/2026-06-15/668793_124233_updates.jpg",
+      "published": "2026-06-15 08:24:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Peak oil demand arrives sooner than expected",
+      "description": "Amid the disruptions caused by the US-Israeli-Iran war, countries have begun adapting to life with less oil.",
+      "link": "https://www.japantimes.co.jp/commentary/2026/06/15/world/peak-oil-demand-arrives/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/14/545746.JPG",
+      "published": "2026-06-15 08:24:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "WASHINGTON POST: Trump sought to break Iran\u2019s regime. He settled for reopening Hormuz.",
+      "description": "The agreement ends a costly war but leaves Iran\u2019s leadership intact and its nuclear future still subject to negotiation",
+      "link": "https://thenightly.com.au/politics/world/washington-post-trump-sought-to-break-irans-regime-he-settled-for-reopening-hormuz-c-22434797",
+      "source": "The Nightly",
+      "image": "https://images.thenightly.com.au/publication/C-22434797/d1bdddb813dc4f3b893b0380fcf2cd924494445e-16x9-x0y72w3213h1807.webp",
+      "published": "2026-06-15 08:23:55",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

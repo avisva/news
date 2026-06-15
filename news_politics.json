@@ -1,65 +1,82 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Iran may continue low-level uranium enrichment, Trump says",
-      "description": null,
-      "link": "http://www.today.az/news/regions/268396.html",
-      "source": "Today.az",
-      "image": "http://www.today.az/pictures/pic268396.jpg",
-      "published": "2026-06-15 08:24:00",
+      "title": "20 TMC MPs Break Away in Lok Sabha, Merge with Regional Party",
+      "description": "Shafaqna India:Splitting from the parent party on Sunday, 20 rebel All India Trinamool Congress members met Lok Sabha Speaker Om Birla to demand recognition as a separate bloc and announced a merger with a Bengal-based regional outfit, the Nationalist Citizens Party. The faction said it would back Prime Minister Narendra Modi-led NDA in the House. [...]",
+      "link": "https://india.shafaqna.com/EN/20-tmc-mps-break-away-in-lok-sabha-merge-with-regional-party/",
+      "source": "India News (news Reader)",
+      "image": "https://india.shafaqna.com/wp-content/uploads/2026/06/20.jpg",
+      "published": "2026-06-15 11:01:00",
       "category": [
         "politics",
         "top"
+      ],
+      "country": [
+        "iran",
+        "bahrain",
+        "lebanon",
+        "iraq"
+      ]
+    },
+    {
+      "title": "Special Representative of the President: Over 80,000 people live and work in Azerbaijan\u2019s liberated territories",
+      "description": null,
+      "link": "https://azertag.az/en/xeber/special_representative_of_the_president_over_80000_people_live_and_work_in_azerbaijans_liberated_territories-4262095",
+      "source": "Azertac - Azerbaijan State News Agency",
+      "image": "https://azertag.az/files/2026/2/1200x630/17815213155637650712_1200x630.jpg",
+      "published": "2026-06-15 11:01:00",
+      "category": [
+        "politics"
       ],
       "country": [
         "azerbaijan"
       ]
     },
     {
-      "title": "Britain to ban under 16s from social media",
-      "description": "A representation image of a teenager using phone. \u2014 Reuters/File British Prime Minister Keir Starmer said he would ban social media sites for the under-16s and impose restrictions on gaming and livestreaming platforms, in some of the most far-reaching online restrictions to date...",
-      "link": "https://www.geo.tv/latest/668793-britain-to-ban-under-16s-from-social-media",
-      "source": "Geo Tv",
-      "image": "https://www.geo.tv/assets/uploads/2026-06-15/668793_124233_updates.jpg",
-      "published": "2026-06-15 08:24:00",
+      "title": "Ebola is back, so are the double standards",
+      "description": "Is history repeating itself \u2013 just four years after the COVID-19 pandemic \u2013 with the US demanding an Ebola quarantine camp for Americans in Kenya and Western countries, once again, rolling out travel bans for African countries? Ebola, while lethal, is not an immediate risk to South Africans, although there are nearly daily flights between [...] The post Ebola is back, so are the double standards appeared first on Sunday World .",
+      "link": "https://sundayworld.co.za/bhekisisa/ebola-is-back-so-are-the-double-standards/",
+      "source": "Sunday World",
+      "image": "https://i0.wp.com/sundayworld-prod-s3-bucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2026/06/15115855/Ebola-e1781517557773.png?fit=650%2C364&ssl=1",
+      "published": "2026-06-15 11:00:59",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "pakistan"
+        "south africa"
       ]
     },
     {
-      "title": "Peak oil demand arrives sooner than expected",
-      "description": "Amid the disruptions caused by the US-Israeli-Iran war, countries have begun adapting to life with less oil.",
-      "link": "https://www.japantimes.co.jp/commentary/2026/06/15/world/peak-oil-demand-arrives/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/14/545746.JPG",
-      "published": "2026-06-15 08:24:00",
+      "title": "Protesters in New York face new restrictions under Gov. Hochul",
+      "description": "A recent demonstration over climate policy at the Capitol. Activists say they faced tougher treatment for demonstrations at the Capitol during the recent legislative session. [ more \u203a ]",
+      "link": "https://gothamist.com/news/protesters-in-new-york-face-new-restrictions-under-gov-hochul",
+      "source": "Gothamist",
+      "image": null,
+      "published": "2026-06-15 11:00:59",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "japan"
+        "united states of america"
       ]
     },
     {
-      "title": "WASHINGTON POST: Trump sought to break Iran\u2019s regime. He settled for reopening Hormuz.",
-      "description": "The agreement ends a costly war but leaves Iran\u2019s leadership intact and its nuclear future still subject to negotiation",
-      "link": "https://thenightly.com.au/politics/world/washington-post-trump-sought-to-break-irans-regime-he-settled-for-reopening-hormuz-c-22434797",
-      "source": "The Nightly",
-      "image": "https://images.thenightly.com.au/publication/C-22434797/d1bdddb813dc4f3b893b0380fcf2cd924494445e-16x9-x0y72w3213h1807.webp",
-      "published": "2026-06-15 08:23:55",
+      "title": "JD Vance's wife Usha details how Charlie Kirk's death influenced decision to have fourth child",
+      "description": "Second lady Usha Vance commented how Charlie Kirk's assassination influenced her and JD Vance's decision to have a fourth child on \"CBS News Sunday Morning.\"",
+      "link": "https://www.foxnews.com/media/jd-vances-wife-usha-details-how-charlie-kirks-death-influenced-decision-have-fourth-child",
+      "source": "Fox News",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/cdeea02c-charlie-kirk-jd-vance.jpg?ve=1&tl=1",
+      "published": "2026-06-15 11:00:57",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     }
   ]

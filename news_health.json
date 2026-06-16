@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Research Shows Costs of Building at the Edges",
-      "description": "America's long-running habit of building ever outward could be setting up cities for higher taxes and shakier budgets, Vox reports. In a new piece for the site's Future Perfect section, Marina Bolotnikova looks at research from the Pew Charitable Trusts, the World Resources Institute, and ECOnorthwest that models how much...",
-      "link": "https://www.newser.com/story/390895/research-shows-costs-of-building-at-the-edges.html",
-      "source": "Newser",
-      "image": "http://img1-azrcdn.newser.com/image/1692200-0-20260615163947.jpeg?width=45&height=45&crop=Y",
-      "published": "2026-06-15 21:25:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

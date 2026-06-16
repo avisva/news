@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Red Hat gives Ubuntu a bootc up the backside at Canonical shindig",
+      "description": "Bootable containers pitch shows how distro can be managed with familiar OCI tooling",
+      "link": "https://www.theregister.com/software/2026/06/15/red-hat-gives-ubuntu-a-bootc-up-the-backside-at-canonical-shindig/5255608",
+      "source": "The Register",
+      "image": null,
+      "published": "2026-06-15 15:54:00",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

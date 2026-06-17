@@ -1,35 +1,51 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "EQS-News: Quantum Art Validates a Scalable Path to Fault-Tolerant Quantum Computing Using Multi-Qubit Gates",
-      "description": "EQS-News: Quantum Art / Key word(s): Science Quantum Art Validates a Scalable Path to Fault-Tolerant Quantum Computing Using Multi-Qubit Gates 16.06.2026 / 12:05 CET/CEST The issuer is solely resp...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-06/68778471-eqs-news-quantum-art-validates-a-scalable-path-to-fault-tolerant-quantum-computing-using-multi-qubit-gates-023.htm",
-      "source": "Finanznachrichten.de",
-      "image": null,
-      "published": "2026-06-16 10:09:00",
+      "title": "Machine operator for a day: Highlights from Bobcat Demo Days 2026",
+      "description": "On 26 May 2026, LECTURA attended Bobcat Demo Days at the Dobr\u030ci\u0301s\u030c Campus, located near Prague in Czechia.",
+      "link": "https://lectura.press/en/article/machine-operator-for-a-day-highlights-from-bobcat-demo-days-2026/69138",
+      "source": "Lectura",
+      "image": "https://lectura.press/media-storage/press_releases/thumb_big_d_retina/5(892).png",
+      "published": "2026-06-16 12:14:00",
       "category": [
         "top",
-        "technology"
+        "technology",
+        "sports"
       ],
       "country": [
-        "germany"
+        "spain"
       ]
     },
     {
-      "title": "In a word ... Dale Coye: Hames, tugs, britchin\u2019 and crick",
-      "description": "Last month, I wrote about those essential components of horse-drawn transportation, the whiffletree and the evener, but those words are just the beginning of a long list of harness-related words that have been largely forgotten. I say \u201clargely\u201d because, of course, those few who still have a cart and team of horses use these words [...]",
-      "link": "https://ledgertranscript.com/2026/06/16/in-a-word-dale-coye-hames-tugs-britchin-and-crick/",
-      "source": "Monadnock Ledger-transcript",
-      "image": "https://i0.wp.com/ledgertranscript.com/wp-content/uploads/2026/01/IMG_0163-rotated.jpg?fit=481%2C640&ssl=1",
-      "published": "2026-06-16 10:09:00",
+      "title": "SpaceX to buy AI coding startup Cursor for $60 billion",
+      "description": "Elon Musk's SpaceX said on Tuesday it would acquire \u200bAnysphere, the software firm behind the popular AI coding agent \u200cCursor, for $60 \u200bbillion, in a bid to ramp up its presence in the enterprise AI market. The announcement comes just days after Musk took his rockets-to-AI company public in a blockbuster Nasdaq debut that valued the firm at more than $2 trillion and immediately made \u2060it one of the world's most valuable companies. SpaceX said it expects the merger to close during the third quarter of 2026. SpaceX had been eyeing Cursor for several months. The company said \u200cin April it had secured an option to either acquire San Francisco-based Cursor for $60 billion later this year, or pay $10 billion for their \u200cnew partnership. Along with OpenAI and Anthropic, Cursor is \u200cone of several Silicon Valley startups that have drawn waves of \u200cdevelopers by using artificial intelligence \u200cto automate coding, a business where AI companies have found early commercial traction. Cursor's business has \u200bscaled rapidly since \u200cits founding in 2022, \u200bwith roughly $2.6 billion in annualised business-to-business \u2060revenue and enterprise sales growing sharply, according to company data shared with Reuters earlier this month. The deal could give xAI, the Grok \u200bchatbot maker \u2060that SpaceX merged with \u2060in February, a stronger foothold in the AI coding market where it has so far lagged rivals. It would also provide Cursor with \u2060more computing capacity to develop AI models. In March, two product engineering heads at Cursor said they joined SpaceX to contribute to the company's lunar projects and xAI. It was not immediately clear if the deal would affect SpaceX's agreements to rent out \u200cits data centers. The company has in recent weeks struck deals with Anthropic and Alphabet-owned \u200bGoogle to lease cloud computing capacity worth roughly $26 billion combined on an annual basis. Both deals include 90-day termination clauses, meaning SpaceX could quickly reclaim computing capacity if needed.",
+      "link": "https://www.emirates247.com/business/spacex-to-buy-ai-coding-startup-cursor-for-60-billion/2648",
+      "source": "Emirates24|7",
+      "image": "https://api.emirates247.com/emirates247/uploads/images/2026/06/16/4036.webp",
+      "published": "2026-06-16 12:14:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Meta\u2019s threads hits 500 million monthly active users with major community updates",
+      "description": "Threads has reached 500 million monthly active users and introduced new features aimed at improving personalization and community engagement. The platform\u2019s new \u201cYour Algo\u201d tool lets users privately customize their feeds, while Communities has exited beta with a new discovery hub.",
+      "link": "https://www.news9live.com/technology/tech-news/metas-threads-hits-500-million-monthly-active-users-with-major-community-updates-2980721",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2023/10/Threads-app-e1769059818270.png",
+      "published": "2026-06-16 12:14:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

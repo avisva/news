@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Dear Annie: It\u2019s been 6 years since our daughter has talked to us. We\u2019re at our wits\u2019 end",
-      "description": "The daughter has been diagnosed with mental health issues, but refused to take any medication.",
-      "link": "https://www.oregonlive.com/advice/2026/06/dear-annie-its-been-6-years-since-our-daughter-has-talked-to-us-were-at-our-wits-end.html",
-      "source": "Oregon Local News",
-      "image": "https://www.oregonlive.com/resizer/v2/Z5X7VHLDAREXLOD4JXHRXQIWOY.jpeg?auth=88604cdf0a73e2388e38af9acbf5f8d37c7878586b60c70060b641f0c779c93c&smart=true&height=1200",
-      "published": "2026-06-16 23:45:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

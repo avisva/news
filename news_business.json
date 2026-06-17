@@ -1,80 +1,49 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Irish Dairy Sector Shifts Focus to High-Value Protein Products",
-      "description": "Ireland's dairy industry is transitioning from bulk commodities to high-value protein products amid easing commodity prices. The shift is aimed at maintaining margins by focusing on specialized nutrition and premium snacking.",
-      "link": "https://dairynews.today/news/irish_dairy_sector_shifts_focus_to_high_value_protein_products_5313985.html",
-      "source": "Dairynews",
-      "image": "https://dairynews.today/local/templates/dn2025localized/favicon/android-chrome-512x512.png",
-      "published": "2026-06-16 23:45:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "netherland"
-      ]
-    },
-    {
-      "title": "DCPS' high school lunch price to increase",
-      "description": "High school students in Daviess County Public Schools that don't qualify for free or reduced lunches will see a 50-cent increase in the cost of lunches during the 2026-27 school year.",
-      "link": "https://www.messenger-inquirer.com/news/local/dcps-high-school-lunch-price-to-increase/article_fb9d40b0-baca-5954-bc35-bc1938cbda7e.html",
-      "source": "Owensboro Messenger And Inquirer",
-      "image": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/f/b9/fb9d40b0-baca-5954-bc35-bc1938cbda7e/6a31db64b3d77.social.jpg",
-      "published": "2026-06-16 23:45:00",
+      "title": "\"Regulatory Nonsense\": Ryanair Blasts Europe's Push For Free Cabin Bags On Every Flight",
+      "description": "Europe's leading budget carrier denounces new EU rules.",
+      "link": "https://simpleflying.com/ryanair-blasts-eu-free-cabin-bag-rule/",
+      "source": "Simple Flying",
+      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/a-ryanair-boeing-737-800-is-landing-at-bgy-the-bergamo-milano-international-airport.jpg?w=1600&h=900&fit=crop",
+      "published": "2026-06-17 03:22:40",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Industrialists Seek Easier Access To Defence Import Data In Indore",
-      "description": "Anil Kumar Rai outlined initiatives of the Ministry of Defence to boost domestic defence manufacturing, while Himanshu Prajapati highlighted Madhya Pradesh's defence manufacturing ecosystem and policy support. Air Marshal Vibhas Pande said industrialists can use the SRIJAN portal to access information on defence procurement requirements and offer their products to the department.",
-      "link": "https://www.freepressjournal.in/indore/industrialists-seek-easier-access-to-defence-import-data-in-indore",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-16/knf6mqvc/MAnish-1.jpg",
-      "published": "2026-06-16 23:45:00",
+      "title": "PSX stays bullish, gains over 3,353 points",
+      "description": "The benchmark KSE-100 Index of the Pakistan Stock Exchange (PSX) continued with bullish trend on Tuesday, gaining 3,353.15 points, a positive change of 1.89 percent, closing at 180,392.98 points against 177,039.83 points on the last trading day. During the session, the ready market recorded a trading volume of 1.224 billion shares with a traded value [...]",
+      "link": "https://dailytimes.com.pk/1509079/psx-stays-bullish-gains-over-3353-points/",
+      "source": "Daily Times - Latest Pakistan News, World, Busines",
+      "image": "https://dailytimes.com.pk/assets/uploads/2025/07/app-icon-192x192-1-192x180-1.png",
+      "published": "2026-06-17 03:22:32",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "india"
+        "pakistan"
       ]
     },
     {
-      "title": "Delhi launches 2-week GST training programme to strengthen tax system",
-      "description": "In a move to improve efficiency, transparency and taxpayer services, the Delhi Government has launched a comprehensive two-week training programme for officers and employees of the Trade and Taxes Department involved in Goods and Services Tax (GST) administration. The programme, being conducted in collaboration with the National Academy of Customs, Indirect Taxes and Narcotics (NACIN), [...]",
-      "link": "https://www.tribuneindia.com/news/delhi/delhi-launches-2-week-gst-training-programme-to-strengthen-tax-system",
-      "source": "The Tribune India",
-      "image": null,
-      "published": "2026-06-16 23:44:59",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Alaska Airlines breaks ground on $150 million PDX hangar",
-      "description": "The project, supported by enterprise zone tax breaks, will create more than 100 skilled jobs.",
-      "link": "https://www.oregonlive.com/business/2026/06/alaska-airlines-breaks-ground-on-150-million-pdx-maintenance-hangar.html",
-      "source": "Oregon Local News",
-      "image": "https://www.oregonlive.com/resizer/v2/UCK277OG65FZXDF6TC2EXZLXT4.jpg?auth=e1476f88c59a2199b2133a64354a71e6c6f9edb0b2e33ae9c2d9e94651eb8073&smart=true&height=1200",
-      "published": "2026-06-16 23:44:54",
+      "title": "Families at breaking point claims FCOSS",
+      "description": "The Fiji Council of Social Services warns that Fijian families are running out of room to absorb further economic shocks as rising fuel costs, inflation and global instability continue to drive up the cost of living. Executive Director Vani Catanasiga says lower-income households have spent years adapting to crises, from COVID-19 to soaring prices, with [...]",
+      "link": "https://www.fbcnews.com.fj/news/families-at-breaking-point-claims-fcoss/",
+      "source": "Fbc News",
+      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2024/05/poverty-1280x720-1.jpg",
+      "published": "2026-06-17 03:22:29",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "fiji"
       ]
     }
   ]

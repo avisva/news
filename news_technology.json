@@ -1,49 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "How Amazfit\u2019s AI Coaching and Bio Charge Score Optimize Your Rest Days",
-      "description": "The fitness tracker landscape is becoming increasingly crowded, with brands like Fitbit, Garmin and Amazfit vying for attention through unique features and targeted designs. In a recent conversation from TechAvid, the focus turns to Amazfit\u2019s latest offering, the Helio Strap 2, a screen-free wearable that prioritizes recovery and simplicity. Unlike many competitors, the Helio Strap [...] The post How Amazfit\u2019s AI Coaching and Bio Charge Score Optimize Your Rest Days appeared first on Geeky Gadgets .",
-      "link": "https://www.geeky-gadgets.com/helio-strap-2-vs-fitbit-air/",
-      "source": "Geeky-gadgets",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/amazfit-helio-strap-e1781601666350.jpg",
-      "published": "2026-06-17 06:13:00",
+      "title": "Challenges facing Belarus, Russia in electronic engineering outlined",
+      "description": "Belarusian Deputy Industry Minister Aleksei Kozlov outlined the challenges in electronic engineering facing Belarus and Russia during the plenary session of the third Electronic Engineering 2026 conference.",
+      "link": "https://eng.belta.by/economics/view/challenges-facing-belarus-russia-in-electronic-engineering-outlined-181956-2026/",
+      "source": "\u0411\u0435\u043b\u0442\u0430",
+      "image": "https://eng.belta.by/images/storage/news/with_archive/2026/000021_1781687077_181956_big.jpg",
+      "published": "2026-06-17 09:03:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "india"
+        "belarus"
       ]
     },
     {
-      "title": "varPayEmpHistData does not Sync to Data model",
-      "description": "Hello community, Via Manage Business Configuration tool, I'm trying to customize standard background element \"varPayEmpHistData\" (Type Id=24) by adding a new string field (VFLD8 that is currently not reserved). System Saves the field in Background element but does not synchronize it to Data Model W...",
-      "link": "https://community.sap.com/t5/human-capital-management-q-a/varpayemphistdata-does-not-sync-to-data-model/qaq-p/14420486",
-      "source": "Sap",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "published": "2026-06-17 06:12:56",
+      "title": "Florida needs to take the lead on an AI transparency law | Opinion",
+      "description": null,
+      "link": "https://www.tallahassee.com/story/opinion/2026/06/17/florida-needs-to-take-the-lead-on-an-ai-transparency-law-opinion/90563269007/",
+      "source": "Tallahassee Democrat",
+      "image": null,
+      "published": "2026-06-17 09:02:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says",
-      "description": "Britain is now at a crucial stage for artificial intelligence adoption. Companies are moving beyond just testing AI tools to using them for complex tasks and improving productivity. This shift is happening across various sectors, from retail to government. Experts believe AI can significantly boost productivity for businesses.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-use-in-uk-hits-tipping-point-as-companies-scale-up-google-exec-says/articleshow/131799252.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12928,resizemode-75,msid-131799252/tech/artificial-intelligence/ai-use-in-uk-hits-tipping-point-as-companies-scale-up-google-exec-says.jpg",
-      "published": "2026-06-17 06:12:46",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
       ]
     }
   ]

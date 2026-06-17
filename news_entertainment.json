@@ -1,20 +1,63 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Jeremy Clarkson cancer diagnosis revealed on Clarkson's Farm",
-      "description": "Jeremy Clarkson reveals cancer diagnosis in Clarkson\u2019s Farm, telling co-stars Kaleb Cooper and Charlie Ireland in emotional final episodes.",
-      "link": "https://www.witneygazette.co.uk/news/26201254.jeremy-clarkson-cancer-diagnosis-revealed-clarksons-farm/",
-      "source": "Witney Gazette",
-      "image": "https://www.witneygazette.co.uk/resources/images/21044663/",
-      "published": "2026-06-17 06:12:45",
+      "title": "BBC comedy legend announces heartbreaking 'incurable' cancer diagnosis",
+      "description": "The comedian announced that he has cancer for a second time.",
+      "link": "https://www.express.co.uk/celebrity-news/2218396/bbc-richard-herring-cancer",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/79/590x/2218396_1.jpg",
+      "published": "2026-06-17 09:03:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Princess Andre fans can 'see where she got her name' as she poses in beautiful outfit",
+      "description": "Princess Andre has left fans gobsmacked as she posed in a sequin two piece, including a corset and a long skirt, with some saying they can see where she got her name",
+      "link": "https://www.mirror.co.uk/3am/celebrity-news/princess-andre-fans-can-see-37306689",
+      "source": "Mirror",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article37307398.ece/ALTERNATES/s615/0_British-LGBT-Awards-2026-Inside.jpg",
+      "published": "2026-06-17 09:03:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "The Madison\u2019s Kurt Russell on Why \u2018Silent Majority\u2019 Loves Taylor Sheridan Shows",
+      "description": "Kurt Russell recently shared his thoughts on Taylor Sheridan\u2019s television universe. The actor, who plays Preston Clyburn in The Madison, explained why Sheridan\u2019s shows continue to connect with so many fans. He believes the series resonates strongly with what he called the \u201csilent majority.\u201d Kurt Russell on the audience appeal of Taylor Sheridan\u2019s TV universe [...] The post The Madison\u2019s Kurt Russell on Why \u2018Silent Majority\u2019 Loves Taylor Sheridan Shows appeared first on Mandatory .",
+      "link": "https://www.mandatory.com/news/1793827-kurt-russell-taylor-sheridan-silent-majority-shows",
+      "source": "Mandatory",
+      "image": "https://www.mandatory.com/wp-content/uploads/sites/10/2026/06/brdsddsds.jpg",
+      "published": "2026-06-17 09:02:59",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Taunton Boys & Girls Club will transform old performing arts center",
+      "description": "Boys & Girls Clubs of Metro South plans to transform the old District Center for the Arts into a childcare center with bank funding to serve more kids.",
+      "link": "https://www.tauntongazette.com/story/news/local/2026/06/17/taunton-childcare-center-expansion-bristol-county-savings-bank-grant-bgcms/90568546007/",
+      "source": "Taunton Daily Gazette",
+      "image": "https://www.tauntongazette.com/gcdn/authoring/authoring-images/2026/06/16/USNK/90568549007-boysandgirlsclubmetrosouthchildcareexpansiontaunton-100-kgrant.jpg?crop=1399,788,x0,y60&width=1399&height=699&format=pjpg&auto=webp",
+      "published": "2026-06-17 09:02:54",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

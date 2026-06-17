@@ -1,44 +1,61 @@
 {
   "status": "success",
-  "totalResults": 17,
+  "totalResults": 16,
   "results": [
     {
-      "title": "Messi makes history, nets hat trick for Argentina in 3-0 World Cup win vs. Algeria",
-      "description": "It didn\u2019t take long for Lionel Messi, a week shy of his 39th birthday and the only man to play in six World Cups, to prove he still lives up to the hype and can create magic on the sport\u2019s...",
-      "link": "https://thebrunswicknews.com/sports/national_sports/messi-makes-history-nets-hat-trick-for-argentina-in-3-0-world-cup-win-vs/article_5725cb23-c7e4-5f17-ba62-f47b9833cc16.html",
-      "source": "The Brunswick News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/a/db/adb72de4-9959-5407-8d74-bfec18e6800f/6a32207c1eff6.image.jpg?resize=400%2C267",
-      "published": "2026-06-17 03:23:00",
+      "title": "Israeli strikes hit south Lebanon, despite ceasefire deal",
+      "description": "People ride an all-terrain vehicle (ATV) moving past destroyed buildings in the village of Deir Qanoun al-Nahr in southern Lebanon.",
+      "link": "https://timesofmalta.com/article/israeli-strikes-hit-south-lebanon-despite-ceasefire-deal.1130031",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/1f886ba6caa8739de047d33a59253f7ffc695ba3-1781676930-d19138bb-1920x1280.jpg",
+      "published": "2026-06-17 06:13:00",
       "category": [
-        "sports",
+        "crime",
         "top"
       ],
       "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "India\u2019s Battery Storage Capacity Surges as Grid Flexibility Becomes Central to Renewable Expansion",
+      "description": "India\u2019s battery energy storage sector recorded one of its strongest growth periods in early 2026, with 4.6 GWh of new battery energy storage system (BESS) capacity added in the first quarter, according to Mercom India Research\u2019s Q1 2026 India Energy Storage Landscape Report.",
+      "link": "https://energynews.biz/indias-battery-storage-capacity-surges-as-grid-flexibility-becomes-central-to-renewable-expansion/",
+      "source": "Green Hydrogen News",
+      "image": "https://energynews.biz/wp-content/uploads/2025/01/battery.jpg",
+      "published": "2026-06-17 06:13:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom",
         "united states of america"
       ]
     },
     {
-      "title": "Campaigners urge G7 chiefs to protect children from AI risks",
-      "description": "Ahead of the heads of state and government meeting in Evian, eastern France, 95 young people from 19 countries gathered to call on \"world leaders to protect our education, mental health and social well-being\" as AI chatbots, companions and agents spread through the technology ecosystem.",
-      "link": "https://citizen.digital/article/campaigners-urge-g7-chiefs-to-protect-children-from-ai-risks-n384749",
-      "source": "Citizen Digital",
-      "image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/124168/conversions/ai-og_image.webp",
-      "published": "2026-06-17 03:23:00",
+      "title": "Shift From Oil to Renewables Defines Aberdeen\u2019s Election Race",
+      "description": "Few places illustrate the tensions of Britain\u2019s energy transition more clearly than Aberdeen in north-east Scotland, where thousands of jobs remain tied to North Sea oil and gas even as governments promise a greener future.",
+      "link": "https://financialpost.com/pmn/business-pmn/shift-from-oil-to-renewables-defines-aberdeens-election-race",
+      "source": "Financial Post",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/775859851.jpg",
+      "published": "2026-06-17 06:12:56",
       "category": [
-        "politics",
-        "top"
+        "environment",
+        "top",
+        "business"
       ],
       "country": [
-        "kenya"
+        "canada"
       ]
     },
     {
-      "title": "County Debates Data Center Moratorium",
-      "description": "At Tuesday\u2019s regular meeting, the Yankton County Commission heard an overflow room of people debate both sides of a proposed temporary moratorium on data centers.",
-      "link": "https://www.yankton.net/community/article_ba8fb3d6-f80e-4123-8a79-3f6bbe395390.html",
-      "source": "Yankton Net",
-      "image": "https://bloximages.chicago2.vip.townnews.com/yankton.net/content/tncms/assets/v3/editorial/5/e1/5e125ea6-bc76-47e7-ad5e-31ce8ea1c89a/6a32137fade42.image.jpg?crop=1600%2C840%2C0%2C74&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-17 03:23:00",
+      "title": "varPayEmpHistData does not Sync to Data model",
+      "description": "Hello community, Via Manage Business Configuration tool, I'm trying to customize standard background element \"varPayEmpHistData\" (Type Id=24) by adding a new string field (VFLD8 that is currently not reserved). System Saves the field in Background element but does not synchronize it to Data Model W...",
+      "link": "https://community.sap.com/t5/human-capital-management-q-a/varpayemphistdata-does-not-sync-to-data-model/qaq-p/14420486",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-06-17 06:12:56",
       "category": [
         "technology",
         "top"
@@ -48,42 +65,12 @@
       ]
     },
     {
-      "title": "\u2018We were shocked\u2019: Spartanburg County residents criticize handling of data center discussions",
-      "description": "Spartanburg County leaders have taken the first step toward a possible one-year moratorium on data centers, but some residents say their biggest concern is not the proposed pause itself \u2014 it\u2019s how the decision was handled.",
-      "link": "https://www.foxcarolina.com/2026/06/17/we-were-shocked-spartanburg-county-residents-criticize-handling-data-center-discussions/",
-      "source": "Https://www.foxcarolina.com",
-      "image": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/GEG6E4WY35G4BATAUWMDG3VBJU.jpg?auth=65278ab940a8dcc450f7a25049ae2ad53164f6e21ca1dfee7449d2764b648a88&width=1200&height=600&smart=true",
-      "published": "2026-06-17 03:22:58",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Woman in critical condition after RAAF Base crash",
-      "description": "Emergency services responded to a crash at RAAF Base East Sale on Tuesday, June 9. Police believed the vehicle crashed......",
-      "link": "https://www.gippslandtimes.com.au/news/2026/06/17/woman-in-critical-condition-after-raaf-base-crash/",
-      "source": "Gippsland Times",
-      "image": "https://www.gippslandtimes.com.au/wp-content/uploads/2022/12/Gippy_Times_9404304c1d158706fbf772f304dddfe6.png",
-      "published": "2026-06-17 03:22:56",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "'If they behave, they get benefits': Vance reveals three pillars of Trump-Iran agreement",
-      "description": "Vance said the agreement is built around three commitments: Iran will not be allowed to develop a nuclear weapon, the Strait of Hormuz will remain open to global shipping, and Tehran could receive significant economic benefits if it complies with the agreement.",
-      "link": "https://www.moneycontrol.com/world/if-they-behave-they-get-benefits-vance-reveals-three-pillars-of-trump-iran-agreement-article-13951589.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/07/20250716045313_Vance-JD.jpg",
-      "published": "2026-06-17 03:22:55",
+      "title": "Madras High Court directs courts to conceal identities in matrimonial disputes involving mental illness",
+      "description": "According to a Daily Thanthi report, the direction was issued by Justices Anand Venkatesh and Ramakrishnan while hearing a petition seeking review of an order passed by a Family Court in a divorce case between a husband and wife.",
+      "link": "https://www.dtnext.in/news/tamilnadu/madras-high-court-directs-courts-to-conceal-identities-in-matrimonial-disputes-involving-mental-illness",
+      "source": "Dt Next",
+      "image": "https://gumlet-images.assettype.com/dt-next/2026-01-07/f3qechia/madurai-bench.jpg",
+      "published": "2026-06-17 06:12:56",
       "category": [
         "politics",
         "top"
@@ -93,89 +80,74 @@
       ]
     },
     {
-      "title": "Lionel Messi ties Klose\u2019s World Cup scoring record with unforgettable hat trick for Argentina",
-      "description": "Messi, who turns 39 next week, had been dealing with a minor hamstring injury with Inter Miami that slowed him in the lead-up to the World Cup.",
-      "link": "https://www.ky3.com/2026/06/17/lionel-messi-ties-kloses-world-cup-scoring-record-with-unforgettable-hat-trick-argentina/",
-      "source": "Https://www.ky3.com",
-      "image": "https://gray-ky3-prod.gtv-cdn.com/resizer/v2/5FWLUK4UEFFXREGDG5PF56Z5NQ.jpg?auth=cc3b5690798e7f50ffaf1a3ddcdfecc1cbd17faef017a73a59782ae1f97f2308&width=1200&height=600&smart=true",
-      "published": "2026-06-17 03:22:43",
+      "title": "MTCP, MOTAC strengthen cooperation on Sarawak tourism development",
+      "description": "PUTRAJAYA: The Sarawak Ministry of Tourism, Creative Industry and Performing Arts (MTCP) has reaffirmed its commitment to strengthening cooperation with the federal government in advancing the state\u2019s tourism sector. The commitment was highlighted during an official visit by an MTCP delegation to Tourism, Arts and Culture Ministry\u2019s (MOTAC) Secretary-General, Datuk Shaharuddin Abu Sohot, in Putrajaya. [...]",
+      "link": "https://www.sarawaktribune.com/mtcp-motac-strengthen-cooperation-on-sarawak-tourism-development/",
+      "source": "Sarawak Tribune",
+      "image": "https://www.sarawaktribune.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-17-at-1.54.32-PM.jpeg",
+      "published": "2026-06-17 06:12:51",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Austria beats Jordan 3-1 in their debut at the 2026 FIFA World Cup and takes top spot in Group J with an own goal",
+      "description": "The Austrian national football team began their World Cup group stage journey with a convincing victory. The European team beat Jordan 3-1 in the early hours of Wednesday, in a clash marked by beautiful goals, an unfortunate own goal and a decisive performance from experienced striker Marko Arnautovic. With this result, Austria wins the first [...]",
+      "link": "https://www.mixvale.com.br/2026/06/17/austria-beats-jordan-3-1-in-their-debut-at-the-2026-fifa-world-cup-and-takes-top-spot-in-group-j-with-an-own-goal-en/",
+      "source": "Mix Vale",
+      "image": "https://www.mixvale.com.br/wp-content/uploads/2026/06/austria-ganhou-cazetv-600x340.jpg",
+      "published": "2026-06-17 06:12:50",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "united states of america"
+        "brazil"
       ]
     },
     {
-      "title": "'Without me, there would be no Israel', Trump explodes",
-      "description": "US President Donald Trump has issued a rare public rebuke of Israel's military tactics in Lebanon targeting Hezbollah militants.",
-      "link": "https://www.thenewdaily.com.au/news/world/us-news/trump-news/2026/06/17/trump-rebukes-israel",
-      "source": "The New Daily",
-      "image": "https://wp.thenewdaily.com.au/wp-content/uploads/2019/09/1780376473-netanyahu-and-trump-edm-2.jpg?resize=1200%2C630",
-      "published": "2026-06-17 03:22:43",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Novo Nordisk Data Breach: Cyber Extortion Group FulcrumSec Claims Theft of 1.3 TB of Sensitive Data After USD 25 Million Ransom Demand",
-      "description": "The cyber extortion group FulcrumSec has claimed responsibility for hacking Novo Nordisk, alleging it stole 1.3 terabytes of data after a failed USD 25 million ransom demand. Novo Nordisk disclosed the breach on June 11, confirming unauthorised access to clinical trial data. The company is coordinating with authorities while maintaining that its core operations remain stable.",
-      "link": "https://www.latestly.com/technology/novo-nordisk-data-breach-cyber-extortion-group-fulcrumsec-claims-theft-of-1-3tb-of-sensitive-data-after-usd-25-million-ransom-demand-7476755.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2025/09/cyber-fraud.jpg",
-      "published": "2026-06-17 03:22:43",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "0616_Lionel Messi World Cup scoring record_AP",
-      "description": "The hat trick came 20 years to the day that Messi made his World Cup debut for Argentina.",
-      "link": "https://www.12onyourside.com/2026/06/17/lionel-messi-ties-world-cup-scoring-record-with-unforgettable-hat-trick-argentina/",
-      "source": "Https://www.12onyourside.com",
-      "image": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2//HN7XTL6UEFFMZFUDYPL7PYS6LU.jpg?auth=5674977228ab36a944da8ee2b5e87aaddb5e7ed1e80e8a782a6fdd27f414aa13&smart=true&width=1280&height=720",
-      "published": "2026-06-17 03:22:42",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lionel Messi ties World Cup scoring record with unforgettable hat trick for Argentina",
-      "description": "The hat trick came 20 years to the day that Messi made his World Cup debut for Argentina.",
-      "link": "https://www.kotatv.com/2026/06/17/lionel-messi-ties-world-cup-scoring-record-with-unforgettable-hat-trick-argentina/",
-      "source": "Https://www.kotatv.com",
-      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/HN7XTL6UEFFMZFUDYPL7PYS6LU.jpg?auth=5674977228ab36a944da8ee2b5e87aaddb5e7ed1e80e8a782a6fdd27f414aa13&width=1200&height=600&smart=true",
-      "published": "2026-06-17 03:22:42",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "\"Regulatory Nonsense\": Ryanair Blasts Europe's Push For Free Cabin Bags On Every Flight",
-      "description": "Europe's leading budget carrier denounces new EU rules.",
-      "link": "https://simpleflying.com/ryanair-blasts-eu-free-cabin-bag-rule/",
-      "source": "Simple Flying",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/a-ryanair-boeing-737-800-is-landing-at-bgy-the-bergamo-milano-international-airport.jpg?w=1600&h=900&fit=crop",
-      "published": "2026-06-17 03:22:40",
+      "title": "India's Defence Output Hits Record Rs 1.78 Lakh cr In FY26, Private Sector Share At All-Time High",
+      "description": "Output has more than doubled since FY21 and quadrupled since FY14, as Indian companies emerge as credible suppliers of weapons and equipment to an expanding list of overseas buyers.",
+      "link": "https://newsable.asianetnews.com/india/india-defence-output-hits-record-rs-1-lakh-cr-in-fy26-private-sector-share-high-articleshow-csbgg9v",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kva3bwnk0dc0eh2dyxkhr6nf,imgname-defence-1781676765875.jpg",
+      "published": "2026-06-17 06:12:49",
       "category": [
         "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says",
+      "description": "Britain is now at a crucial stage for artificial intelligence adoption. Companies are moving beyond just testing AI tools to using them for complex tasks and improving productivity. This shift is happening across various sectors, from retail to government. Experts believe AI can significantly boost productivity for businesses.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-use-in-uk-hits-tipping-point-as-companies-scale-up-google-exec-says/articleshow/131799252.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-12928,resizemode-75,msid-131799252/tech/artificial-intelligence/ai-use-in-uk-hits-tipping-point-as-companies-scale-up-google-exec-says.jpg",
+      "published": "2026-06-17 06:12:46",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Jeremy Clarkson cancer diagnosis revealed on Clarkson's Farm",
+      "description": "Jeremy Clarkson reveals cancer diagnosis in Clarkson\u2019s Farm, telling co-stars Kaleb Cooper and Charlie Ireland in emotional final episodes.",
+      "link": "https://www.witneygazette.co.uk/news/26201254.jeremy-clarkson-cancer-diagnosis-revealed-clarksons-farm/",
+      "source": "Witney Gazette",
+      "image": "https://www.witneygazette.co.uk/resources/images/21044663/",
+      "published": "2026-06-17 06:12:45",
+      "category": [
+        "entertainment",
         "top"
       ],
       "country": [
@@ -183,78 +155,93 @@
       ]
     },
     {
-      "title": "Detroit-Houston Runs",
-      "description": null,
-      "link": "https://www.thedailyreview.com/ap/sports/agate/detroit-houston-runs/article_2303464c-b863-5044-87fe-5c6b83deef9b.html",
-      "source": "Thedailyreview.com",
-      "image": null,
-      "published": "2026-06-17 03:22:34",
+      "title": "Telegram moves Delhi HC against temporary India ban ahead of NEET-UG re-exam",
+      "description": "Authorities have argued that Telegram channels were allegedly being used to circulate leaked or fake question papers, coordinate cheating and spread exam-related misinformation.",
+      "link": "https://www.businesstoday.in/technology/news/story/telegram-moves-delhi-hc-against-temporary-india-ban-ahead-of-neet-ug-re-exam-537373-2026-06-17",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a323a7f4dd41-the-government-has-cited-concerns-that-telegram-was-being-used-by-organised-cheating-networks-linked-171105752-16x9.jpg?size=1280:720",
+      "published": "2026-06-17 06:12:45",
       "category": [
-        "top",
-        "sports"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Telegram moves Delhi HC against government ban ahead of NEET re-test, hearing today",
+      "description": "Telegram has challenged the Central government's decision to block its services in India until June 22, citing the impact on over 150 million users amid NEET-UG exam-related concerns. The Delhi High Court has agreed to hear the urgent petition.",
+      "link": "https://www.financialexpress.com/india-news/telegram-moves-delhi-hc-against-government-ban-ahead-of-neet-re-test-hearing-today/4269437/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/06/telegram.jpg",
+      "published": "2026-06-17 06:12:43",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Tucson soccer coach heads to Kansas City to watch Argentina play at the 2026 World Cup",
+      "description": "Tucson youth soccer coach Lautaro Civetta received surprise World Cup tickets to see Argentina play in Kansas City.",
+      "link": "https://www.kgun9.com/sports/local-sports/tucson-soccer-coach-heads-to-kansas-city-to-watch-argentina-play-at-the-2026-world-cup",
+      "source": "Kgun 9",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/3666136/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2F057%2Ff0fe4276ab8344079f404f1ac9c377b7%2F0579876bba4c415fbc4d35473a9838ca%2Fposter_637ed0161283489485bddac9f3d0e153.jpg",
+      "published": "2026-06-17 06:12:41",
+      "category": [
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Joel Villanueva says joining new Senate majority was 'for work'",
-      "description": "Senator Joel Villanueva said his decision to join the new majority bloc in the Senate was motivated by a desire to focus on legislative work, a move that effectively sealed the leadership change in the chamber.",
-      "link": "https://www.gmanetwork.com/news/topstories/nation/991733/villanueva-majority-senator-work/story/",
-      "source": "Gma News Online",
-      "image": "https://images.gmanews.tv/webpics/2026/06/Villanueva_says_joining_new_Senate_majority_was_for_work_Courtesy_Joseph_Morong_X_20260617_2026_06_17_11_17_39.jpg",
-      "published": "2026-06-17 03:22:32",
+      "title": "A far-right backlash is surging in Latin America as crime fears fuel Bukele-style crackdowns",
+      "description": "At the start of this decade, Latin America leaned left as progressive politicians gained power amid public outrage over inequities worsened by the pandemic.",
+      "link": "https://www.seattletimes.com/nation-world/world/a-far-right-backlash-is-surging-in-latin-america-as-crime-fears-fuel-bukele-style-crackdowns/",
+      "source": "The Seattle Times",
+      "image": null,
+      "published": "2026-06-17 06:12:37",
       "category": [
-        "politics",
+        "crime",
         "top"
       ],
       "country": [
-        "philippines"
+        "united states of america"
       ]
     },
     {
-      "title": "Families at breaking point claims FCOSS",
-      "description": "The Fiji Council of Social Services warns that Fijian families are running out of room to absorb further economic shocks as rising fuel costs, inflation and global instability continue to drive up the cost of living. Executive Director Vani Catanasiga says lower-income households have spent years adapting to crises, from COVID-19 to soaring prices, with [...]",
-      "link": "https://www.fbcnews.com.fj/news/families-at-breaking-point-claims-fcoss/",
-      "source": "Fbc News",
-      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2024/05/poverty-1280x720-1.jpg",
-      "published": "2026-06-17 03:22:29",
+      "title": "Man Arrested for Allegedly Strangling Live-In Partner in Bengaluru",
+      "description": "A 27-year-old man has been taken into custody in Bengaluru for allegedly killing his live-in partner, a 20-year-old woman named Anusha. The incident reportedly occurred following a series of intense arguments that culminated in violence last week in the Malleswaram area. Sharath, the accused individual, and Anusha had been living together in a rented accommodation [...] The post Man Arrested for Allegedly Strangling Live-In Partner in Bengaluru appeared first on The CSR Journal .",
+      "link": "https://thecsrjournal.in/man-arrested-for-allegedly-strangling-live-in-partner-in-bengaluru/",
+      "source": "The Csr Journal",
+      "image": "https://thecsrjournal.in/wp-content/uploads/2026/06/jq5rh37k_bengaluru-couple_625x300_16_June_26.webp",
+      "published": "2026-06-17 06:12:36",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "WiSE programme empowers women entrepreneurs, says Raja Muda of Perlis",
+      "description": "The WiSE programme by MARA and YTF empowers women entrepreneurs to transform small businesses into competitive enterprises with broader market access",
+      "link": "https://thesun.my/news/malaysia-news/people-issues/wise-programme-empowers-women-entrepreneurs-says-raja-muda-of-perlis/",
+      "source": "Thesun",
+      "image": "https://thesun.my/wp-content/uploads/2026/06/Raja-Muda-Perlis.webp",
+      "published": "2026-06-17 06:12:34",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "fiji"
-      ]
-    },
-    {
-      "title": "ACC begins process to bring back Benazir Ahmed from UAE",
-      "description": "The Anti-Corruption Commission (ACC) on Tuesday initiated the necessary process to bring back former Inspector General of Police (IGP) Benazir Ahmed, who was recently arrested in the United Arab Emirates (UAE), under the existing prisoner transfer framework. ACC Deputy Director Aktarul Islam confirmed the development to journalists. According to ACC officials, the required documents have... Details",
-      "link": "https://www.dhakatribune.com/bangladesh/412866/acc-begins-process-to-bring-back-benazir-ahmed",
-      "source": "Dhaka Tribune",
-      "image": null,
-      "published": "2026-06-17 03:22:29",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "Hungary\u2019s new law prevents Orban comeback",
-      "description": "Hungary's parliament passes constitutional amendment capping a prime minister's rule at eight years, fulfilling Peter Magyar's vow to bar a Viktor Orban comeback.",
-      "link": "https://www.israelnationalnews.com/news/428749",
-      "source": "Israelnationalnews",
-      "image": "https://2.a7.org/files/pictures/000/undefined.jpg",
-      "published": "2026-06-17 03:22:26",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "israel"
+        "malaysia"
       ]
     }
   ]

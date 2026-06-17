@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The Spring Awakening of Martian Polar Dunes",
+      "description": "During the Martian winter, carbon dioxide ice (dry ice) blankets various landforms, including dunes, in the northern high latitudes. As spring arrives, the ice sublimates, causing unique changes on the surface. This HiRISE image captures a site featuring a North Polar scarp and nearby dune field, showing the early to mid-stages of defrosting during northern [...] The post The Spring Awakening of Martian Polar Dunes appeared first on Astrobiology .",
+      "link": "https://astrobiology.com/2026/06/the-spring-awakening-of-martian-polar-dunes.html",
+      "source": "Astrobiology Web",
+      "image": "https://astrobiology.com/wp-content/uploads/2026/06/The-Spring-Awakening.jpg",
+      "published": "2026-06-16 18:07:54",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

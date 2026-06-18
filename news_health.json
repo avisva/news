@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The real food safety crisis is not science but failure to coordinate across institutions",
+      "description": "What happens when a key director-general, a senior government regulator, a department of health director, an activist, consumer watchdogs and big food sit on the same stage?",
+      "link": "https://www.dailymaverick.co.za/article/2026-06-17-the-real-food-safety-crisis-is-not-science-but-failure-to-coordinate-across-institutions/",
+      "source": "Daily Maverick",
+      "image": "https://cdn.dailymaverick.co.za/i/S9M4C_cOziIP9uVEvQ65Iy2Gs1I=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2024/07/ED_385738.jpg",
+      "published": "2026-06-17 15:42:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "south africa"
+      ]
+    }
+  ]
 }

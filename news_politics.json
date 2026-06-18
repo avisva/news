@@ -1,36 +1,81 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Le Thi Thuy re-elected President of Vietnam Women\u2019s Union",
-      "description": "Le Thi Thuy, President of the Vietnam Women\u2019s Union (VWU) for the 14th tenure, affirmed that in response to the country\u2019s development requirements in the new era, the Central Committee and Standing Board of the VWU will continue to uphold the tradition of solidarity and unity, and make every effort to lead and coordinate the successful implementation of the Resolution of the 14th National Women\u2019s Congress. Women's congress charts new direction for empowerment, development Vovinam-based project launched in Japan to promote women\u2019s empowerment INSPIRE FEST 2026 promotes empowerment of persons with disabilities",
-      "link": "https://en.vietnamplus.vn/le-thi-thuy-re-elected-president-of-vietnam-womens-union-post344812.vnp",
-      "source": "Vietnam+",
-      "image": "https://mediaen.vietnamplus.vn/images/f579a678cf9e90879541752073c2600558a3dc8ea1a713f97ac859861857e9caa071cb22615f502e3eaf76617cd65bdf5d25fb8bb1f4ace706eff80589dab667/vnanet-le-thi-thuy.jpg.webp",
-      "published": "2026-06-18 04:28:00",
+      "title": "Estonia passes law obligating police to place warning signs ahead of mobile speed cameras",
+      "description": "The Riigikogu on Wednesday passed amendments to the law that will require police to warn drivers about mobile speed cameras in the future.",
+      "link": "https://news.err.ee/1610057974/estonia-passes-law-obligating-police-to-place-warning-signs-ahead-of-mobile-speed-cameras",
+      "source": "Err",
+      "image": "https://s.err.ee/photo/crop/2021/08/05/1102209h1707t2.jpg",
+      "published": "2026-06-18 07:26:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "vietnam"
+        "estonia"
       ]
     },
     {
-      "title": "Canada players say they need 'swagger' and 'arrogance' to snag historic first World Cup win",
-      "description": "Canada is ready to set aside its reputation for politeness, at least during the World Cup. With a chance to make history at home, after decades of World Cup disappointment, Canada\u2019s players are talking less about manners and more about...",
-      "link": "https://www.wyomingnews.com/canada-players-say-they-need-swagger-and-arrogance-to-snag-historic-first-world-cup-win/article_9408170c-92ec-551f-9ed8-7abe4bec0ca0.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/8/11/811e0d39-51b4-50fa-aadc-fe42bcba0226/6a33f7b50ecab.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-18 04:27:45",
+      "title": "President of Azerbaijan: We don't foresee any complications with respect to our economic development",
+      "description": null,
+      "link": "https://azertag.az/en/xeber/president_of_azerbaijan_we_don_039t_foresee_any_complications_with_respect_to_our_economic_development-4269051",
+      "source": "Azertac - Azerbaijan State News Agency",
+      "image": "https://azertag.az/files/2026/2/1200x630/17817676864943717978_1200x630.jpg",
+      "published": "2026-06-18 07:26:00",
       "category": [
-        "sports",
+        "politics"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Antisemites, Iran shills, and isolationists celebrate Iran deal: 'Jews lose'",
+      "description": "Nick Fuentes, Tucker Carlson, Trita Parsi, and Hasan Piker among those to praise the Trump-Iran memorandum, portraying it as a victory for Iran and a setback for Israel.",
+      "link": "https://www.israelnationalnews.com/news/428817",
+      "source": "Israelnationalnews",
+      "image": "https://2.a7.org/files/pictures/000/undefined.jpg",
+      "published": "2026-06-18 07:25:44",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "israel"
+      ]
+    },
+    {
+      "title": "Pentagon chief lashes out at NATO allies and announces a review of US forces in Europe",
+      "description": "Hegseth\u2019s comments largely mischaracterized European policies today.",
+      "link": "https://www.themorningsun.com/2026/06/18/pentagon-review-us-forces-europe-nato/",
+      "source": "The Morning Sun",
+      "image": "https://www.themorningsun.com/wp-content/uploads/2026/06/Belgium_NATO_Defense_Ministers_31579-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-06-18 07:25:44",
+      "category": [
         "politics",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Ballymoney: Motorists warned of oil spill on stretch of Frosses Road",
+      "description": "Motorists are warned of an oil spill on the Frosses Road before the Knockahollett Road junction Ballymoney bound on Thursday morning (June 18)",
+      "link": "https://www.northernirelandworld.com/news/transport/ballymoney-motorists-warned-of-oil-spill-on-stretch-of-frosses-road-8747378",
+      "source": "Northern Ireland World",
+      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmU4MDBjZWNiLWRhMWItNDJmOC1iNjdjLTgzZjU4OTFkNDJiYzo3ZjBiNTg0ZC1mNWExLTQyZGEtYjQ4ZS1jMGEyZTNhMzA1ZDQ=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-06-18 07:25:42",
+      "category": [
+        "business",
+        "health",
+        "politics",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

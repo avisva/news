@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Major new \u00a333million care home investment unveiled for Anglesey",
+      "description": "A new care and residential care home scheme in Menai Bridge represents a major investment in the care of older people in the area.",
+      "link": "https://www.northwaleschronicle.co.uk/news/26203918.major-new-33million-care-home-investment-anglesey/",
+      "source": "Northwaleschronicle Co Uk",
+      "image": null,
+      "published": "2026-06-18 07:26:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Passenger from hantavirus cruise ship breaks silence about quarantining in Perth\u2019s Bullsbrook facility - The West Australian",
+      "description": "Passenger from hantavirus cruise ship breaks silence about quarantining in Perth\u2019s Bullsbrook facility The West Australian Hantavirus ship passenger recounts 'huge shock' as quarantine nears end Australian Broadcasting Corporation Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWFVadnVERzY3UVlvU3RweEtnTzJ4bElIQjNzU05ldENqM05JVFJNLVl0RVNVQVVaNTh2VTJuOUpHR1BOZThoNmRVM0tpa2lSMmROQ01oZ2JsdEQyQW1hTFVRODlfUFFIdzhtVlJocGtBTTVNV0hkYmZrbVc1VDNZRDVHSlVocEVkQ1RhU2dKcHpPeWY1NWpsc1p3bUxqZ0FYU3VLM052OXJKVlFjck41b3EzMFI3MFU0N2xwU2l6djhRNWpCZk5RNHFfMjBZODFzeXFyajhtR3hGMGvSAeABQVVfeXFMT3ZhbXJpNTVrSWhOUWlQaTlEWGJQSGE1RUhoVExQZmpHTm9iZlBMbUJBMjI4YVVkcDBDSXU3dDlvT1MtcVdaR3ZIeVR5QnRWTEZURXJ6OWQwVk1oZjQwYndIREQ5eXM5Qmg0WTFjMmpISjJhU3FKWm02eVYwVHN4YTBhN0NDdGZnMkZhWkpEV2F3bWlsUHpfZFdrek5MYUZCN0d0WFU1ZDZaUmNJX21TaHZacjVwUVREVnFhZkpYTVh5VDNmT3FpaHd4MXlCclloYmJXVjAyNE9HRGszT3pmRXg?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-18 07:26:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Ballymoney: Motorists warned of oil spill on stretch of Frosses Road",
+      "description": "Motorists are warned of an oil spill on the Frosses Road before the Knockahollett Road junction Ballymoney bound on Thursday morning (June 18)",
+      "link": "https://www.northernirelandworld.com/news/transport/ballymoney-motorists-warned-of-oil-spill-on-stretch-of-frosses-road-8747378",
+      "source": "Northern Ireland World",
+      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmU4MDBjZWNiLWRhMWItNDJmOC1iNjdjLTgzZjU4OTFkNDJiYzo3ZjBiNTg0ZC1mNWExLTQyZGEtYjQ4ZS1jMGEyZTNhMzA1ZDQ=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-06-18 07:25:42",
+      "category": [
+        "business",
+        "health",
+        "politics",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

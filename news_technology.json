@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "THG Ingenuity Launches AI Shopping Assistant with Google Cloud",
+      "description": "THG Ingenuity has launched an AI shopping assistant with Google Cloud to personalise product discovery and improve online customer experiences. The post THG Ingenuity Launches AI Shopping Assistant with Google Cloud appeared first on CXM Today .",
+      "link": "https://cxmtoday.com/news/thg-ingenuity-launches-ai-shopping-assistant-with-google-cloud/",
+      "source": "Cxmtoday\uff5cwhere Technology Powers Customer Experien",
+      "image": "https://cxmtoday.com/wp-content/uploads/THG-Ingenuity-takes-wraps-off-new-AI-shopping-assistant-in-collaboration-with-Google-Cloud.jpg",
+      "published": "2026-06-18 07:25:58",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DWP confirms state pensioners sent letters as free TV licence link pushed",
+      "description": "The Department for Work and Pensions is trying to get people to sign up to get the \u00a3238 payment - and it is linked to free television licences, a committee was told",
+      "link": "https://www.chroniclelive.co.uk/news/cost-of-living/dwp-confirms-state-pensioners-sent-34141281",
+      "source": "Chroniclelive Co Uk",
+      "image": "https://i2-prod.chroniclelive.co.uk/news/cost-of-living/article34141280.ece/ALTERNATES/s615/0_Cabinet-Meeting-in-Downing-Street-in-London.jpg",
+      "published": "2026-06-18 07:25:47",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Meta adds teen safety checks and parent alerts to Instagram and Facebook",
+      "description": "Meta has expanded teen safety features across Instagram, Facebook and Messenger, introducing AI-powered age checks, 13+ content settings and parental alerts for self-harm searches.",
+      "link": "https://www.cnbctv18.com/technology/meta-adds-teen-safety-checks-and-parent-alerts-to-instagram-and-facebook-19927769.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/2026-05-26t133112z-1347031002-rc2mkha0brn2-rtrmadp-3-usa-court-meta-addiction-2026-06-d426aed131da880c7933d13faa636dda.jpg",
+      "published": "2026-06-18 07:25:46",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

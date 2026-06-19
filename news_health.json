@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "High IgE Levels: Causes, Symptoms, and Treatment Options",
-      "description": "High IgE Levels: Causes, Symptoms, and Treatment Options",
-      "link": "https://www.psuconnect.in/health/high-ige-levels-causes-symptoms-and-treatment-options",
-      "source": "Psu Connect",
-      "image": "https://images.psuconnect.in/IgE.jpg",
-      "published": "2026-06-19 07:47:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

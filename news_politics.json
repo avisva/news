@@ -1,20 +1,64 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "\u096b \u0905\u0938\u093e\u0930 \u0968\u0966\u096e\u0969",
-      "description": "The post \u096b \u0905\u0938\u093e\u0930 \u0968\u0966\u096e\u0969 appeared first on \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0926\u0948\u0928\u093f\u0915 (\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0926\u0948\u0928\u093f\u0915)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News portal of Nepali Polities, economics, news, top stories, national, international, politics, sports, business, finance, entertainment, photo-gallery, audio, video and more... .",
-      "link": "https://rajdhanidaily.com/id/139802/",
-      "source": "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u093f\u092f \u0926\u0948\u0928\u093f\u0915",
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/06/page-1f-13.jpg",
-      "published": "2026-06-18 23:20:00",
+      "title": "US Supreme Court limits ban on gun ownership by marijuana users",
+      "description": "A 1968 federal law called the Gun Control Act made possession of a firearm illegal for anyone who \"is an unlawful user of or addicted to any controlled substance.\"",
+      "link": "https://www.tbsnews.net/world/us-supreme-court-limits-ban-gun-ownership-marijuana-users-1466931",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/06/19/pistol.jpg",
+      "published": "2026-06-19 03:10:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "nepal"
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Telegram Ban in India: Users Flock to VPNs and Alternative Apps as Government Blocks Platform Over Exam Fraud Concerns, Says Report",
+      "description": "India\u2019s temporary restriction of Telegram to prevent exam-related fraud has led to a dramatic spike in VPN and alternative app downloads. Providers like Proton and Windscribe reported significant usage increases, while users also flocked to apps like Signal and iMe. Telegram is currently challenging the platform-wide ban in the Delhi High Court, with a verdict expected shortly.",
+      "link": "https://www.latestly.com/technology/telegram-ban-in-india-users-flock-to-vpns-and-alternative-apps-as-government-blocks-platform-over-exam-fraud-concerns-says-report-7479995.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2024/11/78-93.jpg",
+      "published": "2026-06-19 03:09:46",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Strait reopening, but shipping won\u2019t bounce back for months",
+      "description": "Iran and the United States are about to sign a peace deal that will reopen the Strait of Hormuz, the narrow waterway that carries about one-fifth of the world\u2019s oil.",
+      "link": "https://www.brandonsun.com/opinion/2026/06/18/strait-reopening-but-shipping-wont-bounce-back-for-months",
+      "source": "Brandonsun",
+      "image": "https://www.brandonsun.com/wp-content/uploads/sites/3/2026/04/afd9a7e7ba27eb1b4b7e7f06fdd24e273ee05d8965f062e8d5011a87125f4993.jpg?w=1600",
+      "published": "2026-06-19 03:09:28",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Karnataka Legislative Council polls: Betrayers will be caught, warns Ashoka",
+      "description": "Leader of Opposition in the Assembly, R Ashoka said they would soon know the details of the three-party MLAs who cross-voted.",
+      "link": "https://www.newindianexpress.com/states/karnataka/2026/Jun/19/karnataka-legislative-council-polls-betrayers-will-be-caught-warns-ashoka",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-06-18/2ts0zqo8/Betrayers-will-be.jpg",
+      "published": "2026-06-19 03:09:20",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

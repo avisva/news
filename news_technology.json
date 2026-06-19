@@ -1,34 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "The US almost blacklisted DeepSeek for contributing to China\u2019s military and intelligence \u2014 but the White House held back to avoid escalating tensions",
-      "description": "Chinese firms were not added to the Entity List ahead of Trump's meeting with Chinese premier Xi Jinping.",
-      "link": "https://www.techradar.com/pro/security/the-us-almost-blacklisted-deepseek-for-contributing-to-chinas-military-and-intelligence-but-the-white-house-held-back-to-avoid-escalating-tensions",
-      "source": "Techradar Au",
-      "image": "https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7-1280-80.jpg",
-      "published": "2026-06-18 23:20:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "OG&E proposes new rules for large electricity users like data centers",
-      "description": "OKLAHOMA CITY (KFOR) \u2014 Data centers have been a hot debate in the state. Many residents are fighting to keep them away because of the amount of electricity needed to run them. OG&E just released a list of rules for these kinds of facilities and wants the Oklahoma Corporation Commission to approve them. OG&E said [...]",
-      "link": "https://kfor.com/news/local/oge-proposes-new-rules-for-large-electricity-users-like-data-centers/",
-      "source": "Kfor",
-      "image": null,
-      "published": "2026-06-18 23:20:00",
+      "title": "PM Narendra Modi outlines India\u2019s AI vision at VivaTech 2026",
+      "description": "Prime Minister Narendra Modi on Thursday outlined India's vision for ArtificiaI Intelligence stating that its democratization is important for ensuring that its benefits reach everyone.",
+      "link": "https://www.sentinelassam.com/topheadlines/pm-narendra-modi-outlines-indias-ai-vision-at-vivatech-2026",
+      "source": "The Sentinel",
+      "image": "https://media.assettype.com/sentinelassam-english/2026-06-19/7wicck5f/Modi-final.jpg",
+      "published": "2026-06-19 03:09:21",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

@@ -1,217 +1,190 @@
 {
   "status": "success",
-  "totalResults": 24,
+  "totalResults": 17,
   "results": [
     {
-      "title": "President Ilham Aliyev presented \u201cDostlug\u201d Order to prominent Dagestani public and political figure Kurban Kurbanov",
-      "description": "On June 19, President of the Republic of Azerbaijan Ilham Aliyev received Kurban Kurbanov, a prominent public and political figure of the Republic of Dagestan of the Russian Federation, and presented him with the \u201cDostlug\u201d (Friendship) Order.",
-      "link": "https://www.azernews.az/nation/259969.html",
-      "source": "Azernews",
-      "image": "https://www.azernews.az/media/2026/06/19/17818568775313853797_1200x630.jpg",
-      "published": "2026-06-19 09:08:00",
+      "title": "Asking Eric: I\u2019m having a hard time getting over a 2004 breakup even though I don\u2019t want him back",
+      "description": "I am with a wonderful man now. But I just cannot figure this out.",
+      "link": "https://www.pennlive.com/advice/2026/06/asking-eric-im-having-a-hard-time-getting-over-a-2004-breakup-even-though-i-dont-want-him-back.html",
+      "source": "Pennlive",
+      "image": "https://www.pennlive.com/resizer/v2/QK2LU6I5ZRGTTKECFYQVAB7MLA.jpg?auth=eb633b1d77fbb4d31fec4f8395fcc47b3fd80fd4cac3412b57231f4716932db5&smart=true&height=1200",
+      "published": "2026-06-19 10:54:00",
       "category": [
-        "lifestyle",
+        "politics",
         "top"
-      ],
-      "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "\u2018How am I supposed to know if it\u2019s cute on me?\u2019 The strange death of the changing room - The Guardian",
-      "description": "\u2018How am I supposed to know if it\u2019s cute on me?\u2019 The strange death of the changing room The Guardian This Retailer Shut Its Fitting Rooms and Angered Customers. It Might Boost Sales Anyway. entrepreneur.com The \u2018One Size Fits Most\u2019 Retailer Is Shutting Its Changing Rooms WSJ Brandy Melville Shut Its Fitting Rooms. Sales May Rise. Business Model Analyst Controversial teen clothing retailer shuts down fitting rooms in all U.S. stores (report) Syracuse.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlBLdWFQYjZHUEJTMElaei02V2dFRHROVDMzZ2llVTZsWUtTU1JweUh4aW1RQjVlWWE2enBKRWRjNGRlRHZWbTd5UmhZLXltZUlwTGJ1VEJCMklxaHlESnlNRWdlZTNjTjM3Ulhwb1psTTFBUXVldmtIeTloN1czNTZhQWdtalE?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-19 09:08:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Tesco offloads VMware and CA software as Broadcom case rolls on",
-      "description": "<p>Tesco\u2019s latest filing in its legal dispute with Broadcom over <a href=\"https://caseboard.io/cases/01c4a135-9cd3-4645-a4ac-9c452d0ee5a2\">contractual obligations</a> for VMware software and support shows that the supermarket giant is actively moving off Broadcom software. The retailer began migration efforts in April 2025 as it progressed with its lawsuit against Broadcom for failing to deliver VMware software and services.</p> <p>With regards to the replacement for its VMware installation, which is due to be deployed across the business by the end of 2027, Tesco said the timeframe of the migration has created operational and commercial risk, as well as resulting in \u201cmaterial cost and disruption to the business\u201d. </p> <p>Its latest filing shows how far the technology leadership team at Tesco is prepared to go as it continues its legal case against VMware. Not only is it undertaking a major project to deploy an alternative to VMware virtualisation software across its server estate, but it is also replacing its mainframe business software.</p> <p>Legal papers filed in February by Dell, which is a defendant in the Tesco/Broadcom lawsuit, show the technology firm\u2019s contractual obligation as a VMware distributor to provide Tesco, through reseller Computacenter, with access to VMware software and support. The original agreement with Computacenter, signed in 2021, gave Tesco access to VMware products and services until January 2026, with an option to renew the contract until 2030. But Broadcom, which provides the products through Dell to Computacenter, is preventing Tesco from accessing the VMware software and services it purchased under the 2021 agreement.</p> <p>In an amendment to its complaint against Broadcom, filed on 22 May, Tesco said it \u201chas now been forced to start to migrate away from VMware\u2019s products\u201d. The company said it has also begun migrating off the CA Technologies software, which Broadcom provides. Both these decisions are linked, according to the filing, and were taken \u201cunder duress in late April 2025 in light of the defendants\u2019 conduct, including Broadcom\u2019s abuse of dominance\u201d.</p> <p>The Tesco filing shows that the company\u2019s complaint now includes the migration effort, relating to costs associated with migrating both off VMware and CA Technologies mainframe software and services. These include the costs incurred in evaluating and making necessary changes to Tesco\u2019s technology infrastructure to implement the alternative products in what it calls \u201ca rapid timeframe\u201d. It has also incurred costs in hiring <a href=\"https://www.techtarget.com/searchdatacenter/news/366617790/Third-party-VMware-support-for-perpetual-licenses-growing\">third-party suppliers</a> and contractors, and the cost of diverting the internal Tesco team to the migration effort.</p> <p>Tesco said it has also incurred additional costs because it has had to develop or buy in functionality where certain features or interoperability are not available from other virtualisation software providers. In particular, Tesco said the Veeam backup and Zerto\u2019s data security products it uses are not currently interoperable with any other server virtualisation platforms.</p> <p>It said that due to Broadcom\u2019s \u201cunlawful behaviour\u201d, support for these products is not available to Tesco through existing Broadcom products. Nor has there been sufficient time for Tesco to plan the migrations, knowing that companies making VMware compatible would eventually support alternative hypervisors.</p> <p>Tesco\u2019s VMware software and support contract ended in January this year. At the time, Tesco said Broadcom offered to sell the retailer a one-year subscription to VMware Cloud Foundation 9.0 for \u00a33.5m. </p> <p>Tesco said that following the expiration of its VMware and Computacenter agreements, and just six weeks before the expiry of its mainframe agreement, it received a \u00a317.4m offer from Broadcom. This bundled VMware Cloud Foundation 9.0 and CA Technologies mainframe software and support services for a period of one year.</p> <p>Tesco said the Broadcom offer was 175% more expensive than the prices it was entitled to under its previous renewal pricing agreement. It also claimed that the mainframe software and support contract pricing works out more than <a href=\"https://www.computerweekly.com/news/366620408/How-Telefonica-avoided-VMware-price-hike\">350% more expensive</a>, given that it expected the renewal price to be around \u00a33m.</p> <div class=\"extra-info\"> <div class=\"extra-info-inner\"> <h3 class=\"splash-heading\">Read more about the Tesco legal case against Broadcom/VMware</h3> <ul class=\"default-list\"> <li><a href=\"https://www.computerweekly.com/news/366638927/Tesco-vs-VMware-Dell-weighs-in-on-VMware-contractual-obligation\">Dell weighs in on VMware</a> contractual obligation: Are negotiated software renewal fees binding? Dell is arguing that this provision in Tesco\u2019s VMware 2021 contract amounts to a commitment.</li> <li>The impact of <a href=\"https://www.computerweekly.com/news/366637500/The-impact-of-Tesco-versus-Broadcom-lawsuit-on-software-procurement\">Tesco versus Broadcom</a> lawsuit on software procurement: The lawsuit shows the challenges in dealing with a company that has stopped selling key products and the impact on the software supply chain.</li> </ul> </div> </div>",
-      "link": "https://www.computerweekly.com/news/366644902/Tesco-offloads-VMware-and-CA-software-as-Broadcom-case-rolls-on",
-      "source": "Computerweekly News",
-      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/magnifying-glass-contract-smallprint-adobe.jpeg",
-      "published": "2026-06-19 09:08:00",
-      "category": [
-        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Tokyo fire: 10 injured after huge blaze breaks out at school, all students and staff evacuated",
-      "description": "A massive rescue operation was launched in Tokyo after a fire broke out in an Elementary School, injuring ten people and trapping a teacher and three students.",
-      "link": "https://www.news9live.com/world/tokyo-school-fire-students-trapped-as-huge-blaze-breaks-out-at-elementary-school-videos-2981567",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/06/Japan-elementary-school-fire.jpg",
-      "published": "2026-06-19 09:08:00",
+      "title": "Fruit flies stay away if you place 1 common item in fruit bowl - not vinegar",
+      "description": "If you find that your kitchen has been invaded by pesky fruit flies, you don't have to use harsh chemicals to get rid of them as common item works just as well.",
+      "link": "https://www.express.co.uk/life-style/property/2219438/get-rid-of-fruit-flies-in-house",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/51/590x/2219438_1.jpg",
+      "published": "2026-06-19 10:54:00",
       "category": [
-        "world"
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Good News for Travelers: Qatar Airways Resumes Daily Kuwait Flights From T4",
+      "description": "KUWAIT CITY, Jun 19: Qatar Airways has announced the resumption of its daily flights between Doha and Kuwait City starting June 21, with services operating from Terminal 4 at Kuwai...",
+      "link": "https://www.arabtimesonline.com/news/good-news-for-travelers-qatar-airways-resumes-daily-kuwait-flights-from-t4/",
+      "source": "Kuwait News",
+      "image": "https://www.arabtimesonline.com/arabtimes/uploads/images/2026/06/19/131677.webp",
+      "published": "2026-06-19 10:54:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "kuwait"
+      ]
+    },
+    {
+      "title": "Beasley set to stay and MNCF issue warning to several officials",
+      "description": "PETALING JAYA: John Beasley could continue serving Malaysian cycling in a different capacity even if the Australian opts not to extend his contract as national technical director beyond January next year.",
+      "link": "https://www.thestar.com.my/sport/cycling/2026/06/19/beasley-set-to-stay-and-mncf-issue-warning-to-several-officials",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/19/3966973.jpg",
+      "published": "2026-06-19 10:54:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Prime Day deals under $10 that everyone wants right now",
+      "description": "Score the best Amazon Prime Day deals under $10, from viral gadgets to everyday essentials. Shop these budget-friendly finds before they sell out.",
+      "link": "https://www.dailycomet.com/story/shopping/deals/prime-day/2026/06/19/amazon-deals-under-ten-dollars/90595459007/",
+      "source": "Daily Comet",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/06/17/USAT/90598223007-undertenhero.png?auto=webp&crop=1999,1124,x0,y0&format=pjpg&width=1200",
+      "published": "2026-06-19 10:54:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Steam Machine fans face agonising 2027 wait for additional controllers",
+      "description": "Orders for the Steam Machine are expected to go live next week, but gamers looking to pick up a second controller will have to wait a while for one.",
+      "link": "https://www.express.co.uk/entertainment/gaming/2219455/steam-machine-fans-face-agonising-wait-for-controller",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/143/590x/2219455_1.jpg",
+      "published": "2026-06-19 10:54:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "BBC unveils job cuts in drive to save \u00a3500 million",
+      "description": "LONDON, U.K.: The BBC will eliminate 550 jobs, including positions in its news and content divisions, as Britain's public broadcaster accelerates a major cost-cutting program aimed at saving \u00a3500 million over the next three years. The workforce reductions form part of a broader restructuring effort under newly appointed Director-General Matt Brittin as the broadcaster seeks to adapt to changing viewing hab",
+      "link": "http://www.theuknews.com/news/279129572/bbc-unveils-job-cuts-in-drive-to-save-500-million",
+      "source": "The Uk News",
+      "image": "https://image.chitra.live/api/v1/wps/8babb3e/54409e39-95e2-4dc4-8b78-46cada36a114/1/8-BBC-Studios-London-600x315.jpg",
+      "published": "2026-06-19 10:53:59",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "in pawe\u0142 grunert's world, chairs grow like vines and wicker runs free - Designboom",
+      "description": "in pawe\u0142 grunert's world, chairs grow like vines and wicker runs free Designboom",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzk0SUwxTTA3a2RPQjc5aXlvenZleHlYWXdlNldpZmNBczNUTVVHMWZKazV1OFlNRVBYYjcwbWxpVldmbmhBYVJLSUZrVGc4MEw5bmI3TXJVMndHSURLVVYzUGtvenNlVlltOVNDb29LR19sVjBnVFdSckFwUVQ0aDhQQ2x5OHdKUFJtSVM1dDdNTjJCemZuTm85Y3pIdTlkVGt1REhVZ3NSTGJ6RWc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-19 10:53:59",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "No movement in Keller, Grapevine-Colleyville public records lawsuits",
+      "description": "Tim Davis talks about choosing his new born sons name as he thanks the board for having a meeting so he could get out of the house during a JPS Health Network monthly Board of Managers Meeting in the OPC Auditorium at John Peter Smith Hospital in Fort Worth, Texas, Thursday, May 08, 2025.",
+      "link": "https://www.star-telegram.com/news/local/education/article316182328.html",
+      "source": "Star-telegram",
+      "image": null,
+      "published": "2026-06-19 10:53:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nigerian Audiences Show Strong Affinity for Emotionally Rich Telenovelas \u2014 Ngozi Babatunde",
+      "description": "Sola Benson MultiChoice, CANAL+ Expand Telenovela Offering for Nigerian Viewers with New Novelas+ Channels Nigerian viewers' enduring love for captivating drama series has received a major boost as MultiChoice, in partnership with CANAL+, unveils plans to launch dedicated telenovela channels across Africa. The media company announced the introduction of two new channels under the Novelas+ brand, one in English and the other in Portuguese, aimed at delivering a wider selection of globally acclaimed telenovelas to audiences across the continent. The channels are scheduled to officially launch on July 1. Speaking on the development, Atinuke Ngozi Babatunde, Executive Head of Content and West Africa Channels at MultiChoice Nigeria, highlighted the strong connection Nigerian audiences have built with the telenovela genre over the years. \u201cNigerian audiences have long had a strong affinity for emotionally rich telenovelas. We are delighted to bring all the compelling flavours of these global series to viewers, carefully curated and localized for our Nigerian audiences,\u201d she said. The launch underscores MultiChoice's commitment to expanding entertainment options for subscribers by providing content that resonates with local tastes while showcasing stories from diverse cultures around the world. According to the company, the new channels will feature a rich lineup of telenovelas sourced from some of the world's most successful television markets, including Latin America, the United States, Portugal, and Turkey. These productions are known for their gripping storylines, emotional depth, family-centered narratives, romance, suspense, and dramatic plot twists that have earned them loyal followings globally. The move also builds on the success of Novelas TV, which is being rebranded as Novelas+. The channel has already established itself as the leading television destination for telenovelas in French-speaking Africa, attracting a large and dedicated audience across the region. Industry observers believe the expansion into English and Portuguese-speaking markets reflects the growing demand for serialized drama content across Africa, particularly among viewers seeking engaging, character-driven storytelling. With the rollout of the new channels, audiences in Nigeria and other African countries can expect an even broader range of premium telenovela content, further cementing the genre's popularity and strengthening MultiChoice and CANAL+'s presence in the continent's entertainment landscape.",
+      "link": "http://www.brandiconimage.com/2026/06/nigerian-audiences-show-strong-affinity.html",
+      "source": "Brand Icon Image - Latest Brand, Tech And Business",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjluTnF5bAHy80hkDL_9EQJc5Zs0oMEaCbeplTsOzSehetrPn9IW55THfANqLwAd1sypo1eWNllc_lduf5c8hOGH0WvJaq0x9wvu6cgMLvmA9e1ZlwZitWMfWXyMJhRY5y2pjAApqbx5jfHHF604BC3LZ4_VL9ohWvFUobE7F0NoEMoLpaXhr6s2AQWVGw/w1200-h675-p-k-no-nu/1000884012.jpg",
+      "published": "2026-06-19 10:53:58",
+      "category": [
+        "entertainment",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "President Ilham Aliyev presented \u201cDostlug\u201d Order to prominent Dagestani public and ...",
-      "description": null,
-      "link": "http://www.today.az/news/politics/268474.html",
-      "source": "Today.az",
-      "image": "http://www.today.az/pictures/pic268474.jpg",
-      "published": "2026-06-19 09:08:00",
+      "title": "ITV wins World Cup ratings battle with BBC in tournament\u2019s first week",
+      "description": "ITV had four of the five highest television audiences in the UK in the World Cup\u2019s first week, topped by England\u2019s 4-2 win over Croatia",
+      "link": "https://uk.sports.yahoo.com/news/itv-wins-world-cup-ratings-105356835.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZXtuEfLBqG_mp3Bjd0yQiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xOTIwO2NmPXdlYnA-/https://media.zenfs.com/en/theguardian_763/88acae338ddf2fc0f4e7536a4a64ac78",
+      "published": "2026-06-19 10:53:56",
       "category": [
-        "lifestyle",
-        "top"
+        "sports"
       ],
       "country": [
-        "azerbaijan"
+        "united kingdom"
       ]
     },
     {
-      "title": "Refinancing of Maisons du Monde Group",
-      "description": "PRESS RELEASENantes, June 19th 2026 Refinancing of Maisons du Monde Group: Comprehensive financial restructuring agreed, with a new investor consortium...",
-      "link": "https://www.globenewswire.com/news-release/2026/06/19/3314660/0/en/Refinancing-of-Maisons-du-Monde-Group.html",
-      "source": "Globe Newswire",
+      "title": "United States Intelligent Traffic Management System Market to Reach USD 36.47 Billion by 2033 | North America Holds 35.8% Market Share | Key Players: Cubic Corporation, Thales, Siemens",
+      "description": "The intelligent traffic management system market was valued at USD 13.27 billion in 2025 and is projected to reach USD 36.47 billion by 2033, growing at a CAGR of 13.5% during the forecast period from 2026 to 2033. The market",
+      "link": "https://www.openpr.com/news/4555058/united-states-intelligent-traffic-management-system-market",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/L/6/L619219142_g.jpg",
+      "published": "2026-06-19 10:53:56",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Demonstration outside York Crown Court about Palestine Action cases",
+      "description": "Local residents demonstrated outside York Crown Court to publicise their views on two cases involving Palestine Action in London.",
+      "link": "https://www.gazetteherald.co.uk/news/26210340.york-people-demonstrate-palestine-action-cases/",
+      "source": "Gazette & Herald, Ryedale",
       "image": null,
-      "published": "2026-06-19 09:08:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "\u201cSuper Sign-Up Day\u201d to be held at Jersey Library for launch of 2026 Summer Reading Challenge",
-      "description": "A \u201cSUPER Sign-up Day\u201d event for the 2026 iteration of The Reading Agency\u2019s nationwide Summer Reading Challenge will be held at Jersey Library later this month. The event, which is set to include music, stories and craft activities, is due to take place on Saturday 27 June from 9am to 5.30pm. Now in its 27th [...] The post \u201cSuper Sign-Up Day\u201d to be held at Jersey Library for launch of 2026 Summer Reading Challenge appeared first on Jersey Evening Post .",
-      "link": "https://jerseyeveningpost.com/news/2026/06/19/super-sign-up-day-to-be-held-at-jersey-library-for-launch-of-2026-summer-reading-challenge/",
-      "source": "Jersey Evening Post",
-      "image": "https://i0.wp.com/jerseyeveningpost.com/wp-content/uploads/2026/06/reading-challenge-scaled.jpg?fit=2560%2C1707&ssl=1",
-      "published": "2026-06-19 09:08:00",
-      "category": [
-        "education",
-        "top"
-      ],
-      "country": [
-        "united kingdom",
-        "jersey"
-      ]
-    },
-    {
-      "title": "Kerry County Football League: Who needs what from the final two rounds of games",
-      "description": "Much is still to be decided with regards to promotion and relegation across the seven divisions of the county football league with the penultimate round of games this weekend",
-      "link": "https://www.independent.ie/county/kerry/kerry-county-football-league-who-needs-what-from-the-final-two-rounds-of-games/a/157000502.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-06-19 09:07:59",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Celebrate Juneteenth 2026 in Massachusetts at these events",
-      "description": "Here are four ways to celebrate Juneteenth across the Commonwealth.",
-      "link": "https://www.wickedlocal.com/story/lifestyle/things-to-do/2026/06/19/juneteenth-2026-events-massachusetts-celebrations/90614266007/",
-      "source": "Wicked Local",
-      "image": "https://www.wickedlocal.com/gcdn/authoring/authoring-images/2024/06/16/NWOR/74117484007-juneteenth-joel-mackall.jpg?crop=1919,1081,x0,y179&width=1600&height=800&format=pjpg&auto=webp",
-      "published": "2026-06-19 09:07:59",
+      "published": "2026-06-19 10:53:54",
       "category": [
         "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Iran women learn schedule for 2026 Sitting Volleyball World Championships",
-      "description": "TEHRAN - The schedule for the Iran women\u2019s national sitting volleyball team at the 2026 World ParaVolley Sitting Volleyball World Championships has been confirmed, with Team Melli set to begin their campaign against Rwanda in Hangzhou, China.",
-      "link": "https://www.tehrantimes.com/news/527451/Iran-women-learn-schedule-for-2026-Sitting-Volleyball-World-Championships",
-      "source": "Tehran Times",
-      "image": "https://media.mehrnews.com/d/2025/05/17/2/5509372.jpg",
-      "published": "2026-06-19 09:07:58",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united arab emirates",
-        "bahrain",
-        "saudi arabia",
-        "turkey",
-        "yemen",
-        "france",
-        "lebanon",
-        "germany",
-        "iran",
-        "qatar",
-        "kuwait",
-        "afghanistan",
-        "iraq",
-        "syria"
-      ]
-    },
-    {
-      "title": "Dario Herrera to officiate Iran vs. Belgium",
-      "description": "TEHRAN - Argentine referee Dario Herrera will officiate the Belgium vs Iran match at the 2026 World Cup.",
-      "link": "https://www.tehrantimes.com/news/527452/Dario-Herrera-to-officiate-Iran-vs-Belgium",
-      "source": "Tehran Times",
-      "image": "https://media.mehrnews.com/d/2026/06/19/2/6067093.jpg",
-      "published": "2026-06-19 09:07:58",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united arab emirates",
-        "bahrain",
-        "saudi arabia",
-        "turkey",
-        "yemen",
-        "france",
-        "lebanon",
-        "germany",
-        "iran",
-        "qatar",
-        "kuwait",
-        "afghanistan",
-        "iraq",
-        "syria"
-      ]
-    },
-    {
-      "title": "Trump approval on Iran low even as tentative deal to end fighting emerged, new AP-NORC poll finds",
-      "description": null,
-      "link": "https://www.boston25news.com/news/politics/trump-approval-iran/UKGQADMHYE5H5HHGSN3KKBO56U/",
-      "source": "Boston 25 News",
-      "image": "https://www.boston25news.com/resizer/v2/4WMRT25R4U77NP4Z7VY6CADC7E.jpg?auth=e389f56721b764705cd7ccc0c922b2aaad7ca106d8e343b0b42c99262c42a78c&smart=true&width=4443&height=2962",
-      "published": "2026-06-19 09:07:58",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "'Landmark moment' for new Scottish hospital as planning approved",
-      "description": "PLANS for a new modern hospital to meet the \u201cevolving needs\u201d of patients in the Highlands have been approved ...",
-      "link": "https://www.thenational.scot/news/26209594.landmark-moment-new-highland-hospital-planning-approved/",
-      "source": "Thenational Scot",
-      "image": null,
-      "published": "2026-06-19 09:07:58",
-      "category": [
         "top"
       ],
       "country": [
@@ -219,106 +192,42 @@
       ]
     },
     {
-      "title": "Two men seriously injured after car crashes into tree in Warwickshire",
-      "description": null,
-      "link": "https://www.coventrytelegraph.net/news/local-news/two-men-seriously-injured-after-34149079",
-      "source": "Coventrylive",
-      "image": "https://i2-prod.coventrytelegraph.net//article34012913.ece/ALTERNATES/s615/0_Stock-Photo.jpg",
-      "published": "2026-06-19 09:07:57",
+      "title": "Tyla Gets Emotional On New Single \u2018IS IT LOVE\u2019",
+      "description": "Tyla has shared her new single \u2018IS IT LOVE\u2019. The afro-pop phenomenon lit up the FIFA World Cup festivities during the week, performing her 2026 World Cup single \u2018Game Time\u2019 with Future. Fresh from this hype, Tyla has shared her emotional new single \u2018IS IT LOVE\u2019 in full, which is accompanied by... The post Tyla Gets Emotional On New Single \u2018IS IT LOVE\u2019 appeared first on Clash Magazine Music News, Reviews & Interviews .",
+      "link": "https://www.clashmusic.com/news/tyla-gets-emotional-on-new-single-is-it-love/",
+      "source": "Clashmusic",
+      "image": "https://www.clashmusic.com/wp-content/uploads/2026/06/TYLA_IsItLove_1076_LeadPress_PhMichaelDrummond_LR.jpg",
+      "published": "2026-06-19 10:53:54",
       "category": [
-        "crime",
-        "top"
+        "entertainment"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "DP World subsidiary wins top Dubai Neurotechnology Innovation Award in 2026",
-      "description": "The award places the Centre among the leading innovators in healthcare, particularly in neurotechnology and personalised rehabilitation.",
-      "link": "https://www.healthcaremea.com/2026/06/19/dp-world-subsidiary-wins-top-dubai-neurotechnology-innovation-award-in-2026/",
-      "source": "Healthcaremea",
-      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/06/image-1600x900-2026-06-19T120259.729.png",
-      "published": "2026-06-19 09:07:56",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united arab emirates",
-        "jordan",
-        "saudi arabia",
-        "egypt"
-      ]
-    },
-    {
-      "title": "NGO chief says 160 refugees in government housing",
-      "description": "The head of an NGO supporting asylum seekers said that there 160 refugees are housed in government-run asylum centers.",
-      "link": "https://n1info.rs/english/news/ngo-chief-says-160-refugees-in-government-housing/",
-      "source": "N1",
-      "image": "https://n1info.rs/media/images/1694809850-66816702_906-1024x576.width-1200.jpg",
-      "published": "2026-06-19 09:07:56",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "serbia"
-      ]
-    },
-    {
-      "title": "Rainy season arrives, but Florida wildfires are still burning",
-      "description": "Stubborn drought and deep-burning fuels keep dozens of fires active statewide, spreading smoke, health risks and straining firefighting efforts.",
-      "link": "https://www.palmbeachpost.com/story/weather/2026/06/19/florida-wildfires-burn-near-miami-during-wet-season-much-state-drought/90588567007/",
-      "source": "Palm Beach Post",
-      "image": "https://www.palmbeachpost.com/gcdn/authoring/authoring-images/2026/06/18/NPPP/90606831007-lochloosawestfire.jpg?crop=675,381,x0,y249&width=675&height=337&format=pjpg&auto=webp",
-      "published": "2026-06-19 09:07:54",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ralph Recto: P60-B fund transfer didn't affect PhilHealth operations",
-      "description": "Executive Secretary Ralph Recto on Friday maintained that he is not liable over the P60 billion PhilHealth fund transfer to the National Treasury during his tenure as Finance chief, saying such transfer did not affect the state insurer\"s operations.",
-      "link": "https://www.gmanetwork.com/news/topstories/nation/992036/ralph-recto-p60-b-fund-transfer-didn-t-affect-philhealth-operations/story/",
+      "title": "Ian de Leon explains one-person corp. established for Nora Aunor's legacy, promises to be fair to siblings",
+      "description": "Ian de Leon has clarified the purpose of the One-Person Corporation (OPC) established to manage his late mom Nora Aunor's legacy.",
+      "link": "https://www.gmanetwork.com/news/showbiz/chikaminute/992055/ian-de-leon-explains-one-person-corporation-established-for-nora-aunor-s-legacy-promises-to-be-fair-t/story/",
       "source": "Gma News Online",
-      "image": "https://images.gmanews.tv/webpics/2026/05/ralphrecto_2026_05_25_12_51_06.jpg",
-      "published": "2026-06-19 09:07:54",
+      "image": "https://images.gmanews.tv/webpics/2026/06/image_2026_06_19_18_52_18.png",
+      "published": "2026-06-19 10:53:54",
       "category": [
-        "business",
-        "top"
+        "entertainment"
       ],
       "country": [
         "philippines"
       ]
     },
     {
-      "title": "John Cook selected to Nebraska Athletics 2026 Hall of Fame class",
-      "description": "Nebraska athletics announced its 2026 Hall of Fame class. Many notable former Huskers made the list, including former volleyball head coach John Cook.",
-      "link": "https://sports.yahoo.com/articles/john-cook-selected-nebraska-athletics-090752668.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/v.BCUIHOa1bgI3..M.7KsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjA2O2NmPXdlYnA-/https://media.zenfs.com/en/cornhuskers_wire_usa_today_articles_194/a1d672140791a9e631f80719b32e7357",
-      "published": "2026-06-19 09:07:52",
+      "title": "Harshit Rana added to India squad for third ODI against Afghanistan",
+      "description": "CHENNAI: Seamer Harshit Rana has been added to the India squad for the third and final One-Day International match against Afghanistan, which will be played on Saturday at the MA Chidambaram Stadium in Chennai. The Board of Control for Cricket in India (BCCI) informed about Rana\u2019s addition to the India squad just a day before [...]",
+      "link": "https://english.publictv.in/harshit-rana-added-to-india-squad-for-third-odi-against-afghanistan/",
+      "source": "Public Tv English",
+      "image": "https://i0.wp.com/english.publictv.in/wp-content/uploads/2026/06/Harshit-Rana-odi.jpg",
+      "published": "2026-06-19 10:53:52",
       "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Why Trump Thinks He's More Powerful Than Napoleon. This Post Is Key",
-      "description": "The post, written by a \u2018Dave King\u2019, compared Trump\u2019s influence with some of history\u2019s most well-known rulers and military leaders, including William the Conqueror, Genghis Khan, Napoleon and Alexander the Great.",
-      "link": "https://www.ndtv.com/world-news/why-trump-thinks-hes-more-powerful-than-napoleon-this-post-is-key-11658321",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-06/q6r1elik_trump_625x300_19_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "published": "2026-06-19 09:07:52",
-      "category": [
-        "politics",
+        "sports",
         "top"
       ],
       "country": [
@@ -326,86 +235,18 @@
       ]
     },
     {
-      "title": "Colorado State Fair calls for art, craft and other contest entries",
-      "description": "Artists and crafters, chefs and gardeners are invited to enter the 2026 Colorado State Fair competitions.",
-      "link": "https://www.chieftain.com/story/entertainment/arts/2026/06/19/colorado-state-fair-has-contests-for-art-cooking-produce-and-more/90608016007/",
-      "source": "Pueblo Chieftain",
-      "image": "https://www.chieftain.com/gcdn/authoring/authoring-images/2025/09/01/NTPC/85925262007-fair-midway-carnival.jpg?crop=2399,1350,x0,y123&width=1600&height=800&format=pjpg&auto=webp",
-      "published": "2026-06-19 09:07:51",
+      "title": "Trio of inmates who murdered child killer in his cell will never be released",
+      "description": "Convicted killers Mark Fellows, 45, Lee Newell, 57, and David Taylor, 64, stabbed Kyle Bevan to death at high-security HMP Wakefield.",
+      "link": "https://www.bridgwatermercury.co.uk/news/national/26210272.trio-inmates-murdered-child-killer-cell-will-never-released/",
+      "source": "Bridgwater Mercury News",
+      "image": "https://www.bridgwatermercury.co.uk/resources/images/21070680/",
+      "published": "2026-06-19 10:53:51",
       "category": [
-        "tourism",
+        "crime",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Karan Kundrra Responds To Trolls Over Seeking Parents\u2019 Approval Before Proposing To Tejasswi Prakash: \u2018If Not Family...\u2019",
-      "description": "Karan Kundrra has addressed criticism over reports that he consulted his parents before proposing to longtime partner Tejasswi Prakash. The actor's response has reignited a larger conversation online about modern relationships, family involvement in marriage decisions, and changing social expectations.",
-      "link": "https://www.newsx.com/entertainment/karan-kundrra-responds-to-trolls-over-seeking-parents-approval-before-proposing-to-tejasswi-prakash-if-not-family-237378/",
-      "source": "Newsx",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/06/tsg-2026-06-19t133231136.png",
-      "published": "2026-06-19 09:07:50",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Amazon points to water conservation steps in India amid data centre scrutiny",
-      "description": "MUMBAI, June 19 : Amazon said on Friday its Indian operations had reached a major milestone in water conservation, at a time when global tech giants face increasing pressure over their expansion of resource-hungry AI data centres.The U.S.-based company announced it had turned \"water positive\" in India this ye",
-      "link": "https://www.channelnewsasia.com/business/amazon-points-water-conservation-steps-in-india-amid-data-centre-scrutiny-6195481",
-      "source": "Channel Newsasia",
-      "image": "https://dam.mediacorp.sg/image/upload/s--NZTIN6Ik--/c_fill,g_auto,h_338,w_600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-19T090749Z_1_LYNXMPEM5I0IT_RTROPTP_3_INDIA-RETAIL.JPG?itok=SsAex5qU",
-      "published": "2026-06-19 09:07:49",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "hong kong",
-        "india",
-        "nepal",
-        "singapore",
-        "mongolia",
-        "kuwait",
-        "thailand",
-        "vietnam",
-        "china",
-        "philippines",
-        "maldives",
-        "malaysia",
-        "bangladesh",
-        "bhutan",
-        "turkey",
-        "taiwan",
-        "myanmar",
-        "japan",
-        "south korea",
-        "north korea",
-        "indonesia",
-        "sri lanka",
-        "pakistan",
-        "afghanistan",
-        "cambodia"
-      ]
-    },
-    {
-      "title": "US lifts maritime blockade on Iranian ports and coastal areas",
-      "description": "Last Updated on June 19, 2026 2:38 pm by INDIAN AWAAZ AMN/ WEB DESK The United States has lifted its maritime blockade on vessels entering and leaving Iranian ports and coastal areas. US Central Command (CENTCOM) has said that all enforcement operations have been halted in line with President Donald Trump\u2019s directive. In a statement [...]",
-      "link": "https://theindianawaaz.com/us-lifts-maritime-blockade-on-iranian-ports-and-coastal-areas/",
-      "source": "The Indian Awaaz",
-      "image": null,
-      "published": "2026-06-19 09:07:48",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
+        "united kingdom"
       ]
     }
   ]

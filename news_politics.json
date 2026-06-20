@@ -1,50 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Witkoff heads to Switzerland for Iran talks delayed by Tehran's last-minute freeze",
-      "description": "US envoy Steve Witkoff is reportedly headed to Switzerland for nuclear talks, which Iran delayed over Israeli military operations against Hezbollah in Lebanon. Unclear if Vance will join.",
-      "link": "https://www.israelnationalnews.com/news/428911",
-      "source": "Israelnationalnews",
-      "image": "https://2.a7.org/files/pictures/000/undefined.jpg",
-      "published": "2026-06-19 23:15:56",
+      "title": "Early voting continues across Erie County; Day 7 numbers reported",
+      "description": "Early voting is underway in Erie County, and election officials just released the latest numbers.",
+      "link": "https://www.wgrz.com/article/news/politics/elections/early-voting-numbers-erie-county-primary-election/71-77065c0f-d886-4618-9d34-b2f844f61014",
+      "source": "Buffalo",
+      "image": null,
+      "published": "2026-06-20 01:57:53",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "israel"
+        "united states of america"
       ]
     },
     {
-      "title": "Zelensky threatens to attack Belarus",
-      "description": "The Ukrainian leader has demanded that Minsk remove its air defense radars from the border within a week, vowing to destroy them otherwise Ukraine's Vladimir Zelensky has issued an ultimatum to Belarusian President Alexander Lukashenko, threatening him with military action if Minsk fails to meet Kiev's demand, just days after a deadly drone strike on a bus carrying a children's soccer team from B",
-      "link": "http://www.russiaherald.com/news/279135022/zelensky-threatens-to-attack-belarus",
-      "source": "Russia Herald",
-      "image": "https://image.chitra.live/api/v1/wps/bff24a7/e7226890-02a7-4dbd-96a9-6e6d115a7075/0/MWRjZWY3MTQtZGE-600x315.jpg",
-      "published": "2026-06-19 23:15:47",
+      "title": "Pope Leo's popularity with Republican Catholics plummets after his bitter feuds with Trump",
+      "description": "The Chicago-born pontiff and the President were at odds over the Iran War and other issues, as Trump at one point issued frequent blistering statements slamming Pope Leo.",
+      "link": "https://www.dailymail.com/news/article-15914299/Pope-Leo-popularity-Republican-Catholics-Trump.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/06/20/02/109481821-0-image-a-12_1781918064389.jpg",
+      "published": "2026-06-20 01:57:38",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Poland strips Zelenskyy of top honor as WW2 dispute sours ties",
-      "description": "Poland's president has decided to strip Volodymyr Zelenskyy of the country's top honor after the Ukrainian president caused outrage by renaming an army unit after the Ukrainian Insurgent Army (UPA), nationalists who massacred Poles during World War Two.",
-      "link": "https://www.gmanetwork.com/news/topstories/world/992104/poland-strips-zelenskyy-of-top-honor-as-ww2-dispute-sours-ties/story/",
-      "source": "Gma News Online",
-      "image": "https://images.gmanews.tv/webpics/2025/05/2025-05-04T152515Z_2130683888_RC23BEAWN3SK_RTRMADP_3_UKRAINE-CRISIS-CZECH_2025_05_05_01_16_34.JPG",
-      "published": "2026-06-19 23:15:46",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "philippines"
+        "united kingdom"
       ]
     }
   ]

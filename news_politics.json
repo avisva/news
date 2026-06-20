@@ -1,35 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Italy's top diplomat cancels US trip as Meloni slams Trump's claim she 'begged' for a photo with him - AP News",
-      "description": "Italy's top diplomat cancels US trip as Meloni slams Trump's claim she 'begged' for a photo with him AP News Italian PM Meloni says she was \u2018astonished\u2019 by Trump claims that she \u2018begged\u2019 him for a photo - Europe live The Guardian Italian foreign minister cancels trip to US over Trump\u2019s comments about Meloni CNN Trump Says Meloni Begged for a Photo. She Says He Made It Up Bloomberg.com Italy's Meloni says Trump 'totally invented' story that she begged him for photo Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWhVSXE0UWRfVG9QMTluVWstWklCSFF0aU9JaWU4WXNxVnRua1VrZG1SaDI0dDd2THJWMFkwbU5ZZ185YkxRcVJaVzZlTDBvN09vcjBZNDJ1ZUlaQjg5M24wcnRLdENFNVFJUVdpNkk0QXF5ckpzTnZ0RDBzOFZGQzRnTklwVklt?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-19 12:07:00",
+      "title": "Hungarian PM reveals details of meeting with Zelenskyy, says they discussed potential meeting in Berehove",
+      "description": "Hungarian Prime Minister Peter Magyar has mentioned his meeting with Ukrainian President Volodymyr Zelenskyy during a press conference after an EU summit.",
+      "link": "https://www.pravda.com.ua/eng/news/2026/06/19/8040221/",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/853861/87925e6f28ecfecab70fd60f52d5b809.jpeg",
+      "published": "2026-06-19 17:11:00",
       "category": [
         "politics",
         "top"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Mowing for muscles",
+      "description": "\u201cVanity of vanities, says the Preacher, vanity of vanities! All is vanity. What does man gain by all the toil at which he toils under the sun? A generation goes, and a generation comes, but the earth remains forever.\u201d",
+      "link": "https://www.couriernews.com/opinion/mowing-for-muscles/article_49b1d759-5a1f-56e4-a4aa-7c17ad3a92df.html",
+      "source": "The Courier",
+      "image": null,
+      "published": "2026-06-19 17:11:00",
+      "category": [
+        "politics"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "How a congressional redistricting battle could gain new life for the 2028 elections",
-      "description": "The ballots remain to be cast for the November midterm elections. Yet Democrats and Republicans in some states already are looking at how they could reshape",
-      "link": "https://us.headtopics.com/news/how-a-congressional-redistricting-battle-could-gain-new-84692430",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/6/19/mynorthwest/how-a-congressional-redistricting-battle-could-gai-how-a-congressional-redistricting-battle-could-gai-FE39348BB1A0349F010BA075EC572EF2.webp",
-      "published": "2026-06-19 12:06:59",
+      "title": "Ireland deports 42 South Africans on chartered flight",
+      "description": "Forty-two South African nationals who were living in Ireland without legal permission have been deported on a chartered flight as part of an immigration",
+      "link": "https://www.citinewsroom.com/2026/06/ireland-deports-42-south-africans-on-chartered-flight/",
+      "source": "Citinewsroom - Comprehensive News In Ghana",
+      "image": "https://www.citinewsroom.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-161100.png",
+      "published": "2026-06-19 17:11:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united states of america"
+        "ghana"
       ]
     }
   ]

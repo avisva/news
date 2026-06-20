@@ -1,20 +1,79 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Porsche CEO aims to finalise new cost-cutting package by July",
-      "description": "Porsche's CEO anticipates a swift resolution to cost-cutting talks, aiming for employee agreement before July holidays to provide clarity. The company plans to reduce production and make money with fewer cars, following previous job cuts. Porsche is also set for closer collaboration with Audi and will continue its entry-level 718 series, as it navigates challenges like tariffs and geopolitical issues.",
-      "link": "https://economictimes.indiatimes.com/news/international/business/porsche-ceo-aims-to-finalise-new-cost-cutting-package-by-july/articleshow/131870844.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-131870876,resizemode-4,width-1200,height-900,imgsize-80112,overlay-economictimes/articleshow.jpg",
-      "published": "2026-06-20 05:23:16",
+      "title": "Trump predstavio mlaz\u030cnjak koji je dobio od Katara: \u2018Leti dalje i brz\u030ce od bilo kojeg Air Force Onea\u2019",
+      "description": "Opisao ga je kao 'najvec\u0301i Air Force One ikad izgra\u0111en'",
+      "link": "https://www.telegram.hr/vijesti/trump-predstavio-mlaznjak-koji-je-dobio-od-katara-leti-dalje-i-brze-od-bilo-kojeg-air-force-onea/",
+      "source": "Telegram",
+      "image": "https://www.telegram.hr/wp-content/uploads/2026/06/afp-20260619-b7p44fh-v1-midres-uspresidentdonaldtrumpdepartswhitehouseforcampda-150x150.jpg",
+      "published": "2026-06-20 07:21:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
+        "croatia"
+      ]
+    },
+    {
+      "title": "Facebook changes moetization requirements \u2013 Check new minimum views target",
+      "description": "Leading social media platform, Facebook, has introduced changes to its monetization system, taking a step toward making the process of...",
+      "link": "https://pakobserver.net/facebook-changes-moetization-requirements-check-new-minimum-views-target/",
+      "source": "Pakistan Observer",
+      "image": "https://pakobserver.net/wp-content/uploads/2026/06/facebook-changes-moetization-requirements-check-new-minimum-views-target-pakobserver-761029.jpg",
+      "published": "2026-06-20 07:21:54",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Aimbridge debuts S.P.A.R.K. platform",
+      "description": null,
+      "link": "https://www.asianhospitality.com/aimbridge-debuts-s-p-a-r-k-platform/",
+      "source": "Asian Hospitality",
+      "image": "https://www.asianhospitality.com/media-library/aimbridge-hospitality-launched-s-p-a-r-k-a-platform-for-site-visits-audits-and-action-plans-across-its-managed-properties.jpg?id=66970819&width=1200",
+      "published": "2026-06-20 07:21:40",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Jio sees further upside in ARPU, could rise to Rs 326 per month by FY31",
+      "description": "Jio expects India's mobile broadband ARPU to climb to Rs 326.4 by FY31 as data usage and digital service adoption continue to rise. The post Jio sees further upside in ARPU, could rise to Rs 326 per month by FY31 appeared first on MEDIANAMA .",
+      "link": "https://www.medianama.com/2026/06/223-jio-arpu-growth-to-reach-rs326-fy31-ipo-drhp/",
+      "source": "Medianama",
+      "image": "https://www.medianama.com/wp-content/uploads/2022/02/Jio_sim.jpg",
+      "published": "2026-06-20 07:21:25",
+      "category": [
+        "technology"
+      ],
+      "country": [
         "india"
+      ]
+    },
+    {
+      "title": "EPFO update: PF withdrawals through UPI and ATMs may soon become possible",
+      "description": "The Employees\u2019 Provident Fund Organisation (EPFO) is preparing to introduce a new mobile application that will connect directly with members\u2019 bank accounts and integrate with UPI platforms such as BHIM and other digital payment services, aiming to make PF-related services faster and more convenient.EPFO update: PF withdrawals through UPI and ATMs may soon become possible [...] The post EPFO update: PF withdrawals through UPI and ATMs may soon become possible appeared first on ANC .",
+      "link": "https://www.asian-news-channel.tv/epfo-update-pf-withdrawals-through-upi-and-atms-may-soon-become-possible/",
+      "source": "Anc",
+      "image": "https://www.asian-news-channel.tv/wp-content/uploads/2026/06/Epfo.jpg",
+      "published": "2026-06-20 07:21:25",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "sri lanka"
       ]
     }
   ]

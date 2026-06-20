@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Porsche CEO aims to finalise new cost-cutting package by July",
+      "description": "Porsche's CEO anticipates a swift resolution to cost-cutting talks, aiming for employee agreement before July holidays to provide clarity. The company plans to reduce production and make money with fewer cars, following previous job cuts. Porsche is also set for closer collaboration with Audi and will continue its entry-level 718 series, as it navigates challenges like tariffs and geopolitical issues.",
+      "link": "https://economictimes.indiatimes.com/news/international/business/porsche-ceo-aims-to-finalise-new-cost-cutting-package-by-july/articleshow/131870844.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-131870876,resizemode-4,width-1200,height-900,imgsize-80112,overlay-economictimes/articleshow.jpg",
+      "published": "2026-06-20 05:23:16",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

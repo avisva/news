@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Man charged with first-degree murder in southeast Albuquerque baseball bat death",
-      "description": "Darren DeHerrera faces first-degree murder charges after Dwayne Burwell died from a baseball bat attack in southeast Albuquerque. Police used surveillance footage to identify DeHerrera following the June 14 incident.",
-      "link": "https://www.abqjournal.com/news/man-arrested-in-beating-death/3066214",
-      "source": "Albuquerque Journal",
-      "image": "https://image.abqjournal.com/?imageId=2987099&format=webp&width=1200",
-      "published": "2026-06-20 01:58:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

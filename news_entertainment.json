@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Beyond the Box Score Ep. 1",
-      "description": "VIDEO: Welcome to Episode 1 of Beyond the Box Score!",
-      "link": "https://www.gopresstimes.com/stories/beyond-the-box-score-ep-1,340950",
-      "source": "Press Times",
-      "image": "https://c1d1240dac614ec444f9-b0ed3d38e84c0c38bca478b576ef62cc.ssl.cf1.rackcdn.com/mmc-283631-20260619022802.png",
-      "published": "2026-06-19 17:11:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "description": null,
-      "link": "https://www.times-herald.com/arts_and_community/reviews/toy-story-5/article_9cb96bc5-a0fe-407d-a7e0-87d68f1d8f88.html",
-      "source": "Times-herald.com",
-      "image": null,
-      "published": "2026-06-19 17:11:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "georgia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,16 +1,31 @@
 {
   "status": "success",
-  "totalResults": 11,
+  "totalResults": 16,
   "results": [
     {
-      "title": "Roundup: Vermont announces squad for Twin State Baseball Classic",
-      "description": "WHITE RVIER JCT. \u2014 Eighteen of the top senior baseball players from the Green Mountain State will represent Vermont against New Hampshire in the upcoming 2026 Twin State Baseball Classic.",
-      "link": "https://www.timesargus.com/sports/local/roundup-vermont-announces-squad-for-twin-state-baseball-classic/article_ab99dab7-619d-59f8-b6de-56d10bc12c69.html",
-      "source": "Times Argus",
-      "image": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/assets/v3/editorial/1/ac/1ac7b62c-1cf2-55f9-bc31-f1f483ca4d2e/6a35791fbdf05.image.jpg?crop=1730%2C908%2C0%2C144&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-19 17:11:00",
+      "title": "PHOTOS: Chilliwack photographer captures rare moment of herons raised by eagle",
+      "description": "Ian McAlpine shares story of \u2018once in a lifetime\u2019 photos; biologist called it \u2018fascinating behaviour\u2019",
+      "link": "https://theprogress.com/2026/06/19/photos-chilliwack-photographer-captures-rare-moment-of-herons-raised-by-eagle/",
+      "source": "Chilliwack Progress",
+      "image": "https://theprogress.com/wp-content/uploads/sites/3/2026/06/42579866_web1_HeronsRaisedByEagles_IanMcAlpine4.jpg",
+      "published": "2026-06-19 20:52:00",
       "category": [
-        "sports",
+        "environment",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Alabama man convicted in 1975 gets ruling overturned after serving full sentence",
+      "description": "A Jefferson County man has won a reversal of his 1975 rape conviction after a judge found the eyewitness identification was likely unreliable.",
+      "link": "https://www.wvtm13.com/article/ervin-harris-conviction-overturned-jefferson-county/71640500",
+      "source": "Wvtm13",
+      "image": "https://kubrick.htvapps.com/vidthumb/2f1ee8d5-8182-4318-94ea-912f8756d0e2/23cedb1f-7e40-4591-a529-084f6aef161a.jpg?crop=0.749xw:0.749xh;0.182xw,0.0318xh&resize=1200:*",
+      "published": "2026-06-19 20:52:00",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -18,27 +33,12 @@
       ]
     },
     {
-      "title": "Beyond the Box Score Ep. 1",
-      "description": "VIDEO: Welcome to Episode 1 of Beyond the Box Score!",
-      "link": "https://www.gopresstimes.com/stories/beyond-the-box-score-ep-1,340950",
-      "source": "Press Times",
-      "image": "https://c1d1240dac614ec444f9-b0ed3d38e84c0c38bca478b576ef62cc.ssl.cf1.rackcdn.com/mmc-283631-20260619022802.png",
-      "published": "2026-06-19 17:11:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Next Weather: WBZ Midday Update For June 19",
+      "title": "Pollution closes 10 Iowa beaches this weekend",
       "description": null,
-      "link": "https://www.cbsnews.com/boston/video/next-weather-wbz-midday-update-for-june-19-3/",
-      "source": "Cbs Boston",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/19/91c7fe3a-4eb4-4a75-846a-8f583506a72d/thumbnail/1024x576/ec68f43aafbf0aabed5121cf84f24754/1a28ddb58a37fadb4533b2a31fc864fc.jpg",
-      "published": "2026-06-19 17:11:00",
+      "link": "https://www.thegazette.com/news/pollution-closes-10-iowa-beaches-this-weekend/article_84781b9d-d06a-4442-8e87-885959dfafb7.html",
+      "source": "The Gazette",
+      "image": null,
+      "published": "2026-06-19 20:52:00",
       "category": [
         "environment",
         "top"
@@ -48,44 +48,97 @@
       ]
     },
     {
-      "title": "Creston RCMP seeking Clark Patrick Hills",
-      "description": null,
-      "link": "https://grandforksgazette.ca/2026/06/19/creston-rcmp-seeking-clark-patrick-hills/",
-      "source": "Grand Forks Gazette",
-      "image": "https://grandforksgazette.ca/wp-content/uploads/sites/22/2026/06/42611666_web1_rcmp-logoC.jpg",
-      "published": "2026-06-19 17:11:00",
+      "title": "Trump shows off newly refurbished Qatar-donated Air Force One jet",
+      "description": "President Trump on Friday introduced the newly refurbished aircraft donated by Qatar that will serve as Air Force One, calling it a \"flying White House with a level of luxury no one has ever seen before.\"",
+      "link": "https://www.washingtontimes.com/news/2026/jun/19/trump-shows-newly-refurbished-qatar-donated-air-force-one-jet/",
+      "source": "The Washington Times",
+      "image": "https://twt-thumbs.washtimes.com/media/image/2026/06/19/Trump_51814_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+      "published": "2026-06-19 20:51:54",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Tigris, new Hi-Fi listening bar, cafe\u0301 and soundroom, is opening in Detroit Saturday",
+      "description": "Detroit's Mexicantown will be welcoming a new addition to its music and hospitality scene tomorrow with the opening of Tigris, a Hi-Fi listening bar.",
+      "link": "https://www.wxyz.com/news/tigris-new-hi-fi-listening-bar-cafe-and-soundroom-is-opening-in-detroit-saturday",
+      "source": "Wxyz",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/73d2ed6/2147483647/strip/true/crop/4284x2249+0+2440/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F51%2F7c%2F63dea4fe462ea7465239d7441960%2Fimg-2010.jpeg",
+      "published": "2026-06-19 20:51:54",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Three-year-old boy rushed to hospital after being pulled from Phoenix pool",
+      "description": "At around 1:30 p.m. Friday, Phoenix Fire crews were alerted to a drowning call near 10th Avenue and Colter Street, near Camelback Road.",
+      "link": "https://www.abc15.com/news/local-news/three-year-old-boy-rushed-to-hospital-after-being-pulled-from-phoenix-pool",
+      "source": "Abc 15",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/2cfdd12/2147483647/strip/true/crop/4288x2251+0+298/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2Ffd%2F5ea393f84adaa5179bb7013be959%2Fswimming-pool-side-sbi-300617066.jpg",
+      "published": "2026-06-19 20:51:54",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     },
     {
-      "title": "Toy Story 5",
+      "title": "Edinburgh airport evacuated LIVE updates: Bomb squad rush to scene",
+      "description": "Crowds of passengers have been evacuated from Edinburgh airport after a 'potentially suspicious package' was identified",
+      "link": "https://www.mirror.co.uk/news/uk-news/edinburgh-airport-evacuated-live-updates-37323243",
+      "source": "Mirror",
+      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37323241.ece/ALTERNATES/s615/0_HLM3gEJWoAAmFWP.jpg",
+      "published": "2026-06-19 20:51:53",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Coach Clarke boosts Scotland defence, Morocco unchanged from opener",
       "description": null,
-      "link": "https://www.times-herald.com/arts_and_community/reviews/toy-story-5/article_9cb96bc5-a0fe-407d-a7e0-87d68f1d8f88.html",
-      "source": "Times-herald.com",
-      "image": null,
-      "published": "2026-06-19 17:11:00",
+      "link": "https://www.reuters.com/sports/soccer/coach-clarke-boosts-scotland-defence-morocco-unchanged-opener-2026-06-19/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/EXWZ6UQT7FPOPC4YXP7Y353IOM.jpg?auth=05759556966a4c74bcb7f51001668e98884492b427078c6079afcde7bd2fb47e&smart=true&width=1920",
+      "published": "2026-06-19 20:51:43",
       "category": [
         "top",
-        "entertainment"
+        "sports"
       ],
       "country": [
-        "georgia"
+        "united kingdom",
+        "russia",
+        "south africa",
+        "india",
+        "iran",
+        "japan",
+        "united states of america",
+        "china",
+        "ukraine",
+        "israel"
       ]
     },
     {
-      "title": "Aileen's World: The History of Our Town",
-      "description": "Some Athenians spend only a few years here while attending Ohio University. Others, like me, have spent most of their adult lives here and have witnessed dramatic changes in our city. They may remember the passenger train that made daily...",
-      "link": "https://www.athensmessenger.com/comment/aileens-world-the-history-of-our-town/article_2872f973-7c6c-43f1-bdc8-599766728b26.html",
-      "source": "Athensmessenger",
-      "image": "https://bloximages.chicago2.vip.townnews.com/athensmessenger.com/content/tncms/custom/image/ae3f5234-5e14-11e5-b810-af4f379567bf.jpg?resize=200%2C200",
-      "published": "2026-06-19 17:11:00",
+      "title": "Israel Is Likely to Continue Attacks in Lebanon, U.S. Intelligence Concludes",
+      "description": "The new cease-fire between the United States and Iran calls for an end to fighting in Lebanon, but U.S. intelligence officials do not expect Israel to halt its strikes on Hezbollah.",
+      "link": "https://www.nytimes.com/2026/06/19/us/politics/israel-lebanon-trump-cease-fire.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2026/06/19/multimedia/19dc-intel-wzfk/19dc-intel-wzfk-mediumSquareAt3X.jpg",
+      "published": "2026-06-19 20:51:42",
       "category": [
-        "education",
+        "politics",
         "top"
       ],
       "country": [
@@ -93,29 +146,29 @@
       ]
     },
     {
-      "title": "Hungarian PM reveals details of meeting with Zelenskyy, says they discussed potential meeting in Berehove",
-      "description": "Hungarian Prime Minister Peter Magyar has mentioned his meeting with Ukrainian President Volodymyr Zelenskyy during a press conference after an EU summit.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/06/19/8040221/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/853861/87925e6f28ecfecab70fd60f52d5b809.jpeg",
-      "published": "2026-06-19 17:11:00",
+      "title": "Conferencia del Episcopado Dominicano (CED)",
+      "description": "Todas las noticias del acontecer nacional de la Repu\u0301blica Dominicana y el resto del mundo.",
+      "link": "https://www.elcaribe.com.do/panorama/pais/conferencia-del-episcopado-dominicano-ced/",
+      "source": "El Caribe",
+      "image": "https://img.mmc.com.do/elcaribe-bucket/uploads/2026/06/Fachada-de-la-CED.jpg.webp",
+      "published": "2026-06-19 20:51:42",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ukraine"
+        "dominican republic"
       ]
     },
     {
-      "title": "WVU baseball is headed in the right direction",
-      "description": "MORGANTOWN, W.Va. \u2014 Two swings of the bat. That is where we begin today, each carrying a message that speaks to where West Virginia baseball is and where it is",
-      "link": "https://www.wvnews.com/bluegoldnews/wvu-baseball-is-headed-in-the-right-direction/article_3f535cbe-bfac-407d-aab1-15fd85111389.html",
-      "source": "Wv News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/1/0f/10f817c0-8d27-4ab3-a841-cf298bdc162b/6a33ed948fa24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-06-19 17:11:00",
+      "title": "Israel Is Likely to Continue Attacks in Lebanon, U.S. Intelligence Concludes - The New York Times",
+      "description": "Israel Is Likely to Continue Attacks in Lebanon, U.S. Intelligence Concludes The New York Times The Israeli Ultra-Hawks Who Feel Betrayed by Trump\u2019s Iran Deal The New Yorker Netanyahu fumes, allies rage over Trump's Iran deal Axios Trump's Treaty of Versailles Crowns Israel's October 7 War as a Strategic Defeat Haaretz Poll: 71% of Israelis don\u2019t trust Trump to look out for them in Iran deal; just 11% say Israel won war The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONkp2aUloZEhnSUxBUi02aUM0NTktYUhEWXlKaVZHa1Y5WFJHcEZrVFQxajNlTzNLOEdvME5NdlQ4QVNkd3pwckEtNk1sWlNoalNJRjVzVG90SDRZSWFJb25LX0ZVV2Q5cTFwZDFsSGQ3aFRlVHJDNUltQjBRa0JmbGxnaUxGem4wQUVn?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-19 20:51:42",
       "category": [
-        "sports",
+        "politics",
         "top"
       ],
       "country": [
@@ -123,29 +176,29 @@
       ]
     },
     {
-      "title": "Ireland deports 42 South Africans on chartered flight",
-      "description": "Forty-two South African nationals who were living in Ireland without legal permission have been deported on a chartered flight as part of an immigration",
-      "link": "https://www.citinewsroom.com/2026/06/ireland-deports-42-south-africans-on-chartered-flight/",
-      "source": "Citinewsroom - Comprehensive News In Ghana",
-      "image": "https://www.citinewsroom.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-161100.png",
-      "published": "2026-06-19 17:11:00",
+      "title": "Brown County names interim director for Neville Public Museum",
+      "description": "Brown County named a new interim director for the Neville Public Museum during a debate over the future of the museum.",
+      "link": "https://www.wbay.com/2026/06/19/brown-county-names-interim-director-neville-public-museum/",
+      "source": "Https://www.wbay.com",
+      "image": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/T7IVOGFUKBEKXLT5BR255BNPZI.jpg?auth=12b6b2277970b5a0bbde7096f48f5ef3a7c534d65cb30597d80a7652f1d1a851&width=1200&height=600&smart=true",
+      "published": "2026-06-19 20:51:40",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ghana"
+        "united states of america"
       ]
     },
     {
-      "title": "4 brothers get life term for youth\u2019s murder in 2017",
-      "description": "4 brothers get life term for youth\u2019s murder in 2017",
-      "link": "https://timesofindia.indiatimes.com/city/meerut/4-brothers-get-life-term-for-youths-murder-in-2017/articleshow/131863546.cms",
+      "title": "\u2018Monkey business\u2019 on Instagram: Wildlife raid in Ludhiana finds empty cage.",
+      "description": "\u2018Monkey business\u2019 on Instagram: Wildlife raid in Ludhiana finds empty cage.",
+      "link": "https://timesofindia.indiatimes.com/city/ludhiana/monkey-business-on-instagram-wildlife-raid-in-ludhiana-finds-empty-cage-/articleshow/131866607.cms",
       "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-131863545/131863545.jpg",
-      "published": "2026-06-19 17:10:56",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-131866605/131866605.jpg",
+      "published": "2026-06-19 20:51:38",
       "category": [
-        "crime",
+        "environment",
         "top"
       ],
       "country": [
@@ -153,18 +206,47 @@
       ]
     },
     {
-      "title": "WorkSafeBC urges employers to prepare for hot weather",
-      "description": "WorkSafeBC is calling on employers to be prepared for hot weather as summer enters full swing in the province. The post WorkSafeBC urges employers to prepare for hot weather appeared first on CHEK .",
-      "link": "https://cheknews.ca/worksafebc-urges-employers-to-prepare-for-hot-weather-1331673/",
-      "source": "Chek News",
-      "image": "https://i0.wp.com/cheknews.ca/wp-content/uploads/2025/06/Labourer-indoors-e1749495383622.jpg?fit=1500%2C845&ssl=1",
-      "published": "2026-06-19 17:10:52",
+      "title": "First Person: Addiction, mental health, homelessness and what we owe each other",
+      "description": "This essay originally appeared in Snohomish County District 4 Councilmember Jared Mead\u2019s newsletter to constituents. It is being republished here with permission. Last week, the County Council considered a package [...]",
+      "link": "https://mylynnwoodnews.com/first-person-addiction-mental-health-homelessness-and-what-we-owe-each-other/",
+      "source": "My Lynnwood News",
+      "image": "https://dpa730eaqha29.cloudfront.net/lynnwoodtoday/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-1.18.01-PM_fitted-scaled.png",
+      "published": "2026-06-19 20:51:37",
       "category": [
-        "business",
         "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "West Springfield joins regional health collaborative with three area towns",
+      "description": "Unanimous council vote clears way for partnership expected to expand public health resources through grant-funded services and shared regional support.",
+      "link": "https://www.masslive.com/westernmass/2026/06/west-springfield-joins-regional-health-collaborative-with-three-area-towns.html",
+      "source": "Masslive",
+      "image": "https://www.masslive.com/resizer/v2/CNIYTPE4CZDIVG2IOOLAGI57NA.jpg?auth=84c1f8f961a1254187e1a0d7159cd57a7d29ca0f4c336f0f0c1664fc619b77ae&smart=true&height=1200",
+      "published": "2026-06-19 20:51:34",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Princess of Wales releases never-before-seen photos from Italy tour",
+      "description": "The Princess of Wales has released unseen photos from her recent landmark trip to Italy. Catherine, who visited Reggio Emilia in May on a two-day working visit last month, released the pictures alongside a heartwarming essay , where she made a passionate case for authentic human connection in an era dominated by screens. Her milestone trip between May 13 and 14 marked her first overseas visit since her diagnosis, treatment and recovery from cancer. This afternoon, the Royal Foundation shared a closer glimpse into the princess's international tour, releasing four photos. TRENDING Stories Videos Your Say One photo depicts the princess wearing a turquoise blazer over a white shirt, embracing young children with a wide smile emblazoned across her face. The second shows Catherine in a striped beige jacket, kneeling down and listening to a young child intently. The third again illustrates the future Queen kneeling down as she listens to a youngster, surrounded by a large group of children. In another snapshot, the mother of three is captured rubbing the hair of a child, as others pose for a photo around her. The never-before-seen photos come as Catherine penned a heartfelt and meaningful essay reflecting on her visit to northern Italy, poignantly warning about the dangers of excessive screen time in modern life. The princess's piece, entitled \"Creating the conditions for love to flourish through nature & creativity\", pleads with readers to \"reconnect with ourselves, with others, and the natural world.\" Catherine has championed early childhood development for more than a decade, focusing on what can negatively influence children at young ages, including addiction, family breakdown, poor mental health, suicide and homelessness. She contends early childhood development must be treated as a matter of global urgency. LATEST ROYAL NEWS Zara Tindall's adorable gesture to King Charles at Royal Ascot Princess of Wales releases personal on 'creating the conditions for love to flourish' Meghan Markle suffers blow as her business partner promotes Duchess of Sussex's rival \"The children I met on my recent trip to Reggio Emilia radiated such qualities,\" she wrote. \"Their innate ability to connect and communicate in all sorts of different ways made me feel immediately welcome, as they accepted a complete stranger with confidence and joy.\" Catherine argued time spent outdoors and engaging in creative activities nurtures qualities that simply cannot be replicated by technology. \"By spending time in nature or being creative, we can nurture the very skills and emotions that cannot be digitised: awareness, empathy, humility, and above all, love,\" she penned. The princess also shared a touching personal moment from her daily life. \"Last week, a parent at my children's school asked me if we could all do just one thing, what would it be? My answer is simple: to prioritise love,\" she revealed. Christian Guy, Executive Director of The Royal Foundation Centre for Early Childhood, said the Princess had emphasised during her Italian trip that early childhood must be treated \"with the same urgency and sense of mission as other global challenges like climate change\". \"This essay gives a real insight into how passionately HRH feels about the unique importance of early childhood and its ability to shape society, which is at the heart of all that we do at The Centre for Early Childhood,\" he added. Our Standards: The GB News Editorial Charter",
+      "link": "https://www.gbnews.com/royal/princess-of-wales-releases-never-before-seen-photos-italy-tour",
+      "source": "Gb News",
+      "image": "https://assets.rbl.ms/66968247/origin.jpg",
+      "published": "2026-06-19 20:51:32",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

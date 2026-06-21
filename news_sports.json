@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 9,
   "results": [
     {
-      "title": "Stephen A. Smith apologizes to Knicks on stage: \u2018I was beyond wrong\u2019",
-      "description": "The New York Knicks exceeded all expectations this season to secure an NBA championship and a few of their players kept receipts. Knicks guards Jalen Brunson and Josh Hart recently hosted a live episode of \u201cThe Roommates Show\u201d with ESPN personality Stephen A.",
-      "link": "https://www.yardbarker.com/nba/articles/stephen_a_smith_apologizes_to_knicks_on_stage_i_was_beyond_wrong/s1_17668_43977279",
+      "title": "Queiroz: Teenage sensation Yirenkyi ready for big stage",
+      "description": "Carlos Queiroz has thrown his full weight behind teenage sensation Caleb Yirenkyi, declaring the youngster a future midfield cornerstone for Ghana as the Black Stars emerged from a bruising 2026 FIFA World Cup opener convinced they can trouble both England and Croatia.",
+      "link": "https://www.myjoyonline.com/queiroz-teenage-sensation-yirenkyi-ready-for-big-stage/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/06/IMG_0415-1-750x375-1.jpeg",
+      "published": "2026-06-21 02:05:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Eloy Room helps Curacao record first World Cup point with historic performance",
+      "description": "It may not have been a win, but Curacao still had a huge night on Saturday. Its 0-0 draw with Ecuador at the 2026 FIFA World Cup was the first point for Curacao in World Cup competition.",
+      "link": "https://www.yardbarker.com/soccer/articles/eloy_room_helps_curacao_record_first_world_cup_point_with_historic_performance/s1_13132_43977566",
       "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/a/2/a22eaacefa621d701965130b6bbeb950660f4d61/thumb_16x9/USATSI_29128885-1-1.jpg",
-      "published": "2026-06-20 23:43:57",
+      "image": "http://www.yardbarker.com/media/5/6/56ad0073ce1e9f573ff57087a2df188784cd4255/thumb_16x9/eloy-room-helps-curacao-record-first-world-cup.jpg",
+      "published": "2026-06-21 02:04:55",
       "category": [
         "sports"
       ],
@@ -17,41 +32,27 @@
       ]
     },
     {
-      "title": "Rory McIlroy fades at the US Open with 5 bogeys late after a three-hole run of birdies",
-      "description": null,
-      "link": "https://www.ctinsider.com/sports/article/rory-mcilroy-fades-at-the-us-open-with-5-bogeys-22313671.php",
-      "source": "Ct Insider",
-      "image": "https://s.hdnux.com/photos/01/66/50/15/31097673/3/square_large.jpg",
-      "published": "2026-06-20 23:43:47",
+      "title": "Afgone against invincible India",
+      "description": "Gill\u2019s first-ever ODI series win as a captain, as India blanks Afghanistan 3-0 with Chepauk win",
+      "link": "https://www.dtnext.in/news/sports/afgone-against-invincible-india",
+      "source": "Dt Next",
+      "image": "https://gumlet-images.assettype.com/dt-next/2026-06-21/74ikalsm/chepalk-win-match.jpg",
+      "published": "2026-06-21 02:04:41",
       "category": [
-        "top",
-        "sports"
+        "sports",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Nationals deliver rare victory over Rays",
-      "description": "Andres Chaparro dribbled in the tiebreaking run, Washington's bullpen finished with 6 1/3 strong innings, and the Nationals won 4-3 over Tampa Bay to",
-      "link": "https://deadspin.com/nationals-deliver-rare-victory-over-rays/",
-      "source": "Deadspin",
-      "image": "https://lineup-publishing.s3.amazonaws.com/29237607.jpg",
-      "published": "2026-06-20 23:43:05",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "UNC baseball on edge after loss to Oklahoma in Game 1 of MCWS finals",
-      "description": "\u201cAn underdog is still a freakin\u2019 dog.\u201d That was Mississippi State softball\u2019s rallying cry when it knocked out Oklahoma in the NCAA Tournament. It appears the Sooners baseball team adopted the slogan for itself, and on Saturday North Carolina became...",
-      "link": "https://thebrunswicknews.com/news/national_news/unc-baseball-on-edge-after-loss-to-oklahoma-in-game-1-of-mcws-finals/article_58614d2f-65ee-55cb-9f9b-91c336b106c1.html",
-      "source": "The Brunswick News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/e/02/e026565c-9520-529e-ba0c-fd0d767c9396/6a3734700fc14.image.jpg?resize=400%2C254",
-      "published": "2026-06-20 23:43:00",
+      "title": "World Cup 2026: Germany wins Group E, will play at Gillette in Round of 32",
+      "description": "The Germans secured first place in their group after Ecuador drew with Curac\u0327ao Saturday night.",
+      "link": "https://www.masslive.com/sports/2026/06/world-cup-2026-germany-wins-group-e-will-play-at-gillette-in-round-of-32.html",
+      "source": "Masslive",
+      "image": "https://www.masslive.com/resizer/v2/VMI2HT5M3JBXJPA3NBME44P4KA.jpg?auth=c25c3145f0cab7b4ffa6741b388f789a5b881a2b911cbd6a7b46b65b56262cae&smart=true&height=1200",
+      "published": "2026-06-21 02:04:27",
       "category": [
         "sports",
         "top"
@@ -61,32 +62,75 @@
       ]
     },
     {
-      "title": "Raiders WR Jack Bech hosts free youth football camp at STM",
-      "description": "Las Vegas Raiders WR Jack Bech hosted a free youth football camp at Cougar Stadium at his alma mater St. Thomas More. The event brought together more than 150 campers and featured Bech's former LSU teammates, including Garrett Nussmeier and Maason Smith.",
-      "link": "https://www.klfy.com/local/lafayette-parish/raiders-wr-jack-bech-hosts-free-youth-football-camp-at-stm/",
-      "source": "Klfy.com",
+      "title": "Stokes, Aussie allrounders shine in English county title drive",
+      "description": "Fergus O'Neill, Beau Webster and the exiled England skipper all had days out in the County Championship",
+      "link": "https://www.cricket.com.au/news/4523059/fergus-oneill-beau-webster-ben-stokes-county-championship-report-scores",
+      "source": "Cricket",
+      "image": "https://resources.cricket-australia.pulselive.com/photo-resources/2026/06/21/1f55f339-254b-4db1-9198-fa5f795bc9a7/oneill-stokes-webster.jpg?width=500",
+      "published": "2026-06-21 02:03:57",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Stokes, Aussie allrounders shine in English county title drive - cricket.com.au",
+      "description": "Stokes, Aussie allrounders shine in English county title drive cricket.com.au Aussie allrounders shine in English county title drive The Canberra Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjdzMDNHVE1HMEdybWlBU2xsaGU1ZUo4bm5pU0FfZkxoYUQzbnZueG9LbnFQUzNQY3N0R1hNdHRuUGVYclRiYW9rTEY0Z0JnMVRXUXNiNmlTSWxGYXR5cVhxeXd0Z2UzN1pkRWxtOWRGVUp1QV9MajZ2Z3ZGTVNzX3JRNVFEZ3RFVDduVlhaSWVNZkF3VmdndkxJMXhJbWdSVU5WN05XQWhYRGVKWnNqSg?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-06-20 23:42:34",
+      "published": "2026-06-21 02:03:57",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Zoe Marshall reveals eye-watering MDMA therapy bill and exactly what husband Benji thought of the controversial treatment",
+      "description": "Zoe Marshall underwent the intensive psychedelic treatment over the course of several months in the hope it would help alleviate her mental health struggles.",
+      "link": "https://www.dailymail.com/tvshowbiz/article-15909805/Zoe-Marshall-reveals-eye-watering-MDMA-therapy-bill-exactly-husband-Benji-thought-controversial-treatment.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/06/18/06/109431963-0-image-a-8_1781760417625.jpg",
+      "published": "2026-06-21 02:03:57",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Phantastic performances: Phillies\u2019 Schwarber homers twice in inning, Harper hits for cycle vs Mets",
+      "description": "PHILADELPHIA (AP) \u2014 Kyle Schwarber launched two long home runs in the Philadelphia Phillies\u2019 eight-run third inning against the New York Mets on Saturday night and Bryce Harper became the 11th player in franchise history to hit for the cycle. Schwarber led off the Phillies\u2019 huge inning with a solo homer off Mets starter Freddy The post Phantastic performances: Phillies\u2019 Schwarber homers twice in inning, Harper hits for cycle vs Mets appeared first on Medicine Hat News .",
+      "link": "https://medicinehatnews.com/sports/national-sports/2026/06/20/phantastic-performances-phillies-schwarber-homers-twice-in-inning-harper-hits-for-cycle-vs-mets/",
+      "source": "Medicine Hat News",
+      "image": "https://medicinehatnews.com/wp-content/uploads/cp/2026/06/a8d90220d822fc9fb2ec8d112a0123072b3555af51f1c2ca024ab3d4716b8800.jpg",
+      "published": "2026-06-21 02:03:54",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Phantastic performances: Phillies' Schwarber homers twice in inning, Harper hits for cycle vs Mets",
+      "description": "PHILADELPHIA (AP) \u2014 Kyle Schwarber launched two long home runs in the Philadelphia Phillies' eight-run third inning against the New York Mets on Saturday night and Bryce Harper became the 11th player in franchise history to hit for the cycle.",
+      "link": "https://www.airdriecityview.com/baseball/phantastic-performances-phillies-schwarber-homers-twice-in-inning-harper-hits-for-cycle-vs-mets-12451249",
+      "source": "Airdrie News",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/06/a8d90220d822fc9fb2ec8d112a0123072b3555af51f1c2ca024ab3d4716b8800.jpg",
+      "published": "2026-06-21 02:03:54",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Surprise U.S. Open contender admits he 'hated every minute' at Shinnecock Hills",
-      "description": "After two relatively soft days, players got a taste of the real Shinnecock Hills at the U.S. Open on Saturday, but Emiliano Grillo gave himself a shot at an unlikely victory after a stellar third round",
-      "link": "https://www.themirror.com/sport/golf/emiliano-grillo-us-open-shinnecock-1897918",
-      "source": "The Mirror Us",
-      "image": "https://i2-prod.themirror.com/incoming/article1897942.ece/ALTERNATES/s615/0_GettyImages-2282530024.jpg",
-      "published": "2026-06-20 23:42:34",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
+        "canada"
       ]
     }
   ]

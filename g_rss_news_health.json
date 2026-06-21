@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 29,
+  "totalResults": 30,
   "results": [
     {
       "title": "DRC reports 956 confirmed Ebola cases, 247 deaths - news.cgtn.com",
@@ -24,13 +24,6 @@
       "category": "health"
     },
     {
-      "title": "Next-Generation Rotavirus Vaccines Move Into Focus - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamwwaXVJTGR6YWx0VDRnNWkwOVJqeEllSTJxWE9jbElqcE5QYmF0U1dpQW5qaUtpRm1sTUNCaHZpYXN1bU82YzFiUklPV19WNGNCR1duend3anNRd0g0aHV0emgzU3l6eXB4MUxoNXE4ZnEwOElQdVdXVlBKU3BiUGZfemZNclJ3S2t4WG8xSms1Mzl2c0E3MG5ramIzWmw5QnlOT0Foak1wN2J3RWVBSmxfQy1mQTQ?oc=5",
-      "published": "Sun, 21 Jun 2026 10:33:25 GMT",
-      "source": "EMJ",
-      "category": "health"
-    },
-    {
       "title": "First Case Of H5N1 Bird Flu In Australia Has Been Confirmed - Deccan Chronicle",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9xcFE0OHVaenRGNjRhU2F1QXBWUVdrVndndHFDVk9MTktCX2sydEZIc2VvMkJkZEh1NHZhV0ljTjBJVXpxZGRKUEhoTmtGbVFORlhhM0dpaWVlYkYxT2VxaUk2cjdDTkdDd3RoYldBWmV5M1QzRF9EREdNUDN1WGpZYzdVNUQ1b3Zqa3RoTEtJOEJNVTR1R3NOV1lKaTVWQjBpdU5ud0xqazRYcHRFU2lB0gG3AUFVX3lxTFBhOVU4LTV6dG9UNll5dUZJMHZQLU9zMU5GajVQYzBYV2lMbVJxU0o4Q1I4V29lT3JvVk5JWXBsQkYyVXNKcFZHR2E3NnNQamZvT3BmSkhEV2tsWFlaZmduczBTMndBb0xsbnl4aVB5M1ZSeW5lLVNac2JyRzVKUU1vaTl5Z09oN1VuUGRUOElndm9idnJJcWM5VTNkc0pUaEt3SXRzYTFoZXJTQ3MzVG1zd0NLVkFQbw?oc=5",
       "published": "Sun, 21 Jun 2026 07:38:10 GMT",
@@ -42,6 +35,13 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3VBSG94UWpCdFBpLW1ha1dwYXA4S0ZJWDRKLVk3Yko1TDRMWGYzY29VakVDZVBPbUx3TGJjbjRLUEE0NE53RkJvTkxveXdBS2RtdllMMG9hSXNCRVJyT3RjS05lMmQ2Y2xIMVdVY3ZWR0VzZENpUl8wSGNuNDdqSzVhZ1dDVjJ6TjBVVW0wQzVYWjIySjJpOG1LbnZHNEpoeTB5cGlIQdIBrwFBVV95cUxOT2w3X3lwUWJKVjNFTjRvS2lPRTBhNmdFT3FzeHJLZWJzYklFUnVNdkVsUGtLV1FDd3FyREVaQ1p1YWNEb1B1SEF3VFRsWEtsZHdUc2dQNWhWZEc4a2RBZlRaUGhPa1otb2JMYUZsV0xtZ0ZqYVFIbWszaUtrcGVZbHRiTWUtOXY1MnBsNzRMUGVQUW43WDZGZmhpUXM2WDNfeGZnOTVmX2pvZ1NfZWhj?oc=5",
       "published": "Sun, 21 Jun 2026 02:42:07 GMT",
       "source": "NDTV",
+      "category": "health"
+    },
+    {
+      "title": "Next-Generation Rotavirus Vaccines Move Into Focus - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamwwaXVJTGR6YWx0VDRnNWkwOVJqeEllSTJxWE9jbElqcE5QYmF0U1dpQW5qaUtpRm1sTUNCaHZpYXN1bU82YzFiUklPV19WNGNCR1duend3anNRd0g0aHV0emgzU3l6eXB4MUxoNXE4ZnEwOElQdVdXVlBKU3BiUGZfemZNclJ3S2t4WG8xSms1Mzl2c0E3MG5ramIzWmw5QnlOT0Foak1wN2J3RWVBSmxfQy1mQTQ?oc=5",
+      "published": "Sun, 21 Jun 2026 10:33:25 GMT",
+      "source": "EMJ",
       "category": "health"
     },
     {
@@ -75,7 +75,7 @@
     {
       "title": "Intermittent fasting matches calorie counting for weight loss - Earth.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXFfNjRVa0NFcFp2QmRSbXIwYjBxUUhjX2tzT01zam9OVnpkX0FWM3IzZ3BCZkRwSV8ybmQtY2l5Y2N2UVQ0d2UwUlZHNTMyX05kdjhEdnpuSG9wYXhvVWVITXk1Y3g1Qnh6eDEyVjNYZDl1djJNZmFjb3o1YWV0MWVIX1plbUVRVU44ZF90VUg4bTQ?oc=5",
-      "published": "Sun, 21 Jun 2026 13:52:30 GMT",
+      "published": "Sun, 21 Jun 2026 13:57:27 GMT",
       "source": "Earth.com",
       "category": "health"
     },
@@ -94,10 +94,17 @@
       "category": "health"
     },
     {
-      "title": "Dengue cases surge in Bangladesh as June records over 1,700 infections - China.org.cn",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2lpanJGX3RPemdraV9ld2ZuLUF5WDhYUlZWbndfSHFwT01rX3lqeFZFTjZLbzlxeWJFYVNuS2FFa3NRUDBGR3A1UFoyMjNYaHZtLURZYUptUE11SU1mXzN4bjRlZktEOTRLTDFETkt4aE5KMndodXVZcWhEWTZTaGp4MA?oc=5",
-      "published": "Sun, 21 Jun 2026 14:39:52 GMT",
-      "source": "China.org.cn",
+      "title": "Dengue cases surge in Bangladesh as June records over 1,700 infections - Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmNBUlJDc05JaHBocWlCbGVPODRuc2stUElHemczT1RXeU5fM09TbG02N2hoUEVBaWNSTEt4SFJXWXRVY1oyY3RkWUU0djVqTVRRSGhvalNWeTdFWTBkVDd1RjVBRWNmUGRQanlLbXNQS0VtR2QxcFhFUkh1eExzOU1QN2ktcmZQWmROUw?oc=5",
+      "published": "Sun, 21 Jun 2026 14:33:30 GMT",
+      "source": "Xinhua",
+      "category": "health"
+    },
+    {
+      "title": "Insecure men make for big business: The testosterone craze that is exploiting the masculinity crisis - EL PA\u00cdS English",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVHlubGpPdWk0dnpzaTZfWEtrWmtZS3UxbnJ4el9NR2EzTnRWUUlqWWEycnZIekdFQzBnUllaZ3BvNTBkdWdBNGRpQkRFcVBvelB5V2N3NUlFbE5rcXVyYXU4cDJzQ2RKczRaN0t1M3lwZXVHdEZybWk4MVRodldsOGp6eEUwNmtSME41bmxhcTNabGpMTkxJR3F0U2pkdnp6VHpudmVxV1dybGIwak5OV2ZwcFpRamVPcnFramxtakFWTWpPN3lkYkZDZm51cFM5MllfS1FrVjZ6UWhDWnJmWlU1ejZzSVXSAfsBQVVfeXFMUGJHQUVTNDlTS3pqV3ZwazkzWXVoN2tyUENucExpMkVGcGhRTDg4WHgyYkxVUmhnYXptX2w3cHNzRmFnUWpvT0NIQk84MWEyaFZ6TE9FcXJJNnNHQjhHWjZSMEhDZ09BdnpMb3Q0TUhPYnBIcUdtQnZDNmFseWpiTWRJNE95SnpqZG5HNDZ5eWtDckdmN1VMb01ramhKN0RLbFBZZGxHbldmUXhMM0VJRld6SEgyVlNsMkhTYTNZSkdJMXRiRU5qVG1ZRy1FQ3J1Nm5ud0ZRQnliNmlmbjY5UWZjQ09LYTBOaUM3UUo4OTEyZ2tmRUQ0X1RweDg?oc=5",
+      "published": "Sat, 20 Jun 2026 03:30:00 GMT",
+      "source": "EL PA\u00cdS English",
       "category": "health"
     },
     {
@@ -115,13 +122,6 @@
       "category": "health"
     },
     {
-      "title": "8 probiotic superfoods recommended by a nutritionist to support gut health - Vogue India",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTYyb1RENXR6SEt0M3lGSWZ1V09wYnZaSHVjUm8yRWFtcWhLYlNfemV3X3dvNWoyRHVMWTJoVlFNY1JhSTZjYlU2YUJWSHctdUZRYm15OHdhcTZpaHZGTi04dDdFV0pDeG5weVk1TTM5cURxMGtDeXdXZlZ5dzA3UDhMYkQ2SUwxdG9KdFlCT3YwM055dml0Z1JDU2RYNVlJaDdFMXhB?oc=5",
-      "published": "Sun, 21 Jun 2026 10:54:26 GMT",
-      "source": "Vogue India",
-      "category": "health"
-    },
-    {
       "title": "Zero cervical cancer deaths in vaccinated young women - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXF3OE0wWlcydjIwVXU0VGtSbC1nZVYtMGJVXzBKM19yY3RFZ0tBX3VSbzA2YkM0eXZXN2pWaEJaamduN3FjOExwUmxqVVZ5ejYtc1hiSDZ5T2dyS3Z5Y0N0WTlycmFrQWc2MThWSy0xNkRXQ3hwbkNHOFRzM09xbkRhdWdxbnlYZGs5bS00ZlBTOXRSd2tXdGNLRE5jWUZZU3d2VlVzbHEzZzkzcndWX01nV2NqV1hpQ3lobm9R?oc=5",
       "published": "Sat, 20 Jun 2026 14:40:00 GMT",
@@ -136,6 +136,20 @@
       "category": "health"
     },
     {
+      "title": "8 probiotic superfoods recommended by a nutritionist to support gut health - Vogue India",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTYyb1RENXR6SEt0M3lGSWZ1V09wYnZaSHVjUm8yRWFtcWhLYlNfemV3X3dvNWoyRHVMWTJoVlFNY1JhSTZjYlU2YUJWSHctdUZRYm15OHdhcTZpaHZGTi04dDdFV0pDeG5weVk1TTM5cURxMGtDeXdXZlZ5dzA3UDhMYkQ2SUwxdG9KdFlCT3YwM055dml0Z1JDU2RYNVlJaDdFMXhB?oc=5",
+      "published": "Sun, 21 Jun 2026 10:54:26 GMT",
+      "source": "Vogue India",
+      "category": "health"
+    },
+    {
+      "title": "Review highlights gaps in transition from paediatric to adult eye care - Ophthalmology Times Europe",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWttR0d0dHE4MEFCNUdiOFF2OTg0aVdkdjIwMmpDdEEwUUNCX21hV29ZLVJqVmU5YV9wbWJCVFpYbG9XVElTWDBxSzA4Z2RWaGQ1Q3NFbzBNM1cxR1ZYdkhqZjQ3X0VEMkFaMnl2MkRzbDgycFZLWW9HdUViX3JSNXAyb0JrN1VhOXR0UWp6OTlaR01UanZQNm1Id3RxUWVoM3EyckljNjBFSDl0ZjN0b3IwWQ?oc=5",
+      "published": "Sat, 20 Jun 2026 04:06:37 GMT",
+      "source": "Ophthalmology Times Europe",
+      "category": "health"
+    },
+    {
       "title": "Mistaken for type 2 diabetes, but it's not: The diabetes type that's often misdiagnosed and is difficult - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNjVhX2xnNGFOdzhwNEFZVVk4c2VBNGx0Y0szN21fTEwyRmstNm9YRm9iSXFGVkRTMUU4TFdwMVM1SE9FV2NyRDRmTXFXWENRcTJvbkFwY0FNb0hLTzEySEtwdlA0NEdKelBZaGtoaC1CWnhQMlVnT0pEMEJGQXRjcGRPYmdERWo1anBSdlB0Q2R6OThsLXRrVlIxYVc5LXkwZkdWNjdBWTNuTmhVQWpWZEFMT2Q4WjI4am80RlZRTU9DeHVOWmJ5XzM4SnV4a1BCTHFCdmVmazVUYkVmX1d0b3I0TUN5dzYxZy1KMFBibkQxVkFxcEU0ak1PM1hXMjNhUW5YT0FVYVNJMzU50gGSAkFVX3lxTE5rRkEyVmRRb21kOGNtd2lWVXRBYmo2Q1pUTk5TWVoxZEdaSlBKc1FEZGVUeUgwSDY0MGZyUUNjOWxXWFItRkNUR2xQWC01M3gxZUJqamxHVFgxNW5SVGhQZTlYbExyRnZCZ3hVWGg4UzdkYVBLbVpLWDBsemIzRFhLQWJwN1Q1M2RacFgwczFaWERtSHZnUlJFVzU1dmpFSTJBWTdfQmFVakNZSl93OTFpZ0JkT1kwcm5XS21UREpzUU9nOTB3cmtiTm9Ic0hzMTZPbGlUS3M3R0djLTBGMm5KMjBtZkY3WC04aFExMmZLUXdnZU1kTXUwQlBXVG5UaEM0OFk3NVVvMXpzTU12YldoMkE?oc=5",
       "published": "Sun, 21 Jun 2026 03:14:00 GMT",
@@ -143,17 +157,17 @@
       "category": "health"
     },
     {
-      "title": "Diagnostic and Prognostic Value of the Triglyceride-Glucose Index in Acute Pancreatitis: A Prospective Observational Study - Cureus",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYW9zSE9GaW40T09fc3p2d08zdEZhS3BLZGx2TWkwVzRfOFFWWUUwWkRnck1XOVhiZjNablFubE5tRjdxZ1FWZFBJRWZpVGhJQWNoZC1zd1prT2NHSnFMc2x4X0dKRUlvZ19CWi03MWJQenYzS0Y0YnpabHhoWmd4RVlqRWdKVlduT0NHXzdTYkxzXzhKTzBDUV9HUERvcDBMVV9iVEtkaTZHRzNJNTBCUE5BM2dFeEZUeTV0YTVfSTZjNWF6cmdfMjFoN3VfZ0x5U2hqWC1tZnMxM19USHVHV0Y0MTZwUzZuTm1PLVJPRlRydw?oc=5",
-      "published": "Sun, 21 Jun 2026 12:11:35 GMT",
-      "source": "Cureus",
-      "category": "health"
-    },
-    {
       "title": "JP Nadda reviews nationwide preparedness for dengue, malaria - Medical Dialogues",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTBtR1JFNHFNUEZHRW41X1NwOW96cy02Y3FGU19UUm14UFIzOHljeER2dWEzY2ZYN0djNFJ3V0VIdGd6czhzTU9vUEVsbHZLOWE0RmJycFQyMmRQRU01REQ2aGFqMk1HUzJnZTZjOU1QeGItbkxMamFHc0UxcEliaFVJcWVURFRUUGxtV0RLZEtHQV9PZkhyU3p3TVo3UVQ3cnlTblBET042d9IBrwFBVV95cUxQSHh6OUl1WVNhdjlYSHItWDR3YXBaU2VzNWozSWhoOUpEWkp6VmRxVks4SFY2Rl9BcDBkVXR1TlhqS19nVnZFdVFabVY3dHhPTjE4Rk1KcERtMmpueWVDYkx4Z0VtNURGd0hDY19rd3JXNXdETGxPRDdFdjJaa2Npc2F3SWRfYlpPX1ctR3NYQ1pHZDRPZVlRLTZXVnh3S0JxNW5kVVU1ZUVaeml6c1ow?oc=5",
       "published": "Sat, 20 Jun 2026 04:15:38 GMT",
       "source": "Medical Dialogues",
+      "category": "health"
+    },
+    {
+      "title": "Diagnostic and Prognostic Value of the Triglyceride-Glucose Index in Acute Pancreatitis: A Prospective Observational Study - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYW9zSE9GaW40T09fc3p2d08zdEZhS3BLZGx2TWkwVzRfOFFWWUUwWkRnck1XOVhiZjNablFubE5tRjdxZ1FWZFBJRWZpVGhJQWNoZC1zd1prT2NHSnFMc2x4X0dKRUlvZ19CWi03MWJQenYzS0Y0YnpabHhoWmd4RVlqRWdKVlduT0NHXzdTYkxzXzhKTzBDUV9HUERvcDBMVV9iVEtkaTZHRzNJNTBCUE5BM2dFeEZUeTV0YTVfSTZjNWF6cmdfMjFoN3VfZ0x5U2hqWC1tZnMxM19USHVHV0Y0MTZwUzZuTm1PLVJPRlRydw?oc=5",
+      "published": "Sun, 21 Jun 2026 12:11:35 GMT",
+      "source": "Cureus",
       "category": "health"
     },
     {
@@ -171,6 +185,20 @@
       "category": "health"
     },
     {
+      "title": "The Future of Health\u2014From Head to Toe - tovima.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40dHBIOGpDTGx0dWZ3ckF0eVU5bnpZTEdHX3lzWkNsOHNKdDlib3BHNXFPUVFIc3ZQa21JTUhWaEJfQnRlbDliWFc3Z0NrMkpjWV9BRVZidXdEV2lUSXlqazN3VE8tSThZUXhzN1RXYmF1UXfSAXhBVV95cUxONW9QV0JfRUFTOW15YjFvYTl1VzFxU0tzdXgtRVFpWERWMW1YcXU2bWtOazI3TldqX2x2UlJvdDhxQ3VJZm5iUVlKUGZnUHV0RHpqWDhSbE9fcWQzVUVCT2FVRUdOdUkzQlp3Z0RfT0VWRmJzZ2IxWjk?oc=5",
+      "published": "Sat, 20 Jun 2026 10:18:36 GMT",
+      "source": "tovima.com",
+      "category": "health"
+    },
+    {
+      "title": "Ozempic changed obesity treatment, but experts say the real revolution is next - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKdVphV2lPaG5sZHdVTnh6VktkbkdUaUg5dTl0bWZ3ay1kMThjdUxEdUFzMTVxbjFuTWltLWhEYVdablc2ZS1pMWdUazBqSWlBem1qR1l4S0pjb0lONXhSV0RNM2VnM3k4YmVBREtuRQ?oc=5",
+      "published": "Sat, 20 Jun 2026 11:30:24 GMT",
+      "source": "ScienceDaily",
+      "category": "health"
+    },
+    {
       "title": "World Continence Week 2026: Causes of Urinary Incontinence, Prevention Tips and Best Foods for Bladder Health - Netmeds",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVXktcXhyNE1oNjBRdkpaRmwySXdOWHFtTS1lVGtNMUFJNFlNWFlTVVlvaXEyeXFfQjVPUENITzNnaGRTUFJkNkR1SFA2bERROWlLSmFpcnJwNW9JZnpMSnJBTHpZWi1fcDg4cGdrUlpPNjlDM0NqUmFxdDZjejJWdEd1aXp4VTA1NVNrZzF3VU8wamRxVjJRMmdwZ3VBMDU2eTFFVEVOR2U2UDI4S3AtMlE0MzJ0ZFhmMVdURElmVEVWWkFhdTBMOGNpbTM0SXVoQ25pcVRZaENCVzFGNUdZY1FqNjBIRjBJ?oc=5",
       "published": "Sat, 20 Jun 2026 00:01:06 GMT",
@@ -182,27 +210,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2FHWHVWRU84ZFJDYVR0WU41M1hfZHlnV1BYVXNjeUN6NHpUMEQ2MVcyVm5KRF8zd21PbWFYR1hmeGJ6eTR0VnY5cW15YVk5Vk4xMzE1dWsyOHUwTl9ObTZkYkxUcXVRM3JCZlljUHQwZ0tjUERaLUUxcC1LaFlNYm50anIxdEg3SWIzUUFHUFo0Q0pBT1lwVEtHWllpd2pTUTVkV29CR1oyN0FmWFA2dERuY1lJWFBzNzA4RHNZM3BZZUxtcTFTOXNramxlSEx6U1HSAdcBQVVfeXFMUEhDMmhPQXloQnhOSklmTUd1ZU5tcmtLd0FIQzktTHVoVFhUMnhyVVE2THk5bm10ckJOUUVJMVR4YnQ4OThmM1R5aEdTNy1RckJHRDdaZ25OdVVfSFZKU0s2Nk43Y3FsZ3R5RkdmQzA0cXEzT0pxR18xOHktSTduX2l6NVVmeE1od3RSOFA0akJVcE1JZkFDQURvenZSRWNtNkJtXzlwRjgydGJwbHZmOU9hLW1uZmVxMF9Mc213Mndlbl9sc2haaWNtT1YzUFF0ajc5d3hnWDg?oc=5",
       "published": "Sat, 20 Jun 2026 06:15:20 GMT",
       "source": "Firstpost",
-      "category": "health"
-    },
-    {
-      "title": "Managing CKM Stage 4: When Cardiovascular Disease Becomes Clinical - Medical Dialogues",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEh0aTl3bmlUTFBZaDMtWElOMnFsUnhpNWhlS1RMOEVrWDJLMTFBa1VGWWhiZExWeW1saWl3T0RlOGRZM2pQQmhCNi1pamVlLXVqZHFUS1hhRWtCNXpwSS1tclJGNDFaX1E4RmNmMFdWSkpwM0tBLUNWMEp5SlBabGhTX0xCOHNvM04yQWxLVC1zbnUzM2ltcXF4alA2SWhMZWNzUXpJN0ZZWnBrSTh6clBuSFhyNXMxcWNIeTdn?oc=5",
-      "published": "Sat, 20 Jun 2026 04:15:35 GMT",
-      "source": "Medical Dialogues",
-      "category": "health"
-    },
-    {
-      "title": "Frozen and canned or fresh: What\u2019s healthier? - The Shillong Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVZpbEJ5ZFlLajRoMkNEU0Vyb3FDM2JkWThNVlhZd0s0cEV1dkNkOWlNY1lZbU8xX2pjanVFTXBWZHBxNnF3dHh2R2s0VlAxLTdLWElSaVNXV01EZk1yLWhXeTdMSXVVMjdhYktkei15Y011emdTci1zYmZHc2MwcldUamxrUWNqN1Yw?oc=5",
-      "published": "Sat, 20 Jun 2026 21:02:08 GMT",
-      "source": "The Shillong Times",
-      "category": "health"
-    },
-    {
-      "title": "Scanning cancer, up close & personal: A revolution is underway in cancer diagnosis - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTgzYWlrWkZYX1RvOFJXYTZ5WkFHalRaUWVBWHFKVnRuZ1l6UHpwbkhNTnJFTGhNTXhCeUVTdWNtV3hkbWVxY01lbUM5RGJ5b2stTEpqcUFBWkxrZ1dvOGh5VkVxYkR3S1dRTmJyYWRzR2x5bng5QVBqUlh1d2d3azN6QkZPWVVsX215X19tcm1zd2FtX05QN0Z6bnFmSjdZYWs4cG1iTjloM3JZaFZJZFdvbHNyWDVmc2RiTUNIRnJHbERJbkJZM0V3OG5yS3ZPUkFuTEd4UW9LcW54V0c5dXNjM21GQ2NTN00zdzJXMGpuZw?oc=5",
-      "published": "Sun, 21 Jun 2026 02:28:54 GMT",
-      "source": "The Economic Times",
       "category": "health"
     }
   ]

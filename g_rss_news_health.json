@@ -3,13 +3,6 @@
   "totalResults": 30,
   "results": [
     {
-      "title": "How vitamin D supplements left a 26-year-old facing kidney failure - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUF6RWQ4ajlVOTZVazltVE90NkRHNTRwa2lYREdYbEVrS0dQWE5xYWp3Ukh4bm9CeHZubzhCLUMyVHNWSXpmeWlXbGQya1VYZDhxRnVwN0FMb2tzR3RqZGR1M1ZqQ0UtSU0tWWpES2swVHd4Z0ZEYkxNUDdwUThvY2VmczJpdHdxS0p5RWFJUDV1NmpycWh4a1dxTjlVeHdZejN5TkVpdUR3Z2tkclVuR1E5MHNMNTE1dWliVzBHdXFLZDh2ZVHSAcwBQVVfeXFMTmtWczJKTjlhX0VuU0NxSFFyVkdiQk1mcDlaUWxITzBMdnAtWmpiUi1wV3JackVEUW5HeTRjVHd5U0gtR0IyeHFhendjV2JfSXVpNHJ6aWY1R3RRajhUNk8tb1A2clpRbHZtcUNLV2c5c0xFZ3ZIMnJ5RzVaYUVlQmlZQUFHeWh1OGFraVV5SGItazlEcEZjY1BpZjFqeU1oQlQ0WEVmdHVJVU01Y1JPcmFyYmoxTHI3NzNNOHdCQWZ4clhtLXBPemU1Zmph?oc=5",
-      "published": "Fri, 19 Jun 2026 19:30:07 GMT",
-      "source": "The Indian Express",
-      "category": "health"
-    },
-    {
       "title": "DRC reports 956 confirmed Ebola cases, 247 deaths - news.cgtn.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3dzVGIwTjVjT0RJcnFRQWxyd0o1RkcyNVQ3Wlo2RFNNdjlNcXpNSTdiRUdxSDdyQm5FUWdLUWhBbHVVbVIyZmx3eVdrSFUya05EMVhiclgwT2pUSWFXN013SFRaTHRWV3haWTRUN0NSNWRtQWs3a29PcXhsdFZnWnFkV21CN1pCeFRUSUpUUzBlYnk0Z3JxdmNRM2dXNjczbEFONEpXQ1k?oc=5",
       "published": "Sun, 21 Jun 2026 09:46:11 GMT",
@@ -31,10 +24,10 @@
       "category": "health"
     },
     {
-      "title": "\u2018A genuine wildlife emergency\u2019: everything you need to know about the arrival of H5 bird flu in Australia - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUG9wUlFMMURLMXBXcGY4ZlJObnJDV1kybW9hX0JKdnQxYU10dWlCOFR5WnVhU0l4RWdBLVMzVWhvYlBfNHoyODdjVDlKLUpaMldJTkNyVExoNWlScDRGT3l0dXBLV3RQeXZXWTJ4SE9NaU8yY0QtdjV0bXBCNkZMbUwzeno3c094UExvaDJURjNWSG1lMC0yQm1rTEhTTzRCdWdXWmRBd3hkcU0?oc=5",
-      "published": "Sun, 21 Jun 2026 06:42:00 GMT",
-      "source": "The Guardian",
+      "title": "First Case Of H5N1 Bird Flu In Australia Has Been Confirmed - Deccan Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9xcFE0OHVaenRGNjRhU2F1QXBWUVdrVndndHFDVk9MTktCX2sydEZIc2VvMkJkZEh1NHZhV0ljTjBJVXpxZGRKUEhoTmtGbVFORlhhM0dpaWVlYkYxT2VxaUk2cjdDTkdDd3RoYldBWmV5M1QzRF9EREdNUDN1WGpZYzdVNUQ1b3Zqa3RoTEtJOEJNVTR1R3NOV1lKaTVWQjBpdU5ud0xqazRYcHRFU2lB0gG3AUFVX3lxTFBhOVU4LTV6dG9UNll5dUZJMHZQLU9zMU5GajVQYzBYV2lMbVJxU0o4Q1I4V29lT3JvVk5JWXBsQkYyVXNKcFZHR2E3NnNQamZvT3BmSkhEV2tsWFlaZmduczBTMndBb0xsbnl4aVB5M1ZSeW5lLVNac2JyRzVKUU1vaTl5Z09oN1VuUGRUOElndm9idnJJcWM5VTNkc0pUaEt3SXRzYTFoZXJTQ3MzVG1zd0NLVkFQbw?oc=5",
+      "published": "Sun, 21 Jun 2026 07:38:10 GMT",
+      "source": "Deccan Chronicle",
       "category": "health"
     },
     {
@@ -42,6 +35,13 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3VBSG94UWpCdFBpLW1ha1dwYXA4S0ZJWDRKLVk3Yko1TDRMWGYzY29VakVDZVBPbUx3TGJjbjRLUEE0NE53RkJvTkxveXdBS2RtdllMMG9hSXNCRVJyT3RjS05lMmQ2Y2xIMVdVY3ZWR0VzZENpUl8wSGNuNDdqSzVhZ1dDVjJ6TjBVVW0wQzVYWjIySjJpOG1LbnZHNEpoeTB5cGlIQdIBrwFBVV95cUxOT2w3X3lwUWJKVjNFTjRvS2lPRTBhNmdFT3FzeHJLZWJzYklFUnVNdkVsUGtLV1FDd3FyREVaQ1p1YWNEb1B1SEF3VFRsWEtsZHdUc2dQNWhWZEc4a2RBZlRaUGhPa1otb2JMYUZsV0xtZ0ZqYVFIbWszaUtrcGVZbHRiTWUtOXY1MnBsNzRMUGVQUW43WDZGZmhpUXM2WDNfeGZnOTVmX2pvZ1NfZWhj?oc=5",
       "published": "Sun, 21 Jun 2026 02:42:07 GMT",
       "source": "NDTV",
+      "category": "health"
+    },
+    {
+      "title": "Intensify HPV vaccine drive: Mandya ZP CEO - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0tCWU1QNTJWTEdSNHd3LTlLSXJzTU03bGtfalR3d2JYaHB1OHh3TXJUbmQ5Um1TNHN6OVNWQldXUy1BTnB3ZWlUUzhtSEtybmdFcHNkQ21EX1M4cUhpNzJzYU5MVkFOQnppZEpYNW5NcVJaTk9ObW12NGpmRWMyeHdzQVYtSzJydFFWZ1A1ajdYQV9fbi1BQVA1N0NNVEJrdTI2WUlLMlB4NXdFWGhxWGlMSWJvUdIBuwFBVV95cUxOTmwxQlhLMFQ0ajczdWpGdjFqQTZXbE1NWUpaZmt5d3d0NjFjcDRsdW5xWEg0RVBNY01yTlM4dlVCYjZIbkVHcGpZMDVSSGlWRms3dVQ4MjBlTEFwMUNtOVBPV3BzLXF6eEd5RzVOdFVoTC1tLUhENWgxQTZCUHhSclBvT1dTU2ViS1VadHNtRTF3MjZ5NElUNmtXaGZBSVFUdWVvVjB1YzdLdmpoVmNNQVRjck9WWnZvazFB?oc=5",
+      "published": "Sun, 21 Jun 2026 13:05:00 GMT",
+      "source": "The Times of India",
       "category": "health"
     },
     {
@@ -59,10 +59,10 @@
       "category": "health"
     },
     {
-      "title": "Kamrup (Metro) Becomes First Assam District to Surpass HPV Vaccination Target - G Plus News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZkFSQVZpU3FaYlMzTGhxUXNQYURBTkl3UnE1a1hHVUVJV1VoZHRSZW1VakViSFNYNUlzRjdYc05sdU5HWWtNUzVQblVEUGhGX1hDaXV2aC1iQjBFblJDZTh3Z2F5QndjTWRjaHFjQXhKM01feWxKa1JnNHROT01OcFRVbGNza0xPZUNtb1psTXJHNTh3YkZmQmVNQ0lRVzBrV29aYzhqaw?oc=5",
-      "published": "Sun, 21 Jun 2026 07:58:11 GMT",
-      "source": "G Plus News",
+      "title": "How vitamin D supplements left a 26-year-old facing kidney failure - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQUF6RWQ4ajlVOTZVazltVE90NkRHNTRwa2lYREdYbEVrS0dQWE5xYWp3Ukh4bm9CeHZubzhCLUMyVHNWSXpmeWlXbGQya1VYZDhxRnVwN0FMb2tzR3RqZGR1M1ZqQ0UtSU0tWWpES2swVHd4Z0ZEYkxNUDdwUThvY2VmczJpdHdxS0p5RWFJUDV1NmpycWh4a1dxTjlVeHdZejN5TkVpdUR3Z2tkclVuR1E5MHNMNTE1dWliVzBHdXFLZDh2ZVHSAcwBQVVfeXFMTmtWczJKTjlhX0VuU0NxSFFyVkdiQk1mcDlaUWxITzBMdnAtWmpiUi1wV3JackVEUW5HeTRjVHd5U0gtR0IyeHFhendjV2JfSXVpNHJ6aWY1R3RRajhUNk8tb1A2clpRbHZtcUNLV2c5c0xFZ3ZIMnJ5RzVaYUVlQmlZQUFHeWh1OGFraVV5SGItazlEcEZjY1BpZjFqeU1oQlQ0WEVmdHVJVU01Y1JPcmFyYmoxTHI3NzNNOHdCQWZ4clhtLXBPemU1Zmph?oc=5",
+      "published": "Fri, 19 Jun 2026 19:30:07 GMT",
+      "source": "The Indian Express",
       "category": "health"
     },
     {
@@ -73,31 +73,10 @@
       "category": "health"
     },
     {
-      "title": "World Sickle Cell day 2026: Check causes, symptoms and awareness - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOU1KR0lGTUNXY2s1TTJlWVB0R0xvNjdmLTA2RmsxRUlSUjlpU2llR2VPbmRpazRsVGpoMnlSVGJ4TkRoNUJCN0V0RVZhWmVmT2RTRWUxV0l5MzI1OENGZnlGM2VKLURELXBDc3VCaE1BQjViLTZ1ZGxRTVpaNE0tY2FpblpFSDFXV0M1UnU0VHJvUDRZSW9leFR5bXI3WDExSnEtdUxNUUw3OGQxc2w2MQ?oc=5",
-      "published": "Fri, 19 Jun 2026 12:31:05 GMT",
-      "source": "The Economic Times",
-      "category": "health"
-    },
-    {
       "title": "Mistaken for type 2 diabetes, but it's not: The diabetes type that's often misdiagnosed and is difficult - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNjVhX2xnNGFOdzhwNEFZVVk4c2VBNGx0Y0szN21fTEwyRmstNm9YRm9iSXFGVkRTMUU4TFdwMVM1SE9FV2NyRDRmTXFXWENRcTJvbkFwY0FNb0hLTzEySEtwdlA0NEdKelBZaGtoaC1CWnhQMlVnT0pEMEJGQXRjcGRPYmdERWo1anBSdlB0Q2R6OThsLXRrVlIxYVc5LXkwZkdWNjdBWTNuTmhVQWpWZEFMT2Q4WjI4am80RlZRTU9DeHVOWmJ5XzM4SnV4a1BCTHFCdmVmazVUYkVmX1d0b3I0TUN5dzYxZy1KMFBibkQxVkFxcEU0ak1PM1hXMjNhUW5YT0FVYVNJMzU50gGSAkFVX3lxTE5rRkEyVmRRb21kOGNtd2lWVXRBYmo2Q1pUTk5TWVoxZEdaSlBKc1FEZGVUeUgwSDY0MGZyUUNjOWxXWFItRkNUR2xQWC01M3gxZUJqamxHVFgxNW5SVGhQZTlYbExyRnZCZ3hVWGg4UzdkYVBLbVpLWDBsemIzRFhLQWJwN1Q1M2RacFgwczFaWERtSHZnUlJFVzU1dmpFSTJBWTdfQmFVakNZSl93OTFpZ0JkT1kwcm5XS21UREpzUU9nOTB3cmtiTm9Ic0hzMTZPbGlUS3M3R0djLTBGMm5KMjBtZkY3WC04aFExMmZLUXdnZU1kTXUwQlBXVG5UaEM0OFk3NVVvMXpzTU12YldoMkE?oc=5",
       "published": "Sun, 21 Jun 2026 03:14:00 GMT",
       "source": "The Times of India",
-      "category": "health"
-    },
-    {
-      "title": "Full-Dilation Caesarean Linked to Higher Risk of Future Preterm Birth - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1BnUVMyTFNiVHlsei1IUjh2WnBtMHdOOXY1enJBOWlsMTgyVk9WX0IzRldZR3RpaTJwcE5FcnZfRldGSHRWRnFrNzRmM2RFZkdPQnBseTVmNDVBM2NmREpHTDNUTTU3dlJNMzB0NmhuRE5heTlnWThZb0lxMzREYXh1d0M2emZwbmw5YnhHOExjQ1M3T0h4VGotc0t6V2tDaEMtSXRVd2FXdUN5MVEyZE1KSnVXbWhWUXdBT0drdw?oc=5",
-      "published": "Sat, 20 Jun 2026 08:28:04 GMT",
-      "source": "EMJ",
-      "category": "health"
-    },
-    {
-      "title": "Is PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmE1T2pPdEMtcWV4R050M3cxMXNoMVZ1d2FhN3AxS2FIWVhnb0NuS2VCVzI4Ujk1bnFHbkgtX054ZU80WDNoV09ZUjZZS09HQ1RDUEJXb0pRY2QyWG1jTHhpZXJ1SVZweGIwY21iZllXaE1ZNFpzb01UVGN3aXJ5X1gtMW9GdHhvZmY1N2JPWloxR3BUX3ZEdW5hS1RzaTVIdWhSbjF0Y2xSemx3VXZRNVNCTGNGMFlNamhSZFgxeXZoV2kxeE1PNWNnUUdMUmozbnl5SWF30gHeAUFVX3lxTE1oVGk0RW5rR0VaUVRlUE5zb1VUQzh1Y21ILVpibUlJNnJEbHlXNDNhUGRTblBqMXlNUTBPRGM2eVlwd3dpazQ2Y0VxTlE1MXFfZ1FYNFRBZzhsaUNhdjJ5QTNraTJsWGlTOWNoX0JLODR4Y0lYbVg1Q0pwa1RYbWhXZERmb3pQUWVPTG5LWDl4dDNxdWxlVlVLS3dSekpJQUdLSGZyRzdGNjFzWjJqMHIxNVFXZkhDeTIxck9QcEZuVGp5SHY1S0FqaFhEaHpnU0xpU0p1VHZIN3A3SGxNQQ?oc=5",
-      "published": "Sat, 20 Jun 2026 08:03:16 GMT",
-      "source": "NDTV",
       "category": "health"
     },
     {
@@ -108,10 +87,24 @@
       "category": "health"
     },
     {
+      "title": "Is PMOS The 'Diabetes Of The Ovaries'? Expert Warns Of India's Fertility, Infertility Crisis - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmE1T2pPdEMtcWV4R050M3cxMXNoMVZ1d2FhN3AxS2FIWVhnb0NuS2VCVzI4Ujk1bnFHbkgtX054ZU80WDNoV09ZUjZZS09HQ1RDUEJXb0pRY2QyWG1jTHhpZXJ1SVZweGIwY21iZllXaE1ZNFpzb01UVGN3aXJ5X1gtMW9GdHhvZmY1N2JPWloxR3BUX3ZEdW5hS1RzaTVIdWhSbjF0Y2xSemx3VXZRNVNCTGNGMFlNamhSZFgxeXZoV2kxeE1PNWNnUUdMUmozbnl5SWF30gHeAUFVX3lxTE1oVGk0RW5rR0VaUVRlUE5zb1VUQzh1Y21ILVpibUlJNnJEbHlXNDNhUGRTblBqMXlNUTBPRGM2eVlwd3dpazQ2Y0VxTlE1MXFfZ1FYNFRBZzhsaUNhdjJ5QTNraTJsWGlTOWNoX0JLODR4Y0lYbVg1Q0pwa1RYbWhXZERmb3pQUWVPTG5LWDl4dDNxdWxlVlVLS3dSekpJQUdLSGZyRzdGNjFzWjJqMHIxNVFXZkhDeTIxck9QcEZuVGp5SHY1S0FqaFhEaHpnU0xpU0p1VHZIN3A3SGxNQQ?oc=5",
+      "published": "Sat, 20 Jun 2026 08:03:16 GMT",
+      "source": "NDTV",
+      "category": "health"
+    },
+    {
       "title": "Zero cervical cancer deaths in vaccinated young women - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXF3OE0wWlcydjIwVXU0VGtSbC1nZVYtMGJVXzBKM19yY3RFZ0tBX3VSbzA2YkM0eXZXN2pWaEJaamduN3FjOExwUmxqVVZ5ejYtc1hiSDZ5T2dyS3Z5Y0N0WTlycmFrQWc2MThWSy0xNkRXQ3hwbkNHOFRzM09xbkRhdWdxbnlYZGs5bS00ZlBTOXRSd2tXdGNLRE5jWUZZU3d2VlVzbHEzZzkzcndWX01nV2NqV1hpQ3lobm9R?oc=5",
       "published": "Sat, 20 Jun 2026 14:40:00 GMT",
       "source": "The Times of India",
+      "category": "health"
+    },
+    {
+      "title": "Full-Dilation Caesarean Linked to Higher Risk of Future Preterm Birth - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1BnUVMyTFNiVHlsei1IUjh2WnBtMHdOOXY1enJBOWlsMTgyVk9WX0IzRldZR3RpaTJwcE5FcnZfRldGSHRWRnFrNzRmM2RFZkdPQnBseTVmNDVBM2NmREpHTDNUTTU3dlJNMzB0NmhuRE5heTlnWThZb0lxMzREYXh1d0M2emZwbmw5YnhHOExjQ1M3T0h4VGotc0t6V2tDaEMtSXRVd2FXdUN5MVEyZE1KSnVXbWhWUXdBT0drdw?oc=5",
+      "published": "Sat, 20 Jun 2026 08:28:04 GMT",
+      "source": "EMJ",
       "category": "health"
     },
     {
@@ -129,20 +122,6 @@
       "category": "health"
     },
     {
-      "title": "Could Vitamin C Be the Secret to Keeping Your Brain Younger? - SciTechDaily",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUg0NGN2MGNGR3dRMlpzLU1JQTB5VEo4NlZNenM4NklIZGw3T0tzU2hhRnRYRmE0MFUwUmFhTEZSWVU4ZVozYlp4Q2hnLXVwSWU0cUd1bm9qLWRTcEtyMEVSUFpfalgwLXEyVmRvTEFfM3VBNWpFV1pCY2p3dU9MVDZ4MEJPLVNpUDVpV3d3?oc=5",
-      "published": "Fri, 19 Jun 2026 18:33:24 GMT",
-      "source": "SciTechDaily",
-      "category": "health"
-    },
-    {
-      "title": "Can obesity damage your brain? Experts link extra weight to memory and focus problems - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVTlvMWxTbkxHU1BrdzFyc2NyaTVYOTM0LVozd0o3WVJXUnBCYnMwR05wVG9BQk85dWYxY3VIUmtZSEEwNGJEVENRR0hKNE1scEFraVJyQ09WMmctemFGbDlBMUlYUDdNb0FobUxoVV9ZTkxtbGVENmFpYUR0aExoZHlNQy1abEZibTBPQkdrWWdFRmthRjhjcnpaR0FoTGd2c0U3dWt1emlzSUlxMGZSX0N2N0tSZlJKby1FbGdvYVd4YnBpTFY2V0xlUnBfVWhKdk1laVdIUnZlcFhC0gHiAUFVX3lxTFBRYVlsUzhGRVhHeE9VVFlaQWk4WExQTHZHbVBUVDZLbDN3enRndXY4cFhEVTVtZ2lzVV8zYXhEcGxkUFh1bFhoM1ZyaXpZOFJSRkh4SThEZjU5VE1aV1g3MmY3LWtDTEU4bDh3SFQtaHE1Ym15Sy15VndFMHc0ZGZsTG9nMkdBSnMzaEk3MFhJcmxwYlByWkZpTUZQdFFzYzI0d09QMVA3bzkwN0ktQjRGbUxkc1ZMSlNfdzR3dk9mNnBYT196dFpNeUxHX0dvWnhxb1E5bEJ2Y0g0OC1tTzYxb1E?oc=5",
-      "published": "Sun, 21 Jun 2026 05:30:55 GMT",
-      "source": "Mint",
-      "category": "health"
-    },
-    {
       "title": "Sri Lanka dengue fever cases surge to 44,000 cases this year - marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlZZRHBOVHZSVklPM25QOUV6RFZBRUVXeEpWaXpLUldSYmtBSTU1cXpodkkyNldGTnQ3UTBJRWZOUk1odTc0aGJISUI5dEVyQTNMd1J4d0QtZlE3X2ZEdy1sdWxxemI3U3dWOHV5UE1SSTNoZkQtTzZsSndmU3dkSXpHNmFGVVVqTVZXd1RwTGo0eTNyWGZXc1dVQlpRbUgyTmpjYXdZMndNalNIWlQxdGlkTQ?oc=5",
       "published": "Fri, 19 Jun 2026 16:00:40 GMT",
@@ -154,6 +133,27 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlFuMW5ZLV8xOXV0YU5va1N6eTUybGw4UkJoZGhDMlpZQmhYcjJBWldnRDhWajVMMU1ERURnRGJ2YzFIY3NqVEF4bjdTMExtNjVSMm5zTng3aTk0VGc5TU5xYzA2bUNETUs0Zl9BOGQyNTlrak55MF9oblp3aEJfNnRiMTVjM3o1dldHRDRXNll4cWZkR3g0TDhEYzVUS2cxSUpHd9IBqgFBVV95cUxOVWZxaTV6Q1E5NDRHeWVVUkFOOFN6bmtOeWQxVWNqU1l5R0hFYnZ2b2lTWkxHNk1QVndTMmFmU0lCMmtWUy1UTUFYM1hwSzBuakNlWXZZcHVQOWEzQmpMTXJOOVVpeUlBcmZQWHhQWHh1QXZycXlZMUpyZmZhMzc1UXZ5c3JFNXdUUGZyN0V3NjczYTdRVGpDNElRbnVqRnhaWHhYWS1Yd01JQQ?oc=5",
       "published": "Sun, 21 Jun 2026 05:13:17 GMT",
       "source": "boldnewsonline.com",
+      "category": "health"
+    },
+    {
+      "title": "Can obesity damage your brain? Experts link extra weight to memory and focus problems - Mint",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVTlvMWxTbkxHU1BrdzFyc2NyaTVYOTM0LVozd0o3WVJXUnBCYnMwR05wVG9BQk85dWYxY3VIUmtZSEEwNGJEVENRR0hKNE1scEFraVJyQ09WMmctemFGbDlBMUlYUDdNb0FobUxoVV9ZTkxtbGVENmFpYUR0aExoZHlNQy1abEZibTBPQkdrWWdFRmthRjhjcnpaR0FoTGd2c0U3dWt1emlzSUlxMGZSX0N2N0tSZlJKby1FbGdvYVd4YnBpTFY2V0xlUnBfVWhKdk1laVdIUnZlcFhC0gHiAUFVX3lxTFBRYVlsUzhGRVhHeE9VVFlaQWk4WExQTHZHbVBUVDZLbDN3enRndXY4cFhEVTVtZ2lzVV8zYXhEcGxkUFh1bFhoM1ZyaXpZOFJSRkh4SThEZjU5VE1aV1g3MmY3LWtDTEU4bDh3SFQtaHE1Ym15Sy15VndFMHc0ZGZsTG9nMkdBSnMzaEk3MFhJcmxwYlByWkZpTUZQdFFzYzI0d09QMVA3bzkwN0ktQjRGbUxkc1ZMSlNfdzR3dk9mNnBYT196dFpNeUxHX0dvWnhxb1E5bEJ2Y0g0OC1tTzYxb1E?oc=5",
+      "published": "Sun, 21 Jun 2026 05:30:55 GMT",
+      "source": "Mint",
+      "category": "health"
+    },
+    {
+      "title": "Hypermetabolism linked to early-life adversity can be harmful in long term: Study - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXVkcWxXb2ozT2djR2hpUmo0VlVVM1NzQ1ZEQ19GelRtWWszYldDazI1NTA1Mmk2LWJ2akFxejZiREctWWxFOHpzSmtBMXA0Mkdneml5ZFNBXzZiMC12TTlaalNKSWpYeDhJYWJlLW1mUFhjR2t6V0tBeVJvN1NNMWU4SUFHV3M1b2RaTlJXbTZyOFFrWDc5TWxQMW9MQmVHUnZVQ2xRZEJUVlpPLTdaYS1oS2pzOXZRSS1pUjNqeG5rdkFaLU5qcVZkYVZwRlJsRzFsdzFkaWHSAd8BQVVfeXFMUHhETU96VmFoRVBSNDhLa1lib1ZxeENhbEF4cVJoSUt0ZG5IYUNuY0kwLUctcEhFbG94U0hCRmRQbzZqVXMtblBsMV9hREV5Q2VVeGp0aTVTb21WLW0ybHQzb0lOVk5jY0dvcThtWkJfc0NtYUFKaUlJRDNnYVBNam5LTkM1ZndJZENGZ19IX25DN0pSZmNTUDlDejVEZXFOZ1cwMDcxZEQwblBrY0NNS3Z5M0ZxT1VuTEFKcWMtbnQ1Ym9rc3JPT25wVzVqaEE0NXBIazZpTk8weTdNRTlPTQ?oc=5",
+      "published": "Sun, 21 Jun 2026 11:54:55 GMT",
+      "source": "The Hindu",
+      "category": "health"
+    },
+    {
+      "title": "Could Vitamin C Be the Secret to Keeping Your Brain Younger? - SciTechDaily",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUg0NGN2MGNGR3dRMlpzLU1JQTB5VEo4NlZNenM4NklIZGw3T0tzU2hhRnRYRmE0MFUwUmFhTEZSWVU4ZVozYlp4Q2hnLXVwSWU0cUd1bm9qLWRTcEtyMEVSUFpfalgwLXEyVmRvTEFfM3VBNWpFV1pCY2p3dU9MVDZ4MEJPLVNpUDVpV3d3?oc=5",
+      "published": "Fri, 19 Jun 2026 18:33:24 GMT",
+      "source": "SciTechDaily",
       "category": "health"
     },
     {
@@ -178,17 +178,17 @@
       "category": "health"
     },
     {
-      "title": "Frozen and canned or fresh: What\u2019s healthier? - The Shillong Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVZpbEJ5ZFlLajRoMkNEU0Vyb3FDM2JkWThNVlhZd0s0cEV1dkNkOWlNY1lZbU8xX2pjanVFTXBWZHBxNnF3dHh2R2s0VlAxLTdLWElSaVNXV01EZk1yLWhXeTdMSXVVMjdhYktkei15Y011emdTci1zYmZHc2MwcldUamxrUWNqN1Yw?oc=5",
-      "published": "Sat, 20 Jun 2026 21:02:08 GMT",
-      "source": "The Shillong Times",
-      "category": "health"
-    },
-    {
       "title": "EU ban on BPA chemical in food packaging takes effect - DW.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnhFa3Y5dHVrV0xkMlgzSGg5Rk8tdXcxY1ZCYlpfcG5kVDluRmJsUjJ1YzFBdW5FbmItZkdMVW1zSXQ3cVVZcV85UTJaTDJ0SzljZjhtMC1pRXdYZllpZDc3cHZCTDRuU01ZME5UdnY5S19QdzBvczVhZ3JhakpraTlORFVpNHhkUVF2SXFpSdIBjwFBVV95cUxQckNIWUUxUlJub2hVUjEzdDJxdVpQcWs2WFBuR3ozeEI3SnRORlFsejhhOUxRdFo4MWJfUEtIbENna2wwT0tpQWdpZFREdHB1bEhhQ3hOcWJXZy04Mm5ZWVNVSWZUQzMyQno4Rzk4Q0tNdGw2U3YtUWZRUTZhMjhkOHFQQ0RwWlRZRWROU1JGUQ?oc=5",
       "published": "Fri, 19 Jun 2026 17:13:05 GMT",
       "source": "DW.com",
+      "category": "health"
+    },
+    {
+      "title": "Frozen and canned or fresh: What\u2019s healthier? - The Shillong Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVZpbEJ5ZFlLajRoMkNEU0Vyb3FDM2JkWThNVlhZd0s0cEV1dkNkOWlNY1lZbU8xX2pjanVFTXBWZHBxNnF3dHh2R2s0VlAxLTdLWElSaVNXV01EZk1yLWhXeTdMSXVVMjdhYktkei15Y011emdTci1zYmZHc2MwcldUamxrUWNqN1Yw?oc=5",
+      "published": "Sat, 20 Jun 2026 21:02:08 GMT",
+      "source": "The Shillong Times",
       "category": "health"
     },
     {
@@ -199,17 +199,17 @@
       "category": "health"
     },
     {
-      "title": "WHO Issues First-Ever Guidance For Paediatric Dengue Treatments - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGtBcmg5RVcxTG1raHVSWUpTaS1fRmVVR2FZY3lBcGVCVXRxVXVTd3oxakNaRHFPZldza0NrNGp3NjRhWThtSGxlUE9pYVdJNldmbldfcGI4VDNqdEZuMnZIWFk2V1dycEVQcWtxTy1zWE5tWXJoV1FtT0V0MVhTTjh3SUVtODFHcEFaNDJEd0NCTjN3TWZ4Q1Fnem1Nb0R3WHRETEdUdHQ0ZkxBWHdsZ2UzdlTSAbwBQVVfeXFMTnJIYmpVQVR0b0twdjlKczFvdWVNQ1VlbjJKVnA4VWZ6d2xUby1oVElNeGR6LTBHdU11akpxTDdmQVZ0QVlxbGZoNFhJMkEtT2RxalFIcUVjZjMwM3c4SlJsdS1GVzlHN19sbWRLUlM3a2lhQzRTakxOUXB6M3F5SlJYRFNqOUh6M2hhV3dKV3VfRnhPajBvcGxUSmJOdTFZTDFGbHJROG5NSFhLSFFIZkpIdzdRRHA3R2lwNDM?oc=5",
-      "published": "Fri, 19 Jun 2026 12:41:46 GMT",
-      "source": "NDTV",
-      "category": "health"
-    },
-    {
       "title": "Managing CKM Stage 4: When Cardiovascular Disease Becomes Clinical - Medical Dialogues",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEh0aTl3bmlUTFBZaDMtWElOMnFsUnhpNWhlS1RMOEVrWDJLMTFBa1VGWWhiZExWeW1saWl3T0RlOGRZM2pQQmhCNi1pamVlLXVqZHFUS1hhRWtCNXpwSS1tclJGNDFaX1E4RmNmMFdWSkpwM0tBLUNWMEp5SlBabGhTX0xCOHNvM04yQWxLVC1zbnUzM2ltcXF4alA2SWhMZWNzUXpJN0ZZWnBrSTh6clBuSFhyNXMxcWNIeTdn?oc=5",
       "published": "Sat, 20 Jun 2026 04:15:35 GMT",
       "source": "Medical Dialogues",
+      "category": "health"
+    },
+    {
+      "title": "Childhood Obesity Is A 'Do or Die' Crisis, Experts Warn At Times Network India Health Summit 2026 - Health and Me",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbHdtWS1SaHRHZWtaN2wzYWZOY1pZb2dpS3FhNUVYaXNWd0VxT2o4RnNURDQ1SklRM1pBeTU4RS0xc1NCTUJhNS16b1lKbE9YNUJGcC1GT0k4Z1RweFBwOWRuTUlpa0s0dEYyVnp4RDh2NGNnOWx0S3NoSVdZM0VYRld1bGVjSTA4Uk9jel9tcHhKSnlPQlc5QzQxaDlkVW5vWXR5dEFrQTdUeTRpSVR6WDRaLUNHd0Rqdm8tSWNoZzdaSzZ4aEh6ckFkZUtTNHJZSTVpVG9qc2xsbXh5TzVrQmZjbWtvMWc?oc=5",
+      "published": "Sat, 20 Jun 2026 14:28:52 GMT",
+      "source": "Health and Me",
       "category": "health"
     }
   ]

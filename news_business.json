@@ -1,65 +1,34 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Boston IT Services Provider Explains Why Managed Services Drive Growth",
-      "description": "Why Managed Services Drive Business Growth and Stability \u2013 Insights from a Boston IT Services Provider Boston, United",
-      "link": "https://norfolkdailynews.com/online_features/press_releases/boston-it-services-provider-explains-why-managed-services-drive-growth/article_6985ec6e-89a7-5fb2-a77f-3ecd1e6b2e59.html",
-      "source": "Norfolk Daily News",
-      "image": null,
-      "published": "2026-06-21 02:05:00",
+      "title": "Federal regulators back Trump's plan to speed power to energy-hungry AI data centres",
+      "description": "US Federal regulators on Thursday agreed to let large energy users connect more quickly to the nation's inefficient electric transmission system to accommodate surging demand from power-hungry artificial intelligence (AI) data centres.",
+      "link": "http://jamaica-gleaner.com/article/business/20260621/federal-regulators-back-trumps-plan-speed-power-energy-hungry-ai-data",
+      "source": "Jamaica Gleaner",
+      "image": "http://jamaica-gleaner.com/sites/default/files/media/2026/06/21/Copy%20of%20Fans%2C%20part%20of%20a%20cooling%20system%2C%20are%20visible%20on%20the%20roof%20of%20a%20data%20centre%20April%2027%2C%202026%20in%20Hillsboro%2C%20USA.%20%28AP%20Photo%29.jpg",
+      "published": "2026-06-21 04:42:49",
       "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lucknow Metro Phase-1B: Medical College station to take over half of the corridor\u2019s land requirement",
-      "description": null,
-      "link": "https://www.moneycontrol.com/city/lucknow-metro-phase-1b-medical-college-station-to-take-over-half-of-the-corridor-s-land-requirement-article-13954801.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260621020216_fygkdjgjx.jpg",
-      "published": "2026-06-21 02:04:46",
-      "category": [
-        "top",
         "business"
       ],
       "country": [
+        "jamaica"
+      ]
+    },
+    {
+      "title": "RVNL Wins \u20b92,977 Crore NMDC Contract, Major Vizag Infrastructure Project To Boost Order Book",
+      "description": "Rail Vikas Nigam Limited (RVNL) has secured a Rs 2,977 crore contract from NMDC to build a 10 MTPA buffer stockpile and blending yard in Vizag. The 42-month project strengthens RVNL\u2019s infrastructure portfolio and improves long-term revenue visibility.",
+      "link": "https://www.freepressjournal.in/business/rvnl-wins-2977-crore-nmdc-contract-major-vizag-infrastructure-project-to-boost-order-book",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-02-26/fro0z448/rnvnl-nmdc.jpg",
+      "published": "2026-06-21 04:42:32",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
         "india"
-      ]
-    },
-    {
-      "title": "219 'Penny Stocks' Face Delisting Risk, 8% of Korea's Listed Firms",
-      "description": "219 penny stocks, or 8% of Korea's listed companies, face delisting risk as a new KRX rule takes effect next month targeting shares trading below 1,000 won.",
-      "link": "https://en.sedaily.com/finance/2026/06/21/219-penny-stocks-face-delisting-risk-8-percent-of-koreas",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/06/21/20058196_1.jpg",
-      "published": "2026-06-21 02:04:28",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Trump Accepts $400 Million Qatari Jet Amid 'Corruption' Outcry, Signals China Visit",
-      "description": "President Trump accepted a $400 million Qatari jet as a new Air Force One amid corruption accusations from Democrats, while signaling a visit to China for the November APEC summit in Shenzhen.",
-      "link": "https://en.sedaily.com/international/2026/06/21/trump-accepts-400-million-qatari-jet-amid-corruption-outcry",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/06/21/20058197_1.jpg",
-      "published": "2026-06-21 02:04:27",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "south korea"
       ]
     }
   ]

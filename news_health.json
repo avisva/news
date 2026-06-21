@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "PM Modi leads the 12th International Yoga Day celebration from Kolkata, underscores the importance of yoga for individuals and the world",
+      "description": "PM Modi guided participants and corrected their postures as they performed yoga.",
+      "link": "https://www.opindia.com/news-updates/pm-modi-leads-12th-international-yoga-day-kolkata-highlights-yogas-global-importance/",
+      "source": "Op India",
+      "image": "https://www.opindia.com/wp-content/uploads/2026/06/pm-modi-yoga-day-2026.jpg",
+      "published": "2026-06-21 04:42:34",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

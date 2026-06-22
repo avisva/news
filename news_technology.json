@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Torex Semiconductor Ltd.: Torex Semiconductor Has Achieved \"Zero\" Current Consumption with Multi-Function Load Switch ICs XC8115/XC8116 Series",
+      "description": "Torex Semiconductor Ltd. (TOKYO Prime: 6616) has developed the XC8115/XC8116 Series, multifunction load switch ICs that achieve 0\u03bcA current consumption. Featuring ultra-low power consumption, savi...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-06/68822092-torex-semiconductor-ltd-torex-semiconductor-has-achieved-zero-current-consumption-with-multi-function-load-switch-ics-xc8115-xc8116-series-004.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-torex-semiconductor-ltd-aktie-intraday-frankfurt.png",
+      "published": "2026-06-22 00:48:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Sound meets smart functionality",
+      "description": "Blaupunkt and Tempt bring entertainment and utility to the wireless audio segment",
+      "link": "https://www.financialexpress.com/life/technology-sound-meets-smart-functionality-4273199/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/06/blaupunkt-rock-roll-ibiza-180w-party-speaker-review.jpg",
+      "published": "2026-06-22 00:47:26",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

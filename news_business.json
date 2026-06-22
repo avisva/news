@@ -1,14 +1,56 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "New Cafe\u0301 Opens; Proposed Bar Redevelopment Raises Tensions: Main Line Business News",
-      "description": "What's opening, what's closing and what's changing on the Main Line and beyond? Here are some of the top business stories making news.",
-      "link": "https://patch.com/pennsylvania/radnor/new-caf-opens-proposed-bar-redevelopment-raises-tensions-main-line-business-news",
-      "source": "Patch",
-      "image": "https://patch.com/img/cdn20/users/23182514/20260621/022608/styles/patch_image/public/lemon-poppy-kougn-amann___21142513943.jpg",
-      "published": "2026-06-21 18:26:24",
+      "title": "NZ Media Council upholds complaint over inaccurate NZ Herald headline",
+      "description": "The complaint centred on a misleading headline about debt shame.",
+      "link": "https://www.nzherald.co.nz/business/nz-media-council-upholds-complaint-over-inaccurate-nz-herald-headline/TXTDPV3SWVGGJCWLIYVQNGH7UY/",
+      "source": "Nzherald",
+      "image": "https://www.nzherald.co.nz/resizer/v2/36A55IDUCQPYDHB76VG4HOKVC4.jpg?auth=adefbea3a7ed2f8fd865e2441d5394e4627c2d922eb7795e4a0b86e52a1e9f94&smart=true&width=300&height=300",
+      "published": "2026-06-22 00:48:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Critical Minerals Group Secures $1.5M Placement to Propel Vanadium Strategy",
+      "description": "Critical Minerals Group Limited (ASX: CMG) has announced it secured binding subscriptions to raise $1.5 million before costs through a two-tranche placement. The Brisbane-based critical minerals company develops an integrated vanadium supply chain for vanadium flow batteries and long-duration energy The post Critical Minerals Group Secures $1.5M Placement to Propel Vanadium Strategy first appeared on Sharecafe .",
+      "link": "https://www.sharecafe.com.au/2026/06/22/critical-minerals-group-secures-1-5m-placement-to-propel-vanadium-strategy/",
+      "source": "Share Cafe",
+      "image": "https://www.sharecafe.com.au/wp-content/uploads/2026/06/1QEngABVuu2DmTyQt8KF_1080x1080-1024x1024.png",
+      "published": "2026-06-22 00:47:50",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Recce Pharmaceuticals Elevates DFI Trial to Pivotal Phase 3 Following HREC Approval",
+      "description": "Recce Pharmaceuticals Limited (ASX:RCE), a leading developer of synthetic anti-infectives, today announced it has received Human Research Ethics Committee (HREC) approval for a significant protocol amendment. This approval advances the Company\u2019s clinical trial of RECCE\u00ae 327 Topical Gel (R327G) in The post Recce Pharmaceuticals Elevates DFI Trial to Pivotal Phase 3 Following HREC Approval first appeared on Sharecafe .",
+      "link": "https://www.sharecafe.com.au/2026/06/22/recce-pharmaceuticals-elevates-dfi-trial-to-pivotal-phase-3-following-hrec-approval/",
+      "source": "Share Cafe",
+      "image": "https://www.sharecafe.com.au/wp-content/uploads/2026/06/v8r9eYUMC97JnF4XcOTa_1080x1080-1024x1024.png",
+      "published": "2026-06-22 00:47:48",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Letter: An update on President Trump",
+      "description": "National debt keeps climbing, as do Midwest farm bankruptcies",
+      "link": "https://www.dglobe.com/opinion/letters/letter-an-update-on-president-trump",
+      "source": "The Globe",
+      "image": "https://cdn.forumcomm.com/dims4/default/b9f673a/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fmitchellrepublic%2Fbinary%2Fcopy%2F13%2F44%2F1eb8bd27279011de61c3dae9b820%2F3347720-letter-to-the-editor-binary-2679221.jpg",
+      "published": "2026-06-22 00:47:47",
       "category": [
         "business",
         "top"

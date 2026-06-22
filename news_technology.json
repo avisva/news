@@ -1,17 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Azure OAuth Integration Failure",
-      "description": "Dear SAP Support Team, We are encountering issues while configuring OAuth 2.0 authentication for Microsoft Graph API integration in SAP Cloud Integration (CPI). The integration is intended to enable reading emails from an Office365 mailbox using Azure AD\u2013based authentication (Client Credentials / OA...",
-      "link": "https://community.sap.com/t5/technology-q-a/azure-oauth-integration-failure/qaq-p/14424144",
-      "source": "Sap",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "published": "2026-06-22 05:37:55",
+      "title": "Best Prime Day deal: Apple AirPods Max 2 at new record-low price \u2014 save $150 - Mashable",
+      "description": "Best Prime Day deal: Apple AirPods Max 2 at new record-low price \u2014 save $150 Mashable The Apple AirPods Pro 3 Earbuds Drops to the Lowest Price Ever Ahead of Father's Day IGN Southeast Asia The best Prime Day tech deals are here: Shop Apple, Beats, Samsung and more for up to 55% percent off Yahoo Tech AirPods Pro 3 Drops to Record Low $169 on Amazon Ahead of Prime Day MacRumors These are the best new MacBook deals currently: June 2026 Buyer\u2019s Guide 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaHZrem9NZ1dzMTl0TFY0Slh5X2pONkxweE13UjhTVkEyeVV0SF9obDdBX05rRmNabEtvcW5WSkZHMFMzM0hzc2wyQ1FmeUhkYlBSNWlsT1RKa094ZDNYbWRWd1c2LXFGTXc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-22 08:43:56",
       "category": [
-        "technology",
-        "top"
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Wow! Apple AirPods Max 2 are down to a new record-low price ahead of Prime Day \u2014 buy for under $400.",
+      "description": "Find the best Apple AirPods Max 2 deal at Amazon. Apple AirPods Max 2 at new record-low price ahead of Prime Day.",
+      "link": "https://mashable.com/tech/june-22-apple-airpods-max-2-deal",
+      "source": "Mashable",
+      "image": "https://helios-i.mashable.com/imagery/articles/07n5aGYKDhpIfpwsgVxa2kN/hero-image.fill.size_1200x675.v1782117829.jpg",
+      "published": "2026-06-22 08:43:56",
+      "category": [
+        "technology"
       ],
       "country": [
         "united states of america"

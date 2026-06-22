@@ -1,33 +1,66 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Best Prime Day deal: Apple AirPods Max 2 at new record-low price \u2014 save $150 - Mashable",
-      "description": "Best Prime Day deal: Apple AirPods Max 2 at new record-low price \u2014 save $150 Mashable The Apple AirPods Pro 3 Earbuds Drops to the Lowest Price Ever Ahead of Father's Day IGN Southeast Asia The best Prime Day tech deals are here: Shop Apple, Beats, Samsung and more for up to 55% percent off Yahoo Tech AirPods Pro 3 Drops to Record Low $169 on Amazon Ahead of Prime Day MacRumors These are the best new MacBook deals currently: June 2026 Buyer\u2019s Guide 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaHZrem9NZ1dzMTl0TFY0Slh5X2pONkxweE13UjhTVkEyeVV0SF9obDdBX05rRmNabEtvcW5WSkZHMFMzM0hzc2wyQ1FmeUhkYlBSNWlsT1RKa094ZDNYbWRWd1c2LXFGTXc?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-22 08:43:56",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Wow! Apple AirPods Max 2 are down to a new record-low price ahead of Prime Day \u2014 buy for under $400.",
-      "description": "Find the best Apple AirPods Max 2 deal at Amazon. Apple AirPods Max 2 at new record-low price ahead of Prime Day.",
-      "link": "https://mashable.com/tech/june-22-apple-airpods-max-2-deal",
-      "source": "Mashable",
-      "image": "https://helios-i.mashable.com/imagery/articles/07n5aGYKDhpIfpwsgVxa2kN/hero-image.fill.size_1200x675.v1782117829.jpg",
-      "published": "2026-06-22 08:43:56",
+      "title": "AI Didn't Change The Rule. It Made It More Important.",
+      "description": "To get real value from AI, focus on understanding the business problems that need to be solved before you reach for the tool.",
+      "link": "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/ai-didnt-change-the-rule-it-made-it-more-important/",
+      "source": "Forbes",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/66c384801f5264580c9b13d7/0x0.jpg?width=960",
+      "published": "2026-06-22 10:45:00",
       "category": [
         "technology"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "TELUS Digital and ElevenLabs Partner to Scale Voice AI Alongside Frontline Customer Care Teams",
+      "description": "The partnership brings ElevenAgents to enterprise customer experience, with TELUS Digital providing the implementation and operations expertise to put it into production VANCOUVER, BC, June 22, 2026 /CNW/ - TELUS Digital, a global technology service provider specializing in AI-powered...",
+      "link": "https://www.prnewswire.com/news-releases/telus-digital-and-elevenlabs-partner-to-scale-voice-ai-alongside-frontline-customer-care-teams-882149628.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS1869592/TELUS_Digital-TELUS_Digital_and_ElevenLabs_Partner_to_Scale_Voic.jpg?id=OA2726256&p=original",
+      "published": "2026-06-22 10:45:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How Weight Distribution Can Affect Your Driving: The Physics Explained",
+      "description": "From horsepower to torque and more, lots of different factors help determine a car's driving characteristics, and the right weight distribution is vital.",
+      "link": "https://www.slashgear.com/2197817/how-weight-distribution-affects-driving-physics-explained/",
+      "source": "Slashgear",
+      "image": "https://www.slashgear.com/img/gallery/how-weight-distribution-can-affect-your-driving-the-physics-explained/l-intro-1781818806.jpg",
+      "published": "2026-06-22 10:45:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "singapore",
+        "united states of america",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Condo Smarts: Rogue AI notice of meeting causes havoc",
+      "description": "A person with access to some or all of your documents and records can create mayhem in your communities",
+      "link": "https://www.timescolonist.com/life/condo-smarts-rogue-ai-notice-of-meeting-causes-havoc-12437189",
+      "source": "Times Colonist",
+      "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/06/web1_tony-gioventu-condo-smarts-for-web_1.jpg",
+      "published": "2026-06-22 10:45:00",
+      "category": [
+        "technology",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

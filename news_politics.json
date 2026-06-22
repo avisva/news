@@ -1,51 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Silence from nation as Starmer demands he be told exactly what he did wrong",
-      "description": "THE prime minister is standing at his Downing Street podium waiting to be told exactly what he did to deserve to be deposed, to shuffling silence.",
-      "link": "https://www.thedailymash.co.uk/politics/silence-from-nation-as-starmer-demands-he-be-told-exactly-what-he-did-wrong-20260622267258",
-      "source": "The Daily Mash",
-      "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260622094040/starmer-downing-street-667x375-2.jpeg",
-      "published": "2026-06-22 08:43:55",
+      "title": "All Americans deserve beautiful architecture",
+      "description": "Planners have turned away from tradition, but boxy concrete doesn\u2019t represent American ideals.",
+      "link": "https://www.washingtonpost.com/opinions/2026/06/22/jim-banks-architecture-america-should-be-beautiful-not-brutalist/",
+      "source": "The Washington Post",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4UG3IIRIXF3BBCTQYLRCUCNEDU_size-normalized.JPG&w=1600&h=900",
+      "published": "2026-06-22 10:45:00",
       "category": [
-        "politics",
-        "top"
+        "politics"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "Starmer announces resignation as UK PM, successor to take over by September",
-      "description": "Starmer announces resignation as UK PM, successor to take over by September",
-      "link": "https://www.business-standard.com/world-news/starmer-announces-resignation-as-uk-pm-successor-to-take-over-by-september-126062200490_1.html",
-      "source": "Business Standard",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/hp/home-page/2026-06/22/9343/full/breaking_news.jpg",
-      "published": "2026-06-22 08:43:45",
+      "title": "Condo Smarts: Rogue AI notice of meeting causes havoc",
+      "description": "A person with access to some or all of your documents and records can create mayhem in your communities",
+      "link": "https://www.timescolonist.com/life/condo-smarts-rogue-ai-notice-of-meeting-causes-havoc-12437189",
+      "source": "Times Colonist",
+      "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/06/web1_tony-gioventu-condo-smarts-for-web_1.jpg",
+      "published": "2026-06-22 10:45:00",
       "category": [
-        "politics",
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Sir Keir Starmer resigns as Prime Minister with Andy Burnham poised to take over",
-      "description": "Sir Keir Starmer has announced he will resign as Prime Minister less than two years after coming to power.",
-      "link": "https://www.newsletter.co.uk/news/politics/sir-keir-starmer-resigns-as-prime-minister-with-andy-burnham-poised-to-take-over-8753245",
-      "source": "Belfast News Letter",
-      "image": "https://www.newsletter.co.uk/webimg/b25lY21zOjkyOTMzZmRmLTJjOGEtNDYwNy1hMGZiLTU3M2Y5MzA1NWZlZTo1NzNkODRjNS05ZjkwLTQ4YzQtYmY1Ni0zOGIyNDcxMzVkM2U=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-06-22 08:43:41",
-      "category": [
+        "technology",
         "politics",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "canada"
       ]
     }
   ]

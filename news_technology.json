@@ -1,35 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Torex Semiconductor Ltd.: Torex Semiconductor Has Achieved \"Zero\" Current Consumption with Multi-Function Load Switch ICs XC8115/XC8116 Series",
-      "description": "Torex Semiconductor Ltd. (TOKYO Prime: 6616) has developed the XC8115/XC8116 Series, multifunction load switch ICs that achieve 0\u03bcA current consumption. Featuring ultra-low power consumption, savi...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-06/68822092-torex-semiconductor-ltd-torex-semiconductor-has-achieved-zero-current-consumption-with-multi-function-load-switch-ics-xc8115-xc8116-series-004.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/chart-torex-semiconductor-ltd-aktie-intraday-frankfurt.png",
-      "published": "2026-06-22 00:48:00",
+      "title": "Azure OAuth Integration Failure",
+      "description": "Dear SAP Support Team, We are encountering issues while configuring OAuth 2.0 authentication for Microsoft Graph API integration in SAP Cloud Integration (CPI). The integration is intended to enable reading emails from an Office365 mailbox using Azure AD\u2013based authentication (Client Credentials / OA...",
+      "link": "https://community.sap.com/t5/technology-q-a/azure-oauth-integration-failure/qaq-p/14424144",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-06-22 05:37:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Sound meets smart functionality",
-      "description": "Blaupunkt and Tempt bring entertainment and utility to the wireless audio segment",
-      "link": "https://www.financialexpress.com/life/technology-sound-meets-smart-functionality-4273199/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/06/blaupunkt-rock-roll-ibiza-180w-party-speaker-review.jpg",
-      "published": "2026-06-22 00:47:26",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

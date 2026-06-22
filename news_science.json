@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Watch: India stun China to win 4x100m gold with season-best time at Asian C'ships",
+      "description": "India's women's 4x100m relay team blazed to gold at the Asian Relay Championships 2026, clocking a season-best 43.85 seconds. Tamanna and Sneha Shanuvalli also contributed to a mixed 4x100m bronze. While sprint relays shone, the 4x400m teams faced challenges. Overall, India secured one gold, one silver, and one bronze, showcasing a mixed but promising performance ahead of major events.",
+      "link": "https://timesofindia.indiatimes.com/sports/more-sports/athletics/watch-india-stun-china-to-win-4x100m-relay-gold-with-season-best-time-at-asian-relay-championships-2026/articleshow/131901900.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-131901893/131901893.jpg",
+      "published": "2026-06-22 05:37:25",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

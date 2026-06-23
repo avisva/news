@@ -1,66 +1,83 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
-      "title": "AI Didn't Change The Rule. It Made It More Important.",
-      "description": "To get real value from AI, focus on understanding the business problems that need to be solved before you reach for the tool.",
-      "link": "https://www.forbes.com/councils/forbestechcouncil/2026/06/22/ai-didnt-change-the-rule-it-made-it-more-important/",
-      "source": "Forbes",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/66c384801f5264580c9b13d7/0x0.jpg?width=960",
-      "published": "2026-06-22 10:45:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "TELUS Digital and ElevenLabs Partner to Scale Voice AI Alongside Frontline Customer Care Teams",
-      "description": "The partnership brings ElevenAgents to enterprise customer experience, with TELUS Digital providing the implementation and operations expertise to put it into production VANCOUVER, BC, June 22, 2026 /CNW/ - TELUS Digital, a global technology service provider specializing in AI-powered...",
-      "link": "https://www.prnewswire.com/news-releases/telus-digital-and-elevenlabs-partner-to-scale-voice-ai-alongside-frontline-customer-care-teams-882149628.html",
+      "title": "Alvian Networks Establishes US Operations in Buffalo, New York, Reinforcing Cross-Border Commitment to Critical Infrastructure Security",
+      "description": "HAMILTON, ON and BUFFALO, N.Y., June 22, 2026 /PRNewswire/ - Alvian Networks today announced the formal establishment of Alvian USA Inc., its wholly owned US subsidiary, with operations based at 1 Seneca Street, 29th Floor, Buffalo, New York 14203. Alvian builds technologies that help...",
+      "link": "https://www.prnewswire.com/news-releases/alvian-networks-establishes-us-operations-in-buffalo-new-york-reinforcing-cross-border-commitment-to-critical-infrastructure-security-302805052.html",
       "source": "Pr Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS1869592/TELUS_Digital-TELUS_Digital_and_ElevenLabs_Partner_to_Scale_Voic.jpg?id=OA2726256&p=original",
-      "published": "2026-06-22 10:45:00",
+      "image": "https://mma.prnewswire.com/media/2997495/Alvian_Networks_Alvian_Networks_Establishes_US_Operations_in_Buf.jpg?p=original",
+      "published": "2026-06-22 12:03:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "How Weight Distribution Can Affect Your Driving: The Physics Explained",
-      "description": "From horsepower to torque and more, lots of different factors help determine a car's driving characteristics, and the right weight distribution is vital.",
-      "link": "https://www.slashgear.com/2197817/how-weight-distribution-affects-driving-physics-explained/",
-      "source": "Slashgear",
-      "image": "https://www.slashgear.com/img/gallery/how-weight-distribution-can-affect-your-driving-the-physics-explained/l-intro-1781818806.jpg",
-      "published": "2026-06-22 10:45:00",
+      "title": "Ori director says Game Pass needs \"smash hits,\" not studios slopping out mediocre content - TechSpot",
+      "description": "Ori director says Game Pass needs \"smash hits,\" not studios slopping out mediocre content TechSpot \"The Catalogue Was Just Nowhere Near Good Enough\" - Ori Creator Likens Xbox Game Pass To A \"Slop Factory\" Pure Xbox Ori creator declares Xbox Game Pass a mediocre slop factory that's 'a little like Communism' PC Gamer Ori Dev CEO Says Xbox Was Too Focused On Protecting Its Legacy To Build Its Future GameSpot",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG1mSlJTU0xwOG41eFc3Q1pMbm5WVUhPN3NLRDdpb3lsTjFqMk13cjVyU0tGSmc4ME5FNnJwY0JlcXVKRUpkVGdBZzRBU29fSHBqQ0FGemx4RjlWOFJDZzlocFBXTDdsSWVyNmdOZ09Md2R0QmpSeFZUTldSMHFWVk5BNVFJWUI3Z1FHMnJ3?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-22 12:03:00",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "singapore",
-        "united states of america",
-        "united kingdom"
+        "australia"
       ]
     },
     {
-      "title": "Condo Smarts: Rogue AI notice of meeting causes havoc",
-      "description": "A person with access to some or all of your documents and records can create mayhem in your communities",
-      "link": "https://www.timescolonist.com/life/condo-smarts-rogue-ai-notice-of-meeting-causes-havoc-12437189",
-      "source": "Times Colonist",
-      "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/06/web1_tony-gioventu-condo-smarts-for-web_1.jpg",
-      "published": "2026-06-22 10:45:00",
+      "title": "Inogic Launches AI-Enabled Data Deduplication for Dynamics 365 CRM with InoWiz - EIN Presswire",
+      "description": "Inogic Launches AI-Enabled Data Deduplication for Dynamics 365 CRM with InoWiz EIN Presswire",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVlUcWxfeTAxdFlrQXUtVzN2M2tSQ3UtaTI2YXNYVTJHM2twZ1h0cXhSM2hkYjQwNjhxaEJQSkxJem1aX3pXaThCdlJkSU5VRTJyMU9KWVFXeEZJTWgtS0lLVDdCcEFOMk1RcFMtQlNoaUJfSkV6LTZOTGFWa2lIc0U0VTRtOUVfOUp4LWJfak1vd1lzeHpzRXQyVkNuOE5rSERiMVdTcElzUE9NT1R0Tko3Z1YtTmhGSGZMSGhsWUNuRzA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-22 12:03:00",
       "category": [
-        "technology",
-        "politics",
-        "top"
+        "technology"
       ],
       "country": [
-        "canada"
+        "singapore"
+      ]
+    },
+    {
+      "title": "Tachyon9 Secures Offtake Agreement Supporting $156 Million Annual Revenue Platform and Up to 1 GW of Grid-Independent AI Infrastructure Powered by Abundant North Dakota Natural Gas",
+      "description": "CORAL GABLES, Fla.--(BUSINESS WIRE)--Tachyon9 Corporation and Nixxy Inc. (NASDAQ: NIXX) today announced the execution of an offtake agreement with Nidar Infrastructure Limited, the parent company and majority shareholder of Yotta Data Services, further advancing the strategic partnership announced earlier this week and reinforcing the commercial foundation of the planned Nakota AI Data Campus in North Dakota. Powered by abundant North Dakota natural gas resources, the Nakota Data Campus is desi",
+      "link": "http://www.businesswire.com/news/home/20260618848981/en/Tachyon9-Secures-Offtake-Agreement-Supporting-156-Million-Annual-Revenue-Platform-and-Up-to-1-GW-of-Grid-Independent-AI-Infrastructure-Powered-by-Abundant-North-Dakota-Natural-Gas/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+      "source": "Businesswire",
+      "image": null,
+      "published": "2026-06-22 12:03:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "china",
+        "united states of america",
+        "japan",
+        "australia",
+        "united kingdom",
+        "germany",
+        "canada",
+        "france"
+      ]
+    },
+    {
+      "title": "Ori director says Game Pass needs \"smash hits,\" not studios slopping out mediocre content",
+      "description": "Xbox is going through a turbulent time, to say the least. Last week brought news that the company is closing Ninja Theory and Double Fine, with Compulsion and others set for the chopping block \u2013 part of the major layoffs that are being implemented. We've also heard that Microsoft could... Read Entire Article",
+      "link": "https://www.techspot.com/news/112849-ori-director-game-pass-needs-smash-hits-not.html",
+      "source": "Techspot",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-22-image-5.jpg",
+      "published": "2026-06-22 12:03:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

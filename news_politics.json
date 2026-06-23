@@ -1,35 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "All Americans deserve beautiful architecture",
-      "description": "Planners have turned away from tradition, but boxy concrete doesn\u2019t represent American ideals.",
-      "link": "https://www.washingtonpost.com/opinions/2026/06/22/jim-banks-architecture-america-should-be-beautiful-not-brutalist/",
-      "source": "The Washington Post",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4UG3IIRIXF3BBCTQYLRCUCNEDU_size-normalized.JPG&w=1600&h=900",
-      "published": "2026-06-22 10:45:00",
+      "title": "Creston Mayor Arnold DeBoon will not run again",
+      "description": null,
+      "link": "https://crestonvalleyadvance.ca/2026/06/22/creston-mayor-arnold-deboon-will-not-run-again/",
+      "source": "Creston Valley Advance",
+      "image": "https://crestonvalleyadvance.ca/wp-content/uploads/sites/24/2026/06/42622215_web1_260625-CVA-deboonout-creston_1.jpg",
+      "published": "2026-06-22 12:03:00",
       "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Condo Smarts: Rogue AI notice of meeting causes havoc",
-      "description": "A person with access to some or all of your documents and records can create mayhem in your communities",
-      "link": "https://www.timescolonist.com/life/condo-smarts-rogue-ai-notice-of-meeting-causes-havoc-12437189",
-      "source": "Times Colonist",
-      "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/06/web1_tony-gioventu-condo-smarts-for-web_1.jpg",
-      "published": "2026-06-22 10:45:00",
-      "category": [
-        "technology",
         "politics",
         "top"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "Immigration Minister Lin Paddock Co-Chairs National Meeting in Ottawa - VOCM",
+      "description": "Immigration Minister Lin Paddock Co-Chairs National Meeting in Ottawa VOCM",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQQWZ3ZW5qMThOTTJ2SDdSNDROc0JyVlRCR05XVEVURnZsSVBLTFFwNHlzZXZVcGQwSGxFV3FRd1cyYzBPelpBQzl3NA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-22 12:03:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "The Mossos are investigating the discovery of a body on L2 of the metro",
+      "description": "The Mossos d'Esquadra have opened an investigation after receiving a report on Sunday night that a body had been found on Metro line L2 in Badalona, as reported by Metropoli and confirmed by ARA. At the moment, it is unknown whether it was an accidental death, a suicide, or a possible homicide.",
+      "link": "https://en.ara.cat/society/the-mossos-investigate-the-discovery-of-corpse-metro-line-l2_25_5776962.html",
+      "source": "Diari Ara",
+      "image": "https://static1.ara.cat/clip/9412bd79-8b18-4cc3-8050-e9a235ff67ce_16-9-aspect-ratio_default_0.jpg",
+      "published": "2026-06-22 12:02:58",
+      "category": [
+        "education",
+        "politics"
+      ],
+      "country": [
+        "spain"
       ]
     }
   ]

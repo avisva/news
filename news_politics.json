@@ -1,50 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Creston Mayor Arnold DeBoon will not run again",
+      "title": "Brown Mogotsi alleged to have tried to sway witness while in custody",
+      "description": "Mogotsi's new bail application was heard in court on Monday.",
+      "link": "https://www.citizen.co.za/news/south-africa/courts/brown-mogotsi-bail-witness-intimidation/",
+      "source": "The Citizen",
+      "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/Oupa-Brown-Mogotsi-new-facts-bail-application.jpg",
+      "published": "2026-06-22 16:58:00",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "The one reliable man in politics: Hot Podium Guy",
       "description": null,
-      "link": "https://crestonvalleyadvance.ca/2026/06/22/creston-mayor-arnold-deboon-will-not-run-again/",
-      "source": "Creston Valley Advance",
-      "image": "https://crestonvalleyadvance.ca/wp-content/uploads/sites/24/2026/06/42622215_web1_260625-CVA-deboonout-creston_1.jpg",
-      "published": "2026-06-22 12:03:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Immigration Minister Lin Paddock Co-Chairs National Meeting in Ottawa - VOCM",
-      "description": "Immigration Minister Lin Paddock Co-Chairs National Meeting in Ottawa VOCM",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQQWZ3ZW5qMThOTTJ2SDdSNDROc0JyVlRCR05XVEVURnZsSVBLTFFwNHlzZXZVcGQwSGxFV3FRd1cyYzBPelpBQzl3NA?oc=5",
-      "source": "Google News",
+      "link": "https://www.thetimes.com/life-style/work/article/keir-starmer-resignation-hot-podium-guy-hpg-downing-street-tobias-gough-9jq6sw0rp",
+      "source": "The Times",
       "image": null,
-      "published": "2026-06-22 12:03:00",
+      "published": "2026-06-22 16:57:49",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "The Mossos are investigating the discovery of a body on L2 of the metro",
-      "description": "The Mossos d'Esquadra have opened an investigation after receiving a report on Sunday night that a body had been found on Metro line L2 in Badalona, as reported by Metropoli and confirmed by ARA. At the moment, it is unknown whether it was an accidental death, a suicide, or a possible homicide.",
-      "link": "https://en.ara.cat/society/the-mossos-investigate-the-discovery-of-corpse-metro-line-l2_25_5776962.html",
-      "source": "Diari Ara",
-      "image": "https://static1.ara.cat/clip/9412bd79-8b18-4cc3-8050-e9a235ff67ce_16-9-aspect-ratio_default_0.jpg",
-      "published": "2026-06-22 12:02:58",
-      "category": [
-        "education",
         "politics"
       ],
       "country": [
-        "spain"
+        "united kingdom"
       ]
     }
   ]

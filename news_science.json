@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Canada looks to build up to 10 new nuclear reactors, sell more Candu reactors abroad",
+      "description": "OTTAWA \u2014 Canada is looking to build up to 10 new nuclear reactors over the next 15 years, sell Candu reactors to more countries and double uranium exports, Energy Minister Tim Hodgson said Monday as he released a new national strategy for nuclear pow",
+      "link": "https://www.stalbertgazette.com/national-business/canada-looks-to-build-up-to-10-new-nuclear-reactors-sell-more-candu-reactors-abroad-12454792",
+      "source": "St. Albert News",
+      "image": null,
+      "published": "2026-06-22 16:57:44",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

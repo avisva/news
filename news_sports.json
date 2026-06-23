@@ -1,14 +1,105 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 8,
   "results": [
     {
-      "title": "Has a World Cup game ever been abandoned before?",
-      "description": "The 2026 World Cup is likely to see multiple games affected by extreme weather warnings across North America",
-      "link": "https://uk.sports.yahoo.com/news/world-cup-game-ever-abandoned-000335612.html",
+      "title": "Senegal in trouble but World Cup dream not dead, coach says",
+      "description": "Senegal are in a precarious position after two World Cup defeats, but coach Pape Bouna Thiaw...",
+      "link": "https://www.thecitizen.co.tz/tanzania/sports/football/senegal-in-trouble-but-world-cup-dream-not-dead-coach-says-5505978",
+      "source": "The Citizen",
+      "image": "https://www.thecitizen.co.tz/resource/image/5505984/landscape_ratio16x9/1600/900/a0c9ba45d786aa7f47a75648cb5b6f1f/iX/senegal-pic.jpg",
+      "published": "2026-06-23 03:45:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "tanzania",
+        "mozambique",
+        "south africa",
+        "kenya",
+        "burundi",
+        "rwanda",
+        "zambia",
+        "ethiopia",
+        "nigeria",
+        "uganda"
+      ]
+    },
+    {
+      "title": "Ecstatic Norway row their way to knockout stage with win over Senegal",
+      "description": "Norway's \u200bplayers sat on the pitch and performed the \"rowing\" celebration made iconic by their...",
+      "link": "https://www.thecitizen.co.tz/tanzania/sports/football/ecstatic-norway-row-their-way-to-knockout-stage-with-win-over-senegal-5505958",
+      "source": "The Citizen",
+      "image": "https://www.thecitizen.co.tz/resource/image/5505962/landscape_ratio16x9/1600/900/766ebd6faef727282bb2d754bdfebc43/wL/ecstatic-pic.jpg",
+      "published": "2026-06-23 03:45:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "tanzania",
+        "mozambique",
+        "south africa",
+        "kenya",
+        "burundi",
+        "rwanda",
+        "zambia",
+        "ethiopia",
+        "nigeria",
+        "uganda"
+      ]
+    },
+    {
+      "title": "Erling Haaland says he\u2019s not the best striker on the planet",
+      "description": "The towering Norwegian acknowledged the quality of his peers",
+      "link": "https://sports.yahoo.com/articles/erling-haaland-says-not-best-160000744.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/hiduciqvzahCjGCCawmb5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwNDg7aD0xMzY2O2NmPXdlYnA-/https://media.zenfs.com/en/fourfourtwo_376/49ba36cd9097f4a0065d53f8627394b2",
-      "published": "2026-06-23 00:03:35",
+      "image": "https://s.yimg.com/lo/mysterio/api/8277ef3e85203d299a52a15b0ec6f0b7eca108458440629c800a30a28e036937/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F31130c040f43168d5aa58e91335affc8",
+      "published": "2026-06-23 03:45:00",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "First take: Punch therapy",
+      "description": "I still remember the first time I caught a punch in the face in my first boxing match. It also happens to be one of the seven times I\u2019ve broken my nose.",
+      "link": "https://www.yumasun.com/opinion/first-take-punch-therapy/article_f568d8f8-d4fe-436c-9425-ff3f320b2f09.html",
+      "source": "Yuma Sun",
+      "image": "https://bloximages.newyork1.vip.townnews.com/yumasun.com/content/tncms/custom/image/2b499f16-f28d-11e5-bae5-d756cbd1f5e4.jpg?resize=600%2C315",
+      "published": "2026-06-23 03:45:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Announcing finalists for the 2026 Goshen News\u2019 sports awards",
+      "description": "With the conclusion of the 2025-26 Indiana High School Athletic Association season this past weekend, it\u2019s time to announce the nominees for the 2026 Goshen News\u2019 sports awards.",
+      "link": "https://www.goshennews.com/sports/announcing-finalists-for-the-2026-goshen-news-sports-awards/article_a8bea0b1-4e2d-415d-9bd6-5a38d138dc7a.html",
+      "source": "Goshen News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/8/b6/8b648c27-8fe0-472a-925b-83adae3335a6/6a37e829abe4c.image.png?resize=400%2C321",
+      "published": "2026-06-23 03:45:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Hayden hits another century as batsmen find their form",
+      "description": "Flurry of tons as runs flow in the Rutland League.",
+      "link": "https://www.lincsonline.co.uk/stamford/sport/hayden-hits-another-century-as-batsmen-find-their-form-9471101/",
+      "source": "Stamford Latest News",
+      "image": "https://www.lincsonline.co.uk/_media/img/5CCDBDIWQY21RRGQVBHB.jpg",
+      "published": "2026-06-23 03:45:00",
       "category": [
         "sports"
       ],
@@ -17,46 +108,32 @@
       ]
     },
     {
-      "title": "Tony Vitello\u2019s baseball fate has been sealed, and it\u2019s unfortunate because it didn\u2019t have to be this way",
-      "description": "Things are not going well for former Tennessee coach Tony Vitello with the San Francisco Giants. In fact, appears they\u2019re already trying to run him out of town.",
-      "link": "https://www.yardbarker.com/mlb/articles/tony_vitellos_baseball_fate_has_been_sealed_and_its_unfortunate_because_it_didnt_have_to_be_this_way/s1_17313_43983667",
-      "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/e/b/eb24ab513a1e44eda90076a9443672f255b0a4c4/thumb_16x9/Screenshot-2026-06-22-at-6.57.36-PM.png",
-      "published": "2026-06-23 00:03:29",
+      "title": "Mail Cart continue four-midable start with fourth successive victory",
+      "description": "In a very tight affair on a tough green at Whaplode Drove, the Spalding side managed to close out the game over the final few ends.",
+      "link": "https://www.lincsonline.co.uk/spalding/sport/mail-cart-continue-four-midable-start-with-fourth-successive-9470983/",
+      "source": "Stamford Latest News",
+      "image": "https://www.lincsonline.co.uk/_media/img/ELVVESCSZKLGK25NTJ2V.jpg",
+      "published": "2026-06-23 03:45:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Cardinals fans give Nolan Arenado emotional standing ovation in first return to Busch Stadium",
-      "description": "It was an emotional return for the veteran third baseman.",
-      "link": "https://www.sportingnews.com/us/mlb/st-louis-cardinals/news/cardinals-fans-give-nolan-arenado-emotional-standing-ovation-first-return-busch-stadium/c056be871992524b7e696570",
-      "source": "Sporting News",
-      "image": "https://library.sportingnews.com/styles/crop_style_16_9_1200_webp/s3/2026-05/USATSI_28949569.jpg.webp?itok=9fTLyDkr",
-      "published": "2026-06-23 00:03:13",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Luxurious Royal Casino E-mail Rate Optimal Claims British User",
-      "description": "We think that efficient email interaction is crucial in the online game field, notably with a service like Opulent Majestic Gambling Establishment. A UK",
-      "link": "https://buzzghana.com/luxurious-royal-casino-e-mail-rate-optimal-claims-british-user/",
-      "source": "Buzzghana - Famous People, Celebrity Bios, Updates",
-      "image": null,
-      "published": "2026-06-23 00:03:11",
+      "title": "Jake McCarthy's 3-run triple gives Rockies walk-off win over Red Sox",
+      "description": "Jake McCarthy hit a walk-off three-run triple in the ninth inning, giving the Colorado Rockies a 3-2 win over the Boston Red Sox in Denver on Monday.",
+      "link": "https://www.unionleader.com/sports/red_sox/jake-mccarthys-3-run-triple-gives-rockies-walk-off-win-over-red-sox/article_d1c2eeb3-9600-532a-8c75-1156142ecb12.html",
+      "source": "Unionleader",
+      "image": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/9/33/9339a9d4-60d3-569f-8f0c-cac61628a2f6/6a3a5a4a3c0d9.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-23 03:45:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "ghana"
+        "united states of america"
       ]
     }
   ]

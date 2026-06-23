@@ -1,51 +1,34 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Uzbekistan bank deposits rise 31%, outpacing credit growth",
-      "description": null,
-      "link": "https://www.trend.az/business/4200454.html",
-      "source": "Trend",
-      "image": null,
-      "published": "2026-06-23 00:04:00",
+      "title": "FG orders crackdown on hoarding, diversion of cooking gas to stabilise prices",
+      "description": "The Federal Government has directed regulatory and security agencies to clamp down on the diversion, hoarding and illegal storage of Liquefied Petroleum Gas (LPG) as part of measures to stabilise prices and ensure adequate supply across the country. Minister of State Petroleum Resources (Gas), Rt Hon. Ekperikpe Ekpo, gave the directive on Monday in Abuja [...] The post FG orders crackdown on hoarding, diversion of cooking gas to stabilise prices appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/fg-orders-crackdown-on-hoarding-diversion-of-cooking-gas-to-stabilise-prices/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/03/Ekperikpe-Ekpo.jpg",
+      "published": "2026-06-23 03:45:00",
       "category": [
-        "top",
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp - CNBC",
+      "description": "How a $4 billion Indian startup won Meta's backing but lost its founder to WhatsApp CNBC Cred founder Kunal Shah tapped as WhatsApp global chief The Hindu Why Meta is betting on CRED Finshots Meta to invest $900 million in India's CRED, taps founder to lead WhatsApp Reuters Meta\u2019s $900 million CRED bet puts India\u2019s data privacy and fintech regulation in the spotlight ET Government",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbkltTFczVXVabDFxVi0zWDM3aGVrREU3UUdUb2V1YVB2ZXdzN0RCWHdwd0RYM21DM2FrRWRnNm1LVEFRX0hiendSaEltMTltVVpoSGxPbFZmV2FUNFM4ZDVGaXlYVk91SWJsa1ZYaUdnMU5oZmpURXJoQ28xd9IBgwFBVV95cUxQS3dJMDd3QVkxNG5aRS05WWh3NmVVRWp1V3o1M1ZHSkxZLU5xd0tFeWpGd3pnMmRMUjdvTmJ2d3BKeW1UbC01cy04N1FqVmRyaXFtMm9paksyb2NKR2IxUmlyYW52Nm1zemlrVVJPZVUwZUgyQ0FLTUJmV3pTd0VRWElvVQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-23 03:45:00",
+      "category": [
         "business"
       ],
       "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "Oil slips on US-Iran talk progress as Polymarket puts Starmer exit at 79%",
-      "description": "Brent crude slid 1.85% to $79.08 by 2:40 p.m. Singapore time after mediators said Washington and Tehran agreed to a 60-day roadmap toward a final deal. (Read More)",
-      "link": "https://blockchain.news/news/oil-slips-on-us-iran-talk-progress-as-polymarket-puts-starmer-exit-at-79-0hnmgnbh0mrg0",
-      "source": "Blockchain News",
-      "image": "https://image.blockchain.news/thumbnails/Donald%20Trump.jpg",
-      "published": "2026-06-23 00:03:44",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "singapore",
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mobile County remains on track to spend all of its COVID-19 relief funds by deadline",
-      "description": "The Mobile County Commission voted Monday to extend the timeframe on several projects funded by a federal COVID-19 grant program.",
-      "link": "https://www.fox10tv.com/2026/06/23/mobile-county-remains-track-spend-all-its-covid-19-relief-funds-by-deadline/",
-      "source": "Https://www.fox10tv.com",
-      "image": "https://gray-wala-prod.gtv-cdn.com/resizer/v2/CA3B6CGRNRH77AOSZJMUUQELUU.jpg?auth=549571628bd3adbea9c3834763c53edf0e0b53754b5474fdbe511e060be0e643&width=1200&height=600&smart=true",
-      "published": "2026-06-23 00:03:35",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

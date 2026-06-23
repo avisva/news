@@ -1,35 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "China accuses Japan of \u2018harassment\u2019 during far-seas aircraft carrier training",
-      "description": "Beijing said the Japanese side had conducted \"dangerous\" close-in reconnaissance while the Chinese Navy's Liaoning aircraft carrier flotilla was training.",
-      "link": "https://www.japantimes.co.jp/news/2026/06/23/japan/china-japan-carrier-harassment/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/23/547491.JPG",
-      "published": "2026-06-23 00:04:00",
+      "title": "If 2018 election was legitimate, so is current govt: PM Shehbaz",
+      "description": "Says till all 4 provinces are equal companions in growth, it can\u2019t be referred to as Pakistan\u2019s growth Prime Minister Shehbaz Sharif addressing the Nationwide Meeting. PHOTO: PMO ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday rejected opposition claims that his authorities lacked legitimacy, telling the Nationwide Meeting that if the 2018 common election was thought-about [...] The post If 2018 election was legitimate, so is current govt: PM Shehbaz appeared first on Asia Today .",
+      "link": "https://asiatoday.co/2026/06/23/if-2018-election-was-legitimate-so-is-current-govt-pm-shehbaz/",
+      "source": "Asia Today",
+      "image": "https://i.tribune.com.pk/media/images/untitled-design-991782214099-0/untitled-design-991782214099-0-640x480.webp",
+      "published": "2026-06-23 03:45:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "japan"
+        "south korea"
       ]
     },
     {
-      "title": "St George letters: An open letter to Pauline Hanson",
-      "description": "Ben Wang rejects attempt to scapegoat immigrants for housing crisis.",
-      "link": "https://www.theleader.com.au/story/9297279/ben-wang-challenges-pauline-hanson-to-public-debate-on-housing/?src=rss",
-      "source": "St George News",
+      "title": "Records show watchdog's probe kept secret as governor's office claims confidentiality",
+      "description": "HARRISBURG \u2014 For nearly two years, the Shapiro administration has refused to say whether a state watchdog under the governor\u2019s jurisdiction investigated Pennsylvania\u2019s network of agencies that are supposed to help older adults who are abused and neglected.",
+      "link": "https://www.newsitem.com/news/state/records-show-watchdogs-probe-kept-secret-as-governors-office-claims-confidentiality/article_8effd374-7e1f-587f-9f70-a38137294324.html",
+      "source": "Newsitem",
       "image": null,
-      "published": "2026-06-23 00:03:59",
+      "published": "2026-06-23 03:45:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "australia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump allies defend him to Israelis anxious over Iran deal",
+      "description": "The US-Israeli relationship has been on a roller coaster, from the early confidence they shared after their joint attack on Iran to public disagreements between Trump and Prime Minister Benjamin Netanyahu over how to end the four-month-old war",
+      "link": "https://www.tbsnews.net/worldbiz/usa/trump-allies-defend-him-israelis-anxious-over-iran-deal-1469966",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/05/24/ygil7kzbkrjfphoeszsjn2akma.jpg",
+      "published": "2026-06-23 03:45:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
       ]
     }
   ]

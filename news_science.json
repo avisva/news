@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Canada looks to build up to 10 new nuclear reactors, sell more Candu reactors abroad",
-      "description": "OTTAWA \u2014 Canada is looking to build up to 10 new nuclear reactors over the next 15 years, sell Candu reactors to more countries and double uranium exports, Energy Minister Tim Hodgson said Monday as he released a new national strategy for nuclear pow",
-      "link": "https://www.stalbertgazette.com/national-business/canada-looks-to-build-up-to-10-new-nuclear-reactors-sell-more-candu-reactors-abroad-12454792",
-      "source": "St. Albert News",
+      "title": "VIDEO: University team collects crop research, field data using flux towers",
+      "description": "A team of researchers at the University of Manitoba use flux tower sensor system to help predict crop growth, yield.",
+      "link": "https://www.producer.com/news/video-university-team-collects-crop-research-field-data-using-flux-towers/",
+      "source": "Agriculture News Canada",
       "image": null,
-      "published": "2026-06-22 16:57:44",
+      "published": "2026-06-22 20:31:45",
       "category": [
         "top",
         "science"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "A plan to sell artifacts from the Titanic faces US government opposition",
+      "description": "A plan to auction more than 100 artifacts salvaged from the wreckage of the Titanic \u2014 including personal belongings, currency,...",
+      "link": "https://wtop.com/national/2026/06/a-plan-to-sell-artifacts-from-the-titanic-faces-us-government-opposition/",
+      "source": "Wtop News",
+      "image": "https://wtop.com/wp-content/uploads/2026/06/Titanic_Artifacts_28831-1024x734.jpg",
+      "published": "2026-06-22 20:31:39",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

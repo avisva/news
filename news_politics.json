@@ -1,35 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Brown Mogotsi alleged to have tried to sway witness while in custody",
-      "description": "Mogotsi's new bail application was heard in court on Monday.",
-      "link": "https://www.citizen.co.za/news/south-africa/courts/brown-mogotsi-bail-witness-intimidation/",
-      "source": "The Citizen",
-      "image": "https://media.citizen.co.za/wp-content/uploads/2026/06/Oupa-Brown-Mogotsi-new-facts-bail-application.jpg",
-      "published": "2026-06-22 16:58:00",
+      "title": "Maryland mailed absentee ballots to a convicted illegal immigrant -- for years",
+      "description": "Maryland mailed absentee ballots to an illegal immigrant for years -- and resisted removing him even after his arrest and guilty plea. Here's what the records show.",
+      "link": "https://www.washingtontimes.com/news/2026/jun/22/maryland-mail-absentee-ballots-illegal-immigrant-records-show-years/",
+      "source": "The Washington Times",
+      "image": "https://twt-thumbs.washtimes.com/media/image/2026/01/21/Immigration_Des_Moines_Superintendent_03045_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+      "published": "2026-06-22 20:32:00",
       "category": [
-        "crime",
         "politics",
         "top"
       ],
       "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "The one reliable man in politics: Hot Podium Guy",
-      "description": null,
-      "link": "https://www.thetimes.com/life-style/work/article/keir-starmer-resignation-hot-podium-guy-hpg-downing-street-tobias-gough-9jq6sw0rp",
-      "source": "The Times",
-      "image": null,
-      "published": "2026-06-22 16:57:49",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
+        "united states of america"
       ]
     }
   ]

@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Macut, Minic discuss cooperation in health care, education, infrastructure",
-      "description": null,
-      "link": "https://www.tanjug.rs/english/politics/261289/macut-minic-discuss-cooperation-in-health-care-education-infrastructure/vest",
-      "source": "Tanjug.rs",
-      "image": "https://www.tanjug.rs/data/images/2026-06-13/397869_duro-macut_s.png",
-      "published": "2026-06-23 10:09:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "serbia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

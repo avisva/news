@@ -1,28 +1,44 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "iOS 27 will add inline replies & photo reactions to Android-iPhone RCS - 9to5Google",
-      "description": "iOS 27 will add inline replies & photo reactions to Android-iPhone RCS 9to5Google iOS 27 Beta 2 Adds Inline Replies to iPhone-to-Android RCS Chats MacRumors Everything New in Calendar and Reminders in iOS 27 MacRumors iOS 27 Adds Four New Features to Notes App, Including Markdown Copy-and-Paste MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JX3J1dTFWRHZrWS0yUVUyQ3dSN28zVzk4TlRncmNjRmFxWTRRSjNnWThWeGg4Vmo1c3BWUzVqSHQ2aVpBTnlfbHo3c0pwMjFuNUhDRmVKYXpTbThHOU94WmdhN2lNc29W?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-22 20:32:00",
+      "title": "Govt deploying AI to combat fraud",
+      "description": "Thailand is deploying artificial intelligence and advanced data-sharing platforms to combat online scams, human trafficking, and cross-border fraud.",
+      "link": "https://www.bangkokpost.com/thailand/general/3275145/govt-deploying-ai-to-combat-fraud",
+      "source": "Bangkok Post",
+      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "published": "2026-06-23 00:04:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "AI Acquisition building infra for AI agent economy",
+      "description": "AI Acquisition was built on the belief that AI agents are the new operating layer for businesses, and this belief sits at the center of a broader shift unfolding across the artificial intelligence market. Businesses started adopting AI primarily through applications that assisted users with specific tasks, but now attention is turning toward AI agents designed not merely to assist with work but to perform it. The post AI Acquisition building infra for AI agent economy appeared first on Digital Journal .",
+      "link": "https://www.digitaljournal.com/article/ai-acquisition-building-infra-for-ai-agent-economy/",
+      "source": "Digital Journal",
+      "image": "https://www.digitaljournal.com/wp-content/uploads/2026/06/TechTO-10-49.png",
+      "published": "2026-06-23 00:03:36",
+      "category": [
+        "technology",
+        "top"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "What is Bill Clinton & Jeffrey Epstein\u2019s connection?",
-      "description": "Explore the latest DOJ releases, photos, flight logs and testimony that reveal Bill Clinton\u2019s documented ties to Jeffrey Epstein. The post What is Bill Clinton & Jeffrey Epstein\u2019s connection? appeared first on Film Daily .",
-      "link": "https://filmdaily.co/news/what-is-bill-clinton-jeffrey-epsteins-connection/",
-      "source": "Film Daily",
-      "image": "https://filmdaily.co/wp-content/uploads/2025/12/What-is-Bill-Clinton-Jeffrey-Epsteins-connection_lede.jpg",
-      "published": "2026-06-22 20:31:57",
+      "title": "9k-Mile 2014 Mini Cooper John Cooper Works Roadster 6-Speed",
+      "description": "This 2014 Mini Cooper John Cooper Works Roadster remained with the original owner in Utah until 2026 and now has 9k miles. Powered by a turbocharged 1.6-liter inline-four paired with a six-speed manual transaxle, the convertible is finished in Midnight Black Metallic over Carbon Black Lounge leather with red accents. Equipment includes 18\" multi-spoke wheels, heated Sport seats, a Harman Kardon sound system, xenon headlights, a Black soft top, and Brembo brakes. Recently acquired by the selling dealer, this R59 Cooper John Cooper Works Roadster is now offered with two keys, a clean Carfax report, and a clean Pennsylvania title.",
+      "link": "https://bringatrailer.com/listing/2014-mini-cooper-john-cooper-works-roadster-2/",
+      "source": "Bring A Trailer",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/06/Mini20JCW20-20230620284920of2026629-01001-scaled-ve8vg9-1-copy-2026-06-17-la8-26325.jpg?w=940",
+      "published": "2026-06-23 00:03:21",
       "category": [
         "technology",
         "top"

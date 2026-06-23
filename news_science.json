@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "VIDEO: University team collects crop research, field data using flux towers",
-      "description": "A team of researchers at the University of Manitoba use flux tower sensor system to help predict crop growth, yield.",
-      "link": "https://www.producer.com/news/video-university-team-collects-crop-research-field-data-using-flux-towers/",
-      "source": "Agriculture News Canada",
-      "image": null,
-      "published": "2026-06-22 20:31:45",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "A plan to sell artifacts from the Titanic faces US government opposition",
-      "description": "A plan to auction more than 100 artifacts salvaged from the wreckage of the Titanic \u2014 including personal belongings, currency,...",
-      "link": "https://wtop.com/national/2026/06/a-plan-to-sell-artifacts-from-the-titanic-faces-us-government-opposition/",
-      "source": "Wtop News",
-      "image": "https://wtop.com/wp-content/uploads/2026/06/Titanic_Artifacts_28831-1024x734.jpg",
-      "published": "2026-06-22 20:31:39",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

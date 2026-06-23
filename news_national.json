@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "United States shares mixed at close of trade; Dow Jones Industrial Average up 0.29%",
-      "description": null,
-      "link": "https://in.investing.com/news/stock-market-news/united-states-shares-mixed-at-close-of-trade-dow-jones-industrial-average-up-029-5465169",
-      "source": "Investing India",
-      "image": null,
-      "published": "2026-06-22 20:31:44",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

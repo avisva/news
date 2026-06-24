@@ -1,119 +1,35 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Halper Sadeh LLC is Investigating Whether APGE, LPRO, HUN, AVNS are Obtaining Fair Deals for their Shareholders",
-      "description": "Insiders may stand to receive substantial financial benefits not available to ordinary shareholders.",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/06/24/3316561/0/en/Halper-Sadeh-LLC-is-Investigating-Whether-APGE-LPRO-HUN-AVNS-are-Obtaining-Fair-Deals-for-their-Shareholders.html",
-      "source": "Globenewswire_fr",
+      "title": "What CDP and SBTi's New Capital Structures Mean for Your Disclosure Strategy",
+      "description": "A briefing on why CDP and SBTi\u2019s shift to commercial capital is a sign of how central disclosure has become, and what that growth will cost you. Permira\u2019s acquisition of a majority stake in CDP, expected to close by year-end pending approval from the UK Charity Commission, ends 25 years of nonprofit-led carbon disclosure governance and replaces it with a hybrid structure: a commercial entity built for growth and investor returns, alongside an independent charitable foundation built to protect the mission. We\u2019ve seen this before. In 2023, SBTi spun off a commercial verification arm, SBTi Services, while retaining standard-setting under a nonprofit board. Two keystone sustainability systems restructuring the same way within a few years of each other is not a coincidence. And it is not, on its own, bad news. It is a sign of a maturing sustainability market. What does this mean for sustainability? Net: it\u2019s getting more attention, more resources, and more scrutiny. Based on historical precedent in AI, the medical field, and even stock exchanges, we are also likely to see this greater attention result in higher-quality services that command higher prices. Private capital follows demand and fills in when this demand overwhelms the financial and technical resources of a nonprofit. CDP reports that more than 23,000 companies, cities, states, and regions disclosed through its platform in 2025, even as voluntary ESG activity lost momentum. SBTi created its commercial arm because the number of companies seeking validated targets grew close to 60 percent in nine months, with total validated targets up 102 percent for the year. No foundation grant or membership fee structure can fund that kind of volume. For 20 years, the view in sustainability has been that voluntary disclosure is a first step rather than a destination, and that the field\u2019s real test of maturity is whether it can attract the kind of capital financial markets take for granted. By that measure, this looks like success\u2014though not without its trade-offs. The Real Driver Behind Disclosure Growth What is in demand\u2014sustainability or more accurate risk management? Trick question: both. To understand the CDP deal, we have to understand two parts of sustainability in business: The Cultural and Political Narrative \u2013 sustainability as voluntary commitments, public pledges, symbolic projects, and marketing. This aspect of sustainability has genuinely lost ground over the past two years under political pressure in the United States and elsewhere. The Operational and Strategic \u2013 sustainability as risk management and growth amplifier. Underneath the narrative, there is an increasingly sophisticated data infrastructure: the systems investors, insurers, operators, and supply chain managers actually use to price risk and make decisions. This trend has been growing for decades, and the recent influx of private capital to the space is another sign that it is now part of the main event, not a sideshow. CDP\u2019s and SBTi\u2019s growth numbers and other reports show the demand for data is stable and growing. That is the real signal in this deal. Data infrastructure has become load-bearing in a way the marketing narrative no longer is. This kind of essential infrastructure attracts capital, regardless of whether it is fashionable to discuss. What Other Industries Can Teach Us We can learn from looking outside sustainability to see this same funding arc play out. OpenAI is a highly visible current example. OpenAI began as a nonprofit committed to unlocking the potential for AI-led research. In doing so, it discovered that the demand for increasingly capable models required capital and computing power that philanthropy could not supply. The fix was a commercial subsidiary, theoretically supervised by a nonprofit board. When that board tried to slow the company down in late 2023 over safety concerns, the market reasserted itself within days\u2014and the board lost. Memorial Sloan Kettering (MSK) took a similar approach, but with physical assets rather than mission. The cancer center held millions of pathology slides, an archive whose value only became obvious once machine learning could use it at scale. Rather than build that capability in-house, MSK licensed the data exclusively to a for-profit spin-out, Paige.AI, in exchange for equity. Its own staff later objected that a public-purpose asset had gone to private investors without competitive bidding. And finally, many forget the New York Stock Exchange and NASDAQ began as member-owned cooperatives in 1970s. When electronic trading drove sharp increases in volume and infrastructure costs in the late 1990s, members were unwilling to fund the buildout collectively, leading both exchanges to convert to for-profit, shareholder-owned corporations in the 2000s. Both immediately began charging premium rates for something that had previously been a shared utility: market data itself. Commercial Growth Comes with Trade-Offs The capital required for growth comes with control attached. Permira\u2019s majority stake gives the commercial CDP entity direct legal leverage over the nominally independent CDP Foundation. This is the same trade SBTi made when it created SBTi Services, and the same imbalance that let OpenAI\u2019s investors override its nonprofit board. SBTi\u2019s version of this tension surfaced in 2024, when staff revolted after its board tried to fast-track carbon offset flexibilities under investor and corporate pressure. None of these boards intended to lose authority to their commercial arms; the funding made it happen anyway. CDP\u2019s revenue depends on keeping its base of participants enrolled\u2014a challenge it has faced for several years\u2014which creates pressure to soften requirements that growth itself made harder to meet. SBTi\u2019s Corporate Net-Zero Standard V2.0 is the clearest case: facing corporate dropouts over rigid Scope 3 mandates and heavy lobbying from technology companies managing data center power demand, SBTi dropped several long-term goal requirements and scaled hourly-matching obligations down to only the largest electricity consumers. CDP, now answerable to a majority investor who needs that same enrollment to justify the deal, faces nearly identical pressure. For years, CDP has been facing mounting challenges associated with the burden of reporting and the cost of participation. In 2024, CDP responded by launching a streamlined Corporate Questionnaire, but it was riddled with technical issues and scoring errors. That year, more than 24,800 companies disclosed. Around the same time, companies were also paying close attention to the ESG regulations in California and the European Union. In 2025, CDP disclosures fell to just shy of 22,200 companies. Many expressed frustration with CDP\u2019s 2024 cycle and also pointed to the need to shift their efforts and budgets towards regulatory compliance rather than a voluntary questionnaire. Three Disclosure Strategy Considerations for 2026 and Beyond None of this suggests walking away from CDP or SBTi. Both are more capable and better funded than they were. Some recommendations to consider with your team to manage a new world of privately funded reporting: Expect the for-profit entity to move faster. Watch the CDP Foundation and SBTi\u2019s nonprofit board for genuine changes to question banks, validation criteria, and underlying climate science. Monitor the commercial entities\u2014CDP\u2019s new private equity-backed business and SBTi Services\u2014for changes in pricing, timelines, and software. Plan for paywalls on anything beyond baseline submission or validation. Peer benchmarking, deeper supply-chain visibility, and clean interface integrations are the features most likely to migrate behind a premium tier over the next two to three years. Prepare for greater scrutiny. A platform built to attract investor capital is also built to surface errors to investors more quickly. Data governance that was once \u201cgood enough\u201d for a text field must now withstand an automated audit. In sum, establish a disclosure strategy with defined accountability and data ownership. Build your core data set around the standards and frameworks that matter most to your organization, instead of allowing CDP, SBTi, and regulatory requirements to drive separate, disconnected collection processes. Each output will differ because the treatment of topics such as offsets, greenhouse gas accounting, and organizational boundaries vary by framework. A strong disclosure strategy reduces the cost and risk of fragmented reporting and leverages the same underlying data to inform better business decisions\u2014the original purpose behind CDP, SBTi, CSRD, and California\u2019s climate disclosure rules. Now that CDP and SBTi sit on commercial entities, keep your own copy of the underlying data and negotiate export rights the way you would with any enterprise vendor. A profit-driven owner has more incentives than a nonprofit ever did to charge for access to your own historical submissions. As reporting frameworks, disclosure platforms, and regulatory requirements become increasingly interconnected, organizations need a coordinated strategy for managing data, governance, and reporting obligations. Contact Antea Group's Corporate Disclosure & Reporting team to learn how we can help strengthen your reporting program, data governance, and disclosure readiness. Only for Cyprus section No",
+      "link": "https://www.csr-company.com/blog/what-cdp-and-sbti039s-new-capital-structures-mean-your-disclosure-strategy",
+      "source": "Csr-company",
       "image": null,
-      "published": "2026-06-24 01:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "france"
-      ]
-    },
-    {
-      "title": "Gold, silver prices today, June 24, 2026: Check city-wise rates in Delhi, Mumbai, Chennai, Kolkata and more",
-      "description": "The prices of gold and silver in India remain influenced by global market trends, local demand and fluctuating currency rates. Here is a breakdown of the current prices of gold and silver.",
-      "link": "https://www.dnaindia.com/business/report-gold-silver-prices-today-june-24-2026-check-city-wise-rates-in-delhi-mumbai-chennai-kolkata-and-more-3214174",
-      "source": "Dna",
-      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/06/24/2752414-phto-52.png",
-      "published": "2026-06-24 01:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "KMD Brands (ASX:KMD): Why Is This Retail Stock Shrinking Billions of Shares?",
-      "description": "KMD Brands is reducing its share count through a major consolidation ahead of a strategic review and upcoming financial results.",
-      "link": "https://kalkinemedia.com/au/stocks/consumer/kmd-brands-asxkmd-why-is-this-retail-stock-shrinking-billions-of-shares",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2116844222_06_23_2026_06_45_59_036831.jpg",
-      "published": "2026-06-24 01:20:00",
+      "published": "2026-06-24 04:19:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "australia"
+        "germany"
       ]
     },
     {
-      "title": "MorningStar Farms recalls food sold nationwide after plastic pieces found in select products - Fox Business",
-      "description": "MorningStar Farms recalls food sold nationwide after plastic pieces found in select products Fox Business Popular Frozen Foods Recalled Nationwide Due to Plastic Contamination EatingWell Popular frozen nuggets, patties recalled after customers find plastic pieces inside NBC 5 Chicago 2 products recalled because of threat of plastic contamination Cleveland.com MorningStar Farms voluntarily recalls some frozen nuggets, sausage patties for possible plastic contamination ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOFhuZi15UHV5SE13ajU0MEJkZHlfa2NiQ2l0WFd1dEFHVl85OXhkMjVYb2RsYlE3TDhBRXRGNDJ1QWtiTTRXdUFZOHhDZDBnRlV0dFRmQk4ydndxbVJsNDBHT3o4NGlxcmQwT25yQnB1VmVLRnhfdVJsRW9nM1k0SGpzay1QMjFaeWJCV053R1Q5c0ZIUi11WW53YnBhMGpfTGZRWlFMdU8tbVB4bWJaLW5BNVdBN0RoYzNKZm1R0gHDAUFVX3lxTFBQaldFN2pTTGpKNWI4SXlDejM2SkJUYWVtcXdJWksxQlFLcTg1Y2tKUnZUQmtMTGs2U19ySXY0RUpUZkJ6NURnd0ZiYTI3S0V6MXhDbFFuOWU4Umo5OGM0SXpncjQybzJvRGJOdEd5czVfMGVfQXIzX0ZqVmNsQ2VVTkVZTm5PZU15aHZPZDJOVHpibUNqTnlyc0xWN3phUkZTZnZuclNFWXpsNFdRMHN0MC1DNjBKREg0WWpJQ2Z6SHAxVQ?oc=5",
-      "source": "Google News",
+      "title": "Advancing With Purpose: Fostering Inclusion and Belonging",
+      "description": "Welcome to Advancing with Purpose, an AMD video series featuring the people behind our corporate responsibility efforts. In this video, Mark Pearson, Corporate Vice President, Talent, Culture and Community at AMD, shares how inclusion and belonging support innovation, strengthen decision-making and help employees bring their authentic selves to work. He reflects on the importance of creating an environment where different voices and perspectives can contribute to positive outcomes across the company. Through personal stories like Mark\u2019s, this series highlights how AMD employees are helping bring corporate responsibility to life across the company. Learn more about belonging and inclusion at AMD: https://www.amd.com/en/corporate/corporate-responsibility/diversity-belonging-inclusion.html Only for Cyprus section No",
+      "link": "https://www.csr-company.com/blog/advancing-purpose-fostering-inclusion-and-belonging",
+      "source": "Csr-company",
       "image": null,
-      "published": "2026-06-24 01:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Set-Jetting: The Travel Trend Turning Screen Dreams into Real Journeys",
-      "description": "Expedia data shows 53% of travelers are interested in screen-inspired travel, with 81% of Gen Z and Millennials citing TV and film as influences, creating packaging and marketing opportunities for hotels.",
-      "link": "https://www.hospitalitynet.org/news/4133160/set-jetting-the-travel-trend-turning-screen-dreams-into-real-journeys",
-      "source": "Hospitality Net",
-      "image": null,
-      "published": "2026-06-24 01:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "netherland"
-      ]
-    },
-    {
-      "title": "From Bartenders To Builders: Data Centers Drive America's Blue-Collar Comeback",
-      "description": "From Bartenders To Builders: Data Centers Drive America's Blue-Collar Comeback A seismic shift is underway in the U.S. labor market after a quarter-century of America's industrial base being hollowed out following China's entry into the WTO, a period marked by the decline of goods-producing jobs while leisure and hospitality employment surged. The driver of the current job shift is the data center buildout phase, which is expected to require millions of new jobs across construction, manufacturing, electrical trades, power infrastructure, and the broader industrial supply chain. Additionally, reshoring critical supply chains will require even more goods-producing jobs, which are high-paying and pay far more than low-wage jobs such as bartending and waiting. Nancy Lazar, Piper Sandler's chief global economist and head of the firm's economics research team, published a note on Sunday showing what happened to the U.S. labor market after China joined the WTO in 2001. The result was a long-term hollowing out of America's industrial base, marked by a sharp decline in higher-paying goods-producing jobs while lower-quality leisure and hospitality jobs surged. Education and health services jobs also continued to move up and to the right. But there was good news around 2010, when goods-producing jobs began to reverse. Lazar's note suggests that the trend is now set to accelerate as the data center, power grid, and AI infrastructure buildout drives a new wave of demand for industrial labor. Lazar continued: Bullish On Goods Producing Jobs vs. Hotel & Restaurant Jobs. When China joined the WTO in 2001, U.S. goods producing jobs began a decade of decline, while leisure & hospitality, and education & health jobs continued to rise ... ... so today, goods producing jobs are less than half those of low-paying service jobs \u2013 their share was over 50% in the mid-1980s. That employment mix shift gave us the bifurcated consumer, as lower paying jobs gained share. Goods producing jobs pay more than overall service producing jobs \u2013 and lots more than leisure & hospitality, or education & health care jobs. Good news: That mix is now shifting the other way, as the long-running (not just tech) capex cycle raises productivity and margins, encouraging adding headcount. Look at relative earnings growth, by sector, below. Combine that with falling energy prices and (we believe) slowing core inflation, and we're on the lookout for narrowing bifurcation among consumers. That would indeed be good news . We're watching our Daily consumer confidence survey, non-investor component, closely. Industrial labor demand is likely to remain a strong trend for several years, with $800 billion in hyperscaler capex being deployed for data center buildouts just this year alone - and don't worry about humanoid robots entering construction sites until the next decade. However, college graduates, mostly burdened by insurmountable student debt, are watching in disbelief as corporate America rapidly automates white-collar jobs out of existence. Last week, Goldman analysts led by Pierfrancesco Mei identified the 20 college majors most exposed to AI job disruption. Most and Least AI-Exposed Jobs It's a boon for Main Street and blue-collar workers, rather than college-educated elites. Liberals are furious that SpaceX welders with no college degrees have been minted into instant millionaires after the latest IPO. Tyler Durden Tue, 06/23/2026 - 21:20",
-      "link": "https://www.zerohedge.com/personal-finance/bartenders-builders-data-centers-drive-americas-blue-collar-comeback",
-      "source": "Zerohedge",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/2026-06-21_17-27-10.png?itok=s5STqi0R",
-      "published": "2026-06-24 01:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "2024-25 and 2025-26: NA set to approve Rs17.378trn supplementary grants",
-      "description": "ISLAMABAD: The National Assembly is set to approve Rs 17.378 trillion in regular and technical supplementary grants for the financial years 2024-25 and 2025-26. Federal Minister for Finance and Revenue Senator Muhammad Aurangzeb would present regular and technical supplementary grants for the financial years 2024-25 and 2025-26 in the Lower House of the Parliament for approval on Wednesday (today). According to the order of the day of the National Assembly for today (Wednesday), a total of Rs12.65 trillion of demands for supplementary grants for the financial year 2025-26. In detail, repayment of Domestic Debt \u2014 Rs 12.643 trillion, Election \u2014 Rs 455.984 million, and Federal Constitutional Court of Pakistan \u2014 Rs 2.25 billion. READ MORE: Budget: National Assembly likely to pass Finance Bill on June 23 The Finance Minister would also present a total of Rs 2.644 trillion demands for supplementary grants for financial year 2024-25 in the house for approval. In details; Staff Household and Allowances of the President (Personal) \u2014 Rs 208 million, Repayment of Short-Term Foreign Credits \u2014 Rs 40.350 billion, Audit \u2014 Rs 63 million, Repayment of Domestic Debt \u2014 Rs 2.604 trillion (Rs 2 trillion 603.865 billion) About excess demands, the Finance Minister would present a total of Rs 2.088 trillion (Rs 2 trillion 87.572 billion) excess demands for grants for financial year 2024-25. In details; Superannuation Allowances and Pensions \u2014 Rs 662.850 million, Foreign Loans Repayment \u2014 Rs 1.548 billion, Repayment of Short-Term Foreign Credits \u2014 Rs 32.810 million, Servicing of Domestic Debt \u2014 Rs 169.322 billion, Repayment of Domestic Debt \u2014 Rs 1.916 trillion (Rs 1 trillion 915.924 billion), Federal Ombudsman Secretariat for Protection against Harassment of Women at Workplace \u2014 Rs 48.668 thousand and Federal Tax Ombudsman \u2014 Rs 81.522 million. Copyright Business Recorder, 2026",
-      "link": "https://www.brecorder.com/news/40427080/2024-25-and-2025-26-na-set-to-approve-rs17378trn-supplementary-grants",
-      "source": "Business Recorder",
-      "image": "https://i.brecorder.com/large/2026/06/24061916516456f.webp",
-      "published": "2026-06-24 01:19:53",
+      "published": "2026-06-24 04:19:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "SK Hynix to File in Korea in Step Toward ADR Sale, Report Says",
-      "description": "(Bloomberg) -- SK Hynix Inc. is expected to submit a statement to Korea\u2019s financial regulator for an offering of American Depositary Receipts, according to...",
-      "link": "https://ca.finance.yahoo.com/news/sk-hynix-file-korea-step-011946872.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "published": "2026-06-24 01:19:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
+        "germany"
       ]
     }
   ]

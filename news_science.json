@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Cashier Charged With Stealing Customer's Lottery Ticket",
+      "description": "A Florida cashier is accused of slipping a customer's windfall into her own pocket. Volusia County authorities say 40-year-old Walmart employee Tameka Hall was charged with grand theft after a man tried to cash a $2,700 winning lottery ticket at a DeLand store on June 14, NBC News . According...",
+      "link": "https://www.newser.com/story/391561/cashier-charged-with-stealing-customers-lottery-ticket.html",
+      "source": "Newser",
+      "image": "http://img1-azrcdn.newser.com/image/1694006-0-20260623150202.jpeg?width=45&height=45&crop=Y",
+      "published": "2026-06-23 19:38:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

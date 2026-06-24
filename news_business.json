@@ -1,35 +1,64 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "What CDP and SBTi's New Capital Structures Mean for Your Disclosure Strategy",
-      "description": "A briefing on why CDP and SBTi\u2019s shift to commercial capital is a sign of how central disclosure has become, and what that growth will cost you. Permira\u2019s acquisition of a majority stake in CDP, expected to close by year-end pending approval from the UK Charity Commission, ends 25 years of nonprofit-led carbon disclosure governance and replaces it with a hybrid structure: a commercial entity built for growth and investor returns, alongside an independent charitable foundation built to protect the mission. We\u2019ve seen this before. In 2023, SBTi spun off a commercial verification arm, SBTi Services, while retaining standard-setting under a nonprofit board. Two keystone sustainability systems restructuring the same way within a few years of each other is not a coincidence. And it is not, on its own, bad news. It is a sign of a maturing sustainability market. What does this mean for sustainability? Net: it\u2019s getting more attention, more resources, and more scrutiny. Based on historical precedent in AI, the medical field, and even stock exchanges, we are also likely to see this greater attention result in higher-quality services that command higher prices. Private capital follows demand and fills in when this demand overwhelms the financial and technical resources of a nonprofit. CDP reports that more than 23,000 companies, cities, states, and regions disclosed through its platform in 2025, even as voluntary ESG activity lost momentum. SBTi created its commercial arm because the number of companies seeking validated targets grew close to 60 percent in nine months, with total validated targets up 102 percent for the year. No foundation grant or membership fee structure can fund that kind of volume. For 20 years, the view in sustainability has been that voluntary disclosure is a first step rather than a destination, and that the field\u2019s real test of maturity is whether it can attract the kind of capital financial markets take for granted. By that measure, this looks like success\u2014though not without its trade-offs. The Real Driver Behind Disclosure Growth What is in demand\u2014sustainability or more accurate risk management? Trick question: both. To understand the CDP deal, we have to understand two parts of sustainability in business: The Cultural and Political Narrative \u2013 sustainability as voluntary commitments, public pledges, symbolic projects, and marketing. This aspect of sustainability has genuinely lost ground over the past two years under political pressure in the United States and elsewhere. The Operational and Strategic \u2013 sustainability as risk management and growth amplifier. Underneath the narrative, there is an increasingly sophisticated data infrastructure: the systems investors, insurers, operators, and supply chain managers actually use to price risk and make decisions. This trend has been growing for decades, and the recent influx of private capital to the space is another sign that it is now part of the main event, not a sideshow. CDP\u2019s and SBTi\u2019s growth numbers and other reports show the demand for data is stable and growing. That is the real signal in this deal. Data infrastructure has become load-bearing in a way the marketing narrative no longer is. This kind of essential infrastructure attracts capital, regardless of whether it is fashionable to discuss. What Other Industries Can Teach Us We can learn from looking outside sustainability to see this same funding arc play out. OpenAI is a highly visible current example. OpenAI began as a nonprofit committed to unlocking the potential for AI-led research. In doing so, it discovered that the demand for increasingly capable models required capital and computing power that philanthropy could not supply. The fix was a commercial subsidiary, theoretically supervised by a nonprofit board. When that board tried to slow the company down in late 2023 over safety concerns, the market reasserted itself within days\u2014and the board lost. Memorial Sloan Kettering (MSK) took a similar approach, but with physical assets rather than mission. The cancer center held millions of pathology slides, an archive whose value only became obvious once machine learning could use it at scale. Rather than build that capability in-house, MSK licensed the data exclusively to a for-profit spin-out, Paige.AI, in exchange for equity. Its own staff later objected that a public-purpose asset had gone to private investors without competitive bidding. And finally, many forget the New York Stock Exchange and NASDAQ began as member-owned cooperatives in 1970s. When electronic trading drove sharp increases in volume and infrastructure costs in the late 1990s, members were unwilling to fund the buildout collectively, leading both exchanges to convert to for-profit, shareholder-owned corporations in the 2000s. Both immediately began charging premium rates for something that had previously been a shared utility: market data itself. Commercial Growth Comes with Trade-Offs The capital required for growth comes with control attached. Permira\u2019s majority stake gives the commercial CDP entity direct legal leverage over the nominally independent CDP Foundation. This is the same trade SBTi made when it created SBTi Services, and the same imbalance that let OpenAI\u2019s investors override its nonprofit board. SBTi\u2019s version of this tension surfaced in 2024, when staff revolted after its board tried to fast-track carbon offset flexibilities under investor and corporate pressure. None of these boards intended to lose authority to their commercial arms; the funding made it happen anyway. CDP\u2019s revenue depends on keeping its base of participants enrolled\u2014a challenge it has faced for several years\u2014which creates pressure to soften requirements that growth itself made harder to meet. SBTi\u2019s Corporate Net-Zero Standard V2.0 is the clearest case: facing corporate dropouts over rigid Scope 3 mandates and heavy lobbying from technology companies managing data center power demand, SBTi dropped several long-term goal requirements and scaled hourly-matching obligations down to only the largest electricity consumers. CDP, now answerable to a majority investor who needs that same enrollment to justify the deal, faces nearly identical pressure. For years, CDP has been facing mounting challenges associated with the burden of reporting and the cost of participation. In 2024, CDP responded by launching a streamlined Corporate Questionnaire, but it was riddled with technical issues and scoring errors. That year, more than 24,800 companies disclosed. Around the same time, companies were also paying close attention to the ESG regulations in California and the European Union. In 2025, CDP disclosures fell to just shy of 22,200 companies. Many expressed frustration with CDP\u2019s 2024 cycle and also pointed to the need to shift their efforts and budgets towards regulatory compliance rather than a voluntary questionnaire. Three Disclosure Strategy Considerations for 2026 and Beyond None of this suggests walking away from CDP or SBTi. Both are more capable and better funded than they were. Some recommendations to consider with your team to manage a new world of privately funded reporting: Expect the for-profit entity to move faster. Watch the CDP Foundation and SBTi\u2019s nonprofit board for genuine changes to question banks, validation criteria, and underlying climate science. Monitor the commercial entities\u2014CDP\u2019s new private equity-backed business and SBTi Services\u2014for changes in pricing, timelines, and software. Plan for paywalls on anything beyond baseline submission or validation. Peer benchmarking, deeper supply-chain visibility, and clean interface integrations are the features most likely to migrate behind a premium tier over the next two to three years. Prepare for greater scrutiny. A platform built to attract investor capital is also built to surface errors to investors more quickly. Data governance that was once \u201cgood enough\u201d for a text field must now withstand an automated audit. In sum, establish a disclosure strategy with defined accountability and data ownership. Build your core data set around the standards and frameworks that matter most to your organization, instead of allowing CDP, SBTi, and regulatory requirements to drive separate, disconnected collection processes. Each output will differ because the treatment of topics such as offsets, greenhouse gas accounting, and organizational boundaries vary by framework. A strong disclosure strategy reduces the cost and risk of fragmented reporting and leverages the same underlying data to inform better business decisions\u2014the original purpose behind CDP, SBTi, CSRD, and California\u2019s climate disclosure rules. Now that CDP and SBTi sit on commercial entities, keep your own copy of the underlying data and negotiate export rights the way you would with any enterprise vendor. A profit-driven owner has more incentives than a nonprofit ever did to charge for access to your own historical submissions. As reporting frameworks, disclosure platforms, and regulatory requirements become increasingly interconnected, organizations need a coordinated strategy for managing data, governance, and reporting obligations. Contact Antea Group's Corporate Disclosure & Reporting team to learn how we can help strengthen your reporting program, data governance, and disclosure readiness. Only for Cyprus section No",
-      "link": "https://www.csr-company.com/blog/what-cdp-and-sbti039s-new-capital-structures-mean-your-disclosure-strategy",
-      "source": "Csr-company",
-      "image": null,
-      "published": "2026-06-24 04:19:00",
+      "title": "Peter Agius sees no contradiction in his 'Temu tax' position",
+      "description": "With days to go before the EU introduces the unpopular \u2018Temu tax\u2019, MEP Peter Agius went to Ursula von der Leyen warning her this was a bad idea. Photos: Shutterstock/Facebook",
+      "link": "https://timesofmalta.com/article/peter-agius-sees-no-contradiction-temu-tax-position.1130354",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/6cb93c17b84bd31d2b7b31c9fa6b1d1cf5527860-1782226412-d2f2baf7-1920x1280.jpg",
+      "published": "2026-06-24 06:50:00",
       "category": [
-        "business",
-        "top"
+        "top",
+        "business"
       ],
       "country": [
-        "germany"
+        "malta"
       ]
     },
     {
-      "title": "Advancing With Purpose: Fostering Inclusion and Belonging",
-      "description": "Welcome to Advancing with Purpose, an AMD video series featuring the people behind our corporate responsibility efforts. In this video, Mark Pearson, Corporate Vice President, Talent, Culture and Community at AMD, shares how inclusion and belonging support innovation, strengthen decision-making and help employees bring their authentic selves to work. He reflects on the importance of creating an environment where different voices and perspectives can contribute to positive outcomes across the company. Through personal stories like Mark\u2019s, this series highlights how AMD employees are helping bring corporate responsibility to life across the company. Learn more about belonging and inclusion at AMD: https://www.amd.com/en/corporate/corporate-responsibility/diversity-belonging-inclusion.html Only for Cyprus section No",
-      "link": "https://www.csr-company.com/blog/advancing-purpose-fostering-inclusion-and-belonging",
-      "source": "Csr-company",
-      "image": null,
-      "published": "2026-06-24 04:19:00",
+      "title": "Today's front pages \u2013 June 24, 2026",
+      "description": "Watch: Milestones reflect decades of resilience, long-term investment, and a consistent focus on guest satisfaction",
+      "link": "https://timesofmalta.com/article/today-front-pages-june-24-2026.1130371",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/28065f0a0d547d9f19f768ea71ce96e962ce5fb9-1782285344-be2d3fa2-1920x1280.jpeg",
+      "published": "2026-06-24 06:50:00",
       "category": [
-        "business",
-        "top"
+        "top",
+        "business"
       ],
       "country": [
-        "germany"
+        "malta"
+      ]
+    },
+    {
+      "title": "Gold prices drop to $4090 on global markets",
+      "description": null,
+      "link": "https://azertag.az/en/xeber/gold_prices_drop_to_4090_on_global_markets-4280815",
+      "source": "Azertac - Azerbaijan State News Agency",
+      "image": "https://azertag.az/files/2026/2/1200x630/17822838331092262489_1200x630.jpg",
+      "published": "2026-06-24 06:50:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Peter Agius sees no contradiction in his EU's 'Temu tax' position",
+      "description": "With days to go before the EU introduces the unpopular \u2018Temu tax\u2019, MEP Peter Agius went to Ursula von der Leyen warning her this was a bad idea. Photos: Shutterstock/Facebook",
+      "link": "https://timesofmalta.com/article/agius-defends-lobbying-temu-tax-despite-earlier-pledge.1130354",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/6cb93c17b84bd31d2b7b31c9fa6b1d1cf5527860-1782226412-d2f2baf7-1920x1280.jpg",
+      "published": "2026-06-24 06:50:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "malta"
       ]
     }
   ]

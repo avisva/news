@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Database vendors pitch themselves as the cure for runaway AI costs",
+      "description": "Pinecone and Tiger Data say smarter data plumbing can cut token use and tame agentic workloads",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/24/database-vendors-pitch-themselves-as-the-cure-for-runaway-ai-costs/5260126",
+      "source": "The Register",
+      "image": null,
+      "published": "2026-06-24 10:15:00",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Slow rotation explains reverse winds on bizarre exoplanet CoRoT-2 b",
+      "description": "Astronomers have solved an eight-year-old mystery regarding CoRoT-2 b, a gas giant exoplanet with unexpected winds. New data reveals that the anomaly is caused because of the unusually slow rotation of the world.",
+      "link": "https://www.news9live.com/science/slow-rotation-explains-reverse-winds-on-bizarre-exoplanet-corot-2-b-2983207",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/06/CoRoT-2-b.jpg",
+      "published": "2026-06-24 10:15:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

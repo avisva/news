@@ -1,49 +1,78 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Alex Borg begins summoning MPs as shadow cabinet takes shape",
-      "description": "MPs started receiving calls to meet at party headquarters on Wednesday morning",
-      "link": "https://timesofmalta.com/article/alex-borg-begins-summoning-mps-shadow-cabinet-takes-shape.1130379",
-      "source": "Times Of Malta",
-      "image": "https://cdn-attachments.timesofmalta.com/22eee48836905a038c6f03033c39d8be92790c8a-1782290645-62afa7c9-1920x1280.jpg",
-      "published": "2026-06-24 08:46:00",
+      "title": "Johor BN rules out coalition government if it retains power, says Onn Hafiz",
+      "description": "JOHOR BARU: Johor Barisan Nasional will not form a coalition government with any other political party if it retains power after the state election, says its chairman, Datuk Onn Hafiz Ghazi.",
+      "link": "https://www.thestar.com.my/news/nation/2026/06/24/johor-bn-rules-out-coalition-government-if-it-retains-power-says-onn-hafiz",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/24/3975168.JPG",
+      "published": "2026-06-24 10:15:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "malta"
+        "malaysia"
       ]
     },
     {
-      "title": "90% of Ukrainians Want History Disputes With Poland Kept Out of Politics \u2013 KIIS Poll",
-      "description": "A new KIIS poll shows 90% of Ukrainians want historical disputes with Poland kept out of politics and resolved through pragmatic or academic channels. Attitudes toward Poles remain broadly tolerant despite recent fluctuations, while perceptions of OUN-UPA have shifted significantly toward more positive or uncertain views since 2013.",
-      "link": "https://www.kyivpost.com/post/78857",
-      "source": "Kyiv Post",
-      "image": "https://static.kyivpost.com/storage/2026/06/22/8b62a44f89f2afcf2f2ef23164a0f4ce.jpg?w=1200&q=90&f=jpg",
-      "published": "2026-06-24 08:45:54",
+      "title": "Letter: Downtown development has been a failure",
+      "description": "It\u2019s hard to get excited about downtown Buffalo. Doug Jemal has for sale or lease signs on many of his properties. The AM&A\u2019s building continues to rot away.",
+      "link": "https://buffalonews.com/opinion/letters/article_c7ae0fe6-3d68-4de7-bed7-9b9d3072fab3.html",
+      "source": "Buffalonews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/c/7a/c7ae0fe6-3d68-4de7-bed7-9b9d3072fab3/6a3a7f40cef3f.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-24 10:15:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Letter: Cutting USAID enabled screwworm spread",
+      "description": "When we gut international assistance, Americans suffer. I don\u2019t want my dog to die because our government allowed parasites to spread out of control.",
+      "link": "https://buffalonews.com/opinion/letters/article_d6b58be0-cfbd-401c-b760-e8dbda2d6ff7.html",
+      "source": "Buffalonews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/d/6b/d6b58be0-cfbd-401c-b760-e8dbda2d6ff7/6a3965053a026.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-24 10:15:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Iran says deal to end Mideast war 'declaration of US defeat'",
+      "description": "The war that began with a massive US-Israeli campaign of strikes against Iran on February 28 ended with the Islamic Republic striking an agreement its leaders have sought to portray as a victory.",
+      "link": "https://www.ewn.co.za/iran-says-deal-to-end-mideast-war-declaration-of-us-defeat/",
+      "source": "Ewn",
+      "image": "https://media-cache.primedia-service.com/media/dlvgzu2t/iran-us-diplomacy.jpg",
+      "published": "2026-06-24 10:15:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "ukraine"
+        "south africa"
       ]
     },
     {
-      "title": "Vie\u0323\u0302t Nam attends annual session of UN Women Executive Board",
-      "description": "Vietnamese diplomat \u0110o\u0302\u0303 Hu\u0300ng Vie\u0323\u0302t called on UN Women to continue prioritising areas capable of generating long-term impact, including women\u2019s economic empowerment and strengthening the group\u2019s leadership and participation in emerging fields.",
-      "link": "https://vietnamnews.vn/politics-laws/1784071/viet-nam-attends-annual-session-of-un-women-executive-board.html",
-      "source": "Vietnamnews.vn",
-      "image": "https://image.vietnamnews.vn/uploadvnnews/Article/2026/6/24/511839_5515310078590716_dhv.jpeg",
-      "published": "2026-06-24 08:45:45",
+      "title": "Jim Dey | Foes of assisted-suicide law seek to give it an early burial",
+      "description": "In December, Gov. J.B. Pritzker signed a groundbreaking law that authorized physician-assisted suicide for individuals who are terminally ill.",
+      "link": "https://www.news-gazette.com/opinion/columns/jim-dey-foes-of-assisted-suicide-law-seek-to-give-it-an-early-burial/article_fd9cc132-1571-4a3f-8c6d-f4cff9155e4e.html",
+      "source": "News-gazette",
+      "image": null,
+      "published": "2026-06-24 10:15:00",
       "category": [
+        "top",
         "politics"
       ],
       "country": [
-        "vietnam"
+        "united states of america"
       ]
     }
   ]

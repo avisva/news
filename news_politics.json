@@ -1,106 +1,50 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Letter to the Editor: Hospital beds crisis can be solved",
-      "description": "Dear Sir, Thank you for Jonathan Bell\u2019s article in Tuesday\u2019s newspaper. While the story was excellent in many respects, I hope you will allow me the space to introduce or expand on some issues related...",
-      "link": "https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260625/lettter-to-the-editor-hospital-beds-crisis-can-be-solved/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=0476822a-8538-56e9-b983-3cb779b2dc8f&type=preview&width=600",
-      "published": "2026-06-25 07:57:00",
+      "title": "Japan clears 18 officials to handle economic security info",
+      "description": "The personnel were qualified under the security clearance assessment system based on the law, which was enacted in May 2024.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/25/japan/politics/economic-security-clearance/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/25/548256.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "LETTER: I will never vote Labour again due to state of the streets",
+      "description": "The back of Oldham Street and Cumberland Street in Latchford is a mess with weeds growing too high.",
+      "link": "https://www.warringtonguardian.co.uk/yoursay/letters/26223261.letter-will-never-vote-labour-due-state-streets/",
+      "source": "Warringtonguardian Co Uk",
+      "image": "https://www.warringtonguardian.co.uk/resources/images/20665523/",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Call 999 if you see wanted man with links to Ashford",
+      "description": "Anyone who sees him should contact police as soon as possible",
+      "link": "https://www.kentlive.news/news/kent-news/call-999-you-see-wanted-11029708",
+      "source": "Kent Live",
+      "image": "https://i2-prod.kentlive.news/incoming/article11029722.ece/ALTERNATES/s615/0_latest-groom.jpg",
+      "published": "2026-06-25 09:46:59",
       "category": [
         "top",
         "crime",
         "politics"
       ],
       "country": [
-        "bermuda"
-      ]
-    },
-    {
-      "title": "Court of Appeal strikes out complaint against union",
-      "description": "The Court of Appeal has upheld the decision to strike out allegations that the Bermuda Union of Teachers improperly suspended a member for speaking to The Royal Gazette. The Reverend Leonard Santucci ...",
-      "link": "https://www.royalgazette.com/court/news/article/20260625/court-of-appeal-strikes-out-complaint-against-union/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=A5B93ED9-EC88-46FB-BDD3-FF128C310F8B&type=preview&width=600",
-      "published": "2026-06-25 07:57:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "bermuda"
-      ]
-    },
-    {
-      "title": "Sabina Aliyeva: Strong audit system helps reduce corruption risks",
-      "description": "A strong audit system plays a vital role in protecting the legal interests of the state, economic entities, and citizens, ensuring efficient use of public resources, reducing corruption risks, and strengthening economic security, according to Azerbaijan's Human Rights Commissioner Sabina Aliyeva, Report informs.",
-      "link": "https://report.az/en/finance/sabina-aliyeva-strong-audit-system-helps-reduce-corruption-risks",
-      "source": "Report.az",
-      "image": null,
-      "published": "2026-06-25 07:56:57",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "Asia's growth edge: How scale became strength",
-      "description": "The most important question facing participants at the Summer Davos in Dalian is how promising ideas can be transformed into broad-based improvements in living standards.",
-      "link": "https://news.cgtn.com/news/2026-06-25/Asia-s-growth-edge-How-scale-became-strength-1OgjQGgqNNK/p.html",
-      "source": "Cgtn",
-      "image": "https://news.cgtn.com/news/2026-06-25/Asia-s-growth-edge-How-scale-became-strength-1OgjQGgqNNK/img/63d493a5238d4069adcb73047ab4a996/63d493a5238d4069adcb73047ab4a996-750.png",
-      "published": "2026-06-25 07:56:52",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Maharashtra government's proposal to abolish Hazur Sahib Act, huge anger in Sikh community",
-      "description": "There is intense anger in the Sikh community over the Maharashtra government's proposal to repeal the Hazur Sahib Act 1956 and implement a new law. Sikh leaders have accused the government of taking unilateral decisions without consultation, calling it interference in religious autonomy and traditions. The community has warned that religious rights will not be compromised.",
-      "link": "https://newsaddaindia.com/news/maharashtra-governments-proposal-to-abolish-hazur-",
-      "source": "Newsaddaindia",
-      "image": null,
-      "published": "2026-06-25 07:56:41",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Rubio Heads to GCC Talks in Bahrain",
-      "description": "(MENAFN) US Secretary of State Marco Rubio is set to sit down with Gulf Cooperation Council foreign ministers in Bahrain on Thursday, capping a three-day regional tour with high-stakes consultations ...",
-      "link": "https://menafn.com/1111311169/Rubio-Heads-to-GCC-Talks-in-Bahrain",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-06-25 07:56:35",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "egypt",
-        "bahrain",
-        "united arab emirates",
-        "syria",
-        "jordan",
-        "turkey",
-        "saudi arabia",
-        "iran",
-        "israel",
-        "iraq",
-        "qatar",
-        "lebanon",
-        "kuwait"
+        "united kingdom"
       ]
     }
   ]

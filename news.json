@@ -1,42 +1,29 @@
 {
   "status": "success",
-  "totalResults": 30,
+  "totalResults": 25,
   "results": [
     {
-      "title": "Frantic search for Venezuelans trapped under rubble after apocalyptic twin earthquakes",
-      "description": "Dozens have been killed and the death toll is expected to rise after powerful twin earthquakes shook Venezuela with a frantic search operation underway",
-      "link": "https://www.the-express.com/news/world-news/210344/frantic-search-venezuelans-trapped-rubble",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/12/590x/210344_1.jpg",
-      "published": "2026-06-25 07:57:00",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Uzbekistan Fans Organize Massive March in Houston",
-      "description": "More than 4,000 Uzbekistani football fans marched through the streets of Houston, Texas, to support their national team at the 2026 World Cup as part of a national tourism promotion campaign.",
-      "link": "https://www.uzdaily.uz/en/uzbekistan-fans-organize-massive-march-in-houston/",
-      "source": "Uzdaily",
-      "image": "https://www.uzdaily.uz/media/filer_public/bb/12/bb12bf31-ce3f-4d38-ac25-9370c4c30677/houstonfans_20260625065119.webp",
-      "published": "2026-06-25 07:57:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "uzbekistan"
-      ]
-    },
-    {
-      "title": "Stokes County well represented at Senior Games",
-      "description": null,
-      "link": "https://www.thestokesnews.com/news/stokes-county-well-represented-at-senior-games/article_2572e97a-02bc-4ef5-8932-99d259503a8e.html",
-      "source": "Thestokesnews.com",
+      "title": "Historic attractions close as heatwave intensifies",
+      "description": "National Trust sites in Suffolk, including Ickworth House, will be closed on Thursday and Friday as the heatwave across the county intensifies.",
+      "link": "https://www.eadt.co.uk/news/26226248.national-trust-sites-closed-across-suffolk-amid-heatwave/",
+      "source": "East Anglian Daily Times",
       "image": null,
-      "published": "2026-06-25 07:57:00",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Early look at Virginia Tech's 2026 Week 10 opponent SMU",
+      "description": "The Mustangs notched wins over Clemson, Miami and Louisville in their second season in the ACC to prove they are capable of competing with the league\u2019s best on a weekly basis.",
+      "link": "https://godanriver.com/sports/college/football/virginia-tech-hokies/article_16fc52ac-0bf8-55e1-a553-8beba5ffc24b.html",
+      "source": "Danville",
+      "image": null,
+      "published": "2026-06-25 09:47:00",
       "category": [
         "top",
         "sports"
@@ -46,147 +33,317 @@
       ]
     },
     {
-      "title": "Qatari LNG tankers resume Hormuz transit as tensions ease",
-      "description": "Two Qatari liquefied natural gas (LNG) tankers transited the Strait of Hormuz on Thursday as security concerns around the strategic waterway eased following peace talks between the...",
-      "link": "https://www.dailysabah.com/business/energy/qatari-lng-tankers-resume-hormuz-transit-as-tensions-ease",
-      "source": "Daily Sabah",
-      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/06/25/447734.JPG",
-      "published": "2026-06-25 07:57:00",
+      "title": "Japan clears 18 officials to handle economic security info",
+      "description": "The personnel were qualified under the security clearance assessment system based on the law, which was enacted in May 2024.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/25/japan/politics/economic-security-clearance/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/25/548256.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "New Wichita business aims to bring more affordable housing to Kansas",
+      "description": "Signage at the new Prime Craftsman Homes Wichita location is put up. The company, which began in Tulsa, aims to build more affordable homes.",
+      "link": "https://www.kansas.com/news/local/article316250744.html",
+      "source": "Wichita Eagle",
+      "image": "https://www.kansas.com/public/latest-news/1lq5q5/picture316251019/alternates/FREE_1140/PCHW%20sign.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "LETTER: I will never vote Labour again due to state of the streets",
+      "description": "The back of Oldham Street and Cumberland Street in Latchford is a mess with weeds growing too high.",
+      "link": "https://www.warringtonguardian.co.uk/yoursay/letters/26223261.letter-will-never-vote-labour-due-state-streets/",
+      "source": "Warringtonguardian Co Uk",
+      "image": "https://www.warringtonguardian.co.uk/resources/images/20665523/",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Midi Health tackles hormone-driven skin aging with topical menopause line",
+      "description": "US-based virtual clinic, Midi Health, has expanded its prescription skin care line built for hormonal skin changes that start in a woman\u2019s 30s and accelerate through menopause. In the US, over a million women go through menopause each year, signifying a large market opportunity. Midlife hormonal shifts can impact the skin, leading to dryness, thinning, adult acne, and accelerated skin damage.",
+      "link": "https://www.personalcareinsights.com/news/midi-menopause-skincare-launch.html",
+      "source": "Www.personalcareinsights.com",
+      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639179781971046483AdobeStock_750650233.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gold ETFs Face Fresh Outflows as Strong Dollar Pressures Bullion Prices",
+      "description": "Gold prices have fallen below 4,000 dollar per ounce for the first time since November 2025 as rising U.S. interest-rate expectations, a stronger dollar, and persistent ETF outflows pressure the bullion market. Major banks have lowered gold forecasts, although continued central bank buying remains a key source of long-term support.",
+      "link": "https://goldpricetoday.co.in/gold-etfs-face-growing-outflows-as-fed-rate-hike-bets-weigh-on-bullion-prices/",
+      "source": "Gold Price Today",
+      "image": null,
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Why super giant opted to sit out the SpaceX launch",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/business/companies/cbus-sat-on-the-sidelines-of-elon-musks-spacex-launch-but-has-its-eye-on-another-big-ipo/news-story/3d2d9937f2c60f40e8b3a5f9aff9f182",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Kriti Sanon Doesn't Need to Be the Next Deepika \u2014 She's Already Kriti",
+      "description": "Kriti Sanon's Cocktail 2 sparked \"next Deepika\" comparisons, but her 20-film career, business ventures, and global fashion presence tell a different, original story.",
+      "link": "https://news.jobaaj.com/news-updates/entertainment/kriti-sanon-doesn-t-need-to-be-the-next-deepika-she-s-already-kriti",
+      "source": "Jobaaj",
+      "image": "https://cdn.nishtyainfotech.com/content/stories/thumb/thumb6a3cf91b0da259.76588785.webp",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Impact Weather: Risk of thunderstorms for parts of Mass. on Friday",
+      "description": "StormTeam 5 is tracking Impact Weather across Massachusetts on Friday. Early-morning showers will give way to some midday sunshine. There will be a risk of thunderstorms during the afternoon and evening.",
+      "link": "https://www.wcvb.com/article/imapact-weather-risk-of-thunderstorms-june-26/71723260",
+      "source": "Wcvb",
+      "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wcvb/Impact_Alert_Bullets.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Four powerful earthquakes strike three continents within hours: Scientific link or coincidence?",
+      "description": "A series of powerful seismic events occurred across the three significant continents, including South America, North America and Asia on June 24-25, 2026. In North America, California was struck with a 5.6 magnitude earthquake. As a result of seismic activity, thousands lost power in Mendocino...",
+      "link": "https://www.thenews.com.pk/latest/1407103-four-powerful-earthquakes-strike-three-continents-within-hours-scientific-link-or-coincidence",
+      "source": "The News International",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-06-25/1407103_024612_updates.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "CSB Bank Ltd leads losers in 'A' group",
+      "description": "Inox India Ltd, Mishra Dhatu Nigam Ltd, MMTC Ltd and Genus Power Infrastructures Ltd are among the other losers in the BSE's 'A' group today, 25 June 2026.",
+      "link": "https://www.business-standard.com/markets/capital-market-news/csb-bank-ltd-leads-losers-in-a-group-126062500668_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-06-25 09:47:00",
       "category": [
         "business"
       ],
       "country": [
-        "turkey"
+        "india"
       ]
     },
     {
-      "title": "Letter to the Editor: Hospital beds crisis can be solved",
-      "description": "Dear Sir, Thank you for Jonathan Bell\u2019s article in Tuesday\u2019s newspaper. While the story was excellent in many respects, I hope you will allow me the space to introduce or expand on some issues related...",
-      "link": "https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260625/lettter-to-the-editor-hospital-beds-crisis-can-be-solved/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=0476822a-8538-56e9-b983-3cb779b2dc8f&type=preview&width=600",
-      "published": "2026-06-25 07:57:00",
+      "title": "Park Edge Advisors LLC Lowers Stock Position in Simplify Treasury Option Income ETF $BUCK",
+      "description": "Park Edge Advisors LLC cut its stake in shares of Simplify Treasury Option Income ETF (NYSEARCA:BUCK \u2013 Free Report) by 37.9% in the first quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 140,046 shares of the company\u2019s stock after selling 85,358 shares during [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13485355/park-edge-advisors-llc-lowers-stock-position-in-simplify-treasury-option-income-etf-buck.html",
+      "source": "Ticker Report",
+      "image": "https://www.marketbeat.com/logos/generic-stocks9.jpg",
+      "published": "2026-06-25 09:46:59",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "iShares Core Total USD Bond Market ETF $IUSB Shares Sold by Tanager Wealth Management LLP",
+      "description": "Tanager Wealth Management LLP decreased its position in iShares Core Total USD Bond Market ETF (NASDAQ:IUSB \u2013 Free Report) by 16.6% in the 1st quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 301,632 shares of the company\u2019s stock after selling 60,163 shares during the quarter. iShares Core [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13485356/ishares-core-total-usd-bond-market-etf-iusb-shares-sold-by-tanager-wealth-management-llp.html",
+      "source": "Ticker Report",
+      "image": "https://www.marketbeat.com/logos/ishares-core-total-usd-bond-market-etf-logo-1200x675.png?v=20210709130904",
+      "published": "2026-06-25 09:46:59",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Call 999 if you see wanted man with links to Ashford",
+      "description": "Anyone who sees him should contact police as soon as possible",
+      "link": "https://www.kentlive.news/news/kent-news/call-999-you-see-wanted-11029708",
+      "source": "Kent Live",
+      "image": "https://i2-prod.kentlive.news/incoming/article11029722.ece/ALTERNATES/s615/0_latest-groom.jpg",
+      "published": "2026-06-25 09:46:59",
       "category": [
         "top",
         "crime",
         "politics"
       ],
       "country": [
-        "bermuda"
+        "united kingdom"
       ]
     },
     {
-      "title": "Court of Appeal strikes out complaint against union",
-      "description": "The Court of Appeal has upheld the decision to strike out allegations that the Bermuda Union of Teachers improperly suspended a member for speaking to The Royal Gazette. The Reverend Leonard Santucci ...",
-      "link": "https://www.royalgazette.com/court/news/article/20260625/court-of-appeal-strikes-out-complaint-against-union/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=A5B93ED9-EC88-46FB-BDD3-FF128C310F8B&type=preview&width=600",
-      "published": "2026-06-25 07:57:00",
+      "title": "Pfizer Inc. $PFE Shares Acquired by Fifth Third Wealth Advisors LLC",
+      "description": "Fifth Third Wealth Advisors LLC lifted its position in Pfizer Inc. (NYSE:PFE \u2013 Free Report) by 27.5% in the 1st quarter, HoldingsChannel reports. The firm owned 218,152 shares of the biopharmaceutical company\u2019s stock after purchasing an additional 47,010 shares during the quarter. Fifth Third Wealth Advisors LLC\u2019s holdings in Pfizer were worth $6,126,000 as of [...]",
+      "link": "https://baseballnewssource.com/2026/06/25/pfizer-inc-pfe-shares-acquired-by-fifth-third-wealth-advisors-llc/11166218.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/pfizer-inc-logo-1200x675.png?v=20221020143129",
+      "published": "2026-06-25 09:46:59",
       "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "bermuda"
-      ]
-    },
-    {
-      "title": "Sabina Aliyeva: Strong audit system helps reduce corruption risks",
-      "description": "A strong audit system plays a vital role in protecting the legal interests of the state, economic entities, and citizens, ensuring efficient use of public resources, reducing corruption risks, and strengthening economic security, according to Azerbaijan's Human Rights Commissioner Sabina Aliyeva, Report informs.",
-      "link": "https://report.az/en/finance/sabina-aliyeva-strong-audit-system-helps-reduce-corruption-risks",
-      "source": "Report.az",
-      "image": null,
-      "published": "2026-06-25 07:56:57",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "Auto sales picked up in May on steadier fuel prices",
-      "description": "MANILA, Philippines \u2013 Philippine vehicle sales accelerated to 33,532 units in May, recovering from April\u2019s deceleration but remaining well below last year\u2019s pace as Filipinos continued to prioritize fuel efficiency. Sales rose 23.8 percent from 27,089 units in April but were still 15.7 percent lower than the 39,775 units sold in May 2025. READ: PH car sales drop 19% in April as Mideast crisis tempers demand Still, the Chamber of Automotive Manufacturers of the Philippines Inc. (Campi) said the stronger monthly performance had brightened the industry\u2019s outlook after concerns over war-driven oil price volatility dampened sentiment in recent months. \u201cThe [...]... Keep on reading: Auto sales picked up in May on steadier fuel prices",
-      "link": "https://business.inquirer.net/597176/auto-sales-picked-up-in-may-on-steadier-fuel-prices",
-      "source": "Inquirer",
-      "image": "https://business.inquirer.net/files/2024/10/CAMPI-logo-620x349.png",
-      "published": "2026-06-25 07:56:56",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Striding AI Launches with Plans to Build Next-Generation Robotic Foundation Systems for Physical AI Deployment",
-      "description": "Striding AI announced that it is developing a new generation of robotic foundation systems designed to accelerate the deployment of Physical AI in real-world environments. The company\u2019s approach focuses on building the foundational technologies required for robots to perceive, reason, act, and continuously improve through interaction with the physical world. By integrating advanced foundation models [...] The post Striding AI Launches with Plans to Build Next-Generation Robotic Foundation Systems for Physical AI Deployment appeared first on AiThority .",
-      "link": "https://aithority.com/robots/striding-ai-launches-with-plans-to-build-next-generation-robotic-foundation-systems-for-physical-ai-deployment/",
-      "source": "Aithority",
-      "image": "https://aithority.com/wp-content/uploads/2026/06/asadsdsd.jpg",
-      "published": "2026-06-25 07:56:55",
-      "category": [
-        "top",
-        "technology"
+        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Heavy Rainfall in Amravati",
-      "description": "\u0905\u092e\u0930\u093e\u0935\u0924\u0940 \u0936\u0939\u0930\u093e\u0924 \u092e\u093e\u0928\u094d\u0938\u0942\u0928\u091a\u094d\u092f\u093e \u092a\u0939\u093f\u0932\u094d\u092f\u093e\u091a \u091c\u094b\u0930\u0926\u093e\u0930 \u092a\u093e\u0935\u0938\u093e\u092e\u0941\u0933\u0902 \u0905\u0928\u0947\u0915 \u0936\u093e\u0938\u0915\u0940\u092f \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f \u0906\u0923\u093f \u0918\u0930\u093e\u0902\u092e\u0927\u094d\u092f\u0947 \u092a\u093e\u0935\u0938\u093e\u091a\u0947 \u092a\u093e\u0923\u0940 \u0936\u093f\u0930\u0932\u094d\u092f\u093e\u0928\u0902 \u0917\u0902\u092d\u0940\u0930 \u092a\u0930\u093f\u0938\u094d\u0925\u093f\u0924\u0940 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u091d\u093e\u0932\u0940 \u0906\u0939\u0947.",
-      "link": "https://www.etvbharat.com/mr/state/monsoon-2026heavy-rainfall-maharashtra-rainwater-enters-in-houses-and-government-offices-in-amravati-mhs26062502496",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/25-06-2026/1200-675-27001262-thumbnail-16x9-amravti.jpg",
-      "published": "2026-06-25 07:56:53",
+      "title": "Ritholtz Wealth Management Has $13.43 Million Stock Holdings in Altria Group, Inc. $MO",
+      "description": "Ritholtz Wealth Management lifted its position in Altria Group, Inc. (NYSE:MO \u2013 Free Report) by 9.0% during the 1st quarter, according to the company in its most recent filing with the SEC. The fund owned 203,509 shares of the company\u2019s stock after purchasing an additional 16,791 shares during the quarter. Ritholtz Wealth Management\u2019s holdings in [...]",
+      "link": "https://baseballnewssource.com/2026/06/25/ritholtz-wealth-management-has-13-43-million-stock-holdings-in-altria-group-inc-mo/11166219.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/altria-group-logo-1200x675.jpg",
+      "published": "2026-06-25 09:46:59",
       "category": [
-        "environment"
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Meat Type, Not Quantity, Tied to Cancer Death Risk in Koreans",
+      "description": "A Korean study of 147,562 adults found meat type and sex, not total meat intake, are tied to cancer death risk. Red meat lowered stomach cancer death risk in men, while organ meat raised it in women.",
+      "link": "https://en.sedaily.com/culture/2026/06/25/meat-type-not-quantity-tied-to-cancer-death-risk-in-koreans",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/legacy/2026/06/25/20060298_1.jpg",
+      "published": "2026-06-25 09:46:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Kopp Family Office LLC Lowers Holdings in Nutanix $NTNX",
+      "description": "Kopp Family Office LLC lowered its stake in shares of Nutanix (NASDAQ:NTNX \u2013 Free Report) by 50.6% in the first quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 43,448 shares of the technology company\u2019s stock after selling 44,493 shares during the quarter. Nutanix [...]",
+      "link": "https://www.thelincolnianonline.com/2026/06/25/kopp-family-office-llc-lowers-holdings-in-nutanix-ntnx.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/nutanix-inc-logo-1200x675.png",
+      "published": "2026-06-25 09:46:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ritholtz Wealth Management Has $89.98 Million Position in Dimensional International Small Cap Value ETF $DISV",
+      "description": "Ritholtz Wealth Management raised its holdings in shares of Dimensional International Small Cap Value ETF (BATS:DISV \u2013 Free Report) by 5.8% in the first quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The institutional investor owned 2,281,524 shares of the company\u2019s stock after purchasing an additional 124,205 shares during [...]",
+      "link": "https://www.thelincolnianonline.com/2026/06/25/ritholtz-wealth-management-has-89-98-million-position-in-dimensional-international-small-cap-value-etf-disv.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/dimensional-international-small-cap-value-etf-logo-1200x675.png?v=20241219135242",
+      "published": "2026-06-25 09:46:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Dimensional U.S. Small Cap ETF $DFAS Shares Sold by Tanager Wealth Management LLP",
+      "description": "Tanager Wealth Management LLP trimmed its holdings in shares of Dimensional U.S. Small Cap ETF (NYSEARCA:DFAS \u2013 Free Report) by 4.8% during the 1st quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission (SEC). The fund owned 389,339 shares of the company\u2019s stock after selling 19,532 shares [...]",
+      "link": "https://baseballnewssource.com/2026/06/25/dimensional-u-s-small-cap-etf-dfas-shares-sold-by-tanager-wealth-management-llp/11166216.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/dimensional-us-small-cap-etf-logo-1200x675.png?v=20250207071413",
+      "published": "2026-06-25 09:46:58",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ritholtz Wealth Management Purchases 83,306 Shares of Dimensional Emerging Markets Value ETF $DFEV",
+      "description": "Ritholtz Wealth Management increased its position in shares of Dimensional Emerging Markets Value ETF (NYSEARCA:DFEV \u2013 Free Report) by 6.2% in the first quarter, Holdings Channel.com reports. The firm owned 1,424,431 shares of the company\u2019s stock after purchasing an additional 83,306 shares during the quarter. Dimensional Emerging Markets Value ETF comprises approximately 0.9% of Ritholtz [...]",
+      "link": "https://baseballnewssource.com/2026/06/25/ritholtz-wealth-management-purchases-83306-shares-of-dimensional-emerging-markets-value-etf-dfev/11166217.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/dimensional-emerging-markets-value-etf-logo-1200x675.png?v=20241217123417",
+      "published": "2026-06-25 09:46:58",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "United Spirits Layoffs: Company To Cut 100 Jobs Amid Global Cost-Cutting Drive, Says Report",
+      "description": "United Spirits is cutting 100 jobs as part of a global Diageo cost-review, with a potential total of 300 roles at risk. Despite strong FY26 growth, the company continues to optimise its supply chain, including recent factory closures, to improve efficiency and focus on its premium liquor business.",
+      "link": "https://www.latestly.com/business/united-spirits-layoffs-company-to-cut-100-jobs-amid-global-cost-cutting-drive-says-report-7489346.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/06/68-181.jpg",
+      "published": "2026-06-25 09:46:58",
+      "category": [
+        "technology"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Asia's growth edge: How scale became strength",
-      "description": "The most important question facing participants at the Summer Davos in Dalian is how promising ideas can be transformed into broad-based improvements in living standards.",
-      "link": "https://news.cgtn.com/news/2026-06-25/Asia-s-growth-edge-How-scale-became-strength-1OgjQGgqNNK/p.html",
-      "source": "Cgtn",
-      "image": "https://news.cgtn.com/news/2026-06-25/Asia-s-growth-edge-How-scale-became-strength-1OgjQGgqNNK/img/63d493a5238d4069adcb73047ab4a996/63d493a5238d4069adcb73047ab4a996-750.png",
-      "published": "2026-06-25 07:56:52",
+      "title": "What Scotland need to qualify for World Cup last 32 after 3-0 Brazil loss",
+      "description": "What do Scotland need to qualify for the World Cup last 32? Sports Mole breaks down the third-place standings, qualification rules, and the key results they need.",
+      "link": "https://www.sportsmole.co.uk/football/scotland/world-cup-2026/feature/how-can-scotland-still-qualify-for-the-world-cup-last-32_600053.html",
+      "source": "Sports Mole",
+      "image": "https://www.sportsmole.co.uk/thumbor/2FfQcwsBg-AEjtlkaRM1SdEvgXI=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F06%2Fns-photo-badge-v2-email-sportmole-6a3cf80eed91b929295903.jpg",
+      "published": "2026-06-25 09:46:57",
       "category": [
-        "politics"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Lirik Lagu Tyla - Is It Love",
-      "description": "Lirik Lagu Tyla - Is It Love. \"Is it love? Is it love if you don't cry, cry, cry?\" dst.",
-      "link": "https://manado.tribunnews.com/musik/1881793/lirik-lagu-tyla-is-it-love",
-      "source": "Tribunmanado.co.id",
-      "image": null,
-      "published": "2026-06-25 07:56:52",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "indonesia"
-      ]
-    },
-    {
-      "title": "France: DAZN extends Serie A rights",
-      "description": "DAZN, the sports streaming platform, has announced the renewal of its partnership with Lega Serie A in France for an additional three seasons. From the 2026-27 season through to the end of the 2028-29 season, DAZN will continue to be the exclusive home of every Serie A, Coppa Italia and Supercoppa Italiana match. This new [...]",
-      "link": "https://www.advanced-television.com/2026/06/25/france-dazn-extends-serie-a-rights/",
-      "source": "Advanced-television",
-      "image": "https://www.advanced-television.com/wp-content/uploads/2026/06/SerieAfootballDAZN.png",
-      "published": "2026-06-25 07:56:51",
-      "category": [
-        "top",
         "sports"
       ],
       "country": [
@@ -194,265 +351,18 @@
       ]
     },
     {
-      "title": "Delhi Health Scam: Medical equipment deals worth Rs 600 crore now under ED scanner",
-      "description": "The ED has begun a money laundering probe into an alleged Rs 600\u2013650 crore Delhi health procurement scam, seeking tender, payment and vendor records linked to medical equipment and hospital supplies.",
-      "link": "https://www.dynamitenews.com/crime/delhi-health-scam-medical-equipment-deals-worth-rs-600-crore-now-under-ed-scanner",
-      "source": "Dynamite News",
-      "image": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/06/ED-Opens-Money-Laundering-Probe-Into-Rs-600-Crore-Delhi-Health-Procurement-Scam.-Image-Internet.jpg",
-      "published": "2026-06-25 07:56:44",
+      "title": "BIS Raids Another Surat Firm, Seizes 2,265 Electrical Appliances Without ISI Mark",
+      "description": "Surat: The Bureau of Indian Standards (BIS) has raided Dolphy India Private Limited, located at Kosmada, Surat, and seized 2,265 electronic products without the mandatory The post BIS Raids Another Surat Firm, Seizes 2,265 Electrical Appliances Without ISI Mark appeared first on DeshGujarat .",
+      "link": "https://deshgujarat.com/2026/06/25/bis-raids-another-surat-firm-seizes-2265-electrical-appliances-without-isi-mark/",
+      "source": "Deshgujarat",
+      "image": null,
+      "published": "2026-06-25 09:46:57",
       "category": [
         "top",
         "crime"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "KakaoBank to Acquire Marsten Capital for 24.1 Billion Won",
-      "description": "KakaoBank's board approved acquiring a 100% stake in Marsten Capital for 24.1 billion won, aiming to enter the auto financing market with an installment financing service next year.",
-      "link": "https://en.sedaily.com/finance/2026/06/25/kakaobank-to-acquire-marsten-capital-for-241-billion-won",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/06/25/20060180_1.jpg",
-      "published": "2026-06-25 07:56:44",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "US restrictions of advanced AI systems a \"knee-jerk reaction.\u201d says Jay Chaudhry, founder, Zscaler",
-      "description": "Indian-origin Jay Chaudhry, founder, chairman and CEO of San Jose, California-headquartered company Zscaler said that concerns around restricted access to advanced AI models by Anthropic are overblown. In an interview with ET's Technology Editor, Surabhi Agarwal, he also criticised recent US restrictions around advanced AI systems calling it a 'knee-jerk reaction.\u201d The company has a market capitalisation of roughly $20 billion and Zscaler was among the select 40 companies that received early access to Anthropic\u2019s advanced AI model, Mythos, under Project Glasswing.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-restrictions-of-advanced-ai-systems-a-knee-jerk-reaction-says-jay-chaudhry-founder-zscaler/videoshow/131987496.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-131987496,width-1200,height-900,overlay-economictimes/tech/artificial-intelligence/us-restrictions-of-advanced-ai-systems-a-knee-jerk-reaction-says-jay-chaudhry-founder-zscaler.jpg",
-      "published": "2026-06-25 07:56:44",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Namibia\u2019s Best Brands: Building a Brand-Led Economy for the Future",
-      "description": "among the most powerful instruments of national reputation. For many people around the world, their first impression of a country comes not from a government policy or a tourism brochure, but from a product, service or company they encounter in the marketplace. When Windhoek Beer appears on shelves abroad, it carries the Namibian story with [...]",
-      "link": "https://observer24.com.na/namibias-best-brands-building-a-brand-led-economy-for-the-future/",
-      "source": "Observer24",
-      "image": null,
-      "published": "2026-06-25 07:56:43",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "namibia"
-      ]
-    },
-    {
-      "title": "Cool sanctuary open to community near Worksop town centre",
-      "description": "An air-conditioned hall in Worksop is offered to everyone as a place to escape the heat this week by the Bassetlaw Community and Voluntary Service.",
-      "link": "https://www.worksopguardian.co.uk/news/people/cool-sanctuary-open-to-community-near-worksop-town-centre-8760527",
-      "source": "Worksop Guardian",
-      "image": "https://www.worksopguardian.co.uk/webimg/b25lY21zOjNlM2VmNDIyLTNlYjAtNDk1ZC05OGMzLWZmMTA0YTk0YWU2ODo4ZGFmNDdiMC00NDg0LTRmYmItYjAwNy05ZDU4Y2NjYjRkMGY=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-06-25 07:56:42",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "In their latest Financial Matters column, Fairhurst Accountants explain the importance of business plans",
-      "description": "An explanation from Wigan\u2019s Fairhurst Accountants in their latest column as to why business plans are key to future success",
-      "link": "https://www.wigantoday.net/your-world/finance-business-plan-8760523",
-      "source": "Wigan Today",
-      "image": "https://www.wigantoday.net/jpim-static/image/ugc/2026/06/25/08/Trial_3_1782219211_93ec6c6e-0fdd9ffdf3d514b1.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-06-25 07:56:42",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Maharashtra government's proposal to abolish Hazur Sahib Act, huge anger in Sikh community",
-      "description": "There is intense anger in the Sikh community over the Maharashtra government's proposal to repeal the Hazur Sahib Act 1956 and implement a new law. Sikh leaders have accused the government of taking unilateral decisions without consultation, calling it interference in religious autonomy and traditions. The community has warned that religious rights will not be compromised.",
-      "link": "https://newsaddaindia.com/news/maharashtra-governments-proposal-to-abolish-hazur-",
-      "source": "Newsaddaindia",
-      "image": null,
-      "published": "2026-06-25 07:56:41",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "IATA Outlines Four Priorities to Strengthen the Aviation Supply Chain",
-      "description": "24 June 2026 (Madrid) \u2014 The International Air Transport Association (IATA) identified four priorities to address persistent failures in the aerospace supply chain at the... The post IATA Outlines Four Priorities to Strengthen the Aviation Supply Chain appeared first on ADU - Aviation Defence Universe .",
-      "link": "https://www.aviation-defence-universe.com/iata-outlines-four-priorities-to-strengthen-the-aviation-supply-chain/",
-      "source": "Adu - Aviation Defence Universe",
-      "image": "https://www.aviation-defence-universe.com/wp-content/uploads/2021/09/adu-logo.png",
-      "published": "2026-06-25 07:56:39",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Hyderabad scientists identify drug against pox viruses",
-      "description": "<p>HYDERABAD: Scientists at the Indian Institute of Chemical Technology (IICT) have identified an existing anti-cancer drug that could potentially work against dangerous pox viruses, including the virus responsible for lumpy skin disease (LSD) in cattle and mpox (formerly monkeypox) in humans. The researchers used artificial intelligence (AI) and computational analysis to identify Lapatinib, an already [...]<content:encoded><![CDATA[ <p data-start=\"726\" data-end=\"1033\"><strong data-start=\"726\" data-end=\"740\">HYDERABAD:</strong> Scientists at the Indian Institute of Chemical Technology (IICT) have identified an existing anti-cancer drug that could potentially work against dangerous pox viruses, including the virus responsible for lumpy skin disease (LSD) in cattle and mpox (formerly monkeypox) in humans.</p> <p data-start=\"1035\" data-end=\"1478\">The researchers used artificial intelligence (AI) and computational analysis to identify Lapatinib, an already approved cancer drug, as a promising antiviral candidate. The study suggests that the drug may prevent the virus from replicating inside host cells by blocking a key viral protein. The findings are based on computer-based modelling and require laboratory validation before any clinical use.</p> <h3 data-section-id=\"1az20kk\" data-start=\"1480\" data-end=\"1531\"><span role=\"text\"><strong data-start=\"1484\" data-end=\"1531\">Researchers screened FDA-approved medicines</strong></span></h3> <p data-start=\"1533\" data-end=\"1760\">The team analysed the structure of the LSGK protein using AI-based techniques and screened 88 US Food and Drug Administration (FDA)-approved kinase inhibitors to identify compounds capable of blocking the viral protein.</p> <p data-start=\"1762\" data-end=\"1893\">Among the drugs tested, Lapatinib showed the strongest potential to inhibit the target protein in the lumpy skin disease virus.</p> <h3 data-section-id=\"bvk26u\" data-start=\"1895\" data-end=\"1946\"><span role=\"text\"><strong data-start=\"1899\" data-end=\"1946\">Study may aid research on other pox viruses</strong></span></h3> <p data-start=\"1948\" data-end=\"2300\">The researchers said the findings could also support the development of treatments for other pox viruses, including mpox and smallpox-related viruses. They added that the next phase of the research will involve laboratory experiments to confirm the drug's antiviral activity before any further development.</p> <p data-start=\"2302\" data-end=\"2631\">The study was carried out by Amanchi Srinivas, Racha Vaishnavi, Anmol Sinha, Apara Chengalvala, Julie Gupta, Nalla Saikumar, Bhamidipati Pranav, and Yedla Poornachandra. It has been published in the international journal Computers in Biology and Medicine.</p> ]]>",
-      "link": "https://hyderabadmail.com/hyderabad-scientists-identify-drug-against-pox-viruses/",
-      "source": "Hyderabad Mail",
-      "image": "https://hyderabadmail.com/wp-content/uploads/2026/06/Drug.jpg",
-      "published": "2026-06-25 07:56:39",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Former England star slams divisive FIFA rule at World Cup: 'I\u2019m not very keen'",
-      "description": "Emile Heskey has slammed FIFA's mandatory hydration breaks at the World Cup, joining England head coach Thomas Tuchel in arguing that the controversial stoppages are changing the identity of soccer.",
-      "link": "https://sports.yahoo.com/articles/former-england-star-slams-divisive-075637025.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/b21775fc2e87bfc7fc50ac45623a9ab1e4a6f8174a1086d55d57e5d861019697/lightyear_networkapi/resizefit_w810_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fall_out_soccer_276%2Fc45c548a318665c2508c7116f20bb7e2",
-      "published": "2026-06-25 07:56:37",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Jewellery Firm Sues Donewell Insurance ... Over Alleged Failure To Honour $3m Burglary Claim",
-      "description": "ELOK & Sons Ltd, a Sekondi-Takoradi-based jewellery company, has dragged Donewell Insurance Ltd to the High Court in Sekondi, accusing the insurer of breaching a fire and burglary insurance contract following the theft of its jewellery stock. In a writ of summons and statement of claim filed before the High Court, the plaintiff alleges that [...] The post Jewellery Firm Sues Donewell Insurance ... Over Alleged Failure To Honour $3m Burglary Claim appeared first on The Ghanaian Chronicle .",
-      "link": "https://thechronicle.com.gh/jewellery-firm-sues-donewell-insurance-over-alleged-failure-to-honour-3m-burglary-claim/",
-      "source": "The Ghanaian Chronicle",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/06/Donwell-Insurance.jpg",
-      "published": "2026-06-25 07:56:35",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Rubio Heads to GCC Talks in Bahrain",
-      "description": "(MENAFN) US Secretary of State Marco Rubio is set to sit down with Gulf Cooperation Council foreign ministers in Bahrain on Thursday, capping a three-day regional tour with high-stakes consultations ...",
-      "link": "https://menafn.com/1111311169/Rubio-Heads-to-GCC-Talks-in-Bahrain",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-06-25 07:56:35",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "egypt",
-        "bahrain",
-        "united arab emirates",
-        "syria",
-        "jordan",
-        "turkey",
-        "saudi arabia",
-        "iran",
-        "israel",
-        "iraq",
-        "qatar",
-        "lebanon",
-        "kuwait"
-      ]
-    },
-    {
-      "title": "E-commerce job cuts signal S-E Asia\u2019s shift from scaling to deeper user engagement",
-      "description": "The sector is maturing in the region, with players pivoting from scale to profitable growth",
-      "link": "https://www.businesstimes.com.sg/companies-markets/e-commerce-job-cuts-signal-s-e-asias-shift-scaling-deeper-user-engagement",
-      "source": "The Business Times",
-      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/3868529b255966ffef1bb86bd509b85f6dd34122651a273cfaa67de21c5a31c5",
-      "published": "2026-06-25 07:56:34",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "32 dead, 700 injured as twin quakes rock Venezuela; emergency declared",
-      "description": "32 dead, 700 injured as twin quakes rock Venezuela; emergency declared",
-      "link": "https://www.nationalheraldindia.com/international/32-dead-700-injured-as-twin-quakes-rock-venezuela-emergency-declared",
-      "source": "National Herald",
-      "image": "https://cf-images.assettype.com/nationalherald/2026-06-25/kzqbidww/AP06252026000065B.jpg",
-      "published": "2026-06-25 07:56:32",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Fleet Management Champions \u2018Silent\u2019 Seafarers Navigating Rising Geopolitical Tensions",
-      "description": "Fleet Management Champions \u2018Silent\u2019 Seafarers Navigating Rising Geopolitical Tensions",
-      "link": "https://www.zawya.com/en/economy/global/fleet-management-champions-silent-seafarers-navigating-rising-geopolitical-tensions-qnmost26",
-      "source": "Zawya",
-      "image": "https://images.media-outreach.com/release.php/Thumb/1600x1135/780376/780376-Fleet-Management-Champion.jpeg",
-      "published": "2026-06-25 07:56:31",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "EVB Successfully Concludes Power2Drive Europe 2026 With Advanced EV Charging Solutions",
-      "description": null,
-      "link": "https://www.zawya.com/en/economy/global/evb-successfully-concludes-power2drive-europe-2026-with-advanced-ev-charging-solutions-s555imjs",
-      "source": "Zawya",
-      "image": null,
-      "published": "2026-06-25 07:56:30",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "Focusing on Compliance, Truoux Advances MAS License Application",
-      "description": "As a major financial and economic hub, Singapore has attracted a large number of enterprises and institutions to accelerate their presence in recent years. Truoux recently announced that it has further advanced the application process for the MAS license in Singapore, aiming to strengthen its competitiveness in mainstream international markets. Through in-depth research on local [...] The post Focusing on Compliance, Truoux Advances MAS License Application appeared first on Metaverse Post .",
-      "link": "https://mpost.io/focusing-on-compliance-truoux-advances-mas-license-application/",
-      "source": "Metaverse Post",
-      "image": "https://mpost.io/wp-content/uploads/image-371-2.jpg",
-      "published": "2026-06-25 07:56:30",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
       ]
     }
   ]

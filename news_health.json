@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Midi Health tackles hormone-driven skin aging with topical menopause line",
+      "description": "US-based virtual clinic, Midi Health, has expanded its prescription skin care line built for hormonal skin changes that start in a woman\u2019s 30s and accelerate through menopause. In the US, over a million women go through menopause each year, signifying a large market opportunity. Midlife hormonal shifts can impact the skin, leading to dryness, thinning, adult acne, and accelerated skin damage.",
+      "link": "https://www.personalcareinsights.com/news/midi-menopause-skincare-launch.html",
+      "source": "Www.personalcareinsights.com",
+      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639179781971046483AdobeStock_750650233.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Meat Type, Not Quantity, Tied to Cancer Death Risk in Koreans",
+      "description": "A Korean study of 147,562 adults found meat type and sex, not total meat intake, are tied to cancer death risk. Red meat lowered stomach cancer death risk in men, while organ meat raised it in women.",
+      "link": "https://en.sedaily.com/culture/2026/06/25/meat-type-not-quantity-tied-to-cancer-death-risk-in-koreans",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/legacy/2026/06/25/20060298_1.jpg",
+      "published": "2026-06-25 09:46:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "south korea"
+      ]
+    }
+  ]
 }

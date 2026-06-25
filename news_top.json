@@ -1,28 +1,29 @@
 {
   "status": "success",
-  "totalResults": 22,
+  "totalResults": 11,
   "results": [
     {
-      "title": "Uzbekistan Fans Organize Massive March in Houston",
-      "description": "More than 4,000 Uzbekistani football fans marched through the streets of Houston, Texas, to support their national team at the 2026 World Cup as part of a national tourism promotion campaign.",
-      "link": "https://www.uzdaily.uz/en/uzbekistan-fans-organize-massive-march-in-houston/",
-      "source": "Uzdaily",
-      "image": "https://www.uzdaily.uz/media/filer_public/bb/12/bb12bf31-ce3f-4d38-ac25-9370c4c30677/houstonfans_20260625065119.webp",
-      "published": "2026-06-25 07:57:00",
+      "title": "Historic attractions close as heatwave intensifies",
+      "description": "National Trust sites in Suffolk, including Ickworth House, will be closed on Thursday and Friday as the heatwave across the county intensifies.",
+      "link": "https://www.eadt.co.uk/news/26226248.national-trust-sites-closed-across-suffolk-amid-heatwave/",
+      "source": "East Anglian Daily Times",
+      "image": null,
+      "published": "2026-06-25 09:47:00",
       "category": [
-        "top"
+        "top",
+        "environment"
       ],
       "country": [
-        "uzbekistan"
+        "united kingdom"
       ]
     },
     {
-      "title": "Stokes County well represented at Senior Games",
-      "description": null,
-      "link": "https://www.thestokesnews.com/news/stokes-county-well-represented-at-senior-games/article_2572e97a-02bc-4ef5-8932-99d259503a8e.html",
-      "source": "Thestokesnews.com",
+      "title": "Early look at Virginia Tech's 2026 Week 10 opponent SMU",
+      "description": "The Mustangs notched wins over Clemson, Miami and Louisville in their second season in the ACC to prove they are capable of competing with the league\u2019s best on a weekly basis.",
+      "link": "https://godanriver.com/sports/college/football/virginia-tech-hokies/article_16fc52ac-0bf8-55e1-a553-8beba5ffc24b.html",
+      "source": "Danville",
       "image": null,
-      "published": "2026-06-25 07:57:00",
+      "published": "2026-06-25 09:47:00",
       "category": [
         "top",
         "sports"
@@ -32,302 +33,139 @@
       ]
     },
     {
-      "title": "Letter to the Editor: Hospital beds crisis can be solved",
-      "description": "Dear Sir, Thank you for Jonathan Bell\u2019s article in Tuesday\u2019s newspaper. While the story was excellent in many respects, I hope you will allow me the space to introduce or expand on some issues related...",
-      "link": "https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260625/lettter-to-the-editor-hospital-beds-crisis-can-be-solved/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=0476822a-8538-56e9-b983-3cb779b2dc8f&type=preview&width=600",
-      "published": "2026-06-25 07:57:00",
+      "title": "Japan clears 18 officials to handle economic security info",
+      "description": "The personnel were qualified under the security clearance assessment system based on the law, which was enacted in May 2024.",
+      "link": "https://www.japantimes.co.jp/news/2026/06/25/japan/politics/economic-security-clearance/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/25/548256.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "New Wichita business aims to bring more affordable housing to Kansas",
+      "description": "Signage at the new Prime Craftsman Homes Wichita location is put up. The company, which began in Tulsa, aims to build more affordable homes.",
+      "link": "https://www.kansas.com/news/local/article316250744.html",
+      "source": "Wichita Eagle",
+      "image": "https://www.kansas.com/public/latest-news/1lq5q5/picture316251019/alternates/FREE_1140/PCHW%20sign.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Midi Health tackles hormone-driven skin aging with topical menopause line",
+      "description": "US-based virtual clinic, Midi Health, has expanded its prescription skin care line built for hormonal skin changes that start in a woman\u2019s 30s and accelerate through menopause. In the US, over a million women go through menopause each year, signifying a large market opportunity. Midlife hormonal shifts can impact the skin, leading to dryness, thinning, adult acne, and accelerated skin damage.",
+      "link": "https://www.personalcareinsights.com/news/midi-menopause-skincare-launch.html",
+      "source": "Www.personalcareinsights.com",
+      "image": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/jpg/639179781971046483AdobeStock_750650233.jpg",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gold ETFs Face Fresh Outflows as Strong Dollar Pressures Bullion Prices",
+      "description": "Gold prices have fallen below 4,000 dollar per ounce for the first time since November 2025 as rising U.S. interest-rate expectations, a stronger dollar, and persistent ETF outflows pressure the bullion market. Major banks have lowered gold forecasts, although continued central bank buying remains a key source of long-term support.",
+      "link": "https://goldpricetoday.co.in/gold-etfs-face-growing-outflows-as-fed-rate-hike-bets-weigh-on-bullion-prices/",
+      "source": "Gold Price Today",
+      "image": null,
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Kriti Sanon Doesn't Need to Be the Next Deepika \u2014 She's Already Kriti",
+      "description": "Kriti Sanon's Cocktail 2 sparked \"next Deepika\" comparisons, but her 20-film career, business ventures, and global fashion presence tell a different, original story.",
+      "link": "https://news.jobaaj.com/news-updates/entertainment/kriti-sanon-doesn-t-need-to-be-the-next-deepika-she-s-already-kriti",
+      "source": "Jobaaj",
+      "image": "https://cdn.nishtyainfotech.com/content/stories/thumb/thumb6a3cf91b0da259.76588785.webp",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Impact Weather: Risk of thunderstorms for parts of Mass. on Friday",
+      "description": "StormTeam 5 is tracking Impact Weather across Massachusetts on Friday. Early-morning showers will give way to some midday sunshine. There will be a risk of thunderstorms during the afternoon and evening.",
+      "link": "https://www.wcvb.com/article/imapact-weather-risk-of-thunderstorms-june-26/71723260",
+      "source": "Wcvb",
+      "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dynamic/wcvb/Impact_Alert_Bullets.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "published": "2026-06-25 09:47:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Call 999 if you see wanted man with links to Ashford",
+      "description": "Anyone who sees him should contact police as soon as possible",
+      "link": "https://www.kentlive.news/news/kent-news/call-999-you-see-wanted-11029708",
+      "source": "Kent Live",
+      "image": "https://i2-prod.kentlive.news/incoming/article11029722.ece/ALTERNATES/s615/0_latest-groom.jpg",
+      "published": "2026-06-25 09:46:59",
       "category": [
         "top",
         "crime",
         "politics"
       ],
       "country": [
-        "bermuda"
-      ]
-    },
-    {
-      "title": "Court of Appeal strikes out complaint against union",
-      "description": "The Court of Appeal has upheld the decision to strike out allegations that the Bermuda Union of Teachers improperly suspended a member for speaking to The Royal Gazette. The Reverend Leonard Santucci ...",
-      "link": "https://www.royalgazette.com/court/news/article/20260625/court-of-appeal-strikes-out-complaint-against-union/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=A5B93ED9-EC88-46FB-BDD3-FF128C310F8B&type=preview&width=600",
-      "published": "2026-06-25 07:57:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "bermuda"
-      ]
-    },
-    {
-      "title": "Sabina Aliyeva: Strong audit system helps reduce corruption risks",
-      "description": "A strong audit system plays a vital role in protecting the legal interests of the state, economic entities, and citizens, ensuring efficient use of public resources, reducing corruption risks, and strengthening economic security, according to Azerbaijan's Human Rights Commissioner Sabina Aliyeva, Report informs.",
-      "link": "https://report.az/en/finance/sabina-aliyeva-strong-audit-system-helps-reduce-corruption-risks",
-      "source": "Report.az",
-      "image": null,
-      "published": "2026-06-25 07:56:57",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "Auto sales picked up in May on steadier fuel prices",
-      "description": "MANILA, Philippines \u2013 Philippine vehicle sales accelerated to 33,532 units in May, recovering from April\u2019s deceleration but remaining well below last year\u2019s pace as Filipinos continued to prioritize fuel efficiency. Sales rose 23.8 percent from 27,089 units in April but were still 15.7 percent lower than the 39,775 units sold in May 2025. READ: PH car sales drop 19% in April as Mideast crisis tempers demand Still, the Chamber of Automotive Manufacturers of the Philippines Inc. (Campi) said the stronger monthly performance had brightened the industry\u2019s outlook after concerns over war-driven oil price volatility dampened sentiment in recent months. \u201cThe [...]... Keep on reading: Auto sales picked up in May on steadier fuel prices",
-      "link": "https://business.inquirer.net/597176/auto-sales-picked-up-in-may-on-steadier-fuel-prices",
-      "source": "Inquirer",
-      "image": "https://business.inquirer.net/files/2024/10/CAMPI-logo-620x349.png",
-      "published": "2026-06-25 07:56:56",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Striding AI Launches with Plans to Build Next-Generation Robotic Foundation Systems for Physical AI Deployment",
-      "description": "Striding AI announced that it is developing a new generation of robotic foundation systems designed to accelerate the deployment of Physical AI in real-world environments. The company\u2019s approach focuses on building the foundational technologies required for robots to perceive, reason, act, and continuously improve through interaction with the physical world. By integrating advanced foundation models [...] The post Striding AI Launches with Plans to Build Next-Generation Robotic Foundation Systems for Physical AI Deployment appeared first on AiThority .",
-      "link": "https://aithority.com/robots/striding-ai-launches-with-plans-to-build-next-generation-robotic-foundation-systems-for-physical-ai-deployment/",
-      "source": "Aithority",
-      "image": "https://aithority.com/wp-content/uploads/2026/06/asadsdsd.jpg",
-      "published": "2026-06-25 07:56:55",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lirik Lagu Tyla - Is It Love",
-      "description": "Lirik Lagu Tyla - Is It Love. \"Is it love? Is it love if you don't cry, cry, cry?\" dst.",
-      "link": "https://manado.tribunnews.com/musik/1881793/lirik-lagu-tyla-is-it-love",
-      "source": "Tribunmanado.co.id",
-      "image": null,
-      "published": "2026-06-25 07:56:52",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "indonesia"
-      ]
-    },
-    {
-      "title": "France: DAZN extends Serie A rights",
-      "description": "DAZN, the sports streaming platform, has announced the renewal of its partnership with Lega Serie A in France for an additional three seasons. From the 2026-27 season through to the end of the 2028-29 season, DAZN will continue to be the exclusive home of every Serie A, Coppa Italia and Supercoppa Italiana match. This new [...]",
-      "link": "https://www.advanced-television.com/2026/06/25/france-dazn-extends-serie-a-rights/",
-      "source": "Advanced-television",
-      "image": "https://www.advanced-television.com/wp-content/uploads/2026/06/SerieAfootballDAZN.png",
-      "published": "2026-06-25 07:56:51",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Delhi Health Scam: Medical equipment deals worth Rs 600 crore now under ED scanner",
-      "description": "The ED has begun a money laundering probe into an alleged Rs 600\u2013650 crore Delhi health procurement scam, seeking tender, payment and vendor records linked to medical equipment and hospital supplies.",
-      "link": "https://www.dynamitenews.com/crime/delhi-health-scam-medical-equipment-deals-worth-rs-600-crore-now-under-ed-scanner",
-      "source": "Dynamite News",
-      "image": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/06/ED-Opens-Money-Laundering-Probe-Into-Rs-600-Crore-Delhi-Health-Procurement-Scam.-Image-Internet.jpg",
-      "published": "2026-06-25 07:56:44",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "KakaoBank to Acquire Marsten Capital for 24.1 Billion Won",
-      "description": "KakaoBank's board approved acquiring a 100% stake in Marsten Capital for 24.1 billion won, aiming to enter the auto financing market with an installment financing service next year.",
-      "link": "https://en.sedaily.com/finance/2026/06/25/kakaobank-to-acquire-marsten-capital-for-241-billion-won",
+      "title": "Meat Type, Not Quantity, Tied to Cancer Death Risk in Koreans",
+      "description": "A Korean study of 147,562 adults found meat type and sex, not total meat intake, are tied to cancer death risk. Red meat lowered stomach cancer death risk in men, while organ meat raised it in women.",
+      "link": "https://en.sedaily.com/culture/2026/06/25/meat-type-not-quantity-tied-to-cancer-death-risk-in-koreans",
       "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/06/25/20060180_1.jpg",
-      "published": "2026-06-25 07:56:44",
+      "image": "https://wimg.sedaily.com/news/legacy/2026/06/25/20060298_1.jpg",
+      "published": "2026-06-25 09:46:59",
       "category": [
         "top",
-        "business"
+        "health"
       ],
       "country": [
         "south korea"
       ]
     },
     {
-      "title": "Namibia\u2019s Best Brands: Building a Brand-Led Economy for the Future",
-      "description": "among the most powerful instruments of national reputation. For many people around the world, their first impression of a country comes not from a government policy or a tourism brochure, but from a product, service or company they encounter in the marketplace. When Windhoek Beer appears on shelves abroad, it carries the Namibian story with [...]",
-      "link": "https://observer24.com.na/namibias-best-brands-building-a-brand-led-economy-for-the-future/",
-      "source": "Observer24",
+      "title": "BIS Raids Another Surat Firm, Seizes 2,265 Electrical Appliances Without ISI Mark",
+      "description": "Surat: The Bureau of Indian Standards (BIS) has raided Dolphy India Private Limited, located at Kosmada, Surat, and seized 2,265 electronic products without the mandatory The post BIS Raids Another Surat Firm, Seizes 2,265 Electrical Appliances Without ISI Mark appeared first on DeshGujarat .",
+      "link": "https://deshgujarat.com/2026/06/25/bis-raids-another-surat-firm-seizes-2265-electrical-appliances-without-isi-mark/",
+      "source": "Deshgujarat",
       "image": null,
-      "published": "2026-06-25 07:56:43",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "namibia"
-      ]
-    },
-    {
-      "title": "Cool sanctuary open to community near Worksop town centre",
-      "description": "An air-conditioned hall in Worksop is offered to everyone as a place to escape the heat this week by the Bassetlaw Community and Voluntary Service.",
-      "link": "https://www.worksopguardian.co.uk/news/people/cool-sanctuary-open-to-community-near-worksop-town-centre-8760527",
-      "source": "Worksop Guardian",
-      "image": "https://www.worksopguardian.co.uk/webimg/b25lY21zOjNlM2VmNDIyLTNlYjAtNDk1ZC05OGMzLWZmMTA0YTk0YWU2ODo4ZGFmNDdiMC00NDg0LTRmYmItYjAwNy05ZDU4Y2NjYjRkMGY=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-06-25 07:56:42",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "In their latest Financial Matters column, Fairhurst Accountants explain the importance of business plans",
-      "description": "An explanation from Wigan\u2019s Fairhurst Accountants in their latest column as to why business plans are key to future success",
-      "link": "https://www.wigantoday.net/your-world/finance-business-plan-8760523",
-      "source": "Wigan Today",
-      "image": "https://www.wigantoday.net/jpim-static/image/ugc/2026/06/25/08/Trial_3_1782219211_93ec6c6e-0fdd9ffdf3d514b1.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-06-25 07:56:42",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Maharashtra government's proposal to abolish Hazur Sahib Act, huge anger in Sikh community",
-      "description": "There is intense anger in the Sikh community over the Maharashtra government's proposal to repeal the Hazur Sahib Act 1956 and implement a new law. Sikh leaders have accused the government of taking unilateral decisions without consultation, calling it interference in religious autonomy and traditions. The community has warned that religious rights will not be compromised.",
-      "link": "https://newsaddaindia.com/news/maharashtra-governments-proposal-to-abolish-hazur-",
-      "source": "Newsaddaindia",
-      "image": null,
-      "published": "2026-06-25 07:56:41",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "IATA Outlines Four Priorities to Strengthen the Aviation Supply Chain",
-      "description": "24 June 2026 (Madrid) \u2014 The International Air Transport Association (IATA) identified four priorities to address persistent failures in the aerospace supply chain at the... The post IATA Outlines Four Priorities to Strengthen the Aviation Supply Chain appeared first on ADU - Aviation Defence Universe .",
-      "link": "https://www.aviation-defence-universe.com/iata-outlines-four-priorities-to-strengthen-the-aviation-supply-chain/",
-      "source": "Adu - Aviation Defence Universe",
-      "image": "https://www.aviation-defence-universe.com/wp-content/uploads/2021/09/adu-logo.png",
-      "published": "2026-06-25 07:56:39",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Hyderabad scientists identify drug against pox viruses",
-      "description": "<p>HYDERABAD: Scientists at the Indian Institute of Chemical Technology (IICT) have identified an existing anti-cancer drug that could potentially work against dangerous pox viruses, including the virus responsible for lumpy skin disease (LSD) in cattle and mpox (formerly monkeypox) in humans. The researchers used artificial intelligence (AI) and computational analysis to identify Lapatinib, an already [...]<content:encoded><![CDATA[ <p data-start=\"726\" data-end=\"1033\"><strong data-start=\"726\" data-end=\"740\">HYDERABAD:</strong> Scientists at the Indian Institute of Chemical Technology (IICT) have identified an existing anti-cancer drug that could potentially work against dangerous pox viruses, including the virus responsible for lumpy skin disease (LSD) in cattle and mpox (formerly monkeypox) in humans.</p> <p data-start=\"1035\" data-end=\"1478\">The researchers used artificial intelligence (AI) and computational analysis to identify Lapatinib, an already approved cancer drug, as a promising antiviral candidate. The study suggests that the drug may prevent the virus from replicating inside host cells by blocking a key viral protein. The findings are based on computer-based modelling and require laboratory validation before any clinical use.</p> <h3 data-section-id=\"1az20kk\" data-start=\"1480\" data-end=\"1531\"><span role=\"text\"><strong data-start=\"1484\" data-end=\"1531\">Researchers screened FDA-approved medicines</strong></span></h3> <p data-start=\"1533\" data-end=\"1760\">The team analysed the structure of the LSGK protein using AI-based techniques and screened 88 US Food and Drug Administration (FDA)-approved kinase inhibitors to identify compounds capable of blocking the viral protein.</p> <p data-start=\"1762\" data-end=\"1893\">Among the drugs tested, Lapatinib showed the strongest potential to inhibit the target protein in the lumpy skin disease virus.</p> <h3 data-section-id=\"bvk26u\" data-start=\"1895\" data-end=\"1946\"><span role=\"text\"><strong data-start=\"1899\" data-end=\"1946\">Study may aid research on other pox viruses</strong></span></h3> <p data-start=\"1948\" data-end=\"2300\">The researchers said the findings could also support the development of treatments for other pox viruses, including mpox and smallpox-related viruses. They added that the next phase of the research will involve laboratory experiments to confirm the drug's antiviral activity before any further development.</p> <p data-start=\"2302\" data-end=\"2631\">The study was carried out by Amanchi Srinivas, Racha Vaishnavi, Anmol Sinha, Apara Chengalvala, Julie Gupta, Nalla Saikumar, Bhamidipati Pranav, and Yedla Poornachandra. It has been published in the international journal Computers in Biology and Medicine.</p> ]]>",
-      "link": "https://hyderabadmail.com/hyderabad-scientists-identify-drug-against-pox-viruses/",
-      "source": "Hyderabad Mail",
-      "image": "https://hyderabadmail.com/wp-content/uploads/2026/06/Drug.jpg",
-      "published": "2026-06-25 07:56:39",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Jewellery Firm Sues Donewell Insurance ... Over Alleged Failure To Honour $3m Burglary Claim",
-      "description": "ELOK & Sons Ltd, a Sekondi-Takoradi-based jewellery company, has dragged Donewell Insurance Ltd to the High Court in Sekondi, accusing the insurer of breaching a fire and burglary insurance contract following the theft of its jewellery stock. In a writ of summons and statement of claim filed before the High Court, the plaintiff alleges that [...] The post Jewellery Firm Sues Donewell Insurance ... Over Alleged Failure To Honour $3m Burglary Claim appeared first on The Ghanaian Chronicle .",
-      "link": "https://thechronicle.com.gh/jewellery-firm-sues-donewell-insurance-over-alleged-failure-to-honour-3m-burglary-claim/",
-      "source": "The Ghanaian Chronicle",
-      "image": "https://thechronicle.com.gh/wp-content/uploads/2026/06/Donwell-Insurance.jpg",
-      "published": "2026-06-25 07:56:35",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "E-commerce job cuts signal S-E Asia\u2019s shift from scaling to deeper user engagement",
-      "description": "The sector is maturing in the region, with players pivoting from scale to profitable growth",
-      "link": "https://www.businesstimes.com.sg/companies-markets/e-commerce-job-cuts-signal-s-e-asias-shift-scaling-deeper-user-engagement",
-      "source": "The Business Times",
-      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/3868529b255966ffef1bb86bd509b85f6dd34122651a273cfaa67de21c5a31c5",
-      "published": "2026-06-25 07:56:34",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "32 dead, 700 injured as twin quakes rock Venezuela; emergency declared",
-      "description": "32 dead, 700 injured as twin quakes rock Venezuela; emergency declared",
-      "link": "https://www.nationalheraldindia.com/international/32-dead-700-injured-as-twin-quakes-rock-venezuela-emergency-declared",
-      "source": "National Herald",
-      "image": "https://cf-images.assettype.com/nationalherald/2026-06-25/kzqbidww/AP06252026000065B.jpg",
-      "published": "2026-06-25 07:56:32",
+      "published": "2026-06-25 09:46:57",
       "category": [
         "top",
         "crime"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Fleet Management Champions \u2018Silent\u2019 Seafarers Navigating Rising Geopolitical Tensions",
-      "description": "Fleet Management Champions \u2018Silent\u2019 Seafarers Navigating Rising Geopolitical Tensions",
-      "link": "https://www.zawya.com/en/economy/global/fleet-management-champions-silent-seafarers-navigating-rising-geopolitical-tensions-qnmost26",
-      "source": "Zawya",
-      "image": "https://images.media-outreach.com/release.php/Thumb/1600x1135/780376/780376-Fleet-Management-Champion.jpeg",
-      "published": "2026-06-25 07:56:31",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "EVB Successfully Concludes Power2Drive Europe 2026 With Advanced EV Charging Solutions",
-      "description": null,
-      "link": "https://www.zawya.com/en/economy/global/evb-successfully-concludes-power2drive-europe-2026-with-advanced-ev-charging-solutions-s555imjs",
-      "source": "Zawya",
-      "image": null,
-      "published": "2026-06-25 07:56:30",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united arab emirates"
       ]
     }
   ]

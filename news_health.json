@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "And the votes are in...",
-      "description": null,
-      "link": "https://www.jamaicaobserver.com/2026/06/25/and-the-votes-are-in/",
-      "source": "Jamaica Observer",
-      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/06/36525f87a3928f00be794093e6bacf09-1024x683.jpg",
-      "published": "2026-06-25 05:10:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "gabon"
-      ]
-    },
-    {
-      "title": "Damien Center Observes National HIV Testing Day June 26",
-      "description": "INDIANAPOLIS \u2014 Damien Center, Indiana\u2019s oldest and largest organization leading the effort to prevent the spread of HIV, will join community partners across Indianapolis to recognize National HIV Testing Day on Friday, June 26, through a coordinated, multi-site testing and ... Continue reading \u2192",
-      "link": "http://weeklyview.net/2026/06/25/damien-center-observes-national-hiv-testing-day-june-26/",
-      "source": "Weeklyview",
-      "image": null,
-      "published": "2026-06-25 05:09:54",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

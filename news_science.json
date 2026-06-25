@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Quantum research drawing economic activity to upstate New York",
+      "description": "Leading researchers working on advancements in quantum science and technology arrived in Oneida County this week.",
+      "link": "http://www.spectrumlocalnews.com/nys/buffalo/news/2026/06/24/quantum-research-drawing-many-companies-to-mohawk-valley",
+      "source": "Spectrum News 1 | Buffalo",
+      "image": null,
+      "published": "2026-06-24 20:58:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

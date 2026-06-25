@@ -1,16 +1,44 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Olympic athletes to get cash grants from new $100M fund created by IOC",
-      "description": "LAUSANNE, Switzerland \u2014 It\u2019s not Olympic prize money officially, but it is a significant amount of cash going directly to athletes after a Summer or Winter Games.",
-      "link": "https://www.hastingstribune.com/olympic-athletes-to-get-cash-grants-from-new-100m-fund-created-by-ioc/article_8a61afc9-99a0-4516-ac8a-7ad5dc4d8a3c.html",
-      "source": "Hastingstribune",
-      "image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
-      "published": "2026-06-24 17:03:00",
+      "title": "Asi\u0301 reacciono\u0301 Shakira al triunfo de Colombia sobre Repu\u0301blica del Congo. Video",
+      "description": "La clasificacio\u0301n de la Seleccio\u0301n Colombia a la siguiente ronda del Mundial de 2026 tambie\u0301n desato\u0301 la euforia de la cantante barranquillera.",
+      "link": "https://www.elespectador.com/revista-vea/famosos/asi-reacciono-shakira-al-triunfo-de-colombia-sobre-republica-del-congo-video/",
+      "source": "Elespectador.com",
+      "image": "https://www.elespectador.com/resizer/v2/RKWUI5TN6FC47PQJS7U3KQH5PE.jpg?auth=e16bea46a650abf13592cf8e8436c858d6f5cddbd5161332ea8b77f3d6aaab09&smart=true",
+      "published": "2026-06-24 20:58:00",
       "category": [
         "top",
+        "sports"
+      ],
+      "country": [
+        "colombia"
+      ]
+    },
+    {
+      "title": "Canada falls 2-1 to Switzerland, advances to FIFA World Cup knockout round",
+      "description": "VANCOUVER - A historic moment was tinged with disappointment for Canada at the FIFA World Cup.",
+      "link": "https://www.therecord.com/sports/soccer/canada-falls-2-1-to-switzerland-advances-to-fifa-world-cup-knockout-round/article_95c955af-dce1-5bf1-b4b7-ed16b7f47a4f.html",
+      "source": "The Record",
+      "image": "https://bloximages.chicago2.vip.townnews.com/therecord.com/content/tncms/assets/v3/editorial/4/8a/48a1fb5b-7540-56eb-a18e-0e569b75c32a/6a3c468f3f43a.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-24 20:57:55",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "EXEC: Wall Street Eyes Benefits and Risks in Nike\u2019s CFO Changeover",
+      "description": "Analysts were mixed on Nike Inc.'s news that CFO Matt Friend will step down as the company's EVP and CFO, and succeeded in August by Pfizer CFO David Denton. Several analysts also now believe Nike\u2019s Investor Day set for this fall, will be postponed.",
+      "link": "https://sgbonline.com/exec-wall-street-eyes-benefits-and-risks-in-nikes-cfo-changeover/",
+      "source": "Sgb Online",
+      "image": "https://sgbonline.com/wp-content/uploads/2025/12/Nike2.jpg",
+      "published": "2026-06-24 20:57:55",
+      "category": [
         "sports"
       ],
       "country": [
@@ -18,18 +46,18 @@
       ]
     },
     {
-      "title": "Nice hail Kojo Peprah Oppong after crucial goal-line clearance on World Cup debut",
-      "description": "French club OGC Nice have praised Ghana defender Kojo Peprah Oppong after his memorable FIFA World Cup debut against England.The 21-year-old was introduced in the 87th minute of Ghana\u2019s goalless draw with England, replacing Marvin Senaya as the Black Stars looked to preserve a valuable point in Group L.Despite his late arrival, Peprah Oppong made [...] The post Nice hail Kojo Peprah Oppong after crucial goal-line clearance on World Cup debut appeared first on Ghana News Online .",
-      "link": "https://ghananewss.com/nice-hail-kojo-peprah-oppong-after-crucial-goal-line-clearance-on-world-cup-debut/",
-      "source": "Ghana News Online",
-      "image": "https://cms.ghanasoccernet.com/wp-content/uploads/2026/06/729768983_18413201890194372_5672818978948709798_n.jpg",
-      "published": "2026-06-24 17:03:00",
+      "title": "CP NewsAlert: Canada into FIFA World Cup knockout round despite loss to Switzerland",
+      "description": "VANCOUVER - Canada is through to the knockout round of the FIFA World Cup despite falling 2-1 to Switzerland in their final game of the tournament\u2019s group stage on Wednesday.",
+      "link": "https://www.winnipegfreepress.com/sports/soccer/2026/06/24/canada-falls-2-1-to-switzerland-advances-to-fifa-world-cup-knockout-round",
+      "source": "Winnipeg Free Press",
+      "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/06/6a3c4273b5b9e6d61afb4ec5jpeg.jpg?w=1600",
+      "published": "2026-06-24 20:57:55",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "ghana"
+        "canada"
       ]
     }
   ]

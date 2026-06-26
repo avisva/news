@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Love Island USA contestant removed from villa after past racial slur controversy",
-      "description": "This is a breaking news story and is being updated live",
-      "link": "https://www.themirror.com/entertainment/breaking-love-island-alannah-removed-1906774",
-      "source": "The Mirror Us",
-      "image": "https://i2-prod.themirror.com/incoming/article1904156.ece/ALTERNATES/s615/1_alannah-love-island-usajpeg.jpg",
-      "published": "2026-06-26 01:08:47",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Political affiliations must not shield unethical practices in hospitals: Shama Obaed",
+      "description": "The state minister noted that the proposed FY27 national budget places the highest priority on the health sector",
+      "link": "https://www.tbsnews.net/bangladesh/political-affiliations-must-not-shield-unethical-practices-hospitals-shama-obaed-1472866",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/06/26/img_5965.jpeg",
+      "published": "2026-06-26 08:45:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Global trade in cocaine, methamphetamine is booming, UN drug report shows",
+      "description": "\u2013 The global trade in illicit drugs is booming, with cocaine production \u200cand seizures of methamphetamine at an all-time high, a United Nations report showed on Friday, warning of a surge in new drugs filling a gap left by the collapse in heroin supply. Cocaine production surged to roughly 4,100 metric tons of pure \u200bproduct [...]",
+      "link": "https://cde.news/global-trade-in-cocaine-methamphetamine-is-booming-un-drug-report-shows/",
+      "source": "Cde News",
+      "image": "https://i0.wp.com/cde.news/wp-content/uploads/2021/07/drugs.jpeg?fit=1200%2C800&ssl=1",
+      "published": "2026-06-26 08:45:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "malta"
+      ]
+    }
+  ]
 }

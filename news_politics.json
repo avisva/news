@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Idiom of the day: \u201cGive someone the cold shoulder\u201d \u2014 why people choose silence over words",
-      "description": "In life, silence can sometimes carry more meaning than words. The idiom \u201cgive someone the cold shoulder\u201d describes the act of deliberately ignoring or showing indifference toward someone, often after a disagreement or misunderstanding. Instead of addressing issues directly, a person uses silence and avoidance as a form of emotional expression. This behavior can be found in friendships, families, and workplaces, where it often leads to confusion and emotional distance.",
-      "link": "https://economictimes.indiatimes.com/news/international/us/idiom-of-the-day-give-someone-the-cold-shoulder-why-people-choose-silence-over-words/articleshow/131996696.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-131996696,resizemode-4,width-1200,height-900,imgsize-2155505,overlay-economictimes/articleshow.jpg",
-      "published": "2026-06-25 11:15:55",
+      "title": "Waco-area news briefs: Waco Police collecting school supplies through July 18",
+      "description": null,
+      "link": "https://wacotrib.com/news/local/article_d96a648f-1a30-4573-a227-886195f598c1.html",
+      "source": "Waco Tribune-herald",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/d/96/d96a648f-1a30-4573-a227-886195f598c1/6a3d82847f7e3.preview.jpg?crop=1726%2C906%2C0%2C231&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-06-25 15:30:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Panola County Invited to Show Their Patriotism in \"Chalk of the Town\" Contest",
+      "description": "The Panola County Chamber of Commerce is inviting residents of all ages to celebrate America's 250th birthday with a colorful new community contest called \"Chalk of the Town.\"",
+      "link": "https://kdhnews.com/news/texas/panola-county-invited-to-show-their-patriotism-in-chalk-of-the-town-contest/article_4fb9b081-6700-5af5-88d3-cc22e2b7bea8.html",
+      "source": "Killeen Daily Herald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/6/5d/65d82257-07fe-5c38-b56d-5e94ca1f9d97/6a3d4632bd268.image.png?crop=700%2C368%2C0%2C16",
+      "published": "2026-06-25 15:30:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Astronomers find biggest super-puff planets yet that are lighter than cotton candy",
-      "description": "The two so-called super-puffs are the size of Jupiter.",
-      "link": "https://www.dailybulletin.com/2026/06/25/cotton-candy-planets/",
-      "source": "Inland Valley Daily Bulletin",
-      "image": "https://www.dailybulletin.com/wp-content/uploads/2026/06/Cotton_Candy_Planets_22496.jpg?w=1600&resize=1600,900",
-      "published": "2026-06-25 11:16:00",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

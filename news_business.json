@@ -1,34 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Jessie-May's Day 2 Randoms - Eurobike 2026 - Pinkbike",
-      "description": "Jessie-May's Day 2 Randoms - Eurobike 2026 Pinkbike",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50dzlHd0hFcjctNzRrbVNXZVo4bzliVGFmNmUzekxWUk5VM3hPMFVoWEZsNGRxQm1lRk5feEZSdnVHRENEOVBCRFFZX2FCbnQ2TjFKcl9DblJvUExvbVZkU2E3LVEyRTc3MnNIV3BFYkh1bk1qSnhZRklCX2gwYm8?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-25 15:30:00",
+      "title": "NATO to unveil billions in defense deals at Ankara summit: Rutte",
+      "description": "NATO will announce tens of billions of dollars in new defense contracts at next month's summit in Tu\u0308rkiye's capital, Ankara, Secretary-General Mark Rutte said Thursday, a...",
+      "link": "https://www.dailysabah.com/business/defense/nato-to-unveil-billions-in-defense-deals-at-ankara-summit-rutte",
+      "source": "Daily Sabah",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/06/25/447913.jpg",
+      "published": "2026-06-25 19:49:00",
       "category": [
         "business"
       ],
       "country": [
-        "canada"
+        "turkey"
       ]
     },
     {
-      "title": "Cold fury over hot rates rises",
-      "description": "It was icy cold in Oamaru yesterday but the indignation was red hot as Waitaki District Council ratepayers rallied to protest the amount that their rates are set to rise by.",
-      "link": "https://www.odt.co.nz/opinion/editorial/cold-fury-over-hot-rates-rises",
-      "source": "Otago Daily Times",
-      "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/06/wdc25tavendale_1.jpg?itok=3GDZ6lF6",
-      "published": "2026-06-25 15:30:00",
+      "title": "Split vote edges Mobile airport toward major consulting contract",
+      "description": "The Mobile Airport Authority could hire a specialized consulting firm to help smooth the opening of its new international terminal. And it could soon put properties on the market to help pay down debt on the new airport.",
+      "link": "https://www.al.com/news/mobile/2026/06/split-vote-edges-mobile-airport-toward-major-consulting-contract.html",
+      "source": "Alabama Local News",
+      "image": "https://www.al.com/resizer/v2/DIK6H75EIFHVVKIGGYCS4TR6W4.JPG?auth=0cb03d4b95196032a103bea45ed5b1f263d762e4f9f7f69fc7b508e6e8ca9b2a&smart=true&height=1200",
+      "published": "2026-06-25 19:48:44",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "new zealand"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How can Twinsburg schools afford $1.7M Tiger Stadium project despite budget cuts, levy failures?",
+      "description": "Twinsburg school officials explained why a $1.7 million stadium renovation continues despite budget cuts, while approving new fees and administrative reductions.",
+      "link": "https://www.cleveland.com/summit-county/2026/06/how-can-twinsburg-schools-afford-17m-tiger-stadium-project-despite-budget-cuts-levy-failures.html",
+      "source": "Cleveland",
+      "image": "https://www.cleveland.com/resizer/v2/OODMPG33T5B57IRFWEJTCUB4Z4.jpg?auth=22b6bacb3930bc2c0fcdbb92c72d2a82d6f1b817be14191db6ec2ea6981b68ee&smart=true&height=1200",
+      "published": "2026-06-25 19:48:37",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

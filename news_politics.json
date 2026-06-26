@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Former executive sues Meta over attempts to 'silence' her memoir, 'Careless People'",
-      "description": "A former Meta executive whose memoir, \u201cCareless People,\u201d provides an explosive insider account of her time at the social media giant, has sued the company for attempting to \u201csilence\u201d her. The...",
-      "link": "https://www.houstonchronicle.com/business/article/former-executive-sues-meta-over-attempts-to-22321425.php",
-      "source": "Houston Chronicle",
-      "image": "https://s.hdnux.com/photos/01/66/53/20/31110152/3/square_large.jpg",
-      "published": "2026-06-25 22:48:58",
+      "title": "\u2018Forever interwoven within our Springfield story\u2019: Hundreds rally in support of Haitians after TPS decision",
+      "description": "Hundreds of people gathered on the Springfield City Hall Plaza in a massive show of support for the Haitian community Thursday evening, June 25, after a U.S. Supreme Court decision",
+      "link": "https://www.springfieldnewssun.com/local/forever-interwoven-within-our-springfield-story-hundreds-rally-in-support-of-haitians-after-tps-decision/article_370f8754-52b0-57e0-bc70-00bef3f2b06f.html",
+      "source": "Springfield-news-sun",
+      "image": "https://bloximages.chicago2.vip.townnews.com/springfieldnewssun.com/content/tncms/assets/v3/editorial/d/fb/dfbb34fe-a3a7-52b3-a9da-908ddcea6a2e/6a3dccc6aa7fe.image.jpg",
+      "published": "2026-06-26 01:09:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Haitians in the region could face deportation after Supreme Court ruling",
+      "description": "The court ruled the Trump administration could move forward to end temporary protected status, a program which allowed area Haitians to live and work here.",
+      "link": "https://theday.com/news/903935/haitians-in-the-region-could-face-deportation-after-supreme-court-ruling/",
+      "source": "The Day",
+      "image": "https://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/0/766/789/766789_original",
+      "published": "2026-06-26 01:08:44",
       "category": [
         "top",
         "politics"

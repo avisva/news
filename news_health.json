@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Pair complete extreme challenges for young father with terminal diagnosis",
+      "description": "Two friends have completed extreme physical challenges to raise vital funds and help a young father with cancer.",
+      "link": "https://www.dorsetecho.co.uk/news/26224853.weymouth-women-take-challenges-help-friend-cancer/",
+      "source": "Dorset Echo",
+      "image": null,
+      "published": "2026-06-26 01:09:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

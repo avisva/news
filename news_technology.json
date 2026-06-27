@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "SpaceX eyes U.S. mobile market with new Starlink service",
+      "description": "SpaceX (SPCX.O), opens new tab has told investors it plans to launch a Starlink mobile service for U.S. \u200bconsumers, the Financial Times reported on Friday, in \u200ca move that could allow the Elon Musk-led company to compete directly with Verizon (VZ.N), opens new tab, AT&T (T.N), opens new tab and T-Mobile (TMUS.O), opens new tab. [...]",
+      "link": "https://www.fbcnews.com.fj/world/spacex-eyes-u-s-mobile-market-with-new-starlink-service/",
+      "source": "Fbc News",
+      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2026/06/starlink.png",
+      "published": "2026-06-27 02:26:54",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "fiji"
+      ]
+    }
+  ]
 }

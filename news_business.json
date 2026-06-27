@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Bromsgrove MP calls for welfare cuts to boost defence spending",
+      "description": "BROMSGROVE'S MP has backed calls to cut welfare spending in favour of boosting defence funding",
+      "link": "https://www.bromsgroveadvertiser.co.uk/news/26232065.bromsgrove-mp-backs-call-increase-defence-funding/",
+      "source": "Bromsgrove Advertiser",
+      "image": "https://www.bromsgroveadvertiser.co.uk/resources/images/18862087/",
+      "published": "2026-06-27 04:03:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

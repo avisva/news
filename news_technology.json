@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "SpaceX eyes U.S. mobile market with new Starlink service",
-      "description": "SpaceX (SPCX.O), opens new tab has told investors it plans to launch a Starlink mobile service for U.S. \u200bconsumers, the Financial Times reported on Friday, in \u200ca move that could allow the Elon Musk-led company to compete directly with Verizon (VZ.N), opens new tab, AT&T (T.N), opens new tab and T-Mobile (TMUS.O), opens new tab. [...]",
-      "link": "https://www.fbcnews.com.fj/world/spacex-eyes-u-s-mobile-market-with-new-starlink-service/",
-      "source": "Fbc News",
-      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2026/06/starlink.png",
-      "published": "2026-06-27 02:26:54",
+      "title": "Ducati enters 250 motocross class with a rev-happy 15,000 RPM monster",
+      "description": "Just a year after the company's first foray into motocross bikes, Ducati has unveiled the Desmo250 MX, a fire-breathing featherweight built to dominate tracks with possibly the highest revving engine in its class. Continue Reading Category: Motorcycles , Transport Tags: Ducati , Dirt Bikes , Off-road",
+      "link": "https://newatlas.com/motorcycles/ducati-desmo250-mx-motocross-motorcycle/",
+      "source": "New Atlas",
+      "image": "https://assets.newatlas.com/dims4/default/2a126a6/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2Fc1%2F17262bbc410db5b60de1c3d72b0a%2Fthe-desmo250mx-can-rev-up-to-15-000-rpm-arguably-higher-than-anything-in-the-250-and-450-motocross-classes.jpg",
+      "published": "2026-06-27 04:03:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "India\u2019s first-ever hydrogen train nears launch; Key safety trial conducted in Haryana",
+      "description": "The development marks another step towards the launch of Indian Railways\u2019 hydrogen fuel-cell-based train project on the Jind-Sonipat section of Northern Railway.",
+      "link": "https://www.financialexpress.com/business/railways-indias-first-ever-hydrogen-train-nears-launch-key-safety-trial-conducted-in-haryana-4277644/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/06/HydrogenTrain-trial.jpg",
+      "published": "2026-06-27 04:02:48",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "fiji"
+        "india"
       ]
     }
   ]

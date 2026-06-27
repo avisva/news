@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "SOP celebrates Gawai with first-ever bowling-themed Family Day",
-      "description": "MIRI: Sarawak Oil Palms (SOP) marked this year\u2019s Gawai celebration with a fresh twist, bringing together employees for its first bowling themed \u2018Kasi Jadi Gawai\u2019 Family Day at Megalanes East, Bintang Megamall. The annual celebration, which drew staff from the company\u2019s various headquarters in Miri, aimed to strengthen workplace bonds while celebrating Sarawak\u2019s rich cultural [...]",
-      "link": "https://www.sarawaktribune.com/sop-celebrates-gawai-with-first-ever-bowling-themed-family-day/",
-      "source": "Sarawak Tribune",
-      "image": "https://www.sarawaktribune.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-27-at-11.36.39-AM.jpeg",
-      "published": "2026-06-27 04:02:56",
+      "title": "\ud83d\udea8 Club World Cup: Spain could lose two stars to injury!",
+      "description": "Disaster for Spain!What should have been a victory has turned into a nightmare. As soon as the final whistle blew after Spain\u2019s win over Uruguay on matchday three of Group H, all eyes were on Yeremy...",
+      "link": "https://sports.yahoo.com/articles/club-world-cup-spain-could-060100243.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/CF_OqDCmHgiwSq151FLkUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/onefootball_articles_802/2992b580d2a2ec053f340a736dfe77f9",
+      "published": "2026-06-27 06:01:00",
+      "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Morocco footballer Hakimi appeals rape trial order",
+      "description": "An appeals court confirmed on June 19 that the Moroccan national team and Paris Saint-Germain player would stand trial in criminal court over the alleged rape of a woman in 2023, an accusation he has repeatedly denied.",
+      "link": "https://citizen.digital/article/morocco-footballer-hakimi-appeals-rape-trial-order-n385333",
+      "source": "Citizen Digital",
+      "image": "https://www.citizen.digital/logo.png",
+      "published": "2026-06-27 06:01:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "malaysia"
+        "kenya"
+      ]
+    },
+    {
+      "title": "Where Shrewsbury Town fans will remember the club\u2019s new striker from",
+      "description": "Striker Josh Davison joined Shrewsbury Town on Friday.",
+      "link": "https://www.shropshirestar.com/sport/football/shrewsbury-town-fc/where-shrewsbury-town-fans-will-remember-the-clubs-new-striker-from-8764793",
+      "source": "Shropshire Star",
+      "image": "https://www.shropshirestar.com/jpim-static/image/2026/06/26/13/15/Josh-Davison-in-action-for-Tranmere-Rovers.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-06-27 06:00:59",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

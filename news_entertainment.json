@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Chronicler of quirky Britishness at it's best, Martin Parr's last photos finally on show",
+      "description": "Last major commission by the legendary snapper, famed for his off-beat shots of ordinary Britons, goes on display at spiritual home of photography",
+      "link": "https://www.express.co.uk/news/uk/2222168/martin-parr-national-trust-exhibition-lacock",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2222168_1.jpg",
+      "published": "2026-06-27 06:01:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Where Copenhagen leads, the food world still follows - The Guardian",
+      "description": "Where Copenhagen leads, the food world still follows The Guardian State of the Plate: Of Old Kings and New Guards Mpls.St.Paul Magazine Op-Ed: Kitchen Abuse is a Food Policy Failure. The Solution Might Start in Culinary School. NYC Food Policy Center Noma Is Returning, But Copenhagen\u2019s Food Scene Has Moved On Forbes",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3lKT0phczd0TGVxX21ZWjhFNGl6TGxtMjJTa01SdmtUUGJEeHE5bGpTTEQzRnU2d2VCQU9UejNMWUpHeTk3NzFpLXU2QzU0Z0wzWlF2ZVB6U25rcEU0RUV4UTZkMVFxbVlGT0ZQeTQzUmRIYUN6Q1RfZ2FiXy1QSkloY0lnSXNncVhZVmNMRFlNWEV4b045eVBJV2I?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-27 06:01:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018Heartwarming\u2019 movie hailed a \u2018must watch\u2019 is perfect for Clarkson\u2019s Farm fans",
+      "description": "The murder mystery movie starring Hugh Jackman that's arriving has received high praise online",
+      "link": "https://www.walesonline.co.uk/whats-on/film-news/heartwarming-movie-hailed-must-watch-34171650",
+      "source": "Wales Online",
+      "image": "https://i2-prod.walesonline.co.uk/lifestyle/tv/article34171648.ece/ALTERNATES/s615/0_A-man-strokes-a-sheeps-head-in-a-field.jpg",
+      "published": "2026-06-27 06:01:00",
+      "category": [
+        "entertainment",
+        "breaking"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

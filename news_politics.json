@@ -1,5 +1,67 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Farmers plea to government 'What is ag policy?' almost two years after election",
+      "description": "Nearly two years after the election, and with the country about to see its seventh Prime Minister in 10 years, many farmers are still asking a simple question: what is the government's agricultural policy?",
+      "link": "https://www.edp24.co.uk/news/26222635.farmers-still-waiting-clarity-governments-ag-policy/",
+      "source": "Edp24",
+      "image": null,
+      "published": "2026-06-27 08:06:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Punjab Chief Minister Maryam Nawaz Sharif deserves praise for maintaining peace and order throughout the province and for making excellent arrangements during Muharram. Khawaja Rameez Hassan",
+      "description": "There is no room for sectarianism and extremism in Pakistan. Secretary General \u201cPeace for All\u201d Forum",
+      "link": "https://www.urdupoint.com/en/pakistan/punjab-chief-minister-maryam-nawaz-sharif-des-2210215.html",
+      "source": "Urdupoint",
+      "image": "https://photo-cdn.urdupoint.com/media/2026/06/_2/740x404/pic_1782547550.jpg",
+      "published": "2026-06-27 08:05:51",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Lots of measures have qualified for California\u2019s November ballot. Here\u2019s what they would do",
+      "description": "LOS ANGELES \u2014 While control of Congress and the race to succeed Gov. Gavin Newsom will draw much of the attention, California voters also will decide the fate of 14 ballot measures in November, the most in any statewide election...",
+      "link": "https://www.hastingstribune.com/ap/agriculture/lots-of-measures-have-qualified-for-california-s-november-ballot-here-s-what-they-would/article_54ea9d12-b15e-503d-88fe-549272be96d8.html",
+      "source": "Hastingstribune",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+      "published": "2026-06-27 08:05:46",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "California\u2019s \u2018first partner\u2019 targeted by Trump, Gov. Gavin Newsom says. Here is what we know about her career, finances",
+      "description": "WASHINGTON \u2014 Jennifer Siebel Newsom has spent more than a decade cultivating an identity distinct from her husband, Gov. Gavin Newsom, as an active documentary filmmaker and gender equity activist with her own organizations, staff and salary.",
+      "link": "https://www.hastingstribune.com/ap/agriculture/california-s-first-partner-targeted-by-trump-gov-gavin-newsom-says-here-is-what-we/article_0783f066-95ed-521d-b347-8050d5eabfb9.html",
+      "source": "Hastingstribune",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+      "published": "2026-06-27 08:05:44",
+      "category": [
+        "top",
+        "business",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

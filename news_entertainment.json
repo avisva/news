@@ -1,20 +1,47 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Summer '26: Blockbuster mashup of fun in the valley",
-      "description": "CONWAY \u2014 Everyone knows the country is celebrating our 250th birthday come July 4. But that leaves the rest of the summer to account for. So read on, because Mount Washington Valley has lots in store over the next several...",
-      "link": "https://www.conwaydailysun.com/news/local/summer-26-blockbuster-mashup-of-fun-in-the-valley/article_3aba95f0-4bb1-4886-b7c5-8cb1466c3b69.html",
-      "source": "Conwaydailysun",
-      "image": "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/f/32/f320728c-f445-4769-9434-2a37e0398ec8/6a3ed5e942e1a.image.jpg?resize=750%2C500",
-      "published": "2026-06-26 19:47:00",
+      "title": "Kwaito Lager tells his story with release of long-awaited album",
+      "description": "Zambezi-based musician Kwaito Lager, real name Given Chilinda, is preparing to release his long-awaited album, \u2018Writing My Story\u2019, on 2 July.Speaking to tjil recently, Chilinda exp...",
+      "link": "https://www.namibiansun.com/art-and-entertainment/kwaito-lager-tells-his-story-with-release-of-long-awaited-album-nmh012767-1-15663",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/6/25/4efe03_639179809815527287.jpeg",
+      "published": "2026-06-26 22:05:00",
       "category": [
-        "tourism",
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "namibia"
+      ]
+    },
+    {
+      "title": "Gogglebox fans all say the same thing after Chris Packham drops Andy Burnham bombshell",
+      "description": "Gogglebox viewers reacted to Andy Burnham possibly replacing Keir Starmer.",
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2222422/celebrity-gogglebox-fans-all-say-andy-burnham",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/2222422_1.jpg",
+      "published": "2026-06-26 22:05:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Love Island 2026 Casa Amor full cast from basketball star to influencer gunning for Lorenzo",
+      "description": "Love Island Casa Amor 2026 has arrived with 12 new bombshells ready to shake up the villa - meet the full cast",
+      "link": "https://www.dailystar.co.uk/tv/love-island-2026-casa-amor-37355108",
+      "source": "Dailystar Co Uk",
+      "image": "https://i2-prod.dailystar.co.uk/tv/article37355107.ece/ALTERNATES/s615/0_The-Casa-girls-have-arrived.jpg",
+      "published": "2026-06-26 22:04:50",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Rubio announces peace deal between Israel, Lebanon",
-      "description": "Secretary of State Marco Rubio on Friday announced that Israel and Lebanon reached a framework that could bring security to the region after months of war.",
-      "link": "https://www.washingtontimes.com/news/2026/jun/26/marco-rubio-announces-peace-deal-israel-lebanon/",
-      "source": "The Washington Times",
-      "image": "https://twt-thumbs.washtimes.com/media/image/2026/06/26/Israel_Lebanon__8_55_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
-      "published": "2026-06-26 19:47:00",
+      "title": "Suicide took my sister, we buried the answers with her",
+      "description": "I was still a young boy when my sister took her own life, far too young to understand what had happened or why someone who had laughed with us, shared meals with us and carried so...",
+      "link": "https://www.namibiansun.com/social-issues/suicide-took-my-sister-we-buried-the-answers-with-her-nmh012820-1-15715",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/6/26/6e0477_639180638798967707.jpg",
+      "published": "2026-06-26 22:05:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "namibia"
+      ]
+    },
+    {
+      "title": "If NYC delegates were around in 1959",
+      "description": "Imagine this.It is the late 1960s. Somewhere in exile, young Namibians have gathered in absolute secrecy to plan the liberation struggle. The enemy has helicopters. The apartheid r...",
+      "link": "https://www.namibiansun.com/opinion/if-nyc-delegates-were-around-in-1959-nmh012823-1-15717",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/6/26/a06c86_639180668525770088.jpg",
+      "published": "2026-06-26 22:05:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "namibia"
+      ]
+    },
+    {
+      "title": "US conducts strikes on Iran hours after Trump's 'foolish violation' remark over Hormuz attack",
+      "description": "US News: The US military on Friday carried out fresh strikes on Iran, hours after President Donald Trump accused Tehran of a 'foolish violation' of the ceasefi.",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-military-conducts-strikes-on-iran-hours-after-trumps-foolish-violation-warning-over-hormuz-attack/articleshow/132024813.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132024819/132024819.jpg",
+      "published": "2026-06-26 22:04:48",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

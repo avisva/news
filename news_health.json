@@ -1,5 +1,43 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Gujarat CM Launches Statewide Pulse Polio Campaign Targeting Over 83 Lakh Children",
+      "description": "(MENAFN - IANS) Gandhinagar, June 28 (IANS) Chief Minister Bhupendra Patel on Sunday launched Gujarat's statewide Pulse Polio immunisation campaign from Gandhinagar by administering oral polio ...",
+      "link": "https://menafn.com/1111322381/Gujarat-CM-Launches-Statewide-Pulse-Polio-Campaign-Targeting-Over-83-Lakh-Children",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-06-28 03:15:41",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "bahrain",
+        "india",
+        "saudi arabia",
+        "kuwait",
+        "jordan",
+        "pakistan",
+        "united arab emirates",
+        "qatar",
+        "egypt"
+      ]
+    },
+    {
+      "title": "TTD holds pulse polio awareness march at Tirumala",
+      "description": "Tirumala: A pulse polio awareness rally was conducted at Tirumala on Saturday to sensitize locals and visiting pilgrims about the mass immunization drive starting from Sunday.Led by Dr Kalyani of the...",
+      "link": "https://www.thehansindia.com/andhra-pradesh/ttd-holds-pulse-polio-awareness-march-at-tirumala-1091227",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/06/28/1670722-ttd.webp",
+      "published": "2026-06-28 03:15:37",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Supergirl Star Helen Slater Supports Milly Alcock at DCU Film Screening",
+      "description": "Helen Slater attends the new Supergirl movie 42 years after her own feature film first hit theaters.",
+      "link": "https://www.cbr.com/helen-slater-supports-supergirl-milly-alcock/",
+      "source": "Cbr",
+      "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/06/helen-slater-in-supergirl.jpg?w=1600&h=900&fit=crop",
+      "published": "2026-06-27 20:19:44",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

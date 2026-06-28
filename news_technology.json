@@ -1,35 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Netflix now needs users to link email addresses to individual profiles on shared accounts: Here's what's changing",
-      "description": "Netflix is now requiring individual email addresses for each profile on shared accounts, allowing independent sign-ins and personalized settings. This move, which began rolling out on June 15, 2026, aims to enhance user control and viewing experiences. While intended to streamline access, the update has sparked user concerns regarding privacy and potential marketing communications. This follows Netflix's earlier crackdown on password sharing.",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/netflix-now-needs-users-to-link-email-addresses-to-individual-profiles-on-shared-accounts-heres-whats-changing/articleshow/132047053.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132047055/132047055.jpg",
-      "published": "2026-06-28 07:15:42",
+      "title": "I rode for 6 hours on Amtrak's coach and business class. Here's how they compared.",
+      "description": "I splurged for business class on an Amtrak ride from New York to Vermont. Here's what my $80 upgrade got me.",
+      "link": "https://www.businessinsider.com/comparing-amtrak-coach-business-class-upgrade-not-worth-2026-6",
+      "source": "Insider",
+      "image": "https://i.insider.com/6a3d954ea25092c74cc9f73e?width=1200&format=jpeg",
+      "published": "2026-06-28 08:58:01",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Google restricts Meta\u2019s access to Gemini AI capacity amid computing constraints",
-      "description": "New Delhi, June 28 (IANS) Google has imposed limits on Meta\u2019s use of its Gemini artificial intelligence models after the social media giant sought more computing capacity than the company was able to provide. The restrictions, which reportedly came into effect around March, prevented Google from meeting the full AI computing capacity requested by Meta, according to Financial Times report. The shortfall is said to have disrupted and delayed some of Meta\u2019s internal artificial intelligence projects, highlighting the growing strain on computing resources across the technology industry. Meta has been among the largest customers for Google\u2019s AI services, and its exceptionally high demand for Gemini models made it particularly vulnerable to capacity shortages, the Financial Times reported. The constraints have prompted Meta to encourage employees to use AI resources more efficiently, including reducing consumption of AI tokens, the units used to measure and manage the usage of generative AI models. The report added that several other Google customers have also faced limitations in accessing computing resources, although the impact on them has been less severe than on Meta. The development underscores the increasing pressure on major technology companies as they race to expand artificial intelligence capabilities. Despite billions of dollars being invested in data centres and advanced chips, demand for AI computing power continues to outpace available supply. Google itself has acknowledged the challenges posed by capacity constraints. During the company\u2019s first-quarter earnings, Alphabet reported that Google Cloud revenue rose to $20 billion. However, Chief Executive Officer Sundar Pichai said limitations in computing capacity had prevented even stronger growth and contributed to a significant increase in the cloud division\u2019s backlog. The reported restrictions on Meta\u2019s access to Gemini models illustrate how shortages of AI infrastructure are emerging as a key bottleneck for the technology industry, even as companies accelerate investments in generative AI and cloud computing. --IANS pk",
-      "link": "https://www.thehawk.in/news/science/google-restricts-metas-access-to-gemini-ai-capacity-amid-computing-constraints",
-      "source": "Thehawk",
-      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/afbb1c30-74e4-484c-a068-648353ad056d/202606283842778-feb887d1-ada4-4599-84d0-87524def6a56.jpg",
-      "published": "2026-06-28 07:15:39",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

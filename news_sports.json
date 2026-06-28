@@ -1,37 +1,64 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Port Alberni adds last-minute watch party for Canada vs. South Africa FIFA playoff match",
-      "description": "Watch the World Cup elimination game on the giant screen at the KCC on Sunday, June 28",
-      "link": "https://albernivalleynews.com/2026/06/27/port-alberni-adds-last-minute-watch-party-for-canada-vs-south-africa-fifa-playoff-match/",
-      "source": "Port Alberni Valley News",
-      "image": "https://albernivalleynews.com/wp-content/uploads/sites/12/2026/06/42677141_web1_260701-AVN-FIFA-extra-Cda-watch-party-FIFA-Alberni_1.jpg",
-      "published": "2026-06-28 05:07:00",
+      "title": "Six-Goal Thriller Sends Algeria, Austria Through",
+      "description": "Riyad Mahrez starred with two goals as Algeria and Austria played out a thrilling 3-3 draw to secure FIFA World Cup 2026 Round of 32 qualification from Group J.",
+      "link": "https://kolkatatoday.com/mahrez-algeria-austria-round-of-32-world-cup-2026",
+      "source": "Kolkata Today",
+      "image": "https://kolkatatoday.com/uploads/2026/06/c2f0ae750fd0d776-large.png",
+      "published": "2026-06-28 07:16:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "canada"
+        "india"
       ]
     },
     {
-      "title": "England labour past Panama and dreamland for DR Congo | World Cup Daily",
-      "description": "Max Rushden is joined by Barry Glendenning , Mark Langdon, Osasu Obayiuwana and Jacob Steinberg as England top their group with a somewhat unconvincing 2-0 victory against Panama Continue reading...",
-      "link": "https://www.theguardian.com/football/video/2026/jun/28/england-labour-past-panama-and-dreamland-for-dr-congo-world-cup-daily",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/8e22a86dc2114c411a46c3218da52255e92e90fb/517_0_2585_2068/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=50e02b1f1d1a432e2e804da0bdd32283",
-      "published": "2026-06-28 05:06:53",
+      "title": "Why Vaibhav Sooryavanshi Should Not Be Picked For 2nd India vs Ireland T20I Too, Ex-Star Explains",
+      "description": "Vaibhav Sooryavanshi did not play the 1st India vs Ireland T20I.",
+      "link": "https://sports.ndtv.com/cricket/why-vaibhav-sooryavanshi-should-not-be-picked-for-2nd-india-vs-ireland-t20i-too-ex-star-explains-11696569",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-06/s7hb2otc_vaibhav-sooryavanshi_625x300_26_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-06-28 07:15:53",
       "category": [
         "sports"
       ],
       "country": [
-        "united kingdom",
-        "canada",
-        "singapore",
         "india"
+      ]
+    },
+    {
+      "title": "Why Vaibhav Sooryavanshi Should Not Be Picked For 2nd T20I Too",
+      "description": "Amid the clamour over Vaibhav Sooryavanshi's likely inclusion, India lost to Ireland in the first T20I of a two-match series",
+      "link": "https://sports.ndtv.com/ireland-vs-india-2026/why-vaibhav-sooryavanshi-should-not-be-picked-for-2nd-india-vs-ireland-t20i-too-ex-star-explains-11696569",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-06/s7hb2otc_vaibhav-sooryavanshi_625x300_26_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-06-28 07:15:51",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Japan, Australia keep Asia's World Cup hopes alive",
+      "description": "by sportswriters Cao Jianjie and Li Jia MIAMI, United States, June 27 (Xinhua) -- The final whistle on the World Cup group stage brought mixed emotions for Asian football. Japan and Australia marched on, but seven of the continent's representatives were heading home. Japan was the standout performer, finishing second in Group F after an unbeaten campaign against the Netherlands, Tunisia and Sweden.",
+      "link": "http://www.australianherald.com/news/279152790/japan-australia-keep-asia-world-cup-hopes-alive",
+      "source": "Australian Herald",
+      "image": null,
+      "published": "2026-06-28 07:15:42",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

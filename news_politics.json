@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Nadhim Zahawi: Integration has too often been treated as optional with terrible results",
+      "description": "Britons believe that we welcome people on the basis they act in accordance to British customs, laws and beliefs.",
+      "link": "https://www.express.co.uk/news/politics/2222575/integration-treated-optional",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/139/590x/2222575_1.jpg",
+      "published": "2026-06-28 07:16:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "MEA Warns Pilgrims Not to Undertake Kailash Yatra Without Valid Documents",
+      "description": "New Delhi, Jun 28: The Ministry of External Affairs (MEA) has advised Indian citizens not to undertake the Kailash Mansarovar Yatra without first obtaining all mandatory travel documents required for the pilgrimage, following reports of several pilgrims being stranded in Nepal. The advisory comes after the Ministry received requests for assistance from Indian pilgrims who [...]",
+      "link": "https://thenorthlines.com/mea-warns-pilgrims-not-to-undertake-kailash-yatra-without-valid-documents/",
+      "source": "The Northlines",
+      "image": "https://thenorthlines.com/wp-content/uploads/2025/04/Kailash.jpg",
+      "published": "2026-06-28 07:15:53",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Private school teachers in TN\u2019s Tenkasi claim salary exploitation; seek govt intervention",
+      "description": "Tenkasi, June 28 : Teachers working in private schools across Tenkasi district have appealed to the Tamil Nadu government to ensure they receive their rightful salaries, alleging that several school managements are manipulating payroll records by reporting inflated salaries to the authorities while paying teachers only a fraction of the declared amount. The teachers have [...]",
+      "link": "https://theshillongtimes.com/2026/06/28/private-school-teachers-in-tns-tenkasi-claim-salary-exploitation-seek-govt-intervention/",
+      "source": "Theshillongtimes",
+      "image": null,
+      "published": "2026-06-28 07:15:43",
+      "category": [
+        "top",
+        "education",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

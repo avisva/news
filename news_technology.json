@@ -1,35 +1,19 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Claude Tag Brings Ambient AI to Slack: Admins Have Until August 3 to Migrate",
-      "description": "Enterprise AI Slack agent Claude Tag launched June 23 and replaces the old Claude in Slack app, which Anthropic auto-migrates on August 3. Admins have 36 days to configure channel-scoped memory, ambient mode, and agent identity controls before losing the choice of how Claude operates in their workspace.",
-      "link": "https://www.techtimes.com/articles/319206/20260627/claude-tag-brings-ambient-ai-slack-admins-have-until-august-3-migrate.htm",
-      "source": "Techtimes",
-      "image": "https://d.techtimes.com/en/full/467302/claude-tag.jpg",
-      "published": "2026-06-28 03:15:53",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "description": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm...",
+      "link": "https://www.swapupdate.in/miasma-malware-targets-npm-packages-and-github-actions-in-supply-chain-attack/",
+      "source": "Swapupdate",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1700-e365/Miasma.jpg",
+      "published": "2026-06-28 05:06:59",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "AI\u2019s Great Contradiction: Can Technology Save Humanity While Consuming the Resources We Depend On?",
-      "description": "Artificial intelligence is increasingly being heralded as humanity\u2019s next great problem-solving tool. It promises breakthroughs in medicine, education, scientific research, climate modelling, and logistics. Governments, technology companies and investors are pouring billions into AI infrastructure in the belief that it will help solve some of the world\u2019s most pressing challenges. Yet hidden within this technological [...] The post AI\u2019s Great Contradiction: Can Technology Save Humanity While Consuming the Resources We Depend On? appeared first on Moguldom .",
-      "link": "https://moguldom.com/465791/ais-great-contradiction-can-technology-save-humanity-while-consuming-the-resources-we-depend-on/",
-      "source": "Afk Insider",
-      "image": "https://moguldom.com/wp-content/uploads/2026/06/b_me-pedestrians-400811-800x420.jpg",
-      "published": "2026-06-28 03:15:30",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "south africa"
+        "india"
       ]
     }
   ]

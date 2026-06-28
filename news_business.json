@@ -1,18 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse",
-      "description": null,
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-panicking-keep-buying-shares-230500939.html",
-      "source": "Yahoo Finance",
+      "title": "American Airlines flight aborts takeoff in Miami after business jet enters the same runway - CNN",
+      "description": "American Airlines flight aborts takeoff in Miami after business jet enters the same runway CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGNHREtvaTJOODVqOC1SNUVLMDZ2N0RvNUZ3UUNyeXFxYVF0bTZqZ1BDQVNkWmN5THoxcEk4OTBDLXhDeG1JZkQzSWVOcGhpTjIxQ2N4VmxwQ3B4MnF5RXo5ZWd5OVNEY1ZEQmZQV1BjWUp1U1ZzNTlvSUxPUk8tVEJNaGtva00?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-06-27 23:05:00",
+      "published": "2026-06-28 01:42:00",
       "category": [
         "business"
       ],
       "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Acorn Finance Reviews and Ratings",
+      "description": "Acorn Finance is a loan marketplace, not a direct lender. It connects you with more than 30 lending partners so you can compare home improvement loan offers in one place. Borrowers can shop personal loans and home improvement loans up to $100,000. Contractors can offer financing to customers with no dealer fees. This Acorn Finance",
+      "link": "https://usa.inquirer.net/201874/acorn-finance-reviews",
+      "source": "Inquirer",
+      "image": "https://usa.inquirer.net/files/2026/06/acorn-finance-logo.png",
+      "published": "2026-06-28 01:41:38",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada",
         "united states of america"
       ]
     }

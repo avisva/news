@@ -1,58 +1,70 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "New Xbox Game Pass games may be on hold if Microsoft freezes publishing deals - Notebookcheck",
-      "description": "New Xbox Game Pass games may be on hold if Microsoft freezes publishing deals Notebookcheck Xbox Has Reportedly Suspended Adding Third-Party Games On Game Pass, Insider Claims Tech4Gamers It\u2019s the End of an Era for Xbox Game Pass, According to a New Report comicbook.com Ori director says Game Pass \u2018could\u2019ve worked\u2019 if Xbox didn\u2019t \u2018slop out mediocre content like a factory\u2019 Video Games Chronicle Ori creator declares Xbox Game Pass a mediocre slop factory that's 'a little like Communism' pcgamer.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnpwcGk0ajQwZE50YXJUbDZCSEh2MjhabkZOVWI2dFpUSXBIcktzYnNjeWVneHdPSWlNT0ZoNDZXYjVUNnQ0NFlwdjFtNDFPSEdfTHJwT3oteDhoek5ZaDVXNzlSUV96UVQ0LUZxVHhiNTlkZmhuN3d0c0ZTUWk4aU55ajlsRkViUVBDc1BTMFRLQVJUYkxzeFh4eWF1cjRkN0NYeTk4eWFFbW1wX01QVkdRakpUakN4aHByMmpjWQ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-29 02:49:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "South Korean president to unveil massive AI and chip investment drive",
-      "description": "The announcement would mark Lee Jae Myung's boldest \u200cpush yet \u200cto align South Korea's AI and chip ambitions with his pledge to the country's narrow \u200bregional disparities.",
-      "link": "https://www.japantimes.co.jp/business/2026/06/29/tech/south-korea-ai-chip-investment/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/29/548705.jpg",
-      "published": "2026-06-29 02:49:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "japan"
-      ]
-    },
-    {
-      "title": "\u2018Automation is reshaping, not shrinking talent\u2019 Q&A with John Dawber, VP, GBS Novo Nordisk",
-      "description": "In a conversation with Sudhir Chowdhary, Dawber explains how the company\u2019s Bengaluru-based global capability hub is harnessing AI, data and digital technologies to transform operations, strengthen the pharmaceutical value chain and drive global innovation. He also highlights India\u2019s expanding role in developing technology-led solutions and creating impact across the organisation. Excerpts:",
-      "link": "https://telecomlive.in/web/2026/06/29/automation-is-reshaping-not-shrinking-talent-qa-with-john-dawber-vp-gbs-novo-nordisk/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-06-29 02:48:58",
+      "title": "Australia to double potential fines for Facebook and Instagram over child social media accounts",
+      "description": "MELBOURNE: Australia plans to double potential fines for social media platforms, including Facebook and Instagram, that fail to prevent Australian children from holding accounts as critics argue the",
+      "link": "https://www.channelnewsasia.com/world/australia-social-media-children-double-fines-facebook-instagram-6217996",
+      "source": "Channel Newsasia",
+      "image": "https://dam.mediacorp.sg/image/upload/s--klUsZFIc--/c_crop,h_450,w_800,x_0,y_41/c_fill,g_auto,h_338,w_600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-05-22T053448Z_2_LYNXMPEM4L086_RTROPTP_3_AUSTRALIA-SOCIALMEDIA.JPG?itok=hFwJ8LfU",
+      "published": "2026-06-29 05:34:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
+        "myanmar",
+        "japan",
+        "thailand",
+        "hong kong",
+        "indonesia",
+        "israel",
+        "bhutan",
+        "vietnam",
+        "bahrain",
+        "singapore",
+        "china",
+        "sri lanka",
+        "south korea",
+        "bangladesh",
+        "north korea",
+        "mongolia",
+        "india",
+        "nepal",
+        "kuwait",
+        "pakistan",
+        "turkey",
+        "philippines",
+        "taiwan",
+        "cambodia",
+        "malaysia",
+        "afghanistan",
+        "maldives"
       ]
     },
     {
-      "title": "India, China see top firms lose market dominance in AI lag",
-      "description": "Unlike Taiwan and South Korea, India, China and Hong Kong lack dominant AI champions, leading to lower concentration among their biggest listed companies.",
-      "link": "https://www.thehindubusinessline.com/markets/india-china-see-top-firms-lose-market-dominance-in-ai-lag/article71159916.ece",
-      "source": "The Hindu - Business Line",
-      "image": "https://bl-i.thgim.com/public/incoming/s9y595/article71159932.ece/alternates/LANDSCAPE_1200/iStock-2251786934.jpg",
-      "published": "2026-06-29 02:48:52",
+      "title": "Sycophantic chatbots and the harms that build over many chats",
+      "description": "People use AI chatbots for company, advice, and emotional support, and these systems answer in ways meant to hold their attention. Researchers describe the resulting risks as affective safety, a class of harm that exists because humans are emotional beings... Read more \u2192 The post Sycophantic chatbots and the harms that build over many chats appeared first on IT Security News .",
+      "link": "https://www.itsecuritynews.info/sycophantic-chatbots-and-the-harms-that-build-over-many-chats/",
+      "source": "It Security News",
+      "image": null,
+      "published": "2026-06-29 05:33:58",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What Apple Just Did Changes Everything for the Mac",
+      "description": "Apple has recently implemented price increases across its product lineup, impacting MacBooks, desktop Macs, iPads, the Vision Pro, and home devices such as the Apple TV and HomePod. These adjustments are largely attributed to rising production costs and significant hikes in memory and storage upgrade prices. As a result, many consumers are now reassessing the [...] The post What Apple Just Did Changes Everything for the Mac appeared first on Geeky Gadgets .",
+      "link": "https://www.geeky-gadgets.com/why-apple-devices-cost-more/",
+      "source": "Geeky-gadgets",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/expensive-apple-devices.jpg",
+      "published": "2026-06-29 05:33:23",
       "category": [
         "technology"
       ],

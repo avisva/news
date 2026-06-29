@@ -1,76 +1,162 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 11,
   "results": [
     {
-      "title": "Bengaluru techie earning \u20b945 lakh says he feels broke every month: \u2018I don\u2019t know where my money is going\u2019",
-      "description": "A Bengaluru software consultant claimed that despite earning \u20b945 lakh per annum, he feels broke at the end of the month.",
-      "link": "https://www.hindustantimes.com/trending/bengaluru-techie-earning-45-lakh-says-he-feels-broke-every-month-i-don-t-know-where-my-money-is-going-101782700914417.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/1600x900/logo/vdfbfvc_1782470011359_1782470017750_0fcbf24f-c671-4043-824c-1000dce5292a_1782701201640_3969d95f-919b-48eb-9f83-6c3d35a0740b.png",
-      "published": "2026-06-29 02:49:00",
+      "title": "Ever wondered why so many South Indians have curly hair? Science has answer",
+      "description": "Have you ever wondered why many South Indians naturally have curly hair? Discover the scientific reasons behind this unique trait, including genetics, climate, evolution, and hair biology, while separating myths from facts in this easy-to-understand guide.",
+      "link": "https://www.news9live.com/lifestyle/beauty-tips/why-do-south-indians-have-curly-hair-2984562",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/06/South-Indian-girls.png",
+      "published": "2026-06-29 05:34:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Stranger Than Heaven\u2019s Story is \u201cVery Extensive,\u201d But Features Fewer Play Spots Than Yakuza",
+      "description": "The maps are also \"roughly the same scale\" as the Yakuza series, though each has a distinct size, says RGG Studio's Masayoshi Yokoyama.",
+      "link": "https://gamingbolt.com/stranger-than-heavens-story-is-very-extensive-but-features-fewer-play-spots-than-yakuza",
+      "source": "Gamingbolt",
+      "image": "https://gamingbolt.com/wp-content/uploads/2026/05/Stranger-Than-Heaven.jpg",
+      "published": "2026-06-29 05:33:54",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Ali Fazal recalls being 'scared' to say 'yes to Mirzapur, calls the film 'national level experiment'",
+      "description": "Ali Fazal has opened up about the uncertainty he faced before signing Mirzapur, revealing why he initially hesitated to join the hit series. The actor also shared his excitement about Mirzapur: The Movie, calling it a first-of-its-kind experiment in India.",
+      "link": "https://www.moneycontrol.com/entertainment/ali-fazal-recalls-being-scared-to-say-yes-to-mirzapur-calls-the-film-national-level-experiment-article-13960968.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260528062955_Ali-Fazal-talks-about-Mirzapur-the-film.png",
+      "published": "2026-06-29 05:33:53",
       "category": [
         "top",
-        "business"
+        "entertainment"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "\u2018Automation is reshaping, not shrinking talent\u2019 Q&A with John Dawber, VP, GBS Novo Nordisk",
-      "description": "In a conversation with Sudhir Chowdhary, Dawber explains how the company\u2019s Bengaluru-based global capability hub is harnessing AI, data and digital technologies to transform operations, strengthen the pharmaceutical value chain and drive global innovation. He also highlights India\u2019s expanding role in developing technology-led solutions and creating impact across the organisation. Excerpts:",
-      "link": "https://telecomlive.in/web/2026/06/29/automation-is-reshaping-not-shrinking-talent-qa-with-john-dawber-vp-gbs-novo-nordisk/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-06-29 02:48:58",
+      "title": "Muse Wow Us Into Submission With Their 10th Album",
+      "description": "The Wow! Signal, the U.K. neo-prog band's latest, is a predictably heavy lift The post Muse Wow Us Into Submission With Their 10th Album appeared first on Rolling Stone India .",
+      "link": "https://rollingstoneindia.com/muse-wow-us-into-submission-with-their-10th-album/",
+      "source": "Rolling Stone India",
+      "image": "https://rollingstoneindia.com/wp-content/uploads/2026/06/muse-album-review.jpg",
+      "published": "2026-06-29 05:33:49",
       "category": [
-        "top",
-        "technology"
+        "entertainment"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Centre targets $100 bn textile exports by 2030, says Union Minister Textiles Giriraj Singh",
-      "description": "Addressing the media in Tirupur after interacting with representatives of the knitwear industry, Singh said Tamil Nadu had been assigned an export target of US$ 21 billion, of which Tiruppur alone is expected to contribute US$ 11.5 billion.",
-      "link": "https://www.dtnext.in/news/tamilnadu/centre-targets-100-bn-textile-exports-by-2030-says-union-minister-textiles-giriraj-singh",
-      "source": "Dt Next",
-      "image": "https://media.assettype.com/dt-next/2026-06-29/kat9mmru/Giriraj.jpg",
-      "published": "2026-06-29 02:48:55",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "India, China see top firms lose market dominance in AI lag",
-      "description": "Unlike Taiwan and South Korea, India, China and Hong Kong lack dominant AI champions, leading to lower concentration among their biggest listed companies.",
-      "link": "https://www.thehindubusinessline.com/markets/india-china-see-top-firms-lose-market-dominance-in-ai-lag/article71159916.ece",
-      "source": "The Hindu - Business Line",
-      "image": "https://bl-i.thgim.com/public/incoming/s9y595/article71159932.ece/alternates/LANDSCAPE_1200/iStock-2251786934.jpg",
-      "published": "2026-06-29 02:48:52",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Speeding hyva truck hits scooter and drags it for nearly 1 Kilometer in Bhuabneswar",
-      "description": "Bhubaneswar: A speeding Hyva truck hit a scooty and dragged it for nearly 1 Kilometer near the Laxmisagar-Jharpada bridge in Bhubaneswar. The scooter driver have sustained seriously injuries in the accident and has been admitted to Capital Hospital. According to sources, the scooter driver was moving under the Jharpada bridge when the hyva truck hit [...] The post Speeding hyva truck hits scooter and drags it for nearly 1 Kilometer in Bhuabneswar appeared first on KalingaTV .",
-      "link": "https://kalingatv.com/odisha/speeding-hyva-truck-hits-scooter/",
-      "source": "Kalinga Tv",
-      "image": "https://kalingatv.com/wp-content/uploads/2026/06/hyva-hits-scooter.webp",
-      "published": "2026-06-29 02:48:44",
+      "title": "Fire erupts on 21st floor of Noida high-rise; CM Yogi orders swift rescue measures",
+      "description": "Noida, June 29 (IANS) A major fire broke out on Monday at a high-rise residential apartment in Noida's Sector 119, triggering panic among residents and prompting a large-scale emergency response. The blaze was reported on the 21st floor of the Aranya Society, following which multiple fire tenders were rushed to the spot to bring the situation under control. According to officials, nearly six fire engines were deployed immediately after the fire department received the alert. Firefighters launched an intensive operation to contain the flames and prevent the blaze from spreading to other parts of the building. Preliminary findings suggest that the fire may have been triggered by an explosion in an air-conditioner unit. However, the exact cause will be established only after a detailed investigation. Rescue teams carried out searches across the affected floor, and initial reports indicated that no residents were trapped inside the building. Fire personnel continued cooling operations while ensuring the safety of occupants. Uttar Pradesh Chief Minister Yogi Adityanath took cognisance of the incident and directed senior officials to oversee relief and rescue efforts on priority. He instructed the administration to reach the site without delay, closely monitor the situation, and ensure that emergency operations are carried out efficiently. The Chief Minister also ordered officials to make adequate medical arrangements for anyone injured in the incident and stressed the need for vigilance at every level until the operation is completed. The Noida fire comes amid a series of recent fire incidents in residential complexes. Earlier this month, fires were reported from two residential buildings in Noida, one in Sector 74 and another in Sector 52. In a separate incident on Monday morning, a fire also broke out in a four-storey residential building in Delhi's Keshav Puram area. Fire department personnel rescued three people trapped on the terrace, including two women and a man. Officials confirmed that all three were brought to safety without sustaining any injuries. --IANS jk/dpb",
+      "link": "https://www.thehawk.in/news/india/fire-erupts-on-21st-floor-of-noida-high-rise-cm-yogi-orders-swift-rescue-measures",
+      "source": "Thehawk",
+      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/5b877112-95be-4eaa-8a89-4fcdc94b9aeb/202606293843901-29e830c6-09f5-4652-b53c-d175c5ec2d6b.jpeg",
+      "published": "2026-06-29 05:33:47",
       "category": [
         "top",
         "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Sigachi blast victims await full compensation after one year",
+      "description": "<p>PATANCHERU: Nearly a year after the fatal explosion at Sigachi Industries in Pashamylaram of Sangareddy district, the families of workers killed in the accident are still awaiting the full compensation promised to them. The spray dryer explosion on June 30, 2025, claimed the lives of 54 workers on duty. Several bodies were charred beyond recognition, [...]<content:encoded><![CDATA[ <p data-start=\"483\" data-end=\"508\"><strong data-start=\"483\" data-end=\"508\">PATANCHERU: </strong>Nearly a year after the fatal explosion at Sigachi Industries in Pashamylaram of Sangareddy district, the families of workers killed in the accident are still awaiting the full compensation promised to them.</p> <p data-start=\"925\" data-end=\"1184\">The spray dryer explosion on June 30, 2025, claimed the lives of 54 workers on duty. Several bodies were charred beyond recognition, forcing authorities to rely on DNA tests to identify the victims. For some families, no mortal remains were recovered.</p> <p data-start=\"1186\" data-end=\"1497\">Chief Minister Revanth Reddy, who visited the accident site soon after the blast, had said the victims' families would receive compensation through the company. The management later announced \u20b91 crore for each deceased worker. However, families say they received only \u20b925 lakh each from the company.</p> <p data-start=\"1499\" data-end=\"1824\">According to the victims' families, the company also counted statutory benefits such as Employees' State Insurance (ESI), Employees' Provident Fund (EPF) and insurance payouts as part of the compensation package. Some families received around \u20b912 lakh through these statutory schemes in addition to the company's payment.</p> <p data-start=\"1826\" data-end=\"2049\">Families of 11 victims, including eight whose bodies were not recovered, are yet to receive the \u20b92 lakh ex gratia announced by the Union government and \u20b91 lakh from the State government, according to the report.</p> <p data-start=\"2051\" data-end=\"2391\">The accident deprived many households of their only earning member, leaving families struggling to meet daily expenses and continue their children's education. Victims and survivors have repeatedly staged protests outside the Sangareddy Collectorate over the past year, demanding complete compensation, but say they have received no relief.</p> <p data-start=\"2393\" data-end=\"2510\">Several injured workers continue to undergo treatment and say they are finding it difficult to bear medical expenses.</p> <p data-start=\"2512\" data-end=\"2909\">The High Court has questioned the company over differences in compensation paid to victims' families and has also directed the State government to explain its stand. The court added the Employees' Provident Fund Organisation (EPFO) Regional Commissioner, the Telangana State Legal Services Authority, and the Sangareddy District Legal Services Authority as respondents in the case.</p> <p data-start=\"2911\" data-end=\"3226\">The public interest litigation was filed by retired scientist Kalapala Baburao, seeking full compensation for victims and a faster investigation into the accident. Court-appointed <em data-start=\"3095\" data-end=\"3110\">amicus curiae</em> Dominic Fernandez informed the court that disparities existed in compensation, including EPFO-related payments.</p> <p data-start=\"3228\" data-end=\"3359\">The company's counsel told the court that \u20b945.61 crore had already been paid and that \u20b96.05 crore remained to be disbursed.</p> <p data-start=\"3361\" data-end=\"3551\">Even after one year, authorities have not finalised the reasons behind the explosion or fixed responsibility for the alleged lapses that led to one of Telangana's worst industrial accidents.</p> <p data-start=\"3553\" data-end=\"3672\">The Bharat Rashtra Samithi (BRS) has announced that it will organise a memorial meeting for the victims on Tuesday.</p> <h3 data-section-id=\"1yt5xfn\" data-start=\"3674\" data-end=\"3730\"><span role=\"text\"><strong data-start=\"3678\" data-end=\"3730\">Victim's wife questions compensation calculation</strong></span></h3> <p data-start=\"3732\" data-end=\"4036\">\"We were living in a rented house and had shifted only a day before the accident. Our belongings were still unpacked. My husband called from work and told me not to worry, saying we would arrange everything after he returned. He mentioned that the factory was unusually hot before the explosion occurred.</p> <p data-start=\"4038\" data-end=\"4356\">\"The company is showing my husband's own ESI, EPF and insurance benefits as part of its compensation. How can the money he earned through his work be counted as compensation from the company? How can I educate my children and run the family with \u20b925 lakh?\" said Hemantha, wife of deceased worker Nageswara Rao.</p> <h3 data-section-id=\"1uv84n5\" data-start=\"4358\" data-end=\"4419\"><span role=\"text\"><strong data-start=\"4362\" data-end=\"4419\">Survivor says treatment has become a financial burden</strong></span></h3> <p data-start=\"4421\" data-end=\"5006\">\"I survived by chance, but I have been living through agony for the past year because of severe burn injuries. I was working as a chemist in the Quality Control section when the explosion occurred. Thick smoke and flames spread quickly, and workers were crying for help. Before we realised what had happened, many had lost their lives. Fellow workers helped me escape, but I suffered serious burns to my face and hand. I have been undergoing treatment ever since, and it has become difficult to meet hospital expenses because of financial hardship,\" said Sushma, an injured worker.</p> ]]>",
+      "link": "https://hyderabadmail.com/sigachi-blast-victims-await-full-compensation-one-year-later/",
+      "source": "Hyderabad Mail",
+      "image": "https://hyderabadmail.com/wp-content/uploads/2026/06/sajachi.jpg",
+      "published": "2026-06-29 05:33:46",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Why Astral shares are falling after demerger news; targets as near term overhang likely",
+      "description": "Astral share price today: The demerger might create a near-term overhang for the stock as investors decide on the multiples for each segment, said Equirus Securities.",
+      "link": "https://www.businesstoday.in/markets/stocks/story/why-astral-shares-are-falling-after-demerger-news-targets-as-near-term-overhang-likely-539623-2026-06-29",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a42030395ab8-for-astral-chemie--the-key-aspects-to-monitor-post-demerger-include-funding-of-growth-initiatives--p-293037995-16x9.jpg?size=1280:720",
+      "published": "2026-06-29 05:33:38",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "India Knocked Out Of ICC Women\u2019s T20 World Cup 2026 As Australia Hand 6-Wicket Defeat At Lord\u2019s",
+      "description": "India\u2019s wait for a maiden ICC T20 Women\u2019s World Cup title continues as the Women in Blue were knocked out by Australia on Sunday. Harmanpreet Kaur and Co needed a win at Lord\u2019s to qualify for the semi-final but suffered a 6-wicket defeat despite a half-century from their captain. India\u2019s wait for a maiden ICC T20 Women\u2019s... The post India Knocked Out Of ICC Women\u2019s T20 World Cup 2026 As Australia Hand 6-Wicket Defeat At Lord\u2019s appeared first on Read Selective .",
+      "link": "https://www.readselective.com/india-knocked-out-of-icc-womens-t20-world-cup-2026-as-australia-hand-6-wicket-defeat-at-lords/",
+      "source": "Read Selective",
+      "image": "https://i0.wp.com/www.readselective.com/wp-content/uploads/2026/06/Capture-15166.png?fit=961%2C533&ssl=1",
+      "published": "2026-06-29 05:33:33",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "How Google search history & deleted chats exposed plot to push Ketan Agarwal off Lohagad Fort",
+      "description": "The investigation has further revealed that Siya Goyal and Chetan Chaudhary had allegedly begun plotting Agarwal's murder as early as February this year.",
+      "link": "https://zeenews.india.com/india/how-google-search-history-deleted-chats-exposed-plot-to-push-ketan-agarwal-off-lohagad-fort-3058290.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/29/1959775-ketan-agarwal-murder-probe-siya-goel-chetan-choudhary.png",
+      "published": "2026-06-29 05:33:32",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Inside India\u2019s dressing room after Ireland shock: Disbelief, acceptance and lessons for England",
+      "description": "India have a lot of thinking to do before the England T20Is come knocking in 48 hours.",
+      "link": "https://www.hindustantimes.com/cricket/inside-india-s-dressing-room-after-ireland-shock-disbelief-acceptance-and-lessons-for-england-101782710410297.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/1600x900/logo/india_huddle_1782711151684_1782711156067_cfdbdbef-88e4-4907-983b-36e3bcdfe1f9.jpg",
+      "published": "2026-06-29 05:33:28",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "What Apple Just Did Changes Everything for the Mac",
+      "description": "Apple has recently implemented price increases across its product lineup, impacting MacBooks, desktop Macs, iPads, the Vision Pro, and home devices such as the Apple TV and HomePod. These adjustments are largely attributed to rising production costs and significant hikes in memory and storage upgrade prices. As a result, many consumers are now reassessing the [...] The post What Apple Just Did Changes Everything for the Mac appeared first on Geeky Gadgets .",
+      "link": "https://www.geeky-gadgets.com/why-apple-devices-cost-more/",
+      "source": "Geeky-gadgets",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/expensive-apple-devices.jpg",
+      "published": "2026-06-29 05:33:23",
+      "category": [
+        "technology"
       ],
       "country": [
         "india"

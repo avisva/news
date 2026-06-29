@@ -1,34 +1,77 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Kanye West's 616 Million Won Versailles Masquerade - \u110c\u1169\u1109\u1165\u11ab\u110b\u1175\u11af\u1107\u1169",
-      "description": "Kanye West's 616 Million Won Versailles Masquerade \u110c\u1169\u1109\u1165\u11ab\u110b\u1175\u11af\u1107\u1169 Bianca Censori sparks reaction in barely-there corset as Kanye West shares intimate new photos HELLO! Magazine",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3ZlQUtCSlFwQVl0bGhKU2ZPa0hiS1NGcXN6SE11cWVPdXNtSUtWTlZIdmdIek9KemZub2xaM0ZFRUM4Ry03Y09OdzZIOXVzOEwzUlR5a2MxeW9yNGYzUE5Ic2VVdUl3Q0xhT1I4WlJZTUczYkF3dEstTGtSTmRfejg4WWlMUkZkWHc4bTRR?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-06-29 02:48:45",
+      "title": "Ever wondered why so many South Indians have curly hair? Science has answer",
+      "description": "Have you ever wondered why many South Indians naturally have curly hair? Discover the scientific reasons behind this unique trait, including genetics, climate, evolution, and hair biology, while separating myths from facts in this easy-to-understand guide.",
+      "link": "https://www.news9live.com/lifestyle/beauty-tips/why-do-south-indians-have-curly-hair-2984562",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/06/South-Indian-girls.png",
+      "published": "2026-06-29 05:34:00",
       "category": [
         "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Author talks dark romance July 15",
+      "description": null,
+      "link": "https://www.timesdaily.com/life/general_interest/author-talks-dark-romance-july-15/article_f945eb25-d5be-460a-9cc6-91b8667e635a.html",
+      "source": "Timesdaily",
+      "image": "https://bloximages.newyork1.vip.townnews.com/timesdaily.com/content/tncms/assets/v3/editorial/4/95/495377c9-69dd-44d5-af94-7b53ee68dcb3/6a3ff6c54ef1b.image.jpg",
+      "published": "2026-06-29 05:34:00",
+      "category": [
+        "entertainment",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Dangers of celeb rumors: How BTS fans ruined a girl\u2019s life over Jungkook",
-      "description": "Explore how BTS fans' relentless rumors shattered a girl's life, revealing the dark side of celebrity gossip and its real\u2010world impact. The post Dangers of celeb rumors: How BTS fans ruined a girl\u2019s life over Jungkook appeared first on Film Daily .",
-      "link": "https://filmdaily.co/music/rumors-jungkook/",
-      "source": "Film Daily",
-      "image": "https://filmdaily.co/wp-content/uploads/2020/10/jungkook-lede-3.jpg",
-      "published": "2026-06-29 02:48:36",
+      "title": "Ali Fazal recalls being 'scared' to say 'yes to Mirzapur, calls the film 'national level experiment'",
+      "description": "Ali Fazal has opened up about the uncertainty he faced before signing Mirzapur, revealing why he initially hesitated to join the hit series. The actor also shared his excitement about Mirzapur: The Movie, calling it a first-of-its-kind experiment in India.",
+      "link": "https://www.moneycontrol.com/entertainment/ali-fazal-recalls-being-scared-to-say-yes-to-mirzapur-calls-the-film-national-level-experiment-article-13960968.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260528062955_Ali-Fazal-talks-about-Mirzapur-the-film.png",
+      "published": "2026-06-29 05:33:53",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Trovato morto in canonica: un malore stronca Don Gianni Masin",
+      "description": "Finestre chiuse e due ventilatori accessi: il sacerdote di Beolo aveva 85 anni. Era anche collaboratore delle parrocchie di Conselve e Palu\u0300",
+      "link": "https://www.mattinopadova.it/cronaca/don-masin-morto-malore-prete-beolo-l70dd9hl",
+      "source": "Il Mattino Di Padova",
+      "image": "https://images.mattinopadova.it/view/acePublic/alias/contentid/1s3dp5i9o8hl5arazww/0/masin.webp",
+      "published": "2026-06-29 05:33:52",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "italy"
+      ]
+    },
+    {
+      "title": "Muse Wow Us Into Submission With Their 10th Album",
+      "description": "The Wow! Signal, the U.K. neo-prog band's latest, is a predictably heavy lift The post Muse Wow Us Into Submission With Their 10th Album appeared first on Rolling Stone India .",
+      "link": "https://rollingstoneindia.com/muse-wow-us-into-submission-with-their-10th-album/",
+      "source": "Rolling Stone India",
+      "image": "https://rollingstoneindia.com/wp-content/uploads/2026/06/muse-album-review.jpg",
+      "published": "2026-06-29 05:33:49",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Hubble Spots Two Galaxy Clusters in the Process of Merging",
-      "description": "This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight.",
-      "link": "https://www.universetoday.com/articles/hubble-spots-two-galaxy-clusters-in-the-process-of-merging",
-      "source": "Universe Today",
-      "image": "https://www.universetoday.com/article_images/Hubble_CLG-001616_1_flat_V2_FINAL_20260628_225317.jpg",
-      "published": "2026-06-28 22:53:36",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

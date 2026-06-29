@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Mental health crisis lines down in 3 of Oregon\u2019s most populous counties",
-      "description": "An IT issue disabled mental health crisis lines in three Oregon counties Sunday; the 988 Lifeline remains available.",
-      "link": "https://www.oregonlive.com/crime/2026/06/mental-health-crisis-lines-down-in-3-of-oregons-most-populous-counties.html",
-      "source": "Oregon Local News",
-      "image": "https://www.oregonlive.com/resizer/v2/BUHWNVLP4ZHKTESR2PVIGUFP3A.jpg?auth=32d0ed41b491b4f2c63982de5d0bc20df86a00a3f897f585e292fd59f2f67632&smart=true&height=1200",
-      "published": "2026-06-28 22:53:31",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

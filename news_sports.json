@@ -1,14 +1,99 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 10,
   "results": [
     {
-      "title": "\u2018That\u2019s the bare minimum now\u2019: Derry City coach Mitchell calls one team to build on recent results",
-      "description": "Candystripes made winning return to Brandywell on Friday night",
-      "link": "https://www.irishnews.com/sport/soccer/thats-the-bare-minimum-now-derry-city-coach-mitchell-calls-one-team-to-build-on-recent-results-FUB7GVFRKZHVBGKXDJC6LFP4I4/",
+      "title": "George Russell left sweating despite Austria GP win as Mercedes encounter 'surprise' issue",
+      "description": "George Russell won the Austrian Grand Prix from pole but it was not a straightforward win.",
+      "link": "https://www.express.co.uk/sport/f1-autosport/2222801/george-russell-austrian-gp-verstappen",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/73/590x/2222801_1.jpg",
+      "published": "2026-06-28 17:48:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Cricket-Australia knock India out to reach Women's T20 World Cup semis",
+      "description": "June 28 (Reuters) - India were knocked out \u2060of the Women's T20 World Cup after Australia's Ellyse Perry and Ashleigh Gardner \u2060struck half-centuries to secure a six-wicket win at Lord's on Sunday.",
+      "link": "https://www.thestar.com.my/sport/cricket/2026/06/29/cricket-australia-knock-india-out-to-reach-women039s-t20-world-cup-semis",
+      "source": "The Star",
+      "image": "https://cdn.thestar.com.my/Themes/img/tsol-default-image2023.png",
+      "published": "2026-06-28 17:48:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Wimbledon experts' picks: Who will win? - ESPN",
+      "description": "Wimbledon experts' picks: Who will win? ESPN Wimbledon 2026 preview: Serena Williams, Jannik Sinner, Novak Djokovic BBC 2026 Wimbledon women's odds, picks, draw, best bets from proven tennis expert SportsLine Wimbledon draw: Sabalenka leads top quarter; Swiatek, Rybakina anchor bottom half WTA Tennis Wimbledon bracket 2026: Serena Williams\u2019 first match and contrasts for defending champions - The Athletic The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3lYc3NRcmhNeXp4RzVTb1RuNFhSZF9zZGk5UURicllGUWZpZ2JQbWxrWUYyY1ZxNVZRbnRNMFFkNW5lbEtET05XM1BHa0d5OXhNQmdnY3l3b3pnNFNMdHdRRV92ZldEOGs2bGt4TVVoU2pYUmxXS1E3SkVEbmZqNU9WRG1lRXItUk5HbTVzUTc3TG1NRGRkSHIxMHVVV3Vydk80bjBEc29VWnhxSktvOA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-06-28 17:48:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "PHOTOS: It's championship Sunday at Hoopfest!",
+      "description": "SPOKANE, Wash. -- It's championship Sunday for the world's largest 3-on-3 basketball tournament!",
+      "link": "https://www.kxly.com/news/photos-its-championship-sunday-at-hoopfest/article_82245ee2-b4ca-4e08-9177-a8614ae5b3d2.html",
+      "source": "Kxly",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kxly.com/content/tncms/assets/v3/editorial/a/76/a7679702-1e2a-11ef-8535-1f4a73f1b81e/65e63d8d65806.preview.png",
+      "published": "2026-06-28 17:48:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Australia knock out biggest rivals at T20 World Cup",
+      "description": "Australia have powered ruthlessly into the semi-finals of the Women's T20 World Cup, hammering India by six wickets at Lord's to maintain their unbeaten record while sending their biggest rivals spinning out of the tournament.",
+      "link": "https://www.kyfreepress.com.au/cricket/australia-knock-out-biggest-rivals-at-t20-world-cup/",
+      "source": "Kyabram Free Press",
+      "image": null,
+      "published": "2026-06-28 17:47:59",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Dockers backman feels the love as win streak hits 14",
+      "description": null,
+      "link": "https://www.kyfreepress.com.au/afl/dockers-backman-feels-the-love-as-win-streak-hits-14/",
+      "source": "Kyabram Free Press",
+      "image": null,
+      "published": "2026-06-28 17:47:57",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Wins for Cork and Galway put last year\u2019s finalists through to the senior camogie semi-finals",
+      "description": "Glen Dimplex senior championship Group One Cork 1-13 Waterford 0-10 Galway 3-17 Tipperary 0-15",
+      "link": "https://www.irishnews.com/gaa/hurling-camogie/wins-for-cork-and-galway-put-last-years-finalists-through-to-the-senior-camogie-semi-finals-6JWKQEM4HVCXPHOQQPG2T2VW5I/",
       "source": "The Irish News",
-      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/x_quwEFdoiNHlukA8g-o8EXjEhg=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/ZH5IUUIX3NAKHLMP3DCRLJGCEI.jpg",
-      "published": "2026-06-28 12:06:00",
+      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/E8Ho-KKOpAgBuYVB6G5NIinGDN0=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/IR2HUAR3HZB53EFM7SPSLNTRMA.jpg",
+      "published": "2026-06-28 17:47:52",
       "category": [
         "top",
         "sports"
@@ -18,64 +103,48 @@
       ]
     },
     {
-      "title": "Leclerc pins hopes on Hamilton synergy to derail Mercedes in Austria",
-      "description": "Charles Leclerc is banking on teamwork with Lewis Hamilton to help Ferrari challenge Mercedes at the Austrian Grand Prix. The Monegasque, who finally put an end to his recent qualifying struggles over the last two weekends, had briefly set the fastest time of the session after Max Verstappen\u2019s crash brought out the yellow flags.",
-      "link": "https://sports.yahoo.com/articles/leclerc-pins-hopes-hamilton-synergy-120600778.html",
+      "title": "Boston Celtics expected to add former San Antonio Spurs two way guard Kyle Mangas",
+      "description": "The 6-foot-4, 200-lb. 27-year-old is reportedly joining the Sin City Celtics in Las Vegas this summer.",
+      "link": "https://sports.yahoo.com/articles/boston-celtics-expected-add-former-174749905.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/BW2jC7bWUvwX5G91zjFc.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/gpblog_716/2acf1cfb595fc933808dca80f8716247",
-      "published": "2026-06-28 12:06:00",
+      "image": "https://s.yimg.com/ny/api/res/1.2/WDuzo3nLrscj5i2DrrL0Zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/d46ddbc71c0de2755a9f7e30592856be",
+      "published": "2026-06-28 17:47:49",
       "category": [
-        "breaking",
-        "sports"
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "The NHL Draft passes without a major Penguins trade. Where does Kyle Dubas go from here?",
-      "description": "It\u2019s been one of the wildest NHL offseasons in recent memory, and free agency hasn\u2019t even opened.",
-      "link": "https://www.dailyitem.com/ap/sports/the-nhl-draft-passes-without-a-major-penguins-trade-where-does-kyle-dubas-go-from/article_28eab00e-5b66-5444-8e6f-9266afeaef49.html",
-      "source": "Daily Item",
-      "image": null,
-      "published": "2026-06-28 12:05:58",
+      "title": "WATCH: Abhishek Sharma Fan Gets His Autograph On Her Arm To Get It Tattooed Ahead Of India Vs Ireland 2nd T20I In Belfast",
+      "description": "Abhishek happily agreed and signed her arm with a marker before the fan left to get the signature inked as a tattoo. The moment was captured on video and quickly went viral on social media, with many fans reacting to the level of admiration shown for the Indian cricketer.",
+      "link": "https://www.freepressjournal.in/sports/watch-abhishek-sharma-fan-gets-his-autograph-on-her-arm-to-get-it-tattooed-ahead-of-india-vs-ireland-2nd-t20i-in-belfast",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-28/xzpo2h1h/Abhi-hero.jpg",
+      "published": "2026-06-28 17:47:42",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Quaker Valley star and Maryland commit Mimi Thiero is named the Post-Gazette Athlete of the Year for girls",
-      "description": "For Mimi Thiero, a love of basketball was bred just a bit out of jealousy.",
-      "link": "https://www.dailyitem.com/ap/sports/quaker-valley-star-and-maryland-commit-mimi-thiero-is-named-the-post-gazette-athlete-of/article_0b49ebab-9292-5f65-9295-eb57592397b7.html",
-      "source": "Daily Item",
-      "image": null,
-      "published": "2026-06-28 12:05:57",
-      "category": [
-        "top",
-        "lifestyle",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Caitlin Clark hard contact timeline: WNBA's growing history of brutal hits against the face of the sport",
-      "description": "From Chennedy Carter's hip-check to Alyssa Thomas's closed fist to the throat, a timeline of the most controversial hits on Caitlin Clark's WNBA career.",
-      "link": "https://us.headtopics.com/news/caitlin-clark-hard-contact-timeline-wnba-s-growing-history-85009750",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/6/28/foxnews/caitlin-clark-hard-contact-timeline-wnba-s-growing-caitlin-clark-hard-contact-timeline-wnba-s-growing-F2F5A6BDA200E814F4084A83097AC9E2.webp",
-      "published": "2026-06-28 12:05:55",
+      "title": "Eugenio Chacarra Takes Commanding Lead at Open d'Italia",
+      "description": "Eugenio Chacarra has taken a commanding lead at the Open d'Italia, showcasing remarkable skill with a six-under 65. As he aims for his second title of the season, the competition remains fierce with Joaquin Niemann and Matt Wallace closely trailing. With changes to the final round schedule due to weather forecasts, the excitement builds as Chacarra prepares to defend his lead. Discover the details of this thrilling tournament and the players vying for victory.",
+      "link": "https://gyanhigyan.com/sports/eugenio-chacarra-takes-commanding-lead-at-open-ditalia/cid18900439.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/a0e47d60393ac8bb49e72de18057b862.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-06-28 17:47:39",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

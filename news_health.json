@@ -1,5 +1,42 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Race to Develop Next-Generation Weight-Loss Pills Intensifies",
+      "description": "Shafaqna Health: The future of weight loss treatment is looking to get easier to swallow. Several research teams and pharmaceutical companies are developing promising GLP-1-based drugs that come in a pill rather than an injection. Just this month alone, two separate teams published Phase II trial data on their oral GLP-1 candidates. These drugs, called aleniglipron [...]",
+      "link": "https://india.shafaqna.com/EN/race-to-develop-next-generation-weight-loss-pills-intensifies/",
+      "source": "India News (news Reader)",
+      "image": "https://india.shafaqna.com/wp-content/uploads/2026/06/Race.webp",
+      "published": "2026-06-28 17:47:35",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "iraq",
+        "lebanon",
+        "bahrain",
+        "iran"
+      ]
+    },
+    {
+      "title": "People under 50 are \u2018ageing faster\u2019 than previous generations, study finds",
+      "description": "Shafaqna Health: As cancer rates continue to climb among people under 50, new research suggests \u2018accelerated ageing\u2019 could play a part. Amidst a worrying rise in cancer among younger people, new research has revealed that under-50s are ageing faster than previous generations. Those born between 1965 and 1974 display higher biological age \u2014 wear and tear [...]",
+      "link": "https://india.shafaqna.com/EN/people-under-50-are-ageing-faster-than-previous-generations-study-finds/",
+      "source": "India News (news Reader)",
+      "image": "https://india.shafaqna.com/wp-content/uploads/2026/06/Older.avif",
+      "published": "2026-06-28 17:47:31",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "iraq",
+        "lebanon",
+        "bahrain",
+        "iran"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Gru\u0308nenthal successfully completes Phase I trial with Nociceptin Receptor (NOP) Agonist",
+      "description": "The investigational compound has a unique mechanism of action and the potential to become a first-in-class therapy option for the treatment of acute and chronic pain. In a Phase I trial, the investigational compound was demonstrated to be safe and well tolerated. A Phase II trial will...",
+      "link": "https://www.prnewswire.co.uk/news-releases/grunenthal-successfully-completes-phase-i-trial-with-nociceptin-receptor-nop-agonist-302813128.html",
+      "source": "Pr Newswire Uk",
+      "image": null,
+      "published": "2026-06-29 10:57:00",
+      "category": [
+        "health",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

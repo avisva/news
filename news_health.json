@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "American Psychological Association warns against AI therapy",
+      "description": "Wysa reports the American Psychological Association warns against AI therapy, highlighting risks like self-diagnosis and emotional dependency on chatbots.",
+      "link": "https://www.lexingtonchronicle.com/premium/stories/american-psychological-association-warns-against-ai-therapy,183926",
+      "source": "Lexington County Chronicle",
+      "image": "https://images.stacker.com/s/720/1280/images/stories/2026/06/25/wysa-apa-warns-against-ai-therapy-.jpg",
+      "published": "2026-06-29 17:00:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Bitcoin Hits 21-Month Low: What\u2019s Behind the Price Drop?",
+      "description": "Bitcoin drops sharply as Federal Reserve policy, Inflation fears, Bitcoin ETFs outflows, and weak ETFs demand trigger major crypto market selloff",
+      "link": "https://www.analyticsinsight.net/bitcoin/bitcoin-hits-21-month-low-whats-behind-the-price-drop",
+      "source": "Analytics And Insight",
+      "image": "https://media.assettype.com/analyticsinsight/2026-06-29/qxcl7u11/Bitcoin-Hits-21-Month-Low-What%E2%80%99s-Behind-the-Price-Drop.jpg",
+      "published": "2026-06-29 21:30:00",
+      "category": [
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Best Action Cameras With Optical Zoom in 2026",
+      "description": "Explore the best action cameras with optical zoom in 2026 for adventure, travel, and sports with powerful imaging and stabilization.",
+      "link": "https://www.analyticsinsight.net/ampstories/gadgets/best-action-cameras-with-optical-zoom-in-2026",
+      "source": "Analytics And Insight",
+      "image": "https://media.assettype.com/analyticsinsight/2026-06-29/t1kg8jo2/Best-Action-Cameras-With-Optical-Zoom-in-2026.jpg",
+      "published": "2026-06-29 21:30:00",
+      "category": [
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

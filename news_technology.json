@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Scientists Answer Vital Question: What Happens If You Throw A Paper Airplane In Space?",
+      "description": "In what must be the greatest scientific paper of all time, Maximilien Berthet and Kojiro Suzuki attacked the problem with the most serious faces imaginable.",
+      "link": "https://www.jalopnik.com/2203058/what-happens-if-you-throw-paper-airplane-in-space/",
+      "source": "Jalopnik",
+      "image": "https://www.jalopnik.com/img/gallery/scientists-answer-vital-question-what-happens-if-you-throw-a-paper-airplane-in-space/l-intro-1782517140.jpg",
+      "published": "2026-06-30 03:25:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump posts apparent AI-generated image of large, golden eagle affixed to Truman Balcony",
+      "description": "President Donald Trump Monday evening posted what appeared to be an AI-generated image of a large, golden eagle affixed to the Truman Balcony of the White House.",
+      "link": "https://www.cnn.com/2026/06/29/politics/trump-ai-generated-eagle-truman-balcony",
+      "source": "Cnn",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/truman-balcony-ai-image.jpg?c=original/w_800",
+      "published": "2026-06-30 03:24:49",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

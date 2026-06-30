@@ -1,49 +1,80 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Court orders INEC to release ADA access code",
-      "description": "A Federal High Court has ordered INEC to release the All Democratic Alliance (ADA) access code, enabling the party to complete its registration process. Read More: https://punchng.com/court-orders-inec-to-release-ada-access-code/",
-      "link": "https://punchng.com/court-orders-inec-to-release-ada-access-code/",
-      "source": "Punch",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/INEC.webp",
-      "published": "2026-06-30 00:05:56",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "\u2018Illegal USD 1 bn transfers since 2023\u2019: UNP challenges Prez to reveal identities of culprits",
-      "description": "The United National Party (UNP) has asked President Anura Kumara Dissanayake to reveal the identities of those who fraudulently transferred nearly USD 1 bn (approximately Rs 300 bn), since 2023. UNP leader Ranil Wickremesinghe, in his capacity as the Prime Minister, held the Finance portfolio from 25 May 2022, before he was appointed the President [...]",
-      "link": "http://island.lk/illegal-usd-1-bn-transfers-since-2023-unp-challenges-prez-to-reveal-identities-of-culprits/",
-      "source": "The Island",
-      "image": null,
-      "published": "2026-06-30 00:05:46",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "sri lanka"
-      ]
-    },
-    {
-      "title": "Bernie Sanders wants the government to own AI companies. That's a bad idea",
-      "description": "Sen. Bernie Sanders (I-VT) proposed that the federal government take a 50% stake in artificial intelligence companies.",
-      "link": "https://www.washingtonexaminer.com/op-eds/4629764/bernie-sanders-government-ai-companies-bad-idea/",
+      "title": "EPA must act on glyphosate after Supreme Court's Monsanto ruling",
+      "description": "The Supreme Court has granted legal immunity to Bayer, maker of the weedkiller Roundup, from lawsuits alleging that the chemical glyphosate causes cancer.",
+      "link": "https://www.washingtonexaminer.com/op-eds/4629864/epa-must-act-on-glyphosate-supreme-court-monsanto-ruling/",
       "source": "Washington Examiner",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26159759896964_196b1a.jpg?w=696",
-      "published": "2026-06-30 00:05:45",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/04/GettyImages-2273382230.jpg?w=696",
+      "published": "2026-06-30 03:24:56",
       "category": [
         "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "'Stupid man!' - A Plus descends on flood victim who 'insulted' him over poor drainage",
+      "description": "The Member of Parliament (MP) for Gomoa Central, Kwame Asare Obeng, popularly known as A-Plus, has lashed out at a flood victim, calling him a 'stupid man' and a 'fool' after the resident appealed to him to prioritise drainage infrastructure over...",
+      "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stupid-man-A-Plus-descends-on-flood-victim-who-insulted-him-over-poor-drainage-2041108",
+      "source": "Ghana Web",
+      "image": "https://cdn.ghanaweb.com/imagelib/src/a_plus_look.png",
+      "published": "2026-06-30 03:24:42",
+      "category": [
+        "top",
+        "crime",
+        "politics"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "\u2018Stupid man!\u2019 - A Plus descends on flood victim who 'insulted' him over poor drainage in his constituency",
+      "description": "The Member of Parliament (MP) for Gomoa Central, Kwame Asare Obeng, popularly known as A-Plus, has lashed out at a flood victim, calling him a 'stupid man' and a 'fool' after the resident appealed to him to prioritise drainage infrastructure over...",
+      "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Stupid-man-A-Plus-descends-on-flood-victim-who-insulted-him-over-poor-drainage-in-his-constituency-2041108",
+      "source": "Ghana Web",
+      "image": "https://cdn.ghanaweb.com/imagelib/src/a_plus_look.png",
+      "published": "2026-06-30 03:24:42",
+      "category": [
+        "top",
+        "crime",
+        "politics"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "US and Iran negotiators head to Doha, but meeting uncertain",
+      "description": "A senior Iranian diplomat said on Monday that technical talks between the working groups of Iran and the United States were not scheduled for this week, according to Iran's semi-official Fars News Agency.",
+      "link": "https://news.cgtn.com/news/2026-06-30/US-and-Iran-negotiators-head-to-Doha-but-meeting-uncertain--1OoiudR0bvy/p.html",
+      "source": "Cgtn",
+      "image": "https://news.cgtn.com/news/2026-06-30/US-and-Iran-negotiators-head-to-Doha-but-meeting-uncertain--1OoiudR0bvy/img/f37089dadff34f08b0e804d912850ee4/f37089dadff34f08b0e804d912850ee4-1920.png",
+      "published": "2026-06-30 03:24:41",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "china"
+      ]
+    },
+    {
+      "title": "Adhere to SIR rules or face action: Telangana CEO to BLOs",
+      "description": "The CEO said Booth Level Officers and election authorities had successfully distributed nearly 1.73 crore Enumeration Forms to voters within just four days.",
+      "link": "https://www.newindianexpress.com/states/telangana/2026/Jun/30/adhere-to-sir-rules-or-face-action-telangana-ceo-to-blos",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-06-30/gkon6ysi/p2-lead110242.jpg",
+      "published": "2026-06-30 03:24:40",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,94 +1,34 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 2,
   "results": [
     {
-      "title": "American Legion baseball: Rowan wins 9-1 on road, clinches Southern Division",
-      "description": "Staff report CONCORD \u2013 Rowan County\u2019s 20th straight win on Tuesday wasn\u2019t as exciting as the 18th and 19th consecutive victories in a long streak, but no one [...]",
-      "link": "https://www.salisburypost.com/2026/06/30/american-legion-baseball-rowan-wins-9-1-on-road-clinches-southern-division/",
-      "source": "Salisbury Post",
-      "image": "https://www.salisburypost.com/wp-content/uploads/sites/9/2026/06/i-F5NRJNz-X2.jpg",
-      "published": "2026-07-01 03:38:43",
+      "title": "World Cup manager with job under threat snaps at female reporter",
+      "description": "Many managers have lost their positions at the 2026 World Cup, and one boss whose nation were dumped out the tournament this week appears to be feeling the pressure around his future",
+      "link": "https://www.mirror.co.uk/sport/football/news/world-cup-germany-julian-nagelsmann-37370119",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/sport/football/news/article37370118.ece/ALTERNATES/s615/0_GettyImages-2283938967.jpg",
+      "published": "2026-07-01 05:51:59",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Alapag returns to PBA to lead NLEX Road Warriors",
+      "description": "The former PBA Most Valuable Player takes over as head coach of NLEX, beginning with the 2026 PBA Governors' Cup, after six years in the U.S., including a stint with the NBA'. Sacramento Kings.",
+      "link": "https://www.espn.com/basketball/pba/story/_/id/49233685/pba-jimmy-alapag-returns-philippines-lead-nlex-road-warriors",
+      "source": "Entertainment And Sports Programming Network",
+      "image": "https://a.espncdn.com/photo/2026/0701/r1682541_1280x720_16-9.jpg",
+      "published": "2026-07-01 05:51:54",
       "category": [
         "sports"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Pirates farm report for June 30, 2026: Callan Moss\u2019 grand slam helps Curve outslug Portland",
-      "description": "INDIANAPOLIS (Triple A, 35-47) thumped Omaha (Royals), 12-5. RF Dominic Fletcher (.289) hit a three-run homer. 3B Enmanuel Valdez (.244) smacked a three-run double. C Rafael Flores Jr. (.220) was 2 for 3 with two RBIs and three runs scored. DH Jhostynxon Garcia (.225) doubled in a run. RHP Khristian Curtis (6.39) started and gave up four runs on five hits with two walks and three strikeouts in 1 2/3 innings. LHP Nick Domkowski (3-4, 7.33) earned the win after giving up one unearned run on one hit with a walk and strikeout in 3 1/3 innings of relief.",
-      "link": "https://triblive.com/sports/pirates-farm-report-for-june-30-2026-callan-moss-grand-slam-helps-curve-outslug-portland/",
-      "source": "Home | Triblive.com",
-      "image": "https://assets-varnish.triblive.com/2026/06/9715697_web1_bucsminors2021.jpg",
-      "published": "2026-07-01 03:38:42",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hird confirms meeting with Essendon president",
-      "description": "James Hird is officially in the running to be the next coach of Essendon.",
-      "link": "https://www.watoday.com.au/sport/afl/hird-confirms-meeting-with-essendon-president-20260701-p60boy.html",
-      "source": "Watoday",
-      "image": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/a39c1f1020544ca0178bc16ba3f10d9dde16ebd7",
-      "published": "2026-07-01 03:38:33",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "FIFA World Cup 2026: Kylian Mbappe's Brace Fires France Past Sweden 3-0 To Reach Round Of 16 | Video",
-      "description": "France stormed into the FIFA World Cup 2026 Round of 16 with a commanding 3-0 win over Sweden in New Jersey. Kylian Mbappe scored twice, taking his World Cup tally to 18 goals and moving to second on the all-time scoring list, while Bradley Barcola added another. Les Bleus will face Paraguay on July 5 as they continue their quest for a third consecutive World Cup final.",
-      "link": "https://www.freepressjournal.in/sports/fifa-world-cup-2026-kylian-mbappes-brace-fires-france-past-sweden-3-0-to-reach-round-of-16-video",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-01/33tqpjdj/Untitled-design-2026-07-01T090721.871.jpg",
-      "published": "2026-07-01 03:38:18",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Fan at Dodgers Game Goes Viral Celebrating Mexico\u2019s World Cup Goal",
-      "description": "A fan at the Dodgers-Athletics game went crazy when Mexico scored the opening goal of their Round of 32 tie against Ecuador in the 2026 World Cup.",
-      "link": "https://sports.yahoo.com/articles/fan-dodgers-game-goes-viral-033815693.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/b863255b05e2e6ab86cc22204155eb8fdeb4fffa5307a15edb5d805ed981ef18/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdodgers_nation_articles_337%2Fe9f54a1bc508dc7cdcbc71c9aa278474",
-      "published": "2026-07-01 03:38:15",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "BingoPlus launches P41.3-M Baccarat Grand Championship",
-      "description": "BingoPlus launches P41.3-M Baccarat Grand Championship",
-      "link": "https://tribune.net.ph/2026/07/01/bingoplus-launches-p413-m-baccarat-grand-championship",
-      "source": "Daily Tribune",
-      "image": "https://images.assettype.com/tribune/2026-07-01/3xpvse72/Baccarat-Grand-Championship-V5.jpg?w=1200&auto=format",
-      "published": "2026-07-01 03:38:10",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "philippines"
       ]
     }
   ]

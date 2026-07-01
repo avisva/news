@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Gluconeogenesis",
+      "description": "Cells not only are able to catabolize glucose and other carbohydrates to meet their energy needs but also can synthesize sugars and polysaccharides needed for other purposes.",
+      "link": "https://www.thestatesman.com/supplements/science_supplements/gluconeogenesis-1503611812.html",
+      "source": "The Statesman",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2026/07/IMG_2781.webp",
+      "published": "2026-07-01 05:51:47",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

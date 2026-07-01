@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Here's How Much A 2021 Hyundai Palisade Has Depreciated In Five Years",
-      "description": "The 2021 Hyundai Palisade has a 291-hp V6 engine, an eight-speed automatic transmission, and seating for up to eight passengers. How well has it held its value?",
-      "link": "https://www.jalopnik.com/2203913/how-much-2021-hyundai-palisade-has-depreciated-five-years/",
-      "source": "Jalopnik",
-      "image": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2021-hyundai-palisade-has-depreciated-in-five-years/l-intro-1782746520.jpg",
-      "published": "2026-07-01 09:25:00",
+      "title": "MPs to Receive Vehicle Funds by July 10, Says Finance Minister Musasizi",
+      "description": "By Watchdog Uganda Reporter KAMPALA \u2013 Members of Parliament are expected to receive funds to purchase official vehicles by July 10, 2026, the Minister of Finance, Planning and Economic Development, Henry Musasizi, has announced. Speaking during the induction seminar for the 12th Parliament at Speke Resort Munyonyo on Tuesday, Musasizi said the money will be [...] The post MPs to Receive Vehicle Funds by July 10, Says Finance Minister Musasizi appeared first on Watchdog Uganda .",
+      "link": "https://www.watchdoguganda.com/news/20260701/194231/mps-to-receive-vehicle-funds-by-july-10-says-finance-minister-musasizi.html",
+      "source": "Watchdog Uganda",
+      "image": "https://www.watchdoguganda.com/wp-content/uploads/2026/07/MPS.jpg",
+      "published": "2026-07-01 11:12:58",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "uganda"
+      ]
+    },
+    {
+      "title": "INmune Bio files U.S. patent for cell therapy platform",
+      "description": "INmune Bio files U.S. patent for cell therapy platform",
+      "link": "https://www.investing.com/news/company-news/inmune-bio-files-us-patent-for-cell-therapy-platform-93CH-4770125",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg",
+      "published": "2026-07-01 11:12:55",
       "category": [
         "top",
         "technology"
@@ -18,18 +34,22 @@
       ]
     },
     {
-      "title": "Nokia collaborating with SAP to accelerate its enterprise transformation",
-      "description": "Nokia has signed a multi-year agreement with SAP to help accelerate its enterprise transformation using the RISE with SAP Methodology.",
-      "link": "https://htxt.co.za/2026/07/nokia-collaborating-with-sap-to-accelerate-its-enterprise-transformation/",
-      "source": "Hypertext",
-      "image": "https://htxt.co.za/wp-content/uploads/2025/03/close-up-of-nokia-headquarters-in-espoo-finland_0.jpg",
-      "published": "2026-07-01 09:25:00",
+      "title": "The Retroid Pocket 6 now officially supports LineageOS",
+      "description": "If you\u2019re a fan of emulation and Android gaming handhelds, then it might be music to your ears to hear that the Retroid Pocket 6 now officially supports LineageOS.",
+      "link": "https://9to5google.com/2026/07/01/the-retroid-pocket-6-now-officially-supports-lineageos/",
+      "source": "9to5google",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Retroid-Pocket-6.png.png",
+      "published": "2026-07-01 11:12:55",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "south africa"
+        "australia",
+        "canada",
+        "india",
+        "united kingdom",
+        "germany",
+        "united states of america"
       ]
     }
   ]

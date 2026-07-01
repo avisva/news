@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Decade-long national study finds antimicrobial use in Australian hospitals improves with regular monitoring",
+      "description": "A 10-year national study has found improved antimicrobial use in Australian hospitals that regularly monitored their prescribing, using a globally unique program developed by a Melbourne hospital. The study reinforces the importance of antimicrobial stewardship to improve patient care and minimise antimicrobial resistance.",
+      "link": "https://www.scimex.org/newsfeed/decade-long-national-study-finds-antimicrobial-use-in-australian-hospitals-improves-with-regular-monitoring",
+      "source": "Science Media Exchange",
+      "image": "https://www.scimex.org/__data/assets/image/0006/1242645/pharmacist-holding-tablet-in-dispensory.jpg",
+      "published": "2026-07-01 03:39:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

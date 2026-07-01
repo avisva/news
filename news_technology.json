@@ -3,34 +3,32 @@
   "totalResults": 2,
   "results": [
     {
-      "title": "Fiori Elements V2 (Adaptation Project) \u2013 Need to enforce mandatory field validation before Save/Appl",
-      "description": "Hello SAP community, I am working on a Fiori Elements V2 application (Object Page / List Report) using an Adaptation Project (SAP BAS \u2013 codeExt Controller Extensions + UI Adaptation). I am trying to enforce a business requirement where a specific field must be mandatory before saving the document. ...",
-      "link": "https://community.sap.com/t5/technology-q-a/fiori-elements-v2-adaptation-project-need-to-enforce-mandatory-field/qaq-p/14430861",
-      "source": "Sap",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "published": "2026-07-01 00:02:00",
+      "title": "Synology unveils next-generation DiskStation Manager, new AI-powered data management solutions at COMPUTEX 2026",
+      "description": "As AI becomes part of everyday business operations, organizations are paying closer attention to how their data is stored, managed and protected. At COMPUTEX 2026, Synology unveiled innovative solutions across storage, data protection, surveillance, workplace collaboration and personal cloud services. Highlights include the next generation of DiskStation Manager (DSM), the latest ActiveProtect platform, new surveillance solutions, new additions to Synology Office Suite, and enhancements to the BeeStation private cloud lineup. \"Data is at the heart of everything we build, and trust is the foundation,\" said Philip Wong, Chairman and CEO of Synology. \"From enterprise infrastructure to personal cloud solutions, we develop every product to give users complete control over their data, backed by uncompromising security, reliability and privacy, so they can always embrace what's next with confidence.\" The next generation of DSM Built to be both AI-ready and enterprise-ready, the next generation of DiskStation Manager (DSM) introduces support for GPU NAS and AI appliances, enabling fully on-premises AI inference and governance. For larger deployments, Cluster Manager brings multiple systems together under a single interface. It supports workload migration, QoS, and centralized protection. Active Insight's new Mass Deployment feature enables rapid provisioning across multiple sites. A revamped Log Center gives IT teams better visibility into system activity to support security and compliance requirements. ActiveProtect Manager 2.0 and DP5200 ActiveProtect Manager (APM) 2.0 extends protection to AWS EC2, Azure VM, Proxmox, Nutanix AHV, and Google Workspace, allowing organizations to protect and recover data across cloud, virtualized, and SaaS environments from a single platform. The platform integrates AI-powered anomaly and malware detection to help identify potential threats earlier. The new DP5200 further expands the ActiveProtect lineup with additional deployment options for enterprises. New surveillance access control, DVA appliances, and hybrid cloud monitoring Synology broadens its surveillance ecosystem with new access control solutions, including the AC100 door controller and AR Series readers, new DC Series dome cameras, and new Deep Video Analytics (DVA) appliances. The latest DVA appliances introduce AI-powered tools that help security teams search video footage more quickly and track a person's movement across multiple cameras. Surveillance365 adds VSaaS capabilities that integrate with on-premises Surveillance Station, giving businesses a unified platform for remote and multi-site monitoring. Synology Office Suite expanded with ChatPlus and Meet Synology Office Suite adds ChatPlus and Meet, bringing enterprise-grade communication with granular permission and management controls. Both integrate AI-powered transcription and translation, helping teams work more efficiently while keeping communications data within the organization's environment. The additions expand Synology Office Suite's communication and collaboration capabilities. Bee Series private cloud ecosystem for individuals and homes The expanded BeeStation and BeeStation Plus lineup now offers a wider range of options to accommodate different storage needs. BeeCamera enables home monitoring on BeeStation Plus with Synology cameras, while Synology Deep Search uses AI-powered local search across personal content on macOS and Windows, helping users find content more quickly while keeping personal data private.",
+      "link": "https://mb.com.ph/article/10924679/technews/synology-unveils-next-generation-diskstation-manager-new-ai-powered-data-management-solutions-at-computex-2026",
+      "source": "Manila Bulletin",
+      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/01/112869.webp",
+      "published": "2026-07-01 03:39:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "philippines"
       ]
     },
     {
-      "title": "Wednesday, July 01, 2026 \u2013 edition no. 4982",
-      "description": "* Innovation lab \u2014 Macau launches science and technology center to boost diversification push * Health | Covid-19 transmission rises as gov\u2019t steps up vaccinations at care homes * Summer Events | July cultural and sports series launched, centered on families and youth * Macau braces for scorching heat, with highs of 32 degrees Celsius or above across the city over the next few days * Macau expands e-payment trials to transport, gov\u2019t services, and campuses * The Cooperation Zone is entering a more demanding phase focused on execution, industrial rollout, and institutional integration, says Sam Hou Fai DOWNLOAD [...] The post Wednesday, July 01, 2026 \u2013 edition no. 4982 appeared first on MACAU DAILY TIMES \u6fb3\u9580\u6bcf\u65e5\u6642\u5831 .",
-      "link": "https://macaudailytimes.com.mo/wednesday-july-01-2026-edition-no-4982.html",
-      "source": "Macau Daily Times",
-      "image": "https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2016/05/121212.jpg?resize=150%2C150&#038;ssl=1",
-      "published": "2026-07-01 00:01:57",
+      "title": "Android 17's new lock screen trick could frustrate anyone trying to break into your phone - Android Authority",
+      "description": "Android 17's new lock screen trick could frustrate anyone trying to break into your phone Android Authority The top Android 17 features to get excited about Mashable I can't wait for Android 17's foldable gaming mode after this early look Android Central Android 17\u2019s new foldable gaming mode could make flippy phones more fun The Verge Android 17 Enhances User Security with Advanced Location Controls and Theft Protection Small Business Trends",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc3VMcHZ0U0R1R0hXQi1ZbVRkc1ZqS2lMdVRKQ21oUnp6UmNSMFJOemVfOVRVaE5tYW9WeC04X212cEpfU1hOVllhYU1uTGhfTDNOc085VmpJNVQ2NDBfTHVTSEZsN3lNWnQ5c2laaEM0TXpCMlk5ekdhVVlvWGN0eVNB?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-01 03:38:31",
       "category": [
-        "top",
-        "technology",
-        "science"
+        "technology"
       ],
       "country": [
-        "macau"
+        "united states of america"
       ]
     }
   ]

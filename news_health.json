@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "AbbVie shares fell after six-session winning streak",
-      "description": null,
-      "link": "https://seekingalpha.com/news/4608629-abbvie-shares-fell-after-six-session-winning-streak",
-      "source": "Seeking Alpha",
-      "image": null,
-      "published": "2026-06-30 20:09:57",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "canada"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

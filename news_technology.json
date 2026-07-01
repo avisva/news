@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "TerraMaster F4-425 Pro NAS review: An improvement on predecessors, but falls short of what others are bringing to the same party",
-      "description": "The TerraMaster F4-425 Pro is a sophisticated four-bay NAS at a price that makes sense for both home and small business users.",
-      "link": "https://www.techradar.com/computing/terramaster-f4-425-pro-nas-review",
-      "source": "Tech Radar",
-      "image": "https://cdn.mos.cms.futurecdn.net/MXAPyLFoECaKYnkJAVDdDi-1280-80.jpg",
-      "published": "2026-06-30 20:10:00",
+      "title": "Fiori Elements V2 (Adaptation Project) \u2013 Need to enforce mandatory field validation before Save/Appl",
+      "description": "Hello SAP community, I am working on a Fiori Elements V2 application (Object Page / List Report) using an Adaptation Project (SAP BAS \u2013 codeExt Controller Extensions + UI Adaptation). I am trying to enforce a business requirement where a specific field must be mandatory before saving the document. ...",
+      "link": "https://community.sap.com/t5/technology-q-a/fiori-elements-v2-adaptation-project-need-to-enforce-mandatory-field/qaq-p/14430861",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-07-01 00:02:00",
       "category": [
         "top",
         "technology"
@@ -18,39 +18,19 @@
       ]
     },
     {
-      "title": "Albany Engineered Composites Engineer Rabih Mansour Authors ASM Handbook Chapter on Three-Dimensional Woven Composites",
-      "description": "ROCHESTER, N.H.--(BUSINESS WIRE)--Albany Engineered Composites, a segment of Albany International Corp. (NYSE: AIN), announced today that Rabih Mansour, Principal Engineer and Technical Fellow, authored the chapter titled \"Three-Dimensional Woven Composites\" for the American Society of Materials (ASM) Handbook, Volume 21: Composites, one of the industry's most respected technical references for materials engineering and manufacturing. The publication recognizes Mansour's expertise in advanced c",
-      "link": "http://www.businesswire.com/news/home/20260630934923/en/Albany-Engineered-Composites-Engineer-Rabih-Mansour-Authors-ASM-Handbook-Chapter-on-Three-Dimensional-Woven-Composites/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA%3D%3D",
-      "source": "Businesswire",
-      "image": "https://mms.businesswire.com/media/20260630934923/en/2789942/22/AEC.jpg",
-      "published": "2026-06-30 20:10:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "australia",
-        "china",
-        "canada",
-        "japan",
-        "united kingdom",
-        "germany",
-        "united states of america",
-        "france"
-      ]
-    },
-    {
-      "title": "1 Undervalued Canadian Stock Playing the Data Centre Theme",
-      "description": "A high-yield Canadian telecom could be the \u201cdigital pipes\u201d behind the AI data-centre boom, and it still looks cheap. The post 1 Undervalued Canadian Stock Playing the Data Centre Theme appeared first on The Motley Fool Canada .",
-      "link": "https://www.fool.ca/2026/06/30/1-undervalued-canadian-stock-playing-the-data-centre-theme/",
-      "source": "Fool Canada",
-      "image": "https://www.fool.ca/wp-content/uploads/2024/08/data-center-engineer-using-laptop-computer-crypto-mining-1200x675.jpg",
-      "published": "2026-06-30 20:10:00",
+      "title": "Wednesday, July 01, 2026 \u2013 edition no. 4982",
+      "description": "* Innovation lab \u2014 Macau launches science and technology center to boost diversification push * Health | Covid-19 transmission rises as gov\u2019t steps up vaccinations at care homes * Summer Events | July cultural and sports series launched, centered on families and youth * Macau braces for scorching heat, with highs of 32 degrees Celsius or above across the city over the next few days * Macau expands e-payment trials to transport, gov\u2019t services, and campuses * The Cooperation Zone is entering a more demanding phase focused on execution, industrial rollout, and institutional integration, says Sam Hou Fai DOWNLOAD [...] The post Wednesday, July 01, 2026 \u2013 edition no. 4982 appeared first on MACAU DAILY TIMES \u6fb3\u9580\u6bcf\u65e5\u6642\u5831 .",
+      "link": "https://macaudailytimes.com.mo/wednesday-july-01-2026-edition-no-4982.html",
+      "source": "Macau Daily Times",
+      "image": "https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2016/05/121212.jpg?resize=150%2C150&#038;ssl=1",
+      "published": "2026-07-01 00:01:57",
       "category": [
         "top",
-        "technology"
+        "technology",
+        "science"
       ],
       "country": [
-        "canada"
+        "macau"
       ]
     }
   ]

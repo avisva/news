@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "These Colorado summer retreats can help adults escape burnout",
+      "description": "Options range from survival camps to meditation retreats to song-writing bootcamps.",
+      "link": "https://www.montereyherald.com/2026/07/01/adult-summer-retreats/",
+      "source": "Monterey Herald",
+      "image": "https://www.montereyherald.com/wp-content/uploads/2026/06/TDP-Z-FE24MAGcampfire.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-01 07:50:48",
+      "category": [
+        "top",
+        "health",
+        "education"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

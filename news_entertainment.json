@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Ditch the oven when making banana bread for the 'perfect' loaf every time",
-      "description": "Banana bread is a classic treat that is so easy to make and takes virtually no effort - and there's a better method than baking it in the oven.",
-      "link": "https://www.express.co.uk/life-style/food/2223686/how-to-make-banana-bread",
+      "title": "Megan could get away with abusing Will in Coronation Street after twist",
+      "description": "Megan Walsh's trial is at risk of falling apart in Coronation Street, and it's because of the power she still holds over Will Driscoll.",
+      "link": "https://metro.co.uk/2026/06/30/megan-get-away-abusing-will-coronation-street-twist-28982918/",
+      "source": "Metro",
+      "image": "https://metro.co.uk/wp-content/uploads/2026/06/SEI_300965686-c85c.jpg?quality=90&strip=all",
+      "published": "2026-06-30 20:10:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Wimbledon fans slam 'awful' BBC detail during Serena Williams coverage",
+      "description": "Serena Williams made her anticipated return to Centre Court on Tuesday for her opening round match against Maya Joint.",
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2223781/bbc-wimbledon-serena-williams-fan-complaints",
       "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/14/590x/2223686_1.jpg",
-      "published": "2026-06-30 15:37:00",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/2223781_1.jpg",
+      "published": "2026-06-30 20:10:00",
       "category": [
         "entertainment"
       ],

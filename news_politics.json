@@ -1,19 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Lansforsakringar Fondforvaltning AB publ Increases Stake in S&P Global Inc. $SPGI",
-      "description": "Lansforsakringar Fondforvaltning AB publ raised its stake in shares of S&P Global Inc. (NYSE:SPGI \u2013 Free Report) by 13.5% in the 1st quarter, according to its most recent Form 13F filing with the SEC. The fund owned 114,992 shares of the business services provider\u2019s stock after purchasing an additional 13,663 shares during the period. Lansforsakringar [...]",
-      "link": "https://www.dailypolitical.com/2026/06/30/lansforsakringar-fondforvaltning-ab-publ-increases-stake-in-sp-global-inc-spgi.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/samp;p-global-inc-logo-1200x675.jpg",
-      "published": "2026-06-30 11:08:57",
+      "title": "ECB\u2019s Rehn Says Energy Shock Is Producing Stagflationary Effects",
+      "description": "The conflict in the Middle East is stoking inflation while weighing on economic expansion, according to European Central Bank Governing Council member Olli Rehn.",
+      "link": "https://financialpost.com/pmn/business-pmn/ecbs-rehn-says-energy-shock-is-producing-stagflationary-effects",
+      "source": "Financial Post",
+      "image": null,
+      "published": "2026-06-30 15:36:59",
       "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Oklahoma Gov. Stitt responds to SCOTUS birthright citizenship, transgender athletics rulings",
+      "description": "News 9 spoke to Gov. Kevin Stitt to learn more about the impacts of Tuesday's Supreme Court rulings in Oklahoma.",
+      "link": "https://www.news9.com/national-politics-oklahoma/oklahoma-gov-stitt-supreme-court-birthright-citizenship-ruling",
+      "source": "News9.com",
+      "image": "https://cdn.griffin.news/dims4/default/c0b33e6/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fgriffin-media-production-griffin.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fkotv%2Fproduction%2F2020%2FJuly%2F29%2Fgov-kevin-stitt-oklahoma.1596053978406.jpeg",
+      "published": "2026-06-30 15:36:59",
+      "category": [
+        "top",
+        "lifestyle",
         "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Two Rallies in Hodeidah Declare Readiness to End Siege & Aggression",
+      "description": "Two large rallies were held in the Al-Mina and Al-Hawak districts of Hodeidah Governorate, declaring a general mobilization and readiness to join the battle to reclaim rights and break the siege, in response to the call of the revolution's leader.",
+      "link": "https://www.saba.ye/en/news3734175.htm",
+      "source": "Saba",
+      "image": "https://www.saba.ye/storage/larage/jTzdOBXqC0p2cwCbeAeQD5pggxiVg1yR.jpg",
+      "published": "2026-06-30 15:36:58",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "yemen"
       ]
     }
   ]

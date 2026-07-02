@@ -1,68 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "China to send senior official to Khamenei funeral",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/world/china-to-send-senior-official-to-ayatollah-ali-khamenei-funeral-in-iran/news-story/1a5955d36806c7e2a431e1db46b921d4",
-      "source": "The Australian",
+      "title": "Belfast City Council denies removing anti-immigration banner at Shore Crescent",
+      "description": "Controversial AI anti-immigration banner in north Belfast sparks hate incident probe and political backlash",
+      "link": "https://www.belfasttelegraph.co.uk/news/belfast-city-council-denies-removing-anti-immigration-banner-at-shore-crescent/a/158161175.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/7o63xx-20260630-152251000-ios.jpg/alternates/BASE_SIXTEEN_NINE/20260630_152251000_iOS.jpg",
+      "published": "2026-07-02 11:03:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Democratic Socialists of America\u2019s co-chair puts Democrats on notice. Read more in today\u2019s WSJ Politics newsletter:",
+      "description": "Plus, Trump\u2019s quest to avoid a forever war with Iran, and the new Air Force One\u2019s maiden presidential flight.",
+      "link": "https://www.wsj.com/politics/policy/with-expletive-laced-flex-dsa-co-chair-puts-dems-on-notice-7d781517",
+      "source": "Wsj",
       "image": null,
-      "published": "2026-07-02 09:03:00",
+      "published": "2026-07-02 11:03:00",
       "category": [
         "politics"
       ],
       "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Atiku appoints Kenneth Okonkwo as spokesperson",
-      "description": "Former Vice President and African Democratic Congress (ADC) presidential candidate for the 2027 election, Atiku Abubakar, has appointed actor-turned-politician and ADC chieftain Kenneth Okonkwo as his spokesperson. The post Atiku appoints Kenneth Okonkwo as spokesperson appeared first on New Mail Nigeria .",
-      "link": "https://newmail-ng.com/kenneth-okonkwo-14/",
-      "source": "New Mail Nigeria",
-      "image": "https://newmail-ng.com/wp-content/uploads/2025/02/Kenneth-Okonkwo.webp",
-      "published": "2026-07-02 09:03:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Thousands of Israelis abroad plan to fly home to vote \u2013 one initiative wants to help them get there",
-      "description": "\u2018Israelis abroad want to be part of decisions shaping the country\u2019s future,\u2019 says AID Coalition co-founder and CEO, giving a voice to the multitudes seeking to vote in these coming elections",
-      "link": "https://www.jpost.com/israel-news/culture/article-901198",
-      "source": "Jpost",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728030",
-      "published": "2026-07-02 09:02:59",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "israel"
-      ]
-    },
-    {
-      "title": "Qatar reports \u2018positive progress\u2019 in indirect US-Iran talks in Doha",
-      "description": "DOHA \u2014 Indirect meetings between US and Iranian delegations in Doha have concluded with \u201cpositive progress\u201d on issues related to a recent memorandum of understanding, host Qatar said on Wednesday. US and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators. \u201cQatar and Pakistan mediators concluded separate meetings with the US and Iranian negotiators in Doha today, with positive progress made on issues related to the Islamabad Memorandum of Understanding, building on the outcomes of the Lake Lucerne Summit,\u201d Foreign Ministry spokesman Majed Al Ansari wrote on social media platform X. \u201cThe parties agreed to continue discussions over the coming period, with the next meeting to be scheduled at the earliest possible time following the funeral processions of the former Iranian Supreme Leader,\u201d he added. Ali Khamenei was killed in a US-Israeli strike Feb. 28. His funeral ceremony is scheduled to start on Friday. US Mideast envoy Steve Witkoff and Jared Kushner, President Donald Trump\u2019s son-in-law, were in Qatar for talks seeking a permanent end to the war, along with Iran\u2019s top negotiator, Kazem Gharibabadi. Negotiators aim to nail down specifics to pave the way for top leaders to seal an agreement, though differences over the Strait of [...]",
-      "link": "https://www.gulf-insider.com/us-iran-talks-qatar-progress/",
-      "source": "Gulf Insider",
-      "image": "https://www.gulf-insider.com/wp-content/uploads/2026/07/2731159.webp",
-      "published": "2026-07-02 09:02:57",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "saudi arabia",
-        "kuwait",
-        "qatar",
-        "united arab emirates",
-        "bahrain"
+        "united states of america",
+        "china"
       ]
     }
   ]

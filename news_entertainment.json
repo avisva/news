@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Josephine Turalba on the West Philippine Sea and the power of art as storytelling",
-      "description": "After Art Basel Hong Kong, Josephine Turalba sits down for an exclusive interview with ABS-CBN Lifestyle to discuss the ideas behind her latest body of work, why beauty matters in political conversations, and how art, diving, photography, design, and academia continue to shape her creative practice",
-      "link": "https://www.abs-cbn.com/lifestyle/people-culture-events/2026/7/3/josephine-turalba-west-philippine-sea-power-of-art-1702",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/2026070309074/3aa6bda39ff505e246a40b1b29a25e030755aec56c7418fd104c4b3142939649.jpg",
-      "published": "2026-07-03 09:02:00",
+      "title": "Silver Screen Spotlight: Angel Studios\u2019 \u201cYoung Washington\u201d hits theaters ahead of July 4",
+      "description": "A new Angel Studios movie is telling the story of our nation\u2019s first leader, before he got that title.",
+      "link": "https://www.weau.com/2026/07/03/silver-screen-spotlight-angel-studios-young-washington-hits-theaters-ahead-july-4/",
+      "source": "Https://www.weau.com",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/IXZTRVQ3TVGSFPZXYIYPQAHS5M.jpg?auth=9d363f36658992a39639d93f8979b97c7f8690e95c2f8d179ee9116235472df4&width=1200&height=600&smart=true",
+      "published": "2026-07-03 11:00:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "philippines"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Upcoming PS2 Re-Release Could Be One of the Rarest Games Ever",
+      "description": "An upcoming remaster/port of a PlayStation 2 game from 2006 could end up being one of the rarest games ever. In recent years, a number of video game publishers have started remaking, remastering, or simply porting over their most popular titles from the PS2 era to modern platforms. This has resulted in new iterations of [...]",
+      "link": "https://comicbook.com/gaming/news/ps2-playstation-2-games-new-release-2026-rare/",
+      "source": "Comic Book",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/11/p-s-2-.png",
+      "published": "2026-07-03 11:00:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

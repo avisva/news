@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Poll: $1,000 and No Disc Drive - Is PS6 Dead on Arrival?",
+      "description": "Nixed-gen. Sony is yet to detail the PS6 in any official capacity, but we're now at a point where we can make a series of educated guesses regarding the next-gen console and its potential features. A couple of which are bound to cause a stir... Read the full article on pushsquare.com",
+      "link": "https://www.pushsquare.com/features/poll-usd1000-and-no-disc-drive-is-ps6-dead-on-arrival",
+      "source": "Push Square",
+      "image": "https://images.pushsquare.com/877ad77003fe0/large.jpg",
+      "published": "2026-07-03 11:00:00",
+      "category": [
+        "technology",
+        "breaking"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "What is Windows Secure Boot? Here\u2019s what to know",
+      "description": "Most people don\u2019t spend time thinking about Secure Boot. (Not even the staff at PCWorld.) But this Windows security feature provides a vital protection against dangerous malware\u2014one some PCs have just lost. So what is Secure Boot, exactly? And why should you pay attention to all the recent news about it? The situation is more complex than you might guess. It also requires a little manual work on everyone\u2019s part. Here\u2019s what you should know. What is Secure Boot? Secure Boot prevents sketchy software from running before you start Windows. It was a response to \u201c bootkits ,\u201d a type of attack that started in the mid-2000s. Attackers would insert malicious code into the boot sequence, allowing them to modify Windows undetected and evade antivirus software detection. Beginning with Windows 8, Microsoft implemented Secure Boot to block such malware. Its rollout was a major boost to PC security. How does Secure Boot work? Think of Secure Boot as similar to a checkpoint for a heavily guarded building. Only people on an approved list can get in, and an agent verifies identities before allowing anyone through. On your PC, Secure Boot performs this kind of screening. It relies on security certificates containing cryptographic information used to verify the drivers and other elements needed to start Windows. In this analogy, Secure Boot is the agent. Code loaded during boot is the person showing an ID (digital signature). And the security certificates are the database containing the IDs of approved entrants. Bootkits target this time during startup, before Windows loads. Intel Why do I need new Secure Boot certificates? Many PCs have shipped with the original versions of the certificates, which were issued in 2011. Only newer computers ship with the next set from 2023. The 2011 Secure Boot certificates were intended to expire after 15 years in 2026. In Microsoft\u2019s own words, this plan was \u201cto ensure Windows devices continue to verify trusted boot software.\u201d Currently, three of the four certs have already reached end-of-life. (This happened in late June 2026.) The fourth will do so in October 2026. Expired certificates mean weakened protection for your PC\u2014Secure Boot won\u2019t be able to block newer attacks on your startup process. Updating to the 2023 certs maintains consistent defense against bootkits and other malware targeting the startup process. How can I tell if I have outdated Secure Boot certificates? You must manually verify in Windows that your Secure Boot certificates are up to date\u2014being able to boot up into Windows isn\u2019t proof. A PC can still enter Windows with expired 2011 certs. In most cases, Windows will notify you of the issue\u2014one clue is seeing a blue shield icon on your Taskbar, with either a yellow or red mark on it. Otherwise, open the Windows Security app and then select Device Security . A green checkmark means you have the 2023 Secure Boot certificates and are up-to-date. A yellow or red warning indicates you must take action. ASUS Is Secure Boot actually necessary? Internet comments now often advise not worrying about UEFI/BIOS level malware, saying only targets of government attacks have to worry. (Ex: You\u2019re a journalist covering North Korea.) But that attitude can be traced back to Secure Boot\u2019s presence in Windows. I was around before its implementation. You didn\u2019t need to be targeted by state-sponsored hackers to end up with a bootkit infection. So you can run your PC with expired Secure Boot certificates, just as you can keep using your car when the Check Engine light comes on. But ignoring the warning can lead to a massive headache later. Getting rid of malware that affects your boot sequence is a huge pain, both for detection and removal. Secure Boot provides protection should that ever happen, because it won\u2019t let your system boot . You at least get a heads-up something nasty has happened to your PC. How do I get updated Secure Boot certificates? Most Windows PCs have had the 2023 Secure Boot certificates pushed to them already. If you see a green checkmark, you\u2019re set and don\u2019t have to worry any further. If you have a yellow or red warning, you\u2019ll have to get more involved with your PC\u2014seeing if your computer will get support from its manufacturer, if you need to perform a manual UEFI/BIOS update, etc. You can read more about what to do (and how to do it) in our Secure Boot update guide . Microsoft will automatically push the 2023 Secure Boot certificates to PCs able to support them. (That\u2019s why you may need to update your PC\u2019s UEFI/BIOS.) Microsoft What happens if I can\u2019t get updated Secure Boot certificates? Your next steps depend on if your PC has received a yellow or red warning. Yellow generally means you just have to sit tight awhile longer (and be sure that your UEFI/BIOS is up to date). Red might mean your PC won\u2019t get the new Secure Boot certificates. Some manufacturers have stated support has ended for certain end-of-life products. This means you won\u2019t get the UEFI/BIOS update needed for the newer 2023 certificates. In such an unfortunate situation, you have two main options. To stay on Windows, you\u2019ll have to buy a new PC. Alternatively, you\u2019ll need to get comfortable with Linux\u2014specifically a distro that can bridge this gap.",
+      "link": "https://www.pcworld.com/article/3181803/what-is-windows-secure-boot-heres-what-to-know.html",
+      "source": "Pcworld",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/07/sunrise-king-NK-cB-l1cv0-unsplash.jpg?quality=50&strip=all",
+      "published": "2026-07-03 11:00:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

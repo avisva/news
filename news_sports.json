@@ -1,65 +1,50 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "U.S. Senior Open Championship",
-      "description": null,
-      "link": "https://www.swoknews.com/u-s-senior-open-championship/article_2f7e4239-97f1-544f-b3e8-1add184f8252.html",
-      "source": "Swoknews",
+      "title": "Ronaldo leads emotional tribute to late teammate as Portugese icon responds to bombshell report",
+      "description": "Cristiano Ronaldo addressed reports of his impending retirement from international football as Portugal's players celebrated a dramatic 2-1 victory against Croatia in their World Cup Round of 32 clash in Toronto.",
+      "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-cristiano-ronaldo-retirement-rumours-portugal-players-pay-tribute-to-the-late-diogo-jota-after-round-of-32-win-against-croatia/news-story/ee3515f55e0e2bfac64e7b8b31930392",
+      "source": "Fox Sports",
       "image": null,
-      "published": "2026-07-03 00:08:00",
+      "published": "2026-07-03 03:09:00",
       "category": [
-        "top",
+        "breaking",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "australia"
       ]
     },
     {
-      "title": "Emrit eyeing \u2018much bigger things\u2019 after ending drought",
-      "description": "\u201cWe\u2019re looking for much bigger things.\u201dFresh from guiding Trinidad and Tobago Red Force to their first regional four-day title in 20 years, head coach Rayad Emrit made it clear that the championship triumph is only the beginning.Speaking at a celebratory...",
-      "link": "https://trinidadexpress.com/sports/local/emrit-eyeing-much-bigger-things-after-ending-drought/article_475c21a3-b71f-4a25-9a9c-48f04ec10024.html",
-      "source": "Trinidadexpress",
-      "image": "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/4/9c/49c33b3b-faf0-4b35-bb48-d48c57b1df68/6a46fde765fa6.image.jpg?crop=732%2C384%2C0%2C63",
-      "published": "2026-07-03 00:08:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "trinidad and tobago"
-      ]
-    },
-    {
-      "title": "A Mercedes and a Bizzarini Drive into a Concours... Both Win!",
-      "description": "The 70th running of this NorCal show makes it the longest continuously running concours in the world.",
-      "link": "https://us.headtopics.com/news/a-mercedes-and-a-bizzarini-drive-into-a-concours-both-85171710",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/7/2/autoweekusa/a-mercedes-and-a-bizzarini-drive-into-a-concours-b-a-mercedes-and-a-bizzarini-drive-into-a-concours-b-C6933881ECD5D61183ED53F36C18BF1F.webp",
-      "published": "2026-07-03 00:07:39",
-      "category": [
-        "sports",
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Every Kid Sports opens the door for three Pearland brothers to play soccer",
-      "description": "Soccer has made a big difference in the lives of three brothers in Pearland, but between registration fees and equipment, the cost of the sport can be overwhelming. Their mom shares how one program helped keep them in the game.",
-      "link": "https://us.headtopics.com/news/every-kid-sports-opens-the-door-for-three-pearland-brothers-85171730",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/7/3/abc13houston/every-kid-sports-opens-the-door-for-three-pearland-every-kid-sports-opens-the-door-for-three-pearland-2D655720160F7713FB1772913E130903.webp",
-      "published": "2026-07-03 00:07:39",
+      "title": "Mariners' Rodriguez removed after being hit in helmet by thrown ball",
+      "description": "SEATTLE (AP) \u2014 Seattle center fielder Julio Rodriguez was removed from the Mariners' game against Los Angeles Angels on Thursday night after being hit in the back of the helmet by a thrown ball.",
+      "link": "https://www.stalbertgazette.com/baseball/mariners-rodriguez-removed-after-being-hit-in-helmet-by-thrown-ball-12504037",
+      "source": "St. Albert News",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/477653dcabdb4bc4e108fa8e41472283e9ae0af298901118c302d5a02eda95d5.jpg",
+      "published": "2026-07-03 03:08:58",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "united states of america"
+        "canada"
+      ]
+    },
+    {
+      "title": "Mariners\u2019 Rodriguez removed after being hit in helmet by thrown ball",
+      "description": "SEATTLE (AP) \u2014 Seattle center fielder Julio Rodriguez was removed from the Mariners\u2019 game against Los Angeles Angels on Thursday night after being hit in the back of the helmet by a thrown ball. Rodriguez was running from first to second on a ground ball in the first inning when first baseman Nolan Schanuel fielded [...]",
+      "link": "https://infonews.ca/news/7726556/mariners-rodriguez-removed-after-being-hit-in-helmet-by-thrown-ball/",
+      "source": "Infonews.ca",
+      "image": "https://infonews.ca/wp-content/uploads/477653dcabdb4bc4e108fa8e41472283e9ae0af298901118c302d5a02eda95d5.jpg",
+      "published": "2026-07-03 03:08:58",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

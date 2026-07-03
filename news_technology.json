@@ -1,29 +1,43 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "The Outer Worlds Dev Obsidian Not at Risk of Closure, It's Now Claimed",
-      "description": "Conflicting reports do the rounds. The Outer Worlds and Avowed developer Obsidian has been named as yet another team within Xbox Games Studios at risk of closure. The Game Business lists the RPG specialist alongside the other publicly named studios fighting for their futures: Ninja Theory ( Hellblade ), Compulsion ( South of Midnight ), Double Fine ( Psychonauts ), and Undead Labs ( State of Decay 3 ). Read the full article on pushsquare.com",
-      "link": "https://www.pushsquare.com/news/2026/07/the-outer-worlds-dev-obsidian-not-at-risk-of-closure-its-now-claimed",
-      "source": "Push Square",
-      "image": "https://images.pushsquare.com/078258edc762d/large.jpg",
-      "published": "2026-07-02 14:45:00",
+      "title": "Longview couple welcomes baby boy",
+      "description": "Download The Daily News app and subscribe at tdn.com/apps to stay up to date on the Lower Columbia news that matters most to you.",
+      "link": "https://tdn.com/news/local/article_e813328c-0022-4c0b-be58-46f7123967e8.html",
+      "source": "The Daily News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/0/e8/0e88b885-525c-5d52-9eec-4fadcfcad153/64813dad1cb7b.image.jpg?resize=1200%2C675",
+      "published": "2026-07-02 18:30:00",
       "category": [
-        "breaking",
+        "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "WhatsApp pausing usernames for hundreds of millions of users over fraud fears",
-      "description": "WhatsApp\u2019s username feature has run into trouble in India, where officials are concerned about impersonation fraud and fake accounts.",
-      "link": "https://www.digitaltrends.com/social-media/whatsapp-pausing-usernames-for-hundreds-of-millions-of-users-over-fraud-fears/",
-      "source": "Digitaltrends",
-      "image": "https://www.digitaltrends.com/tachyon/2026/06/WhatsApp-usernames-featured-image.jpg?resize=1200%2C630",
-      "published": "2026-07-02 14:45:00",
+      "title": "Horoscope Today: Daily astrological predictions for July 3, 2026",
+      "description": "Horoscope Today: Read daily horoscope predictions for July 3, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the stars to bring you the most accurate and up-to-date horoscope predictions for the day ahead. Get ready to discover what the stars have in store for you today.",
+      "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-3-2026/articleshow/132139293.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132139238/132139238.jpg",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Vadzo Imaging Validated the AR0544 Jetson Orin Camera: Falcon-544CRS Delivers Low-Power 5MP UVC Integration for Edge AI Vision",
+      "description": "The Falcon-544CRS is a 5MP color USB 3.2 camera built on the Onsemi AR0544 HyperLux LP sensor, delivering low-power rolling shutter imaging with embedded HDR processing and full UVC compliance, purpose-built for edge AI developers and OEM engineers deploying battery powered and power constrained NVIDIA Jetson Orin platforms across AGV navigation, UAV payload vision, smart city surveillance and embedded AI applications where driverless USB integration and power budget precision are simultaneous",
+      "link": "https://www.financialcontent.com/article/accwirecq-2026-7-2-vadzo-imaging-validated-the-ar0544-jetson-orin-camera-falcon-544crs-delivers-low-power-5mp-uvc-integration-for-edge-ai-vision",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-02 18:30:00",
       "category": [
         "technology"
       ],
@@ -32,22 +46,18 @@
       ]
     },
     {
-      "title": "Google has stopped selling the Nest x Yale Lock as it goes all-in on its replacement",
-      "description": "It\u2019s the end of an era, as the Nest x Yale Lock has been fully removed from the Google Store in favor of its replacement, despite Google not directly selling that alternative.",
-      "link": "https://9to5google.com/2026/07/02/google-stops-selling-nest-x-yale-lock/",
-      "source": "9to5google",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_yale_lock_1.jpg?quality=82&strip=all",
-      "published": "2026-07-02 14:45:00",
+      "title": "Pluss launches Celsure Endura reusable cold chain system",
+      "description": "Aims to tighten temperature control in pharma logistics",
+      "link": "https://www.indianpharmapost.com/supply-chain/pluss-launches-celsure-endura-reusable-cold-chain-system-20815",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-07-02 18:30:00",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "united states of america",
-        "canada",
-        "india",
-        "australia",
-        "germany",
-        "united kingdom"
+        "india"
       ]
     }
   ]

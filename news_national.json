@@ -1,16 +1,45 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "IGNOU's vision aligned with NEP 2020 since inception: Experts",
-      "description": "NEP 2020 reflects principles IGNOU has practised since inception: Experts",
-      "link": "https://www.edexlive.com/news/nep-2020-reflects-principles-ignou-has-practised-since-inception-experts",
-      "source": "Edex Live",
-      "image": "https://cf-images.assettype.com/edexlive/2026-07-02/erfmdroa/800px_IGNOUGATE.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-07-02 14:45:00",
+      "title": "Horoscope Today: Daily astrological predictions for July 3, 2026",
+      "description": "Horoscope Today: Read daily horoscope predictions for July 3, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the stars to bring you the most accurate and up-to-date horoscope predictions for the day ahead. Get ready to discover what the stars have in store for you today.",
+      "link": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-3-2026/articleshow/132139293.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132139238/132139238.jpg",
+      "published": "2026-07-02 18:30:00",
       "category": [
-        "top"
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Walk, watch, wonder: Gallery hopping is Bengaluru\u2019s next great weekend ritual",
+      "description": "Bengaluru may be known for its breweries and start-up culture, but tucked between them is a thriving contemporary art scene waiting to be explored. Ne.",
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/walk-watch-wonder-gallery-hopping-is-bengalurus-next-great-weekend-ritual/articleshow/132135392.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132135381/132135381.jpg",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Pluss launches Celsure Endura reusable cold chain system",
+      "description": "Aims to tighten temperature control in pharma logistics",
+      "link": "https://www.indianpharmapost.com/supply-chain/pluss-launches-celsure-endura-reusable-cold-chain-system-20815",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "top",
+        "technology"
       ],
       "country": [
         "india"

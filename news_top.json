@@ -1,150 +1,105 @@
 {
   "status": "success",
-  "totalResults": 12,
+  "totalResults": 15,
   "results": [
     {
-      "title": "Arthur Murray Dance Studio of Roxbury Promotes Ballroom Dance Lessons",
-      "description": "What to Expect During Your First Dance Lesson as a Beginner Succasunna, United States - July 1, 2026 / Arthur Murray",
-      "link": "https://norfolkdailynews.com/online_features/press_releases/arthur-murray-dance-studio-of-roxbury-promotes-ballroom-dance-lessons/article_08b1e008-e76f-508c-866c-3e97f6cb80e9.html",
-      "source": "Norfolk Daily News",
-      "image": null,
-      "published": "2026-07-02 14:45:00",
+      "title": "US beef prices stay red-hot for summer cookouts",
+      "description": "Grill masters and home chefs face sizzling beef prices for summer cookouts as cattle supplies are at their lowest levels in 75 years.",
+      "link": "https://scnow.com/news/nation-world/business/economy/article_1a0fb921-440a-5bf4-bce5-1dbc9587639b.html",
+      "source": "Scnow",
+      "image": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/3/d7/3d7e91b7-fd17-59ad-9062-c57e85d403f2/6a4691d23a5e4.image.jpg",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Longview couple welcomes baby boy",
+      "description": "Download The Daily News app and subscribe at tdn.com/apps to stay up to date on the Lower Columbia news that matters most to you.",
+      "link": "https://tdn.com/news/local/article_e813328c-0022-4c0b-be58-46f7123967e8.html",
+      "source": "The Daily News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/0/e8/0e88b885-525c-5d52-9eec-4fadcfcad153/64813dad1cb7b.image.jpg?resize=1200%2C675",
+      "published": "2026-07-02 18:30:00",
       "category": [
         "top",
-        "entertainment"
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Dissidents being shown the door",
-      "description": "Tucker Carlson said he could no longer support the Republican Party. In that regard, he finds himself in familiar company. A growing faction on the populist right \u2014 including figures such as Candace Owens, Marjorie Taylor Greene and Nick Fuentes...",
-      "link": "https://norfolkdailynews.com/commentary/dissidents-being-shown-the-door/article_6a354b33-0522-43d0-9fc0-22ff99759ef0.html",
-      "source": "Norfolk Daily News",
-      "image": null,
-      "published": "2026-07-02 14:45:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Grant helps power playground development in Columbus",
-      "description": "Sertomaland playground didn\u2019t feel new on Tuesday. It felt returned \u2014 like something the community had carried in memory for decades had finally been rebuilt in front of them \u2014 not as a replica of the past, but as an...",
-      "link": "https://norfolkdailynews.com/columbus/grant-helps-power-playground-development-in-columbus/article_7ad48dbb-7b4a-4b27-a6fb-341eff945352.html",
-      "source": "Norfolk Daily News",
-      "image": null,
-      "published": "2026-07-02 14:45:00",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Multiple men arrested on immigration charges as boat arrives on Essex coast",
-      "description": "Police and National Crime Agency officers are investigating an incident at Holland-on-Sea after a vessel was reportedly seen dropping people off.",
-      "link": "https://www.gazette-news.co.uk/news/26248743.multiple-men-arrested-immigration-charges-off-clacton-coast/",
-      "source": "The Gazette",
-      "image": null,
-      "published": "2026-07-02 14:45:00",
+      "title": "Lawsuit against Dorchester state's attorney dismissed, as judge says prosecutors immune",
+      "description": "A federal judge has dismissed a lawsuit brought by a man acquitted of a 2021 Cambridge murder, ruling that Dorchester County prosecutors accused of withholding evidence are shielded by prosecutorial immunity, according to federal court documents.",
+      "link": "https://www.stardem.com/news/crime/lawsuit-against-dorchester-states-attorney-dismissed-as-judge-says-prosecutors-immune/article_18875178-e1b2-4468-8a62-39ee4282f6e3.html",
+      "source": "The Star Democrat",
+      "image": "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/assets/v3/editorial/5/90/590c9f90-0175-404b-87fe-66d4bad9d6d8/69c56d8acdf93.image.jpg?crop=600%2C315%2C0%2C216",
+      "published": "2026-07-02 18:30:00",
       "category": [
         "top",
         "crime"
       ],
       "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Norfolk leaders furious at no consultation over bid for 1,200 migrants at RAF Barnham",
-      "description": "Angry leaders at Norfolk County Council have said they were not consulted about government plans to house 1,200 asylum seekers at RAF Barnham.",
-      "link": "https://www.edp24.co.uk/news/26248708.norfolk-council-not-consulted-raf-barnham-migrant-move/",
-      "source": "Edp24",
-      "image": null,
-      "published": "2026-07-02 14:45:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Appeal launched in search for 16-year-old girl who has gone missing from Trafford",
-      "description": "An appeal has been launched in the search for a teenage girl who has gone missing after last being seen in Trafford",
-      "link": "https://www.messengernewspapers.co.uk/news/26248725.appeal-launched-girl-16-goes-missing-trafford/",
-      "source": "Messenger Newspapers",
-      "image": "https://www.messengernewspapers.co.uk/resources/images/18675794/",
-      "published": "2026-07-02 14:45:00",
-      "category": [
-        "lifestyle",
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "California bans 'sell by' food labels to cut food waste",
-      "description": "A new California law requires food manufacturers to use just two labels: \"Best if Used By\" for peak quality and \"Use By\" for safety.",
-      "link": "https://www.ksby.com/news/california-news/california-bans-sell-by-food-labels-to-cut-food-waste",
-      "source": "Ksby News",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/29fe7dc/2147483647/strip/true/crop/5251x2757+0+372/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F87%2F9d%2F60cd2a4f4de7ad8ba38d1ee66e25%2Fap26181708248074.jpg",
-      "published": "2026-07-02 14:45:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Athlete of the Week: Joslyn Vogt's growth and consistency helps lead Sioux City North",
-      "description": "Joslyn Vogt is dedicated to her craft. As one of the area's best pitchers, the Journal's Athlete of the Week has driven opposing hitters crazy for several seasons. And she's only getting better.",
-      "link": "https://siouxcityjournal.com/sports/high-school/softball/article_e76c87f3-3634-454d-946a-22144ebf795d.html",
-      "source": "Sioux City Journal News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/f/ee/fee3eff6-077e-5c0a-806f-4b864e934ed5/6a465daf31a31.image.jpg?resize=1200%2C675",
-      "published": "2026-07-02 14:45:00",
+      "title": "Spain v Austria - FIFA World Cup round of 32",
+      "description": "Follow live coverage of the FIFA World Cup game between Spain and Austria in Los Angeles.",
+      "link": "https://www.stuff.co.nz/sport/360999810/live-spain-v-austria-fifa-world-cup",
+      "source": "Stuff",
+      "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYa2detWgTrK4pFGxc9ntJ1Pd1VThsK0SQk6bpQAq4LDMjlL1f41od2SUAY5k+IgdRgwYE3gSNW12luK+RhAdGCWckL6VH73eyM7dp1XHrKPqbMzOEJu%2FJkUa5htihW9z8L11xef+moT2t8RzMp5Gtj+kjtt7rz7JPf7zTS5jm7ltTBMsCyYZTLmGkmbm1YhoTrtmwKRxmZh9ica50IHTDuhM7a0WQDL3S+p2AeNMhJf89bGXxPaS5RfVNV89NPZQBNuy+MhPCiMP2+Nat0Qu6Kbwi6HFI8Bim9zPJhldkAq67IjCiNKBSkn+O0nqdF3Bo5RttdLCp3J7zWDif3GuiS2P9o+SbiilMQf9xYkg4pFGNjKo4okbSGE7cwE84KsmftJwpLxQcFObx6GnINL+EG++K1SL6fJrA1KeHmwewyHko61jYM6FhUSDZMXdC1rN9EsKBb1fWpMw2bZJrAWNn84=",
+      "published": "2026-07-02 18:30:00",
       "category": [
-        "lifestyle",
+        "sports",
         "top"
       ],
       "country": [
-        "united states of america"
+        "new zealand"
       ]
     },
     {
-      "title": "Okotoks RCMP to train for active threats at Westmount School",
-      "description": "Police will use 'sim-unition', which sounds like gunfire, as two days of training next week will simulate high stress situations.",
-      "link": "https://www.westernwheel.ca/local-news/okotoks-rcmp-to-train-for-active-threats-at-westmount-school-12499672",
-      "source": "Western Wheel",
-      "image": "https://www.vmcdn.ca/f/files/cochranetoday/2024/rcmp.jpg",
-      "published": "2026-07-02 14:45:00",
+      "title": "Flying high: Paraglider launches Lumby record",
+      "description": "Longest Paraglider FAI tirangle flight ever recorded off of Coopers Launch",
+      "link": "https://lakecountrycalendar.com/2026/07/02/flying-high-paraglider-launches-lumby-record/",
+      "source": "Central Okanagan News",
+      "image": "https://lakecountrycalendar.com/wp-content/uploads/sites/35/2026/07/42712367_web1_260702-VMS-Paragliding-Record_1.jpg",
+      "published": "2026-07-02 18:30:00",
       "category": [
-        "top",
-        "crime"
+        "sports",
+        "lifestyle",
+        "top"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "2026 Girls Track and Field All-Area Team",
-      "description": null,
-      "link": "https://www.nvdaily.com/nvdaily/2026-girls-track-and-field-all-area-team/article_45824cc6-0912-504d-b6b0-04bec56bf8e4.html",
-      "source": "Nvdaily",
-      "image": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/a/76/a7653cfe-4f5e-5a4e-949f-aaf57641dfb9/6a3a904ca44f4.image.jpg?crop=1246%2C654%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-07-02 14:45:00",
+      "title": "Victoria jazz duo set to perform free parkade concert at UVic",
+      "description": "The Meating is made up of multi-instrumentalist Marc Micu and jazz guitarist Ryan Keating",
+      "link": "https://oakbaynews.com/2026/07/02/victoria-jazz-duo-set-to-perform-free-parkade-concert-at-uvic/",
+      "source": "Oak Bay News",
+      "image": "https://oakbaynews.com/wp-content/uploads/sites/18/2026/07/42711043_web1_260702-SNE-Jazz-parkade-show-1_1.jpg",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "A&M men's basketball's preseason Bahamas trips schedule announced",
+      "description": "The Texas A&M men's basketball team will play three exhibition games during a trip to the Bahamas in August.",
+      "link": "https://theeagle.com/sports/college/aggiesports/mens_basketball/article_3ddccd56-9694-40f7-82c2-1833d442b741.html",
+      "source": "The Eagle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/b/6c/b6c39e2e-5b9b-56ad-93a4-ec147e2d6ed6/6a3b09026fec9.image.jpg?resize=1200%2C675",
+      "published": "2026-07-02 18:30:00",
       "category": [
         "sports",
         "top"
@@ -154,30 +109,119 @@
       ]
     },
     {
-      "title": "IGNOU's vision aligned with NEP 2020 since inception: Experts",
-      "description": "NEP 2020 reflects principles IGNOU has practised since inception: Experts",
-      "link": "https://www.edexlive.com/news/nep-2020-reflects-principles-ignou-has-practised-since-inception-experts",
-      "source": "Edex Live",
-      "image": "https://cf-images.assettype.com/edexlive/2026-07-02/erfmdroa/800px_IGNOUGATE.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-07-02 14:45:00",
+      "title": "Suspect sustains broken bones after drop from I-35E overpass, Denton police say",
+      "description": "Denton police reported that a man sustained injuries after he dropped from an overpass at Interstate 35E and Fort Worth Drive on Wednesday.",
+      "link": "https://dentonrc.com/news/crime/blotter/suspect-sustains-broken-bones-after-drop-from-i-35e-overpass-denton-police-say/article_90f7bdf9-a588-4334-b129-2eac8cd0c45a.html",
+      "source": "Denton Record-chronicle",
+      "image": "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/5/5a/55a8a55f-4c0c-531d-bc2d-53ebaf7b44f1/6570db733b26a.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-07-02 18:30:00",
       "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Expanded print edition Friday includes 'America @250' keepsake section",
+      "description": "Friday's print edition of The Daily News will be an expanded publication due to Saturday's Fourth of July holiday.",
+      "link": "https://www.thedailynewsonline.com/news/expanded-print-edition-friday-includes-america-250-keepsake-section/article_9755bb4c-ef3d-47df-a58b-a0be627613fd.html",
+      "source": "Thedailynewsonline",
+      "image": null,
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "business",
         "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pluss launches Celsure Endura reusable cold chain system",
+      "description": "Aims to tighten temperature control in pharma logistics",
+      "link": "https://www.indianpharmapost.com/supply-chain/pluss-launches-celsure-endura-reusable-cold-chain-system-20815",
+      "source": "Indianpharmapost",
+      "image": null,
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "top",
+        "technology"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Hospital projects, health spending lift demand for B.C. medical office space (BC)",
-      "description": "Medical office is a distinct asset class in B.C. commercial real estate that is riding the wave of higher health-care spending, aging baby boomers and major hospital projects, though concerns remain around new project viability. Total health-care spending in Canada was expected to reach $399 bill...",
-      "link": "https://www.castanet.net/news/BC/622752/Hospital-projects-health-spending-lift-demand-for-B-C-medical-office-space",
-      "source": "Castanet",
+      "title": "Bloomington man gets 24 years for possessing photos of children being sexually abused",
+      "description": "A Bloomington man has been sentenced to 24 years in prison after he pleaded guilty to possessing images that depict the sexual abuse of children.",
+      "link": "https://pantagraph.com/news/local/crime-courts/article_8956d850-893a-4713-bc9f-82a7a17a4ea9.html",
+      "source": "Pantagraph",
+      "image": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/8/95/8956d850-893a-4713-bc9f-82a7a17a4ea9/6a45558c662ff.preview.png?crop=1067%2C560%2C0%2C19",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fireworks safety urged this July 4",
+      "description": "SOUTH BELOIT - As Independence Day approaches, the South Beloit Fire and Police Department encourage residents to celebrate responsibly.",
+      "link": "https://www.beloitdailynews.com/news/local-news/fireworks-safety-urged-this-july-4/article_ffb36358-9a82-4201-bdc5-1253abc67547.html",
+      "source": "Beloit Daily News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/5/82/5821340f-b8a9-5db2-a53a-e4020307b180/6a454ca580a7d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Op-ed: The most inspirational Nebraskans are the Benedictine monks of Mount Michael Abbey",
+      "description": "In an entry in The World-Herald's Nebraska history essay contest, Jack Horgan writes about the monks of Mount Michael Abbey.",
+      "link": "https://journalstar.com/article_387b10bf-2602-5271-bfa3-07f12eafdf83.html",
+      "source": "Lincoln Journal Star",
       "image": null,
-      "published": "2026-07-02 14:45:00",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "OPINION: Alaska has a rare opportunity to transform rural health",
+      "description": "When people hear that Alaska has been awarded $272 million per year for five years through the Rural Health Transformation Program, one of the first questions they ask is simple: What are we going to do with it?",
+      "link": "https://www.juneauempire.com/2026/07/02/opinion-alaska-has-a-rare-opportunity-to-transform-rural-health/",
+      "source": "Juneau Empire",
+      "image": "https://www.juneauempire.com/wp-content/uploads/sites/12/2026/07/42663056_web1_AssistanceHearing-JUE-230125-healthcommis_2.jpg",
+      "published": "2026-07-02 18:30:00",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Scottsbluff council to discuss community feedback, hold public hearings Monday",
+      "description": "The Scottsbluff City Council will consider several permitting and zoning matters, as well as holding a discussion regarding downtown commercial activity and community feedback, at their regular meeting Monday.",
+      "link": "https://journalstar.com/news/state-regional/nebraska/article_23d9f002-7500-50a5-a21f-f12ad9c8d09c.html",
+      "source": "Lincoln Journal Star",
+      "image": null,
+      "published": "2026-07-02 18:30:00",
       "category": [
         "business",
-        "top",
-        "health"
+        "top"
       ],
       "country": [
         "united states of america"

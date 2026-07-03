@@ -1,25 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "A Synthetic Cell Built Entirely From Scratch Has Reached a Milestone That Scientists Once Thought Impossible",
-      "description": "What happens when scientists start with nothing but chemical components and attempt to recreate a living cell, one of biology's greatest feats?",
-      "link": "https://dailygalaxy.com/2026/07/scientists-built-first-synthetic-cell/",
-      "source": "The Daily Galaxy",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/07/A-Synthetic-Cell-Built-Entirely-From-Scratch-Has-Reached-a-Milestone-That-Scientists-Once-Thought-Impossible-scaled.jpg",
-      "published": "2026-07-02 14:45:00",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "australia",
-        "india",
-        "canada",
-        "united states of america",
-        "russia",
-        "china"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

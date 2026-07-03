@@ -1,43 +1,175 @@
 {
   "status": "success",
-  "totalResults": 22,
+  "totalResults": 26,
   "results": [
     {
-      "title": "Ronaldo leads emotional tribute to late teammate as Portugese icon responds to bombshell report",
-      "description": "Cristiano Ronaldo addressed reports of his impending retirement from international football as Portugal's players celebrated a dramatic 2-1 victory against Croatia in their World Cup Round of 32 clash in Toronto.",
-      "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-cristiano-ronaldo-retirement-rumours-portugal-players-pay-tribute-to-the-late-diogo-jota-after-round-of-32-win-against-croatia/news-story/ee3515f55e0e2bfac64e7b8b31930392",
-      "source": "Fox Sports",
-      "image": null,
-      "published": "2026-07-03 03:09:00",
+      "title": "Nothing Phone 4b RCB Edition revealed: Matte red design, but you can only buy it in Bengaluru",
+      "description": "Nothing Phone 4b RCB Edition: The phone launches alongside the standard Nothing Phone 4b, but unlike a typical smartphone launch, this edition won't be sold online or through retail stores nationwide. It will go on sale for one day only at the Nothing Bengaluru Store.",
+      "link": "https://zeenews.india.com/technology/nothing-phone-4b-rcb-edition-revealed-matte-red-design-but-you-can-only-buy-it-in-bengaluru-3059075.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/07/03/1961094-nothing-4b-rcb-edition.jpg",
+      "published": "2026-07-03 05:23:00",
       "category": [
-        "breaking",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "NCINGA and AWS Convene National Leaders to Architect Sri Lanka\u2019s Sovereign Digital Future at Inaugural \u2018GROUNDED\u2019 Symposium",
+      "description": "Global technology solutions provider NCINGA, in partnership with Amazon Web Services (AWS), convened over 100 of the nation\u2019s top government and enterprise leaders at the inaugural \u201cGROUNDED: Sovereign Cloud Symposium\u201d on June 17. The event introduced AWS Outposts, a hybrid cloud solution that brings the full power of AWS securely within Sri Lanka\u2019s borders, finally aligning rapid digital transformation with stringent data residency and security requirements. Signalling a shift from basic cloud adoption to strategic architecture, the symposium reinforced a foundational truth: successful digital nations combine Global Innovation with National Ownership and Local Capability. Leaders emphasised that a nation cannot simply procure digital excellence off a shelf; it must be architected with sovereign intent and built with homegrown talent to ensure economic resilience and secure public service delivery. Setting the national agenda, Dr. Hans Wijayasuriya, Chief Advisor to His Excellency the President of Sri Lanka on Digital Economy, framed the discussion within the government\u2019s audacious goal to grow the digital economy by 5X to over 15 billion by 2030. He outlined the country\u2019s core technology principles of Cloud\u2212First, AI\u2212First, and a primacy for Horizontal Systems, designed to break down data silos and speed up the delivery of citizen services. He specifically recognised hybrid models like AWS Outposts as the \u201cbest of both worlds,\u201d bringing global\u2212scale innovation into a secure, resident environment to unlock a $25 billion value creation opportunity. Endorsing the state\u2019s commitment, Hon. Eng. Eranga Weeraratne, Deputy Minister to the Digital Economy, positioned digitalisation as the critical path for Sri Lanka to \u201cleapfrog\u201d its economic development. He detailed the government\u2019s formal Cloud-First policy and expressed a clear national ambition for Sri Lanka to become a regional data centre hub. The symposium\u2019s central panel discussion, moderated by Vajira Wijesinghe, Group MD of NCINGA, translated high-level strategy into executable action. Industry leaders Pete Herlihy (Digital Public Infrastructure Lead, AWS), Steve Dodd (CDO of MAS Holdings), Jayantha Fernando (Partner, Heritage Partners), and Ishari Siriwardane (General Manager of Digital Transformation Projects at SLT-Mobitel) debated the core challenges of balancing sovereignty with speed, tackling the national tech talent bottleneck, and financing digital transformation at scale. Providing crucial context, sessions from AWS leaders Mayank Arora, leading Government, Education, and Transportation for AWS in India & South Asia, and Raja Rajaram, Hybrid Cloud Business Leader for AWS in APJ, detailed the practical path forward, sharing public sector success stories from across the region and presenting a deep dive into the AWS Outposts architecture for achieving a truly consistent hybrid cloud experience. Imal Kalutotage, Founder and Chairman of NCINGA stated, \u201cThis a historic moment for the country where a hyperscaler like AWS showing their commitment to invest in Sri Lanka. We moved beyond why we need digital transformation to how we architect it for a sovereign nation. Through our partnership with AWS and our deep commitment to Sri Lanka, NCINGA is not just providing technology; we are building the foundational pillars that will support our nation\u2019s economic aspirations for decades to come.\u201d The event concluded with interactive showcases of the NCINGA AI Factory and AWS Outposts, providing a tangible roadmap for how public and private sector entities can begin their modernisation journey immediately, without compromising on security or sovereignty.",
+      "link": "http://bizenglish.adaderana.lk/ncinga-and-aws-convene-national-leaders-to-architect-sri-lankas-sovereign-digital-future-at-inaugural-grounded-symposium/",
+      "source": "Adaderana News",
+      "image": "http://s3.amazonaws.com/bizenglish/wp-content/uploads/2026/07/03105248/Image-3-1110-300x200.jpg",
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Morrisons confirms new \u00a313 rule in UK supermarkets from July 20",
+      "description": "The pay deal having secured the necessary support from colleagues it will now be implemented in three phases",
+      "link": "https://www.birminghammail.co.uk/whats-on/shopping/morrisons-confirms-new-13-rule-34204851",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34204911.ece/ALTERNATES/s615/0_morrisons.jpg",
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "6.2-magnitude earthquake strikes off eastern Indonesia, no tsunami threat",
+      "description": "The jolt struck at a depth of 120km, around 58km west of Tobelo, in North Maluku province at 11.31am local time.",
+      "link": "https://www.straitstimes.com/asia/se-asia/6-2-magnitude-earthquake-strikes-off-eastern-indonesia-no-tsunami-threat",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Virat Kohli creates history, dethrones Kim Kardashian to become...",
+      "description": "In another remarkable milestone that highlights cricket's growing global influence and the changing landscape of social media, Indian cricket superstar Virat Kohli has surpassed American media personality Kim Kardashian.",
+      "link": "https://zeenews.india.com/cricket/virat-kohli-creates-history-dethrones-kim-kardashian-to-become-3059076.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/07/03/1961095-fotojet-92.jpg",
+      "published": "2026-07-03 05:23:00",
+      "category": [
         "sports"
       ],
       "country": [
-        "australia"
+        "india"
       ]
     },
     {
-      "title": "The Riv talks ... Frank Sultana, Echuca Moama Winter Blues Festival",
-      "description": "Frank Sultana shares his journey from winning the 2023 Memphis Blues Challenge to his 2026 festival return.",
-      "link": "https://www.countrynews.com.au/podcasts/the-riv-talks-frank-sultana-echuca-moama-winter-blues-festival/",
-      "source": "Country News",
-      "image": "https://imengine.public.prod.mmg.navigacloud.com/?uuid=8da9e178-360d-5a92-bbd7-f75a3503ed13&function=original&type=preview",
-      "published": "2026-07-03 03:09:00",
+      "title": "Red Wings' free agency fails to impress NHL experts",
+      "description": null,
+      "link": "https://www.detroitnews.com/story/sports/nhl/red-wings/2026/07/03/detroit-red-wings-in-losers-category-in-free-agency-by-nhl-experts/90791875007/",
+      "source": "Detroit Local News",
+      "image": null,
+      "published": "2026-07-03 05:23:00",
       "category": [
-        "entertainment"
+        "domestic"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     },
     {
-      "title": "'Gatta Kusthi 2' Twitter Review: Fans call Vishnu Vishal and Aishwarya Lekshmi's film a complete family e - The Times of India",
-      "description": "'Gatta Kusthi 2' Twitter Review: Fans call Vishnu Vishal and Aishwarya Lekshmi's film a complete family e The Times of India \u2018Gatta Kusthi 2\u2019 movie review: Double the fun, same old pitfalls The Hindu Vishnuu Vishal: I never thought Gatta Kusthi would get a sequel The New Indian Express Gatta Kusthi 2 review: Men talk feminism in Vishnu Vishal film, but women pay for it India Today Browsing: Vishnuu Vishal\u2019s Gatta Kusthi 2 cleared for release with a \u2018U\u2019 certificate newstodaynet.com",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNSHFPRER4Vjl6Wm5DMW1VQmZhM2s3LTM1aFlyenFlWHp5bjM1U3RRSGszMURmcDd6dkd1TXBIYllVendBbHVuNklJQ3hJRUNBM2U3YzZNbUs4R0k3amRfdEgyWkhmTkI0ZDZhQzR5UTNTX3Via1FXUmtyY05yZGNJakIzbWZUVGZwd3FsaTM2Q1pldG9Ba2JRek9Qd1lKenkwbzhWMFNaRlRvVGNVY3hDTHdPbTY0VGtJOVhta0ZYbTZKSmM0aWpkUnBHWHNKb0Nid3pPY2Y0N2prNjVyRHczWlRhTGtDNzNvdmJESy13blE2dV9aS2t5dmkxbmJOUE9PU01mdjlWQm80TlV5ZWlXdjlzTllGRXVQQlMtMWxHS2I5QmFPNllmbDkwNEZaUQ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-03 03:09:00",
+      "title": "Red Fort To Rajghat, Mehrauli-Gurugram Road: Delhi Plans 25 New Signal-Free Corridors Using U-Turn Model",
+      "description": "Delhi Traffic System Delhi proposes making 25 more corridors signal-free using a U-turn model to ease traffic congestion and reduce pollution This plan based on an NGOs recommendation aims to improve travel and safety across key areas like Red Fort Circuit and Mehrauli-Gurugram Road",
+      "link": "https://www.thedailyjagran.com/india/delhi-plans-25-new-signal-free-corridors-using-u-turn-model-red-fort-to-rajghat-mehrauli-gurugram-road-10319022",
+      "source": "Jagran English",
+      "image": "https://images.thedailyjagran.com/article-img/2026/07/03/1200x675/DELHITRAFFIC-1783056059059.webp",
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "PH\u2019s upper-middle-income status: Milestone or mirage?",
+      "description": "The Philippines has officially entered the World Bank\u2019s upper-middle-income category, with its gross national income per capita reaching $4,850, exceeding the $4,636 threshold in the World Bank\u2019s latest income classification. The reclassification is a statistical achievement. Upper-middle-income country, or UMIC, status can enhance investor confidence and global prestige. But the Philippines\u2019 classification as an upper-middle-income country is also a mirage \u2014 an illusion of prosperity that masks inequality, debt dependence, declining purchasing power, debt rigidity and vulnerability to external shocks. Without structural reforms in currency stabilization, agricultural empowerment and governance accountability, the UMIC label risks becoming another layer of dependency [...]... Keep on reading: PH\u2019s upper-middle-income status: Milestone or mirage?",
+      "link": "https://business.inquirer.net/598645/phs-upper-middle-income-status-milestone-or-mirage",
+      "source": "Inquirer",
+      "image": "https://business.inquirer.net/files/2025/02/Megaworld-Uptown-BGC-620x412.png",
+      "published": "2026-07-03 05:22:58",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Christchurch buzzing for Te Kaha test",
+      "description": "Te Kaha Stadium opened earlier this year. Photo: Star News Joe Porter of RNZ The wait has been a long one for Christchurch rugby fans.",
+      "link": "https://www.odt.co.nz/star-news/star-christchurch/christchurch-buzzing-te-kaha-test",
+      "source": "Otago Daily Times",
+      "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/fans_poekaireua_r_and_milika_will_be_c.jpg?itok=Xe9GTwtG",
+      "published": "2026-07-03 05:22:58",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Breel Embolo and Dan Ndoye on target as Switzerland end Algeria World Cup hopes",
+      "description": "Switzerland won a World Cup knockout game for the first time since 1938.",
+      "link": "https://www.the42.ie/switzerland-world-cup-algeria-7089493-Jul2026/",
+      "source": "The42",
+      "image": "https://c0.thejournal.ie/media/2026/07/aptopix-algeria-switzerland-wcup-soccer-0d802f5b-2146-42ae-8edd-4b1794a5bd1a-630x420.jpg",
+      "published": "2026-07-03 05:22:56",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Bishkek Acting Vice Mayor inspects school renovations",
+      "description": "News and analytical articles about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
+      "link": "https://akipress.com/news:905420",
+      "source": "Akipress",
+      "image": "https://cdn-1.aki.kg/cdn-st-0/qiB/3/en-905420.1783056861.b.jpg",
+      "published": "2026-07-03 05:22:55",
+      "category": [
+        "education",
+        "top"
+      ],
+      "country": [
+        "kyrgyzstan"
+      ]
+    },
+    {
+      "title": "SCOOP: After Lagaan, Aamir Khan and Ashutosh Gowarikar\u2019s next is titled Lalkaar : Bollywood News",
+      "description": "25 years after Lagaan, Aamir Khan and Ashutosh Gowarikar are reuniting on another sports drama, which is scheduled to go on floors in October 2026. The film is based on...",
+      "link": "https://www.swapupdate.in/scoop-after-lagaan-aamir-khan-and-ashutosh-gowarikars-next-is-titled-lalkaar-bollywood-news/",
+      "source": "Swapupdate",
+      "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/07/Lagaan-Aamir-Khan.jpg",
+      "published": "2026-07-03 05:22:55",
       "category": [
         "entertainment"
       ],
@@ -46,12 +178,100 @@
       ]
     },
     {
-      "title": "Who is Shoko Kawata? Why Japan\u2019s youngest Mayor\u2019s pregnancy has the nation divided",
-      "description": "Shoko Kawata made history by becoming Japan\u2019s youngest-ever female city mayor of Yawata at the age of 33.",
-      "link": "https://zeenews.india.com/world/who-is-shoko-kawata-why-japan-s-youngest-mayor-s-pregnancy-has-the-nation-divided-3059060.html",
-      "source": "Zee News",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/07/03/1961079-shoko-kwata-x.jpg",
-      "published": "2026-07-03 03:09:00",
+      "title": "Ayodhya Ram Temple Probe: SIT Expands Land Deal Investigation as Parallel Donation Theft Inquiry Continues",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"195\" data-end=\"487\">The Special Investigation Team (SIT) has intensified its investigation in Ayodhya by widening its probe into land purchases made by the Shri Ram Janmabhoomi Teerth Kshetra Trust, while a separate investigation into the alleged theft of temple offerings is also progressing simultaneously. As part of the latest phase of the inquiry, SIT officials revisited Ayodhya and examined documents related to land acquisitions carried out by the Trust. Investigators questioned Trust member Gopal Rao and trustee Dr. Anil Mishra, with the latter reportedly undergoing several hours of questioning regarding land-related records and payment procedures. Officials are reviewing documentation to verify the circumstances surrounding the transactions. According to sources, the SIT also plans to question Champat Rai, the Trust's General Secretary, to seek his response regarding allegations linked to certain land purchases. The investigation is examining claims that some properties were acquired at prices significantly higher than their reported values. Authorities are verifying documentary evidence before drawing any conclusions. The SIT is expected to submit its final report by July 15, making the ongoing phase of evidence collection and witness examination particularly significant. Investigators continue to scrutinize financial records, land documents, and statements from individuals connected to the transactions. Parallel to the land inquiry, police are continuing their investigation into the alleged theft of offerings received at the Ram Temple. The accused, Avinash Shukla, remains under interrogation as investigators pursue additional evidence, including the search for a motorcycle believed to be relevant to the case. Political reactions have also emerged following the developments, with leaders from different sides making statements over the ongoing investigations and allegations. However, the SIT has not announced any findings or established wrongdoing at this stage. Both investigations remain active, and officials have emphasized that conclusions will be based on the evidence gathered during the inquiry.</p>",
+      "link": "https://news.abplive.com/videos/news/india-ayodhya-ram-temple-probe-sit-expands-land-deal-investigation-as-parallel-donation-theft-inquiry-continues-1854195",
+      "source": "Abp News",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/03/a47a72fcc6ac1011e30e6fc37f1ac50a1783055960776963_original.png?impolicy=abp_cdn&imwidth=1200&height=675",
+      "published": "2026-07-03 05:22:55",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "BREAKING: Julian Nagelsmann quits Germany after World Cup disaster as Jurgen Klopp favourite for job",
+      "description": "Germany were knocked out of the World Cup by Paraguay with Julian Nagelsmann under pressure during the tournament and now he has left his role with the national team",
+      "link": "https://www.mirror.co.uk/sport/football/news/germany-julian-nagelsmann-jurgen-klopp-37381148",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37381152.ece/ALTERNATES/s615/0_GettyImages-2283723435.jpg",
+      "published": "2026-07-03 05:22:55",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Embolo, Ndoye score and Switzerland moves on at the World Cup with a 2-0 win over Algeria",
+      "description": null,
+      "link": "https://www.houstonchronicle.com/sports/article/embolo-ndoye-score-and-switzerland-moves-on-at-22331386.php",
+      "source": "Houston Chronicle",
+      "image": "https://s.hdnux.com/photos/01/66/57/56/31128473/3/square_large.jpg",
+      "published": "2026-07-03 05:22:54",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "7 Most Scenic Drives in Texas That Belong on Every Road Trip",
+      "description": "Everything is bigger in Texas\u2014including its road trips. From the rugged peaks of West Texas and the towering canyons of Big Bend to the flower-filled hills of the Hill Country and the peaceful Gulf Coast, the Lone Star State offers some of America\u2019s most memorable scenic drives. Whether you\u2019re chasing spring wildflowers, winding through mountain ... Read more",
+      "link": "https://southhillenterprise.com/7-most-scenic-drives-in-texas-that-belong-on-every-road-trip/",
+      "source": "Southhillenterprise",
+      "image": "https://southhillenterprise.com/wp-content/uploads/2026/07/7-Most-Scenic-Drives-in-Texas-That-Belong-on-Every-Road-Trip.jpg",
+      "published": "2026-07-03 05:22:49",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "India News | Delhi Police Busts Expiry Date Manipulation Racket, Seizes Food Worth Rs 20 Lakh in Okhla",
+      "description": "Get latest articles and stories on India at LatestLY. Delhi Police has busted a major racket allegedly involved in manipulating expiry dates and repackaging expired international branded food products for sale in domestic and international markets, recovering goods worth more than Rs 20 lakh, officials said.",
+      "link": "https://www.latestly.com/agency-news/india-news-delhi-police-busts-expiry-date-manipulation-racket-seizes-food-worth-rs-20-lakh-in-okhla-7500821.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2018/03/default-img-01.jpg",
+      "published": "2026-07-03 05:22:47",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Private Parts Chopped, Throat Slit: Bihar Realtor Found Half-Naked In Locked Office",
+      "description": "A real estate builder Bajrang Kumar was found brutally murdered in his locked Bhagalpur office two days after going missing with his body showing signs of extreme violence Police have launched an investigation detaining two suspects and probing angles of personal rivalry and business disputes",
+      "link": "https://www.thedailyjagran.com/india/bihar-crime-news-private-parts-chopped-throat-slit-bhagalpur-realtor-found-half-naked-in-locked-office-10319025",
+      "source": "Jagran English",
+      "image": "https://images.thedailyjagran.com/article-img/2026/07/03/1200x675/BHAGALPUR-1783053198888.webp",
+      "published": "2026-07-03 05:22:46",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Iran prepares to bury slain supreme leader with week of mass mourning; who will represent India?",
+      "description": "India will be officially represented at Khamenei's funeral by Bihar Governor Syed Ata Hasnain and Minister of State for External Affairs Pabitra Margherita.",
+      "link": "https://www.cnbctv18.com/world/iran-prepares-to-bury-slain-supreme-leader-with-week-of-mass-mourning-who-will-represent-india-19937817.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/feature-6-2026-07-c4d9ee0909a7c9871e995a2b9d7726fe.jpg",
+      "published": "2026-07-03 05:22:45",
       "category": [
         "world"
       ],
@@ -60,261 +280,107 @@
       ]
     },
     {
-      "title": "Dioriviera 2026 brings a more whimsical approach to dressing to Manila",
-      "description": "Every summertime, Dior takes everyone on an adventure, breathing new energy into dressing through its seasonal capsule collection, Dioriviera. Unlike its other offerings, the summer line is built on the idea of la dolce vita (the sweet life). It is an invitation to escape\u2014not just to a destination, but to a state of mind where time slows down, the sun lingers a little longer, and getting dressed becomes an expression of joy. In the past years, Dioriviera presented resort style through various visual languages, from psychedelic hues and Toile de Jouy prints to exotic botanicals, illustrations of the animal kingdom, and even the cosmos. Every edition transported wearers to a different imagined paradise. This season, fans of the brand are taken to a whole new wonderland, designed by its new creative director, Jonathan Anderson. For his debut Dioriviera collection, Jonathan looked at the beauty of the natural world. A quite common source of inspiration for such a line, if you ask anybody. But what he did was more than simply translating nature into a luxurious aesthetic. Instead, he approached it as something to be appreciated, lived with, and, above all, something that sparks joy. That's exactly what we saw and felt when the collection was officially unveiled in Manila last June 25 at the maison's Greenbelt 3 store in Makati City\u2014pieces that spoke to the emotions as much as they did to the eye. Emotional dressing has become an increasingly important concept in fashion, shifting the focus from simply looking stylish to considering how clothing makes us feel. To achieve that, Jonathan looked to the house's archives and merged them with his own playful design language, creating pieces that feel nostalgic yet refreshingly contemporary. There is an unmistakable lightness that runs throughout the collection. Rather than relying on bold statements, Jonathan allows craftsmanship, color, and storytelling to do the talking. Botanical illustrations, Mediterranean-inspired stripes, soft tailoring, and tactile raffia details evoke the carefree feeling of wandering through a coastal garden or spending an afternoon by the sea. They remind us that luxury can also be quiet, intimate, and deeply personal. That sense of delight extends to every corner of the boutique. Walking through the Greenbelt 3 store feels less like entering a retail space and more like stepping into a Mediterranean escape. Every display, every accessory, and every carefully crafted detail contributes to a world where fashion is meant to be experienced rather than merely admired. What welcomes shoppers in the store are its new line of bags. Totes and mini bags become the perfect canvas for the Dior Me\u0301daillon motif and the reinterpreted Dior Arabesque by Christian Be\u0301rard, one of the closest friends of Monsieur Christian Dior. The archival illustrations lend the bags a sense of history while Jonathan\u2019s clean, modern styling gives them a renewed sense of relevance. Jonathan has also charmed the internet with his whimsical take on bag charms. Where previous collections explored playful objects inspired by sewing tools and woodland creatures, the Dioriviera 2026 line adopts a more refined approach. Gilded metal charms in the form of the iconic Medallion chair, articulated fish, bouquets, and other miniature sculptures become keepsakes as much as accessories\u2014tiny objects that invite curiosity and encourage wearers to personalize their bags with pieces that feel meaningful. His affection for bows also continues throughout the collection. Instead of appearing as three-dimensional embellishments, the bows are rendered as illustrations across dresses, tops, shoes, and skirts in cheerful seasonal hues. They sit alongside refreshed interpretations of the Dior Arabesque and Toile de Jouy, proving that even the maison's most recognizable codes can be reimagined with softness and wit. At the men's section, resortwear is interpreted through bright patterns and subtle botanical prints. The Sun Stripes motif appears on the Dior Saltwind trainers and the Dior Jett bag, while the new Dior Chester loafers and boat shoes offer a leisurely, vintage-inspired attitude. Shirts featuring the Dior Oblique motif, Dior Me\u0301daillon belts, bucket hats, and silk scarves complete a wardrobe that balances effortless elegance with Mediterranean ease. The Dior Hortensia jewellery collection celebrates the flower so dear to Monsieur Dior: the hydrangea. Necklaces, rings, and earrings sparkle with rhinestones arranged into blooming petals and fruit-inspired forms, capturing the richness of a flourishing summer garden. They are delicate reminders of the house's enduring love affair with flowers\u2014a passion that continues to blossom under Jonathan\u2019s creative direction. Ultimately, what makes this Dioriviera collection resonate is not simply its beautiful clothes or meticulously crafted accessories. It is the feeling they evoke. In an era where wardrobes are often driven by trends and algorithms, Jonathan reminds us that fashion can still surprise us, comfort us, and make us smile. His Dioriviera is less about dressing for a holiday than embracing the joy that summer brings wherever we are. It is an invitation to slow down, reconnect with nature, and rediscover the simple pleasure of wearing something that makes you feel good. Take a closer look at the collection below:",
-      "link": "https://mb.com.ph/article/10925016/lifestyle/fashion-and-beauty/dioriviera-2026-brings-a-more-whimsical-approach-to-dressing-to-manila",
-      "source": "Manila Bulletin",
-      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/03/113452.webp",
-      "published": "2026-07-03 03:09:00",
+      "title": "Community Food Bank of Southern Arizona expands hours as SNAP delays leave thousands of families without aid",
+      "description": "The Community Food Bank of Southern Arizona is expanding its hours to help families affected by delays and errors in SNAP benefits caused by changes from the Big Beautiful Bill.",
+      "link": "https://www.kgun9.com/news/community-inspired-journalism/southside-news/community-food-bank-of-southern-arizona-expands-hours-as-snap-delays-leave-thousands-of-families-without-aid",
+      "source": "Kgun 9",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/c62109e/2147483647/strip/true/crop/527x277+0+9/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc8%2F34%2F2e6deec84b238ff87a9de3923adc%2Fscreenshot-2026-07-02-at-9-50-22-pm.png",
+      "published": "2026-07-03 05:22:43",
       "category": [
         "lifestyle",
         "top"
       ],
       "country": [
-        "philippines"
+        "united states of america"
       ]
     },
     {
-      "title": "Mariners' Rodriguez removed after being hit in helmet by thrown ball",
-      "description": "SEATTLE (AP) \u2014 Seattle center fielder Julio Rodriguez was removed from the Mariners' game against Los Angeles Angels on Thursday night after being hit in the back of the helmet by a thrown ball.",
-      "link": "https://www.stalbertgazette.com/baseball/mariners-rodriguez-removed-after-being-hit-in-helmet-by-thrown-ball-12504037",
-      "source": "St. Albert News",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/477653dcabdb4bc4e108fa8e41472283e9ae0af298901118c302d5a02eda95d5.jpg",
-      "published": "2026-07-03 03:08:58",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Mariners\u2019 Rodriguez removed after being hit in helmet by thrown ball",
-      "description": "SEATTLE (AP) \u2014 Seattle center fielder Julio Rodriguez was removed from the Mariners\u2019 game against Los Angeles Angels on Thursday night after being hit in the back of the helmet by a thrown ball. Rodriguez was running from first to second on a ground ball in the first inning when first baseman Nolan Schanuel fielded [...]",
-      "link": "https://infonews.ca/news/7726556/mariners-rodriguez-removed-after-being-hit-in-helmet-by-thrown-ball/",
-      "source": "Infonews.ca",
-      "image": "https://infonews.ca/wp-content/uploads/477653dcabdb4bc4e108fa8e41472283e9ae0af298901118c302d5a02eda95d5.jpg",
-      "published": "2026-07-03 03:08:58",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Marvel Netflix shows: Was the boss, Jeph Loeb, actually racist?",
-      "description": "Marvel Netflix shows: Did boss Jeph Loeb\u2019s comments spark a racism controversy? Find the truth and the impact on the series. The post Marvel Netflix shows: Was the boss, Jeph Loeb, actually racist? appeared first on Film Daily .",
-      "link": "https://filmdaily.co/news/marvel-jeph-loeb/",
-      "source": "Film Daily",
-      "image": "https://filmdaily.co/wp-content/uploads/2020/07/jeffloeb-lede.jpg",
-      "published": "2026-07-03 03:08:56",
+      "title": "Romanian healthcare operator MedLife reaches network of 37 hyperclinics after recent Bucharest opening",
+      "description": "Romanian private healthcare network MedLife has opened a hyperclinic in Bucharest\u2019s District 5 following an investment of more than EUR 1 million. With this opening, MedLife now operates 37 hyperclinics nationwide, including eight in the capital. The company\u2019s hyperclinic concept describes large-scale medical facilities that provide patients with a one-stop-shop healthcare model, offering \u201ceverything from laboratory testing and specialist consultations to diagnostic investigations and ongoing patient monitoring.\u201d The MedLife Panduri Hyperclinic spans approximately 1,000 sqm across three floors and features 16 consultation rooms, a minor procedures room, and a dedicated biological sample collection unit. Patients have access to 27 medical specialties, including obstetrics and gynecology, internal medicine, rheumatology, diabetes, nutrition and metabolic diseases, neurology, cardiology, endocrinology, oncology, nephrology, and many others. MedLife Group, which is listed on the Bucharest Stock Exchange, also operates 94 clinics nationwide, serving both major urban centers and smaller cities. simona@romania-insider.com (Photo source: the company)",
+      "link": "https://www.romania-insider.com/medlife-panduri-hyperclinic-opening-july-2026",
+      "source": "Romania Insider",
+      "image": null,
+      "published": "2026-07-03 05:22:43",
       "category": [
         "top",
+        "health"
+      ],
+      "country": [
+        "romania"
+      ]
+    },
+    {
+      "title": "'Royal wedding': Swift and Kelce kick off star-studded celebrations",
+      "description": "Taylor Swift, Travis Kelce's star-studded wedding begins at Madison Square Garden as celebrities arrive in NY",
+      "link": "https://tribune.com.pk/story/2616285/royal-wedding-swift-and-kelce-kick-off-star-studded-celebrations",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/untitled-design-571783074842-1/untitled-design-571783074842-1-640x480.webp",
+      "published": "2026-07-03 05:22:41",
+      "category": [
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
       ]
     },
     {
-      "title": "Home Medical Diagnostic Device Research:CAGR of 6.2% during the forecast period",
-      "description": "The global market for Home Medical Diagnostic Device was estimated to be worth US$ 23527 million in 2025 and is projected to reach US$ 35540 million, growing at a CAGR of 6.3% from 2026 to 2032. Global Market Research Publisher QYResearch",
-      "link": "https://www.openpr.com/news/4567518/home-medical-diagnostic-device-research-cagr-of-6-2-during",
-      "source": "Openpr.com",
-      "image": "https://cdn.open-pr.com/L/7/L703641157_g.jpg",
-      "published": "2026-07-03 03:08:55",
+      "title": "Nagabandham X Review: Early Twitter Reactions to Virat Karrna's Action Drama",
+      "description": "Virat Karrna's action-adventure film Nagabandham has finally hit theatres across India multiple languages. After premiere screenings and its worldwide release, moviegoers flooded X with their first reactions, offering an early glimpse into the film",
+      "link": "https://newsable.asianetnews.com/gallery/entertainment/nagabandham-x-review-early-twitter-reactions-to-virat-karrna-action-drama-95bsr49",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kwjfajx1g1cx13pg9rh0nscn,imgname-nagabandham-movie-1-1783031483297.jpg",
+      "published": "2026-07-03 05:22:41",
       "category": [
-        "business"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Oasis Management Co Ltd. Sells 117,612 Shares of Stratus Properties (NASDAQ:STRS) Stock",
-      "description": "Stratus Properties Inc. (NASDAQ:STRS \u2013 Get Free Report) major shareholder Oasis Management Co Ltd. sold 117,612 shares of the company\u2019s stock in a transaction dated Thursday, July 2nd. The stock was sold at an average price of $28.03, for a total transaction of $3,296,664.36. Following the completion of the transaction, the insider owned 843,517 shares [...]",
-      "link": "https://www.dailypolitical.com/2026/07/02/oasis-management-co-ltd-sells-117612-shares-of-stratus-properties-nasdaqstrs-stock.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/stratus-properties-inc-logo-1200x675.png?v=20221221071238",
-      "published": "2026-07-03 03:08:49",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Connor Kevin O Sells 5,769 Shares of Procore Technologies (NYSE:PCOR) Stock",
-      "description": "Procore Technologies, Inc. (NYSE:PCOR \u2013 Get Free Report) Director Connor Kevin O sold 5,769 shares of the stock in a transaction on Wednesday, July 1st. The stock was sold at an average price of $41.93, for a total transaction of $241,894.17. Following the sale, the director directly owned 967,901 shares in the company, valued at [...]",
-      "link": "https://www.dailypolitical.com/2026/07/02/connor-kevin-o-sells-5769-shares-of-procore-technologies-nysepcor-stock.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/procore-technologies-inc-logo-1200x675.jpg?v=20221110135926",
-      "published": "2026-07-03 03:08:49",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Insider Selling: Grab (NASDAQ:GRAB) Insider Sells 38,000 Shares",
-      "description": "Grab Holdings Limited (NASDAQ:GRAB \u2013 Get Free Report) insider Chin Yin Ong sold 38,000 shares of the company\u2019s stock in a transaction that occurred on Thursday, July 2nd. The stock was sold at an average price of $3.88, for a total value of $147,440.00. Following the sale, the insider owned 3,708,611 shares of the company\u2019s [...]",
-      "link": "https://www.watchlistnews.com/insider-selling-grab-nasdaqgrab-insider-sells-38000-shares/11134396.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/grab-holdings-limited-logo-1200x675.png?v=20211206121951",
-      "published": "2026-07-03 03:08:48",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Where Are Indian Students Heading after Canada?",
-      "description": "Many Indian students are increasingly choosing countries that offer a better balance of quality education, affordability, employment, and career opportunities.",
-      "link": "https://www.hindustantimes.com/education/study-abroad/where-are-indian-students-heading-after-canada-101782991291778.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/03/1600x900/logo/WhatsApp_Image_2026-07-02_at_50731_PM_1783047872593_1783047872737_70c0204e-4efc-455f-8638-c2b31cf968a2.jpeg",
-      "published": "2026-07-03 03:08:48",
-      "category": [
-        "education",
-        "top"
+        "top",
+        "entertainment"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Bendigo court finds AFL great Nicky Winmar guilty of smashing a woman's head",
-      "description": "The former St Kilda footballer will be sentenced at a later date.",
-      "link": "https://www.bendigoadvertiser.com.au/story/9304194/afl-great-nicky-winmar-found-guilty-of-assault-charges-in-bendigo/?src=rss",
-      "source": "Bendigo, Vic",
-      "image": null,
-      "published": "2026-07-03 03:08:46",
+      "title": "After Rina Khan and Kiran Rao, Aamir Khan set to get wed for the third time with Gauri Spratt on July 5",
+      "description": "After Rina Khan and Kiran Rao, Aamir Khan set to get wed for the third time with Gauri Spratt on July 5",
+      "link": "https://www.indulgexpress.com/entertainment/celebs/2026/Jul/03/after-rina-khan-and-kiran-rao-aamir-khan-set-to-get-wed-for-the-third-time-with-gauri-spratt-on-july-5",
+      "source": "Indulgexpress",
+      "image": "https://cf-images.assettype.com/indulgexpress/2026-06-03/3707d971/II.webp",
+      "published": "2026-07-03 05:22:40",
       "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Ambassador praises efforts of Vietnamese rescuers in Venezuela",
+      "description": "A working delegation from the Embassy of Viet Nam in Venezuela, led by Ambassador Vu Trung My, on July 2 visited the Vietnamese search and rescue team carrying out international humanitarian duties in La Guaira state of Venezuela. Vietnamese rescuers recover 11 earthquake victims from rubble in Venezuela Second special flight delivers 46.8 tonnes of relief supplies to Venezuela Venezuela quake: Vietnamese team intensifies search efforts",
+      "link": "https://en.nhandan.vn/ambassador-praises-efforts-of-vietnamese-rescuers-in-venezuela-post164018.html",
+      "source": "B\u00e1o Nh\u00e2n D\u00e2n \u0110i\u1ec7n T\u1eed",
+      "image": "https://en-cdn.nhandan.vn/images/3c6b1d7d6cd77f0dc549536a41e2cb9b9927ae9ff0c5e87fca0d022cf765b5c9be2978e34f05260a35554049ccb7accd47e0b4612a7065d6d0a58546646faa8eea625ea442af8e743bb8c342ce7413361a5c54ed8658e732b398d1834e7e3c6b3d15a4bce0e2b9b18224cdfeafd9a2e0cd70a975512b67cd3e9e6d268a956c7eb21f20756843905cd7e23f056b551287/potal-dai-su-viet-nam-tai-venezuela-tham-dong-vien-doan-cuu-ho-cuu-nan-viet-nam-8864470.jpg.webp",
+      "published": "2026-07-03 05:22:40",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "vietnam"
+      ]
+    },
+    {
+      "title": "BML launches SplitPay to offer flexible instalment payments",
+      "description": "Bank of Maldives has introduced BML SplitPay, a new installment payment solution that gives credit cardholders greater flexibility and control over their spending. For any purchase above MVR 1,500, customers can choose to pay the total amount in installments within a period ranging from 3 to 24 months, helping them better plan and manage higher-value [...] Source",
+      "link": "https://hoteliermaldives.com/bml-launches-splitpay-to-offer-flexible-instalment-payments/",
+      "source": "Hotelier Maldives",
+      "image": "https://hoteliermaldives.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-21.25.23.jpeg",
+      "published": "2026-07-03 05:22:39",
+      "category": [
+        "business",
         "top",
-        "crime"
+        "technology"
       ],
       "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Insider Selling: Stratus Properties (NASDAQ:STRS) Major Shareholder Sells 117,612 Shares",
-      "description": "Stratus Properties Inc. (NASDAQ:STRS \u2013 Get Free Report) major shareholder Oasis Management Co Ltd. sold 117,612 shares of the business\u2019s stock in a transaction dated Thursday, July 2nd. The shares were sold at an average price of $28.03, for a total value of $3,296,664.36. Following the completion of the transaction, the insider directly owned 843,517 [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13493545/insider-selling-stratus-properties-nasdaqstrs-major-shareholder-sells-117612-shares.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/stratus-properties-inc-logo-1200x675.png?v=20221221071238",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Insider Selling: Procore Technologies (NYSE:PCOR) Director Sells 5,769 Shares",
-      "description": "Procore Technologies, Inc. (NYSE:PCOR \u2013 Get Free Report) Director Connor Kevin O sold 5,769 shares of Procore Technologies stock in a transaction on Wednesday, July 1st. The shares were sold at an average price of $41.93, for a total value of $241,894.17. Following the completion of the sale, the director owned 967,901 shares in the [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13493544/insider-selling-procore-technologies-nysepcor-director-sells-5769-shares.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/procore-technologies-inc-logo-1200x675.jpg?v=20221110135926",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Spyre Therapeutics (NASDAQ:SYRE) CEO Cameron Turtle Sells 15,000 Shares",
-      "description": "Spyre Therapeutics, Inc. (NASDAQ:SYRE \u2013 Get Free Report) CEO Cameron Turtle sold 15,000 shares of the stock in a transaction dated Wednesday, July 1st. The stock was sold at an average price of $87.69, for a total transaction of $1,315,350.00. Following the completion of the transaction, the chief executive officer directly owned 582,540 shares of [...]",
-      "link": "https://www.watchlistnews.com/spyre-therapeutics-nasdaqsyre-ceo-cameron-turtle-sells-15000-shares/11134395.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/spyre-therapeutics-inc-logo-1200x675.jpg?v=20231211131105",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "ASP Isotopes (NASDAQ:ASPI) CFO Sells $145,218.72 in Stock",
-      "description": "ASP Isotopes Inc. (NASDAQ:ASPI \u2013 Get Free Report) CFO Heather Kiessling sold 23,124 shares of the firm\u2019s stock in a transaction that occurred on Wednesday, July 1st. The stock was sold at an average price of $6.28, for a total transaction of $145,218.72. Following the sale, the chief financial officer owned 1,526,252 shares of the [...]",
-      "link": "https://www.thelincolnianonline.com/2026/07/02/asp-isotopes-nasdaqaspi-cfo-sells-145218-72-in-stock.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/asp-isotopes-inc-logo-1200x675.png?v=20230323095809",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "CoreWeave (NASDAQ:CRWV) Insider Sells 65,493 Shares of Stock",
-      "description": "CoreWeave Inc. (NASDAQ:CRWV \u2013 Get Free Report) insider Brian Venturo sold 65,493 shares of the business\u2019s stock in a transaction that occurred on Tuesday, June 30th. The stock was sold at an average price of $95.69, for a total transaction of $6,267,025.17. Following the completion of the transaction, the insider owned 235,883 shares in the [...]",
-      "link": "https://www.themarketsdaily.com/2026/07/03/coreweave-nasdaqcrwv-insider-sells-65493-shares-of-stock.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Insider Selling: Navan (NASDAQ:NAVN) Major Shareholder Sells 10,569 Shares",
-      "description": "Navan, Inc. (NASDAQ:NAVN \u2013 Get Free Report) major shareholder Lightspeed Venture Partners Se sold 10,569 shares of the company\u2019s stock in a transaction on Wednesday, July 1st. The stock was sold at an average price of $24.65, for a total transaction of $260,525.85. The sale was disclosed in a filing with the SEC, which is [...]",
-      "link": "https://www.themarketsdaily.com/2026/07/03/insider-selling-navan-nasdaqnavn-major-shareholder-sells-10569-shares.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/navan-inc-logo-1200x675.png?v=20251124095236",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lightspeed Venture Partners Se Sells 10,569 Shares of Navan (NASDAQ:NAVN) Stock",
-      "description": "Navan, Inc. (NASDAQ:NAVN \u2013 Get Free Report) major shareholder Lightspeed Venture Partners Se sold 10,569 shares of the company\u2019s stock in a transaction dated Wednesday, July 1st. The stock was sold at an average price of $24.65, for a total transaction of $260,525.85. The sale was disclosed in a filing with the Securities & Exchange [...]",
-      "link": "https://zolmax.com/investing/lightspeed-venture-partners-se-sells-10569-shares-of-navan-nasdaqnavn-stock/11903135.html",
-      "source": "Zolmax",
-      "image": "https://www.marketbeat.com/logos/navan-inc-logo-1200x675.png?v=20251124095236",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Brian Venturo Sells 65,493 Shares of CoreWeave (NASDAQ:CRWV) Stock",
-      "description": "CoreWeave Inc. (NASDAQ:CRWV \u2013 Get Free Report) insider Brian Venturo sold 65,493 shares of the company\u2019s stock in a transaction on Tuesday, June 30th. The stock was sold at an average price of $95.69, for a total value of $6,267,025.17. Following the sale, the insider owned 235,883 shares of the company\u2019s stock, valued at $22,571,644.27. [...]",
-      "link": "https://zolmax.com/investing/brian-venturo-sells-65493-shares-of-coreweave-nasdaqcrwv-stock/11903136.html",
-      "source": "Zolmax",
-      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
-      "published": "2026-07-03 03:08:46",
-      "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
+        "maldives"
       ]
     }
   ]

@@ -1,50 +1,77 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Ronaldo leads emotional tribute to late teammate as Portugese icon responds to bombshell report",
-      "description": "Cristiano Ronaldo addressed reports of his impending retirement from international football as Portugal's players celebrated a dramatic 2-1 victory against Croatia in their World Cup Round of 32 clash in Toronto.",
-      "link": "https://www.foxsports.com.au/football/fifa-world-cup-2026-cristiano-ronaldo-retirement-rumours-portugal-players-pay-tribute-to-the-late-diogo-jota-after-round-of-32-win-against-croatia/news-story/ee3515f55e0e2bfac64e7b8b31930392",
-      "source": "Fox Sports",
-      "image": null,
-      "published": "2026-07-03 03:09:00",
+      "title": "Virat Kohli creates history, dethrones Kim Kardashian to become...",
+      "description": "In another remarkable milestone that highlights cricket's growing global influence and the changing landscape of social media, Indian cricket superstar Virat Kohli has surpassed American media personality Kim Kardashian.",
+      "link": "https://zeenews.india.com/cricket/virat-kohli-creates-history-dethrones-kim-kardashian-to-become-3059076.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/07/03/1961095-fotojet-92.jpg",
+      "published": "2026-07-03 05:23:00",
       "category": [
-        "breaking",
         "sports"
       ],
       "country": [
-        "australia"
+        "india"
       ]
     },
     {
-      "title": "Mariners' Rodriguez removed after being hit in helmet by thrown ball",
-      "description": "SEATTLE (AP) \u2014 Seattle center fielder Julio Rodriguez was removed from the Mariners' game against Los Angeles Angels on Thursday night after being hit in the back of the helmet by a thrown ball.",
-      "link": "https://www.stalbertgazette.com/baseball/mariners-rodriguez-removed-after-being-hit-in-helmet-by-thrown-ball-12504037",
-      "source": "St. Albert News",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/477653dcabdb4bc4e108fa8e41472283e9ae0af298901118c302d5a02eda95d5.jpg",
-      "published": "2026-07-03 03:08:58",
+      "title": "Christchurch buzzing for Te Kaha test",
+      "description": "Te Kaha Stadium opened earlier this year. Photo: Star News Joe Porter of RNZ The wait has been a long one for Christchurch rugby fans.",
+      "link": "https://www.odt.co.nz/star-news/star-christchurch/christchurch-buzzing-te-kaha-test",
+      "source": "Otago Daily Times",
+      "image": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/fans_poekaireua_r_and_milika_will_be_c.jpg?itok=Xe9GTwtG",
+      "published": "2026-07-03 05:22:58",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "canada"
+        "new zealand"
       ]
     },
     {
-      "title": "Mariners\u2019 Rodriguez removed after being hit in helmet by thrown ball",
-      "description": "SEATTLE (AP) \u2014 Seattle center fielder Julio Rodriguez was removed from the Mariners\u2019 game against Los Angeles Angels on Thursday night after being hit in the back of the helmet by a thrown ball. Rodriguez was running from first to second on a ground ball in the first inning when first baseman Nolan Schanuel fielded [...]",
-      "link": "https://infonews.ca/news/7726556/mariners-rodriguez-removed-after-being-hit-in-helmet-by-thrown-ball/",
-      "source": "Infonews.ca",
-      "image": "https://infonews.ca/wp-content/uploads/477653dcabdb4bc4e108fa8e41472283e9ae0af298901118c302d5a02eda95d5.jpg",
-      "published": "2026-07-03 03:08:58",
+      "title": "Breel Embolo and Dan Ndoye on target as Switzerland end Algeria World Cup hopes",
+      "description": "Switzerland won a World Cup knockout game for the first time since 1938.",
+      "link": "https://www.the42.ie/switzerland-world-cup-algeria-7089493-Jul2026/",
+      "source": "The42",
+      "image": "https://c0.thejournal.ie/media/2026/07/aptopix-algeria-switzerland-wcup-soccer-0d802f5b-2146-42ae-8edd-4b1794a5bd1a-630x420.jpg",
+      "published": "2026-07-03 05:22:56",
       "category": [
-        "sports",
-        "top"
+        "sports"
       ],
       "country": [
-        "canada"
+        "ireland"
+      ]
+    },
+    {
+      "title": "BREAKING: Julian Nagelsmann quits Germany after World Cup disaster as Jurgen Klopp favourite for job",
+      "description": "Germany were knocked out of the World Cup by Paraguay with Julian Nagelsmann under pressure during the tournament and now he has left his role with the national team",
+      "link": "https://www.mirror.co.uk/sport/football/news/germany-julian-nagelsmann-jurgen-klopp-37381148",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37381152.ece/ALTERNATES/s615/0_GettyImages-2283723435.jpg",
+      "published": "2026-07-03 05:22:55",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Embolo, Ndoye score and Switzerland moves on at the World Cup with a 2-0 win over Algeria",
+      "description": null,
+      "link": "https://www.houstonchronicle.com/sports/article/embolo-ndoye-score-and-switzerland-moves-on-at-22331386.php",
+      "source": "Houston Chronicle",
+      "image": "https://s.hdnux.com/photos/01/66/57/56/31128473/3/square_large.jpg",
+      "published": "2026-07-03 05:22:54",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

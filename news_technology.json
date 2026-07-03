@@ -1,5 +1,66 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Nothing Phone 4b RCB Edition revealed: Matte red design, but you can only buy it in Bengaluru",
+      "description": "Nothing Phone 4b RCB Edition: The phone launches alongside the standard Nothing Phone 4b, but unlike a typical smartphone launch, this edition won't be sold online or through retail stores nationwide. It will go on sale for one day only at the Nothing Bengaluru Store.",
+      "link": "https://zeenews.india.com/technology/nothing-phone-4b-rcb-edition-revealed-matte-red-design-but-you-can-only-buy-it-in-bengaluru-3059075.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/07/03/1961094-nothing-4b-rcb-edition.jpg",
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "NCINGA and AWS Convene National Leaders to Architect Sri Lanka\u2019s Sovereign Digital Future at Inaugural \u2018GROUNDED\u2019 Symposium",
+      "description": "Global technology solutions provider NCINGA, in partnership with Amazon Web Services (AWS), convened over 100 of the nation\u2019s top government and enterprise leaders at the inaugural \u201cGROUNDED: Sovereign Cloud Symposium\u201d on June 17. The event introduced AWS Outposts, a hybrid cloud solution that brings the full power of AWS securely within Sri Lanka\u2019s borders, finally aligning rapid digital transformation with stringent data residency and security requirements. Signalling a shift from basic cloud adoption to strategic architecture, the symposium reinforced a foundational truth: successful digital nations combine Global Innovation with National Ownership and Local Capability. Leaders emphasised that a nation cannot simply procure digital excellence off a shelf; it must be architected with sovereign intent and built with homegrown talent to ensure economic resilience and secure public service delivery. Setting the national agenda, Dr. Hans Wijayasuriya, Chief Advisor to His Excellency the President of Sri Lanka on Digital Economy, framed the discussion within the government\u2019s audacious goal to grow the digital economy by 5X to over 15 billion by 2030. He outlined the country\u2019s core technology principles of Cloud\u2212First, AI\u2212First, and a primacy for Horizontal Systems, designed to break down data silos and speed up the delivery of citizen services. He specifically recognised hybrid models like AWS Outposts as the \u201cbest of both worlds,\u201d bringing global\u2212scale innovation into a secure, resident environment to unlock a $25 billion value creation opportunity. Endorsing the state\u2019s commitment, Hon. Eng. Eranga Weeraratne, Deputy Minister to the Digital Economy, positioned digitalisation as the critical path for Sri Lanka to \u201cleapfrog\u201d its economic development. He detailed the government\u2019s formal Cloud-First policy and expressed a clear national ambition for Sri Lanka to become a regional data centre hub. The symposium\u2019s central panel discussion, moderated by Vajira Wijesinghe, Group MD of NCINGA, translated high-level strategy into executable action. Industry leaders Pete Herlihy (Digital Public Infrastructure Lead, AWS), Steve Dodd (CDO of MAS Holdings), Jayantha Fernando (Partner, Heritage Partners), and Ishari Siriwardane (General Manager of Digital Transformation Projects at SLT-Mobitel) debated the core challenges of balancing sovereignty with speed, tackling the national tech talent bottleneck, and financing digital transformation at scale. Providing crucial context, sessions from AWS leaders Mayank Arora, leading Government, Education, and Transportation for AWS in India & South Asia, and Raja Rajaram, Hybrid Cloud Business Leader for AWS in APJ, detailed the practical path forward, sharing public sector success stories from across the region and presenting a deep dive into the AWS Outposts architecture for achieving a truly consistent hybrid cloud experience. Imal Kalutotage, Founder and Chairman of NCINGA stated, \u201cThis a historic moment for the country where a hyperscaler like AWS showing their commitment to invest in Sri Lanka. We moved beyond why we need digital transformation to how we architect it for a sovereign nation. Through our partnership with AWS and our deep commitment to Sri Lanka, NCINGA is not just providing technology; we are building the foundational pillars that will support our nation\u2019s economic aspirations for decades to come.\u201d The event concluded with interactive showcases of the NCINGA AI Factory and AWS Outposts, providing a tangible roadmap for how public and private sector entities can begin their modernisation journey immediately, without compromising on security or sovereignty.",
+      "link": "http://bizenglish.adaderana.lk/ncinga-and-aws-convene-national-leaders-to-architect-sri-lankas-sovereign-digital-future-at-inaugural-grounded-symposium/",
+      "source": "Adaderana News",
+      "image": "http://s3.amazonaws.com/bizenglish/wp-content/uploads/2026/07/03105248/Image-3-1110-300x200.jpg",
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Red Fort To Rajghat, Mehrauli-Gurugram Road: Delhi Plans 25 New Signal-Free Corridors Using U-Turn Model",
+      "description": "Delhi Traffic System Delhi proposes making 25 more corridors signal-free using a U-turn model to ease traffic congestion and reduce pollution This plan based on an NGOs recommendation aims to improve travel and safety across key areas like Red Fort Circuit and Mehrauli-Gurugram Road",
+      "link": "https://www.thedailyjagran.com/india/delhi-plans-25-new-signal-free-corridors-using-u-turn-model-red-fort-to-rajghat-mehrauli-gurugram-road-10319022",
+      "source": "Jagran English",
+      "image": "https://images.thedailyjagran.com/article-img/2026/07/03/1200x675/DELHITRAFFIC-1783056059059.webp",
+      "published": "2026-07-03 05:23:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "BML launches SplitPay to offer flexible instalment payments",
+      "description": "Bank of Maldives has introduced BML SplitPay, a new installment payment solution that gives credit cardholders greater flexibility and control over their spending. For any purchase above MVR 1,500, customers can choose to pay the total amount in installments within a period ranging from 3 to 24 months, helping them better plan and manage higher-value [...] Source",
+      "link": "https://hoteliermaldives.com/bml-launches-splitpay-to-offer-flexible-instalment-payments/",
+      "source": "Hotelier Maldives",
+      "image": "https://hoteliermaldives.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-21.25.23.jpeg",
+      "published": "2026-07-03 05:22:39",
+      "category": [
+        "business",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "maldives"
+      ]
+    }
+  ]
 }

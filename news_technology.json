@@ -1,5 +1,54 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "The Outer Worlds Dev Obsidian Not at Risk of Closure, It's Now Claimed",
+      "description": "Conflicting reports do the rounds. The Outer Worlds and Avowed developer Obsidian has been named as yet another team within Xbox Games Studios at risk of closure. The Game Business lists the RPG specialist alongside the other publicly named studios fighting for their futures: Ninja Theory ( Hellblade ), Compulsion ( South of Midnight ), Double Fine ( Psychonauts ), and Undead Labs ( State of Decay 3 ). Read the full article on pushsquare.com",
+      "link": "https://www.pushsquare.com/news/2026/07/the-outer-worlds-dev-obsidian-not-at-risk-of-closure-its-now-claimed",
+      "source": "Push Square",
+      "image": "https://images.pushsquare.com/078258edc762d/large.jpg",
+      "published": "2026-07-02 14:45:00",
+      "category": [
+        "breaking",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "WhatsApp pausing usernames for hundreds of millions of users over fraud fears",
+      "description": "WhatsApp\u2019s username feature has run into trouble in India, where officials are concerned about impersonation fraud and fake accounts.",
+      "link": "https://www.digitaltrends.com/social-media/whatsapp-pausing-usernames-for-hundreds-of-millions-of-users-over-fraud-fears/",
+      "source": "Digitaltrends",
+      "image": "https://www.digitaltrends.com/tachyon/2026/06/WhatsApp-usernames-featured-image.jpg?resize=1200%2C630",
+      "published": "2026-07-02 14:45:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Google has stopped selling the Nest x Yale Lock as it goes all-in on its replacement",
+      "description": "It\u2019s the end of an era, as the Nest x Yale Lock has been fully removed from the Google Store in favor of its replacement, despite Google not directly selling that alternative.",
+      "link": "https://9to5google.com/2026/07/02/google-stops-selling-nest-x-yale-lock/",
+      "source": "9to5google",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_yale_lock_1.jpg?quality=82&strip=all",
+      "published": "2026-07-02 14:45:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america",
+        "canada",
+        "india",
+        "australia",
+        "germany",
+        "united kingdom"
+      ]
+    }
+  ]
 }

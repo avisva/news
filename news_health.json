@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Hospital projects, health spending lift demand for B.C. medical office space (BC)",
+      "description": "Medical office is a distinct asset class in B.C. commercial real estate that is riding the wave of higher health-care spending, aging baby boomers and major hospital projects, though concerns remain around new project viability. Total health-care spending in Canada was expected to reach $399 bill...",
+      "link": "https://www.castanet.net/news/BC/622752/Hospital-projects-health-spending-lift-demand-for-B-C-medical-office-space",
+      "source": "Castanet",
+      "image": null,
+      "published": "2026-07-02 14:45:00",
+      "category": [
+        "business",
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

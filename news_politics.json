@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "America\u2019s 250th birthday is on sale. Where\u2019s all that merch money going?",
+      "description": "WASHINGTON \u2014 What\u2019s more American than apple pie? Capitalism. And an array of merchandise and influence is on sale for the 250th birthday of the United States. An America250 $275 Liberty Lux American Prosperity decorative throw pillow, anyone? How about a $25 Freedom 250 youth tee? America250, a commission created by Congress a decade ago, and [...]",
+      "link": "https://oregoncapitalchronicle.com/2026/07/02/repub/americas-250th-birthday-is-on-sale-wheres-all-that-merch-money-going/",
+      "source": "Oregon Capital Chronicle",
+      "image": "https://oregoncapitalchronicle.com/wp-content/uploads/2026/07/merch250-1-2048x1365.jpg",
+      "published": "2026-07-02 21:54:50",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Supreme Court unanimously agrees with Alvin Sharp; upholds his decision to free man wrongfully prosecuted",
+      "description": null,
+      "link": "https://www.monroefreepress.com/supreme-court-unanimously-agrees-with-alvin-sharp-upholds-his-decision-to-free-man-wrongfully-convicted/",
+      "source": "Monroefreepress",
+      "image": "https://www.monroefreepress.com/wp-content/uploads/2026/07/Sharp.jpg",
+      "published": "2026-07-02 21:54:43",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

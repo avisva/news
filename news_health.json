@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "In need of a mid-year nervous system reset?",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/life/wish/in-need-of-a-midyear-nervous-system-reset/news-story/42e5aac5a5f48a5a29b5fc32988290ff",
-      "source": "The Australian",
-      "image": null,
-      "published": "2026-07-02 18:30:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "australia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

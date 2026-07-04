@@ -1,65 +1,94 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Former Ardstone boss Donal Mulcahy banks \u20ac6.6m payout",
-      "description": "Businessman has worked in property investment for decades and retired from the firm he cofounded in 2023",
-      "link": "https://www.irishtimes.com/business/2026/07/04/former-ardstone-boss-donal-mulcahy-banks-66m-payout/",
-      "source": "The Irish Times",
-      "image": "https://www.irishtimes.com/resizer/v2/EIBGEB4OXZGNLO3WZ4Q3FWF7L4.jpg?auth=5de19aa76f074fcff6c35d76b888152e002ac8ba86ce68fc84ab163f5c32e6e5&smart=true&width=630&height=350",
-      "published": "2026-07-04 05:01:00",
+      "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
+      "description": "The token's 30-day and 365-day MVRV, a measure of how far holders are underwater, sit near -45% and -47%, lows Santiment says XRP has never reached before. Some traders read stretched losses as a contrarian signal.",
+      "link": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
+      "source": "Coindesk Indonesia",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/341ec0cc75f21e4a7dff5d86d7ee120a3f79c843-1593x1194.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "published": "2026-07-04 07:08:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "ireland"
+        "indonesia"
       ]
     },
     {
-      "title": "How will an Andy Burnham government impact the State Pension?",
-      "description": "Royston Wild reveals why he's not worried about the future of the State Pension -- and reveals how he plans to build retirement wealth. The post How will an Andy Burnham government impact the State Pension? appeared first on The Twelfth Magpie .",
-      "link": "https://www.twelfthmagpie.com/2026/07/04/how-will-an-andy-burnham-government-impact-the-state-pension/",
-      "source": "Fool Uk",
-      "image": "https://www.twelfthmagpie.com/wp-content/uploads/2024/07/Fireside-1200x800.jpg",
-      "published": "2026-07-04 05:01:00",
+      "title": "Government to allocate over 11.3 billion soms for subsidies for fuel and lubricants importers",
+      "description": "News and analytical articles about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
+      "link": "https://akipress.com/news:905608",
+      "source": "Akipress",
+      "image": "https://cdn-1.aki.kg/cdn-st-0/qiB/4/en-905608.1783109407.b.jpg",
+      "published": "2026-07-04 07:07:50",
       "category": [
         "business",
         "top"
+      ],
+      "country": [
+        "kyrgyzstan"
+      ]
+    },
+    {
+      "title": "Vijay Kedia shares a simple market lesson that most retail investors miss: Don't chase today's favourite",
+      "description": "In a post on social media platform X on July 2, Kedia said markets do not move in a straight line but instead rotate through different phases, creating fresh opportunities for investors who can identify them early.",
+      "link": "https://www.livemint.com/market/stock-market-news/vijay-kedia-shares-a-simple-market-lesson-that-most-retail-investors-miss-dont-chase-todays-favourite-11783146780219.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/Vijay_Kedia_1746090687461_1783146874102_4d3f7ec2-3c8d-4641-b2c5-de6e90a6520c.jpg",
+      "published": "2026-07-04 07:07:46",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "BTC Price Prediction: $63,800 or Bust \u2014 The Next 72 Hours Will Define Bitcoin's Next Major Move",
+      "description": "Bitcoin is pinned at $62,496 with momentum dead-flat and a brutal $600-wide resistance ceiling between $63,147 and $63,798 that must crack for any credible recovery thesis \u2014 fail there, and a flush... (Read More)",
+      "link": "https://blockchain.news/news/20260704-price-prediction-btc-63800-or-bust-the-next-72",
+      "source": "Blockchain News",
+      "image": "https://image.blockchain.news/features/bitcoin-feature.jpg",
+      "published": "2026-07-04 07:07:36",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america",
+        "singapore"
+      ]
+    },
+    {
+      "title": "ALEX BRUMMER: There are healthy signs the Supreme Court is not totally capitulating to Trump",
+      "description": "Today, July 4, as America commemorates its 250th birthday, there are healthy signs that the Supreme Court is not totally capitulating to Trump.",
+      "link": "https://www.dailymail.com/money/markets/article-15952549/ALEX-BRUMMER-healthy-signs-Supreme-Court-not-totally-capitulating-Trump.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/07/04/08/109792807-0-image-a-5_1783148567513.jpg",
+      "published": "2026-07-04 07:07:30",
+      "category": [
+        "business"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "How can you earn a second income with \u00a39,999 this summer?",
-      "description": "Here's how you could earn a second income using dividend shares and ISAs, potentially generating \u00a3700 a year in passive income. The post How can you earn a second income with \u00a39,999 this summer? appeared first on The Twelfth Magpie .",
-      "link": "https://www.twelfthmagpie.com/2026/07/04/how-can-you-earn-a-second-income-with-9999-this-summer/",
-      "source": "Fool Uk",
-      "image": "https://www.twelfthmagpie.com/wp-content/uploads/2023/04/Camping-1200x675.jpg",
-      "published": "2026-07-04 05:01:00",
+      "title": "VB-G RAM G rolled out across Odisha",
+      "description": "Bhubaneswar: Rural employment guarantee scheme VB-G RAM G Act was implemented across Odisha on Thursday, officials said. The Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Grameen), which...",
+      "link": "https://www.thehansindia.com/news/national/vb-g-ram-g-rolled-out-across-odisha-1093588",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/04/1673572-c.webp",
+      "published": "2026-07-04 07:07:23",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "UK households urged to avoid 1 fridge mistake from Sunday",
-      "description": "The mistake could mean that your fridge will use more energy to stay cool.",
-      "link": "https://www.express.co.uk/news/uk/2224358/uk-households-avoid-fridge-mistake-from-sunday",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2224358_1.jpg",
-      "published": "2026-07-04 05:01:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
+        "india"
       ]
     }
   ]

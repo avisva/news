@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "After NEET ban, why Telegram under Govt scanner again, faces 15-day deadline",
+      "description": "Telegram has been asked to submit a comprehensive Action Taken Report (ATR) within 15 days, detailing the steps taken to address these violations. Here's why.",
+      "link": "https://www.dnaindia.com/technology/report-after-neet-ban-why-telegram-under-govt-scanner-again-faces-15-day-deadline-3215194",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/07/04/2753323-phto-2026-06-17t094539.750.png",
+      "published": "2026-07-04 09:56:00",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

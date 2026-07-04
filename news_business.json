@@ -1,49 +1,82 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "12 Timeless Market Lessons From Jesse Livermore",
-      "description": "Market Analysis by covering: . Read 's Market Analysis on Investing.com CA.",
-      "link": "https://ca.investing.com/analysis/12-timeless-market-lessons-from-jesse-livermore-200625872",
-      "source": "Investing Canada",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "published": "2026-07-04 08:54:00",
+      "title": "Drumcree: High Court orders scrutiny of Parades Commission determination in 'highly significant' development of long-running Portadown dispute",
+      "description": "Portadown District LOL No 1 has welcomed \u201chugely significant\u201d developments at the High Court on Friday after a judge ordered scrutiny of the Parades Commission\u2019s determination in the long-running Drumcree parade dispute.",
+      "link": "https://www.northernirelandworld.com/news/people/drumcree-high-court-orders-scrutiny-of-parades-commission-determination-in-highly-significant-development-of-long-running-portadown-dispute-8778101",
+      "source": "Northern Ireland World",
+      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmI5ZTk1ODM4LTRmMzYtNDNkNi1hZDY3LTJmOThjN2ZhMDczMjpkNjRjNTM0MC1mYjIxLTRhMGUtYTRhOC03NGViNmI4ZGRhMGM=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-07-04 09:55:56",
       "category": [
-        "business"
+        "politics",
+        "business",
+        "health",
+        "environment"
       ],
       "country": [
-        "canada"
+        "united kingdom"
       ]
     },
     {
-      "title": "WHY AKARA, CORN AND KULIKULI MATTER",
-      "description": "The future of Nigeria\u2019s economy will be built not only in boardrooms, but also in markets, kitchens, and roadside businesses, argues CHALYA MARYAM SHAGAYA Recent comments by the First Lady,",
-      "link": "https://www.thisdaylive.com/2026/07/04/why-akara-corn-and-kulikuli-matter/",
-      "source": "Thisdaylive",
-      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Akara-Corn-and-Kulikuli-scaled.png",
-      "published": "2026-07-04 08:54:00",
+      "title": "Morgan Stanley shifts to defensive European energy stocks, upgrades Galp",
+      "description": "Morgan Stanley shifts to defensive European energy stocks, upgrades Galp",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-shifts-to-defensive-european-energy-stocks-upgrades-galp-4775214",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC6J0XD_L.jpg",
+      "published": "2026-07-04 09:55:52",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "nigeria"
+        "united states of america"
       ]
     },
     {
-      "title": "Straits Forum | Taiwanese Youth Tells: Six Years Rooted in the Mainland - From Starting a Business to Ringing the Bell at HKEX",
-      "description": "XIAMEN, China, July 3, 2026 /PRNewswire/ -- This is a news report by Hong Kong Ta Kung Wen Wei Media Group Limited: The 18th Straits Forum was held on June 13 in Xiamen, Fujian, China. At the forum, three Taiwanese youths from different fields shared their wonderful stories of working and l...",
-      "link": "https://www.itbiznews.com/news/articleView.html?idxno=218279",
-      "source": "It\ube44\uc988\ub274\uc2a4",
-      "image": "https://cdn.itbiznews.com/news/photo/202607/218279_220677_4505.jpg",
-      "published": "2026-07-04 08:53:50",
+      "title": "Govt to set up modern testing facilities for toy clusters to boost exports, global competitiveness: Piyush Goyal",
+      "description": "Union Minister Piyush Goyal announces modern testing facilities for toy clusters to enhance quality, meet global standards, and boost exports.",
+      "link": "https://www.newkerala.com/news/a/govt-set-up-modern-testing-facilities-toy-clusters-170.htm",
+      "source": "Newkerala.com",
+      "image": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+      "published": "2026-07-04 09:55:49",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "south korea"
+        "india"
+      ]
+    },
+    {
+      "title": "Ethanol blending has strengthened India's energy security without hurting vehicle performance: Former IOCL Chairman",
+      "description": "Former IOCL Chairman B Ashok says E20 fuel doesn\u2019t damage engines or reduce mileage, saving India \u20b91.9 lakh crore in oil imports and boosting farmer incomes.",
+      "link": "https://www.newkerala.com/news/a/ethanol-blending-strengthened-indias-energy-security-without-hurting-925.htm",
+      "source": "Newkerala.com",
+      "image": "https://one.newkerala.com/images/t/newkerala-com-news250.webp",
+      "published": "2026-07-04 09:55:49",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Record Defence Exports Show Global Trust in Make in India: Rajnath Singh",
+      "description": "Defence exports hit record Rs 38,000 crore, up 57 times from 2014. Rajnath Singh highlights Make in India success and India's rising global stature.",
+      "link": "https://www.newkerala.com/news/a/record-defence-exports-proof-global-confidence-make-india-122.htm",
+      "source": "Newkerala.com",
+      "image": "https://one.newkerala.com/images/r/newkerala-com-news250.webp",
+      "published": "2026-07-04 09:55:49",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

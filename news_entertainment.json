@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Exclusive: RuPaul's Drag Race UK star confirms return for live spin-off",
-      "description": "Exclusive: RuPaul's Drag Race UK star confirms return for live spin-off.",
-      "link": "https://www.digitalspy.com/tv/reality-tv/a71821670/exclusive-drag-race-uk-divina/",
-      "source": "Digital Spy",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/4d9c9d5d-cf9c-43da-91d3-23e3363fb356.jpg",
-      "published": "2026-07-04 08:54:00",
+      "title": "BBC host tells Saturday Kitchen guest 'don't do that here' minutes into show",
+      "description": "Viewers watching the latest instalment of the show were convinced the star was getting the presenter's nerves",
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2225276/bbc-host-tells-saturday-kitchen",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/2225276_1.jpg",
+      "published": "2026-07-04 09:56:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018Only Ramayana Part 1 filmed until now,\u2019 reveals Kajal Aggarwal: \u2018Amazing to work with Yash\u2019",
+      "description": "Kajal Aggarwal, who plays Mandodari in Nitesh Tiwari's two-part epic Ramayana, said they have only filmed the first part of the film so far.",
+      "link": "https://indianexpress.com/article/entertainment/bollywood/only-ramayana-part-1-filmed-until-now-kajal-aggarwal-yash-10771113/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/07/Kajala-about-Ramayana.jpg",
+      "published": "2026-07-04 09:55:59",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "united kingdom"
+        "india"
+      ]
+    },
+    {
+      "title": "Sponsored Archives",
+      "description": null,
+      "link": "https://curlytales.com/sponsored/",
+      "source": "Curly Tales",
+      "image": null,
+      "published": "2026-07-04 09:55:47",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

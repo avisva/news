@@ -1,135 +1,91 @@
 {
   "status": "success",
-  "totalResults": 20,
+  "totalResults": 9,
   "results": [
     {
-      "title": "Silver Screen Spotlight: Angel Studios\u2019 \u201cYoung Washington\u201d hits theaters ahead of July 4",
-      "description": "A new Angel Studios movie is telling the story of our nation\u2019s first leader, before he got that title.",
-      "link": "https://www.weau.com/2026/07/03/silver-screen-spotlight-angel-studios-young-washington-hits-theaters-ahead-july-4/",
-      "source": "Https://www.weau.com",
-      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/IXZTRVQ3TVGSFPZXYIYPQAHS5M.jpg?auth=9d363f36658992a39639d93f8979b97c7f8690e95c2f8d179ee9116235472df4&width=1200&height=600&smart=true",
-      "published": "2026-07-03 11:00:00",
+      "title": "Centre asks States to complete fire safety audits of all hospitals by July 31",
+      "description": "The Union Ministry of Health and Family Welfare has directed all States and Union Territories to complete fire safety audits of all public and private healthcare facilities through a special drive and upload the findings on the Integrated Health Information Platform (IHIP) by July 31",
+      "link": "https://www.thehindu.com/news/national/karnataka/centre-asks-states-to-complete-fire-safety-audits-of-all-hospitals-by-july-31/article71178645.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/5lcuj1/article71179440.ece/alternates/FREE_1200/FIRE%201.jpeg",
+      "published": "2026-07-03 14:41:00",
       "category": [
         "top",
-        "entertainment"
+        "crime"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Are Southwark schools going to open late after 1am England match?",
-      "description": "Southwark Council has said it is up to individual schools in the borough to decide whether to open later on Monday after Sunday night\u2019s 1am England v Mexico game \u2013 as the national debate over school openings rages on, writes Gabriel Stewart... Following the government\u2019s U-turn on allowing pubs to stay open late on Sunday, [...]",
-      "link": "https://southwarknews.co.uk/area/bermondsey/are-southwark-schools-going-to-open-late-after-1am-england-match/",
-      "source": "Southwark News",
-      "image": "https://southwarknews.co.uk/wp-content/uploads/2026/07/20210608_184618-scaled-1.jpg",
-      "published": "2026-07-03 11:00:00",
+      "title": "Man (21) shot in the arm outside his Clondalkin home was not intended target",
+      "description": "Shooting linked to localised dispute in the West Dublin area",
+      "link": "https://www.crimeworld.com/ireland/man-21-shot-in-the-arm-outside-his-clondalkin-home-was-not-intended-target/a/158243647.html",
+      "source": "Sundayworld",
+      "image": "https://prod-img.crimeworld.com/public/incoming/cyh6xg-gettyimages-2162885010.jpg/alternates/BASE_SIXTEEN_NINE/GettyImages-2162885010.jpg",
+      "published": "2026-07-03 14:41:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Azercell fosters digital skills and lifelong learning for senior citizens",
+      "description": "Company organizes a dedicated learning program for members of the \u201cU\u0308c\u0327u\u0308ncu\u0308 Bahar\u201d Public Union",
+      "link": "https://www.azernews.az/business/260597.html",
+      "source": "Azernews",
+      "image": "https://www.azernews.az/media/2026/07/03/aze0027.jpg",
+      "published": "2026-07-03 14:41:00",
       "category": [
         "education",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "azerbaijan"
       ]
     },
     {
-      "title": "James Scott 'ecstatic' to be back coaching Bowman Academy boys basketball",
-      "description": "James Scott is \"ecstatic\" to be back with Bowman Academy boys basketball \u2014 the program where he got his start as a coach more than 15 years ago.",
-      "link": "https://nwitimes.com/sports/high-school/basketball/boys/article_a646b7fe-1e5c-40ca-ae7c-a7d7f9922fc0.html",
-      "source": "The Times Of Northwest Indiana | Breaking News | R",
-      "image": null,
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Drake: Reforming juvenile justice is a real Wyoming emergency",
-      "description": "Here\u2019s a one-question quiz voters should ask all legislative candidates to take.",
-      "link": "https://www.wyomingnews.com/opinion/guest_column/drake-reforming-juvenile-justice-is-a-real-wyoming-emergency/article_d437115e-745e-4e9e-bb31-2aad48ab733d.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/0/ea/0ead1c85-526d-4d1d-981a-ca581ca6e6c7/67dc7b916194d.image.jpg?crop=357%2C357%2C0%2C56&resize=200%2C200&order=crop%2Cresize",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "North Texans still chase the American Dream. The path looks different now",
-      "description": "As America nears its 250th birthday, North Texans reflect on opportunity, mobility and the rising costs of getting ahead.",
-      "link": "https://www.dallasnews.com/news/article/america-250-north-texans-american-dream-22311917.php",
-      "source": "Dallas News",
-      "image": "https://s.hdnux.com/photos/01/66/53/75/31113070/3/rawImage.jpg",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Asking Eric: Spouse refuses to ever apologize",
-      "description": "A spouse\u2019s lifelong refusal to admit small mistakes leaves their partner feeling dismissed, resentful, and increasingly worn down by repeated blame-shifting behavior.",
-      "link": "https://www.al.com/advice/2026/07/asking-eric-spouse-refuses-to-ever-apologize.html",
-      "source": "Alabama Local News",
-      "image": "https://www.al.com/resizer/v2/O2P73B6UAFDUHNDBQVLI3JUMOA.jpg?auth=817b7580ffca0e1c7736c6cf3017bcdaa811b52b45d34490c23c2d4b961f49bc&smart=true&height=1200",
-      "published": "2026-07-03 11:00:00",
+      "title": "40 dead after bus falls into ravine in Pakistan | International",
+      "description": "PESHAWAR, Pakistan, July 3, 2026 (BSS/AFP) - A bus veered off a road and fell more than 20 metres into",
+      "link": "https://bssnews.net/international/402167/40-dead-after-bus-falls-into-ravine-in-Pakistan",
+      "source": "Bss",
+      "image": "https://www.bssnews.net/assets/news_photos/2026/07/03/image-402167-1783068109.jpg",
+      "published": "2026-07-03 14:41:00",
       "category": [
         "top",
-        "politics"
+        "crime"
       ],
       "country": [
-        "united states of america"
+        "bangladesh"
       ]
     },
     {
-      "title": "Kazakhstan declares 2026 Year of AI as GDP surpasses $300bn",
-      "description": "Kazakhstan will accelerate its shift toward an AI-driven economy after declaring 2026 the Year of Artificial Intelligence and Digital Development, as President Kassym-Jomart Tokayev announced major digital reforms, investor incentives, and infrastructure projects while highlighting GDP growth above $300bn and more than $150bn in net foreign direct investment.",
-      "link": "https://daryo.uz/en/2026/07/03/kazakhstan-declares-2026-year-of-ai-as-gdp-surpasses-300bn/",
-      "source": "Daryo",
-      "image": "https://data.daryo.uz/media/2026/07/03/1783070682658260554_1782987611_KZ3_4747_2.jpg",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "uzbekistan"
-      ]
-    },
-    {
-      "title": "Dudley to host free screening of Chris Packham-backed climate film",
-      "description": "A FREE public screening of a national climate film backed by broadcaster Chris Packham will take place in Dudley next week",
-      "link": "https://www.halesowennews.co.uk/news/26249877.dudley-hosts-screening-chris-packham-backed-climate-film/",
-      "source": "Halesowen News",
-      "image": "https://www.halesowennews.co.uk/resources/images/21133870/",
-      "published": "2026-07-03 11:00:00",
+      "title": "'Actual bodily harm' arrest after police called to concern for person",
+      "description": "An investigation has been launched after a man was arrested following reports of concern for a person on Robingoodfellows Lane in March.",
+      "link": "https://www.cambstimes.co.uk/news/26251588.man-arrested-suspicion-actual-bodily-harm-march/",
+      "source": "Cambstimes",
+      "image": "https://www.cambstimes.co.uk/resources/images/21136690/",
+      "published": "2026-07-03 14:41:00",
       "category": [
         "top",
-        "environment"
+        "crime"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "LETTER: 250 years of freedom thanks to our veterans",
-      "description": "As our nation celebrates 250 years of freedom, we are reminded that this milestone did not happen by chance. Every freedom we enjoy today has been protected by generations of brave men and women who answered the call to serve....",
-      "link": "https://starexponent.com/opinion/letters/article_95f6b5d1-a688-48cd-b7e3-a58b861f7d87.html",
-      "source": "Starexponent",
-      "image": "https://bloximages.newyork1.vip.townnews.com/starexponent.com/content/tncms/assets/v3/editorial/9/5f/95f6b5d1-a688-48cd-b7e3-a58b861f7d87/6a452862a3b87.preview.jpg?crop=1356%2C712%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-07-03 11:00:00",
+      "title": "Chino Hills mandir celebrates America\u2019s semiquincentennial anniversary",
+      "description": "\u201cDesi Roots, American Dreams\u201d is a free two-day community celebration to honor America\u2019s 250th anniversary, today through Saturday, July 4.",
+      "link": "https://www.redlandsdailyfacts.com/2026/07/03/chino-hills-mandir-celebrates-americas-semiquincentennial-anniversary/",
+      "source": "Redlands Daily Facts",
+      "image": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/07/IDB-L-MANDIR250-0703-05-1.jpeg?w=1600&resize=1600,900",
+      "published": "2026-07-03 14:41:00",
       "category": [
-        "politics",
+        "lifestyle",
         "top"
       ],
       "country": [
@@ -137,42 +93,27 @@
       ]
     },
     {
-      "title": "Papio South center Addison Medeck commits to Nebraska women's basketball",
-      "description": "Nebraska women's basketball got its second commit of the 2027 recruiting class from the state's top-rated center, who averaged 12.2 rebounds per game last season.",
-      "link": "https://fremonttribune.com/sports/huskers/womens-basketball/article_2ca5960b-3d3f-55c1-9731-ba0ac99fb199.html",
-      "source": "Fremonttribune",
-      "image": "https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/2/ca/2ca5960b-3d3f-55c1-9731-ba0ac99fb199/6a47b718c0955.preview.jpg?crop=1851%2C972%2C0%2C74&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-07-03 11:00:00",
+      "title": "Portion of Shawnee Road to close next week",
+      "description": "State Route 425 (Shawnee Road) between Upper Mountain and Lower Mountain roads in the Town of Cambria will be closed to through traffic for approximately three weeks beginning Monday to facilitate a culvert replacement, according to the state Department of...",
+      "link": "https://www.niagara-gazette.com/news/local_news/portion-of-shawnee-road-to-close-next-week/article_f69f4cc1-1848-4ffc-9c3a-35d2abf707e9.html",
+      "source": "Niagara-gazette",
+      "image": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/d/b6/db640764-9f22-11e6-a696-b72c0578833a/5816c9288c973.image.jpg?crop=448%2C448%2C0%2C4&resize=200%2C200&order=crop%2Cresize",
+      "published": "2026-07-03 14:41:00",
       "category": [
-        "sports",
-        "top"
+        "top",
+        "crime"
       ],
       "country": [
-        "united states of america"
+        "russia"
       ]
     },
     {
-      "title": "A look at reporter Allison Brophy Champion\u2019s best articles",
-      "description": "\u2018Dad, I\u2019m going to the League'\u2014Maliq Brown drafted by Spurs",
-      "link": "https://starexponent.com/article_c423d5a3-0f90-4f40-9a5a-81e8dc19b706.html",
-      "source": "Starexponent",
+      "title": "Police Arrested the Teen Who Was Knocked Down While His Attackers Fled \u2014 the Video Has X Demanding Answers",
+      "description": "Birmingham police arrested an allegedly drunk teen who was amid a fight with three other teenagers. The incident has sparked outrage on the internet with many demanding answers and accountability. According to video footage shared by @Re_mi_gra_tion on X, four teenagers were seen having an argument while bystanders watched the situation unfold. One of the four, wearing a white T-shirt, was described in the post as allegedly drunk. The boy in the white t-shirt was seen backing away as the three other teens began slowly closing in on him. Initially, they appeared to be having a calm conversation until the...",
+      "link": "https://freerepublic.com/focus/f-bloggers/4386497/posts",
+      "source": "Freerepublic",
       "image": null,
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The gunpowder seizure that pushed Virginia toward war",
-      "description": "Before independence, Virginia had its own revolutionary flashpoint. Lord Dunmore\u2019s removal of gunpowder from Williamsburg ignited a political crisis.",
-      "link": "https://starexponent.com/news/local/history/article_dbcabf28-a10f-5279-ad02-f4e588f9eb90.html",
-      "source": "Starexponent",
-      "image": "https://bloximages.newyork1.vip.townnews.com/starexponent.com/content/tncms/assets/v3/editorial/d/b3/db3cb480-18d5-50ed-884d-e2c499eb5ff3/6a3b33aa14852.image.jpg?resize=1200%2C675",
-      "published": "2026-07-03 11:00:00",
+      "published": "2026-07-03 14:41:00",
       "category": [
         "top",
         "crime"
@@ -182,122 +123,18 @@
       ]
     },
     {
-      "title": "World meets DART: FIFA World Cup fans \u2018pleasantly surprised\u2019 with North Texas public transit",
-      "description": "FIFA World Cup fans have been heavily relying on public transportation in North Texas as matches introduce tourists and locals to DART and the TRE.",
-      "link": "https://www.dallasnews.com/world-cup/article/dart-fifa-fans-transit-world-cup-22322250.php",
-      "source": "Dallas News",
-      "image": "https://s.hdnux.com/photos/01/66/57/42/31127682/5/rawImage.jpg",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Garden Gossip: Weed or wanted plant: it depends on your angle",
-      "description": "The definition of a weed is a plant out of place. In my garden, out of place can be measured by less than an inch: grass in the lawn is good and grass in the garden, on the other side...",
-      "link": "https://www.wyomingnews.com/features/outdoors/garden-gossip-weed-or-wanted-plant-it-depends-on-your-angle/article_239766f8-cbaa-47f8-9afd-bcc29ca9ef75.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/1/fd/1fd2600e-b1e9-4815-b59d-a6de3ee8e0b6/6a42faf8592fb.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "To our great and indivisible nation, I say: Happy 250th Birthday!",
-      "description": "\u201cIf men were angels, no government would be necessary. If angels were to govern men, neither external nor internal controls on government would be necessary. In framing a government which is to be administered by men over men, the great...",
-      "link": "https://www.wyomingnews.com/laramieboomerang/opinion/to-our-great-and-indivisible-nation-i-say-happy-250th-birthday/article_41c7149a-9bf2-46f9-8c99-c102592302dc.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/8/94/894cd55e-dd8e-55f3-80fe-4c9a1ef2aa08/5f5bf236a11dc.image.jpg?crop=1142%2C600%2C0%2C607",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The American dream is reaching out to help other people, no matter what they look like",
-      "description": "Padmanee Sharma's family \"were refugees running away from a terrible situation\" in Guyana when they came to the US. Today, she's a top medical researcher.",
-      "link": "https://nypost.com/2026/07/03/us-news/the-american-dream-helping-others-no-matter-what-they-look-like/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fwww-mcaad-org-american-dream-131304471.jpg",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Supporting young workers in summer jobs",
-      "description": "Clear communication and supportive supervision help protect safety and well-being.",
-      "link": "https://www.baytoday.ca/spotlight/supporting-young-workers-in-summer-jobs-12465368",
-      "source": "Baytoday.ca",
-      "image": "https://www.vmcdn.ca/f/files/sudbury/spotlight-images/workplace-safety-north/young-worker-forest-products-2026-esize.jpg",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "What is Windows Secure Boot? Here\u2019s what to know",
-      "description": "Most people don\u2019t spend time thinking about Secure Boot. (Not even the staff at PCWorld.) But this Windows security feature provides a vital protection against dangerous malware\u2014one some PCs have just lost. So what is Secure Boot, exactly? And why should you pay attention to all the recent news about it? The situation is more complex than you might guess. It also requires a little manual work on everyone\u2019s part. Here\u2019s what you should know. What is Secure Boot? Secure Boot prevents sketchy software from running before you start Windows. It was a response to \u201c bootkits ,\u201d a type of attack that started in the mid-2000s. Attackers would insert malicious code into the boot sequence, allowing them to modify Windows undetected and evade antivirus software detection. Beginning with Windows 8, Microsoft implemented Secure Boot to block such malware. Its rollout was a major boost to PC security. How does Secure Boot work? Think of Secure Boot as similar to a checkpoint for a heavily guarded building. Only people on an approved list can get in, and an agent verifies identities before allowing anyone through. On your PC, Secure Boot performs this kind of screening. It relies on security certificates containing cryptographic information used to verify the drivers and other elements needed to start Windows. In this analogy, Secure Boot is the agent. Code loaded during boot is the person showing an ID (digital signature). And the security certificates are the database containing the IDs of approved entrants. Bootkits target this time during startup, before Windows loads. Intel Why do I need new Secure Boot certificates? Many PCs have shipped with the original versions of the certificates, which were issued in 2011. Only newer computers ship with the next set from 2023. The 2011 Secure Boot certificates were intended to expire after 15 years in 2026. In Microsoft\u2019s own words, this plan was \u201cto ensure Windows devices continue to verify trusted boot software.\u201d Currently, three of the four certs have already reached end-of-life. (This happened in late June 2026.) The fourth will do so in October 2026. Expired certificates mean weakened protection for your PC\u2014Secure Boot won\u2019t be able to block newer attacks on your startup process. Updating to the 2023 certs maintains consistent defense against bootkits and other malware targeting the startup process. How can I tell if I have outdated Secure Boot certificates? You must manually verify in Windows that your Secure Boot certificates are up to date\u2014being able to boot up into Windows isn\u2019t proof. A PC can still enter Windows with expired 2011 certs. In most cases, Windows will notify you of the issue\u2014one clue is seeing a blue shield icon on your Taskbar, with either a yellow or red mark on it. Otherwise, open the Windows Security app and then select Device Security . A green checkmark means you have the 2023 Secure Boot certificates and are up-to-date. A yellow or red warning indicates you must take action. ASUS Is Secure Boot actually necessary? Internet comments now often advise not worrying about UEFI/BIOS level malware, saying only targets of government attacks have to worry. (Ex: You\u2019re a journalist covering North Korea.) But that attitude can be traced back to Secure Boot\u2019s presence in Windows. I was around before its implementation. You didn\u2019t need to be targeted by state-sponsored hackers to end up with a bootkit infection. So you can run your PC with expired Secure Boot certificates, just as you can keep using your car when the Check Engine light comes on. But ignoring the warning can lead to a massive headache later. Getting rid of malware that affects your boot sequence is a huge pain, both for detection and removal. Secure Boot provides protection should that ever happen, because it won\u2019t let your system boot . You at least get a heads-up something nasty has happened to your PC. How do I get updated Secure Boot certificates? Most Windows PCs have had the 2023 Secure Boot certificates pushed to them already. If you see a green checkmark, you\u2019re set and don\u2019t have to worry any further. If you have a yellow or red warning, you\u2019ll have to get more involved with your PC\u2014seeing if your computer will get support from its manufacturer, if you need to perform a manual UEFI/BIOS update, etc. You can read more about what to do (and how to do it) in our Secure Boot update guide . Microsoft will automatically push the 2023 Secure Boot certificates to PCs able to support them. (That\u2019s why you may need to update your PC\u2019s UEFI/BIOS.) Microsoft What happens if I can\u2019t get updated Secure Boot certificates? Your next steps depend on if your PC has received a yellow or red warning. Yellow generally means you just have to sit tight awhile longer (and be sure that your UEFI/BIOS is up to date). Red might mean your PC won\u2019t get the new Secure Boot certificates. Some manufacturers have stated support has ended for certain end-of-life products. This means you won\u2019t get the UEFI/BIOS update needed for the newer 2023 certificates. In such an unfortunate situation, you have two main options. To stay on Windows, you\u2019ll have to buy a new PC. Alternatively, you\u2019ll need to get comfortable with Linux\u2014specifically a distro that can bridge this gap.",
-      "link": "https://www.pcworld.com/article/3181803/what-is-windows-secure-boot-heres-what-to-know.html",
-      "source": "Pcworld",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/07/sunrise-king-NK-cB-l1cv0-unsplash.jpg?quality=50&strip=all",
-      "published": "2026-07-03 11:00:00",
+      "title": "Welsh Tap and Go system that risks overcharging rail passengers faces challenge",
+      "description": "Flintshire County Council will demand greater clarity for passengers from Transport for Wales after it was revealed its new 'Tap and go' system charges every passenger as an adult.",
+      "link": "https://www.leaderlive.co.uk/news/26252195.welsh-tap-go-system-risks-overcharging-rail-passengers/",
+      "source": "The Leader",
+      "image": null,
+      "published": "2026-07-03 14:40:58",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "America 250: A republic, if we can keep it",
-      "description": "As we reflect on the 250th anniversary of our country\u2019s founding, a look back at the debates and wisdom of our founders is instructive for our future success.",
-      "link": "https://www.wyomingnews.com/laramieboomerang/opinion/america-250-a-republic-if-we-can-keep-it/article_8dde78fc-3428-4b6c-992d-f9120047497c.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/3/89/3890c9f2-bf1f-11ef-969b-978c10b70303/6765eb548ace9.image.jpg?crop=257%2C257%2C0%2C13&resize=200%2C200&order=crop%2Cresize",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Wyoming needs more paths to bachelor\u2019s degrees",
-      "description": "We have spent a lot of time talking about transfer at LCCC.",
-      "link": "https://www.wyomingnews.com/laramieboomerang/opinion/wyoming-needs-more-paths-to-bachelor-s-degrees/article_98c055bd-973d-4e5b-af7c-12ace6566db0.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/02/c02701eb-15f0-4775-bc29-d20b65b7f17d/6967ff0b4ebfb.image.jpg?crop=640%2C336%2C0%2C312",
-      "published": "2026-07-03 11:00:00",
-      "category": [
-        "education",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "united kingdom"
       ]
     }
   ]

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Centre asks States to complete fire safety audits of all hospitals by July 31",
+      "description": "The Union Ministry of Health and Family Welfare has directed all States and Union Territories to complete fire safety audits of all public and private healthcare facilities through a special drive and upload the findings on the Integrated Health Information Platform (IHIP) by July 31",
+      "link": "https://www.thehindu.com/news/national/karnataka/centre-asks-states-to-complete-fire-safety-audits-of-all-hospitals-by-july-31/article71178645.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/5lcuj1/article71179440.ece/alternates/FREE_1200/FIRE%201.jpeg",
+      "published": "2026-07-03 14:41:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Ripple Is Bringing Agentic AI Payments to the XRP Blockchain. Is This a Game Changer for XRP?",
+      "description": "The chain isn't a first mover in this new space, but that might not matter.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-bringing-agentic-ai-payments-144100997.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/motleyfool.com/a7b4b5f2ef262f7414956f0e15f40d6c",
+      "published": "2026-07-03 14:41:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

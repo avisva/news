@@ -1,200 +1,306 @@
 {
   "status": "success",
-  "totalResults": 13,
+  "totalResults": 20,
   "results": [
     {
-      "title": "The little known website that finds Pinterest-worthy furniture at the right price",
-      "description": "Shop Home Styles helps shoppers find and buy the perfect furniture pieces by uploading a picture depicting their interior inspiration",
-      "link": "https://www.mirror.co.uk/money/shopping-deals/shop-home-styles-interior-platform-37377243",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37378750.ece/ALTERNATES/s615/0_ShopHomeStyles-7.png",
-      "published": "2026-07-04 03:03:00",
+      "title": "Campaigners desperately race to save old Bedminster music venue",
+      "description": null,
+      "link": "https://www.bristolpost.co.uk/news/bristol-news/campaigners-desperately-race-save-old-11040424",
+      "source": "Bristolpost Co Uk",
+      "image": "https://i2-prod.bristolpost.co.uk/incoming/article10834618.ece/ALTERNATES/s615/1_1140-4jfif.jpg",
+      "published": "2026-07-04 05:01:00",
       "category": [
-        "lifestyle",
-        "top"
+        "top",
+        "entertainment"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Mexico City tightens security and caps crowds for Mexico-England match after 4 deaths",
-      "description": "Mexico is doubling security and limiting capacity at the \u201cAngel of Independence\u201d monument and a fan festival in Mexico City for the Mexico-England World Cup match on Sunday. This follows four...",
-      "link": "https://www.yourconroenews.com/sports/article/mexico-city-tightens-security-and-caps-crowds-for-22332024.php",
-      "source": "The Courier Of Montgomery County",
-      "image": "https://s.hdnux.com/photos/01/66/60/05/31129924/3/square_large.jpg",
-      "published": "2026-07-04 03:02:59",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Funeral ceremonies for Khamenei officially begin in Tehran",
-      "description": "Funeral ceremonies for Khamenei officially begin in Tehran Official farewell ceremonies for Iran\u2019s late Supreme Leader Ayatollah Ali Khamenei have begun at Tehran\u2019s Mosalla prayer complex, according to Iranian media. Tasnim news agency reported that the venue\u2019s doors were opened to accommodate millions of mourners gathering in the capital to pay their final respects to the former leader. Mourners gather around the coffin of Iran\u2019s slain supreme leader Ali Khamenei during a ceremony in Tehran ahead of his funeral, 3 July 2026 (Khamenei.ir/AFP)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/funeral-ceremonies-khamenei-officially-begin-tehran",
-      "source": "Middleeasteye Net",
-      "image": "https://www.middleeasteye.net/sites/default/files/2026-07/An%20Iranian%20army%20member%20stands%20guard%20near%20the%20coffins%20of%20Iran%E2%80%99s%20late%20supreme%20leader%20Ali%20Khamenei%20and%20members%20of%20his%20family%20during%20a%20farewell%20ceremony%20at%20Imam%20Khomeini%20Grand%20Mosalla%20in%20Tehran%2C%203%20July%202026%20%28Mohammed%20Salem%20Reuters%29.jpg",
-      "published": "2026-07-04 03:02:53",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Rice hits go-ahead 2-run homer as Yanks stop 7-game skid with 5-2 victory over Twins",
-      "description": "NEW YORK (AP) \u2014 Ben Rice hit go-ahead two-run homer in the third inning after a rain delay and the New York Yankees ended a seven-game losing streak with a 5-2 victory over the Minnesota Twins on Friday night.",
-      "link": "https://www.townandcountrytoday.com/baseball/rice-hits-go-ahead-2-run-homer-as-yanks-stop-7-game-skid-with-5-2-victory-over-twins-12508925",
-      "source": "Town And Country Today",
-      "image": null,
-      "published": "2026-07-04 03:02:52",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Enablence Technologies Announces Adoption of Equity Incentive Plan",
-      "description": "Ottawa, Ontario\u2013(Newsfile Corp. \u2013 July 3, 2026) \u2013 Enablence Technologies Inc. (TSXV: ENA) (\u201cEnablence\u201d or...",
-      "link": "https://itbusinessnet.com/2026/07/enablence-technologies-announces-adoption-of-equity-incentive-plan/",
-      "source": "Itbusinessnet",
-      "image": null,
-      "published": "2026-07-04 03:02:50",
+      "title": "Former Ardstone boss Donal Mulcahy banks \u20ac6.6m payout",
+      "description": "Businessman has worked in property investment for decades and retired from the firm he cofounded in 2023",
+      "link": "https://www.irishtimes.com/business/2026/07/04/former-ardstone-boss-donal-mulcahy-banks-66m-payout/",
+      "source": "The Irish Times",
+      "image": "https://www.irishtimes.com/resizer/v2/EIBGEB4OXZGNLO3WZ4Q3FWF7L4.jpg?auth=5de19aa76f074fcff6c35d76b888152e002ac8ba86ce68fc84ab163f5c32e6e5&smart=true&width=630&height=350",
+      "published": "2026-07-04 05:01:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "ireland"
       ]
     },
     {
-      "title": "Government takes down apps that can remotely shut down e-rickshaws via bluetooth \u2014 The BAT-BMS controversy",
-      "description": "The government of India has taken note of reports that e-rickshaws could be remotely shut down using smartphone applications linked to Bluetooth-enabled battery systems, with officials confirming that two such apps have already been removed from app stores. IT Secretary S Krishnan said the matter had come to the government\u2019s attention and stressed that app stores must exercise proper due diligence before allowing potentially harmful applications to remain available.",
-      "link": "https://telecomlive.in/web/2026/07/04/government-takes-down-apps-that-can-remotely-shut-down-e-rickshaws-via-bluetooth-the-bat-bms-controversy/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-07-04 03:02:46",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Ammonia leak death toll rises to 18, gas evacuation begins at sea food unit",
-      "description": "People within 300 metre radius were evacuated by Friday evening, and traffic diversions will be in place on NH 716 on July 4 and 5 during the ammonia removal operation.",
-      "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jul/04/ammonia-leak-death-toll-rises-to-18-gas-evacuation-begins-at-sea-food-unit",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-03/1yvjmz5k/Ammonia.jpg",
-      "published": "2026-07-04 03:02:44",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Family Law Guide: Divorce, Custody, and Child Support",
-      "description": "Family law touches some of the most personal decisions a person will ever make: ending a... The post Family Law Guide: Divorce, Custody, and Child Support appeared first on Legal Desire Media and Insights .",
-      "link": "https://legaldesire.com/family-law-guide-divorce-custody-and-child-support/",
-      "source": "Legal Desire Media And Insights",
-      "image": "https://legaldesire.com/wp-content/uploads/2022/02/Family.jpg",
-      "published": "2026-07-04 03:02:41",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Karen Bass fraud claims: What headlines reveal now",
-      "description": "Explore how recent headlines expose Karen Bass fraud claims, revealing new details and implications for the ongoing controversy. The post Karen Bass fraud claims: What headlines reveal now appeared first on Film Daily .",
-      "link": "https://filmdaily.co/news/karen-bass-fraud-claims-what-headlines-reveal-now/",
-      "source": "Film Daily",
-      "image": "https://filmdaily.co/wp-content/uploads/2026/07/dn-events-1920x1080_compressed-1.jpg",
-      "published": "2026-07-04 03:02:39",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "AISIX Solutions Inc. Announces Revocation of Management Cease Trade Order",
-      "description": "Vancouver, British Columbia\u2013(Newsfile Corp. \u2013 July 3, 2026) \u2013 AISIX Solutions Inc. (TSXV: AISX) (\u201cAISIX\u201d...",
-      "link": "https://itbusinessnet.com/2026/07/aisix-solutions-inc-announces-revocation-of-management-cease-trade-order/",
-      "source": "Itbusinessnet",
-      "image": null,
-      "published": "2026-07-04 03:02:36",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trump marks US Declaration's 250th anniversary",
-      "description": "Washington, July 4 (IANS) President Donald Trump proclaimed July 4, 2026, as the 250th anniversary of the adoption of the US Declaration of Independence, calling it a celebration of America's founding ideals and urging citizens to observe the milestone with ceremonies honouring the nation's history, heritage and achievements. In a presidential proclamation issued on the eve of Independence Day, Trump described the Declaration of Independence as a timeless charter of freedom and said the country's founding principles continue to guide the United States after two-and-a-half centuries. \"Today, as one American People, we celebrate and carry forward the spirit our Founders kindled in Philadelphia and enshrined in the Declaration of Independence \u2014 and with God's help, we will prevail in making our beloved Nation stronger, prouder, richer, and greater than ever before,\" Trump said. The proclamation traces the origins of American independence to July 1776, when the Continental Congress adopted the Declaration drafted principally by Thomas Jefferson after a resolution introduced by Richard Henry Lee of Virginia calling for independence from British rule. Trump highlighted the Declaration's central assertion \"that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, and that among these are Life, Liberty, and the pursuit of Happiness.\" The proclamation also recounts key moments of the American Revolution, including the battles of Lexington and Concord, Bunker Hill, the crossing of the Delaware River, the winter at Valley Forge and the victory at Yorktown. It credits those events with securing American independence and shaping what Trump described as a national spirit of \"faith, grit, adventure, courage, resolve, and self-determination\". Looking beyond the country's founding, Trump cited the preservation of the Union during the Civil War, the abolition of slavery, industrial expansion, victories in the two World Wars, the Moon landing and technological innovation as defining chapters in the nation's development. He argued that American innovation had transformed the world through inventions including the telephone, the personal computer and the internet, while also praising advances in science and medicine. The President used the anniversary proclamation to outline his administration's vision for the future, saying the United States would \"continue to reclaim our sovereignty, restore our territorial integrity, defend the God-given liberty proclaimed at our founding, and guard the proud heritage, history, and culture that have made our Nation a wonder for the ages.\" He also pointed to future ambitions in space exploration, artificial intelligence, quantum research and energy development, saying, \"We will continue to adventure into the cosmos, returning Americans to the lunar surface for all time to come and charging ahead to plant the Stars and Stripes among the red dunes of Mars.\" In his proclamation, Trump declared July 4, 2026, as the \"250th Anniversary of the Adoption of the Declaration of Independence,\" and urged Americans to \"proudly observe this day with all due ceremony to honor the glorious heritage, history, and accomplishments of our beloved Republic.\" The United States has been marking the semiquincentennial through a series of nationwide events under the broader America250 initiative, a congressionally established programme intended to commemorate 250 years since the nation's founding. Federal agencies, states, local communities and cultural institutions have planned ceremonies, exhibitions and educational programmes throughout the anniversary year. --IANS lkj/rs",
-      "link": "https://www.thehawk.in/news/world/trump-marks-us-declarations-250th-anniversary",
-      "source": "Thehawk",
-      "image": "https://thehawk.sgp1.cdn.digitaloceanspaces.com/7fca11b1-008c-4566-803e-54f28bed6ed2/202607043851021-f4d54612-ba05-43bf-9226-b1c45a8a08c5.jpg",
-      "published": "2026-07-04 03:02:32",
+      "title": "Today in History: July 4, 2006 - Independence Day: Celebrating patriotism",
+      "description": "Small towns unveil memorials to honor veterans who have served.",
+      "link": "https://www.grandforksherald.com/community/today-in-history-july-4-2006-indepcelebrating-patriotism",
+      "source": "Grandforksherald",
+      "image": "https://cdn.forumcomm.com/dims4/default/151a204/2147483647/brightness/10x0/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fbb%2F24%2F64ed854c4225aa9f68743eeafd25%2Fgrand-forks-herald-2006-07-04-1.jpg",
+      "published": "2026-07-04 05:01:00",
       "category": [
         "lifestyle",
         "top"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Trump marks US Declaration\u2019s 250th anniversary",
-      "description": "Washington, July 4 (IANS) President Donald Trump proclaimed July 4, 2026, as the 250th anniversary of the adoption of the US Declaration of Independence, calling it a celebration of America\u2019s...",
-      "link": "https://bhaskarlive.in/trump-marks-us-declarations-250th-anniversary/",
-      "source": "Bhaskarlive",
-      "image": null,
-      "published": "2026-07-04 03:02:30",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Ravi Kishan shares rare throwback pic from his younger days as a father with little Rivva",
-      "description": "Mumbai, July 4 (IANS) Actor-politician Ravi Kishan took a trip down memory lane on July 4 as he wished his daughter Rivva Kishan on her birthday by sharing a rare...",
-      "link": "https://bhaskarlive.in/ravi-kishan-shares-rare-throwback-pic-from-his-younger-days-as-a-father-with-little-rivva/",
-      "source": "Bhaskarlive",
-      "image": null,
-      "published": "2026-07-04 03:02:29",
+      "title": "India's Got Latent 2: Kiku Sharda, Haarsh Limbachiyaa brutally roast Samay Raina: 'He has a monthly pass to court'",
+      "description": "Samay Raina was roasted by Kiku Sharda and Harssh Limbachiyaa in the latest India's Got Latent Season 2 episode, with the comedians joking about the legal controversy that followed the show's first season.",
+      "link": "https://www.dnaindia.com/entertainment/report-india-s-got-latent-season-2-kiku-sharda-harssh-limbachiyaa-brutally-roast-samay-raina-he-has-a-monthly-pass-to-court-3215164",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/07/04/2753293-untitled-design-2026-07-04t102728.883.jpg",
+      "published": "2026-07-04 05:01:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "'Trinny London's new lip kit gave me the illusion of a fuller pout in seconds'",
+      "description": "The popular beauty brand has launched a new lip kit that promises to create a fuller, more defined pout in two simple steps",
+      "link": "https://www.ok.co.uk/lifestyle/beauty/trinny-london-lip-kit-review-37363072",
+      "source": "Ok Co Uk",
+      "image": "https://i2-prod.ok.co.uk/shopping/article37363070.ece/ALTERNATES/s615/0_trinny-london-lip-reset-kit.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "How will an Andy Burnham government impact the State Pension?",
+      "description": "Royston Wild reveals why he's not worried about the future of the State Pension -- and reveals how he plans to build retirement wealth. The post How will an Andy Burnham government impact the State Pension? appeared first on The Twelfth Magpie .",
+      "link": "https://www.twelfthmagpie.com/2026/07/04/how-will-an-andy-burnham-government-impact-the-state-pension/",
+      "source": "Fool Uk",
+      "image": "https://www.twelfthmagpie.com/wp-content/uploads/2024/07/Fireside-1200x800.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "How can you earn a second income with \u00a39,999 this summer?",
+      "description": "Here's how you could earn a second income using dividend shares and ISAs, potentially generating \u00a3700 a year in passive income. The post How can you earn a second income with \u00a39,999 this summer? appeared first on The Twelfth Magpie .",
+      "link": "https://www.twelfthmagpie.com/2026/07/04/how-can-you-earn-a-second-income-with-9999-this-summer/",
+      "source": "Fool Uk",
+      "image": "https://www.twelfthmagpie.com/wp-content/uploads/2023/04/Camping-1200x675.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Today\u2019s daily horoscopes: July 4, 2026",
+      "description": "Zodiac signs and horoscopes for today\u2019s birthday and Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn.",
+      "link": "https://www.al.com/life/2026/07/todays-daily-horoscopes-july-4-2026.html",
+      "source": "Alabama Local News",
+      "image": "https://www.al.com/resizer/v2/4QDS5VREJBDJVE3L7VY3EQCWLU.png?auth=d8f53502d99be451b0bcf66c58deb0b9782cf137765713d1ce3f5575bbf49bdd&smart=true&height=1200",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Chester Zoo recruiting for 'exciting role' that pays up to \u00a334k",
+      "description": null,
+      "link": "https://www.cheshire-live.co.uk/news/chester-cheshire-news/chester-zoo-recruiting-exciting-role-34219382",
+      "source": "Cheshire-live Co Uk",
+      "image": "https://i2-prod.cheshire-live.co.uk/news/chester-cheshire-news/article34219381.ece/ALTERNATES/s615/2_EGR_190626kris_11.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "UK households urged to avoid 1 fridge mistake from Sunday",
+      "description": "The mistake could mean that your fridge will use more energy to stay cool.",
+      "link": "https://www.express.co.uk/news/uk/2224358/uk-households-avoid-fridge-mistake-from-sunday",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2224358_1.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Rare bird 'brought back from brink' makes UK history",
+      "description": null,
+      "link": "https://www.express.co.uk/news/uk/2225014/rare-bird-brought-back-brink",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2225014_1.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Today in History, 2005: Local collectors getting a kick out of state quarters",
+      "description": "On July 4, 2005, a Forum story highlighted the popularity of the U.S. Mint\u2019s state quarter program, with local collectors eagerly saving the coins for fun, family, and possible future value.",
+      "link": "https://www.inforum.com/community/today-in-history-2005-local-collectors-getting-a-kick-out-of-state-quarters",
+      "source": "Inforum",
+      "image": "https://cdn.forumcomm.com/dims4/default/13a2b79/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F08%2F2a%2Ff278ad0f4c259c2c1851fca9b509%2Fjuly-4-frontpage.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Horoscope for Saturday, July 04, 2026",
+      "description": "<h2>Moon alert</h2><p>After 1:45 a.m. Chicago time today, there are no restrictions to shopping or important decisions. The moon is in Pisces.</p><h2>Aries (March 21-April 19)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-290000\" name=\"html-embed-module-290000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>A <b>so-so</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Think before you speak or act today because something going on behind the scenes might affect your daily routine. Sudden changes, new information and different plans are likely. Be careful because this is a mildly accident-prone day for you as well.</p><h2>Taurus (April 20-May 20)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>A dispute with a friend about money, the cost of something or perhaps a possession you own might arise today. It could create a sudden rift. This issue might also take place with a group instead of a friend. Keep your eyes open to avoid losses. </p><h2>Gemini (May 21-June 20)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-290000\" name=\"html-embed-module-290000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>A <b>so-so</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Relations with bosses, parents, VIPs and the police are subject to sudden bursts of anger, rebellion or something surprising today. Be careful when dealing with authority figures because you might be caught off guard. Be cool, and never underestimate the power of courtesy.</p><h2>Cancer (June 21-July 22)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Once again, travel plans are subject to sudden changes, cancellations or new directions. If you have to make decisions today about legal or medical matters, travel, publishing issues or higher education, do your homework. Make no assumptions.</p><h2>Leo (July 23-Aug. 22)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Unexpected issues might impact your financial assets and shared property today. In turn, this could affect your relationship with a group or a friend. You might let someone down because you can no longer provide the support or items they expected. Late deliveries or broken items might be an issue.</p><h2>Virgo (Aug. 23-Sept. 22)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-290000\" name=\"html-embed-module-290000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>A <b>so-so</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>This is a poor day for important discussions with parents, bosses and authority figures, as well as spouses, partners and close friends, because things are at odds today. People don't agree with each other. Hey, \"Nobody expects the Spanish Inquisition!\"</p><h2>Libra (Sept. 23-Oct. 22)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Work-related travel plans might go awry today or be delayed. Efforts to deal with foreign countries, deliveries to schools, legal and medical matters and keeping schedules on track are thwarted today by unexpected obstacles.</p><h2>Scorpio (Oct. 23-Nov. 21)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Be patient with your kids today. Likewise, romantic partners have to be patient with each other as well, especially if disputes about shared property or the cost of something arise. (People are always touchy about money.) Don't jump to conclusions. Be aware and patient to prevent potential accidents.</p><h2>Sagittarius (Nov. 22-Dec. 21)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-290000\" name=\"html-embed-module-290000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>A <b>so-so</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Patience is your best friend today because interactions with partners, spouses and close friends are completely unpredictable. They might be upset about something or do something you least expect. (Maybe you're rigid or stubborn?) If you keep cool, you are best equipped to deal with whatever happens.</p><h2>Capricorn (Dec. 22-Jan. 19)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Work-related issues and your daily routine are up for grabs today, probably because of unexpected influences, obstacles or possible accidents. Therefore, be aware. Pay attention to everything you say and do. Nothing will unfold as expected. Be mindful and vigilant to minimize any problems that might arise.</p><h2>Aquarius (Jan. 20-Feb. 18)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-4d0000\" name=\"html-embed-module-4d0000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>An <b>average</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Money issues, especially related to your kids, social outings or vacations, might blow up in your face today. It could also be a disagreement about the cost of something. You might suddenly lose your tickets or have confused directions. Something unexpected will likely occur. (Yikes!)</p><h2>Pisces (Feb. 19-March 20)</h2><div class=\"Enhancement\" data-align-center> <div class=\"HtmlModule\"><a class=\"AnchorLink\" id=\"html-embed-module-290000\" name=\"html-embed-module-290000\"></a><div class=\"HoroscopeStarbox HoroscopeStarbox_five\"> <div class=\"HoroscopeStarbox_container\"> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> <svg class=\"HoroscopeStar\"><use xlink:href=\"#icon-star\"></use></svg> </div> <div class=\"HoroscopeStarbox_description\"> <p>A <b>so-so</b> day</p> </div> </div> <style> .HoroscopeStarbox { background: #f8f8f8; display: flex; align-items: center; } .HoroscopeStarbox_container { display: grid; grid-gap: 5px; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px; width: 40%; min-width: 160px; max-width: 200px; } .HoroscopeStarbox_description { padding: 20px; font-family: var(--font-1); font-size: var(--body-2); } .HoroscopeStarbox_container svg { object-fit: cover; aspect-ratio: 1 / 1; width: 100%; } </style> </div> </div><p>Today is unpredictable, perhaps even explosive. It's also accident-prone. Therefore, keep your wits about you. Patience will be your best friend. Think before you speak or act. Don't make a big deal about anything. (Five years from now will this matter?) Take it easy.</p><h2>If today is your birthday</h2><p>Singer-songwriter Bill Withers (1938) shares your birthday. You are purposeful. Your relationships with others mean something. You are loyal, progressive and willing to defend. This is a playful, fun-loving year for you. Let your guard down, and loosen up a bit. Enjoy yourself, but don't lose sight of your goals. Old friends might reappear.</p>",
+      "link": "https://chicago.suntimes.com/horoscopes/2026/07/04/horoscopes-today-saturday-july-04-2026",
+      "source": "Chicago Suntimes",
+      "image": "https://cst.brightspotcdn.com/dims4/default/5b9b975/2147483647/strip/false/crop/870x630+0+0/resize/870x630!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "published": "2026-07-04 05:01:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "2026-07-04T05:00:59+00:00",
+      "description": "Let\u2019s choose free people and free markets and get there together.",
+      "link": "https://www.dailynews.com/2026/07/04/free-people-free-markets-and-a-country-worth-keeping/",
+      "source": "Los Angeles Daily News",
+      "image": "https://www.dailynews.com/wp-content/uploads/2026/07/Britain_Declaration_of_Independence_58_21-1-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-04 05:00:59",
+      "category": [
+        "politics",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Free people, free markets, and a country worth keeping",
+      "description": "Let\u2019s choose free people and free markets and get there together.",
+      "link": "https://www.sandiegouniontribune.com/2026/07/04/free-people-free-markets-and-a-country-worth-keeping/",
+      "source": "The San Diego Union-tribune",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Britain_Declaration_of_Independence_58_21-1-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-04 05:00:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Azerbaijani youth judo team returns home with 10 medals from European Championships",
+      "description": "The Azerbaijani team, which won a historic 10 medals at the 2026 Millennium Team European Cadet Judo Championships in Gran Canaria, Spain, has returned home, Report informs.",
+      "link": "https://report.az/en/individual/azerbaijani-youth-judo-team-returns-home-with-10-medals-from-european-championships",
+      "source": "Report.az",
+      "image": "https://images.report.az/2026/07/04/VCNYTkE1qa74245UCFbql63Fi4p6Mnta11anvRQM_1200.jpg",
+      "published": "2026-07-04 05:00:59",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Commonwealth University Students Awarded Preventive Measures Foundation Legacy Scholarships",
+      "description": "CLEARFIELD, PA\u2013 Students from each of the Commonwealth University campuses and the Clearfield location were awarded a $2,000 scholarship from the Preventive Measures Foundation. The Preventive Measures Foundation is the [...]",
+      "link": "https://gantnews.com/2026/07/04/commonwealth-university-students-awarded-preventive-measures-foundation-legacy-scholarships/",
+      "source": "Gant News",
+      "image": "https://gantnews.com/wp-content/uploads/2026/07/carleeginter1200x675.png",
+      "published": "2026-07-04 05:00:57",
+      "category": [
+        "breaking",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Elderly tenants fear for future as London charity raises their rents by 180%",
+      "description": "They say their mental and physical health is suffering due to the stress",
+      "link": "https://www.standard.co.uk/news/london/richmond-foundation-rental-price-rise-b1288649.html",
+      "source": "Evening Standard",
+      "image": "https://static.standard.co.uk/2026/07/03/13/52/FA_1551.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-07-04 05:00:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "How Ella built successful skincare business from her kitchen table in Ellon",
+      "description": "Ella Forbes has moved to a dedicated workspace to focus on growing her handmade skincare range.",
+      "link": "https://www.pressandjournal.co.uk/fp/business/local/7037248/former-carer-builds-award-winning-baredream-ellon/",
+      "source": "Pressandjournal",
+      "image": "https://wpcluster.dctdigital.com/wp-content/uploads/sites/2/2026/06/DBX0762_75589914-3focc8ela-scaled-e1781107469700-938x564.jpg",
+      "published": "2026-07-04 05:00:57",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Gannet colony on Bass Rock may take up to two decades to recover following devastating bird flu outbreak",
+      "description": "An outbreak of bird flu in 2022 saw the population of gannets on Bass Rock shrink by 26 per cent the following year",
+      "link": "https://www.edinburghnews.scotsman.com/news/gannet-colony-on-bass-rock-may-take-up-to-two-decades-to-recover-following-bird-flu-outbreak-8777647",
+      "source": "Edinburgh News",
+      "image": "https://www.edinburghnews.scotsman.com/jpim-static/image/2026/07/03/16/59/GettyImages-146503683.jpeg?width=1200&auto=webp&trim=0%2C2%2C0%2C2",
+      "published": "2026-07-04 05:00:57",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

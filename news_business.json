@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Gold heads for first weekly gain since May on easing Fed outlook",
+      "description": "Soft US job numbers and lower energy prices have led investors to scale back bets on monetary policy tightening, which tends to be a headwind for non-yielding gold.",
+      "link": "https://www.moneycontrol.com/news/business/commodities/gold-heads-for-first-weekly-gain-since-may-on-easing-fed-outlook-13965784.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260214033420_goldd.jpg",
+      "published": "2026-07-04 01:18:57",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Samsung 75-Inch Frame Pro TV $600 Off\u2014Art Meets Display",
+      "description": "The 2025 Samsung Frame Pro is $1,898 in a bundle with protection. Neo QLED upgrade delivers design-first TV experience with matte screen.",
+      "link": "https://theinventory.com/samsung-75-inch-frame-pro-tv-600-off-deal",
+      "source": "The Inventory",
+      "image": null,
+      "published": "2026-07-04 01:18:36",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

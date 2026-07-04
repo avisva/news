@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation to Her Imagination Library",
+      "description": "\"I\u2019m blown away and overjoyed with that gratitude,\" country legend says of being one of the beneficiaries of couple's $26 million pre-wedding donation",
+      "link": "https://www.rollingstone.com/music/music-country/dolly-parton-thanks-taylor-swift-travis-kelce-donation-1235588909/",
+      "source": "Rolling Stone",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/GettyImages-2206136005.jpg",
+      "published": "2026-07-03 18:15:54",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Taylor Frankie Paul Breaks Silence on Ex Tate Paul, Rehab Stay",
+      "description": "Taylor Frankie Paul would like to steal her 2.6 million Instagram followers for a sec. After her ex-husband Tate Paul filed for a temporary restraining order against her\u2014a request that was...",
+      "link": "https://www.eonline.com/news/1433621/taylor-frankie-paul-on-rehab-stay-tate-paul-restraining-order-request",
+      "source": "E! Online",
+      "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260630/b48395b5-bd9d-46e6-8627-96cedf205a8a_1782870218.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "published": "2026-07-03 18:15:46",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

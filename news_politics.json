@@ -1,78 +1,90 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Drumcree: High Court orders scrutiny of Parades Commission determination in 'highly significant' development of long-running Portadown dispute",
-      "description": "Portadown District LOL No 1 has welcomed \u201chugely significant\u201d developments at the High Court on Friday after a judge ordered scrutiny of the Parades Commission\u2019s determination in the long-running Drumcree parade dispute.",
-      "link": "https://www.northernirelandworld.com/news/people/drumcree-high-court-orders-scrutiny-of-parades-commission-determination-in-highly-significant-development-of-long-running-portadown-dispute-8778101",
-      "source": "Northern Ireland World",
-      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmI5ZTk1ODM4LTRmMzYtNDNkNi1hZDY3LTJmOThjN2ZhMDczMjpkNjRjNTM0MC1mYjIxLTRhMGUtYTRhOC03NGViNmI4ZGRhMGM=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-07-04 09:55:56",
+      "title": "Two fires caused by Russian drone attacks extinguished in Kramatorsk",
+      "description": "In Kramatorsk, rescue workers extinguished two fires that broke out as a result of Russian drone attacks during the night and on the morning of July 4.",
+      "link": "https://www.ukrinform.net/rubric-ato/4140724-two-fires-caused-by-russian-drone-attacks-extinguished-in-kramatorsk.html",
+      "source": "Ukrinform",
+      "image": "https://static.ukrinform.com/photos/2026_07/thumb_files/630_360_1783154730-410.jpg",
+      "published": "2026-07-04 10:59:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Putin Marks US Independence Day with Message to Trump, Calls for Shared Global Responsibility",
+      "description": "Vladimir Putin, the President of Russia, has said in a message marking the 250th anniversary of US independence that Washington and Moscow, as two major nuclear powers, have a special responsibility to ensure global security and stability. The TASS news agency reported on Saturday, July 4, that Putin congratulated US President Donald Trump on Independence [...] The post Putin Marks US Independence Day with Message to Trump, Calls for Shared Global Responsibility appeared first on Hasht-e Subh .",
+      "link": "https://8am.media/eng/putin-marks-us-independence-day-with-message-to-trump-calls-for-shared-global-responsibility/",
+      "source": "Hasht-e Subh Daily",
+      "image": "https://8am.media/eng/wp-content/uploads/2026/05/AFP__20260326__A4RZ2YY__v1__HighRes__RussiaBusiness.jpg",
+      "published": "2026-07-04 10:58:50",
       "category": [
         "politics",
-        "business",
-        "health",
-        "environment"
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "afghanistan"
+      ]
+    },
+    {
+      "title": "Huge crowds mourn Ayatollah Ali Khamenei in Iran\u2019s capital",
+      "description": "Thousands of people gathered at Imam Khomeini Grand Mosalla in Tehran on Saturday, July 4, to pay their respects during a public farewell ceremony for Iran 's former Supreme Leader Ayatollah Ali Khamenei , who was killed in the US-Israeli airstrikes in February.",
+      "link": "https://www.independent.co.uk/tv/news/khamenei-funeral-iran-tehran-video-b3008874.html",
+      "source": "The Independent",
+      "image": "https://static.independent.co.uk/2026/07/04/10/59/Thousands-pay-tribute-to-Khamenei-in-Tehran-during-public-farewell-ceremony.png?width=1200&auto=webp&trim=0%2C31%2C0%2C169",
+      "published": "2026-07-04 10:58:48",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "CGTN: Why the world is asking: What makes the CPC work?",
-      "description": "BEIJING, July 04, 2026 (GLOBE NEWSWIRE) \u2014 On the 105th anniversary of the founding of the Communist Party of China, CGTN has published an article examining why the CPC continues to attract growing international attention. The article explores how China\u2019s development path, governance model and global vision are reshaping global perceptions of the CPC and [...] The post CGTN: Why the world is asking: What makes the CPC work? appeared first on botswanaonlinenews .",
-      "link": "https://www.botswanaonlinenews.com/cgtn-why-the-world-is-asking-what-makes-the-cpc-work/",
-      "source": "Botswanaonlinenews",
-      "image": "https://ml.globenewswire.com/media/MzNhMDNmMmItZjQxZi00M2M2LWE0ZjgtODA4YWZmMTdmNzJmLTEzMDA5MTAtMjAyNi0wNy0wNC1lbg==/tiny/China-Global-Television-Networ.png",
-      "published": "2026-07-04 09:55:55",
+      "title": "Lebanese Labor Minister tours southern Lebanon to assess impact of Israeli aggression",
+      "description": null,
+      "link": "https://english.almanar.com.lb/article/100222/",
+      "source": "\u0627\u0644\u0645\u0646\u0627\u0631",
+      "image": null,
+      "published": "2026-07-04 10:58:47",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "botswana"
-      ]
-    },
-    {
-      "title": "Top leader orders removing implementation bottlenecks to spur growth",
-      "description": "General Secretary and President La\u0302m asked the Government to further review and reallocate public investment funds from projects unable to spend their budgets to those capable of faster implementation. He also called for clear assessments on growth quality, employment and household incomes to improve policymaking and forecasting.",
-      "link": "https://vietnamnews.vn/politics-laws/1784768/top-leader-orders-removing-implementation-bottlenecks-to-spur-growth.html",
-      "source": "Vietnamnews.vn",
-      "image": "https://image.vietnamnews.vn/uploadvnnews/Article/2026/7/4/514159_5524152932542755_vna_potal_phien_hop_chinh_phu_thuong_ky_thang_6_nam_2026_va_hoi_nghi_chinh_phu_voi_dia_phuong_8866563.jpg",
-      "published": "2026-07-04 09:55:45",
-      "category": [
+        "top",
         "politics"
-      ],
-      "country": [
-        "vietnam"
-      ]
-    },
-    {
-      "title": "Yemen's Houthis threaten KSA after alleged airspace intrusion",
-      "description": "Yemen's Houthis threatened Saudi airports and vital assets should Riyadh violate its airspace or attempt to attack it, as the rebels accused the kingdom of trying to stop an Iranian plane from landing.",
-      "link": "https://www.naharnet.com/stories/en/321083-yemen-s-houthis-threaten-ksa-after-alleged-airspace-intrusion",
-      "source": "Naharnet",
-      "image": "http://images2.naharnet.com/images/124844/w140.jpg?1402839675",
-      "published": "2026-07-04 09:55:34",
-      "category": [
-        "politics",
-        "top"
       ],
       "country": [
         "lebanon"
       ]
     },
     {
-      "title": "Honest stranger returns lost driving license, restoring man\u2019s faith in kindness",
-      "description": "Honesty of a stranger has won appreciation from internet after one of the users posted his story on the social media that his driving license reached back to him after being lost. In a post shared by @iamankitpande on X, he shared that he had lost his driving license few days ago. He searched everywhere [...] The post Honest stranger returns lost driving license, restoring man\u2019s faith in kindness appeared first on KalingaTV .",
-      "link": "https://kalingatv.com/offbeat/honest-stranger-returns-lost-driving-license-restoring-mans-faith-in-kindness/",
-      "source": "Kalinga Tv",
-      "image": "https://kalingatv.com/wp-content/uploads/2026/07/stranger-returns-driving-license.jpg",
-      "published": "2026-07-04 09:55:28",
+      "title": "World Investment Advisors Cuts Stock Position in CocaCola Company (The) $KO",
+      "description": "World Investment Advisors decreased its position in shares of CocaCola Company (The) (NYSE:KO \u2013 Free Report) by 9.1% in the first quarter, HoldingsChannel reports. The fund owned 171,523 shares of the company\u2019s stock after selling 17,118 shares during the quarter. World Investment Advisors\u2019 holdings in CocaCola were worth $13,044,000 as of its most recent SEC [...]",
+      "link": "https://www.dailypolitical.com/2026/07/04/world-investment-advisors-cuts-stock-position-in-cocacola-company-the-ko.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/the-coca-cola-co-logo-1200x675.png",
+      "published": "2026-07-04 10:58:45",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Opposition parties take Election Commission\u2019s conduct to the Chief Justice",
+      "description": "Twenty-three parties, including estranged allies Dravida Munnetra Kazhagam and AAP, have written to the Chief Justice over the Election Commission\u2019s conduct and the SIR.",
+      "link": "https://frontline.thehindu.com/news/opposition-parties-letter-chief-justice-election-commission-sir/article71182247.ece",
+      "source": "Frontline Thehindu",
+      "image": "https://fl-i.thgim.com/public/incoming/kkeniw/article71182403.ece/alternates/LANDSCAPE_1200/INDIA%20bloc%20meeting.jpg",
+      "published": "2026-07-04 10:58:38",
       "category": [
         "politics",
-        "lifestyle",
         "top"
       ],
       "country": [

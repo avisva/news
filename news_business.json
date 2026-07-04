@@ -1,28 +1,43 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
-      "description": "Ferrari launched a limited-edition 12-cylinder model with a manual gearbox on \u200cFriday, appealing to traditional fans of roaring petrol engines and hands-on driving after the mixed initial reception for its first electric vehicle. Read more... The post Ferrari appeals to traditionalists with new V12 manual gearbox limited edition appeared first on CBNC .",
-      "link": "https://cbnc.com/ferrari-appeals-to-traditionalists-with-new-v12-manual-gearbox-limited-edition/",
-      "source": "Cbnc",
-      "image": "https://cbnc.com/wp-content/uploads/2026/07/2WIFXPM34ZIEHD7GN3G2IMOK6Y.jpg",
-      "published": "2026-07-03 18:16:00",
+      "title": "\u2018All hands on deck\u2019: Clearwater mayor responds to new possible oil pipeline in town",
+      "description": "Announcement says new pipeline would follow the same route as the previous Trans Mountain line",
+      "link": "https://barrierestarjournal.com/2026/07/03/all-hands-on-deck-clearwater-mayor-responds-to-new-possible-oil-pipeline-in-town/",
+      "source": "Barriere North Thompson Star",
+      "image": "https://barrierestarjournal.com/wp-content/uploads/sites/46/2026/07/42722424_web1_web1_170309-BPD-M-Kinder-Morgan-Trans-Mountain-pipeline-construction-file-photo-KMC--1-C.jpg",
+      "published": "2026-07-03 21:20:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Scandium Canada acquires, rebrands ski-maker Ferreol Technologies",
+      "description": "Ferreol\u2019s alloys built high-performing skis. Scandium wants to use them to make spacecraft one day. The post Scandium Canada acquires, rebrands ski-maker Ferreol Technologies first appeared on BetaKit .",
+      "link": "https://betakit.com/scandium-canada-acquires-rebrands-ski-maker-ferreol-technologies/",
+      "source": "Betakit",
+      "image": "https://cdn.betakit.com/wp-content/uploads/2026/07/Ferreol.jpg",
+      "published": "2026-07-03 21:19:51",
       "category": [
         "business"
       ],
       "country": [
-        "india"
+        "canada"
       ]
     },
     {
-      "title": "Ontario Securities Commission Files Bankruptcy Application Against Harry Stinson Over Unpaid Sanctions",
-      "description": "The Ontario Securities Commission (OSC) has filed an application under the Bankruptcy and Insolvency Act (BIA) to obtain a bankruptcy order against Mr. Harry Stinson and appoint a trustee over his assets. This application follows Mr. Stinson\u2019s failure to pay the financial sanctions and costs ordered by the Capital Markets Tribunal on December 15, 2023, which includes over $13 million in disgorgement and $600,000 in administrative penalties. Mr. Stinson was sanctioned by the Tribunal after the OSC proved he, and his companies, failed to comply with Ontario securities law when raising funds from investors for a hotel renovation project in Buffalo, New York. Since the 2023 ruling, the OSC has provided Mr. Stinson with reasonable opportunities to comply with the order after he claimed funds may become available to repay investors if he were able to refinance and then restore, re-open, and potentially sell the Buffalo Grand Hotel. The refinancing for the hotel never materialized. In 2025, Mr. Stinson applied to vary the sanctions and costs order, but the Tribunal dismissed his application. In December 2025, the City of Buffalo commenced a process to have the Buffalo Grand Hotel deemed abandoned, based on the property being subject to an order to vacate, overdue real property taxes, and zoning and safety code violations. Following the news in May 2026 that the City of Buffalo is continuing the process to have the hotel deemed abandoned after a further financing deal proposed by Mr. Stinson fell through, the plan to reopen the hotel remains incomplete and uncertain. Mr. Stinson has been unable to demonstrate a viable path toward making investors whole, and addressing the sanctions ordered against him. As such, today\u2019s application for a bankruptcy order is necessary to try to resolve this long running case and potentially obtain disgorgement amounts that could be distributed to harmed investors. A public hearing is scheduled for September 23, 2026. A court will decide whether to appoint a trustee to assume control of Mr. Stinson\u2019s assets. The mandate of the OSC is to provide protection to investors from unfair, improper or fraudulent practices, to foster fair, efficient and competitive capital markets and confidence in the capital markets, to foster capital formation, and to contribute to the stability of the financial system and the reduction of systemic risk. Investors are urged to check the registration of any persons or company offering an investment opportunity and to review the OSC investor materials available at www.osc.ca . Background: Mr. Harry Stinson is a resident of Hamilton, Ontario and a real estate broker and property developer. In 2023, the Capital Markets Tribunal ordered sanctions against Stinson and corporate respondents, including disgorgement of over $13 million and a $600,000 administrative penalty. The Tribunal found that Mr. Stinson illegally distributed securities by not filing a prospectus, while also failing to segregate investor funds, failing to maintain accurate records of funds received from investors, and failing to properly record the use of investors\u2019 funds. Mr. Stinson also admitted to making false or misleading statements to investors. In 2025, Mr. Stinson brought an application to vary the sanctions order which was dismissed by the Capital Markets Tribunal. In December 2025, as reported in the media, the City of Buffalo announced its plans to seize the hotel due to the property being subject to an order to vacate, unpaid taxes and fees, and other violations. In April 2026, Mr. Stinson said he had secured financing for the sale of the hotel \u2013 this financing arrangement then collapsed, as reported on in May 2026. The OSC\u2019s website contains a public list of individuals or companies with unpaid administrative penalties, disgorgement orders and costs, and any applicable interest, ordered against them in enforcement proceedings.",
-      "link": "http://www.mondovisione.com/media-and-resources/news/ontario-securities-commission-files-bankruptcy-application-against-harry-stinson-202673/",
-      "source": "Mondovisione",
-      "image": null,
-      "published": "2026-07-03 18:15:44",
+      "title": "A Belgian diamond group is gifting Trump a lavish ring after that industry won tariff relief",
+      "description": "It's a glitzy window into the role that ostentatious \u2013 and almost always gilded \u2014 gifts are playing by those seeking to curry favor with the U.S. president.",
+      "link": "https://www.pbs.org/newshour/world/a-belgian-diamond-group-is-gifting-trump-a-lavish-ring-after-that-industry-won-tariff-relief",
+      "source": "Pbs",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26182345836299-1024x683.jpg",
+      "published": "2026-07-03 21:19:47",
       "category": [
         "business",
         "top"

@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Perry trains as Aussies ramp up World Cup final preparation",
+      "description": "Positive signs as Ellyse Perry batted in the nets during Australia's first pre-final training session following \"wellness day\"",
+      "link": "https://www.cricket.com.au/news/4530234/ellyse-perry-injury-fit-australia-t20-world-cup-final-lords-training-batting-running-nets-wellness-litchfield",
+      "source": "Cricket",
+      "image": "https://resources.cricket-australia.pulselive.com/photo-resources/2026/07/03/983eda2d-8ab5-442b-898c-5f4b4b55d2de/ellyse-perry-training.jpg?width=500",
+      "published": "2026-07-03 21:20:00",
+      "category": [
+        "sports",
+        "top",
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

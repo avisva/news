@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Social Media Health Misinformation Spreads Despite User Mistrust",
+      "description": "Social Media Health Misinformation Spreads Despite User Mistrust",
+      "link": "https://arynews.tv/social-media-health-misinformation-spreads-despite-user-mistrust",
+      "source": "Ary News",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/ARY-1200-x-675-px-19.png",
+      "published": "2026-07-04 12:07:51",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

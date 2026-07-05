@@ -1,27 +1,48 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Trump Marks America\u2019s 250th Anniversary With National Mall Rally Amid Political Divide",
-      "description": "U.S. President Donald Trump is set to headline a major rally at Washingtons National Mall on Saturday as part of Americas 250th anniversary celebrations, concluding weeks of events that have sparked debate over the growing...",
-      "link": "https://econotimes.com/Trump-Marks-Americas-250th-Anniversary-With-National-Mall-Rally-Amid-Political-Divide-1745925",
-      "source": "Econotimes",
-      "image": "https://f1.econotimes.com/2026/03/klk1e7t5ot.png",
-      "published": "2026-07-05 00:13:21",
+      "title": "GCash lowers transfer fee to P10",
+      "description": "Fintech company GCash has lowered its transfer fee to P10 as of July 4.",
+      "link": "https://www.philstar.com/business/2026/07/05/2540005/gcash-lowers-transfer-fee-p10",
+      "source": "Philstar.com",
+      "image": "https://media.philstar.com/photos/2023/11/25/11_2023-11-25_18-17-00.jpg",
+      "published": "2026-07-05 02:40:00",
       "category": [
         "business"
       ],
       "country": [
-        "united states of america",
-        "japan",
-        "united kingdom",
-        "china",
-        "south korea",
-        "canada",
-        "france",
-        "germany",
-        "australia",
+        "philippines"
+      ]
+    },
+    {
+      "title": "H D Kumaraswamy favours fresh SIR; wants work done so far scrapped",
+      "description": "Kumaraswamy favours fresh SIR; wants work done so far scrapped",
+      "link": "https://www.deccanherald.com/india/karnataka/kumaraswamy-favours-fresh-sir-wants-work-done-so-far-scrapped-4062514",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-07-05/j45hb7f4/file86gi1j18xomhas5elrj.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-07-05 02:39:41",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DDA unveils roadmap to transform Delhi with affordable housing, green spaces and better mobility",
+      "description": null,
+      "link": "https://www.moneycontrol.com/city/dda-unveils-roadmap-to-transform-delhi-with-affordable-housing-green-spaces-and-better-mobility-article-13966209.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260705023655_fsxsZ.jpg",
+      "published": "2026-07-05 02:39:12",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
         "india"
       ]
     }

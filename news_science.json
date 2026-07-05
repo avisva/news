@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Kuppam will produce gold with advanced mining tech: Andhra CM Naidu",
+      "description": "During his visit to Kuppam, CM Naidu inaugurated CT Scan and dialysis centre at the Area Hospital; He also inaugurated \u2018Swarna Kuppam-Swachh Kuppam\u2019 entrance arch and took part in several programmes.",
+      "link": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/05/kuppam-will-produce-gold-with-advanced-mining-tech-andhra-cm-naidu",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-05/nhzpiwxj/vijcm080407chn40.jpg",
+      "published": "2026-07-05 02:39:11",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

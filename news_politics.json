@@ -1,20 +1,59 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "The ghosts aren\u2019t in the ballot box, they\u2019re in broken promises",
-      "description": null,
-      "link": "https://thesun.my/lifestyle/the-ghosts-arent-in-the-ballot-box-theyre-in-broken-promises/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/07/Capture-blurred-2.webp",
-      "published": "2026-07-05 02:39:44",
+      "title": "Performer calls for President Trump's death at funeral for Iran's late supreme leader",
+      "description": "A performer at the funeral for the late Supreme Leader Ayatollah Ali Khamenei has called for the death of U.S. President Donald Trump before a crowd of hundreds of thousands of people Sunday in Iran's capital, Tehran.",
+      "link": "https://www.kcra.com/article/calls-for-trump-death-funeral-iran-supreme-leader/71825002",
+      "source": "Kcra",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/b5e33a50-9b1f-41b8-8b7d-d0674bae9b8d.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "published": "2026-07-05 04:06:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "malaysia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US VP Vance says Britain has been failed by leaders, hopes next PM delivers change",
+      "description": "The two leaders repeatedly stressed the importance of the US-UK \"special relationship\" despite...",
+      "link": "https://www.thecitizen.co.tz/tanzania/news/international/us-vp-vance-says-britain-has-been-failed-by-leaders-hopes-next-pm-delivers-change-5518406",
+      "source": "The Citizen",
+      "image": "https://www.thecitizen.co.tz/resource/image/5518408/landscape_ratio16x9/1600/900/80a24b22a327e7a8cf16203ea0f9cb28/Ba/vance-pic.jpg",
+      "published": "2026-07-05 04:05:48",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "rwanda",
+        "mozambique",
+        "zambia",
+        "south africa",
+        "burundi",
+        "tanzania",
+        "ethiopia",
+        "kenya",
+        "nigeria",
+        "uganda"
+      ]
+    },
+    {
+      "title": "Bainimarama endorses new One Nation Party",
+      "description": "Former Prime Minister Voreqe Bainimarama has formally endorsed and pledged his support for the newly registered political party, One Nation. A One Nation delegation \u2013 led by its President, General Secretary, Founding Members, and the Central Executive Committee \u2013 met with Bainimarama last Thursday to present the Party\u2019s Constitution and seek his patronage. During the [...]",
+      "link": "https://www.fbcnews.com.fj/news/bainimarama-endorses-new-one-nation-party/",
+      "source": "Fbc News",
+      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2026/07/Untitled-design-21.png",
+      "published": "2026-07-05 04:05:43",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "fiji"
       ]
     }
   ]

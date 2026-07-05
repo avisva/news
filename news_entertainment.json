@@ -1,19 +1,44 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Xian Lim graduates from DLS-CSB, says learning 'never stops'",
-      "description": "Xian Lim has added another milestone to his growing list of achievements after graduating with a Bachelor of Arts in Music Production degree from De La Salle-College of Saint Benilde.",
-      "link": "https://www.gmanetwork.com/entertainment/showbiznews/xian-lim-graduates-from-dls-csb-says-learning-never-stops/135307",
-      "source": "Gma",
-      "image": "https://aphrodite.gmanetwork.com/entertainment/articles/1200_675_Main2026-06_0705_05-07-2026-1102_-20260705110255.jpg",
-      "published": "2026-07-05 02:39:09",
+      "title": "Honouring Cont Mhlanga: The Members returns to the stage",
+      "description": "Langalakhe Mabena, Sunday Life Reporter A CLASSIC Zimbabwean theatre production is returning to the stage with renewed force, as Cont Mhlanga\u2019s 1998 political satire The Members heads to Bulawayo for...",
+      "link": "https://www.heraldonline.co.zw/honouring-cont-mhlanga-the-members-returns-to-the-stage/",
+      "source": "H-metro",
+      "image": "https://www.heraldonline.co.zw/wp-content/uploads/2026/07/ghdg.jpg",
+      "published": "2026-07-05 04:05:45",
       "category": [
+        "top",
         "entertainment"
       ],
       "country": [
-        "philippines"
+        "zimbabwe"
+      ]
+    },
+    {
+      "title": "In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube",
+      "description": null,
+      "link": "https://www.reuters.com/sports/soccer/soccer-crazy-brazil-streaming-upstart-pulls-world-cup-viewers-tv-youtube-2026-07-05/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/XKRRMJBJKFMYXEPDX43HIZLNAQ.jpg?auth=3f406333e9730958ac164b6b6787c9392fd9da6f785a494a813801dbd40b1f51&smart=true&width=1920",
+      "published": "2026-07-05 04:05:43",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america",
+        "united kingdom",
+        "china",
+        "japan",
+        "russia",
+        "israel",
+        "south africa",
+        "india",
+        "ukraine",
+        "iran"
       ]
     }
   ]

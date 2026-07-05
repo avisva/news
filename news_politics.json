@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Piers Morgan rages 'Nigel Farage has to go' as huge bombshell plunges Reform in crisis",
+      "description": "The Reform UK leader is facing pressure to step down as he is weakening the party, according to veteran broadcaster Piers Morgan",
+      "link": "https://www.express.co.uk/news/politics/2225460/piers-morgan-rages-nigel-farage",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/139/590x/2225460_1.jpg",
+      "published": "2026-07-05 08:11:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Rejection of Haitian immigrants should bring shame to America | Letter",
+      "description": "The decision to return these people and others to their troubled homelands will be judged harshly by future generations.",
+      "link": "https://www.pressherald.com/2026/07/05/rejection-of-haitian-immigrants-is-a-shameful-chapter-for-america-letter/",
+      "source": "The Portland Press Herald",
+      "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/07/Haitian-rally.jpg?w=780",
+      "published": "2026-07-05 08:11:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pope Leo XIV delivers July 4th message to US: America was built by immigrants",
+      "description": "LAMPEDUSA, Sicily \u2014 Pope Leo XIV, who has sparred with the Trump administration over its immigration crackdown, spent the Fourth of July on Saturday in the epicenter of Europe\u2019s migration debate to honor the tens of thousands of people who have died trying to reach Europe to find freedom and prosperity.",
+      "link": "https://businessmirror.com.ph/2026/07/05/pope-leo-xiv-delivers-july-4th-message-to-us-america-was-built-by-immigrants/",
+      "source": "Businessmirror",
+      "image": "https://businessmirror.com.ph/wp-content/uploads/2026/07/world02-070626.webp",
+      "published": "2026-07-05 08:10:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,47 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Your wearable tracks countless health metrics, but which ones are worth paying attention to?",
+      "description": "Wearables can offer rough information about a person\u2019s health, experts say, but only some metrics are medically useful.",
+      "link": "https://www.channelnewsasia.com/wellness/health-wearables-doctors-rfk-apple-watch-6210331",
+      "source": "Channel Newsasia",
+      "image": "https://dam.mediacorp.sg/image/upload/s--zjFs-s4s--/c_crop,h_900,w_1600,x_0,y_118/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/29/wearables_health_data-0.jpg?itok=PjVGPXgk",
+      "published": "2026-07-05 00:13:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "hong kong",
+        "bahrain",
+        "mongolia",
+        "turkey",
+        "nepal",
+        "bhutan",
+        "myanmar",
+        "taiwan",
+        "israel",
+        "north korea",
+        "bangladesh",
+        "malaysia",
+        "japan",
+        "vietnam",
+        "thailand",
+        "cambodia",
+        "china",
+        "indonesia",
+        "afghanistan",
+        "maldives",
+        "sri lanka",
+        "pakistan",
+        "philippines",
+        "singapore",
+        "india",
+        "kuwait",
+        "south korea"
+      ]
+    }
+  ]
 }

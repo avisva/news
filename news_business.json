@@ -1,48 +1,28 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 1,
   "results": [
     {
-      "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
-      "description": "The worst-performing \"Magnificent Seven\" stock of 2026 owns about a quarter of one of the biggest IPOs in the pipeline.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
-      "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/motleyfool.com/7f0fc1440060b133777aa02ee123d24a",
-      "published": "2026-07-04 22:10:00",
+      "title": "Trump Marks America\u2019s 250th Anniversary With National Mall Rally Amid Political Divide",
+      "description": "U.S. President Donald Trump is set to headline a major rally at Washingtons National Mall on Saturday as part of Americas 250th anniversary celebrations, concluding weeks of events that have sparked debate over the growing...",
+      "link": "https://econotimes.com/Trump-Marks-Americas-250th-Anniversary-With-National-Mall-Rally-Amid-Political-Divide-1745925",
+      "source": "Econotimes",
+      "image": "https://f1.econotimes.com/2026/03/klk1e7t5ot.png",
+      "published": "2026-07-05 00:13:21",
       "category": [
         "business"
       ],
       "country": [
+        "united states of america",
+        "japan",
+        "united kingdom",
+        "china",
+        "south korea",
+        "canada",
+        "france",
+        "germany",
+        "australia",
         "india"
-      ]
-    },
-    {
-      "title": "100 authors demand $75M from Anthropic over \u2018stolen\u2019 work to train its systems: lawsuit",
-      "description": "Over 100 fed-up authors are demanding over $75 million from a San Francisco-based AI company Anthropic that allegedly stole their books to train its systems.",
-      "link": "https://nypost.com/2026/07/04/us-news/100-authors-demand-over-75m-from-ai-company-that-stole-their-work-to-train-systems-lawsuit/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fphoto-illustration-anthropic-logo-seen-131567839_0b2d8e.jpg?w%3D1024",
-      "published": "2026-07-04 22:09:25",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The greyhound races Tasmanian authorities don't want you to see",
-      "description": "If you watched greyhound race videos on Tasracing's website, you would likely never know that dozens of dogs were injured or killed during events last year.",
-      "link": "https://www.abc.net.au/news/2026-07-05/greyhound-deaths-injuries-tasracing-racing-video-policy/106858226",
-      "source": "Abc",
-      "image": "https://live-production.wcms.abc-cdn.net.au/199c90997115a760c893a9d7135444f1?impolicy=wcms_crop_resize&cropH=911&cropW=1619&xPos=122&yPos=99&width=862&height=485",
-      "published": "2026-07-04 22:09:15",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "australia"
       ]
     }
   ]

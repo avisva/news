@@ -1,49 +1,5 @@
 {
   "status": "success",
-  "totalResults": 3,
-  "results": [
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "description": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the target machine, so it",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "source": "The Hacker News",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1700-e365/TrojPix-attack.jpg",
-      "published": "2026-07-06 08:50:54",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "JADEPUFFER marks a new era in ransomware with autonomous database attacks",
-      "description": "Sysdig's latest report reveals JADEPUFFER, the first known instance of agentic ransomware that operates autonomously. Utilizing a large language model (LLM), it successfully exploited Langflow to harvest credentials and perform full database extortion without human intervention. This development raises significant concerns for cybersecurity, highlighting the potential for more sophisticated and automated attacks in the future.",
-      "link": "https://nextbigwhat.com/jadepuffer-marks-a-new-era-in-ransomware-with-autonomous-database-attacks/",
-      "source": "Nextbigwhat",
-      "image": null,
-      "published": "2026-07-06 08:50:51",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Continental to sell ContiTech unit to Lone Star Funds for $4.6 billion",
-      "description": null,
-      "link": "https://www.autonews.com/manufacturing/suppliers/ane-continental-contitech-sale-after-job-cuts-0706/",
-      "source": "Automotive News",
-      "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/G9SHGQZ7GhUBqSDDAb0nRZn0Jbs=/cloudfront-us-east-1.images.arcpublishing.com/crain/RMCNQBY5DFAMHIBB3BLDYOMVBU.jpg",
-      "published": "2026-07-06 08:50:43",
-      "category": [
-        "technology",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

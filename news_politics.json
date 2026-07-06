@@ -1,62 +1,51 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Investing To See More Aussies Experience Red Centre",
-      "description": "The Albanese Labor Government is delivering for Australia\u2019s iconic Red Centre, with major investments to attract more visitors, create new experiences",
-      "link": "https://www.nationaltribune.com.au/investing-to-see-more-aussies-experience-red-centre/",
-      "source": "The National Tribune",
-      "image": "https://cdn.pixabay.com/photo/2014/02/15/07/14/canberra-266338_960_720.jpg",
-      "published": "2026-07-06 00:43:51",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Treaties Committee to examine Indigenous perspectives on WIPO (GRATK) Treaty",
-      "description": "The Joint Standing Committee on Treaties (JSCOT) will hold a public hearing on Monday, 6 July 2026 as part of its inquiry into the WIPO Treaty on",
-      "link": "https://www.nationaltribune.com.au/treaties-committee-to-examine-indigenous-perspectives-on-wipo-gratk-treaty/",
-      "source": "The National Tribune",
-      "image": "https://www.aph.gov.au/-/media/05_About_Parliament/53_HoR/538_Photoarray_images/Reps_despatch_box.jpg",
-      "published": "2026-07-06 00:43:51",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Secret research report proves Labor\u2019s disrespect for public housing tower residents",
-      "description": "The Victorian Greens say secret documents prove Labor\u2019s \u201cutter disrespect and contempt\u201d for residents, as government research released under FOI",
-      "link": "https://www.nationaltribune.com.au/secret-research-report-proves-labor-s-disrespect-for-public-housing-tower-residents/",
-      "source": "The National Tribune",
-      "image": "https://greens.org.au/sites/default/files/styles/alt_box/public/2021-03/web_20-10-31%20Election%20Party-32_1.jpg?itok=1c7u0LLt",
-      "published": "2026-07-06 00:43:51",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "President U Min Aung Hlaing and Spouse Daw Kyu Kyu Hla arrive back from Lao PDR",
-      "description": "The high-level Myanmar delegation led by President of the Republic of the Union of Myanmar U Min Aung Hlaing and [...]",
-      "link": "https://www.gnlm.com.mm/president-u-min-aung-hlaing-and-spouse-daw-kyu-kyu-hla-arrive-back-from-lao-pdr/",
-      "source": "Global New Light Of Myanmar",
-      "image": "https://cdn.digitalagencybangkok.com/file/client-cdn/gnlm/wp-content/uploads/2026/07/6-7-2026-8.jpg",
-      "published": "2026-07-06 00:43:29",
+      "title": "Trump emissions-rule pardons hit as Polymarket prices Newsom at 20.6%",
+      "description": "On Truth Social, President Donald Trump announced pardons for business owners and truck mechanics convicted of violating federal emissions-control rules, calling the prosecutions excessive. (Read More)",
+      "link": "https://blockchain.news/news/trump-emissions-rule-pardons-hit-as-polymarket-prices-newsom-at-206-0hnmpqpu95s00",
+      "source": "Blockchain News",
+      "image": "https://image.blockchain.news/thumbnails/Stock%20market%20or%20forex%20trading%20graph%20and%20candlestick%20chart.jpg",
+      "published": "2026-07-06 04:18:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "myanmar"
+        "united states of america",
+        "singapore"
+      ]
+    },
+    {
+      "title": "Trump to meet with Zelenskyy, al-Sharaa during NATO summit",
+      "description": "WASHINGTON \u2014 President Donald Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa on Wednesday while attending the NATO summit in Turkey, the White House said. Those discussions will come as Kyiv tries to refocus Trump\u2019s attention on the conflict with Moscow and as Trump has publicly mused about Syria\u2019s [...]",
+      "link": "https://www.tribtoday.com/news/national-news-apwire/2026/07/trump-to-meet-with-zelenskyy-al-sharaa-during-nato-summit/",
+      "source": "Tribtoday.com",
+      "image": "http://d14e0irai0gcaa.cloudfront.net/www.tribtoday.com/images/2016/10/11191558/fblike.jpg",
+      "published": "2026-07-06 04:17:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump won big spending promises from NATO last year. This week in Turkey, he'll try to enforce them",
+      "description": "President Trump heads to Turkey to press NATO allies on defense spending pledges. He expects immediate action on the 5% GDP target, a key focus after last year's summit. Despite ongoing disputes, Trump seeks to solidify his influence on the alliance's future, while also planning meetings on Ukraine and Syria. This summit serves as a crucial test of commitment to increased defense contributions.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/trump-won-big-spending-promises-from-nato-last-year-this-week-in-turkey-hell-try-to-enforce-them/articleshow/132207130.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132207152,resizemode-4,width-1200,height-900,imgsize-58356,overlay-economictimes/articleshow.jpg",
+      "published": "2026-07-06 04:17:34",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

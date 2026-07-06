@@ -1,57 +1,58 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 6,
   "results": [
     {
-      "title": "EC announces July 24 Rajya Sabha bypolls after TMC MPs exit, party name battle intensifies",
-      "description": "The battle for control of the TMC is set to enter a decisive phase on Monday --- with rival factions expected to submit documents before the Election Commission and stake claim over the party name, symbol and organisational structure.",
-      "link": "https://www.financialexpress.com/india-news/ec-announces-july-24-rajya-sabha-bypolls-after-tmc-mps-exit-party-name-battle-intensifies/4284487/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/01/diya-0001-2025-10-13T062651.222-2025-12-19T124949.225-2026-01-24T065722.853.jpg",
-      "published": "2026-07-06 06:52:59",
+      "title": "Assam Assembly Faces Turmoil Over Power Supply Crisis",
+      "description": "The opening day of the Budget Session in Assam's Legislative Assembly was marked by significant unrest as Congress legislators walked out in protest against the state's deteriorating power supply situation. The opposition accused the government of failing to provide consistent electricity, leading to severe disruptions for residents, especially during the sweltering heat. The Speaker's refusal to allow a discussion on this pressing issue has intensified the criticism, with lawmakers demanding immediate government intervention to address the ongoing crisis. This situation raises concerns about the impact on daily life and the upcoming examinations for students amid frequent power outages.",
+      "link": "https://gyanhigyan.com/national/assam-assembly-faces-turmoil-over-power-supply-crisis/cid18938095.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/6e56833c6526a921b989fe395a60ce81.webp?width=1280&height=720&resizemode=4",
+      "published": "2026-07-06 08:50:57",
       "category": [
         "politics",
-        "top"
+        "top",
+        "crime"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Mumbai monsoon mayhem: Rail services hit, dabbawalas suspend work; WFH advisory issued, 15k personnel deployed amid red alert",
-      "description": "Mumbai, Thane, and Raigad are under a red alert for heavy rainfall and strong winds, with authorities urging people to stay indoors and avoid unnecessary travel. Flooding, landslides, and structural damage are significant risks. Dabbawalas have suspended services, and train routes, particularly the Mumbai-Pune line, are disrupted due to landslides and waterlogging. Emergency response teams are on standby.",
-      "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-monsoon-mayhem-rail-services-hit-dabbawalas-suspend-work-wfh-advisory-issued-15k-personnel-deployed-amid-red-alert/articleshow/132208867.cms",
-      "source": "The Times Of India",
+      "title": "File photo of Vinesh Phogat",
+      "description": "The Wrestling Federation of India counsel said Phogat would be given a personal hearing before a decision is taken on the notice.",
+      "link": "https://www.etvbharat.com/en/bharat/delhi-hc-gives-two-weeks-to-wfi-to-decide-show-cause-notice-to-vinesh-phogat-enn26070603129",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/06-07-2026/1200-675-27082784-274-27082784-1783327785035.jpg",
+      "published": "2026-07-06 08:50:56",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "JADEPUFFER marks a new era in ransomware with autonomous database attacks",
+      "description": "Sysdig's latest report reveals JADEPUFFER, the first known instance of agentic ransomware that operates autonomously. Utilizing a large language model (LLM), it successfully exploited Langflow to harvest credentials and perform full database extortion without human intervention. This development raises significant concerns for cybersecurity, highlighting the potential for more sophisticated and automated attacks in the future.",
+      "link": "https://nextbigwhat.com/jadepuffer-marks-a-new-era-in-ransomware-with-autonomous-database-attacks/",
+      "source": "Nextbigwhat",
       "image": null,
-      "published": "2026-07-06 06:52:56",
+      "published": "2026-07-06 08:50:51",
       "category": [
-        "top"
+        "technology"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "AI Skills Every College Student Should Learn to Stay Career-Ready | Simplilearn",
-      "description": "TL;DR: College students should develop AI literacy, basic data skills, prompting skills, and familiarity with simple tools such as spreadsheets and Python. These should be combined with critical thinking, communication, and adaptability to work effectively in AI-driven workplaces and stay relevant for future job roles. College students are enterin... Read More .",
-      "link": "https://www.simplilearn.com/ai-skills-for-college-students-article",
-      "source": null,
-      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/AI_Skills_Every_College_Student_Should_Learn.jpg",
-      "published": "2026-07-06 06:52:48",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Monsoon gains strength across India; alerts in Kerala, Odisha",
-      "description": "New Delhi, July 6: Monsoon activity intensified across India on Sunday, with heavy rain disrupting flight operations in Mumbai, triggering weather alerts in Kerala, Odisha and Jharkhand, and bringing widespread downpour to Delhi. Mumbai took the hardest hit as heavy overnight rain lashed the city, forcing the suspension of runway operations at the Chhatrapati [...] The post Monsoon gains strength across India; alerts in Kerala, Odisha appeared first on News Today | First with the news .",
-      "link": "https://newstodaynet.com/2026/07/06/monsoon-gains-strength-across-india-alerts-in-kerala-odisha/",
-      "source": "News Today",
-      "image": "https://newstodaynet.com/storage/2026/07/images-1-3.jpg",
-      "published": "2026-07-06 06:52:47",
+      "title": "Karnataka Weather Alert: IMD Issues Orange Alert for 11 Districts, Yellow Alert for 8 as Heavy Rain Lashes State",
+      "description": "The IMD has issued an Orange Alert for 11 districts and a Yellow Alert for eight districts in Karnataka as the southwest monsoon intensifies. Heavy rain, thunderstorms and lightning are forecast, while fishermen have been advised not to venture into the sea.",
+      "link": "https://newsable.asianetnews.com/karnataka-news/karnataka-weather-alert-imd-issues-orange-alert-11-districts-yellow-alert-8-heavy-rain-lashes-state-articleshow-q3bsod5",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kwtxhqwh92gy25ny47h0xzw4,imgname-karnataka-rain-updates-1783314833296.jpg",
+      "published": "2026-07-06 08:50:46",
       "category": [
         "top",
         "environment"
@@ -61,14 +62,30 @@
       ]
     },
     {
-      "title": "Germany's AfD Eyes Power As Alice Weidel Re-Elected Amid Massive Anti-Far-Right Protests",
-      "description": "<p><em><strong>Reported by</strong></em>: <em>Hans Pfeifer </em><br /><br />Germany's far-right Alternative for Germany (AfD) has reaffirmed its ambition to govern the country. Wrapping up <span class=\"editable placeholder\" data-id=\"77830605\" data-size=\"NORMAL\" data-type=\"LIVEBLOG\">the party's national convention in Erfurt</span>, the capital of the eastern state of Thuringia, re-elected co-leader Alice Weidel was pointing to current opinion polls that see the party in the lead across Germany. \"We are the strongest force. We are a people's party with 30% support. And we will govern,\" she said.</p> <p>Earlier, delegates had confirmed the party's co-leadership. Weidel, who ran as the AfD's main candidate in Germany's 2025 federal election, slightly improved on her result from two years ago, winning 81.3% of the vote. Her co-chair, Tino Chrupalla, by contrast, lost significant support and received just 70%.</p> <p>More importantly for Weidel, many of her supporters were elected to the new federal board. This has strengthened the influence of Weidel, who holds a doctorate in economics, over the party's future direction. Within the AfD and in the media, there has long been speculation over Weidel's ambition to lead the party on her own in the future.</p> <h2>Boost for the far-right wing</h2> <p>The composition of the newly elected board suggests that the AfD is set to continue pursuing a hardline strategy to set itself apart from all other parties. No fewer than six of the 14 members of the new board come from state branches that Germany's domestic intelligence authorities classify as right-wing extremist organizations.</p> <p>One of the new additions to the party leadership is Jean-Pascal Hohm, a far-right politician who also heads the newly founded party youth group, \"Generation Deutschland.\" In the past, Hohm had to give up his job with the AfD parliamentary group in the eastern state of Brandenburg because of his contacts to right-wing extremists.</p> <p>Stefan Mo\u0308ller, from Thuringia, is also joining the board. He is considered one of the closest political allies of Bjo\u0308rn Ho\u0308cke, one of the AfD's most controversial figures. In 2025, Ho\u0308cke was twice ordered to pay fines after repeatedly using a slogan associated with the Nazi-era SA, a paramilitary organization under Adolf Hitler. His ally Mo\u0308ller is now expected to oversee the party's dealings with Germany's security authorities.</p> <h2>Domestic intelligence agencies versus the AfD</h2> <p>Germany's domestic intelligence agency, the Federal Office for the Protection of the Constitution, along with its state-level counterparts, is a particular target of AfD criticism. In five states \u2014 Brandenburg, Lower Saxony, Saxony, Saxony-Anhalt and Thuringia \u2014 the AfD is officially classified as confirmed right-wing extremist. In six other states, and at the national level, it is under observation as a suspected extremist organization.</p> <p>The authorities point to repeated negative statements by party members about Germany's democracy and judiciary. But above all, they point to repeated attempts by AfD politicians to question the legal equality of German citizens, especially when it comes to migrants, Muslims and Black people.</p> <p>Stefan Mo\u0308ller, now a member of the federal board, has also questioned the equality of all Germans in the past. In a post published on Twitter, now X, on July 17, 2023, he wrote: \"What makes someone German is decided between the ears, not on paper.\"</p> <p>Unlike at previous AfD conventions, the party's internal power struggles this time played out without major clashes or splits. Earlier gatherings had seen furious public infighting and attacks from the convention stage, with party leaders repeatedly toppled after bitter verbal battles.</p> <p>In Erfurt, by contrast, there were no such escalations. With three important state elections still to be held in 2026, and the AfD hoping to get its first state premier in either Saxony-Anhalt or Mecklenburg-Western Pomerania, party leaders successfully avoided any conflict that might affect the favorable poll numbers.</p> <h2>Few policy details from Weidel</h2> <p>But the absence of open conflict also meant there was little real policy debate. In her speech, Weidel largely avoided making concrete policy proposals. Instead, she stuck to a general critique of German government policy over the past 20 years: \"Saving the euro, saving refugees, saving the climate, saving Ukrainians \u2014 while consistently deindustrializing the country and pursuing disastrous energy policies \u2014 is overwhelming the people in our country.\"</p> <p>In the past, Weidel and the AfD have called for a return to nuclear energy, the resumption of Russian gas deliveries to Germany, an end to climate protection measures and an end to German support for Ukraine, which was invaded by Russia in 2022 and has been defending itself ever since.</p> <p>At the convention, however, Weidel limited herself to stressing the AfD's claim to government responsibility. She did not propose any specific measures. Instead, to loud applause from delegates, she invoked a spirit of German nationalism: \"Let us drape the entire country in black, red and gold. Black, red and gold \u2014 that is what we live. Those are our colors.\"</p> <h2>Peaceful anti-AfD protests</h2> <p>The party convention was accompanied by largely peaceful protests. Tens of thousands of people demonstrated against the AfD in Erfurt. The protests were backed by trade unions, churches, political parties and numerous civil society organizations.</p> <p>At one rally in Erfurt, Jens-Christian Wagner, the director of the Buchenwald Memorial at the site of the former concentration camp in Thuringia, addressed the AfD with a pointed message: \"Remigrate yourselves into the history books.\"</p> <p>His remark referred to the AfD's use of the term \"remigration,\" which the party uses to describe large-scale deportations of migrants, including some people with legal residence or citizenship according to proposals by some party figures.</p> <p><em>(<strong>Disclaimer</strong>: This report first appeared on <strong>Deutsche Welle</strong>, and has been republished on<strong> ABP Live</strong> as part of a special arrangement. Apart from the headline, no changes have been made in the report by <strong>ABP Live</strong>.)</em></p>",
-      "link": "https://news.abplive.com/news/world/germany-s-afd-eyes-power-as-alice-weidel-re-elected-massive-anti-far-right-protests-1854751",
-      "source": "Abp News",
-      "image": "https://feeds.abplive.com/images/dw/77832520_607.jpg?impolicy=abp_cdn&imwidth=1200&height=675",
-      "published": "2026-07-06 06:52:47",
+      "title": "Mourners carry \u2018Kill Trump\u2019 banners at Khamenei\u2019s funeral procession; Eulogist calls for Trump\u2019s death",
+      "description": "TEHRAN: Mourners attending the funeral procession of former Iranian Supreme Leader Ali Khamenei in Tehran on Monday carried banners and placards calling for the death of US President Donald Trump, as reported by Al Jazeera. Images from the procession showed a banner reading \u201cKill Trump\u201d, with a bullet depicted running through the word \u201cTrump\u201d. Other [...]",
+      "link": "https://english.publictv.in/mourners-carry-kill-trump-banners-at-khameneis-funeral-procession-eulogist-calls-for-trumps-death/",
+      "source": "Public Tv English",
+      "image": "https://english.publictv.in/wp-content/uploads/2026/07/Iran-poster-trump.jpg",
+      "published": "2026-07-06 08:50:45",
       "category": [
-        "world"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "PM Modi's Visit to Indonesia to Boost Defence, Critical Mineral Ties: Officials",
+      "description": "Indian Prime Minister Narendra Modi is visiting Indonesia from 6-8 July as part of a three-nation visit covering Australia and New Zealand as well.",
+      "link": "https://sputniknews.in/20260706/pm-modis-visit-to-indonesia-to-boost-defence-critical-mineral-ties-officials-11537798.html",
+      "source": "Sputnik News",
+      "image": "https://cdn1.img.sputniknews.in/images/sharing/article/eng/11537798.jpg?87039721783327842",
+      "published": "2026-07-06 08:50:41",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "india"

@@ -1,35 +1,76 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Power game sends Osaka to quarters",
-      "description": "LONDON -- When power meets power, getting in the first blow can sometimes be the key.",
-      "link": "https://www.nwaonline.com/news/2026/jul/06/power-game-sends-osaka-to-quarters/",
-      "source": "Nwaonline",
-      "image": null,
-      "published": "2026-07-06 06:53:00",
+      "title": "Gardener bought a Sungold tomato plant, but its dark fruit revealed a tasty nursery mix-up",
+      "description": "Commenters pointed out that the issue was most likely a wrong label rather than stress.",
+      "link": "https://ca.style.yahoo.com/gardener-bought-sungold-tomato-plant-085100765.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/HWVUULC2WKk5u0jBVNSYNg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/the_cool_down_737/94bbf9970ac7cb1d41dcca3f651be66b",
+      "published": "2026-07-06 08:51:00",
       "category": [
-        "sports",
-        "top"
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "How a high-roller blew $60m in just days at Crown Perth casino",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/business/margin-call/court-details-how-highroller-huang-youlong-lost-60m-in-a-few-days-at-crown-perth/news-story/e71dc0f6ac676fa1e9da211232533740",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-07-06 08:51:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "File photo of Vinesh Phogat",
+      "description": "The Wrestling Federation of India counsel said Phogat would be given a personal hearing before a decision is taken on the notice.",
+      "link": "https://www.etvbharat.com/en/bharat/delhi-hc-gives-two-weeks-to-wfi-to-decide-show-cause-notice-to-vinesh-phogat-enn26070603129",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/06-07-2026/1200-675-27082784-274-27082784-1783327785035.jpg",
+      "published": "2026-07-06 08:50:56",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "A look at the Pacers depth chart with Kelly Oubre Jr.",
+      "description": null,
+      "link": "https://www.indystar.com/story/sports/nba/pacers/2026/07/06/kelly-oubre-addition-does-to-the-pacers-depth-chart/90778565007/",
+      "source": "The Indianapolis Star",
+      "image": null,
+      "published": "2026-07-06 08:50:54",
+      "category": [
+        "top",
+        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "BAUER, BOHANNON, BOS AND TEAM FRANCE CROWNED 2026 FIM JUNIOR WORLD CHAMPIONS AT JINI\u0301N",
-      "description": "The post BAUER, BOHANNON, BOS AND TEAM FRANCE CROWNED 2026 FIM JUNIOR WORLD CHAMPIONS AT JINI\u0301N appeared first on MX Vice .",
-      "link": "https://mxvice.com/2026/07/06/bauer-bohannon-bos-and-team-france-crowned-2026-fim-junior-world-champions-at-jinin/",
-      "source": "Mx Vice",
-      "image": "https://mxvice.com/wp-content/uploads/2026/07/MXGP-4.jpg",
-      "published": "2026-07-06 06:52:54",
+      "title": "We named our fear - how Aussie women won T20 World Cup",
+      "description": null,
+      "link": "https://www.yarrawongachronicle.com.au/cricket/we-named-our-fear-how-aussie-women-won-t20-world-cup/",
+      "source": "Yarrawonga Chronicle",
+      "image": "https://imengine.public.prod.mmg.navigacloud.com/?uuid=ebca189b-e9fe-58da-8b24-cf1f07736203&function=original&type=preview",
+      "published": "2026-07-06 08:50:43",
       "category": [
-        "sports",
-        "top"
+        "sports"
       ],
       "country": [
-        "united states of america"
+        "australia"
       ]
     }
   ]

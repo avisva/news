@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Bescom: Tenants will continue getting Gruha Jyothi benefits",
+      "description": "Bescom assures tenants will retain Gruha Jyothi benefits amid ongoing verification; no extra paperwork required.",
+      "link": "https://www.thehindu.com/news/national/karnataka/bescom-tenants-will-continue-getting-gruha-jyothi-benefits/article71186279.ece",
+      "source": "The Hindu",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published": "2026-07-05 15:18:42",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Somali Civil Society Coalition Backs Renewed Political Talks, Urges Inclusive Dialogue to End Crisis",
+      "description": "Mogadishu (WDN) \u2013 The Somali Civil Society Organizations (SONSA) has welcomed renewed efforts to revive political dialogue between the Federal Government of Somalia and the Somali Future Council, describing the initiative as a crucial opportunity to resolve the country\u2019s deepening political crisis through peaceful negotiations. In a press statement issued on July 4, 2026, SONSA... The post Somali Civil Society Coalition Backs Renewed Political Talks, Urges Inclusive Dialogue to End Crisis appeared first on WardheerNews .",
+      "link": "https://wardheernews.com/somali-civil-society-coalition-backs-renewed-political-talks-urges-inclusive-dialogue-to-end-crisis/",
+      "source": "Wardheernews",
+      "image": "https://wardheernews.com/wp-content/uploads/2025/10/Flag-Somalia-FG.jpg",
+      "published": "2026-07-05 15:18:37",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "somalia"
+      ]
+    }
+  ]
 }

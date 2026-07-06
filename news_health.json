@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Arvostatin 'call 111' warning as NHS issues 'serious' side effects list",
+      "description": "Those taking the cholesterol busting statin can sometimes suffer serious side-effects",
+      "link": "https://www.express.co.uk/news/uk/2225567/arvostatin-call-111-warning-nhs-side-effects",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2225567_1.jpg",
+      "published": "2026-07-05 15:19:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "CUT Calls Out \u00abOutrageous\u00bb Statement by Government Labor Panel Expert David Bravo",
+      "description": "El Ciudadano Original article: \u201cCada persona es un cacho\u201d: CUT califica de indignante declaracio\u0301n de asesor \u00abexperto\u00bb de la mesa laboral del Gobierno Controversial Statement by Labor Reactivation Expert \u201cEvery person is a burden\u201d. This was the shocking statement made by economist David Bravo, head of the Labor Reactivation Panel, referring to workers in a corporate context [...] La entrada CUT Calls Out \u00abOutrageous\u00bb Statement by Government Labor Panel Expert David Bravo se publico\u0301 primero en El Ciudadano .",
+      "link": "https://www.elciudadano.com/en/cut-calls-out-outrageous-statement-by-government-labor-panel-expert-david-bravo/07/05/",
+      "source": "El Ciudadano",
+      "image": "https://www.elciudadano.com/wp-content/uploads/2026/07/David-Bravo-portada.jpg",
+      "published": "2026-07-05 15:18:42",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "chile"
+      ]
+    }
+  ]
 }

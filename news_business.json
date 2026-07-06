@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Grid outlook: Slight improvement in Visayas power situation",
-      "description": "The Visayas grid welcomes the second week of July with a slight improvement in its supply situation, data from the National Grid Corporation of the Philippines (NGCP) showed. ... Keep on reading: Grid outlook: Slight improvement in Visayas power situation",
-      "link": "https://cebudailynews.inquirer.net/744365/grid-outlook-slight-improvement-in-visayas-power-situation",
-      "source": "Inquirer",
-      "image": "https://cebudailynews.inquirer.net/files/2026/07/NewsletterFeatured-Image-66-620x338.png",
-      "published": "2026-07-05 11:10:00",
+      "title": "Former Akwa Ibom gov endorses Tinubu, says reforms yielding results",
+      "description": "Speaking through his Special Assistant on Media, Barr. Stephen Abia, on Sunday, Emmanuel said the country\u2019s economic situation calls for unity rather than division. The post Former Akwa Ibom gov endorses Tinubu, says reforms yielding results appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/07/former-akwa-ibom-gov-endorses-tinubu-says-reforms-yielding-results/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2022/01/IMG-20220129-WA0004.jpg",
+      "published": "2026-07-05 15:18:54",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "philippines"
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Kerala row over Adani\u2019s Vizhinjam port deal likely to fizzle out",
+      "description": "Vizhinjam Port Row: Adani Group's 49% stake sale to Mediterranean Shipping Company faces little regulatory hurdle due to existing port ventures.",
+      "link": "https://www.deccanherald.com/india/kerala/kerala-row-over-adanis-vizhinjam-port-deal-likely-to-fizzle-out-4063046",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-07-03/vpg8ekle/file7scqr9jr60inustblsi.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-07-05 15:18:46",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

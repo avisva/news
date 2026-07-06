@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Airway cells, not immune cells, trigger silicosis: new understanding of a deadly disease",
+      "description": "Silicosis \u2013 a devastating and incurable lung disease caused by inhaling silica dust \u2013 is surging worldwide, fuelled by a new wave of aggressive cases",
+      "link": "https://www.nationaltribune.com.au/airway-cells-not-immune-cells-trigger-silicosis-new-understanding-of-a-deadly-disease/",
+      "source": "The National Tribune",
+      "image": "https://hudson.org.au/wp-content/uploads/2026/06/f-90-16-19690549-qdraammh-healthy-vs-silicosis-lung.jpg",
+      "published": "2026-07-06 00:43:44",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

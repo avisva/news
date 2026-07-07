@@ -1,35 +1,121 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 8,
   "results": [
     {
-      "title": "Forget CBA shares, I'd buy these ASX bank stocks instead",
-      "description": "One of these ASX bank shares is tipped to increase by 80% over the next 12 months. The post Forget CBA shares, I'd buy these ASX bank stocks instead appeared first on The Motley Fool Australia .",
-      "link": "https://www.fool.com.au/2026/07/07/forget-cba-shares-id-buy-these-asx-bank-stocks-instead/",
-      "source": "Fool Australia",
-      "image": "https://www.fool.com.au/wp-content/uploads/2022/05/surprised-16.9-1200x675.jpg",
-      "published": "2026-07-07 02:27:54",
+      "title": "Credit card payment processor Zentoshin gets nod to begin bankruptcy proceedings",
+      "description": "The company provided a service that paid sales proceeds to credit card merchants before they received payments from credit card companies.",
+      "link": "https://www.japantimes.co.jp/business/2026/07/07/companies/zentoshin-voluntary-bankruptcy/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/07/550306.jpg",
+      "published": "2026-07-07 05:11:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Coca-Cola: Steady Growth Wins The Race (Rating Downgrade)",
+      "description": "Coca-Cola is currently overvalued at ~25.8x 2026 EPS and yields only ~2.5%. Click here to see why KO stock is a Hold.",
+      "link": "https://seekingalpha.com/article/4920196-coca-cola-stock-steady-growth-wins-race",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487787108/image_487787108.jpg?io=getty-c-w1280",
+      "published": "2026-07-07 05:10:51",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Eurobond repayment should be matched by support for MMDAs \u2014 Prof. Quartey",
+      "description": "Economist Professor Peter Quartey has called on the government to complement its renewed commitment to external debt repayments with increased financial support for Metropolitan, Municipal and District Assemblies (MMDAs) and other public institutions, arguing that fiscal discipline should also be reflected in the timely release of domestic funds. His remarks follow the Ministry of Finance\u2019s [...]",
+      "link": "https://www.ghanamma.com/2026/07/07/eurobond-repayment-should-be-matched-by-support-for-mmdas-prof-quartey/",
+      "source": "Ghanamma",
+      "image": "https://www.ghanamma.com/wp-content/uploads/2026/07/Prof.-Peter-Quartey-Director-of-ISSER.jpeg",
+      "published": "2026-07-07 05:10:47",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "australia"
+        "ghana"
       ]
     },
     {
-      "title": "MRPL, Ramakrishna Mission drive eco-friendly event",
-      "description": "Mangaluru: Mangalore Refinery and Petrochemicals Limited (MRPL) took the organisational lead for Monday\u2019s Swachhata Pakhwada gathering in Mangaluru, working closely with Ramakrishna Mission to deliver...",
-      "link": "https://www.thehansindia.com/karnataka/mrpl-ramakrishna-mission-drive-eco-friendly-event-1094458",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/07/07/1674588-mrpl.webp",
-      "published": "2026-07-07 02:27:49",
+      "title": "Is Nike Stock a Buy After Earnings?",
+      "description": null,
+      "link": "https://www.fool.com/investing/2026/07/07/is-nike-stock-a-buy-after-earnings/",
+      "source": "Fool",
+      "image": "https://g.foolcdn.com/editorial/images/877653/nike-storefront.jpg",
+      "published": "2026-07-07 05:10:41",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Renault Master adds V2G support from September 2026",
+      "description": "V2G capability in a commercial van shifts Master from a vehicle that consumes grid power to one that can also supply it The post Renault Master adds V2G support from September 2026 appeared first on Automotive World .",
+      "link": "https://www.automotiveworld.com/news/renault-master-adds-v2g-support-from-september-2026/",
+      "source": "Automotive World",
+      "image": "https://media.automotiveworld.com/app/uploads/2026/07/07163836/renault-master-scaled.jpg",
+      "published": "2026-07-07 05:10:39",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Wall Street, CEOs back Trump child savings plan",
+      "description": "Some of America's biggest corporations and financial institutions lined up behind President Donald Trump's newly launched Trump Accounts programme, pledging financial support and describing it as an initiative that could broaden wealth creation for future generations.",
+      "link": "https://munsifdaily.com/wall-street-ceos-back-trump-child-savings-plan/",
+      "source": "The Munsif Daily",
+      "image": "https://munsifdaily.com/wp-content/uploads/2026/07/Donald3.jpg",
+      "published": "2026-07-07 05:10:39",
       "category": [
         "business",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Trump Ramps Up War on Regulations With 702 Cuts in Pipeline",
+      "description": "The Trump administration is stepping up its efforts to cut red tape across the federal government, releasing a regulatory plan that would eliminate 702 existing administrative rules. The reductions published on Friday set a record for the number of deregulatory ...",
+      "link": "https://www.insurancejournal.com/news/national/2026/07/07/876372.htm",
+      "source": "Insurance Journal",
+      "image": "https://www.insurancejournal.com/app/uploads/2026/05/Trump-top-Bloomberg-photo-580x387.jpg",
+      "published": "2026-07-07 05:10:38",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Dalal Street Opens Mixed: Sensex Slips, Nifty Stays Above 24,430",
+      "description": "Indian benchmark equity indices opened on a subdued note on Monday, mirroring mixed cues from global markets. The BSE Sensex slipped 4.53 points, or 0.01%, to 78,280.54 in early trade after opening at 78,461.16. The NSE Nifty 50, however, edged up 3.15 points, or 0.01%, to 24,433.50, after starting the session at 24,464.45, indicating a [...]",
+      "link": "https://www.news-age.com/dalal-street-opens-mixed-sensex-slips-nifty-stays-above-24430/",
+      "source": "Newsage",
+      "image": "https://www.news-age.com/wp-content/uploads/2026/07/Sensex-4.jpg",
+      "published": "2026-07-07 05:10:36",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,65 +1,40 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Trump Administration Live Updates: President Says He Instigated Review of U.S. Player's World Cup Ban (New York Times)",
-      "description": "New York Times : Trump Administration Live Updates: President Says He Instigated Review of U.S. Player's World Cup Ban \u2014 What We're Covering Today \u2014 World Cup: President Trump acknowledged on Monday that he had asked the head of world soccer's governing body for the review that ultimately led ...",
-      "link": "https://www.memeorandum.com/260706/p56",
-      "source": "Memeorandum",
-      "image": null,
-      "published": "2026-07-06 16:50:00",
+      "title": "Elections Alberta set to begin verifying signatures on separatist referendum petition",
+      "description": "Elections Alberta says it's set to begin verifying the signatures on a petition looking to force a vote on the province separating from Canada.",
+      "link": "https://www.cbc.ca/news/canada/edmonton/elections-alberta-separation-referendum-verification-9.7260401?cmp=rss",
+      "source": "Cbc",
+      "image": "https://i.cbc.ca/ais/98762c0e-941f-470b-b4b0-bb46cc0c779d,1783368561881/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C188%2C5474%2C3079%29%3B",
+      "published": "2026-07-06 20:20:56",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "The Write Place: Go look in the mirror",
-      "description": "Ephesians 2:10: For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.",
-      "link": "https://www.wvnews.com/mountainstatesman/the-write-place-go-look-in-the-mirror/article_91abc8e1-e507-427c-8a31-dbf15848b6e3.html",
-      "source": "Wv News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/9/fa/9fa1aa46-e38c-11ed-be82-935d97a556ad/64480a8f89223.image.png?crop=737%2C387%2C0%2C560",
-      "published": "2026-07-06 16:50:00",
+      "title": "\u2018It was the apocalypse\u2019: Train crashes destroyed their towns. Will yours be next?",
+      "description": "We speak with a panel of survivors of the 2013 Lac-Me\u0301gantic rail disaster in Canada\u2014one of the deadliest in North American history\u2014and the 2023 East Palestine train derailment and chemical disaster in the USA.",
+      "link": "https://therealnews.com/lac-megantic-train-derailment-east-palestine-ohio-disaster",
+      "source": "The Real News Network",
+      "image": "https://i0.wp.com/therealnews.com/wp-content/uploads/2026/07/GettyImages-173131443.jpg?fit=1936%2C1328&ssl=1",
+      "published": "2026-07-06 20:20:53",
       "category": [
-        "politics",
-        "top"
+        "politics"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "US Threatened Nations Over Participation In Khamenei's Funeral, 13 Countries Withdrew: Report",
-      "description": "According to Iranian media, the diplomatic campaign was led by US Secretary of State Marco Rubio along with American ambassadors across the world.",
-      "link": "https://www.news18.com/world/us-threatened-nations-over-participation-in-khameneis-funeral-13-countries-withdrew-report-ws-l-10193737.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/07/1-2026-07-06T221835.555-2026-07-388fcff2df885fff5c430b7872c2fbbb-1200x800.png",
-      "published": "2026-07-06 16:49:56",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Board revokes license of physician accused of inappropriate actions with young patients",
-      "description": "State regulators have revoked the license of a former Iowa physician who surrendered his California medical license amid allegations of inappropriate conduct with juvenile female patients. Last year, the Iowa Board of Medicine charged Dr. Najeeb Khalil Ahmed Ansari with...",
-      "link": "https://www.southernminn.com/around_the_web/news/board-revokes-license-of-physician-accused-of-inappropriate-actions-with-young-patients/article_b7ab0345-3491-571d-ae73-5da71bb914a1.html",
-      "source": "Southernminn",
-      "image": "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/custom/image/ccf30c42-2648-11e5-b4b0-afdfa9085526.jpg?resize=600%2C315",
-      "published": "2026-07-06 16:49:56",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "united states of america",
+        "ukraine",
+        "russia",
+        "canada",
+        "palestine",
+        "iran",
+        "israel"
       ]
     }
   ]

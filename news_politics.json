@@ -1,40 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Legislation will allow for planning on Irish unity - SF",
-      "description": "Sinn Fe\u0301in has said the objective of its legislation on Irish reunification is to allow the Government to prepare for a united Ireland.",
-      "link": "https://www.rte.ie/news/politics/2026/0707/1582148-sf-irish-unity/",
-      "source": "Rte.ie",
-      "image": "https://www.rte.ie/images/0023229c-800.jpg",
-      "published": "2026-07-07 09:20:58",
+      "title": "Strategic Leap: India and Indonesia Ink Landmark Defense Deals on BrahMos, Astra Missiles, and Sabang Port Development",
+      "description": "In a historic move poised to reshape the geopolitical landscape of the Indo-Pacific, India and Indonesia have signed a Memorandum of Understanding (MoU) focused on the procurement of India\u2019s BrahMos and Astra missile systems. The groundbreaking agreement was finalized during Prime Minister Narendra Modi\u2019s official bilateral visit to Indonesia from July 6 to 8, underscoring [...]",
+      "link": "https://www.nktv.in/strategic-leap-india-and-indonesia-ink-landmark-defense-deals-on-brahmos-astra-missiles-and-sabang-port-development/",
+      "source": "Nktv",
+      "image": "https://www.nktv.in/wp-content/uploads/2026/07/brahmos-1783409700.webp",
+      "published": "2026-07-07 10:57:55",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ireland"
+        "india"
       ]
     },
     {
-      "title": "OPEC+ to raise August oil output as crude prices continue to fall",
-      "description": "NEW YORK CITY, New York: Seven members of the OPEC+ alliance have agreed to modestly increase oil production in August, extending a series of monthly output hikes as crude prices continue to fall from highs reached during the recent conflict involving Iran. The Organization of the Petroleum Exporting Countries and its allies said on July 5 that Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman wou",
-      "link": "http://bignewsnetwork.com/news/279170846/opec-to-raise-august-oil-output-as-crude-prices-continue-to-fall",
-      "source": "Bignewsnetwork",
+      "title": "Law Minister: Govt to appoint more judges to tackle case backlog",
+      "description": "Of the 2,620 sanctioned judge posts in the subordinate courts, 1,964 are currently filled, the minister says Details",
+      "link": "https://www.dhakatribune.com/bangladesh/court/414538/law-minister-govt-to-appoint-more-judges-to",
+      "source": "Dhaka Tribune",
       "image": null,
-      "published": "2026-07-07 09:20:54",
+      "published": "2026-07-07 10:57:55",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
-        "united states of america",
-        "united kingdom",
-        "australia",
-        "germany",
-        "france",
-        "india",
-        "canada"
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Prince Harry Preparing for Judgment in Daily Mail Lawsuit",
+      "description": "The judgement in Prince Harry's lawsuit against the publisher of the 'Daily Mail' is due Tuesday at the start of his U.K. visit.",
+      "link": "https://www.newsweek.com/prince-harry-judgement-daily-mail-lawsuit-phone-hacking-12144637",
+      "source": "Newsweek",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/Copy-of-32-image-18.jpg?w=1600&h=900&q=88",
+      "published": "2026-07-07 10:57:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

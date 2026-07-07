@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Apex Group on AI in the financial space and the future of tokenized assets",
+      "description": "Peter Hughes, the CEO of Apex group joins Squawk Box Europe to discuss how AI is changing the way financial firms operate, plus tokenization gaining traction across asset management.",
+      "link": "https://www.cnbc.com/video/2026/07/07/apex-group-on-ai-in-the-financial-space-and-the-future-of-tokenized-assets.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108331322-1783421794870-1783421494-47011912425-hd.jpg?v=1783421798",
+      "published": "2026-07-07 10:58:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fluoroscopy Equipment Market Study Explores Industry Growth Toward $9.07 Billion",
+      "description": "The fluoroscopy equipment market is poised for significant expansion as advancements in medical imaging technology continue to evolve rapidly. Increasing demand for precise, real-time imaging and innovations in AI-powered systems are shaping the future of this market. Let's explore the",
+      "link": "https://www.openpr.com/news/4570505/fluoroscopy-equipment-market-study-explores-industry-growth",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/L/7/L707637531_k.jpg",
+      "published": "2026-07-07 10:57:53",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "germany"
+      ]
+    }
+  ]
 }

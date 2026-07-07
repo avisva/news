@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Nintendo Confirms Switch 1 Global Availability After Announcing European Withdrawal - IGN",
-      "description": "Nintendo Confirms Switch 1 Global Availability After Announcing European Withdrawal IGN See more headlines & perspectives on Google News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDVwUktITmtIeExEWFZNT1ZLUmhCdTVSaHhJSG1jczlxS0ZsalJibERlbWVhbkNHUURTdFFUa19LR1RGVDNMTFJfdnlVWFFNN1dmS00wanZubU5iZEhIRFctR2pnMVBEX2hfbjEyV1gzQWxMV21wcm1rWWtKcUo3UnFCTGViNzBMTkgtdWNTYXhnbGxMMnZLd2pjbG1TcFRTZHZaZjV3UDZxbFExYVRLNU1B?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-07 09:20:50",
+      "title": "Nvidia stock slips after report says DeepSeek is designing its own AI chip",
+      "description": "Nvidia stock slips after report says DeepSeek is designing its own AI chip",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-stock-slips-after-report-says-deepseek-is-designing-its-own-ai-chip-4778739",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL4S0LH_L.jpg",
+      "published": "2026-07-07 10:57:58",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "UK drivers left out of pocket as petrol stations failing to report live fuel prices",
+      "description": "Prime Minister Sir Keir Starmer previously hailed the scheme for making it easier for drivers to \u2018choose the lowest price\u2019",
+      "link": "https://www.independent.co.uk/news/uk/home-news/fuel-finder-uk-petrol-stations-starmer-rac-b3010379.html",
+      "source": "The Independent",
+      "image": "https://static.independent.co.uk/2026/06/25/7/41/GettyImages-2276831110.jpeg?width=1200&auto=webp&trim=23%2C0%2C23%2C0",
+      "published": "2026-07-07 10:57:49",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

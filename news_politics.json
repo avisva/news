@@ -1,30 +1,63 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "257346 MARVIN HOWARD",
-      "description": null,
-      "link": "https://www.reflector.com/jail_bookings/257346-marvin-howard/article_e69f2ae9-816d-5e54-8f19-c25d2a493a25.html",
-      "source": "Reflector",
-      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/c/85/c85be8e2-0989-566b-aacb-638f602c94c8/6a4d9768bef05.image.jpg?resize=300%2C375",
-      "published": "2026-07-08 00:18:48",
+      "title": "Phuket police launch another \u201890-day anti-drugs campaign\u2019",
+      "description": "PHUKET: Phuket officials have launched yet another province-wide 90-day anti-drugs campaign aimed at eliminating drug trafficking and creating \u201cdrug-free\u201d villages and communities.",
+      "link": "https://www.thephuketnews.com/phuket-police-launch-another-90-day-anti-drugs-campaign-100863.php",
+      "source": "The Phuket News",
+      "image": "https://www.thephuketnews.com/photo/listing/2026/1783481094_1-org.jpg",
+      "published": "2026-07-08 03:19:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "Family sues Special School District over child's seclusion",
+      "description": "A family is suing the Special School District of St. Louis County, alleging their 9-year-old son with autism and ADHD was improperly secluded dozens of times over two school years.",
+      "link": "https://fox2now.com/news/fox-files/family-sues-special-school-district-over-childs-seclusion/",
+      "source": "Fox 2",
+      "image": "https://fox2now.com/wp-content/uploads/sites/14/2026/07/snapshot-14-1.jpg?w=900",
+      "published": "2026-07-08 03:18:58",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "257338 KHAILIL TYLER",
-      "description": null,
-      "link": "https://www.reflector.com/jail_bookings/257338-khailil-tyler/article_ef325119-c6a8-5397-9020-3729a30051ab.html",
-      "source": "Reflector",
-      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/e/02/e0209fbd-efb4-5559-a08b-078150a857c3/6a4d975d4e92e.image.jpg?resize=300%2C375",
-      "published": "2026-07-08 00:18:37",
+      "title": "Kuwait and Bahrain face incoming missiles after US strikes on Iran",
+      "description": "The U.S. military has attacked Iran after it said Tehran struck three ships in the Strait of Hormuz. The assault Wednesday came as part of an American effort that also revoked the Islamic Republic\u2019s...",
+      "link": "https://www.houstonchronicle.com/news/world/article/kuwait-and-bahrain-face-incoming-missiles-after-22336830.php",
+      "source": "Houston Chronicle",
+      "image": "https://s.hdnux.com/photos/01/31/04/76/23351227/5/square_large.jpg",
+      "published": "2026-07-08 03:18:43",
       "category": [
-        "politics"
+        "politics",
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Haley Stevens Goes on Attack Against Abdul El-Sayed at Michigan Senate Debate",
+      "description": "At their first one-on-one debate in a top Senate race, Representative Haley Stevens accused her progressive rival, Dr. Abdul El-Sayed, of being too focused on publicity as he called her a tool of corporate interests.",
+      "link": "https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2026/07/07/us/07pol-michigan-debate/07pol-michigan-debate-mediumSquareAt3X.jpg",
+      "published": "2026-07-08 03:18:43",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"

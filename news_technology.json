@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "TTD add\u2019l EO reviews infra setup for 25 new donated reliance e-buses",
+      "description": "Tirumala: Following the donation of 25 electric buses by Reliance Industries Limited (RIL) to the Tirumala Tirupati Devasthanams (TTD), Additional EO Ch Venkaiah Chowdary chaired a high-level...",
+      "link": "https://www.thehansindia.com/andhra-pradesh/ttd-addl-eo-reviews-infra-setup-for-25-new-donated-reliance-e-buses-1094932",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/08/1675086-ttd.webp",
+      "published": "2026-07-08 03:18:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Zhipu AI jumps on report it is exploring custom AI chip for GLM models",
+      "description": "Zhipu AI jumps on report it is exploring custom AI chip for GLM models",
+      "link": "https://www.investing.com/news/stock-market-news/zhipu-ai-jumps-on-report-it-is-exploring-custom-ai-chip-for-glm-models-4780649",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEK2J0UH_L.jpg",
+      "published": "2026-07-08 03:18:38",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

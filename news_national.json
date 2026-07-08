@@ -1,17 +1,45 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "\u2018Public listing has helped us retain both clients & talent,\u2019 Q&A with Shekar Swamy, MD, R K SWAMY",
-      "description": "RK Swamy\u2019s MD & group CEO Shekar Swamy talks about their investments in businesses like brand consulting and customer experience, and explains why its homegrown integrated model gives it an edge in today\u2019s time",
-      "link": "https://www.financialexpress.com/business/brandwagon-public-listing-has-helped-us-retain-both-clients-amp-talent-qampa-with-shekar-swamy-md-r-k-swamy-4285924/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/07/hhghgftftbbv333yyyt.jpg",
-      "published": "2026-07-08 00:19:00",
+      "title": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports - Reuters",
+      "description": "OpenAI gets US approval for broad GPT-5.6 rollout, Axios reports Reuters OpenAI gets US approval for broad GPT-5.6 rollout ET CIO Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6 Axios Trump administration clears broad rollout of OpenAI\u2019s GPT-5.6, Axios reports Investing.com India GPT-5.6 Sol Review: Faster Coding, Half Fable 5 Cost, and a Benchmark Problem Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-08 03:19:00",
       "category": [
-        "business",
-        "top"
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "TTD add\u2019l EO reviews infra setup for 25 new donated reliance e-buses",
+      "description": "Tirumala: Following the donation of 25 electric buses by Reliance Industries Limited (RIL) to the Tirumala Tirupati Devasthanams (TTD), Additional EO Ch Venkaiah Chowdary chaired a high-level...",
+      "link": "https://www.thehansindia.com/andhra-pradesh/ttd-addl-eo-reviews-infra-setup-for-25-new-donated-reliance-e-buses-1094932",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/08/1675086-ttd.webp",
+      "published": "2026-07-08 03:18:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "IC Electricals IPO allotment today: SME IPO subscribed 420x, GMP rises. Here's how to check status online",
+      "description": "IC Electricals allotment date is likely to be finalised today, July 8. Investors can check your IPO allotment status online through the websites of NSE, BSE and the IPO registrar - Skyline Financial Services.",
+      "link": "https://www.livemint.com/market/ipo/ic-electricals-ipo-allotment-today-sme-ipo-subscribed-420x-gmp-rises-heres-how-to-check-status-online-11783480070658.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/IC_Electricals_IPO_allotment__1783480527557_1783480527766_c757ae06-de2f-41e2-9dda-9cc02d18ff9f.jpg",
+      "published": "2026-07-08 03:18:39",
+      "category": [
+        "business"
       ],
       "country": [
         "india"

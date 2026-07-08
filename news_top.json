@@ -1,137 +1,184 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 12,
   "results": [
     {
-      "title": "Woman shot dead after talking to gunman in QC",
-      "description": "A 36-year-old woman was shot dead by an unidentified gunman moments after briefly talking to him in Sitio Mendez, Barangay Baesa, Quezon City, shortly before 6 p.m. on Tuesday, July 7. CCTV footage showed the victim speaking with a man whose face was covered before she turned away and started walking, when the suspect suddenly pulled out a gun, chased her, and opened fire, sending residents fleeing in panic. The victim sustained gunshot wounds to the neck and shoulder and was declared dead at the scene. The suspect was later seen on CCTV taking a motorcycle from a passing rider before speeding away. A relative said the victim had been eating when the suspect approached and spoke with her, and that several gunshots rang out moments after she walked away from the conversation. The victim left behind six children, all minors, with the youngest only four years old. Relatives said they have no idea what prompted the attack and believe the suspect was not from the neighborhood because no one recognized him. Investigators from the Quezon City Police District (QCPD) are conducting backward and forward tracking of CCTV footage to identify the suspect and determine his whereabouts as the investigation continues.",
-      "link": "https://mb.com.ph/article/10925664/philippines/metro-manila/woman-shot-dead-after-talking-to-gunman-in-qc",
-      "source": "Manila Bulletin",
-      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/08/114438.webp",
-      "published": "2026-07-08 00:19:00",
+      "title": "Speaker urges MPs to undergo regular health screenings",
+      "description": "KUALA LUMPUR: Dewan Rakyat Speaker Tan Sri Dr Johari Abdul reminded Members of Parliament to undergo regular health screenings after an MP was hospitalised at the National Heart Institute (IJN).",
+      "link": "https://www.thestar.com.my/news/nation/2026/07/08/speaker-urges-mps-to-undergo-regular-health-screenings",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3998335.jpg",
+      "published": "2026-07-08 03:19:00",
       "category": [
-        "top",
-        "crime"
+        "health",
+        "top"
       ],
       "country": [
-        "philippines"
+        "malaysia"
       ]
     },
     {
-      "title": "\u2018Public listing has helped us retain both clients & talent,\u2019 Q&A with Shekar Swamy, MD, R K SWAMY",
-      "description": "RK Swamy\u2019s MD & group CEO Shekar Swamy talks about their investments in businesses like brand consulting and customer experience, and explains why its homegrown integrated model gives it an edge in today\u2019s time",
-      "link": "https://www.financialexpress.com/business/brandwagon-public-listing-has-helped-us-retain-both-clients-amp-talent-qampa-with-shekar-swamy-md-r-k-swamy-4285924/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/07/hhghgftftbbv333yyyt.jpg",
-      "published": "2026-07-08 00:19:00",
+      "title": "Phuket police launch another \u201890-day anti-drugs campaign\u2019",
+      "description": "PHUKET: Phuket officials have launched yet another province-wide 90-day anti-drugs campaign aimed at eliminating drug trafficking and creating \u201cdrug-free\u201d villages and communities.",
+      "link": "https://www.thephuketnews.com/phuket-police-launch-another-90-day-anti-drugs-campaign-100863.php",
+      "source": "The Phuket News",
+      "image": "https://www.thephuketnews.com/photo/listing/2026/1783481094_1-org.jpg",
+      "published": "2026-07-08 03:19:00",
       "category": [
-        "business",
+        "politics",
         "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "\u2018Be kids again\u2019: Charity secures major funding lifeline",
+      "description": null,
+      "link": "https://www.goldcoastbulletin.com.au/news/gold-coast-youth-charity-esuarve-secures-future-with-25m-funding-boost/news-story/e74ac78cdf8daae7c09df18f7832e0c7",
+      "source": "Bulletin",
+      "image": null,
+      "published": "2026-07-08 03:19:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "SA key forward stars again in thrilling win over Vic Country",
+      "description": "South Australia edged Vic Country as Jack Slattery continued his great run of form",
+      "link": "https://www.afl.com.au/news/1556041/south-australia-key-forward-jack-slattery-stars-again-in-thrilling-win-over-vic-country",
+      "source": "Afl Au",
+      "image": "https://resources.afl.com.au/photo-resources/2026/07/08/04d6bc2f-9d38-426d-a219-cac0cf0f90c8/URM5VSFC.jpg?width=1000",
+      "published": "2026-07-08 03:19:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Thailand woos heat-weary Europeans with travel and air-conditioners",
+      "description": "BANGKOK: As soaring temperatures fuel demand for cooling in Europe, Thailand is pitching itself as a source of relief, promoting rainy-season holidays while exporting more air conditioners.",
+      "link": "https://www.thestar.com.my/aseanplus/2026/07/08/thailand-woos-heat-weary-europeans-with-travel-and-air-conditioners",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3998339.png",
+      "published": "2026-07-08 03:19:00",
+      "category": [
+        "top",
+        "business",
+        "environment"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Family sues Special School District over child's seclusion",
+      "description": "A family is suing the Special School District of St. Louis County, alleging their 9-year-old son with autism and ADHD was improperly secluded dozens of times over two school years.",
+      "link": "https://fox2now.com/news/fox-files/family-sues-special-school-district-over-childs-seclusion/",
+      "source": "Fox 2",
+      "image": "https://fox2now.com/wp-content/uploads/sites/14/2026/07/snapshot-14-1.jpg?w=900",
+      "published": "2026-07-08 03:18:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "TTD add\u2019l EO reviews infra setup for 25 new donated reliance e-buses",
+      "description": "Tirumala: Following the donation of 25 electric buses by Reliance Industries Limited (RIL) to the Tirumala Tirupati Devasthanams (TTD), Additional EO Ch Venkaiah Chowdary chaired a high-level...",
+      "link": "https://www.thehansindia.com/andhra-pradesh/ttd-addl-eo-reviews-infra-setup-for-25-new-donated-reliance-e-buses-1094932",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/08/1675086-ttd.webp",
+      "published": "2026-07-08 03:18:56",
+      "category": [
+        "top",
+        "technology"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Texas Hemp Business Council Calls for Evidence-Based Approach as Lawmakers Revisit Hemp-Derived THC Policy",
-      "description": "AUSTIN, Texas, July 07, 2026 (GLOBE NEWSWIRE) \u2014 The Texas Hemp Business Council (THBC) released the following statement after today\u2019s Senate Health and Human Services Committee\u2019s hearing on the societal...",
-      "link": "https://nynewscast.com/texas-hemp-business-council-calls-for-evidence-based-approach-as-lawmakers-revisit-hemp-derived-thc-policy-235569/",
-      "source": "Nynewscast",
-      "image": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-      "published": "2026-07-08 00:19:00",
+      "title": "Kuwait and Bahrain face incoming missiles after US strikes on Iran",
+      "description": "The U.S. military has attacked Iran after it said Tehran struck three ships in the Strait of Hormuz. The assault Wednesday came as part of an American effort that also revoked the Islamic Republic\u2019s...",
+      "link": "https://www.houstonchronicle.com/news/world/article/kuwait-and-bahrain-face-incoming-missiles-after-22336830.php",
+      "source": "Houston Chronicle",
+      "image": "https://s.hdnux.com/photos/01/31/04/76/23351227/5/square_large.jpg",
+      "published": "2026-07-08 03:18:43",
       "category": [
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cornerstone First Mortgage Switches to nCino's Mortgage Point of Sale to Support Its Next Phase of Growth",
-      "description": "Fast-growing mortgage lender selects nCino to support dozens of branch brands across 49 states while enhancing the borrower experience WILMINGTON, N.C., July 07, 2026 (GLOBE NEWSWIRE) -- nCino, Inc. (NASDAQ: NCNO), the platform for agentic AI banking, today announced that San Diego-based Cornerstone First Mortgage (Cornerstone) has switched to nCino's Mortgage Point of Sale to enhance the borrower experience and support its continued nationwide expansion. Cornerstone has doubled in size twice over the past three years and now operates in 49 states through a network of approximately 130 branches supporting dozens of local brands under the Cornerstone umbrella. The company sought a scalable mortgage point-of-sale platform capable of supporting its unique branch-based model while delivering a consistent borrower experience nationwide. The lender selected nCino's Mortgage Point of Sale for its flexibility, mobile capabilities and nCino's commitment to customer partnership. \"Your point-of-sale platform is the first representation of your company after that initial conversation with a borrower,\" said Eric Rotner, President of Operations at Cornerstone. \"As we evaluated the next phase of growth for our business, we wanted a solution that could support our branch network, preserve the local brands our loan officers have built and provide a better experience for our borrowers. nCino's Mortgage Point of Sale stood out because of its flexibility, mobile capabilities and the team's commitment to helping us succeed.\" \"Cornerstone has built an impressive growth story by empowering entrepreneurial branch leaders while maintaining a strong commitment to the borrower experience,\" said Casey Williams, General Manager at nCino. \"We're proud to support their continued expansion and look forward to helping the organization drive even greater efficiency, consistency and customer satisfaction through nCino's Mortgage Point of Sale.\" Since switching to nCino, Cornerstone has significantly expanded its use of the platform to reduce borrower friction and simplify the loan process. Cornerstone is using nCino-connected verification tools to increase adoption of digital income, employment and asset verification and is also accelerating its adoption of eNotes and remote online notarization (RON). Together, these capabilities support Cornerstone's broader goal of helping loan officers move borrowers through the mortgage process with greater speed, consistency and ease. Learn more about how nCino's Mortgage Point of Sale helps lenders enhance the borrower experience while supporting growth across distributed branch networks at https://www.ncino.com/mortgage/us/mortgage-pos. About Cornerstone First Mortgage Cornerstone First Mortgage is a full-service mortgage bank headquartered in San Diego. All aspects of the loan process, from processing to underwriting to funding, are conducted in-house. Drawing on more than 20 years of experience, President Sean Cahan is transforming the loan process for the contemporary homebuyer with a team of professionals dedicated to delivering excellent customer service, unmatched communication and transparent accessibility throughout the mortgage process. About nCino nCino (NASDAQ: NCNO) is the platform for agentic AI banking. With over 2,700 customers worldwide - including community banks, credit unions, independent mortgage banks, and the largest financial entities globally - nCino offers a trusted agentic platform purpose-built for financial services and regulated industries. By deploying AI agents alongside human teams, nCino's dual workforce enables institutions to eliminate inefficiencies, sharpen decision-making and deliver better outcomes for the customers they serve. For more information, visit www.ncino.com. Media Contact Riley Keyzer press@ncino.com",
-      "link": "https://www.riauone.com/global/Cornerstone-First-Mortgage-Switches-to-nCino--039-s-Mortgage-Point-of-Sale-to-Support-Its-Next-Phase-of-Growth",
-      "source": "Riauone.com | Berita Nusantara Terkini",
-      "image": "https://www.riauone.com/photo/berita/dir072026/6478_Cornerstone-First-Mortgage-Switches-to-nCino--039-s-Mortgage-Point-of-Sale-to-Support-Its-Next-Phase-of-Growth.jpg",
-      "published": "2026-07-08 00:19:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "indonesia"
-      ]
-    },
-    {
-      "title": "Crowdstrike CEO George Kurtz sells $3.98m in company stock",
-      "description": "Crowdstrike CEO George Kurtz sells $3.98m in company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-398m-in-company-stock-93CH-4780603",
-      "source": "Investing Us",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published": "2026-07-08 00:18:50",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Taste of Guam: Sweet, salty pickles an island specialty",
-      "description": "In some ways, the mom \u2018n pop store and Guam have a lot in common: on the outside, you might see a weather-beaten building with a strange name, but once you go in, you will find no shortage of surprises.",
-      "link": "https://guam.stripes.com/food-drink/guam-kitchen-sweet,-salty-pickles-an-island-specialty.html",
-      "source": "Stars And Stripes",
-      "image": null,
-      "published": "2026-07-08 00:18:43",
-      "category": [
-        "tourism",
+        "politics",
         "top",
-        "food"
+        "crime"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Busan Film Shoots Rise Despite OTT Investment Chill",
-      "description": "Busan film shoots rose in the first half of 2025 despite an OTT investment slowdown, with feature film shooting days up 54.9% and local spending reaching 1.73 billion won.",
-      "link": "https://en.sedaily.com/society/2026/07/08/busan-film-shoots-rise-despite-ott-investment-chill",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/07/08/20065075_1.jpg",
-      "published": "2026-07-08 00:18:42",
+      "title": "Haley Stevens Goes on Attack Against Abdul El-Sayed at Michigan Senate Debate",
+      "description": "At their first one-on-one debate in a top Senate race, Representative Haley Stevens accused her progressive rival, Dr. Abdul El-Sayed, of being too focused on publicity as he called her a tool of corporate interests.",
+      "link": "https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html",
+      "source": "The New York Times",
+      "image": "https://static01.nyt.com/images/2026/07/07/us/07pol-michigan-debate/07pol-michigan-debate-mediumSquareAt3X.jpg",
+      "published": "2026-07-08 03:18:43",
       "category": [
-        "business",
+        "politics",
         "top"
       ],
       "country": [
-        "south korea"
+        "united states of america"
       ]
     },
     {
-      "title": "Seong Dong-woo's 'Goyu' Wins Top Prize at Gyeonggi Craft Competition",
-      "description": "Seong Dong-woo's woodcraft piece \"Goyu\" won the grand prize at the 56th Gyeonggi Craft Competition, one of 100 works selected from 363 entries across 27 cities and counties.",
-      "link": "https://en.sedaily.com/society/2026/07/08/seong-dong-woos-goyu-wins-top-prize-at-gyeonggi-craft",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/legacy/2026/07/08/20065074_1.jpg",
-      "published": "2026-07-08 00:18:41",
+      "title": "Zhipu AI jumps on report it is exploring custom AI chip for GLM models",
+      "description": "Zhipu AI jumps on report it is exploring custom AI chip for GLM models",
+      "link": "https://www.investing.com/news/stock-market-news/zhipu-ai-jumps-on-report-it-is-exploring-custom-ai-chip-for-glm-models-4780649",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEK2J0UH_L.jpg",
+      "published": "2026-07-08 03:18:38",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Photo studio in Little India helps migrant workers find love with \u2018100 per cent success rate\u2019",
+      "description": "They say a picture is worth a thousand words. At one photo studio in Little India, it could even lead to a life partner.",
+      "link": "https://www.stomp.sg/trending-now/photo-studio-little-india-helps-migrant-workers-find-love-100-cent-success-rate",
+      "source": "Stomp",
+      "image": null,
+      "published": "2026-07-08 03:18:35",
       "category": [
         "lifestyle",
         "top"
       ],
       "country": [
-        "south korea"
+        "singapore"
       ]
     },
     {
-      "title": "Kraken Seeks To Enforce $22M Award Over Scrapped Audit",
+      "title": "Schwarber homers, Wheeler fans 14 in Phillies\u2019 4-1 win over Reds",
       "description": null,
-      "link": "https://www.law360.com/articles/2497979/kraken-seeks-to-enforce-22m-award-over-scrapped-audit",
-      "source": "Law360",
-      "image": null,
-      "published": "2026-07-08 00:18:37",
+      "link": "https://www.timesherald.com/2026/07/08/schwarber-homers-wheeler-throws-14-strikeouts-in-phillies-4-1-win-over-reds/",
+      "source": "The Times Herald",
+      "image": "https://www.timesherald.com/wp-content/uploads/2026/07/Phillies_Reds_Baseball_72566-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-08 03:18:33",
       "category": [
-        "top",
-        "business"
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"

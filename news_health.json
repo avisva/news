@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Apex Group on AI in the financial space and the future of tokenized assets",
-      "description": "Peter Hughes, the CEO of Apex group joins Squawk Box Europe to discuss how AI is changing the way financial firms operate, plus tokenization gaining traction across asset management.",
-      "link": "https://www.cnbc.com/video/2026/07/07/apex-group-on-ai-in-the-financial-space-and-the-future-of-tokenized-assets.html",
-      "source": "Cnbc",
-      "image": "https://image.cnbcfm.com/api/v1/image/108331322-1783421794870-1783421494-47011912425-hd.jpg?v=1783421798",
-      "published": "2026-07-07 10:58:00",
+      "title": "Rigel Pharmaceuticals, Inc. Announces Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
+      "description": "SOUTH SAN FRANCISCO, Calif., July 7, 2026 /PRNewswire/ -- Rigel Pharmaceuticals, Inc. (\"Rigel\") (Nasdaq: RIGL) today announced that it has granted awards pursuant to the Rigel Pharmaceuticals, Inc. Inducement Plan, approved by the Compensation Committee of Rigel's Board of Directors and...",
+      "link": "https://www.prnewswire.com/news-releases/rigel-pharmaceuticals-inc-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-302818799.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS473286/Rigel-R-Logo.jpg?id=OA2752426&p=original",
+      "published": "2026-07-07 12:05:00",
+      "category": [
+        "business",
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Balancing Efficacy, Tolerability, and Drug Monitoring in Schizophrenia Treatment",
+      "description": "Therapeutic drug monitoring clarifies adherence and plasma levels, while long-acting injectables and patches reduce variability and support patient-centered benefit-risk decisions.",
+      "link": "https://www.psychiatrictimes.com/view/balancing-efficacy-tolerability-and-drug-monitoring-in-schizophrenia-treatment",
+      "source": "Psychiatrictimes",
+      "image": "https://cdn.sanity.io/images/0vv8moc6/psychtimes/6b9de55b93b1e1d29336b058c53895dc83abdf66-1920x1080.png",
+      "published": "2026-07-07 12:05:00",
       "category": [
         "health"
       ],
@@ -17,17 +33,33 @@
       ]
     },
     {
-      "title": "Fluoroscopy Equipment Market Study Explores Industry Growth Toward $9.07 Billion",
-      "description": "The fluoroscopy equipment market is poised for significant expansion as advancements in medical imaging technology continue to evolve rapidly. Increasing demand for precise, real-time imaging and innovations in AI-powered systems are shaping the future of this market. Let's explore the",
-      "link": "https://www.openpr.com/news/4570505/fluoroscopy-equipment-market-study-explores-industry-growth",
-      "source": "Openpr.com",
-      "image": "https://cdn.open-pr.com/L/7/L707637531_k.jpg",
-      "published": "2026-07-07 10:57:53",
+      "title": "From Observation to Treatment: The Role of Caregivers and Overcoming VMAT2 Inhibitor Complexities",
+      "description": "The panelists examined the valuable role caregivers can play in identifying early TD movements, noting that patients often mask symptoms during office visits but may not do so around loved ones, and that caregiver education through accessible resources, such as sponsored videos, can help them recognize subtle signs",
+      "link": "https://www.pharmacytimes.com/view/from-observation-to-treatment-the-role-of-caregivers-and-overcoming-vmat2-inhibitor-complexities",
+      "source": "Pharmacy Times",
+      "image": "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/900c569d18c22f33b3f4f1a0fdba703da9a6a0f2-1920x1080.png",
+      "published": "2026-07-07 12:05:00",
       "category": [
+        "top",
         "health"
       ],
       "country": [
-        "germany"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Early Treatment Access and Palliative Care Integration for Patients with ES-SCLC",
+      "description": null,
+      "link": "https://www.onclive.com/view/early-treatment-access-and-palliative-care-integration-for-patients-with-es-sclc",
+      "source": "Onclive",
+      "image": null,
+      "published": "2026-07-07 12:05:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

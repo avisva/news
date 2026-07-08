@@ -1,5 +1,41 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "How can managers best design teams and tasks?",
+      "description": "New research from the MIT Sloan School of Management introduces the Task Space, a tool with a new approach to analyzing how well teams perform on a wide variety of tasks",
+      "link": "https://www.financialcontent.com/article/gnwcq-2026-7-7-how-can-managers-best-design-teams-and-tasks",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-07 12:05:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Turn Therapeutics Announces Final Stage 2 Design and Data-Driven Expansion of GX-03 Phase 2 Program in Atopic Dermatitis",
+      "description": "WESTLAKE VILLAGE, Calif.--(BUSINESS WIRE)--Turn Therapeutics, Inc. (NASDAQ: TTRX), a clinical-stage biotechnology company developing targeted, non-systemic therapies for inflammatory skin diseases, today announced the completion of a comprehensive interim analysis of its ongoing adaptive Phase 2 clinical trial evaluating GX-03 for the treatment of atopic dermatitis. The multi-week review resulted in the final Stage 2 study design, incorporating data-driven refinements to patient selection, dise",
+      "link": "http://www.businesswire.com/news/home/20260707654155/en/Turn-Therapeutics-Announces-Final-Stage-2-Design-and-Data-Driven-Expansion-of-GX-03-Phase-2-Program-in-Atopic-Dermatitis/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20260707654155/en/2845724/21/Turn_TX_Logo.jpg",
+      "published": "2026-07-07 12:05:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america",
+        "japan",
+        "united kingdom",
+        "china",
+        "canada",
+        "france",
+        "germany",
+        "australia"
+      ]
+    }
+  ]
 }

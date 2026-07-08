@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Medical Groups Say New German Work Rule Is 'Madness'",
+      "description": "German citizens and medical groups are outraged by a new government rule requiring workers to see a doctor the moment they call in sick. Chancellor Friedrich Merz's coalition has agreed to require employees to present a medical certificate on the first day of illness, rather than the fourth day as...",
+      "link": "https://www.newser.com/story/392391/germany-sparks-backlash-with-new-sick-note-rule.html",
+      "source": "Newser",
+      "image": "http://cdn.newser.com/image/1697058-0-20260707143932.jpeg?width=45&height=45&crop=Y",
+      "published": "2026-07-07 19:26:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

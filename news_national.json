@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Odisha achieves near-universal early school retention: Report",
-      "description": "Odisha achieves near-universal early school retention: Report",
-      "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-achieves-near-universal-early-school-retention-report/articleshow/132243149.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
-      "published": "2026-07-07 16:11:55",
-      "category": [
-        "education",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Munger youth arrested over suspected cross-border links",
-      "description": "Munger youth arrested over suspected cross-border links",
-      "link": "https://timesofindia.indiatimes.com/city/patna/munger-youth-arrested-over-suspected-cross-border-links/articleshow/132243163.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132222019/132222019.jpg",
-      "published": "2026-07-07 16:11:54",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

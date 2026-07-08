@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Bengaluru-Mysuru expressway horror: Family attacked by mob as road rage video goes viral",
-      "description": "A family travelling on the Bengaluru-Mysuru Expressway was attacked by a group of men after a road dispute. The assault, captured on a dashcam video, has gone viral while police are yet to confirm arrests or further action.",
-      "link": "https://www.news9live.com/india/bengaluru-mysuru-expressway-horror-family-attacked-by-mob-as-road-rage-video-goes-viral-2986993",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Bengaluru-Mysuru-expressway-viral-video.jpg",
-      "published": "2026-07-07 12:05:00",
+      "title": "Odisha achieves near-universal early school retention: Report",
+      "description": "Odisha achieves near-universal early school retention: Report",
+      "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-achieves-near-universal-early-school-retention-report/articleshow/132243149.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "published": "2026-07-07 16:11:55",
+      "category": [
+        "education",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Munger youth arrested over suspected cross-border links",
+      "description": "Munger youth arrested over suspected cross-border links",
+      "link": "https://timesofindia.indiatimes.com/city/patna/munger-youth-arrested-over-suspected-cross-border-links/articleshow/132243163.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132222019/132222019.jpg",
+      "published": "2026-07-07 16:11:54",
       "category": [
         "top",
         "crime"

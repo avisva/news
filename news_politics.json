@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "EP approved new air passenger rights. Here's what could change for travellers",
+      "description": "Parents will also have the right to free seating next to their children under the new rules. Photo: Matthew Mirabelli",
+      "link": "https://timesofmalta.com/article/grounded-plane-soon-right-bathroom-free-water.1131043",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/bea7d0210cfa7809091df1aad5395ab7da301b41-1783438353-f00a8964-1920x1280.jpg",
+      "published": "2026-07-07 16:12:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "The Latest: President Trump pleases Turkey, angers other allies ahead of NATO summit",
+      "description": "U.S. President Donald Trump has met with Turkish leader Recep Tayyip Erdog\u0306an ahead of the NATO summit in Ankara. He announced that the U.S. will lift sanctions, opening the possibility of selling F-35 jets to Turkey over Israel\u2019s objections. Trump...",
+      "link": "https://www.chronicleonline.com/news/national/the-latest-president-trump-pleases-turkey-angers-other-allies-ahead-of-nato-summit/article_63e34eab-afa4-5798-a7aa-e4137e54ad3d.html",
+      "source": "Chronicle Online",
+      "image": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/2/b8/2b88eb08-9186-5645-a7b1-e4df9766c0f0/6a4c56f1d411b.image.jpg?resize=300%2C200",
+      "published": "2026-07-07 16:11:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Farage looked rattled. But has he pulled off another political masterstroke?",
+      "description": "For the first time in his career, Nigel Farage looked genuinely flustered when he delivered his speech today",
+      "link": "https://www.expressandstar.com/news/politics/farage-looked-rattled-but-has-he-pulled-off-another-political-masterstroke-8783313",
+      "source": "Express & Star",
+      "image": "https://contentstore.nationalworld.com/images/89e038a3-e5fd-40ab-8418-6a388d802151.jpeg",
+      "published": "2026-07-07 16:11:57",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

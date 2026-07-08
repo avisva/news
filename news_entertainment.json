@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "257345 JENNIFER DOZIER",
+      "description": null,
+      "link": "https://www.reflector.com/jail_bookings/257345-jennifer-dozier/article_aaa216b9-0add-5748-a777-d25030855fd9.html",
+      "source": "Reflector",
+      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/2/df/2df8e760-8b21-5cef-ac88-1e5d15655db2/6a4d9767a8bd6.image.jpg?resize=300%2C375",
+      "published": "2026-07-08 00:18:47",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "257344 SAMANTHA MORRISETTE",
+      "description": null,
+      "link": "https://www.reflector.com/jail_bookings/257344-samantha-morrisette/article_aace72ee-48c2-5711-a033-15ac46079301.html",
+      "source": "Reflector",
+      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/8/3e/83e48857-6d97-581d-8fc5-4863a57b4b79/6a4d9766ddaca.image.jpg?resize=300%2C375",
+      "published": "2026-07-08 00:18:46",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Senate Approves Bill Allowing Kast Administration to Borrow Up to $6.2 Billion in 2026",
+      "description": "El Ciudadano Original article: Sera\u0301 ley: Senado aprobo\u0301 autorizacio\u0301n para que gobierno de Kast endeude a Chile por hasta US$6.200 millones en 2026 With 28 votes in favor, 15 against, and 1 abstention, the Senate has passed legislation allowing increased borrowing by the central government for the year 2026. Officially, the initiative from the Kast government aims [...] La entrada Senate Approves Bill Allowing Kast Administration to Borrow Up to $6.2 Billion in 2026 se publico\u0301 primero en El Ciudadano .",
+      "link": "https://www.elciudadano.com/en/senate-approves-bill-allowing-kast-administration-to-borrow-up-to-6-2-billion-in-2026/07/07/",
+      "source": "El Ciudadano",
+      "image": "https://www.elciudadano.com/wp-content/uploads/2026/07/Senado-aprueba-deuda.jpg",
+      "published": "2026-07-08 00:18:50",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "chile"
+      ]
+    }
+  ]
 }

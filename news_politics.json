@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "257346 MARVIN HOWARD",
+      "description": null,
+      "link": "https://www.reflector.com/jail_bookings/257346-marvin-howard/article_e69f2ae9-816d-5e54-8f19-c25d2a493a25.html",
+      "source": "Reflector",
+      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/c/85/c85be8e2-0989-566b-aacb-638f602c94c8/6a4d9768bef05.image.jpg?resize=300%2C375",
+      "published": "2026-07-08 00:18:48",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "257338 KHAILIL TYLER",
+      "description": null,
+      "link": "https://www.reflector.com/jail_bookings/257338-khailil-tyler/article_ef325119-c6a8-5397-9020-3729a30051ab.html",
+      "source": "Reflector",
+      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/e/02/e0209fbd-efb4-5559-a08b-078150a857c3/6a4d975d4e92e.image.jpg?resize=300%2C375",
+      "published": "2026-07-08 00:18:37",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Galaxy A18 renders show minimal change, but a thicker body points at a larger battery",
+      "description": "Samsung is expected to announce the Galaxy A18 soon considering the Galaxy A17 is almost a year old. However, while the design hasn't really changed, a thicker body may be sign of a larger battery capacity.",
+      "link": "https://www.notebookcheck.net/Galaxy-A18-renders-show-minimal-change-but-a-thicker-body-points-at-a-larger-battery.1337059.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-A18-render-a.jpg",
+      "published": "2026-07-08 11:03:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sequoia Project encourages automated patient consent to boost health data sharing",
+      "description": "<p>The Sequoia Project's privacy and consent workgroup has published <a href=\"https://sequoiaproject.org/interoperability-matters/privacy-and-consent-workgroup/operationalizing-automated-consent/\">guidance</a> that aims to help healthcare organizations transition from manual patient consent processes to automated, computable consent systems. The guidance addresses the fragmented ways in which patient consent is currently managed and includes a suite of sample operational resource documents, model policies and workflow templates that stakeholders can use based on their organization's specific needs.</p> <p>The Sequoia Project, which oversees TEFCA implementation, identified several chokepoints that have contributed to what it sees as a \"widening gap between policy expectations for seamless data exchange and the operational realities of collecting, managing, and honoring patient consent.\"</p> <p>The chokepoints include a \"tangled web of federal and state consent rules that even seasoned compliance teams interpret differently,\" inconsistent consent forms across organizations and the tension between obtaining consent and avoiding information blocking.</p> <section class=\"section main-article-chapter\" data-menu-title=\"The case for computable consent mechanisms\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>The case for computable consent mechanisms</h2> <p>To alleviate these challenges, The Sequoia Project created this new guidance to help stakeholders transition from paper and other manual consent mechanisms to more automated processes.</p> <p>The Sequoia Project defined \"computable consent\" as a machine-readable, standards-based representation of a person's privacy and data-sharing preferences that can be automatically enforced across all electronic systems.</p> <p>The process of computable consent involves encoding a person's consent preferences in an interoperable format, such as the HL7 FHIR Consent Resource.</p> <p>\"When implemented properly, these directives generally can be executed automatically, without human interpretation or manual intervention,\" the guidance document stated. \"However, realizing this level of automation requires more than technical capability; it demands coordinated organizational readiness. Therefore, implementing automated consent requires alignment across legal, technical, and governance domains.\"</p> </section> <section class=\"section main-article-chapter\" data-menu-title=\"Use case: Consent mechanisms under 42 CFR Part 2\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Use case: Consent mechanisms under 42 CFR Part 2</h2> <p>The guidance noted that the volume of possible consent transactions is simply too high to address all in one guidance document. As such, the workgroup chose to focus on one high-impact use case: sharing substance use disorder information for <a href=\"https://www.techtarget.com/healthtechsecurity/news/366593970/HHS-Finalizes-Changes-to-Substance-Use-Confidentiality-Regulations\">treatment under the newly updated 42 CFR Part 2 final rule</a>, which became enforceable in February 2026.</p> <p>The final rule further aligned Part 2 rules with HIPAA. Provisions included permitting the use and disclosure of Part 2 records based on patient consent given once for all future uses and disclosures for treatment, payment and operations purposes and permitting the redisclosure of Part 2 records by HIPAA-covered entities and business associates as defined by the HIPAA Privacy Rule.</p> <p>The Sequoia Project's guidance focused specifically on entities that are subject to Part 2 and are disclosing Part 2 records through a health information network to a HIPAA-covered entity that is not itself a Part 2 program.</p> <p>\"This scenario was selected because it represents a legally significant exchange pattern under the new rules to better align HIPAA and Part 2 requirements,\" the document stated. \"It allows modeling of the end-to-end operational, legal, technical, and governance steps that must be in place before broader adoption across other consent contexts (e.g., payment, public health, or research) can occur.\"</p> <p>Throughout the 52-page document, The Sequoia Project outlined how entities in this scenario could use automated consent to manage consent workflows, detailing the governance and oversight activities in the process.</p> <p>Although much of the document focused on entities subject to Part 2, The Sequoia Project said it saw the document as \"laying the foundation for operationalizing automated consent.\"</p> <p>\"Additional guidance and resources, including technical, will be needed to address other high-impact areas where legal standards and workflows differ,\" the organization acknowledged.</p> <p><em>Jill Hughes has covered health tech news since 2021. Her coverage areas include cybersecurity, HIPAA compliance, interoperability, AI and EHRs.</em></p> </section>",
+      "link": "https://www.techtarget.com/searchhealthit/news/366645773/Sequoia-Project-encourages-automated-patient-consent-to-boost-health-data-sharing",
+      "source": "Techtarget",
+      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/ehr_a232435916.jpeg",
+      "published": "2026-07-08 11:03:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

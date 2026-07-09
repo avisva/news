@@ -1,35 +1,76 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "City's tax sale brought mixed results",
-      "description": "The City of Thunder Bay had 10 properties on the auction block and received no bids on two, but will gain revenue five times the accrued taxes at eight other locations.",
-      "link": "https://www.tbnewswatch.com/local-news/citys-tax-sale-brought-mixed-results-12512799",
-      "source": "Thunder Bay News",
-      "image": null,
-      "published": "2026-07-08 14:45:58",
+      "title": "Mark Zuckerberg's Meta Is Entering What Could Be a $2 Trillion Cloud Market. CoreWeave Stock Fell 14% on the News.",
+      "description": "CoreWeave is at risk of losing a customer and gaining a competitor.",
+      "link": "https://www.fool.com/investing/2026/07/08/mark-zuckerberg-meta-cloud-stock-coreweave/",
+      "source": "Fool",
+      "image": "https://g.foolcdn.com/editorial/images/877290/gettyimages-1669453534.jpg",
+      "published": "2026-07-08 18:46:00",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "NEPRA raises electricity tariff by 34 paisa per unit under May fuel cost adjustment",
-      "description": "The National Electric Power Regulatory Authority (NEPRA) has increased electricity tariffs by 34 paisa per unit for consumers across Pakistan, including Karachi, in a fresh blow to households and businesses at the start of the new financial year.",
-      "link": "https://www.24newshd.tv/08-Jul-2026/nepra-raises-electricity-tariff-34-paisa-per-unit-may-fuel-cost-adjustment",
-      "source": "24 News Hd",
-      "image": "https://www.24newshd.tv/digital_images/large/2026-07-08/nepra-raises-electricity-tariff-34-paisa-per-unit-may-fuel-cost-adjustment-1783521861-9379.jpg",
-      "published": "2026-07-08 14:45:54",
+      "title": "Datavault AI Receives USPTO Notice of Allowance for Patent Targeting Naked and Excessive Short Selling Through Tokenized Dividend Distribution",
+      "description": "Datavault AI Inc. (\u201cDatavault AI\u201d or the \u201cCompany\u201d) (NASDAQ: DVLT), a provider of data monetization, credentialing, digital engagement, and real-world asset (\u2018RWA\u2019) tokenization technologies, today announced that the United States Patent and Trademark Office (USPTO) has issued a Notice of Allowance, dated July 1, 2026, for U.S. Patent Application No. 19/445,241, \u201cMethod and System for Mitigating Naked and Excessive Short Selling through Tokenized Dividend Distribution,\u201d allowing all 24 pending",
+      "link": "https://www.financialcontent.com/article/bizwire-2026-7-8-datavault-ai-receives-uspto-notice-of-allowance-for-patent-targeting-naked-and-excessive-short-selling-through-tokenized-dividend-distribution",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-08 18:46:00",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
-        "pakistan"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Molly Moon\u2019s Bringing New Scoop Shop to Northgate Station",
+      "description": "Founder Molly Moon Neitzel told What Now Seattle the company is already looking ahead to another new location in 2028",
+      "link": "https://whatnow.com/seattle/restaurants/molly-moons-bringing-new-scoop-shop-to-northgate-station/",
+      "source": "What Now Austin",
+      "image": "https://whatnow.com/wp-content/uploads/2026/07/1724161627-minimoons4-1.jpg",
+      "published": "2026-07-08 18:45:57",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Warner Bros launches agentic AI-powered advertising built on AWS",
+      "description": "WBD builds next-gen advertising with agentic AI on AWS, unifying linear and digital planning, interactive ads, and better measurement\u2014learn what it means...",
+      "link": "https://seekingalpha.com/news/4612392-warner-bros-launches-agentic-ai-powered-advertising-built-on-aws?feed_item_type=news",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1767065519/image_1767065519.jpg?io=getty-c-w1280",
+      "published": "2026-07-08 18:45:55",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Treasury Yields Tick Higher on Reignited Iran-Related Inflation",
+      "description": null,
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-070826/card/treasury-yields-tick-higher-on-reignited-iran-related-inflation-H4IBUDB71YmaqEe23bNs",
+      "source": "Barron",
+      "image": null,
+      "published": "2026-07-08 18:45:54",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

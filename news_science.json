@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "AASU Backs Digitisation Drive to Preserve Madhupur Satra Manuscripts",
+      "description": "AASU plans to digitise and preserve rare Madhupur Satra manuscripts under the \u2018Digitising Assam\u2019 project and urged early release of \u20b950 crore for its development.",
+      "link": "https://www.sentinelassam.com/topheadlines/aasu-backs-digitisation-drive-to-preserve-madhupur-satra-manuscripts",
+      "source": "The Sentinel",
+      "image": "https://media.assettype.com/sentinelassam-english/2026-07-09/qq7wt0q9/Madhupur-Satra20260709071351.png",
+      "published": "2026-07-09 01:46:47",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

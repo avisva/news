@@ -1,35 +1,19 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Kenya Tribunal rules AI works cannot be copyrighted",
-      "description": "Anyone hoping to monetise AI\u2010assisted content will need to keep records of their input and...",
-      "link": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-tribunal-rules-ai-works-cannot-be-copyrighted-5521436",
-      "source": "The Eastafrican",
-      "image": "https://www.theeastafrican.co.ke/resource/image/5521582/landscape_ratio16x9/1600/900/508e4a617167ac088aa238944c396f0a/nR/ai-1-.jpg",
-      "published": "2026-07-09 08:45:00",
+      "title": "Don't buy a new work PC right now \u2014 memory crunch and price rises lead to global shipments falling for the first time in two years",
+      "description": "Global PC shipments are down as memory price hikes affect manufacturers globally \u2013 Apple even uncharacteristically rose prices mid-term.",
+      "link": "https://www.techradar.com/pro/dont-buy-a-new-work-pc-right-now-memory-crunch-and-price-rises-lead-to-global-shipments-falling-for-the-first-time-in-two-years",
+      "source": "Techradar Sg",
+      "image": "https://cdn.mos.cms.futurecdn.net/kBh7EsfbiSwN85w226yqLj-1280-80.jpg",
+      "published": "2026-07-09 10:20:00",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "kenya"
-      ]
-    },
-    {
-      "title": "Kore.ai & Atos UK&I launch sovereign AI for UK firms",
-      "description": "Pressure from new AI rules is pushing UK firms in finance, healthcare and defence to demand systems that are secure, auditable and sovereign.",
-      "link": "https://securitybrief.co.uk/story/kore-ai-atos-uk-i-launch-sovereign-ai-for-uk-firms",
-      "source": "Securitybrief Uk",
-      "image": "https://securitybrief.co.uk/uploads/story/2026/07/09/compatible_secure-shield-finance-hospital-defence-skyline-ai-hub-modern-illustration.jpg",
-      "published": "2026-07-09 08:45:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united kingdom"
+        "singapore"
       ]
     }
   ]

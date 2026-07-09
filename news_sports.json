@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "2 years after renovation, 'the sky is the limit' for Moyer Sports Complex",
-      "description": "\"This is just another example of how Salem does right in everything they do.\u201d",
-      "link": "https://roanoke.com/news/local/business/development/article_8501610d-ed5f-453c-866c-d05ea01f42df.html",
-      "source": "Roanoke",
-      "image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/8/b6/8b6514f4-3d69-11ef-8c8a-b32f69225aa0/668c4df6e7eeb.image.jpg?resize=300%2C225",
-      "published": "2026-07-09 08:45:00",
+      "title": "Argentina had to battle beyond Egypt.",
+      "description": "Just eight teams remain in pursuit of World Cup glory.",
+      "link": "https://www.si.com/soccer/supercomputer-predicts-2026-world-cup-winner-quarterfinals",
+      "source": "Si",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4023,h_2262,x_0,y_348/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kx35yxtyh6n6v4e8rf.jpg",
+      "published": "2026-07-09 10:20:00",
       "category": [
         "sports"
       ],
@@ -17,15 +17,30 @@
       ]
     },
     {
-      "title": "Big 12 football coach rankings: Arizona up, ASU down",
-      "description": "A 2026 Big 12 football coach ranking elevates Arizona coach Brent Brennan. Where is Arizona State's Kenny Dillingham after being No. 1 last season?",
-      "link": "https://www.thespectrum.com/story/sports/college/big-12/2026/07/09/big-12-football-coach-rankings-2026-brent-brennan-kenny-dillingham/90860417007/",
-      "source": "The Spectrum",
-      "image": "https://www.thespectrum.com/gcdn/authoring/authoring-images/2025/10/04/PPHX/86527373007-usatsi-27244062.jpg?crop=2776,1562,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
-      "published": "2026-07-09 08:45:00",
+      "title": "ESPN analyst claims Paige Bueckers is \u2018everything\u2019 WNBA wanted Caitlin Clark to be",
+      "description": "One ESPN commentator has suggested that the WNBA has found what they were looking for in Caitlin Clark through the play of Paige Bueckers. Caitlin Clark has been the most popular since she arrived in the WNBA in 2024, after two sensational seasons with the University of Iowa.",
+      "link": "https://sports.yahoo.com/articles/espn-analyst-claims-paige-bueckers-102000816.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZdiDJzgCPaS3js4eG_OrsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xOTI0O2NmPXdlYnA-/https://media.zenfs.com/en/hitc_articles_832/6f3571e9bbc60bda125ec4f5c79cd573",
+      "published": "2026-07-09 10:20:00",
       "category": [
         "sports",
-        "top"
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Report: Roma inquire about Como\u2019s Assane Diao",
+      "description": "Roma, awaiting the official transfer of Mason Greenwood to Fenerbahce, will be forced to focus on other attacking wingers who can raise the level of their attack. For Gasperini, this is a top priority...",
+      "link": "https://sports.yahoo.com/articles/report-roma-inquire-como-assane-102000613.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lTOBefpjfTSNTlsO3WN_SA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0xMDE2O2NmPXdlYnA-/https://media.zenfs.com/en/romapress_articles_142/eddd0dfa31411c8cf611c3ead036a8dc",
+      "published": "2026-07-09 10:20:00",
+      "category": [
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"

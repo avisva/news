@@ -1,63 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "ChatGPT\u2019s \u2018smartest voice model ever\u2019 is rolling out to everyone - today",
-      "description": "OpenAI launched GPT-Live today \u2014 a full-duplex voice model that listens and speaks simultaneously, replacing ChatGPT Voice's turn-based system for 150 million weekly users.",
-      "link": "https://www.gizchina.com/ai/chatgpts-smartest-voice-model-ever-is-rolling-out-to-everyone-today",
-      "source": "Gizchina",
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-07%2Fimage-1783580002886-6a4f4575c743c.jpg@webp",
-      "published": "2026-07-09 06:48:00",
+      "title": "Kenya Tribunal rules AI works cannot be copyrighted",
+      "description": "Anyone hoping to monetise AI\u2010assisted content will need to keep records of their input and...",
+      "link": "https://www.theeastafrican.co.ke/tea/business-tech/kenya-tribunal-rules-ai-works-cannot-be-copyrighted-5521436",
+      "source": "The Eastafrican",
+      "image": "https://www.theeastafrican.co.ke/resource/image/5521582/landscape_ratio16x9/1600/900/508e4a617167ac088aa238944c396f0a/nR/ai-1-.jpg",
+      "published": "2026-07-09 08:45:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "china"
+        "kenya"
       ]
     },
     {
-      "title": "Realme Narzo 100x 5G launching soon, First Glimpse Revealed in Teaser Showing a Large Battery",
-      "description": "The launch of the Realme Narzo 100x 5G in India has been confirmed. A teaser has hinted at the phone's design and a large battery. Find out details about the launch.",
-      "link": "https://www.stackumbrella.com/technology/realme-narzo-100x-5g-india-launch-confirmed-design-battery-and-all-details-revealed-so-far-12147895",
-      "source": "Stackumbrella",
-      "image": "https://img-cdn.publive.online/stackumbrella/media/media_files/2026/07/09/realme-narzo-100x-5g-2026-07-09-12-15-48.jpg",
-      "published": "2026-07-09 06:47:50",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Physical AI moves from demo floor to factory floor as robots face the real world",
-      "description": "The key constraint is not investor enthusiasm. It is real-world data, battery life, edge chips, safety certification and the cost of deploying machines into messy industrial environments.",
-      "link": "https://www.fxstreet.com/news/physical-ai-moves-from-demo-floor-to-factory-floor-as-robots-face-the-real-world-202607090647",
-      "source": "Fxstreet",
-      "image": "https://editorial.fxsstatic.com/images/i/Tech_1.png",
-      "published": "2026-07-09 06:47:28",
+      "title": "Kore.ai & Atos UK&I launch sovereign AI for UK firms",
+      "description": "Pressure from new AI rules is pushing UK firms in finance, healthcare and defence to demand systems that are secure, auditable and sovereign.",
+      "link": "https://securitybrief.co.uk/story/kore-ai-atos-uk-i-launch-sovereign-ai-for-uk-firms",
+      "source": "Securitybrief Uk",
+      "image": "https://securitybrief.co.uk/uploads/story/2026/07/09/compatible_secure-shield-finance-hospital-defence-skyline-ai-hub-modern-illustration.jpg",
+      "published": "2026-07-09 08:45:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "spain"
-      ]
-    },
-    {
-      "title": "Edge AI Chip Market to Reach US$ 31.75 Billion by 2033 Driven by Rising Demand for Real-Time Processing, Expansion of IoT & Smart Devices, and Advancements in Low-Power AI Semiconductor Technologies",
-      "description": "The Edge AI Chip Market was valued at US$ 8.80 billion in 2025 and is expected to reach US$ 31.75 billion by 2033, growing at a CAGR of 17.4% during the forecast period 2026-2033. Growth is driven by increasing demand for",
-      "link": "https://www.openpr.com/news/4572418/edge-ai-chip-market-to-reach-us-31-75-billion-by-2033-driven",
-      "source": "Openpr.com",
-      "image": "https://cdn.open-pr.com/L/7/L709358903_k.jpg",
-      "published": "2026-07-09 06:47:26",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "germany"
+        "united kingdom"
       ]
     }
   ]

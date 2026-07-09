@@ -1,16 +1,30 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Telangana CM orders setup of digital governance panel",
-      "description": "Telangana Chief Minister A Revanth Reddy on Tuesday directed officials to constitute a committee to strengthen \u2018digital governance\u2019 in the State. Reddy, who held a meeting with officials, said the committee, comprising officials, should submit its report in 100 days. He sought details of the implementation of \u2018digital governance\u2019 and instructed officials to formulate plans for digital governance and draft relevant legislation, a release said.",
-      "link": "https://telecomlive.in/web/2026/07/09/telangana-cm-orders-setup-of-digital-governance-panel/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-07-09 04:24:49",
+      "title": "ChatGPT\u2019s \u2018smartest voice model ever\u2019 is rolling out to everyone - today",
+      "description": "OpenAI launched GPT-Live today \u2014 a full-duplex voice model that listens and speaks simultaneously, replacing ChatGPT Voice's turn-based system for 150 million weekly users.",
+      "link": "https://www.gizchina.com/ai/chatgpts-smartest-voice-model-ever-is-rolling-out-to-everyone-today",
+      "source": "Gizchina",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-07%2Fimage-1783580002886-6a4f4575c743c.jpg@webp",
+      "published": "2026-07-09 06:48:00",
       "category": [
         "top",
+        "technology"
+      ],
+      "country": [
+        "china"
+      ]
+    },
+    {
+      "title": "Realme Narzo 100x 5G launching soon, First Glimpse Revealed in Teaser Showing a Large Battery",
+      "description": "The launch of the Realme Narzo 100x 5G in India has been confirmed. A teaser has hinted at the phone's design and a large battery. Find out details about the launch.",
+      "link": "https://www.stackumbrella.com/technology/realme-narzo-100x-5g-india-launch-confirmed-design-battery-and-all-details-revealed-so-far-12147895",
+      "source": "Stackumbrella",
+      "image": "https://img-cdn.publive.online/stackumbrella/media/media_files/2026/07/09/realme-narzo-100x-5g-2026-07-09-12-15-48.jpg",
+      "published": "2026-07-09 06:47:50",
+      "category": [
         "technology"
       ],
       "country": [
@@ -18,33 +32,32 @@
       ]
     },
     {
-      "title": "Honda to generate 3,800 jobs in India by 2028 through two-wheeler capacity boost",
-      "description": "Honda Motorcycle & Scooter India will add over 3,800 jobs by 2028, with its Vithalapur plant in Gujarat set to become Honda's largest motorcycle assembly plant globally after expansion.",
-      "link": "https://www.cnbctv18.com/auto/honda-to-generate-3800-jobs-in-india-by-2028-through-two-wheeler-capacity-boost-19941598.htm",
-      "source": "Cnbctv18",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-ae5fa7250471973dd39501d9fc0ac375.jpg",
-      "published": "2026-07-09 04:24:49",
+      "title": "Physical AI moves from demo floor to factory floor as robots face the real world",
+      "description": "The key constraint is not investor enthusiasm. It is real-world data, battery life, edge chips, safety certification and the cost of deploying machines into messy industrial environments.",
+      "link": "https://www.fxstreet.com/news/physical-ai-moves-from-demo-floor-to-factory-floor-as-robots-face-the-real-world-202607090647",
+      "source": "Fxstreet",
+      "image": "https://editorial.fxsstatic.com/images/i/Tech_1.png",
+      "published": "2026-07-09 06:47:28",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
+        "spain"
       ]
     },
     {
-      "title": "Mapping out telco coverage",
-      "description": "MEMBER for Mallee and Anne Webster says Telstra\u2019s new map is finally validating the regional customer\u2019s lived experience with the phone provider. The recent mandate by the Australian Communications and Media Authority now requires Telstra and other telcos to publish consistent 4G and 5G coverage maps to reflect what customers can reasonably expect from an [...]",
-      "link": "https://theguardian.com.au/news/2026/07/09/mapping-out-telco-coverage/",
-      "source": "The Guardian",
-      "image": "https://theguardian.com.au/wp-content/uploads/2026/07/IrympleUpg_558928_01.jpg",
-      "published": "2026-07-09 04:24:36",
+      "title": "Edge AI Chip Market to Reach US$ 31.75 Billion by 2033 Driven by Rising Demand for Real-Time Processing, Expansion of IoT & Smart Devices, and Advancements in Low-Power AI Semiconductor Technologies",
+      "description": "The Edge AI Chip Market was valued at US$ 8.80 billion in 2025 and is expected to reach US$ 31.75 billion by 2033, growing at a CAGR of 17.4% during the forecast period 2026-2033. Growth is driven by increasing demand for",
+      "link": "https://www.openpr.com/news/4572418/edge-ai-chip-market-to-reach-us-31-75-billion-by-2033-driven",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/L/7/L709358903_k.jpg",
+      "published": "2026-07-09 06:47:26",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "australia"
+        "germany"
       ]
     }
   ]

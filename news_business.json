@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "18 Consumer Stocks In Focus Ahead Of Q1 Results; Four Get 'Buy' Ratings, ITC Get 'Reduce'",
-      "description": "Consumer Q1 Results Preview: PL Capital believes that demand outlook remains cautious due to likely impact of El Nino and monsoon activity, but easing crude prices will provide a tailwind.",
-      "link": "https://www.ndtvprofit.com/markets/18-consumer-stocks-in-focus-ahead-of-q1-results-four-get-buy-ratings-itc-get-reduce-full-list-inside-11747165",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-07/r57k9464_consumer-q1-preview_625x300_09_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "published": "2026-07-09 04:24:28",
+      "title": "Modi, Albanese Boost Trade and Defence Ties",
+      "description": "PM Narendra Modi and Australian PM Anthony Albanese agreed to accelerate CECA negotiations while expanding cooperation in defence, trade, renewable energy, technology and critical minerals.",
+      "link": "https://kolkatatoday.com/modi-albanese-india-australia-strategic-partnership-melbourne",
+      "source": "Kolkata Today",
+      "image": "https://kolkatatoday.com/uploads/2026/07/4699c08654349953-large.jpg",
+      "published": "2026-07-09 06:48:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "As US-Iran war resumes, volatility returns to SIA, Oiltek shares",
+      "description": "Oiltek up 7.8%, SIA down 3% on oil price hike Read more at The Business Times.",
+      "link": "https://www.businesstimes.com.sg/companies-markets/us-iran-war-resumes-volatility-returns-sia-oiltek-shares",
+      "source": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/0f4fec5b6be457648aaf06b78dfe00be1a55b8cd9b2b12b94a88768a2ec93059",
+      "published": "2026-07-09 06:47:49",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "singapore"
       ]
     }
   ]

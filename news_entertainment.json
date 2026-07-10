@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Anglesey hotel staff get a surprise as 'down to Earth' TV star checks in",
-      "description": "Staff at a hotel on Anglesey had a 'familiar face' check into the venue recently.",
-      "link": "https://www.northwaleschronicle.co.uk/news/26267795.actor-julian-lewis-jones-holyhead-premier-inn-stay/",
-      "source": "Northwaleschronicle Co Uk",
+      "title": "Welsh pop star Bonnie Tyler dies at 75",
+      "description": "Bonnie Tyler, the Grammy-nominated Welsh pop star whose 1983 chart-topping power ballad \"Total Eclipse of the Heart\" enchanted succeeding generations during solar and lunar eclipses, has died. She was 75.",
+      "link": "https://www.nwaonline.com/news/2026/jul/10/welsh-pop-star-bonnie-tyler-dies-at-75/",
+      "source": "Nwaonline",
       "image": null,
-      "published": "2026-07-10 06:21:00",
+      "published": "2026-07-10 08:20:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Remember 'Ramayana: The Legend of Prince Rama'? Here's Where You Can Watch It Now",
+      "description": "The Indo-Japanese animated film, Ramayana: The Legend of Prince Rama, has long been regarded as one of the finest adaptations of the Hindu epic.",
+      "link": "https://www.news18.com/india/remember-ramayana-the-legend-of-prince-rama-heres-where-you-can-watch-it-now-ws-l-10203292.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/Ramayana-2026-07-1a83fec34204b309e0d046d5641d0ee9-1200x800.jpg",
+      "published": "2026-07-10 08:19:55",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

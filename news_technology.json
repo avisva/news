@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Mercedes EV Sales Jumped 28% While The Rest Of The Brand Shrank",
+      "description": "While BEV models are proving popular, sales across three core segments of Mercedes models are down this year",
+      "link": "https://www.carscoops.com/2026/07/mercedes-ev-sales-growth-ev-sales-jumped-28-while-the-rest-of-the-brand-shrank/",
+      "source": "Carscoops",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/26C0149_204-copy-scaled.jpg",
+      "published": "2026-07-09 20:20:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "News outlets urge judge to sanction OpenAI in high-stakes AI copyright fight",
+      "description": "At issue is whether AI chatbots are unfairly competing as an information source, siphoning off web traffic without doing the journalistic work.",
+      "link": "http://www.baynews9.com/fl/tampa/business/2026/07/09/new-york-times-new-york-daily-news-judge-sanctions-openai-copyright",
+      "source": "Spectrum Bay News 9",
+      "image": "https://s7d2.scene7.com/is/image/TWCNews/sam_altman_AP_26168539825217_NAT_0709",
+      "published": "2026-07-09 20:20:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

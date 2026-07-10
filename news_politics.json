@@ -1,64 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "England rein in boozy cricketers with alcohol ban, midnight curfew",
-      "description": "After a string of late-night incidents and an Ashes tour marred by stories of player drinking, England\u2019s board has laid down the law to its cricketers.",
-      "link": "https://www.watoday.com.au/sport/cricket/england-rein-in-boozy-cricketers-with-alcohol-ban-midnight-curfew-20260710-p60efd.html",
-      "source": "Watoday",
-      "image": "https://static.ffx.io/images/$zoom_0.15858041329739442%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_39/t_crop_custom/q_86%2Cf_auto/bd545f737a16a524807d93add28413db0f24ff59",
-      "published": "2026-07-10 09:59:00",
-      "category": [
-        "sports",
-        "top",
-        "politics"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Opinion | Why I let my son wrestle \u2014 but am wary of WWE",
-      "description": "As both a sport and entertainment, wrestling poses questions that parents should grapple with.",
-      "link": "https://www.startribune.com/boys-girls-sports-ufc-fighting-wwe-raw-netflix/601865874",
-      "source": "Startribune",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/startribunemedia/IM6MWYJRUNEU3I4QWQWQXKGUZY.jpg",
-      "published": "2026-07-10 09:59:00",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Azerbaijan approves agreement on supply of natural gas to Georgia",
-      "description": null,
-      "link": "http://www.today.az/news/society/268846.html",
-      "source": "Today.az",
-      "image": "http://www.today.az/thumbnails/thumb268846.jpg",
-      "published": "2026-07-10 09:59:00",
+      "title": "BJP MLA Pritam Lodhi's son declared absconding by Gwalior court",
+      "description": "Gwalior: Bharatiya Janata Party (BJP) MLA, Pritam Lodhi's son, Dinesh Lodhi, has been declared an absconder by a special court in Gwalior in connection with a case registered under the Scheduled...",
+      "link": "https://www.thehansindia.com/news/national/bjp-mla-pritam-lodhis-son-declared-absconding-by-gwalior-court-1096017",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/10/1676142-pritam-lodhi.webp",
+      "published": "2026-07-10 11:06:52",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "azerbaijan"
+        "india"
       ]
     },
     {
-      "title": "Justice Minister Kubayi launches IDAC Ombud offices to tackle corruption and abuse of power",
-      "description": "The launch comes as the Madlanga Commission continues hearing evidence into allegations of criminality, political interference and corruption within the justice system.",
-      "link": "https://www.iol.co.za/news/politics/justice-minister-kubayi-launches-idac-ombud-offices-to-tackle-corruption-and-abuse-of-power-1535c63c-89bc-4430-89f6-b58b0d2524b4",
-      "source": "Iol",
-      "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/ea05657d985ac80521de150d8783f636d7f85033/2000&operation=CROP&offset=0x394&resize=2000x1125",
-      "published": "2026-07-10 09:58:57",
+      "title": "Atiku gives Tinubu seven days to break silence on status of Federal Audit Service Bill",
+      "description": "Former Vice President Atiku Abubakar has called on President Bola Ahmed Tinubu to, within seven days, comply with the constitutional obligation imposed by Section 58(4) by either assenting to the Federal Audit Service Bill and formally communicating to the National Assembly and the Nigerian people his reasons for withholding assent, or voluntarily quit office. Reacting [...] The post Atiku gives Tinubu seven days to break silence on status of Federal Audit Service Bill appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/atiku-gives-tinubu-seven-days-to-break-silence-on-status-of-federal-audit-service-bill/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/schema-and-structured-data-for-wp/Atiku-and-Tinubu-1200x720.jpg",
+      "published": "2026-07-10 11:06:50",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
-        "south africa"
+        "nigeria"
       ]
     }
   ]

@@ -1,14 +1,44 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Irish Times Launches Summer OOH Campaign to Promote News App",
-      "description": "The Irish Times has launched a summer advertising campaign to promote its news app and highlight its puzzles and podcasts. Created by Core Creative, the campaign will run to the end of September across a range of outdoor formats, including Dublin Airport, Dublin Bus and Irish Rail networks, as well as six-sheet advertising sites around [...]",
-      "link": "https://www.adworld.ie/2026/07/10/irish-times-launches-summer-ooh-campaign-to-promote-news-app/",
-      "source": "Adworld",
-      "image": null,
-      "published": "2026-07-10 09:58:59",
+      "title": "\u2018PBB\u2019 may public audition uli",
+      "description": "Kumpirmado ang bagong season ng Pinoy Big Brother! Abangan ang public auditions at ang bagong Bahay ni Kuya sa kolaborasyon ng ABS-CBN at GMA-7.",
+      "link": "https://www.abante.com.ph/2026/07/10/pbb-may-public-audition-uli/",
+      "source": "Abante News Online",
+      "image": "https://www.abante.com.ph/wp-content/uploads/2025/01/pbb.jpg",
+      "published": "2026-07-10 11:06:59",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Tom Holland Checks Into Mumbai's Taj Mahal Palace, Take A Tour Of Its Most Expensive Suite",
+      "description": "Tom Holland is staying at The Taj Mahal Palace, Mumbai.",
+      "link": "https://www.ndtv.com/lifestyle/tom-holland-checks-into-mumbais-taj-mahal-palace-take-a-tour-of-its-most-expensive-suite-11753381",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-07/kqukbra4_tom-holland-taj-palace_625x300_10_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-07-10 11:06:53",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Black-ish Season 1 Release Date: Hits Netflix \u2013 Laughs Start Soon!",
+      "description": "Black-ish Season 1 Release Date: Hits Netflix \u2013 Laughs Start...",
+      "link": "https://thenewstrace.com/black-ish-season-1-release-date/",
+      "source": "Thenewstrace",
+      "image": "https://thenewstrace.com/wp-content/uploads/2026/01/Black-ish-Season-1-Release-Date.webp",
+      "published": "2026-07-10 11:06:50",
       "category": [
         "top",
         "entertainment"

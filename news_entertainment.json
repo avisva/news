@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Boy Abunda and Baus Rufo win hearts with their latest collaboration",
+      "description": "Boy Abunda and Baus Rufo recently delighted fans with their latest video.",
+      "link": "https://www.gmanetwork.com/entertainment/showbiznews/boy-abunda-and-baus-rufo-win-hearts-with-their-latest-collaboration/135544",
+      "source": "Gma",
+      "image": "https://aphrodite.gmanetwork.com/entertainment/articles/1200_675_50_10-07-2026-1308_-20260710130809.jpg",
+      "published": "2026-07-10 04:54:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

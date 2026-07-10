@@ -1,35 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Meta Launches Muse Spark 1.1 to Challenge OpenAI and Anthropic in AI Coding Tools Race",
-      "description": "Meta launched Muse Spark 1.1 on Thursday, an agentic AI model for coding priced at $1.25 per million input tokens to compete directly with Anthropic and OpenAI. Mark Zuckerberg posted on X for the first time in three years to announce the launch.",
-      "link": "https://easternherald.com/2026/07/10/meta-muse-spark-ai-coding-openai-anthropic/",
-      "source": "The Eastern Herald",
-      "image": "https://easternherald.com/wp-content/uploads/2026/07/meta-muse-spark-ai-coding-tool-launch.jpg",
-      "published": "2026-07-09 23:48:55",
-      "category": [
-        "technology",
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Defensive stocks to invest in if the AI bubble bursts",
-      "description": "The article highlights companies that could prove resilient if enthusiasm surrounding AI stocks fades. It examines sectors and businesses that may offer more stable earnings and downside protection during a technology market correction.... Article link",
-      "link": "https://www.opalesque.com/fullarticle/715401/Defensive_stocks_to_invest_in_if_the_AI540.html",
-      "source": "Opalesque",
-      "image": "https://www.opalesque.com/images/opalesque-small-logo-23.png",
-      "published": "2026-07-09 23:48:20",
+      "title": "Meta invests more than US$9.1 billion to build first Canadian artificial intelligence data center in Alberta",
+      "description": "Meta will invest US$9.1 billion to build its first Canadian AI data center in Alberta. The project includes a dedicated 932-megawatt natural gas power plant.",
+      "link": "https://completeaitraining.com/news/meta-invests-more-than-us91-billion-to-build-first-canadian/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/meta-invests-more-than-us-9-1-billion-to-build-first-canadian-artificial-intelli_2026-07-09.jpg",
+      "published": "2026-07-10 02:19:54",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Atlanta Uber, Lyft drivers rally against Waymo expansion, ask city leaders for limits",
+      "description": "Uber and Lyft drivers rallied in Atlanta, asking city leaders to slow Waymo's expansion, saying autonomous vehicles are cutting into their earnings.",
+      "link": "https://www.11alive.com/article/news/local/atlanta-uber-lyft-drivers-rally-against-waymo-expansion-ask-city-leaders-for-limits/85-5479514f-ae6b-46ac-9836-4a7668457ff6",
+      "source": "Alive",
+      "image": "https://media.tegna-media.com/assets/WXIA/images/b3498b9e-583b-482f-9eb1-dc1e899cf45f/20260710T013848/b3498b9e-583b-482f-9eb1-dc1e899cf45f_750x422.jpg",
+      "published": "2026-07-10 02:19:53",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "georgia"
+      ]
+    },
+    {
+      "title": "Bowers & Wilkins Launches Flagship 707 Prestige Edition In Australia",
+      "description": "Bowers & Wilkins has launched its new 707 Prestige Edition bookshelf loudspeaker in Australia, positioning it as the flagship compact model in the company\u2019s 700 Series range. Priced at $3,199 a pair, the new model builds on the existing 707 S3 platform while borrowing selected components from the higher-end 705 S3 Signature. The two-way, vented-box... The post Bowers & Wilkins Launches Flagship 707 Prestige Edition In Australia first appeared on SmartHouse .",
+      "link": "https://www.smarthouse.com.au/bowers-wilkins-launches-flagship-707-prestige-edition-in-australia/",
+      "source": "Smarthouse",
+      "image": "https://www.smarthouse.com.au/wp-content/uploads/2026/07/output.auto-20.jpg",
+      "published": "2026-07-10 02:19:51",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

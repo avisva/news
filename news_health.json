@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Sri Lanka ramps up dengue battle with mosquito control drive",
-      "description": "Sri Lanka has recorded more than 56,422 dengue cases from January to July, adding pressure to the country\u2019s healthcare system as the caseload continues to increase.",
-      "link": "https://www.eco-business.com/news/sri-lanka-ramps-up-dengue-battle-with-mosquito-control-drive/",
-      "source": "Eco-business",
-      "image": "https://eco-business.imgix.net/ebmedia/fileuploads/2594391633_67c4b67c97_k.jpg?fit=crop&h=960&ixlib=django-1.2.0&w=1440",
-      "published": "2026-07-09 23:48:21",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "singapore"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Federal judge orders Wilmington to redo key ordinances tied to Amazon's $4 billion data center project",
+      "description": "A judge ordered the city of Wilmington to redo key ordinances tied to a proposed Amazon data center after homeowners argued they were not properly notified before the measures were passed.",
+      "link": "https://www.wcpo.com/news/local-news/federal-judge-orders-wilmington-to-redo-key-ordinances-tied-to-amazons-4-billion-data-center-project",
+      "source": "Wcpo",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/b4d3f51/2147483647/strip/true/crop/2530x1328+0+46/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F38%2F28%2Fb057742d4814ae7fc43cb574ff12%2Fwilmington-ohio-data-center-location.jpg",
+      "published": "2026-07-11 02:49:48",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

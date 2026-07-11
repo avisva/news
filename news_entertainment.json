@@ -1,48 +1,34 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "I tested Zoflora vs Pink Stuff on my bathroom sink \u2013 one made it shine and smell incredible",
-      "description": "I put two of the nation's most popular budget bathroom cleaners to the test to see which one was superior - and there was a clear winner",
-      "link": "https://www.mirror.co.uk/lifestyle/tested-zoflora-vs-pink-stuff-37414611",
-      "source": "Mirror",
-      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37414547.ece/ALTERNATES/s615/0_IMG_3630.jpg",
-      "published": "2026-07-11 01:13:00",
+      "title": "Apple Music announces LADIPOE as July\u2019s featured artist for Rap Life Africa",
+      "description": "Apple Music\u2019s Rap Life Radio, presented by Global Editorial Head of Hip-Hop and R&B Ebro Darden, will feature acclaimed Nigerian rapper LADIPOE this month, as Ebro and Africa Now Radio host Nandi Madida discuss his latest single, \u201cMany People\u201d The post Apple Music announces LADIPOE as July\u2019s featured artist for Rap Life Africa appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/apple-music-announces-ladipoe-as-julys-featured-artist-for-rap-life-africa/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/schema-and-structured-data-for-wp/Ladipoe.jpg",
+      "published": "2026-07-11 02:50:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Rob Sy denies 'negative narrative' involving his son: 'Lubayan na nila ang anak ko'",
+      "description": "Rob Sy has denied the \"negative narrative\" surrounding his eight-year-old son amid his legal issues with Alfred Vargas and wife Yasmin.",
+      "link": "https://www.gmanetwork.com/news/showbiz/chikaminute/994510/rob-sy-denies-negative-narrative-involving-his-son-lubayan-na-nila-ang-anak-ko/story/",
+      "source": "Gma News Online",
+      "image": "https://images.gmanews.tv/webpics/2026/07/ROB_SY-2_2026_07_11_10_23_53.jpg",
+      "published": "2026-07-11 02:49:53",
       "category": [
         "entertainment"
       ],
       "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "I cleaned my bathroom sink with Zoflora and Pink Stuff \u2013 one smelled fresh for hours",
-      "description": "The two cheap, multipurpose cleaning products were put to the test to determine which one worked - and smelled - better.",
-      "link": "https://www.express.co.uk/life-style/property/2227653/cleaning-bathroom-sink-zoflora-pink",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/51/590x/2227653_1.jpg",
-      "published": "2026-07-11 01:13:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "'Love Island USA's' Jaiden shares exclusive details on her and Caleb",
-      "description": null,
-      "link": "https://www.azcentral.com/story/entertainment/television/2026/07/10/love-island-usa-jaiden/90882717007/",
-      "source": "The Arizona Republic",
-      "image": null,
-      "published": "2026-07-11 01:12:42",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "philippines"
       ]
     }
   ]

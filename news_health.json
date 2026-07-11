@@ -1,20 +1,48 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Quote of the day by Chris Pine: 'The only thing you sometimes have control over is... You don't have control over... But you have a choice about...' Life lessons on resilience, mental clarity, radical acceptance and emotional agility",
-      "description": "Quote of the day by Chris Pine highlights the importance of changing perspective instead of trying to control every situation. The quote explains how resilience, mental clarity, radical acceptance and emotional agility can help people deal with challenges. It also connects with the psychological idea of the locus of control, showing the difference between what people can control and what they cannot in everyday life.",
-      "link": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-chris-pine-the-only-thing-you-sometimes-have-control-over-is-you-dont-have-control-over-but-you-have-a-choice-about-life-lessons-on-resilience-mental-clarity-radical-acceptance-and-emotional-agility/articleshow/132320515.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-132320533,resizemode-4,width-1200,height-900,imgsize-172032,overlay-economictimes/articleshow.jpg",
-      "published": "2026-07-10 21:25:48",
+      "title": "British Red Cross shares key method to staying cool during heatwave",
+      "description": "The British Red Cross has shared heatwave sleep advice with temperatures in the UK set to soar",
+      "link": "https://www.express.co.uk/life-style/life/2226875/british-red-cross-shares-key",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/130/590x/2226875_1.jpg",
+      "published": "2026-07-10 23:02:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
+      "description": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records Newsday Former N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine People.com Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine New York Post She Sold Fake COVID Vaccine Cards, New York Just Added a $544K Penalty Yahoo Ex-nurse hit with record $544k fine over falsifying children's vaccination records WKEF",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-10 23:01:58",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Medicare\u2019s new approach to halting fraud is paying off",
+      "description": "Last year, we wrote in the Los Angeles Times that the Centers for Medicare and Medicaid Services was done chasing criminals after we\u2019d already handed them money. We said we were building something different \u2014 a prevention-first operation that would detect and stop fraud before the check cleared, not attempt to claw back lost funds years later. Skeptics had reason to doubt. Government agencies announce transformations all the time. The results usually don\u2019t follow. So here are the numbers: In fiscal year 2025, Medicare savings from the prevention of fraud, waste and abuse hit $42 billion \u2014 an almost 60%...",
+      "link": "https://freerepublic.com/focus/f-news/4387508/posts",
+      "source": "Freerepublic",
+      "image": null,
+      "published": "2026-07-10 23:01:49",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

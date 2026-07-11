@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "I tested Zoflora vs Pink Stuff on my bathroom sink \u2013 one made it shine and smell incredible",
+      "description": "I put two of the nation's most popular budget bathroom cleaners to the test to see which one was superior - and there was a clear winner",
+      "link": "https://www.mirror.co.uk/lifestyle/tested-zoflora-vs-pink-stuff-37414611",
+      "source": "Mirror",
+      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37414547.ece/ALTERNATES/s615/0_IMG_3630.jpg",
+      "published": "2026-07-11 01:13:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "I cleaned my bathroom sink with Zoflora and Pink Stuff \u2013 one smelled fresh for hours",
+      "description": "The two cheap, multipurpose cleaning products were put to the test to determine which one worked - and smelled - better.",
+      "link": "https://www.express.co.uk/life-style/property/2227653/cleaning-bathroom-sink-zoflora-pink",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/51/590x/2227653_1.jpg",
+      "published": "2026-07-11 01:13:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "'Love Island USA's' Jaiden shares exclusive details on her and Caleb",
+      "description": null,
+      "link": "https://www.azcentral.com/story/entertainment/television/2026/07/10/love-island-usa-jaiden/90882717007/",
+      "source": "The Arizona Republic",
+      "image": null,
+      "published": "2026-07-11 01:12:42",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

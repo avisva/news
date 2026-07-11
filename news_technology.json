@@ -1,50 +1,19 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 1,
   "results": [
     {
-      "title": "EU demands Facebook and Instagram dismantle design features it calls addictive for users",
-      "description": "The European Union is accusing Meta of breaching social media laws by designing Facebook and Instagram to be addictive. On Friday, the EU's executive arm demanded Meta disable features like infinite scrolling and autoplay by default. The charges are part...",
-      "link": "https://www.wyomingnews.com/news/from_the_wire/eu-demands-facebook-and-instagram-dismantle-design-features-it-calls-addictive-for-users/article_13a16979-faf1-5034-92bf-8e431a892165.html",
-      "source": "Wyoming Tribune Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/8/2f/82fe1fa9-3341-5fbf-b75e-044a0bd3b4b7/6a51424b4687e.image.jpg?resize=300%2C185",
-      "published": "2026-07-10 11:07:00",
+      "title": "iPhone 18 Pro Max: New Battery May Make It Apple\u2019s Heaviest in Years",
+      "description": "The iPhone 18 Pro Max could become thicker and heavier as Apple reportedly plans a larger battery and upgraded cooling system. The post iPhone 18 Pro Max: New Battery May Make It Apple\u2019s Heaviest in Years appeared first on TechRepublic .",
+      "link": "https://www.techrepublic.com/article/news-iphone-18-pro-max-larger-battery-weight/",
+      "source": "Techrepublic",
+      "image": "https://assets.techrepublic.com/uploads/2026/07/tr-07102026-iphone-18-pro-max.jpg?f=jpeg",
+      "published": "2026-07-10 14:26:59",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Xalgorix AI Penetration Testing Tool with 22-Phase Testing Methodology",
-      "description": "Xalgorix is an open-source, self-hosted AI penetration testing platform that uses an autonomous LLM agent paired with an independent exploit verifier to deliver proven, not just suspected, vulnerability findings. Most vulnerability scanners flag potential issues and leave security teams to... Read more \u2192 The post Xalgorix AI Penetration Testing Tool with 22-Phase Testing Methodology appeared first on IT Security News .",
-      "link": "https://www.itsecuritynews.info/xalgorix-ai-penetration-testing-tool-with-22-phase-testing-methodology/",
-      "source": "It Security News",
-      "image": null,
-      "published": "2026-07-10 11:07:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "EU tells Meta to change Facebook, Instagram\u2019s \u2018addictive design\u2019",
-      "description": "The European Union has in recent months stepped up its efforts to force Big Tech to better protect users online, especially children. The post EU tells Meta to change Facebook, Instagram\u2019s \u2018addictive design\u2019 appeared first on Vanguard News .",
-      "link": "https://www.vanguardngr.com/2026/07/eu-tells-meta-to-change-facebook-instagrams-addictive-design/",
-      "source": "Vanguard News",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/11/Meta-parent-company-of-Facebook-and-Instagram.webp",
-      "published": "2026-07-10 11:06:56",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "nigeria"
       ]
     }
   ]

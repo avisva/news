@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Quote of the day by Chris Pine: 'The only thing you sometimes have control over is... You don't have control over... But you have a choice about...' Life lessons on resilience, mental clarity, radical acceptance and emotional agility",
+      "description": "Quote of the day by Chris Pine highlights the importance of changing perspective instead of trying to control every situation. The quote explains how resilience, mental clarity, radical acceptance and emotional agility can help people deal with challenges. It also connects with the psychological idea of the locus of control, showing the difference between what people can control and what they cannot in everyday life.",
+      "link": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-chris-pine-the-only-thing-you-sometimes-have-control-over-is-you-dont-have-control-over-but-you-have-a-choice-about-life-lessons-on-resilience-mental-clarity-radical-acceptance-and-emotional-agility/articleshow/132320515.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132320533,resizemode-4,width-1200,height-900,imgsize-172032,overlay-economictimes/articleshow.jpg",
+      "published": "2026-07-10 21:25:48",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

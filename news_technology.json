@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Kia Is Thinking Outside the Box in America",
+      "description": "(TestMiles) - Kia Is Thinking Outside the Box in America with hybrids, SUVs, and family vehicles that match how U.S. shoppers actually live. Kia\u2019s recent success in America is not happening because the company found one magic vehicle. It is happening because Kia seems to understand something many automakers are still wrestling with: American buyers [...]",
+      "link": "https://www.nwahomepage.com/automotive/kia-is-thinking-outside-the-box-in-america/",
+      "source": "Knwa Fox24",
+      "image": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2026/07/24674_2027_KIA_TELLURIDE_NAMED_BEST_THREE-ROW_FAMILY_SUV_BY_THE_NORTHWEST.jpg?w=900",
+      "published": "2026-07-11 11:51:32",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

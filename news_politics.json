@@ -1,51 +1,66 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Chickens being raised at Punjab University\u2019s Electrical Engineering Dept",
-      "description": "The Punjab University is in the news again and it was revealed that chickens were being raised illegally in an official building of Electrical Engineering Department of the university, reported 24NewsHD TV channel on Saturday.",
-      "link": "https://www.24newshd.tv/11-Jul-2026/chickens-raised-punjab-university-s-electrical-engineering-dept",
-      "source": "24 News Hd",
-      "image": "https://www.24newshd.tv/digital_images/large/2026-07-11/chickens-raised-punjab-university-s-electrical-engineering-dept-1783766547-2145.jpg",
-      "published": "2026-07-11 10:43:00",
-      "category": [
-        "politics",
-        "top",
-        "crime"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Judge tosses remnants of Proud Boys seditious conspiracy case after Trump\u2019s broad clemency",
-      "description": "The judge stressed that his order should not be mistaken as an endorsement of the Department of Justice\u2019s decision to abandon the case.",
-      "link": "https://www.pressdemocrat.com/2026/07/11/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency/",
-      "source": "The Press Democrat",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Capitol_Riot_Seditious_Conspiracy_27597.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-11 10:42:46",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Punjab Congress rival faction meets Baghel, sticks to demand for Warring\u2019s replacement",
-      "description": "Chandigarh, July 11 (SocialNews.XYZ) A long-awaited meeting was held on Saturday between the rival Punjab Congress faction led by former Chief Minister Charanjit Singh Channi, comprising several sitting and former lawmakers, and the party\u2019s general... The post Punjab Congress rival faction meets Baghel, sticks to demand for Warring\u2019s replacement appeared first on Social News XYZ .",
-      "link": "https://www.socialnews.xyz/2026/07/11/punjab-congress-rival-faction-meets-baghel-sticks-to-demand-for-warrings-replacement/",
-      "source": "Social News Xyz",
-      "image": null,
-      "published": "2026-07-11 10:42:25",
+      "title": "NC doesn\u2019t need me anymore: Aga Ruhullah distances himself from statehood protest",
+      "description": "Umaisar Gul Ganai Kulgam, July 11: National Conference Member of Parliament Aga Syed Ruhullah Mehdi on Saturday said the party \u201cdoesn\u2019t need\u201d him anymore, saying he was neither invited nor present at the party convention. He also distanced himself from the party\u2019s Jantar Mantar protest on statehood. Speaking to reporters in Kulgam, Ruhullah, per news [...]",
+      "link": "https://roshankashmir.net/2026/07/11/nc-doesnt-need-me-anymore-aga-ruhullah-distances-himself-from-statehood-protest/",
+      "source": "Roshan Kashmir",
+      "image": "https://i0.wp.com/roshankashmir.net/wp-content/uploads/2025/11/IMG_20251127_144617.jpg",
+      "published": "2026-07-11 11:51:47",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Alausa hails Tinubu, security forces over rescue of abducted Oyo pupils, teachers",
+      "description": "Alausa congratulated President Tinubu on what he described as an important achievement, applauding the President's leadership and determination to ensure that every available resource was deployed until the abducted pupils and teachers regained their freedom. The post Alausa hails Tinubu, security forces over rescue of abducted Oyo pupils, teachers appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/07/alausa-hails-tinubu-security-forces-over-rescue-of-abducted-oyo-pupils-teachers/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/12/Education-Minister-Dr-Tunji-Alausa.jpg",
+      "published": "2026-07-11 11:51:44",
+      "category": [
+        "politics",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "A Devil's Bargain Foretold",
+      "description": "Praful Bidwai\u2019s 2015 Kashmir Times column, republished as an archival note, dissects why a PDP-BJP alliance in Jammu and Kashmir was structurally doomed from inception. He argues that the \u201cgrand embrace\u201d would deepen communal polarisation, erode the PDP\u2019s Valley-centric identity, and hand Narendra Modi a cost-free strategic victory. Bidwai details the sharply divergent electoral mandates, ideological incompatibilities over Article 370, AFSPA and Pakistan, and warns that Kashmiris would see such a coalition as capitulation to a hostile Hindutva project. In retrospect, his predictions about the PDP\u2019s rout, abrogation of special status and loss of statehood read like a chillingly accurate document of record.",
+      "link": "https://kashmirtimes.com/archives/curated-archives/a-devils-bargain-foretold",
+      "source": "Kashmir Times",
+      "image": "https://media.assettype.com/kashmirtimes/2025-01-07/p9p5zoo5/Map-of-JK-as-two-UTs-of-JK.jpg",
+      "published": "2026-07-11 11:51:34",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Leader vows to avenge martyr Ayatollah Khamenei\u2019s blood",
+      "description": "Tehran, IRNA \u2013 Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei has pledged to avenge the killing of Martyr Ayatollah Seyyed Ali Khamenei after thanking people for their massive participation in the funeral procession and burial ceremony of the martyred Leader last week.",
+      "link": "https://en.irna.ir/photo/86206352/Leader-vows-to-avenge-martyr-Ayatollah-Khamenei-s-blood",
+      "source": "Irna English",
+      "image": "https://img9.irna.ir/d/r2/2026/07/11/4/172975896.jpg",
+      "published": "2026-07-11 11:51:27",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "iran"
       ]
     }
   ]

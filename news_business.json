@@ -1,34 +1,51 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Shapoorji Refinancing kickoff eases investor debt concerns",
-      "description": "Separately, the group raised $650 million through a three-year dollar bond on Friday at a yield of 14.5%, other people said",
-      "link": "https://www.thehindubusinessline.com/markets/shapoorji-refinancing-kickoff-eases-investor-debt-concerns/article71209373.ece",
-      "source": "The Hindu - Business Line",
-      "image": "https://bl-i.thgim.com/public/incoming/c88hwz/article71209409.ece/alternates/LANDSCAPE_1200/PO25_Stacking_coins_chart.jpg",
-      "published": "2026-07-11 04:54:33",
+      "title": "Minister Vivek outlines govt\u2019s vision for a skilled Telangana",
+      "description": "Telangana\u2019s government is aggressively expanding global career prospects for its youth through the Foreign Employment Mega Job Mela. With a strategic focus on overseas placements in Germany and beyond, and the establishment of 120 Advanced Technology Centres (ATCs) powered by Tata Group support, the state is transforming into a hub for skilled manpower. Explore how these initiatives are creating high-value jobs and driving Telangana toward a $3-trillion economy.",
+      "link": "https://www.thehansindia.com/news/cities/warangal/minister-vivek-outlines-govts-vision-for-a-skilled-telangana-1096290",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/11/1676371-vivek.webp",
+      "published": "2026-07-11 05:52:39",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Bersatu still strong despite Perlis MB's resignation, says Muhyiddin",
-      "description": "MUAR: Bersatu remains strong despite the resignation of Perlis Menteri Besar Abu Bakar Hamzah and several of state leaders leaving the party, said its president Tan Sri Muhyiddin Yassin.",
-      "link": "https://www.nst.com.my/news/nation/2026/07/1485936/bersatu-still-strong-despite-perlis-mbs-resignation-says-muhyiddin",
-      "source": "New Straits Times",
-      "image": "https://assets.nst.com.my/images/listing-featured/A8674B010935B753190A8B5CA0D741FA_data_0.jpg",
-      "published": "2026-07-11 04:54:19",
+      "title": "Burial space shortage deepens in Istanbul as central cemeteries fill up",
+      "description": "Istanbul, the sprawling megacity of more than 15 million residents, is grappling with a growing cemetery space shortage as its densely populated urban core runs out of burial capacity, local media reported on July 10.",
+      "link": "https://www.hurriyetdailynews.com/burial-space-shortage-deepens-in-istanbul-as-central-cemeteries-fill-up-224247",
+      "source": "Turkish News",
+      "image": "https://image.hurimg.com/i/hurriyet/75/650x400/6a51da24882d575f4bab8e64.jpg",
+      "published": "2026-07-11 05:52:38",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "malaysia"
+        "turkey"
+      ]
+    },
+    {
+      "title": "What is it like living near the site of a new nuclear power station?",
+      "description": "Satellite images show how work on Sizewell C has transformed the landscape. What do neighbours say?",
+      "link": "https://www.bbc.co.uk/news/articles/c0lyj21jrxeo",
+      "source": "The Bbc",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/814b/live/cd902e10-7c67-11f1-bee8-53ce494e1abc.jpg",
+      "published": "2026-07-11 05:52:30",
+      "category": [
+        "top",
+        "business",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

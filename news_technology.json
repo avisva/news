@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "INS Mahendragiri joins Indian Navy, brings stealth, BrahMos punch to fleet",
+      "description": "Equipped with long-range missiles, torpedoes & electronic warfare systems, the warship expands India's maritime deterrence",
+      "link": "https://assamtribune.com/national/ins-mahendragiri-joins-indian-navy-brings-stealth-brahmos-punch-to-fleet-1614136",
+      "source": "The Assam Tribune",
+      "image": "https://assamtribune.com/h-upload/2026/07/11/1789501-ins-mahendragiri.webp",
+      "published": "2026-07-11 08:07:42",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

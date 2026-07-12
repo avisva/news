@@ -1,5 +1,23 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "4 Weird Gadgets & Electronics At Costco That Actually Serve A Practical Purpose",
+      "description": "Members-only warehouse retailer Costco carries all manner of odd gadgets and electronics, some of which might leave you scratching your head in confusion.",
+      "link": "https://www.slashgear.com/2209440/weird-costco-tools-gadgets-practical-purpose/",
+      "source": "Slashgear",
+      "image": "https://www.slashgear.com/img/gallery/4-weird-gadgets-electronics-at-costco-that-actually-serve-a-practical-purpose/l-intro-1783341599.jpg",
+      "published": "2026-07-11 20:15:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "singapore",
+        "united kingdom",
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Armagh astronomer secures grant to investigate how first stars lit up universe",
+      "description": "The funding will create up to eight new research positions over the course of the project.",
+      "link": "https://www.belfastlive.co.uk/news/northern-ireland/armagh-astronomer-secures-grant-investigate-34277997",
+      "source": "Belfastlive",
+      "image": "https://i2-prod.belfastlive.co.uk/news/article34277996.ece/ALTERNATES/s615/1_Undated-handout-photo-of-Church-of-Ireland-Archbishop-of-Armagh-and-Primate-of-All-Ireland-The-Most-Reverend-John.jpg",
+      "published": "2026-07-12 10:43:18",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

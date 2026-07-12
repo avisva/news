@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Long Before Chrysler's Hot Rod Jeeps, AMC Stuffed V8s In CJs, Wagoneers, And More",
-      "description": "V8-powered Jeeps like the Grand Cherokee Limited made a splash starting in 1998, but Jeeps actually were using V8 engines over three decades earlier.",
-      "link": "https://www.jalopnik.com/2210552/chrysler-hot-rod-jeeps-amc-v8-cj-wagoneer-and-more/",
-      "source": "Jalopnik",
-      "image": "https://www.jalopnik.com/img/gallery/long-before-chryslers-hot-rod-jeeps-amc-stuffed-v8s-in-cjs-wagoneers-and-more/l-intro-1783524150.jpg",
-      "published": "2026-07-11 22:25:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Orienspace Readies Gravity-1 for First Commercial Satellite Cluster Launch",
-      "description": "Gravity-1 rocket launch marks Orienspace's first commercial mission as China's largest solid-fuel orbital vehicle targets a Yellow Sea barge liftoff no earlier than July 12, aiming to deploy approximately 30 satellites for a single constellation customer, in a milestone test of sea-launched solid-propellant batch delivery.",
-      "link": "https://www.techtimes.com/articles/320178/20260711/orienspace-readies-gravity-1-first-commercial-satellite-cluster-launch.htm",
-      "source": "Techtimes",
-      "image": "https://d.techtimes.com/en/full/468510/orienspace-launch.jpg",
-      "published": "2026-07-11 22:24:44",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

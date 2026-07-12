@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "KP, Gates Foundation reaffirm partnership to advance polio eradication",
+      "description": "Peshawar - Khyber Pakhtunkhwa Minister for Health Khaleeq ur Rehman on Saturday reaffirmed the provincial government\u2019s commitment to eradicating polio during a meeting with a high-level delegation from the Gates Foundation, which focused on expanding cooperation in immunisation and public health.",
+      "link": "https://www.nation.com.pk/12-Jul-2026/kp-gates-foundation-reaffirm-partnership-advance-polio-eradication",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-07-12 05:02:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Former soccer players show brain changes but no cognitive decline, researchers find",
+      "description": "The study, by researchers at Imperial College London, included 142 former players aged between 30 and 60 and compared them to 56 similarly aged healthy people with no history of contact sports.",
+      "link": "https://www.jpost.com/health-and-wellness/article-902187",
+      "source": "Jpost",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729408",
+      "published": "2026-07-12 05:01:44",
+      "category": [
+        "health",
+        "science"
+      ],
+      "country": [
+        "israel"
+      ]
+    },
+    {
+      "title": "The component linked to anxiety is found in every fruit",
+      "description": "Fructose is naturally found in fruits and vegetables, and a new study suggests that when part of it is not digested properly, it can affect not only the stomach, but also the brain.",
+      "link": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-901480",
+      "source": "Jpost",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728395",
+      "published": "2026-07-12 05:01:44",
+      "category": [
+        "health",
+        "science"
+      ],
+      "country": [
+        "israel"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Government intensifies maternal deaths campaign, emergency care training",
+      "description": "Deputy Minister of Health announced that under the government's Free Primary Health Care initiative, community health workers equipped with mobile health backpacks would regularly visit homes and communities to provide essential maternal and child healthcare services.",
+      "link": "https://3news.com/news/government-intensifies-maternal-deaths-campaign-emergency-care-training",
+      "source": "3news",
+      "image": "https://media.3news.com/health%201-1200x801.webp",
+      "published": "2026-07-13 06:41:36",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "ghana"
+      ]
+    }
+  ]
 }

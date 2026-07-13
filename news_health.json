@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "HIV cases rising in Sri Lanka; Colombo, Gampaha record highest numbers",
-      "description": "HIV infections are on the rise in Sri Lanka, with Colombo and Gampaha reporting the highest number of cases, Consultant Community Physician Dr. Sathya Herath said.",
-      "link": "https://www.dailymirror.lk/breaking-news/HIV-cases-rising-in-Sri-Lanka;-Colombo--Gampaha-record-highest-numbers/108-345514",
-      "source": "Daily Mirror",
-      "image": null,
-      "published": "2026-07-13 09:54:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "sri lanka"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

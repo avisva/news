@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner - Kotaku",
+      "description": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVBQUDNLamVKSU45LXhGWUcybVJOQk1iUEV4WTliNVk0dS14Z0lFcmd6ZkFCdTZDanA3RzFpdkxCMVpUVkdrTEhKVnpRMHdqdkdNVWFFY2hKNktUcnRFVmUxbExPNFRXR1pPS0l6akRSOXI3RlUyN2FUWmJ5T0RQQ1JIOE1JbzVkU2R2SklKcC1TbXlzS1E?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-12 22:22:09",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Claude Code\u2019s Token Tax: Why One AI Coding Tool Burns 4.7 Times More Before You Even Start",
+      "description": "Claude Code sends 33k tokens before reading your prompt. OpenCode uses 7k. New measurements show how baselines, subagents, and MCP servers drive real costs in agentic coding. The lighter tool doesn't always win the session. Teams must weigh flexibility against speed and autonomy.",
+      "link": "https://www.webpronews.com/claude-codes-token-tax-why-one-ai-coding-tool-burns-4-7-times-more-before-you-even-start/",
+      "source": "Webpronews",
+      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21087-1783891823.jpeg",
+      "published": "2026-07-12 22:22:07",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

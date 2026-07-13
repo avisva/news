@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Sen. Mitch McConnell releases health update after hospitalization",
+      "description": "A long-awaited response from Sen. Mitch McConnell has been released about his recent health scare.",
+      "link": "https://katv.com/news/nation-world/statement-from-sen-mitch-mcconnell-regarding-health-announces-retirement",
+      "source": "Katv",
+      "image": "https://katv.com/resources/media2/16x9/713/1320/0x21/90/bc55fd74-a17b-4b7c-87c4-308dd5077f77-99640803531241fe8f2ab173867ce248.jpg",
+      "published": "2026-07-12 22:22:50",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,64 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Mercedes-AMG E 53 PHEV India Launch on July 23 With Over 100km EV Range",
+      "description": "Mercedes-Benz is set to introduce the AMG E 53 HYBRID 4MATIC+ in India on July 23, reviving the E 53 sedan with a plug-in hybrid system offering over 100km of electric-only range.",
+      "link": "https://www.timesnownews.com/auto/car-news/mercedes-amg-e-53-phev-india-launch-on-july-23-with-over-100km-ev-range-article-155080539",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155080601,thumbsize-31478,width-1280,height-720,resizemode-75/155080601.jpg",
+      "published": "2026-07-12 14:34:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "M7 Ultra to potentially feature up to 1.5TB of RAM, finally matching 2019 Mac Pro: report - 9to5Mac",
+      "description": "M7 Ultra to potentially feature up to 1.5TB of RAM, finally matching 2019 Mac Pro: report 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXBWZGctd3V3VVhSQ2FJSDJyZDRZdGkzWWtLXy1uaGhpUWh6LXRNd1hQalBfWTViYWNKRHNJSHpQVjh4c1piM0h2UmRGanFTV3l3S3NCNnoxQy1KaTduMmFKajJ0V29hdTk3N0dDVWJCa3lmcDgxdVJUeVpBT2gwZDJUNU9fRVdsYnVDOGlYdHJXX3RW?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-12 14:34:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Google releases healthcare AI search report showing impressions but no click or outcome data",
+      "description": "Google's June 3 AI report tracks impressions but zero clicks, creating clinical risks for health systems. Providers cannot measure if AI answers drive patient appointments.",
+      "link": "https://completeaitraining.com/news/google-releases-healthcare-ai-search-report-showing/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/google-releases-healthcare-ai-search-report-showing-impressions-but-no-click-or_2026-07-12.jpg",
+      "published": "2026-07-12 14:33:55",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The great wipeout: Nvidia lost $1 trillion within two months",
+      "description": "Nvidia recorded a 16% drop from its peak to its lowest level since 2019. But still, do not count it out, because its business performance is at a peak. So where did the investors' money disappear?",
+      "link": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-902249",
+      "source": "Jpost",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729533",
+      "published": "2026-07-12 14:33:47",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "israel"
+      ]
+    }
+  ]
 }

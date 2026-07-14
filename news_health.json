@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "What injured athletes can teach us about recovery and resilience",
+      "description": "FLAGSTAFF, Ariz. (AP) \u2014 Serious injuries and medical conditions disrupt people's daily routines and can impact their confidence and sense of identity. Elite athletes know the challenges from an injury that sidelines them from their sport, requires physical rehabilitation and leaves their ability to return to competition in doubt.",
+      "link": "https://www.winnipegfreepress.com/arts-and-life/life/2026/07/13/what-injured-athletes-can-teach-us-about-recovery-and-resilience",
+      "source": "Winnipeg Free Press",
+      "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/07/6a55b70397b58a6d58fcfbc0jpeg.jpg?w=1600",
+      "published": "2026-07-14 04:11:51",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

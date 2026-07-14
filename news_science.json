@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Improving law enforcement officer training",
+      "description": "Georgia Southern University researchers in the Waters College of Health Professions are helping law enforcement officer training by making the process safer, more effective and better aligned with the demands of the industry.",
+      "link": "https://www.statesboroherald.com/local/improving-law-enforcement-officer-training/",
+      "source": "Statesboroherald",
+      "image": "https://statesboroherald.cdn-anvilcms.net/media/images/2026/07/14/images/GS_Dogs.max-540x540.jpg",
+      "published": "2026-07-14 04:11:57",
+      "category": [
+        "politics",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

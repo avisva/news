@@ -1,46 +1,151 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 17,
   "results": [
     {
-      "title": "Challenger CGF: Why Is It Back in the Retirement Income Debate?",
-      "description": "Challenger stays in focus as annuity demand, rates and longevity planning shape Australia\u2019s retirement income debate.",
-      "link": "https://kalkinemedia.com/au/stocks/retirement-planning/challenger-cgf-why-is-it-back-in-the-retirement-income-debate",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2411418549_01_06_2025_11_28_17_573553.jpg",
-      "published": "2026-07-14 04:12:00",
+      "title": "Greece launches digital university examination system",
+      "description": "Thousands of AUTH students in Greece now complete secure digital examinations using dedicated tablets.",
+      "link": "https://dig.watch/updates/greece-digital-university-examination-system",
+      "source": "Digital Watch Observatory",
+      "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/Greece-university-digital-exam.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "switzerland"
+      ]
+    },
+    {
+      "title": "Efecto Haaland, solo falta la peli\u0301cula",
+      "description": null,
+      "link": "https://www.vanguardia.com/opinion/caricaturas/2026/07/14/efecto-haaland-solo-falta-la-pelicula/",
+      "source": "Vanguardia",
+      "image": "https://www.vanguardia.com/resizer/v2/4QLKYRPPDJABFL6DTY5NSYIFJ4.jpg?auth=90ec8b061a8b604952734462deb0c49755dbc0894cb557708b4c48209141719d&smart=true&width=1200&height=800",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "colombia"
+      ]
+    },
+    {
+      "title": "Annual Member Picnic",
+      "description": "MONGAUP VALLEY, NY -- Sullivan County Audubon Society, 5pm, 53 Plank Rd. Rain date Aug. 1, RSVP Gloria 845/747-9454.",
+      "link": "https://www.riverreporter.com/stories/annual-member-picnic,268087",
+      "source": "The River Reporter",
+      "image": "https://alpha.creativecirclecdn.com/riverreporter/large/20220310-132852-scaslogo.png.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trail Stewards in Action",
+      "description": "LAKE ARIEL, PA -- 10am-noon, and noon-2pm, \"Trail Safety,\" Lacawac Sanctuary Foundation, 94 Sanctuary Rd. Register facebook.com/Lacawac.",
+      "link": "https://www.riverreporter.com/stories/trail-stewards-in-action,268086",
+      "source": "The River Reporter",
+      "image": "https://alpha.creativecirclecdn.com/riverreporter/large/20260714-095354-f4b-TrailStewards%20LSFS.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Singapore\u2019s ESG loan proceeds fall 41.2% in 2025: MAS",
+      "description": "Nonethless, the Republic continues to be Asean\u2019s largest market for labelled debt issuance",
+      "link": "https://www.businesstimes.com.sg/esg/singapores-esg-loan-proceeds-fall-41-2-2025-mas",
+      "source": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/6110443810acc0264423a37e78f962274a5a5fbd28859c245d2ccc29cff026a3",
+      "published": "2026-07-14 06:00:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "australia"
+        "singapore"
       ]
     },
     {
-      "title": "US attacks Iran and Tehran retaliates across the Middle East as both vie for control of strait",
-      "description": "DUBAI, United Arab Emirates (AP) \u2014 The U.S. launched strikes on Iran early Tuesday morning, hours after President Donald Trump said Washington is \u201creinstating\u201d a blockade on Iran in the Strait of Hormuz .",
-      "link": "https://www.stalbertgazette.com/national-business/us-attacks-iran-and-tehran-retaliates-across-the-middle-east-as-both-vie-for-control-of-strait-12544256",
-      "source": "St. Albert News",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/07/e1674f4b52022e349e9a49d826ebccca3a9b3bd630e5cbef6ae27e08bf827f76.jpg",
-      "published": "2026-07-14 04:11:55",
+      "title": "World of Butterflies",
+      "description": "LAKE ARIEL, PA -- 6-7:30pm, Lacawac Sanctuary Foundation, 94 Sanctuary Rd. Register facebook.com/Lacawac.",
+      "link": "https://www.riverreporter.com/stories/world-of-butterflies,268085",
+      "source": "The River Reporter",
+      "image": "https://alpha.creativecirclecdn.com/riverreporter/large/20260714-095031-61a-WorldofButterflies%20LSFS.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Colorado fires forcing race directors to rethink summer events; As public lands, parks, lakes and rivers close due to fires and drought, organizers cancel Colorado\u2019s iconic Ouray 100 and Leadville\u2019s Silver Rush races while the Hardrock 100 remains intact",
+      "description": null,
+      "link": "https://www.deltacountyindependent.com/news/colorado-fires-forcing-race-directors-to-rethink-summer-events-as-public-lands-parks-lakes-and/article_c211e53d-7ff0-575b-aa0b-6330aea9a541.html",
+      "source": "Delta County Independent",
+      "image": "https://bloximages.chicago2.vip.townnews.com/deltacountyindependent.com/content/tncms/assets/v3/editorial/3/e0/3e0855d4-7323-56dc-8786-e761392ecebc/6a554d9a06d1f.image.png?resize=300%2C201",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mesa County election results included vital boost for GOP gubernatorial winner Marx",
+      "description": "Minister and activist Victor Marx narrowly won the Republican nomination for Colorado governor this summer, edging State Sen. Barbara Kirkmeyer by fewer than 2,000 votes.",
+      "link": "https://www.deltacountyindependent.com/news/mesa-county-election-results-included-vital-boost-for-gop-gubernatorial-winner-marx/article_c93bdf56-36c2-5ba0-9159-661fd8d127e4.html",
+      "source": "Delta County Independent",
+      "image": "https://bloximages.chicago2.vip.townnews.com/deltacountyindependent.com/content/tncms/assets/v3/editorial/5/58/558cd813-d756-5f3b-a3e6-83391bfcd6ae/6a554f8fa413b.image.png?resize=300%2C188",
+      "published": "2026-07-14 06:00:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     },
     {
-      "title": "US CENTCOM Strikes Bushehr And Bandar As Iran Conflict Raises Fears Of Wider Regional War | News18",
-      "description": "| The U.S. Central Command (CENTCOM) says American forces have struck key military sites in Iran's Bushehr and Bandar regions, marking another major escalation in the conflict. With the Strait of Hormuz remaining a critical flashpoint for global shipping and energy supplies, fears are growing that the confrontation could expand into a wider regional crisis. Watch the full report for the latest military developments, geopolitical analysis, and international reactions. n18oc_breaking-news News18 Mobile App - https://onelink.to/desc-youtube",
-      "link": "https://www.news18.com/videos/breaking-news/us-centcom-strikes-bushehr-and-bandar-as-iran-conflict-raises-fears-of-wider-regional-war-news18-10210098.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/07/1784013196_9e096868-850d-498b-9e36-e11e4189338c-1200x720.jpeg",
-      "published": "2026-07-14 04:11:52",
+      "title": "Victor Marx wins Republican nomination for Colorado governor; Race called 9 days after June 30 primary election with Marx in narrow lead over Barbara Kirkmeyer",
+      "description": "First-time candidate Victor Marx won the Republican nomination in the race for Colorado governor, edging out state Sen. Barbara Kirkmeyer.",
+      "link": "https://www.deltacountyindependent.com/news/victor-marx-wins-republican-nomination-for-colorado-governor-race-called-9-days-after-june-30/article_cbd0ea33-72b7-5ca3-8c12-e700cea0da0b.html",
+      "source": "Delta County Independent",
+      "image": "https://bloximages.chicago2.vip.townnews.com/deltacountyindependent.com/content/tncms/assets/v3/editorial/5/8a/58a04a41-35b4-5ff8-ab47-8a781b9a160a/6a554ee8e1b41.image.png?resize=300%2C221",
+      "published": "2026-07-14 06:00:00",
       "category": [
         "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Erling Haaland Home-Returning Airport Look Is All Charts Luxury; Carries Swanky Dolce & Gabbana Sicily Tote & NYC Racoon Souvenir Worth \u20b972K",
+      "description": "Norwegian football sensation Erling Haaland made a stylish return home after the FIFA World Cup, landing in Oslo on Monday, July 13, with an airport look that perfectly blended effortless fashion & luxury accessories. While fans were quick to admire his relaxed travel style, it was the unusual souvenir tucked under his arm that became the biggest talking point online.",
+      "link": "https://www.freepressjournal.in/lifestyle/erling-haaland-home-returning-airport-look-is-all-charts-luxury-carries-swanky-dolce-gabbana-sicily-tote-nyc-racoon-souvenir-worth-72k",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-14/3m0gxahl/Rutunjay-2026-07-14T105854.556.png",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "lifestyle",
         "top"
       ],
       "country": [
@@ -48,18 +153,108 @@
       ]
     },
     {
-      "title": "What injured athletes can teach us about recovery and resilience",
-      "description": "FLAGSTAFF, Ariz. (AP) \u2014 Serious injuries and medical conditions disrupt people's daily routines and can impact their confidence and sense of identity. Elite athletes know the challenges from an injury that sidelines them from their sport, requires physical rehabilitation and leaves their ability to return to competition in doubt.",
-      "link": "https://www.winnipegfreepress.com/arts-and-life/life/2026/07/13/what-injured-athletes-can-teach-us-about-recovery-and-resilience",
-      "source": "Winnipeg Free Press",
-      "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/07/6a55b70397b58a6d58fcfbc0jpeg.jpg?w=1600",
-      "published": "2026-07-14 04:11:51",
+      "title": "Pauline Hanson imports a monoculture war",
+      "description": "Pauline Hanson's latest overseas tour exposes the irony of a movement that rails against foreign influence while importing its politics almost wholesale, writesWayne Hawkins. LAST WEEK, SenatorPauline Hansontook a trip. Hanson flew to London and recorded a podcast withTommy Robinson, the British activist whose recent interview withKarl Stefanovicended a 30-year career at Nine. She is booked to speak atCPAC",
+      "link": "http://www.australianherald.com/news/279186072/pauline-hanson-imports-a-monoculture-war",
+      "source": "Australian Herald",
+      "image": "https://image.chitra.live/api/v1/wps/10b6fe3/a034aec0-a382-42e2-acb8-802829c4f4d7/0/MzAzM2RiMTItN2V-600x315.jpg",
+      "published": "2026-07-14 06:00:00",
       "category": [
-        "top",
-        "health"
+        "politics",
+        "top"
       ],
       "country": [
-        "canada"
+        "australia"
+      ]
+    },
+    {
+      "title": "Climate change stokes shark bites Down Under",
+      "description": "Rainfall and warming temperatures bring the fish to shore",
+      "link": "https://theweek.com/environment/shark-bites-australia-climate-change-more-attacks",
+      "source": "The Week",
+      "image": "https://cdn.mos.cms.futurecdn.net/cAJyQRjECTR7cfSTYVPvUc-1280-80.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "'I thought I was going to die': accused scooter killer relives fatal confrontation",
+      "description": "'He was aiming for my head with an axe', Kane Flanders said.",
+      "link": "https://www.dungogchronicle.com.au/story/9310451/kane-flanders-accused-murderer-claims-self-defence-in-axe-attack/?src=rss",
+      "source": "Dungog Chronicle",
+      "image": "https://www.dungogchronicle.com.au/images/transform/v1/crop/frm/v6ZqFubQfSczSV22Th78nc/6dae47b9-b426-40a0-9133-ca7b14ed3abd.jpg/r2_0_1198_674_w600_h338_fmax.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Video surfaces of councillor Christine Fletcher accusing Mayor Wayne Brown of swearing at meeting",
+      "description": "The mayor said robust debate was an inevitable part of representing Aucklanders.",
+      "link": "https://www.nzherald.co.nz/nz/auckland/video-surfaces-of-councillor-christine-fletcher-accusing-mayor-wayne-brown-of-swearing-at-meeting/BKYKPTH635ANXPEFTO5W6MDOQA/",
+      "source": "Nzherald",
+      "image": "https://www.nzherald.co.nz/resizer/v2/VXWRT6ZSXFCW5CDEZI3VSC2SOU.jpg?auth=77ce6368d0bf54b178d4b990d49f3a2c0eb886d71b50a54dfe0d69fad939cbc9&smart=true&width=300&height=300",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Formula 1 will race with less power than Formula 2 at Spa",
+      "description": "Spa is up next on the Formula 1 calendar, and caution is warranted as a painful experience awaits us thanks to the woeful 2026 V6 hybrid power units.",
+      "link": "https://www.grandprix247.com/formula-1-news/formula-1-will-race-with-less-power-than-formula-2-at-spa",
+      "source": "Grand Prix 247",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgrandprix247.com%2Fimages%2F2025-07%2Fqualifying-f1-spa-racing-bulls.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "\u2018All hell broke loose\u2019: Herbert reveals toll of LIV Golf uncertainty, says he considered quitting",
+      "description": "Ahead of this week\u2019s Open Championships at Royal Birkdale, Australian golfer Lucas Herbert has opened up on a tumultuous year on the LIV Golf circuit.",
+      "link": "https://www.brisbanetimes.com.au/sport/golf/all-hell-broke-loose-herbert-reveals-toll-of-liv-golf-uncertainty-says-he-considered-quitting-20260714-p60f8c.html",
+      "source": "Brisbane Times",
+      "image": "https://static.ffx.io/images/$zoom_0.2536%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_157%2C$y_0/t_crop_custom/q_86%2Cf_auto/da44f796615214235dfdc371b9bf992621c21b79",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Kayaker killed in horror crocodile attack as friends filmed helplessly",
+      "description": "Hendri Coetzee was dragged from his kayak by a crocodile on the Lukuga River in the Democratic Republic of the Congo as his two friends looked on in horror",
+      "link": "https://www.examinerlive.co.uk/news/uk-world-news/kayaker-killed-horror-crocodile-attack-34258651",
+      "source": "Yorkshirelive",
+      "image": "https://i2-prod.examinerlive.co.uk/news/article34258649.ece/ALTERNATES/s615/0_Screenshot-2022-07-20-at-091228.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

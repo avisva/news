@@ -1,19 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Jericho Rosales meets Matt Damon, 'The Odyssey' stars in India",
-      "description": "Jericho Rosales had a heartwarming meltdown after getting an autograph from Matt Damon.",
-      "link": "https://www.philstar.com/entertainment/2026/07/14/2542085/jericho-rosales-meets-matt-damon-the-odyssey-stars-india",
-      "source": "Philstar.com",
-      "image": "https://media.philstar.com/photos/2026/07/14/jericho-rosales-odyssey-matt-damon-tom-holland_2026-07-14_10-59-25.jpg",
-      "published": "2026-07-14 04:12:00",
+      "title": "COLUMN: Summer road trip playlist: B Artists",
+      "description": "As the summer continues to roll on and a few more road trips are behind us, I thought I would continue sharing songs from my ultimate road trip playlist. Last month, I listed my A artists, so it only makes...",
+      "link": "https://www.swoknews.com/opinion/column-summer-road-trip-playlist-b-artists/article_7f045f57-6428-5a5b-8926-3f94806be256.html",
+      "source": "Swoknews",
+      "image": null,
+      "published": "2026-07-14 06:00:00",
       "category": [
         "entertainment"
       ],
       "country": [
-        "philippines"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Coronation Street legend died alone and on benefits after he was sacked",
+      "description": "Peter Adamson, who played Len Fairclough on Coronation Street for over two decades, died penniless and on benefits in 2002 after a series of catastrophic events brought his career to an end",
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2228404/coronation-street-legend-died-alone-benefits-after-he-sacked",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/590x/2228404_1.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

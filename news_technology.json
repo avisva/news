@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Greece launches digital university examination system",
+      "description": "Thousands of AUTH students in Greece now complete secure digital examinations using dedicated tablets.",
+      "link": "https://dig.watch/updates/greece-digital-university-examination-system",
+      "source": "Digital Watch Observatory",
+      "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/Greece-university-digital-exam.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "switzerland"
+      ]
+    },
+    {
+      "title": "Finland\u2019s NestAI Builds Sovereign AI Tools for Europe Militaries",
+      "description": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
+      "source": "Bloomberg",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4PNey9B9zjw/v1/1200x-1.jpg",
+      "published": "2026-07-14 06:00:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

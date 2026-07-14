@@ -1,36 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Houthis launch missile and drone attack on Saudi airport",
-      "description": "ALBAWABA- Yemen\u2019s Houthi forces launched a combined missile and drone attack targeting Saudi Arabia\u2019s Abha International Airport on Monday, according to preliminary reports and statements from the Saudi-led coalition, marking a new escalation in tensions between the Iran-aligned group and Riyadh...",
-      "link": "https://www.albawaba.com/news/houthis-launch-missile-and-drone-attack-1632908",
-      "source": "Al Bawaba",
-      "image": "https://www.albawaba.com/sites/default/files/2026-07/13-7-2026%20Houthis%20AFP__20260713__C22T4NQ__v1__MidRes__YemenSaudiConflictAviation.jpg",
-      "published": "2026-07-13 17:26:55",
-      "category": [
-        "politics",
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "Finance adviser: LDC challenges test global solidarity",
-      "description": "The challenges facing the world's least developed countries (LDCs) are testing international solidarity and the credibility of multilateralism, Prime Minister's Adviser for Finance and Planning Dr. Rashed Al Mahmud Titumir said on Monday, urging stronger global partnerships and presenting a five-point agenda for urgent action. \"The LDC Group stands ready to work with all partners to ensure... Details",
-      "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/415069/finance-adviser-ldc-challenges-test-global",
-      "source": "Dhaka Tribune",
-      "image": null,
-      "published": "2026-07-13 17:26:50",
+      "title": "BPD requests help finding missing man considered at-risk",
+      "description": "The Bakersfield Police Department is asking for the public\u2019s help in finding a missing man who it considers at-risk because of his mental health condition.",
+      "link": "https://www.bakersfield.com/news/bpd-requests-help-finding-missing-man-considered-at-risk/article_e252c58f-bd3a-4e01-a947-607ba5c420ba.html",
+      "source": "The Bakersfield Californian",
+      "image": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/57/e57b3d94-f5b0-443d-bd9d-be91468ceda5/6a55446a6de82.image.png",
+      "published": "2026-07-13 19:59:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "bangladesh"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Oil Prices Hinge On China\u2019s Next Move",
+      "description": "\u201cThe passage of oil tankers through the Strait of Hormuz has been slowed significantly by the persistent cycle of hostility between the United States and Iran. But whether prices at the pump rise or fall will depend not only on how much oil flows out of the Persian Gulf but also on decisions made by [...]",
+      "link": "https://politicalwire.com/2026/07/13/oil-prices-hinge-on-chinas-next-move/",
+      "source": "Political Wire",
+      "image": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "published": "2026-07-13 19:59:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The Irish Times view on Europe\u2019s wildfires: the price of climate change",
+      "description": "The conditions created by our rapidly heating planet make such disasters ever more likely",
+      "link": "https://www.irishtimes.com/opinion/editorials/2026/07/13/the-irish-times-view-on-europes-wildfires-the-price-of-climate-change/",
+      "source": "The Irish Times",
+      "image": "https://www.irishtimes.com/resizer/v2/YINBW6LUR3NL5T2OYKAO2MSSTA.jpg?auth=3a8d7834307b002baec245362c87b3bf726ac13fdfc5bbbe956f188156923bc2&smart=true&width=630&height=350",
+      "published": "2026-07-13 19:59:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "ireland"
       ]
     }
   ]

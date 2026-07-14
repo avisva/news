@@ -1,20 +1,95 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Prince Harry says he was bullied at school over his hair colour",
-      "description": "Prince Harry has opened up about being bullied at school, saying he was teased about his ginger hair colour and was nicknamed 'carrot top' by his classmates",
-      "link": "https://www.rsvplive.ie/news/celebs/prince-harry-says-bullied-school-37427565",
-      "source": "Rsvp Live",
-      "image": "https://i2-prod.rsvplive.ie/news/celebs/article37427562.ece/ALTERNATES/s615/0_Screenshot-2026-07-13-at-170041jpeg.jpg",
-      "published": "2026-07-14 08:07:54",
+      "title": "Iran sets sights on Russian electricity imports via Azerbaijan",
+      "description": null,
+      "link": "https://www.trend.az/iran/4206900.html",
+      "source": "Trend",
+      "image": "https://www.trend.az/media/2026/07/14/iran_russia_energy_14726.jpg",
+      "published": "2026-07-14 09:54:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Visa-free period halved, many countries dropped",
+      "description": "The cabinet on Tuesday halved the tourist visa-free period, dropped many countries from the scheme and approved new privileges for other nationalities - including Indian tourists, whose numbers have plunged.",
+      "link": "https://www.bangkokpost.com/thailand/general/3285840/visafree-period-halved-many-countries-dropped",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260714/c1_3285840.jpg",
+      "published": "2026-07-14 09:54:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ireland"
+        "thailand"
+      ]
+    },
+    {
+      "title": "Corruption in Pakistan's criminal justice system severely affecting poor, minorities",
+      "description": "Islamabad, July 14 (IANS) Poor and marginalised communities, especially Christians prosecuted under the Pakistan's controversial blasphemy laws, have been affected by corruption in Pakistan's criminal justice system, a report has detailed. The International Federation for Human Rights (FIDH) and its member organisation, the Human Rights Commission of Pakistan (HRCP), stated in a report that many Christians accused of blasphemy in Pakistan are not able to get effective legal representation or challenge wrongful prosecutions due to poverty, discrimination and corruption, a report in Christian Daily International mentioned. \"Many of the victims in cases targeting Christians, for example, are sanitation workers or daily labourers, meaning that their resources to pay legal representation with necessary social and political connections or to pay bribes are very limited, if not absent, in effect widening the gap in access to justice,\" it stated. The report titled 'Under the Bench: Mapping Corruption Risks in Pakistan\u2019s Justice System' is based on 30 interviews conducted in February and March with Pakistani lawyers, judges, journalists, civil society activists and academics. People interviewed for the report spoke about corruption across the criminal justice process, with one saying that families of accused persons often borrowed money, including from loan sharks, to pay police officers or court officials in an effort to advance their cases. The report cited data from the National Commission for Human Rights (NCHR) showing an increase in blasphemy prosecutions. As of July 25, 2024, 787 people were imprisoned on blasphemy charges, in comparison to 213 in 2023, 64 in 2022, nine in 2021 and 11 in 2020, the Christian Daily report detailed. As per the report, corruption in blasphemy cases is different from other criminal cases as public pressure on investigators and judges often limits the effectiveness of bribery itself. \"As several interviewees told FIDH and HRCP, in blasphemy cases, paying bribes to influence the police or court officials often had little impact, as the public pressure on the police and judges to ensure convictions was high,\" it added. One person interviewed for the report said that those accused of blasphemy have little faith on receiving a fair trial. The interviewee said, \"Overall, the sentiment on the street is that there is no justice for the poor and weak people,\u201d he said, adding that many defendants believed convictions were almost inevitable because judges faced intense pressure from religious extremists.\" A lawyer interviewed for the report said district court judges handling blasphemy cases were rarely ready to address evidentiary irregularities, including allegedly forged documents and contradictory witness testimony, due to fears of public backlash. Last week, the Christian community in Pakistan's Lahore mourned the death of Amir Peter, who died in prison while awaiting trial on a blasphemy charge, renewing concerns over the misuse of blasphemy laws in Pakistan and the prolonged detention of people accused under the controversial legislation. On July 1, Amir Peter (60), who is the brother of Capuchin priest Fr. Henry Paul, died in prison after experiencing medical complications during detention. He was arrested on July 19, 2025 after local businessmen allegedly registered a false blasphemy complaint against him. He was kept in custody despite his deteriorating physical and mental condition, Radio Veritas Asia (RVA) reported. --IANS akl/as",
+      "link": "https://www.thehawk.in/news/world/corruption-in-pakistans-criminal-justice-system-severely-affecting-poor-minorities",
+      "source": "Thehawk",
+      "image": "https://thehawk.sgp1.digitaloceanspaces.com/65e443ca-52e7-414f-aa0c-c9704655e6b5/202607143863639-e113fe5d-dd39-4c43-a203-70cd6a1ec807.jpg",
+      "published": "2026-07-14 09:53:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Ukraine downs 5 Russian ballistic missiles as Kyiv looks to harden air defenses",
+      "description": "Ukraine\u2019s air force says its air defenses have intercepted five ballistic missiles launched by Russia in overnight attacks.",
+      "link": "https://www.wsls.com/news/world/2026/07/14/ukraine-downs-5-russian-ballistic-missiles-as-kyiv-looks-to-harden-air-defenses/",
+      "source": "Wsls",
+      "image": "https://www.wsls.com/resizer/5WkmpSyBgZIQPPyrMvXnZhuph_I=/cloudfront-us-east-1.images.arcpublishing.com/gmg/ZHTWDKNB4JAU3FLBHNMPJ2R2RY.jpg",
+      "published": "2026-07-14 09:53:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Three arrested and six firearms seized in a Mossos operation for a shooting in La Mina in May",
+      "description": "The Mossos d'Esquadra have arrested three people this Tuesday \u2013two men and one woman\u2013 during an operation in Barcelona, Badalona, Sant Adria\u0300 de Beso\u0300s, Terrassa and Mac\u0327anet de la Selva as part of the investigation for a shooting in the La Mina neighborhood in May , in which there were no injuries.",
+      "link": "https://en.ara.cat/society/three-arrested-and-six-firearms-seized-in-mossos-operation-for-shooting-in-mina-in-may_25_5798360.html",
+      "source": "Diari Ara",
+      "image": "https://static1.ara.cat/clip/f2df586d-2f61-48fd-916f-473110e91e99_16-9-aspect-ratio_default_1059340.png",
+      "published": "2026-07-14 09:53:47",
+      "category": [
+        "politics",
+        "education"
+      ],
+      "country": [
+        "spain"
+      ]
+    },
+    {
+      "title": "Wider Europe Briefing: The EU's 'Super Tuesday'",
+      "description": "Welcome to Wider Europe, RFE/RL's newsletter focusing on the key issues concerning the European Union, NATO, and other institutions and their relationships with the Western Balkans and Europe's Eastern neighborhoods. I'm RFE/RL Europe Editor Rikard Jozwiak, and this week I'm drilling down on two issues: the EU enlargement Super Tuesday and Ukrainian civil detainees held by Russia. Embed share Wi",
+      "link": "http://www.londonmercury.com/news/279186332/wider-europe-briefing-the-eu-super-tuesday",
+      "source": "London Mercury",
+      "image": "https://image.chitra.live/api/v1/wps/78266d4/3125a21a-d3fb-4f7a-ac02-7fa9bd7bd2ad/0/YWUzYTU5ZWEtN2Y-600x315.jpg",
+      "published": "2026-07-14 09:53:46",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

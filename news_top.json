@@ -1,151 +1,136 @@
 {
   "status": "success",
-  "totalResults": 17,
+  "totalResults": 19,
   "results": [
     {
-      "title": "Greece launches digital university examination system",
-      "description": "Thousands of AUTH students in Greece now complete secure digital examinations using dedicated tablets.",
-      "link": "https://dig.watch/updates/greece-digital-university-examination-system",
-      "source": "Digital Watch Observatory",
-      "image": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/07/Greece-university-digital-exam.jpg",
-      "published": "2026-07-14 06:00:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "switzerland"
-      ]
-    },
-    {
-      "title": "Efecto Haaland, solo falta la peli\u0301cula",
-      "description": null,
-      "link": "https://www.vanguardia.com/opinion/caricaturas/2026/07/14/efecto-haaland-solo-falta-la-pelicula/",
-      "source": "Vanguardia",
-      "image": "https://www.vanguardia.com/resizer/v2/4QLKYRPPDJABFL6DTY5NSYIFJ4.jpg?auth=90ec8b061a8b604952734462deb0c49755dbc0894cb557708b4c48209141719d&smart=true&width=1200&height=800",
-      "published": "2026-07-14 06:00:00",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "colombia"
-      ]
-    },
-    {
-      "title": "Annual Member Picnic",
-      "description": "MONGAUP VALLEY, NY -- Sullivan County Audubon Society, 5pm, 53 Plank Rd. Rain date Aug. 1, RSVP Gloria 845/747-9454.",
-      "link": "https://www.riverreporter.com/stories/annual-member-picnic,268087",
-      "source": "The River Reporter",
-      "image": "https://alpha.creativecirclecdn.com/riverreporter/large/20220310-132852-scaslogo.png.jpg",
-      "published": "2026-07-14 06:00:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trail Stewards in Action",
-      "description": "LAKE ARIEL, PA -- 10am-noon, and noon-2pm, \"Trail Safety,\" Lacawac Sanctuary Foundation, 94 Sanctuary Rd. Register facebook.com/Lacawac.",
-      "link": "https://www.riverreporter.com/stories/trail-stewards-in-action,268086",
-      "source": "The River Reporter",
-      "image": "https://alpha.creativecirclecdn.com/riverreporter/large/20260714-095354-f4b-TrailStewards%20LSFS.jpg",
-      "published": "2026-07-14 06:00:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Singapore\u2019s ESG loan proceeds fall 41.2% in 2025: MAS",
-      "description": "Nonethless, the Republic continues to be Asean\u2019s largest market for labelled debt issuance",
-      "link": "https://www.businesstimes.com.sg/esg/singapores-esg-loan-proceeds-fall-41-2-2025-mas",
-      "source": "The Business Times",
-      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/6110443810acc0264423a37e78f962274a5a5fbd28859c245d2ccc29cff026a3",
-      "published": "2026-07-14 06:00:00",
+      "title": "JPMorgan Chase profit hits $16.9 billion in the second quarter, boosted again by market volatility",
+      "description": "Revenue in its equity markets division skyrocketed 86%.",
+      "link": "https://www.sbsun.com/2026/07/14/jpmorgan-chase-second-quarter-profits/",
+      "source": "San Bernardino Sun",
+      "image": "https://www.sbsun.com/wp-content/uploads/2026/07/Bank_Earnings_79281.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-14 08:08:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "singapore"
+        "united states of america"
       ]
     },
     {
-      "title": "World of Butterflies",
-      "description": "LAKE ARIEL, PA -- 6-7:30pm, Lacawac Sanctuary Foundation, 94 Sanctuary Rd. Register facebook.com/Lacawac.",
-      "link": "https://www.riverreporter.com/stories/world-of-butterflies,268085",
-      "source": "The River Reporter",
-      "image": "https://alpha.creativecirclecdn.com/riverreporter/large/20260714-095031-61a-WorldofButterflies%20LSFS.jpg",
-      "published": "2026-07-14 06:00:00",
+      "title": "Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility",
+      "description": "Drawing from the enduring adaptability of HTML and HTTP, Seph Gentle proposes embedding self-contained schemas directly into file headers, ensuring data remains readable without external definitions. His experimental format prioritises forward, backwards, and sideways compatibility, enabling data format evolution without central coordination or data loss By Olimpiu Pop",
+      "link": "https://www.infoq.com/news/2026/07/durable-document-schema/",
+      "source": "Information Queue",
+      "image": "https://res.infoq.com/news/2026/07/durable-document-schema/en/headerimage/generatedHeaderImage-1784010959321.jpg",
+      "published": "2026-07-14 08:08:00",
       "category": [
         "top",
-        "environment"
+        "technology"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "HojaSana Launches 6-in-1 Saw Palmetto Supplement Designed to Support Men\u2019s Daily Wellness After 40",
+      "description": "A comprehensive softgel formula featuring Saw Palmetto Oil, Pumpkin Seed Oil, Rye Pollen, and essential nutrients to support prostate wellness, urinary comfort, and healthy aging routines NEW YORK, July 14,...",
+      "link": "https://nynewscast.com/hojasana-launches-6-in-1-saw-palmetto-supplement-designed-to-support-mens-daily-wellness-after-40-237406/",
+      "source": "Nynewscast",
+      "image": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+      "published": "2026-07-14 08:08:00",
+      "category": [
+        "top",
+        "health"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Colorado fires forcing race directors to rethink summer events; As public lands, parks, lakes and rivers close due to fires and drought, organizers cancel Colorado\u2019s iconic Ouray 100 and Leadville\u2019s Silver Rush races while the Hardrock 100 remains intact",
+      "title": "Tibetan Buddhist teacher to visit White Salmon",
       "description": null,
-      "link": "https://www.deltacountyindependent.com/news/colorado-fires-forcing-race-directors-to-rethink-summer-events-as-public-lands-parks-lakes-and/article_c211e53d-7ff0-575b-aa0b-6330aea9a541.html",
-      "source": "Delta County Independent",
-      "image": "https://bloximages.chicago2.vip.townnews.com/deltacountyindependent.com/content/tncms/assets/v3/editorial/3/e0/3e0855d4-7323-56dc-8786-e761392ecebc/6a554d9a06d1f.image.png?resize=300%2C201",
-      "published": "2026-07-14 06:00:00",
+      "link": "https://www.columbiagorgenews.com/news/tibetan-buddhist-teacher-to-visit-white-salmon/article_f2327fe3-b483-41a0-9a80-3a8fb344fbb6.html",
+      "source": "Columbia Gorge News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/columbiagorgenews.com/content/tncms/assets/v3/editorial/a/90/a90af96f-1767-4a4c-aafc-ba4223864d84/6a55eef68ecd4.image.jpg?resize=300%2C283",
+      "published": "2026-07-14 08:08:00",
       "category": [
         "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "MTerra solar project bolsters Philippines' power stability amid global energy disruptions \u2014 Marcos",
+      "description": "Inaugurating Phase I of the Meralco Terra (MTerra) Solar Project, President Marcos said it would help shield the Philippines from global energy supply shocks. During the inauguration led by Marcos and First Lady Liza Araneta-Marcos on Tuesday, July 14, in Gapan City, Nueva Ecija, the President said the inauguration of the project's phase 1 \"comes at a time when the need to boost our energy sector has never been more apparent or more urgent.\" Marcos stressed that the MTerra Solar Project forms part of the administration\u2019s broader effort to transform the country\u2019s energy sector into one that is more resilient, competitive, and capable of meeting the demands of a growing economy. According to the President, the country's economy has relied heavily on conventional power sources for years. He cited that last year alone, coal accounted for 57 percent of the total power generation mix in the country, while renewables contributed only about 25 percent. \"Such an energy mix leaves us more vulnerable to fluctuations in global fuel prices and developments in the international market, as we have experienced in the last few months and it underscores the importance of diversifying our energy sources, and how we must be committed to moving that mix in the direction to favor renewables,\" he said. \"Recognizing this challenge, this administration has worked closely with our partners to accelerate the development of new RE (renewable energy) facilities,\" he added. \"This MTerra Solar Project stands as one of the clearest expressions of that commitment,\" the President further said. Touted as the world\u2019s largest integrated solar and battery storage facility, the project is expected to provide electricity to more than 2.4 million Filipino households and reduce carbon emissions by around 4.3 million metric tons annually once fully completed. Phase I of the project has reached around 91 percent completion and is expected to become fully commercially operational by August 2026. Phase II began early this year and is targeted for completion by 2027. Once both phases are completed, the facility will be capable of delivering up to 3,500 megawatts of solar power to the grid at peak, supported by 4,500 megawatt-hours of battery energy storage. \u201cThese capabilities will help strengthen the stability of our power system while expanding the role of clean energy in our power generation mix. Equally important, its impact will be felt in the daily lives of our people,\u201d Marcos said. The project is also projected to generate nearly P23 billion in financial benefits over the next decade, while providing additional tax revenues and financial assistance to host communities. \u201cAs operations expand, we look forward to even greater opportunities for our people: more jobs, stronger local government revenues, and sustained programs that promote community development,\u201d Marcos said. The President also recognized the contributions of the private sector, host communities, and other stakeholders to the project, saying the MTerra Solar Project demonstrates the country\u2019s capability to deliver world-class infrastructure. \u201cIndeed, the MTerra Solar Project is proof that the Philippines is capable not only of envisioning world-class infrastructure, but also of delivering it,\u201d he said. Developed by Terra Solar Philippines Inc., a joint investment between SP New Energy Corporation and Actis, the MTerra Solar Project will span five municipalities across Nueva Ecija and Bulacan upon completion.",
+      "link": "https://mb.com.ph/article/10926554/philippines/national/mterra-solar-project-bolsters-philippines-power-stability-amid-global-energy-disruptions-marcos",
+      "source": "Manila Bulletin",
+      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/14/116013.webp",
+      "published": "2026-07-14 08:08:00",
+      "category": [
+        "top",
+        "business",
         "environment"
       ],
       "country": [
-        "united states of america"
+        "philippines"
       ]
     },
     {
-      "title": "Mesa County election results included vital boost for GOP gubernatorial winner Marx",
-      "description": "Minister and activist Victor Marx narrowly won the Republican nomination for Colorado governor this summer, edging State Sen. Barbara Kirkmeyer by fewer than 2,000 votes.",
-      "link": "https://www.deltacountyindependent.com/news/mesa-county-election-results-included-vital-boost-for-gop-gubernatorial-winner-marx/article_c93bdf56-36c2-5ba0-9159-661fd8d127e4.html",
-      "source": "Delta County Independent",
-      "image": "https://bloximages.chicago2.vip.townnews.com/deltacountyindependent.com/content/tncms/assets/v3/editorial/5/58/558cd813-d756-5f3b-a3e6-83391bfcd6ae/6a554f8fa413b.image.png?resize=300%2C188",
-      "published": "2026-07-14 06:00:00",
+      "title": "Tesco will close stores early if England reaches the World Cup final",
+      "description": "The decision will only affect its Express stores in England, which will close at 7.30pm instead of the usual 10pm or 11pm.",
+      "link": "https://www.whitehavennews.co.uk/news/26277402.tesco-close-express-stores-early-england-make-world-cup-final/",
+      "source": "Whitehavennews",
+      "image": "https://www.whitehavennews.co.uk/resources/images/21176595/",
+      "published": "2026-07-14 08:07:59",
       "category": [
-        "politics",
+        "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Victor Marx wins Republican nomination for Colorado governor; Race called 9 days after June 30 primary election with Marx in narrow lead over Barbara Kirkmeyer",
-      "description": "First-time candidate Victor Marx won the Republican nomination in the race for Colorado governor, edging out state Sen. Barbara Kirkmeyer.",
-      "link": "https://www.deltacountyindependent.com/news/victor-marx-wins-republican-nomination-for-colorado-governor-race-called-9-days-after-june-30/article_cbd0ea33-72b7-5ca3-8c12-e700cea0da0b.html",
-      "source": "Delta County Independent",
-      "image": "https://bloximages.chicago2.vip.townnews.com/deltacountyindependent.com/content/tncms/assets/v3/editorial/5/8a/58a04a41-35b4-5ff8-ab47-8a781b9a160a/6a554ee8e1b41.image.png?resize=300%2C221",
-      "published": "2026-07-14 06:00:00",
+      "title": "Gold sticks to gains above $4,000; lacks bullish conviction ahead of US CPI, Fed's Warsh",
+      "description": "Gold (XAU/USD) trims a part of its modest intraday recovery gains and remains within striking distance of a nearly two-week low touched earlier this Tuesday.",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-two-week-low-as-usd-bulls-turn-cautious-ahead-of-us-cpi-feds-warsh-202607140350",
+      "source": "Fxstreet",
+      "image": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
+      "published": "2026-07-14 08:07:59",
       "category": [
-        "politics",
+        "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "spain"
       ]
     },
     {
-      "title": "Erling Haaland Home-Returning Airport Look Is All Charts Luxury; Carries Swanky Dolce & Gabbana Sicily Tote & NYC Racoon Souvenir Worth \u20b972K",
-      "description": "Norwegian football sensation Erling Haaland made a stylish return home after the FIFA World Cup, landing in Oslo on Monday, July 13, with an airport look that perfectly blended effortless fashion & luxury accessories. While fans were quick to admire his relaxed travel style, it was the unusual souvenir tucked under his arm that became the biggest talking point online.",
-      "link": "https://www.freepressjournal.in/lifestyle/erling-haaland-home-returning-airport-look-is-all-charts-luxury-carries-swanky-dolce-gabbana-sicily-tote-nyc-racoon-souvenir-worth-72k",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-14/3m0gxahl/Rutunjay-2026-07-14T105854.556.png",
-      "published": "2026-07-14 06:00:00",
+      "title": "Inside Sam Neill's New Zealand Estate where Jurassic Park star built a winery and named farm animals after celebrities",
+      "description": "Jurassic Park star Sam Neill has died at the age of seventy-eight. His family announced his passing in Sydney, Australia, surrounded by loved ones. Neill was known for his acting career and his New Zealand winery, Two Paddocks. He often stated his vineyard was his greatest passion and a source of happiness. The actor spent years planting native trees and enjoying the land.",
+      "link": "https://timesofindia.indiatimes.com/real-estate/inside-sam-neills-new-zealand-estate-where-jurassic-park-star-built-a-winery-and-named-farm-animals-after-celebrities/articleshow/132382380.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132382683/132382683.jpg",
+      "published": "2026-07-14 08:07:58",
       "category": [
-        "lifestyle",
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Puri: Devotees Brave Rain Ahead of Rath Yatra #Gallery",
+      "description": "The post Puri: Devotees Brave Rain Ahead of Rath Yatra #Gallery appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/07/14/puri-devotees-brave-rain-ahead-of-rath-yatra-gallery/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/14/20260714052f-scaled.jpg?fit=2560%2C1861&quality=80&zoom=1&ssl=1?v=1784016476",
+      "published": "2026-07-14 08:07:58",
+      "category": [
         "top"
       ],
       "country": [
@@ -153,108 +138,154 @@
       ]
     },
     {
-      "title": "Pauline Hanson imports a monoculture war",
-      "description": "Pauline Hanson's latest overseas tour exposes the irony of a movement that rails against foreign influence while importing its politics almost wholesale, writesWayne Hawkins. LAST WEEK, SenatorPauline Hansontook a trip. Hanson flew to London and recorded a podcast withTommy Robinson, the British activist whose recent interview withKarl Stefanovicended a 30-year career at Nine. She is booked to speak atCPAC",
-      "link": "http://www.australianherald.com/news/279186072/pauline-hanson-imports-a-monoculture-war",
-      "source": "Australian Herald",
-      "image": "https://image.chitra.live/api/v1/wps/10b6fe3/a034aec0-a382-42e2-acb8-802829c4f4d7/0/MzAzM2RiMTItN2V-600x315.jpg",
-      "published": "2026-07-14 06:00:00",
+      "title": "Why is Hapag-Lloyd stock surging today?",
+      "description": null,
+      "link": "https://www.investing.com/news/stock-market-news/why-is-hapaglloyd-stock-surging-today-93CH-4789864",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published": "2026-07-14 08:07:58",
       "category": [
-        "politics",
+        "business",
         "top"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     },
     {
-      "title": "Climate change stokes shark bites Down Under",
-      "description": "Rainfall and warming temperatures bring the fish to shore",
-      "link": "https://theweek.com/environment/shark-bites-australia-climate-change-more-attacks",
-      "source": "The Week",
-      "image": "https://cdn.mos.cms.futurecdn.net/cAJyQRjECTR7cfSTYVPvUc-1280-80.jpg",
-      "published": "2026-07-14 06:00:00",
+      "title": "Falling gas prices cut inflation in June, but Iran war could limit progress",
+      "description": "U.S. inflation cooled last month as the cost of gas, clothes and used cars fell, though that progress could be reversed if the Iran war keeps worsening.",
+      "link": "https://www.nbcdfw.com/news/national-international/june-inflation-cools-fuel-iran-war-progress/4049099/",
+      "source": "Nbc 5 Dallas",
+      "image": "https://media.nbcdfw.com/2026/07/unrecognizable-woman-using-gas-pump-to-add-fuel-to-1388054817-Getty.jpg?quality=85&strip=all&fit=6240,4160",
+      "published": "2026-07-14 08:07:58",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kankola / Tailed Pepper in Ayurveda : The Aromatic Fruit for Digestion, Kapha and Respiratory Balance",
+      "description": "The name \u201ctailed pepper\u201d comes from the small stalk attached to the dried berry, giving it a tail-like appearance. It resembles black pepper but has a more aromatic, slightly bitter and camphor-like fragrance. The post Kankola / Tailed Pepper in Ayurveda : The Aromatic Fruit for Digestion, Kapha and Respiratory Balance appeared first on Dharmakshethra - India Unabridged | Defence, Diplomacy, Economy, Health, Ayurveda, Heritage .",
+      "link": "https://dharmakshethra.com/kankola-tailed-pepper-in-ayurveda-the-aromatic-fruit-for-digestion-kapha-and-respiratory-balance/",
+      "source": "Dharmakshethra - India Unabridged",
+      "image": "https://dharmakshethra.com/wp-content/uploads/2026/07/Kankola-Tailed-Pepper-in-Ayurveda-Dharmakshethra.jpg",
+      "published": "2026-07-14 08:07:56",
       "category": [
         "top",
-        "environment"
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Can the discovery of the first 'true sugar' in deep space explain how life began on Earth?",
+      "description": "Astronomers have discovered the first true sugar molecule, erythrulose, in interstellar space near the centre of the Milky Way, a finding that could offer new clues about how the building blocks of life formed and reached Earth.",
+      "link": "https://www.moneycontrol.com/world/can-the-discovery-of-the-first-true-sugar-in-deep-space-explain-how-life-began-on-earth-article-13973224.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260714080555_space-milky-way.jpg",
+      "published": "2026-07-14 08:07:56",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Love Island icons reunite as they sign up for Channel 4's Celebrity Hunted",
+      "description": "Celebrity Hunted is returning to our screens later this year, with two Love Island stars going on the run to help raise money for Stand Up To Cancer",
+      "link": "https://www.ok.co.uk/tv/love-island-icons-reunite-sign-37427273",
+      "source": "Ok Co Uk",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article32385744.ece/ALTERNATES/s615/0_Celebrity-Ex-on-the-Beach-event.jpg",
+      "published": "2026-07-14 08:07:56",
+      "category": [
+        "top",
+        "entertainment"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "'I thought I was going to die': accused scooter killer relives fatal confrontation",
-      "description": "'He was aiming for my head with an axe', Kane Flanders said.",
-      "link": "https://www.dungogchronicle.com.au/story/9310451/kane-flanders-accused-murderer-claims-self-defence-in-axe-attack/?src=rss",
-      "source": "Dungog Chronicle",
-      "image": "https://www.dungogchronicle.com.au/images/transform/v1/crop/frm/v6ZqFubQfSczSV22Th78nc/6dae47b9-b426-40a0-9133-ca7b14ed3abd.jpg/r2_0_1198_674_w600_h338_fmax.jpg",
-      "published": "2026-07-14 06:00:00",
+      "title": "Historic violin that once belonged to family of Irish poet W. B. Yeats up for auction",
+      "description": "Historic Mirecourt violin with provenance to the family of Irish Nobel Prize-winning poet W.B. Yeats emerges from private collection.",
+      "link": "https://www.irishcentral.com/wb-yeats-violin",
+      "source": "Irishcentral",
+      "image": "https://www.irishcentral.com/uploads/article-v2/2026/7/170065/thumb_MI_An_early_19th-century_French_Mirecourt_violin__from_the_private_collection_of_the_family_of_Nobel_Prize-winning_Irish_poet_W._B._Yeats__is_up_for_auction._Dominic_Winter_Auctioneers.jpg?t=1784017575",
+      "published": "2026-07-14 08:07:55",
       "category": [
-        "top",
-        "crime"
+        "lifestyle",
+        "top"
       ],
       "country": [
-        "australia"
+        "ireland"
       ]
     },
     {
-      "title": "Video surfaces of councillor Christine Fletcher accusing Mayor Wayne Brown of swearing at meeting",
-      "description": "The mayor said robust debate was an inevitable part of representing Aucklanders.",
-      "link": "https://www.nzherald.co.nz/nz/auckland/video-surfaces-of-councillor-christine-fletcher-accusing-mayor-wayne-brown-of-swearing-at-meeting/BKYKPTH635ANXPEFTO5W6MDOQA/",
-      "source": "Nzherald",
-      "image": "https://www.nzherald.co.nz/resizer/v2/VXWRT6ZSXFCW5CDEZI3VSC2SOU.jpg?auth=77ce6368d0bf54b178d4b990d49f3a2c0eb886d71b50a54dfe0d69fad939cbc9&smart=true&width=300&height=300",
-      "published": "2026-07-14 06:00:00",
+      "title": "India office leasing hits 37.9 million sq. ft. in Jan-June",
+      "description": "India\u2019s office market hits a decade-high net absorption of 26.9 million sq. ft. in H1 2026, driven by record-breaking GCC activity and a surge in domestic leasing.",
+      "link": "https://www.thehansindia.com/business/india-office-leasing-hits-379-million-sq-ft-in-jan-june-1097422",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/14/1677448-office.webp",
+      "published": "2026-07-14 08:07:55",
       "category": [
-        "politics",
+        "business",
         "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Enda Brady: UK correspondent on heatwave conditions continuing in the UK",
+      "description": "Heatwave conditions are set to continue across the UK over the next few days, according to new reports.",
+      "link": "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/enda-brady-uk-correspondent-on-heatwave-conditions-continuing-in-the-uk/",
+      "source": "Newstalkzb",
+      "image": "https://www.newstalkzb.co.nz/media/0hlp2ecm/gettyimages-1410048629.jpg",
+      "published": "2026-07-14 08:07:55",
+      "category": [
+        "top",
+        "environment"
       ],
       "country": [
         "new zealand"
       ]
     },
     {
-      "title": "Formula 1 will race with less power than Formula 2 at Spa",
-      "description": "Spa is up next on the Formula 1 calendar, and caution is warranted as a painful experience awaits us thanks to the woeful 2026 V6 hybrid power units.",
-      "link": "https://www.grandprix247.com/formula-1-news/formula-1-will-race-with-less-power-than-formula-2-at-spa",
-      "source": "Grand Prix 247",
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgrandprix247.com%2Fimages%2F2025-07%2Fqualifying-f1-spa-racing-bulls.jpg",
-      "published": "2026-07-14 06:00:00",
+      "title": "Prince Harry says he was bullied at school over his hair colour",
+      "description": "Prince Harry has opened up about being bullied at school, saying he was teased about his ginger hair colour and was nicknamed 'carrot top' by his classmates",
+      "link": "https://www.rsvplive.ie/news/celebs/prince-harry-says-bullied-school-37427565",
+      "source": "Rsvp Live",
+      "image": "https://i2-prod.rsvplive.ie/news/celebs/article37427562.ece/ALTERNATES/s615/0_Screenshot-2026-07-13-at-170041jpeg.jpg",
+      "published": "2026-07-14 08:07:54",
       "category": [
-        "sports",
+        "politics",
         "top"
       ],
       "country": [
-        "germany"
+        "ireland"
       ]
     },
     {
-      "title": "\u2018All hell broke loose\u2019: Herbert reveals toll of LIV Golf uncertainty, says he considered quitting",
-      "description": "Ahead of this week\u2019s Open Championships at Royal Birkdale, Australian golfer Lucas Herbert has opened up on a tumultuous year on the LIV Golf circuit.",
-      "link": "https://www.brisbanetimes.com.au/sport/golf/all-hell-broke-loose-herbert-reveals-toll-of-liv-golf-uncertainty-says-he-considered-quitting-20260714-p60f8c.html",
-      "source": "Brisbane Times",
-      "image": "https://static.ffx.io/images/$zoom_0.2536%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_157%2C$y_0/t_crop_custom/q_86%2Cf_auto/da44f796615214235dfdc371b9bf992621c21b79",
-      "published": "2026-07-14 06:00:00",
+      "title": "ATOM Price Prediction: Dead Cat Territory \u2014 $1.49 Is the Last Line Before a Waterfall",
+      "description": "ATOM is pinned at $1.52 with every moving average stacked overhead and aggressive sell flow dominating real-time price action \u2014 a technical bounce to $1.55\u2013$1.58 is possible, but the 60% probabilit... (Read More)",
+      "link": "https://blockchain.news/news/20260714-price-prediction-atom-dead-cat-territory-149-is-the",
+      "source": "Blockchain News",
+      "image": "https://image.blockchain.news/features/A4189E510397880004378063FD0937FAD5FB0503957386C30290FAB0BCA27D54.jpg",
+      "published": "2026-07-14 08:07:53",
       "category": [
-        "sports",
+        "business",
         "top"
       ],
       "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Kayaker killed in horror crocodile attack as friends filmed helplessly",
-      "description": "Hendri Coetzee was dragged from his kayak by a crocodile on the Lukuga River in the Democratic Republic of the Congo as his two friends looked on in horror",
-      "link": "https://www.examinerlive.co.uk/news/uk-world-news/kayaker-killed-horror-crocodile-attack-34258651",
-      "source": "Yorkshirelive",
-      "image": "https://i2-prod.examinerlive.co.uk/news/article34258649.ece/ALTERNATES/s615/0_Screenshot-2022-07-20-at-091228.jpg",
-      "published": "2026-07-14 06:00:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
+        "united states of america",
+        "singapore"
       ]
     }
   ]

@@ -1,142 +1,49 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 3,
   "results": [
     {
-      "title": "China's GDP expands 4.7 pct in H1",
-      "description": null,
-      "link": "https://english.news.cn/20260715/8c727b1750434bf0aa5511c7e8717923/c.html",
-      "source": "Xinhuanet",
-      "image": null,
-      "published": "2026-07-15 02:47:00",
+      "title": "Global Market: SK Hynix jumps 13% as easing US inflation, AI memory optimism lift chip stocks",
+      "description": "South Korean semiconductor shares experienced a significant surge on Wednesday. This rally was fueled by softer U.S. inflation data and renewed AI demand optimism. SK Hynix and Samsung Electronics saw substantial gains in early trading. Analysts foresee strong structural demand from AI applications supporting the memory market. Industry experts predict a severe memory supply shortage extending beyond 2030.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-jumps-13-as-easing-us-inflation-ai-memory-optimism-lift-chip-stocks/articleshow/132405944.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132405969,resizemode-4,width-1200,height-900,imgsize-18162,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-07-15 04:18:54",
       "category": [
         "business"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Bloodbath at PSX as index sheds over 6,400 points",
-      "description": "The benchmark KSE-100 Index of the Pakistan Stock Exchange (PSX) continued with a sharp bearish trend on Tuesday, losing 6,408.23 points, a negative change of 3.56 percent, to close at 173,518.82 points against 179,927.05 points on the previous trading day. During the session, the ready market recorded a trading volume of 912.614 million shares with [...]",
-      "link": "https://dailytimes.com.pk/1523203/bloodbath-at-psx-as-index-sheds-over-6400-points/",
-      "source": "Daily Times - Latest Pakistan News, World, Busines",
-      "image": "https://dailytimes.com.pk/assets/uploads/2026/07/Pic14-029.jpg",
-      "published": "2026-07-15 02:46:47",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "DP World to pilot atmospheric water generation technology across global operations after strategic investment in Maithri Aquatech",
-      "description": "DP World said the investment aligns with its broader sustainability strategy, which includes a target of achieving net positive water impact by 2030.",
-      "link": "https://www.moneycontrol.com/news/business/companies/dp-world-to-pilot-atmospheric-water-generation-technology-across-global-operations-after-strategic-investment-in-maithri-aquatech-13974158.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251206124607_handshake.png",
-      "published": "2026-07-15 02:46:47",
-      "category": [
-        "top",
-        "business",
-        "environment"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Erasca, Inc. Notice of August 10, 2026 Application Deadline for Class Action Lawsuit - Contact ...",
-      "description": "NEW YORK and NEW ORLEANS, July 14, 2026 (GLOBE NEWSWIRE) -- Kahn Swick & Foti, LLC (\u201cKSF\u201d) and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., notifies investors in Erasca, Inc. (\u201cErasca\u201d or the \u201cCompany\u201d) (NasdaqGS: ERAS)...",
-      "link": "https://www.bdtonline.com/region/erasca-inc-notice-of-august-10-2026-application-deadline-for-class-action-lawsuit--/article_582ab105-08de-5faf-aa14-29f149c864a5.html",
-      "source": "Bluefield Daily Telegraph",
+      "title": "Domestic Construction Contract Could Exceed 2025 Of RM49 Billion",
+      "description": "Hong Leong Investment Bank Bhd (HLIB) has maintained its OVERWEIGHT call on the construction sector, with Sunway Construction Group Bhd (SunCon) and IJM Corporation Bhd (IJM) as its top picks with target prices of RM9.10 and RM3.02 respectively, as strong data centre-related projects and infrastructure opportunities are expected to support growth in the second half [...]",
+      "link": "https://www.businesstoday.com.my/2026/07/15/domestic-construction-contract-could-exceed-2025-of-rm49-billion/",
+      "source": "Businesstoday | Malaysia",
       "image": null,
-      "published": "2026-07-15 02:46:42",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "ADMA Biologics, Inc. Notice of August 10, 2026 Application Deadline for Class Action Lawsuit - ...",
-      "description": "NEW YORK and NEW ORLEANS, July 14, 2026 (GLOBE NEWSWIRE) -- Kahn Swick & Foti, LLC (\u201cKSF\u201d) and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., notifies investors in ADMA Biologics, Inc. (\u201cADMA\u201d or the \u201cCompany\u201d) (NasdaqGM:...",
-      "link": "https://www.bdtonline.com/region/adma-biologics-inc-notice-of-august-10-2026-application-deadline-for-class-action-lawsuit/article_6364d535-0b24-5a47-900e-76833c833887.html",
-      "source": "Bluefield Daily Telegraph",
-      "image": null,
-      "published": "2026-07-15 02:46:42",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Pakistan seeks enhanced UNDP support for development and climate resilience",
-      "description": "Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal met on Tuesday with United Nations Development Programme (UNDP) Administrator Alexander De Croo in New York and discussed Pakistan\u2019s development priorities and ways to further strengthen the longstanding partnership between Pakistan and the UNDP. Speaking during the meeting, the minister reaffirmed Pakistan\u2019s commitment to its [...]",
-      "link": "https://dailytimes.com.pk/1523202/pakistan-seeks-enhanced-undp-support-for-development-and-climate-resilience/",
-      "source": "Daily Times - Latest Pakistan News, World, Busines",
-      "image": "https://dailytimes.com.pk/assets/uploads/2026/07/images-8.jpg",
-      "published": "2026-07-15 02:46:41",
+      "published": "2026-07-15 04:18:52",
       "category": [
         "business"
       ],
       "country": [
-        "pakistan"
+        "malaysia"
       ]
     },
     {
-      "title": "Trump welcomes Iraqi PM to White House, vows \u2018a lot of deals\u2019",
-      "description": "US President Donald Trump and Iraqi PM Ali al-Zaidi have met at the White House pledging to deepen economic ties.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726",
-      "source": "Al Jazeera",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1784083581.jpg?resize=1656%2C1080&quality=80",
-      "published": "2026-07-15 02:46:31",
+      "title": "Polymarket sees 92.5% odds of July Fed hold as crypto jumps on easing inflation",
+      "description": "Bitcoin climbed above $64,000 after a report said inflation eased, with Zcash and Pump.fun among rally leaders. (Read More)",
+      "link": "https://blockchain.news/news/polymarket-sees-925-odds-of-july-fed-hold-as-crypto-jumps-on-easing-inflation-0hnn24tt2csc0",
+      "source": "Blockchain News",
+      "image": "https://image.blockchain.news/thumbnails/604DB345BCE610CB4F829D2CF60930439DE0D70C23AD9EE9E259520D99BB2FF2.jpg",
+      "published": "2026-07-15 04:18:50",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america",
-        "qatar",
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "10 herbs with great medicinal benefits to grow in your garden",
-      "description": "You do not need a large garden to enjoy fresh herbs every day. A few pots, some sunshine and regular watering are enough to grow herbs that add flavour to meals and provide compounds that researchers continue to study for their health benefits.",
-      "link": "https://www.moneycontrol.com/lifestyle/home-garden/10-herbs-with-great-medicinal-benefits-to-grow-in-your-garden-article-13973980.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260714173159_aqswsd.jpg",
-      "published": "2026-07-15 02:46:29",
-      "category": [
-        "top",
-        "business",
-        "environment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Miti: RM318.5b of approved manufacturing investments realised since 2023, creating over 210,000 jobs",
-      "description": "KUALA LUMPUR, July 15 \u2014 A total of 2,688 manufacturing investment projects worth RM318.5 billion approved between...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/07/15/miti-rm3185b-of-approved-manufacturing-investments-realised-since-2023-creating-over-210000-jobs/227634",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/15/351938.jpg",
-      "published": "2026-07-15 02:46:29",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malaysia",
-        "singapore"
+        "singapore",
+        "united states of america"
       ]
     }
   ]

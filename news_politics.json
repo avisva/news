@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Alexandria Ocasio-Cortez Offers Forceful Advice For TV Stations About Trump's Thursday Speech",
+      "description": "The progressive congresswoman was asked for her take on the somewhat mysterious address Trump has announced -- and she delivered.",
+      "link": "https://www.huffpost.com/entry/alexandria-ocasio-cortez-ethical-obligation-platforming-of-lies-trump-speech_n_6a5743bfe4b0540b8c7ba07f",
+      "source": "Huffpost",
+      "image": "https://img.huffingtonpost.com/asset/6a574c251a000082115813a6.jpeg?cache=pkhITn8p25&ops=1778_1000",
+      "published": "2026-07-15 09:57:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cardinal to file legal action against MP Chamara Sampath",
+      "description": "Archbishop of Colombo Cardinal Malcolm Ranjith is to file legal action against MP Chamara Sampath Dassanayake for making false statements, Cardinal\u2019s spokesman Fr. Cyril Gamini Fernando said today.",
+      "link": "https://www.dailymirror.lk/breaking-news/Cardinal-to-file-legal-action-against-MP-Chamara-Sampath/108-345712",
+      "source": "Daily Mirror",
+      "image": null,
+      "published": "2026-07-15 09:57:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    }
+  ]
 }

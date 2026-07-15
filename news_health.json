@@ -1,5 +1,67 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "More than 50 cases of 'explosive' diarrhea parasite in Oklahoma in 2026",
+      "description": "Newly released data from the Oklahoma State Department of Health shows dozens in the Sooner State have been infected with a parasitic illness known to cause what health officials call \u201cexplosive\u201d diarrhea.",
+      "link": "https://kfor.com/news/local/osdh-reports-57-cases-of-explosive-diarrhea-parasite-in-oklahoma-in-2026/",
+      "source": "Kfor",
+      "image": "https://kfor.com/wp-content/uploads/sites/3/2026/07/AP25324542837561-e1772723548852.jpg?w=900",
+      "published": "2026-07-14 14:11:00",
+      "category": [
+        "top",
+        "health",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Revenue Is a Misleading KPI in Healthcare",
+      "description": "It usually tracks some version of value delivered, where more customers lead to more usage and more revenue. However, in healthcare, the blind pursuit of revenue can cause real harm. The post Revenue Is a Misleading KPI in Healthcare appeared first on MedCity News .",
+      "link": "https://medcitynews.com/2026/07/revenue-is-a-misleading-kpi-in-healthcare/",
+      "source": "Medcity News",
+      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/03/hospital-revenue.jpg",
+      "published": "2026-07-14 14:11:00",
+      "category": [
+        "health",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "An experimental Alzheimer's drug shows some promise as researchers hunt new approaches",
+      "description": "An experimental drug might help slow early Alzheimer\u2019s disease in a markedly different way than today\u2019s treatments \u2014 by lowering levels of a brain protein called tau, researchers reported Tuesday.",
+      "link": "https://www.castanetkamloops.net/news/Business/624599/An-experimental-Alzheimer-s-drug-shows-some-promise-as-researchers-hunt-new-approaches",
+      "source": "Kamloops This Week",
+      "image": "https://www.castanetkamloops.net/content/2026/7/f31d40df3011d7638f4ce5df4e88f1b21ce2d77231c0b1de0c25d9b61585d516.jpg",
+      "published": "2026-07-14 14:11:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "An experimental Alzheimer's drug shows some promise as researchers hunt new approaches (Business)",
+      "description": "An experimental drug might help slow early Alzheimer's disease in a markedly different way than today's treatments - by lowering levels of a brain protein called tau, researchers reported Tuesday. Tau is one part of a toxic duo fueling Alzheimer's but prior attempts to develop drugs that can target ...",
+      "link": "https://www.castanet.net/news/Business/624599/An-experimental-Alzheimer-s-drug-shows-some-promise-as-researchers-hunt-new-approaches",
+      "source": "Castanet",
+      "image": "https://www.castanet.net/content/2026/7/f31d40df3011d7638f4ce5df4e88f1b21ce2d77231c0b1de0c25d9b61585d516.jpg",
+      "published": "2026-07-14 14:11:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

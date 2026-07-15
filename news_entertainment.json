@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Kids learn history through song at Trinity Episcopal summer day camp",
+      "description": "POTTSVILLE \u2014 With cowbells, tambourines and maracas, youngsters pounded out the beat of a steam locomotive Tuesday at a day camp in Trinity Episcopal Church....",
+      "link": "https://www.yahoo.com/lifestyle/articles/kids-learn-history-song-trinity-224700448.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published": "2026-07-14 22:47:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u201cThree boyfriends in the last eight years\": Jude Bellingham's girlfriend Ashlyn Castro's reported Michael B. Jordan romance resurfaces",
+      "description": "Jude Bellingham's girlfriend, Ashlyn Castro, has gained attention during the 2026 World Cup, but she was already familiar to celebrity watchers through her reported romance with Michael B. Jordan in 2017. The American model and influencer was later linked to Bellingham in 2025. She has also denied dating rumors surrounding her personal life, insisting she has had only \"three boyfriends over the last eight years\" despite ongoing online speculation.",
+      "link": "https://timesofindia.indiatimes.com/sports/international-sports/three-boyfriends-in-the-last-eight-years-jude-bellinghams-girlfriend-ashlyn-castros-reported-michael-b-jordan-romance-resurfaces/articleshow/132391575.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132391575/132391575.jpg",
+      "published": "2026-07-14 22:46:53",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

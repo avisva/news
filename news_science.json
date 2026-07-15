@@ -1,48 +1,5 @@
 {
   "status": "success",
-  "totalResults": 3,
-  "results": [
-    {
-      "title": "OptiRanker: a simulation and optimization framework for efficient in vivo validation of drug prioritization algorithms - Nature",
-      "description": "OptiRanker: a simulation and optimization framework for efficient in vivo validation of drug prioritization algorithms Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2aHF4LWYzdGpxSEVoMnpDdWtjd09tZVFRNGtwajBmRE9nVXdfRmpvUGxzZHN6ampvOV9CZUhMTzZqUjhVV3ZyZFlfYTZYXzA3dzFDM3dVZC1vRDJTTlhr?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-15 04:18:45",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Numerical simulation on impact induced concrete fracture by the material point method with an HJC-TCK constitutive model - Nature",
-      "description": "Numerical simulation on impact induced concrete fracture by the material point method with an HJC-TCK constitutive model Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yRFhRMXFkWTBDVGpraGZza2RFX3dJZy1DUk9IX05mR0pCRmRkLWU3NlpHTUQ5S3BmQ0J5a1pueThjb19QT2dSdTZ1VlNEcUFURldLOHZvVXZ4clFrcjl3?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-15 04:18:45",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Intravascular behavior of cutaneous polynucleotide injectables following intra-arterial exposure - Nature",
-      "description": "Intravascular behavior of cutaneous polynucleotide injectables following intra-arterial exposure Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUEItX0laT3JKemVHck85amxZaHdzRUlicnFmZFZRZlhjNDFVaUlrQ1ZZbjRyMFgyelR4MjZsMDQ1UWNWcDJzNFNMdVJLR2pzWDNKTHFUSnBCTkZjZDJZ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-15 04:18:45",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "singapore"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

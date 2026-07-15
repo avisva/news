@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 22,
+  "totalResults": 25,
   "results": [
     {
       "title": "World's Most Expensive Dinosaur Sells For Record Sum After Intense Bidding War - NDTV",
@@ -80,13 +80,6 @@
       "category": "science"
     },
     {
-      "title": "FCC approves startup\u2019s space mirror to reflect sunlight to dark parts of Earth - KCAU 9 News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEkyU0NxUkhoeG5hNUpzXzZBTm9WcU1GeFV0LW1Cb0hWMnh5Ny1BQzNmRUpvTTVIRDR1UjdMdkNkLURoRTR5SGhkQWtlRWV2N3hQYVJPaTJDSGg1OGRBNDhvb3djYVMwWDdFdkJQRlV3LWg2Q1ZiWUhqLUFTdVUyLTE5V0lHV254R1lDaU5xMlczX0ZtVldBMkhKTVVoVDlVRnlVMFNkZ3lkS2k0V1dYUkRUcW9DV1pFQ2Nz0gHAAUFVX3lxTE83SXRUMGs2QW1uQXhrLTRCUUtieHhYa1l2VDNjLW1ZRWlPYUFHRWh4WHYwbkZYOWFsQjNhQllrekExalNza3I5LTBpbjBfSXNweURsa0ZkZnNNdTZPX055WTFlcHlNbERoaHhmNUVtdzhEcmtrRnVXLTctQUppM1RYLU5Kc0Y5TldLTlJ2WDF2a2N2V1lfb2JsdFBJRjBvYmpZRWt1a1BDVFhnMmZGS0JTWUFvV1JrZkxDUWxpbHFjRg?oc=5",
-      "published": "Tue, 14 Jul 2026 23:13:53 GMT",
-      "source": "KCAU 9 News",
-      "category": "science"
-    },
-    {
       "title": "Second-Hand Black Holes May Be Hiding Across the Universe. Researchers Now Have a Way to Spot Them - ZME Science",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWVLVDNoVkplN1pFS21VSFA4dVB6X2J2WmxPU0xEZGZEcWpUVlcwVUdLV0dWTEtKbm5RaVRSeHRSWVExYUxhYzBhUVBsaWZQUlZXRWxrRktaNWlVSFhZSzU5Z1RxakVsekNxcDlVTnExX1JPMGpwemZoNVhjbjBqZ2JzTnk?oc=5",
       "published": "Tue, 14 Jul 2026 15:55:43 GMT",
@@ -105,6 +98,13 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXRsWndJNVZPeFNYWjZRQno2YUZKMkFSQ3hsenpQUDJoTGdaaTV6WW5jaXUtZnpaQjItZWtRUnBGRklnT0lNOGxrWE5qTEVodm1DYTQtMWhSdTJNMFF4emtqWkZBVktuNkpOLWFiQ1BOcUh4LUh0MkNRSy1hazFWT3MxV2w?oc=5",
       "published": "Tue, 14 Jul 2026 02:16:17 GMT",
       "source": "BBC Sky at Night Magazine",
+      "category": "science"
+    },
+    {
+      "title": "FCC approves startup\u2019s space mirror to reflect sunlight to dark parts of Earth - KCAU 9 News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEkyU0NxUkhoeG5hNUpzXzZBTm9WcU1GeFV0LW1Cb0hWMnh5Ny1BQzNmRUpvTTVIRDR1UjdMdkNkLURoRTR5SGhkQWtlRWV2N3hQYVJPaTJDSGg1OGRBNDhvb3djYVMwWDdFdkJQRlV3LWg2Q1ZiWUhqLUFTdVUyLTE5V0lHV254R1lDaU5xMlczX0ZtVldBMkhKTVVoVDlVRnlVMFNkZ3lkS2k0V1dYUkRUcW9DV1pFQ2Nz0gHAAUFVX3lxTE83SXRUMGs2QW1uQXhrLTRCUUtieHhYa1l2VDNjLW1ZRWlPYUFHRWh4WHYwbkZYOWFsQjNhQllrekExalNza3I5LTBpbjBfSXNweURsa0ZkZnNNdTZPX055WTFlcHlNbERoaHhmNUVtdzhEcmtrRnVXLTctQUppM1RYLU5Kc0Y5TldLTlJ2WDF2a2N2V1lfb2JsdFBJRjBvYmpZRWt1a1BDVFhnMmZGS0JTWUFvV1JrZkxDUWxpbHFjRg?oc=5",
+      "published": "Tue, 14 Jul 2026 23:13:53 GMT",
+      "source": "KCAU 9 News",
       "category": "science"
     },
     {
@@ -136,17 +136,38 @@
       "category": "science"
     },
     {
-      "title": "Rebooting a Spacecraft, 140 Million Kilometres From Home. - Universe Today",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVk5wUmpRYktqX0hqQnRsNWx3b0ZFVTg0T2N0ajhHb0NZMEYxZ25ieFVCT2dIT2tObTN6YXBBdjVhbzFjMC12MG5xcG5xSXh3ckxUU1Y2Tm9xal9aZTZWZ2pWTVl2ZGE3UUNLblY3SHFGbmdSejlUN1ZGSk1oMWlxZ3hyNkFhYkF5MFNnblgzT2ZRdXlfYW9rQkpR?oc=5",
-      "published": "Mon, 13 Jul 2026 22:30:00 GMT",
-      "source": "Universe Today",
-      "category": "science"
-    },
-    {
       "title": "Why is Venus hotter than Mercury, when Mercury is closer to the Sun? - MorungExpress",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXZqUEgyQjVpZlZjLUM1ODl3UHNUb3d6VVVqTklzaXRIRkxUMjlUZVUtc2hkUEtTZHF6d0o1TzdkQ3Z5aXBlT1Q2REdwbHQtWHM1OUU1RTdLTGZ3VG9LNXZIR29MZ1N5M1MyQS1ZeWtlTU9XYXk3dTZGeVJtVklMSXJjZ3BEOFc4cTlVeW95LWR2cThEU2c?oc=5",
       "published": "Tue, 14 Jul 2026 16:00:12 GMT",
       "source": "MorungExpress",
+      "category": "science"
+    },
+    {
+      "title": "Glaciers spotted flowing across the Himalayas from space | Space photo of the day for July 15, 2026 - Space",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUJrNEJIZkJuM2tycGVKSHZCNDN4X0VfYlRib1VyUDBUQmZMRG1jZjZ1SGt1ZG1QUWQxMWFCY3hNQ2JOQWNkSGh6SHhnOFpYMWdZdDhwcDhDcTN5eUhoSXppeVluNDZwR05KZ2M5bDU1dVZkUk1KdWZCTjVwdXY4ZHlJS0hLYW9uS2pWNHc3eGpTX1I1cWpGdHNjS055ai1NZGJJRWNWVk1pRS1CQ3p0VEJZVFh5UGZfRDRMME5kQjkxOGhWY0FZaXdVWHBYYmM?oc=5",
+      "published": "Wed, 15 Jul 2026 14:00:00 GMT",
+      "source": "Space",
+      "category": "science"
+    },
+    {
+      "title": "Astronauts Manufacture Ultra-Smooth Optical Lenses Aboard the ISS - AZoOptics",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqaGNkc0hNMjdwem93UlB0THhjeDdIZVZsYmVLSmVYRjFzc2oteWJzRUM5N0NPMXNMTWthQi1qanprZ09pSEJvWEJHQ2xFVUhzZFRMN3BJLWZjZGFM?oc=5",
+      "published": "Wed, 15 Jul 2026 14:00:00 GMT",
+      "source": "AZoOptics",
+      "category": "science"
+    },
+    {
+      "title": "Machine Learning in Geology: Key Data and Modeling Challenges - AZoMining",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rUmIyS2NhQjFiaElveGRMRVhQYXRVSmo4ZHAteDVHOW5mSjR2SVptbVB4alRsMmhYQ1pfWWgyV0VVY09xRXlROVdRcjFQUG44NUZxTHBhd2JXSFJ5QmFQd3ppNA?oc=5",
+      "published": "Wed, 15 Jul 2026 15:37:00 GMT",
+      "source": "AZoMining",
+      "category": "science"
+    },
+    {
+      "title": "Measuring the high-energy neutrino sky using the deep-valley neutrino observatory TAMBO - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KNmhJZVRaSHdiOXVOSG0xc2FfRDBoQTE5UDZEckJqZEVYOWpONmtMTlpObWQyQlhxRUdtYmZQcVZ1SkU5eTdvNl9VUUZoTGJkNG9EZjhiaEo0T1F1WjhZ?oc=5",
+      "published": "Wed, 15 Jul 2026 11:36:56 GMT",
+      "source": "Nature",
       "category": "science"
     },
     {

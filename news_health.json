@@ -1,16 +1,44 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "San Antonio one of four sites tapped for national study on liver disease",
-      "description": "People across the country, especially in San Antonio, are dying from a disease they don\u2019t know they have until it\u2019s too late.",
-      "link": "https://www.ksat.com/news/local/2026/07/14/san-antonio-one-of-four-sites-tapped-for-national-study-on-liver-disease-that-affects-locals/",
-      "source": "Ksat",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/ksat/68f58fa7-277e-4a92-b1c6-889ccbb41bf2/image.jpg",
-      "published": "2026-07-14 22:46:52",
+      "title": "Medical expert and breast cancer survivor reflects on the lifesaving impact of breast cancer screening",
+      "description": "In Colorado, and even more so in El Paso County, the breast cancer screening rate is below the national average. What you need to know.",
+      "link": "https://www.kktv.com/2026/07/15/medical-expert-breast-cancer-survivor-reflects-lifesaving-impact-breast-cancer-screening/",
+      "source": "Https://www.kktv.com",
+      "image": "https://gray-kktv-prod.gtv-cdn.com/resizer/v2/UBHT3LKVWVGYBAN3GAJ23GTKRE.jpg?auth=0bc3cf77f746d1e8fbe0e3fb5b4aa8a6b8ce10059dc8bfd424646be81f90b84b&width=1200&height=600&smart=true",
+      "published": "2026-07-15 00:11:47",
       "category": [
         "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "As cyclosporiasis cases rise, consumers are left guessing which foods to avoid",
+      "description": "Officials are still searching for the source of the outbreak, prompting consumers to seek advice on social media about which foods to avoid.",
+      "link": "https://www.cbsnews.com/minnesota/news/cyclospora-outbreak-foods-to-avoid/",
+      "source": "Minnesota Cbs Local",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/14/88c5c842-51e6-4a2f-9eea-6657eb5a2ca2/thumbnail/1024x576/774e8483f52cf535032c29c2bcd44e1c/gettyimages-2204131072.jpg",
+      "published": "2026-07-15 00:11:26",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How Yankees' Cam Schlittler is soaking in All-Star Game experience",
+      "description": "At his first All-Star Game, Yankees right-hander Cam Schlittler has enjoyed the unique Philly atmosphere and meeting some legendary AL teammates.",
+      "link": "https://www.northjersey.com/story/sports/mlb/yankees/2026/07/14/yankees-cam-schlittler-2026-mlb-all-star-game-experience/90905165007/",
+      "source": "North Jersey Media Group",
+      "image": "https://www.northjersey.com/gcdn/authoring/authoring-images/2026/07/14/PNJM/90922796007-usatsi-29386299.jpg?crop=5509,3100,x0,y286&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-07-15 00:11:23",
+      "category": [
         "health"
       ],
       "country": [

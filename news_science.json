@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
+      "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o",
+      "source": "The Bbc",
+      "image": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/14f0/live/04832000-7f8b-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "2026-07-15 00:11:32",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

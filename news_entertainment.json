@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "This Existing Blood Test May Be Able to Help Predict the Onset of Alzheimer\u2019s",
+      "description": "Researchers used an existing Alzheimer\u2019s blood biomarker to estimate symptom timing, but doctors warn diagnosis still requires a full clinical workup.",
+      "link": "https://www.oprahdaily.com/life/health/a72041202/alzheimers-blood-test-prediction/",
+      "source": "Oprah Daily",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2181721789-69af3254f4172.jpg",
+      "published": "2026-07-15 20:08:00",
+      "category": [
+        "lifestyle",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

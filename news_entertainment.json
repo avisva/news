@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Did you know that Singapore comedians Gurmit Singh once slept in a bank, and Mark Lee sold rambutans while still in school?",
-      "description": "Long before the spotlight, SG's comedians had humble beginnings, from selling rambutans and sleeping in a bank to working at food stalls and teaching piano lessons This article ( Did you know that Singapore comedians Gurmit Singh once slept in a bank, and Mark Lee sold rambutans while still in school? ) first appeared on The Independent Singapore News .",
-      "link": "https://theindependent.sg/did-you-know-that-singapore-comedians-gurmit-singh-once-slept-in-a-bank-and-mark-lee-sold-rambutans-while-still-in-school/",
-      "source": "The Independent Singapore",
-      "image": "https://sgp1.digitaloceanspaces.com/theindependentsg/uploads/2026/7/c84aae3e-06a3-44ba-9059-81f2ac0b7996.jpg",
-      "published": "2026-07-16 06:03:50",
+      "title": "Portugal Weather Today (16 July): Latest Forecast & Regional Outlook",
+      "description": null,
+      "link": "https://www.theportugalnews.com/news/2026-07-16/portugal-weather-today-16-july-latest-forecast-regional-outlook/1055904",
+      "source": "The Portugal News",
+      "image": null,
+      "published": "2026-07-16 08:01:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "singapore"
+        "portugal"
+      ]
+    },
+    {
+      "title": "Did Deepika Padukone post in support of Sonam Wangchuk? A screenshot goes viral, here\u2019s the truth",
+      "description": "A viral screenshot claiming Deepika Padukone supported Sonam Wangchuk has sparked widespread debate on social media. Here's the truth behind the post and why it is attracting attention.",
+      "link": "https://www.moneycontrol.com/entertainment/did-deepika-padukone-post-in-support-of-sonam-wangchuk-a-screenshot-goes-viral-heres-the-truth-article-13975562.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260716073640_Deepika-Padukon-alleged-post-about-Sonam-Wangchuk-goes-viral.png",
+      "published": "2026-07-16 08:00:58",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

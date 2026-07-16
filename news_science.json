@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Super-loud gravitational waves offer a new way to study black hole event horizons",
+      "description": "Region near the \"surface of no return\" was previously only accessible with theoretical models The post Super-loud gravitational waves offer a new way to study black hole event horizons appeared first on Physics World .",
+      "link": "https://physicsworld.com/a/super-loud-gravitational-waves-offer-a-new-way-to-study-black-hole-event-horizons/",
+      "source": "Physicsworld",
+      "image": "https://physicsworld.com/wp-content/uploads/2026/07/16-07-2026-black-hole-event-horizon-region-small.jpg",
+      "published": "2026-07-16 08:00:58",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

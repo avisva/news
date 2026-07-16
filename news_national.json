@@ -1,5 +1,65 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "MRPL Announces Key Management Changes: New Internal Auditor and Cost Auditor Appointed",
+      "description": "MRPL announces key management changes: Shri Sanjib Kumar Mandal appointed as Internal Auditor, M/s Bandyopadhyaya Bhaumik & Co. as Cost Auditor for FY 2026-27. Read full details.",
+      "link": "https://www.psuconnect.in/psu-news/mrpl-announces-key-management-changes-new-internal-auditor-and-cost-auditor-appointed",
+      "source": "Psu Connect",
+      "image": "https://images.psuconnect.in/MRPL_Announces_Key_Management_Changes_New_Internal_Auditor_and_Cost_Auditor_Appointed.jpg",
+      "published": "2026-07-15 14:24:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Indian Grey Hornbill returns to Gir after six decades, records four years of successful breeding, study finds",
+      "description": "Indian Grey Hornbills have bred successfully in Gujarat's Gir forests for four consecutive years after reintroduction, marking a significant milestone in species restoration efforts.",
+      "link": "https://www.moneycontrol.com/science/indian-grey-hornbill-returns-to-gir-after-six-decades-records-four-years-of-successful-breeding-study-finds-article-13974923.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260715142239_Sheetal-fi.jpg",
+      "published": "2026-07-15 14:23:54",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "From Technology To Fashion: Anuradha Viswanathan's Change Of Career",
+      "description": "Anuradha Viswanathan transitioned from a career in engineering and technology to modelling and acting after entering beauty pageants. Based in the UAE, she has walked at major fashion events in India and abroad, worked with leading designers, made her acting debut in Parchaayi, and continues to build a career across fashion and entertainment.",
+      "link": "https://www.freepressjournal.in/focused-view/from-technology-to-fashion-anuradha-viswanathans-change-of-career",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-15/pnza7equ/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-07-15T195324.685.jpg",
+      "published": "2026-07-15 14:23:53",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Netflix's next growth chapter hinges on keeping viewers hooked",
+      "description": "The streaming giant has shed over a fifth of its value this year due to doubts about its growth efforts, including an ad business that is still far from becoming a major revenue stream.",
+      "link": "https://www.cnbctv18.com/technology/netflixs-next-growth-chapter-hinges-on-keeping-viewers-hooked-19946430.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-81-2026-07-534cb9df79693024c7d3f9b0289aa71a.jpg",
+      "published": "2026-07-15 14:23:51",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

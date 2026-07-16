@@ -1,46 +1,61 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "YOU SAID IT: Future 'treeson' charges?",
-      "description": "Thursday, July 16: Here are today's Ottawa Sun letters to the editor.",
-      "link": "https://ottawasun.com/opinion/letters/you-said-it-future-treeson-charges",
-      "source": "Ottawa Sun",
-      "image": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2026/07/png-1130n-stanleyparktreecutting-449_280829088.jpg?quality=100&strip=all",
-      "published": "2026-07-16 08:00:59",
+      "title": "Former Iranian official fighting deportation wants name kept secret",
+      "description": null,
+      "link": "https://www.winnipegsun.com/news/world/ex-iranian-deputy-minister-seeks-to-keep-identity-secret/article_9a68f22d-f97f-4941-a69d-ec354f4f0cc7.html",
+      "source": "Winnipeg Sun",
+      "image": null,
+      "published": "2026-07-16 10:01:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "Zambia\u2019s former vice president Guy Scott dies at 82",
-      "description": "He became Africa's \u200bfirst white head of state \u200cin two decades when he briefly served as acting president in 2014 The post Zambia\u2019s former vice president Guy Scott dies at 82 appeared first on Zimbabwe News Now .",
-      "link": "https://www.zimlive.com/zambias-former-vice-president-guy-scott-dies-at-82/",
-      "source": "Zimbabwean News",
-      "image": null,
-      "published": "2026-07-16 08:00:58",
+      "title": "New rainwater catchment law could boost housing stock",
+      "description": "The Hawaii Legislature passed a bill this year that now allows folks across the state to install rainwater catchment systems. The post New rainwater catchment law could boost housing stock appeared first on The Garden Island .",
+      "link": "https://www.thegardenisland.com/2026/07/16/opinion/new-rainwater-catchment-law-could-boost-housing-stock/",
+      "source": "The Garden Island Newspaper",
+      "image": "https://www.thegardenisland.com/wp-content/themes/Thegardenisland/images/logo-600x200.png",
+      "published": "2026-07-16 10:01:00",
       "category": [
-        "politics",
-        "lifestyle",
-        "top"
+        "politics"
       ],
       "country": [
-        "zimbabwe"
+        "united states of america"
       ]
     },
     {
-      "title": "Meet The Democrats Running To Replace Graham Platner",
-      "description": "Eight Democrats are vying to replace former Senate nominee Graham Platner after he withdrew from the race last week following a string of scandals involving rape allegations, a Nazi tattoo, and controversial online posts that plagued his campaign. They will gather to debate on Thursday evening. Wednesday was the deadline to file with the Maine ...",
-      "link": "https://www.dailywire.com/news/meet-the-democrats-running-to-replace-graham-platner",
-      "source": "The Daily Wire",
-      "image": "https://dw-wp-production.imgix.net/2026/07/GettyImages-2279841102.jpg?ar=16%3A9&amp;auto=compress&amp;crop=faces&amp;cs=origin&amp;fit=crop&amp;w=1200&amp;h=800&amp;ixlib=react-9.11.0",
-      "published": "2026-07-16 08:00:57",
+      "title": "St. Joseph approves amendments for Harbor Shores brownfield plan",
+      "description": "ST. JOSEPH \u2014 St. Joseph commissioners did their part this week to amend the brownfield plan for the Harbor Shores project.",
+      "link": "https://www.heraldpalladium.com/communities/st_joseph/st-joseph-approves-amendments-for-harbor-shores-brownfield-plan/article_5f7dec18-a069-58c4-a05f-500e760e3d1f.html",
+      "source": "Herald Palladium",
+      "image": "https://bloximages.chicago2.vip.townnews.com/heraldpalladium.com/content/tncms/assets/v3/editorial/6/0a/60aa2c22-fbd7-5afa-801c-d0d5df51433b/6a57f03ce21cd.image.jpg?resize=300%2C220",
+      "published": "2026-07-16 10:01:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Editorial: When policy becomes personal",
+      "description": "On Tuesday, Allegheny County Executive Sara Innamorato went public with some personal news: her pregnancy. The first female to lead the county will also be the first to give birth in office.",
+      "link": "https://triblive.com/opinion/editorial-when-policy-becomes-personal/",
+      "source": "Home | Triblive.com",
+      "image": "https://assets-varnish.triblive.com/2026/07/9759293_web1_PTR-HRCVote8-071426.JPG",
+      "published": "2026-07-16 10:01:00",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"

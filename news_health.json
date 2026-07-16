@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Who gets frozen embryos after divorce? South African law is not straightforward",
+      "description": "A leading fertility lawyer says ownership of frozen embryos after a breakup depends on South African law, fertility clinic agreements and the unique circumstances of each case.",
+      "link": "https://www.ewn.co.za/who-gets-frozen-embryos-after-divorce-south-african-law-is-not-straightforward/",
+      "source": "Ewn",
+      "image": "https://media-cache.primedia-service.com/media/mocnxr4i/ivf-fertilised-human-egg-embryo-south-africa-ownership-dispute.jpg",
+      "published": "2026-07-16 06:04:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "south africa"
+      ]
+    }
+  ]
 }

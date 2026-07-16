@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Apple reportedly explores AI chip acquisitions as it races to strengthen its infrastructure",
+      "description": "Apple is exploring acquisitions of semiconductor companies to accelerate development of AI server chips, reflecting mounting pressure to improve the computing infrastructure behind its AI ambitions, according to The Information.",
+      "link": "https://www.digitimes.com/news/a20260716VL210/apple-ai-chip-ai-server-acquisition-infrastructure-nvidia.html",
+      "source": "Digitimes",
+      "image": "https://img.digitimes.com/newsshow/20260716vl210_files/2_b.jpg",
+      "published": "2026-07-16 02:57:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "china"
+      ]
+    }
+  ]
 }

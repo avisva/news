@@ -1,20 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "This Existing Blood Test May Be Able to Help Predict the Onset of Alzheimer\u2019s",
-      "description": "Researchers used an existing Alzheimer\u2019s blood biomarker to estimate symptom timing, but doctors warn diagnosis still requires a full clinical workup.",
-      "link": "https://www.oprahdaily.com/life/health/a72041202/alzheimers-blood-test-prediction/",
-      "source": "Oprah Daily",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2181721789-69af3254f4172.jpg",
-      "published": "2026-07-15 20:08:00",
+      "title": "Baron Corbin\u2019s First WWE Match In Nearly Two Years Announced",
+      "description": "A former United States Champion is officially set to compete in his first WWE match in nearly two years. Baron Corbin made a shocking return during last Friday\u2019s episode of SmackDown, catching fans completely off guard. While there had been some speculation that Corbin could be on his way back to WWE, few expected him [...]",
+      "link": "https://www.ewrestlingnews.com/news/wwe/baron-corbins-first-wwe-match-in-nearly-two-years-announced",
+      "source": "Ewrestlingnews.com",
+      "image": "https://i0.wp.com/www.ewrestlingnews.com/wp-content/uploads/2026/07/Baron-Corbin-returns-to-WWE-SmackDown.jpg?fit=900%2C506&quality=30&ssl=1",
+      "published": "2026-07-15 22:55:52",
       "category": [
-        "lifestyle",
         "entertainment"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Jesy Nelson says 'I feel so proud' as she celebrates a huge win in her SMA campaign and confirms screening test will now be rolled out across the whole of the UK",
+      "description": "Jesy Nelson has revealed her joy as she announced the SMA Type 1 screening test will now be rolled out across the whole of the UK as a result of her campaigning.",
+      "link": "https://www.dailymail.com/tvshowbiz/article-15979231/Jesy-Nelson-win-SMA-screening-test-confirms-rolled-UK.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/07/15/16/110035859-0-image-a-11_1784127643445.jpg",
+      "published": "2026-07-15 22:55:42",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

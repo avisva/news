@@ -1,28 +1,14 @@
 {
   "status": "success",
-  "totalResults": 18,
+  "totalResults": 29,
   "results": [
     {
-      "title": "Symptoms and treatment for the cyclosporiasis bug",
-      "description": "There are many practical steps you can take to reduce your risk of catching cyclosporiasis, including good food-handling practices and choices about what to eat.",
-      "link": "https://www.rdrnews.com/symptoms-and-treatment-for-the-cyclosporiasis-bug/article_bf2d62b2-ae00-5094-a77c-5b2376a95440.html",
-      "source": "Rdrnews",
-      "image": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/e/6a/e6a80687-7ab5-5c87-90af-5050248c387a/6a5802d090187.image.jpg?resize=300%2C240",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ben & Jerry's Foundation says it will suspend operations",
-      "description": "The Ben & Jerry\u2019s Foundation says it will suspend its operations on Dec. 31 unless a legal ruling in its favor restores its funding.",
-      "link": "https://www.timesargus.com/news/local/ben-jerrys-foundation-says-it-will-suspend-operations/article_eda34f61-a015-5fce-8954-12d0985559cb.html",
-      "source": "Times Argus",
-      "image": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/custom/image/b304aa08-5df8-11e8-b455-b382f4872e89.jpg?crop=435%2C435%2C0%2C53&resize=200%2C200&order=crop%2Cresize",
-      "published": "2026-07-15 20:08:00",
+      "title": "Downtown Investment Authority board votes to demolish Sax Seafood building",
+      "description": "The partially finished structure will be razed at a cost of up to $75,000.",
+      "link": "https://www.jaxdailyrecord.com/news/2026/jul/15/downtown-investment-authority-board-votes-to-demolish-sax-seafood-building/",
+      "source": "Jacksonville Daily Record",
+      "image": "https://media.yourobserver.com/img/photos/2026/07/08/20260708_DIA_Sax_1.jpg",
+      "published": "2026-07-15 22:56:00",
       "category": [
         "business",
         "top"
@@ -32,159 +18,12 @@
       ]
     },
     {
-      "title": "BBC FIFA World Cup viewers ask 'is that him?' as pop legend spotted at semi-final",
-      "description": "England's football team were playing Argentina on Wednesday night in the World Cup semi-finals.",
-      "link": "https://www.mirror.co.uk/tv/tv-news/fifa-world-cup-fans-ask-37436940",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37436915.ece/ALTERNATES/s615/2_GettyImages-2285631244.jpg",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "This Existing Blood Test May Be Able to Help Predict the Onset of Alzheimer\u2019s",
-      "description": "Researchers used an existing Alzheimer\u2019s blood biomarker to estimate symptom timing, but doctors warn diagnosis still requires a full clinical workup.",
-      "link": "https://www.oprahdaily.com/life/health/a72041202/alzheimers-blood-test-prediction/",
-      "source": "Oprah Daily",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2181721789-69af3254f4172.jpg",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "lifestyle",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Joburg braces for another water maintenance shutdown \u2014 what you need to know",
-      "description": "Johannesburg residents brace for another maintenance shutdown this Friday, 17 July 2026, as crucial water supply systems face reduced pressure and possible shortages across numerous communities.",
-      "link": "https://www.dailymaverick.co.za/article/2026-07-15-joburg-braces-for-another-water-maintenance-shutdown-what-you-need-to-know/",
-      "source": "Daily Maverick",
-      "image": "https://cdn.dailymaverick.co.za/i/aPhGbSAA2V9nIpaTOug5eA6qd1w=/800x0/smart/filters:strip_exif()/file/attachments/orphans/WATER_FILE_01_895563.jpg",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "Isolated storms on the Gulf Coast Wednesday",
-      "description": "More rain is possible Wednesday, but not everyone is expected to see it. Your Gulf Coast Weather Most Accurate Forecast calls for isolated showers and thunderstorms to develop, and some storms could bring gusty winds, heavy rainfall, and frequent lightning.",
-      "link": "https://www.gulfcoastnewsnow.com/article/southwest-florida-storm-chance-wednesday/71977467",
-      "source": "Wbbh",
-      "image": "https://hips.hearstapps.com/htv-prod/images/f65fe624-e958-46c5-946a-0ac031656c14.png",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The Recycling Partnership names new CEO",
-      "description": "TRP says it chose Greg Saxon, former COO of ITAD company PedalPoint Recycling, for his expertise in recycling, packaging, procurement and circular economy skills. He succeeds founder Keefe Harrison.",
-      "link": "https://www.wastedive.com/news/the-recycling-partnership-names-new-ceo-greg-saxon/825348/",
-      "source": "Waste Dive",
-      "image": "https://imgproxy.divecdn.com/gi8UJYz0wbPLFcOqtPPFIpEHNMAbUiOmIPBi0T8Jt7w/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkyNjY3ODQyLmpwZw==.webp",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "HelloNation Explains What Counts as an Electrical Emergency, Featuring Electrical Expert Gerald Talbot",
-      "description": "The article outlines common warning signs that require prompt attention to help reduce the risk of injury and property damage. KNOXVILLE, Tenn., July 15, 2026 /PRNewswire/ -- What counts as an electrical emergency? HelloNation answers that question in an article featuring insights from...",
-      "link": "https://www.prnewswire.com/news-releases/hellonation-explains-what-counts-as-an-electrical-emergency-featuring-electrical-expert-gerald-talbot-302826822.html",
-      "source": "Pr Newswire",
-      "image": null,
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Child, 11, dies after he's hit by bus 'trying to get to mum'",
-      "description": "A coroner concluded Seth Fulton crossed the road when it was 'not safe to go'",
-      "link": "https://www.bristolpost.co.uk/news/uk-world-news/child-11-dies-after-hes-11061783",
-      "source": "Bristolpost Co Uk",
-      "image": "https://i2-prod.derbytelegraph.co.uk/incoming/article10924318.ece/ALTERNATES/s615/1_seth-fulton.jpg",
-      "published": "2026-07-15 20:08:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Officially no deal but don\u2019t cry for Dallas Cowboys WR George Pickens, his pay day is coming",
-      "description": "Dallas Cowboys WR George Pickens didn\u2019t get mega long-term contract extension he hoped for after a break-out All-Pro campaign in 2025. At least not yet. He will have to settle...",
-      "link": "https://sports.yahoo.com/articles/officially-no-deal-don-t-200758701.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ccRAsH13lENH9Hx1gSil0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/allcity_network_dallas_articles_499/82a160767fc23f259fad3a72ba557724",
-      "published": "2026-07-15 20:07:58",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "ETC Announces Fiscal 2027 First Quarter Results",
-      "description": "SOUTHAMPTON, Pa., July 15, 2026 (GLOBE NEWSWIRE) -- Environmental Tectonics Corporation (OTCID: ETCC) (\"ETC\u201d or the \"Company\u201d) today reported its financial results for the thirteen week period ended May 29, 2026 (the \"2027 first fiscal quarter\u201d). Robert L. Laurent, Jr., ETC\u2019s Chief Executive Officer and President stated, \"We once again generated positive operating results and are especially pleased with the 17% increase in backlog vs. prior year driven by $39.5 million in contract awards during the 2027 first fiscal quarter. We are well positioned for continued positive results as we exit the quarter with a sales backlog of $85 million.\u201d Fiscal 2027 First Quarter Results of Operations Net Income Net income was $0.2 million, or $0.01 diluted earnings per share, in the 2027 first fiscal quarter, compared to net income of $1.3 million during the 2026 first fiscal quarter, or $0.07 diluted earnings per share. The $1.1 million, or 82.6% decrease is primarily attributable to a $0.8 million, or 16.4% decrease in gross profit, a $0.4 million, or 15.8% increase in operating expense and a $0.2 million, or 203.8% increase in other expense (income), net partially offset by a $0.2 million, or 61.5% decrease in income tax provision in the 2027 first fiscal quarter as compared to 2026 first fiscal quarter. Net Sales Net sales in the 2027 first fiscal quarter were $16.2 million, a decrease of $1.4 million, or 8.0%, compared to 2026 first fiscal quarter net sales of $17.6 million. Excluding sales related to the construction of the aeromedical center building, sales were $0.3 million or 2.5% higher for first fiscal quarter 2027 at $13.9 million as compared to $13.6 million for first fiscal quarter 2026. The decrease in net sales was mainly a result of a $1.8 million, or 16.5% decrease in ATS sales, all of which relates to aeromedical center building revenue as well as a $2.7 million or 54.4% decrease in Sterilizer Systems sales partially offset by a $3.1 million, or 1760.1% increase in ETSS sales in the 2027 first fiscal quarter as compared to 2026 first fiscal quarter. Gross Profit Gross profit for the 2027 first fiscal quarter was $3.9 million, or 24.1% of net sales compared to $4.7 million, or 26.5% of net sales in the 2026 first fiscal quarter. Excluding the impact of the aeromedical center building revenue, gross profit margin was 27.9% for first fiscal quarter 2027 as compared to 34.3% for first fiscal quarter 2026. The decrease in gross profit margin as a percentage of sales was attributable to two ATS projects that had negative job costs revisions in the first fiscal quarter of 2027 as well as one ATS project having a significant positive impact on gross profit margin in the first fiscal quarter 2026. Operating Expenses Operating expenses, including sales and marketing, general and administrative, and research and development, for the 2027 first fiscal quarter were $2.9 million, an increase of $0.4 million, or 15.8%, compared to $2.5 million for the 2026 first fiscal quarter. The increase in operating expenses was due primarily to higher selling and general administrative expense in the 2027 first fiscal quarter as compared to the 2026 first fiscal quarter. Operating Income Operating income for the 2027 fiscal first quarter was $1.0 million, a decrease of $1.2 million, or 53.6%, compared to $2.2 million for the 2026 first fiscal quarter. The decrease in operating income is attributable to a $0.8 million decrease in gross profit attributable to lower gross profit margins and a $0.4 million increase in operating expenses. Interest Expense, Net Interest expense, net, was consistent for the 2027 first fiscal quarter as compared to the 2026 first fiscal quarter. Other Expense (Income) Other Expense was $0.1 million for the 2027 first fiscal quarter as compared to other income of ($0.1) million for the 2026 first fiscal quarter, an increase of $0.2 million, or 203.8%. Income Tax Provision Income tax provision for the 2027 first fiscal quarter was $0.2 million compared to $0.4 million in the 2026 first fiscal quarter, a decrease of $0.2 million, or 61.5%. The decrease is attributable to a decrease in income before income taxes in the first fiscal quarter 2027 as compared to the first fiscal quarter 2026. Cash Flows from Operating, Investing, and Financing Activities During the 2027 first fiscal quarter, cash provided by operating activities were $1.2 million, an increase of $4.1 million compared to cash used in operating activities of $2.9 million during the 2026 first fiscal quarter. Cash flows during the 2027 first fiscal quarter were positively impacted by a decrease in accounts receivable, net, and an increase in accounts payable and other accrued liabilities slightly offset by a decrease in net income as compared to 2026 first fiscal quarter. Cash used for investing activities primarily relates to funds used for capital expenditures of equipment and software development. The Company\u2019s investing activities used $0.1 million during the 2027 and 2026 first fiscal quarters. The Company\u2019s financing activities used $1.6 million of cash during the 2027 first fiscal quarter from repayments under the Company\u2019s credit facility as compared to borrowings under the Company\u2019s credit facility of $1.0 million during the 2026 first fiscal quarter. About ETC ETC was incorporated in 1969 in Pennsylvania. For over five decades, we have provided our customers with products, services, and support. Innovation, continuous technological improvement and enhancement, and product quality are core values that are critical to our success. We are a significant supplier and innovator in the following areas: (i) software driven products and services used to create and monitor the physiological effects of flight, including high performance jet tactical flight simulation, fixed and rotary wing upset prevention and recovery and spatial disorientation, and both suborbital and orbital commercial human spaceflight: altitude (hypobaric) chambers; hyperbaric chambers for multiple persons (multiplace chambers) collectively, Aircrew Training Systems (\"ATS\u201d); (ii) Advanced Disaster Management Simulators (\"ADMS\u201d); (iii) steam and gas (ethylene oxide) sterilizer systems (\"Sterilizer Systems\u201d or \"Sterilizers\u201d); and (iv) Environmental Testing and Simulation Systems (\"ETSS\u201d). We operate in two primary business segments, Aerospace Solutions (\"Aerospace\u201d) and Commercial/Industrial Systems (\"CIS\u201d). Aerospace encompasses the design, manufacture, and sale of: (i) ATS products; and (ii) ADMS, as well as integrated logistics support (\"ILS\u201d) for customers who purchase these products or similar products manufactured by other parties. These products and services provide customers with an offering of comprehensive solutions for improved readiness and reduced operational costs. Sales of our Aerospace products are made principally to U.S. and foreign government agencies and to civil aviation organizations. CIS encompasses the design, manufacture, and sale of: (i) sterilizer systems; and (ii) ETSS; as well as parts and service support for customers who purchase these products or similar products manufactured by other parties. Sales of our CIS products are made principally to the healthcare, pharmaceutical, and automotive industries. ETC-PZL Aerospace Industries Sp. z o.o. (\"ETC-PZL\u201d), our 100%-owned subsidiary in Warsaw, Poland, is currently our only operating subsidiary. ETC-PZL manufactures certain simulators within our Aerospace segment. The majority of our net sales are generated from long-term contracts with U.S. and foreign government agencies (including foreign military sales (\"FMS\u201d) contracted through the U.S. Government) for the research, design, development, manufacture, integration, and sustainment of ATS products, including Chambers and the simulators manufactured and sold through ETC-PZL, collectively, ATS. The Company also enters into long-term contracts with domestic and international customers for the sale of sterilizer systems and ETSS. Net sales of ADMS are generally much shorter term in nature and vary between domestic and international customers. We generally provide our products and services under fixed-price contracts. ETC\u2019s unique ability to offer complete systems, designed and produced to high technical standards, sets it apart from its competition. ETC\u2019s headquarters is located in Southampton, PA. For more information about ETC, visit http://www.etcusa.com/. The information contained on our website is not incorporated by reference in this news release. Forward-looking Statements This news release contains forward-looking statements, which are based on management\u2019s expectations and are subject to uncertainties and changes in circumstances. Words and expressions reflecting something other than historical fact are intended to identify forward-looking statements, and these statements may include words such as \"may\u201d, \"will\u201d, \"should\u201d, \"expect\u201d, \"plan\u201d, \"anticipate\u201d, \"believe\u201d, \"estimate\u201d, \"future\u201d, \"predict\u201d, \"potential\u201d, \"intend\u201d, or \"continue\u201d, and similar expressions. We base our forward-looking statements on our current expectations and projections about future events or future financial performance. Our forward-looking statements are subject to known and unknown risks, uncertainties and assumptions about ETC and its subsidiaries that may cause actual results to be materially different from any future results implied by these forward-looking statements. We caution you not to place undue reliance on these forward-looking statements. Except as required by law, we assume no obligation to update or revise any forward looking statements. - Financial Table Follows - Table AENVIRONMENTAL TECTONICS CORPORATIONSUMMARY TABLE OF RESULTS(in thousands, except per share information)(unaudited) Thirteen weeks ended Variance (in thousands, except per share information)May 29, 2026 May 30, 2025 ($) (%) Net sales$16,186 $17,601 $(1,415) -8.0 Cost of goods sold 12,290 12,939 (649) -5.0 Gross Profit 3,896 4,662 (766) -16.4 Gross profit margin % 24.1% 26.5% -2.4% -9.1% Operating expenses 2,892 2,498 394 15.8 Operating income 1,004 2,164 (1,160) -53.6 Operating margin % 6.2% 12.3% -6.1% -49.6% Interest expense, net 549 563 (14) -2.5 Other expense (income), net 81 (78) 159 -203.8 Income before income taxes 374 1,679 (1,305) -77.7 Pre-tax margin % 2.3% 9.5% -7.2% -75.8% Income tax provision 150 390 (240) -61.5 Net income 224 1,289 (1,065) -82.6 Preferred Stock dividends (121) (121) - 0.0 Income attributable to common and participating shareholders$103 $1,168 $(1,065) -91.2 Per share information: Basic earnings per common and participating share: Distributed earnings per share: Common$- $- $- Preferred$0.02 $0.02 $- 0.0 Undistributed earnings per share: Common$0.01 $0.07 $(0.06) -85.7 Preferred$0.01 $0.07 $(0.06) -85.7 Diluted earnings per share$",
-      "link": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/etc-announces-fiscal-2027-first-quarter-results/2385433",
-      "source": "The Manila Times",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/16/1138934.png",
-      "published": "2026-07-15 20:07:57",
-      "category": [
-        "crime"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Arkansas first in religious liberty but consider the source",
-      "description": "Arkansas force feeds the 10 Commandments to students and gets a prize for the effort.",
-      "link": "https://arktimes.com/arkansas-blog/2026/07/15/arkansas-first-in-religious-liberty-but-consider-the-source",
-      "source": "Arkansas Times",
-      "image": null,
-      "published": "2026-07-15 20:07:56",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Minority stages walkout in Parliament over Deputy Speaker's ruling",
-      "description": "The Minority Caucus in Parliament staged a walkout accusing First Deputy Speaker Bernard Ahiafor of frustrating parliamentary oversight by preventing members from asking supplementary questions to a minister.",
-      "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Minority-stages-walkout-in-Parliament-over-Deputy-Speaker-s-ruling-2043423",
-      "source": "Ghana Web",
-      "image": "https://cdn.ghanaweb.com/imagelib/src/Afenyo-Markin_bgh.jpg",
-      "published": "2026-07-15 20:07:55",
+      "title": "Ghana must end the cycle where every high-profile investigation becomes political \u2013 CDD Fellow",
+      "description": "Dr John Osae-Kwapong, a Fellow at the Centre for Democratic Development (CDD-Ghana), has urged Ghana to break the cycle where every investigation involving high-profile public figures is viewed through a political lens.",
+      "link": "https://www.myjoyonline.com/ghana-must-end-the-cycle-where-every-high-profile-investigation-becomes-political-cdd-fellow/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2025/10/Screenshot-2025-10-23-at-08.01.02-1024x596.png",
+      "published": "2026-07-15 22:56:00",
       "category": [
         "politics",
         "top"
@@ -194,26 +33,131 @@
       ]
     },
     {
-      "title": "BayFirst Announces Impact of Asset Resolution Plan and Restatement of Prior Period Financial Statements",
-      "description": "ST. PETERSBURG, Fla., July 15, 2026 (GLOBE NEWSWIRE) -- BayFirst Financial Corp. (NASDAQ: BAFN) (\"BayFirst\u201d or \"Company\u201d), parent company of BayFirst National Bank (\"Bank\u201d) today announced that it has completed and quantified the impact of the asset resolution plan adopted in accordance with the transactions contemplated by the Stock Purchase Agreement dated April 28, 2026. The asset resolution plan includes the identification of specific loans within the Company\u2019s government guaranteed loan portfolio, as well as adjustments to the net amount expected to be collected on over 7,000 unguaranteed SBA 7(a) small balance loans. These adjustments impact loans measured at amortized cost and loans measured at fair value, and amount to $37.0 million. Furthermore, the Company will book an impairment of $1.5 million on a non-marketable equity investment in a firm who was a partner with the Company\u2019s former SBA 7(a) lending business and will also write down by $1.6 million the unamortized premiums on the Company\u2019s portfolio of purchased fully guaranteed USDA loans which are at risk of default or early prepayment. These items will be included in the Company\u2019s second quarter earnings and financial reports that are scheduled to be released after the close of markets on July 30, 2026. As a result of such review, the Company will restate its previously issued audited financial statements for the years ended December 31, 2024 and 2025, and for the first quarter ended March 31, 2026. The Company\u2019s management, in consultation with its Audit Committee and its Board of Directors, identified $2.8 million of deferred origination costs and $2.1 million of accrued interest related to loans which had defaulted or were placed into non-accrual status in prior periods, which resulted in a material understatement of provision expense and overstatement of net interest income during the effected periods 2024, 2025 and the first quarter of 2026. These misstatements have resulted in corrections to the Company\u2019s results of operations for the periods of 2024, 2025, and the first quarter of 2026. Specifically, the previously reported: (i) 2024 net income of $12.6 million will be restated to a net income of $11.4 million; (ii) 2025 net loss of $22.9 million will be restated to a net loss of $24.2 million; and (iii) first quarter 2026 net loss of $5.7 million will be restated to a net loss of $5.9 million. As a result, the Company\u2019s previously filed financial statements and other communication relating to those periods should no longer be relied upon. The Company anticipates it will file amendments to its 2025 Form 10-K and first quarter 2026 Form 10-Q by August 12, 2026. \"We take our obligation to provide accurate and transparent financial reporting seriously,\u201d stated Alfred Rogers, Chief Executive Officer. \"Once this understatement of provision expense was identified through our internal review process, we moved quickly to investigate, correct the error, and notify our shareholders and regulators. Despite the correction, the Bank remains well capitalized and well positioned to continue serving our customers and communities.\u201d About BayFirst Financial Corp. BayFirst Financial Corp. is a registered bank holding company based in St. Petersburg, Florida which commenced operations on September 1, 2000. Its primary source of income is derived from its wholly owned subsidiary, BayFirst National Bank, a national banking association which commenced business operations on February 12, 1999. The Bank currently operates eleven full-service banking offices throughout the Tampa Bay-Sarasota region and offers a broad range of commercial and consumer banking services to businesses and individuals. As of March 31, 2026, BayFirst Financial Corp. had $1.20 billion in total assets. Forward-Looking Statements In addition to the historical information contained herein, this presentation includes \"forward-looking statements\" within the meaning of such term in the Private Securities Litigation Reform Act of 1995. These statements are subject to many risks and uncertainties, including, but not limited to, the effects of health crises, global military hostilities, weather events, or climate change, including their effects on the economic environment, our customers and our operations, as well as any changes to federal, state or local government laws, regulations or orders in connection with them; the ability of the Company to implement its strategy and expand its banking operations; changes in interest rates and other general economic, business and political conditions, including changes in the financial markets; changes in business plans as circumstances warrant; risks related to mergers and acquisitions; changes in benchmark interest rates used to price loans and deposits, changes in tax laws, regulations and guidance; enforcement actions initiated by our regulators and their impact on our operations; and other risks detailed from time to time in filings made by the Company with the SEC, including, but not limited to those \"Risk Factors\u201d described in our most recent Form 10-K and Form 10-Q. Readers should note that the forward-looking statements included herein are not a guarantee of future events, and that actual events may differ materially from those made in or suggested by the forward-looking statements. Contacts: Alfred T. Rogers, Jr.Scott J. McKimChief Executive OfficerChief Financial Officer727.685.2097727.521.7085",
-      "link": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/bayfirst-announces-impact-of-asset-resolution-plan-and-restatement-of-prior-period-financial-statements/2385432",
-      "source": "The Manila Times",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/16/1138933.jpg",
-      "published": "2026-07-15 20:07:53",
+      "title": "Heat Advisory issued July 15 at 3:56PM PDT until July 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "description": "Heat Advisory: Catalina and Santa Barbara Islands, San Luis Obispo County Inland Central Coast, Santa Lucia Mountains and 14 more areas until Jul 15 at 11:06 PM The post Heat Advisory issued July 15 at 3:56PM PDT until July 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA appeared first on News Channel 3-12 .",
+      "link": "https://keyt.com/alerts/2026/07/15/heat-advisory-issued-july-15-at-356pm-pdt-until-july-16-at-800pm-pdt-by-nws-los-angeles-oxnard-ca/",
+      "source": "News Channel 3-12",
+      "image": "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg",
+      "published": "2026-07-15 22:56:00",
       "category": [
-        "crime"
+        "top",
+        "environment"
       ],
       "country": [
-        "philippines"
+        "united states of america"
       ]
     },
     {
-      "title": "United: Q2 Earnings Snapshot",
-      "description": "CHICAGO (AP) \u2014 CHICAGO (AP) \u2014 United Airlines Holdings Inc. (UAL) on Wednesday reported second-quarter earnings of $805 million.",
-      "link": "https://www.beloitdailynews.com/news/illinois-news/united-q2-earnings-snapshot/article_176aebb2-43f9-5bde-89ac-336f9bd871f0.html",
-      "source": "Beloit Daily News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/custom/image/c270922e-ebc4-11eb-8571-eb444426d521.png",
-      "published": "2026-07-15 20:07:52",
+      "title": "Extreme Heat Warning issued July 15 at 3:56PM PDT until July 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA",
+      "description": "Extreme Heat Warning: Santa Barbara County Southwestern Coast, Santa Barbara County Southeastern Coast, Santa Ynez Mountains Western Range and 2 more areas until Jul 15 at 11:06 PM The post Extreme Heat Warning issued July 15 at 3:56PM PDT until July 16 at 8:00PM PDT by NWS Los Angeles/Oxnard CA appeared first on News Channel 3-12 .",
+      "link": "https://keyt.com/alerts/2026/07/15/extreme-heat-warning-issued-july-15-at-356pm-pdt-until-july-16-at-800pm-pdt-by-nws-los-angeles-oxnard-ca-2/",
+      "source": "News Channel 3-12",
+      "image": "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg",
+      "published": "2026-07-15 22:56:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Wind Advisory issued July 15 at 3:56PM PDT until July 16 at 4:00AM PDT by NWS Los Angeles/Oxnard CA",
+      "description": "Wind Advisory: Santa Barbara County Southwestern Coast, Santa Barbara County Southeastern Coast, Santa Ynez Mountains Western Range and 2 more areas until Jul 15 at 11:06 PM The post Wind Advisory issued July 15 at 3:56PM PDT until July 16 at 4:00AM PDT by NWS Los Angeles/Oxnard CA appeared first on News Channel 3-12 .",
+      "link": "https://keyt.com/alerts/2026/07/15/wind-advisory-issued-july-15-at-356pm-pdt-until-july-16-at-400am-pdt-by-nws-los-angeles-oxnard-ca/",
+      "source": "News Channel 3-12",
+      "image": "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg",
+      "published": "2026-07-15 22:56:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Marlborough delays Farm Venue Law after public concerns",
+      "description": "A proposed local law regulating farm venue events remained under review Monday, July 13, after farmers and residents urged the Town Board to refine the legislation before adopting it. The ...",
+      "link": "https://www.timeshudsonvalley.com/stories/marlborough-delays-farm-venue-law-after-public-concerns,236066",
+      "source": "Mid Hudson Times",
+      "image": "https://timescommunitypapers.tbenson.communityq.com/images/nameplates/hvt.png",
+      "published": "2026-07-15 22:56:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "City leaders cut the ribbon on new tennis, pickleball courts at Shawnee Park",
+      "description": "It includes four pickleball courts and a revamped tennis court.",
+      "link": "https://www.wlky.com/article/shawnee-park-pickleball-courts-open/72065408",
+      "source": "Wlky",
+      "image": "https://hips.hearstapps.com/vidthumb/b82f2959-6b45-468a-90b0-d8c0fa8a05c9/dfb6c926-cad0-4e0a-b329-38d8a68fd7df.jpg",
+      "published": "2026-07-15 22:56:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Google AI search poses 'unacceptable' risk to kids: Common Sense Media - National News Desk",
+      "description": "Google AI search poses 'unacceptable' risk to kids: Common Sense Media National News Desk 'It's deeply disturbing.' What a new report says about risks Google's AI search features pose to kids PBS Google Search AI is under fire after safety report slams its safeguards (Update) Android Authority",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcTgwTmVxNDNmTHJrQ0lZS1dsV0NLRklqaEc4NVE3b0ZYR3o2aENlLTJNUkFON3lWNmpLbTB5Y2otVUM5NzRTRzE4RVRkTkpvb3BlUklUNVBUZkJBOEcxMTA0UmxGTEY4UWVoYldjYjlZZ3dCNF9XWDhiZUVnamJxX24xenVMdDFuZmhBWEY1YUIxM2wyQ2F0bkZlSzNpVk5UamRaTl9lVXRPZ2lrQW5rWWxqbVdRQ3pjQkE?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-15 22:55:53",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Mayor Holt unveils vision for new OKC commuter rail at annual speech",
+      "description": "OKC Mayor David Holt prioritizes public transit, connecting the city in annual address, unveiling plans for a proposed commuter rail",
+      "link": "https://www.oklahoman.com/story/news/local/oklahoma-city/2026/07/15/okc-mayor-david-holt-state-of-the-city-public-transit/90923729007/",
+      "source": "The Oklahoman",
+      "image": "https://www.oklahoman.com/gcdn/authoring/authoring-images/2026/07/15/NOKL/90933005007-state-of-the-city-12.jpg?crop=5946,3346,x0,y594&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-07-15 22:55:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Are Cubs, White Sox for real? At All-Star Game, division opponents of both teams weighed in",
+      "description": "<p>PHILADELPHIA \u2014 <a class=\"Link\" href=\"https://chicago.suntimes.com/mlb/2026/07/14/white-sox-miguel-vargas-strikes-blow-for-chicago-with-all-star-hr\" target=\"_blank\" >Miguel Vargas\u2019 second-deck home run</a> in Tuesday\u2019s All-Star Game, crushed to left field while Pete Crow-Armstrong was mic\u2019d up in center for the top of the eighth inning on Fox, was a moment for baseball fans in Chicago to savor.</p><p>As was Crow-Armstrong\u2019s base hit pulled through the right side of the infield in the bottom of the same frame, when Vargas, Tristan Peters and Munetaka Murakami all were in the field defensively.</p><p>The <a class=\"Link\" href=\"https://chicago.suntimes.com/white-sox\" target=\"_blank\" >White Sox</a> and <a class=\"Link\" href=\"https://chicago.suntimes.com/cubs\" target=\"_blank\" >Cubs</a> put their stamps on baseball\u2019s first half with winning records, and now their Midsummer Classic moments are in the books, too, after the American League\u2019s 4-0 win.</p><p>It\u2019s time for both teams to move on to more important things.</p><p>With the Sox in a virtual tie atop their division and the Cubs in second place in theirs \u2014 and both teams prominently positioned in the wild-card picture should it come to that \u2014 there will be levels of playoff fever on both sides of town for much, if not all, of the remaining 60-plus regular-season games.</p><p>Will both teams get into the playoffs for only the fourth time ever and the first in a non-pandemic season since 2008?</p><p>Along the way, how aggressive will each team be leading into the August 3 trade deadline?</p><p>This is kind fun, isn\u2019t it?</p><p>\u201cI love what we\u2019re doing right now,\u201d Vargas said.</p><p>\u201cWe\u2019re built to play in the playoffs,\u201d Crow-Armstrong said.</p><p>The Sox\u2019 50-45 record is the third-best in a down AL. They\u2019re tied in the division with the Guardians, three games up on the Twins, 61\u20442 in front of the Tigers and second in the wild-card standings.</p><p>The start of the second half could be dangerous for a Sox team that has been insatiable at home (31-17) but toothless on the road (19-28). Twelve of the Sox\u2019 next 19 games are away from Rate Field, while the Guardians have 13 of 20 on home turf. If the Sox can keep up with the Guardians into August, though, they\u2019ll be in a strong enough position that general manager Chris Getz could tip the scales with the right pitching acquisition or two at the deadline.</p><p>But who\u2019s the AL Central favorite right now? We asked around at Citizens Bank Park.</p><p>\u201cThe favorite? I think we are,\u201d said Guardians closer Cade Smith, who leads the majors with 28 saves.</p><p>It\u2019s not that the Sox haven\u2019t impressed the Guardians, according to Smith, it\u2019s just that the defending division champs have more to bring to bear over the long haul.</p><p>\u201cI think we should be favored because of the way that we play our game, the way that we\u2019ve played our game the last two years, showing the kind of resilience and grit as a group we\u2019re [known for],\u201d he said. \u201cThat\u2019s something we put on full display last year and still possess this year.\u201d</p><p>Outfielder Riley Greene of the Tigers \u2014 who ripped off a 9-1 streak right before the break \u2014 begged to differ.</p><p>\u201cWho\u2019s the favorite? Us,\u201d he said. \u201cI believe in my team. I believe in my team more than anyone. We\u2019re playing good baseball and just have to keep doing it, and we\u2019ll be there.\u201d</p><p>Greene praised the Sox\u2019 level of talent, while Twins manager Derek Shelton through bouquets specifically at Getz, rookie outfielder Sam Antonacci, pitcher Davis Martin and the Sox\u2019 trio of All-Stars. But Shelton dismissed the idea that there even is a favorite.</p><p>\u201cIf you play [the Sox], it\u2019s very evident that group enjoys being around each other and they play hard,\u201d Shelton said. \u201cBut the division couldn\u2019t be more wide open.\u201d</p><p>Given all the pitching injuries and hitting slumps they\u2019ve contended with, the Cubs will take their 54-42 record and make no apologies. But it\u2019s a bit of a head trip to ponder the fact they had separate 10-game winning streaks early on, tallied a 15-game home winning streak, were the hottest team in baseball over the last month of the first half at 20-8 and sill trail the Brewers \u2014 their ever-present tormentors \u2014 by five games in the NL Central.</p><p>How much, if at all, will the Cubs be able to slice into that deficit before the deadline? The good news is the Cubs begin the second half with 13 of 20 games at Wrigley Field. The bad news is the Brewers open with 16 of 22 at home. Sometimes, the Brewers\u2019 good timing seems simply uncanny.</p><p>The Cardinals are 31\u20442 games behind the Cubs, and the Pirates 41\u20442 back. Whom do the Brewers see as the biggest threat to their persistent stronghold?</p><p>\u201cI think the Cubs,\u201d catcher William Contreras said. \u201cThey got a good team.\u201d</p><div class=\"RelatedList Enhancement\" data-module data-align-center> <div class=\"RelatedList-title\">Related</div> <ul class=\"RelatedList-items\"> <li class=\"RelatedList-items-item\"> <a class=\"Link\" href=\"https://chicago.suntimes.com/white-sox/2026/07/14/white-sox-all-stars-munetaka-murakami-miguel-vargas-tristan-peters-mlb-philadelphia-citizens-bank-park\" >White Sox All-Stars on the exciting present \u2014 and their futures in Chicago</a> </li> <li class=\"RelatedList-items-item\"> <a class=\"Link\" href=\"https://chicago.suntimes.com/cubs/2026/07/14/next-all-star-game-wrigley-field-chicago-cubs-pete-crow-armstrong-kyle-schwarber-ryne-sandberg-home-run-derby\" >Next All-Star stop: Wrigley Field, where the last Home Run Derby was so punchless it\u2019s truly crazy</a> </li> <li class=\"RelatedList-items-item\"> <a class=\"Link\" href=\"https://chicago.suntimes.com/cubs/2026/07/13/pete-crow-armstrong-cubs-chicago-mlb-all-star-game-philadelphia-citizens-bank-park\" target=\"_blank\" >Pete Crow-Armstrong reps Cubs solo at All-Star Game, pushes back on being called face of the team</a> </li> </ul> </div> <p>But sensational starting pitcher Jacob Misiorowski didn\u2019t go there.</p><p>\u201cI mean, the Cubs are one of them, but I don\u2019t think I\u2019d say the biggest,\u201d Misiorowski said. \u201cI don\u2019t think any team is the biggest. I think they\u2019re all pretty equal. The Cardinals and Pirates are right there with them.\u201d</p><p>Young Cardinals slugger Jordan Walker, winner of the Home Run Derby, thinks his team, which took a three-game series at Wrigley at the start of the month, is on the verge of a playoff breakthrough.</p><p>\u201cI feel that in my gut,\u201d Walker said.</p><p>Cardinals manager Oliver Marmol said his team isn\u2019t hunting the Cubs or the Brewers, but he recognizes only one of those teams as the clear class of the division.</p><p>\u201cThey\u2019re in a really good window to win with the players they have,\u201d Marmol said of the Brewers. \u201cThe pitching, the rotation, the bullpen, the whole roster, the way they play the game, the way they\u2019re managed \u2014 all of it is in a really good spot and leads to a ton of success.\u201d</p><p>Everyone else is just trying to get there.</p><div class=\"Enhancement\" data-align-center><div class=\"Enhancement-item\"> <div class=\"ExternalContent-wrapper\" > <div class=\"TweetUrl\"> <blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">MIGUEL VARGAS NO DOUBT HOME RUN <br><br>\u201cOh God\u201d says PCA mic\u2019d up \ud83d\ude02 <a href=\"https://t.co/bFCgHRB3zY\">pic.twitter.com/bFCgHRB3zY</a></p>\u2014 Six Point Sports (@SixPointSports) <a href=\"https://x.com/SixPointSports/status/2077223569118171446?ref_src=twsrc%5Etfw\">July 15, 2026</a></blockquote> <script async src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script> </div> </div> </div></div><p></p>",
+      "link": "https://chicago.suntimes.com/cubs/2026/07/15/cubs-white-sox-chicago-mlb-brewers-cardinals-guardians-tigers-twins-all-star-game",
+      "source": "Chicago Suntimes",
+      "image": "https://cst.brightspotcdn.com/dims4/default/994bdb9/2147483647/strip/false/crop/4776x3184+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F5e%2Fa1611fb74c7fb96cc757dfe4cee1%2Fcubs-brewers-baseball-5.jpg",
+      "published": "2026-07-15 22:55:52",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "School districts approve $1.66 billion in tax breaks for SpaceX chipmaking plant in Grimes County",
+      "description": "Two rural school districts have advanced plans for $1.66 billion in tax breaks for SpaceX's proposed chipmaking facility outside of College Station.Anderson-Shiro CISD and Iola ISD approved the SpaceX incentives during their separate meetings Tuesday night. The school boards will vote again after the agreements are finalized and approved by SpaceX and the state. Last month, Grimes County also agreed to waive its portion of the company's property taxes.The chipmaking facility, dubbed Terafab, is expected to employ more than 3,000 people. It would build chips for broadband internet satellites and the data centers that SpaceX founder Elon Musk wants to...",
+      "link": "https://freerepublic.com/focus/f-bloggers/4388117/posts",
+      "source": "Freerepublic",
+      "image": null,
+      "published": "2026-07-15 22:55:52",
       "category": [
         "business",
         "top"
@@ -223,26 +167,41 @@
       ]
     },
     {
-      "title": "Ganduje Calls for Ideology-Based Politics To Deepen Nigeria\u2019s Democracy",
-      "description": "Former National Chairman of the All Progressives Congress (APC), Dr. Abdullahi Umar Ganduje, has called for stronger ideological foundations in Nigeria\u2019s political parties, saying the absence of clear political philosophies has weakened the country\u2019s democratic process and encouraged defections driven by personal interests. Ganduje made the call on Wednesday in Abuja while speaking at the [...]",
-      "link": "https://leadership.ng/ganduje-calls-for-ideology-based-politics-to-deepen-nigerias-democracy/",
-      "source": "Leadership",
-      "image": "https://leadership.ng/wp-content/uploads/2026/07/1784145614701.jpg",
-      "published": "2026-07-15 20:07:52",
+      "title": "Baron Corbin\u2019s First WWE Match In Nearly Two Years Announced",
+      "description": "A former United States Champion is officially set to compete in his first WWE match in nearly two years. Baron Corbin made a shocking return during last Friday\u2019s episode of SmackDown, catching fans completely off guard. While there had been some speculation that Corbin could be on his way back to WWE, few expected him [...]",
+      "link": "https://www.ewrestlingnews.com/news/wwe/baron-corbins-first-wwe-match-in-nearly-two-years-announced",
+      "source": "Ewrestlingnews.com",
+      "image": "https://i0.wp.com/www.ewrestlingnews.com/wp-content/uploads/2026/07/Baron-Corbin-returns-to-WWE-SmackDown.jpg?fit=900%2C506&quality=30&ssl=1",
+      "published": "2026-07-15 22:55:52",
       "category": [
-        "politics"
+        "entertainment"
       ],
       "country": [
-        "nigeria"
+        "united states of america"
       ]
     },
     {
-      "title": "Vance: Reaction to false Michelle Obama insult at White House UFC fight was \u2018totally disproportionate\u2019",
-      "description": "By Alejandra Jaramillo, CNN (CNN) \u2014 Vice President JD Vance said in a podcast episode that aired Wednesday that the backlash to a UFC fighter\u2019s false and offensive remark about former first lady Michelle Obama was \u201ctotally disproportionate\u201d to the comment itself. Speaking on \u201cThe Joe Rogan Experience\u201d in an episode that taped Tuesday, Vance The post Vance: Reaction to false Michelle Obama insult at White House UFC fight was \u2018totally disproportionate\u2019 appeared first on ABC17NEWS .",
-      "link": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/07/15/vance-reaction-to-false-michelle-obama-insult-at-white-house-ufc-fight-was-totally-disproportionate/",
-      "source": "Abc 17 News",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-      "published": "2026-07-15 20:07:51",
+      "title": "Indiana Furniture Brings Workplace Solutions to Life in Pringle-Ward NYC Showroom",
+      "description": "Indiana Furniture is celebrating the success of its New York City showroom, opened by its independent representative Pringle-Ward and led by Susan Goldschrafe. Since opening, the showroom has become a valuable local resource for designers, dealers, and clients throughout the five boroughs, Long Island, lower New York State, and Northern New Jersey, offering an immersive... The post Indiana Furniture Brings Workplace Solutions to Life in Pringle-Ward NYC Showroom first appeared on officeinsight .",
+      "link": "https://officeinsight.com/officenewswire/indiana-furniture-brings-workplace-solutions-to-life-in-pringle-ward-nyc-showroom/",
+      "source": "Officeinsight - Giving Voice To Those Who Create W",
+      "image": "https://oiwww.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/15175528/s-1-scaled.jpg",
+      "published": "2026-07-15 22:55:50",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lake Shore Volunteer Fire Company hosts inaugural junior fire camp to train and recruit young first responders",
+      "description": "Lake Shore Volunteer Fire Company hosts its first junior fire camp, teaching 25 kids firefighting, CPR, and emergency response skills.",
+      "link": "https://www.wmar2news.com/news/region/anne-arundel-county/lake-shore-volunteer-fire-company-hosts-inaugural-junior-fire-camp-to-train-and-recruit-young-first-responders",
+      "source": "Wmar 2 News Baltimore",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/5d72d62/2147483647/strip/true/crop/1044x548+0+1/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F32%2F58%2F4e7fc7cb46af9a1d74abc2aa0eac%2Fscreenshot-2026-07-15-at-6-54-50-pm.png",
+      "published": "2026-07-15 22:55:48",
       "category": [
         "domestic"
       ],
@@ -251,17 +210,220 @@
       ]
     },
     {
-      "title": "Vance: Reaction to false Michelle Obama insult at White House UFC fight was \u2018totally disproportionate\u2019 - CNN",
-      "description": "Vance: Reaction to false Michelle Obama insult at White House UFC fight was \u2018totally disproportionate\u2019 CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoNGo3bEJ5cnowU0YtcWhxazdtVXZGVl85S25MNWlMTkt1R2RqMlNNa3hsYUhzMkVTMGdITEQwcVNDTEpBWjZza2NaWHRWc3pvdEJ3Qm9uYkRCeGFSZ3g5Vkp4UmgxTkhqUWVXZGdEU3N2Zw?oc=5",
+      "title": "Explosions heard in several cities of Iran as US conducts new wave of strikes",
+      "description": "The reports follow US Central Command\u2019s announcement of a new round of airstrikes against Iran",
+      "link": "https://dunyanews.tv/en/World/962870-explosions-heard-in-several-cities-of-iran-as-us-conducts-new-wave-of-",
+      "source": "Dunyanews",
+      "image": "https://img.dunyanews.tv/news/2026/July/07-16-26/news_big_images/962870_37325467.jpg",
+      "published": "2026-07-15 22:55:47",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Bangladesh Freezes Tk 76,000 Crore in Major Anti-Corruption Crackdown Targeting Ousted Hasina Regime",
+      "description": "By Asif Showkat Kallol (Dhaka Bureau) In one of the most sweeping financial crackdowns in South Asian history, Bangladesh authorities have frozen and attached assets worth approximately Tk 76,000 crore (around USD 6.4 billion). The massive asset seizure is linked... Pressenza",
+      "link": "http://www.philippinetimes.com/news/279190631/bangladesh-freezes-tk-76000-crore-in-major-anti-corruption-crackdown-targeting-ousted-hasina-regime",
+      "source": "Philippine Times",
+      "image": "https://image.chitra.live/api/v1/wps/aa0c4f0/240a59b1-dd0e-43f3-ac14-c50bd7446ca4/0/ZDkzNGIwMTAtZGV-600x315.jpg",
+      "published": "2026-07-15 22:55:47",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Thomas Tuchel has 'no regrets' about England's approach in Argentina defeat",
+      "description": "The team's tactics, which saw them drop deep closer towards their own goal to defend their lead, was criticised by many observers.",
+      "link": "https://www.nytimes.com/athletic/7448446/2026/07/15/thomas-tuchel-england-argentina-future/",
+      "source": "Theathleticuk",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15184238/2026-07-15T195201Z_923844829_UP1EM7F1J6N1Q_RTRMADP_3_SOCCER-WORLDCUP-ENG-ARG-scaled-e1784155394905.jpg",
+      "published": "2026-07-15 22:55:43",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "San Jose Frenchie Heist Tied To Shooting As Cops Plead For Public\u2019s Help",
+      "description": "San Jose police say Lady, a gray French bulldog with a pink scar, was stolen May 1. A suspect was arrested June 20; detectives still seek tips.",
+      "link": "https://hoodline.com/2026/07/san-jose-frenchie-heist-tied-to-shooting-as-cops-plead-for-public-s-help/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/7/san-jose-frenchie-heist-tied-to-shooting-as-cops-plead-for-publics-help-4.webp",
+      "published": "2026-07-15 22:55:43",
+      "category": [
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Jesy Nelson says 'I feel so proud' as she celebrates a huge win in her SMA campaign and confirms screening test will now be rolled out across the whole of the UK",
+      "description": "Jesy Nelson has revealed her joy as she announced the SMA Type 1 screening test will now be rolled out across the whole of the UK as a result of her campaigning.",
+      "link": "https://www.dailymail.com/tvshowbiz/article-15979231/Jesy-Nelson-win-SMA-screening-test-confirms-rolled-UK.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/07/15/16/110035859-0-image-a-11_1784127643445.jpg",
+      "published": "2026-07-15 22:55:42",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Maple Leafs fans will want to look away at this recent Auston Matthews report out of Toronto - Markerzone.com",
+      "description": "Maple Leafs fans will want to look away at this recent Auston Matthews report out of Toronto Markerzone.com Auston Matthews monster trade talk suddenly returns in Toronto Yahoo Sports Why Auston Matthews\u2019 next contract with the Maple Leafs isn\u2019t a sure thing Editor In Leaf Thoughts on \u201cThoughts\u201d: The Leafs\u2019 big belief in Matthews, Claude Giroux interest, Gavin McKenna\u2019s poise, the sticky Rielly situation & more Maple Leaf Hot Stove Maple Leafs new changes will help, but Auston Matthews is still the key to success Editor In Leaf",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11VnZsU1ROX1BKcW55VjN5TFJVX2txOWtiQ1BPalRwNVBBSVhxckJxUkFWazZSbXVyOU9RN0kwbldaS0dfR3RmR2ctem5RZzdYUWgxWWhKSDVYOHp5QmsycQ?oc=5",
       "source": "Google News",
       "image": null,
-      "published": "2026-07-15 20:07:51",
+      "published": "2026-07-15 22:55:42",
       "category": [
         "sports"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "Whitecaps: Thomas Mu\u0308ller likes being a commentator \u2014 but playing is 'a different world'",
+      "description": "The Whitecaps' superstar has been on German TV for the last six weeks and has one more World Cup game left to cover: Sunday's final in New Jersey.",
+      "link": "https://theprovince.com/sports/soccer/mls/vancouver-whitecaps/whitecaps-thomas-muller-commentator",
+      "source": "The Province",
+      "image": "https://smartcdn.gprod.postmedia.digital/theprovince/wp-content/uploads/2026/07/gettyimages-2281554496_304299541-1.jpg",
+      "published": "2026-07-15 22:55:41",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "AG Nominee Blanch Hints At Reg Shift To Eliminate Telehealth Abortion",
+      "description": "President Donald Trump\u2019s nominee for attorney general is already plotting legal strategies to defend reinstituting in-person requirements to obtain mifepristone nationwide, eliminating telehealth abortion access, based on an anticipated independent FDA review of the abortion drug that, he hinted, will likely support a regulatory shift.",
+      "link": "https://insidehealthpolicy.com/daily-news/ag-nominee-blanch-hints-reg-shift-eliminate-telehealth-abortion",
+      "source": "Insidehealthpolicy",
+      "image": null,
+      "published": "2026-07-15 22:55:41",
+      "category": [
+        "politics",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Argentina risks FIFA punishment for Falkland Islands flag during England win celebrations",
+      "description": "Argentina is at risk of being sanctioned by FIFA after its players celebrated with a Falkland Islands banner following its semi-final win over England on Wednesday. After the team\u2019s dramatic comeback victory at Mercedes-Benz Stadium, Atlanta, midfielder Giovani Lo Celso appeared on the field with a banner saying, \u201cLas Malvinas son Argentinas,\u201d which translates to \u201cThe Malvinas are Argentine.\u201d Argentina is at risk of being sanctioned by FIFA after its players celebrated with a Falkland Islands banner following its semi-final win over England on Wednesday. After the team\u2019s dramatic comeback victory at Mercedes-Benz Stadium, Atlanta, midfielder Giovani Lo Celso appeared...",
+      "link": "https://freerepublic.com/focus/f-chat/4388116/posts",
+      "source": "Freerepublic",
+      "image": null,
+      "published": "2026-07-15 22:55:39",
+      "category": [
+        "sports",
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The hurt goes on: England pay the price for playing not to lose",
+      "description": "Atlanta was supposed to be the night England finally buried 60 years of hurt. Instead, it became another reminder that this country remains its own worst enemy.",
+      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-hurt-goes-england-pay-the-price-playing-not-lose-4225221",
+      "source": "The Daily Star",
+      "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+      "published": "2026-07-15 22:55:38",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "It was supposed to be different but Argentina showed intent, Tuchel showed fear | Jacob Steinberg",
+      "description": "England head coach made changes that would have led to Southgate and Eriksson being hammered Lionel Messi has seen buses reverse into position before. England did not confront the greatest player of all time with anything new when they dropped back with a place in the World Cup final within reach. The negativity was lamentable and it was no surprise when punishment arrived in the form of a clinical Argentina fightback in Atlanta. This was a tale as old as time. There was a chance for England to push on after Anthony Gordon fired them ahead early in the second half, but they reverted to type. The mentality was passive and they looked scared to win. No one put a foot on the ball and offered control. Harry Kane? Invisible in another game. The midfield? Outplayed, outrun and outclassed by Alexis Mac Allister and Enzo Ferna\u0301ndez. Thomas Tuchel? Outwitted by Lionel Scaloni, whose substitutions made a difference, and too quick to retreat when there was so long left for England to defend their lead. Continue reading...",
+      "link": "https://www.theguardian.com/football/2026/jul/15/thomas-tuchel-england-argentina-semi-final-world-cup",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/b580d4b3d71321db969eb3c4afa6aa2b84411781/167_0_2498_1999/master/2498.jpg?width=140&quality=85&auto=format&fit=max&s=b80a52e95e8730be7310f3c39fa42477",
+      "published": "2026-07-15 22:55:37",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "The NBA is satisfied with salary cap system that led to the Celtics trading Jaylen Brown",
+      "description": "Commissioner Adam Silver said the revamped system that places major constraints on high-spending teams is working as anticipated.",
+      "link": "https://www.bostonglobe.com/2026/07/15/sports/nba-salary-cap-celtics-jaylen-brown/",
+      "source": "The Boston Globe",
+      "image": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/5YOTNCOEFI6G3BYFJFAR2YGLHY.JPG?auth=2a5a516969ef8e409438fbdb1cde4bb210eec30c6a0aa69ebe24b1f813cb24ba&smart=true&width=4909&height=3272",
+      "published": "2026-07-15 22:55:37",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "It was supposed to be different but Argentina showed intent, Tuchel showed fear",
+      "description": "England head coach made changes that would have led to Southgate and Eriksson being hammered",
+      "link": "https://uk.sports.yahoo.com/news/supposed-different-argentina-showed-intent-225537792.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/bOEdi1sjvH9HnvQ_FFcJkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xOTIwO2NmPXdlYnA-/https://media.zenfs.com/en/theguardian_763/29d3857db4c45639a8b5cea84d02b707",
+      "published": "2026-07-15 22:55:37",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u201cEl Nin\u0303o\u201d threatens to worsen the global humanitarian crisis; UN prepares up to $100 million to respond",
+      "description": "The return of the El Nin\u0303o phenomenon is a threat that intensifies extreme heat, causes relentless droughts and massive floods",
+      "link": "https://www.news247plus.com/news/world/el-nio-threatens-to-worsen-the-global-humanitarian-crisis-un-prepares-up-to-100-million-to-respond-54583",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/54583/El-Nio-threatens-to-worsen-the-global-humanitarian-crisis-UN-prepares-up-to-100-million-to-respond-news-image-54583.webp",
+      "published": "2026-07-15 22:55:37",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Fujairah bunker fuel sales halve as US-Iran war disrupts supplies",
+      "description": "Fujairah bunker fuel sales dropped significantly in early 2026. This decline occurred after the U.S.-Iran war impacted supplies near the Strait of Hormuz. Zhoushan port in China is now set to overtake Fujairah as a major hub. Supply disruptions continued to affect Fujairah's market throughout the period. Inventories briefly rebounded after a ceasefire but remained uncertain.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/fujairah-bunker-fuel-sales-halve-as-us-iran-war-disrupts-supplies/articleshow/132429455.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132429471,resizemode-4,width-1200,height-900,imgsize-150732,overlay-economictimes/articleshow.jpg",
+      "published": "2026-07-15 22:55:36",
+      "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

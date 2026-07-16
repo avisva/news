@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "\u201cEl Nin\u0303o\u201d threatens to worsen the global humanitarian crisis; UN prepares up to $100 million to respond",
+      "description": "The return of the El Nin\u0303o phenomenon is a threat that intensifies extreme heat, causes relentless droughts and massive floods",
+      "link": "https://www.news247plus.com/news/world/el-nio-threatens-to-worsen-the-global-humanitarian-crisis-un-prepares-up-to-100-million-to-respond-54583",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/54583/El-Nio-threatens-to-worsen-the-global-humanitarian-crisis-UN-prepares-up-to-100-million-to-respond-news-image-54583.webp",
+      "published": "2026-07-15 22:55:37",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Fujairah bunker fuel sales halve as US-Iran war disrupts supplies",
+      "description": "Fujairah bunker fuel sales dropped significantly in early 2026. This decline occurred after the U.S.-Iran war impacted supplies near the Strait of Hormuz. Zhoushan port in China is now set to overtake Fujairah as a major hub. Supply disruptions continued to affect Fujairah's market throughout the period. Inventories briefly rebounded after a ceasefire but remained uncertain.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/fujairah-bunker-fuel-sales-halve-as-us-iran-war-disrupts-supplies/articleshow/132429455.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132429471,resizemode-4,width-1200,height-900,imgsize-150732,overlay-economictimes/articleshow.jpg",
+      "published": "2026-07-15 22:55:36",
+      "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

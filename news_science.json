@@ -1,5 +1,37 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Pulsed-power prototype completes 3,000 tests at 95% efficiency for future fusion plants",
+      "description": "Pacific Fusion's Sirius pulsed-power prototype surpasses 3,000 shots as the company scales fusion technology.",
+      "link": "https://interestingengineering.com/energy/pacific-fusion-sirius-pulsed-power-prototype-3000-shots",
+      "source": "Interesting Engineering",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Pacific-fusion-prototype.jpg",
+      "published": "2026-07-16 22:43:59",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fusion pulsed-power prototype completes 3,000 tests at 95% efficiency",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/fusion-pulsed-power-prototype-completes-3000-tests-at-95-efficiency-1197DA03-41E6-4097-92EE-0CCE51895E2F",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/ac051b00-ec19-5fcf-8de2-43f6c12f8eaf.jpg",
+      "published": "2026-07-16 22:43:51",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

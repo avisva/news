@@ -1,76 +1,165 @@
 {
   "status": "success",
-  "totalResults": 14,
+  "totalResults": 12,
   "results": [
     {
-      "title": "Grid Dynamics Holdings, Inc.: Grid Dynamics Enters Strategic Partnership with Doosan Robotics to Accelerate Physical AI Adoption Across Manufacturing and Logistics",
-      "description": "Key Takeaways: Grid Dynamics partners with Doosan Robotics to provide industrial cobot users with a turnkey software stack for physical AI and corresponding integration services. Grid Dynamics off...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69050898-grid-dynamics-holdings-inc-grid-dynamics-enters-strategic-partnership-with-doosan-robotics-to-accelerate-physical-ai-adoption-across-manufacturing-004.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/chart-grid-dynamics-holdings-inc-aktie-intraday-tradegate.png",
-      "published": "2026-07-16 20:06:00",
+      "title": "Severe Thunderstorm Warning from THU 4:44 PM MDT until THU 5:45 PM MDT",
+      "description": "Severe Thunderstorms Bringing Strong Winds and Hail This Afternoon",
+      "link": "https://helenair.com/news/local/weather/article_4ba6a09b-c6c4-50ad-910c-ff013c7c31ae.html",
+      "source": "Helenair",
+      "image": null,
+      "published": "2026-07-16 22:44:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Last Thai standing: Kunlavut storms into Tokyo quarters",
+      "description": "Kunlavut Vitidsarn advanced to the quarter-finals of the US$950,000 (approximately 32 million baht) BWF Japan Open in Tokyo on Thursday, but Panitchaphon Teeraratsakul and the mixed doubles pair Dechapol Puavaranukroh/Supissara Paewsampran ended their challenges in the second round.",
+      "link": "https://www.bangkokpost.com/sports/3287009/last-thai-standing-kunlavut-storms-into-tokyo-quarters",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/17/6156819.jpg",
+      "published": "2026-07-16 22:44:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "Texas flash floods leave at least 2 dead in region devastated a year ago",
+      "description": "UVALDE, Texas \u2014 Catastrophic flash floods in Texas have killed two people and forced hundreds of rescues in areas still reeling from devastating floods a year ago, Gov. Greg Abbott said Thursday.",
+      "link": "https://www.indianagazette.com/news/texas-flash-floods-leave-at-least-2-dead-in-region-devastated-a-year-ago/article_dcb4f95a-e598-5b37-9cf4-684bfccab0b3.html",
+      "source": "Indianagazette",
+      "image": "http://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/d/a6/da63039f-c451-5845-b73b-dcccec280ca1/6a5969ca8ecc2.image.jpg?resize=300%2C200",
+      "published": "2026-07-16 22:44:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pulsed-power prototype completes 3,000 tests at 95% efficiency for future fusion plants",
+      "description": "Pacific Fusion's Sirius pulsed-power prototype surpasses 3,000 shots as the company scales fusion technology.",
+      "link": "https://interestingengineering.com/energy/pacific-fusion-sirius-pulsed-power-prototype-3000-shots",
+      "source": "Interesting Engineering",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Pacific-fusion-prototype.jpg",
+      "published": "2026-07-16 22:43:59",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Province sends team to Big River following mill curtailment announcement",
+      "description": "Carrier Forest Products in Big River. (Image Credit: file photo/paNOW)",
+      "link": "https://panow.com/2026/07/16/province-sends-team-to-big-river-following-mill-curtailment-announcement/",
+      "source": "Panow",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/1479/files/2026/07/8dac28a5-a4f9-4b38-988d-4e4591277be4.jpg",
+      "published": "2026-07-16 22:43:57",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "CEO da Marvell Technology vende US$ 1,57 milha\u0303o em ac\u0327o\u0303es",
+      "description": "CEO da Marvell Technology vende US$ 1,57 milha\u0303o em ac\u0327o\u0303es",
+      "link": "https://br.investing.com/news/insider-trading-news/ceo-da-marvell-technology-vende-us-157-milhao-em-acoes-93CH-2004704",
+      "source": "Investing Brasil",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published": "2026-07-16 22:43:56",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "brazil"
+      ]
+    },
+    {
+      "title": "Patron Nightclub in Cortez denied liquor license renewal",
+      "description": "Cortez City Council denied the renewal of Patron Nightclub\u2019s liquor license after a public hearing Tuesday night. Councilors cited a repeated pattern of tax delinquency and law enforcement activity at...",
+      "link": "https://www.the-journal.com/articles/patron-nightclub-denied-liquor-license-renewal/",
+      "source": "The Journal",
+      "image": null,
+      "published": "2026-07-16 22:43:51",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fusion pulsed-power prototype completes 3,000 tests at 95% efficiency",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/fusion-pulsed-power-prototype-completes-3000-tests-at-95-efficiency-1197DA03-41E6-4097-92EE-0CCE51895E2F",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/ac051b00-ec19-5fcf-8de2-43f6c12f8eaf.jpg",
+      "published": "2026-07-16 22:43:51",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Port Washington's Fish Days opens under a smoky sky \u2014 and locals are still showing up",
+      "description": "Port Washington's Fish Days festival is moving forward this weekend despite historically bad air quality from wildfire smoke, with organizers putting precautions in place to protect volunteers and attendees.",
+      "link": "https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/port-washingtons-fish-days-opens-under-a-smoky-sky-and-locals-are-still-showing-up",
+      "source": "Tmj4 News",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/1c0b965/2147483647/strip/true/crop/3420x1796+0+113/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F94%2Fe0%2Fae7055194ce7b3c10d305792429a%2Fscreenshot-2026-07-16-at-5-06-11-pm.png",
+      "published": "2026-07-16 22:43:50",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "X updates its engagement bait detection",
+      "description": "The platform is using Grok\u2019s artificial intelligence system to remove accounts that solicit engagement from its creator revenue share program.",
+      "link": "https://www.socialmediatoday.com/news/x-updates-its-engagement-bait-detection/825495/",
+      "source": "Socialmediatoday",
+      "image": null,
+      "published": "2026-07-16 22:43:47",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Former Jaguars exec Drew Frick signals he has joined the Tampa Bay Rays",
-      "description": "The move comes three months after his departure from the Jaguars.",
-      "link": "https://www.jaxdailyrecord.com/news/2026/jul/16/former-jaguars-exec-drew-frick-signals-he-has-joined-the-tampa-bay-rays/",
-      "source": "Jacksonville Daily Record",
-      "image": "https://media.yourobserver.com/img/photos/2026/07/16/20260716_Drew_Frick_to_Rays_Updated_Mug.jpeg",
-      "published": "2026-07-16 20:06:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Extensive search continues for missing 80-year-old man",
-      "description": "Police continue an extensive search for a missing man, Alan Wilson, who went missing from Felixstowe.",
-      "link": "https://www.eadt.co.uk/news/26287716.search-missing-felixstowe-man-continues-amid-possible-sightings/",
-      "source": "East Anglian Daily Times",
-      "image": null,
-      "published": "2026-07-16 20:06:00",
+      "title": "U.S. designates 2 new Mexican cartels as foreign terrorist organizations",
+      "description": "MEXICO CITY \u2014 The U.S. government has designated two new Mexican cartels as foreign terrorist organizations.",
+      "link": "https://triblive.com/news/world/u-s-designates-2-new-mexican-cartels-as-foreign-terrorist-organizations/",
+      "source": "Home | Triblive.com",
+      "image": "https://assets-varnish.triblive.com/2026/07/9765187_web1_9765187-fc5ad62a7c6d465e95a084cf82b24103.jpg",
+      "published": "2026-07-16 22:43:47",
       "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Indiana purchases pricey hospitality suite for historic D.C. race",
-      "description": "When IndyCar drivers take the green flag for a first-ever road course race around the National Mall in Washington, D.C., Indiana economic development officials will be entertaining guests in a $200,000 hospitality suite.",
-      "link": "https://www.tribstar.com/news/indiana_news/indiana-purchases-pricey-hospitality-suite-for-historic-d-c-race/article_2c69f96d-044c-4427-b234-eb7add19ba99.html",
-      "source": "Tribune Star",
-      "image": "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/a/08/a08ad482-f9da-4a57-9943-06f98c1d9c5e/6a593a27c2b44.image.jpg?resize=300%2C225",
-      "published": "2026-07-16 20:06:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Terry Council grapples with DOT's ambiguous answer on Spring St. angled parking",
-      "description": "This past winter, Terry Mayor Rolane Christofferson was notified of concerns that angled parking on Spring Street was interfering with the free movement of Montana Department of Transportation snowplows. In response, town officials and a group of residents formed a...",
-      "link": "https://www.bozemandailychronicle.com/apgstate/terry-council-grapples-with-dots-ambiguous-answer-on-spring-st-angled-parking/article_50597c01-c703-53e4-9ad8-98a34b5c5031.html",
-      "source": "Bozeman Daily Chronicle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/7/1c/71cfa288-0fbb-5563-af9c-e008c48b4b75/6a57c72066e0a.image.jpg?resize=300%2C200",
-      "published": "2026-07-16 20:06:00",
-      "category": [
-        "politics",
         "top",
         "crime"
       ],
@@ -79,139 +168,18 @@
       ]
     },
     {
-      "title": "Ohtani wins two ESPYS Awards and MLB reveals the 2027 season schedule",
-      "description": "NEW YORK.\u2013 Japanese superstar Shohei Ohtani once again stole the spotlight by winning two of the top awards at the 2026 ESPYS Awards ceremony, while Major League Baseball (MLB) officially announced the 2027 regular season schedule. You might be interested in: American League shuts out the National and wins the 2026 All-Star Game Ohtani was [...] La entrada Ohtani wins two ESPYS Awards and MLB reveals the 2027 season schedule se publico\u0301 primero en De U\u0301ltimo Minuto English .",
-      "link": "https://deultimominuto.net/en/sports/baseball/ohtani-wins-two-espys-awards-and-mlb-reveals-the-2027-season-schedule/",
-      "source": "De \u00daltimo Minuto",
-      "image": "https://cdn.deultimominuto.net/en/wp-content/uploads/sites/2/2026/07/9b37be9fe6c99ab4bb40b48b3438ba9b.webp.jpg",
-      "published": "2026-07-16 20:05:57",
-      "category": [
-        "sports",
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "dominican republic"
-      ]
-    },
-    {
-      "title": "Will Ferrell Impersonates \u2018Today\u2019 Host\u2019s Famous Dad to Her Face",
-      "description": "Today with Jenna & Sheinelle/YouTube Jenna Bush Hager had a feeling it was coming. Will Ferrell appeared on Jenna & Sheinelle on Thursday to promote his new Netflix show, The Hawk, with the rest of the cast. And while there, he resurrected his impersonation of Bush\u2019s father, George W. Bush, drawing a big smile from Bush\u2019s TV host daughter. \u201cI was hoping this was coming,\u201d she said. Read more at The Daily Beast.",
-      "link": "https://www.thedailybeast.com/obsessed/will-ferrell-cracks-up-today-host-jenna-bush-hager-by-impersonating-her-dad/",
-      "source": "The Daily Beast",
-      "image": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/URL3RCLRGFFXNA5YVIRTZQHC7M.png?auth=92ced4220c37beb385b2cf6bdd3be2904655fc7a851e6ce75ad0cf4a8b99ea6c&smart=true&width=1892&height=1064",
-      "published": "2026-07-16 20:05:56",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Park Burger closing Highland location after nearly 15 years",
-      "description": "The original Platt Park and Hilltop expansion locations remain open. The post Park Burger closing Highland location after nearly 15 years appeared first on Denver Westword .",
-      "link": "https://www.westword.com/food-drink/park-burger-closing-highland-location-40911955/",
-      "source": "Denver Westword",
-      "image": "https://www.westword.com/wp-content/uploads/sites/2/2026/07/Highland-Park-Burger.jpeg",
-      "published": "2026-07-16 20:05:56",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Kimi Antonelli details \u2018frustration\u2019 of F1 mishaps in honest 2026 assessment",
-      "description": "Ahead of the Belgian Grand Prix, Kimi Antonelli was brutally honest about the highs and lows of his 2026 F1 season. The post Kimi Antonelli details \u2018frustration\u2019 of F1 mishaps in honest 2026 assessment appeared first on Motorsport Week .",
-      "link": "https://www.motorsportweek.com/2026/07/16/kimi-antonelli-f1-assessment/",
-      "source": "Motorsport Week",
-      "image": "https://www.motorsportweek.com/wp-content/uploads/2026/07/Kimi-Antonelli-Belgian-GP.webp",
-      "published": "2026-07-16 20:05:55",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "House Republicans' $95 billion Iran war package clears first hurdle",
-      "description": "Republicans on the House Budget Committee have advanced a $95 billion package for the Iran war, farm aid and President Donald Trump\u2019s push for strict new voter ID requirements.",
-      "link": "https://www.clickorlando.com/news/politics/2026/07/16/house-republicans-95-billion-iran-war-package-clears-first-hurdle/",
-      "source": "Wkmg",
-      "image": "https://www.clickorlando.com/resizer/Fo2UkczkhzadHM0GWOv7hV1tgoE=/cloudfront-us-east-1.images.arcpublishing.com/gmg/OENMPUA3O5EKHGSKRRNZ6NVBPQ.jpg",
-      "published": "2026-07-16 20:05:54",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trump suspends teleprompter operator over betting claims",
-      "description": "US President Donald Trump has suspended a teleprompter operator over allegations he placed bets with a prediction market on the content of Mr Trump's speeches, the White House said.",
-      "link": "https://www.rte.ie/news/us/2026/0716/1583742-trump-teleprompter-suspended/",
-      "source": "Rte.ie",
-      "image": "https://www.rte.ie/images/0024b577-800.jpg",
-      "published": "2026-07-16 20:05:52",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Trump administration caps how long international students can stay in the US",
-      "description": "The rule, which goes into effect in September, also puts in place restrictions on when and how students may change their major or academic program.",
-      "link": "https://www.knoe.com/2026/07/16/trump-administration-caps-how-long-international-students-can-stay-us/",
-      "source": "Https://www.knoe.com",
-      "image": "https://gray-knoe-prod.gtv-cdn.com/resizer/v2/YSPURHQLORD2VG25SR3DZ6EYLU.jpg?auth=0394a3b3b0ebd054bf0726937cce23c02c4851e84a79319f4581e5f9dde0913c&width=1200&height=600&smart=true",
-      "published": "2026-07-16 20:05:51",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Whew Lawd! The Hottest Thirst Traps Of The Week, Vol. 153",
-      "description": "Thirst trap o\u2019clock! Back at it again with this week\u2019s hottest thirst traps dropping during a buzzy week dominated by Cardi jumping into the Christopher Blake Griffith/Stefon Diggs saga, Brandy revealing why she clapped back at body shamers, Angela Simmons and Yo Gotti rekindling reconciliation rumors, T.I. confirming his new album Kill The King is [...] The post Whew Lawd! The Hottest Thirst Traps Of The Week, Vol. 153 appeared first on Bossip .",
-      "link": "https://bossip.com/4603452/hottest-thirst-traps-of-the-week-vol-153/",
-      "source": "Bossip",
-      "image": "https://bossip.com/wp-content/uploads/sites/28/2026/07/17842321050341.jpg?quality=80&strip=all&w=1024&crop=0,0,100,653px",
-      "published": "2026-07-16 20:05:51",
+      "title": "MLS emerges from its World Cup break with new high-profile stars and a new marketing campaign",
+      "description": "Major League Soccer is back after its six-week break for the World Cup. A few things have changed since the league went on hiatus, most notably the arrival of a pair of high-profile international...",
+      "link": "https://www.houstonchronicle.com/sports/article/mls-emerges-from-its-world-cup-break-with-new-22348695.php",
+      "source": "Houston Chronicle",
+      "image": "https://s.hdnux.com/photos/01/66/55/31/31118937/3/square_large.jpg",
+      "published": "2026-07-16 22:43:43",
       "category": [
         "sports",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Road to Japan runs through Nepal",
-      "description": "Bangladesh national women\u2019s kabaddi team will launch a crucial five-match Details The post Road to Japan runs through Nepal appeared first on SYLHETMIRROR.COM .",
-      "link": "https://sylhetmirror.com/2026/07/17/road-to-japan-runs-through-nepal/",
-      "source": "Sylhetmirror.com",
-      "image": "https://sylhetmirror.com/files/uploads/2026/07/ghgh.jpg",
-      "published": "2026-07-16 20:05:49",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "bangladesh"
       ]
     }
   ]

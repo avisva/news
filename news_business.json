@@ -1,28 +1,29 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Are we heading for empty shelves and food shortages?",
-      "description": "Discussions about the shocking price of asparagus this year have been middle-class standard early summer chat, in an amusing eye roll Abigail\u2019s Party kind of way.",
-      "link": "https://www.eveningnews24.co.uk/news/26286613.rachel-moore-heading-empty-supermarket-shelves/",
-      "source": "Norwich Evening News",
-      "image": null,
-      "published": "2026-07-17 06:03:00",
+      "title": "Democratic candidates sustain fundraising pace as GOP strains to keep up",
+      "description": "WASHINGTON \u2014 Democratic Senate candidates continue to swamp their Republican rivals in fundraising, with new campaign finance data showing several of them sitting on staggering stockpiles of cash.",
+      "link": "https://www.eagletribune.com/region/democratic-candidates-sustain-fundraising-pace-as-gop-strains-to-keep-up/article_4d77c65a-bdda-54d0-8454-bdcdd2d8c5ee.html",
+      "source": "Eagletribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+      "published": "2026-07-17 08:03:00",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "Europe hands Google a huge loss in AI search engine battle",
-      "description": "Google is going to have to start sharing some data with competitors.",
-      "link": "https://www.thestreet.com/technology/google-ai-search-european-commission",
-      "source": "Thestreet",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE1OTM2/inside-the-google-io-developers-conference.jpg?profile=rss&x=32&y=25",
-      "published": "2026-07-17 06:03:00",
+      "title": "Should You Buy Alphabet Before July 22?",
+      "description": "This tech giant has been a key winner in the AI boom.",
+      "link": "https://www.fool.com/investing/2026/07/17/should-you-buy-alphabet-before-july-22/",
+      "source": "Fool",
+      "image": "https://g.foolcdn.com/editorial/images/878941/gettyimages-casual-woman-executive_tablet_office.jpg",
+      "published": "2026-07-17 08:03:00",
       "category": [
         "business"
       ],
@@ -31,26 +32,41 @@
       ]
     },
     {
-      "title": "Irish rate of jobs for people with disabilities trailing UK, EU",
-      "description": "Mind the Gap Report, a cross-border study, urges Irish employers to do better, unveiled at event hosted by Ability@Work programme",
-      "link": "https://www.irishexaminer.com/business/economy/arid-41880886.html",
-      "source": "Irish Examiner",
-      "image": "https://www.irishexaminer.com/cms_media/module_img/10318/5159344_1_articlelarge_Job_Shadown_Awards_Pic_3_281_29.jpg",
-      "published": "2026-07-17 06:03:00",
+      "title": "TSMC hikes 2026 guidance as AI demand outpaces capacity",
+      "description": "So, why did Wall Street immediately start selling?",
+      "link": "https://www.thestreet.com/investing/stocks/tsmc-hikes-2026-guidance-ai-demand",
+      "source": "Thestreet",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE2MDUx/view-of-the-taiwan-semiconductor-manufacturing-company-tsmc-plant.jpg?profile=rss",
+      "published": "2026-07-17 08:03:00",
       "category": [
         "business"
       ],
       "country": [
-        "ireland"
+        "united states of america"
       ]
     },
     {
-      "title": "EQS-Media: FairCap acquires InterNations in a carve-out from New Work SE",
-      "description": "EQS-Media / 17.07.2026 / 08:00 CET/CEST FairCap acquires InterNations in a carve-out from New Work SE Munich, 18 July 2026 - FairCap has acquired InterNations GmbH from New Work SE, a wholly owned...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69053009-eqs-media-faircap-acquires-internations-in-a-carve-out-from-new-work-se-023.htm",
+      "title": "Semiconductor Sell-Off Weighs on Global Markets, Is the Correction Nearing an end?",
+      "description": "Market Analysis by covering: Gold Spot US Dollar, Nikkei 225, Microsoft Corporation, Applied Materials Inc. Read 's Market Analysis on Investing.com",
+      "link": "https://www.investing.com/analysis/semiconductor-selloff-weighs-on-global-markets-is-the-correction-nearing-an-end-200684113",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "published": "2026-07-17 08:03:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Partners Group: Partners Group's royalties strategy AuM increases 50% in six months to USD 1.5 billion",
+      "description": "Partners Group / Key word(s): Investment/Funds Partners Group's royalties strategy AuM increases 50% in six months to USD 1.5 billion 17.07.2026 / 10:00 CET/CEST Baar-Zug Switzerland; 17 July 2026...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69054683-partners-group-partners-group-s-royalties-strategy-aum-increases-50-in-six-months-to-usd-1-5-billion-023.htm",
       "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/chart-new-work-se-aktie-intraday-hamburg.png",
-      "published": "2026-07-17 06:03:00",
+      "image": "https://www.finanznachrichten.de/chart-partners-group-holding-ag-aktie-intraday-tradegate.png",
+      "published": "2026-07-17 08:03:00",
       "category": [
         "business",
         "top"
@@ -60,75 +76,34 @@
       ]
     },
     {
-      "title": "Mastech Digital (NYSE:MHH) Shares Down 2.6% \u2013 Time to Sell?",
-      "description": "Mastech Digital, Inc. (NYSE:MHH \u2013 Get Free Report) fell 2.6% on Thursday . The company traded as low as $7.50 and last traded at $7.50. 2,978 shares changed hands during mid-day trading, a decline of 84% from the average session volume of 18,444 shares. The stock had previously closed at $7.70. Mastech Digital Price Performance [...]",
-      "link": "https://www.defenseworld.net/2026/07/17/mastech-digital-nysemhh-shares-down-2-6-time-to-sell.html",
-      "source": "Defenseworld Net",
-      "image": "https://www.marketbeat.com/logos/mastech-digital-inc-logo-1200x675.png?v=20240923142216",
-      "published": "2026-07-17 06:02:58",
+      "title": "Ron Walcott tapped as UGA's interim provost after Ayers exit",
+      "description": "Ron R. Walcott will serve as interim provost at the University of Georgia following Ben Ayers' departure for Clemson.",
+      "link": "https://www.onlineathens.com/story/news/education/2026/07/17/ron-walcott-named-interim-provost-at-uga-after-ben-ayers-exit/90943840007/",
+      "source": "Online Athens",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/16/NABH/90943970007-walcott-ron.jpg?auto=webp&crop=655,369,x0,y0&format=pjpg&width=1200",
+      "published": "2026-07-17 08:02:59",
       "category": [
-        "business"
+        "business",
+        "top",
+        "education"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "BioHarvest Sciences (NASDAQ:BHST) Shares Down 0.7% \u2013 Here\u2019s What Happened",
-      "description": "BioHarvest Sciences Inc. (NASDAQ:BHST \u2013 Get Free Report) was down 0.7% during mid-day trading on Thursday . The company traded as low as $2.76 and last traded at $2.83. 52,994 shares traded hands during trading, an increase of 79% from the average session volume of 29,619 shares. The stock had previously closed at $2.85. Analyst [...]",
-      "link": "https://www.defenseworld.net/2026/07/17/bioharvest-sciences-nasdaqbhst-shares-down-0-7-heres-what-happened.html",
-      "source": "Defenseworld Net",
-      "image": "https://www.marketbeat.com/logos/bioharvest-sciences-inc-logo-1200x675.png?v=20250204071533",
-      "published": "2026-07-17 06:02:58",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Churchill Capital Corp IX/Cayman (NASDAQ:CCIXU) Trading 1.4% Higher \u2013 Time to Buy?",
-      "description": "Shares of Churchill Capital Corp IX/Cayman (NASDAQ:CCIXU \u2013 Get Free Report) traded up 1.4% during mid-day trading on Thursday . The company traded as high as $10.82 and last traded at $11.06. Approximately 559 shares traded hands during mid-day trading, a decline of 83% from the average session volume of 3,213 shares. The stock had [...]",
-      "link": "https://www.defenseworld.net/2026/07/17/churchill-capital-corp-ix-cayman-nasdaqccixu-trading-1-4-higher-time-to-buy.html",
-      "source": "Defenseworld Net",
-      "image": "https://www.marketbeat.com/logos/churchill-capital-corp-ix-cayman-logo-1200x675.png?v=20260209084339",
-      "published": "2026-07-17 06:02:57",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Quick Fire \ud83d\udd25 with Helina Bischoff",
-      "description": "Meet Helina Bischoff, the Deputy Managing Partner at Africa Collective, where she leads engagement across the organisation\u2019s platforms and oversees partnership development.",
-      "link": "https://techcabal.com/2026/07/17/quick-fire-%F0%9F%94%A5-with-helina-bischoff/",
-      "source": "Techcabal",
-      "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/image-47.jpeg",
-      "published": "2026-07-17 06:02:52",
+      "title": "India\u2019s balance of payments likely to swing to surplus in FY27: Report",
+      "description": "India's balance of payments is expected to hit a surplus in FY27, driven by strong FDI inflows and a narrowed current account deficit. A new Care Edge Ratings report highlights key growth factors and export trends shaping the economic outlook.",
+      "link": "https://www.thehansindia.com/business/indias-balance-of-payments-likely-to-swing-to-surplus-in-fy27-report-1098400",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/17/1678409-india.webp",
+      "published": "2026-07-17 08:02:57",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 Uber takeover",
-      "description": "In today's edition: Quick Fire \ud83d\udd25 with Helina Bischoff || Uber to take over Delivery Hero || Stanbic Bank Kenya appoints new CEO || Who secured the bag? \ud83d\udcb0",
-      "link": "https://techcabal.com/2026/07/17/%F0%9F%91%A8%F0%9F%8F%BF%F0%9F%9A%80techcabal-daily-uber-takeover/",
-      "source": "Techcabal",
-      "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/conquer-the-world-plankton.gif",
-      "published": "2026-07-17 06:02:48",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "nigeria"
+        "india"
       ]
     }
   ]

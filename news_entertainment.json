@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Reebok \u00d7 DRAGON QUEST Track Jacket available now",
-      "description": null,
-      "link": "https://gonintendo.com/contents/62904-reebok-x-dragon-quest-track-jacket-available-now",
-      "source": "Gonintendo",
-      "image": "https://gonintendo.com/attachments/image/83465/file/medium-9c8d25744a472e8b65fb774e3e82cc1b.png",
-      "published": "2026-07-17 02:41:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

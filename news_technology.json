@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Minimalist Mac Coding Setup Uses Workflows with Yabai",
-      "description": "Edmund Yong shares his minimalist MacBook setup, designed to create a focused and efficient coding environment. At the heart of this setup is the MacBook Pro 16-inch M3 Max, chosen for its balance of performance and display size, ideal for demanding tasks like compiling large codebases or managing virtual machines. To complement the hardware, Yong [...] The post Minimalist Mac Coding Setup Uses Workflows with Yabai appeared first on Geeky Gadgets .",
-      "link": "https://www.geeky-gadgets.com/minimalist-macbook-setup-coding/",
-      "source": "Geeky-gadgets",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/macbook-pro-m3-setup.jpg",
-      "published": "2026-07-17 10:47:00",
+      "title": "Royal Enfield Classic 350 launched at Rs 1.95 lakh; gets Slip/Assist Clutch",
+      "description": "Royal Enfield has updated the Classic 350 with an assist and slipper clutch and a faster USB Type-C charging port. This leaves only the Bullet 350 in the Royal Enfield 350 lineup to not have an assist and slipper clutch.",
+      "link": "https://www.news9live.com/auto/royal-enfield-classic-350-launched-at-rs-1-95-lakh-gets-slip-assist-clutch-2990326",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Royal-Enfield-Classic-350-gets-gets-SlipAssist-Clutch.png",
+      "published": "2026-07-17 11:50:00",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "india"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\"I would fight it tooth and nail\": The Sims artist would challenge any mandate to reduce diversity after EA Saudi buyout",
+      "description": "Answering concerns that The Sims team may face pressure to reduce support for diversity following the Saudi Arabian-backed buyout of EA, senior character artist Jess Hyland says she's not \"heard anything\" about such a mandate and, if one were introduced, she \"would fight it tooth and nail.\" Read more",
+      "link": "https://www.rockpapershotgun.com/i-would-fight-it-tooth-and-nail-the-sims-artist-would-challenge-any-mandate-to-reduce-diversity-after-ea-saudi-buyout",
+      "source": "Rock Paper Shotgun",
+      "image": "https://assetsio.gnwcdn.com/the-sims-4-lovestruck-dlc.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-07-17 11:50:00",
+      "category": [
+        "technology",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

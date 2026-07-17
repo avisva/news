@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Peloton alum Kendall Toole spills her go-to fitness essentials for summer",
+      "description": "Peloton alum Kendall Toole shares her favorite fitness and lifestyle essentials for summer.",
+      "link": "https://nypost.com/2026/07/16/health/kendall-toole-shares-her-fitness-essentials-one-is-under-7/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fkendall.jpg?quality%3D90%26strip%3Dall",
+      "published": "2026-07-16 20:05:53",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Don\u2019t Forget to Follow Up After Kidney Transplant Referral - HCP Live",
+      "description": "Don\u2019t Forget to Follow Up After Kidney Transplant Referral HCP Live First E-STAR annual report offers unprecedented view of early access to kidney transplantation Regenstrief Institute Can Transplant Center Referral Impact Kidney Transplant Evaluation? HCP Live",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tdUYydFFHVlRweEtORXotZjJWUU9KMHlTeldqbGpZbV9UcVR6Q0FBOFNtdkMybmEyVFBLRzgwcjd1SzlUZmlyV044d2UtRVBnSUxnNUIwLVNZQUlBYTVkdm1hWU4xa3hwLXFOVmZVRDRfbWtYbzZhTFZjNA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-16 20:05:51",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    }
+  ]
 }

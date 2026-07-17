@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "European Commission approves changes to make X more transparent",
-      "description": null,
-      "link": "https://www.brusselstimes.com/eu-affairs/2233586/european-commission-approves-changes-to-make-x-more-transparent/",
-      "source": "The Brussels Times",
-      "image": "https://api.brusselstimes.com/wp-content/uploads/2025/04/e443196b-9cd6-45d9-ab3a-46541ea3eb64-1024x683.jpg",
-      "published": "2026-07-16 14:50:56",
+      "title": "Chinese company releases world's largest open-source AI model",
+      "description": "SHANGHAI, July 16 (Xinhua) -- Chinese artificial intelligence (AI) startup Moonshot AI on Thursday released its latest model, Kimi K3, which features 2.8 trillion parameters, making it the largest-parameter open-source AI model globally, the company said.",
+      "link": "https://www.thestar.com.my/news/world/2026/07/17/chinese-company-releases-world039s-largest-open-source-ai-model",
+      "source": "The Star",
+      "image": "https://cdn.thestar.com.my/Themes/img/tsol-default-image2023.png",
+      "published": "2026-07-16 17:40:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "belgium"
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Cadient Launches SmartRegistryTM to Help Healthcare Employers Find Qualified Clinicians Before They Apply",
+      "description": "/PRNewswire-PRWeb/ -- Cadient, the pioneer of the intelligent AI high-volume hiring platform, today announced the launch of SmartRegistryTM, an AI-powered...",
+      "link": "https://www.prweb.com/releases/cadient-launches-smartregistry-to-help-healthcare-employers-find-qualified-clinicians-before-they-apply-302826968.html",
+      "source": "Prweb",
+      "image": null,
+      "published": "2026-07-16 17:40:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

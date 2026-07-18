@@ -1,20 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "KisanKraft Launches Electric Farm Equipment for India's Small Farmers",
-      "description": "Debuts of electric powered made-in-India machines \u2014 the E-Inter-cultivator and the E-Self Propelled Reaper \u2014 the newest additions to its electric farm equipment range Cuts a farmer's energy cost from approximately \u20b9170 per hour to approximately \u20b910 per hour",
-      "link": "https://krishijagran.com/industry-news/kisankraft-launches-electric-farm-equipment-for-indias-small-farmers/",
-      "source": "Agriculture News",
-      "image": "https://kj1bcdn.b-cdn.net/media/106082/kisankraft_2-1.jpeg",
-      "published": "2026-07-18 04:54:40",
+      "title": "5 ways AI and data are changing healthcare forever",
+      "description": "AI in precision medicine market is driving smarter healthcare with AI-powered triage, predictive care, autonomous workflows, and personalized patient experiences.",
+      "link": "https://www.pcquest.com/news/5-ways-ai-and-data-are-changing-healthcare-forever-12168950",
+      "source": "Pcquest",
+      "image": "https://img-cdn.publive.online/pcq/media/media_files/2026/07/16/5-ways-ai-and-data-are-driving-the-shift-to-precision-healthcare-patient-experience-2026-07-16-15-11-15.jpg",
+      "published": "2026-07-18 05:53:45",
       "category": [
         "top",
         "technology"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Data centre battles marking politics worldwide",
+      "description": "Governments worldwide are pushing to attract AI computing infrastructure, but must grapple with data centres' demands on resources and mounting local opposition",
+      "link": "https://arynews.tv/data-centre-battles-marking-politics-worldwide",
+      "source": "Ary News",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2022/05/russian-oil.jpg",
+      "published": "2026-07-18 05:53:33",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Petrol consumers pay more as govt. claws back fuel subsidy",
+      "description": "Fuel prices remained unchanged in the latest revision, but it's not all good news for petrol vehicle owners. Find out why petrol consumers are now bearing the brunt of the government's Nu 1.824 billion fuel price support recovery.",
+      "link": "https://kuenselonline.com/news/petrol-consumers-pay-more-as-govt-claws-back-fuel-subsidy",
+      "source": "Kuensel Online",
+      "image": "http://bucket.kuenselonline.com/cis.kuenselonline/fuel-7.jpg",
+      "published": "2026-07-18 05:53:11",
+      "category": [
+        "business",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "bhutan"
       ]
     }
   ]

@@ -1,80 +1,36 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Britain\u2019s Warren Buffett? Terry Smith\u2019s troubles make the case for index funds",
-      "description": "His fund slipped in the first half of 2026, even as the MSCI World index raced higher",
-      "link": "https://www.irishtimes.com/your-money/2026/07/18/britains-warren-buffett-terry-smiths-troubles-make-the-case-for-index-funds/",
-      "source": "The Irish Times",
-      "image": "https://www.irishtimes.com/resizer/v2/B56UWNCZCZ4EFL3XKXBCFK5QRQ.jpg?auth=4da5af03c539814f9d7b13cdc186e7c442825b28a4131ac2436e84cb2b176393&smart=true&width=630&height=350",
-      "published": "2026-07-18 04:55:00",
+      "title": "Petrol consumers pay more as govt. claws back fuel subsidy",
+      "description": "Fuel prices remained unchanged in the latest revision, but it's not all good news for petrol vehicle owners. Find out why petrol consumers are now bearing the brunt of the government's Nu 1.824 billion fuel price support recovery.",
+      "link": "https://kuenselonline.com/news/petrol-consumers-pay-more-as-govt-claws-back-fuel-subsidy",
+      "source": "Kuensel Online",
+      "image": "http://bucket.kuenselonline.com/cis.kuenselonline/fuel-7.jpg",
+      "published": "2026-07-18 05:53:11",
       "category": [
         "business",
-        "top"
+        "top",
+        "technology"
       ],
       "country": [
-        "ireland"
+        "bhutan"
       ]
     },
     {
-      "title": "Tech selloff weighs on European shares ahead of ECB meeting next week",
-      "description": "European stocks edged lower Friday, influenced by a global tech sell-off and Middle East tensions. Investors await the European Central Bank meeting and corporate earnings reports next week. Rising oil prices and subdued reactions to strong results complicated the market backdrop. Tech stocks experienced a significant decline this week, impacting major AI beneficiaries. Utilities and defense sectors saw gains, while luxury brands faced headwinds from reduced tourist spending.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-selloff-weighs-on-european-shares-ahead-of-ecb-meeting-next-week/articleshow/132474106.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-132474116,resizemode-4,width-1200,height-900,imgsize-88426,overlay-etmarkets/articleshow.jpg",
-      "published": "2026-07-18 04:54:33",
+      "title": "Next tea frontier: Why matcha matters for Assam",
+      "description": "Assam has a long history of tea, starting from cultivation in a particular region to product formulation and commercialisation across the world for over a century.",
+      "link": "https://www.sentinelassam.com/more-news/life/next-tea-frontier-why-matcha-matters-for-assam",
+      "source": "The Sentinel",
+      "image": "https://media.assettype.com/sentinelassam-english/2026-07-18/lpkjz438/Assam-Matcha-1-800x450.webp",
+      "published": "2026-07-18 05:53:01",
       "category": [
         "business",
         "top"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Johor exco line-up unveiled with four new faces",
-      "description": "JOHOR BARU: Four new faces have been appointed to the Johor state executive council (Exco), while six existing members have been retained.",
-      "link": "https://www.nst.com.my/news/regional/2026/07/1491537/johor-exco-line-unveiled-four-new-faces",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/051528B2EBD9612800164FD64EF6E6DB_data_0.jpg",
-      "published": "2026-07-18 04:54:28",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Business News | Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
-      "description": "Get latest articles and stories on Business at LatestLY. San Francisco (California) [US] / Bengaluru (Karnataka) [India], July 18: Emergent, the fast-growing AI software creation platform that enables founders and business owners to build full-stack, production-ready web and mobile applications, today announced a $130 million Series C funding. The round was led by Creaegis, with MNI Ventures - Claypond Capital and Sentinel Global as co-lead investors, and participation from Khosla Ventures, SoftBank Vision Fund 2, Lightspeed, and Y Combinator.",
-      "link": "https://www.latestly.com/agency-news/business-news-emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch-7521519.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260718044042.jpg",
-      "published": "2026-07-18 04:54:24",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Azeri Light crude rises to $91.5 per barrel",
-      "description": "The price of Azerbaijan's Azeri LT CIF oil in the world market increased by $2.68, or 3.02%, to $91.5 per barrel, Report informs.",
-      "link": "https://report.az/en/energy/azeri-light-crude-rises-to-91-5-per-barrel",
-      "source": "Report.az",
-      "image": "https://images.report.az/2026/01/14/5Pn4xry9Pb1ZOnyL5hQGxt49rBmdbfiS3z06RHa9_1200.jpg",
-      "published": "2026-07-18 04:54:20",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "azerbaijan"
       ]
     }
   ]

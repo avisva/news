@@ -1,14 +1,164 @@
 {
   "status": "success",
-  "totalResults": 15,
+  "totalResults": 21,
   "results": [
     {
-      "title": "The local parks among the best in country after winning prestigious Green Flags",
-      "description": "Seven parks and green spaces across Wigan Borough have once again been recognised among the best in the country after retaining prestigious Green Flag status.",
-      "link": "https://www.leighjournal.co.uk/news/26285268.green-flag-status-seven-parks-green-spaces-wigan/",
-      "source": "Leigh Journal",
+      "title": "Britain\u2019s Warren Buffett? Terry Smith\u2019s troubles make the case for index funds",
+      "description": "His fund slipped in the first half of 2026, even as the MSCI World index raced higher",
+      "link": "https://www.irishtimes.com/your-money/2026/07/18/britains-warren-buffett-terry-smiths-troubles-make-the-case-for-index-funds/",
+      "source": "The Irish Times",
+      "image": "https://www.irishtimes.com/resizer/v2/B56UWNCZCZ4EFL3XKXBCFK5QRQ.jpg?auth=4da5af03c539814f9d7b13cdc186e7c442825b28a4131ac2436e84cb2b176393&smart=true&width=630&height=350",
+      "published": "2026-07-18 04:55:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Two Arkansas rescue teams deployed in response to Texas floods",
+      "description": "Two Arkansas swift water search and rescue teams will head to Texas to assist communities experiencing severe and widespread flooding, the Arkansas Division of Emergency Management said Friday.",
+      "link": "https://www.nwaonline.com/news/2026/jul/17/two-arkansas-rescue-teams-deployed-in-response-to/",
+      "source": "Nwaonline",
       "image": null,
-      "published": "2026-07-18 03:54:00",
+      "published": "2026-07-18 04:55:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fixing Malta's parole system will take political courage",
+      "description": "The prison system in Malta is under constant pressure and cannot provide the quality of rehabilitative services to be expected from a modern correctional environment. File photo: Matthew Mirabelli",
+      "link": "https://timesofmalta.com/article/parole-reform-making-malta-safer.1131470",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/ac14d0492202ac2d4a7ff129ef321f1e1ba65014-1784199642-e7c82fd3-1920x1280.jpg",
+      "published": "2026-07-18 04:55:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "Birmingham schoolboy, 8, breaks Guinness World Record as youngest anthology editor",
+      "description": "Jayce Joyce, from Sutton Coldfield, has been awarded a Guinness World Record for being the world's Youngest Editor of a Published Anthology",
+      "link": "https://www.birminghammail.co.uk/news/midlands-news/birmingham-schoolboy-8-breaks-guinness-34285590",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34285588.ece/ALTERNATES/s615/0_ZCR_BEM_250123jayce_02.jpg",
+      "published": "2026-07-18 04:55:00",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Russian forces strike Zaporizhzhia Oblast more than 800 times, killing one person",
+      "description": "Russian forces conducted 851 attacks across Zaporizhzhia Oblast in 24 hours, killing one person, injuring two, and damaging houses and infrastructure.",
+      "link": "https://www.pravda.com.ua/eng/news/2026/07/18/8044659/",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/4/874907/344c4b72c909c4d76c277018d7637b72.jpeg",
+      "published": "2026-07-18 04:55:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "How cops in civil clothes formed human chain, used bedsheets to remove Sonam Wangchuk from Jantar Mantar",
+      "description": "Delhi Police ended activist Sonam Wangchuk\u2019s 20-day hunger strike at Jantar Mantar in a swift early morning operation. Plainclothes and uniformed officers formed a human chain, used white bedsheets to shield the activist from public view, and shifted him to Safdarjung Hospital, citing Delhi High Court directions and medical advice.",
+      "link": "https://www.news9live.com/india/how-cops-in-civil-clothes-formed-human-chain-used-bedsheets-to-remove-sonam-wangchuk-from-jantar-mantar-2990483",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/07/How-cops-in-civil-clothes-formed-human-chain-used-bedsheets-to-remove-Sonam-Wangchuk-from-Jantar-Mantar.png",
+      "published": "2026-07-18 04:55:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Lionel Messi Hails Lamine Yamal Ahead of FIFA World Cup 2026 Final",
+      "description": "As the FIFA World Cup 2026 final approaches, Argentina's captain Lionel Messi has praised Spain's young star Lamine Yamal, calling him an 'amazing' player. Messi expressed Argentina's intent to prevent Yamal from achieving a historic milestone. Argentina secured their place in the final after a thrilling comeback against England, while Spain reached the final for the first time since 2010 by defeating France. This article explores both teams' journeys to the final and the significance of Yamal's performance.",
+      "link": "https://gyanhigyan.com/national/lionel-messi-hails-lamine-yamal-ahead-of-fifa-world-cup/cid19000934.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/1aea3f82b9ceba0fa1334b6b18836465.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-07-18 04:54:58",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Kyrgyzstan enters new phase of labor migration: President Japarov",
+      "description": "News and analytical articles about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
+      "link": "https://akipress.com/news:908015",
+      "source": "Akipress",
+      "image": "https://cdn-1.aki.kg/cdn-st-0/qiD/I/en-908015.1784351014.b.jpg",
+      "published": "2026-07-18 04:54:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "kyrgyzstan"
+      ]
+    },
+    {
+      "title": "FG Files 10-count Charge against Three Alleged Kidnappers of Oyo Schoolchildren, Teachers",
+      "description": "Alex Enumah and Linus Aleke in Abuja The federal government yesterday filed a 10-count criminal charge against three persons arrested over alleged complicity in the recent kidnap of children and",
+      "link": "https://www.thisdaylive.com/2026/07/18/fg-files-10-count-charge-against-three-alleged-kidnappers-of-oyo-schoolchildren-teachers/",
+      "source": "Thisdaylive",
+      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/748481035_1021772527301759_570073215012932059_n.jpeg",
+      "published": "2026-07-18 04:54:53",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Lionel Messi and Lamine Yamal: From Childhood Photo to World Cup Final Showdown",
+      "description": "The journey of Lionel Messi and Lamine Yamal from a childhood photo to the FIFA World Cup 2026 final is nothing short of remarkable. Messi, reflecting on their iconic image taken nearly 18 years ago, expressed his astonishment at how it has gained significance as they prepare to face each other on football's biggest stage. UNICEF has highlighted their shared mission as Goodwill Ambassadors, advocating for children's rights worldwide. As Argentina and Spain gear up for a thrilling final, Messi leads the Golden Boot race, setting the stage for an unforgettable clash between the two football stars.",
+      "link": "https://gyanhigyan.com/national/lionel-messi-and-lamine-yamal-from-childhood-photo-to-world/cid19000935.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/592d2109e3dfd0c35f4a623c5df2cf63.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-07-18 04:54:49",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Natural Resources Wales raises alarm as rivers and wildlife feel the strain",
+      "description": "Parts of north and south east Wales have moved to prolonged dry weather status, Natural Resources Wales (NRW) confirmed this week. Prolonged dry weather status...",
+      "link": "https://wrexham.com/news/natural-resources-wales-raises-alert-as-rivers-and-wildlife-feel-the-strain-296012.html",
+      "source": "Wrexham",
+      "image": "https://wrexham.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-16.55.12-840x463.jpg",
+      "published": "2026-07-18 04:54:48",
       "category": [
         "top",
         "environment"
@@ -18,72 +168,12 @@
       ]
     },
     {
-      "title": "Manila protests \u2018racist\u2019 portrayal of Filipinos in China Daily videos | South China Sea News",
-      "description": "The diplomatic spat is rooted within the ongoing dispute between China and the Philippines over sovereignty within the South China Sea. Revealed On 18 Jul 202618 Jul 2026 The Philippines has lodged a diplomatic protest with China over what it known as the \u201cracist depiction\u201d of Filipinos in a collection of movies printed by state-backed [...] The post Manila protests \u2018racist\u2019 portrayal of Filipinos in China Daily videos | South China Sea News appeared first on Asia Today .",
-      "link": "https://asiatoday.co/2026/07/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos-south-china-sea-news/",
-      "source": "Asia Today",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5af0475d-1784344647.jpg?resize=1920%2C1440",
-      "published": "2026-07-18 03:54:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Former Bungoma governor Wangamati joins Linda Mwananchi",
-      "description": "Former Bungoma Governor Wafula Wangamati has officially joined the Linda Mwananchi movement led by Nairobi Senator Edwin Sifuna. Speaking during preparations for Edwin Sifuna\u2019s upcoming homecoming ceremony in Bungoma County on Friday, July 17, 2026, the former governor announced that he had fully joined Sifuna\u2019s movement and would lead campaigns across Bungoma County and the [...]",
-      "link": "https://peopledaily.digital/inside-politics/former-bungoma-governor-wangamati-joins-linda-mwananchi",
-      "source": "People Daily",
-      "image": "https://peopledaily.digital/wp-content/uploads/2025/08/Wangamati-768x528.png",
-      "published": "2026-07-18 03:53:59",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "kenya"
-      ]
-    },
-    {
-      "title": "Take-Two Reconfirms GTA 6 Release Date in an SEC Filing",
-      "description": "Take Two reaffirmed the official Grand Theft Auto 6 release date in an SEC proxy statement tied to an $8 billion revenue forecast...",
-      "link": "https://www.gtaboom.com/take-two-reconfirms-gta-6-release-date-in-an-sec-filing-079c",
-      "source": "Gta Boom",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/92/40/take-two-reconfirms-gta-6-release-date-in-an-sec-filing.jpg",
-      "published": "2026-07-18 03:53:54",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "When The Church Offering Plate Becomes A Weapon: Seven Signs Of Spiritual Manipulation",
-      "description": "A Mississippi pastor recently ignited a firestorm after reportedly posting the names of church members on Facebook who had failed to pay their tithes. Whether the intention was accountability, encouragement, or frustration, the reaction was swift. Christians from across the theological spectrum condemned the move as public shaming rather than biblical shepherding. The controversy raises a much larger question than one pastor's judgment. It forces Christians to ask an uncomfortable but necessary question: Where is the line between teaching biblical stewardship and manipulating God's people?The Bible has much to say about generosity. Jesus spoke often about money because it reveals...",
-      "link": "https://freerepublic.com/focus/f-religion/4388405/posts",
-      "source": "Freerepublic",
-      "image": null,
-      "published": "2026-07-18 03:53:52",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hyderabad sanitation suffers as workers join voter revision",
-      "description": "<p>HYDERABAD: Sanitation work has been affected in several areas under the three municipal corporations the Greater Hyderabad Municipal Corporation (GHMC), MPN and CMC \u2014 for the past 10 days. Garbage has accumulated in many colonies and slum areas as sanitation workers have been deployed for the Special Intensive Revision (SIR) of electoral rolls. Officials are using [...]<content:encoded><![CDATA[ <p class=\"isSelectedEnd\"><strong>HYDERABAD: </strong>Sanitation work has been affected in several areas under the three municipal corporations the Greater Hyderabad Municipal Corporation (GHMC), MPN and CMC \u2014 for the past 10 days. Garbage has accumulated in many colonies and slum areas as sanitation workers have been deployed for the Special Intensive Revision (SIR) of electoral rolls.</p> <p class=\"isSelectedEnd\">Officials are using sanitation workers to complete the SIR exercise. In several circles, they have been assigned the distribution of enumeration forms. Educated sanitation workers and Sanitary Field Assistants (SFAs) are also serving as Booth Level Officers (BLOs) in some locations. This has affected routine sanitation services.</p> <h3>Staff shortage worsens waste management</h3> <p class=\"isSelectedEnd\">The three municipal corporations already face a shortage of sanitation workers. Even the sanctioned workforce is not fully available on the ground. Despite the use of biometric and facial recognition attendance systems, many workers do not report for duty regularly. Some remain absent, while others mark attendance and leave.</p> <p class=\"isSelectedEnd\">Because of the staff shortage, daily sweeping is largely confined to main roads, while internal roads in colonies and slums are often left unattended. The additional deployment of sanitation workers for SIR duties has further worsened the situation.</p> <h3>Residents complain over unclean roads</h3> Residents have complained to senior officials about roads not being swept for nearly a week. However, they say no action has been taken. Overall, the ongoing Special Intensive Revision exercise has had a significant impact on sanitation services across the three municipal corporations. ]]>",
-      "link": "https://hyderabadmail.com/hyderabad-sanitation-hit-as-workers-join-voter-revision/",
-      "source": "Hyderabad Mail",
-      "image": "https://hyderabadmail.com/wp-content/uploads/2026/07/GHMC.jpg",
-      "published": "2026-07-18 03:53:50",
+      "title": "Can Losing Your Name From the Voter List Stop Your Ration? SC on Citizenship Makes Crucial Observation, Check",
+      "description": "The Supreme Court of India has come up with a significant constitutional issue while considering a Public Interest Litigation (PIL) relating to deleting names from the voter list in Special Intensive Revision (SIR). What Is the Case About? This case was brought before the Court, stating that the removal of names from the voting list [...] The post Can Losing Your Name From the Voter List Stop Your Ration? SC on Citizenship Makes Crucial Observation, Check appeared first on DNP INDIA .",
+      "link": "https://www.dnpindia.in/nation/can-losing-your-name-from-the-voter-list-stop-your-ration-sc-on-citizenship-makes-crucial-observation-check/608001/",
+      "source": "Dnp India",
+      "image": "https://www.dnpindia.in/wp-content/uploads/2026/07/SC-on-Citizenship-.webp",
+      "published": "2026-07-18 04:54:41",
       "category": [
         "politics",
         "top"
@@ -93,103 +183,29 @@
       ]
     },
     {
-      "title": "Delhi Police clear Jantar Mantar after Sonam Wangchuk's hospitalisation; CJP alleges force against protesters",
-      "description": "Delhi High Court, Delhi police, Jantar Mantar, NEET Paper leak, Sonam Wangchuk",
-      "link": "https://www.thestatesman.com/india/delhi-police-clear-jantar-mantar-after-sonam-wangchuks-hospitalisation-cjp-alleges-force-against-protesters-1503618013.html",
-      "source": "The Statesman",
-      "image": "https://www.thestatesman.com/wp-content/uploads/2026/07/Jantar-Mantar.webp",
-      "published": "2026-07-18 03:53:47",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Lebanese education minister says Israel destroys three more schools",
-      "description": "Lebanese education minister says Israel destroys three more schools The Israeli military has looted and destroyed three schools in southern Lebanon, Rima Karami, the country\u2019s education and higher education minister, said in a statement carried by Lebanon\u2019s state-run National News Agency (NNA) on Friday. This brings the number of Lebanese schools destroyed in Israeli strikes to 20. Unesco said last month that 17 schools have been destroyed and more than 100 damaged in Lebanon since Israel launched its military campaign. About 500,000 Lebanese children remain out of school because of the conflict, according to UNESCO. Displaced girls peep out from the door of a classroom-turned-displaced reception centre in Dekwaneh, east of Beirut, on 15 April 2026. (AFP)",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-education-minister-says-israel-destroys-three-more-schools",
-      "source": "Middleeasteye Net",
-      "image": null,
-      "published": "2026-07-18 03:53:45",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Taylor Ward's 2-run homer in 8th lifts Orioles to 5th straight win, 3-2 over Astros",
-      "description": "Taylor Ward hit a go-ahead, two-run homer in the eighth inning, and the Baltimore Orioles beat the Houston Astros 3-2 to extend their season-best win streak to five games.",
-      "link": "https://www.newsday.com/sports/baseball/orioles-astros-score-d85763",
-      "source": "Newsday",
-      "image": null,
-      "published": "2026-07-18 03:53:43",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "DOJ says it's no longer illegal to download TikTok on federal devices - CBS News",
-      "description": "DOJ says it's no longer illegal to download TikTok on federal devices CBS News Federal employees can download TikTok on government devices after ByteDance's divestiture, DOJ says Fox News Federal employees can download TikTok on government devices, DOJ says Reuters US lifts TikTok ban on government devices, says app no longer poses security risk Daily Pioneer TikTok Back on Government Devices as Trump Administration Reverses Ban Over Security Risks - Oracle (NYSE Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yeWtJYUFvWVNPel83clBKMVc5ZElzWDFmbENSY24yWUtGVklBdW9HRjVFV1UtdXVmWlBpeFlya0U0TVdZWTJJQVpiNTdrQTJxU2hyZGJmemNaTGdycm43U1owYWs1LXJTa21VaVFfY3FteUE?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-18 03:53:39",
+      "title": "KisanKraft Launches Electric Farm Equipment for India's Small Farmers",
+      "description": "Debuts of electric powered made-in-India machines \u2014 the E-Inter-cultivator and the E-Self Propelled Reaper \u2014 the newest additions to its electric farm equipment range Cuts a farmer's energy cost from approximately \u20b9170 per hour to approximately \u20b910 per hour",
+      "link": "https://krishijagran.com/industry-news/kisankraft-launches-electric-farm-equipment-for-indias-small-farmers/",
+      "source": "Agriculture News",
+      "image": "https://kj1bcdn.b-cdn.net/media/106082/kisankraft_2-1.jpeg",
+      "published": "2026-07-18 04:54:40",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Editoryal: Pagtawag sa 911",
-      "description": "Ang trabaho sa mga drayber sa motorcycle taxi dili sayon. Matag adlaw, ilang gisugakod ang init sa adlaw, ulan, ug kakapoy sa pagpangita",
-      "link": "https://www.sunstar.com.ph/superbalita-cebu/editoryal-pagtawag-sa-911",
-      "source": "Sunstar",
-      "image": null,
-      "published": "2026-07-18 03:53:38",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Gas cylinder explosion in Bhubaneswar triggers panic, house damaged",
-      "description": "A gas cylinder exploded in a house in Bhubaneswar 's Patrapada area on Friday night. According to reports, the blast blew off the roof of the house and scattered various household items. Luckily, the people present inside the house had a narrow escape. Fire Services Brought Blaze Under Control Fire Services personnel rushed to the spot immediately after being alerted about the explosion . They brought the situation under control and prevented any further danger. No additional information on injuries or property damage was available at the time of reporting. Local Residents In Fear Following the explosion, local residents gathered near the damaged house as the incident created fear among them. Also Read: Massive fire after cylinder blast guts house in Balasore; three injured The exact cause of the blast was not immediately available.",
-      "link": "https://odishatv.in/odisha/gas-cylinder-explosion-in-bhubaneswar-triggers-panic-house-damaged-12175180",
-      "source": "Odisha Tv",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv/media/media_files/2026/07/18/gas-cylinder-explosion-in-bhubaneswar-triggers-panic-2026-07-18-09-19-03.jpg",
-      "published": "2026-07-18 03:53:37",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
         "india"
       ]
     },
     {
-      "title": "Seven in 10 classrooms fail to individually assess kids in TN",
-      "description": "The TLPS report, which was unveiled on Friday, notes that the findings are based on the sampled classrooms and are not representative of the entire state.",
-      "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jul/18/seven-in-10-classrooms-fail-to-individually-assess-kids-in-tn",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-18/0v0ilu32/classrooms.jpg",
-      "published": "2026-07-18 03:53:30",
+      "title": "Tech selloff weighs on European shares ahead of ECB meeting next week",
+      "description": "European stocks edged lower Friday, influenced by a global tech sell-off and Middle East tensions. Investors await the European Central Bank meeting and corporate earnings reports next week. Rising oil prices and subdued reactions to strong results complicated the market backdrop. Tech stocks experienced a significant decline this week, impacting major AI beneficiaries. Utilities and defense sectors saw gains, while luxury brands faced headwinds from reduced tourist spending.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-selloff-weighs-on-european-shares-ahead-of-ecb-meeting-next-week/articleshow/132474106.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132474116,resizemode-4,width-1200,height-900,imgsize-88426,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-07-18 04:54:33",
       "category": [
-        "education",
+        "business",
         "top"
       ],
       "country": [
@@ -197,14 +213,14 @@
       ]
     },
     {
-      "title": "Negri Sembilan polls: Aminuddin faces three-cornered battle in Linggi",
-      "description": "PORT DICKSON: The Linggi seat is set for a three-cornered contest in the Negri Sembilan election, with the incumbent, caretaker menteri besar and a former contender for the seat set to face off in a closely watched battle.",
-      "link": "https://www.nst.com.my/news/nation/2026/07/1491506/negri-sembilan-polls-aminuddin-faces-three-cornered-battle-linggi",
+      "title": "Johor exco line-up unveiled with four new faces",
+      "description": "JOHOR BARU: Four new faces have been appointed to the Johor state executive council (Exco), while six existing members have been retained.",
+      "link": "https://www.nst.com.my/news/regional/2026/07/1491537/johor-exco-line-unveiled-four-new-faces",
       "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/885E65A28C856F5C5C5BC5CD82FC08A3_data_0.jpg",
-      "published": "2026-07-18 03:53:28",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/051528B2EBD9612800164FD64EF6E6DB_data_0.jpg",
+      "published": "2026-07-18 04:54:28",
       "category": [
-        "politics",
+        "business",
         "top"
       ],
       "country": [
@@ -212,18 +228,94 @@
       ]
     },
     {
-      "title": "Raise issues concerning State in Parliamnet: CM Chandrababu Naidu to MPs",
-      "description": "Naidu also instructed MPs to strongly counter opposition criticism on sensitive national issues while maintaining coordination with the BJP.",
-      "link": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jul/18/raise-issues-concerning-state-in-parliamnet-cm-chandrababu-naidu-to-mps",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-15/z04rt4fr/C_40_1_CH1456_3615318.jpg",
-      "published": "2026-07-18 03:53:18",
+      "title": "Business News | Emergent Raises Series C at $1.5 Billion Valuation, Becomes Unicorn in a Year of Launch",
+      "description": "Get latest articles and stories on Business at LatestLY. San Francisco (California) [US] / Bengaluru (Karnataka) [India], July 18: Emergent, the fast-growing AI software creation platform that enables founders and business owners to build full-stack, production-ready web and mobile applications, today announced a $130 million Series C funding. The round was led by Creaegis, with MNI Ventures - Claypond Capital and Sentinel Global as co-lead investors, and participation from Khosla Ventures, SoftBank Vision Fund 2, Lightspeed, and Y Combinator.",
+      "link": "https://www.latestly.com/agency-news/business-news-emergent-raises-series-c-at-1-5-billion-valuation-becomes-unicorn-in-a-year-of-launch-7521519.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260718044042.jpg",
+      "published": "2026-07-18 04:54:24",
       "category": [
-        "politics",
+        "business",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "LINAWA, From the People Who Live in the Clouds",
+      "description": "When the first rays of sunlight break through the clouds, the highlands of Lawas sit beneath a slow-moving sea of mist. Valleys disappear without sound, and the mountains seem to hover between earth and sky. These remote highlands, located at least two hours from Lawas town, are home to the Lun Bawang, an indigenous community [...]",
+      "link": "https://dayakdaily.com/linawa-from-the-people-who-live-in-the-clouds/",
+      "source": "Dayakdaily",
+      "image": "https://i0.wp.com/dayakdaily.com/wp-content/uploads/2026/07/1-1.png?fit=800%2C600&ssl=1",
+      "published": "2026-07-18 04:54:21",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Commemorating Navratna Milestone, GRSE Releases Special Cover",
+      "description": "Kolkata (17 Jul, 2026): The glorious achievement of being elevated to Navratna status by Garden Reach Shipbuilders and Engineers (GRSE) Ltd was celebrated through the... The post Commemorating Navratna Milestone, GRSE Releases Special Cover appeared first on ADU - Aviation Defence Universe .",
+      "link": "https://www.aviation-defence-universe.com/commemorating-navratna-milestone-grse-releases-special-cover/",
+      "source": "Adu - Aviation Defence Universe",
+      "image": "https://www.aviation-defence-universe.com/wp-content/uploads/2026/07/1784281971_PICTURE.jpeg",
+      "published": "2026-07-18 04:54:21",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Azeri Light crude rises to $91.5 per barrel",
+      "description": "The price of Azerbaijan's Azeri LT CIF oil in the world market increased by $2.68, or 3.02%, to $91.5 per barrel, Report informs.",
+      "link": "https://report.az/en/energy/azeri-light-crude-rises-to-91-5-per-barrel",
+      "source": "Report.az",
+      "image": "https://images.report.az/2026/01/14/5Pn4xry9Pb1ZOnyL5hQGxt49rBmdbfiS3z06RHa9_1200.jpg",
+      "published": "2026-07-18 04:54:20",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "Tension prevails as police and revenue departments evict farmers at Shamshabad",
+      "description": "Tension prevailed in Bahadurguda village of Shamshabad as HYDRAA and Revenue Department officials began taking over 650 acres of land amid heavy police deployment. Farmers protested the move, while the BRS extended support and alleged police prevented its leaders from reaching the village.",
+      "link": "https://telanganatoday.com/tension-prevails-as-police-and-revenue-departments-evict-farmers-at-shamshabad",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg",
+      "published": "2026-07-18 04:54:18",
+      "category": [
+        "politics",
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Man dead after bridge traffic chaos",
+      "description": "A driver has died after a major crash on the Sydney Harbour Bridge triggered hours of traffic chaos on Saturday.",
+      "link": "https://au.news.yahoo.com/man-dead-bridge-traffic-chaos-045416688.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/nca_newswire_424/23a17d4699f22f8e7599df3d2e842815",
+      "published": "2026-07-18 04:54:16",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

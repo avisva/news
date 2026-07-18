@@ -1,29 +1,14 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "GoCab deploys 100 electric vehicles in Abidjan as part of Yango\u2019s fleet",
-      "description": "GoCab, the mobility fintech that operates Yango's largest fleet in Co\u0302te d'Ivoire, has handed over 100 fully electric cars to drivers in Abidjan.",
-      "link": "https://techcabal.com/2026/07/18/gocab-yango/",
-      "source": "Techcabal",
-      "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/gocab_drivers_hero.jpg",
-      "published": "2026-07-18 08:41:59",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "SEBI warns organisations over new AI 'boss scam'",
-      "description": "SEBI, in coordination with the Indian Cyber Crime Coordination Centre, has alerted companies about the evolving tactics of cybercriminals, who use digital communication platforms to impersonate Managing Directors (MDs) or Chief Executive Officers (CEOs).",
-      "link": "https://newsarenaindia.com/economy/sebi-warns-organisations-over-new-ai-boss-scam/82685",
-      "source": "Newsarenaindia",
-      "image": "https://images.newsarenaindia.com/representational-image-20260718t140824884jpg_1784364107402.jpg",
-      "published": "2026-07-18 08:41:47",
+      "title": "China becomes first country to regulate AI companion apps: Here's why",
+      "description": "China's new AI companion rules target virtual boyfriends and girlfriends as officials seek to promote dating, marriage and real-world connections.",
+      "link": "https://www.hindustantimes.com/htcity/leisure/china-becomes-first-country-to-regulate-ai-companion-apps-heres-why-101784367884627.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/18/1600x900/logo/CYFBC71T_1784367998609_1784368011756_3a78a802-cef2-4467-80e0-706eeffe9988.jpg",
+      "published": "2026-07-18 09:47:36",
       "category": [
         "top",
         "technology"
@@ -33,27 +18,12 @@
       ]
     },
     {
-      "title": "Citrix Secure Access and Endpoint Client for Windows Vulnerability Enables Privilege Escalation",
-      "description": "Cloud Software Group has disclosed two security vulnerabilities affecting Citrix Secure Access Client for Windows and Citrix Endpoint Analysis Client for Windows, with one flaw allowing low-privileged attackers to gain full SYSTEM access on affected machines. The more severe issue, tracked as CVE-2026-53565, carries a CVSS v4.0 base score of 8.5 and stems from improper [...] The post Citrix Secure Access and Endpoint Client for Windows Vulnerability Enables Privilege Escalation appeared first on Cyber Security News .",
-      "link": "https://cybersecuritynews.com/citrix-secure-access-and-endpoint-vulnerability/",
-      "source": "Cybersecuritynews",
-      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/07/Citrix-Secure-Access-and-Endpoint-Vulnerability.webp",
-      "published": "2026-07-18 08:41:45",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "CAFE III Norms 2027 Set to Transform India\u2019s Auto Industry With Better Mileage and a Strong Push for Ethanol Vehicles",
-      "description": "The Government of India is preparing to introduce a new phase of fuel efficiency regulations for passenger vehicles through the Corporate Average Fuel",
-      "link": "https://fnnnews.in/automobile/cafe-iii-norms-2027-set/",
-      "source": "Fnnnews",
-      "image": "https://fnnnews.in/wp-content/uploads/2026/07/jpg.jpg",
-      "published": "2026-07-18 08:41:41",
+      "title": "Nobody wants to wait on hold anymore. But can AI replace customer care?",
+      "description": "Nobody wants to wait on hold anymore. But can AI replace customer care?",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/nobody-wants-to-wait-on-hold-anymore-but-can-ai-replace-customer-care/articleshow/132477177.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132477543/132477543.jpg",
+      "published": "2026-07-18 09:47:15",
       "category": [
         "top",
         "technology"

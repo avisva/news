@@ -1,34 +1,48 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Bugatti unveils final Hypercar with W16 engine as it move V16 era",
-      "description": "Bugatti has revealed the final Mistral to feature the legendary quad-turbocharged 8.0-litre W16 engine. It is the 99th and last example of a powertrain that has featured in Veyron, Chiron and the track-only Bolide.",
-      "link": "https://www.news9live.com/auto/bugatti-unveils-final-hypercar-with-w16-engine-as-it-move-v16-era-2990378",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Bugatti-Mistral-with-the-last-W16-engine-ever.png",
-      "published": "2026-07-17 14:12:00",
+      "title": "Microsoft\u2019s Xbox Mistake Is a Preview of Its AI Bet - Barron's",
+      "description": "Microsoft\u2019s Xbox Mistake Is a Preview of Its AI Bet Barron's",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzlBXzI2c1gybjBsZ2NZdk13MFpLa0RJdGxma3JHQXB6bWUyMVVsNnQ4WlFVb2xPa1JfMVFWN1VLTHp3OGVvR0ZYN3JLQWZHd2RLT2lzZjhIZ28tZHNQRlR1MUJUZndIajB0bDRLQVE2QkowUWU3YzkzSEp5QnpIc3lEemt6c2J1VWtubGdwZThBS3U0Ml9v?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-17 17:23:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Microsoft\u2019s Xbox Mistake Is a Preview of Its AI Bet",
+      "description": null,
+      "link": "https://www.barrons.com/articles/microsofts-xbox-mistake-is-a-preview-of-its-ai-bet-a7d9b543",
+      "source": "Barron",
+      "image": null,
+      "published": "2026-07-17 17:23:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "OnePlus Announced A New Phone The Same Week It Pulled Out Of The US And Europe",
-      "description": "As OnePlus leaves the U.S. and Europe behind, it already has a new phone on the way elsewhere. The timing makes the company's priorities painfully clear.",
-      "link": "https://www.bgr.com/2217402/oneplus-new-phone-n6x-announced-exclusive-india/",
-      "source": "Bgr",
-      "image": "https://www.bgr.com/img/gallery/oneplus-announced-a-new-phone-the-same-week-it-pulled-out-of-the-us-and-europe/l-intro-1784296817.jpg",
-      "published": "2026-07-17 14:11:49",
+      "title": "2026 South Carolina vs Victoria (Canada) - Men's - News - FloHoops",
+      "description": "2026 South Carolina vs Victoria (Canada) - Men's - News FloHoops",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTJFdWlJa0FmYllxX3MtbkNsZFpheFpSOGk2YVdkUzRta2xVZzEyZzAyYURfc0RSamZhczVyZUktRDdIcU1KVGZmNmdRRENrR3ZrbXRwamRvRjRVdENOVk0zeGhBeElQM1F4VXloX1BEZXpLWW02ZjU3dGRuY0p3QTJMNGJzOUNqT0I1RA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-17 17:22:51",
       "category": [
         "technology"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     }
   ]

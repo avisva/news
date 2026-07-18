@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "TV Picks for Saturday, July 18",
+      "description": "Media Mole's UK TV Picks for Saturday, July 18, 2026.",
+      "link": "https://mediamole.co.uk/tv/tv-picks-for-saturday-july-18/15921/",
+      "source": "Media Mole",
+      "image": "https://mediamole.co.uk/wp-content/uploads/2026/07/1280x960_wcengfra.jpeg",
+      "published": "2026-07-17 23:00:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

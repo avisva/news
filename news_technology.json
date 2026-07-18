@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Anutin seeks Chinese AI ties",
-      "description": "Thailand is seeking new economic opportunities through closer cooperation with China, with a focus on artificial intelligence (AI), semiconductors, clean energy and other future industries.",
-      "link": "https://www.bangkokpost.com/thailand/general/3287495/anutin-seeks-chinese-ai-ties",
-      "source": "Bangkok Post",
-      "image": "https://static.bangkokpost.com/media/content/20260718/c1_3287495_260718043607.jpg",
-      "published": "2026-07-17 21:22:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "thailand"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

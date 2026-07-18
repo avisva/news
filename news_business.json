@@ -1,36 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Petrol consumers pay more as govt. claws back fuel subsidy",
-      "description": "Fuel prices remained unchanged in the latest revision, but it's not all good news for petrol vehicle owners. Find out why petrol consumers are now bearing the brunt of the government's Nu 1.824 billion fuel price support recovery.",
-      "link": "https://kuenselonline.com/news/petrol-consumers-pay-more-as-govt-claws-back-fuel-subsidy",
-      "source": "Kuensel Online",
-      "image": "http://bucket.kuenselonline.com/cis.kuenselonline/fuel-7.jpg",
-      "published": "2026-07-18 05:53:11",
+      "title": "From war machines to tractor tech - military veterans bring skills into farm sector",
+      "description": "Norwich-based farm machinery dealer Ben Burgess is helping armed forces veterans to bring military skills into the agricultural industry through the Armed Forces Covenant.",
+      "link": "https://www.eveningnews24.co.uk/news/26287847.ben-burgess-helps-military-veterans-bring-new-skills-farm-sector/",
+      "source": "Norwich Evening News",
+      "image": null,
+      "published": "2026-07-18 07:00:00",
       "category": [
-        "business",
-        "top",
-        "technology"
+        "business"
       ],
       "country": [
-        "bhutan"
+        "united kingdom"
       ]
     },
     {
-      "title": "Next tea frontier: Why matcha matters for Assam",
-      "description": "Assam has a long history of tea, starting from cultivation in a particular region to product formulation and commercialisation across the world for over a century.",
-      "link": "https://www.sentinelassam.com/more-news/life/next-tea-frontier-why-matcha-matters-for-assam",
-      "source": "The Sentinel",
-      "image": "https://media.assettype.com/sentinelassam-english/2026-07-18/lpkjz438/Assam-Matcha-1-800x450.webp",
-      "published": "2026-07-18 05:53:01",
+      "title": "Designed for 10 PSI gas, running on 1.5: How Bangladesh\u2019s industries are being choked",
+      "description": "Manufacturers want adequate pressure rather than subsidies",
+      "link": "https://www.tbsnews.net/bangladesh/energy/designed-10-psi-gas-running-15-how-bangladeshs-industries-are-being-choked-1491136",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/04/19/titas_gas_field.jpg",
+      "published": "2026-07-18 07:00:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "india"
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "What I Own: I got a \u00a312,000 bonus to buy my one-bed Brentford flat",
+      "description": "This weekend, we're in South London chatting to 27-year-old Harry Horrigan, who bought his one-bedroom flat for \u00a3390,000 last year.",
+      "link": "https://metro.co.uk/2026/07/18/got-a-12-000-bonus-buy-one-bed-brentford-flat-29151082/",
+      "source": "Metro",
+      "image": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_305091782-1396.jpg?quality=90&strip=all",
+      "published": "2026-07-18 07:00:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

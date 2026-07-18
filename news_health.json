@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Cayenne Wellness Center to Debut Scar Stories Art Exhibit",
+      "description": "July 18, 2026 -- Which is a Powerful Visual Testimony of Sickle Cell Warriors",
+      "link": "https://www.financialcontent.com/article/247pressrelease-2026-7-18-cayenne-wellness-center-to-debut-scar-stories-art-exhibit",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-18 07:00:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

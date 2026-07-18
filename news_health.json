@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Neuroscience Says People Who Prefer Sleeping in Complete Darkness Are Processing Trauma Differently Than Those Who Need Light",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/neuroscience-says-people-who-prefer-sleeping-in-complete-darkness-are-processing-trauma-differently-than-those-who-need-light-08A54F3F-EA73-467E-BE1B-9D1A82416AA9",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/6eb1783e-057a-50cc-8c5a-265e26de11be.jpg",
+      "published": "2026-07-17 19:45:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

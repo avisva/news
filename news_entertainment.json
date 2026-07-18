@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Rapper, reality star arrested at World Cup match",
+      "description": null,
+      "link": "https://www.nj.com/entertainment/2026/07/rapper-reality-star-arrested-at-world-cup-match.html",
+      "source": "Nj",
+      "image": "https://www.nj.com/resizer/v2/TVFHYMUHLBH2BBCVX7IF4LKQXA.jpg?auth=89f209fed77794e2268657bf4f6cc8f4f2234cfa9dcfd060e3a22f840f3f7154&smart=true&height=1200",
+      "published": "2026-07-18 10:45:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

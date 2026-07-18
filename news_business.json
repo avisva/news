@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Modern mindset key to move forward: PM Modi",
-      "description": null,
-      "link": "https://www.thehansindia.com/news/national/modern-mindset-key-to-move-forward-pm-modi-1098560",
+      "title": "Wall St ends lower for the day and week as chip selloff broadens",
+      "description": "The Dow Jones Industrial Average fell 406.55 points, or 0.77%, to 52,146.42, the S&P 500 lost 76.08 points, or \u200b1.01%, to 7,457.69 and the Nasdaq Composite lost 361.70 points, or 1.40%, to 25,520.24.",
+      "link": "https://www.moneycontrol.com/news/business/markets/wall-st-ends-lower-for-the-day-and-week-as-chip-selloff-broadens-13977192.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260206223001_wallstreetnew.png",
+      "published": "2026-07-18 02:48:58",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "PM inaugurates 7 upgraded Odisha stations",
+      "description": "Bhubaneswar: Prime Minister Narendra Modi on Friday virtually inaugurated seven railway stations in Odisha redeveloped under the Amrit Bharat Station Scheme as part of the launch of 75 modernised...",
+      "link": "https://www.thehansindia.com/news/national/pm-inaugurates-7-upgraded-odisha-stations-1098617",
       "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/07/18/1678590-modi.webp",
-      "published": "2026-07-18 01:07:37",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/18/1678645-p.webp",
+      "published": "2026-07-18 02:48:40",
       "category": [
         "business",
         "top"

@@ -1,5 +1,65 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Modern mindset key to move forward: PM Modi",
+      "description": null,
+      "link": "https://www.thehansindia.com/news/national/modern-mindset-key-to-move-forward-pm-modi-1098560",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/18/1678590-modi.webp",
+      "published": "2026-07-18 01:07:37",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "India responds to US 100% tariff bill after 60 senators back move targeting Russian oil purchases",
+      "description": null,
+      "link": "https://www.financialexpress.com/business/news/india-responds-to-us-100-tariff-bill-after-60-senators-back-move-targeting-russian-oil-purchases/4295260/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/05/india-china-pakistan-operation-sindoor-response.jpg",
+      "published": "2026-07-18 01:07:36",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US scraps automatic protections for threatened species as critics warn of extinction risk",
+      "description": "The US Interior Department has dismantled a key provision of the Endangered Species Act, removing automatic protections for threatened plants and animals. Under the new rules introduced by the Trump administration, imperiled species will require individual pr...",
+      "link": "https://english.mathrubhumi.com/news/world/us-scraps-automatic-protections-for-threatened-animals-as-critics-warn-of-extinction-risk-lxrixbbh",
+      "source": "Mathrubhumi English",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1siku0umjojja9ztdki/1/trump-endangered-species.webp?$p=f162f31&f=16:9&w=1080&q=0.8",
+      "published": "2026-07-18 01:07:30",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "England train in Miami ahead of World Cup 2026 third-place match against France",
+      "description": "England's football team trains in Miami ahead of their FIFA World Cup 2026 third-place match against France after a semi-final loss to Argentina.",
+      "link": "https://thenewsmill.com/2026/07/england-train-in-miami-ahead-of-world-cup-2026-third-place-match-against-france/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/07/england-train-in-miami-ahead-of-world-cup-2026-third-place-match-against-france.jpg",
+      "published": "2026-07-18 01:07:26",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

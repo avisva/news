@@ -1,31 +1,45 @@
 {
   "status": "success",
-  "totalResults": 28,
+  "totalResults": 30,
   "results": [
     {
-      "title": "Donors needed amidst blood shortage",
-      "description": "The American Red Cross is facing a national emergency blood shortage and needs donors to give now and take steps to protect patient care. A steep decline in blood donations across the country since the end of May has created...",
-      "link": "https://www.livingstonenterprise.com/commentary/donors-needed-amidst-blood-shortage/article_45c6e5d5-e400-455e-9be3-655585008cf5.html",
-      "source": "Livingstonenterprise.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/livingstonenterprise.com/content/tncms/custom/image/e478a960-be2f-11ef-9709-ef5202dd22bb.jpg?resize=200%2C200",
-      "published": "2026-07-17 11:50:00",
+      "title": "Temporary relief in gas prices expected to pull inflation back below 3% in June",
+      "description": "OTTAWA \u2014 Falling gas prices in June are expected to pull the annual inflation rate back below three per cent when Statistics Canada reports fresh price data on Monday. A Reuters poll of economists expects inflation fell to 2.",
+      "link": "https://www.biv.com/news/economy-law-politics/temporary-relief-in-gas-prices-expected-to-pull-inflation-back-below-3-in-june-12560577",
+      "source": "Biv",
+      "image": null,
+      "published": "2026-07-17 14:12:00",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "CDC: Taco Bell lettuce tied to 'explosive diarrhea' outbreak in Kentucky, Indiana",
+      "description": "The CDC says Kentucky and Indiana are among five states at the center of a Cyclospora outbreak connected to contaminated lettuce served at some Taco Bell locations.",
+      "link": "https://www.wlky.com/article/taco-bell-lettuce-diarrhea-cyclospora-kentucky-indiana-cdc/73169537",
+      "source": "Wlky",
+      "image": "https://hips.hearstapps.com/htv-prod/images/b290d936-140a-4adf-8eb9-6bd9f23f1719.jpg",
+      "published": "2026-07-17 14:12:00",
       "category": [
         "top",
-        "health"
+        "crime"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Letter: Focus on unity, not division",
-      "description": "In recent months, it has become far too easy to divide ourselves into camps.",
-      "link": "https://www.reflector.com/apgstate/letter-focus-on-unity-not-division/article_4d2745ad-fb20-5a0c-a87f-37f604b51f73.html",
-      "source": "Reflector",
-      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/9/f7/9f7b7e91-60c1-5c26-b083-31d1af17cccb/67763d235c935.image.png?resize=300%2C247",
-      "published": "2026-07-17 11:50:00",
+      "title": "Dalton: Cyclist to share stories from Cuba adventure",
+      "description": "Laurie Martinelli will share her stories and photos from a two-week trip cycling through Cuba at 1 p.m. Wednesday, July 22, at the Dalton Senior Center.",
+      "link": "https://www.berkshireeagle.com/news/community-news/dalton-cyclist-to-share-stories-from-cuba-adventure/article_c5b50ee0-c408-4ffb-be0f-23693a01860d.html",
+      "source": "Berkshireeagle.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/custom/image/2b802cce-8455-11ec-8935-3f9640429655.jpg?resize=600%2C315",
+      "published": "2026-07-17 14:12:00",
       "category": [
-        "politics",
+        "sports",
         "top"
       ],
       "country": [
@@ -33,44 +47,12 @@
       ]
     },
     {
-      "title": "The remarkable Messi and Lamine Yamal photos showing 'the beginning of two legends'",
-      "description": "Lionel Messi and Lamine Yamal will play against each other for the first time when Argentina face Spain in Sunday's World Cup final.",
-      "link": "https://www.skysports.com/football/news/12040/13564364/world-cup-final-2026-the-remarkable-photos-of-lionel-messi-and-lamine-yamals-first-meeting-as-they-prepare-to-face-off",
-      "source": "Sky Sports",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-lionel-messi-lamine-yamal_7299894.jpg?20260717125354",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america",
-        "australia",
-        "united kingdom",
-        "ireland"
-      ]
-    },
-    {
-      "title": "Singapore\u2019s former top \u2018mamasan\u2019 Mona Koh, paralysed after infamous 1994 shooting, dies at 80",
-      "description": "She died at home on July 15 from kidney failure. Read more at straitstimes.com.",
-      "link": "https://www.straitstimes.com/singapore/singapores-former-top-mamasan-mona-koh-paralysed-after-infamous-1994-shooting-dies-at-80",
-      "source": "Straitstimes",
-      "image": null,
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Royal Enfield Classic 350 launched at Rs 1.95 lakh; gets Slip/Assist Clutch",
-      "description": "Royal Enfield has updated the Classic 350 with an assist and slipper clutch and a faster USB Type-C charging port. This leaves only the Bullet 350 in the Royal Enfield 350 lineup to not have an assist and slipper clutch.",
-      "link": "https://www.news9live.com/auto/royal-enfield-classic-350-launched-at-rs-1-95-lakh-gets-slip-assist-clutch-2990326",
+      "title": "Bugatti unveils final Hypercar with W16 engine as it move V16 era",
+      "description": "Bugatti has revealed the final Mistral to feature the legendary quad-turbocharged 8.0-litre W16 engine. It is the 99th and last example of a powertrain that has featured in Veyron, Chiron and the track-only Bolide.",
+      "link": "https://www.news9live.com/auto/bugatti-unveils-final-hypercar-with-w16-engine-as-it-move-v16-era-2990378",
       "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Royal-Enfield-Classic-350-gets-gets-SlipAssist-Clutch.png",
-      "published": "2026-07-17 11:50:00",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Bugatti-Mistral-with-the-last-W16-engine-ever.png",
+      "published": "2026-07-17 14:12:00",
       "category": [
         "top",
         "technology"
@@ -80,250 +62,202 @@
       ]
     },
     {
-      "title": "Republican candidates lag behind Bodnar, Forstag in fundraising over last quarter",
-      "description": "It\u2019s a different story for Republican U.S. Rep. Troy Downing, whose race in the eastern congressional district is a near-guaranteed win and has far outraised his Democratic opponent Brian Miller.",
-      "link": "https://mtstandard.com/news/state-regional/article_22f8c13b-2be1-57ad-90e1-abfff834a5f6.html",
-      "source": "The Montana Standard",
-      "image": "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/5/54/554e07bc-cf1a-57b4-852d-0e24de268f64/6a595b909449d.image.jpg?resize=300%2C202",
-      "published": "2026-07-17 11:50:00",
+      "title": "Puisi Rock - Blues Cermin Diri",
+      "description": "Puisi Rock adalah karya sastra yang berisi ungkapan kemarahan atau sindiran penulisnya dalam bahasa puitis.",
+      "link": "https://www.suaramerdeka.com/hiburan/0417387975/puisi-rock-blues-cermin-diri",
+      "source": "Suara Merdeka Online - Perekat Komunitas Jawa Teng",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/07/18/Puisi-Rock-Blues-Cermin-Diri-1586180511.jpg",
+      "published": "2026-07-17 14:12:00",
       "category": [
-        "business",
+        "entertainment",
         "top"
       ],
       "country": [
-        "united states of america"
+        "indonesia"
       ]
     },
     {
-      "title": "Why Did Paresh Rawal Claim OMG 2 Was His Idea All Along",
-      "description": "Paresh Rawal recently stated that the core concept of OMG 2 was originally his idea. We analyze the evolution of the Bollywood script, the casting shift, and why idea ownership in cinema is complex.",
-      "link": "https://news.jobaaj.com/news-updates/entertainment/why-did-paresh-rawal-claim-omg-2-was-his-idea-all-along",
-      "source": "Jobaaj",
-      "image": "https://cdn.nishtyainfotech.com/content/stories/thumb/thumb6a5a170dd82513.42662366.webp",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Thomas Tuchel failed Jordan Pickford seconds before Jude Bellingham telling reaction - Liverpool Echo",
-      "description": "Thomas Tuchel failed Jordan Pickford seconds before Jude Bellingham telling reaction Liverpool Echo Jude Bellingham pleads for unity after England heartbreak The Telegraph Jude Bellingham promises England can achieve \u2018big things\u2019 after World Cup exit wattonandswaffhamtimes.co.uk Jude Bellingham Opens Up After England's World Cup Elimination: \"I've Struggled to Find the Words\" beIN SPORTS Jude Bellingham Shares Team Bus Driver's Emotional Letter After FIFA World Cup Heartbreak NDTV Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmlBYThNellmalBwLXJ3dmh5SjNoUEJpWW9xV2FzeWZPMTdrWDVEbFdlbzM2T1NKc2lmMDE1aFR2TE5YaGxiVWxEQ2wxUXl1al81R2VPb3VsS056RVh2OVBrdUdibTBlTkMwZ1pod0kyX3RmaUljbmVMcUVmU3o2TWdrSTZITHpHbWxWVjhJdjhyR2hmdkVsVmpyUGw5VEc4VmRBZjFJVTlIZ9IBrwFBVV95cUxQWGhnbEFlejRZTVIwWEpqUlhHcFZpQlZIWW1FbmRjMmI0Z3JYMUJFZElRZVdzeFhxZDU1VlFYdkE3MkdHM3dVUTVkcW9ITk5EUExBTzI1cW9WZS01MmJuMzlQUnFVUEwzVjhVTnVadW9WYkNCWGpUWDVobmRybkNtWmFfa2ZLSVlkX05ybTBnQzQ1bDktaV9PaXZqZVZvaFpqd2lYbER3aFRLMHlqQWNV?oc=5",
+      "title": "Prevention should be seen as an investment in economic productivity - Medical Republic",
+      "description": "Prevention should be seen as an investment in economic productivity Medical Republic",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWwxSGxiUWtrYnBPZWhQVGsyM0paY1FpY0ppcjRIWTRrSkJ0b3FmNW11d09uNnFPYmwwaGNOVTZoc2VZTmE3Z0RTMG00clZudDczV3RBbGVtNTB2NG03UkNNQjF6OElFemNVVGJiNmdnX1AzZkIwMzA0R09teG9wSW1YdTlXYjZCNHFVTDk5R2dmV21SdVBEMlhKZkJRbGVRNnZQV3BJY2kyQzdsdWc?oc=5",
       "source": "Google News",
       "image": null,
-      "published": "2026-07-17 11:50:00",
+      "published": "2026-07-17 14:12:00",
       "category": [
-        "sports"
+        "health"
       ],
       "country": [
-        "united kingdom"
+        "australia"
       ]
     },
     {
-      "title": "Longview mulls ending parking limits of less than 2 hours downtown",
-      "description": "The city is also considering adding parking lot permits for Longview residents.",
-      "link": "https://tdn.com/news/local/government-politics/article_599f2b78-a6c5-474e-a006-83cfcca30b81.html",
-      "source": "The Daily News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/tdn.com/content/tncms/assets/v3/editorial/1/16/116c0eac-96cb-4d6e-badf-e36afbe0162a/6a56a0ce5d958.image.jpg?resize=300%2C446",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Michael McShane to succeed Davy Fitzgerald as Antrim hurling manager",
-      "description": null,
-      "link": "https://www.independent.ie/sport/gaa/hurling/michael-mcshane-to-succeed-davy-fitzgerald-as-antrim-hurling-manager/a/158868505.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Arsenal ready to bid for Aston Villa\u2019s Morgan Rogers",
-      "description": "Arsenal are preparing to bid for Morgan Rogers, having already held talks with both the player and Aston Villa.The Gunners have made the England midfielder their priority attacking target this summer....",
-      "link": "https://sports.yahoo.com/articles/arsenal-ready-bid-aston-villa-115000242.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/2437b8afeaa07e72fe199776a52de96e58a08327903f2c728737fdab44056585/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2Fd155b0fe7716aa75b0c63301d3a3b485",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Arsenal look at Kroupi as Julian Alvarez alternative",
-      "description": "Arsenal are weighing up a move for Eli Junior Kroupi as they navigate a complicated pursuit of Julian Alvarez.The Bournemouth forward is admired at the Emirates, offering an alternative should their p...",
-      "link": "https://sports.yahoo.com/articles/arsenal-look-kroupi-julian-alvarez-115000593.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/db0d0131412d3051b877940a0c1922e147c8b52845af0baa266e12460092425b/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_football_faithful_articles_458%2F2903d7514fd7070758b43ab194be9c55",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Police name wanted man who could be in Stevenage",
-      "description": "Police are hunting a man wanted in connection with the production of cannabis who has links to Stevenage.",
-      "link": "https://www.thecomet.net/news/26289364.wanted-man-stevenage-uses-railway-network/",
-      "source": "The Comet",
-      "image": "https://www.thecomet.net/resources/images/21199001/",
-      "published": "2026-07-17 11:50:00",
+      "title": "Sokoto govt reaffirms commitment to establish family health department",
+      "description": "The Sokoto State government has reaffirmed its commitment to the establishment of a family health department aimed at strengthening maternal and child healthcare services in the state. This was made known on Wednesday during an advocacy visit by the Special Adviser to the President on Health, Dr Salma Anas, to the Honourable Commissioner for Health, [...] The post Sokoto govt reaffirms commitment to establish family health department appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/sokoto-govt-reaffirms-commitment-to-establish-family-health-department/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/schema-and-structured-data-for-wp/Sokoto-family-health-1200x699.jpg",
+      "published": "2026-07-17 14:12:00",
       "category": [
         "top",
-        "crime"
+        "health"
       ],
       "country": [
-        "united kingdom"
+        "nigeria"
       ]
     },
     {
-      "title": "\"I would fight it tooth and nail\": The Sims artist would challenge any mandate to reduce diversity after EA Saudi buyout",
-      "description": "Answering concerns that The Sims team may face pressure to reduce support for diversity following the Saudi Arabian-backed buyout of EA, senior character artist Jess Hyland says she's not \"heard anything\" about such a mandate and, if one were introduced, she \"would fight it tooth and nail.\" Read more",
-      "link": "https://www.rockpapershotgun.com/i-would-fight-it-tooth-and-nail-the-sims-artist-would-challenge-any-mandate-to-reduce-diversity-after-ea-saudi-buyout",
-      "source": "Rock Paper Shotgun",
-      "image": "https://assetsio.gnwcdn.com/the-sims-4-lovestruck-dlc.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "technology",
-        "entertainment"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Journalist: Man United interested in move for Serie A defender",
-      "description": "Manchester United Left-Back Search Points to Carlos Augusto and Oliver ScarlesManchester United are doing what smart clubs should do in this phase of the market, scanning options before committing, an...",
-      "link": "https://sports.yahoo.com/articles/journalist-man-united-interested-move-115000543.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/a230d1a567c7c2c3ab59872b68fea3838cf29cc6fd2b716331890437729bd185/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F1123a859474b02eb8d929848b15318a5",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Traill 18U team dominant on its way to title in Grand Forks",
-      "description": "GRAND FORKS, N.D. \u2013 There was no slowing down the Traill Blazers 18U offense last weekend.",
-      "link": "https://www.hillsborobanner.com/sports/article_73ac7394-68ce-4a8a-959a-2aa3a3c3bdd5.html",
-      "source": "Hillsboro Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/hillsborobanner.com/content/tncms/assets/v3/editorial/8/2e/82ec2206-053d-417f-b0c1-b747aad6a9f7/6a5a174d8eec7.image.jpg?resize=300%2C200",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Aston Villa have asked about Crysencio Summerville and been offered Roony Bardghji",
-      "description": "Aston Villa are bracing themselves for interest in Morgan Rogers. The Villains are now looking at wingers to bolster their ranks.According to the Daily Mail, Aston Villa have asked about Crysencio Sum...",
-      "link": "https://sports.yahoo.com/articles/aston-villa-asked-crysencio-summerville-115000906.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/b0b74872ff7c7b764f69f2530b23fe68ecb95e64aed339b38d428575ccb565cd/lightyear_networkapi/resizefit_w1000_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsportsview_articles_932%2F5021f41c104b03d738d09b1ba32a3c1a",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Metatek-Group Ltd.: Metatek Signs Follow-On Contract and Additional Contract in Central Asia",
-      "description": "Calgary, Alberta--(Newsfile Corp. - July 17, 2026) - Metatek-Group Ltd. (TSX: MTEK) (\"Metatek\" or the \"Company\"), the exclusive global provider of Enhanced Full Tensor Gravity Gradiometry (\"eFTG\")...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69057487-metatek-group-ltd-metatek-signs-follow-on-contract-and-additional-contract-in-central-asia-296.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://images.newsfilecorp.com/files/12289/305511_33e40b399495e855_logo.jpg",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "US ends indefinite stay policy for international students on F-1 visas",
-      "description": "US ends \"duration of status\" for student, journalist visas",
-      "link": "https://www.edexlive.com/news/us-ends-duration-of-status-for-student-journalist-visas",
-      "source": "Edex Live",
-      "image": "https://cf-images.assettype.com/edexlive/2026-07-17/lc6fon65/ANI_20260716191357.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-07-17 11:50:00",
+      "title": "Support group, others congratulate Ora\u2019nkan over emergence as Accord candidate for Oyo Central",
+      "description": "The leadership of the Ora\u2019nkan Support Group (OSG), Accord faithful and Irorun-Ni Charitable Foundation (ICF) Nigeria have congratulated Ambassador Shakirullah Jimoh Ora\u2019nkan on his emergence as the Accord candidate for Oyo Central Senatorial District. The group said the development became evident following the publication of candidates\u2019 names on the Independent National Electoral Commission (INEC) portal, [...] The post Support group, others congratulate Ora\u2019nkan over emergence as Accord candidate for Oyo Central appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/support-group-others-congratulate-orankan-over-emergence-as-accord-candidate-for-oyo-central/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/schema-and-structured-data-for-wp/Orankan-Accord-1200x777.jpg",
+      "published": "2026-07-17 14:12:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "india"
+        "nigeria"
       ]
     },
     {
-      "title": "Former Gujarat drug controller Dr H G Koshia honoured with Legendary Drug Regulator Award at National DCOIWA Congress",
-      "description": "In a significant recognition of excellence in India's drug regulatory system, former Gujarat Food and Drug Control Administration (FDCA) commissioner Dr H G Koshia was conferred the prestigious Legendary",
-      "link": "https://pharmabiz.com/ArticleDetails.aspx?aid=187231",
-      "source": "Pharma Biz",
-      "image": null,
-      "published": "2026-07-17 11:50:00",
+      "title": "Meredith town manager hires Florida firm for economic development consulting",
+      "description": "MEREDITH \u2014 Town Manager Judie Milner says she was brought on board 18 months ago to focus on economic development. She told the selectboard, July 13, that she hired a consultant, from Florida, to assist.",
+      "link": "https://www.laconiadailysun.com/news/local/meredith-town-manager-hires-florida-firm-for-economic-development-consulting/article_0f2fbcc8-30c7-4fe6-85b8-e35b2bc18662.html",
+      "source": "Laconiadailysun",
+      "image": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/d/0a/d0a98c58-d1d6-47b3-b675-e091d39f023f/6a5a394f8af4f.image.jpg?resize=300%2C200",
+      "published": "2026-07-17 14:12:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Senate panel disqualifies NBTC chairman",
+      "description": "Dr Sarana Boonbaichaiyapruck is expected to face a prolonged legal battle after being disqualified from serving as a member and chairman of the National Broadcasting and Telecommunications Commission (NBTC), legal experts say.",
+      "link": "https://www.bangkokpost.com/business/general/3287415/senate-panel-disqualifies-nbtc-chairman",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260717/c1_3287415.jpg",
+      "published": "2026-07-17 14:12:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "Former Des Moines sports radio host Marty Tirrell convicted again of mail fraud",
+      "description": "Marty Tirrell, a former Des Moines radio personality, has been found guilty of wire fraud involving a $1.5 million ticket-flipping scheme.",
+      "link": "https://www.kcci.com/article/marty-tirrell-convicted-mail-fraud-ticket-scam-mouth-of-the-midwest-radio/73169844",
+      "source": "Kcci Television",
+      "image": "https://hips.hearstapps.com/vidthumb/e8380d13-0dd4-4e6e-96a1-19b8e3eb6598/6ac321d3-7cfd-417b-918d-cf0de5eeefaa.jpg",
+      "published": "2026-07-17 14:12:00",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Spalletti: \u201cWe know what we can do, now we need to step it up\u201d",
+      "description": "On the eve of the first pre-season friendly against FC Basel, Luciano Spalletti met with journalists to take stock of the start of pre-season training and the Juventus Men's First Team's prospects for...",
+      "link": "https://sports.yahoo.com/articles/spalletti-know-now-step-141200837.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/NZjYKhcGHcytHOt5dZz7DQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUwO2NmPXdlYnA-/https://media.zenfs.com/en/juventus_football_club_articles_524/43b1b502289171e8b8eadf00280ede10",
+      "published": "2026-07-17 14:12:00",
+      "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Belarus, China discuss scientific support for BNBC",
+      "description": "Chairman of the NASB Presidium Vladimir Karanik held a working meeting with Vice President of CITIC Construction Liang Jie to discuss issues of scientific support for the development of BNBC.",
+      "link": "https://eng.belta.by/society/view/belarus-china-discuss-scientific-support-for-bnbc-183369-2026/",
+      "source": "\u0411\u0435\u043b\u0442\u0430",
+      "image": "https://eng.belta.by/images/storage/news/with_archive/2026/000022_1784294670_183369_big.jpg",
+      "published": "2026-07-17 14:12:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "title": "Yara CEO: Strait of Hormuz disruption has had global implications for fertiliser exports",
+      "description": "Svein Tore Holsether, CEO of Yara, discusses the disruption caused by the Middle East crisis as the company releases their Q2 earnings.",
+      "link": "https://www.cnbc.com/video/2026/07/17/yara-ceo-strait-of-hormuz-disruption-has-had-global-implications-for-fertiliser-exports.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108336485-17842804121784280409-47216234827-1080pnbcnews.jpg?v=1784280411",
+      "published": "2026-07-17 14:11:59",
       "category": [
         "health"
       ],
       "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Skipper Dewi Lake backs Wales' driving maul to challenge Springboks",
+      "description": "Captain Dewi Lake insists the Welsh pack can cause South Africa major problems in Durban, provided they fix the physical flaws exposed in San Juan.",
+      "link": "https://www.iol.co.za/sport/rugby/springboks/skipper-dewi-lake-backs-wales-driving-maul-to-challenge-springboks-e35b6dd9-9ee3-49dc-92ce-5b47ee18b459",
+      "source": "Iol",
+      "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/9495e80ae1cdc4784a749cd823023422783d519e/1803&operation=CROP&offset=0x93&resize=1803x1014",
+      "published": "2026-07-17 14:11:58",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "COMMENTARY- A Metro Car Photo Became a Portrait of Trumps America - Post News Group",
+      "description": "COMMENTARY- A Metro Car Photo Became a Portrait of Trumps America - Post News Group",
+      "link": "https://www.postnewsgroup.com/commentary-a-metro-car-photo-became-a-portrait-of-trumps-america/",
+      "source": "Baton Rouge Post",
+      "image": "https://blackpressusa.com/wp-content/uploads/2026/07/nnpa-3u54579-hero-452390.webp",
+      "published": "2026-07-17 14:11:58",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Reliance Industries Q1 Results: O2C business delivers four-year high EBITDA",
+      "description": "Reliance Industries' oil-to-chemicals (O2C) business reported its highest quarterly EBITDA in four years, driven by a sharp recovery in transportation fuel cracks and stronger downstream chemical margins.",
+      "link": "https://www.cnbctv18.com/market/reliance-industries-q1-results-o2c-business-delivers-four-year-high-ebitda-19948424.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/reliance-o2c-2026-07-5d36468e7a463e5a0a5478788bfb2cc3.jpg",
+      "published": "2026-07-17 14:11:57",
+      "category": [
+        "business"
+      ],
+      "country": [
         "india"
       ]
     },
     {
-      "title": "Thief cut through floor of empty flat to steal cash and cigarettes from shop below",
-      "description": "Dylan Hay 31, got away with \u00a31500 in money but was arrested after police officers identified him from CCTV footage.",
-      "link": "https://www.dailyrecord.co.uk/in-your-area/lanarkshire/thief-cut-through-floor-empty-37442953",
-      "source": "Daily Record",
-      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37116067.ece/ALTERNATES/s615/1_dmp_ham_090421court_007JPG.jpg",
-      "published": "2026-07-17 11:50:00",
+      "title": "ConocoPhillips to Acquire 42% Stake in BP's Kirkuk Oil Venture in Iraq",
+      "description": "ConocoPhillips is strengthening its presence in Iraq's energy sector after reaching an agreement to acquire a 42 per cent stake in BP Energy Company of Kirkuk Limited (BP ECKL), a move expected to accelerate the redevelopment of some of northern Iraq's largest producing oil fields. The acquisition forms part of broader efforts to attract international investment into Iraq's oil and gas industry while enhancing production capacity and reducing dependence on export routes exposed to geopolitical tensions in the Middle East. The agreement is expected to be formally signed during Iraqi Prime Minister Ali Al-Zaidi's official visit to Washington, D.C., this week, highlighting growing energy cooperation between Iraq and the United States. Commenting on the transaction, ConocoPhillips Chief Executive Officer, Ryan Lance, said the investment aligns with the company's long-term strategy of pursuing high-quality assets capable of delivering sustainable returns. \u201cThis unique redevelopment opportunity is well aligned with our disciplined investment framework, providing access to a material, high-quality and long-life resource base, comfortably meeting our cost of supply threshold.\u201d The company said the transaction is expected to be completed before the end of the year, subject to regulatory approvals and the fulfilment of other customary closing conditions. BP Energy Company of Kirkuk Limited currently holds the development and production contract for the Baba and Avanah domes of the Kirkuk oil field, in addition to the neighbouring Bai Hassan, Jambur and Khabbaz fields. Collectively, these assets represent one of Iraq's most significant oil-producing regions and are expected to play a key role in the country's future energy expansion. BP Chief Executive Officer, Meg O'Neill, described the Kirkuk redevelopment project as strategically important for both Iraq and the company. \u201cKirkuk is a world-class resource base that can support Iraq\u2019s long-term energy ambitions while creating value for both the country and bp.\u201d The agreement comes as the United States intensifies efforts to encourage greater investment in Iraq's energy sector, with the objective of increasing crude oil production, strengthening energy security and diversifying export routes amid continuing regional instability. Energy markets have remained focused on the Strait of Hormuz, one of the world's most important oil transit routes, following renewed tensions between the United States and Iran. Before the outbreak of the regional conflict, the strategic waterway carried roughly one-fifth of global oil supplies, making supply diversification a priority for producers and consuming nations alike. BP has maintained operations in Iraq for nearly a century and has long been involved in the development of some of the country's largest oil fields, including the giant Rumaila field. In 2025, the company concluded an agreement with the Iraqi government to redevelop oil and gas resources in the Kirkuk region, covering the Baba and Avanah domes and the nearby Bai Hassan, Jambur and Khabbaz fields. The latest investment also reflects Iraq's ongoing efforts to attract leading international energy companies as it seeks to increase oil and gas output while accelerating the development of its natural gas resources. As part of those efforts, Prime Minister Al-Zaidi met with executives from Halliburton, Shell, Honeywell, Weatherford and Baker Hughes during a visit to Houston on Thursday. According to his office, discussions focused on new investment opportunities, technology transfer and potential collaboration on major energy infrastructure projects across Iraq.",
+      "link": "http://www.brandiconimage.com/2026/07/conocophillips-to-acquire-42-stake-in.html",
+      "source": "Brand Icon Image - Latest Brand, Tech And Business",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK9XwMwcJsAuENvl3IQtws6gjJDthfB22SPvEfK08l4650rJ7yxWM8a9CDn5ZwwlfNl1YdIWzel-_8DzgVBc-enAT5jFad8qsE2jr-qFiwsFQ52WkgR4bMSNk8w7eNnqRVOyxIOE7aTgFlk9e0d9KjkoFwduJaCEiw8radDq1tHznjfHdgTqEBhr3QHaM/w1200-h675-p-k-no-nu/1000924835.jpg",
+      "published": "2026-07-17 14:11:55",
       "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "ILT20 2027 Schedule, Fixtures: International League T20 2027 Match Time Table, Venue",
-      "description": "Get the UAE's International League T20 2027 Schedule along with ILT20 2027 Full Fixtures, Match Time Table and Venue details only on Indiacricketschedule.com The UAE's International League T20 (ILT20) 2027 (known as the UAE T20 League 2027 , DP World ILT20 2027 ) will be held in Jan and Feb 2027, a Twenty20 cricket league organized by the Emirates Cricket Board (ECB). [1] The season 4 of the International League T20 (ILT20) is scheduled to begin from December 2026 to January 2027. The fourth season of the International T20 League will begin on December 2026, the UAE National Day,\" the organisers announced on Wednesday. The six-team, 34-match tournament is set to conclude with the final on January 2027. The 2027 International League T20's Player Auction for Season 5 will be held on September 30 in Dubai. Schedule Squads Points Table International League T20 (ILT20) 2027 Details [3] Dates: December 2026 to January 2027 Administrator(s): Emirates Cricket Board (ECB) Cricket format: Twenty20 Tournament format(s):: Round-robin and playoffs Host(s): United Arab Emirates Participants: 6 Matches played: 34 Champions Player of the series Most runs Most wickets Website www.ilt20.ae ILT20 2027 Schedule / Fixtures and Match Time Table Date and Time Match Details ILT20 2027 Teams List Team Owner Captain Coach Abu Dhabi Knight Riders (ADKR) Knight Riders Group Sunil Narine Abhishek Nayar Gulf Giants Adani Sportsline James Vince Andy Flower Desert Vipers Lancer Capital LLC Colin Munro James Foster Sharjah Warriors Capri Global Capital Limited - Paul Farbrace MI Emirates Reliance Strategic Business Ventures Limited Kieron Pollard Shane Bond Dubai Capitals GMR Group Rovman Powell Phil Simmons Squads for ILT20 2027 | International League T20 2027 Players list This squad is 2025-26 Season, and after for the 2027 auction same changes in squad. Abu Dhabi Knight Riders Dubai Capitals Sharjah Warriors MI Emirates Desert Vipers Gulf Giants Sunil Narine (Captain) Liam Livingstone Alishan Sharafu Alex Hales Sherfane Rutherford Andre Russell Phil Salt Olly Stone Michael Pepper George Garton Brandon McMullen Ibrar Ahmed Ajay Kumar Adnan Idrees Muhammad Abdul Manan Ali Mayank Chowdary Khary Pierre Shadley Van Schalkwyk Unmukt Chand Jordan Matthew Cox Rovman Powell Gulbadin Naib Sediqullah Atal Waqar Salamkheil Haider Ali Muhammad Jawadullah Jimmy Neesham Muhammad Farooq Tymal Mills Scott Currie Mohammad Nabi Farhan Khan Anudeep Chenthamara Usman Najeeb Ritesh Mallikarjuna Grandhi Shayan Jahangir Rushil Ugarkar Naveen Bidiasee Toby Albert Akshay Wakhare Dinesh Karthik Sikandar Raza Tom Kohler-Cadmore Tim David Johnson Charles Tim Southee Saurabh Netravalkar Junaid Siddique James Rew Nathan Sowter Dwaine Pretorius Jayden Seales Harmeet Singh Wasim Akram Mohamed Nawfer Mohamed Aslam Raees Ahmad Richard Ngarava Shubham Ranjane Ethan D'Souza Taskin Ahmed Abdul Salman Khan Fazalhaq Farooqi Tom Banton Romario Shepherd Chris Woakes Jonny Bairstow AM Ghazanfar Muhammad Waseem Kamindu Mendis Muhammad Rohid Jordan Thompson Naveen-ul-Haq Andre Fletcher Nosthush Kenjige Mohamed Shafeeq Zain Ul Abidin Usman Khan Ackeem Auguste Arab Gul Tajinder Dhillon Zahoor Khan Shakib Al Hasan Dan Lawrence Max Holden David Payne Khuzaima Bin Tanveer Lockie Ferguson Wanindu Hasaranga Sam Curran Andries Gous Vriitya Aravind Fakhar Zaman Naseem Shah Qais Ahmad Sanjay Pahal Bilal Tahir Faisal Khan Hasan Nawaz Tom Bruce Matiullah Khan Tawanda Muyeye Faridoon Dawoodzai Aayan Afzal Khan Mark Adair Gerhard Erasmus Blessing Muzarabani Moeen Ali James Vince Azmatullah Omarzai Rahmanullah Gurbaz Asif Khan Zuhaib Zubair Sean Dickson Tabraiz Shamsi Liam Dawson Fred Klaassen Haider Razzaq Meet Bhavsar Ishtiaq Ahmad Lorcan Tucker Chris Wood Tom Moores Ramon Simmonds UAE's International League T20 2027 Live Match on Zee and Sony Networks Country Networks India Zee Cinema, Zee Anmol Cinema, Zee Zest, Zee Thirai, Zee Bangla Cinema, & Pictures HD, & Flix, Zee5 - Live Streaming Pakistan PTV Sports and Geo Super Afghanistan Ariana TV Sri Lanka Supreme TV UK BT Sport and Zee Tv MENA CricLife 3 USA and Canada Willow TV Bangladesh Gazi TV, T Sports, Toffee Australia Fox Cricket New Zealand Sky Sports NZ Nepal Sim TV Nepal, Net TV Nepal Caribbean Flow Sports Maldives Medianet References \"DP World ILT20 Season 4\" . ilt20.ae Retrieved 9 May 2026 \"2026 International League T20\" . wikipedia. Retrieved 9 May 2026 \"ILT20 Season 4 to be played in January 19 to February 18 window next year\" . Espncricinfo Retrieved 25 August 2026 \"ILT20 Season 4 to be played in December 02 to January 04 window\" . Espncricinfo Retrieved 25 August 2025 \"Season 4 of ILT20 kicks off on December 02\" . Cricbuzz Retrieved 22 August 2025 This Post Appeared First On www.indiacricketschedule.com",
-      "link": "https://www.indiacricketschedule.com/2026/01/ILT20-2027-Schedule-Fixtures-Time-Table-Venue.html",
-      "source": "Indiacricketschedule",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQb1uU43FDPjbeHyFRQFwQABcwy5ITLum_M60tRhs7ocajkhyvcZnAX2-E7c-B6X-0Lvsm9BCkWwWQgqk3PS_oKWD34JvXVlWWZlHENXCGegSQqQjG0MKF4UgREj-mO2SQDd-7uujyge0ZouR1oPYwibUYWl9sXa2jdhw9ary106cqxzxfA-YuyM9Uda0/s1600/ILT20-2027-Schedule-Fixtures.jpg",
-      "published": "2026-07-17 11:50:00",
-      "category": [
-        "sports",
+        "business",
         "top"
       ],
       "country": [
@@ -331,84 +265,185 @@
       ]
     },
     {
-      "title": "Singapore\u2019s former top \u2018mamasan\u2019 Mona Koh, paralysed after infamous 1994 shooting, dies at 80 - The Straits Times",
-      "description": "Singapore\u2019s former top \u2018mamasan\u2019 Mona Koh, paralysed after infamous 1994 shooting, dies at 80 The Straits Times",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3pMaTZQREF4d1k0bFdqeXBPRDNpUkVZdG1fUjl4dFkyVlZicHJmRl9RclVPQ3o0M3gwRURDNi1rNG1sZjhsb093bU40OVdtQUM5MlFXNzJ6UDhNUEpJWndNZmVxSEI4UlhBR0p6VXhJVEwtRUhxOHNTbWhjcHM4YW84Z213RTZtZUdCZ0l0azdhWGNHM29DSkZMc0d4VXc1cjhhemRyaWRRVi1vbDNMTENoUk1mVVdpWWVlZDJTamV6WFNwQ2c?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-17 11:50:00",
+      "title": "India-EU Investment Protection Pact, GI agreements work in progress: Goyal",
+      "description": "New Delhi: After concluding a free trade agreement, India and the European Union (EU) are working on the proposed investment protection and GI (Geographical Indications) agreements, Commerce and Industry Minister Piyush Goyal said on Friday. He said that the trade pacts will open huge opportunities for businesses of both sides. Following trade pacts with the [...]",
+      "link": "https://www.orissapost.com/india-eu-investment-protection-pact-gi-agreements-work-in-progress-goyal/",
+      "source": "Orissa Post",
+      "image": "https://www.orissapost.com/wp-content/uploads/2026/06/Piyush-Goyal.png",
+      "published": "2026-07-17 14:11:55",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "She Played a Sci-Fi Heroine in the '80s \u2013 Now at 70, She Looks Like This and Has a Completely Different Career \u2013 Details Photos",
+      "description": "Long after the cameras stopped rolling, the former actress made a choice that would completely reshape how she was seen \u2014 not by fans, but by the people who came to rely on her in their most difficult moments. She once crossed galaxies, faced a ruthless interplanetary ruler, and became...",
+      "link": "https://news.amomama.com/608588-she-played-a-sci-fi-heroine-in-the-80s.html",
+      "source": "News.amomama.com",
+      "image": "https://cdn.amomama.com/abc5f657ab0ea473267acc5819f15466bf8aee3630fecca3c71604896c328ca6.png",
+      "published": "2026-07-17 14:11:52",
       "category": [
         "entertainment"
       ],
       "country": [
-        "singapore"
+        "united states of america"
       ]
     },
     {
-      "title": "DVP_4134.jpg",
-      "description": "An Air Force honor guard member presents the folded American flag to Hill's son, Chris, during graveside services honoring George Gordon Hill on Friday, July 10, 2026 at Forest Lawn Cemetery.",
-      "link": "https://www.loganbanner.com/dvp-4134-jpg/image_625b2059-30a7-434c-86c4-033873cdd7cf.html",
-      "source": "The Logan Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/loganbanner.com/content/tncms/assets/v3/editorial/6/25/625b2059-30a7-434c-86c4-033873cdd7cf/6a5a16fc1700c.image.jpg?resize=300%2C200",
-      "published": "2026-07-17 11:50:00",
+      "title": "South Windsor Driver Charged With DUI",
+      "description": "Police said officers reported seeing a speeding vehicle near Sullivan Avenue and Troy Road.",
+      "link": "https://patch.com/connecticut/southwindsor/south-windsor-driver-charged-dui",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/shutterstock/27209493/20260717/101149/styles/patch_image/public/shutterstock-1836984340___17101119394.jpg",
+      "published": "2026-07-17 14:11:50",
       "category": [
-        "domestic"
+        "top",
+        "crime"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "DVP_3591.jpg",
-      "description": "U.S. Air Force honor guard members fold the American flag over the casket of George Gordon Hill, an Air Force veteran, during graveside services at Forest Lawn Cemetery on Friday, July 10, 2026.",
-      "link": "https://www.loganbanner.com/dvp-3591-jpg/image_eb828a74-45c9-4a02-841f-406d4f2c2ee1.html",
-      "source": "The Logan Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/loganbanner.com/content/tncms/assets/v3/editorial/e/b8/eb828a74-45c9-4a02-841f-406d4f2c2ee1/6a5a16f93eee4.image.jpg?resize=300%2C200",
-      "published": "2026-07-17 11:50:00",
+      "title": "People in Pune watch the Mutha River in spate after water was released from the Khadakwasla Dam on July 8",
+      "description": "Maharashtra's reservoirs are at 44.45 per cent of their usable storage capacity, compared to 60.54 per cent last year.",
+      "link": "https://www.etvbharat.com/en/state/maharashtra-reservoir-levels-improve-after-rains-but-water-crisis-persists-790-tankers-still-in-use-enn26071705752",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/17-07-2026/1200-675-27171832-thumbnail-16x9-maharashtra-reservoir-1-aspera.jpg",
+      "published": "2026-07-17 14:11:50",
       "category": [
-        "domestic"
+        "business",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Kuwaiti power plant and Iranian bridges bombed as conflict escalates across region",
+      "description": "Iran responds to US attacks with \u2060strikes on American bases",
+      "link": "https://www.thenationalnews.com/news/mena/2026/07/17/kuwaiti-power-plant-and-iranian-bridges-bombed-as-conflict-escalates-across-region/",
+      "source": "The National",
+      "image": "https://www.thenationalnews.com/resizer/v2/WWKONTXYER7OKKMP5PEANNQ4SM.jpg?auth=ed9a9bf277146782a9d87fc3bdb78351d8c2f972dbd7c7f1a352a8354156adb1&smart=true&width=3000&height=1999",
+      "published": "2026-07-17 14:11:49",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "OnePlus Announced A New Phone The Same Week It Pulled Out Of The US And Europe",
+      "description": "As OnePlus leaves the U.S. and Europe behind, it already has a new phone on the way elsewhere. The timing makes the company's priorities painfully clear.",
+      "link": "https://www.bgr.com/2217402/oneplus-new-phone-n6x-announced-exclusive-india/",
+      "source": "Bgr",
+      "image": "https://www.bgr.com/img/gallery/oneplus-announced-a-new-phone-the-same-week-it-pulled-out-of-the-us-and-europe/l-intro-1784296817.jpg",
+      "published": "2026-07-17 14:11:49",
+      "category": [
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "DVP_3075.jpg",
-      "description": "Pallbearers from the Cora Volunteer Fire Department carry the flag-draped casket of George Gordon Hill to the gravesite during burial services at Forest Lawn Cemetery in Pecks Mill on Friday, July 10, 2026.",
-      "link": "https://www.loganbanner.com/dvp-3075-jpg/image_0836a265-6311-4964-b74a-81157768014a.html",
-      "source": "The Logan Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/loganbanner.com/content/tncms/assets/v3/editorial/0/83/0836a265-6311-4964-b74a-81157768014a/6a5a16f58e9c8.image.jpg?resize=300%2C200",
-      "published": "2026-07-17 11:50:00",
+      "title": "R&A honours golf star whose run of consecutive majors started at Royal Lytham & St Annes",
+      "description": "Royal Lytham & St Annes started a run of major appearances for the first R&A Spirit of Golf Award winner",
+      "link": "https://www.blackpoolgazette.co.uk/sport/adam-scott-royal-lytham-st-annes-8805722",
+      "source": "Blackpool Gazette",
+      "image": "https://www.blackpoolgazette.co.uk/jpim-static/image/2026/07/17/14/22/WBEG-17-07-26-adam-scott-NWupload.jpeg?width=1200&auto=webp&trim=279%2C407%2C271%2C419",
+      "published": "2026-07-17 14:11:48",
       "category": [
-        "domestic"
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "5 second-half storylines to watch as the Pirates vie for a playoff spot",
+      "description": "The Pirates are 50-47, over .500 at the All-Star break for the first time in a decade and sitting two games back of the Miami Marlins for the final National League wild card spot.",
+      "link": "https://www.dailyitem.com/ap/sports/5-second-half-storylines-to-watch-as-the-pirates-vie-for-a-playoff-spot/article_38444415-4813-5977-945b-b26327f67583.html",
+      "source": "Daily Item",
+      "image": null,
+      "published": "2026-07-17 14:11:47",
+      "category": [
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "DVP_3035.jpg",
-      "description": "Members of the Cora Volunteer Fire Department carry the casket of former Fire Chief George Hill down from a Cora fire engine, which transported his body from Verdunville Church of God to Forest Lawn Cemetery for burial on Friday, July...",
-      "link": "https://www.loganbanner.com/dvp-3035-jpg/image_c2c9824f-6f75-416a-84f8-3a4223be5028.html",
-      "source": "The Logan Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/loganbanner.com/content/tncms/assets/v3/editorial/c/2c/c2c9824f-6f75-416a-84f8-3a4223be5028/6a5a16f22b414.image.jpg?resize=300%2C200",
-      "published": "2026-07-17 11:50:00",
+      "title": "Anniqa Meraj crowned Miss World Pakistan 2026, set for historic Miss World debut",
+      "description": "Pakistan will make its debut at the Miss World pageant after Anniqa Meraj was crowned Miss World Pakistan 2026 and selected to represent the country at the 75th Anniversary Edition of the Miss World Festival in Vietnam. The 24-year-old business and economics graduate will compete in the international pageant, scheduled to take place from August 9 to September 5 in Vietnam, marking the first time Pakistan will officially participate in the Miss World competition. Meraj, who is currently pursuing a master\u2019s degree in auditing and accounting, said her long-term ambition is to become a state-authorised public accountant while advocating for children\u2019s rights and girls\u2019 education in Pakistan. The crowning ceremony was held at Lahore\u2019s Faletti\u2019s Hotel, where Meraj received the title from Dr Shafaq Akhtar, Miss Pakistan Universal 2022, and Attaullah Gujjar, Mr Pakistan World. According to the Miss World Organisation, Meraj\u2019s participation represents a milestone for Pakistan on the global pageant stage. She has previously represented the country in several international beauty competitions, including Miss Earth, Miss Global, Miss Cosmo, Miss Eco International and Miss Aura International. Pakistan has expanded its presence in international beauty pageants in recent years through participation in Miss Universe. However, Meraj\u2019s appearance in Vietnam will mark the country\u2019s first-ever representation at the Miss World pageant.",
+      "link": "https://www.brecorder.com/news/40430542/anniqa-meraj-crowned-miss-world-pakistan-2026-set-for-historic-miss-world-debut",
+      "source": "Business Recorder",
+      "image": "https://i.brecorder.com/large/2026/07/17191055fe4c260.webp",
+      "published": "2026-07-17 14:11:45",
       "category": [
-        "domestic"
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Heartwood Presents Sci-Fi Horror in \u2018The Machine Stops\u2019",
+      "description": "\u201cThe Machine Stops,\u201d an original production by writer/director Griff Braley, looks to the past to ponder our collective future. Heartwood Regional Theater Co. presents the piece, which debuts Friday, July 17 in the Parker B. Poe Theater, at 81 Academy Road in Newcastle.",
+      "link": "https://lcnme.com/358663/subscriberonly/heartwood-presents-sci-fi-horror-in-the-machine-stops/",
+      "source": "The Lincoln County News",
+      "image": "https://lcnme.com/wp-content/uploads/2026/07/NEWMachineStops-2-2col.JPG.jpg",
+      "published": "2026-07-17 14:11:43",
+      "category": [
+        "top",
+        "entertainment"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "DSC_6298.jpg",
-      "description": "Erin Hill, granddaughter of George Hill, looks on during graveside services for her grandfather Friday, July 10, 2026 at Forest Lawn Cemetery in Pecks Mill.",
-      "link": "https://www.loganbanner.com/dsc-6298-jpg/image_01c425e5-3332-4264-96e9-b91306d1baa2.html",
-      "source": "The Logan Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/loganbanner.com/content/tncms/assets/v3/editorial/0/1c/01c425e5-3332-4264-96e9-b91306d1baa2/6a5a16eeaf020.image.jpg?resize=300%2C200",
-      "published": "2026-07-17 11:50:00",
+      "title": "Vencedores da Copa do Mundo recebera\u0303o ane\u0301is de campea\u0303o ao estilo norte-americano",
+      "description": null,
+      "link": "https://www.reuters.com/pt/desportivo/SKZPGM4OV5M4DHP57FUZK2LAF4-2026-07-17/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/JWRJ5DPYMBIEZNC6DOP7BIIW5U.jpg?auth=f7aa48f44a74fb09055282c9e9a918b48b13bfb57c415fa18d82bc11cc8cdd02&smart=true&width=1920",
+      "published": "2026-07-17 14:11:43",
       "category": [
-        "domestic"
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "iran",
+        "united kingdom",
+        "ukraine",
+        "united states of america",
+        "south africa",
+        "china",
+        "japan",
+        "india",
+        "russia",
+        "israel"
+      ]
+    },
+    {
+      "title": "The uses of violence (Dem lawmaker changed Israel aid vote)",
+      "description": "The combination of anti-Semitism and violence on the left deamands attention. It is a toxic brew. Democrat Washington Rep. Adam Smith provides a recent example in connection with his vote against aid to Israel this week. Matthew Shea reports at Jewish Insider (links in original): Rep. Adam Smith (D-WA), the top Democrat on the House Armed Services Committee, indicated he voted to cut off military aid to Israel in part because of sustained personal threats against his family and his staff, part of what he described as a violent and relentless campaign of intimidation by far-left anti-Israel activists. Smith voted...",
+      "link": "https://freerepublic.com/focus/f-news/4388305/posts",
+      "source": "Freerepublic",
+      "image": null,
+      "published": "2026-07-17 14:11:41",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Postpartum crisis deepens in Rajasthan",
+      "description": null,
+      "link": "https://www.thehansindia.com/news/national/postpartum-crisis-deepens-in-rajasthan-1098980",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/19/1678986-hea.webp",
+      "published": "2026-07-19 03:54:56",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

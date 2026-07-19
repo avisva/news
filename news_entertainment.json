@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Entertainment News | 'Not End of Dream': Yami Gautam on Winning First National Award for 'Article 370'",
-      "description": "Get latest articles and stories on Entertainment at LatestLY. Actor Yami Gautam, who bagged her career's first National Film Award for her role in the political thriller 'Article 370'.",
-      "link": "https://www.latestly.com/agency-news/entertainment-news-not-end-of-dream-yami-gautam-on-winning-first-national-award-for-article-370-7522379.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260718172306.jpg",
-      "published": "2026-07-18 17:48:19",
+      "title": "Taylor Swift wedding NDA 'had teeth': Guest divulges invitation process",
+      "description": "American Century Investments CEO Jonathan Thomas said guests signed strict NDAs, received digital invites and didn't know the venue until last minute.",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/07/18/taylor-swift-wedding-nda-guest-reveals/90967979007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/13/USAT/84177818007-2219870513.jpg?crop=2999,1687,x0,y155&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-07-18 20:11:42",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BBC Middlesbrough show gets major update as fans 'desperate for more'",
+      "description": "This award-winning BBC show has fans hooked \"in the first five minutes\".",
+      "link": "https://www.examinerlive.co.uk/news/tv/bbc-middlesbrough-show-gets-major-34314555",
+      "source": "Yorkshirelive",
+      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34314559.ece/ALTERNATES/s615/0_542503-1.jpg",
+      "published": "2026-07-18 20:11:12",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     }
   ]

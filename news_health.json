@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "No private hospital transfer for Sonam Wangchuk as court upholds forcible removal",
+      "description": "The Delhi High Court states that at Safdarjung Hospital, Sonam Wangchuk has been administered only oral interventions deemed necessary in light of his \u2018deteriorating\u2019 condition, although without his consent.",
+      "link": "https://indianexpress.com/article/legal-news/sonam-wangchuk-delhi-high-court-safdarjung-hospital-discharge-plea-rejected-10793702/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/07/wife-2.jpg",
+      "published": "2026-07-19 11:53:44",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Could the keto diet be increasing your cancer risk?",
+      "description": "Researchers said the keto diet was found to suppress tumors in one part of the body but accelerated growth in another.",
+      "link": "https://www.kxan.com/news/national-news/could-the-keto-diet-be-increasing-your-cancer-risk/",
+      "source": "Kxan",
+      "image": "https://www.kxan.com/wp-content/uploads/sites/40/2026/07/GettyImages-1516943190-e1784172587705.jpg?w=900",
+      "published": "2026-07-19 11:53:39",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

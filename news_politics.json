@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Parenting from a distance",
-      "description": "Q. My ex is a terrible co-parent. When we divorced, I remarried soon afterward, but I have stayed open to co-parenting with their mother. We had to move an hour away and so my time with the kids had to...",
-      "link": "https://www.clevelandbanner.com/opinion/columns/parenting-from-a-distance/article_419441c4-3e27-5e49-9739-c7388537724b.html",
-      "source": "Clevelandbanner",
-      "image": "https://bloximages.chicago2.vip.townnews.com/clevelandbanner.com/content/tncms/custom/image/0e3c00be-edb5-11ed-9099-87b204b2b6da.png?resize=600%2C315",
-      "published": "2026-07-18 14:30:00",
+      "title": "Iran's supreme leader warns of 'unforgettable lessons' if US continues attacks",
+      "description": "Iran's supreme leader issued stern warnings after the United States conducted further strikes. Tehran announced it is suspending commitments to a recently signed interim deal. Kuwait reported significant damage to its water and oil facilities from Iranian attacks. US airstrikes targeted infrastructure in Iran's southern Hormozgan province. Both nations continue to vie for control of the vital Strait of Hormuz waterway.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/irans-supreme-leader-warns-of-unforgettable-lessons-if-us-continues-attacks/articleshow/132484915.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132484970,resizemode-4,width-1200,height-900,imgsize-276374,overlay-economictimes/articleshow.jpg",
+      "published": "2026-07-18 17:48:50",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Nainital residents hold silent gathering in support of Sonam Wangchuk",
+      "description": "Nainital residents hold silent gathering in support of Sonam Wangchuk",
+      "link": "https://timesofindia.indiatimes.com/city/dehradun/nainital-residents-hold-silent-gathering-in-support-of-sonam-wangchuk/articleshow/132484968.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "published": "2026-07-18 17:48:37",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "New York Mayor Zohran Mamdani weighs Benjamin Netanyahu arrest during UN summit",
+      "description": "NY mayor says still mulling Netanyahu arrest during UN meet",
+      "link": "https://gulfnews.com/world/americas/new-york-mayor-zohran-mamdani-weighs-benjamin-netanyahu-arrest-during-un-summit-1.500612615",
+      "source": "Gulf News",
+      "image": "https://media.assettype.com/gulfnews/2026-07-18/2kkguqy7/newsml_afp_com_20260703T142309Z_doc_b97h9l4.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-07-18 17:48:24",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
       ]
     }
   ]

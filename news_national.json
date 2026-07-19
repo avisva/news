@@ -1,17 +1,107 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 7,
   "results": [
     {
-      "title": "You may recover from less sleep, but your blood sugar may pay the price",
-      "description": "Short-term sleep deprivation may impair insulin sensitivity\u2014but experts say the long-term risk depends on your sleep habits.",
-      "link": "https://indianexpress.com/article/lifestyle/health/you-may-recover-from-less-sleep-but-your-blood-sugar-may-pay-the-price-10784527/",
-      "source": "The Indian Express",
-      "image": "https://images.indianexpress.com/2026/07/insulin-resistance.jpg",
-      "published": "2026-07-18 14:30:00",
+      "title": "ED claims Rs 164cr discrepancy in TMC account expenses, questions bank",
+      "description": "The Enforcement Directorate (ED) has flagged a discrepancy of Rs 164 crore with regard to the expenses shown in the main bank account of the Trinamul Congress, sources said on Saturday.",
+      "link": "https://www.thestatesman.com/bengal/ed-claims-rs-164cr-discrepancy-in-tmc-account-expenses-questions-bank-1503618253.html",
+      "source": "The Statesman",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2026/01/Untitled-design-47-9.webp",
+      "published": "2026-07-18 17:48:57",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Iran's supreme leader warns of 'unforgettable lessons' if US continues attacks",
+      "description": "Iran's supreme leader issued stern warnings after the United States conducted further strikes. Tehran announced it is suspending commitments to a recently signed interim deal. Kuwait reported significant damage to its water and oil facilities from Iranian attacks. US airstrikes targeted infrastructure in Iran's southern Hormozgan province. Both nations continue to vie for control of the vital Strait of Hormuz waterway.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/irans-supreme-leader-warns-of-unforgettable-lessons-if-us-continues-attacks/articleshow/132484915.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132484970,resizemode-4,width-1200,height-900,imgsize-276374,overlay-economictimes/articleshow.jpg",
+      "published": "2026-07-18 17:48:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Nainital residents hold silent gathering in support of Sonam Wangchuk",
+      "description": "Nainital residents hold silent gathering in support of Sonam Wangchuk",
+      "link": "https://timesofindia.indiatimes.com/city/dehradun/nainital-residents-hold-silent-gathering-in-support-of-sonam-wangchuk/articleshow/132484968.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "published": "2026-07-18 17:48:37",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "27 yrs on, \u2018dead\u2019 fugitive wanted for killing 2 UP cops held in MP",
+      "description": "27 yrs on, \u2018dead\u2019 fugitive wanted for killing 2 UP cops held in MP",
+      "link": "https://timesofindia.indiatimes.com/city/agra/27-yrs-on-dead-fugitive-wanted-for-killing-2-up-cops-held-in-mp/articleshow/132484962.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-131775791/131775791.jpg",
+      "published": "2026-07-18 17:48:30",
       "category": [
         "top",
-        "health"
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Woman, lover use snake to kill hubby for Rs 20L insurance claim",
+      "description": "Woman, lover use snake to kill hubby for Rs 20L insurance claim",
+      "link": "https://timesofindia.indiatimes.com/city/meerut/woman-lover-use-snake-to-kill-hubby-for-rs-20l-insurance-claim/articleshow/132484961.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132484959/132484959.jpg",
+      "published": "2026-07-18 17:48:26",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Entertainment News | 'Not End of Dream': Yami Gautam on Winning First National Award for 'Article 370'",
+      "description": "Get latest articles and stories on Entertainment at LatestLY. Actor Yami Gautam, who bagged her career's first National Film Award for her role in the political thriller 'Article 370'.",
+      "link": "https://www.latestly.com/agency-news/entertainment-news-not-end-of-dream-yami-gautam-on-winning-first-national-award-for-article-370-7522379.html",
+      "source": "Latestly",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260718172306.jpg",
+      "published": "2026-07-18 17:48:19",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\u2018In India cow gaumata\u2019: Court gives 10-yr jail to 3 in slaughter case",
+      "description": "\u2018In India cow gaumata\u2019: Court gives 10-yr jail to 3 in slaughter case",
+      "link": "https://timesofindia.indiatimes.com/city/agra/in-india-cow-gaumata-court-gives-10-yr-jail-to-3-in-slaughter-case/articleshow/132484955.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132484952/132484952.jpg",
+      "published": "2026-07-18 17:48:19",
+      "category": [
+        "top",
+        "crime"
       ],
       "country": [
         "india"

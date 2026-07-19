@@ -1,35 +1,47 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Delimitacio\u0301n de Santurba\u0301n: segunda reunio\u0301n en Bucaramanga finalizo\u0301 sin concertacio\u0301n",
-      "description": "La nueva mesa de concertacio\u0301n avanzo\u0301 en dos ineludibles, y au\u0301n quedan pendientes otros dos.",
-      "link": "https://www.elespectador.com/ambiente/delimitacion-del-paramo-de-santurban-segunda-reunion-en-bucaramanga-finalizo-sin-concertacion/",
-      "source": "Elespectador.com",
-      "image": "https://www.elespectador.com/resizer/v2/ADWJ4VQ5MJA7DJJLRE7EHAAMSM.jpeg?auth=255196192070353ff09ef873ec27d25869905a278e4d2fed62651e1b1eabea2d&smart=true",
-      "published": "2026-07-18 23:54:59",
+      "title": "Forest Service Employees Held Hostage Near Mount Shasta, Father and Son Charged",
+      "description": "Two Forest Service employees rescued after 15 hours held hostage near Mount Shasta; father and son face federal kidnapping charges. Joseph Henrichsen, 49, and Phoenix Henrichsen, 23, surrendered at 2:30 a.m. Friday following FBI crisis negotiations at Shasta-Trinity National Forest.",
+      "link": "https://easternherald.com/2026/07/19/forest-service-employees-hostage-shasta-henrichsen/",
+      "source": "The Eastern Herald",
+      "image": "https://easternherald.com/wp-content/uploads/2026/07/forest-service-hostage-shasta-rescue.jpg",
+      "published": "2026-07-19 01:14:27",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
-        "colombia"
+        "india"
       ]
     },
     {
-      "title": "EE.UU. lanza bombardeos ae\u0301reos contra Ira\u0301n por octava jornada consecutiva",
-      "description": "El Comando Central de las Fuerzas Armadas de EE.UU. (Centcom) anuncia el inicio de bombardeos ae\u0301reos contra objetivos de Ira\u0301n por octava jornada consecutiva despue\u0301s de que Washington diera por reiniciado el conflicto la semana pasada.",
-      "link": "https://efe.com/mundo/2026-07-19/eeuu-iran-bombardeos-ataques/",
-      "source": "Efe",
-      "image": "https://i0.wp.com/efe.com/wp-content/uploads/2026/07/OBJ_20251118T180218S0008I_1_1_1_47_7_6.webp?fit=900%2C600&ssl=1",
-      "published": "2026-07-18 23:54:53",
+      "title": "Tate Brothers Arrested in Miami as UK Files Additional Rape and Trafficking Charges",
+      "description": "U.S. Marshals arrested Andrew and Tristan Tate in Miami on Saturday as UK prosecutors filed new rape and trafficking charges covering four additional victims and offenses dating to 2010. The warrant was sealed, with U.S. Marshals unable to confirm the specific charges publicly.",
+      "link": "https://easternherald.com/2026/07/19/tate-brothers-arrested-miami-uk-rape-trafficking/",
+      "source": "The Eastern Herald",
+      "image": "https://easternherald.com/wp-content/uploads/2026/07/andrew-tate-tristan-tate-arrested-miami.jpg",
+      "published": "2026-07-19 01:14:25",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
-        "cuba"
+        "india"
+      ]
+    },
+    {
+      "title": "Big Boost To SEQ Dams To Strengthen Water Security",
+      "description": "The Crisafulli Government will double the capacity of two South East Queensland dams, as part of capacity-restoring upgrades in a major new push for",
+      "link": "https://www.nationaltribune.com.au/big-boost-to-seq-dams-to-strengthen-water-security/",
+      "source": "The National Tribune",
+      "image": "https://images.pexels.com/photos/2516657/pexels-photo-2516657.jpeg",
+      "published": "2026-07-19 01:14:17",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

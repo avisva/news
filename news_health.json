@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "You may recover from less sleep, but your blood sugar may pay the price",
+      "description": "Short-term sleep deprivation may impair insulin sensitivity\u2014but experts say the long-term risk depends on your sleep habits.",
+      "link": "https://indianexpress.com/article/lifestyle/health/you-may-recover-from-less-sleep-but-your-blood-sugar-may-pay-the-price-10784527/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/07/insulin-resistance.jpg",
+      "published": "2026-07-18 14:30:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

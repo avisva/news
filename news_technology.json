@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Shizuoka, JR Tokai sign pact to start maglev construction",
-      "description": "The completion of the Shizuoka section of the line is expected to take over 10 years.",
-      "link": "https://www.japantimes.co.jp/news/2026/07/19/japan/shizuoka-jr-tokai-sign-maglev-pact/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/19/552399.jpg",
-      "published": "2026-07-19 01:15:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "japan"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

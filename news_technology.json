@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Microsoft Releases KB5121767 Emergency Update for Dell PCs",
+      "description": "Emergency Windows 11 Update KB5121767 fixes an Intel driver compatibility issue affecting a limited number of Dell computers running Windows 11. Microsoft released the out-of-band update after recent Patch Tuesday updates caused problems with Intel\u2019s Innovation Platform Framework driver. KB5121767 also includes all previous security and non-security improvements. Microsoft Blocked the July 2026 Update Microsoft [...]",
+      "link": "https://windowsreport.com/microsoft-releases-kb5121767-emergency-update-for-dell-pcs/",
+      "source": "Onmsft",
+      "image": "https://windowsreport.com/wp-content/uploads/2026/07/update-KB5121767-windows-11.jpg",
+      "published": "2026-07-19 04:55:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Psychology says the loneliest people in a room are often the most socially skilled because they learned early to perform connection instead of feel it",
+      "description": "There\u2019s a person at every party you\u2019ve ever been to. Maybe you\u2019ve been them. They work the room like it\u2019s choreography. They remember your kid\u2019s name and the thing you mentioned six months ago. They ask the follow-up question nobody else asks. When they leave, everyone agrees they\u2019re wonderful. And on the drive home, they [...]",
+      "link": "https://maketecheasier.com/psychology-says-the-loneliest-people-in-a-room-are-often-the-most-socially-skilled-because-they-learned-early-to-perform-connection-instead-of-feel-it/",
+      "source": "Maketecheasier",
+      "image": "https://maketecheasier.com/wp-content/uploads/2026/07/lonely-person-in-room.png",
+      "published": "2026-07-19 04:55:37",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "The Nintendo Switch 2 Pro Controller is worth buying \u2013 here\u2019s why you should get it - Nintendo Everything",
+      "description": "The Nintendo Switch 2 Pro Controller is worth buying \u2013 here\u2019s why you should get it Nintendo Everything",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzZDeDAwNnExSEhHU2Y4V3JGbnRTcUliR1V4QTRLRmFMQ1RGdlRRZUxKYmxRUXJ3NzdzRi0wV05RRjJ0SkF0LUFEODAwcHo2MHR5WGtUU19ZQXg1MGNRUl90MW1zSXE2cDJPNE1FUlRBOWluYmRFSFZnUGlodFljMlNB?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-19 04:55:30",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

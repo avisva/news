@@ -1,89 +1,327 @@
 {
   "status": "success",
-  "totalResults": 22,
+  "totalResults": 26,
   "results": [
     {
-      "title": "ChessDigital Launches the ChessDigital Listing Engine, an AI-Powered and Human-Supported Growth System for Real Estate Teams and Brokerages",
-      "description": "Miami, Florida--(Newsfile Corp. - July 19, 2026) - ChessDigital today announced the launch of the ChessDigital Listing Engine, an AI-powered and human-supported listing acquisition system developed exclusively for real estate teams and brokerages.",
-      "link": "https://www.newsfilecorp.com/release/305141/ChessDigital-Launches-the-ChessDigital-Listing-Engine-an-AIPowered-and-HumanSupported-Growth-System-for-Real-Estate-Teams-and-Brokerages",
-      "source": "Newsfilecorp",
+      "title": "Four men sent to Crown Court, including 2 allegedly caught in hotel room with child",
+      "description": "Four men have had their cases sent to crown court after appearing before Blackburn Magistrates' Court",
+      "link": "https://www.lancashiretelegraph.co.uk/news/26288627.blackburn-magistrates-send-4-mens-cases-crown-court/",
+      "source": "Lancashire Telegraph",
+      "image": "https://www.lancashiretelegraph.co.uk/resources/images/18996755/",
+      "published": "2026-07-19 04:56:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "How I was not paid for role I played \u2014 Bisola Omobolanle",
+      "description": "By Ayo Onikoyi Fast-rising Nollywood actress Olaide Bisola Omobolanle, popularly known as Nicebody4real, has opened up on one of the most difficult experiences she has faced since joining the Nigerian movie industry, revealing that she once spent over a month on a film set without receiving any payment for her role. The Ogun State-born actress, [...] The post How I was not paid for role I played \u2014 Bisola Omobolanle appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/07/how-i-was-not-paid-for-role-i-played-bisola-omobolanle/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Bisola1.png",
+      "published": "2026-07-19 04:56:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Bolton road to close for more than a week for electricity works tomorrow",
+      "description": "Motorists are being urged to plan ahead as a Bolton road is set to close for more than a week to allow electricity works to be carried out.",
+      "link": "https://www.theboltonnews.co.uk/news/26276341.blenheim-road-set-close-electricity-works-july/",
+      "source": "The Bolton News",
       "image": null,
-      "published": "2026-07-19 03:55:00",
+      "published": "2026-07-19 04:56:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018Trump\u2019s Signature Is Worthless\u2019: Iran\u2019s Supreme Leader Mojtaba Khamenei Slams US Over Collapsed Deal",
+      "description": "Iran\u2019s Supreme Leader Mojtaba Khamenei has called Donald Trump\u2019s signature \u201cutterly worthless and devoid of credibility,\u201d accusing the US of violating a recent agreement as fighting between the two countries escalates once again.",
+      "link": "https://www.news9live.com/world/trumps-signature-is-worthless-irans-supreme-leader-mojtaba-khamenei-slams-us-over-collapsed-deal-2990749",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/04/Trump-and-Mojtaba-Khamenei.jpg",
+      "published": "2026-07-19 04:56:00",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Iran Claims It Shot Down US MQ-9 Drone Over Ahvaz",
+      "description": "(MENAFN) Iran's Islamic Revolutionary Guard Corps (IRGC) said it downed a US MQ-9 drone over the southwestern city of Ahvaz on Sunday, according to reports.The claim has not been confirmed by US ...",
+      "link": "https://menafn.com/1111413870/Iran-Claims-It-Shot-Down-US-MQ-9-Drone-Over-Ahvaz",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-07-19 04:55:54",
+      "category": [
+        "politics",
+        "top",
+        "crime"
+      ],
+      "country": [
+        "nepal",
+        "cambodia",
+        "vietnam",
+        "north korea",
+        "iraq",
+        "bhutan",
+        "india",
+        "tajikistan",
+        "china",
+        "south korea",
+        "macau",
+        "mongolia",
+        "philippines",
+        "laos",
+        "timor-leste",
+        "afghanistan",
+        "sri lanka",
+        "turkmenistan",
+        "israel",
+        "brunei",
+        "japan",
+        "uzbekistan",
+        "singapore",
+        "taiwan",
+        "thailand",
+        "bangladesh",
+        "yemen",
+        "bahrain",
+        "cyprus",
+        "turkey",
+        "georgia",
+        "kazakhstan",
+        "armenia",
+        "kuwait",
+        "kyrgyzstan",
+        "indonesia",
+        "saudi arabia",
+        "lebanon",
+        "myanmar",
+        "syria",
+        "pakistan",
+        "jordan",
+        "malaysia",
+        "maldives",
+        "qatar",
+        "azerbaijan",
+        "united arab emirates",
+        "iran"
+      ]
+    },
+    {
+      "title": "Microsoft Releases KB5121767 Emergency Update for Dell PCs",
+      "description": "Emergency Windows 11 Update KB5121767 fixes an Intel driver compatibility issue affecting a limited number of Dell computers running Windows 11. Microsoft released the out-of-band update after recent Patch Tuesday updates caused problems with Intel\u2019s Innovation Platform Framework driver. KB5121767 also includes all previous security and non-security improvements. Microsoft Blocked the July 2026 Update Microsoft [...]",
+      "link": "https://windowsreport.com/microsoft-releases-kb5121767-emergency-update-for-dell-pcs/",
+      "source": "Onmsft",
+      "image": "https://windowsreport.com/wp-content/uploads/2026/07/update-KB5121767-windows-11.jpg",
+      "published": "2026-07-19 04:55:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mariners wait out Giants, win 4-3 in extras",
+      "description": "\u201cThere is nothing I can do to make it better. Just wait.\u201d That\u2019s Julio Rodri\u0301guez explaining why his concussion was more difficult for him than prior injuries. Julio\u2019s a player that thrives on being at the center of things, always hustling, always giving the game everything he has. So when Nolan Schanuel\u2019s errant throw hit [...]",
+      "link": "https://sports.yahoo.com/articles/mariners-wait-giants-win-4-045552513.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/OMun.z2kAAoMaHEtvwbeTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/7cb756d308e12ab599799f6c09ca1d86",
+      "published": "2026-07-19 04:55:52",
+      "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US-Saudi-Emirati crimes aggression on this day, July 19",
+      "description": "On this day, July 19, the airstrikes of the US-Saudi-Emirati aggression concentrated on residential neighborhoods and public facilities, resulting in dozens of martyrs and wounded, as well as widespread destruction.",
+      "link": "https://www.saba.ye/en/news3745723.htm",
+      "source": "Saba",
+      "image": "https://www.saba.ye/storage/larage/MBnCgPoDLbYEL6QnW6VntcY4NrJuQwNR.jpg",
+      "published": "2026-07-19 04:55:50",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "yemen"
+      ]
+    },
+    {
+      "title": "SPB English Medium College of Commerce Hosts Inter-Class Mehendi Competition",
+      "description": "Surat The Cultural Committee of SPB English Medium College of Commerce, managed by the Sarvajanik Education Society, successfully organised an The post SPB English Medium College of Commerce Hosts Inter-Class Mehendi Competition appeared first on Bilkul Online .",
+      "link": "https://bilkulonline.com/2026/07/19/spb-english-medium-college-of-commerce-hosts-inter-class-mehendi-competition/",
+      "source": "Bilkul Online",
+      "image": "https://bilkulonline.com/wp-content/uploads/2026/07/unnamed.png",
+      "published": "2026-07-19 04:55:46",
+      "category": [
+        "education",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Gold rates in Visakhapatnam today, check the rates on 19 July, 2026",
+      "description": null,
+      "link": "https://www.thehansindia.com/business/gold-rates-in-visakhapatnam-today-check-the-rates-on-19-july-2026-1099008",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/06/10/1663900-gold.webp",
+      "published": "2026-07-19 04:55:44",
       "category": [
         "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump celebrates the World Cup as a US victory as he prepares to present trophy to the winning team",
+      "description": "article author: AP ID: 1784435889583215400 Sun, 2026-07-19 04:01 NEW YORK: President Donald Trump is set to present the World Cup trophy to the winner of Sunday\u2019s final between Argentina and Spain. But to him, the real victor of football\u2019s premier tournament just might be the United States. \u201cIt turned out we were a soccer country, and I think it\u2019s going to remain,\u201d Trump said Friday at a FIFA reception at Trump Tower in New York City. \u201cThis has really brought the world together.\u201d Main category: World Tags: US Trump FIFA World Cup 2026",
+      "link": "https://www.arabnews.pk/node/2651466/world",
+      "source": "Arab News Pk",
+      "image": "https://www.arabnews.pk/sites/default/files/styles/n_670_395/public/main-image/2026/07/19/4732725-1758091784.jpg?itok=1lRD3kGu",
+      "published": "2026-07-19 04:55:43",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Paresh Rawal Breaks Silence on OMG 2 Controversy, Seeks Idea Credit Not Money",
+      "description": "Paresh Rawal has clarified the controversy surrounding OMG 2, saying he has no disagreement with Akshay Kumar. The veteran actor says he only wanted recognition for the original story idea and never sought money or writing credit",
+      "link": "https://newsable.asianetnews.com/gallery/entertainment/paresh-rawal-breaks-silence-on-omg-2-controversy-seeks-idea-credit-not-money-75vfyki",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kxtn94gxqs8bdtbr2e0ypbnk,imgname-paresh-rawal-akshay-kumar-rift-truth-1784379904541.png",
+      "published": "2026-07-19 04:55:41",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Psychology says the loneliest people in a room are often the most socially skilled because they learned early to perform connection instead of feel it",
+      "description": "There\u2019s a person at every party you\u2019ve ever been to. Maybe you\u2019ve been them. They work the room like it\u2019s choreography. They remember your kid\u2019s name and the thing you mentioned six months ago. They ask the follow-up question nobody else asks. When they leave, everyone agrees they\u2019re wonderful. And on the drive home, they [...]",
+      "link": "https://maketecheasier.com/psychology-says-the-loneliest-people-in-a-room-are-often-the-most-socially-skilled-because-they-learned-early-to-perform-connection-instead-of-feel-it/",
+      "source": "Maketecheasier",
+      "image": "https://maketecheasier.com/wp-content/uploads/2026/07/lonely-person-in-room.png",
+      "published": "2026-07-19 04:55:37",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Goa declares 1.02 crore sq m of eco-sensitive land as No Development Zone",
+      "description": "The Goa government has declared 1.02 crore square metres of ecologically sensitive land as a No Development Zone to protect paddy fields, slopes and low-lying areas. The move aims to curb unregulated construction and preserve the state's ecological balance",
+      "link": "https://telanganatoday.com/goa-declares-1-02-crore-sq-m-of-eco-sensitive-land-as-no-development-zone",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/07/Paddy-1.jpeg",
+      "published": "2026-07-19 04:55:34",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\"Be Kind To Her\": Samay Raina Defends 'Man Hater' Sakshi Jha After Viral Latent Controversy",
+      "description": "Samay Raina has requested his fans to be kind to Sakshi Jha.",
+      "link": "https://www.ndtv.com/lifestyle/be-kind-to-her-samay-raina-defends-man-hater-sakshi-jha-after-viral-latent-controversy-11790775",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-07/fahl2vqo_latent-controversy_625x300_19_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-07-19 04:55:32",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\u2018Batwara 1947\u2019 Teaser Out: Sunny Deol Back in Action Against the Horrors of Partition in Rajkumar Santoshi\u2019s Epic",
+      "description": "The marketing campaign for the highly anticipated period drama Batwara 1947 has taken a major leap forward with the release of its official second teaser. Directed by National Award-winning filmmaker Rajkumar Santoshi and headlined by Sunny Deol, the new footage provides a deeply visceral look into the brutal, chaotic backdrop of India\u2019s Partition. Produced under ...",
+      "link": "https://www.cinetalkers.com/batwara-1947-teaser-out-sunny-deol-back-in-action-against-the-horrors-of-partition-in-rajkumar-santoshis-epic/",
+      "source": "Cinetalkers",
+      "image": "https://www.cinetalkers.com/wp-content/uploads/2026/07/Batwara-1947-teaser-out.jpeg",
+      "published": "2026-07-19 04:55:32",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "NBA Summer League Highlights: Warriors 92, Lakers 88",
+      "description": "Graham Ike scored 16 points and grabbed 11 rebounds to help the Golden State Warriors pick up a 92-88 win against the Los Angeles Lakers.",
+      "link": "https://www.sportsnet.ca/nba/video/nba-summer-league-highlights-warriors-92-lakers-88/",
+      "source": "Sportsnet",
+      "image": "https://www.sportsnet.ca/wp-content/uploads/2026/07/6401530754112.jpg",
+      "published": "2026-07-19 04:55:30",
+      "category": [
+        "sports"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "Prepared not scared. Dedicated volunteers in Nashville relay calm, straight-talk info during storms",
-      "description": "When tornadoes threaten in Nashville, Tennessee, many people here turn to Nashville Severe Weather. This group of dedicated volunteers can always be found on social media, calmly explaining the storm movement, advising when to take cover, and giving the \u201call...",
-      "link": "https://www.yoursun.com/ap/lifestyles/prepared-not-scared-dedicated-volunteers-in-nashville-relay-calm-straight-talk-info-during-storms/article_11114c83-e54d-5145-9f3d-6f2c8f53dd1d.html",
-      "source": "Yoursun.com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/yoursun.com/content/tncms/assets/v3/editorial/7/3a/73a4ee76-9f36-5c05-894a-538e32e34f64/6a4d31668791e.image.jpg?resize=300%2C200",
-      "published": "2026-07-19 03:55:00",
+      "title": "The Nintendo Switch 2 Pro Controller is worth buying \u2013 here\u2019s why you should get it - Nintendo Everything",
+      "description": "The Nintendo Switch 2 Pro Controller is worth buying \u2013 here\u2019s why you should get it Nintendo Everything",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzZDeDAwNnExSEhHU2Y4V3JGbnRTcUliR1V4QTRLRmFMQ1RGdlRRZUxKYmxRUXJ3NzdzRi0wV05RRjJ0SkF0LUFEODAwcHo2MHR5WGtUU19ZQXg1MGNRUl90MW1zSXE2cDJPNE1FUlRBOWluYmRFSFZnUGlodFljMlNB?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-19 04:55:30",
       "category": [
-        "top",
-        "environment"
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "An NYC helicopter that crashed and killed 6 last year shows signs of bird strike, NTSB says",
-      "description": "The National Transportation Safety Board has reported that the remains of several geese were found on the wreckage of a sightseeing helicopter that crashed into the Hudson River last year in New York City and killed 6 people. The report...",
-      "link": "https://www.yoursun.com/ap/national/an-nyc-helicopter-that-crashed-and-killed-6-last-year-shows-signs-of-bird-strike/article_12133947-c484-59e9-810d-a80db192f718.html",
-      "source": "Yoursun.com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/yoursun.com/content/tncms/assets/v3/editorial/f/c5/fc58a49f-5beb-523f-973c-d7c7b346e5c5/6a592bfd31be6.image.jpg?resize=300%2C200",
-      "published": "2026-07-19 03:55:00",
+      "title": "Amitabh Bachchan on Argentina vs Spain World Cup 2026 final: \u2018Competition between coaches\u2019",
+      "description": "Ahead of the 2026 FIFA World Cup final between Argentina and Spain, Amitabh Bachchan shared his thoughts on the match, saying the title would be decided not by individual brilliance but by the tactical acumen of the two coaches.",
+      "link": "https://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-on-argentina-vs-spain-fifa-world-cup-2026-final-its-about-the-coaches-10793254/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/07/amitabh-bachchan-1600.jpg",
+      "published": "2026-07-19 04:55:30",
       "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Brad Pitt\u2019s children are dropping their dad\u2019s surname",
-      "description": "CALIFORNIA - For more than a decade, Hannah had been known by two surnames.",
-      "link": "https://www.nation.com.pk/19-Jul-2026/brad-pitt-s-children-dropping-dad-s-surname",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/print_images/large/2026-07-19/brad-pitt-s-children-dropping-dad-s-surname-1784433339-2610.jpg",
-      "published": "2026-07-19 03:55:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Military condemns grenade attack on Army convoy in Maguindanao del Sur",
-      "description": "The military strongly denounced the grenade attack on a Philippine Army convoy in Shariff Aguak, Maguindanao del Sur on Saturday, July 18, that injured five individuals. In a statement, the 6th Infantry (Kampilan) Division said the attack carried out by unidentified motorcycle-riding assailants against personnel of the Army's 2nd Scout Ranger Battalion, 1st Scout Ranger Regiment occurred around 6:30 a.m. \u201cThis senseless act of violence resulted in the wounding of two soldiers and three civilians. It further demonstrates the complete disregard of the perpetrators for human life and public safety,\u201d the 6ID said. Police said two motorcycle-riding suspects cut through the convoy in Barangay Poblacion, Shariff Aguak before hurling a grenade and fleeing. The explosion wounded two members of the 2nd Scout Ranger Battalion and three civilians. The attack took place despite the Commission on Elections (Comelec) gun ban in the Bangsamoro Autonomous Region in Muslim Mindanao, which has been in effect since July 16 for the upcoming BARMM parliamentary elections in September. \u201cOur soldiers were simply carrying out their sworn duty of serving and protecting the people when they became the target of this criminal attack,\u201d the 6ID said. \u201cSuch acts against our soldiers and innocent civilians, who deserve to live in peace and security, are unacceptable and have no place in a society striving for lasting peace and development,\u201d it added. Despite this, the 6ID said the incident would not affect the resolve of its troops to carry out their mission across the region. \u201cWe assure the public that this incident will not diminish the resolve of our troops to accomplish their mandate of safeguarding the people and maintaining peace and security across the region,\u201d it said. The division also recognized the wounded soldiers for remaining committed to their duty. \u201cWe commend the courage, professionalism, and unwavering commitment of our wounded personnel, who remained steadfast in the performance of their mission despite the danger they faced,\u201d the 6ID said. \u201cWe likewise express our sincere concern for the injured civilians and pray for the speedy and complete recovery of all those affected,\u201d it added. Meanwhile, the military urged the public to help authorities identify those responsible. \u201cThe 6th Infantry Division calls on the public to remain vigilant and to cooperate with authorities by reporting any information that may lead to the identification and arrest of the perpetrators,\u201d it said.",
-      "link": "https://mb.com.ph/article/10927254/philippines/national/military-condemns-grenade-attack-on-army-convoy-in-maguindanao-del-sur",
-      "source": "Manila Bulletin",
-      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/07/19/117199.webp",
-      "published": "2026-07-19 03:55:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Angadipuram Tali Sree Mahadeva Temple: An Ancient Shiva Shrine of Valluvanad",
-      "description": "The word Tali in Kerala\u2019s historical setting commonly refers to an important Shiva temple associated with an established settlement or regional centre. Such temples often became focal points for worship, community gatherings, learning, land administration and cultural activity. The presence of a Tali temple therefore indicates the former importance of Angadipuram as a well-organised religious and social centre. The post Angadipuram Tali Sree Mahadeva Temple: An Ancient Shiva Shrine of Valluvanad appeared first on Dharmakshethra - India Unabridged | Defence, Diplomacy, Economy, Health, Ayurveda, Heritage .",
-      "link": "https://dharmakshethra.com/angadipuram-tali-sree-mahadeva-temple-an-ancient-shiva-shrine-of-valluvanad/",
-      "source": "Dharmakshethra - India Unabridged",
-      "image": "https://dharmakshethra.com/wp-content/uploads/2026/07/Tali-Shiva-Temple-Angadippuram.webp",
-      "published": "2026-07-19 03:55:00",
-      "category": [
-        "politics",
+        "sports",
         "top"
       ],
       "country": [
@@ -91,239 +329,105 @@
       ]
     },
     {
-      "title": "Disturbing moment teen loses leg in vicious 'tug of war' with shark caught on film",
-      "description": "Heather Boswell was swimming with colleagues in the Pacific Ocean when a great white shark attacked her, leaving her with life-changing injuries - and the entire incident was caught on camera",
-      "link": "https://www.the-express.com/news/us-news/212153/teen-left-life-changing-injuries-after-great-white-shark-attack-caught-video",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/10/590x/212153_1.jpg",
-      "published": "2026-07-19 03:55:00",
+      "title": "WWE Saturday Night's Main Event results: NBA stars play big role",
+      "description": "Here's what happened at WWE Saturday Night's Main Event at Madison Square Garden.",
+      "link": "https://sports.yahoo.com/articles/wwe-saturday-nights-main-event-045525875.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/0d74431f0ba6a018b9b7fefda4653d27af8097c2e2bd3e21832171985249f0ea/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwrestling_junkie_articles_438%2F38719146911ede329fcd35f5c8041019",
+      "published": "2026-07-19 04:55:25",
       "category": [
-        "top",
-        "crime"
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Syrian authorities seize truck of rockets allegedly bound for Hezbollah in Lebanon",
-      "description": "Syrian authorities have thwarted an attempt to smuggle weapons believed to be headed to Hezbollah in Lebanon, according to state media. A truck carrying advanced weapons and rockets was seized at the border with Iraq. The Syrian Interior Ministry says...",
-      "link": "https://www.yoursun.com/ap/international/syrian-authorities-seize-truck-of-rockets-allegedly-bound-for-hezbollah-in-lebanon/article_71a8d47e-cb1f-5f4b-9aac-8fe5c87c680f.html",
-      "source": "Yoursun.com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/yoursun.com/content/tncms/assets/v3/editorial/b/8e/b8ec3a7e-7269-5c9e-8c3e-7a15e9b2f243/6a592a9388166.image.jpg?resize=300%2C200",
-      "published": "2026-07-19 03:55:00",
+      "title": "A better Bangladesh for all",
+      "description": "Prime Minister Tarique Rahman\u2019s assurance that no one will be left behind in building a new Bangladesh is definitely a powerful commitment, and one that must be heeded. This is a statement that carries particular weight for our nation\u2019s minority population, who have too often lived at the margins of development, protection, and political attention. We have long heard of the... Details",
+      "link": "https://www.dhakatribune.com/opinion/editorial/415478/a-better-bangladesh-for-all",
+      "source": "Dhaka Tribune",
+      "image": null,
+      "published": "2026-07-19 04:55:13",
       "category": [
-        "top",
-        "crime"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Tigers shut out Angels behind Tarik Skubal, Spencer Torkelson",
+      "description": "(Photo credit: Gary A. Vasquez-Imagn Images) Tarik Skubal scattered five hits over seven innings and Spencer Torkelson homered twice and drove in four runs to lead the Detroit Tigers to a 7-0 victory over the Los Angeles Angels on Saturday night in Anaheim, Calif. Skubal (6-5) struck out nine and didn't walk a batter while allowing only one runner past first base. He left after throwing 87 pitches, 60 for s",
+      "link": "http://www.losangelesherald.com/news/279196758/tigers-shut-out-angels-behind-tarik-skubal-spencer-torkelson",
+      "source": "Los Angeles Herald",
+      "image": null,
+      "published": "2026-07-19 04:55:10",
+      "category": [
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Postpartum crisis deepens in Rajasthan",
+      "title": "Analyst says there is a divide in how Americans shop for Apparel & Footwear",
       "description": null,
-      "link": "https://www.thehansindia.com/news/national/postpartum-crisis-deepens-in-rajasthan-1098980",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/07/19/1678986-hea.webp",
-      "published": "2026-07-19 03:54:56",
+      "link": "https://www.investing.com/news/economy-news/analyst-says-there-is-a-divide-in-how-americans-shop-for-apparel--footwear-4799701",
+      "source": "Investing Us",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0R0DL_M.jpg",
+      "published": "2026-07-19 04:55:10",
       "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Gujarat Tragedy: 8 Killed, 9 Injured In Blast Inside Illegal Firecracker Factory In Ahmedabad \u2013 VIDEO",
-      "description": "Prime Minister Narendra Modi has expressed grief over the tragedy and declared an ex gratia of Rs. 2 lakh for the next of kin of the deceased and Rs. 50,000 for the injured A tragic incident has come to light from Gujarat\u2019s Ahmedabad. At least eight people have been killed and nine reported injured in a blast inside... The post Gujarat Tragedy: 8 Killed, 9 Injured In Blast Inside Illegal Firecracker Factory In Ahmedabad \u2013 VIDEO appeared first on Read Selective .",
-      "link": "https://www.readselective.com/gujarat-tragedy-8-killed-9-injured-in-blast-inside-illegal-firecracker-factory-in-ahmedabad-video/",
-      "source": "Read Selective",
-      "image": "https://i0.wp.com/www.readselective.com/wp-content/uploads/2026/07/Screenshot-2026-07-19-at-9.19.21-AM.png?fit=1598%2C906&ssl=1",
-      "published": "2026-07-19 03:54:43",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Nets' Demin Excited to Play Alongside 'Aura Bro' Brown",
-      "description": "Brooklyn\u2019s dynamic \"Aura Bros\" are redefining the backcourt. After Egor Demin\u2019s explosive scoring display, the duo's playmaking promise offers a high-voltage glimpse into the Nets' future success.",
-      "link": "https://sports.yahoo.com/articles/nets-demin-excited-play-alongside-035437294.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/qm1Rxny1FWaBIVKumJB.Cw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0zNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/roundtable_sports_brooklyn_nets_123/d0a5297d801ea3a788992fdc6e982c15",
-      "published": "2026-07-19 03:54:37",
-      "category": [
-        "sports",
-        "breaking"
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "BAZZANA WALKS IT OFF!!!",
-      "description": "THANK YOU TRAVIS BAZZANA FOR SAVING THIS GAME!!! Seriously that was such a tough watch for the first 7 1/2 innings. The pitching staff kept us in the game but the offense was looking grim until that rally in the bottom of the 8th. Then when Bailey got thrown out at home I couldn\u2019t help [...]",
-      "link": "https://sports.yahoo.com/articles/bazzana-walks-off-035434193.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/0rqezusGheMBvgF36cvCCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/sb_nation_articles_115/d3a3c44dc9c29500d3e4de7ad9899005",
-      "published": "2026-07-19 03:54:34",
+      "title": "Searching the rubble for survivors of China landslide",
+      "description": "Excavators have been bought in to help scour the rubble for survivors of a landslide in China that has killed at least eight people and left another 34 missing.",
+      "link": "https://www.armidaleexpress.com.au/story/9313366/searching-the-rubble-for-survivors-of-china-landslide/?src=rss",
+      "source": "Armidale Express",
+      "image": "https://www.armidaleexpress.com.au/images/transform/v1/crop/frm/silverstone-feed-data/43785a22-0589-4b59-a9b3-7d2aa29e1e4a.jpg/r0_75_800_526_w600_h338_fmax.jpg",
+      "published": "2026-07-19 04:55:08",
       "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "20-Year-Old Stabbed to Death by Ex-Boyfriend in Nashik, Accused Found Hanging Hours Later",
-      "description": "A 20-year-old student was allegedly stabbed to death by her ex-boyfriend in Nashik, Maharashtra. Police suspect a murder-suicide linked to a one-sided love affair after the accused was found hanging hours later.",
-      "link": "https://www.newsx.com/india/20-year-old-stabbed-to-death-by-ex-boyfriend-in-nashik-accused-found-hanging-hours-later-250079/",
-      "source": "Newsx",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/07/20-year-old-stabbed-to-death-by-ex-boyfriend-in-nashik.jpg",
-      "published": "2026-07-19 03:54:34",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Tampa Bay Rays Drop Third Straight, Lose Series to Red Sox After All-Star Break",
-      "description": "The Tampa Bay Rays have dropped three straight after the All-Star Break, watching their AL East lead shrink following another loss to the Red Sox. Despite home runs from Victor Mesa Jr. and Jonny DeLuca, Tampa Bay now faces growing urgency ahead of the MLB trade deadline.",
-      "link": "https://sports.yahoo.com/articles/tampa-bay-rays-drop-third-035433151.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/qKplQwGDqAhLKsxUKm26gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAwO2NmPXdlYnA-/https://media.zenfs.com/en/roundtable_sports_tampa_bay_rays_598/8dbae39b4ab518cca4723afdb85df554",
-      "published": "2026-07-19 03:54:33",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Jammu Flash Floods: CM Abdullah Takes Stock As Rescue Ops Underway; Yatras Suspended",
-      "description": "Cloudburst-like rainfall triggered flash floods in Rajouri, leaving one woman missing and causing widespread damage to homes, vehicles and commercial establishments.",
-      "link": "https://www.news18.com/india/jammu-flash-floods-cm-abdullah-takes-stock-as-rescue-ops-underway-yatras-suspended-ws-l-10221061.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/07/CM-Omar-Abdullah-2026-07-33dc2275e91dac0c0bdb1ff80a62a798-1200x800.jpg",
-      "published": "2026-07-19 03:54:33",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Russian ballistic missiles rock Kyiv, one killed, officials say",
-      "description": "Fires broke out at a dormitory, a residential block and a supermarket, Kyiv Mayor Vitali \u200cKlitschko \u2060said on the Telegram app",
-      "link": "https://dunyanews.tv/en/World/963464-russian-ballistic-missiles-rock-kyiv-one-killed-officials-say",
-      "source": "Dunyanews",
-      "image": "https://img.dunyanews.tv/news/2026/July/07-19-26/news_big_images/963464_23286059.jpg",
-      "published": "2026-07-19 03:54:31",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Police Responding To Fatal Traffic Crash At Brookwater",
-      "description": "Police are investigating a fatal traffic crash at Brookwater this morning, 19 July.Around 1.30am, a Tesla crashed into a tree on Augusta Parkway near",
-      "link": "https://www.miragenews.com/police-responding-to-fatal-traffic-crash-at-1712431/",
-      "source": "Mirage News",
-      "image": "http://cdn1.miragenews.com/wp-content/uploads/2016/08/qld-police-patrol2.jpg",
-      "published": "2026-07-19 03:54:30",
-      "category": [
-        "domestic"
+        "world"
       ],
       "country": [
         "australia"
       ]
     },
     {
-      "title": "Have Diabetes? Experts Say Don't Skip This 10-Minute Routine After Meals",
-      "description": "Light walking after meals may help your body process food more efficiently while supporting healthy blood sugar levels.",
-      "link": "https://food.ndtv.com/health/have-diabetes-this-10-minute-habit-after-meals-may-help-control-blood-sugar-11785162",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-07/cqgc70g4_food_625x300_17_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "published": "2026-07-19 03:54:25",
+      "title": "Beyond the rescue: How weak local governance fuels insecurity in rural communities",
+      "description": "For nearly two months, fear hung over the remote communities surrounding the Old Oyo National Park. Parents waited anxiously for read more Beyond the rescue: How weak local governance fuels insecurity in rural communities",
+      "link": "https://businessday.ng/life/article/beyond-the-rescue-how-weak-local-governance-fuels-insecurity-in-rural-communities/",
+      "source": "Business News Nigeria",
+      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/06/Bandits-invade-Kwara-communities-abduct-two.png",
+      "published": "2026-07-19 04:55:07",
       "category": [
-        "food",
-        "entertainment"
+        "top",
+        "environment"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "PV Sindhu beats Akane Yamaguchi to win Japan Open 2026 title",
+      "description": "Sindhu dominated the clash with aggressive smashes and deft drop shots to beat Yamaguchi 21-17, 21-17 in just 50 minutes.",
+      "link": "https://sportstar.thehindu.com/badminton/pv-sindhu-japan-open-2026-final-score-result-yamaguchi-match-report/article71240594.ece",
+      "source": "Sport Star The Hindu",
+      "image": "https://ss-i.thgim.com/public/incoming/io52eg/article71240598.ece/alternates/LANDSCAPE_1200/AFP_C2HT2GH.jpg",
+      "published": "2026-07-19 04:55:04",
+      "category": [
+        "sports"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Greece Weighs Corporate Tax Cuts as Fiscal Room Hinges on Middle East Risks",
-      "description": "Greece\u2019s government is considering a new package of tax relief for businesses and self-employed professionals, including a potential cut in the corporate income-tax rate, as it prepares its economic-policy agenda for the Thessaloniki International Fair. Any measures, however, would depend on available fiscal space as heightened uncertainty in the Middle East raises new risks for the economy. Among the options under consideration is a two-percentage-point reduction in the corporate tax rate, to 20% from the current 22%. The proposal is one of several scenarios being assessed by the government\u2019s economic team, and no final decisions have been made. The amount of fiscal room available will be a key factor in determining whether the government moves ahead. Developments in the Middle East have added a new layer of uncertainty to the economic outlook, with potential repercussions for energy prices, inflation and public finances. Against that backdrop, economic officials are expected to weigh the budgetary cost of any tax reductions before presenting a final package to Prime Minister Kyriakos Mitsotakis. Other proposals under consideration include a tax discount for companies that pay their annual income-tax bill in a single payment rather than through monthly installments. Officials are also examining possible changes to advance tax payments, revisions to the system used to determine presumed taxable income for self-employed professionals and additional measures aimed at reducing the tax burden on businesses. A broader part of the government\u2019s thinking centers on rewarding tax compliance. Policymakers are considering incentives for companies that have no overdue tax or social-security liabilities, pay value-added tax on time and maintain a consistent record of meeting their obligations. Other scenarios being evaluated include additional tax incentives for businesses that expand employment, a potential tax-compliance bonus for companies with clean payment and regulatory records, and more favorable tax treatment for profits reinvested in productive assets, digital transformation and green projects. The proposals remain contingent on Greece\u2019s fiscal performance. The government is seeking to preserve room for measures that could support businesses, investment and middle-income households without putting its budget targets at risk. That balancing act has become more difficult as geopolitical tensions in the Middle East increase external risks to the Greek economy. A sustained rise in energy prices could feed into inflation and raise costs for businesses and households, potentially narrowing the fiscal space available for permanent tax cuts. The final scope of the package is therefore likely to be decided closer to the Thessaloniki International Fair, when officials expect to have a clearer picture of budget execution, tax revenue and the broader economic impact of international developments. Until then, the government\u2019s economic team is working on several alternative scenarios, with measures expected to be prioritized according to their fiscal cost and the resources ultimately available. The potential reduction of the corporate tax rate to 20% would rank among the most significant measures under consideration. But with geopolitical risks clouding the outlook, the government\u2019s ability to deliver a broader round of tax relief will ultimately depend on whether Greece\u2019s public finances can absorb the cost. #ENGLISH_EDITION",
-      "link": "https://www.dnews.gr/eidhseis/news-in-english/600566/greece-weighs-corporate-tax-cuts-as-fiscal-room-hinges-on-middle-east-risks",
-      "source": "Dnews Gr",
-      "image": "https://www.dnews.gr/media/k2/items/cache/2af3ce64b775e073fc11e4987beed502_L.jpg",
-      "published": "2026-07-19 03:54:24",
-      "category": [
-        "education"
-      ],
-      "country": [
-        "greece"
-      ]
-    },
-    {
-      "title": "US military ends latest airstrikes on Iran, saying it hit Revolutionary Guard over attack that killed American troops",
-      "description": "DUBAI, United Arab Emirates (AP) \u2014 US military ends latest airstrikes on Iran, saying it hit Revolutionary Guard over attack...",
-      "link": "https://wtop.com/world/2026/07/us-military-ends-latest-airstrikes-on-iran-saying-it-hit-revolutionary-guard-over-attack-that-killed-american-troops/",
-      "source": "Wtop News",
-      "image": "https://wtop.com/wp-content/themes/wtop-new/assets/img/icons/logo-700x260.gif",
-      "published": "2026-07-19 03:54:23",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Spain and Argentina brace for World Cup final",
-      "description": "Lionel Messi's battle-hardened Argentina take on silky Spain in the World Cup final on Sunday as the first 48-team tournament in history reaches a climax in New Jersey.Argentina coach Lionel Scaloni urged fans to make the most of seeing the diminutive genius lead out his team at the MetLife Stadium at the age of 39.",
-      "link": "https://sports.yahoo.com/articles/spain-argentina-brace-world-cup-035421257.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4TaLVc_iwhIErfxjN6_OzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0xMDQyO2NmPXdlYnA-/https://media.zenfs.com/en/afp.com/3fab9220da1b672f1474d7df606a50ff",
-      "published": "2026-07-19 03:54:21",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Athletics pitcher J.T. Ginn working on no-hitter through 6 innings against Nationals",
-      "description": null,
-      "link": "https://www.wgauradio.com/sports/athletics-pitcher-jt/JIFKOJKG6A225CBG2YEF3ZDHQA/",
-      "source": "Wgau Radio",
-      "image": "https://www.wgauradio.com/resizer/v2/7PKYDWC6EA3KFGTIJJ4LFKM4FA.jpg?auth=cb3f64430757c6f301028eb0d25bcb214d92c0781cc1aceb463998d454a9cba4&smart=true&width=3674&height=2449",
-      "published": "2026-07-19 03:54:16",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "united states of america"
       ]
     }
   ]

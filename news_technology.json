@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Sulyok gibt Widerstand auf",
+      "description": "You must be logged into the site to view this content.",
+      "link": "https://www.budapester.hu/inland/sulyok-gibt-widerstand-auf/",
+      "source": "Budapester Zeitung",
+      "image": "https://www.budapester.hu/wp-content/uploads/2026/07/tasu-ruecktritt.png",
+      "published": "2026-07-19 09:48:36",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "hungary"
+      ]
+    }
+  ]
 }

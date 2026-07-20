@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Tintin to Tranquility Base: New race for the moon",
+      "description": "Long before US astronaut Neil Armstrong took \u201cone small step\u201d that became \u201ca giant leap for humankind\u201d, generations of readers had already travelled there in the pages of Herge\u0301\u2019s Destination Moon (1953) and its sequel Explorers on the Moon (1954).",
+      "link": "https://www.ft.lk/columns/Tintin-to-Tranquility-Base--New-race-for-the-moon/4-794839",
+      "source": "Daily Ft",
+      "image": null,
+      "published": "2026-07-19 21:58:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    }
+  ]
 }

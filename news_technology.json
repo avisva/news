@@ -1,5 +1,27 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Harvard Scientists Turned a Silicon Chip Into a DNA Factory",
+      "description": "Harvard scientists have built a silicon chip that writes DNA using electricity and water, pointing toward a cleaner future for DNA manufacturing and biotechnology. Silicon chips have driven the computing revolution for more than 50 years. Now, researchers are finding new ways to use them in biology, including monitoring large groups of neurons, sequencing DNA, [...]",
+      "link": "https://scitechdaily.com/harvard-scientists-turned-a-silicon-chip-into-a-dna-factory/",
+      "source": "Scitechdaily",
+      "image": "https://scitechdaily.com/images/Chip-DNA-Factory.jpg",
+      "published": "2026-07-19 21:57:50",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "france",
+        "united kingdom",
+        "japan",
+        "canada",
+        "china",
+        "united states of america",
+        "germany",
+        "south korea"
+      ]
+    }
+  ]
 }

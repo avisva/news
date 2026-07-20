@@ -1,5 +1,64 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Sun Life Philippines wins 2 awards at Insurance Asia Awards 2026",
+      "description": "Sun Life Philippines has been recognized for excellence in both innovation and employee engagement.",
+      "link": "https://www.philstar.com/biz-memos/2026/07/20/2543412/sun-life-philippines-wins-2-awards-insurance-asia-awards-2026",
+      "source": "Philstar.com",
+      "image": "https://media.philstar.com/photos/2026/07/20/press-release-sun-life-philippines-wins-two-awards-insurance-asia-awards-2026_2026-07-20_11-11-58.jpg",
+      "published": "2026-07-20 03:09:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Quad/Graphics invests in paperboard sector",
+      "description": "The printed packaging provider is opening a facility in Utah that will help produce paperboard boxes for consumer products companies.",
+      "link": "https://www.recyclingtoday.com/quad-graphics-printing-paperboard-packaging-utah-investment-2026",
+      "source": "Recycling Today",
+      "image": "https://www.recyclingtoday.com/fileuploads/image/2026/07/20/quadgraphicsweb.jpg",
+      "published": "2026-07-20 03:09:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "China Warns UK Over British Steel Takeover as Beijing Demands Compensation",
+      "description": "China demands compensation from the UK after British Steel's nationalisation, citing a breach of the bilateral investment treaty. The UK defends its decision, aiming to protect jobs and steelmaking capacity.",
+      "link": "https://www.ibtimes.co.uk/china-demands-compensation-uk-british-steel-nationalisation-1809451",
+      "source": "International Business Times",
+      "image": "https://d.ibtimes.co.uk/en/full/1820580/british-steel-nationalisation.jpg?w=1600&h=900&q=88&f=73f00f7b92cf20ed6b66c5b13ec9e94a",
+      "published": "2026-07-20 03:08:19",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Indo-MIM IPO: Price band set at \u20b9461-485 per share; check key dates, issue details",
+      "description": "The Indo-MIM IPO, scheduled for July 23-27, features a price band of \u20b9461-485 per share and aims to raise \u20b9500 crore. The company intends to use the funds for debt repayment and corporate purposes, with allocations allocated to different investor categories.",
+      "link": "https://www.livemint.com/market/ipo/indomim-ipo-price-band-set-at-rs-461-485-per-share-check-key-dates-issue-details-11784515607262.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/20/1600x900/logo/SME_IPO_1756099341077_1756099345044_1784516686550_01741a2b-5f2b-4863-9dbc-f7a3b87019e4.png",
+      "published": "2026-07-20 03:08:15",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

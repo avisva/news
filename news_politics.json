@@ -1,37 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Marengo attorney Jack Franks named to state bar association panel",
-      "description": "The Illinois State Bar Association has appointed Marengo attorney Jack Franks to its committee that evaluates judges.",
-      "link": "https://www.shawlocal.com/northwest-herald/2026/07/20/marengo-attorney-jack-franks-named-to-state-bar-association-panel/",
-      "source": "Shaw Local",
-      "image": "https://www.shawlocal.com/resizer/v2/AP2RWDXOW2AGKGPND2VCGYK3M4.jpg?auth=f841813b66e664ccc8d1a27f5eecd8a0dc670cc0f19f7e4f07af549cc76e0995&width=1200&height=917",
-      "published": "2026-07-20 00:20:00",
+      "title": "Nur Jazlan re-elected Dewan Negara deputy president",
+      "description": "KUALA LUMPUR: Former Pulai member of Parliament Datuk Nur Jazlan Mohamed was today re-elected as deputy president of the Dewan Negara.",
+      "link": "https://www.nst.com.my/news/nation/2026/07/1493049/nur-jazlan-re-elected-dewan-negara-deputy-president",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/B4B04EF421A291C7C2B3D70F3F09E518_data_0.jpg",
+      "published": "2026-07-20 03:09:00",
       "category": [
         "politics",
-        "lifestyle",
         "top"
       ],
       "country": [
-        "canada"
+        "malaysia"
       ]
     },
     {
-      "title": "Polymarket odds put Lula at 59.5% in Brazil race after 10-point jump",
-      "description": "After President Donald Trump\u2019s televised address revived 2020 election claims, a report highlights conflicting answers from Energy Secretary Chris Wright and DNI nominee Jay Clayton, despite audits (Read More)",
-      "link": "https://blockchain.news/news/polymarket-odds-put-lula-at-595-in-brazil-race-after-10-point-jump-0hnn5ufgajns0",
-      "source": "Blockchain News",
-      "image": "https://image.blockchain.news/thumbnails/707229B3EA0BDC564D150D452FB4C5EB2889761936E17E8A24C70812A0DB4E4C.jpg",
-      "published": "2026-07-20 00:20:00",
+      "title": "Rubio: US remains open to a diplomatic solution with Iran",
+      "description": "US Secretary of State Marco Rubio said the United States remains open to a diplomatic solution with Iran despite the ongoing strikes.",
+      "link": "https://www.israelnationalnews.com/flashes/690105",
+      "source": "Israelnationalnews",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/0.jpg",
+      "published": "2026-07-20 03:08:21",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "singapore",
-        "united states of america"
+        "israel"
+      ]
+    },
+    {
+      "title": "RIL, ICICI Bank Report healthy Q1 Earnings | Will Global Sentiment Check Mate Bulls? | Opening Bell",
+      "description": "US forces conclude 9th consecutive days of strikes against Iran. Iran said it attacked US targets in Bahrain, Jordan, Kuwait, Oman, Qatar and Syria. Oil rallies 4.5% on Friday; Brent crosses $90 on Monday morning. US markets on Friday: Dow, S&P 500 & Nasdaq slip 0.8-1.4%. US-Iran tensions & Semiconductor volatility hit sentiment. VanEck Semiconductor ETF falls over 4%. US yields and dollar range bound on strong consumer sentiment data. Asian markets mixed; Kospi drops, S&P 200 rises. Japanese markets closed for a holiday. Gold prices up 1.1% at $4,015.09 per \u2060ounce. GIFT Nifty indicates muted start for Indian equities",
+      "link": "https://www.moneycontrol.com/news/videos/business/markets/ril-icici-bank-report-healthy-q1-earnings-will-global-sentiment-check-mate-bulls-opening-bell-13978057.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260720025744_Opening-Bell_-20-July-378x213.jpg",
+      "published": "2026-07-20 03:08:20",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

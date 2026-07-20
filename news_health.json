@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "How Vitura (ASX:VIT) sits at the heart of cannabis distribution",
+      "description": "How Vitura (ASX:VIT) sits at the heart of cannabis distribution",
+      "link": "https://kalkinemedia.com/au/stocks/cannabis/how-vitura-asxvit-sits-at-the-heart-of-cannabis-distribution",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Cannabisnm_06_22_2026_04_55_54_438089.jpg",
+      "published": "2026-07-20 05:59:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Why Little Green Pharma (ASX:LGP) leans on its European reach",
+      "description": "Why Little Green Pharma (ASX:LGP) leans on its European reach",
+      "link": "https://kalkinemedia.com/au/stocks/cannabis/why-little-green-pharma-asxlgp-leans-on-its-european-reach",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Cannabisnnnm_06_30_2026_07_53_20_949798.jpg",
+      "published": "2026-07-20 05:59:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

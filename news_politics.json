@@ -1,19 +1,37 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Tintin to Tranquility Base: New race for the moon",
-      "description": "Long before US astronaut Neil Armstrong took \u201cone small step\u201d that became \u201ca giant leap for humankind\u201d, generations of readers had already travelled there in the pages of Herge\u0301\u2019s Destination Moon (1953) and its sequel Explorers on the Moon (1954).",
-      "link": "https://www.ft.lk/columns/Tintin-to-Tranquility-Base--New-race-for-the-moon/4-794839",
-      "source": "Daily Ft",
-      "image": null,
-      "published": "2026-07-19 21:58:00",
+      "title": "Marengo attorney Jack Franks named to state bar association panel",
+      "description": "The Illinois State Bar Association has appointed Marengo attorney Jack Franks to its committee that evaluates judges.",
+      "link": "https://www.shawlocal.com/northwest-herald/2026/07/20/marengo-attorney-jack-franks-named-to-state-bar-association-panel/",
+      "source": "Shaw Local",
+      "image": "https://www.shawlocal.com/resizer/v2/AP2RWDXOW2AGKGPND2VCGYK3M4.jpg?auth=f841813b66e664ccc8d1a27f5eecd8a0dc670cc0f19f7e4f07af549cc76e0995&width=1200&height=917",
+      "published": "2026-07-20 00:20:00",
       "category": [
-        "politics"
+        "politics",
+        "lifestyle",
+        "top"
       ],
       "country": [
-        "sri lanka"
+        "canada"
+      ]
+    },
+    {
+      "title": "Polymarket odds put Lula at 59.5% in Brazil race after 10-point jump",
+      "description": "After President Donald Trump\u2019s televised address revived 2020 election claims, a report highlights conflicting answers from Energy Secretary Chris Wright and DNI nominee Jay Clayton, despite audits (Read More)",
+      "link": "https://blockchain.news/news/polymarket-odds-put-lula-at-595-in-brazil-race-after-10-point-jump-0hnn5ufgajns0",
+      "source": "Blockchain News",
+      "image": "https://image.blockchain.news/thumbnails/707229B3EA0BDC564D150D452FB4C5EB2889761936E17E8A24C70812A0DB4E4C.jpg",
+      "published": "2026-07-20 00:20:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "singapore",
+        "united states of america"
       ]
     }
   ]

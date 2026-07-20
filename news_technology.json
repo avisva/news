@@ -1,20 +1,64 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "First Made-In-India C295 Aircraft To Be Delivered To IAF In September 2026",
-      "description": "The first Made-in-India Airbus C295 military transport aircraft is officially scheduled for delivery to the Indian Air Force in September 2026. The aircraft was assembled at the TATA Advanced Systems Limited facility in Vadodara, Gujarat, and successfully completed its maiden test flight on 10 June 2026. This achievement marks a significant milestone in India\u2019s aerospace and defence",
-      "link": "https://www.indiandefensenews.in/2026/07/first-made-in-india-c295-aircraft-to-be.html",
-      "source": "Indiandefensenews",
-      "image": null,
-      "published": "2026-07-20 05:59:00",
+      "title": "Li-FT Power Strengthens Leadership with New COO and EVP to Propel Canadian Lithium Project Development",
+      "description": null,
+      "link": "https://kalkinemedia.com/au/news/announcements/li-ft-power-strengthens-leadership-with-new-coo-and-evp-to-propel-canadian-lithium-project-development",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2765269355_07_02_2026_23_45_45_484072.jpg",
+      "published": "2026-07-20 07:51:47",
       "category": [
-        "top",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Overseas deliveries of Chinese-made electrolysers skyrocketed in first half of 2026 - Hydrogen Insight",
+      "description": "Overseas deliveries of Chinese-made electrolysers skyrocketed in first half of 2026 Hydrogen Insight",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcGRqNGJycGFoVXlpSlZrQkpacnRkZzU1djdSa254LWg5NnVfRTd5ZFRvLTZQcUtRUHdqUUtYUldENTlDT0lDTE80RzRyV2VpMUU2S0l6RTZJTU1DdXFFQXQyb1NJeThEdlBRSDk4blZ0MjdqMndUUW9BZE9jZTAzajNCdmlBcWVxNG5CSFRrVW14YjVzeDdhZWYwakxESkNzcU1ESUt6cTdCcnVfNXR3RXpGTUZ5dU91YlhxQnlrcDY2SlBVamhVVktBS2E1dDRxV2xpWFVRdzY?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-20 07:51:40",
+      "category": [
         "technology"
       ],
       "country": [
-        "india"
+        "singapore"
+      ]
+    },
+    {
+      "title": "How We Took Asset Data Accuracy From 50% to 95% in 18 Months, Without a Full Platform Rebuild",
+      "description": "Eighteen months ago, if you asked our team how many laptops, servers, or licenses we actually had in production, you would have gotten three different answers depending on who you asked and which system they pulled from. Our CMDB said one thing. Flexera said another. Whatever ServiceNow tickets happened to be open that week said [...] Read the full article on TechBullion.",
+      "link": "https://techbullion.com/how-we-took-asset-data-accuracy-from-50-to-95-in-18-months-without-a-full-platform-rebuild/",
+      "source": "Techbullion",
+      "image": "https://techbullion.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-005112.png",
+      "published": "2026-07-20 07:51:36",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Emirates redefines Economy Class comfort with world\u2019s first U-Dream headrest",
+      "description": "Emirates redefines Economy Class comfort with world\u2019s first U-Dream headrest",
+      "link": "https://www.bangladeshmonitor.com.bd/en/emirates-redefines-economy-class-comfort-with-world-s-first-u-dream-headres",
+      "source": "The Bangladesh Monitor",
+      "image": "https://m360ict.s3.ap-south-1.amazonaws.com/monitor-website-storage/news-media-files/0b51c685dd75ce82cec49ea0.webp",
+      "published": "2026-07-20 07:51:30",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
       ]
     }
   ]

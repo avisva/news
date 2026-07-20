@@ -1,19 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Blacknut Celebrates 10 Years of Cloud Gaming Innovation - Games Press",
-      "description": "Blacknut Celebrates 10 Years of Cloud Gaming Innovation Games Press",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenJyOTQyTGdyaWlCb2JZMnRuRTRaTWtHX1FwQzFaOFQ0eWJFUEJSWlNMb0poSWljb2RLaEIzRERJWWtNOHhkV0NUV2ZzNDViR056ZUZYWUdLN1ZOSDFFZEsyRWRqd2VQcFJXalJWQkpaZXBtLWJlS2liV3cyQjJZblRmRHdqcWEzWkJKVUlEeXB0QQ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-20 09:08:50",
+      "title": "Secret Trump Administration Battle to Fight Chinese AI",
+      "description": "\u201cThe Trump administration is showing signs it could ban cutting-edge Chinese AI models \u2014 a momentous move that could lock in dominance by OpenAI and Anthropic,\u201d Axios reports. \u201cWhy it matters: Parts of the administration have tried to implement de facto bans on foreign open-source models before, knowledgeable sources tell Axios. Last week\u2019s rise of [...]",
+      "link": "https://politicalwire.com/2026/07/20/secret-trump-administration-battle-to-fight-chinese-ai/",
+      "source": "Political Wire",
+      "image": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+      "published": "2026-07-20 10:58:00",
+      "category": [
+        "politics",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "SAP AI Adoption & Learning Week \u2013 Day 2 in review",
+      "description": "In my Day 1 recap, I talked about the gap between AI investment and AI value, and closed with the ambition that the organizations that lead won't just automate what exists, they will reinvent it. Day 2 was where that ambition got concrete, showing what reinvention looks like in Finance, Customer Exp...",
+      "link": "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-ai-adoption-amp-learning-week-day-2-in-review/ba-p/14444405",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-07-20 10:57:52",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Smart #5 Gets RM10,000 Price Hike; Brabus Model Gets Laser Red Limited Edition",
+      "description": "Smart Malaysia launched the #5 electric SUV at the tail end of last year. The EV was launched with two variants, the Premium and the Brabus, the latter being the one with higher performance figures as the name suggests. Today, the brand has announced that there\u2019s a Laser Red limited edition paintjob for said Brabus [...] The post Smart #5 Gets RM10,000 Price Hike; Brabus Model Gets Laser Red Limited Edition appeared first on Lowyat.NET .",
+      "link": "https://www.lowyat.net/2026/399088/smart-5-rm10000-hike-brabus-laser-red/",
+      "source": "Lowyat.net",
+      "image": "https://www.lowyat.net/wp-content/uploads/2026/07/Smart-5-Brabus-Laser-Red-Edition.webp",
+      "published": "2026-07-20 10:57:51",
       "category": [
         "technology"
       ],
       "country": [
-        "singapore"
+        "malaysia"
       ]
     }
   ]

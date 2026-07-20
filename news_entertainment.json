@@ -1,5 +1,37 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Capture your big day with creative content to treasure forever",
+      "description": "Ahead of September\u2019s Moray Wedding Show, read top tips on photography and content to capture your big day",
+      "link": "https://www.grampianonline.co.uk/news/capture-your-big-day-with-creative-content-to-treasure-forev-440049/",
+      "source": "Grampian Online",
+      "image": "https://www.grampianonline.co.uk/_media/img/QO3A6CIRA0V9ODV7VJJM.jpg",
+      "published": "2026-07-20 10:58:00",
+      "category": [
+        "entertainment",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Summer of entertainment planned at Haddington pub",
+      "description": "A SUMMER of entertainment is planned at a Haddington pub.",
+      "link": "https://www.eastlothiancourier.com/news/26282112.busy-summer-entertainment-ahead-haddy-tap/",
+      "source": "Eastlothiancourier",
+      "image": "https://www.eastlothiancourier.com/resources/images/18623032/",
+      "published": "2026-07-20 10:58:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

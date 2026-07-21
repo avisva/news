@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "SOFTSWISS launches Warsaw summit on high-load systems",
+      "description": "More than 1,000 engineers and executives are expected in Warsaw as digital firms face mounting pressure to keep systems fast and reliable at scale.",
+      "link": "https://securitybrief.co.uk/story/softswiss-launches-warsaw-summit-on-high-load-systems",
+      "source": "Securitybrief Uk",
+      "image": "https://securitybrief.co.uk/uploads/story/2026/07/21/compatible_ivan-montik.jpg",
+      "published": "2026-07-21 09:06:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Hisense Unveils AI-Powered Growth Strategy to Shape the Next Era of Intelligent Living",
+      "description": "Hisense's long-term investment in global sports partnerships has gone hand in hand with its international growth. As AI reshapes industries worldwide, Hisense will continue combining technological ...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69079708-hisense-unveils-ai-powered-growth-strategy-to-shape-the-next-era-of-intelligent-living-008.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN08790&Transmission_Id=202607210500PR_NEWS_EURO_ND__EN08790&DateId=20260721",
+      "published": "2026-07-21 09:06:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    }
+  ]
 }

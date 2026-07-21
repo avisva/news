@@ -1,34 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "National fire strategy on the agenda for premiers and Mark Carney, Doug Ford says",
-      "description": "As first ministers prepared to descend upon Charlottetown this week for their summer meeting, Premier Doug Ford said firefighting is at the top of the agenda.",
-      "link": "https://www.thespec.com/thestar/politics/provincial/national-fire-strategy-on-the-agenda-for-premiers-and-mark-carney-doug-ford-says/article_e2a8d446-5253-56b1-b710-f9a80a546963.html",
-      "source": "The Hamilton Spectator",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/b/96/b96a6381-c8cc-50c3-a76b-190962d44040/6a5e8c7e38858.image.jpg?resize=300%2C200",
-      "published": "2026-07-20 19:30:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Passing the buck: Federal debt a burden on future generations",
-      "description": "The national debt\u2019s influence reaches into nearly every corner of our economy.",
-      "link": "https://www.agrinews-pubs.com/opinion/columnists/2026/07/20/passing-the-buck-federal-debt-a-burden-on-future-generations/",
-      "source": "Agrinews",
-      "image": "https://www.agrinews-pubs.com/resizer/6VyR6SUOWa2XTdOwMUFZ4HQNuDQ=/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/JAEFIIKPTVFAPKJ55WWVVO7HAY.jpg",
-      "published": "2026-07-20 19:30:00",
+      "title": "The Space Economy Is Heading for $1.8 Trillion. The Bottleneck Nobody Talks About Is Getting There",
+      "description": null,
+      "link": "https://www.samessenger.com/online_features/press_releases/the-space-economy-is-heading-for-1-8-trillion-the-bottleneck-nobody-talks-about-is/article_ab7be38c-b196-5a21-a3e7-8eae020da8da.html",
+      "source": "Samessenger.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content/tncms/assets/v3/editorial/d/33/d33f9fe1-f3d1-5459-ab31-d814f5dbbae1/6a5f14b2caaf0.image.jpg?resize=300%2C62",
+      "published": "2026-07-20 22:22:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "As USMCA Talks Enter a Third Round, North America Must Choose Certainty",
+      "description": "The U.S. Chamber urges USMCA negotiators to preserve the trilateral framework and deliver business certainty. Read More",
+      "link": "https://www.uschamber.com/international/trade-agreements/as-usmca-talks-enter-a-third-round-north-america-must-choose-certainty",
+      "source": "United States Chamber Of Commerce",
+      "image": "https://www.uschamber.com/assets/images/023394_uschamber-donohue-commentary-usmca_atf.jpg",
+      "published": "2026-07-20 22:22:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "6 million to get new aid offer",
+      "description": "The Finance Ministry will today ask the cabinet to move six million people who failed to qualify for the 2026 state welfare card programme into a new co-payment scheme, while easing rules blamed for unfairly excluding low-income people.",
+      "link": "https://www.bangkokpost.com/thailand/general/3288940/6-million-to-get-new-aid-offer",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260721/c1_3288940_260721054739.jpg",
+      "published": "2026-07-20 22:22:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "thailand"
       ]
     }
   ]

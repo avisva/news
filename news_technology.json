@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The New Maybach GLS Shows Its Face For The First Time",
+      "description": "The Maybach version of Mercedes' flagship SUV should debut sometime this year.",
+      "link": "https://www.motor1.com/news/802226/mercedes-maybach-gls-front-fascia-teaser/",
+      "source": "Motor1",
+      "image": "https://cdn.motor1.com/images/mgl/RqkBQr/s3/mercedes-maybach-gls-teaser.jpg",
+      "published": "2026-07-20 19:30:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

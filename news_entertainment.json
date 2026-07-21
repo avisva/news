@@ -1,20 +1,62 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Miniatures grow popular among younger people",
-      "description": "Life is uncertain. But there is one place where all is serene and predictable -- the world of miniatures.",
-      "link": "https://www.nwaonline.com/news/2026/jul/21/miniatures-grow-popular-among-younger-people/",
-      "source": "Nwaonline",
-      "image": null,
-      "published": "2026-07-21 09:06:00",
+      "title": "Diljit, Sonakshi, Huma among celebrities supporting students after Parliament march clashes",
+      "description": "Diljit, Sonakshi, Huma among celebrities supporting students after Parliament march clashes",
+      "link": "https://www.hindustantimes.com/entertainment/bollywood/diljit-sonakshi-huma-among-celebrities-supporting-students-after-parliament-march-clashes-101784631181272.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/2_1752989036965_1752989037265.jpeg",
+      "published": "2026-07-21 10:53:00",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Matilda 2? Mara Wilson Says It's Possible, but Doesn't Quite Understand How It Would Work for One Good Reason",
+      "description": "Mind over matter. 30 years on from the release of the much loved Matilda, Mara Wilson has said Matilda 2 is possible, but isn\u2019t quite sure how it would make sense. Aged nine, Wilson starred in the title role opposite Danny DeVito, who directed the adaptation of Roald Dahl\u2019s 1988 novel. Matilda is a ...",
+      "link": "https://za.ign.com/matilda-1/237078/matilda-2-mara-wilson-says-its-possible-but-doesnt-quite-understand-how-it-would-work-for-one-good-r",
+      "source": "Ign Africa",
+      "image": "https://sm.ign.com/ign_za/news/m/matilda-2-/matilda-2-mara-wilson-says-its-possible-but-doesnt-quite-und_mwy6.jpg",
+      "published": "2026-07-21 10:52:53",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "gabon",
+        "rwanda",
+        "tunisia",
+        "zimbabwe",
+        "mozambique",
+        "uganda",
+        "algeria",
+        "sudan",
+        "djibouti",
+        "libya",
+        "ivory coast",
+        "tanzania",
+        "kenya",
+        "madagascar",
+        "ghana",
+        "egypt",
+        "namibia",
+        "south africa",
+        "mauritania",
+        "morocco",
+        "angola",
+        "cameroon",
+        "zambia",
+        "ethiopia",
+        "comoros",
+        "senegal",
+        "dr congo",
+        "malawi"
       ]
     }
   ]

@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Why the youth jobs crisis is becoming global",
-      "description": "Young people in much of the world face growing competition for entry-level jobs as graduate numbers rise, hiring slows and AI-driven disruption adds uncertainty to career prospects.",
-      "link": "https://www.dw.com/en/why-the-youth-jobs-crisis-is-becoming-global/a-77991886?maca=en-rss-en-top-1022-rdf",
-      "source": "Dw Akademie",
-      "image": "https://static.dw.com/image/75117185_804.jpg",
-      "published": "2026-07-21 09:06:00",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Why young people are struggling to find entry-level jobs",
-      "description": "Young people in much of the world face growing competition for entry-level jobs as graduate numbers rise, hiring slows and AI-driven disruption adds uncertainty to career prospects.",
-      "link": "https://www.dw.com/en/why-young-people-are-struggling-to-find-entry-level-jobs/a-77991886?maca=en-rss-en-all-1573-rdf",
-      "source": "Dw Akademie",
-      "image": "https://static.dw.com/image/75117185_804.jpg",
-      "published": "2026-07-21 09:06:00",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "germany"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

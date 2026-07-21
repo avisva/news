@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "13 carmakers sign up for California EV rebate initiative",
-      "description": "The MyFirstEV program is poised to offer $3,500 discounts on new electric vehicles and $1,750 for used EVs.",
-      "link": "https://www.dailybulletin.com/2026/07/20/13-carmakers-sign-up-for-california-ev-rebate-initiative/",
-      "source": "Inland Valley Daily Bulletin",
-      "image": "https://www.dailybulletin.com/wp-content/uploads/2025/08/SUT-L-TESLA-CHARGING-0625-01.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-21 10:53:00",
+      "title": "China\u2019s new AI Club: What WAICO means for the world",
+      "description": "China has launched the World Artificial Intelligence Cooperation Organization, or WAICO, as part of its push to shape global AI rules. The new body could deepen the divide between Chinese and Western approaches to AI governance.",
+      "link": "https://www.news9live.com/opinion-analysis/chinas-new-ai-club-what-waico-means-for-the-world-2991559",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/07/xi-jinping-waico-ai-club.png",
+      "published": "2026-07-21 11:54:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Tashkent Metro to Repair Escalator at Transfer Station",
+      "description": "Tashkent Metro will repair an escalator at the Alisher Navoi\u2013Pakhtakor transfer between 21 July and 17 August to improve reliability and safety.",
+      "link": "https://www.uzdaily.uz/en/tashkent-metro-to-repair-escalator-at-transfer-station/",
+      "source": "Uzdaily",
+      "image": "https://www.uzdaily.uz/media/filer_public/4d/c8/4dc86cb7-d51b-45de-9616-4304dadfa677/metro1001_20260613102654.webp",
+      "published": "2026-07-21 11:54:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "uzbekistan"
       ]
     }
   ]

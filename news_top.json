@@ -1,16 +1,77 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 27,
   "results": [
     {
-      "title": "Health Canada warns parents to stop using these recalled pyjamas immediately, as they could 'burn rapidly' if ignited",
-      "description": "The Michley brand children\u2019s pajamas sold on SHEIN to Canadian customers is being recalled due to a flammability risk.",
-      "link": "https://www.bramptonguardian.com/news/childrens-pajamas-recall-health-canada/article_6f2b03b7-0493-571e-aff1-f99e8b8a5da7.html",
-      "source": "Brampton News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/bramptonguardian.com/content/tncms/assets/v3/editorial/3/ba/3ba69d13-37f3-5ebc-ad64-f364f98f3fe1/6a5fcf8254a0e.image.jpg?resize=300%2C215",
-      "published": "2026-07-21 20:24:00",
+      "title": "Christmas In July: Viral Holiday Milk Returns To Stew Leonard's Stores In CT For Summer",
+      "description": "The popular holiday milk has made a surprise return to all eight Stew Leonard's stores, including stores in Norwalk, Danbury and Newington.",
+      "link": "https://patch.com/connecticut/norwalk/christmas-july-viral-holiday-milk-returns-stew-leonards-stores-summer",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/users/22878689/20260721/070615/styles/patch_image/public/img-7923___21190330937.jpg",
+      "published": "2026-07-21 23:07:00",
       "category": [
-        "health",
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gateshead woman stranded in bungalow with 'atrocious smell' and 'toilet from the Stone Age'",
+      "description": "A Gateshead woman who survived a stroke, heart attack and broken back last year is stuck living in a home with an \"atrocious smell\" and has been told it'll be weeks before flood-damaged bathroom is replaced.",
+      "link": "https://www.chroniclelive.co.uk/news/health/gateshead-woman-stranded-bungalow-atrocious-34328065",
+      "source": "Chroniclelive Co Uk",
+      "image": "https://i2-prod.chroniclelive.co.uk/incoming/article34329218.ece/ALTERNATES/s615/0_9R5A3004JPG.jpg",
+      "published": "2026-07-21 23:07:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "War or peace",
+      "description": null,
+      "link": "https://www.tdtnews.com/article_1d203090-f4a0-4890-b71a-8dc196c0189d.html",
+      "source": "Tdtnews.com",
+      "image": null,
+      "published": "2026-07-21 23:07:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Barbara Ann Kleinfelter Lawver",
+      "description": null,
+      "link": "https://www.gettysburgtimes.com/obituaries/barbara-ann-kleinfelter-lawver/article_59680f9d-c4e3-4aac-9fd5-3ae09fb6d52d.html",
+      "source": "Gettysburgtimeseeditionfree_monday_edition",
+      "image": "https://bloximages.chicago2.vip.townnews.com/gettysburgtimes.com/content/tncms/assets/v3/editorial/7/23/723f6533-5685-4040-b536-9c8b7e5725a2/6a5ffd2462c34.image.jpg",
+      "published": "2026-07-21 23:07:00",
+      "category": [
+        "lifestyle",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sunshine Coast resident steps up to complete classroom robotics sets",
+      "description": "The Sunshine Coast School District has received another generous boost to learning resources thanks to the support of local resident Fumiko Suzuki.",
+      "link": "https://www.coastreporter.net/in-the-community/sunshine-coast-resident-steps-up-to-complete-classroom-robotics-sets-12562226",
+      "source": "Coast Reporter",
+      "image": "https://www.vmcdn.ca/f/files/coastreporter/images/columns/community-photos/c-sd46-robots.jpeg",
+      "published": "2026-07-21 23:07:00",
+      "category": [
+        "education",
         "top"
       ],
       "country": [
@@ -18,12 +79,131 @@
       ]
     },
     {
-      "title": "Post 239 softball closes out summer season",
-      "description": "VIRGINIA\u2014The Post 239 American Legion softball team closed out their summer season with eight games over three days this past weekend and ended things on a positive note.",
-      "link": "https://www.mesabitribune.com/sports/post-239-softball-closes-out-summer-season/article_b7da6438-7d6d-402c-9a69-2e8a2eb4faf6.html",
-      "source": "Mesabi Tribune",
-      "image": "https://bloximages.chicago2.vip.townnews.com/mesabitribune.com/content/tncms/custom/image/0bbf17d4-13ad-11eb-8fcd-0b90c4591265.jpg?resize=600%2C315",
-      "published": "2026-07-21 20:24:00",
+      "title": "\u2018Narcissist\u2019 bosses often oppose WFH \u2013 and of course the reason why is all about them",
+      "description": "Libby Sander reveals why certain leaders resist employees working remotely.",
+      "link": "https://www.startupdaily.net/advice/workplace/narcissist-bosses-often-oppose-wfh-and-of-course-the-reason-why-is-all-about-them/",
+      "source": "Startup Daily",
+      "image": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2026/07/WBB_1680x945.jpg?quality=70&w=840",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "You Can Blame the Government for the Diarrhea Lettuce",
+      "description": "Gutting federal food-safety tracking leaves millions of consumers entirely exposed.",
+      "link": "https://us.headtopics.com/news/you-can-blame-the-government-for-the-diarrhea-lettuce-85812454",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/bonappetit/you-can-blame-the-government-for-the-diarrhea-lett-you-can-blame-the-government-for-the-diarrhea-lett-67D9AE54C16C26FEF01CB105FCE97A19.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Smoke, heat advisory choke WA as 100K acres burn",
+      "description": "The latest information on air quality, forecast conditions and active wildfires burning in Washington state.",
+      "link": "https://us.headtopics.com/news/smoke-heat-advisory-choke-wa-as-100k-acres-burn-85812453",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/fox13seattle/smoke-heat-advisory-choke-wa-as-100k-acres-burn-smoke-heat-advisory-choke-wa-as-100k-acres-burn-58646641FCDAEA7CB6D2E1C8E97B2EB3.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "GOP Hard-Liners Demand Fourth Reconciliation Bill Amid Unresolved Priorities in Third Package",
+      "description": "Republican holdouts in the House are pressing for a fourth reconciliation bill to address excluded priorities like Planned Parenthood cuts and voTer ID provisions, while leadership races to pass the third bill before the August recess.",
+      "link": "https://us.headtopics.com/news/gop-hard-liners-demand-fourth-reconciliation-bill-amid-85812447",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/dcexaminer/gop-hard-liners-demand-fourth-reconciliation-bill--gop-hard-liners-demand-fourth-reconciliation-bill--5525AFC184AA367F47012843669D1B3A.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bystander Shot Near White House Plans $25 Million Lawsuit Against Secret Service",
+      "description": "A bystander injured during a May gunfight near the White House alleges Secret Service negligence and intends to sue for $25 million. The incident left the victim with severe injuries and raised questions about the aGency's protective protocols.",
+      "link": "https://us.headtopics.com/news/bystander-shot-near-white-house-plans-25-million-lawsuit-85812443",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/dcexaminer/bystander-shot-near-white-house-plans-25-million-l-bystander-shot-near-white-house-plans-25-million-l-C904771AFA0750FEA96B847CE1F15DCB.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "10 moments from Mosswood Meltdown's wild punk picnic with Iggy Pop and Bikini Kill",
+      "description": "The 17th annual fest at Mosswood Park in Oakland was a punk picnic paradise featuring sets from Iggy Pop, Bikini Kill and Pavement.",
+      "link": "https://us.headtopics.com/news/10-moments-from-mosswood-meltdown-s-wild-punk-picnic-with-85812487",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/latimes/10-moments-from-mosswood-meltdown-s-wild-punk-picn-10-moments-from-mosswood-meltdown-s-wild-punk-picn-A62540DAD650F6B4FD76323302F2C879.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Wreckage found of Pan Am plane crash that helped lead to today\u2019s safety briefings on every flight",
+      "description": "The location was found 74 years after 52 people perished in the crash.",
+      "link": "https://us.headtopics.com/news/wreckage-found-of-pan-am-plane-crash-that-helped-lead-to-85812480",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/sdut/wreckage-found-of-pan-am-plane-crash-that-helped-l-wreckage-found-of-pan-am-plane-crash-that-helped-l-901A5EF45BABA92091EC0EE7377ACB65.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "'La La Land's 10th Anniversary Poster Fixes Ryan Gosling's Hand That Haunted Him",
+      "description": "Ryan Gosling can sleep easier now knowing that the La La Land poster has been fixed from his 'La La Hand.'",
+      "link": "https://us.headtopics.com/news/la-la-land-s-10th-anniversary-poster-fixes-ryan-gosling-s-85812477",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/deadline/la-la-land-s-10th-anniversary-poster-fixes-ryan-go-la-la-land-s-10th-anniversary-poster-fixes-ryan-go-6A4474A8F7E057EAA83621095FAD3EA0.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Seattle Seahawks to feature on 'Hard Knocks: Training Camp'",
+      "description": "The Seattle Seahawks will feature on this summer's season of Hard Knocks: Training Camp, on HBO.",
+      "link": "https://us.headtopics.com/news/seattle-seahawks-to-feature-on-hard-knocks-training-camp-85812472",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/fox13seattle/seattle-seahawks-to-feature-on-hard-knocks-trainin-seattle-seahawks-to-feature-on-hard-knocks-trainin-8D6755E0997A03DEF8C0866881F101B9.webp",
+      "published": "2026-07-21 23:06:56",
       "category": [
         "top",
         "sports"
@@ -33,13 +213,59 @@
       ]
     },
     {
-      "title": "WJCL Sports Director Amy Zimmer joins the Paul Finebaum Show during SEC Media Days",
-      "description": "WJCL Sports Director Amy Zimmer joined The Paul Finebaum Show at SEC Media Days, giving a national audience her take on Georgia football.",
-      "link": "https://www.wjcl.com/article/amy-zimmer-paul-finebaum-show-sec-media-days/73221219",
-      "source": "Wjcl Television",
-      "image": "https://hips.hearstapps.com/vidthumb/5b469557-e1f1-4e46-b584-1bbf33309cae/thumb_1080x1920.0000001.jpg",
-      "published": "2026-07-21 20:24:00",
+      "title": "Owen makes his debut: New sea lion dives into Tacoma, WA Point Defiance Zoo, Aquarium",
+      "description": "Born on June 1, the sea lion pup named Owen is now ready for visitors at Tacoma's Point Defiance Zoo and Aquarium now, alongside his parents and sibling, Pepper.",
+      "link": "https://us.headtopics.com/news/owen-makes-his-debut-new-sea-lion-dives-into-tacoma-wa-85812469",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/fox13seattle/owen-makes-his-debut-new-sea-lion-dives-into-tacom-owen-makes-his-debut-new-sea-lion-dives-into-tacom-BA037AFF0DBD179A00FA03E4D2A6A127.webp",
+      "published": "2026-07-21 23:06:56",
       "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pac-12 expansion: What might the Protect College Sports Act mean for San Diego State, others?",
+      "description": "The layers of intrigue are both deep and wide, stretching from Pac-12 campuses to the U.S. Senate.",
+      "link": "https://us.headtopics.com/news/pac-12-expansion-what-might-the-protect-college-sports-act-85812467",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/sdut/pac-12-expansion-what-might-the-protect-college-sp-pac-12-expansion-what-might-the-protect-college-sp-F6C2AEAD27D11FB502760042A390C59A.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Padres notes: Bogaerts has to \u2018play better\u2019 if he wants to bat higher; Rengifo earns way into lineup",
+      "description": "Among many changes in Tuesday\u2019s lineup is Xander Bogaerts being moved down to No.8 in batting order and Luis Rengifo in as the DH",
+      "link": "https://us.headtopics.com/news/padres-notes-bogaerts-has-to-play-better-if-he-wants-to-85812465",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/sdut/padres-notes-bogaerts-has-to-play-better-if-he-wan-padres-notes-bogaerts-has-to-play-better-if-he-wan-B92472793CB2AA22A852F96D17851601.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Judge orders release of U.S. army veteran held at Tacoma ICE center",
+      "description": "A U.S. District Court judge has ordered the release of a 44-year-old U.S. Army veteran held at the Northwest ICE Processing Center in Tacoma for 9 months.",
+      "link": "https://us.headtopics.com/news/judge-orders-release-of-u-s-army-veteran-held-at-tacoma-85812464",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/fox13seattle/judge-orders-release-of-u-s-army-veteran-held-at-t-judge-orders-release-of-u-s-army-veteran-held-at-t-59EE4AF0DBA84CA5CC2620958A1B4C78.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -47,27 +273,132 @@
       ]
     },
     {
-      "title": "Suspect in 2022 Quebec murder arrested in B.C.",
-      "description": "Police had been searching for Lee Van Smat Germain since charges were announced in January 2026",
-      "link": "https://comoxvalleyrecord.com/2026/07/21/suspect-in-2022-quebec-murder-arrested-in-b-c/",
-      "source": "Comox Valley Record",
-      "image": "https://comoxvalleyrecord.com/wp-content/uploads/sites/13/2026/07/The-flag-of-the-Combined-Forces-Special-Enforcement-Unit-of-B.C.-the-provinces-anti-gang-polic.jpg",
-      "published": "2026-07-21 20:23:59",
+      "title": "Washington US Attorney immediately fired by Trump files lawsuit",
+      "description": "The top federal prosecutor in Seattle who was fired last week less than an hour after being sworn in is suing the government over his termination.",
+      "link": "https://us.headtopics.com/news/washington-us-attorney-immediately-fired-by-trump-files-85812462",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/fox13seattle/washington-us-attorney-immediately-fired-by-trump--washington-us-attorney-immediately-fired-by-trump--8550BB97835DB87BFF68C837C5EF48BB.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "County warns plant sold at local Costco locations may contain invasive pests",
+      "description": "The pests can trigger a disease that has caused hundreds of millions of dollars in losses to California\u2019s wine grape industry.",
+      "link": "https://us.headtopics.com/news/county-warns-plant-sold-at-local-costco-locations-may-85812461",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/sdut/county-warns-plant-sold-at-local-costco-locations--county-warns-plant-sold-at-local-costco-locations--15A367A43D29D9D169565BD1EE201C34.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pearl Thriller Releases on Hulu Next Week",
+      "description": "A hit thriller that mashes up classic films The Wizard of Oz and Texas Chain Saw Massacre is releasing on Hulu next week.",
+      "link": "https://us.headtopics.com/news/pearl-thriller-releases-on-hulu-next-week-85812509",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/screenrant/pearl-thriller-releases-on-hulu-next-week-pearl-thriller-releases-on-hulu-next-week-6FCDE2AE40A8707AADF22B5B3A3B26C3.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nothing suspicious at Thornton pool, rec center still being searched after \u2018threats\u2019 cause evacuation",
+      "description": "Thornton police were investigating threats made against two city facilities on Tuesday and evacuated the buildings \u201cas a precaution,\u201d according to the department.",
+      "link": "https://us.headtopics.com/news/nothing-suspicious-at-thornton-pool-rec-center-still-being-85812496",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/denverpost/nothing-suspicious-at-thornton-pool-rec-center-sti-nothing-suspicious-at-thornton-pool-rec-center-sti-927CF22F25BB4C21C3247C6C60D5FCF5.webp",
+      "published": "2026-07-21 23:06:56",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     },
     {
-      "title": "BREAKING: GOP Senators May Turn on Trump\u2019s Attorney General Pick",
-      "description": null,
-      "link": "https://www.thebulwark.com/p/breaking-gop-senators-may-turn-on",
-      "source": "Thebulwark",
-      "image": "https://substack-video.s3.amazonaws.com/video_upload/post/207949497/fe8a9031-a73f-4505-b75f-b4030afc8cea/transcoded-1784665376.png",
-      "published": "2026-07-21 20:23:59",
+      "title": "Plas Johnson, jazz artist and 'Pink Panther' saxophonist, dies at 94",
+      "description": "'My solos always seemed to bring the record up another notch,' Johnson said in one interview. He played with Frank Sinatra and Marvin Gaye.",
+      "link": "https://us.headtopics.com/news/plas-johnson-jazz-artist-and-pink-panther-saxophonist-85812490",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/latimes/plas-johnson-jazz-artist-and-pink-panther-saxophon-plas-johnson-jazz-artist-and-pink-panther-saxophon-E30ADA4086FDC3955B9D56FC9751DEDB.webp",
+      "published": "2026-07-21 23:06:56",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Marrar Weather",
+      "description": "Find out the Marrar Weather Forecast here on Weatherzone. Discover today's weather & the forecast for the week ahead in Marrar.",
+      "link": "https://www.weatherzone.com.au/nsw/riverina/marrar",
+      "source": "Weatherzone",
+      "image": "https://www.weatherzone.com.au/wz-web/common/static/images/ogimage-logo.jpg",
+      "published": "2026-07-21 23:06:54",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Yallakool Weather",
+      "description": "Find out the Yallakool Weather Forecast here on Weatherzone. Discover today's weather & the forecast for the week ahead in Yallakool.",
+      "link": "https://www.weatherzone.com.au/nsw/riverina/yallakool",
+      "source": "Weatherzone",
+      "image": "https://www.weatherzone.com.au/wz-web/common/static/images/ogimage-logo.jpg",
+      "published": "2026-07-21 23:06:54",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Animated Fantasy Series: From Castlevania to Dragon Ball Z",
+      "description": "Exploration of groundbreaking animated fantasy series including Castlevania, Arcane, She-Ra and the Princesses of Power, Hunter x Hunter, and Dragon Ball Z, analyzing their worldbuilding, adaptations from video games, and cultural impact.",
+      "link": "https://us.headtopics.com/news/animated-fantasy-series-from-castlevania-to-dragon-ball-z-85812522",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/21/screenrant/animated-fantasy-series-from-castlevania-to-dragon-animated-fantasy-series-from-castlevania-to-dragon-EEFB28F38FFA6530FF10AAF2683ADC40.webp",
+      "published": "2026-07-21 23:06:53",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Two sentenced in threatening life of SC\u2019s U.S. Rep. Nancy Mace",
+      "description": "Nancy Mace speaks with the media after participating in a televised GOP debate at the Sottile Theater in Charleston on Tuesday, April 21, 2026. Mace is running for South Carolina Governor.",
+      "link": "https://www.islandpacket.com/news/politics-government/article316602438.html",
+      "source": "Islandpacket",
+      "image": "https://www.thestate.com/public/latest-news/7ub43p/picture315498044/alternates/FREE_1140/debate%20mugs-6896.jpg",
+      "published": "2026-07-21 23:06:53",
       "category": [
         "politics",
         "top"

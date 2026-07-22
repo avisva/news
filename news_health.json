@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Health Canada warns parents to stop using these recalled pyjamas immediately, as they could 'burn rapidly' if ignited",
+      "description": "The Michley brand children\u2019s pajamas sold on SHEIN to Canadian customers is being recalled due to a flammability risk.",
+      "link": "https://www.bramptonguardian.com/news/childrens-pajamas-recall-health-canada/article_6f2b03b7-0493-571e-aff1-f99e8b8a5da7.html",
+      "source": "Brampton News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/bramptonguardian.com/content/tncms/assets/v3/editorial/3/ba/3ba69d13-37f3-5ebc-ad64-f364f98f3fe1/6a5fcf8254a0e.image.jpg?resize=300%2C215",
+      "published": "2026-07-21 20:24:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

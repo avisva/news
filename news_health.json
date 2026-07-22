@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "US completes 11th night of strikes on Iran; Pentagon says war costs $37.5B, seeks $90B more",
+      "description": "Iranian state media reported US air strikes across multiple provinces, hitting Kabudarahang County in Hamadan province in west-central Iran.",
+      "link": "https://www.dnaindia.com/world/report-us-completes-11th-night-of-strikes-on-iran-pentagon-says-war-costs-375b-seeks-90b-more-3216741",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/07/22/2754687-phto-2026-06-15t065442.899.png",
+      "published": "2026-07-22 01:46:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Facial paralysis: How gentle electroacupuncture may boost nerve repair - TheHealthSite",
+      "description": "Facial paralysis: How gentle electroacupuncture may boost nerve repair TheHealthSite Comparison of FDIP and FDIS scores before and after treatment of patients with peripheral facial paralysis in the 3 groups (x\u0304 \u00b1 s). EurekAlert! Gentle electroacupuncture effectively promotes nerve repair in facial paralysis News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmtEV05OWFRIRVAzRnEtTllYekFjVHA3NWdtZXNOUHBSdml6UWgzeTJhUmxrQ05pSTR0dWJLWWdJbUVvVWVpVW9vTmhmckVHUllrd1hXZm00S0ZicnUtQVJYWjN3QnhlcElveU1wckgtdFBkQ21mN0FKY3p3dC1NblMxRl90TGhHOFJCalJiUm5xRGZESld1aFpsOUJoNkVWNzRTaXV5aXpUQUVEM19wTzhyVUhqaEZLMnA1VGNCVTJ2b1BZRzdr0gHMAUFVX3lxTE5BaWRoeG5YcGlfTFE0SklWWndRamozaEItU0Zyai1MVDV1dkJibWN4aHVsZ3A1UTd4VjFwcTh4Uk84WVVicTZ3Y0UyTHlkNnN3SXc3TGQwVG9JT0lmOHNfZktFeFN4cXR0T1ZpVHBxTzdXUDdnUmdYOFdOdVVETUV5VnpOVjNZMTZWaXN6VzdoamdUQ0d0OUl4TXVqeVFmN2E0WnhONHV4bHBLNDRnZDl4TEV3akh6NkI5UFNRZGhlZzVrUl9iR21UMDJpUg?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-22 01:46:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

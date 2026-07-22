@@ -1,17 +1,62 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Lok Sabha: KC Venugopal seeks debate, says Pradhan should resign",
-      "description": "Students losing hope in system, Pradhan should resign: KC Venugopal moves adjournment motion in Lok Sabha",
-      "link": "https://www.edexlive.com/news/students-losing-hope-in-system-pradhan-should-resign-kc-venugopal-moves-adjournment-motion-in-lok-sabha",
-      "source": "Edex Live",
-      "image": "https://cf-images.assettype.com/edexlive/2026-07-22/wnqgz5uy/ANI_20260722035008.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-07-22 05:15:00",
+      "title": "\"If Government Wants To Talk, It Must Come To Us\": CJP's Abhijeet Dipke",
+      "description": "Abhijeet Dipke, the founder of the Cockroach Janta Party, a satirical movement that began two months ago, has made it clear: the government has to take the lead.",
+      "link": "https://www.ndtv.com/india-news/if-government-wants-to-talk-it-must-come-to-us-cockroach-janta-party-founder-abhijeet-dipke-11804880",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-07/obntl8i_abhijeet-dipke-_625x300_22_July_26.jpeg",
+      "published": "2026-07-22 07:13:00",
       "category": [
         "politics",
         "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Security tightened for CJP \u2018Chalo Sansad\u2019 march as 16 Delhi Metro stations close around Jantar Mantar, with key interchanges operational",
+      "description": "Sixteen metro stations shut amid security buildup for Jantar Mantar protest; interchange facilities remain open",
+      "link": "https://www.edexlive.com/news/sixteen-metro-stations-shut-amid-security-buildup-for-jantar-mantar-protest-interchange-facilities-remain-open",
+      "source": "Edex Live",
+      "image": "https://cf-images.assettype.com/edexlive/2026-07-22/rvmh6k4n/ANI_20260722060603.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-07-22 07:13:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Google Cuts Gemini 3.6 Flash Tokens for Coding Tasks",
+      "description": "Google DeepMind\u2019s release of Gemini 3.6 Flash brings modest updates focused on improving speed and token efficiency, with particular attention to long-context processing and chart reasoning. These refinements aim to enhance specific technical capabilities but have left some users questioning the broader impact of the release. According to Universe of AI, the continued absence of [...] The post Google Cuts Gemini 3.6 Flash Tokens for Coding Tasks appeared first on Geeky Gadgets .",
+      "link": "https://www.geeky-gadgets.com/gemini-3-6-flash-release/",
+      "source": "Geeky-gadgets",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/gemini-flash-ai-model.jpg",
+      "published": "2026-07-22 07:13:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "What Is the Red Sea? Why It Turns Red and How the Houthi Blockade Could Push Up Global Fuel Prices",
+      "description": "The Red Sea is more than a famous waterway. Learn why its waters sometimes turn red, why the Houthi blockade matters, and how rising Middle East tensions could affect global oil supplies and fuel prices.",
+      "link": "https://www.newsx.com/world/what-is-the-red-sea-why-it-turns-red-and-how-the-houthi-blockade-could-push-up-global-fuel-prices-251053/",
+      "source": "Newsx",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/07/4-indians-killed-odesa-cargo-ship.png",
+      "published": "2026-07-22 07:12:56",
+      "category": [
+        "top",
+        "environment"
       ],
       "country": [
         "india"

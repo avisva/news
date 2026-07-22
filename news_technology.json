@@ -1,20 +1,78 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Google Cuts Gemini 3.6 Flash Tokens for Coding Tasks",
-      "description": "Google DeepMind\u2019s release of Gemini 3.6 Flash brings modest updates focused on improving speed and token efficiency, with particular attention to long-context processing and chart reasoning. These refinements aim to enhance specific technical capabilities but have left some users questioning the broader impact of the release. According to Universe of AI, the continued absence of [...] The post Google Cuts Gemini 3.6 Flash Tokens for Coding Tasks appeared first on Geeky Gadgets .",
-      "link": "https://www.geeky-gadgets.com/gemini-3-6-flash-release/",
-      "source": "Geeky-gadgets",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/gemini-flash-ai-model.jpg",
-      "published": "2026-07-22 07:13:00",
+      "title": "UAE Embeds AI Literacy Into National Strategy To Drive Workforce Development And Economic Competitiveness: Coursera Report",
+      "description": "(MENAFN - Mid-East Info) Abu Dhabi, UAE \u2013 July, 2026: The UAE, which has developed one of the region's most comprehensive and action-oriented AI frameworks, is embedding AI literacy into its ...",
+      "link": "https://menafn.com/1111429663/UAE-Embeds-AI-Literacy-Into-National-Strategy-To-Drive-Workforce-Development-And-Economic-Competitiveness-Coursera-Report",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-07-22 09:02:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "india"
+        "algeria",
+        "kuwait",
+        "united arab emirates",
+        "iraq",
+        "morocco",
+        "syria",
+        "egypt",
+        "qatar",
+        "tunisia",
+        "yemen",
+        "lebanon",
+        "jordan",
+        "libya",
+        "bahrain",
+        "saudi arabia"
+      ]
+    },
+    {
+      "title": "Infobip Research Reveals Businesses Scaling AI-Powered Defenses To Counter Surge In Automated Fraud",
+      "description": "(MENAFN - Mid-East Info) -p Fraudsters are leveraging AI to automate and personalize attacks, but enterprises are fighting back New research from global AI-first cloud communications platform ...",
+      "link": "https://menafn.com/1111429659/Infobip-Research-Reveals-Businesses-Scaling-AI-Powered-Defenses-To-Counter-Surge-In-Automated-Fraud",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-07-22 09:02:52",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "algeria",
+        "kuwait",
+        "united arab emirates",
+        "iraq",
+        "morocco",
+        "syria",
+        "egypt",
+        "qatar",
+        "tunisia",
+        "yemen",
+        "lebanon",
+        "jordan",
+        "libya",
+        "bahrain",
+        "saudi arabia"
+      ]
+    },
+    {
+      "title": "Crystal Reports Designer Performance Issue on Private Cloud Compared to Local Server",
+      "description": "Hi SAP Expert Community, I would appreciate your guidance regarding a Crystal Reports Designer performance issue. Environment I have two environments: 1. Local On-Premises Server SAP Business One for Microsoft SQL Server Crystal Reports Designer installed Report opens almost instantly (within appro...",
+      "link": "https://community.sap.com/t5/technology-q-a/crystal-reports-designer-performance-issue-on-private-cloud-compared-to/qaq-p/14446161",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-07-22 09:02:52",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

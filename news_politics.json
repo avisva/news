@@ -1,59 +1,14 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 4,
   "results": [
     {
-      "title": "\"If Government Wants To Talk, It Must Come To Us\": CJP's Abhijeet Dipke",
-      "description": "Abhijeet Dipke, the founder of the Cockroach Janta Party, a satirical movement that began two months ago, has made it clear: the government has to take the lead.",
-      "link": "https://www.ndtv.com/india-news/if-government-wants-to-talk-it-must-come-to-us-cockroach-janta-party-founder-abhijeet-dipke-11804880",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-07/obntl8i_abhijeet-dipke-_625x300_22_July_26.jpeg",
-      "published": "2026-07-22 07:13:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Seoul mayor fined 10 million won in polling scandal, putting seat at risk",
-      "description": null,
-      "link": "https://www.hani.co.kr/arti/english_edition/e_national/1269432.html",
-      "source": "Hani",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/829/497/imgdb/original/2026/0722/6717847039838656.webp",
-      "published": "2026-07-22 07:13:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Free SHS should be funded with local revenue, not loans \u2013 Gideon Boako",
-      "description": "The Deputy Ranking Member on Parliament\u2019s Finance Committee and Tano North MP, Dr Gideon Boako, has argued that the Free Senior High School (Free SHS) programme should continue to be financed through domestic revenue rather than borrowed funds. Speaking in Parliament on Tuesday, Dr Boako said government must demonstrate its commitment to education by allocating [...]",
-      "link": "https://www.adomonline.com/free-shs-should-be-funded-with-local-revenue-not-loans-gideon-boako/",
-      "source": "Adomonline.com",
-      "image": "https://www.adomonline.com/wp-content/uploads/2026/07/image-845-1024x700.png",
-      "published": "2026-07-22 07:12:48",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Lawsuits allege years of child abuse, torture and death in San Bernardino County foster homes",
-      "description": "Among the claims are missed warning signs, inadequate oversight and failures to protect foster children from abuse and neglect.",
-      "link": "https://www.sbsun.com/2026/07/22/lawsuits-allege-years-of-child-abuse-torture-and-death-in-san-bernardino-county-foster-homes/",
+      "title": "New bill would let people draw from retirement accounts to help pay for fertility treatments",
+      "description": "From Rep. Mike Levin, the Fertility Cost Relief Act would allow people to withdraw up to $20,000 penalty-free to cover fertility treatment expenses.",
+      "link": "https://www.sbsun.com/2026/07/22/new-bill-would-let-people-draw-from-retirement-accounts-to-help-pay-for-fertility-treatments/",
       "source": "San Bernardino Sun",
-      "image": "https://www.sbsun.com/wp-content/uploads/2026/07/SBS-L-FOSTERHOMES-0722-01.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-22 07:12:46",
+      "image": "https://www.sbsun.com/wp-content/uploads/2026/07/OCR-L-IVFBILL-0721.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-22 09:03:00",
       "category": [
         "politics",
         "top"
@@ -63,34 +18,63 @@
       ]
     },
     {
-      "title": "Donald Trump Scores Major Win in Arizona",
-      "description": "Arizona just handed Donald Trump exactly what he wanted. A key Republican primary result could set the stage for one of the most fiercely contested governor\u2019s races in the country. Andy Biggs wins Arizona primary election Andy Biggs, the hard-right congressman endorsed by Donald Trump, won the Republican primary for Arizona governor on Tuesday, according [...] The post Donald Trump Scores Major Win in Arizona appeared first on Mandatory .",
-      "link": "https://www.mandatory.com/news/1815967-donald-trump-backed-andy-biggs-win-arizona-primary-election",
-      "source": "Mandatory",
-      "image": "https://www.mandatory.com/wp-content/uploads/sites/10/2026/07/MixCollage-22-Jul-2026-10-51-AM-1250.jpg",
-      "published": "2026-07-22 07:12:42",
+      "title": "Social media influencers now roam EU corridors of power: free trips, selfies with leaders but a grey zone for ethics",
+      "description": "Betting on influencers to sell its grand projects and geopolitical priorities to young voters is the new way Brussels' institutions are experimenting.",
+      "link": "https://euobserver.com/227248/social-media-creators-are-gaining-access-to-eu-power-but-the-rules-of-engagement-are-murky/",
+      "source": "Euobserver",
+      "image": "https://static.euobserver.com/2026/07/11-10.jpg",
+      "published": "2026-07-22 09:03:00",
       "category": [
         "politics",
-        "top"
+        "world"
       ],
       "country": [
-        "united states of america"
+        "denmark",
+        "belgium",
+        "ireland",
+        "czech republic",
+        "greece",
+        "italy",
+        "portugal",
+        "sweden",
+        "spain",
+        "france",
+        "hungary",
+        "austria",
+        "romania",
+        "germany",
+        "finland"
       ]
     },
     {
-      "title": "Ukrainian drones attack key Wildberries logistics hubs in Krasnodar and Nevinnomyssk",
-      "description": "News and analytical articles about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
-      "link": "https://akipress.com/news:908589",
-      "source": "Akipress",
-      "image": "https://cdn-1.aki.kg/cdn-st-0/qiE/M/en-908589.1784704564.b.jpg",
-      "published": "2026-07-22 07:12:41",
+      "title": "Peterson grabs early lead in GOP race for Attorney General",
+      "description": "Warren Petersen has jumped out with an early lead in his bid to become the Republican nominee for attorney general.",
+      "link": "https://www.mohavedailynews.com/news/peterson-grabs-early-lead-in-gop-race-for-attorney-general/article_a351dc06-cbdc-56cf-89e4-98454230721e.html",
+      "source": "Mohavedailynews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/mohavedailynews.com/content/tncms/assets/v3/editorial/0/9c/09c54652-92b3-5ba4-b52d-c3dd3a05403f/6a6051264d028.image.jpg?resize=300%2C200",
+      "published": "2026-07-22 09:03:00",
       "category": [
         "politics",
-        "crime",
         "top"
       ],
       "country": [
-        "kyrgyzstan"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "2026-07-22T09:02:57+00:00",
+      "description": "From Rep. Mike Levin, the Fertility Cost Relief Act would allow people to withdraw up to $20,000 penalty-free to cover fertility treatment expenses.",
+      "link": "https://www.dailynews.com/2026/07/22/new-bill-would-let-people-draw-from-retirement-accounts-to-help-pay-for-fertility-treatments/",
+      "source": "Los Angeles Daily News",
+      "image": "https://www.dailynews.com/wp-content/uploads/2026/07/OCR-L-IVFBILL-0721.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-22 09:02:57",
+      "category": [
+        "politics",
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

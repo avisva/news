@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Wisconsin men's basketball 'keeping our eye to the ground' amid guard's eligibility lawsuit",
+      "description": "Badgers general manager Marc VandeWettering said the program is tracking everything going on nationally, but said he could not comment on the former player.",
+      "link": "https://lacrossetribune.com/sports/college/basketball/men/article_270cd0fa-74b3-5287-8ef5-2c068edbecb3.html",
+      "source": "La Crosse Tribune",
+      "image": null,
+      "published": "2026-07-22 09:03:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Reach H1 Earnings Call Highlights",
+      "description": "Reach (LON:RCH) said first-half revenue fell as lower referral traffic, particularly from Google, continued to weigh on digital audiences, but the publisher maintained that it remains on track to deliver full-year profit in line with market expectations. Chief Executive Piers North told investors that the period was marked by \u201csignificant external change,\u201d including a 40% [...]",
+      "link": "https://baseballnewssource.com/2026/07/22/reach-h1-earnings-call-highlights/11192102.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/reach-plc-logo-1200x675.jpg",
+      "published": "2026-07-22 09:02:59",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bay Area sisters take spotlight at Sonoma drag races",
+      "description": "Sisters Jasmine Salinas and Jianna Evaristo were living a childhood dream over the weekend.",
+      "link": "https://www.pressdemocrat.com/2026/07/22/motor-sports-san-jose-sisters-take-spotlight-at-home-track-in-sonoma/",
+      "source": "The Press Democrat",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/TPD-L-BS-071926-NHRA3.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-22 09:02:58",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

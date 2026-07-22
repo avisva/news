@@ -1,34 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Iran Military Spokesman: \u2018No Safe Place\u2019 for U.S. Troops",
-      "description": "An Iranian regime mouthpiece once again threatened to slaughter American troops wholesale and exact \"blood vengeance,\" just before Iranian attacks...",
-      "link": "https://pjmedia.com/catherinesalgado/2026/07/21/iran-military-spokesman-no-safe-place-for-us-troops-n4955304",
-      "source": "Pjmedia.com",
-      "image": "https://media.townhall.com/cdn/hodl/2026/196/18a23243-0682-46e5-b8f4-95720e4fa315.jpg",
-      "published": "2026-07-22 01:46:00",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "UAE condemns Houthi statements against Saudi Arabia: foreign ministry",
-      "description": "article author: Arab News Author: Wed, 2026-07-22 04:43 RIYADH: The UAE has condemned statements made by Yemen\u2019s Houthi militia about Saudi Arabia, including the threat to impose a maritime blockade, the foreign ministry said early on Wednesday. The ministry called on the international community to \u201censure the implementation of the relevant UN Security Council resolutions, particularly Resolution 2216 on Yemen and Resolution 2722 on the rights and freedom of navigation in the Red Sea.\u201d Main category: Middle East Tags: Saudi Arabia Houthis Yemen UAE War in Iran",
-      "link": "https://www.arabnews.pk/node/2651830/middle-east",
-      "source": "Arab News Pk",
-      "image": "https://www.arabnews.pk/sites/default/files/styles/n_670_395/public/main-image/2026/07/22/4733608-307968433.jpg?itok=flhQjRV3",
-      "published": "2026-07-22 01:45:45",
+      "title": "US targets China in move to ban military-grade drone imports",
+      "description": "News|Xi Jinping The US Federal Communications Commission (FCC) has moved to prohibit imports of advanced drones, mainly ...",
+      "link": "https://jamaicainquirer.com/us-targets-china-in-move-to-ban-military-grade-drone-imports/",
+      "source": "Jamaica Inquirer",
+      "image": "https://jamaicainquirer.com/app/uploads/2026/07/2026-05-16T050558Z_29520214_RC2Q8LATM31Z_RTRMADP_3_USA-CHINA-TRUMP-XI-1779064690_5f84a2-1779064944-oSz8fg.jpg",
+      "published": "2026-07-22 03:37:38",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "pakistan"
+        "jamaica"
+      ]
+    },
+    {
+      "title": "UAE strongly condemns Houthi naval blockade threats against Saudi Arabia",
+      "description": "UAE strongly condemns Houthi Group statements against Saudi Arabia",
+      "link": "https://www.khaleejtimes.com/uae/uae-condemns-houthi-naval-blockade-threats-saudi-arabia",
+      "source": "Khaleej Times",
+      "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-07-21/evt38rtk/2026newsmlRC2XALACITVH435989843.jpeg",
+      "published": "2026-07-22 03:37:34",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Rubio to hold talks with China's Wang Yi as regional powers join ASEAN meeting",
+      "description": "U.S. Secretary of State Marco Rubio will meet Chinese Foreign Minister Wang Yi on Wednesday on the sidelines of a regional gathering led by the Southeast Asian bloc ASEAN, where the two top diplomats are expected to discuss a possible September summit between their leaders.",
+      "link": "https://www.thestandard.com.hk/china/article/337880/Rubio-to-hold-talks-with-Chinas-Wang-Yi-as-regional-powers-join-ASEAN-meeting",
+      "source": "The Standard \u82f1\u6587\u864e\u5831",
+      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/b4fc4f647c46f7764bfb3eda0f91602a/2026-07/c_11.jpg",
+      "published": "2026-07-22 03:37:11",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "hong kong"
       ]
     }
   ]

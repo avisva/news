@@ -1,44 +1,75 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "US completes 11th night of strikes on Iran; Pentagon says war costs $37.5B, seeks $90B more",
-      "description": "Iranian state media reported US air strikes across multiple provinces, hitting Kabudarahang County in Hamadan province in west-central Iran.",
-      "link": "https://www.dnaindia.com/world/report-us-completes-11th-night-of-strikes-on-iran-pentagon-says-war-costs-375b-seeks-90b-more-3216741",
-      "source": "Dna",
-      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/07/22/2754687-phto-2026-06-15t065442.899.png",
-      "published": "2026-07-22 01:46:00",
+      "title": "This 18-year-old from Bihar becomes the only Indian to win Lincoln scholarship",
+      "description": "Bihar's Shreya Kaushik became the only Indian to win the Rs 3 crore Lincoln Scholarship for a fully funded undergraduate degree in the US.",
+      "link": "https://www.moneycontrol.com/news/trends/this-18-year-old-from-bihar-becomes-only-indian-to-win-lincoln-scholarship-13980103.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260722033541_ghfjuy676.jpg",
+      "published": "2026-07-22 03:38:00",
       "category": [
-        "health"
+        "lifestyle",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Facial paralysis: How gentle electroacupuncture may boost nerve repair - TheHealthSite",
-      "description": "Facial paralysis: How gentle electroacupuncture may boost nerve repair TheHealthSite Comparison of FDIP and FDIS scores before and after treatment of patients with peripheral facial paralysis in the 3 groups (x\u0304 \u00b1 s). EurekAlert! Gentle electroacupuncture effectively promotes nerve repair in facial paralysis News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmtEV05OWFRIRVAzRnEtTllYekFjVHA3NWdtZXNOUHBSdml6UWgzeTJhUmxrQ05pSTR0dWJLWWdJbUVvVWVpVW9vTmhmckVHUllrd1hXZm00S0ZicnUtQVJYWjN3QnhlcElveU1wckgtdFBkQ21mN0FKY3p3dC1NblMxRl90TGhHOFJCalJiUm5xRGZESld1aFpsOUJoNkVWNzRTaXV5aXpUQUVEM19wTzhyVUhqaEZLMnA1VGNCVTJ2b1BZRzdr0gHMAUFVX3lxTE5BaWRoeG5YcGlfTFE0SklWWndRamozaEItU0Zyai1MVDV1dkJibWN4aHVsZ3A1UTd4VjFwcTh4Uk84WVVicTZ3Y0UyTHlkNnN3SXc3TGQwVG9JT0lmOHNfZktFeFN4cXR0T1ZpVHBxTzdXUDdnUmdYOFdOdVVETUV5VnpOVjNZMTZWaXN6VzdoamdUQ0d0OUl4TXVqeVFmN2E0WnhONHV4bHBLNDRnZDl4TEV3akh6NkI5UFNRZGhlZzVrUl9iR21UMDJpUg?oc=5",
+      "title": "To ease storage crunch, Punjab demands 12 LMT monthly foodgrain lifting",
+      "description": "A target of procuring 180 LMT of paddy for the central pool has been demanded from the Centre in respect of the upcoming paddy procurement season",
+      "link": "https://www.hindustantimes.com/cities/chandigarh-news/to-ease-storage-crunch-punjab-demands-12-lmt-monthly-foodgrain-lifting-101784663810759.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/21/1600x900/logo/The-Group-of-Ministers-was-apprised-that-in-the-pr_1784663808264.jpg",
+      "published": "2026-07-22 03:37:42",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Scientists Say Your Brain Wasn't Built For Modern Life",
+      "description": "A new study suggests that the human brain evolved for small, close knit communities and immediate challenges, making it harder to cope with today's fast paced, highly connected world.",
+      "link": "https://www.ndtv.com/science/scientists-say-your-brain-wasnt-built-for-modern-life-11803997",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-07/aea47hvg_scientists-say-your-brain-wasnt-built-for-modern-life_625x300_22_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "published": "2026-07-22 03:37:37",
+      "category": [
+        "breaking",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Semicon India 1.0 vs 2.0: What's new in the govt's \u20b91.27 trillion plan? - Business Standard",
+      "description": "Semicon India 1.0 vs 2.0: What's new in the govt's \u20b91.27 trillion plan? Business Standard \u200bPromise of chips: On the India Semiconductor Mission phase II The Hindu Premiumisation to drive mobile phone production, exports in value terms: S Krishnan Indiatimes India's chip dream was derailed in 1989. In 2026, it's roaring back YourStory.com Global chip trophy: How India keeps its eyes on the ball The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVo2MVNMUXkwbTdTZUcxOURzSVFOUE8yZHdzem5RNHNiRTFvaUVZWWxuU1FSUEN1a0p0X21SR0JjTjFhaUd2WEhvT2l4ZUw1V0xpRWlrSFhXNWVWUldaQjYyYnl0VlFQbVVlS1NwQlFnUWdfbkdtZmpwZzBwN2FrdFVYUGVpNVlnM1ByaHMwM2Z4ZHpMcHRvcUdiSUwzbUxjYkRkZ2Fla0NpM1BVc2NqcmJkUGVyVmhRQ3hYbUVWVdIBxAFBVV95cUxNb1ExLUlUZjMxYXV4eEVTLXhtMV90SThNWURHXzJiVlFaLTBIdDNXLXpJaG9HY2ZVQmJ6TGdHRFprQWhBZVctQTd4cUpwU3pFN0x6Rl84aWZnYmtoaFR1TW80MG9fRHM0c0R5X1o2Y2JlZ3NyelM4YnR5TVJoN0Q2N3YyZnNxUC1FM0c1Zjl6VUtzUkstY3BNaDdxTGdfSERQZWozQ2NsaTVWZjVBSHB5cExIU0pTWTU2VGszZHRYcG9HaUt3?oc=5",
       "source": "Google News",
       "image": null,
-      "published": "2026-07-22 01:46:00",
+      "published": "2026-07-22 03:37:30",
       "category": [
-        "health"
+        "business"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "UN says nearly 150 migrants reported dead or missing off Mauritania",
-      "description": "UNHCR expressed deep sorrow after nearly 150 people were reported dead or missing following two migrant boat incidents off the coast of Mauritania last week as they attempted to reach Europe.",
-      "link": "https://english.mathrubhumi.com/news/world/un-nearly-150-migrants-dead-missing-off-mauritania-g03gs4tl",
-      "source": "Mathrubhumi English",
-      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1slq8itaajhmhw5br6r/0/un-logo-jpg.webp?$p=f162f31&f=16:9&w=1080&q=0.8",
-      "published": "2026-07-22 01:45:51",
+      "title": "Private schools oppose cap on fee hike, urge Punjab government to hold talks",
+      "description": "The state government amended the Punjab Regulation of Fees of Unaided Educational Institutions Act, 2016 to impose a 5% cap on annual fee hikes following the death of a girl student by suicide allegedly due to pressure from her school over pending dues.",
+      "link": "https://www.hindustantimes.com/cities/chandigarh-news/private-schools-oppose-cap-on-fee-hike-urge-punjab-government-to-hold-talks-101784663689180.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/21/1600x900/logo/Chief-minister-Bhagwant-Mann-said-there-was-no-ret_1784663687301.jpg",
+      "published": "2026-07-22 03:37:12",
       "category": [
-        "crime",
+        "education",
         "top"
       ],
       "country": [

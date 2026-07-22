@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 14,
   "results": [
     {
-      "title": "Tips Music Q1 Net Profit Up 4.49% To \u20b943.70 Crore; Revenue Also Rises",
-      "description": "Tips Music Limited reported a standalone net profit of \u20b943.70 crore for the quarter ended June 30, 2026, marking a 4.49% increase year-on-year. Total income for the quarter also grew by 19.82% to \u20b9112.34 crore",
-      "link": "https://www.freepressjournal.in/business/tips-music-q1-net-profit-up-449-to-4370-crore-revenue-also-rises",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-05-08/cvbgqkgp/tips-films.jpg",
-      "published": "2026-07-22 09:03:00",
+      "title": "Former Bank of Scotland building up for sale",
+      "description": "A FORMER bank at the centre of Haddington has now been placed up for sale.",
+      "link": "https://www.eastlothiancourier.com/news/26295401.haddingtons-former-bank-scotland-building-market/",
+      "source": "Eastlothiancourier",
+      "image": "https://www.eastlothiancourier.com/resources/images/20548669/",
+      "published": "2026-07-22 10:59:00",
+      "category": [
+        "crime",
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Supreme Court Upholds Allahabad HC Decision Describing GST Registration Cancellation as \u2018Economic Death\u2019 of Business",
+      "description": "The Apex Court did not interfere with the judgment of the Allahabad High Court, which stated that cancellation of the GST registration without furnishing proper reasons is not lawfully sustainable. The court permitted the taxpayer to pursue the regulatory appeal and extended the limitation period for filing the appeal. The case arose after GST authorities [...] The post Supreme Court Upholds Allahabad HC Decision Describing GST Registration Cancellation as \u2018Economic Death\u2019 of Business first appeared on SAG Infotech Official Tax Blog .",
+      "link": "https://blog.saginfotech.com/sc-allahabad-hc-decision-gst-registration-cancellation-economic-death-business",
+      "source": "Sag Infotech Official Blog",
+      "image": "https://blog.saginfotech.com/wp-content/uploads/2026/07/ms-anil-art-and-craft-vs-state-of-uttar-pradesh.jpg",
+      "published": "2026-07-22 10:59:00",
       "category": [
         "top",
         "business"
@@ -18,26 +34,40 @@
       ]
     },
     {
-      "title": "Bank Indonesia mantiene i tassi invariati al 5,75%",
-      "description": null,
-      "link": "https://it.investing.com/news/economy-news/bank-indonesia-mantiene-i-tassi-invariati-al-575-93CH-3463707",
-      "source": "Investing - Quotazioni",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published": "2026-07-22 09:03:00",
+      "title": "Tu\u0308rkiye, Syria working to open Nusaybin-Qamishli border crossing",
+      "description": "Tu\u0308rkiye and Syria are working to open the Nusaybin-Qamishli border crossing 'as soon as possible,' as the two neighbors seek to expand trade and strengthen regional transport corri...",
+      "link": "https://www.dailysabah.com/business/economy/turkiye-syria-working-to-open-nusaybin-qamishli-border-crossing",
+      "source": "Daily Sabah",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/07/22/452017.jpg",
+      "published": "2026-07-22 10:59:00",
       "category": [
         "business"
       ],
       "country": [
-        "italy"
+        "turkey"
       ]
     },
     {
-      "title": "2026-07-22T09:02:57+00:00",
-      "description": "From Rep. Mike Levin, the Fertility Cost Relief Act would allow people to withdraw up to $20,000 penalty-free to cover fertility treatment expenses.",
-      "link": "https://www.dailynews.com/2026/07/22/new-bill-would-let-people-draw-from-retirement-accounts-to-help-pay-for-fertility-treatments/",
-      "source": "Los Angeles Daily News",
-      "image": "https://www.dailynews.com/wp-content/uploads/2026/07/OCR-L-IVFBILL-0721.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-22 09:02:57",
+      "title": "Clearwater residents question Landings Golf Club sports complex proposal",
+      "description": "Clearwater residents are raising concerns about a proposed sports complex at The Landings Golf Club as city council prepares to weigh next steps.",
+      "link": "http://www.mynews13.com/fl/orlando/news/2026/07/22/clearwater-residents-question-landings-golf-club-sports-complex-proposal",
+      "source": "Spectrum News 13",
+      "image": "https://s7d2.scene7.com/is/image/TWCNews/BN9_Clearwater_Landings_complex_0722",
+      "published": "2026-07-22 10:59:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
+      "description": "Gordie Howe International Bridge ceremony canceled after new Trump tariffs on Canada.",
+      "link": "https://www.oneidadispatch.com/2026/07/22/gordie-howe-bridge-ceremony-canceled-tariffs/",
+      "source": "Oneida Dispatch",
+      "image": "https://www.oneidadispatch.com/wp-content/uploads/2026/07/US_Canada_Detroit_Bridge_6743_-3.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-22 10:59:00",
       "category": [
         "politics",
         "top",
@@ -48,91 +78,136 @@
       ]
     },
     {
-      "title": "AME Elite targets seven-year development of RM1.3b Selangor i-Park@Coalfields",
-      "description": "SUNGAI BULOH: AME Elite Consortium Bhd expects its RM1.3 billion i-Park@Coalfields industrial park in Selangor to be fully developed over the next seven years, with completion targeted around 2033. Group CEO Dylan Tan Teck Eng said the 151.2-acre development would be rolled out over seven to eight years, describing that as the typical development cycle [...]",
-      "link": "https://thesun.my/business/ame-elite-targets-seven-year-development-of-rm1-3b-selangor-i-parkcoalfields/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/07/i-Park@Coalfields_Preview_PhotoOpp_260722_r.jpg.jpeg",
-      "published": "2026-07-22 09:02:56",
+      "title": "Philip Morris International Reports 2026 Second-Quarter & First Six-Months Results and Updates 2026 Full-Year Adjusted Diluted EPS Forecast for Currency Only;",
+      "description": "STAMFORD, CT--(BUSINESS WIRE)--Regulatory News: Philip Morris International Inc. (PMI) (NYSE: PM) today announces its 2026 second quarter results.1 \"We delivered outstanding results in the second quarter, driving net revenues to over $11 billion for the first time with excellent growth across all headline metrics,\" said Jacek Olczak, Group CEO PMI. \"With a robust first half under our belt, including continued momentum and strong results in our smoke-free business, we are well positioned to deli",
+      "link": "http://www.businesswire.com/news/home/20260721799968/en/Philip-Morris-International-Reports-2026-Second-Quarter-First-Six-Months-Results-and-Updates-2026-Full-Year-Adjusted-Diluted-EPS-Forecast-for-Currency-Only/?feedref=JjAwJuNHiystnCoBq_hl-fLcmYSZsqlD_XPbplM8Ta6D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5iej_DoWrIhfD31cAxcB60aE",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20260721799968/en/1056493/21/PMI_global_V_Blue_HIRES.jpg",
+      "published": "2026-07-22 10:59:00",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "malaysia"
+        "japan",
+        "canada",
+        "united kingdom",
+        "australia",
+        "china",
+        "germany",
+        "united states of america",
+        "france"
       ]
     },
     {
-      "title": "Menassah Distribution Company Makes Its Debut At The Hong Kong Book Fair, Expanding The Global Reach Of Emirati Books",
-      "description": "(MENAFN - Mid-East Info) Sharjah, July 2026: Menassah Distribution Company is making its international debut at the Hong Kong Book Fair 2026, marking a significant milestone in its ambition to ...",
-      "link": "https://menafn.com/1111429661/Menassah-Distribution-Company-Makes-Its-Debut-At-The-Hong-Kong-Book-Fair-Expanding-The-Global-Reach-Of-Emirati-Books",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-07-22 09:02:54",
+      "title": "Zacks Research Downgrades Tectonic Therapeutic (NASDAQ:TECX) to Strong Sell",
+      "description": "Tectonic Therapeutic (NASDAQ:TECX \u2013 Get Free Report) was downgraded by Zacks Research from a \u201chold\u201d rating to a \u201cstrong sell\u201d rating in a note issued to investors on Monday,Zacks.com reports. Several other brokerages have also recently issued reports on TECX. Stifel Nicolaus began coverage on Tectonic Therapeutic in a research report on Monday, April 13th. [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13511412/zacks-research-downgrades-tectonic-therapeutic-nasdaqtecx-to-strong-sell.html",
+      "source": "Ticker Report",
+      "image": "https://www.marketbeat.com/logos/tectonic-therapeutic-logo-1200x675.png?v=20240703142854",
+      "published": "2026-07-22 10:59:00",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "algeria",
-        "kuwait",
-        "united arab emirates",
-        "iraq",
-        "morocco",
-        "syria",
-        "egypt",
-        "qatar",
-        "tunisia",
-        "yemen",
-        "lebanon",
-        "jordan",
-        "libya",
-        "bahrain",
-        "saudi arabia"
+        "united states of america"
       ]
     },
     {
-      "title": "Eurobank sets date for second quarter earnings announcement",
-      "description": "Eurobank announced on Wednesday that it will release its financial results for the second quarter of 2026 on July 30, with investors set to receive a further update on the group\u2019s performance following a series of strategic developments across Cyprus and the wider region. The bank said its second quarter 2026 results will be announced [...]",
-      "link": "https://cyprus-mail.com/2026/07/22/eurobank-sets-date-for-second-quarter-earnings-announcement",
-      "source": "Cyprus Mail",
-      "image": "https://cyprus-mail.com/wp-content/uploads/2025/11/3-Eurobank-Ltd_Headquarters_Main-Entrance.jpeg",
-      "published": "2026-07-22 09:02:53",
+      "title": "NVIDIA Corporation $NVDA Stock Position Raised by Simplicity Wealth LLC",
+      "description": "Simplicity Wealth LLC raised its stake in shares of NVIDIA Corporation (NASDAQ:NVDA \u2013 Free Report) by 2.6% in the 1st quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 182,090 shares of the computer hardware maker\u2019s stock after purchasing an additional 4,625 shares during [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/nvidia-corporation-nvda-stock-position-raised-by-simplicity-wealth-llc.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916",
+      "published": "2026-07-22 10:58:59",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "cyprus"
+        "united states of america"
       ]
     },
     {
-      "title": "GE Vernova Reports Second Quarter 2026 Financial Results And Raises 2026 Financial Guidance",
-      "description": "(MENAFN - Mid-East Info) Strong performance with significant orders and backlog growth, margin expansion, and cash generation Key Information: Strong performance with significant orders and ...",
-      "link": "https://menafn.com/1111429660/GE-Vernova-Reports-Second-Quarter-2026-Financial-Results-And-Raises-2026-Financial-Guidance",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-07-22 09:02:53",
+      "title": "Agnico Eagle Mines (AEM) Expected to Post Quarterly Earnings on Wednesday",
+      "description": "Agnico Eagle Mines (NYSE:AEM \u2013 Get Free Report) (TSE:AEM) is projected to announce its Q2 2026 results after the market closes on Wednesday, July 29th. Analysts expect Agnico Eagle Mines to announce earnings of $2.91 per share and revenue of $3.7814 billion for the quarter. Individuals may review the information on the company\u2019s upcoming Q2 [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/agnico-eagle-mines-aem-expected-to-post-quarterly-earnings-on-wednesday.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/agnico-eagle-mines-limited-logo-1200x675.jpg",
+      "published": "2026-07-22 10:58:59",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "algeria",
-        "kuwait",
-        "united arab emirates",
-        "iraq",
-        "morocco",
-        "syria",
-        "egypt",
-        "qatar",
-        "tunisia",
-        "yemen",
-        "lebanon",
-        "jordan",
-        "libya",
-        "bahrain",
-        "saudi arabia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mediolanum International Funds Ltd Makes New $1.51 Million Investment in Ferguson plc $FERG",
+      "description": "Mediolanum International Funds Ltd purchased a new position in Ferguson plc (NYSE:FERG \u2013 Free Report) in the 1st quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The institutional investor purchased 6,765 shares of the company\u2019s stock, valued at approximately $1,513,000. A number of other large [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/mediolanum-international-funds-ltd-makes-new-1-51-million-investment-in-ferguson-plc-ferg.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/ferguson-plc-logo-1200x675.png?v=20250619112329",
+      "published": "2026-07-22 10:58:59",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Zacks Research Downgrades Viking Therapeutics (NASDAQ:VKTX) to Strong Sell",
+      "description": "Viking Therapeutics (NASDAQ:VKTX \u2013 Get Free Report) was downgraded by investment analysts at Zacks Research from a \u201chold\u201d rating to a \u201cstrong sell\u201d rating in a report released on Monday,Zacks.com reports. A number of other brokerages have also commented on VKTX. Wolfe Research assumed coverage on shares of Viking Therapeutics in a report on Thursday, [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/zacks-research-downgrades-viking-therapeutics-nasdaqvktx-to-strong-sell.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/viking-therapeutics-inc-logo-1200x675.png?v=20240306130605",
+      "published": "2026-07-22 10:58:57",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Relyea Zuckerberg Hanson LLC Reduces Stake in NVIDIA Corporation $NVDA",
+      "description": "Relyea Zuckerberg Hanson LLC lessened its holdings in shares of NVIDIA Corporation (NASDAQ:NVDA \u2013 Free Report) by 5.3% during the 1st quarter, according to its most recent 13F filing with the SEC. The institutional investor owned 117,385 shares of the computer hardware maker\u2019s stock after selling 6,569 shares during the period. NVIDIA accounts for approximately [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/relyea-zuckerberg-hanson-llc-reduces-stake-in-nvidia-corporation-nvda.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/nvidia-co-logo-1200x675.jpg?v=20221020142916",
+      "published": "2026-07-22 10:58:57",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "iShares Core S&P 500 ETF $IVV Stake Raised by CacheTech Inc.",
+      "description": "CacheTech Inc. raised its stake in shares of iShares Core S&P 500 ETF (NYSEARCA:IVV \u2013 Free Report) by 1.7% during the first quarter, according to the company in its most recent 13F filing with the SEC. The fund owned 42,820 shares of the ETF\u2019s stock after buying an additional 715 shares during the quarter. iShares [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/ishares-core-sp-500-etf-ivv-stake-raised-by-cachetech-inc.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/ishares-sp-500-etf-logo-1200x675.png?v=20210809124219",
+      "published": "2026-07-22 10:58:57",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Danica Pension Livsforsikringsaktieselskab Takes $11.67 Million Position in Vertex Pharmaceuticals Incorporated $VRTX",
+      "description": "Danica Pension Livsforsikringsaktieselskab bought a new position in shares of Vertex Pharmaceuticals Incorporated (NASDAQ:VRTX \u2013 Free Report) in the 1st quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The institutional investor bought 26,126 shares of the pharmaceutical company\u2019s stock, valued at approximately $11,666,000. Other hedge funds [...]",
+      "link": "https://www.thelincolnianonline.com/2026/07/22/danica-pension-livsforsikringsaktieselskab-takes-11-67-million-position-in-vertex-pharmaceuticals-incorporated-vrtx.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/vertex-pharmaceuticals-incorporated-logo-1200x675.png?v=20231228113929",
+      "published": "2026-07-22 10:58:56",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

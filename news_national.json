@@ -1,5 +1,81 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 5,
+  "results": [
+    {
+      "title": "France Recorded 5,700 More Deaths Than Usual During Its Historic June Heat Wave",
+      "description": "France recorded 5,764 excess deaths during its June heat wave, marking the country's deadliest heat-related mortality event since the devastating 2003 heat wave, according to Public Health France.",
+      "link": "https://www.timesnownews.com/world/europe/france-recorded-5700-more-deaths-than-usual-during-its-historic-june-heat-wave-article-155153479",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155153479,thumbsize-1036898,width-1280,height-720,resizemode-75/155153479.jpg",
+      "published": "2026-07-23 00:21:46",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Tragic Assassination of Mexican Mayor Highlights Ongoing Violence",
+      "description": "The assassination of Valentin Lavin, mayor of Temoac, inside town hall underscores the ongoing violence against local politicians in Mexico. This tragic event follows a previous attempt on his life and is part of a disturbing trend, with nearly 100 mayors murdered since 2006. Despite claims of reduced homicides, the country continues to face severe challenges from organized crime. The situation raises concerns about the safety of public officials in regions plagued by drug cartel conflicts. Read on for a deeper look into this alarming issue.",
+      "link": "https://gyanhigyan.com/national/tragic-assassination-of-mexican-mayor-highlights-ongoing/cid19023224.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/18f870ab06f373120974aa69aa71c137.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-07-23 00:21:36",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Remembering the 4 U.S. service members killed recently in the Iran war (Video)",
+      "description": "A dignified transfer was held Wednesday for the four U.S. Army soldiers killed in the Middle East in recent days amid the ongoing war with Iran. Lindsey Reiser shares more details on Lt. Tyler James... The post Remembering the 4 U.S. service members killed recently in the Iran war (Video) appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/07/22/remembering-the-4-u-s-service-members-killed-recently-in-the-iran-war-video/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/23/maxresdefault-6.jpg?fit=1280%2C720&quality=80&zoom=1&ssl=1?v=1784767894",
+      "published": "2026-07-23 00:21:34",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Stock Market Today: Nasdaq leads Wall Street losses as crude oil tops $95; Indian markets likely to open weak",
+      "description": "US markets ended lower as rising oil prices reignited inflation concerns, dragging technology stocks. Asian markets traded mostly higher, while GIFT Nifty signalled a weak opening for Indian equities despite regional strength.",
+      "link": "https://www.etnownews.com/markets/stock-market-today-nasdaq-leads-wall-street-losses-as-crude-oil-tops-95-indian-markets-likely-to-open-weak-article-155153473",
+      "source": "Et Now",
+      "image": "https://images.etnownews.com/thumb/msid-155153473,updatedat-1784766089213,width-1280,height-720,resizemode-75/155153473.jpg",
+      "published": "2026-07-23 00:21:32",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Flooding in Louisiana after Tropical Storm Bertha makes landfall (Video)",
+      "description": "Forecasters say Tropical Storm Bertha will move over New Orleans on Wednesday night and then continue toward Houston. CBS News' Lana Zak and Zoe Mintz have the latest on the storm's impact. CBS News 24/7... The post Flooding in Louisiana after Tropical Storm Bertha makes landfall (Video) appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/07/22/flooding-in-louisiana-after-tropical-storm-bertha-makes-landfall-video/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/23/maxresdefault-5.jpg?fit=1280%2C720&quality=80&zoom=1&ssl=1?v=1784767884",
+      "published": "2026-07-23 00:21:24",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

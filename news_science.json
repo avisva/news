@@ -1,22 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "2026-07-23T07:11:58+00:00",
-      "description": "FDA\u2019s career scientists don\u2019t think there\u2019s enough data to support making peptides more available.",
-      "link": "https://www.dailynews.com/2026/07/23/fda-peptide-injections-rfk/",
-      "source": "Los Angeles Daily News",
-      "image": "https://www.dailynews.com/wp-content/uploads/2026/07/Peptides_FDA_Experts_47626_5e978d.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-23 07:11:58",
-      "category": [
-        "top",
-        "health",
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

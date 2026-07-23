@@ -1,33 +1,26 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 11,
   "results": [
     {
-      "title": "Samsung Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 and Galaxy Z Flip 8 launched - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZVVZcWtnalptb1JlWm5yNWd0ZDAtZ2lTVi1kUHNsRkgzZnJwQklKLTllRHhOZ2VueG9ZVG82RU10QUFlbS1Ec3VMZEg4V3pPZTZzY09PU2R4a00xSHZFVUNFRzAzZGRpd3ZyM19TYmVoR2FBV1hfY21rcnQ3em5SWV9DRU54ZlhYWC0yWnhvbEtZSHRPX3Q2YzdqZko3b2ExenlMQzZ5REFyNGZYemY1WUt4Q1JPbVdKcTc3VE9oUzdEdHdmUGtmaXBPV3RrelBEcmR5ZlQ5dHlITmtSN1o1bdIB5wFBVV95cUxOX2pYck9adHlEVmRJRS1DcTFTdGJFUGhrMzhNTkZQUmhzZXpCZnBEWFlYSFZwUGdGY2JJMWZaLWxRU3lSRHBEYmY0dUhJYUVLeFQ0eThiUTYtNzFfTktUazEzbUlwbnh5aVZFZjRmbm1kVzQ2enVrQ1VsNklrOW9hdHI0QmIyeHFsd2g1dXdGNnRJa1FyOE1vTlo0LW5wY3JGa1BRckZpOHAwendqSVN3aGVpazM5MTNweU1CUzNkV1k1RlptSVMtSGI1V0RHYi1KVWFnUmtqY2NzV0FQTE1CRWpBQUR3d0k?oc=5",
-      "published": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "source": "The Hindu",
-      "category": "technology"
-    },
-    {
-      "title": "India's foldable smartphone market gets ready for Apple-led big flip - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1lEbjBQT2I2RzBkdDdMcHhJRlFCTGxZRWN1Ymo4MXBSZ1c5MHdLYzdQOVFMcGVXVVhzRXliTnRwNE9BZVB5bTBqcEp2dnBpTW9wczVFTUFraDhSbW1yc1kzWXpzMFkzOTJzWTd2NURkdFhIV1E0XzRoU09sMWxneUFEdEdoYmRBSmRsQlFQbFhKNWhzQjctS0FDRmNLemJFRDdIWXJ4amk4NkxXS0tyVXBFbXM4d2c2VXRrXzJSaUVVOEY1REg1VTVGMnZDakZ4NHfSAdcBQVVfeXFMT3haSVo4SmFnV3ZwUVdpc044SGw5dWJDSUMzaDZYYkNiX2FabWZhWnNGM1c5ZFluXzUyZ0ZpRjNUaHRkOU5md2N0dlJXYUw0NHFpVHZoZF9ZR3VKU04zQlFwdHpWcGNmeFMzMDhIQTJWODdCb3MxWHpsd180cExOZTVKSWFiWDRCaU04V0RMR2hEQ0tyOURjWUJCZFNEdUR0VGZtWThYUXJpN3c5aVQ1WHV2TDZET3g2cTIxZ1BpTmhDVWlaRFlKYWo5LUN2RFh3cUtfekhhZWs?oc=5",
-      "published": "Wed, 22 Jul 2026 16:50:43 GMT",
-      "source": "Business Standard",
-      "category": "technology"
-    },
-    {
-      "title": "Apple's Mac roadmap for the next two years leaks - GSMArena.com news - GSMArena.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazhVZEpIdVdpamVwbEhwUUdtSmgzVmNWRXhJSUZPSmdNMFlzRlY4aWtNck1xMllGZ0Z5TDM0LVJjdVZTVzVIUVlTVnhyRUpGTHBweUd3c1IyaFcyeW10aDI5YjIwNWtDZ3owNE1ST1VubzdoOGpXb3V4djJEVWhiNjNFTWFJZnRXV3pvQW1wQznSAYwBQVVfeXFMUFFqWnV0RE1vWDZ5VVEwSTViQ2g4UEpGTXZLOXU2VkZQU0JsaWxvLTI3UTUzUlVQQUpXMXota0N3YWk4M2dLYWlfcGtLVlp2NTlrMmpVcHl2YnZEenp4a25pQ1RmMVgzSTk3N3pUbHAyRnlTT3k0WmNyTWo5Smh4cUlMaW5DRzA2ZGZQRlc?oc=5",
-      "published": "Wed, 22 Jul 2026 18:01:02 GMT",
+      "title": "Samsung Galaxy Fold8 series and Z Flip8 coverage wrap-up - GSMArena.com news - GSMArena.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFBTTk5WOF8xRTJHX29udmROREFTM2NJTGdqX0hiN19FUFFXRWZ4VFV0RXNLZ0drUUM1aUh2cVJ0M29LZFdEaDRJeGFFaENrRmdVQ0VHcWhnWEQ4TExvWU11a29rdERrd1RubS1fWm1kdkpRUFFLcnhDMGxHbnEyWGd0R2QyMmo3Y0kzZzljUlFjZnZfdWdBTUhyWdIBlwFBVV95cUxOV2wwZHYtcjAySXg0RzVXVUttV295MDY0Ml91bFpxQkx1ektIMVJqaGxZTjVhUFYwMnh5QkFqVy1EOVh4WXVoSTdJVmlnZlduVzVFT253ak5sM05lUnh0WlFZOE1UQnF6NWVKQ0JyajNZSEJieXpTUFlrbFdZOE83WmZ5YVROQmFyckhxSGhzaml3Mm9zV3JR?oc=5",
+      "published": "Thu, 23 Jul 2026 15:47:02 GMT",
       "source": "GSMArena.com",
       "category": "technology"
     },
     {
-      "title": "Garmin Cirqa Launched: A New Competition for Whoop, Google Fitbit Air - TelecomTalk",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeThxRm1wNzM5TmVkSmluanI2eTI4bUpDVUFiTVFiUDVvbDhWUnYzUWNvclh6WGhpMVVQNlBwUzg0aG9kVWhaY0hJNF9zQ0Z2bVBnd2kwTVdNWUxPTWxGWUpQSml1dnBjWlR2YUJqb2pqME5VWWNpdUZqZElWdzAtbkJFZw?oc=5",
-      "published": "Wed, 22 Jul 2026 10:22:30 GMT",
-      "source": "TelecomTalk",
+      "title": "TM Roh makes it clear Samsung isn't scared of Apple's foldable iPhone - SamMobile",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWZjVldISkdfQkVlS0V0X2NEcFlMZzJ5LThDaFEtRnpBTWFxV29ZeERNQm5GUGM3M00wUWcyVEo0N082T3NjajZCZmVUaVhya1lIb19walktUEVkamVpR3BaVW5LTGlGM1ZKc0tlc1I1Y3lDZkJhWEZEd3dZbWFRTW5JM1J0UEZ4aE1qOU5SODFMSVlSaWZyWjRtTV9lR1Mw?oc=5",
+      "published": "Thu, 23 Jul 2026 09:47:00 GMT",
+      "source": "SamMobile",
+      "category": "technology"
+    },
+    {
+      "title": "Want To Buy iPhone? Apple Has A New Way For You To Afford It - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0h6a00xYm03cEFTZXdTVEt1V2QyMXN1cUNHZHE2T1ZqVEd2YnhNVzh0S3I0TXVZc1hFclpQU0dNY2FIT0VYN1JZUEtFbnZCeG1LdTRXMFdHVDZjckVxMzloNGhrcnhUVEY1MV9pSGpGT09Dejk3b3VycWZIMFZ6TXZXZFgzM29IODhEUW9uM1hvMVN0cWxoeHlhR2x5Z9IBpgFBVV95cUxPTWZneDMybnZGVU0zRWczUFFtYkhlOFpJWmNkd1lCNng3Snc0Rk5RV0tkT1FwT1V6VDFHVU4tWHBNcDl0ajYyZ252UjZMQUtmSDJTU09TdjJWQVpJZHdFQ04xMlQtbEh1NHJTeG1TLUwxdHB6M1Y0REZKektPb3gzTEF5S2hnUDd4U1NQam9EbzZLXzZrWnZqcE1rTjQ1R1BSRWNHLU9R?oc=5",
+      "published": "Wed, 22 Jul 2026 13:28:42 GMT",
+      "source": "NDTV",
       "category": "technology"
     },
     {
@@ -40,7 +33,7 @@
     {
       "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZUWVkVnVEcGlCRWpia3RGdzdBYkE2N3pwa3ZyTEVuRXNPUjk1a0w0UE1ydzRrTVJIZ0VVb2FlaWhvTkNya3BJamhlUTdkSm5DcThIVnNINlJsX0pzR0hlMmZDaGZLU3YzMVRwMzVYaVhPa2thbF80TkVBNUhLUQ?oc=5",
-      "published": "Thu, 23 Jul 2026 12:58:49 GMT",
+      "published": "Thu, 23 Jul 2026 16:00:13 GMT",
       "source": "Mashable",
       "category": "technology"
     },
@@ -49,6 +42,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGpnQ2l4Y01GYzJtOHhHMm5YLXlLakxNeFBta3lkTjByU0YtT0oyNjE0ZEF4ekV4NWtfYXUyR0tYZGQxZjZQekhiODU3SzBEakN0MmltWWQxSWFkWTlmVExYcXBjbFVWSzE5VndWS3IzcV9kdG1GZm5aaHZJV2dQaEVaaGpJRkhReUVz0gGHAUFVX3lxTE5kYXNXX2dTc21RMWx3eGs1Mnp4SW1zYm5RdWJBSUFDWTZhRFhqSS0wZWtOckRIdnFDd1R0R1R0a1dZQ0tjOUp1cTk3MDJJMDZhOHBLSGlBdXB0X0dLYng4Q1hwMTJqUnhldFZka1JsSUI5RlMyN2dnZEo5WnJjUm45NFFoMV9WOA?oc=5",
       "published": "Wed, 22 Jul 2026 07:21:02 GMT",
       "source": "GSMArena.com",
+      "category": "technology"
+    },
+    {
+      "title": "Google introduces new \u2018selfie video\u2019 sign-in method - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zWjB4Nnk0ZTVTRV9xb3JMMWc1MDlCV2dWQXRvN0x2dEVWbGRSNlpDOXpKQmlpUW5QYzBBX3Z4MHZzVktRSm81QVdtOEo5ZEk1MW9LbUgwTE5OZjFGUk1ZNkNZX2FzcDN4RkFfNVBVSQ?oc=5",
+      "published": "Thu, 23 Jul 2026 13:00:00 GMT",
+      "source": "9to5Google",
       "category": "technology"
     },
     {
@@ -63,6 +63,13 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZYVB4aWJ4NG82T2s5alNiMzdvbkVueF9yOXhPMmFRdVdMSUN5TThTUTNHRTdWcFBDclNNd19fQ3RPV1pNQWtnSDg1NlFhVGFLd2hKVlVTcWh0Z1pqVm9ZYnRpOGgtdWVpRWJNemJQMktvTVhDR1E?oc=5",
       "published": "Wed, 22 Jul 2026 20:31:00 GMT",
       "source": "Android Authority",
+      "category": "technology"
+    },
+    {
+      "title": "The iPhone 18 Pro's Rumored Camera Upgrade, Explained - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR09SN1dneUI3SHJqYURhVzQwYjdRWExQY29hMld5ZFNDeWx4UEI4TFFyeGJ2VWp5NGNJSmVvZUxWU2pJSlFNTjZhRDBob2VqT0l1c1dHS2Q5NEJiSnY4c2I1a24yUTlJUEdMRTU1S0RTMHhESm9qM0VBYTFla19Tak5IUkpKNWM?oc=5",
+      "published": "Wed, 22 Jul 2026 09:10:46 GMT",
+      "source": "MacRumors",
       "category": "technology"
     },
     {

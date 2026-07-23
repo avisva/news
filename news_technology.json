@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Volkswagen gearing up to launch self-driving cars in China from 2027",
-      "description": "Volkswagen plans to launch its first vehicles in China capable of Level 3 autonomous driving next year, as Europe's largest carmaker seeks to catch up in the fast-moving market for self-driving technology.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/07/23/volkswagen-gearing-up-to-launch-self-driving-cars-in-china-from-2027",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/23/4024603.jpg",
-      "published": "2026-07-23 09:00:00",
+      "title": "Setting sprays are turning multi-functional in search of staying power",
+      "description": "Beyond fixing make-up, setting sprays are increasingly offering extra benefits to ensure they have staying power with consumers in the hot but competitive category, from scent and colour to SPF and hydration",
+      "link": "https://cosmeticsbusiness.com/setting-sprays-are-turning-multi-functional-in-search",
+      "source": "Cosmeticsbusiness",
+      "image": null,
+      "published": "2026-07-23 10:53:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Airtel Money IPO puts MTN, Safaricom under fresh pressure to unlock mobile money value",
+      "description": "Airtel Africa\u2019s decision to list its mobile money business in London is raising pressure on rivals MTN and Safaricom to",
+      "link": "https://businessday.ng/companies/article/airtel-money-ipo-puts-mtn-safaricom-under-fresh-pressure-to-unlock-mobile-money-value/",
+      "source": "Business News Nigeria",
+      "image": null,
+      "published": "2026-07-23 10:52:59",
       "category": [
         "technology"
       ],
       "country": [
-        "malaysia"
+        "nigeria"
       ]
     }
   ]

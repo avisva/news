@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Interview with illustrator Barrie Mitchell",
-      "description": "Interview with illustrator Barrie Mitchell zoocha-admin Thu, 23/07/2026 - 04:05 https://researchportal.port.ac.uk/en/publications/interview-with-illustrator-barrie-mitchell Caro, J. Mitchell, B. 20 Mar 2026 Studies in Comics. 16, 2, p. 215-233, 19p. Research output Article Pure JSON link https://pure.port.ac.uk/ws/api/524/research-outputs/120639060?apiKey=7c63d28a-c...",
-      "link": "https://www.port.ac.uk/node/597226",
-      "source": "University Of Portsmouth",
-      "image": null,
-      "published": "2026-07-23 03:05:35",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

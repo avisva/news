@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "MedPlus puts \u20b9100 crore concierge healthcare project on hold after investor feedback",
+      "description": "Gangadi Madhukar Reddy, MD & CEO, Medplus Health Services said the company had listened to shareholder concerns after the announcement triggered a sharp fall in its stock price.",
+      "link": "https://www.cnbctv18.com/business/companies/medplus-pauses-rs-100-crore-healthcare-expansion-plan-says-investor-feedback-prompted-pause-19952027.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/pharmacy-2026-07-88f02b8930078621dca46e33fe4296ac.jpg",
+      "published": "2026-07-23 05:18:58",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Home delivered, medically tailored groceries improve diabetes control, reports research",
+      "description": "A study from researchers at top US health insurance and medical services provider Kaiser Permanente, the Food is Medicine Institute at the Gerald J. and Dorothy R. Friedman School of Nutrition Science...",
+      "link": "https://medicaldialogues.in/diabetes-endocrinology/news/home-delivered-medically-tailored-groceries-improve-diabetes-control-reports-research-175532",
+      "source": "Business Medical Dialogues",
+      "image": "https://medicaldialogues.in/h-upload/2026/05/31/351084-diabetes.webp",
+      "published": "2026-07-23 05:18:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

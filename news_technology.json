@@ -1,34 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "\u2018Unprecedented\u2019: OpenAI bots go rogue, hack rival firm",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/business/the-wall-street-journal/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong/news-story/a82bd170acfb32dcc3b5472ef270a74e",
-      "source": "The Australian",
-      "image": null,
-      "published": "2026-07-23 00:22:00",
+      "title": "InfiMotion Technology Makes Public Debut, Showcasing Full-Stack E-Drive Capabilities at Wuxi Event",
+      "description": "WUXI, China, July 23, 2026 /PRNewswire/ -- InfiMotion Technology (InfiMotion), a global innovator in intelligent e-drive systems, hosted a technology showcase event in Wuxi on July 16, marking its...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69099850-infimotion-technology-makes-public-debut-showcasing-full-stack-e-drive-capabilities-at-wuxi-event-008.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN09959&Transmission_Id=202607222300PR_NEWS_EURO_ND__EN09959&DateId=20260722",
+      "published": "2026-07-23 03:06:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "australia"
+        "germany"
       ]
     },
     {
-      "title": "Delta Air Lines releases its largest-ever Masters schedule",
-      "description": null,
-      "link": "https://www.wfxg.com/news/delta-air-lines-releases-its-largest-ever-masters-schedule/article_93aaf631-d595-4749-a9f2-72f060efccc8.html",
-      "source": "Wfxg",
+      "title": "Systems thinking as a key competence for sustainable development and digital transformation",
+      "description": "Systems thinking as a key competence for sustainable development and digital transformation zoocha-admin Thu, 23/07/2026 - 04:05 https://researchportal.port.ac.uk/en/publications/systems-thinking-as-a-key-competence-for-sustainable-development- Armenia, S. Tsaples, G. Papathanasiou, J. Barnabe\u0301, F. Nazir, S. 9 Nov 2022 Research output Conference contribution Pure JSON link https://pure.port.ac.uk/ws/api/524/research-outputs/124409120?apiKey=7c63d28a-c...",
+      "link": "https://www.port.ac.uk/node/597246",
+      "source": "University Of Portsmouth",
       "image": null,
-      "published": "2026-07-23 00:22:00",
+      "published": "2026-07-23 03:05:35",
       "category": [
-        "top",
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "georgia"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "A transparency-by-besign framework for explainable text classification in security and risk monitoring",
+      "description": "A transparency-by-besign framework for explainable text classification in security and risk monitoring zoocha-admin Thu, 23/07/2026 - 04:05 https://researchportal.port.ac.uk/en/publications/a-transparency-by-besign-framework-for-explainable-text-classific Mohasseb, A. Golcarenarenji, G. Ntantogian, C. Kanavos, A. 14 Jul 2026 Research output Conference contribution Pure JSON link https://pure.port.ac.uk/ws/api/524/research-outputs/122737524?apiKey=7c63d28a-c...",
+      "link": "https://www.port.ac.uk/node/597231",
+      "source": "University Of Portsmouth",
+      "image": null,
+      "published": "2026-07-23 03:05:35",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

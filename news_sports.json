@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Can Miles Bridges get over 'mixed feelings' from Suns fans?",
+      "description": "The Miles Bridges era of Phoenix Suns basketball is not off to a great start. Once the trade was official, many fans across the Valley were not happy for a multitude of reasons.",
+      "link": "https://www.yardbarker.com/nba/articles/can_miles_bridges_get_over_mixed_feelings_from_suns_fans/s1_17087_44095102",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/3/f/3f7cb7b2bdf2398baa434af847106680837f7f06/thumb_16x9/apr-17-2026-orlando-florida-usa-charlotte-hornets.jpg",
+      "published": "2026-07-24 01:38:57",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Swim star Adam Ramsay-Peaty shows off new name after marrying into famous family",
+      "description": "A family feud is in the past as the Commonwealth Games gold medallist declares \u2018I\u2019ll make sure the swimming does the talking\u2019.",
+      "link": "https://thenightly.com.au/sport/swim-star-adam-ramsay-peaty-shows-off-new-name-after-marrying-into-famous-family-c-22622671",
+      "source": "The Nightly",
+      "image": "https://images.thenightly.com.au/publication/C-22622671/a777dd7c5da4ddf435809c4d22adee8255c1aa79-16x9-x0y0w1280h720.webp",
+      "published": "2026-07-24 01:38:29",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

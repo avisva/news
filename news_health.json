@@ -1,35 +1,61 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "West Nile virus detected in Harrison County mosquito samples",
-      "description": null,
-      "link": "https://www.wlox.com/2026/07/23/west-nile-virus-detected-harrison-county-mosquito-samples/",
-      "source": "Wlox News",
-      "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/KIIAQC5XSBDTJFMWYEDNIY4DME.png?auth=a223ab8bee55741f1b006d61154255111317022543e2562877fde124011ee3f8&width=1200&height=600&smart=true",
-      "published": "2026-07-23 23:38:58",
+      "title": "McKnight\u2019s Senior Living wins top honors for print magazine",
+      "description": "McKnight\u2019s Senior Living has captured a Grand Award and an Award of Excellence in the 2023 Awards for Publication Excellence program.",
+      "link": "https://www.mcknightsseniorliving.com/news/mcknights-senior-living-wins-top-honors-for-print-magazine/",
+      "source": "Mcknight's Senior Living",
+      "image": "https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2023/07/APEX2023.jpg",
+      "published": "2026-07-24 01:38:59",
       "category": [
-        "health",
-        "top"
+        "health"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Radiopharm Theranostics (ASX: RAD) Trading Suspended Pending Key Capital Raising Announcement",
-      "description": null,
-      "link": "https://kalkinemedia.com/au/news/announcements/radiopharm-theranostics-asx-rad-trading-suspended-pending-key-capital-raising-announcement",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2742049913_07_02_2026_01_36_24_900043.jpg",
-      "published": "2026-07-23 23:38:55",
+      "title": "McKnight\u2019s Senior Living named top website covering assisted living for industry professionals",
+      "description": "McKnightsSeniorLiving.com has been named the top business-to-business website covering the assisted living industry.",
+      "link": "https://www.mcknightsseniorliving.com/news/mcknights-senior-living-named-top-website-covering-assisted-living-for-industry-professionals/",
+      "source": "Mcknight's Senior Living",
+      "image": "https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2024/09/GettyImages-1207186817-success-trophy-e1737826781207.jpg",
+      "published": "2026-07-24 01:38:47",
       "category": [
-        "health",
-        "top"
+        "health"
       ],
       "country": [
-        "australia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "McKnight\u2019s Senior Living wins top awards for magazine, columns",
+      "description": "McKnight's Senior Living won the top award for a trade magazine, and Editor Lois Bowers won the top award for a business-to-business columnist at the 2023 Ohio\u2019s Best Journalism competition.",
+      "link": "https://www.mcknightsseniorliving.com/news/mcknights-senior-living-wins-top-awards-for-magazine-columns/",
+      "source": "Mcknight's Senior Living",
+      "image": "https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2023/08/Ohio-SPJ-2023.jpg",
+      "published": "2026-07-24 01:38:38",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "McKnight\u2019s Senior Living wins 4 awards for editorial excellence",
+      "description": "Excellence in coverage of news of importance to senior living providers resulted in four awards from the American Society for Business Publication Editors for McKnight\u2019s Senior Living editors and contributors last week.",
+      "link": "https://www.mcknightsseniorliving.com/news/mcknights-senior-living-wins-4-awards-for-editorial-excellence/",
+      "source": "Mcknight's Senior Living",
+      "image": "https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2024/04/MSL-2024-ASBPE-Azbee-logos.jpg",
+      "published": "2026-07-24 01:38:28",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

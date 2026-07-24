@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "AI facial recognition vans at Jantar Mantar raise Aadhaar, privacy questions",
-      "description": "Delhi Police\u2019s AI-powered facial recognition vehicles deployed at Jantar Mantar have sparked a privacy debate after viral videos claimed protesters were being identified in real time. Authorities say the system only matches faces against a criminal database, while there is no official evidence that it is linked to Aadhaar.",
-      "link": "https://www.news9live.com/technology/artificial-intelligence/ai-facial-recognition-vans-at-jantar-mantar-raise-aadhaar-privacy-questions-2992628",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Delhi-Police-1.png",
-      "published": "2026-07-24 07:21:00",
+      "title": "Samsung Galaxy Ultra 2 and Watch 9 Pre-Orders Open in India With Discounts Up to Rs 9,500",
+      "description": "Samsung Galaxy Watch Ultra2 and Galaxy Watch9 are now available for pre-order in India with AI-powered health tracking and expanded Samsung Care+ support. Samsung has launched pre-orders for the Galaxy Watch Ultra2 and Galaxy Watch9 in India with AI health features and new Samsung Care+ benefits.",
+      "link": "https://in.mashable.com/tech/112225/samsung-galaxy-ultra-2-and-watch-9-pre-orders-open-in-india-with-discounts-up-to-rs-9500",
+      "source": "In Mashable",
+      "image": "https://sm.mashable.com/mashable_in/photo/default/z3wq-2026-07-24t141132794_tf1k.jpg",
+      "published": "2026-07-24 08:58:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Hybrid craft: Design approaches for contemporary 3D printed textiles",
+      "description": "Dr Kislaya Choudhary says, the inherent additive nature of 3D printing makes it one of the most promising technologies for solving the textile industry\u2019s most pressing environmental challenges. The textile industry, long defined by its reliance on analogue processes of cutting, sewing, knitting, and weaving, is currently undergoing a methodological transformation driven by digital fabrication. [...] The post Hybrid craft: Design approaches for contemporary 3D printed textiles appeared first on Indian Textile Journal .",
+      "link": "https://indiantextilejournal.com/hybrid-craft-design-approaches-for-contemporary-3d-printed-textiles/",
+      "source": "Indian Textile Journal",
+      "image": "https://indiantextilejournal.com/wp-content/uploads/2026/07/Untitled-9-1-150x150.jpg",
+      "published": "2026-07-24 08:58:57",
       "category": [
         "technology",
         "top"
@@ -18,34 +32,31 @@
       ]
     },
     {
-      "title": "Drone flights to be banned for Hiroshima peace ceremony",
-      "description": "This is the first time for the National Police Agency to designate such a restriction area under the revised drone regulation law enacted in June.",
-      "link": "https://www.japantimes.co.jp/news/2026/07/24/japan/drone-ban-hiroshima-peace-ceremony/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/24/553438.jpg",
-      "published": "2026-07-24 07:21:00",
+      "title": "CyberGhost Discount: Top CyberGhost VPN Coupon and Deals for 2026",
+      "description": "Explore the best CyberGhost discount and enjoy this CyberGhost coupon for massive savings. Save 83% with these CyberGhost coupons.",
+      "link": "https://gizmodo.com/best-vpn/cyberghost/coupon",
+      "source": "Gizmodo Australia",
+      "image": "https://gizmodo.com/app/uploads/2026/07/CyberGhost-Discount-Coupon.jpg",
+      "published": "2026-07-24 08:58:57",
       "category": [
-        "politics",
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "japan"
+        "australia"
       ]
     },
     {
-      "title": "AI confidence starts with trusted data, says PBT Group",
-      "description": "Organisations are moving quickly from AI ambition to AI use cases. Employees are already using AI tools in their daily work, while leadership teams want practical ways to improve efficiency, customer experience, decision-making, and competitiveness. \u201cAI confidence starts with the data estate behind the model,\u201d says Nathi Dube, Director: Innovation at PBT Group. \u201cBefore an [...]",
-      "link": "https://www.smetechguru.co.za/ai-confidence-starts-with-trusted-data-says-pbt-group/",
-      "source": "Sme Tech Guru",
-      "image": "https://www.smetechguru.co.za/wp-content/uploads/2026/07/AI-confidence-starts-with-trusted-data-scaled.jpeg",
-      "published": "2026-07-24 07:20:56",
+      "title": "Watch: AirDrop via Quick Share on the Galaxy Z Fold 8 works like a dream",
+      "description": "Want to send files between an iPhone and a Samsung Galaxy phone? AirDrop via Quick Share now works seamlessly.",
+      "link": "https://www.techradar.com/phones/samsung-galaxy-phones/watch-airdrop-via-quick-share-on-the-galaxy-z-fold-8-works-like-a-dream",
+      "source": "Techradar Nz",
+      "image": "https://cdn.mos.cms.futurecdn.net/RtKVyYQ3GWFEQJ5hrZmSPa-1280-80.jpg",
+      "published": "2026-07-24 08:58:51",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "south africa"
+        "new zealand"
       ]
     }
   ]

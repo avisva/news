@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Will UFC be a hit in China with a Shanghai bout \u2013 and a home-grown contender?",
-      "description": "Two months after the White House fight night, UFC will bring one of US President Donald Trump's favourite sports to Shanghai",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/24/will-ufc-be-a-hit-in-china-with-a-shanghai-bout---and-a-home-grown-contender",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4023036.jpg",
-      "published": "2026-07-24 07:21:00",
+      "title": "EXPLAINED: Why Team India have qualified straight to knockouts of Asian Games 2026 cricket tournament",
+      "description": "Team India men\u2019s and women\u2019s team will go through straight to the quarterfinals in the Asian Games 2026 tournament in Japan in September this year. [...]",
+      "link": "https://www.thetimesofbengal.com/2026/07/24/explained-why-team-india-have-qualified-straight-to-knockouts-of-asian-games-2026-cricket-tournament/",
+      "source": "The Times Of Bengal",
+      "image": "https://www.thetimesofbengal.com/wp-content/uploads/2026/07/Asia_Cricket.jpg",
+      "published": "2026-07-24 08:58:57",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "malaysia"
+        "india"
+      ]
+    },
+    {
+      "title": "India targets Formula 1 comeback by 2028 with new Task Force, FMSCI recognition",
+      "description": "The Union Sports Ministry provisionally recognizes the FMSCI as an NSF, establishing a task force to drive Formula 1's return to India by 2028.",
+      "link": "https://english.mathrubhumi.com/news/india/fmsci-national-sports-federation-formula-1-india-2028-vuvew9zd",
+      "source": "Mathrubhumi English",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1snj0ray7bfh58546ji/0/buddh-international-circuit-in-noida-jpg.webp?$p=f162f31&f=16:9&w=1080&q=0.8",
+      "published": "2026-07-24 08:58:55",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

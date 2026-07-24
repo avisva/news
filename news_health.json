@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Dr Florez on the FDA Approval of Zidesamtinib in Pretreated ROS1+ NSCLC",
-      "description": "Narjust Florez, MD, discusses how the FDA approval of zidesamtinib in locally advanced or metastatic ROS1-positive NSCLC is an example of the fast pace of clinical oncology.",
-      "link": "https://www.onclive.com/view/dr-florez-on-the-fda-approval-of-zidesamtinib-in-pretreated-ros1-nsclc",
-      "source": "Onclive",
-      "image": "https://cdn.sanity.io/images/0vv8moc6/onclive/ba5fea7a421c67dd5af18287ecb28594d54da6a5-1280x720.png",
-      "published": "2026-07-23 21:19:00",
+      "title": "West Nile virus detected in Harrison County mosquito samples",
+      "description": null,
+      "link": "https://www.wlox.com/2026/07/23/west-nile-virus-detected-harrison-county-mosquito-samples/",
+      "source": "Wlox News",
+      "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/KIIAQC5XSBDTJFMWYEDNIY4DME.png?auth=a223ab8bee55741f1b006d61154255111317022543e2562877fde124011ee3f8&width=1200&height=600&smart=true",
+      "published": "2026-07-23 23:38:58",
       "category": [
         "health",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Radiopharm Theranostics (ASX: RAD) Trading Suspended Pending Key Capital Raising Announcement",
+      "description": null,
+      "link": "https://kalkinemedia.com/au/news/announcements/radiopharm-theranostics-asx-rad-trading-suspended-pending-key-capital-raising-announcement",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2742049913_07_02_2026_01_36_24_900043.jpg",
+      "published": "2026-07-23 23:38:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

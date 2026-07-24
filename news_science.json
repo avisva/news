@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "In 1856, a student\u2019s failed experiment accidentally created the first synthetic dye that changed the fashion industry",
-      "description": "William Perkin's serendipitous discovery of mauveine, the inaugural synthetic dye, emerged from a seemingly botched chemistry experiment. This unexpected innovation revolutionized the textile and fashion worlds, rendering the color purple obtainable for the masses. The shift catalyzed an expansion in both the dye and pharmaceutical sectors, leaving a lasting impact. Today, Perkin's contribution continues to influence the vibrancy of our lives.",
-      "link": "https://timesofindia.indiatimes.com/life-style/fashion/in-1856-a-students-failed-experiment-accidentally-created-the-first-synthetic-dye-that-changed-the-fashion-industry/articleshow/132596920.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132596963/132596963.jpg",
-      "published": "2026-07-24 05:26:38",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

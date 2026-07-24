@@ -1,65 +1,20 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Prismatic adds native large data sync for integrations",
-      "description": "B2B software teams can now handle onboarding, migrations and bulk refreshes without separate synchronisation tools as Prismatic folds them into one platform.",
-      "link": "https://itbrief.co.nz/story/prismatic-adds-native-large-data-sync-for-integrations",
-      "source": "It Brief New Zealand",
-      "image": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_tanner-burson.jpg",
-      "published": "2026-07-23 15:15:00",
+      "title": "Tesla robotaxi goes wrong way down one-way street day after Tampa launch",
+      "description": "A driver spotted a Tesla robotaxi going the wrong way down a one-way street a day after the company rolled out its driverless taxi service.",
+      "link": "https://www.kxan.com/news/tesla-robotaxi-goes-wrong-way-down-one-way-street-day-after-tampa-launch/",
+      "source": "Kxan",
+      "image": "https://www.kxan.com/wp-content/uploads/sites/40/2026/07/Screenshot-2026-07-22-181102.png?w=769",
+      "published": "2026-07-23 18:22:54",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "Kore.ai appoints two chiefs to drive enterprise AI growth",
-      "description": "The restructure puts sales and customer delivery under new leaders as enterprise buyers demand stronger governance, support and reliability from AI agents.",
-      "link": "https://itbrief.co.nz/story/kore-ai-appoints-two-chiefs-to-drive-enterprise-ai-growth",
-      "source": "It Brief New Zealand",
-      "image": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_Uma_Sandilya_and_Rajavardhan_Nalluri.jpg",
-      "published": "2026-07-23 15:15:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "meshIQ benchmark finds no single messaging broker wins",
-      "description": "The benchmark underscores that broker choice depends on workload, with each contender excelling in different durable messaging tests.",
-      "link": "https://itbrief.co.nz/story/meshiq-benchmark-finds-no-single-messaging-broker-wins",
-      "source": "It Brief New Zealand",
-      "image": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_neutral-messaging-server-comparison-technical-background-benchmark-gauges-digital-illustration.jpg",
-      "published": "2026-07-23 15:15:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
-      "description": "Code shack also putting new limits on first-time researchers, and reserving the biggest rewards for a hand-picked group of proven hunters",
-      "link": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
-      "source": "The Register",
-      "image": null,
-      "published": "2026-07-23 15:15:00",
-      "category": [
-        "technology",
-        "science"
-      ],
-      "country": [
-        "nigeria"
+        "united states of america"
       ]
     }
   ]

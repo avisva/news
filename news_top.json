@@ -1,59 +1,29 @@
 {
   "status": "success",
-  "totalResults": 13,
+  "totalResults": 10,
   "results": [
     {
-      "title": "What does a dose of magic mushrooms actually do to your brain?",
-      "description": null,
-      "link": "https://www.shelbynews.com/news/national/what-does-a-dose-of-magic-mushrooms-actually-do-to-your-brain/article_7d7c1e1b-adf5-5ad9-9ab2-6410fe9ba2f9.html",
-      "source": "Shelbynews Com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/shelbynews.com/content/tncms/assets/v3/editorial/2/6c/26cf7fd7-b52c-52db-8755-0175d8e0bec7/6a62337f77de4.image.jpg?resize=300%2C169",
-      "published": "2026-07-23 11:57:00",
+      "title": "Prismatic adds native large data sync for integrations",
+      "description": "B2B software teams can now handle onboarding, migrations and bulk refreshes without separate synchronisation tools as Prismatic folds them into one platform.",
+      "link": "https://itbrief.co.nz/story/prismatic-adds-native-large-data-sync-for-integrations",
+      "source": "It Brief New Zealand",
+      "image": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_tanner-burson.jpg",
+      "published": "2026-07-23 15:15:00",
       "category": [
-        "top",
-        "health"
+        "technology",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "new zealand"
       ]
     },
     {
-      "title": "'Write a cheque!' Gary Lineker brutally skewered over tax demand by Kemi Badenoch",
-      "description": "Tory leader rips into football pundit's call for more taxes on wealth",
-      "link": "https://www.express.co.uk/news/politics/2232250/gary-lineker-wealth-tax-kemi-badenoch",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/139/590x/2232250_1.jpg",
-      "published": "2026-07-23 11:57:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Search stood down for missing Cork man (27) following the discovery of a body",
-      "description": null,
-      "link": "https://www.independent.ie/county/cork/search-stood-down-for-missing-cork-man-27-following-the-discovery-of-a-body/a/159011747.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-07-23 11:57:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Democrats urge IRS watchdog to find out why a top lawyer who clashed with White House left his job",
-      "description": "Democrats seek probe into IRS attorney exit amid concerns of White House influence.",
-      "link": "https://www.dailybulletin.com/2026/07/23/democrats-seek-probe-into-irs-attorney-departure/",
-      "source": "Inland Valley Daily Bulletin",
-      "image": "https://www.dailybulletin.com/wp-content/uploads/2026/07/IRS_White_House_666_4.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-23 11:57:00",
+      "title": "US House votes to halt Iran war, in another symbolic rebuke of Trump",
+      "description": "The Republican-led U.S. House of Representatives backed legislation directing President Donald Trump to halt U.S. military action against Iran, the latest symbolic rebuke of the Republican president from Congress.",
+      "link": "https://mcdowellnews.com/news/nation-world/government-politics/article_5edaa824-9926-52c0-bfb8-83c68f6ba4a7.html",
+      "source": "Mcdowell News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/1/e4/1e4b935c-0264-57cc-be4b-e08e338c2813/6a6230b769c8b.image.jpg?resize=300%2C200",
+      "published": "2026-07-23 15:15:00",
       "category": [
         "politics",
         "top"
@@ -63,138 +33,123 @@
       ]
     },
     {
-      "title": "Protesters clash with Albanian police in demonstrations triggered by Kushner resort plan",
-      "description": "TIRANA, July 23 (Reuters) - Albanian police \u2060used water cannons and tear gas on Thursday to disperse protesters who threw \u2060eggs and bottles at officers, in the latest flare-up of demonstrations triggered by \u200cJared Kushner's plans to build a multi-billion-dollar resort.",
-      "link": "https://www.thestar.com.my/news/world/2026/07/23/protesters-clash-with-albanian-police-in-demonstrations-triggered-by-kushner-resort-plan",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/23/4025164.jpg",
-      "published": "2026-07-23 11:57:00",
+      "title": "Kore.ai appoints two chiefs to drive enterprise AI growth",
+      "description": "The restructure puts sales and customer delivery under new leaders as enterprise buyers demand stronger governance, support and reliability from AI agents.",
+      "link": "https://itbrief.co.nz/story/kore-ai-appoints-two-chiefs-to-drive-enterprise-ai-growth",
+      "source": "It Brief New Zealand",
+      "image": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_Uma_Sandilya_and_Rajavardhan_Nalluri.jpg",
+      "published": "2026-07-23 15:15:00",
       "category": [
-        "crime",
+        "technology",
         "top"
       ],
       "country": [
-        "malaysia"
+        "new zealand"
       ]
     },
     {
-      "title": "Nashville Nights",
-      "description": null,
-      "link": "https://www.coladaily.com/events/nashville-nights/article_013c5af8-0c39-48f0-95a4-860634bb4c63.html",
-      "source": "Cola Daily",
-      "image": null,
-      "published": "2026-07-23 11:57:00",
+      "title": "meshIQ benchmark finds no single messaging broker wins",
+      "description": "The benchmark underscores that broker choice depends on workload, with each contender excelling in different durable messaging tests.",
+      "link": "https://itbrief.co.nz/story/meshiq-benchmark-finds-no-single-messaging-broker-wins",
+      "source": "It Brief New Zealand",
+      "image": "https://itbrief.co.nz/uploads/story/2026/07/23/compatible_neutral-messaging-server-comparison-technical-background-benchmark-gauges-digital-illustration.jpg",
+      "published": "2026-07-23 15:15:00",
       "category": [
-        "top",
-        "entertainment"
+        "technology",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Media buried lede on Iran war",
+      "description": "Why do so many Americans oppose the war against Iran? The biggest reason is that they do not believe Iran was close to obtaining a nuclear weapon. If Iran was nowhere near a bomb, President Donald Trump\u2019s decision to use...",
+      "link": "https://norfolkdailynews.com/commentary/media-buried-lede-on-iran-war/article_87fc5d4d-d542-4cfb-8c03-bbfb6dc5c694.html",
+      "source": "Norfolk Daily News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/8/7f/87fc5d4d-d542-4cfb-8c03-bbfb6dc5c694/6a62319eaa2bb.preview.jpg?resize=200%2C200",
+      "published": "2026-07-23 15:15:00",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Emmerdale\u2019s Danny Miller pays emotional tribute to wife Steph to mark huge milestone",
-      "description": "Emmerdale star Danny Miller heaped praise on his wife Steph to celebrate their fourth wedding anniversary.",
-      "link": "https://www.digitalspy.com/soaps/emmerdale/a73243041/emmerdale-danny-miller-emotional-tribute-wife-steph-huge-milestone/",
-      "source": "Digital Spy",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/danny-miler-steph-jones-1659346498.jpg",
-      "published": "2026-07-23 11:57:00",
+      "title": "Oncology Pharmacy Teams Support Timely Access to New Breast Cancer Treatments",
+      "description": null,
+      "link": "https://www.pharmacytimes.com/view/oncology-pharmacy-teams-support-timely-access-to-new-breast-cancer-treatments",
+      "source": "Pharmacy Times",
+      "image": null,
+      "published": "2026-07-23 15:15:00",
       "category": [
-        "entertainment",
-        "top"
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NCC Group reports ransomware rise as supply chain risks grow",
+      "description": "Industrial firms remained the main target as global ransomware attacks climbed 3% in Q2, with North America still hardest hit.",
+      "link": "https://securitybrief.co.uk/story/ncc-group-reports-ransomware-rise-as-supply-chain-risks-grow",
+      "source": "Securitybrief Uk",
+      "image": "https://securitybrief.co.uk/uploads/story/2026/07/23/compatible_threatened-machine-factory-cyber-attack-lines-industrial-digital-illustration.jpg",
+      "published": "2026-07-23 15:15:00",
+      "category": [
+        "top",
+        "business"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "FCNR(B) turns litmus test | Explainer",
-      "description": "Discover how FCNR(B) deposits serve as a crucial tool for India's foreign currency resource mobilization amid global financial uncertainties.",
-      "link": "https://www.thehindu.com/business/Economy/fcnrb-turns-litmus-test-explainer/article71257611.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/ryd53g/article71257737.ece/alternates/FREE_1200/Governance-overGE1G8H1R8.4.jpg.jpg",
-      "published": "2026-07-23 11:56:59",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Airtel Nigeria Drives Q1 Growth As Revenue Jumps 50 Percent",
-      "description": "Nigeria emerged as Airtel Africa Plc\u2019s strongest growth market in the quarter ended June 30, 2026, with the telecom operator posting a 50.4 per cent increase in reported revenue, supported by strong demand for data services, higher customer spending and the full impact of tariff adjustments implemented in late 2025. The group\u2019s unaudited financial results... The post Airtel Nigeria Drives Q1 Growth As Revenue Jumps 50 Percent appeared first on New Telegraph .",
-      "link": "https://newtelegraphng.com/airtel-nigeria-drives-q1-growth-as-revenue-jumps-50-percent/",
-      "source": "New Telegraph",
-      "image": "https://newtelegraphng.com/wp-content/uploads/2026/04/Airtel-e1690987635440.webp",
-      "published": "2026-07-23 11:56:57",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Maddock Films Postpones \u2018Prahaar\u2019 Release Amid Box Office Clash",
-      "description": "The much-anticipated film Prahaar, produced by Maddock Films and starring Rajkummar Rao, has been postponed from its original release date. This announcement follows the recent news regarding the delay of another Maddock production, Eetha, which was set to debut on August 28. The move highlights a significant change in the cinematic landscape for August. According [...] The post Maddock Films Postpones \u2018Prahaar\u2019 Release Amid Box Office Clash appeared first on The CSR Journal .",
-      "link": "https://thecsrjournal.in/maddock-films-postpones-prahaar-release-amid-box-office-clash/",
-      "source": "The Csr Journal",
-      "image": "https://thecsrjournal.in/wp-content/uploads/2026/07/prahaar.jpeg",
-      "published": "2026-07-23 11:56:56",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Five detained under Goondas Act in Coimbatore",
-      "description": "COIMBATORE: Five of the nine people arrested for kidnapping, assaulting and attempting to extort Rs 2 lakh from a bakery owner have been detained unde.",
-      "link": "https://timesofindia.indiatimes.com/city/coimbatore/five-detained-under-goondas-act-in-coimbatore/articleshow/132580158.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132580096/132580096.jpg",
-      "published": "2026-07-23 11:56:55",
+      "title": "Where to expect downtown street closures for annual sidewalk sale in Cobourg next week",
+      "description": "Here\u2019s what is to expect when downtown roads are closed next week for Cobourg\u2019s 58th Annual Sidewalk Sale.",
+      "link": "https://www.thepeterboroughexaminer.com/news/where-to-expect-street-closures-for-cobourg-sidewalk-sale/article_46a37c60-fd47-542b-97f2-c5fd7f20a769.html",
+      "source": "The Peterborough Examiner",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thepeterboroughexaminer.com/content/tncms/assets/v3/editorial/4/0f/40f744f3-9c5f-58d9-81a5-03509248badd/6a62690bcf44f.image.jpg?resize=300%2C199",
+      "published": "2026-07-23 15:15:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "india"
+        "canada"
       ]
     },
     {
-      "title": "Billionaire Adani Weighs Airline Launch In Indian Duopoly Market, Sources Say",
-      "description": "The Adani Group is exploring plans to enter India\u2019s airline sector by launching a new carrier or acquiring a stake in an existing airline, according to sources. The move could increase competition in a market dominated by IndiGo and Air India. The group, which operates eight airports, has not taken a final decision yet.",
-      "link": "https://www.freepressjournal.in/business/billionaire-adani-weighs-airline-launch-in-indian-duopoly-market-sources-say",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-23/whc8duxi/HNzyjNrbcAAlG2o.jpeg",
-      "published": "2026-07-23 11:56:55",
+      "title": "'Part of the downtown': Clean Team celebrates 20 years in heart of Missoula",
+      "description": "On Wednesday, the Downtown Clean Team was celebrated for 20 years of service to the heart of Missoula.",
+      "link": "https://missoulian.com/news/local/article_7eb82b18-2517-4cc2-8890-a05e606a2fe1.html",
+      "source": "Missoulian",
+      "image": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/5/65/565c325c-7616-4ce4-87f5-f5f273e39a5d/6a611cd94ae38.image.jpg?resize=300%2C200",
+      "published": "2026-07-23 15:15:00",
       "category": [
-        "top",
-        "business"
+        "lifestyle",
+        "top"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Trainspotting the Musical review \u2014 choose something, anything, but this",
-      "description": null,
-      "link": "https://www.ft.com/content/547a9d2a-6329-4b9f-8ff1-cdbb06b10c6b",
-      "source": "Financial Times",
-      "image": null,
-      "published": "2026-07-23 11:56:54",
+      "title": "House again passes resolution seeking to halt military action in Iran as some Republicans defect",
+      "description": "WASHINGTON \u2014 The House today narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict is increasingly...",
+      "link": "https://www.telegraphherald.com/news/national_world/article_c58cc280-a2d6-5b0b-a4ab-14a8b324dfd0.html",
+      "source": "Telegraph Herald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/6/4b/64b9088a-c13f-5b58-931d-3b06ab9343f0/6a622df83ee3f.image.jpg?resize=300%2C200",
+      "published": "2026-07-23 15:15:00",
       "category": [
-        "top",
-        "entertainment"
+        "politics",
+        "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     }
   ]

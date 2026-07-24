@@ -1,14 +1,44 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Democrats urge IRS watchdog to find out why a top lawyer who clashed with White House left his job",
-      "description": "Democrats seek probe into IRS attorney exit amid concerns of White House influence.",
-      "link": "https://www.dailybulletin.com/2026/07/23/democrats-seek-probe-into-irs-attorney-departure/",
-      "source": "Inland Valley Daily Bulletin",
-      "image": "https://www.dailybulletin.com/wp-content/uploads/2026/07/IRS_White_House_666_4.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-23 11:57:00",
+      "title": "US House votes to halt Iran war, in another symbolic rebuke of Trump",
+      "description": "The Republican-led U.S. House of Representatives backed legislation directing President Donald Trump to halt U.S. military action against Iran, the latest symbolic rebuke of the Republican president from Congress.",
+      "link": "https://mcdowellnews.com/news/nation-world/government-politics/article_5edaa824-9926-52c0-bfb8-83c68f6ba4a7.html",
+      "source": "Mcdowell News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/mcdowellnews.com/content/tncms/assets/v3/editorial/1/e4/1e4b935c-0264-57cc-be4b-e08e338c2813/6a6230b769c8b.image.jpg?resize=300%2C200",
+      "published": "2026-07-23 15:15:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Media buried lede on Iran war",
+      "description": "Why do so many Americans oppose the war against Iran? The biggest reason is that they do not believe Iran was close to obtaining a nuclear weapon. If Iran was nowhere near a bomb, President Donald Trump\u2019s decision to use...",
+      "link": "https://norfolkdailynews.com/commentary/media-buried-lede-on-iran-war/article_87fc5d4d-d542-4cfb-8c03-bbfb6dc5c694.html",
+      "source": "Norfolk Daily News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/8/7f/87fc5d4d-d542-4cfb-8c03-bbfb6dc5c694/6a62319eaa2bb.preview.jpg?resize=200%2C200",
+      "published": "2026-07-23 15:15:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "House again passes resolution seeking to halt military action in Iran as some Republicans defect",
+      "description": "WASHINGTON \u2014 The House today narrowly passed a resolution to halt U.S. military action in Iran, sending a warning to President Donald Trump for the second time as the war has escalated and the future of the conflict is increasingly...",
+      "link": "https://www.telegraphherald.com/news/national_world/article_c58cc280-a2d6-5b0b-a4ab-14a8b324dfd0.html",
+      "source": "Telegraph Herald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/6/4b/64b9088a-c13f-5b58-931d-3b06ab9343f0/6a622df83ee3f.image.jpg?resize=300%2C200",
+      "published": "2026-07-23 15:15:00",
       "category": [
         "politics",
         "top"

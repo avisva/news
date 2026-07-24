@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
+      "description": "Code shack also putting new limits on first-time researchers, and reserving the biggest rewards for a hand-picked group of proven hunters",
+      "link": "https://www.theregister.com/devops/2026/07/23/github-slashes-public-bug-bounty-payouts-as-ai-report-flood-buries-its-security-team/5277046",
+      "source": "The Register",
+      "image": null,
+      "published": "2026-07-23 15:15:00",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

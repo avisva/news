@@ -1,16 +1,31 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 8,
   "results": [
     {
-      "title": "Elisha Wilson",
-      "description": null,
-      "link": "https://www.pratt.edu/people/elisha-wilson/",
-      "source": "Pratt Institute",
-      "image": "https://www.pratt.edu/wp-content/themes/pratt/static/img/og.png",
-      "published": "2026-07-25 05:55:45",
+      "title": "PM Modi Hails Jhandu Kumar's CWG 2026 Bronze Triumph",
+      "description": "Prime Minister Narendra Modi praised Jhandu Kumar for opening India's medal tally at the Commonwealth Games 2026 with a bronze medal in the Men's Heavyweight Para Powerlifting event.",
+      "link": "https://kolkatatoday.com/pm-modi-hails-jhandu-kumar-cwg-2026-bronze",
+      "source": "Kolkata Today",
+      "image": "https://kolkatatoday.com/uploads/2026/07/a741210dc13fdf4a-large.png",
+      "published": "2026-07-25 07:08:00",
       "category": [
         "top",
+        "lifestyle",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Donald Trump suggests LeBron James 'might be racist' in wild attack on NBA star",
+      "description": "President Donald Trump has been involved in a long-running feud with LeBron James, and the latest chapter came on Friday when he suggested the NBA star might be \"a racist\" during the NBA GOAT debate",
+      "link": "https://www.the-express.com/sport/basketball/212664/donald-trump-lebron-james-nba",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/48/590x/212664_1.jpg",
+      "published": "2026-07-25 07:08:00",
+      "category": [
         "sports"
       ],
       "country": [
@@ -18,18 +33,89 @@
       ]
     },
     {
-      "title": "Shani Powell",
-      "description": null,
-      "link": "https://www.pratt.edu/people/shani-powell/",
-      "source": "Pratt Institute",
-      "image": "https://www.pratt.edu/wp-content/themes/pratt/static/img/og.png",
-      "published": "2026-07-25 05:55:44",
+      "title": "Scottie Scheffler makes feelings clear on PGA Tour crowd",
+      "description": "World No. 1 Scottie Scheffler shot a six-under opening round at the 3M Open at TPC Twin Cities, where he spoke about the large gallery following him",
+      "link": "https://www.the-express.com/sport/golf/212665/scottie-scheffler-pga-tour-3m",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/53/590x/212665_1.jpg",
+      "published": "2026-07-25 07:08:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US Open 2026 entry list has 10 big names missing as Emma Raducanu fate confirmed",
+      "description": "The 2026 US Open entry list has been released with notable absentees including Jack Draper, while Emma Raducanu remains on the list despite not playing since her Wimbledon withdrawal",
+      "link": "https://www.the-express.com/sport/tennis/212666/us-open-entry-list-raducanu",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/52/590x/212666_1.jpg",
+      "published": "2026-07-25 07:08:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NFL star forced to retire at 28 after suffering neck injury during game",
+      "description": "Arizona Cardinals tight end Travis Vokolek has announced his retirement at age 28 following a serious neck injury suffered during October's game against the Indianapolis Colts",
+      "link": "https://www.the-express.com/sport/american-football/212667/travis-vokolek-retires-cardinals-nfl",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/47/590x/212667_1.jpg",
+      "published": "2026-07-25 07:08:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Adrian Newey confirms Aston Martin management \"tweaks\", \"can't comment\" on Christian Horner speculation",
+      "description": "Christian Horner has been linked with several teams since getting fired from Red Bull. Adrian Newey would not comment on rumors linking his former boss with Aston Martin.",
+      "link": "https://www.grandprix247.com/formula-1-news/adrian-newey-confirms-aston-martin-management-tweaks-cant-comment-on-christian-horner-speculation",
+      "source": "Grand Prix 247",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgrandprix247.com%2Fimages%2F2026-01%2Fnewey-horner.jpg",
+      "published": "2026-07-25 07:08:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "germany"
+      ]
+    },
+    {
+      "title": "Cathal Doyle ready for another 'dog fight' with rival Coscoran in drive for five",
+      "description": "The 28-year-old has won the last four men\u2019s 1500m titles at the 123.ie National Track and Field Championships.",
+      "link": "https://www.irishexaminer.com/sport/othersport/arid-41885257.html",
+      "source": "Irish Examiner",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10337/5168749_7_articlelarge_2861515-copy.jpg",
+      "published": "2026-07-25 07:08:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "McDonald back on the double to cap record-equalling season",
+      "description": "Premier jockey James McDonald was back in action in Sydney for the first time in two months and he made his presence felt with a double.",
+      "link": "https://www.brisbanetimes.com.au/sport/racing/mcdonald-back-on-the-double-to-cap-record-equalling-season-20260725-p60ihc.html",
+      "source": "Brisbane Times",
+      "image": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/6f41834efeceb3a11d9a17c1f0dc7aa28284ae7a",
+      "published": "2026-07-25 07:07:55",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

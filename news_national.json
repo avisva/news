@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "US-Iran war live updates: US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
+      "description": "The US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened \u201cmajor military punishment\u201d for Tehran and its Houthi allies in Yemen.",
+      "link": "https://indianexpress.com/article/world/us-iran-war-news-live-updates-strait-of-hormuz-trump-strikes-iran-gulf-states-oil-prices-trade-updates-10802487/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/07/US-4-15.jpg",
+      "published": "2026-07-24 23:06:53",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

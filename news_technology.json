@@ -1,21 +1,64 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Canada inaugurates US border bridge after cancelling joint ceremony",
-      "description": "Canada inaugurates US border bridge after cancelling joint ceremony",
-      "link": "https://tribune.net.ph/2026/07/24/canada-inaugurates-us-border-bridge-after-cancelling-joint-ceremony",
-      "source": "Daily Tribune",
-      "image": "https://images.assettype.com/tribune/2026-07-24/3jvjnqst/000C36642F.jpg?w=1200&auto=format",
-      "published": "2026-07-24 21:43:54",
+      "title": "Aerospace fights for young recruits as AI drains talent pool",
+      "description": "FARNBOROUGH, England, July 24 (Reuters) - \u2060For Hassan Butt, a 17-year-old British student volunteering at the Farnborough airshow this week, there was nothing cooler than watching the \u2060planes and thinking about the physics that kept them airborne.",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/07/25/aerospace-fights-for-young-recruits-as-ai-drains-talent-pool",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/25/4027364.jpg",
+      "published": "2026-07-24 23:07:00",
       "category": [
-        "politics",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
+      "description": "SpaceX\u2019s Starship rocket has blasted off on another test flight, this time carrying 20 of the most advanced Starlinks. Towering more than 400 feet, Starship soared from Texas on Friday, a week after a last-second launch abort. It\u2019s the 13th...",
+      "link": "https://www.nvdaily.com/associated_press_national/spacex-launches-starship-on-another-test-flight-this-time-with-the-most-advanced-starlinks/article_2df83e40-03a3-53b5-9ec0-85286ce5e602.html",
+      "source": "Nvdaily",
+      "image": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/7/17/71764b49-6377-5631-a105-4c12eaa8fa30/6a63efcb74c39.image.jpg?resize=300%2C200",
+      "published": "2026-07-24 23:06:56",
+      "category": [
         "technology",
         "top"
       ],
       "country": [
-        "philippines"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US firm targets 1 gigawatt-hour capacity for defense lithium plant",
+      "description": "EnerSys pivots its South Carolina manufacturing plant to build secure, defense-compliant lithium-ion cells.",
+      "link": "https://us.headtopics.com/news/us-firm-targets-1-gigawatt-hour-capacity-for-defense-85917411",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/24/intengineering/us-firm-targets-1-gigawatt-hour-capacity-for-defen-us-firm-targets-1-gigawatt-hour-capacity-for-defen-8BBCD245624A68D9E4C8147A2D49E8D5.webp",
+      "published": "2026-07-24 23:06:53",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US Navy validates counter submarine tech in Lanternfish 2026 exercise",
+      "description": "Operationally UUVs have grown in relevance across multiple navies worldwide. They can conduct surveillance, mine-laying, and infrastructure reconnaissance.",
+      "link": "https://us.headtopics.com/news/us-navy-validates-counter-submarine-tech-in-lanternfish-85917405",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/24/intengineering/us-navy-validates-counter-submarine-tech-in-lanter-us-navy-validates-counter-submarine-tech-in-lanter-D2D970FDE96317350AEB514A6C30BE7C.webp",
+      "published": "2026-07-24 23:06:53",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

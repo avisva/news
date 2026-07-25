@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "16-Year-Old Develops \u2018Simply Serene\u2019 App to Boost Teen Mental Wellness",
+      "description": "Simply Serene is a new teen mental wellness app created by 16-year-old Anna Kafarski to combine meditation, journaling, and confidence-building techniques.",
+      "link": "https://www.financialcontent.com/article/prunderground-2026-7-24-16-year-old-develops-simply-serene-app-to-boost-teen-mental-wellness",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-24 12:01:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

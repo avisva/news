@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "16-Year-Old Develops \u2018Simply Serene\u2019 App to Boost Teen Mental Wellness",
-      "description": "Simply Serene is a new teen mental wellness app created by 16-year-old Anna Kafarski to combine meditation, journaling, and confidence-building techniques.",
-      "link": "https://www.financialcontent.com/article/prunderground-2026-7-24-16-year-old-develops-simply-serene-app-to-boost-teen-mental-wellness",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-07-24 12:01:00",
+      "title": "14 best LED face masks to brighten, prevent acne and fade wrinkles \u2013 tried and tested",
+      "description": "Plus, we speak to top dermatologists on everything you need to know",
+      "link": "https://www.cosmopolitan.com/uk/beauty-hair/skincare/g37210914/best-led-face-masks/",
+      "source": "Cosmopolitan Uk",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/best-led-face-mask-1674729961.jpg",
+      "published": "2026-07-24 16:07:00",
       "category": [
-        "health"
+        "health",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Aster Hospital brings next-generation heart imaging to region",
+      "description": "Next-gen OCT heart imaging at Aster Hospital Mankhool delivers high-resolution artery scans in seconds, boosting accuracy in treating heart disease in the Gulf",
+      "link": "https://gulfnews.com/business/corporate-news/aster-hospital-brings-next-generation-heart-imaging-to-region-1.500619277",
+      "source": "Gulf News",
+      "image": "https://media.assettype.com/gulfnews/2026-07-24/pgg9mlog/aster.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-07-24 16:06:48",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
       ]
     }
   ]

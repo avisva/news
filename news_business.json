@@ -1,71 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "This Is When the Federal Debt Actually Matters",
-      "description": null,
-      "link": "https://www.barrons.com/articles/this-is-when-the-federal-debt-actually-matters-fcc8fa4d",
-      "source": "Barron",
-      "image": null,
-      "published": "2026-07-24 23:07:00",
+      "title": "Mountain Brook council to hold public hearing on rezoning for townhomes",
+      "description": "The City Council has a work session at 6:30 p.m. and action meeting at 7 p.m. Monday, July 27.",
+      "link": "https://www.villagelivingonline.com/news/mountain-brook-city-council-meeting-agenda-for-monday-july-2/",
+      "source": "Village Living",
+      "image": "https://www.villagelivingonline.com/downloads/29163/download/Overton_Village_Townhomes2.png?cb=a5615020217fd4e66fd68e0649ab220f&w=550",
+      "published": "2026-07-25 01:19:00",
       "category": [
-        "business",
-        "top"
+        "top",
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Turkmen commodity exchange records cotton yarn export deal",
-      "description": null,
-      "link": "https://www.trend.az/business/4209653.html",
-      "source": "Trend",
-      "image": "https://www.trend.az/media/2026/02/11/scrmet.png",
-      "published": "2026-07-24 23:07:00",
+      "title": "Trump touts US nuclear revival",
+      "description": "\"America is building again. America is dreaming again, and we're leading the world in pioneering the next generation of nuclear power and there's nobody even close,\" Trump said.",
+      "link": "https://www.thehansindia.com/news/international/trump-touts-us-nuclear-revival-1101180",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/24/1681098-trump.webp",
+      "published": "2026-07-25 01:18:20",
       "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "Stifel Financial Corp. 2026 Q2 - Results - Earnings Call Presentation",
-      "description": "2026-07-24. The following slide deck was published by Stifel Financial Corp.",
-      "link": "https://seekingalpha.com/article/4925508-stifel-financial-corp-2026-q2-results-earnings-call-presentation",
-      "source": "Seeking Alpha",
-      "image": "https://seekingalpha.com/samw/static/images/DefaultArticleImage.3b7f26873.png",
-      "published": "2026-07-24 23:06:57",
-      "category": [
+        "top",
         "business"
       ],
       "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Fertilizer-Producing Jordan Exports More",
-      "description": "(MENAFN - Brazil-Arab News Agency (ANBA)) Sa~o Paulo \u2013 Driven by products such as potash, nitrogen fertilizers and apparel, Jordan's exports rose 5.8% in the first five months of this year from the ...",
-      "link": "https://menafn.com/1111442157/Fertilizer-Producing-Jordan-Exports-More",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-07-24 23:06:55",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "saudi arabia",
-        "jordan",
-        "qatar",
-        "pakistan",
-        "egypt",
-        "united arab emirates",
-        "bahrain",
-        "india",
-        "kuwait"
+        "india"
       ]
     }
   ]

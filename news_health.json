@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Support for south Essex dad diagnosed with 'rare' cancer after Specsavers visit",
+      "description": "A 29-year-old dad-of-one from Stanford-le-Hope was diagnosed with a \"rare\" cancer after concerns were raised during a \"routine\" eye test in 2023.",
+      "link": "https://www.thurrockgazette.co.uk/news/26407185.essex-dad-diagnosed-rare-cancer-specsavers-visit/",
+      "source": "Thurrock Gazette",
+      "image": null,
+      "published": "2026-07-25 03:00:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

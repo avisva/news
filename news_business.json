@@ -1,14 +1,60 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Mountain Brook council to hold public hearing on rezoning for townhomes",
-      "description": "The City Council has a work session at 6:30 p.m. and action meeting at 7 p.m. Monday, July 27.",
-      "link": "https://www.villagelivingonline.com/news/mountain-brook-city-council-meeting-agenda-for-monday-july-2/",
-      "source": "Village Living",
-      "image": "https://www.villagelivingonline.com/downloads/29163/download/Overton_Village_Townhomes2.png?cb=a5615020217fd4e66fd68e0649ab220f&w=550",
-      "published": "2026-07-25 01:19:00",
+      "title": "About time, Crystal River",
+      "description": "It was refreshing to see the City of Crystal River Council act within reality this past week. Rebuilding and improving the damaged City Hall is much more in financial reach for a town of approximately 3,400 citizens.",
+      "link": "https://www.chronicleonline.com/opinion/letters_to_editor/about-time-crystal-river/article_f6059149-1304-5f7c-bee2-817d636032ff.html",
+      "source": "Chronicle Online",
+      "image": null,
+      "published": "2026-07-25 03:00:00",
+      "category": [
+        "crime",
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Digital Transformation Strategy Explained: What It Means for Consumers and Businesses in the USA",
+      "description": "Walk into a bank branch that has barely changed in forty years, then open an app that approves a loan in ninety seconds, and you have seen the two ends of the same journey. A digital transformation strategy is the plan a financial firm uses to move from the slow, paper-bound world to the fast, [...] Read the full article on TechBullion.",
+      "link": "https://techbullion.com/digital-transformation-strategy-explained-what-it-means-for-consumers-and-businesses-in-the-usa/",
+      "source": "Techbullion",
+      "image": "https://techbullion.com/wp-content/uploads/2026/07/766902-featured-1024x478.jpg",
+      "published": "2026-07-25 03:00:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Developer offers covenant to block fourplexes in Langley",
+      "description": "A plan to build four suburban homes in Langley resulted in some debate over whether or not it would be possible to prevent the construction of fourplexes there in the [...]",
+      "link": "https://aldergrovestar.com/2026/07/24/developer-offers-covenant-to-block-fourplexes-in-langley/",
+      "source": "Aldergrove Star",
+      "image": "https://aldergrovestar.com/wp-content/uploads/sites/22/2026/07/260723-LAT-Homes-With-Covenants.jpg",
+      "published": "2026-07-25 03:00:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Sound Off for July 25, 2026",
+      "description": null,
+      "link": "https://www.chronicleonline.com/opinion/sound_offs/sound-off-for-july-25-2026/article_2278ea4e-40c1-5290-83b3-71f3b6626301.html",
+      "source": "Chronicle Online",
+      "image": "https://bloximages.newyork1.vip.townnews.com/chronicleonline.com/content/tncms/assets/v3/editorial/8/f2/8f20ba3b-ad57-56e5-9f09-2ee0b034cbad/668ec19fc6f30.image.jpg?resize=300%2C251",
+      "published": "2026-07-25 03:00:00",
       "category": [
         "top",
         "business"
@@ -18,18 +64,18 @@
       ]
     },
     {
-      "title": "Trump touts US nuclear revival",
-      "description": "\"America is building again. America is dreaming again, and we're leading the world in pioneering the next generation of nuclear power and there's nobody even close,\" Trump said.",
-      "link": "https://www.thehansindia.com/news/international/trump-touts-us-nuclear-revival-1101180",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/07/24/1681098-trump.webp",
-      "published": "2026-07-25 01:18:20",
+      "title": "Four-bedroom detached house in Garden Suburb listed for \u00a3550,000",
+      "description": "A four-bedroom detached house in Barry's Garden Suburbs is on the market for \u00a3550,000.",
+      "link": "https://www.barryanddistrictnews.co.uk/news/26298715.four-bedroom-detached-house-barry-sale-550-000/",
+      "source": "Barry And District News",
+      "image": null,
+      "published": "2026-07-25 03:00:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     }
   ]

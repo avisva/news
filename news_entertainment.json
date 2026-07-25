@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Blend Extra: Turn Up the Tradition at German Fest",
+      "description": "Celebrate German Culture in Milwaukee at German Fest! All guests are welcome to immerse themselves in German foods, performances, music and activities.",
+      "link": "https://www.tmj4.com/shows/the-morning-blend/blend-extra-turn-up-the-tradition-at-german-fest",
+      "source": "Tmj4 News",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/851d5ee/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2Fad6%2F44c3f81cadf84cf5a6f4e6d100388208%2Fad6946b411674804bcf6919a2c06ff66%2Fposter_1e5d1eab32c245a39780b02e487c1621.jpg",
+      "published": "2026-07-25 09:53:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Yogi Babu's Kaagangal wraps filming",
+      "description": "Yogi Babu will star alongside Kishore, Vidharth, Lijomol Jose and Guru Somasundaram in Kaagangal",
+      "link": "https://www.newindianexpress.com/entertainment/tamil/2026/Jul/25/tamilnews2026jul24yogi-babus-kaagangal-wraps-filming",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-25/2g4551mr/ac95a5c4_1628_4d89_97b9_789a3b3e97ef.jpg",
+      "published": "2026-07-25 09:52:59",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Strictly Come Dancing reveals five new professional dancers",
+      "description": "Aleksandra Isaeva, Cristian Priori, Lethabo Monametsi, Maddie Ingoldsby and Mark Karmalita will join the BBC show this year.",
+      "link": "https://www.eveningnews24.co.uk/things-to-do/national/26409477.strictly-come-dancing-reveals-five-new-professional-dancers/",
+      "source": "Norwich Evening News",
+      "image": null,
+      "published": "2026-07-25 09:52:27",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

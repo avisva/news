@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "M1ss Jade So now receiving psychological support: 'I will not forget to breathe, smile, and live'",
+      "description": "M1ss Jade So has given a reassuring update, saying that she is now receiving psychological aid after the livestream that alarmed her fans and family.",
+      "link": "https://www.abs-cbn.com/entertainment/showbiz/celebrities/2026/7/25/m1ss-jade-so-now-receiving-psychological-support-i-will-not-forget-to-breathe-smile-and-live-1752",
+      "source": "Abs-cbn",
+      "image": "https://od2-image-api.abs-cbn.com/prod/20260725100748/ffc970e2f3445f6141b0bcc703d141a2116d9dbebeada521a7aabf374b411ed9.jpg",
+      "published": "2026-07-25 09:52:32",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

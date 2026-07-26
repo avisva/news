@@ -1,35 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Chinese economic zone to break ground in Ctg tomorrow",
-      "description": "The zone is expected to boost international trade and foreign investment in a wide range of sectors",
-      "link": "https://www.tbsnews.net/economy/industry/chinese-economic-zone-break-ground-ctg-tomorrow-1497946",
-      "source": "The Business Standard",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/09/08/china_banglades_0.jpg",
-      "published": "2026-07-26 01:15:00",
+      "title": "India\u2019s first hydrogen train saves over 3,200 litres of diesel; Delhi route trials to begin soon",
+      "description": null,
+      "link": "https://www.financialexpress.com/business/railways-indias-first-hydrogen-train-saves-over-3200-litres-of-diesel-delhi-trials-to-begin-soon-4302672/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/07/india-first-hydrogen-train-delhi-route-trials.jpg",
+      "published": "2026-07-26 03:01:53",
       "category": [
-        "top",
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "bangladesh"
+        "india"
       ]
     },
     {
-      "title": "B.C. Place is for sale. Does anyone want it?",
-      "description": "The stadium may not be a cash cow, but it's been a perfectly fine public amenity and an exemplary host, and seems to be only getting better.",
-      "link": "https://ca.news.yahoo.com/b-c-place-sale-does-011452220.html",
-      "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/the_province_articles_845/e2cd7c7e0fa06d53fd139983c1a8b114",
-      "published": "2026-07-26 01:14:52",
+      "title": "Korean won's real effective exchange rate drops to lowest level since 2009",
+      "description": "SEOUL, July 26 (Yonhap) -- The Korean won's real effective exchange rate fell to...",
+      "link": "https://en.yna.co.kr/view/AEN20260726002000320",
+      "source": "Yonhap News Agency",
+      "image": "https://img.yna.co.kr/photo/yna/YH/2026/07/24/PYH2026072410590001300_P2.jpg",
+      "published": "2026-07-26 03:01:48",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "My intention is to settle Mekedatu issue amicably, says CM DK Shivakumar",
+      "description": "Shivakumar said the water available in the state\u2019s reservoirs would first be reserved for drinking water and then for irrigation.",
+      "link": "https://www.newindianexpress.com/states/karnataka/2026/Jul/26/my-intention-is-to-settle-mekedatu-issue-amicably-says-cm-dk-shivakumar",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-26/h6ovzrlt/dk22507chn35.jpg",
+      "published": "2026-07-26 03:01:44",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "canada"
+        "india"
       ]
     }
   ]

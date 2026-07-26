@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Poached eggheads: China lures away 105 top American minds in bid to dominate med, tech fields",
-      "description": "Nearly half of the recent wave of defectors over the last year is in biotechnology and medicine, suggesting China is investing heavily to surpass the United States in medical innovation.",
-      "link": "https://nypost.com/2026/07/25/world-news/china-lures-away-at-least-105-american-scientific-minds/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fhu-haitao-mrna-vaccine-scientist-135388496.jpg?w%3D731",
-      "published": "2026-07-25 11:57:40",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

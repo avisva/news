@@ -1,33 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Can You Trust AI to Choose Your Shares for You?",
-      "description": "Retail investors get AI stock-picking with VanEck's ASX GOAT ETF, selecting 150 global names via AI, backed by a simulated track record.",
-      "link": "https://smallcaps.com.au/article/can-you-trust-ai-to-choose-your-shares-for-you",
-      "source": "Small Caps",
-      "image": "https://assets.smallcaps.com.au/images/articles/can-you-trust-ai-to-choose-your-shares-for-you/cover/E899590ABA78CB23-1785105471726/medium.jpeg",
-      "published": "2026-07-26 22:38:58",
+      "title": "Fed faces growing pressure to hike rates as price risks rebound",
+      "description": "Renewed tensions in the Middle East have sent oil prices soaring again, overshadowing a tamer-than-expected reading on June consumer prices.",
+      "link": "https://www.japantimes.co.jp/business/2026/07/27/economy/fed-pressure-rates-price-risks/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/27/553672.jpg",
+      "published": "2026-07-27 01:36:00",
       "category": [
         "business"
       ],
       "country": [
-        "australia"
+        "japan"
       ]
     },
     {
-      "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report - The Block",
-      "description": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report The Block PeckShield Estimates Triple-A Hack Stole Approximately $9.7 Million in Cryptocurrency CryptoRank Triple-A Hot Wallets Drained of $9.7 Million Across Six Chains: Here's What Peckshield Found Bitcoin News $9.7M Drained Across Ethereum, Solana, TRON, and TON in Triple-A Exploit TradingView Triple A says it can meet all liabilities after treasury wallet exploit Crypto News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0ZweHNxVUZKdWRWd3BseEtXVVJ1NTBGZ3ZtR2pzTUxwMzhtOExob1pIY0VnTVJ0d1h3QlBSUHZEQnhBdWhHNlVRazNNTWZBTm8xZGhvR3I4ang0cWZxOWxORlhSc1lWOVZ6NkNWTkxfai1jOEtmallvaGQ0c1E1SmZRZHF4MnNGa29oR1JxRmhEYnZ3Zl8wM0NRejdoX3dveXVYZG5UUmhfZzZjSEROcUZyU0ItblJ5b1V6VEQzZFdXQQ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-26 22:38:54",
+      "title": "OKQuant.ai Positions Systematic Trading as a Discipline-First Framework for Crypto Traders",
+      "description": "Singapore, Singapore Jul 26, 2026 (Issuewire.com) OKQuant.ai, also known as OKQuant, is highlighting systematic trading",
+      "link": "https://norfolkdailynews.com/online_features/press_releases/okquant-ai-positions-systematic-trading-as-a-discipline-first-framework-for-crypto-traders/article_c5474d0a-5692-585d-9833-ac923afcde91.html",
+      "source": "Norfolk Daily News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/d/c4/dc405d14-c494-5bf9-8220-ef5ac83457a3/6a66c434ebfb2.image.png?resize=300%2C200",
+      "published": "2026-07-27 01:35:54",
       "category": [
+        "top",
         "business"
       ],
       "country": [
-        "singapore"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "AI in banking carries huge financial stability risks",
+      "description": "AI in banking can improve lending and fraud detection, but correlated trading and cloud dependence could turn small failures into financial shocks. #finance #AI",
+      "link": "https://www.policycircle.org/industry/ai-in-banking-financial-stability/",
+      "source": "Policy Circle",
+      "image": "https://www.policycircle.org/wp-content/uploads/2026/07/AI-1.jpg",
+      "published": "2026-07-27 01:35:51",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

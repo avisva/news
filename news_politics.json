@@ -1,20 +1,95 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Report vulnerable people \u2013 minister - The Fiji Times",
-      "description": "SOCIAL media users are being encouraged to report vulnerable people seen on the streets instead of making their stories go viral online. The call was made [...]",
-      "link": "https://www.fijitimes.com.fj/report-vulnerable-people-minister/",
-      "source": "The Fiji Times",
-      "image": "https://www.fijitimes.com.fj/wp-content/uploads/2026/07/Screenshot-2026-07-27-023301-1024x690.png",
-      "published": "2026-07-26 22:38:44",
+      "title": "Trump administration promotes program to check voter eligibility; critics fear a midterm purge",
+      "description": "The Trump administration's voter eligibility checks raise concerns of potential voter purges ahead of the midterm elections.",
+      "link": "https://www.thehindu.com/news/international/trump-administration-promote-program-to-check-voter-eligibility-critics-fear-a-midterm-purge/article70990206.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/imlith/article70990266.ece/alternates/FREE_1200/Trump_41361.jpg",
+      "published": "2026-07-27 01:35:57",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "fiji"
+        "india"
+      ]
+    },
+    {
+      "title": "SERAP Sues NNPCL, Wants Full Disclosure Of N211trn Financial Entries",
+      "description": "The Socio-Economic Rights and Accountability Project (SERAP) has asked the Federal High Court in Abuja to order the Nigerian National Petroleum Company Limited (NNPCL) to explain and account for over N211 trillion recorded under \u201cSundry Receivables\u201d and \u201cAccrued Expenses\u201d in its 2023 audited financial statements. SERAP, in the Freedom of Information suit marked FHC/ABJ/CS/1426/2027, asked [...]",
+      "link": "https://leadership.ng/serap-sues-nnpcl-wants-full-disclosure-of-n211trn-financial-entries/",
+      "source": "Leadership",
+      "image": "https://leadership.ng/wp-content/uploads/2026/03/petrol.jpg",
+      "published": "2026-07-27 01:35:40",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Parliament LIVE: Public Examinations Amendment Bill to be tabled in Lok Sabha today following week of protests over NEET paper leak scam",
+      "description": null,
+      "link": "https://www.financialexpress.com/india-news/parliament-monsoon-session-live-public-examinations-amendment-bill-paper-leak-ethanol-blending-e20-fuel/4303266/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/04/BIRLA_cb996b.jpg",
+      "published": "2026-07-27 01:35:34",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DGMA Issues High Alert for Indian Seafarers Operating in Black Sea After Deadly Attacks",
+      "description": "The Directorate General of Maritime Administration (DGMA) has issued a high-alert advisory directing all Indian-flagged vessels and foreign-flagged ships carrying Indian seafarers to exercise the highest degree of caution while operating in the Black Sea amid escalating security risks. The advisory follows a series of missile and drone attacks on merchant vessels in the region, [...] The post DGMA Issues High Alert for Indian Seafarers Operating in Black Sea After Deadly Attacks appeared first on India Seatrade News .",
+      "link": "https://indiaseatradenews.com/dgma-issues-high-alert-for-indian-seafarers-operating-in-black-sea-after-deadly-attacks/",
+      "source": "India Seatrade News",
+      "image": "https://indiaseatradenews.com/wp-content/uploads/2024/12/Seafarers.jpg",
+      "published": "2026-07-27 01:35:34",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Nearly 150,000 ballots were not counted in California primaries",
+      "description": "Most of the ballots that were rejected were for having a later date on the postmark; an increase was recorded compared to the 2024 primaries",
+      "link": "https://www.news247plus.com/news/world/nearly-150000-ballots-were-not-counted-in-california-primaries-55489",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/55489/Nearly-150000-ballots-were-not-counted-in-California-primaries-news-image-55489.webp",
+      "published": "2026-07-27 01:35:22",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Defiant premier to fight for leadership if challenged",
+      "description": "A state premier has announced she will fight to keep her job, vowing to stand as a candidate if her leadership is put to a vote, just months from election day.",
+      "link": "https://www.blayneychronicle.com.au/story/9317971/defiant-premier-to-fight-for-leadership-if-challenged/?src=rss",
+      "source": "Blayney, Nsw",
+      "image": "https://www.blayneychronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/164f8ad8-9ea5-44e1-8bf7-e44acf76c95b.jpg/r0_75_800_526_w600_h338_fmax.jpg",
+      "published": "2026-07-27 01:35:21",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

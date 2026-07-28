@@ -1,17 +1,46 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "SAP S/4HANA Public Cloud | Business Roles for User Management and Role Management",
-      "description": "Hi SAP Community, I'm setting up the Authorization concept for our SAP S/4HANA Cloud, Public Edition system. My plan is to create 2 separate business roles: One role for User Management One role for Role Management Question: Is this approach reasonable? I'm not yet sure which business catalogs an...",
-      "link": "https://community.sap.com/t5/technology-q-a/sap-s-4hana-public-cloud-business-roles-for-user-management-and-role/qaq-p/14446839",
-      "source": "Sap",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "published": "2026-07-28 08:13:59",
+      "title": "Mohammed Bin Rashid Aerospace Hub advances construction of Sky Support Complex as completion nears",
+      "description": "Dubai: Mohammed Bin Rashid Aerospace Hub (MBRAH), the aerospace platform of Dubai South, has announced that construction of its Sky Support Complex remains on schedule for completion by the end of the third quarter of 2026. The milestone marks further progress in MBRAH's efforts to expand infrastructure and support the growing requirements of the aerospace sector. Located within the Aerospace Supply Chain Zone, the Sky Support Complex is a landside facility covering 16,661 square metres and comprising 14 premium units designed for aviation-related businesses. Upon completion, the complex will offer flexible warehouse, office and commercial spaces, along with dedicated landside access and seamless connectivity to Al Maktoum International Airport and the wider Dubai South ecosystem. The facility is situated within a bonded free zone, providing benefits including 100% foreign ownership, advanced infrastructure and a business-friendly operating environment tailored to the aviation industry. Tahnoon Saif, Chief Executive Officer of MBRAH, said the development reflects the organisation's commitment to supporting the evolving needs of the aviation sector. \"The progress achieved at the Sky Support Complex reflects our continued commitment to developing facilities that support the evolving needs of the aviation industry,\" he said. \"As demand for specialised aerospace facilities continues to grow, we remain focused on delivering premium developments that enable businesses to expand, enhance operational efficiency and benefit from Dubai's world-class aviation ecosystem.\" The Sky Support Complex forms part of MBRAH's broader strategy to strengthen Dubai's position as a leading global aviation and aerospace hub by providing specialised infrastructure for businesses operating across the sector.",
+      "link": "https://www.emirates247.com/business/mohammed-bin-rashid-aerospace-hub-advances-construction-of-sky-support-complex-as-completion-nears/4006",
+      "source": "Emirates24|7",
+      "image": "https://api.emirates247.com/emirates247/uploads/images/2026/07/28/6145.webp",
+      "published": "2026-07-28 10:02:00",
       "category": [
         "technology",
         "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Tesla Opens First Body Shop in Pune, Starts Model Y Test Drives",
+      "description": "Tesla has opened its first authorised body shop in Pune, expanding after-sales support in India. The facility offers collision repair, diagnostics and genuine parts. The EV maker also began test drives for the 2026 Model Y RWD and Model Y L in the city, aiming to strengthen customer experience and service access.",
+      "link": "https://www.freepressjournal.in/tech/tesla-opens-first-body-shop-in-pune-starts-model-y-test-drives",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2025-09-30/0cjfq6o6/Tesla-Car.jpg",
+      "published": "2026-07-28 10:02:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Industry players form alliance to advocate for secure use of open AI tools, amid increased scrutiny over China\u2019s role",
+      "description": "Several tech firms led by NVIDIA have formed the Open Secure AI Alliance, a new coalition emphasizing the importance of open source software in the \u201cglobal economy,\u201d following a push by big companies and startups urging government officials to move away from imposing restrictions on open-weight AI models. \u201cJust as open source created a shared foundation for software, the United States and its partners now face a choice in AI security: whether the defenses that protect our infrastructure will sit inside a few opaque systems or be built on open models, harnesses and tools that any defender can study, adapt and deploy,\u201d according to a July 27 blog post from NVIDIA announcing the new alliance. The post argues, \u201cThe world needs both closed and open models.\u201d Open models are particularly important for cybersecurity \u201cbecause they democratize defensive capabilities, increase transparency for defenders, enable cyber defense while protecting data, and complement frontier closed models with customizable, localized controls,\u201d the post says. In addition, the post says, \u201cOpen source enables massively distributed community-driven and self-controlled defense \u2013 with no single point of failure.\u201d The post highlights the Hugging Face security incident , arguing that it \u201cdelivered a clear reminder: cyber defenders need open, frontier agentic systems for self-defense.\u201d The incident involved an OpenAI model gaining unauthorized access to the Hugging Face platform as part of a performance evaluation. \u201cWhen closed AI tools \u2014 unable to distinguish attackers from defenders \u2014 blocked essential forensic analysis, Hugging Face ran the open-weight GLM 5.2 model on its own infrastructure to analyze more than 17,000 actions and contain the intrusion,\u201d the post says. The alliance has several tech firms including Cisco, Cloudera, Cloudflare, CrowdStrike, Dell Technologies, IBM, Microsoft, NetApp, Palantir. Palo Alto Networks, Red Hat and Salesforce. Hugging Face is also part of the alliance, alongside the Linux Foundation, Capital One, Space X, TrendAI and DoorDash. Several tech firms signed a July 24 open letter on the importance of \u201cOpen Weights and American AI leadership\u201d and nearly 200 startup companies have joined forces to urge the Trump administration to not cut off access to open-weight AI models developed in China. On June 25, several leading AI and tech firms signed onto a Linux Foundation project, known as Akrites , (/node/18196) to address vulnerabilities in open source software and combine resources to address them. The alliance post says, \u201cCybersecurity is among the top three beneficiaries of open source software. The Open Secure AI Alliance \u2014 building on the leadership of the Linux Foundation\u2019s Akrites initiative and OpenSSF community work \u2014 will work to remediate and disclose vulnerabilities using open technologies.\u201d The post contains a call to action for policymakers and regulators. It says, \u201cAs policymakers and regulators grapple with AI safety, it will be crucial to recognize open models, harnesses and security tooling as defensive assets, not liabilities, in AI and cybersecurity policy. Blanket restrictions on open frontier AI systems would weaken defensive capacity and risk concentrating power, dependence and vulnerability in a few closed providers.\u201d The alliance argues, \u201cCompanies and governments should invest in shared open infrastructure for AI defense \u2014 datasets, evaluation frameworks, attack simulators and red-teaming tools \u2014 much as past generations invested in open source software.\u201d -- Sara Friedman (sfriedman@iwpnews.com) Article Type: Daily News Sara Friedman tags: AI Weight: -20",
+      "link": "https://insidecybersecurity.com/daily-news/industry-players-form-alliance-advocate-secure-use-open-ai-tools-amid-increased-scrutiny",
+      "source": "Insidecybersecurity",
+      "image": null,
+      "published": "2026-07-28 10:02:00",
+      "category": [
+        "technology"
       ],
       "country": [
         "united states of america"

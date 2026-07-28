@@ -1,19 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Oprah Winfrey reveals how Beyonce\u0301 appreciated her fan letter: 'I was so blown away'",
-      "description": "Oprah Winfrey reveals how Beyonce\u0301 appreciated her fan letter: 'I was so blown away'Oprah Winfrey opened up about how Beyonce\u0301 surprised her after she attended her Renaissance tour.For those unaware, Beyonce\u0301 kicked off her The Renaissance World Tour in Stockholm on May 10, 2023,...",
-      "link": "https://www.thenews.com.pk/latest/1410464-oprah-winfrey-reveals-how-beyonce-appreciated-her-fan-letter-i-was-so-blown-away",
-      "source": "The News International",
-      "image": "https://www.thenews.com.pk/assets/uploads/2026-07-28/1410464_042951_updates.jpg",
-      "published": "2026-07-28 02:06:00",
+      "title": "Ariana Grande Sues Hackers and Claims They Leaked Unreleased Music",
+      "description": "After years of frustration over leaked music, Ariana Grande is taking the issue to court. According to Billboard, the Grammy-winning artist filed a lawsuit in Los Angeles court Monday and claimed that anonymous hackers stole unreleased music, photos, and video footage that are \u201cpart of her personal and professional creative process and that are not [...] The post Ariana Grande Sues Hackers and Claims They Leaked Unreleased Music appeared first on CBNC .",
+      "link": "https://cbnc.com/ariana-grande-sues-hackers-and-claims-they-leaked-unreleased-music/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/07/ariana-grande-sues-hackers-leak.jpg",
+      "published": "2026-07-28 04:38:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Eva Mendes Reacts to Husband Ryan Gosling\u2019s \u2018Ghost Rider\u2019 Casting",
+      "description": "It was revealed at Comic-Con 2026 that the Oscar-nominated actor would be taking on the Marvel character.",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/eva-mendes-reacts-ryan-gosling-ghost-rider-casting-1236657723/",
+      "source": "The Hollywood Reporter",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Ryan-Gosling-Ghost-Rider-annoucement-getty-H-2026.png",
+      "published": "2026-07-28 04:37:50",
       "category": [
         "entertainment"
       ],
       "country": [
-        "pakistan"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fauci Diaries Reveal Pandemic Chaos, Celebrity Fixation, and Ethics Concerns",
+      "description": "Dr. Anthony Faucis private diaries offer a candid glance into his thoughts and actions during the COVID-19 pandemic, revealing a public health official grappling with a chaotic response and internal rivalries while also dealing with his growing celebrity status. The diaries also raise questions about ethics and potential conflicTs of interest in Fauci's pursuit of awards.",
+      "link": "https://us.headtopics.com/news/fauci-diaries-reveal-pandemic-chaos-celebrity-fixation-86013316",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/28/dcexaminer/fauci-diaries-reveal-pandemic-chaos-celebrity-fixa-fauci-diaries-reveal-pandemic-chaos-celebrity-fixa-45CE8F3D949627F248CD3C387406A3AB.webp",
+      "published": "2026-07-28 04:37:47",
+      "category": [
+        "politics",
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Grim Serial-Killer Show Is No Fairy Tale",
-      "description": "Entertainment takes a permanent holiday with a new serial-killer police procedural premiering Monday on Hulu.",
-      "link": "https://www.mediapost.com/publications/article/416780/",
-      "source": "Mediapost Publications",
-      "image": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2026/07/27/screenshot-2026-07-27-at-83036-am_JGutDmY.png",
-      "published": "2026-07-27 12:00:00",
+      "title": "Sandy & Beaver Canal Days returns to Magnolia July 31-Aug. 1",
+      "description": "Magnolia's Sandy & Beaver Canal Days returns July 31-Aug. 1 with a parade, pageants, pie auction, car show, live music and family activities celebrating the village's canal history and hometown traditions.",
+      "link": "https://www.yourohionews.com/carroll-county/sandy-beaver-canal-days-returns-with-hometown-traditions/1058422",
+      "source": "Your Ohio News",
+      "image": "https://image.yourohionews.com/?imageId=1058426&format=webp&width=1200",
+      "published": "2026-07-27 15:26:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cal Thomas | Bring back 'nattering nabobs'",
+      "description": "President Trump's performance at last Friday's retooled White House Correspondents' Dinner made me nostalgic for the days of Vice President Spiro Agnew, President Richard Nixon's media attack dog. In a speech, Agnew called politicians critical of Nixon administration policies \"nattering...",
+      "link": "https://www.times-news.com/opinion/cal-thomas-bring-back-nattering-nabobs/article_03749573-5a91-4a8f-bb5d-111ec70553bd.html",
+      "source": "The Cumberland Times-news",
+      "image": "https://bloximages.chicago2.vip.townnews.com/times-news.com/content/tncms/assets/v3/editorial/b/32/b3225dc3-06fa-5bbb-9bb3-4310aef57621/53e1c84e76f4c.preview-300.jpg",
+      "published": "2026-07-27 15:26:00",
       "category": [
         "entertainment"
       ],
@@ -17,18 +32,18 @@
       ]
     },
     {
-      "title": "Kaltura Delivers Record-Scale Live Streaming for the 2026 FIFA World Cup, Previews Agentic Avatar Experiences for Live Sports",
-      "description": "Kaltura-powered TV services carried more than 1.3 billion playback sessions and peaked at 7 million concurrent sessions across three regions, with AI agents augmenting engineering operations in real time Kaltura-powered TV services carried more than 1.3 billion playback sessions and peaked at 7 million concurrent sessions across three regions, with AI agents augmenting engineering operations in real time",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/07/27/3333462/0/en/Kaltura-Delivers-Record-Scale-Live-Streaming-for-the-2026-FIFA-World-Cup-Previews-Agentic-Avatar-Experiences-for-Live-Sports.html",
-      "source": "Globenewswire_fr",
-      "image": null,
-      "published": "2026-07-27 12:00:00",
+      "title": "Singer Carly Simon diagnosed with Parkinson\u2019s disease and skin cancer",
+      "description": "The You\u2019re So Vain singer said her absence from the spotlight has been due to her health issues.",
+      "link": "https://www.irishnews.com/entertainment/singer-carly-simon-diagnosed-with-parkinsons-disease-and-skin-cancer-UCMS2PIVQFJFPFMO4UND5LCMTU/",
+      "source": "The Irish News",
+      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/0t92TR2gHQy05KAaFi9Ws1tbcus=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/5SW6BPH7CZP7XLYPX3RDIHMI2M.jpg",
+      "published": "2026-07-27 15:25:59",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "france"
+        "united kingdom"
       ]
     }
   ]

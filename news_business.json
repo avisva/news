@@ -1,15 +1,16 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Siebert Financial partners with Kakao Pay Securities to Launch Trading of 24-hr Tokenized Korean Stocks",
-      "description": "The strategic partnership expands to give American investors access to South Korean equities, while creating a platform for future financial products.",
-      "link": "https://www.globenewswire.com/news-release/2026/07/27/3333440/0/en/Siebert-Financial-partners-with-Kakao-Pay-Securities-to-Launch-Trading-of-24-hr-Tokenized-Korean-Stocks.html",
-      "source": "Globe Newswire",
-      "image": null,
-      "published": "2026-07-27 12:00:00",
+      "title": "AG Griffin announces multistate settlement with 23andMe over genetic data breach",
+      "description": "Arkasnas Attorney General Tim Griffin has issued a statement following a settlement with the genetic-testing company, 23andMe.",
+      "link": "https://katv.com/news/ag-griffin-announces-multistate-settlement-with-23andme-over-genetic-data-breach",
+      "source": "Katv",
+      "image": "https://katv.com/resources/media2/16x9/660/1320/0x72/90/242fe594-447b-426b-82d1-23ab6d0fecf0-23andme_lg.jpg",
+      "published": "2026-07-27 15:25:59",
       "category": [
+        "top",
         "business"
       ],
       "country": [
@@ -17,26 +18,12 @@
       ]
     },
     {
-      "title": "Dr. Brandy Zachary and TDZ Functional Medicine Academy Earn Five Stevie\u00ae Awards in the Third Annual Stevie Awards for Technology Excellence, Including Two Golds",
-      "description": "From Lifetime Achievement to Technical Innovation, TDZ-FMA's Clinical AI Ecosystem and Practitioner Platform Earn Recognition Across the 2026 Stevie Awards for Technology Excellence SHERIDAN, Wyo., July 27, 2026 /PRNewswire/ -- Dr. Brandy Zachary, DC, IFMCP, founder and CEO of The Dr Z...",
-      "link": "https://www.prnewswire.com/news-releases/dr-brandy-zachary-and-tdz-functional-medicine-academy-earn-five-stevie-awards-in-the-third-annual-stevie-awards-for-technology-excellence-including-two-golds-302834775.html",
-      "source": "Pr Newswire",
-      "image": "https://i.ytimg.com/vi/2jgHHT5jbdk/hqdefault.jpg",
-      "published": "2026-07-27 12:00:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "4 London restaurants to close in weeks as chain shutting all 195 UK sites",
-      "description": "A total of 106 Beefeater and 89 Brewers Fayre restaurants across the UK will be shutting for good in September, including 4 in London.",
-      "link": "https://www.london-now.co.uk/news/26412203.beefeater-brewers-fayre-sites-london-close/",
-      "source": "This Is Local London",
-      "image": "https://www.london-now.co.uk/resources/images/21232876/",
-      "published": "2026-07-27 12:00:00",
+      "title": "Develop North provides \u00a31.95m backing for regeneration of former Tyne shipyard",
+      "description": "Work can now begin on the initial phase of the Kelly's Wharf project",
+      "link": "https://www.business-live.co.uk/enterprise/develop-north-provides-195m-backing-34360314",
+      "source": "Business Live",
+      "image": "https://i2-prod.business-live.co.uk/incoming/article34360506.ece/ALTERNATES/s615/0_TKR_NJL_270726KellysWharf_01.jpg",
+      "published": "2026-07-27 15:25:54",
       "category": [
         "top",
         "business"
@@ -46,12 +33,12 @@
       ]
     },
     {
-      "title": "Franklin Electric Declares Quarterly Dividend of $0.28 Per Share",
-      "description": "FORT WAYNE, Ind., July 27, 2026 (GLOBE NEWSWIRE) -- Franklin Electric Co., Inc. (NASDAQ: FELE) announced today that its Board of Directors declared a quarterly cash dividend of $0.28 per share payable August 20, 2026, to shareholders of record on August 6, 2026.",
-      "link": "https://www.globenewswire.com/news-release/2026/07/27/3333439/11167/en/Franklin-Electric-Declares-Quarterly-Dividend-of-0-28-Per-Share.html",
-      "source": "Globe Newswire",
-      "image": null,
-      "published": "2026-07-27 12:00:00",
+      "title": "Bora Pocket 350-Piece Hole Screws Assortment Kit for $15 + free shipping w/ Prime",
+      "description": "At Amazon, get the Bora Pocket 350-Piece Hole Screws Assortment Kit for $15. It's the best price Amazon has charged for this kit. Buy Now at Amazon Features 350-piece assortment of coarse-thread pocket hole screws Includes 100 each of 1\" and 1-1/4\" screws, 100 of 1-1/2\", and 50 of 2\" Square drive, pan head/washer head design Color-coated steel construction resists rust and oxidation Suitable for indoor and outdoor woodworking projects Compatible with Auto-Jig pocket hole systems",
+      "link": "https://www.dealnews.com/Bora-Pocket-350-Piece-Hole-Screws-Assortment-Kit-for-15-free-shipping-w-Prime/21934497.html?iref=rss",
+      "source": "Dealnews",
+      "image": "https://d.dlnws.com/64599/1785165946-product-trimmed.jpg?h=124&w=125",
+      "published": "2026-07-27 15:25:52",
       "category": [
         "business"
       ],
@@ -60,63 +47,13 @@
       ]
     },
     {
-      "title": "Cotality Certified as a Great Place to Work Certification for Third Consecutive Year",
-      "description": "IRVINE, Calif.--(BUSINESS WIRE)--Cotality has achieved the Great Place to Work\u00ae Certification for the third consecutive year across six countries, with 86% of employees endorsing it.",
-      "link": "http://www.businesswire.com/news/home/20260727371170/en/Cotality-Certified-as-a-Great-Place-to-Work-Certification-for-Third-Consecutive-Year/?feedref=JjAwJuNHiystnCoBq_hl-a2-DX8EjssEmMYWAmn7L6JnP4KQ0-VuR_Ed1_p6a8aSQvj2g8ZtgMSWm4nAO4sO4nr0TKd7CILvKt8KtThduJU_d6mxM68GteRxmy6jDm8WOZiG4SwpSv6tLEhMuQ8iTnO1u3OvtUKtPLlU5Ry9otk%3D",
-      "source": "Businesswire",
-      "image": "https://mms.businesswire.com/media/20260727371170/en/2574949/21/Cotality_Lockup_RGB_Earth.jpg",
-      "published": "2026-07-27 12:00:00",
+      "title": "S&P 500 earnings guidance hits strongest level in over a decade",
+      "description": "S&P 500 firms are beating earnings guidance estimates by the most in 15 years.",
+      "link": "https://seekingalpha.com/news/4618836-sp-500-earnings-guidance-hits-strongest-level-in-over-a-decade?feed_item_type=news",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260474979/image_2260474979.jpg?io=getty-c-w1280",
+      "published": "2026-07-27 15:25:45",
       "category": [
-        "business"
-      ],
-      "country": [
-        "australia",
-        "china",
-        "canada",
-        "japan",
-        "france",
-        "united kingdom",
-        "germany",
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Now Hiring: Trident Maritime Systems seeks welders, CNC machinists and more",
-      "description": "The business has operations in Wisconsin and the upper peninsula of Michigan.",
-      "link": "http://www.mynews13.com/fl/orlando/news/2026/06/18/now-hiring--trident-maritime-systems",
-      "source": "Spectrum News 13",
-      "image": "https://s7d2.scene7.com/is/image/TWCNews/Trident_1",
-      "published": "2026-07-27 12:00:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Seven Hills Realty Trust Closes $24.3 Million First Mortgage Loan to Refinance a Retail Property in Park City, Utah",
-      "description": "Seven Hills Realty Trust (Nasdaq: SEVN) today announced the closing of a $24.3 million first mortgage loan to refinance Kimball on Main, a 25,000 square foot retail property located in Park City, Utah.",
-      "link": "https://www.financialcontent.com/article/bizwire-2026-7-27-seven-hills-realty-trust-closes-243-million-first-mortgage-loan-to-refinance-a-retail-property-in-park-city-utah",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-07-27 12:00:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The Local Marketing Funnel: Turning Awareness Into Customers",
-      "description": "Local businesses in Alberta are finding that visibility alone is not always enough to drive sales in a competitive market.",
-      "link": "https://www.airdriecityview.com/great-west-media-marketing/the-local-marketing-funnel-turning-awareness-into-customers-12591279",
-      "source": "Airdrie News",
-      "image": "https://www.vmcdn.ca/f/files/stalberttoday/advertising-and-marketing-blog/in-union-there-is-strength-a-group-of-colleagues-2026-01-09-11-06-29-utc.jpg",
-      "published": "2026-07-27 12:00:00",
-      "category": [
-        "top",
         "business"
       ],
       "country": [
@@ -124,18 +61,17 @@
       ]
     },
     {
-      "title": "Data centers require substantial water, energy. Sustainable practices, technology can lessen impact",
-      "description": "Companies planning Fort Worth data centers detail resource usage, sustainability in face of growing concern in North Texas.",
-      "link": "https://fortworthreport.org/2026/07/27/data-centers-require-substantial-water-energy-sustainable-practices-technology-can-lessen-impact/",
-      "source": "Fort Worth Report",
-      "image": "https://fortworthreport.org/wp-content/uploads/2026/07/IMG_0352-300x200.jpg",
-      "published": "2026-07-27 12:00:00",
+      "title": "Oil Prices Fall To $90.24 As US-Iran Pause In Hostilities Eases Supply Fears",
+      "description": "Oil prices plunge to $90.24 per barrel after US and Iran suspend attacks, easing supply fears and market tensions.",
+      "link": "https://www.arise.tv/oil-prices-fall-to-90-24-as-us-iran-pause-in-hostilities-eases-supply-fears/",
+      "source": "Arise News",
+      "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2021/12/Crude-Oil-Prices.jpeg",
+      "published": "2026-07-27 15:25:45",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     }
   ]

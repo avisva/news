@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "SAP S/4HANA Public Cloud | Business Roles for User Management and Role Management",
+      "description": "Hi SAP Community, I'm setting up the Authorization concept for our SAP S/4HANA Cloud, Public Edition system. My plan is to create 2 separate business roles: One role for User Management One role for Role Management Question: Is this approach reasonable? I'm not yet sure which business catalogs an...",
+      "link": "https://community.sap.com/t5/technology-q-a/sap-s-4hana-public-cloud-business-roles-for-user-management-and-role/qaq-p/14446839",
+      "source": "Sap",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "published": "2026-07-28 08:13:59",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

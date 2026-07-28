@@ -1,19 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Olympic gold medalist Pat Spurgin recalls Billings roots - KTVQ",
-      "description": "Olympic gold medalist Pat Spurgin recalls Billings roots KTVQ",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ3JzR1RpdjhsQ2pqLTF0bVU1Q3lpUGJmVzJnd3JaSl94WWxkLXJQVlYwTURxNzRYZE9sdzludDJhWmJ4VnVYQ2RmbG5McmNVbnRodUdYbWktMGxERmtrY2pYUDhtR3RwdzdTTnptb2FLMWZFRjNHM1RicGNVU1UzVDBDZl93dDdodlE?oc=5",
-      "source": "Scenenewspaper.com",
-      "image": null,
-      "published": "2026-07-27 15:25:56",
+      "title": "Mayank Yadav Creates History, Becomes First Player In The World To Achieve Unprecedented Feat",
+      "description": "Mayank Yadav set a unique world record during the series against Zimbabwe. He made a comeback to the national team after two years. He took five wickets in three games, which included the dismissal of Brian Bennett for a golden duck twice.",
+      "link": "https://www.timesnownews.com/sports/cricket/mayank-yadav-creates-history-becomes-first-player-in-the-world-to-achieve-unprecedented-feat-article-155188710",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155188939,thumbsize-537805,width-1280,height-720,resizemode-75/155188939.jpg",
+      "published": "2026-07-27 18:23:53",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "D-Wave Quantum Stock Jumps on Major AT&T Deal Expansion",
+      "description": "D-Wave Quantum Wins Expanded AT&T Agreement, Sending Stock Higher",
+      "link": "https://ca.finance.yahoo.com/news/d-wave-quantum-stock-jumps-182349388.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "published": "2026-07-27 18:23:49",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

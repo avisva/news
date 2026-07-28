@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Biotech And AI Stocks Got Hit On Mixed News",
+      "description": null,
+      "link": "https://finimize.com/content/biotech-and-ai-stocks-got-hit-on-mixed-news",
+      "source": "Finimize",
+      "image": null,
+      "published": "2026-07-27 18:23:55",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

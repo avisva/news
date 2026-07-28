@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Federal survey shows promising trends for youth mental health and drug use",
+      "description": "The report\u2019s future was uncertain after the team that published it was laid off.",
+      "link": "https://www.news-herald.com/2026/07/27/mental-health-survey/",
+      "source": "News-herald",
+      "image": "https://www.news-herald.com/wp-content/uploads/2026/07/Medicaid_New_York_68413.jpg?w=1600&resize=1600,900",
+      "published": "2026-07-27 18:24:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Rural Health Inc. marks National Health Center Week with 48 years of serving Southern Illinois",
+      "description": "Aug. 2 through 8 is National Health Center Week (NHCW), an annual event sponsored by the National Association of Community Health Centers (NACHC) to celebrate and increase awareness of America\u2019s Community Health Centers (CHCs). NHCW is an opportunity to highlight...",
+      "link": "https://thesouthern.com/news/rural-health-inc-marks-national-health-center-week-with-48-years-of-serving-southern-illinois/article_edcbc264-8f7e-5611-bf73-9604a49f3776.html",
+      "source": "Southern Illinoisan",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/7/8f/78ffa7e3-c318-5fa8-88a9-02785b17ea39/6a67d3ccee82f.image.png?resize=300%2C158",
+      "published": "2026-07-27 18:24:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

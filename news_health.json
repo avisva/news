@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "More news for Tuesday, July 28",
+      "description": "Younger generations say they won\u2019t take care of baby boomers ... 93% of those in their 70s now eligible for statins under new guidelines ... Armed man killed after holding 2 hostage at assisted living community following family dispute ... 157 assisted living residents evacuated after roof collapse",
+      "link": "https://www.mcknightsseniorliving.com/news/more-news-for-tuesday-july-28-2026/",
+      "source": "Mcknight's Senior Living",
+      "image": "https://www.mcknightsseniorliving.com/wp-content/uploads/sites/3/2022/05/newspaper_GettyImages-169808021_1440x810.jpeg",
+      "published": "2026-07-28 02:06:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Form 4 United Therapeutics Corporation For: 27 July",
+      "description": null,
+      "link": "https://www.investing.com/news/filings/form-4-united-therapeutics-corporation-for-27-july-93CH-4815388",
+      "source": "Investing Us",
+      "image": null,
+      "published": "2026-07-28 02:05:44",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

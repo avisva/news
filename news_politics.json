@@ -1,51 +1,34 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Gandhi versus Pralhad Joshi: \u2018Defended rapists\u2019 remarks by Priyanka, leads to \u2018authenticate it\u2019 challenge",
-      "description": "Priyanka Gandhi trained her guns at Joshi during the debate on the anti-paper leak Bill in the Lok Sabha. She was the first MP to attack Pralhad Joshi. She said, \u201cThe Prime Minister appointed a new educations minister, a person who expressed consent and even happiness over the release of those convicted of raping pregnant woman.\u201d",
-      "link": "https://www.news9live.com/india/gandhi-versus-pralhad-joshi-defended-rapists-remarks-by-priyanka-leads-to-authenticate-it-challenge-2994283",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Priyanka-and-Joshi.jpg",
-      "published": "2026-07-28 14:41:00",
+      "title": "Bodycam video shows Tony Romo arrest on suspicion of impaired driving",
+      "description": "Bodycam video of the arrest of former Dallas Cowboys quarterback Tony Romo, after he was pulled over and taken into custody on suspicion of intoxicated driving in Milwaukee on July 23.",
+      "link": "https://www.nbcboston.com/news/local/bodycam-video-shows-tony-romo-arrest-on-suspicion-of-impaired-driving/3988683/",
+      "source": "Necn",
+      "image": "https://media.nbcboston.com/2026/07/Tony-romo-arrest.png?fit=735,413&quality=85&strip=all",
+      "published": "2026-07-28 17:49:58",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ramesh Chennithala visits Changanassery archeparchy headquarters",
+      "description": "Ramesh Chennithala visits Changanassery archeparchy headquarters",
+      "link": "https://timesofindia.indiatimes.com/city/kochi/ramesh-chennithala-visits-changanassery-archeparchy-headquarters/articleshow/132691774.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132566854/132566854.jpg",
+      "published": "2026-07-28 17:49:50",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Kaduna: Tinubu Deploys Security Personnel To Hunt Down Killers Of 30 Naridon Village Residents",
-      "description": "President Bola Tinubu has condemned in strong terms the recent attack on innocent citizens in Naridon Village in Kamaru Ward, Kauru Local Government Area of Kaduna State. While describing the...",
-      "link": "https://independent.ng/kaduna-tinubu-deploys-security-personnel-to-hunt-down-killers-of-30-naridon-village-residents/",
-      "source": "Independentng",
-      "image": "https://independent.ng/wp-content/uploads/2026/07/Bola-Ahmed-Tinubu.jpg",
-      "published": "2026-07-28 14:40:59",
-      "category": [
-        "politics",
-        "crime",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Trump jabs at Netanyahu ahead of White House meeting",
-      "description": "Trump took a dig at Netanyahu, saying he did not need his updates on Iran and made it clear that he would prefer an agreement to war at this stage.",
-      "link": "https://www.israelnationalnews.com/news/430894",
-      "source": "Israelnationalnews",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1222443.jpg",
-      "published": "2026-07-28 14:40:57",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "israel"
       ]
     }
   ]

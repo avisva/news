@@ -1,12 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 23,
   "results": [
     {
       "title": "July's full Buck Moon leads a mini planet parade through the summer sky tonight - Space",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY0lXU0Z5UU1OZlZYdmxyXzBxRjM0Q0JmaXQwRHNIZnlOeV91ek91cExscVlRWkJ3UjcwTThGRzE3VEdmbmVncU5PXzU2cmdXaWNtS045d2JqU2hMTEVnZ2k0Nl9fU05sWndwZFRMTWdiYmhWN1U2eEZtbFVsQVNHakVCOHJieTBFME9SMmphWFF0WTZoSzZSZmx3b1NrRk03blNST1RqUGJXcFYtN3Zz?oc=5",
       "published": "Wed, 29 Jul 2026 10:27:39 GMT",
       "source": "Space",
+      "category": "science"
+    },
+    {
+      "title": "Hubble Data Reveals Sharp Slowdown In Star Formation Across Andromeda Galaxy - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXBXdzZWQ1RVZWZsSVo0b3NpX0p5TmVnZG5KMXB2Z3ZEVDZTamx2OEhKLVFvNTVWdTVJNktSakdwNUt3bEsyWTJYRk1LSlVoRE45clFqbzBsTHlKSjNOMUg2c3pqV1dhYmpjdkFDaHJyaVdsamgzQXBNdmkxenhrVVRRS2J6SEc4MGhyalJNLWdsSXJObmRYNXU3MXFpWUFnd05HWDZ4emE3TTJieTA3X25TWkFicW9RaXI4RVJEOEQ4TlBReVVHeEhGRdIB0AFBVV95cUxPNzB3bV9rSGxLM1VudUtXYWYzTGRFeURISTNhNU92cl8yaXFxTTA5c1VQRjRTeFdObE1tOUZJSkZhVTlFQ3d2MEpOMU1ORzJLSTRoYWEwbENlYkRlcjhxZEZYTnFtWnl6eXI5a3hVdG1TNkhjZ0NJa1lKLXhfVjVkN0w3YzBaN2dOWkt3QlhzcjUtUWZib2d4Z3djcDZHZ2RSZnhpb21uTmEzdVM0T0NYakoxOEwzUnJTd0UwWUF0SDhBZGc2d29OUDZQLVVCUDJl?oc=5",
+      "published": "Wed, 29 Jul 2026 11:29:06 GMT",
+      "source": "ETV Bharat",
       "category": "science"
     },
     {
@@ -21,13 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUNMSUdEeXFpVm9KT290SUNfcE81S3pQNDdka2N6d09tQmZ3M1R0eU1HSkFMUW9hZ0dpWk9yVjNnLVRpSnZvOFdrb1Bqd3dYQUVxRUxwQWZ5M3hjc2xRQ2JPZ2h5bmxYb012Q1QwZHZ3ZkVoMnVMMWZ0QVU2Tk5CUA?oc=5",
       "published": "Wed, 29 Jul 2026 13:38:53 GMT",
       "source": "Sci.News",
-      "category": "science"
-    },
-    {
-      "title": "Hubble Data Reveals Sharp Slowdown In Star Formation Across Andromeda Galaxy - ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXBXdzZWQ1RVZWZsSVo0b3NpX0p5TmVnZG5KMXB2Z3ZEVDZTamx2OEhKLVFvNTVWdTVJNktSakdwNUt3bEsyWTJYRk1LSlVoRE45clFqbzBsTHlKSjNOMUg2c3pqV1dhYmpjdkFDaHJyaVdsamgzQXBNdmkxenhrVVRRS2J6SEc4MGhyalJNLWdsSXJObmRYNXU3MXFpWUFnd05HWDZ4emE3TTJieTA3X25TWkFicW9RaXI4RVJEOEQ4TlBReVVHeEhGRdIB0AFBVV95cUxPNzB3bV9rSGxLM1VudUtXYWYzTGRFeURISTNhNU92cl8yaXFxTTA5c1VQRjRTeFdObE1tOUZJSkZhVTlFQ3d2MEpOMU1ORzJLSTRoYWEwbENlYkRlcjhxZEZYTnFtWnl6eXI5a3hVdG1TNkhjZ0NJa1lKLXhfVjVkN0w3YzBaN2dOWkt3QlhzcjUtUWZib2d4Z3djcDZHZ2RSZnhpb21uTmEzdVM0T0NYakoxOEwzUnJTd0UwWUF0SDhBZGc2d29OUDZQLVVCUDJl?oc=5",
-      "published": "Wed, 29 Jul 2026 11:29:06 GMT",
-      "source": "ETV Bharat",
       "category": "science"
     },
     {
@@ -52,13 +52,6 @@
       "category": "science"
     },
     {
-      "title": "Astronomers Observe Companion Star Orbiting Stellar Giant Betelgeuse - ASHARQ AL-AWSAT English",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXlkRVJfdnVTUnVZdmlibGZ3UkdtUGkzZHdTaTA0cHJ0cmhxaXhfdDhrSW5qQ2lqTTBKRHVwaFY3dDNZNldTOUtCaUN1V3I5Vk5NZThqb25uZVdzY0tTanNmLTRlUy1GRlFPUnZkY3RxcU5kM2dheVh2TElrU2NVd2VJZHZsQ3dEcHpsVnpKWmQwZEl0MnhhSmk2WGJTUUlUb0h0WXctaHhzODl4V3FPU3p0QQ?oc=5",
-      "published": "Wed, 29 Jul 2026 09:15:16 GMT",
-      "source": "ASHARQ AL-AWSAT English",
-      "category": "science"
-    },
-    {
       "title": "Smart Medical Dressing Offers Bespoke Healing - Inside Precision Medicine",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeEg2dXYwMHBNdmM1cndHQ0p3akJLT25sU2g5NFpCV3BBLTBDNFlSWVRHVkF3OE5oWTN4WlBJNTFnOUZXTURIVDl0Rm5wZDUzcVJqWG9OemY0SGFzYkRNRVhrRWZvRmN5R292LVZOQ1ROM2l6S0w5WGdEaEVWbURvTTR3b0FEdTR5QjBQcE5qTDR4RThjSm5BRkF2Nzh3Tnlya2tRanlqSk9OTXlScXdpc3FR?oc=5",
       "published": "Tue, 28 Jul 2026 15:30:30 GMT",
@@ -70,6 +63,20 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2c2QzRDZjWFRvOGVRR2d3eVVmNHo5dUtCeWNJY1h3Ulh6cnF5NjRscVFxNGluV1RKLW1tWU5Hb1hyZEllNW5FUEtKUzFKMThOOGZrNVJSaF9xNkZGa3ZnOQ?oc=5",
       "published": "Tue, 28 Jul 2026 07:09:00 GMT",
       "source": "AZoCleantech",
+      "category": "science"
+    },
+    {
+      "title": "Astronomers Observe Companion Star Orbiting Stellar Giant Betelgeuse - ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXlkRVJfdnVTUnVZdmlibGZ3UkdtUGkzZHdTaTA0cHJ0cmhxaXhfdDhrSW5qQ2lqTTBKRHVwaFY3dDNZNldTOUtCaUN1V3I5Vk5NZThqb25uZVdzY0tTanNmLTRlUy1GRlFPUnZkY3RxcU5kM2dheVh2TElrU2NVd2VJZHZsQ3dEcHpsVnpKWmQwZEl0MnhhSmk2WGJTUUlUb0h0WXctaHhzODl4V3FPU3p0QQ?oc=5",
+      "published": "Wed, 29 Jul 2026 09:15:16 GMT",
+      "source": "ASHARQ AL-AWSAT English",
+      "category": "science"
+    },
+    {
+      "title": "Solar eclipse won\u2019t be this big again until 2081 - Fulton Neighbor",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdlhnazJiMnRldEEwb2JsVHBrcG44NFRHOXVCXzA2TVJkdENkM2lQeWFTdlg4SFJhZERnMzRKVnpJS2RBRmZEM1JwRzBWT1JaR1ZqS1d1SVZDeVZWYnFBejlVTlFSRnFhMHlTbHU5ZHhuQ1kyTlY5SXJwOFJFQk84SUQzcTUzcUstWjdDWDRTcDN0LWE2VlVWaExENk5PelkweFlRN050UGRGZXRweXFsMmE0UC1pWFJHREIwMGJiSDRBUmRMMWltTGRrYVJYdTVZc3hfdlhXbVk2M3c?oc=5",
+      "published": "Wed, 29 Jul 2026 18:20:03 GMT",
+      "source": "Fulton Neighbor",
       "category": "science"
     },
     {
@@ -129,13 +136,6 @@
       "category": "science"
     },
     {
-      "title": "500,000-year-old elephant bone tool found in England reveals advanced early human technology - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbktGRldTQlRub21KbkFLY2Z6UUtDRk4yY1NiUXRucXBSbjJBeXFFU3ljcVdtOE9TaHNMbWhhclJoU2ZHcnB1MGNpV3dMX3NHamgyenE1Y0NVOE80UmVSQkRUc2dkcF9TRHVXd0E1Tm56aWZ2Uk1KTEpkQXUtSm1HZ1VfZ0h5MVdsOEVjQ2VuY3BlY25FQVRJcFJtOVBVMVY4RjBqcDhpcnVkUU80OVpHNndvVVFwUHZpZExraktFRjd6UV9RN0wzUkpoemFYZGdhWTRVREJfUmJ2bFJrUEt3dExHWkhqZzhmUlEwNTlENEtlRHU10gH6AUFVX3lxTE04OVRJU2FqYmZFS0ZMaE9CWm1ic1JpYWdjcFRvdE52amZ4cklVdnhZQ1k5ZDVGMDRnbE1LYWF1MDJWaVFrc2VjVmd6N3dLb2pPZXUwOWlVWXpkQVZNdTZITERTdVVsV2VEcVdjb0FZS2hhMWIyWnVnYlZaZGpHUFNZcmZTQ3Z6WWo2MDZla2FaUjZEZ1QxQ01waFJtVjdsaDNELVhJQWxKN0ZIeVI3Unl0cmtiNjV3ODRMbzV4SktMMXNZRHZiR2ctcFdqVjhudllyVURacW9zZ2xCbUtGOWk0Zml6SDE4S3AwTlBDVVpKMmQybFV3b0tMUlE?oc=5",
-      "published": "Wed, 29 Jul 2026 14:48:00 GMT",
-      "source": "The Times of India",
-      "category": "science"
-    },
-    {
       "title": "Scientists warn oxygen is disappearing from Earth's oceans, rivers and lakes, and the damage could last f - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWFRZa1dqdFl4ZDFaT1VNb2VFSVhPV3FRZXZtREp2OGZxYWw3TzNtbk1pNmVJV1hwUmtvXzFjNlNJamFjQ2FETFVia0t1LTA1eFVfbmhIUDlwYTlSZXNkLUp0OFVIZHZNdGlOZ0JuWUZNUlBkeDU4cTJpQjNvQ3NLc3EzeHpNelBVN0NCcEc4UXZwWHdWU0tZdXYxT1lQS29FcDVLUTdCMks1a3JqWWZRaTRkMW5ZR1NZcE94cDhMSm44Wld3TGFWb1REUlpCY1B1c2VHMXIzQUFzcXlSMjNLam5aY0EtSWRZY2FzcUlremJwNlZNVjlMZ2NKZXdxcGpzSFlYeDBVT0k2SWJjVXJkYUhB0gGXAkFVX3lxTE5HbVpVajVWbjJJbkhBdVRjdEEyVmNqZmM4UEE3R3pqTVhWbGNJdTVsRWpEaFB6aXpJYkZ3ME1Pc21VTHF1UnVUYjVXZHExa1pYbmUyN1FpeUpPd0R0X1UtQzAzRWRkWldvUnZZOTlWRFZhNVNob0h4N0tFaVNhQ2YzNURjTmxybnN6RU56cDFrY0xsSFRSX0FTMnRYSWUwSWtIbk1sNFJudlBVYVhZVkh2d2Q2MUQ5RWc1RS1qYnJ0UjVpbjR6eVVzMmZzSmVoczF0NEZobnZXeTVmRVBIZHoyenZhQVU2bnlpTFN3eUpydXJwOFBtenA1b3pIdEVKX1lkZTZ2NHV1UURNa1RzTlBsXzJpXzY4UQ?oc=5",
       "published": "Wed, 29 Jul 2026 05:11:00 GMT",
@@ -161,34 +161,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUxpLUczbGhqQmJDcGZaYTAwanQtcjdMT1U3VGtoOER3RmxNaHlYRUdrbGlLV3Z0Z3BMM0MxdFhzN2Z3SkNzRnhVNUxsQnBFSW1NWFdUMDRtYmhhbXpZTnQ1eGJGZVd4X1RKeGFtV2RZUldaVjNTNlotazFCbEg2ZnRCbjVvcHQwSlFvQTBRVklrZnlFWUZoRlc2SHlHbHl2NFhFWmlIUDZiZzRQVjJiZzhTdHVjV1czcUVhMWJR?oc=5",
       "published": "Wed, 29 Jul 2026 16:00:40 GMT",
       "source": "AAS Nova",
-      "category": "science"
-    },
-    {
-      "title": "Can Tiny Technologies Deliver Big Solutions for Polystyrene Pollution? - AZoNano",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uRGV2djQtWkYyUk1aaVozY3pwZHUxcWdDZ0N5OUJyeTg4MFhBcGVlUmpPbTdIb2NVdFEzYVBzWEl4ZjFaMFRjOEloV0hFLUxfUnZORXdqcFBZYktMVmxvUw?oc=5",
-      "published": "Wed, 29 Jul 2026 14:23:00 GMT",
-      "source": "AZoNano",
-      "category": "science"
-    },
-    {
-      "title": "Solar eclipse won\u2019t be this big again until 2081 - OC Today-Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlZtSDIwVHQ0clpSdFI1UkxkU2ZmbjZyY214R2JzVXVJRXk3cW5iamNMSzdfTDh4cnI5dTBBNkxyZkNIYTNab2lSRFNHZDBzTkpzNFRuUG9yUDZMd1Y5OVNPR1V5RDFjVURJS0t1cjZqajZzYlktM0RuSHhfNTkzWTgwS2JwdVhkVGI5NU42clhUeHE3NG9SZHRNTnpCU1pZWkVOYjh2eUF4WXRWZGh4TDc0ZWlhOElWSlN3SlpHYWZsOVR2WHZuTllTNHRac2FYRFQ2QUxhdVRkZ3R5?oc=5",
-      "published": "Wed, 29 Jul 2026 18:20:03 GMT",
-      "source": "OC Today-Dispatch",
-      "category": "science"
-    },
-    {
-      "title": "Why Goodfire\u2019s block-sparse featururizers are a breakthrough in AI interpretability - TechTalks",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xSGVMZzJSal9tZmtvaHExVi1laU5FVlNnQzNvOG9mak1BRmFDRzJrRlFwUHI1SjUtakFLZlM0ZVZnWVAtRER6cTd1V0hxU1REb1lQNmRqUXJqTnVuUDJYdF9WUVlRbkJSU0pxemFUUkVob01ENDJN0gF8QVVfeXFMUDg1bDN1SUlhd2twMEJRLWRhbHNXQ3dmZjgwWGs4S08yVDlhY1ZaRDBYMGdEN0ZYWF9SblEwQlJEWEJGbE1oVURFVzFKV2syTEpSWmUwYzdHeWFzSWlMM3pJYzZfRzhNQU5saXF4b0VLWTM5Q3h5Nm5tazVYbA?oc=5",
-      "published": "Wed, 29 Jul 2026 08:34:30 GMT",
-      "source": "TechTalks",
-      "category": "science"
-    },
-    {
-      "title": "Dinosaurs dynasty came to end 66 million years ago but reason behind apex predator's extinction on earth m - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOLWFQZjlnZ0daTTk3ZjBaWVFHNnNtNFFDN0NBdFEyNGo2YnhDVXpNSGFwTnFtSGwyLU04bGdrYllCWWlWVUt6RWFneEcwM0QwVVJ6azlzYkxuZFNia3BOMnpNVVpiXzVzbzRYalgxaWRXRTlUNjV6LVpLaU5DWm9NMTdoYnY0a294cWZtU0RtSWR0bmdfYTRQbzdiclhSNE0zQlE0T09LSk1RSnRiRGJuc3doWUN0ZVdBVUpVYW9HVTVKTUd4RWZvTy1wYk5WUXJDYXRfdnUtUk9TUFBIN0hvZEJfWHdRWXMxN09Xb0VzQmZuVlQ3MVN5TlhuTHFmNnBMb29wMkZUUXI0bTdYS3Y3SUJwT3JSUU9RamxldTZPaWpvbkY0UkU5aDdBYktYc0hVWlJIYUJWTVhBcUcyTHpxbUxLUm4yQ2ZQQkZQTnM5LVNaTWJHYVJ0VmRHT3ZDOHRLQnYxU0dab0NiSjVwa0k0VVJKYzhscmVLY1d4U2k0MzdfYno4RFlVTzZramZNRHlKWm9yY0l2MkNCMHpHcy04Smdn0gGnA0FVX3lxTE5UT3ZkYnpUajVkRmFZU2t1R0hyVmhkNXZ3M3VLeGMteWk0UEpxX25pWE5LRUNJN1RXWUphY0plLTVsQXE4MnEzLUFxbnh1RGZNTXpLeTdVNEk3VU1UbFBwTFJCZzJPbGtqMlR3dUY3MWVhM3BZWXVybWVqclBaeU90Nk5aZ1JXX1B3d2JtS3o5X2ZMQmk0WWRfYTFrdTJzUEF2aGJmT3NZNHo4ZkRjQzI5eHY3aGllVUJJQ2FEWWotTkk0NUkyRHNkMlZORWNLZkRnS0xIYWFVM1RmSXRSd0pmd1JEUkJKU216azg2Y1k4X2hCZXkwVzh1QW5fRlV5YXlKXzFVV2NLbTFyak5UWGFTNHppUDdDSkp1bGZ3X204U2Z6eVU4YXZ4MnBHNjE4LWxqTkkycXlBeUN3cGdHdUIyQVVtdTk0OHFXU2xLOHJackVrZUMxNHQ3ekFwMzFRNWNBTEZnSFNncmZHSDczcGh4WDNnYlR3NHpUZC1DQ1NlUTd4NlpsTlBHSkdWM0pRZE53dXRiRlRZQ3F5T1FDYUUyZ0tiX09mcw?oc=5",
-      "published": "Wed, 29 Jul 2026 15:35:51 GMT",
-      "source": "The Economic Times",
       "category": "science"
     }
   ]

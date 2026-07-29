@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "King Charles and William warned over 'most disastrous' move in Harry feud",
-      "description": "Expert warns King Charles and Prince William must present a united front over Prince Harry's UK visits, as a reunion raises hopes of a healing family rift.",
-      "link": "https://www.the-express.com/entertainment/celebrity-news/212891/king-charles-william-harry-feud",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/21/590x/212891_1.jpg",
-      "published": "2026-07-29 06:04:00",
+      "title": "Breaking News - The Mystery Deepens: Prime Video Announces Casting for \"Young Sherlock\" Season Two",
+      "description": "The Mystery Deepens: Prime Video Announces Casting for",
+      "link": "http://www.thefutoncritic.com/news/2026/07/29/the-mystery-deepens-prime-video-announces-casting-for-young-sherlock-season-two-140010/20260729amazon02/",
+      "source": "Thefutoncritic",
+      "image": null,
+      "published": "2026-07-29 08:10:00",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Free concert to be held in Weston-super-Mare by the Salvation Army",
+      "description": "Enjoy a free Salvation Army community concert in Weston-super-Mare on 29 July, featuring Bristol's Logos House guitar group. All welcome; accessible venue.",
+      "link": "https://www.thewestonmercury.co.uk/news/26418296.salvation-army-host-free-concert-weston-super-mare/",
+      "source": "Weston Mercury",
+      "image": null,
+      "published": "2026-07-29 08:10:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

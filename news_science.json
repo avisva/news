@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Empire State building-sized asteroid to pass close to Earth: What scientists know",
+      "description": "Empire State building-sized asteroid to pass close to Earth: What scientists know A giant asteroid the size of an Empire State building is set to soar past Earth and the best thing it will be visible to billions of people around the world if the conditions are suitable. The massive asteroid...",
+      "link": "https://www.thenews.com.pk/latest/1410586-empire-state-building-sized-asteroid-to-pass-close-to-earth-what-scientists-know",
+      "source": "The News International",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-07-29/1410586_040323_updates.jpg",
+      "published": "2026-07-29 11:03:00",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

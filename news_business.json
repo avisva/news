@@ -1,35 +1,122 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 8,
   "results": [
     {
-      "title": "American Airlines issues nationwide ground stop amid IT outage",
-      "description": "American Airlines and its subsidiaries are under a nationwide ground stop Tuesday evening as the airline works to restore systems affected by an IT outage.",
-      "link": "https://www.newschannel5.com/news/american-airlines-issues-nationwide-ground-stop-amid-it-outage",
-      "source": "Newschannel 5",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/009eeb7/2147483647/strip/true/crop/4931x2589+0+692/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2F4d%2Fc1dc003f402da3a3ed8a6e6022b1%2Fap26155558620577.jpg",
-      "published": "2026-07-28 23:22:31",
+      "title": "EchoStar to put Hughes Network into bankruptcy",
+      "description": "Charlie Ergen, co-founder of EchoStar, has reportedly decided to place its wholly-owned subsidiary Hughes Network Systems into Chapter 11 bankruptcy. The WSJ is amongst other reports that the aim is to avoid paying a $1.5 billion (\u20ac1.3bn) debt maturity obligation due on August 1st. As of March 31st, Hughes had just $102 million in cash [...]",
+      "link": "https://www.advanced-television.com/2026/07/29/echostar-to-put-hughes-network-into-bankruptcy/",
+      "source": "Advanced-television",
+      "image": null,
+      "published": "2026-07-29 02:03:59",
       "category": [
-        "top",
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Pulse Seismic Inc. Reports Q2 2026 Financial Results and Declares Regular Quarterly Dividend",
-      "description": "CALGARY, Alberta, July 28, 2026 (GLOBE NEWSWIRE) \u2014 Pulse Seismic Inc. (TSX:PSD) (OTCQX:PLSDF) (\u201cPulse\u201d or the \u201cCompany\u201d) is pleased to report its financial and operating results for the three and six months ended June 30, 2026. The unaudited condensed consolidated interim financial statements, accompanying notes and MD&A are being filed on SEDAR+ (www.sedarplus.ca) and will [...]",
-      "link": "https://financialpost.com/globe-newswire/pulse-seismic-inc-reports-q2-2026-financial-results-and-declares-regular-quarterly-dividend",
-      "source": "Financial Post",
-      "image": null,
-      "published": "2026-07-28 23:22:30",
+      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For July 29",
+      "description": "Petrol, Diesel, CNG Rates Today: Prices of petrol, diesel and CNG remain unchanged on Wednesday, July 29, 2026.",
+      "link": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-july-29-10239351.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/petrol-scam-img-2026-06-963044418fb05457c810df9248c9ba1d-1200x800.png",
+      "published": "2026-07-29 02:03:51",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "canada"
+        "india"
+      ]
+    },
+    {
+      "title": "Cebu City Council questions fuel subsidy validation amid payout delay",
+      "description": "CEBU CITY, Philippines \u2014 Local councilors here questioned the validation process for the city\u2019s P35-million fuel subsidy after reports surfaced that implementing offices allegedly prepared new beneficiary lists through barangay managers rather than using previously consolidated lists from accredited habal-habal organizations. The issue surfaced during the Cebu City Council\u2019s regular session on Tuesday, July 28,",
+      "link": "https://cebudailynews.inquirer.net/751704/cebu-city-council-questions-fuel-subsidy-validation-amid-payout-delay",
+      "source": "Cebu Daily News",
+      "image": "https://cebudailynews.inquirer.net/files/2026/07/franklyn-ong-1-1024x576.jpg",
+      "published": "2026-07-29 02:03:51",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "How weak would DStv\u2019s numbers have been without the World Cup?",
+      "description": "Slowest subscriber growth in three World Cups points to an Achilles heel.",
+      "link": "https://www.moneyweb.co.za/news/companies-and-deals/how-weak-would-dstvs-numbers-have-been-without-the-world-cup/",
+      "source": "Moneyweb",
+      "image": "https://www.moneyweb.co.za/wp-content/uploads/2026/07/460949497-2048x1354.jpg",
+      "published": "2026-07-29 02:03:45",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Sanral scraps panel procurement system after court ruling",
+      "description": "Admits to \u2018indefensible\u2019 processes, reverts to open tender system for routine road maintenance contractors and engineering consultants.",
+      "link": "https://www.moneyweb.co.za/news/companies-and-deals/sanral-scraps-rrm-panel-system-after-high-court-ruling/",
+      "source": "Moneyweb",
+      "image": "https://www.moneyweb.co.za/wp-content/uploads/2014/07/Roadworks-3-Large.jpg",
+      "published": "2026-07-29 02:03:45",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "S&P Global to buy majority stake in African ratings agency Agusto & Co",
+      "description": "S&P Global has agreed to acquire a majority stake in pan-African ratings agency Agusto & Co, seeking to deepen its presence in Africa\u2019s domestic credit markets, it said on Tuesday. Agusto & Co will continue to operate as a separate ratings entity, issuing its own credit ratings and methodologies. The business has operations in Nigeria,... Source",
+      "link": "https://clubofmozambique.com/news/sp-global-to-buy-majority-stake-in-african-ratings-agency-agusto-co/",
+      "source": "Mozambique",
+      "image": "https://clubofmozambique.com/wp-content/uploads/2026/07/3VWV7NOHZFOYFEXB6UWOITHJC4-768x505-1.jpg",
+      "published": "2026-07-29 02:03:42",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "mozambique"
+      ]
+    },
+    {
+      "title": "Inflation Outlook Raised As Higher June PPI Suggests Mounting Cost Pressure",
+      "description": "Malaysia\u2019s business inflation in June accelerated to the fastest pace in four years amid higher energy costs, official data released on Tuesday showed. Producer Price Index (PPI) accelerated to +9.2%yoy in Jun-26 (from +7.8%yoy in May-26); marking its fourth consecutive month of growth and the sharpest annual surge since Jun-22. The sustained increase was driven [...]",
+      "link": "https://www.businesstoday.com.my/2026/07/29/inflation-outlook-raised-as-higher-june-ppi-suggests-mounting-cost-pressure/",
+      "source": "Businesstoday | Malaysia",
+      "image": "https://www.businesstoday.com.my/wp-content/uploads/2025/01/grocery-shopping.jpg",
+      "published": "2026-07-29 02:03:40",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "US backs Madagascar rare earths project in push to loosen China\u2019s supply chain grip",
+      "description": "State Department says project is part of US push against rivals\u2019 supply chain control Deposit contains elements used to make magnets vital for EVs, electronics and defence systems Harena targets mid-2028 startup and weighs US, European refining partnerships The U.S. is backing the Ampasindava rare earths project in Madagascar as \u200cpart of its strategy to... Source",
+      "link": "https://clubofmozambique.com/news/us-backs-madagascar-rare-earths-project-in-push-to-loosen-chinas-supply-chain-grip/",
+      "source": "Mozambique",
+      "image": "https://clubofmozambique.com/wp-content/uploads/2026/07/raree.r.jpg",
+      "published": "2026-07-29 02:03:35",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "mozambique"
       ]
     }
   ]

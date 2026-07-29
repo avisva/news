@@ -1,65 +1,76 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
-      "title": "How a mentor's example helped Chris Brooks Jr. earn a bigger role at Wisconsin",
-      "description": "The personal and football lessons Chris Brooks Jr. learned from a close friend have helped him become a respected voice on the Badgers roster.",
-      "link": "https://kenoshanews.com/sports/college/football/recruiting/article_e043aabe-edb9-5b3f-8e19-1571bf0e049d.html",
-      "source": "Kenosha News",
-      "image": null,
-      "published": "2026-07-28 23:23:00",
-      "category": [
-        "top",
-        "lifestyle",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "49ers coach Kyle Shanahan corrects record, says crash was his fault",
-      "description": "Making his first public comments since being part of a head-on car accident earlier this month, Kyle Shanahan admitted fault on Tuesday for the collision that left him with serious injuries.",
-      "link": "https://www.yardbarker.com/nfl/articles/49ers_coach_kyle_shanahan_corrects_record_says_crash_was_his_fault/s1_17049_44112572",
-      "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/9/7/9754c95b1a313f26d904f0c580ddeef6e93fe0f2/thumb_16x9/28620444.jpg",
-      "published": "2026-07-28 23:22:57",
+      "title": "Meet Gulveer Singh, the Indian who made CWG history with historic 10,000m silver",
+      "description": "India's Gulveer Singh produced a sensational late kick and surged to a silver medal in the men's 10,000m, adding the Commonwealth Games medal to the Asian Games bronze and twin gold medals in the Asian Championships he has won so far.",
+      "link": "https://zeenews.india.com/other-sports/meet-gulveer-singh-the-indian-who-made-cwg-history-with-historic-10000m-silver-3063598.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/07/29/1968265-fotojet-2026-07-28t173749.065.jpg",
+      "published": "2026-07-29 02:04:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Soggy socks & a slathering of deep heat",
-      "description": null,
-      "link": "https://www.bundle.app/en/sports/soggy-socks-a-slathering-of-deep-heat-353902A5-BB03-471D-97CA-70540946F1FE",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/9e8bb7ec-f6d2-5e58-b621-02a07df965c3.jpg",
-      "published": "2026-07-28 23:22:14",
-      "category": [
-        "top",
-        "lifestyle",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow",
-      "description": "Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances.",
-      "link": "https://ca.sports.yahoo.com/news/soppy-socks-slathering-deep-heat-230823576.html",
+      "title": "Giants' Harrison Bader injured in \u2018scooter accident,' will undergo MRI",
+      "description": "Giants outfielder Harrison Bader further injured his sore left foot that has sidelined him for two months when he was involved in a scooter accident in San Francisco, the team announced.",
+      "link": "https://sports.yahoo.com/articles/giants-harrison-bader-injured-scooter-020350107.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/ny/api/res/1.2/BB6Wqfiptnn.J2wUjvSKhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUwO2NmPXdlYnA-/https://media.zenfs.com/en/bbc_us_articles_995/b22141d91388ce1ecd02440042052af4",
-      "published": "2026-07-28 23:22:14",
+      "image": "https://s.yimg.com/lo/mysterio/api/dda56caf53a8ca9c9f4985c99f77589dedaed7d9666740cfd2672826c2a53e9b/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2Fdbb4aa9ca2389e4fba91468be8e83786",
+      "published": "2026-07-29 02:03:50",
+      "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "MLB Highlights: Tigers 14, Orioles 0",
+      "description": "Gleyber Torres and Eduardo Valencia combined for three homers and nine RBIs to lead the Detroit Tigers to a blowout 14-0 win over the Baltimore Orioles.",
+      "link": "https://www.sportsnet.ca/mlb/video/mlb-highlights-tigers-14-orioles-0/",
+      "source": "Sportsnet",
+      "image": "https://www.sportsnet.ca/wp-content/uploads/2026/07/6402375779112.jpg",
+      "published": "2026-07-29 02:03:46",
       "category": [
         "sports"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "Alcantara works 7 strong innings, Stowers homers to lead Marlins past Phillies 1-0",
+      "description": "MIAMI (AP) \u2014 Sandy Alcantara pitched four-hit ball over seven sharp innings, Kyle Stowers homered and the Miami Marlins beat the Philadelphia Phillies 1-0 on...",
+      "link": "https://wsvn.com/sports/miami-marlins/alcantara-works-7-strong-innings-stowers-homers-to-lead-marlins-past-phillies-1-0/",
+      "source": "Wsvn 7 News",
+      "image": "https://wsvn.com/wp-content/uploads/sites/2/2023/09/230919-SANDY-ALCANTARA-e1695148139667.jpg?quality=60&strip=color",
+      "published": "2026-07-29 02:03:34",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How Tejaswin Shankar\u2019s inputs helped Sarvesh Kushare make history in 2026 CWG high jump for India",
+      "description": "The high jumper picked up an injury before the event, and even after he realised he couldn\u2019t continue any longer, he stayed put and helped Kushare win a silver.",
+      "link": "https://www.hindustantimes.com/sports/others/how-tejaswin-shankar-s-inputs-helped-sarvesh-kushare-make-history-in-2026-cwg-high-jump-for-india-101785289996987.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/29/1600x900/logo/File-image-of-Tejaswin-Shankar---Corbis-via-Getty-_1785290009156_1785290021949_0982366e-0191-4143-be63-f11609c03df3.jpg",
+      "published": "2026-07-29 02:03:32",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

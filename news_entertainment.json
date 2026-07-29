@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "King Charles and William warned over 'most disastrous' move in Harry feud",
+      "description": "Expert warns King Charles and Prince William must present a united front over Prince Harry's UK visits, as a reunion raises hopes of a healing family rift.",
+      "link": "https://www.the-express.com/entertainment/celebrity-news/212891/king-charles-william-harry-feud",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/21/590x/212891_1.jpg",
+      "published": "2026-07-29 06:04:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

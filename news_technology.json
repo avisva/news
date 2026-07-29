@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Northallerton space firm joins in tests on satellite data for safe hydrogen expansion",
-      "description": "AmbaSat Ltd and Teesside University have landed European funding to explore how satellites could help support the safe expansion of green hydrogen infrastructure.",
-      "link": "https://www.thenorthernecho.co.uk/news/26407088.ambasat-ltd-teesside-university-awarded-esa-contract/",
-      "source": "The Northern Echo",
+      "title": "MoD Denies DRDO Cyberattack Reports",
+      "description": "Defence Ministry dismisses reports of a DRDO cyberattack as unverified. Officials say no evidence of active cyber attack or data exfiltration. Alleged leaked documents described as outdated and largely unclassified. Probe suggests threat actors fabricated material to create panic and earn money. GG News Bureau New Delhi, 29th July: The Ministry of Defence has dismissed [...] The post MoD Denies DRDO Cyberattack Reports appeared first on Global Governanace News .",
+      "link": "https://globalgovernancenews.com/mod-denies-drdo-cyberattack-reports/",
+      "source": "Global Governanace News",
+      "image": "https://globalgovernancenews.com/wp-content/uploads/2026/04/cyber-attack-anonymous-hacker-working-600nw-2291953491.jpeg",
+      "published": "2026-07-29 06:04:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Kirin Group and Blackmores to launch Cognizin cognitive support supplements in Australia and New Zealand",
+      "description": "The new products feature Cognizin Citicoline from Kyowa Hakko Bio and are designed to support memory, attention, focus and overall brain health",
+      "link": "https://nutraceuticalbusinessreview.com/kirin-group-and-blackmores-to-launch-cognizin-cognitive",
+      "source": "Nutraceuticalbusinessreview",
       "image": null,
-      "published": "2026-07-29 04:19:00",
+      "published": "2026-07-29 06:04:00",
       "category": [
         "technology",
         "top"
@@ -18,18 +33,31 @@
       ]
     },
     {
-      "title": "DoorDash's CEO says AI coding is not enough to make engineers more productive",
-      "description": "He said that engineers spend another big chunk of time in product reviews, design meetings, and aligning with different business teams.",
-      "link": "https://www.businessinsider.com/doordash-ceo-tony-xu-ai-coding-not-enough-engineering-productivity-2026-7",
-      "source": "Insider",
-      "image": "https://i.insider.com/6a69757a54f987526177ad40?width=1200&format=jpeg",
-      "published": "2026-07-29 04:18:55",
+      "title": "Audi Q9 Debuts As Brand's Biggest SUV Yet; India Launch On Cards",
+      "description": "Audi has introduced the Q9, its largest and priciest SUV, positioned above the Q7. It will target the ultra-luxury segment here, competing with established models like the BMW X7 and Mercedes-Benz GLS.",
+      "link": "https://www.timesnownews.com/auto/car-news/audi-q9-debuts-as-brands-biggest-suv-yet-india-launch-on-cards-article-155206995",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155207030,thumbsize-35368,width-1280,height-720,resizemode-75/155207030.jpg",
+      "published": "2026-07-29 06:03:56",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Mysuru Has Tech Talent and Temper. So What\u2019s Stopping It?",
+      "description": "Industry leaders say Mysuru\u2019s biggest hurdles are no longer talent, but execution, infrastructure, and ambition.",
+      "link": "https://analyticsindiamag.com/ai-features/mysuru-has-tech-talent-and-temper-so-whats-stopping-it",
+      "source": "Analytics India Magazine",
+      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1785304993061-0r1cmt.webp",
+      "published": "2026-07-29 06:03:48",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

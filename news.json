@@ -1,148 +1,73 @@
 {
   "status": "success",
-  "totalResults": 29,
+  "totalResults": 25,
   "results": [
     {
-      "title": "Walawaani! Will Batemans welcome new name for the bridge into the Bay?",
-      "description": "Council begins consultation process for naming the bridge over the Clyde.",
-      "link": "https://www.naroomanewsonline.com.au/story/9320063/walawaani-indigenous-name-proposed-for-clyde-river-bridge/?src=rss",
-      "source": "Narooma News",
-      "image": "https://www.naroomanewsonline.com.au/images/transform/v1/crop/frm/246337752/49c786cf-330c-4949-bb7e-b58359793d53.jpg/r0_106_2048_1260_w600_h338_fmax.jpg",
-      "published": "2026-07-29 04:19:00",
+      "title": "MoD Denies DRDO Cyberattack Reports",
+      "description": "Defence Ministry dismisses reports of a DRDO cyberattack as unverified. Officials say no evidence of active cyber attack or data exfiltration. Alleged leaked documents described as outdated and largely unclassified. Probe suggests threat actors fabricated material to create panic and earn money. GG News Bureau New Delhi, 29th July: The Ministry of Defence has dismissed [...] The post MoD Denies DRDO Cyberattack Reports appeared first on Global Governanace News .",
+      "link": "https://globalgovernancenews.com/mod-denies-drdo-cyberattack-reports/",
+      "source": "Global Governanace News",
+      "image": "https://globalgovernancenews.com/wp-content/uploads/2026/04/cyber-attack-anonymous-hacker-working-600nw-2291953491.jpeg",
+      "published": "2026-07-29 06:04:00",
       "category": [
-        "politics",
+        "technology",
         "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Strong storms prompt flood warnings in the Northeast",
-      "description": "From western New England to as far south as Baltimore, the Northeast is under flash flood threats through Tuesday night, with parts of the region already experiencing floodwaters.",
-      "link": "https://www.cnn.com/weather/video/strong-storms-prompt-flood-warnings-in-the-northeast-digvid",
-      "source": "Cnn",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/22847193-northeast-flash-16x9-thumb.jpg?c=original",
-      "published": "2026-07-29 04:19:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Bukit Aman announces major reshuffle, promotes senior officers effective Sept 1",
-      "description": "PETALING JAYA: A major police reshuffle involving a state police chief and several district police chiefs will take effect on Sept 1, Bukit Aman announced on Wednesday (July 29).",
-      "link": "https://www.thestar.com.my/news/nation/2026/07/29/bukit-aman-announces-major-reshuffle-promotes-senior-officers-effective-sept-1",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/29/4032997.jpeg",
-      "published": "2026-07-29 04:19:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "'It's clear we need a long term solution' - as MP witnesses speeding motorists",
-      "description": "MP Kirith Entwister met with police officers this weekend to discuss speeding in Bolton.",
-      "link": "https://www.theboltonnews.co.uk/news/26411090.kirith-entwistle-raises-speeding-issueafter-police-meeting/",
-      "source": "The Bolton News",
-      "image": null,
-      "published": "2026-07-29 04:19:00",
-      "category": [
-        "politics",
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Avlehana\u2013Vesana: Chickpea Flour in Ayurveda",
-      "description": "Cicer arietinum is an accepted botanical species belonging to the legume family. It is an annual plant cultivated for its nutritious seeds and has a long history as both food and traditional medicine. Its ancestral geographical range is associated with the region extending from southeastern Tu\u0308rkiye towards Iran, followed by its spread across Asia, the Mediterranean and other agricultural regions. The post Avlehana\u2013Vesana: Chickpea Flour in Ayurveda appeared first on Dharmakshethra - India Unabridged | Defence, Diplomacy, Economy, Health, Ayurveda, Heritage .",
-      "link": "https://dharmakshethra.com/avlehana-vesana-chickpea-flour-in-ayurveda/",
-      "source": "Dharmakshethra - India Unabridged",
-      "image": "https://dharmakshethra.com/wp-content/uploads/2026/07/Avlehana%E2%80%93Vesana-Chickpea-Flour-Dharmkashethra.webp",
-      "published": "2026-07-29 04:19:00",
-      "category": [
-        "top",
-        "environment"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "'A bit of a puzzle': why clearances are defying predictions this bull sale season",
-      "description": "Better than expected averages, strong clearance rates.",
-      "link": "https://www.theland.com.au/story/9319259/paul-dooley-cattle-market-boosts-bull-sale-demand-across-nsw/?src=rss",
-      "source": "The Land",
-      "image": "https://www.theland.com.au/images/transform/v1/crop/frm/Fuxf4VmvfUmd225xeYC69T/cd546ece-eee6-4393-864a-47d7071629ce.png/r0_143_2000_1270_w600_h338_fmax.jpg",
-      "published": "2026-07-29 04:19:00",
+      "title": "The hidden dangers behind Tripadvisor's AI hotel summaries",
+      "description": "Tripadvisor's AI tools are giving sparkling summaries to hotels with serious red flags reported by real guests",
+      "link": "https://www.which.co.uk/news/article/the-hidden-dangers-behind-tripadvisors-ai-hotel-summaries-aUflS7Y3w3E3",
+      "source": "Which?",
+      "image": "https://media.product.which.co.uk/prod/images/ar_2to1_1500x750/d8eb1beb06e5-podcast-tripadvisor-1.jpg",
+      "published": "2026-07-29 06:04:00",
       "category": [
         "business"
       ],
       "country": [
-        "australia"
+        "united kingdom"
       ]
     },
     {
-      "title": "Man charged after Gippsland school forced into lockdown",
-      "description": null,
-      "link": "https://www.heraldsun.com.au/education/regions/victoria/parent-charged-over-alleged-threats-forced-students-into-lockdown-scare/news-story/f9ec7109532ec600ab81f4aedfb77b13",
-      "source": "Herald Sun",
-      "image": null,
-      "published": "2026-07-29 04:19:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Road closures to affect Tipton and Cradley Heath next month",
-      "description": "ROAD users in Sandwell face a series of short\u2010term night and day closures in early August as telecoms, water and rail works get underway in Tipton and Cradley Heath",
-      "link": "https://www.dudleynews.co.uk/news/26415879.essential-roadworks-bring-closures-across-sandwell/",
-      "source": "Dudley News",
-      "image": null,
-      "published": "2026-07-29 04:19:00",
+      "title": "Many hotel boats stranded on the Danube because of low water levels",
+      "description": "Many hotel boats, cargo vessels at a standstill - there's not enough water in the River Danube. #danube #water #hotelboat #tourism Continue reading: https://dailynewshungary.com/many-hotel-boats-stranded-low-danube-level/",
+      "link": "https://dailynewshungary.com/many-hotel-boats-stranded-low-danube-level/",
+      "source": "Dailynewshungary",
+      "image": "https://dailynewshungary.b-cdn.net/wp-content/uploads/2026/07/Danube-hotel-boat-Budapest.webp",
+      "published": "2026-07-29 06:04:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "Delhi High Court rejects plea to remove Additional DCP Sandeep Lamba who slapped woman protester",
-      "description": "The Delhi High Court dismissed a petition seeking to remove Additional DCP Sandeep Lamba from supervising a court-directed police inquiry. The plea cited a viral video that purportedly showed Lamba slapping a woman during the Chalo Jantar Mantar protest. The court said allegations alone could not justify a presumption of bias without a fair trial.",
-      "link": "https://www.news9live.com/india/delhi-high-court-rejects-plea-to-remove-additional-dcp-sandeep-lamba-who-slapped-woman-protester-2994355",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Additional-DCP-Sandeep-Lamba.jpg",
-      "published": "2026-07-29 04:19:00",
+      "title": "Former New Iberia band director charged with child sex crimes",
+      "description": "Andrew Belk, 30, of Lafayette, is charged with indecent behavior with juveniles and computer-aided solicitation of a minor.",
+      "link": "https://www.cenlanow.com/news/crime/former-new-iberia-band-director-charged-with-child-sex-crimes/",
+      "source": "Wntz-tv Fox 48 | Cenlanow.com",
+      "image": "https://www.cenlanow.com/wp-content/uploads/sites/32/2026/06/Andrew-Belk.jpg?w=900",
+      "published": "2026-07-29 06:04:00",
       "category": [
-        "politics",
+        "crime",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     },
     {
-      "title": "Northallerton space firm joins in tests on satellite data for safe hydrogen expansion",
-      "description": "AmbaSat Ltd and Teesside University have landed European funding to explore how satellites could help support the safe expansion of green hydrogen infrastructure.",
-      "link": "https://www.thenorthernecho.co.uk/news/26407088.ambasat-ltd-teesside-university-awarded-esa-contract/",
-      "source": "The Northern Echo",
+      "title": "Kirin Group and Blackmores to launch Cognizin cognitive support supplements in Australia and New Zealand",
+      "description": "The new products feature Cognizin Citicoline from Kyowa Hakko Bio and are designed to support memory, attention, focus and overall brain health",
+      "link": "https://nutraceuticalbusinessreview.com/kirin-group-and-blackmores-to-launch-cognizin-cognitive",
+      "source": "Nutraceuticalbusinessreview",
       "image": null,
-      "published": "2026-07-29 04:19:00",
+      "published": "2026-07-29 06:04:00",
       "category": [
         "technology",
         "top"
@@ -152,14 +77,56 @@
       ]
     },
     {
-      "title": "Subscribe for Manipal Health Enterprises Ltd IPO; Geojit Financial Services",
-      "description": "Geojit Financial Services, has come out with its report on Manipal Health Enterprises Ltd The research firm has recommended to \u201c Subscribe\u201d the ipo in its research report as on July 28, 2026.",
-      "link": "https://www.moneycontrol.com/news/business/stocks/subscribe-for-manipal-health-enterprises-ltd-ipo-geojit-financial-services-13986661.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260717112326_Shree-Balaji-Mala-IPO-GMP.png",
-      "published": "2026-07-29 04:18:57",
+      "title": "Deadly disease outbreak cancels UK tradition for first time in 30 years",
+      "description": "A rare disease outbreak has cast uncertainty over one of the New Forest's oldest annual traditions.",
+      "link": "https://www.express.co.uk/news/uk/2233937/deadly-disease-outbreak-cancels-uk",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2233937_1.jpg",
+      "published": "2026-07-29 06:04:00",
       "category": [
         "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "King Charles and William warned over 'most disastrous' move in Harry feud",
+      "description": "Expert warns King Charles and Prince William must present a united front over Prince Harry's UK visits, as a reunion raises hopes of a healing family rift.",
+      "link": "https://www.the-express.com/entertainment/celebrity-news/212891/king-charles-william-harry-feud",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/21/590x/212891_1.jpg",
+      "published": "2026-07-29 06:04:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Korea\u2019s ETF clampdown may push leverage demand overseas",
+      "description": "As South Korea tightens rules on single-stock leveraged exchange-traded funds, overseas markets are expanding their lineup of leveraged products tied to Korean stocks \u2014 and positioning themselves to capture demand from investors seeking alternatives. The tougher domestic rules are expected to curb trading in Korea-listed products. But industry officials warn they may also create a \u201cballoon effect,\u201d shifting some retail demand toward the broader range of highly leveraged index and sector ETFs ava",
+      "link": "https://www.koreaherald.com/article/10824501",
+      "source": "The Korea Herald",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/07/29/news-p.v1.20260729.1814b2191fa94eeca8facf4fc4a358de_T1.jpg",
+      "published": "2026-07-29 06:03:59",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Paradeep Phosphates shares jump 13% after strong Q1 earnings, \u20b9250 crore expansion plan",
+      "description": "Despite an uncertain global environment, Managing Director and CEO N Suresh Krishnan said the company remains focused on driving growth through operational discipline and execution.",
+      "link": "https://www.cnbctv18.com/market/paradeep-phosphates-share-price-jumps-after-strong-q1-earnings-250-crore-expansion-plan-19956496.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-fc27ee248e5c9feb3a91dfce8df29437.jpg",
+      "published": "2026-07-29 06:03:59",
+      "category": [
         "business"
       ],
       "country": [
@@ -167,44 +134,44 @@
       ]
     },
     {
-      "title": "DoorDash's CEO says AI coding is not enough to make engineers more productive",
-      "description": "He said that engineers spend another big chunk of time in product reviews, design meetings, and aligning with different business teams.",
-      "link": "https://www.businessinsider.com/doordash-ceo-tony-xu-ai-coding-not-enough-engineering-productivity-2026-7",
-      "source": "Insider",
-      "image": "https://i.insider.com/6a69757a54f987526177ad40?width=1200&format=jpeg",
-      "published": "2026-07-29 04:18:55",
+      "title": "FX option expiries for 29 July 10am New York cut",
+      "description": "There isn't all too much on the expiries board for the day ahead, with the full list seen below. The only notable one perhaps is for EUR/USD at the 1.1415 level. Even then, the expiries don't tie to any technical significance so I would not attach too much impact from it on price action. The dollar remains in a push and pull mood as markets continue to digest US-Iran developments as well as the continued selloff in tech shares. Coming up later today, there will be the Fed meeting to add to the mix. As such, expect broader markets to hold a more pensive mood until we get to that. That being said, risk sentiment remains on edge and is staying on the defensive after another bloodbath in Asia today. Stocks are under pressure, tech shares especially, and that could lend itself to a broader reaction in other markets too. But for now at least, it seems more isolated for the most part. Still, one cannot be too cautious when dealing with the kind of market mood we are seeing. That especially with US-Iran tensions still having the potential to go off the rails at any point in time and watchful eyes on whether the Fed will take a more hawkish step later today. I still think the latter is very unlikely but again, there's no such thing as being overly cautious when dealing with the mayhem we're seeing. But circling back to the expiries board, there will be bigger fish to fry tomorrow alongside potential month-end shenanigans. For today, don't expect much in terms of influence and impact from the list above. For more information on how to use this data, you may refer to this post here . This article was written by Justin Low at investinglive.com.",
+      "link": "https://investinglive.com/orders/fx-option-expiries-for-29-july-10am-new-york-cut/",
+      "source": "Forexlive",
+      "image": "https://images.investinglive.com/fl-static/il-logo-colorful-dark.svg",
+      "published": "2026-07-29 06:03:57",
       "category": [
-        "technology",
-        "top"
+        "top",
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Gatwick M23 traffic LIVE: Car on fire closes multiple lanes near Horley",
-      "description": "Needing to get to Gatwick Airport this morning? You might want to leave extra early as it'll be slow going on the motorway",
-      "link": "https://www.getsurrey.co.uk/news/local-news/gatwick-m23-traffic-live-car-34367896",
-      "source": "Surrey Live",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34367897.ece/ALTERNATES/s615/0_2876.jpg",
-      "published": "2026-07-29 04:18:55",
+      "title": "Oil prices surge after Iranian missile attack on US forces and Saudi strikes on Iraq",
+      "description": "Iran's IRGC says its naval forces hit three oil tankers in Strait of Hormuz",
+      "link": "https://www.thenationalnews.com/business/energy/2026/07/29/oil-prices-surge-after-iranian-missile-attack-on-us-forces-and-saudi-strikes-on-iraq/",
+      "source": "The National",
+      "image": null,
+      "published": "2026-07-29 06:03:56",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united arab emirates"
       ]
     },
     {
-      "title": "News Fuse | Reels | \u0b2c\u0b3f\u0b32 \u0b2e\u0b1d\u0b3f\u0b30\u0b47 \u0b2a\u0b47\u0b3e\u0b21\u0b3c\u0b15\u0b3e\u0b37\u0b4d\u0b1f | #otv #newsfuse #odishatv #otvshorts",
-      "description": "\u0b06\u0b32\u0b47\u0b3e \u0b06\u0b32\u0b47\u0b3e .... \u0b0f \u0b2d\u0b09\u0b23\u0b40 \u0b1c\u0b23\u0b15 \u0b06\u0b2e\u0b30 \u0b28\u0b3f\u0b1f\u0b4d \u0b2a\u0b30\u0b40\u0b15\u0b4d\u0b37\u0b3e\u0b30\u0b47 \u0b1f\u0b2a\u0b30\u0b4d \u0b39\u0b47\u0b32\u0b3e \u0b2a\u0b30\u0b47 \u0b2a\u0b4d\u0b30\u0b40\u0b24\u0b3f\u0b30\u0b1e\u0b4d\u0b1c\u0b28 \u0b18\u0b21\u0b3c\u0b47\u0b07 \u0b38\u0b3e\u0b30\u0b4d \u0b06\u0b38\u0b3f\u0b15\u0b3f \u0b2f\u0b47\u0b2e\u0b3f\u0b24\u0b3f \u0b2a\u0b4d\u0b30\u0b36\u0b4d\u0b28 \u0b2a\u0b1a\u0b3e\u0b30\u0b3f\u0b32\u0b47\u0b23\u0b3f \u0b32\u0b3e\u0b17\u0b41\u0b1b\u0b3f \u0b2d\u0b3e\u0b07 \u0b2c\u0b47\u0b3e\u0b27\u0b47 \u0b2c\u0b3f\u0b32 \u0b2e\u0b1d\u0b3f\u0b30\u0b47 \u0b2a\u0b47\u0b3e\u0b21\u0b3c\u0b15\u0b3e\u0b37\u0b4d\u0b1f \u0b36\u0b41\u0b1f\u0b3f\u0b02 \u0b15\u0b30\u0b3f\u0b2c\u0b3e\u0b15\u0b41 \u0b06\u0b38\u0b3f\u0b1b\u0b28\u0b4d\u0b24\u0b3f \u0b36\u0b41\u0b2d\u0b47\u0b1a\u0b4d\u0b1b\u0b3e \u0b26\u0b47\u0b2c\u0b3e\u0b15\u0b41 \u0b28\u0b41\u0b39\u0b47\u0b01 \u0964 #neet2026 #neettopper #odisha #odianews #odiasatire #politicalsatire #odiyacomedy #odiafunny #satire #comedyvideo #viralvideo #ytshorts #youtube #trending #odishapolitics #politicalhumour #podcast #funnymoments #studentlife #exam #neetresult #odishaviral #odiamemes #comedy #viralshorts #trendingnow #odishacontent #newsparody #humour #entertainment For latest news updates follow us on WhatsApp: https://whatsapp.com/channel/0029VaYNIW78qIzrtKKZiD3M OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Internet and Mobile. Stay tuned for all the breaking news ! Visit Our Website https://odishatv.in/ News In Odia: http://otvkhabar.in/ Android App: https://bit.ly/OTVAndroidApp iOS App: https://bit.ly/OTViOSApp Watch Live: https://odishatv.in/live-tv YouTube: https://goo.gl/Ehz6OP Watch our latest news in English: https://bit.ly/3wTgKxc Facebook: https://www.facebook.com/otvkhabar OTV English Facebook : https://www.facebook.com/otvnews Telegram @otvtelegram @otvkhabar Twitter: https://twitter.com/otvnews Instagram: https://www.instagram.com/otvnews/ #NewsFuse #OdishaTV #OTV",
-      "link": "https://otvkhabar.in/videosodisha/humour/news-fuse-reels-between-the-bills-podcast-otv-newsfuse-odishatv-otvshorts-12207421",
-      "source": "Otv News",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv-khabar/media/youtube_thumbnails/vi/0ZqwLsAwAo4/maxresdefault.jpg",
-      "published": "2026-07-29 04:18:51",
+      "title": "Pak opens fire on PoK poll protesters, 20 killed",
+      "description": "There has been a major crackdown on groups calling for a boycott of the elections in Pakistan-occupied Kashmir (PoK). The Pakistani security forces have primarily targeted the Awami Action Committee (AAC), which has been The post Pak opens fire on PoK poll protesters, 20 killed appeared first on News Today | First with the news .",
+      "link": "https://newstodaynet.com/2026/07/29/pak-opens-fire-on-pok-poll-protesters-20-killed/",
+      "source": "News Today",
+      "image": "https://newstodaynet.com/storage/2026/07/w1-4.avif",
+      "published": "2026-07-29 06:03:56",
       "category": [
-        "lifestyle",
+        "politics",
         "top"
       ],
       "country": [
@@ -212,144 +179,12 @@
       ]
     },
     {
-      "title": "FIFA proposes selling stakes in new commercial arm, drawing UEFA criticism",
-      "description": null,
-      "link": "https://english.news.cn/20260729/53e023b430d84db185f397c5e00fca70/c.html",
-      "source": "Xinhuanet",
-      "image": null,
-      "published": "2026-07-29 04:18:47",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Ambuja Cements share price target: Nuvama, Motilal, other brokerages see up to 30% upside. Here's why",
-      "description": "Ambuja Cements shares rose over 1% despite reporting a 34% YoY decline in Q1 FY27 consolidated net profit to Rs 577 crore. Revenue fell 7.5%, while EBITDA dropped 19% and margins narrowed due to higher fuel and raw material costs amid the West Asia crisis. Despite the weak quarter, brokerages retained their 'Buy' ratings, citing strong long-term growth prospects.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ambuja-cements-share-price-target-nuvama-motilal-other-brokerages-see-up-to-30-upside-heres-why/articleshow/132700197.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-132700230,resizemode-4,width-1200,height-900,imgsize-83046,overlay-etmarkets/articleshow.jpg",
-      "published": "2026-07-29 04:18:45",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Guru Purnima 2026: Celebrating the Eternal Light of Knowledge and Gratitude",
-      "description": "Guru Purnima 2026: Celebrating the Eternal Light of Knowledge and Gratitude Mumbai, July 29: India today celebrates Guru Purnima, one of the country\u2019s most revered spiritual and cultural festivals, dedicated to honouring teachers, mentors, guides and all those who illuminate the path of knowledge. Observed on the full moon day (Purnima) of the Hindu month [...] The post Guru Purnima 2026: Celebrating the Eternal Light of Knowledge and Gratitude appeared first on Forever NEWS .",
-      "link": "https://www.forevernews.in/education/guru-purnima-2026-celebrating-the-eternal-light-of-knowledge-and-gratitude-899782",
-      "source": "Forever News",
-      "image": "https://www.forevernews.in/wp-content/uploads/2026/07/Guru-Purnima-200x300.jpg",
-      "published": "2026-07-29 04:18:43",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Dr Doug Hilton At National Press Club",
-      "description": "It's a privilege to stand here in the National Press Club on what are the unceded lands of the Ngunnawal People and to acknowledge the traditional",
-      "link": "https://www.miragenews.com/dr-doug-hilton-at-national-press-club-1718179/",
-      "source": "Mirage News",
-      "image": "https://www.csiro.au/-/media/Owned-articles/2026/07-July/Press-Club/Dr-Doug-Hilton-press-club-open-arms.jpg?mw=1200&hash=C14A674A90BEA3B35774635A4C78A114",
-      "published": "2026-07-29 04:18:43",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Tom Brady Reportedly Had a Bigger Hand in Raiders' Latest QB Decision",
-      "description": "Kirk Cousins will open as the Raiders' starter, not Fernando Mendoza \u2014 and Tom Brady's fingerprints are all over the decision.",
-      "link": "https://www.newsweek.com/sports/nfl/tom-brady-reportedly-had-a-bigger-hand-in-raiders-latest-qb-decision-12257169",
-      "source": "Newsweek",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/02/GettyImages-2256152755.jpg?w=1600&h=900&q=88",
-      "published": "2026-07-29 04:18:43",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "CWG 2026: Gulveer Singh, Harjinder Kaur silver medals add lustre to campaign",
-      "description": "Gulveer Singh won an unprecedented silver for India in the men\u2019s 10,000m in the early hours of Wednesday. He clocked 27:49.78 to finish just behind Australia\u2019s Ky Robinson. Meanwhile, Harjinder Kaur clinched a sensational silver in the women\u2019s 69kg weightlifting event, setting personal bests of 101kg in snatch and 126kg in clean and jerk for a 227kg total. Canada\u2019s Charlotte Simoneau claimed gold with a combined total of 240kg.",
-      "link": "https://timesofindia.indiatimes.com/sports/commonwealth-games/news/cwg-2026-gulveer-singh-harjinder-kaur-silver-medals-add-lustre-to-campaign/articleshow/132700238.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132700235/132700235.jpg",
-      "published": "2026-07-29 04:18:43",
-      "category": [
-        "top",
-        "lifestyle",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Guru Purnima draws devotees across UP; Ayodhya, Prayagraj witness huge gatherings",
-      "description": "New Delhi, July 29 (SocialNews.XYZ) Thousands of devotees across Uttar Pradesh observed Guru Purnima with religious fervour on Wednesday, taking holy dips in sacred rivers, visiting temples and participating in special prayers and rituals. Major... The post Guru Purnima draws devotees across UP; Ayodhya, Prayagraj witness huge gatherings appeared first on Social News XYZ .",
-      "link": "https://www.socialnews.xyz/2026/07/29/guru-purnima-draws-devotees-across-up-ayodhya-prayagraj-witness-huge-gatherings/",
-      "source": "Social News Xyz",
-      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/29/202607293882437.jpg?fit=449%2C300&quality=80&zoom=1&ssl=1",
-      "published": "2026-07-29 04:18:42",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Mariners reinstate Rob Refsnyder from the 10-day IL, DFA Buddy Kennedy",
-      "description": "The Seattle Mariners have reinstated outfielder Rob Refsnyder from the 10-day injured list ahead of a three-game series against the Los Angeles Dodgers.",
-      "link": "https://www.kgw.com/article/syndication/associatedpress/mariners-reinstate-rob-refsnyder-from-the-10-day-il-dfa-buddy-kennedy/616-00462347-5afd-4001-a56c-97331c5b38d8",
-      "source": "Kgw",
-      "image": "https://media.tegna-media.com/assets/KGW/images/eac8527a-2236-4bd3-a32c-920741b4d59d/20260729T041814/eac8527a-2236-4bd3-a32c-920741b4d59d_750x422.jpg",
-      "published": "2026-07-29 04:18:42",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mah Sing's Kulai industrial park to diversify sales mix: CIMB Securities",
-      "description": "KUALA LUMPUR: Mah Sing Group Bhd's planned industrial park in Kulai, Johor, is expected to diversify the property developer's sales mix and strengthen its exposure to the fast-growing industrial segment, CIMB Securities Sdn Bhd said.",
-      "link": "https://www.nst.com.my/business/corporate/2026/07/1499517/mah-sings-kulai-industrial-park-diversify-sales-mix-cimb",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/6B4CC2E6516EEB97EB4D605B2DA91895_data_0_0.jpg",
-      "published": "2026-07-29 04:18:38",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "China condemns US move to sanction Chinese research institutions",
-      "description": "\u2018China will take necessary measures to safeguard the legitimate rights and interests of Chinese research institutions,\u2019 says ministry spokesperson",
-      "link": "https://www.aa.com.tr/en/asia-pacific/china-condemns-us-move-to-sanction-chinese-research-institutions/4012063",
+      "title": "Israeli occupiers torch home, abduct 2 Palestinians in West Bank attacks",
+      "description": "8 family members escape unharmed after occupiers set fire to their home east of Bethlehem, while two Palestinian men are reportedly abducted near Beit Ula",
+      "link": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-torch-home-abduct-2-palestinians-in-west-bank-attacks/4012108",
       "source": "Anadolu Agency",
-      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/07/29/thumbs_b_c_074c2d48fa9310139ff3940cfae16ae5.jpg",
-      "published": "2026-07-29 04:18:37",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/07/29/thumbs_b_c_f96ea133d63218448e1beb181b54b673.jpg",
+      "published": "2026-07-29 06:03:56",
       "category": [
         "world"
       ],
@@ -358,88 +193,190 @@
       ]
     },
     {
-      "title": "Indonesian zoo corruption case renews scrutiny of animal welfare",
-      "description": "An alleged corruption case at Indonesia\u2019s Surabaya Zoo has renewed scrutiny of how the country\u2019s wildlife conservation institutions are governed and prompted experts to warn that financial misconduct can have consequences that extend beyond public finances to the welfare of animals entirely dependent on human care. The investigation has also reignited calls for stronger oversight [...]",
-      "link": "https://news.mongabay.com/2026/07/indonesian-zoo-corruption-case-renews-scrutiny-of-animal-welfare/",
-      "source": "Conservation News",
-      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2016/04/01214955/800px-Surabaya_Zoo-520x227.jpg",
-      "published": "2026-07-29 04:18:37",
+      "title": "Portugal awaits binding bids for TAP as Air France-KLM, Lufthansa face off",
+      "description": null,
+      "link": "https://www.reuters.com/legal/transactional/portugal-awaits-binding-bids-tap-air-france-klm-lufthansa-face-off-2026-07-29/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/6B3GRF5KHRJB7OC5AY4QFB76LY.jpg?auth=1eecf5685ce3392af0fcc3e7936f58dc4c1a49980d865190098fc3994834137a&smart=true&width=1920",
+      "published": "2026-07-29 06:03:56",
       "category": [
-        "world"
+        "top",
+        "business"
       ],
       "country": [
-        "australia",
-        "madagascar",
-        "united states of america",
-        "papua new guinea",
-        "peru",
-        "ecuador",
-        "bolivia",
-        "brazil",
-        "malaysia",
-        "cambodia",
-        "myanmar",
-        "colombia",
-        "indonesia",
-        "costa rica"
+        "israel",
+        "russia",
+        "iran",
+        "china",
+        "south africa",
+        "india",
+        "japan",
+        "united kingdom",
+        "ukraine",
+        "united states of america"
       ]
     },
     {
-      "title": "Does Bieber\u2019s poor outing vs. Nationals affect Blue Jays\u2019 leverage at deadline?",
-      "description": "Shi Davidi joins Sportsnet Central to break down the Toronto Blue Jays loss to the Washington Nationals and their plans for the trade deadline, saying all signs are pointing to a sell and how the timing of the deals could affect their strategy.",
-      "link": "https://www.sportsnet.ca/mlb/video/does-biebers-poor-outing-vs-nationals-affect-blue-jays-leverage-at-deadline/",
-      "source": "Sportsnet",
-      "image": "https://www.sportsnet.ca/wp-content/uploads/2026/07/6402383261112.jpg",
-      "published": "2026-07-29 04:18:30",
+      "title": "Audi Q9 Debuts As Brand's Biggest SUV Yet; India Launch On Cards",
+      "description": "Audi has introduced the Q9, its largest and priciest SUV, positioned above the Q7. It will target the ultra-luxury segment here, competing with established models like the BMW X7 and Mercedes-Benz GLS.",
+      "link": "https://www.timesnownews.com/auto/car-news/audi-q9-debuts-as-brands-biggest-suv-yet-india-launch-on-cards-article-155206995",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155207030,thumbsize-35368,width-1280,height-720,resizemode-75/155207030.jpg",
+      "published": "2026-07-29 06:03:56",
       "category": [
-        "sports"
+        "technology"
       ],
       "country": [
-        "canada"
+        "india"
       ]
     },
     {
-      "title": "Strong domestic demand and policy stimulus will support China's AI growth: UBS",
-      "description": "UBS\u2019 Thomas Fang discusses China's AI ambitions and progress. He highlights that the growing interest from global investors in Chinese companies has yet to translate to real investment actions.",
-      "link": "https://www.cnbc.com/video/2026/07/29/strong-domestic-demand-and-policy-stimulus-to-support-china-ai-growth.html",
-      "source": "Cnbc",
-      "image": "https://image.cnbcfm.com/api/v1/image/108340859-17852090441785209041-47428976911-1080pnbcnews.jpg?v=1785209043",
-      "published": "2026-07-29 04:18:27",
+      "title": "UBS: Q2 Earnings Snapshot",
+      "description": "UBS AG (UBS) on Wednesday reported net income of $2.8 billion in its second quarter.",
+      "link": "https://www.wfaa.com/article/syndication/associatedpress/ubs-q2-earnings-snapshot/616-0909d9c2-75ef-4771-99a8-35056119bff1",
+      "source": "Wfaa",
+      "image": "https://media.tegna-media.com/assets/AssociatedPress/images/c56ccfe0-4537-4e10-9bce-e7b5a7f06125/20260729T060518/c56ccfe0-4537-4e10-9bce-e7b5a7f06125_750x422.png",
+      "published": "2026-07-29 06:03:53",
       "category": [
-        "health"
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Canada\u2019s doctor shortage crisis is far from over",
-      "description": "Commentary By Mackenzie Moir and Nadeem Esmail The Fraser Institute Canada\u2019s physician shortage has dominated media stories about health care in recent years, as millions of Canadians report not having access to a regular family physician, with millions more lined up waiting for specialist consultations and treatment. The media attention may lead some to believe this is a recent development or perhaps even a post-pandemic shift in health-care access. But there\u2019s actually nothing new about Canada\u2019s lack of physicians. Canada has had fewer physicians than other high-income universal health-care countries for decades (when compared to the size of our population). Data on the number of physicians per population in high-income countries are available from the Organisation for Economic Cooperation and Development (OECD). Looking back two decades from 2023 (the latest year of available comparable data), and including only those countries where data are reported for each year, it\u2019s possible to compare Canada with 22 other high-income countries that also have universal health-care systems. Of course, not all these countries are the same demographically, and because age is an important driver of demand for health-care services, it\u2019s important to account for differences in population ages to make the data more comparable. To do this, the data for each year are age-adjusted using the same method used in the annual international comparison of health-care systems. This provides a two-decade long view of physician supply in Canada as compared with that in peer countries on an age-adjusted basis. The results in the graph below reveal that Canada has persistently ranked near the bottom among the 22 countries for the number of physicians per 1,000 population since 2003. Far from being a more recent or post-pandemic phenomenon, Canada\u2019s relative physician shortage is clearly a longstanding one. But it wasn\u2019t always this way. After substantial expansion of the country\u2019s medical training capacity in the 1960s (aimed at ensuring sufficient supply for the newly minted Medicare program), alongside increasing the number of international medical graduates practicing in Canada, Canada had one of the developed world\u2019s highest physician-to-population ratios in 1970. But as governmental concerns about having too many physicians took hold during the '70s, \u201980s, and early \u201990s, medical enrolments were cut alongside plans to reduce recruitment of international medical graduates. A few years later, many were already arguing against this policy approach and anticipated that these changes, alongside other demographic challenges, were a \u201crecipe for disaster.\u201d They would be proven right. In late 2022, RBC estimated that Canada was facing a physician gap of at least 44,000 by 2028, and would need an additional 30,000 physicians just to reach the OECD average, all on top of an estimated 120,000 physicians in practice in 2028. To put this into perspective, Canada\u2019s total physician workforce in 2023 was 97,384 doctors. There\u2019s little indication governments are on track to plug this gap. While Canada\u2019s first-year medical school enrolments increased by 7 per cent between 2022/23 and 2023/24 and again between 2023/24 and 2024/25 (compared to an average growth of 3.8 per cent between 2003/04 and 2012/13, and 1.5 per cent between 2013/14 and 2022/23), Canadian medical schools still only enrolled around 3,800 students last year. Remember, these new medical school enrollees are still 6 to 11 years from completing their training and entering practice as physicians While enrolments have risen, and are likely to rise by maybe even a few hundred more in the next few years following any further expansions in existing medical programs and the introduction of new medical programs at several universities, it\u2019s important to acknowledge that Canada graduated barely more than half the medical graduates as the OECD average in 2023 (7.5 per 100,000 population compared to an average of 14.2). Canada\u2019s supply of doctors is of course also bolstered by the international medical graduates who manage to practice here after successfully running the gauntlet , which includes passing Canadian licensure exams offered only a few times a year, competing for limited residency opportunities, and accepting provincial restrictions on post-training practice locations. In 2024, international medical graduates made up 27 per cent of the physician workforce. But these international and Canadian additions to the physician supply are counterbalanced by retiring physicians and physicians leaving practice for other reasons. This leaves us with a depressing outlook. Between 2022 and 2023, Canada only managed to add a net of 1,364 physicians to the workforce, which is below the average of the 10 years prior (2,088), and below the average between 2003 and 2012 (1,573). The highest increase in the net number of physicians added to the supply since 2003 was 3,129 in 2018. Contrary to recent headlines, Canada\u2019s relative shortage of physicians has been ongoing for decades. And while it may be tempting to be optimistic given recent media and governmental attention, the data make it much harder to have a rosy outlook. Unless something changes significantly, including a larger role for international medical graduates in the near term, Canada\u2019s relative doctor shortage will likely persist given current Canadian medical school enrolment and graduation counts. Canada\u2019s doctor shortage crisis at a glance: \u2022 How many people lack a doctor? About 5.7\u20136.5 million Canadian adults had no regular primary-care provider in 2024\u201325, roughly 16\u201318 per cent of the population. \u2022 Family doctor deficit today Health Canada estimates a current shortfall of roughly 22,800 family physicians versus demand, with only about 1,300 new family-medicine graduates a year\u2014far too few to close the gap. \u2022 Projected shortfall by 2028 RBC Economics projects Canada will be short around 44,000 physicians by 2028, including over 30,000 family doctors, unless training and recruitment. \u2022 Per-capita supply is low Canada trains about 7.5 new doctors per 100,000 people, roughly half the OECD average of 14.2, and has fewer physicians per capita than peers like France and Germany. Feature",
-      "link": "https://www.southasianpost.com/article/8914-canada%E2%80%99s-doctor-shortage-crisis-far-over.html",
-      "source": "Southasianpost",
-      "image": null,
-      "published": "2026-07-29 04:18:26",
+      "title": "Dr Mahathir's RM150mil defamation suit awaits medical update",
+      "description": "SHAH ALAM: The High Court will be updated on Friday on Tun Dr Mahathir Mohamad\u2019s condition and fitness to resume his RM150 million defamation suit against Prime Minister Datuk Seri Anwar Ibrahim.",
+      "link": "https://www.nst.com.my/news/nation/2026/07/1499586/dr-mahathirs-rm150mil-defamation-suit-awaits-medical-update",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/8822BF7252BF222DAD9EF717B30C208B_data_0.jpg",
+      "published": "2026-07-29 06:03:52",
       "category": [
-        "health",
+        "politics",
         "top"
       ],
       "country": [
-        "canada"
+        "malaysia"
       ]
     },
     {
-      "title": "XAUUSD | SMC & Price Action (1H)",
-      "description": "XAUUSD | SMC & Price Action (1H) Market Bias: Bearish Key Levels Supply: 4048\u20134055 & 4078\u20134085 Demand: 4000\u20134010 Liquidity Zones Buy-side liquidity above 4055. Sell-side liquidity below 4020 and 4000. BOS / CHOCH / FVG / Order Blocks Bearish BOS confirmed. Price respecting bearish Order Blocks (Supply). Unfilled FVG above supports a retracement before continuation. No bullish CHOCH yet. Entry Setup Sell on a pullback into 4048\u20134055 with bearish rejection. Stop Loss Above 4062 (above the supply zone). Targets TP1: 4020 TP2: 4005 TP3: 3985 Risk:Reward 1:3 Trade Probability Sell: 80% Buy: 20% (only after a confirmed bullish CHOCH) Retail Trap Retail traders often buy the first green candles after a drop. Smart Money typically uses these pullbacks to distribute positions before the next bearish leg. Trading Plan Wait for price to retrace into the supply/order block, confirm rejection with bearish price action, then target sell-side liquidity. \ud83d\udccc If price stays below 4055, my bias remains bearish.",
-      "link": "https://in.tradingview.com/chart/XAUUSD/Yk9NLYd0-XAUUSD-SMC-Price-Action-1H/",
-      "source": "Tradingview",
-      "image": "https://s3.tradingview.com/y/Yk9NLYd0_big.png",
-      "published": "2026-07-29 04:18:24",
+      "title": "Why Serbia\u2019s Most Successful Football Club and Party Appear Unchallengeable",
+      "description": "Red Star Belgrade and the Serbian Progressive Party have successive victories in common \u2013 and both benefit from a system that consistently reinforces the power of whoever is at the top.",
+      "link": "https://balkaninsight.com/2026/07/29/why-serbias-most-successful-football-club-and-party-appear-unchallengeable/bi/",
+      "source": "Balkan Insight",
+      "image": "https://balkaninsight.com/wp-content/uploads/2026/07/13932925-640x360.jpg",
+      "published": "2026-07-29 06:03:51",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "greece"
+      ]
+    },
+    {
+      "title": "Mysuru Has Tech Talent and Temper. So What\u2019s Stopping It?",
+      "description": "Industry leaders say Mysuru\u2019s biggest hurdles are no longer talent, but execution, infrastructure, and ambition.",
+      "link": "https://analyticsindiamag.com/ai-features/mysuru-has-tech-talent-and-temper-so-whats-stopping-it",
+      "source": "Analytics India Magazine",
+      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1785304993061-0r1cmt.webp",
+      "published": "2026-07-29 06:03:48",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Why Tata\u2019s Biggest Aviation Challenge Isn\u2019t Just Fixing Air India. It\u2019s Preventing Indian Aviation From Becoming A One-Horse Race",
+      "description": "India\u2019s aviation market has long been viewed as a duopoly. IndiGo dominates the skies, while the Tata Group\u2019s airlines, led by Air India, are expected to provide the only meaningful counterweight. That balance has shaped everything from ticket prices and route expansion to how aggressively airlines compete for passengers. But the latest numbers suggest that ...",
+      "link": "https://www.inventiva.co.in/trends/why-tatas-biggest-aviation-challenge-isnt-just-fixing-air-india-its-preventing-indian-aviation-from-becoming-a-one-horse-race/",
+      "source": "Inventiva",
+      "image": "https://www.inventiva.co.in/wp-content/uploads/2026/07/Air-India.avif",
+      "published": "2026-07-29 06:03:48",
       "category": [
         "top",
         "business"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Iran Says It \u2018Does Not Seek Escalation\u2019 After Sybiha Call Over Caspian Sea Strike, Demands Compensation",
+      "description": "Iran says it does not seek escalation with Ukraine after a rare high-level call between the two countries\u2019 foreign ministers following Kyiv\u2019s strike on an Iranian vessel in the Caspian Sea. Tehran demanded compensation for the damage, while Kyiv blamed Russia for the incident and urged Iran to end support for Moscow\u2019s war.",
+      "link": "https://www.kyivpost.com/post/81292",
+      "source": "Kyiv Post",
+      "image": "https://static.kyivpost.com/storage/2026/06/13/1f7a3c63319b7ec1357e91b35400f4a2.jpg?w=640&q=90&f=jpg",
+      "published": "2026-07-29 06:03:47",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Raw Ginger And Jaggery For Sore Throat: Does This Monsoon Remedy Work?",
+      "description": "A raw ginger and jaggery drink could help prevent rainy-weather throat infections. Here are the benefits for your respiratory system and the potential side effects the drink can pose.",
+      "link": "https://www.ndtv.com/health/could-a-raw-ginger-and-jaggery-drink-prevent-rainy-weather-throat-infections-11836435",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-07/16esobd_a-raw-ginger-and-jaggery-drink-_625x300_29_July_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "published": "2026-07-29 06:03:46",
+      "category": [
+        "breaking",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "After the Flock: A Greek Island Mourns its Sheep, Ponders its Future",
+      "description": "Amid an outbreak of foot-and-mouth disease, a massive cull of sheep and goats on Lesvos threatens livelihoods - and a way of life.",
+      "link": "https://balkaninsight.com/2026/07/29/after-the-flock-a-greek-island-mourns-its-sheep-ponders-its-future/bi/",
+      "source": "Balkan Insight",
+      "image": "https://balkaninsight.com/wp-content/uploads/2026/07/Stavros-flock-before-the-culling-courtesy-of-Stravros-family-640x360.jpg",
+      "published": "2026-07-29 06:03:45",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "greece"
+      ]
+    },
+    {
+      "title": "Mahakaleshwar Temple In MP\u2019s Ujjain Adds South Indian Menu Under Ek Bharat, Anek Parampara; Check Out Details",
+      "description": "Mahakaleshwar Temple In MP\u2019s Ujjain Adds South Indian Menu Under Ek Bharat, Anek Parampara; Check Out Details",
+      "link": "https://www.freepressjournal.in/lifestyle/mahakaleshwar-temple-in-mps-ujjain-adds-south-indian-menu-under-ek-bharat-anek-parampara-check-out-details",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-29/ic66qx31/Screenshot-2026-07-29-113323.png",
+      "published": "2026-07-29 06:03:44",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Ghana\u2019s tallest man dies at 33",
+      "description": "Sulemana Abdul Samed, popularly known as Awuche, Ghana\u2019s tallest man, has died at 33. Learn about his life, battle with gigantism, and legacy. Read More: https://punchng.com/ghanas-tallest-man-dies-at-33/",
+      "link": "https://punchng.com/ghanas-tallest-man-dies-at-33/",
+      "source": "Punch",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+      "published": "2026-07-29 06:03:44",
+      "category": [
+        "crime",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "nigeria"
       ]
     }
   ]

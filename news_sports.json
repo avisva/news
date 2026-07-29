@@ -1,16 +1,17 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Nevada football Fan Fest set Aug. 8 at Mackay Stadium",
-      "description": "Nevada Athletics will host its annual Football Fan Fest from 5-7 p.m. Saturday, Aug. 8, at Mackay Stadium. Fans may enter the Fan Fest through Jensen Plaza, located on the northwest point of Mackay Stadium.",
-      "link": "https://www.nevadaappeal.com/news/2026/jul/28/nevada-football-fan-fest-set-aug-8-at-mackay-stadium/",
-      "source": "Nevada Appeal",
-      "image": "https://nevadanewsgroup.media.clients.ellingtoncms.com/static-3/nevadaappeal/images/safe_image.php.jpeg",
-      "published": "2026-07-28 20:36:00",
+      "title": "How a mentor's example helped Chris Brooks Jr. earn a bigger role at Wisconsin",
+      "description": "The personal and football lessons Chris Brooks Jr. learned from a close friend have helped him become a respected voice on the Badgers roster.",
+      "link": "https://kenoshanews.com/sports/college/football/recruiting/article_e043aabe-edb9-5b3f-8e19-1571bf0e049d.html",
+      "source": "Kenosha News",
+      "image": null,
+      "published": "2026-07-28 23:23:00",
       "category": [
         "top",
+        "lifestyle",
         "sports"
       ],
       "country": [
@@ -18,12 +19,12 @@
       ]
     },
     {
-      "title": "Commonwealth Games 2026: Cameroon's Emmanuel Eseme storms to 100m men's gold in Games Record time - olympics.com",
-      "description": "Commonwealth Games 2026: Cameroon's Emmanuel Eseme storms to 100m men's gold in Games Record time olympics.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRTg4eG1UelNIZ1pCM2FuSzBCN1F3cFVSRi1XNWRfV3Z2QVoxbjYxY2Jwd2g2ekpiTU1hU1VZM0loazBnSGlDaFZVdW9kRHdtbDloRm51VFdRTE5kSmVqclpQMzBGU3IxMXkxbTdycGdlNzlyanF2b1d3VmNpbm1GYTgwYVozcEpxRVQyQ0YyaDBaV2diRHNHSlhkVzZ2aVhZQU5hY0FCN2k0X0xJaDFjcjZhamh3RzJTMW4xRlFvY2U4RXFNMG8wNw?oc=5",
-      "source": "Scenenewspaper.com",
-      "image": null,
-      "published": "2026-07-28 20:36:00",
+      "title": "49ers coach Kyle Shanahan corrects record, says crash was his fault",
+      "description": "Making his first public comments since being part of a head-on car accident earlier this month, Kyle Shanahan admitted fault on Tuesday for the collision that left him with serious injuries.",
+      "link": "https://www.yardbarker.com/nfl/articles/49ers_coach_kyle_shanahan_corrects_record_says_crash_was_his_fault/s1_17049_44112572",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/9/7/9754c95b1a313f26d904f0c580ddeef6e93fe0f2/thumb_16x9/28620444.jpg",
+      "published": "2026-07-28 23:22:57",
       "category": [
         "sports"
       ],
@@ -32,18 +33,33 @@
       ]
     },
     {
-      "title": "\u2018That\u2019s nuts!\u2019: Aussie sprint king and queen crowned as records tumble in Comm Games epics",
-      "description": "Lachlan Kennedy and Torrie Lewis broke the national records and finished on the podium in a thrilling night for Australian sprinting on a wet track at the Commonwealth Games in Glasgow.",
-      "link": "https://www.foxsports.com.au/commonwealth-games/commonwealth-games-2026-lachlan-kennedy-breaks-australian-100m-record-as-he-claims-silver-in-final-torrie-lewis-breaks-her-own-national-100m-record-ky-robinson-wins-10000m-final-results-latest-news/news-story/96b6f90f9b70ba6c2c7add84db4f64d2",
-      "source": "Fox Sports",
-      "image": null,
-      "published": "2026-07-28 20:36:00",
+      "title": "Soggy socks & a slathering of deep heat",
+      "description": null,
+      "link": "https://www.bundle.app/en/sports/soggy-socks-a-slathering-of-deep-heat-353902A5-BB03-471D-97CA-70540946F1FE",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/9e8bb7ec-f6d2-5e58-b621-02a07df965c3.jpg",
+      "published": "2026-07-28 23:22:14",
       "category": [
-        "breaking",
+        "top",
+        "lifestyle",
         "sports"
       ],
       "country": [
-        "australia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow",
+      "description": "Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances.",
+      "link": "https://ca.sports.yahoo.com/news/soppy-socks-slathering-deep-heat-230823576.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/ny/api/res/1.2/BB6Wqfiptnn.J2wUjvSKhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzUwO2NmPXdlYnA-/https://media.zenfs.com/en/bbc_us_articles_995/b22141d91388ce1ecd02440042052af4",
+      "published": "2026-07-28 23:22:14",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

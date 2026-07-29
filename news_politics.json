@@ -1,50 +1,88 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Keiko Fujimori set to take office as Peru president | International",
-      "description": "LIMA, July 28, 2026 (BSS/AFP) - Peru's right-wing president-elect Keiko Fujimori will take office on Tuesday, vowing to tackle the wave",
-      "link": "https://bssnews.net/international/409765/Keiko-Fujimori-set-to-take-office-as-Peru-president",
-      "source": "Bss",
-      "image": "https://www.bssnews.net/assets/news_photos/2026/07/28/image-409765-1785249444.jpg",
-      "published": "2026-07-28 20:36:00",
+      "title": "Arizona judge strikes down GOP ballot measure threatening teachers unions' existence",
+      "description": "Judge rules measure violates 'single-subject rule' by adding ban on labor negotiations with public entities.",
+      "link": "https://www.12news.com/article/news/local/arizona/arizona-judge-strikes-down-gop-ballot-measure-threatening-teachers-union-existence/75-76039386-1369-462f-bb39-8553a428a85b",
+      "source": "12news",
+      "image": "https://media.tegna-media.com/assets/KPNX/images/9365968d-5a4f-49fb-b2b1-ead84e9b4ce4/9365968d-5a4f-49fb-b2b1-ead84e9b4ce4_750x422.jpg",
+      "published": "2026-07-28 23:23:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "bangladesh"
+        "united states of america"
       ]
     },
     {
-      "title": "Vancouver City Council kills Villages Plan after fierce public backlash - Daily Hive",
-      "description": "Vancouver City Council kills Villages Plan after fierce public backlash Daily Hive Real estate: Vancouver council rejects controversial 'villages' plan, citing public backlash Vancouver Sun Residents in Vancouver's wealthiest neighbourhoods most opposed to \u2018villages\u2019 plan: Analysis Vancouver Sun",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZU5JbjUwSU96c3d4aTNxUV8ybWNDaktyeU1qQzRnN1ROZTBCejRubEFXcklteFdPRWZ0cHJTM2JhN3F2YTZZeTV5dG9pRUtSS3ZUS091bDBGTTBLQkVINXdUZHNyNnRsNExZV0NXeHFNRV9xSHV6YkVEVzFKR0kzWFV4R0UtSEdDUDRlSk1fRQ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-07-28 20:36:00",
+      "title": "Antwon Rose estate lawsuit against University of Pittsburgh to return to court in October",
+      "description": "A hearing at the City-County Building in Pittsburgh on Tuesday addressed accusations of attorney conflict and motions in a lawsuit filed by the estate of Antwon Rose against the University of Pittsburgh, which alleges the university is to blame for his death.",
+      "link": "https://www.wtae.com/article/antwon-rose-estate-lawsuit-university-of-pittsburgh-court-october/73287929",
+      "source": "Wtae-tv",
+      "image": "https://hips.hearstapps.com/htv-prod/images/antwon-rose-1529612501.jpg",
+      "published": "2026-07-28 23:23:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "canada"
+        "italy"
       ]
     },
     {
-      "title": "Voters choose a successor to U.S. Rep David Scott",
-      "description": "The special election will temporarily fill the Democrat's seat in Congress",
-      "link": "https://www.11alive.com/article/news/politics/elections/voters-choose-a-successor-to-us-rep-david-scott/85-5cfd6553-3418-41bf-8fdd-b554e312090e",
-      "source": "Alive",
-      "image": "https://media.tegna-media.com/assets/WXIA/images/19327c11-ccac-4506-ab72-8af2c8936639/20260728T185102/19327c11-ccac-4506-ab72-8af2c8936639_750x422.jpg",
-      "published": "2026-07-28 20:35:57",
+      "title": "Undocumented Student Applicants",
+      "description": "We welcome undocumented students to apply to UC Davis. Please visit the AB540 and Undocumented Student Center website to learn about resources and contact the center if you have questions about campus and community support.",
+      "link": "https://www.ucdavis.edu/undocumented-student-applicants",
+      "source": "University Of California, Davis",
+      "image": "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/undocumented-applicants-legal-assistance_0.jpg?h=4626e670&itok=n3j-EeAF",
+      "published": "2026-07-28 23:22:27",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "georgia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Higgins legal saga brought to a close with settlement",
+      "description": "The Commonwealth has settled a workplace lawsuit brought by former Liberal staffer Fiona Brown in relation to the Brittany Higgins legal saga.",
+      "link": "https://thewest.com.au/politics/higgins-legal-saga-brought-to-a-close-with-settlement-c-22643435",
+      "source": "The West",
+      "image": "https://images.thewest.com.au/publication/C-22643435/2d5c84f148e90121c3b0e585d0098cf9def09fab-16x9-x0y0w1280h720.jpg",
+      "published": "2026-07-28 23:22:26",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "US Senate confirms Trump nominee Clayton as nation's top spy",
+      "description": null,
+      "link": "https://www.reuters.com/world/us-senate-confirms-trump-nominee-clayton-nations-top-spy-2026-07-28/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/ZDYLZ3PT6FM3JAU4YFPBKWOCHU.jpg?auth=2ce6259c8d5cacd5c72c36d70475b58611670b9305f3b88df4fbc52b467229e6&smart=true&width=1920",
+      "published": "2026-07-28 23:22:13",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom",
+        "israel",
+        "iran",
+        "south africa",
+        "china",
+        "russia",
+        "ukraine",
+        "india",
+        "united states of america",
+        "japan"
       ]
     }
   ]

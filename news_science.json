@@ -1,22 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
-      "description": "Companies are making sure we have a surplus of options for building qubits.",
-      "link": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
-      "source": "Ars Technica",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-3-1152x648.png",
-      "published": "2026-07-29 17:37:47",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "united states of america",
-        "canada",
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

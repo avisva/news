@@ -1,17 +1,78 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Who is the Pensacola area's best wide receiver?",
-      "description": null,
-      "link": "https://www.pnj.com/story/sports/high-school/football/2026/07/30/vote-for-the-top-pensacola-area-wide-receiver/91066703007/",
-      "source": "Pensacola News Journal",
-      "image": null,
-      "published": "2026-07-30 09:06:00",
+      "title": "Benfica Face Defining Night Against St. Gallen",
+      "description": "Benfica return to the Esta\u0301dio da Luz on Thursday, 30 July, knowing that their European season is already at a crossroads.",
+      "link": "https://www.theportugalnews.com/news/2026-07-30/benfica-face-defining-night-against-st-gallen/1062788",
+      "source": "The Portugal News",
+      "image": "https://d1mnxluw9mpf9w.cloudfront.net/media/1785342622/Remate-de-Sudakov---EPA---Claudio-Thoma.jpg",
+      "published": "2026-07-30 11:03:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "portugal"
+      ]
+    },
+    {
+      "title": "The Daily Mauling: 7/30/26",
+      "description": "Kansas Jayhawks News Kansas is set to take on Duke in an exhibition game this October Lance Leipold is pushing to get big time high school football games in the state to be played in Lawrence and Manhattan Links! Two meteor showers will be peaking this week KFC is launching a new Simpsons themed menu [...]",
+      "link": "https://sports.yahoo.com/articles/daily-mauling-7-30-26-110300387.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/eb83597b7c72fe9bbcd74801a24207d9fbe9eed7e8eb19bedd11f24cec0d4b18/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F664befff212871b5b5b91e5159e527fc",
+      "published": "2026-07-30 11:03:00",
       "category": [
         "sports",
-        "top"
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "'It started to have an unhealthy effect on my life!' | Root on why he gave up Test captaincy in 2022",
+      "description": "Speaking after the New Zealand Test win in 2022, Joe Root explained why he'd taken the decision to step-away from Test captaincy.",
+      "link": "https://www.skysports.com/watch/video/13568416/joe-root-explains-why-he-gave-up-test-captaincy-in-2022-it-started-to-have-an-unhealthy-effect-on-my-life",
+      "source": "Sky Sports",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-root-joe-root_7310255.jpg?20260730121414",
+      "published": "2026-07-30 11:03:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia",
+        "united states of america",
+        "united kingdom",
+        "ireland"
+      ]
+    },
+    {
+      "title": "Transfer news and rumours today: Kalvin Phillips heading for Man City exit, PSG beat Liverpool to attacker deal",
+      "description": "Sports Mole rounds up the latest transfer news and rumours, including a return to Sheffield United for Manchester City midfielder Kalvin Phillips.",
+      "link": "https://www.sportsmole.co.uk/football/man-city/transfer-talk/news/transfer-news-and-rumours-phillips-heading-for-man-city-exit-psg-beat-liverpool-to-attacker_602130.html",
+      "source": "Sports Mole",
+      "image": "https://www.sportsmole.co.uk/thumbor/J5vpoxKiwyQyGxm-4Qs-VRK7QfA=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F02%2Fimago1072609840-699b0206d02b9867620287.jpg",
+      "published": "2026-07-30 11:03:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "What those close to Adam Silver are saying about the Kawhi Leonard probe",
+      "description": "The ongoing saga involving Kawhi Leonard continues to hover over the league, as more and more details come out on the situation. For those unaware, the Kawhi Leonard probe centers on whether the LA Clippers secretly bypassed the NBA\u2019s salary cap to pay him extra money.",
+      "link": "https://sports.yahoo.com/articles/those-close-adam-silver-saying-110257690.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/30bb0fe9d510dade62eb182b28a598fd65d6d12fbe3382818123b15dd8f5281c/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Fc7e6bf2342ccbdd906cd8c6498fc5dd0",
+      "published": "2026-07-30 11:02:57",
+      "category": [
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"

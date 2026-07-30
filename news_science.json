@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Mars' Double Storm Problem",
+      "description": "A new study presented at the Royal Astronomical Society's National Astronomy Meeting suggests that solar storms may warm the Martian lower atmosphere, but only when they strike during a major Martian dust storm. The discovery was accidental, emerging from a search for a different effect entirely, and hints that the weather system on Mars may be more tangled and interconnected than scientists previously assumed.",
+      "link": "https://www.universetoday.com/articles/mars-double-storm-problem",
+      "source": "Universe Today",
+      "image": "https://www.universetoday.com/article_images/jpegPIA22519.width-1440_20260730_110041.jpg",
+      "published": "2026-07-30 11:03:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "IIT Gandhinagar and Indian AI Research Organisation collaborate to advance AI research and education",
+      "description": "IIT Gandhinagar and IAIRO sign MoU to advance AI research, education, and innovation, fostering a robust ecosystem for talent development and joint initiatives.",
+      "link": "https://thenewsmill.com/2026/07/iit-gandhinagar-and-indian-ai-research-organisation-collaborate-to-advance-ai-research-and-education/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/07/iit-gandhinagar-and-indian-ai-research-organisation-collaborate-to-advance-ai-research-and-education.jpg",
+      "published": "2026-07-30 11:03:00",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mars' Double Storm Problem - Universe Today",
+      "description": "Mars' Double Storm Problem Universe Today Solar storms may alter the weather on Mars, study finds The Brighter Side of News Electrically Charged Mars Storms Threaten Future Exploration Universe Today",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYeHk2T21RTDZfczk0My15VGQwdWpLX0lVbE9DcFJ0YU1ESzlxd0hrVmoyaXFHRnQ3V1pVNThBaW93MHg1U2pRTjdtVTFjTndwQncyWEI5X1BzdGtoS09ZTWo2TmxpUEpHTHJNQ29henV0UQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-30 11:03:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

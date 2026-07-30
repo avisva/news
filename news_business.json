@@ -1,74 +1,14 @@
 {
   "status": "success",
-  "totalResults": 12,
+  "totalResults": 6,
   "results": [
     {
-      "title": "BREAKING NEWS: Japan PM to implement 2-yr food consumption tax cut to 1% from April",
-      "description": "BREAKING NEWS: Japan PM to implement 2-yr food consumption tax cut to 1% from April Read full story here",
-      "link": "https://english.kyodonews.net/articles/-/81116",
-      "source": "Kyodo News",
-      "image": "https://english-kyodo.ismcdn.jp/mwimgs/f/0/-/img_f04ab8cf4feb2039ac6638aa72ee6798451735.png",
-      "published": "2026-07-30 09:06:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Three in four SMEs in Malta and Gozo are uncertain or unwilling to invest in the coming months - PN",
-      "description": "The news that more than three quarters of small and medium-sized business owners, 78%, are either uncertain or believe that it would be unwise to invest over the next 12 months is concerning and confirms the climate of uncertainty facing this sector, which is so important to Malta's economy, the Nationalist Party said Thursday. The survey published by the Chamber of SMEs for the second quarter of 2026, covering April to June, once again confirms that the reality facing businesses is far removed from the positive picture the Government attempts to portray. While more than half of SMEs, 56%, remain uncertain, 22% said they are not prepared to invest over the next 12 months. Only 22%, around one in five, believe that this is an opportune time to invest. This means that three in four SMEs in Malta and Gozo do not foresee positive prospects in the coming months. Furthermore, the same SME Barometer survey, carried out by the Chamber of SMEs in collaboration with MISCO, shows that the majority of SMEs believe the country needs change because it is heading in the wrong direction. While 64% believe Malta is not heading in the right direction, only 36% believe the country is doing well. More concerningly, the proportion of respondents who believe Malta is heading in the wrong direction has increased since the first quarter of the year, when it stood at 59%, while the proportion who believe the country is doing well has fallen from 41% between January and March 2026. This further confirms what the PN has long maintained: Malta needs an improved economic model based on quality and capable of attracting investment, the party said. The survey also lists the reasons why small and medium-sized business owners believe the country is heading in the wrong direction. In order of priority, these include concerns about quality of life and wellbeing, a lack of planning and infrastructure problems, the cost of living and affordability, a lack of leadership and political direction, economic and financial pressures, the state of the environment, government regulation, and concerns relating to social issues and governance. The SME Barometer confirms what the PN has long argued: Malta needs a different economic direction that inspires confidence and optimism among business owners and Maltese and foreign investors. As part of the survey, SMEs were also asked to identify the most urgent issues the Government should address. These included population growth, cited by 40%; the lack of good governance, cited by 27%; the rising cost of living, cited by 22%; the protection of quality of life, cited by 21%; and corruption, cited by 18%. Of particular significance is the increase in the number of SMEs identifying unplanned population growth as an urgent issue that the Government must address, compared with the previous three months. SMEs in Malta and Gozo now view overpopulation as the country's most pressing problem, the PN said. When asked what is having the greatest negative impact on their businesses, owners identified challenges including labour shortages, unfair competition, the traffic crisis, the processing of visas for workers from outside the European Union, and the rising cost of living. The Opposition said it has been calling on the Government for years to address these challenges and has put forward several proposals to ensure that the Maltese people no longer have to face problems and difficulties created by this Government itself. Unfortunately, every proposal presented by the Opposition has been ignored by the Labour Government. The statement was signed by Michael Piccinino Shadow Minister for the Self-Employed, Small Enterprises and Cooperatives, and Darren Carabott, Shadow Minister for the Economy, Technology and Strategic Projects",
-      "link": "https://www.independent.com.mt/articles/2026-07-30/local-news/Three-in-four-SMEs-in-Malta-and-Gozo-are-uncertain-or-unwilling-to-invest-in-the-coming-months-PN-6736291782",
-      "source": "Malta Independent",
-      "image": "https://www.independent.com.mt/file.aspx?f=255406",
-      "published": "2026-07-30 09:06:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malta"
-      ]
-    },
-    {
-      "title": "VT Markets Reports Record-High Trading Volume of $8 Trillion",
-      "description": "The momentum is reflected across various key business metrics. Active users grew 70% compared to the second half of 2025 and out of the traders active during the period, 350,000 opened their first ...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69166366-vt-markets-reports-record-high-trading-volume-of-dollar-8-trillion-008.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN13667&Transmission_Id=202607300500PR_NEWS_EURO_ND__EN13667&DateId=20260730",
-      "published": "2026-07-30 09:06:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "EQT Real Estate to acquire 14-asset pan-European logistics portfolio for EUR 532 million",
-      "description": "STOCKHOLM, July 30, 2026 /PRNewswire/ -- EQT Real Estate has agreed to acquire a portfolio of 14 logistics properties across the UK, Germany and France from LogicorThe portfolio comprises approxim...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69166365-eqt-real-estate-to-acquire-14-asset-pan-european-logistics-portfolio-for-eur-532-million-008.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN15838&Transmission_Id=202607300459PR_NEWS_EURO_ND__EN15838&DateId=20260730",
-      "published": "2026-07-30 09:06:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "There's a 74% Chance SpaceX and Tesla Will Merge by May 2027, According to Kalshi -- but 2 Negatives Don't Make a Positive on Wall Street",
-      "description": "Though a SpaceX-Tesla merger would be nostalgic, it wouldn't make a lot of sense.",
-      "link": "https://www.fool.com/investing/2026/07/30/74-chance-tsla-spcx-will-merge-by-may-2027-kalshi/",
-      "source": "Fool",
-      "image": "https://g.foolcdn.com/editorial/images/880670/accountant-balance-sheet-corporate-income-statement-earnings-calculator-getty.jpg",
-      "published": "2026-07-30 09:06:00",
+      "title": "Gilat to Present at Upcoming Investor Conferences",
+      "description": "PETAH TIKVA, Israel, July 30, 2026 (GLOBE NEWSWIRE) -- Gilat Satellite Networks Ltd. (NASDAQ: GILT, TASE: GILT), a worldwide leader in satellite networking technology, solutions, and services, announced today that members of its management team will present at and attend the following upcoming conferences:",
+      "link": "https://www.globenewswire.com/news-release/2026/07/30/3335926/11105/en/Gilat-to-Present-at-Upcoming-Investor-Conferences.html",
+      "source": "Globe Newswire",
+      "image": null,
+      "published": "2026-07-30 11:03:00",
       "category": [
         "business"
       ],
@@ -77,107 +17,74 @@
       ]
     },
     {
-      "title": "Finland Q2 GDP Growth Remains Stable At 0.9%",
-      "description": "HELSINKI (dpa-AFX) - Finland's economy expanded at a steady pace in the second quarter, flash data from Statistics Finland showed on Thursday.Gross domestic product rose a seasonally and working-d...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69166364-finland-q2-gdp-growth-remains-stable-at-0-9-020.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/content/g/fb.png",
-      "published": "2026-07-30 09:06:00",
+      "title": "LD 79.5 million of exports processed through electronic \"Unified Export Window\" from April to July 2026: LEDA",
+      "description": "The Libyan Export Development Authority (LEDA) revealed yesterday that LD 79.5 million worth of exports were processed through its new electronic &quo...",
+      "link": "https://libyaherald.com/2026/07/ld-795-million-of-exports-processed-through-electronic-unified-export-window-from-april-to-july-2026-leda/",
+      "source": "Libyaherald",
+      "image": "https://ct.libyaherald.com/storage/2026/07/post/featured-image/22035/conversions/01KYSC363YSJQMEF1MCZ4VRTAK-featured-hero-webp.webp",
+      "published": "2026-07-30 11:03:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "germany"
+        "libya"
       ]
     },
     {
-      "title": "Huawei and partners chart a smarter, AI-native future for SA's public sector",
-      "description": "At the Digital AI+ Government Summit in Johannesburg, government, healthcare and industry leaders explored how trusted, locally anchored AI can power the next phase of SA's public service delivery.",
-      "link": "https://www.itweb.co.za/article/huawei-and-partners-chart-a-smarter-ai-native-future-for-sas-public-sector/o1Jr5MxPar2MKdWL",
-      "source": "Itweb",
-      "image": "https://www.itweb.co.za/static/pictures/2026/07/Huawei-Michael-Zhuang-30July2026.jpg",
-      "published": "2026-07-30 09:06:00",
+      "title": "LRA Initiates Change Readiness Tour to Boost Enterprise Change Strategy",
+      "description": "The Liberia Revenue Authority (LRA) has launched a nationwide Change Readiness Tour aimed at engaging employees across the country and assessing their preparedness for the Authority's ambitious institutional transformation agenda.",
+      "link": "https://www.liberianobserver.com/business/lra-initiates-change-readiness-tour-to-boost-enterprise-change-strategy/article_92e9cb76-8a44-4ab6-9b35-1ccb2b9ab546.html",
+      "source": "Liberian Observer",
+      "image": "https://bloximages.chicago2.vip.townnews.com/liberianobserver.com/content/tncms/assets/v3/editorial/5/fb/5fbf3e80-42f6-4a6d-9d48-a06d0c60db21/6a6b2ffade3ce.image.jpg?resize=300%2C200",
+      "published": "2026-07-30 11:03:00",
       "category": [
         "business"
       ],
       "country": [
-        "south africa"
+        "liberia"
       ]
     },
     {
-      "title": "Lukashenko calls for renewed development strategy for Horizont enterprises",
-      "description": "By the end of 2026, Horizont Holding Company must come up with an updated development strategy that sets clear targets for exports and localization, Belarusian President Aleksandr Lukashenko said on 30 July during a meeting on the company\u2019s future, which also covered the Brest Electric Lamp Plant.",
-      "link": "https://eng.belta.by/president/view/lukashenko-calls-for-renewed-development-strategy-for-horizont-enterprises-183945-2026/",
-      "source": "\u0411\u0435\u043b\u0442\u0430",
-      "image": "https://eng.belta.by/images/storage/news/with_archive/2026/000019_1785402465_183945_big.jpg",
-      "published": "2026-07-30 09:06:00",
+      "title": "Pagaya Reports Second Quarter 2026 Results & Raises Full-Year Net Income Guidance",
+      "description": "Pagaya Technologies Ltd. (NASDAQ: PGY) (\u201cPagaya\u201d, the \u201cCompany\u201d or \u201cwe\u201d), a global technology company delivering AI-driven product solutions for the financial ecosystem, today announced financial results for the second quarter 2026.",
+      "link": "https://www.financialcontent.com/article/bizwire-2026-7-30-pagaya-reports-second-quarter-2026-results-and-raises-full-year-net-income-guidance",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-30 11:03:00",
       "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "belarus"
-      ]
-    },
-    {
-      "title": "HINDPETRO Consolidated June 2026 Net Sales at Rs 140,584.25 crore, up 26.85% Y-o-Y",
-      "description": null,
-      "link": "https://www.moneycontrol.com/news/business/earnings/hindpetro-consolidated-june-2026-net-sales-at-rs-140584-25-crore-up-26-85-y-o-y-13988753.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg",
-      "published": "2026-07-30 09:05:59",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Eurozone Q2 preliminary GDP +0.4% vs +0.2% q/q expected",
-      "description": "Prior -0.2% GDP Y/Y +1.0% vs +0.5% expected Prior +0.3% This is much better than expected and will keep the ECB's tightening bias intact, with particular focus on inflation to limit potential second-round effects. In the second quarter of 2026, seasonally adjusted GDP increased by 0.4% in the Eurozone and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat. Compared with the same quarter of the previous year, seasonally adjusted GDP increased by 1.0% in the Eurozone and by 1.2% in the EU in the second quarter of 2026. This article was written by Giuseppe Dellamotta at investinglive.com.",
-      "link": "https://investinglive.com/news/eurozone-q2-preliminary-gdp-xx-vs-0-2-q-q-expected/",
-      "source": "Forexlive",
-      "image": "https://images.investinglive.com/fl-static/il-logo-colorful-dark.svg",
-      "published": "2026-07-30 09:05:59",
-      "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Flipkart now lets you pay for products within 30 days",
-      "description": "Flipkart has launched a new credit service called \"Flipkart Pay Later,\" in partnership with PayU Finance.",
-      "link": "https://www.newsbytesapp.com/news/business/flipkart-introduces-flipkart-pay-later-service/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l48120260730133208.jpeg",
-      "published": "2026-07-30 09:05:58",
+      "title": "NewEdge Advisors LLC Sells 75,889 Shares of Enterprise Products Partners L.P. $EPD",
+      "description": "NewEdge Advisors LLC cut its stake in shares of Enterprise Products Partners L.P. (NYSE:EPD \u2013 Free Report) by 20.1% in the first quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The fund owned 302,236 shares of the oil and gas producer\u2019s stock after selling 75,889 shares during [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13522379/newedge-advisors-llc-sells-75889-shares-of-enterprise-products-partners-l-p-epd.html",
+      "source": "Ticker Report",
+      "image": "https://www.marketbeat.com/logos/enterprise-products-partners-logo-1200x675.gif",
+      "published": "2026-07-30 11:02:56",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Mahindra's Q1 results: Net profit rises 6.8% to \u20b93,685cr",
-      "description": "Mahindra & Mahindra, a leading Indian automaker, has reported a 6.8% rise in its standalone profit after tax for the quarter ending June 30.",
-      "link": "https://www.newsbytesapp.com/news/business/mahindra-reports-6-8-rise-in-standalone-profit-for-q1/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l83620260730135546.jpeg",
-      "published": "2026-07-30 09:05:58",
+      "title": "Exelon: Q2 Earnings Snapshot",
+      "description": "Exelon Corp. (EXC) on Thursday reported second-quarter net income of $396 million.",
+      "link": "https://www.12news.com/article/syndication/associatedpress/exelon-q2-earnings-snapshot/616-802e0861-2813-4571-a51c-2ccb0bb9a762",
+      "source": "12news",
+      "image": "https://media.tegna-media.com/assets/AssociatedPress/images/94b44bf2-7de5-4bb8-a794-42694773374d/20260730T110521/94b44bf2-7de5-4bb8-a794-42694773374d_750x422.png",
+      "published": "2026-07-30 11:02:56",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

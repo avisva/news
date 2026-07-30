@@ -1,16 +1,105 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Mercedes won't give up its U.S. business without a fight",
-      "description": "Mercedes-Benz's diversified ownership structure could come back to bite the German automaker if a recent bill passed by an influential Senate Committee is en...",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mercedes-wont-u-business-without-110300470.html",
-      "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/thestreet_881/1d11f6e835d858e98412b5c6573443ba",
-      "published": "2026-07-29 11:03:00",
+      "title": "Vijay Deverakonda completes 10 glorious years as a lead actor",
+      "description": "Vijay Deverakonda has completed 10 glorious years as a lead actor in his remarkable career. His first film as a solo lead,... The post Vijay Deverakonda completes 10 glorious years as a lead actor first appeared on Latest Telugu cinema news | Movie reviews | OTT Updates, OTT .",
+      "link": "https://www.123telugu.com/mnews/vijay-deverakonda-completes-10-glorious-years-as-a-lead-actor-prp.html",
+      "source": "123telugu.com",
+      "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/07/Vijay-2.webp",
+      "published": "2026-07-29 14:07:58",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "How To File Your ITR For AY 2026-27: Step-By-Step Guide For Online Mode",
+      "description": "Learn how to file ITR online for AY 2026-27 with detailed instructions on the income tax portal.",
+      "link": "https://www.ndtv.com/offbeat/how-to-file-your-itr-for-ay-2026-27-step-by-step-guide-for-online-mode-11839152",
+      "source": "Ndtv",
+      "image": null,
+      "published": "2026-07-29 14:07:57",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Woman set ablaze by 'Insta friend' dies in Erode",
+      "description": "The deceased, Vinodini, from Bharathi Nagar in Erode, had separated from her husband from Tirupur owing to some differences, and was living with her four-year-old son in a house near her parents' residence over the last two years",
+      "link": "https://www.dtnext.in/news/tamilnadu/woman-set-ablaze-by-insta-friend-dies-in-erode",
+      "source": "Dt Next",
+      "image": "https://media.assettype.com/dt-next/2026-07-29/1qb32jl2/1-7.jpg",
+      "published": "2026-07-29 14:07:56",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "CISF Come Out Flying on Top at Pencak Silat Event",
+      "description": "CISF bagged 12 golds, four silvers and four bronze medals to finish ahead of Sashastra Seema Bal (SSB), who tallied eight golds, four silvers and three bronzes. Maharashtra were third with two gold, three silver and four bronze medals.",
+      "link": "https://www.deccanchronicle.com/sports/cisf-come-out-flying-on-top-at-pencak-silat-event-1974966",
+      "source": "Andhrabhoomi",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/29/2069998-paramu-clipboard-1.webp",
+      "published": "2026-07-29 14:07:54",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "ICC punishes Pakistan seamers after defeat against West Indies in first Test",
+      "description": "Pakistan bowlers Mohammad Abbas and Khurram Shahzad faced ICC sanctions for code of conduct breaches. Shahzad received a fine and demerit point for his aggressive celebration after a dismissal. Abbas was officially reprimanded and given a demerit point for a similar on-field action. Both players accepted responsibility for their actions, concluding the process without formal hearings. This disciplinary action follows Pakistan's opening Test defeat against the West Indies.",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-punishes-pakistan-seamers-after-defeat-against-west-indies-in-first-test/articleshow/132714258.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132714237/132714237.jpg",
+      "published": "2026-07-29 14:07:54",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Eicher Motors Q1 Results: Royal Enfield-Maker Posts 21% Jump In Profit; Revenue Meets Estimates",
+      "description": "Eicher Motors' revenue saw a 31.5% increase to Rs 6,632 crore.",
+      "link": "https://www.ndtvprofit.com/markets/eicher-motors-q1-results-royal-enfield-maker-posts-21-jump-in-profit-revenue-meets-estimates-11838830",
+      "source": "Ndtv Profit",
+      "image": "https://c.ndtvimg.com/2026-05/umfb0g1k_royal-enfield_625x300_22_May_26.jpg",
+      "published": "2026-07-29 14:07:51",
       "category": [
         "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "YMCA Narayanguda To Conduct 26th Kargil Victory Sports Festival",
+      "description": "The YMCA of Greater Hyderabad's Narayanguda branch will organise the 26th Annual Kargil Victory Sports Festival from August 6 to 8.",
+      "link": "https://www.deccanchronicle.com/sports/ymca-narayanguda-to-conduct-26th-kargil-victory-sports-festival-1974965",
+      "source": "Andhrabhoomi",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/29/2069997-kargilsportsfestival.webp",
+      "published": "2026-07-29 14:07:48",
+      "category": [
+        "top",
+        "sports"
       ],
       "country": [
         "india"

@@ -1,20 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Empire State building-sized asteroid to pass close to Earth: What scientists know",
-      "description": "Empire State building-sized asteroid to pass close to Earth: What scientists know A giant asteroid the size of an Empire State building is set to soar past Earth and the best thing it will be visible to billions of people around the world if the conditions are suitable. The massive asteroid...",
-      "link": "https://www.thenews.com.pk/latest/1410586-empire-state-building-sized-asteroid-to-pass-close-to-earth-what-scientists-know",
-      "source": "The News International",
-      "image": "https://www.thenews.com.pk/assets/uploads/2026-07-29/1410586_040323_updates.jpg",
-      "published": "2026-07-29 11:03:00",
+      "title": "Science180 Announces Release of From Science to Bible's Conclusions, Exploring Mathematics, Creation, and the Origins of Life",
+      "description": "Augusta, Georgia--(Newsfile Corp. - July 29, 2026) - Science180 (www.Science180.com) has announced the release of From Science to Bible's Conclusions,...",
+      "link": "https://www.financialcontent.com/article/newsfile-2026-7-29-science180-announces-release-of-from-science-to-bibles-conclusions-exploring-mathematics-creation-and-the-origins-of-life",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-29 14:08:00",
       "category": [
-        "science",
-        "technology"
+        "science"
       ],
       "country": [
-        "pakistan"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "ICC punishes Pakistan seamers after defeat against West Indies in first Test",
+      "description": "Pakistan bowlers Mohammad Abbas and Khurram Shahzad faced ICC sanctions for code of conduct breaches. Shahzad received a fine and demerit point for his aggressive celebration after a dismissal. Abbas was officially reprimanded and given a demerit point for a similar on-field action. Both players accepted responsibility for their actions, concluding the process without formal hearings. This disciplinary action follows Pakistan's opening Test defeat against the West Indies.",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-punishes-pakistan-seamers-after-defeat-against-west-indies-in-first-test/articleshow/132714258.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132714237/132714237.jpg",
+      "published": "2026-07-29 14:07:54",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

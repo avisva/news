@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Witnesses to alleged antisemitic netball incident granted anonymity",
-      "description": "Witnesses will be granted anonymity when giving evidence against a woman alleged to have made antisemitic comments at a children's netball game in Sydney out of concern for their safety.",
-      "link": "https://www.abc.net.au/news/2026-07-30/non-pub-order-for-witnesses-alleged-antisemitic-netball-sydney/106978254",
-      "source": "Abc",
-      "image": "https://live-production.wcms.abc-cdn.net.au/d4fc7b7675341bb4c9c96bbc6d3f7161?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-      "published": "2026-07-30 07:20:57",
+      "title": "How views on Trump\u2019s handling of Iran have shifted, according to a new AP-NORC poll - AP News",
+      "description": "How views on Trump\u2019s handling of Iran have shifted, according to a new AP-NORC poll AP News Trump loses ground with GOP as overall approval sinks to 32 percent: Quinnipiac poll The Hill Americans feel pinch of continued Iran war: \u2018It\u2019s screwed everything up\u2019 The Guardian CBS News poll finds Iran conflict marked by feelings of uncertainty; most say it's more difficult than Trump had expected CBS News Trump sees approval rating boost amid unpopular Iran war, poll shows USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2prN282V24wLTlNdWt6TFM0VURZSjF5SktyblBSWmNPeGtidHNKd09ZVkdmMnlZS3hUbEJmWFE0NUVaVHAyVW5PX0lQY0Vqa19sVW83NWQyVW9qRXR4MGVyVVpPV3lEeVg3czR6UElsdG1ZSHZWXzRKcER2ZFBGM2ZBU3JLOUNhX3RQV0lpMmtHdjYtc1pIQ0lNLUFMX2dqUVlIc1ozdHdQQXVNRWc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-30 09:06:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "australia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Poland issues major update over 'Russian missile entering NATO airspace' as tensions soar",
+      "description": "NATO scrambled fighter jets overnight following concerning reports.",
+      "link": "https://www.express.co.uk/news/world/2234384/poland-nato-russia-missile",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2234384_1.jpg",
+      "published": "2026-07-30 09:06:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "PM Modi chairs high-level meeting with senior ministers, NSA Doval",
+      "description": "Prime Minister Narendra Modi is currently leading a high-level meeting in New Delhi. The meeting includes senior Union ministers and top government officials.",
+      "link": "https://www.newsbytesapp.com/news/india/pm-modi-chairs-high-level-meeting-with-senior-ministers-nsa/story",
+      "source": "Newsbytes",
+      "image": "https://i.cdn.newsbytesapp.com/images/l290_34061785401451.jpg",
+      "published": "2026-07-30 09:05:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

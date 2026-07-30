@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "More than 40 WA legislators make bipartisan plea for developmental disabilities program - Wed, 29 Jul 2026 PST",
+      "description": "A bipartisan group of nearly four dozen Washington lawmakers is urging the state to maintain a program considered vital among parents of children with developmental disabilities.",
+      "link": "http://www.spokesman.com/stories/2026/jul/29/more-than-40-wa-legislators-make-bipartisan-plea-f/",
+      "source": "Spokesman",
+      "image": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
+      "published": "2026-07-29 23:05:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cowra Guardian, Thursday 30 July 2026",
+      "description": null,
+      "link": "https://www.cowraguardian.com.au/digital-editions/cowra-guardian-thursday-30-july-2026-i7gz8bm3",
+      "source": "Cowra Guardian",
+      "image": "https://images.cowraguardian.com.au/view/acePublic/alias/contentid/1sr4bkiekfxlkm93j7t/0/page_1-jpg.webp",
+      "published": "2026-07-29 23:05:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

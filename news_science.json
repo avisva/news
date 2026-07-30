@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Scientists Map Moon Regolith to Aid Lunar Bases",
+      "description": "A strong foundation is key for any building construction, and this doesn\u2019t just apply to construction on Earth. As humanity slowly expands throughout the many worlds of our solar system, and possibly beyond, understanding the planetary surfaces is key to constructing long-lasting habitats beyond Earth. Thus, it\u2019s only natural this venture begins with our own Moon, which is the target of a permanent lunar south pole base by NASA. While the Moon is covered by a thin layer of dust, also called regolith, it\u2019s vital for engineers to know the thickness of this regolith to know the safest locations to construct future lunar habitats and buildings.",
+      "link": "https://www.universetoday.com/articles/scientists-map-moon-regolith-to-aid-lunar-bases",
+      "source": "Universe Today",
+      "image": "https://www.universetoday.com/article_images/Low-Res_rego2_20260730_014740.jpg",
+      "published": "2026-07-30 01:52:50",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Case-based evaluation of emergency parking bay installation in three-lane loess tunnels in the loess plateau of Shaanxi Province - Nature",
+      "description": "Case-based evaluation of emergency parking bay installation in three-lane loess tunnels in the loess plateau of Shaanxi Province Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3d3pzYmpjSVl5TjJfekt5WUFrczVlWWtncGd6NGhmanJPRFNSbGhhOEJtdWg0a1hlLWUtb21sU0NrcjBYbkxfRlh1RlBRRkZXa0tHcXZYWkN0Rnk4SW5F?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-30 01:52:46",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "singapore"
+      ]
+    }
+  ]
 }

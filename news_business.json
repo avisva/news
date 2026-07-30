@@ -1,42 +1,29 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 7,
   "results": [
     {
-      "title": "NAB\u2019s worrying signals on home loans in \u2018challenging environment\u2019",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/business/markets/meta-microsoft-earnings-come-after-dow-jones-drops-1100-points/live-coverage/876c63a90b9ad3a7400e4517796dd9f5",
-      "source": "The Australian",
+      "title": "Japanese population below 120 million for first time in decades",
+      "description": "TOKYO - The number of Japanese people living in the country has fallen below 120 million for the first time in 42 years, government data showed Wednesday, as the nation confronts a low birth rate and an ageing society.",
+      "link": "https://www.bangkokpost.com/world/3293875/japanese-population-below-120-million-for-first-time-in-decades",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260730/c1_6171825.jpg",
+      "published": "2026-07-30 01:53:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "Maximising Retail Sales with Product-Based Advertising",
+      "description": "In the fast-paced world of retail, standing out from the competition can feel like an uphill battle. While traditional advertising methods still hold value, product-based advertising has burst onto the scene as a game-changer for retailers. Imagine showcasing your products...",
+      "link": "https://www.shelbynews.com/sponsored/maximising-retail-sales-with-product-based-advertising/article_478fc3fa-906e-527a-b6cc-2aeeb992d9d0.html",
+      "source": "Shelbynews Com",
       "image": null,
-      "published": "2026-07-29 23:05:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Price of a sea-view home surges by 27% \u2013 which coastal location has the biggest premium?",
-      "description": "The asking price growth for homes with a sea-view is outpacing the national average. We look at the places with the highest premiums.",
-      "link": "https://moneyweek.com/investments/property/price-of-sea-view-home-surges",
-      "source": "Moneyweek",
-      "image": "https://cdn.mos.cms.futurecdn.net/YMUNAHJsLmJwChD7hXbY23-1280-80.jpg",
-      "published": "2026-07-29 23:05:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Oil Terminal Operator Sues City of Portland for Delaying Transfer of Franchise Agreement",
-      "description": "Zenith Terminals LLC today filed a lawsuit alleging the city of Portland has unreasonably delayed approving the transfer of Zenith\u2019s franchise agreement with the city to a purchaser of the terminal.",
-      "link": "https://www.wweek.com/news/courts/2026/07/29/oil-terminal-operator-sues-city-of-portland-for-delaying-transfer-of-franchise-agreement/",
-      "source": "Willamette Week",
-      "image": "https://www.wweek.com/resizer/DfxwOc8715cq-sZOdybcPRC3xG8=/cloudfront-us-east-1.images.arcpublishing.com/wweek/ZOGDPFTR2RGRDLHENM76SJRSLM.jpg",
-      "published": "2026-07-29 23:05:00",
+      "published": "2026-07-30 01:53:00",
       "category": [
         "business",
         "top"
@@ -46,14 +33,73 @@
       ]
     },
     {
-      "title": "Prediction: 1 Reason Uranium Demand Should Spike 140% by 2050",
-      "description": "Nuclear energy generation is expected to rise significantly.",
-      "link": "https://www.fool.com/investing/2026/07/29/prediction-1-reason-uranium-demand-should-spike-14/",
-      "source": "Fool",
-      "image": "https://g.foolcdn.com/editorial/images/880866/gettyimages-2215921629-1200x750-7d59391-1.jpg",
-      "published": "2026-07-29 23:05:00",
+      "title": "Mill conversion plan approved five years ago \u2018back in play\u2019",
+      "description": "Controversial plans to convert part of mill in Hebden Bridge into 18 apartments are back in play - five years after approval was originally granted.",
+      "link": "https://www.thetelegraphandargus.co.uk/news/26421353.apartments-plan-linden-mill-hebden-bridge-back-play/",
+      "source": "Telegraph & Argus",
+      "image": null,
+      "published": "2026-07-30 01:53:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Cricketer dubbed 'Clicky Ponting' suspended as stats show unusual trend",
+      "description": "The club at the centre of the '\"Clicky Ponting\" amateur cricket scandal suspends the player allegedly involved, as data shows dramatic increases in catches when he has played.",
+      "link": "https://www.abc.net.au/news/2026-07-30/clicky-ponting-suspended-as-cricket-investigation-continues/106975696",
+      "source": "Abc",
+      "image": "https://live-production.wcms.abc-cdn.net.au/16c87db3706e79d6cf82443a48b1311d?impolicy=wcms_crop_resize&cropH=434&cropW=771&xPos=0&yPos=68&width=862&height=485",
+      "published": "2026-07-30 01:52:50",
       "category": [
         "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Top Energy Firms Line Up Bids for BP\u2019s Prized Egypt Gas Portfolio",
+      "description": "LONDON \u2013 Major energy companies are preparing to submit bids this week for BP\u2019s offshore natural gas assets in Egypt. The British oil giant is selling parts of its West Nile Delta operations to reduce debt and simplify its global business under new leadership. This high-stakes sale happens right as Egypt faces a tough energy [...] <p>The post Top Energy Firms Line Up Bids for BP\u2019s Prized Egypt Gas Portfolio first appeared on Chiang Rai Times .</p>",
+      "link": "https://www.chiangraitimes.com/business/bp-sells-egypt-gas-portfolio/",
+      "source": "Ctn News - Chiang Rai Times",
+      "image": "https://i0.wp.com/www.chiangraitimes.com/wp-content/uploads/2026/07/Energy-firms-line-up-bids-for-BPs-Egypt-gas-portfolio.jpeg",
+      "published": "2026-07-30 01:52:45",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "CDC: 38% of U.S. Adults Have Prediabetes. Most Don't Know It.",
+      "description": "OKLAHOMA CITY, OK - The CDC's National Diabetes Statistics Report puts the number plainly: approximately 98 million American adults, 38% of the adult population, have prediabetes, and more than 80% of them don't know it. That's not a screening failure",
+      "link": "https://www.openpr.com/news/4590876/cdc-38-of-u-s-adults-have-prediabetes-most-don-t-know-it",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/7/3/730134092_k.jpg",
+      "published": "2026-07-30 01:52:25",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Dyne Therapeutics Reports Second Quarter 2026 Financial Results and Recent Business Highlights",
+      "description": null,
+      "link": "https://www.biospace.com/press-releases/dyne-therapeutics-reports-second-quarter-2026-financial-results-and-recent-business-highlights",
+      "source": "Biospace",
+      "image": "https://static.biospace.com/dims4/default/d32393a/2147483647/strip/true/crop/1120x630+40+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F88%2Fa9fddaf440db946b77e1d45d2e26%2Fbiospace-5.png",
+      "published": "2026-07-30 01:52:20",
+      "category": [
+        "business",
+        "top"
       ],
       "country": [
         "united states of america"

@@ -1,17 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Conn. Bans Most In-Cell Restraints To Settle Prison Lawsuit",
-      "description": null,
-      "link": "https://www.law360.com/articles/2507880/conn-bans-most-in-cell-restraints-to-settle-prison-lawsuit",
-      "source": "Law360",
-      "image": null,
-      "published": "2026-07-30 21:41:54",
+      "title": "Boston to host second National Urban Rat Summit",
+      "description": "\u201cBoston is a home for everyone\u2014except rats,\" Mayor Michelle Wu said in a statement announcing the Sept. 23-34 meeting.",
+      "link": "https://www.bostonglobe.com/2026/07/30/metro/city-hosts-national-urban-rat-summit-fall/",
+      "source": "The Boston Globe",
+      "image": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/7SX6NYSSW2CMXGYUS54KUOXZYI.jpg?auth=60f10ef572170e6a26e9260b16095099eff80aa8bbbc2be1c6c079516e66bc75&smart=true&width=2041&height=1355",
+      "published": "2026-07-30 23:56:58",
       "category": [
-        "top",
-        "politics"
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ukraine's envoy to US says 'We need the missiles'",
+      "description": null,
+      "link": "https://www.bundle.app/en/breaking-news/ukraines-envoy-to-us-says-we-need-the-missiles-CB4E9307-AE29-4B31-9ECB-E3FFB996F3C1",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/3a497ffc-486b-5eba-abab-05358c1f5a76.jpg",
+      "published": "2026-07-30 23:56:51",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"

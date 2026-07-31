@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "The best beauty and wellness products of 2026, according to USA TODAY",
-      "description": "Our product experts combed through thousands of beauty products to find the absolute best of 2026.",
-      "link": "https://www.daily-jeff.com/story/shopping/style/beauty/2026/07/31/the-best-beauty-and-wellness-products-of-2026/91037011007/",
-      "source": "The Daily Jeffersonian",
-      "image": "https://www.daily-jeff.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91009116007-beauty-and-wellness.jpg?crop=2499,1406,x0,y130&width=1600&height=800&format=pjpg&auto=webp",
-      "published": "2026-07-31 04:43:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

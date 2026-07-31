@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Alliant Energy Reaffirms 2026 Outlook as Data Center Growth Supports Demand",
+      "description": "Alliant Energy reaffirmed its full-year 2026 earnings guidance after reporting slightly lower second-quarter earnings, as the regulated utility pointed to continued investment in infrastructure and accelerating electricity demand from large customers, including data centers. The company reported...",
+      "link": "https://biztoc.com/x/eaa618f10c53d24f",
+      "source": "Biztoc",
+      "image": "https://cdn.biztoc.com/eaa618f10c53d24f_s.webp",
+      "published": "2026-07-31 02:14:56",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

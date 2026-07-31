@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Boston to host second National Urban Rat Summit",
-      "description": "\u201cBoston is a home for everyone\u2014except rats,\" Mayor Michelle Wu said in a statement announcing the Sept. 23-34 meeting.",
-      "link": "https://www.bostonglobe.com/2026/07/30/metro/city-hosts-national-urban-rat-summit-fall/",
-      "source": "The Boston Globe",
-      "image": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/7SX6NYSSW2CMXGYUS54KUOXZYI.jpg?auth=60f10ef572170e6a26e9260b16095099eff80aa8bbbc2be1c6c079516e66bc75&smart=true&width=2041&height=1355",
-      "published": "2026-07-30 23:56:58",
+      "title": "A State Department political appointee simultaneously running USAGM would turn a trustworthy journalism source into state propaganda, pleasing US adversaries (Clayton Weimers/The National Interest)",
+      "description": "Clayton Weimers / The National Interest : A State Department political appointee simultaneously running USAGM would turn a trustworthy journalism source into state propaganda, pleasing US adversaries \u2014 Putting the US Agency for Global Media under effective Trump administration control would be a boon to US adversaries.",
+      "link": "https://mediagazer.com/260730/p25",
+      "source": "Mediagazer",
+      "image": "https://nationalinterest.org/wp-content/uploads/2026/07/USAGM-VOA-07282026-SS-scaled-e1785285688999.jpg",
+      "published": "2026-07-31 02:15:00",
       "category": [
         "politics",
         "top"
@@ -18,15 +18,30 @@
       ]
     },
     {
-      "title": "Ukraine's envoy to US says 'We need the missiles'",
-      "description": null,
-      "link": "https://www.bundle.app/en/breaking-news/ukraines-envoy-to-us-says-we-need-the-missiles-CB4E9307-AE29-4B31-9ECB-E3FFB996F3C1",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/3a497ffc-486b-5eba-abab-05358c1f5a76.jpg",
-      "published": "2026-07-30 23:56:51",
+      "title": "\u2018Will continue to inspire every generation\u2019: PM Modi pays tribute to Udham Singh on martyrdom day",
+      "description": "New Delhi, July 31 (SocialNews.XYZ) Prime Minister Narendra Modi on Friday paid tribute to the great revolutionary martyr Udham Singh on his martyrdom day and said that his life story full of courage will continue... The post \u2018Will continue to inspire every generation\u2019: PM Modi pays tribute to Udham Singh on martyrdom day appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/07/30/will-continue-to-inspire-every-generation-pm-modi-pays-tribute-to-udham-singh-on-martyrdom-day/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/31/202607313885385.jpg?fit=2048%2C1384&quality=80&zoom=1&ssl=1",
+      "published": "2026-07-31 02:14:58",
       "category": [
         "politics",
         "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump promoted election changes come to Iowa",
+      "description": null,
+      "link": "https://www.thegazette.com/newsletters/intro/trump-promoted-election-changes-come-to-iowa/article_e5f9b3e9-2d17-4324-8f58-07da5bf3e6c2.html",
+      "source": "The Gazette",
+      "image": null,
+      "published": "2026-07-31 02:14:44",
+      "category": [
+        "top",
+        "politics"
       ],
       "country": [
         "united states of america"

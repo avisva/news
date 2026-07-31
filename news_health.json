@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Niles residents unveil Four Flags Fit",
+      "description": "NILES \u2014 A new community project is taking shape in Niles. Graduates of the Community Leadership Academy unveiled Four Flags Fit, an outdoor fitness club designed to bring residents together through shared physical activity, during a celebration Wednesday, July 29,...",
+      "link": "https://www.heraldpalladium.com/leaderpub/communities/niles/niles-residents-unveil-four-flags-fit/article_d5a0b6b9-a8bf-57ed-b92c-b48829e8c34b.html",
+      "source": "Herald Palladium",
+      "image": "https://bloximages.chicago2.vip.townnews.com/heraldpalladium.com/content/tncms/assets/v3/editorial/d/31/d314e02c-b473-5d47-9f4b-aeef0ae16e4c/6a6b952fd37b0.image.jpg?resize=300%2C225",
+      "published": "2026-07-30 18:10:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

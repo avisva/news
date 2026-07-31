@@ -3,34 +3,32 @@
   "totalResults": 2,
   "results": [
     {
-      "title": "IIT Gandhinagar and Indian AI Research Organisation collaborate to advance AI research and education",
-      "description": "IIT Gandhinagar and IAIRO sign MoU to advance AI research, education, and innovation, fostering a robust ecosystem for talent development and joint initiatives.",
-      "link": "https://thenewsmill.com/2026/07/iit-gandhinagar-and-indian-ai-research-organisation-collaborate-to-advance-ai-research-and-education/",
-      "source": "The News Mill",
-      "image": "https://thenewsmill.com/wp-content/uploads/2026/07/iit-gandhinagar-and-indian-ai-research-organisation-collaborate-to-advance-ai-research-and-education.jpg",
-      "published": "2026-07-30 11:03:00",
+      "title": "Google Pixel 4a boot loop bug finally fixed after 2 months",
+      "description": "Google Pixel 4a users had a rough time, because after Google intentionally cut the battery life of many Pixel 4a devices in half via a software update, the smartphone became nearly unusable in some cases due to a boot loop issue. The July update finally fixes this bug.",
+      "link": "https://www.notebookcheck.net/Google-Pixel-4a-boot-loop-bug-finally-fixed-after-2-months.1356047.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pixel-4a.jpg",
+      "published": "2026-07-30 14:36:00",
       "category": [
         "top",
-        "science",
         "technology"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Qatar\u2019s QCB Rules Are Reshaping How PSPs Enter the Gulf. Here Is What That Looks Like in Practice.",
-      "description": "Data localisation mandates are no longer a compliance footnote in the MENA payments market. For payment service providers operating in Qatar, they define the entire technology strategy. Volodymyr Kuiantsev, Co-Founder and CEO of Akurateco, shares what it took to help TESS Payments secure a QCB licence and build regulated infrastructure without losing years to proprietary development. The Gulf payments market is growing faster than most Western markets and is more regulated than almost all of them. That combination creates a specific problem for payment service providers: speed-to-market and regulatory compliance pull in opposite directions, and there is rarely a clean way to satisfy both. In Qatar, that tension is especially sharp. The Qatar Central Bank (QCB) requires that PSPs process and store all payment data within the country. There are no exceptions for cloud-based workarounds hosted offshore. If you want a QCB licence, your infrastructure has to live in Qatar. Full stop. TESS Payments understood this before they started. Operating since 2016, TESS serves a client base that includes Qatar National Bank, Doha Bank, and Qatar Development Bank \u2014 institutions that have zero tolerance for infrastructure ambiguity. The challenge was not awareness of the rules. It was figuring out how to meet them within a realistic timeframe. Why Building from Scratch Was Not the Answer When a PSP enters a new regulated market, the default assumption in the industry is often that serious operators build their own stack. In practice, that model almost never works at the pace the market demands. A full proprietary payment platform \u2014 gateway, routing engine, merchant management system, tokenisation, fraud prevention, analytics \u2014 takes two to three years to build, assuming no major technical setbacks. Add the time to onboard acquiring partners, pursue certification, and navigate the licence application process, and a PSP that starts building from scratch in Qatar today will not be operating at scale for the better part of a decade. TESS took a different route. After evaluating the options, they selected a white-label payment platform as their foundation \u2014 one already familiar with MENA\u2019s regulatory landscape and pre-integrated with the connectors that matter in Qatar: NAPS (the national ATM and POS network), Doha Bank, and Mastercard Payment Gateway Services (MPGS). That pre-integration alone eliminated months of development work. Licensing First, Infrastructure Second The deployment began on a cloud-based SaaS platform. This was a deliberate choice, not a temporary workaround. Running on SaaS allowed TESS to demonstrate operational capacity to the QCB ahead of the licence application, process real transactions with real clients, and accumulate the compliance history that regulators look for before granting a PSP licence. Akurateco\u2019s team supported TESS directly through the QCB application process. Experience with the QCB\u2019s requirements, gained through prior regional deployments, meant the team could anticipate what auditors would scrutinise and prepare documentation accordingly. TESS obtained its QCB PSP licence. This is not a minor milestone: it is the legal foundation for operating in the Qatari payments market at all. PCI DSS certification followed. Again, Akurateco\u2019s familiarity with certification standards shortened the process significantly. TESS is now both QCB-licensed and PCI DSS-certified \u2014 the two credentials that institutional clients and enterprise merchants in Qatar require before they will engage with a PSP. The On-Premises Migration: Getting Infrastructure Inside Qatar With the licence secured and operations validated, the next phase was the migration to dedicated on-premises infrastructure. TESS selected Microsoft Azure, deployed locally within Qatar, as the host environment. The choice aligned with their operational requirements and Akurateco\u2019s infrastructure compatibility. Akurateco\u2019s engineering team managed the migration planning and executed the transition in coordination with Azure\u2019s technical support. The critical design requirement was continuity: TESS\u2019s merchants could not experience downtime during the migration. The solution was to run SaaS and on-premises systems in parallel during the switchover, synchronising transaction data across both environments until the migration was complete. The result is an Akurateco\u2019s on-premises gateway deployed fully within Qatar, meeting QCB\u2019s data localisation requirements and operating under TESS\u2019s direct control. For a PSP serving national banks and telecoms operators, that level of infrastructure ownership is not optional. It is what enterprise clients expect. The Broader Lesson for PSPs Entering Regulated MENA Markets Qatar is not unique in this respect. SAMA in Saudi Arabia, the Central Bank of the UAE, and Egypt\u2019s Financial Regulatory Authority all impose their own data residency and licensing requirements. Any PSP building a MENA expansion strategy will encounter versions of the same problem: local infrastructure mandates, multi-stage licence processes, and integration requirements that differ market by market. The SaaS-to-on-premises model that TESS used, launching on a managed cloud platform to establish regulatory credibility and operational history, then migrating to dedicated regional infrastructure once the compliance baseline is in place, is replicable. It is not a shortcut. It still requires doing the regulatory work properly. But it compresses the timeline significantly compared to building from scratch, and it means the PSP is already operational and generating revenue while the on-premises migration is being prepared. For the MENA payments market, that matters. Digital payments adoption in the Gulf is accelerating. The PSPs that capture merchant relationships now will be the ones that are hardest to displace two years from now. Waiting three years to build a proprietary stack is not a viable competitive strategy when a white-label platform can put a licensed, PCI-certified PSP into market in a fraction of that time. Volodymyr Kuiantsev is Co-Founder and CEO of Akurateco, a PCI DSS-certified white-label payment software vendor serving PSPs, financial institutions, and enterprise merchants across MENA, Europe, and Asia. Read the full TESS Payments case study for a detailed breakdown of the deployment. This article was written by FM Contributors at www.financemagnates.com.",
-      "link": "https://www.financemagnates.com/thought-leadership/qatars-qcb-rules-are-reshaping-how-psps-enter-the-gulf-here-is-what-that-looks-like-in-practice/",
-      "source": "Financial And Business News | Finance Magnates",
-      "image": "https://images.financemagnates.com/images/QCB%20rules%20push%20PSPs%20toward%20faster%2C%20compliant%20SaaS-to-on-premises%20payment%20deployments._id_dc37a27e-2cda-43a6-bd3a-c07ddf279b75_size900.jpeg",
-      "published": "2026-07-30 11:02:59",
+      "title": "LinkedIn Introduces a 'Seems Like AI Slop' Button - 404 Media",
+      "description": "LinkedIn Introduces a 'Seems Like AI Slop' Button 404 Media The LinkedIn Link Penalty Cutting Your Reach By 60% Forbes LinkedIn Now Lets Users Report Suspected \"AI Slop\" Thurrott.com How LinkedIn became the AI-slop punching bag Straight Arrow 5 LinkedIn Content Moves LinkedIn Started Punishing In 2026 Forbes",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INVNVYmFBaE5LUU5ySTdzaFZzS2VUSEJUWTJpeWVyM2I2NkloQ2hYcmdDa1Q1VTUyWUttVzN6eE4xazZZcTg3ZURRbkZodElZdkE2a0lLWk1sb19IZC0zdGVYd1VSTnpHVXlqV2xyWEY2UGRGUDczdnJkM1Y?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-30 14:35:54",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     }
   ]

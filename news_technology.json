@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "The Biggest News On Japan\u2019s Updated 2027 Accord Is Its Turn Signals",
-      "description": "The updated Japanese Accord skips a real facelift and leans on painted trim, new colors, and one genuinely useful driving upgrade",
-      "link": "https://www.carscoops.com/2026/07/honda-accord-japan-update/",
-      "source": "Carscoops",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/4260730-accord_009H-copy-scaled.jpg",
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "OMB prioritizes facilitating frontier AI model access for federal agencies",
-      "description": "The Office of Management and Budget is aiming to reduce compliance burdens for facilitating federal agency access to frontier artificial intelligence models with advanced cyber capabilities, according to federal cyber branch lead Nick Polk. \u201cUnder the leadership of the current Federal CIO, agencies have moved to using secure, advanced AI in their missions. This is in partnership with the FedRAMP program office to authorize these capabilities for use in agencies,\u201d Polk said at a July 28 summit hosted by the Digital Government Institute. Polk, branch director for federal cybersecurity at OMB, participated in a discussion on AI-enabled cyber attacks with FBI Deputy Assistant Director Todd Hemmen. Polk said, \u201cWe still continue to see compliance bottlenecks and compliance issues that prevent agencies from deploying the capabilities they need at the speed they want them. I have not met a CIO that doesn\u2019t want to reduce the time to get an [Authority to Operate.]\u201d Reducing these compliance bottlenecks is \u201ca clear focus of the Federal CIO,\u201d Polk said, and a \u201can ongoing effort to ensure we can actually implement that in practice.\u201d Polk said, \u201cOne of the biggest things, of course, is working with agencies to ensure that they are ready to start deploying these frontier models to detect vulnerabilities at scale. CISA and the Department of Treasury have both been doing really great work to deploy these models to learn how to best use them in a government context.\u201d CISA has been deploying frontier AI models to scan open-source repositories maintained by the federal government to identify vulnerabilities, according to Polk. CISA received access in June to Anthropic\u2019s frontier AI model Claude Mythos. \u201cThe entire tech ecosystem is learning as we go, but [it is] something that we are really leaning on CISA and Treasury, and other agencies who are at the forefront of this effort, to spread the best practices around,\u201d Polk said. The White House launched on July 16 an AI cybersecurity clearinghouse, dubbed as Gold Eagle, as mandated by President Trump\u2019s July 2 executive order on frontier AI models. The Treasury Department is leading efforts on the clearinghouse, in collaboration with CISA and the Defense Department. The July 16 EO also tasked CISA with issuing binding operational directives and other guidance to prioritize defense of federal networks and to facilitate access to frontier AI models. CISA issued on June 10 a BOD outlining a risk-based prioritization approach to vulnerability management for federal civilian agencies. Polk also emphasized choosing \u201cthe right model for the right job,\u201d when it comes to agency access to frontier AI models. \u201cEventually, we will want to make sure that we are using models that maybe have different capabilities, are more cost efficient to use, and ensure that we have the right procedures in place to make sure we are not just burning a whole bunch of tokens on something that could be done by a smaller model, maybe even from the same provider,\u201d Polk said. He said an agency should also have a full understanding of their network\u2019s attack surface when assessing their \u201cAI-readiness.\u201d On shadow IT risks, Polk said, \u201cJust because something isn\u2019t in your government\u2019s risk and compliance doesn\u2019t mean that it isn\u2019t processing your data. It doesn\u2019t mean that an adversary won\u2019t be able to find it.\u201d \u201cWe keep seeing shadow IT where mission need is not being met in the enterprise system,\u201d Polk said. \u201cIf your enterprise system requires so much compliance, so much paperwork, so much time to get authorized, you are going to have shadow IT.\u201d He also emphasized the need for agencies to have a complete understanding of their patch cycles, mediation cycle and vulnerability management and to enable \u201cactually testing it in practice.\u201d AI-enabled identity threats Polk and Hemmen also discussed how AI capabilities are increasing identity-based threats in the federal government, highlighting an ongoing campaign of North Korea actors posing as U.S.-based IT workers to gain employment a U.S. organizations. The Treasury Department announced sanctions in November 2025 against eight individuals and two North Korean companies involved in the campaign. Hemmen said the remote IT worker scheme has \u201cbecome rampant in recent years\u201d and is being further \u201cenabled by AI capability.\u201d \u201cWe're seeing AI used for that entire spectrum of the DPRK remote worker from application to employment,\u201d Hemmen said. Hemmen said North Korea actors are using AI capabilities to create forged documents to demonstrate U.S. citizenship and deploying deepfake technologies in the interview process and remote meetings. The FBI also recently uncovered a DPRK remote-IT worker employed by the federal government, according to Hemmen. He said the FBI is still in the process of \u201cunpacking that recent case.\u201d \u201cWe are seeing remote IT workers, not just in private sector...but we're also seeing this impact the government,\u201d Hemmen said. -- Jaden Beard (jbeard@iwpnews.com) Article Type: Daily News Jaden Beard tags: AI Weight: -20",
-      "link": "https://insidecybersecurity.com/daily-news/omb-prioritizes-facilitating-frontier-ai-model-access-federal-agencies",
-      "source": "Insidecybersecurity",
-      "image": null,
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,89 +1,59 @@
 {
   "status": "success",
-  "totalResults": 15,
+  "totalResults": 14,
   "results": [
     {
-      "title": "Season 4 of The Europol Podcast available now",
-      "description": "The Europol Podcast is the official podcast of the EU\u2019s agency for law enforcement cooperation. This season, we spoke to our Europol experts on the... Read more \u2192 The post Season 4 of The Europol Podcast available now appeared first on IT Security News .",
-      "link": "https://www.itsecuritynews.info/season-4-of-the-europol-podcast-available-now/",
-      "source": "It Security News",
-      "image": null,
-      "published": "2026-07-31 10:02:00",
+      "title": "Welsh government denies English hospital\u2019s \u00a320m demand",
+      "description": "A Welsh health board is refusing to pay \u00a321m as demanded by an English hospital trust in a cross-border funding dispute.",
+      "link": "https://www.hsj.co.uk/finance-and-efficiency/welsh-government-denies-english-hospitals-20m-demand/8123910.article",
+      "source": "Health Service Journal",
+      "image": "https://d3e6tmgg461bic.cloudfront.net/pictures/280x188/2/0/8/4036208_istock1131735031_675325.jpg",
+      "published": "2026-07-31 11:59:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Will 850-member Lok Sabha weaken Indian democracy? How BJP's Delimitation Bill could change Parliament forever",
+      "description": "Does more seats mean less voice for members? Will BJP's Delimitation Bill 2026 weaken Indian democracy and change the Indian Parliament forever? Explained here.",
+      "link": "https://www.dnaindia.com/explainer/report-bjp-delimitation-bill-2026-816-lok-sabha-democracy-debate-explained-3217571",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/07/31/2755393-lok-sabha-parliament.jpg",
+      "published": "2026-07-31 11:59:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Chiefs legend, 2-time AFL champion dies at 85",
-      "description": "Kansas City Chiefs two-time AFL champion defensive back Bobby Hunt has died at age 85.",
-      "link": "https://www.oregonlive.com/sports/2026/07/chiefs-legend-2-time-afl-champion-dies-at-85.html",
-      "source": "Oregon Local News",
-      "image": "https://www.oregonlive.com/resizer/v2/T5PPRLPWURFTXNP5OUTXHOJQLE.jpg?auth=c7078bb1dcdac365f9d86560531c22c152a87d86b28ec1d6532c2f1af88b4477&smart=true&height=1200",
-      "published": "2026-07-31 10:02:00",
+      "title": "Union Bank Settles \u20b92+ Crore Death Insurance Claims for NCL Employees\u2019 Families",
+      "description": "Union Bank of India\u2019s Dudhichua Branch has settled three death insurance claims under the Salary Account scheme for Northern Coalfields Limited employees,...",
+      "link": "https://www.psuconnect.in/bank-news/union-bank-settles-three-death-insurance-claims-worth-over-2-crore-for-ncl-employees",
+      "source": "Psu Connect",
+      "image": "https://images.psuconnect.in/Union_Bank_Settles_Three_Death_Insurance_Claims_Worth_Over_2_Crore_for_NCL_Employees.jpg",
+      "published": "2026-07-31 11:59:00",
       "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Quake survivors in southwestern Japan sleep in cars in sweltering heat as death toll rises to 34",
-      "description": "Kumamoto authorities said nearly 80,000 homes remained without water.",
-      "link": "https://www.dailypress.com/2026/07/31/earthquake-survivors-japan-death-toll/",
-      "source": "Daily Press",
-      "image": "https://www.dailypress.com/wp-content/uploads/2026/07/Japan_Earthquake_55_97.jpg?w=1600&resize=1600,900",
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "environment",
+        "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Jack Nathan Medical Corp.: Jack Nathan Medical Corp. Announces Board Changes and Corporate Update",
-      "description": "Toronto, Ontario--(Newsfile Corp. - July 31, 2026) - Jack Nathan Medical Corp. (TSXV: JNH) (OTC Pink: JNHMF) (\"Jack Nathan\" or the \"Company\") announces that Blake Lyon, Chairman of the Board of Di...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/69182333-jack-nathan-medical-corp-jack-nathan-medical-corp-announces-board-changes-and-corporate-update-296.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://images.newsfilecorp.com/files/7437/307375_5174edbf2457eb49_logo.jpg",
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Group submits petition for safety measures at Jean Klock Park",
-      "description": "BENTON HARBOR \u2014 Residents are divided over how to balance public safety versus public access to Jean Klock Park in Benton Harbor.",
-      "link": "https://www.heraldpalladium.com/communities/benton_harbor/group-submits-petition-for-safety-measures-at-jean-klock-park/article_abc20b9f-0808-5286-8129-54b9f72c9bee.html",
-      "source": "Herald Palladium",
-      "image": "https://bloximages.chicago2.vip.townnews.com/heraldpalladium.com/content/tncms/assets/v3/editorial/1/1f/11fe546a-df14-53dd-98ff-12e6b0c337e5/6a6bae83eafcc.image.jpg?resize=300%2C211",
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Why were Vijay\u2019s Jana Nayagan shows cancelled in Karnataka amid Cauvery protests? Explained",
-      "description": "Thalapathy Vijay\u2019s Jana Nayagan has been affected by the Cauvery water dispute, with several theatres in Karnataka suspending screenings and removing the film\u2019s promotional material amid protests.",
-      "link": "https://www.news9live.com/entertainment/regional-cinema/why-were-vijays-jana-nayagan-shows-cancelled-in-karnataka-amid-cauvery-protests-explained-2995321",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Vijay-in-Jana-Nayagan-3-1.jpg",
-      "published": "2026-07-31 10:02:00",
+      "title": "Speed cameras set to be enforced on busy route",
+      "description": "Speed cameras are set to be enforced on a busy Renfrewshire route.",
+      "link": "https://www.glasgowtimes.co.uk/news/26426706.speed-cameras-set-enforced-m8-busy-renfrewshire-route/",
+      "source": "Glasgow Times",
+      "image": "https://www.glasgowtimes.co.uk/resources/images/21259490/",
+      "published": "2026-07-31 11:59:00",
       "category": [
         "crime",
         "top"
@@ -93,12 +63,42 @@
       ]
     },
     {
-      "title": "Immigration crackdown threatens Haitian caregivers and the seniors who rely on them",
-      "description": "A Supreme Court decision allowing the Trump administration to end temporary protected status for hundreds of thousands of Haitians is rippling far beyond immigration courts. Across the country, nursing homes, home health agencies and families fear losing caregivers who help...",
-      "link": "https://www.thesunchronicle.com/business/immigration-crackdown-threatens-haitian-caregivers-and-the-seniors-who-rely-on-them/article_a5d7f910-4848-5e0e-8fb8-e17f19f83b47.html",
-      "source": "The Sun Chronicle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/2/8c/28cc5ca0-d277-5f78-9f33-f2445e9d855b/6a6c73a74afa0.image.jpg?resize=300%2C201",
-      "published": "2026-07-31 10:02:00",
+      "title": "Acorn \u2013 Provider of Monitoring and Control Solutions for Mission-Critical Assets Hosts Q2 Earnings Call Thursday Aug. 6th at 11am ET",
+      "description": "WILMINGTON, Del., July 31, 2026 (GLOBE NEWSWIRE) -- Acorn Energy, Inc. (Nasdaq: ACFN), provider of remote monitoring",
+      "link": "https://norfolkdailynews.com/online_features/press_releases/acorn-provider-of-monitoring-and-control-solutions-for-mission-critical-assets-hosts-q2-earnings-call/article_0b1878a2-e260-5ad8-ac8b-2f4abdd7ee7d.html",
+      "source": "Norfolk Daily News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/b/67/b67ff359-2c46-5c02-b4b8-560d4e13a485/6a6c95ba0b33e.image.jpg",
+      "published": "2026-07-31 11:59:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Watch: \u2018I\u2019ve received threats to join BJP\u2019: CJP\u2019s Abhijeet Dipke",
+      "description": "Shorts News:Watch: \u2018I\u2019ve received threats to join BJP\u2019: CJP\u2019s Abhijeet Dipke",
+      "link": "https://www.thehindu.com/videos/shorts/watch-ive-received-threats-to-join-bjp-cjps-abhijeet-dipke/article71290356.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/iyhpxe/article71290355.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-31%20at%205.24.47%E2%80%AFPM.png",
+      "published": "2026-07-31 11:59:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Senate Republican warns Trump against delaying Blanche nomination: \u2018This place could be very different\u2019 - The Hill",
+      "description": "Senate Republican warns Trump against delaying Blanche nomination: \u2018This place could be very different\u2019 The Hill Defying Trump, Cornyn Uses His Lame-Duck Power The New York Times Trump defends DOJ weaponization fund and attacks Cornyn, further imperiling Blanche nomination CNN Trump considers pulling Todd Blanche's attorney general nomination as senators hold out BBC Senate \u2018YOLO\u2019 caucus bucks Trump on Blanche: What to know The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDY3aXUydTBlQUxudnVKU0M1d3VEeC1tZ1BiQ2NDT0pFbHJhRl93bDR4SmpxcDEyQkxJcXdPS05NbkJHNmJUSHNKSUhhbFJCR2pqcHhJOVhrVGwydnZ6QzVESzR0dC01dnRGX3MtaG9mVHcwOFVyVHVkdU11aEpVcll0RmRYMEtVNzc5dHVvNNIBlAFBVV95cUxOd2MwV1FXMWJpYlNpN0k0Umdqdi1vQlF1cTRKZldHQjAyQXlHWUlIbDJDME54M1o4elNWcUZVS0MtRFllQ2xxZUxjR05DWGZ3ZTZHNHBnRXd2WG4wTjZWcEhaeFJEY3luSnRnYXo5c0J2SDJVbjdoYW1uckRsNlZlUDZaY2pLWXdoV0UtLVktMHFpR3ZG?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-31 11:59:00",
       "category": [
         "politics",
         "top"
@@ -108,14 +108,14 @@
       ]
     },
     {
-      "title": "Missouri, you won\u2019t be in Kansas anymore if income tax cut passes | Opinion",
-      "description": "The Kansas tax experiment was enacted without a plan in place. That\u2019s not the case with Amendment 5. | Opinion",
-      "link": "https://www.kansascity.com/opinion/article316713084.html",
-      "source": "Kansas City Star",
-      "image": "https://www.kansascity.com/public/latest-news/oe1fwz/picture316713458/alternates/FREE_1140/tax%20cut.jpg",
-      "published": "2026-07-31 10:02:00",
+      "title": "Spartanburg pharmaceutical facility to close, layoff nearly 200 employees",
+      "description": "The permanent closure of an Upstate pharmaceutical facility is expected to affect nearly 200 employees.",
+      "link": "https://www.foxcarolina.com/2026/07/31/spartanburg-pharmaceutical-facility-close-layoff-nearly-200-employees/",
+      "source": "Https://www.foxcarolina.com",
+      "image": "https://gray-whns-prod.gtv-cdn.com/resizer/v2/2KUFAWMGMNBPXIYOS6P7ONQS7U.jpg?auth=b924078ef359a07490613cf22b70675cfabe6b367c990d0d783110cd60bd5588&width=1200&height=600&smart=true",
+      "published": "2026-07-31 11:59:00",
       "category": [
-        "business",
+        "crime",
         "top"
       ],
       "country": [
@@ -123,44 +123,59 @@
       ]
     },
     {
-      "title": "The Biggest News On Japan\u2019s Updated 2027 Accord Is Its Turn Signals",
-      "description": "The updated Japanese Accord skips a real facelift and leans on painted trim, new colors, and one genuinely useful driving upgrade",
-      "link": "https://www.carscoops.com/2026/07/honda-accord-japan-update/",
-      "source": "Carscoops",
-      "image": "https://www.carscoops.com/wp-content/uploads/2026/07/4260730-accord_009H-copy-scaled.jpg",
-      "published": "2026-07-31 10:02:00",
+      "title": "Whimsical Trailer for MOMO AND THE TIME THIEVES Teases a Wild Fantasy Adventure Starring Martin Freeman",
+      "description": "If you're in the mood for a fantasy movie that looks a little weird, a little whimsical, and packed with imaginative visuals, the newly released UK trailer for Momo and the Time Thieves is worth checking out. Signature Entertainment has unveiled a new look at the upcoming film, which adapts Michael Ende's classic novel into a modern fantasy adventure that mixes mysterious creatures, time-stealing villains, and a young heroine trying to save the world around her. Even though it's a German production, the movie was filmed entirely in English, making it much easier to reach audiences around the world. It premiered at last year's Zurich Film Festival before opening in theaters across much of Europe last fall. There's still no word on when audiences in the United States will get to see it. The story follows Momo, an orphan girl who discovers that a sinister force is quietly taking over her city. A powerful international corporation has found a way to steal people's time, leaving everyone too distracted to notice what's happening. As the influence of the mysterious Grey Men spreads, even Momo's closest friend, Gino, turns away from her. Things take a much stranger turn when a mysterious turtle appears and leads Momo to Master Hora, the guardian of time. Together, they set out to confront the time thieves before they drain the world of the one thing nobody can ever get back. The film stars Martin Freeman , Alexa Goodall , Araloyin Oshunremi , Claes Bang , Laura Haddock , and Kim Bodnia . The trailer definitely has an offbeat charm to it. Some of the visual effects and fantasy imagery are pretty cool, and the turtle easily steals the show. Honestly, the turtle looks awesome. I'm still not completely sold on everything else the movie is doing, but there's enough imaginative world-building and interesting visuals here to make me curious about how it all comes together. Ende's story has always explored the value of time and how easily it slips away, and that idea feels especially relevant today. It'll be interesting to see how this modern adaptation brings those themes to life when more audiences finally get the chance to watch it.",
+      "link": "https://geektyrant.com/news/wacky-trailer-for-momo-and-the-time-thieves-teases-a-wild-fantasy-adventure-starring-martin-freeman",
+      "source": "Geektyrant",
+      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1783723080432-1AD85DX1T3GSQPAKKZVH/Screenshot+2026-07-10+at+3.37.37%E2%80%AFPM.jpg?format=1500w",
+      "published": "2026-07-31 11:59:00",
       "category": [
-        "top",
-        "technology"
+        "entertainment",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "D-FW heat advisory lasts through Friday with another triple-digit high temp on tap",
-      "description": null,
-      "link": "https://www.dallasnews.com/news/weather/article/dallas-weather-heat-advisory-extended-friday-22366988.php",
-      "source": "Dallas News",
+      "title": "More money pumped into savings accounts as households brace for energy price hikes",
+      "description": "Total households savings amount now calculated at \u20ac175bn",
+      "link": "https://www.independent.ie/business/money/more-money-pumped-into-savings-accounts-as-households-brace-for-energy-price-hikes/a/159452769.html",
+      "source": "The Independent",
       "image": null,
-      "published": "2026-07-31 10:02:00",
+      "published": "2026-07-31 11:59:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "LUIS AQUINO DE VERA",
+      "description": "of Dededo passed away Jul. 22, 2026, at age 88. Viewing and Last Respects Aug. 14, 2026, from 10am-11:30am, followed by Mass of Christian Burial at 12pm at Santa Barbara Church, Dededo (lower level). Interment Services follow at Our Lady...",
+      "link": "https://www.postguam.com/obituaries/free/luis-aquino-de-vera/article_b88569d4-1ca9-480d-bced-22fd34e38ab1.html",
+      "source": "Postguam",
+      "image": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/0/ad/0ad150a7-2609-413a-b5c9-fc77e837aee5/6a6c8e5bdb75e.image.jpg?resize=300%2C298",
+      "published": "2026-07-31 11:59:00",
       "category": [
         "top",
-        "environment"
+        "lifestyle"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' - Fri, 31 Jul 2026 PST",
-      "description": "Federal Reserve Chairman Kevin Warsh's emphatic declarations on Wednesday that inflation would be brought down without signaling a readiness to raise interest rates triggered a sharp selloff in bonds that may force a hard choice: defying President Donald Trump's desire for easier monetary policy or battling a growing cadre of fellow U.S. central bankers determined to tighten it.",
-      "link": "http://www.spokesman.com/stories/2026/jul/31/fed-chief-warsh-faces-hard-choice-on-inflation-aft/",
-      "source": "Spokesman",
-      "image": "https://thumb.spokesman.com/YL12RB5R7TAEoGwIMg5gnuE6Bx8=/2500x1405/smart/media.spokesman.com/photos/2026/07/31/6a6ce5c006591.image.jpg",
-      "published": "2026-07-31 10:02:00",
+      "title": "Sweetwater County Arrest Report for July 31, 2026",
+      "description": "The following individuals have been booked into the Sweetwater County Detention Center RUIZ, RAPHEAL JOSEPH Age: 21 Address: ROCK SPRINGS, WY Booking Type: PRE-TRIAL Booking Date: 2026-07-31 Arresting Agency: RSPD Charges: DWUI-Incapable of Safely Driving-Alcohol and Controlled Substance_1st Offense Status: , Bond: , Court: RS MUNICIPAL COURT DAMARTO, DENNY JAMES Age: 31 Address: GREEN RIVER,",
+      "link": "https://www.sweetwaternow.com/sweetwater-county-arrest-report-for-july-31-2026/",
+      "source": "Sweetwaternow",
+      "image": "https://dz3ltmj4z3fhz.cloudfront.net/wp-content/uploads/2026/07/sweetwater-county-arrest-report-1024x536.jpg",
+      "published": "2026-07-31 11:58:59",
       "category": [
-        "business",
+        "crime",
         "top"
       ],
       "country": [
@@ -168,29 +183,14 @@
       ]
     },
     {
-      "title": "Harris has Terrell Eagles focused on becoming tougher",
-      "description": "Jack Harris has coached football long enough to know winning games doesn't begin on Friday nights.",
-      "link": "https://albanyherald.com/sports/harris-has-terrell-eagles-focused-on-becoming-tougher/",
-      "source": "Albany Herald",
-      "image": "https://d2mq8ajyfy4fws.cloudfront.net/wp-content/uploads/2026/07/30153636/Terrell-Aca.jpeg",
-      "published": "2026-07-31 10:02:00",
+      "title": "'Need To Secure Energy Requirements': India Reacts To US Bill Seeking 100% Tariffs On Russian Oil Buyers",
+      "description": "India is tracking a proposed US sanctions Bill targeting countries importing Russian crude oil. MEA states India's energy purchases are guided by national interests and needs.",
+      "link": "https://www.news18.com/india/need-to-secure-energy-requirements-india-reacts-to-us-bill-seeking-100-tariffs-on-russian-oil-buyers-ws-l-10245224.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/Randhir-Jaiswal-2026-06-c3da9fa673e38051d098167783595a7d-1200x800.jpg",
+      "published": "2026-07-31 11:58:57",
       "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Khanna Police Organizes Tree Plantation Drive at Kishori lal Jethi Girls school Of Eminence",
-      "description": "Khanna, July 31 (Amrish Anand): As part of the ongoing tree plantation campaign aimed at promoting environmental conservation and greenery, Khanna Police organized a special plantation drive at Kishori lal Jethi Girls school Of Eminence Khanna.The drive was conducted under the guidance of Special DGP (Community Affairs & Women Affairs) IPS Gurpreet Kaur Deo and the directions of SSP Khanna Dr. Darpan Ahluwalia. On this occasion, SP (Headquarters) Harpinder Kaur Gill actively...",
-      "link": "https://www.punjabinfoline.com/en/news-69zktr2",
-      "source": "Punjabinfoline",
-      "image": "https://www.punjabinfoline.com/img_render/img_1200_1479.jpg",
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "environment",
+        "politics",
         "top"
       ],
       "country": [
@@ -198,33 +198,18 @@
       ]
     },
     {
-      "title": "Port Wentworth\u2019s new VyStar Pavilion opens with first ticketed event",
-      "description": "The new Anchor Park venue is expected to host concerts, festivals, and community events while boosting tourism and supporting local businesses.",
-      "link": "https://www.wjcl.com/article/port-wentworths-new-vystar-pavilion-opens-with-first-ticketed-event/73315555",
-      "source": "Wjcl Television",
-      "image": "https://hips.hearstapps.com/vidthumb/3b9e2528-8833-4264-b402-f9bb71d8a8d3/9f6b1ca4-33f2-4dc0-bcc0-7f3adf65e89f.jpg",
-      "published": "2026-07-31 10:02:00",
+      "title": "ITC Q1 results: Profit slips 16% to Rs 4,394 crore YoY; revenue climbs 28%",
+      "description": "Revenue from operations rose 27.64 per cent YoY to Rs 29,523.30 crore in Q1 FY27 from Rs 23,129.35 crore in the year-ago quarter.",
+      "link": "https://www.businesstoday.in/markets/stocks/story/itc-q1-results-profit-slips-16-to-rs-4394-crore-yoy-revenue-climbs-28-546547-2026-07-31",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6c8dbaa3647-itc-noted-that-the-performance-of-its-agri-business-segment-was-impacted-by-geopolitical-development-315740962-16x9.jpg?size=1280:720",
+      "published": "2026-07-31 11:58:55",
       "category": [
-        "tourism",
+        "business",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Russian Missile Wipes Out a Ukrainian Family",
-      "description": "A Russian ballistic missile destroyed a family home in the village of Radushne in Ukraine's Dnipropetrovsk region during a large-scale overnight attack on July 30, killing at least six members of one family, while rescuers continued searching the rubble for additional victims. Ukrainian President Volodymyr Zelensky said the missile struck with such force that the house was almost completely obliterated. \"The impact of the Russian missile was so powerful that almost nothing remained of the house,\" Zelensky said....",
-      "link": "https://www.novinite.com/view_news.php?id=239889",
-      "source": "Novinite",
-      "image": "https://www.novinite.com/media/images/2026-07/photo_verybig_239889.jpg",
-      "published": "2026-07-31 10:02:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "bulgaria"
+        "india"
       ]
     }
   ]

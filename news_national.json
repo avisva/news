@@ -1,31 +1,105 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Good Results, Falling Shares: What Changed in US Big Tech This Quarter",
-      "description": null,
-      "link": "https://in.investing.com/analysis/good-results-falling-shares-what-changed-in-us-big-tech-this-quarter-200638747",
-      "source": "Investing India",
-      "image": null,
-      "published": "2026-07-31 10:02:00",
+      "title": "Will 850-member Lok Sabha weaken Indian democracy? How BJP's Delimitation Bill could change Parliament forever",
+      "description": "Does more seats mean less voice for members? Will BJP's Delimitation Bill 2026 weaken Indian democracy and change the Indian Parliament forever? Explained here.",
+      "link": "https://www.dnaindia.com/explainer/report-bjp-delimitation-bill-2026-816-lok-sabha-democracy-debate-explained-3217571",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/07/31/2755393-lok-sabha-parliament.jpg",
+      "published": "2026-07-31 11:59:00",
       "category": [
-        "business"
+        "politics",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Khanna Police Organizes Tree Plantation Drive at Kishori lal Jethi Girls school Of Eminence",
-      "description": "Khanna, July 31 (Amrish Anand): As part of the ongoing tree plantation campaign aimed at promoting environmental conservation and greenery, Khanna Police organized a special plantation drive at Kishori lal Jethi Girls school Of Eminence Khanna.The drive was conducted under the guidance of Special DGP (Community Affairs & Women Affairs) IPS Gurpreet Kaur Deo and the directions of SSP Khanna Dr. Darpan Ahluwalia. On this occasion, SP (Headquarters) Harpinder Kaur Gill actively...",
-      "link": "https://www.punjabinfoline.com/en/news-69zktr2",
-      "source": "Punjabinfoline",
-      "image": "https://www.punjabinfoline.com/img_render/img_1200_1479.jpg",
-      "published": "2026-07-31 10:02:00",
+      "title": "Union Bank Settles \u20b92+ Crore Death Insurance Claims for NCL Employees\u2019 Families",
+      "description": "Union Bank of India\u2019s Dudhichua Branch has settled three death insurance claims under the Salary Account scheme for Northern Coalfields Limited employees,...",
+      "link": "https://www.psuconnect.in/bank-news/union-bank-settles-three-death-insurance-claims-worth-over-2-crore-for-ncl-employees",
+      "source": "Psu Connect",
+      "image": "https://images.psuconnect.in/Union_Bank_Settles_Three_Death_Insurance_Claims_Worth_Over_2_Crore_for_NCL_Employees.jpg",
+      "published": "2026-07-31 11:59:00",
       "category": [
-        "environment",
+        "business",
         "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "After OpenAI And Anthropic AI Went Rogue, Europe Calls For Stronger Security Monitoring",
+      "description": "Following incidents where AI models from OpenAI and Anthropic hacked systems during safety tests, European Commission officials emphasised the need for AI companies to implement monitoring tools for security risk",
+      "link": "https://www.timesnownews.com/technology-science/after-openai-and-anthropic-ai-went-rogue-europe-calls-for-stronger-security-monitoring-article-155223565",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155223604,thumbsize-2166804,width-1280,height-720,resizemode-75/155223604.jpg",
+      "published": "2026-07-31 11:59:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Watch: \u2018I\u2019ve received threats to join BJP\u2019: CJP\u2019s Abhijeet Dipke",
+      "description": "Shorts News:Watch: \u2018I\u2019ve received threats to join BJP\u2019: CJP\u2019s Abhijeet Dipke",
+      "link": "https://www.thehindu.com/videos/shorts/watch-ive-received-threats-to-join-bjp-cjps-abhijeet-dipke/article71290356.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/iyhpxe/article71290355.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-31%20at%205.24.47%E2%80%AFPM.png",
+      "published": "2026-07-31 11:59:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "'Need To Secure Energy Requirements': India Reacts To US Bill Seeking 100% Tariffs On Russian Oil Buyers",
+      "description": "India is tracking a proposed US sanctions Bill targeting countries importing Russian crude oil. MEA states India's energy purchases are guided by national interests and needs.",
+      "link": "https://www.news18.com/india/need-to-secure-energy-requirements-india-reacts-to-us-bill-seeking-100-tariffs-on-russian-oil-buyers-ws-l-10245224.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/Randhir-Jaiswal-2026-06-c3da9fa673e38051d098167783595a7d-1200x800.jpg",
+      "published": "2026-07-31 11:58:57",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "ITC Q1 results: Profit slips 16% to Rs 4,394 crore YoY; revenue climbs 28%",
+      "description": "Revenue from operations rose 27.64 per cent YoY to Rs 29,523.30 crore in Q1 FY27 from Rs 23,129.35 crore in the year-ago quarter.",
+      "link": "https://www.businesstoday.in/markets/stocks/story/itc-q1-results-profit-slips-16-to-rs-4394-crore-yoy-revenue-climbs-28-546547-2026-07-31",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6c8dbaa3647-itc-noted-that-the-performance-of-its-agri-business-segment-was-impacted-by-geopolitical-development-315740962-16x9.jpg?size=1280:720",
+      "published": "2026-07-31 11:58:55",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "July Health Wrap: Explosive Diarrhea To Covid Surge, 10 Stories That Defined The Month - NDTV",
+      "description": "July Health Wrap: Explosive Diarrhea To Covid Surge, 10 Stories That Defined The Month NDTV",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWWJ1b2UxaUpRRHUwcU9GNXNtVEowRFhwQVdmRGNkY3BwdTVKd2VrUWZ4WjBodG13N3RsakFYVUc3OUhvSi1sbVlCdy1MLUFlV2ZORmUtOHBfbU9OcmVyYVRxLWdHSUlCcnBNaWhKMlluN1dHYjltN2pfakxLdTdOVzUwaVAtdVJnXzZscDRKLTZkeWpkODZ0QzdTdER0eDQ3Q2V3MjlxaEl0aDAzeXdQVlQ0Y3dEVW1Zc0FlY1lR?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-07-31 11:58:55",
+      "category": [
+        "health"
       ],
       "country": [
         "india"

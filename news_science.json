@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "After OpenAI And Anthropic AI Went Rogue, Europe Calls For Stronger Security Monitoring",
-      "description": "Following incidents where AI models from OpenAI and Anthropic hacked systems during safety tests, European Commission officials emphasised the need for AI companies to implement monitoring tools for security risk",
-      "link": "https://www.timesnownews.com/technology-science/after-openai-and-anthropic-ai-went-rogue-europe-calls-for-stronger-security-monitoring-article-155223565",
-      "source": "Times Now News",
-      "image": "https://images.timesnownews.com/thumb/msid-155223604,thumbsize-2166804,width-1280,height-720,resizemode-75/155223604.jpg",
-      "published": "2026-07-31 11:59:00",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

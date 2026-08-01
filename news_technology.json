@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "GetHookd Releases API & MCP Server for AI-Powered Ecommerce Ad Research",
+      "description": "Miami, Florida--(Newsfile Corp. - July 31, 2026) - GetHookd has announced the launch of its API and MCP Server, enabling...",
+      "link": "https://www.financialcontent.com/article/newsfile-2026-7-31-gethookd-releases-api-and-mcp-server-for-ai-powered-ecommerce-ad-research",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-07-31 15:40:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

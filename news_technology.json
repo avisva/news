@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Ather EL Platform Electric Scooter Teased Ahead of August 29 Launch",
+      "description": "Ather Energy has teased its upcoming EL Platform-based electric scooter ahead of its August 29, 2026 debut. Designed for mass-market commuters, the new EV features a metal body, 14-inch front wheel, 12-inch rear wheel, and supports 2kWh to 5kWh battery options. Expected price is Rs 1 lakh-Rs 1.25 L",
+      "link": "https://www.newsbricks.com/automotive/ather-el-platform-electric-scooter-august-launch/853841",
+      "source": "Newsbricks",
+      "image": "https://img.newsbricks.com/news-images/2026/08/newsart7484/ather-el-platform-hd-7484.webp",
+      "published": "2026-08-01 08:47:51",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Maruti Suzuki July sales: Domestic volumes cross 2 lakh units for first time, total sales up 34%",
+      "description": "Maruti Suzuki India Ltd. reported a 33.7% rise in total sales in July 2026, selling 2,41,421 units. Domestic sales hit a record 2,00,123 units.",
+      "link": "https://www.cnbctv18.com/market/july-auto-sales-maruti-suzuki-units-numbers-domestic-sales-all-time-high-19959542.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/maruti-suzuki-2026-07-68808de710bd392e6678767360ba72f0.jpg",
+      "published": "2026-08-01 08:47:41",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

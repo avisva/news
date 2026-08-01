@@ -1,291 +1,238 @@
 {
   "status": "success",
-  "totalResults": 25,
+  "totalResults": 18,
   "results": [
     {
-      "title": "Why Bisalloy (ASX:BIS), Civmec (ASX:CVL) And Mindax (ASX:MDX) Are On The ASX Penny Stocks Radar",
-      "description": "Bisalloy, Civmec and Mindax continue drawing attention as balance sheet strength, project execution and exploration progress shape Australia's ASX penny stocks.",
-      "link": "https://kalkinemedia.com/au/stocks/penny/why-bisalloy-asxbis-civmec-asxcvl-and-mindax-asxmdx-are-on-the-asx-penny-stocks-radar",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2689629711(1)_08_01_2026_02_58_38_431609.jpg",
-      "published": "2026-08-01 02:58:00",
+      "title": "Heat Advisory issued July 31 at 9:04PM PDT until August 2 at 8:00PM PDT by NWS San Diego CA",
+      "description": "Heat Advisory: San Bernardino County Mountains until Aug 01 at 4:27 AM The post Heat Advisory issued July 31 at 9:04PM PDT until August 2 at 8:00PM PDT by NWS San Diego CA appeared first on KESQ .",
+      "link": "https://kesq.com/weather/alerts-weather/2026/07/31/heat-advisory-issued-july-31-at-904pm-pdt-until-august-2-at-800pm-pdt-by-nws-san-diego-ca/",
+      "source": "Kesq",
+      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Extreme Heat Warning issued July 31 at 9:04PM PDT until August 3 at 8:00PM PDT by NWS San Diego CA",
+      "description": "Extreme Heat Warning: Coachella Valley; San Diego County Deserts; San Gorgonio Pass Near Banning until Aug 01 at 4:27 AM The post Extreme Heat Warning issued July 31 at 9:04PM PDT until August 3 at 8:00PM PDT by NWS San Diego CA appeared first on KESQ .",
+      "link": "https://kesq.com/weather/alerts-weather/2026/07/31/extreme-heat-warning-issued-july-31-at-904pm-pdt-until-august-3-at-800pm-pdt-by-nws-san-diego-ca/",
+      "source": "Kesq",
+      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Extreme Heat Warning issued July 31 at 9:04PM PDT until August 2 at 8:00PM PDT by NWS San Diego CA",
+      "description": "Extreme Heat Warning: San Bernardino and Riverside County Valleys-The Inland Empire until Aug 01 at 4:27 AM The post Extreme Heat Warning issued July 31 at 9:04PM PDT until August 2 at 8:00PM PDT by NWS San Diego CA appeared first on KESQ .",
+      "link": "https://kesq.com/weather/alerts-weather/2026/07/31/extreme-heat-warning-issued-july-31-at-904pm-pdt-until-august-2-at-800pm-pdt-by-nws-san-diego-ca-3/",
+      "source": "Kesq",
+      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The Daily Brief: Weekend lull forecast before 30C returns",
+      "description": "Slightly cooler weather is predicted and the Marrs Bar will be amped up for some heavy metal classics.",
+      "link": "https://www.worcesternews.co.uk/news/26428408.daily-brief-weekend-lull-predicted-30c/",
+      "source": "The Worcester News",
+      "image": "https://www.worcesternews.co.uk/resources/images/21046113/",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "environment",
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Man banned from driving after speed camera snapped him breaking M5 limit",
+      "description": "A driver from Kempsey has been banned from the roads after he was caught speeding on the M5 in Gloucestershire",
+      "link": "https://www.worcesternews.co.uk/news/26414039.ford-driver-disqualified-caught-speeding-m5/",
+      "source": "The Worcester News",
+      "image": "https://www.worcesternews.co.uk/resources/images/20324688/",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "New vineyard joins award-winning Worcestershire wine group amid celebrations",
+      "description": "The Malvern Hills Vineyards, a collection of six vineyards, have welcomed the new vineyard Deer Park into its association following an award-winning year for their wines.",
+      "link": "https://www.worcesternews.co.uk/news/26420059.malvern-hills-vineyards-celebrate-new-addition-deer-park/",
+      "source": "The Worcester News",
+      "image": "https://www.worcesternews.co.uk/resources/images/19626004/",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "The eye-watering speeds drivers have been caught doing on Worcestershire roads",
+      "description": "A motorcyclist was caught speeding at 161mph, the fastest recorded speeding offence in seven years.",
+      "link": "https://www.worcesternews.co.uk/news/26411776.revealed-fastest-speeding-offences-seven-years/",
+      "source": "The Worcester News",
+      "image": "https://www.worcesternews.co.uk/resources/images/20014402/",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "The British-Lebanese Designer Turning Discarded Objects Into Fine Jewellery",
+      "description": "The jeweller Alexandra Hakim has built her practice around forgotten materials, transforming everyday waste into sculptural pieces that preserve memories, places and lived experience.",
+      "link": "https://www.arabianbusiness.com/t-magazine/fashion/alexandra-hakim-transforms-everyday-objects-into-fine-jewellery",
+      "source": "Arabian Business",
+      "image": "https://www.arabianbusiness.com/cloud/2026/07/30/Oat-Earrings_11zon-scaled.jpg",
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Where to find the cheapest fuel in and around Bromsgrove today",
+      "description": "TO HELP you get the best deal on your petrol or diesel, we've compiled a list of the cheapest garages in and around Bromsgrove, according to petrolprices.com",
+      "link": "https://www.bromsgroveadvertiser.co.uk/news/26421979.cheapest-garages-petrol-diesel-around-bromsgrove/",
+      "source": "Bromsgrove Advertiser",
+      "image": "https://www.bromsgroveadvertiser.co.uk/resources/images/19828319/",
+      "published": "2026-08-01 04:04:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "australia"
+        "united kingdom"
       ]
     },
     {
-      "title": "Boy, 13, fatally stabbed by classmate inside Las Pin\u0303as school",
-      "description": "A 13-year-old student was fatally stabbed by his 14-year-old classmate following an argument inside Las Pin\u0303as National High School on Friday afternoon, July 31. Las Pin\u0303as City Police chief Col. Fermin Armendarez identified the victim only by the alias \u201cADO,\u201d a resident of Barangay Daniel Fajardo. He sustained a stab wound to the left side of his chest and was rushed to Las Pin\u0303as District Hospital, where he was declared dead while undergoing treatment. The suspect, identified only as \u201cMJE,\u201d a resident of Barangay Talon Dos, was taken into custody and later turned over to the Bahay Pag asa youth care facility operated by the Department of Social Welfare and Development (DSWD), in line with procedures for children in conflict with the law. Police said the incident happened around 4:30 p.m. on the fourth floor of the school, in front of Room 401. Initial investigation showed the two students argued during recess, allegedly over change from a bottled water purchase at the school canteen. Authorities said the suspect then drew a balisong (folding knife) and stabbed the victim once in the chest before school personnel and responding officers intervened. Investigators are still determining the circumstances surrounding the incident and the events that led to the fatal stabbing. In a statement, Las Pin\u0303as National High School expressed condolences to the victim\u2019s family and assured students, teachers, and staff that psychological first aid, counseling, and other psychosocial interventions would be provided. School officials said they are coordinating closely with local authorities and other concerned agencies as the investigation continues.",
-      "link": "https://mb.com.ph/article/10929206/philippines/metro-manila/boy-13-fatally-stabbed-by-classmate-inside-las-pinas-school",
-      "source": "Manila Bulletin",
-      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/01/120297.webp",
-      "published": "2026-08-01 02:58:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Taylor residents waited nearly a week for trash pickup before 7 News Detroit got involved",
-      "description": "Residents in a Taylor neighborhood had their garbage sitting out for nearly a week before it was finally collected.",
-      "link": "https://www.wxyz.com/news/region/wayne-county/taylor-residents-waited-nearly-a-week-for-trash-pickup-before-7-news-detroit-got-involved",
-      "source": "Wxyz",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/5507e4a/2147483647/strip/true/crop/1336x701+0+25/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F3e%2Fa5%2Fd5e48cb34d9296ef030df5197afd%2Fscreenshot-2026-07-31-at-10-41-21-pm.png",
-      "published": "2026-08-01 02:57:58",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lionel Messi available for Inter Miami vs Columbus Crew MLS match",
-      "description": "Messi and his teammate with both Miami and on the \u200cArgentine national team, Rodrigo De Paul, joined the team \u200bin practice on Friday for the first time since \u2060the Major League Soccer season resumed. They are listed as available for selection on Saturday.",
-      "link": "https://sportstar.thehindu.com/football/lionel-messi-available-inter-miami-vs-columbus-crew-mls-match/article71293426.ece",
-      "source": "Sport Star The Hindu",
-      "image": "https://ss-i.thgim.com/public/incoming/j3iu5d/article71293424.ece/alternates/LANDSCAPE_1200/2278049718.jpg",
-      "published": "2026-08-01 02:57:56",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Cooperatives Dept Ladakh organizes buyer\u2013seller meet to promote Ladakh Pashmina in Srinagar",
-      "description": null,
-      "link": "https://risingkashmir.com/jammu-and-kashmir-news/kashmir/cooperatives-dept-ladakh-organizes-buyerseller-meet-to-promote-ladakh-pashmina-in-srinagar-12217358",
-      "source": "Rising Kashmir",
-      "image": "https://img-cdn.publive.online/rising-kashmir/media/media_files/2026/08/01/1000838255-2026-08-01-08-27-40.jpg",
-      "published": "2026-08-01 02:57:53",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 6th July 2026",
-      "description": "Archives (PRELIMS Focus) (MAINS Focus) The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 6th July 2026 appeared first on IASbaba .",
-      "link": "https://iasbaba.com/2026/08/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-july-2026/",
-      "source": "Iasbaba",
-      "image": null,
-      "published": "2026-08-01 02:57:51",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Stewart drives in 4 as Reds come back to beat Pirates",
-      "description": "CINCINNATI (AP) \u2014 Sal Stewart hit a two-run homer, had four RBIs, and scored the winning run as the Cincinnati Reds rallied to beat the Pittsburgh Pirates 8-7 on Friday night. Stewart\u2019s two-run single off Wilber Dotel (1-4) in the eighth tied the score 7-7. Stewart scored the go-ahead run from third on Brandon Lowe\u2019s [...]",
-      "link": "https://www.observer-reporter.com/sports/pro_sports/pirates/2026/jul/31/stewart-drives-in-4-as-reds-come-back-to-beat-pirates/",
-      "source": "Observer-reporter",
-      "image": null,
-      "published": "2026-08-01 02:57:51",
+      "title": "Hundreds of motorcycles cruise into Cotswold town",
+      "description": "An estimated 750 bikers parked up throughout Moreton on July 22 for the annual Bikers' NITE, which has 'raised a phenomenal sum' of money throughout the years.",
+      "link": "https://www.cotswoldjournal.co.uk/news/26418930.hundreds-motorcycles-cruise-moreton-bikers-nite/",
+      "source": "Cotswoldjournal",
+      "image": "https://www.cotswoldjournal.co.uk/resources/images/21248162.jpg/",
+      "published": "2026-08-01 04:04:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Yung Filly could face a retrial over alleged rape - News.com.au",
-      "description": "Yung Filly could face a retrial over alleged rape News.com.au UK YouTuber Yung Filly found not guilty of raping Perth woman after concert ABC News & Headlines \u2013 Australian Broadcasting Corporation UK rapper Yung Filly found not guilty of raping woman after Australian show BBC TikTok, a judge and a take-down order after footage was leaked from inside a Perth court WAtoday WA news LIVE: Outback police to crack down on bikies, Perth Mint breaks world record The Age",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVk1uZVRnVDRLM1dWN2daaXp3c3gxR3lRaU1hZjhpcHVMUG1Yalp0elp4TmZWLUJaV1h5OG9JMW1XNU1nLXJQaS1WNW9CeThESGxYTGhTYjNmNG54WHkxR0s3UGUtMllCWUlCbmwxNi1lMnBXOEt6M0ltdFVkZFZ3SVVCUTUtRkZJM0xCSlY5bU1MaktUWDZqS2NnOWQ2Ulo2TnlvYkxSVW1VOHFQZ3VlWEZ1RVZaa05mVjBILXVHUHJWSEp3Ty02QXpjOGhSamUyWEI1RnNhalNpRmFnc0VDLW5DU3lRZFk1b1JSTkFFb1NqU2lVcnJzRWFR0gH_AUFVX3lxTFAwVkpqOGlKMDZleWJnQ0g3a3VuaGZ6ZFh5VFAwaWhFdXY2bHZIbEdZTlpZNnpIZ245a0NiVkZZal80MWh1U1ZiS0RTdUlaamtVS1djLTlhYUtBUVRLd0dYZzVBcGdQRDc1aTV0eS1BYThnY2VzVFk1NTJnNVRFQXpocnFyNldYYlJWRHJCS1pvV2tBREFpZnJHWWI5cjNaREM4ZDJWVGU2Njlld2F1bXMtcTRnVjVBWGdvV0ZUekU1YnNVSHJ2QUktdnkzdVVMZTNtRWFkMU1tZzlQZWtSLVFQYU5oYTNYUTl6TkpHUmhYcEE0T2pYcFptZHppWjBtaw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-01 02:57:49",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Uttarakhand UP Property Dispute",
-      "description": "\u0909\u0924\u094d\u0924\u0930\u093e\u0916\u0902\u0921 \u0914\u0930 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u092e\u0947\u0902 \u092c\u0940\u091c\u0947\u092a\u0940 \u0938\u0930\u0915\u093e\u0930 \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0935\u091c\u0942\u0926 \u092a\u0930\u093f\u0938\u0902\u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0914\u0930 \u0926\u0947\u0928\u0926\u093e\u0930\u0940 \u0915\u093e \u0938\u093e\u0932\u094b\u0902 \u092a\u0941\u0930\u093e\u0928\u093e \u0935\u093f\u0935\u093e\u0926 \u0905\u092c \u092d\u0940 \u091c\u0938 \u0915\u093e \u0924\u0938 \u092c\u0928\u093e \u0939\u0941\u0906 \u0939\u0948.",
-      "link": "https://www.etvbharat.com/hi/state/uttarakhand-government-is-not-getting-any-benefit-from-the-division-of-properties-from-uttar-pradesh-uts26080100719",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/01-08-2026/1200-675-27285852-thumbnail-16x9-pic97-aspera.jpg",
-      "published": "2026-08-01 02:57:45",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Opposition parties up in arms against CM Vijay\u2019s Karnataka visit plan",
-      "description": "AMMK general secretary T T V Dhinakaran also opposed the reported visit, saying it would serve no purpose as Karnataka had openly rejected the CWMA\u2019s direction.",
-      "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/01/opposition-parties-up-in-arms-against-cm-vijays-karnataka-visit-plan",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-01/4y3sxf3q/p4-eps083839.jpg",
-      "published": "2026-08-01 02:57:44",
+      "title": "Breakneck pace in immigration courts is driving up deportation orders",
+      "description": "The Trump administration is packing immigration courtrooms and giving less lead-time on hearings in an effort to clear a decades-long backlog. The result is a historic rise in the number of people missing court dates and being immediately ordered deported...",
+      "link": "https://www.tdtnews.com/news/nation_world/article_6644c606-e3f1-5a51-bdee-0ee4c054ccde.html",
+      "source": "Tdtnews.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/tdtnews.com/content/tncms/assets/v3/editorial/8/75/8751ac4f-38fe-54d6-8bf4-1c469baf5b83/6a6d747cab5a4.image.jpg?resize=300%2C200",
+      "published": "2026-08-01 04:04:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Five Toronto police officers found guilty of misconduct for comments on Muslim outreach podcast",
-      "description": "On one episode, the uniformed hosts praised October 7 as a catalyst for an \u2018unbelievable\u2019 number of converts to Islam, and downplayed support for Hamas at anti-Israel rallies",
-      "link": "https://nationalpost.com/news/canada/toronto-police-officers-misconduct-podcast",
-      "source": "National Post",
-      "image": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/07/Toronto-police-headquarters-1.jpg",
-      "published": "2026-08-01 02:57:39",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Anthropic, OpenAI cyber failures raise concerns over US national security",
-      "description": "Cybersecurity experts criticised Anthropic and OpenAI after AI models accessed external organisations during testing, with Anthropic's Claude stealing credentials and data due to a configuration error",
-      "link": "https://www.business-standard.com/technology/tech-news/anthropic-openai-cyber-failures-raise-concerns-over-us-national-security-126080100094_1.html",
-      "source": "Business Standard",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/01/full/1785552998-0485.jpg",
-      "published": "2026-08-01 02:57:38",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "US Iran War Live Updates: Iran vows response targeting Israeli infrastructure, US energy facilities if attacked",
-      "description": "US Iran War Live Updates: President Donald Trump warned that the US would hit Iran \"very hard\" as reports said Washington was weighing fresh strikes, including on energy infrastructure, as early as this weekend",
-      "link": "https://www.firstpost.com/world/us-iran-war-live-updates-trump-iran-airstrikes-middle-east-conflict-live-west-asia-war-liveblog-14035257.html",
-      "source": "Firstpost",
-      "image": "https://images.firstpost.com/uploads/2026/07/iran2-2026-07-d6975210581eb6e7920f3f955deb246c.jpg",
-      "published": "2026-08-01 02:57:37",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "19-kg LPG Price cut, Indian Railways online excess luggage booking: Key rule changes effective from August 1 that will impact your wallet",
-      "description": "The month of August has started. Here are the list of changes that will impact consumers from August 1, 2026.",
-      "link": "https://www.india.com/business/19-kg-commercial-lpg-price-cut-indian-railways-online-excess-luggage-booking-itr-deadline-key-rule-changes-effective-from-august-1-that-will-impact-your-wallet-8489742/",
-      "source": "India",
-      "image": "https://static.india.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-1-2026-08_23_09-AM.png",
-      "published": "2026-08-01 02:57:33",
-      "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "KV teaching post aspirants launch drive after result delay",
-      "description": "Aspirants say more than four months have passed since the examinations were conducted, but there has been no announcement on the final results or the next stages of recruitment. Their campaign, they say, comes on the back of a year-long recruitment process",
-      "link": "https://www.hindustantimes.com/cities/mumbai-news/kv-teaching-post-aspirants-launch-drive-after-result-delay-101785522852940.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2024/09/30/1600x900/Cities_1_1727682750859_1727682756125.jpg",
-      "published": "2026-08-01 02:57:33",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Vikings\u2019 QB Battle Gets Candid Take From Justin Jefferson",
-      "description": "The Minnesota Vikings have one of the more compelling quarterback battles in football this summer, with veteran and former No. 1 overall pick Kyler Murray attempting to fight off youngster J.J.",
-      "link": "https://www.yardbarker.com/nfl/articles/vikings_qb_battle_gets_candid_take_from_justin_jefferson/s1_17355_44123742",
-      "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/7/2/724ab7c695aef1426f5c6c4c45693c3890382f13/thumb_16x9/2026-01-04T180150Z_7140277_MT1USATODAY27930675_RTRMADP_3_NFL-GREEN-BAY-PACKERS-AT-MINNESOTA-VIKINGS-1024x705.jpg",
-      "published": "2026-08-01 02:57:27",
-      "category": [
-        "sports"
-      ],
-      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Mirabai Chanu welcomes India hosting next Commonwealth Games",
-      "description": "Mirabai Chanu shares her excitement about India hosting the next Commonwealth Games and her preparations for top performance in Ahmedabad.",
-      "link": "https://thenewsmill.com/2026/08/mirabai-chanu-welcomes-india-hosting-next-commonwealth-games/",
-      "source": "The News Mill",
-      "image": "https://thenewsmill.com/wp-content/uploads/2026/08/mirabai-chanu-welcomes-india-hosting-next-commonwealth-games.jpg",
-      "published": "2026-08-01 02:57:27",
+      "title": "\u2018Strongly urged\u2019 Iran to avoid attacks on seafarers, cargo ships: S Jaishankar",
+      "description": "The statement came after several merchant vessels with Indians on board were struck near the Strait of Hormuz amid fresh tensions in West Asia.",
+      "link": "https://scroll.in/latest/1094702/strongly-urged-iran-to-avoid-attacks-on-seafarers-cargo-ships-s-jaishankar",
+      "source": "Scroll.in",
+      "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/209274-iduddxedwf-1757393683.jpeg",
+      "published": "2026-08-01 04:04:00",
       "category": [
-        "top",
-        "sports"
+        "crime",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Situationer: How the US stabilisation fund could help Pakistan",
-      "description": "PAKISTAN\u2019S request for a $10 billion Exchange Stabilisation Support Facility from the US Treasury involves one of Washington\u2019s most powerful, but least understood financial tools. Finance Minister Muhammad Aurangzeb requested the facility, with a maturity period of up to five years, during a visit to Washington earlier this month. The request comes as Pakistan continues to face external financing pressures, including the need to maintain foreign exchange reserves, meet international debt obligations and support stability in the currency market. Unlike traditional assistance programmes from multilateral lenders, an arrangement through the US Treasury\u2019s Exchange Stabilisation Fund (ESF) would represent a direct bilateral financial mechanism between Washington and Islamabad. From Mexico in 1995 to Argentina last year, the US has quietly deployed its Exchange Stabilisation Fund to rescue struggling economies If approved, an ESF-backed facility could provide Pakistan with additional liquidity at a critical juncture. It could also help the State Bank of Pakistan manage external payment pressures, including import financing and debt servicing, while strengthening market confidence in the country\u2019s ability to meet international obligations. Agha Adeel Saadat, a former International Monetary Fund (IMF) economist who now works for a US financial firm, said such a facility could provide Pakistan with \u201can important financial buffer\u201d by strengthening foreign exchange reserves, enhancing investor confidence and reducing short-term external financing risks. \u201cAt a time of heightened geopolitical uncertainty in the Middle East and continued volatility in global oil prices, Pakistan remains vulnerable because of its dependence on imported energy,\u201d he said. \u201cA stronger reserve position would enable the State Bank of Pakistan to better manage exchange-rate volatility, meet external debt obligations and cushion temporary external shocks without disrupting economic activity.\u201d For Pakistan, which has repeatedly sought external support to manage balance-of-payments crises, an ESF facility would represent a new form of financial backing from the US. The key question remains, whether Washington considers the request an appropriate use of the ESF, and whether both governments can agree on the structure and conditions of such assistance. If approved, the facility would become one of the most significant recent bilateral financial arrangements between Pakistan and the United States. However, it would not by itself resolve Pakistan\u2019s long-term economic challenges. Mr Saadat cautioned that the proposed facility should be viewed as \u201ca bridge to stability rather than a substitute for structural reforms\u201d. He said Pakistan would still need to broaden its tax base, expand exports, improve productivity and exercise greater fiscal discipline by curbing non-essential public spending, including luxury official purchases and other discretionary expenditures that strain public finances. Dr Shahzad Latif, a Chicago-based political economist, argued that Pakistan\u2019s long-term economic health cannot depend on periodic external assistance. \u201cInstead of relying on piecemeal financial support, Pakistan needs a long-term strategy centred on attracting foreign direct investment, building industrial capacity to reduce imports and expanding exports,\u201d he said. \u201cThat would reduce pressure on foreign exchange reserves, strengthen the rupee and broaden the country\u2019s tax base, helping address Pakistan\u2019s balance-of-payments challenges over the long haul.\u201d Dr Latif added that bilateral financial arrangements can also have geopolitical implications. \u201cCountries receiving such assistance should remain mindful that strategic or diplomatic expectations may accompany major bilateral financial facilities,\u201d he said. \u201cIn my view, Washington could seek broader regional policy concessions, including encouraging Pakistan to move toward the Abraham Accords, although no such condition has been announced in this case.\u201d For now, Pakistan\u2019s request remains a proposal rather than an approved US financial commitment. What is the ESF? The proposed facility would rely on the US Treasury\u2019s ESF, a mechanism created to respond to international monetary crises and provide emergency financial support to foreign governments. According to the US Congressional Research Service, the ESF has \u201cbroad authority to conduct foreign exchange operations, extend short-term credit and enter into currency swap arrangements with foreign governments and central banks\u201d. Unlike regular government programmes funded through annual congressional appropriations, the ESF operates through its own resources, including earnings from investments, interest income and US holdings of International Monetary Fund Special Drawing Rights (SDRs). Established in 1934, the ESF was designed to allow the executive branch to respond quickly to international financial disruptions. Under 31 U.S.C. Section 5302, the Treasury Secretary has broad authority over the fund. While the President must provide Congress with a written report and justification when certain ESF loans extend beyond six months, lawmakers do not have statutory authority to block deployment of the funds. This structure gives the Treasury flexibility to act rapidly during financial emergencies. The ESF has been used several times to support foreign governments facing financial crises. According to CRS, the US Treasury has carried out 126 credit operations involving foreign governments, including short-term loans and currency swap arrangements. One of the most prominent examples was the 1995 Mexican peso crisis. After Congress rejected a proposed rescue package, the Clinton administration used the ESF to help assemble approximately $20 billion in currency swaps, loans and guarantees to support Mexico\u2019s financial stability. The ESF has also supported arrears-clearance operations. In 2008, it helped Liberia clear overdue obligations to international financial institutions, while a similar mechanism was used in 2021 to assist Sudan in clearing arrears to the IMF and World Bank. The US Treasury also established a $2.5 billion currency swap arrangement with Argentina in 2025 to provide emergency liquidity. Published in Dawn, August 1st, 2026",
-      "link": "https://www.dawn.com/news/2019811/situationer-how-the-us-stabilisation-fund-could-help-pakistan",
-      "source": "Dawn",
-      "image": "https://i.dawn.com/large/2026/08/01075643dbe6689.webp",
-      "published": "2026-08-01 02:57:26",
+      "title": "Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Operations",
+      "description": "Mumbai (Maharashtra) [India], July 31: Capri Global Capital Limited, known by the brand name \u2018Capri Loans\u2019, one of the leading, retail-focused Non-Banking Financial Companies (NBFCs), today announced that it is working with OpenAI to adopt enterprise grade generative AI across key business functions. The initiative supports Capri Loans\u2019 technology-led growth strategy. With this AI adoption, functions across customer service, operations, and knowledge workflows are expected to benefit significantly.",
+      "link": "https://telecomlive.in/web/2026/08/01/capri-loans-collaborates-with-openai-to-bring-enterprise-grade-ai-to-lending-operations/",
+      "source": "Telecomliveweb",
+      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
+      "published": "2026-08-01 04:04:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "pakistan"
+        "india"
       ]
     },
     {
-      "title": "Ji Sung Is Touched When His Fake Family Throws Him A Surprise Birthday Party In \"The Apartment Job\" - Soompi",
-      "description": "Ji Sung Is Touched When His Fake Family Throws Him A Surprise Birthday Party In \"The Apartment Job\" Soompi The Apartment Job: The chaotic new Netflix crime comedy that has us completely obsessed t2ONLINE The Apartment Job Episodes 5-6 Recap: What Happens Between Chung-won And Hae-kang? Film Fugitives Ji Sung Comforts A Tearful Ha Yun Kyung In \"The Apartment Job\" Soompi Ji Sung Is Surrounded By An Angry Mob In \"The Apartment Job\" Soompi",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG5RUFNqNzZtS1JlZzQxSXBSNHhoVFZYSmZ5aFJCMFZVeGotUDMyaVlWNnhmNFFKWWV4YlEwalJmUU8ySUprMkNHdUl6a0J4Tk9Od2p3NWhrVlpJQ2xqdUUtWHFKRzFaSkZrYmlUNUlEY0ZHTjVjWHdqb2cyU1dFWFl5aWIwczl2TUQwQUE0clA5WERaOGZxMlhZUmQ0TUctb1FkeldIeEVwUXl4R3lxSENjb19rZzVSc2ZmazZNcXFhRk4ydi1hS2RyQU15a3dQWXcxVmdR?oc=5",
-      "source": "Google News",
+      "title": "Social Determinants of Health Screening Reveals Virtual Care and Social Isolation as Leading Barriers for Podiatry Patients",
+      "description": "Routine screening for social determinants of health identified virtual care challenges and social isolation as the most common unmet needs among patients receiving podiatric care at a large academic medical center.",
+      "link": "https://www.hmpgloballearningnetwork.com/site/podiatry/clinical-insights/social-determinants-health-screening-reveals-virtual-care-and",
+      "source": "Health Management Professionals Global Learning Ne",
       "image": null,
-      "published": "2026-08-01 02:57:26",
+      "published": "2026-08-01 04:04:00",
       "category": [
-        "entertainment"
+        "top"
       ],
       "country": [
-        "singapore"
+        "united states of america"
       ]
     },
     {
-      "title": "Kolkata Weather LATEST Update: Heavy Rain Alert for North Bengal, Humid Conditions to Continue in South",
-      "description": "Kolkata Weather LATEST Update: West Bengal will witness contrasting weather conditions today, with heavy to very heavy rainfall expected across parts of North Bengal, while South Bengal, including Kolkata, is likely to remain humid",
-      "link": "https://newsable.asianetnews.com/gallery/india/kolkata-weather-latest-update-heavy-rain-alert-for-north-bengal-humid-conditions-to-continue-3hfkxym",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kw0tztzhfq82wckyedwk3mdb,imgname-kolkata-weather--7--1782439734257.jpg",
-      "published": "2026-08-01 02:57:25",
+      "title": "Expert shares tips for choosing a dentist and cutting dental costs - komonews.com",
+      "description": "Expert shares tips for choosing a dentist and cutting dental costs komonews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemxWRHdLcXZ5MWdaNmw1SU9XRjlHczdnZWM5Q2ItN2dLYm1UU29NQzdjRkdjSkc3QXB5d2o5X0FHRGtyc3YtSVhfU1VSaFpadjJUMnNSWVIzbk1HcksxMGJpUDl6Z290dmVZV1ZUTkIzVERwZnVrb01Xb1lxbWpSRjA1dnJsTE1SMkVmRHlWLTl5aW1YamN0eS0zU0liS253bjJSd2JOcw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-01 04:04:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Infrastructure damage in Lebanon affects returnees: UN",
+      "description": "United Nations, Aug 1 (IANS) UN humanitarians have said they are concerned that damage to southern Lebanon's water systems and other infrastructure is affecting the more than 1 million displaced people returning home. \"A preliminary assessment by the South Lebanon Water Establishment found that damage to water systems in South and Nabatieh governorates has disrupted access to safe drinking water for more than 700,000 people,\" the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Friday (local time). It said that damage to reservoirs, pumping stations, boreholes and other facilities is increasing public health risks and affecting agriculture and livelihoods, reports Xinhua news agency. OCHA said that more than 821,000 people have returned to their communities, but 360,000 remain displaced, including some 27,000 people living in collective shelters. The humanitarians said that returning home does not mean people's humanitarian needs have ended. Continued investment in humanitarian assistance and early recovery is essential to restoring basic services, supporting livelihoods, and helping communities recover safely and with dignity. Earlier on Monday, UN High Commissioner for Human Rights Volker Turk said that Israeli military operations in Lebanon have caused widespread civilian suffering and may amount to \"war crimes.\" Speaking at a press conference in Beirut at the end of his four-day official visit, Turk said his office had documented \"large-scale violations of international humanitarian law, some possibly amounting to war crimes.\" According to a statement released by the UN Information Centre, he said continued Israeli airstrikes, shelling and the use of explosive weapons in densely populated areas had caused heavy civilian casualties, widespread destruction and mass displacement. Tu\u0308rk also announced that an impartial and independent assessment mission has begun gathering information and evidence on alleged violations committed by parties to the conflict since March 2. Citing Lebanese authorities, Turk said more than 4,300 people have been killed and over 12,200 injured in Lebanon since March 2, including more than 135 healthcare workers as well as many journalists and media workers. --IANS sd/",
+      "link": "https://www.thehawk.in/news/world/infrastructure-damage-in-lebanon-affects-returnees-un",
+      "source": "Thehawk",
+      "image": "https://thehawk.sgp1.digitaloceanspaces.com/ed320b8b-080b-4e29-92c8-cd679ef6b604/202608013886834-7d663b22-b950-4b5e-acdc-2afb5d121f81.jpg",
+      "published": "2026-08-01 04:03:59",
       "category": [
         "environment",
         "top"
@@ -295,76 +242,33 @@
       ]
     },
     {
-      "title": "Surging Floodwaters in Godavari, Krishna Rivers",
-      "description": "\u0c17\u0c4b\u0c26\u0c3e\u0c35\u0c30\u0c3f, \u0c15\u0c43\u0c37\u0c4d\u0c23\u0c3e \u0c28\u0c26\u0c41\u0c32\u0c4d\u0c32\u0c4b \u0c35\u0c30\u0c26 \u0c09\u0c26\u0c4d\u0c27\u0c43\u0c24\u0c3f - \u0c30\u0c3f\u0c1c\u0c30\u0c4d\u0c35\u0c3e\u0c2f\u0c30\u0c4d\u0c32\u0c32\u0c4b \u0c2a\u0c46\u0c30\u0c41\u0c17\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c28\u0c40\u0c1f\u0c3f \u0c28\u0c3f\u0c32\u0c4d\u0c35\u0c32\u0c41 - \u0c0e\u0c38\u0c4d\u0c38\u0c3e\u0c30\u0c46\u0c38\u0c4d\u0c2a\u0c40, \u0c0e\u0c32\u0c4d\u0c32\u0c02\u0c2a\u0c32\u0c4d\u0c32\u0c3f\u0c15\u0c3f \u0c2d\u0c3e\u0c30\u0c40\u0c17\u0c3e \u0c28\u0c40\u0c1f\u0c3f \u0c2a\u0c4d\u0c30\u0c35\u0c3e\u0c39\u0c02 - \u0c2d\u0c26\u0c4d\u0c30\u0c3e\u0c1a\u0c32\u0c02 \u0c35\u0c26\u0c4d\u0c26 \u0c15\u0c4a\u0c28\u0c38\u0c3e\u0c17\u0c41\u0c24\u0c4b\u0c28\u0c4d\u0c28 \u0c2e\u0c42\u0c21\u0c4b \u0c2a\u0c4d\u0c30\u0c2e\u0c3e\u0c26 \u0c39\u0c46\u0c1a\u0c4d\u0c1a\u0c30\u0c3f\u0c15",
-      "link": "https://www.etvbharat.com/te/state/surging-floodwaters-in-the-godavari-and-krishna-rivers-due-to-heavy-rains-in-telangana-tgs26080100542",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/01-08-2026/1200-675-27285675-thumbnail-16x9-water.jpg",
-      "published": "2026-08-01 02:57:25",
+      "title": "Who is Brittney Griner\u2019s estranged wife Cherelle? All about the couple as Connecticut Sun star files for divorce",
+      "description": "Brittney Griner has filed for divorce from her wife, Cherelle Griner, after eight years of marriage, marking the end of a relationship that endured extraordinary public challenges. The feature explores Cherelle's legal career, how the couple met at Baylor University, their marriage and son Bash, and Cherelle's pivotal role in securing Griner's release from a Russian prison before their eventual separation.",
+      "link": "https://timesofindia.indiatimes.com/sports/international-sports/who-is-brittney-griners-estranged-wife-cherelle-all-about-the-couple-as-connecticut-sun-star-files-for-divorce/articleshow/132780794.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132780915/132780915.jpg",
+      "published": "2026-08-01 04:03:59",
       "category": [
-        "environment"
+        "entertainment",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Body found in south Wichita, dispatch confirms",
-      "description": "The body was found around 8:30 p.m. on Friday night.",
-      "link": "https://www.kwch.com/2026/08/01/body-found-south-wichita-dispatch-confirms/",
-      "source": "Https://www.kwch.com",
-      "image": "https://gray-kwch-prod.gtv-cdn.com/resizer/v2/PFUOGSXPM5DW3FTC3OOHKO7NLE.jpg?auth=beac79790f21dc080d0cddf41f7ae1182dd1b372d6f438fe74fea0252f9f89ff&width=1200&height=600&smart=true",
-      "published": "2026-08-01 02:57:25",
+      "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+      "description": null,
+      "link": "https://www.actionnewsjax.com/news/business/trump-wanted/BUYCMYUWJY5QFCHJYDTO2ZEB2A/",
+      "source": "Action News Jax",
+      "image": "https://www.actionnewsjax.com/resizer/v2/F5NBEVZ6YQYNBLI2IGAZGICKUM.jpg?auth=37f74269217f0cdd28ceac7da55a8badcc65816a965aa67a94fde0c42d8215da&smart=true&width=5640&height=3760",
+      "published": "2026-08-01 04:03:58",
       "category": [
-        "crime",
+        "business",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Sophie Cunningham says she's not concerned about being a distraction for the Fever",
-      "description": "Sophie Cunningham says she\u2019s unconcerned that the rallies against transgender participation in women's sports that have accompanied the Indiana\u2019s Fever\u2019s recent games are a distraction for the...",
-      "link": "https://www.newstimes.com/sports/article/sophie-cunningham-says-she-s-not-concerned-about-22369704.php",
-      "source": "News Times",
-      "image": "https://s.hdnux.com/photos/01/66/76/05/31187272/3/square_large.jpg",
-      "published": "2026-08-01 02:57:22",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Panthers HC Dave Canales names WRs who he'll count on in the absence of Chris Brazzell II",
-      "description": "The answer to the absence of Panthers WR Chris Brazzell II may be on the roster.",
-      "link": "https://sports.yahoo.com/articles/panthers-hc-dave-canales-names-025721087.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/70da90ce1983be00f8c845fce69db6548bc732119a4c29bb5f8cf3b90462868d/lightyear_networkapi/resizefit_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcarolina_panthers_wire_usa_today_sports_articles_855%2Fa972e3abe02bee8bb1c87a5581e41fcf",
-      "published": "2026-08-01 02:57:21",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Wired Productions Launches Two New Demos for Six One Indie Celebration",
-      "description": "Wired Productions is celebrating this year's Six One Indie by releasing Steam demos for Hotel Architect and BrokenLore: DON'T LIE. The post Wired Productions Launches Two New Demos for Six One Indie Celebration appeared first on COGconnected .",
-      "link": "https://cogconnected.com/2026/07/wired-productions-launches-two-new-demos-for-six-one-indie-celebration/",
-      "source": "Cogconnected",
-      "image": "https://cogconnected.com/wp-content/uploads/2026/07/BrokenLore-DONT-LIE-Featured.jpg",
-      "published": "2026-08-01 02:57:12",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "canada"
       ]
     }
   ]

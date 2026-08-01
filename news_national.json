@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "High Court refuses to fix timeline for conclusion of trial",
+      "description": "Walkar, who was in a live-in relationship with the accused, was allegedly strangled by Poonawala on May 18, 2022",
+      "link": "https://www.thehansindia.com/news/cities/new-delhi/high-court-refuses-to-fix-timeline-for-conclusion-of-trial-1103769",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/07/31/1683950-lady.webp",
+      "published": "2026-07-31 23:13:52",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

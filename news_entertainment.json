@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Bird, dog and the entire Tharoor family\u2014Delhi attends a book launch like no other",
-      "description": "Shobha Tharoor Srinivasan and her granddaughter Mrinalini Levin-Srinivasan\u2019s book Bird/Dog explores freedom, desire and belonging.",
-      "link": "https://theprint.in/feature/around-town/shobha-tharoor-srinivasan-bird-dog-book-launch/3002846/",
-      "source": "Theprint Hindi",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/Tharoor-book-launch.jpg",
-      "published": "2026-08-01 08:47:23",
+      "title": "JK Rowling centre says Amnesty apology does not fix \u2018reputational damage\u2019",
+      "description": "Beira's Place, founded by Rowling in 2022, was among the operations branded 'anti-rights' by the human rights charity",
+      "link": "https://www.dailyrecord.co.uk/news/scottish-news/jk-rowling-centre-says-amnesty-37502738",
+      "source": "Daily Record",
+      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37502769.ece/ALTERNATES/s615/1_jk-rowling.jpg",
+      "published": "2026-08-01 09:51:53",
       "category": [
         "entertainment"
       ],
       "country": [
-        "india"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Spencer Matthews praying for miracle during search for climbers led by Briton",
+      "description": "He shared a photo with the mountaineer on Instagram.",
+      "link": "https://www.shropshirestar.com/uk-news/spencer-matthews-praying-for-miracle-during-search-for-climbers-led-by-briton-8834219",
+      "source": "Shropshire Star",
+      "image": "https://www.shropshirestar.com/jpim-static/image/2026/08/01/11/cs-1418327c-0ba0-4d1f-9699-d77989f10649.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-08-01 09:51:51",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

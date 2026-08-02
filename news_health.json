@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Parents urged to spot childhood cancer early",
+      "description": "Childhood cancer continues to affect families across Fiji, with around 50 children diagnosed with the disease every year. Assistant Minister for Health Penioni Ravunawa says while cases remain low compared to other illnesses, every child diagnosed faces a life-changing battle. He says early detection is critical, as timely treatment can improve outcomes for children with [...]",
+      "link": "https://www.fbcnews.com.fj/news/parents-urged-to-spot-childhood-cancer-early/",
+      "source": "Fbc News",
+      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2024/11/Cancer.jpg",
+      "published": "2026-08-01 20:19:23",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "fiji"
+      ]
+    }
+  ]
 }

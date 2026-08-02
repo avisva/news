@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Google Expands Age Verification Tools for Users Globally",
-      "description": "Google announced the expansion of its age-verification technology to Android app developers worldwide, in a move aimed at providing a safer digital environment for children and teenagers amid growing pressure from governments and regulatory bodies to enhance online protection for minors.",
-      "link": "https://www.jordannews.jo/Section-129/Technology/Google-Expands-Age-Verification-Tools-for-Users-Globally-53716",
-      "source": "Jordan News | Latest News From Jordan, Mena",
-      "image": "https://www.jordannews.jo/Content/Upload/Slider/820261144455652069615.jpg",
-      "published": "2026-08-01 11:54:58",
+      "title": "PM Modi Hails Andhra's Tech-Driven Growth",
+      "description": "Prime Minister Narendra Modi lauded Andhra Pradesh's rapid progress under Chief Minister N. Chandrababu Naidu, highlighting the state's focus on semiconductors, IT and innovation as key drivers of future growth and youth empowerment.",
+      "link": "https://kolkatatoday.com/pm-modi-praises-andhra-tech-growth",
+      "source": "Kolkata Today",
+      "image": "https://kolkatatoday.com/uploads/2026/08/b6e0d0bc7a0441f5-large.png",
+      "published": "2026-08-01 14:33:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "jordan"
+        "india"
+      ]
+    },
+    {
+      "title": "One Galaxy Z Fold 8 and Ultra feature every new user should try - SamMobile",
+      "description": "One Galaxy Z Fold 8 and Ultra feature every new user should try SamMobile Galaxy Z Fold 8 can remember different auto-rotate settings for each screen SamMobile Galaxy Z Fold 8 might let you scale apps to the perfect size for content Android Central",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVhURmY3SEw3bWJ1RGdlUjY0VFNJNXQ2ekowVFk1VWttNnd5aWxXOTN1dFdCX0tPTEhoelFFTUwycEd4Q2txUzkzUTB0aFhTOUtGcHZJNjUycDVQMmk3Zk9GdWw3NTVZVHBUV29OVFU3Y0VnREZVMzVxMzFSTVNqVjAxQll1cnZ5ckNwUV9acDJWV1E2bXkxUkFYRQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-01 14:33:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

@@ -1,35 +1,82 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "President Trump says he will order American forces to hold off on new strikes against Iran",
-      "description": "The emerging deal \u201cwould include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran\u2019s nuclear threat,\u201d Trump wrote Saturday.",
-      "link": "https://www.khou.com/article/news/nation-world/attack-on-iran/president-trump-halts-new-strikes-against-iran/507-e5bf040c-812f-43be-870d-92ef734d19b3",
-      "source": "Khou",
-      "image": "https://media.tegna-media.com/assets/CCT/images/cc013a71-6757-4ee4-829f-20ff2fa573d5/20260802T094440/cc013a71-6757-4ee4-829f-20ff2fa573d5_750x422.jpg",
-      "published": "2026-08-02 09:52:52",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "K'taka all-party meet on Cauvery dispute underway; CM Shivakumar seeks united stand",
-      "description": "Stressing that drinking water remains the top priority, Shivakumar appealed for political unity and urged protesters to withdraw their agitation, saying water must be released once the Kabini reservoir reaches full capacity.",
-      "link": "https://www.ibtimes.co.in/ktaka-all-party-meet-cauvery-dispute-underway-cm-shivakumar-seeks-united-stand-904378",
-      "source": "International Business Times",
-      "image": "https://data1.ibtimes.co.in/en/full/835427/ktaka-all-party-meet-cauvery-dispute-underway-cm-shivakumar-seeks-united-stand.jpg",
-      "published": "2026-08-02 09:52:48",
+      "title": "FairPoint: When the protest became a mirror to society",
+      "description": "Long after the slogans have faded, these are the questions that should concern the country the most.",
+      "link": "https://www.thehansindia.com/news/national/fairpoint-when-the-protest-became-a-mirror-to-society-1104214",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/08/02/1684396-cjp.webp",
+      "published": "2026-08-02 10:52:52",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Plea for adequate staffing for Armagh City, Banbridge & Craigavon Borough cemeteries",
+      "description": "Councillor Julie Flaherty has praised the Blitz Team and other maintenance staff for the excellent work they have carried out in recent times at Kernan Cemetery, however she has expressed concerns over future service provision, against the backdrop of staff shortages.",
+      "link": "https://www.northernirelandworld.com/news/people/plea-for-adequate-staffing-for-armagh-city-banbridge-craigavon-borough-cemeteries-8834905",
+      "source": "Northern Ireland World",
+      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmIzOTJkNzJhLWRjZGUtNGMzZC04NDdhLTcxYTk5MjEwZDg5NjoyYWY1N2Q1Zi04MTczLTRkYTUtOGRlZi0yYWMyNjk5OGI4NDE=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-08-02 10:52:51",
+      "category": [
+        "business",
+        "environment",
+        "health",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Lebanon's Army: Dreaming of an Elusive Joy",
+      "description": "Lebanon marked Army Day on August 1. On this day in 1945, France - the mandatory power over Syria and Lebanon since 1920 - handed the military units under its control in the Levant to the national government of independent Lebanon. Yet, the occasion falls this year under abnormal circumstances. One might object that independent Lebanon has rarely known \"normal circumstances,\" which is true, but the present moment is exceptional in every respect.",
+      "link": "https://english.aawsat.com/opinion/5302594-lebanons-army-dreaming-elusive-joy",
+      "source": "Al-sharq Al-awsat",
+      "image": "https://static.srpcdigital.com/styles/thumbnail/public/2024-11/Eyad-Abushaqra.jpg",
+      "published": "2026-08-02 10:52:46",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Pundit: PH suffered \u2018political massacre\u2019 over living costs, broken promises",
+      "description": "By DayakDaily Team KUCHING, Aug 2: Political analyst Dato Peter Minos believes Pakatan Harapan (PH) must confront growing voter dissatisfaction following what he described as a \u201cpolitical massacre\u201d in the Negeri Sembilan election, arguing that public frustration over rising living costs, unfulfilled promises and prolonged political disputes contributed to the coalition\u2019s heavy defeat. In a [...]",
+      "link": "https://dayakdaily.com/pundit-ph-suffered-political-massacre-over-living-costs-broken-promises/",
+      "source": "Dayakdaily",
+      "image": "https://i0.wp.com/dayakdaily.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-10-at-10.25.01-AM-e1783849111104.jpeg?fit=800%2C565&ssl=1",
+      "published": "2026-08-02 10:52:41",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Rasim Ljajic steps down as SDPS leader, replaced by theatre director Jug Radivojevic",
+      "description": "Rasim Ljajic, a politician from Novi Pazar and former deputy prime minister of Serbia, has stepped down as president of the Social Democratic Party of",
+      "link": "https://n1info.rs/english/news/rasim-ljajic-steps-down-as-sdps-leader-replaced-by-theatre-director-jug-radivojevic/",
+      "source": "N1",
+      "image": "https://n1info.rs/media/images/rasim-ljajic-n1-228066.width-1200.jpeg",
+      "published": "2026-08-02 10:52:28",
+      "category": [
+        "politics",
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "serbia"
       ]
     }
   ]

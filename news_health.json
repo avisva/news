@@ -1,5 +1,23 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Plea for adequate staffing for Armagh City, Banbridge & Craigavon Borough cemeteries",
+      "description": "Councillor Julie Flaherty has praised the Blitz Team and other maintenance staff for the excellent work they have carried out in recent times at Kernan Cemetery, however she has expressed concerns over future service provision, against the backdrop of staff shortages.",
+      "link": "https://www.northernirelandworld.com/news/people/plea-for-adequate-staffing-for-armagh-city-banbridge-craigavon-borough-cemeteries-8834905",
+      "source": "Northern Ireland World",
+      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmIzOTJkNzJhLWRjZGUtNGMzZC04NDdhLTcxYTk5MjEwZDg5NjoyYWY1N2Q1Zi04MTczLTRkYTUtOGRlZi0yYWMyNjk5OGI4NDE=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-08-02 10:52:51",
+      "category": [
+        "business",
+        "environment",
+        "health",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

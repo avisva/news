@@ -1,20 +1,67 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Forum: Del Buono",
+      "title": "Unseemly quarrel over beach access",
       "description": null,
-      "link": "https://www.record-eagle.com/news/forum-del-buono/article_e1b699e7-633c-4ff8-92a8-302fc419416d.html",
-      "source": "Record Eagle",
-      "image": null,
-      "published": "2026-08-02 03:58:00",
+      "link": "https://www.jamaicaobserver.com/2026/08/02/unseemly-quarrel-beach-access/",
+      "source": "Jamaica Observer",
+      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/08/427452e9b87d160e9c65094b9b5fb8bd-1024x781.jpg",
+      "published": "2026-08-02 05:07:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "gabon"
+      ]
+    },
+    {
+      "title": "Lawyer on what happens to your money if you don't have a will",
+      "description": "The answer may not be as clear-cut as you might think",
+      "link": "https://www.bristolpost.co.uk/news/cost-of-living/lawyer-what-happens-your-money-11087820",
+      "source": "Bristolpost Co Uk",
+      "image": "https://i2-prod.devonlive.com/incoming/article11087830.ece/ALTERNATES/s615/0_GettyImages-2282151201.jpg",
+      "published": "2026-08-02 05:07:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Cerbat constable resigns months after Mohave County approved pay raise",
+      "description": "Less than four months after the Mohave County Board of Supervisors voted to raise constables' salaries, one of those elected officials is stepping down.",
+      "link": "https://www.havasunews.com/news/cerbat-constable-resigns-months-after-mohave-county-approved-pay-raise/article_aaae229d-56a4-426e-9355-8f38495081f8.html",
+      "source": "Havasunews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/custom/image/71a305c0-66d2-11e5-8a1a-abf413f57a29.png?resize=600%2C315",
+      "published": "2026-08-02 05:07:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Rs 35 LPA in Bengaluru or Rs 26.5 LPA WFH? Techie's Reddit post sparks salary debate, internet throws suggestions",
+      "description": "A techie's Reddit post comparing a Rs 35 LPA product-company offer in Bengaluru with his Rs 26.5 LPA work-from-home job has sparked a debate on whether a higher salary is worth relocating to India's tech hub.",
+      "link": "https://www.moneycontrol.com/news/trends/rs-35-lpa-in-bengaluru-or-rs-26-5-lpa-wfh-techie-s-reddit-post-sparks-salary-debate-internet-throws-suggestions-13991139.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260621105838_techie.png",
+      "published": "2026-08-02 05:06:52",
+      "category": [
+        "world",
+        "politics",
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

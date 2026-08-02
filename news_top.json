@@ -1,16 +1,62 @@
 {
   "status": "success",
-  "totalResults": 24,
+  "totalResults": 9,
   "results": [
     {
-      "title": "Burnham pledges more cost of living support as chancellor says public being \u2018taken for a ride\u2019 on food and petrol prices - The Independent",
-      "description": "Burnham pledges more cost of living support as chancellor says public being \u2018taken for a ride\u2019 on food and petrol prices The Independent Cornwall's Voice: Perran Moon, Labour MP for Camborne and Redruth, supports VAT cut on electricity Cornish & Devon Post Message to the new PM: Good early pace \u2013 now make it count The Herald Burnham\u2019s cost-of-living premiership meets the clean power agenda SEC Newgate UK Fact Check: Benefit of UK's electricity VAT cut misrepresented as \u00a340 driveway tax Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTNBd2owQ2hydGVwcHV3dm0ta1ZYYXdhaDA4OU9jYjlJNmtTQzduRXBLOU9DakZUNGliODhPRUlJYWxzamllY2FDckx5QXNyZ2c4VkExVElqTVRyVnJYU19FZWhPeXdFZXlfQkpRVEtxT2NKTHVuN1FhN2xFc1F3dWMyVnM4MkhQTV9uaTJySkMyNzF4Q1lYUjlQVThKVFpjYzFONEp0cDg1M3FzSENrWA?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-02 08:52:00",
+      "title": "Multiple people hurt in early-morning shooting in Greensboro, police say",
+      "description": "Greensboro police are investigating a shooting early this morning that injured multiple people on West Gate City Boulevard.",
+      "link": "https://www.wxii12.com/article/multiple-people-hurt-in-early-morning-shooting-in-greensboro-police/73326168",
+      "source": "Wxii",
+      "image": "https://hips.hearstapps.com/htv-prod/images/81a21ac8-853b-45f5-90b6-4517993e92e4.jpg",
+      "published": "2026-08-02 09:53:00",
       "category": [
-        "business",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "ISKCON begins mid-day meal service in West Bengal schools; Eggs to be served separately twice a week",
+      "description": "The West Bengal government has rolled out an ISKCON-managed mid-day meal programme in government schools, with officials assuring that students will continue to receive boiled eggs twice a week through a separate arrangement.",
+      "link": "https://www.news9live.com/india/iskcon-begins-mid-day-meal-service-in-west-bengal-schools-eggs-to-be-served-separately-twice-a-week-2995882",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/07/Mid-day-meal.jpg",
+      "published": "2026-08-02 09:53:00",
+      "category": [
+        "top",
+        "education"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "PM Modi Congratulates Priya Ghanghas on CWG Gold",
+      "description": "Prime Minister Narendra Modi congratulated Priya Ghanghas for winning the Women's 60kg boxing gold medal at the Commonwealth Games 2026, praising her skill and mental strength.",
+      "link": "https://kolkatatoday.com/pm-modi-congratulates-priya-ghanghas-cwg-2026-gold",
+      "source": "Kolkata Today",
+      "image": "https://kolkatatoday.com/uploads/2026/08/22f1e78b983c3ef9-large.png",
+      "published": "2026-08-02 09:53:00",
+      "category": [
+        "top",
+        "lifestyle",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Woman, 33, \u2018drugged & kept as sex slave\u2019 found handcuffed to balcony by horrified neighbours as 2 teens among 4 arrested",
+      "description": "A HOMELESS woman allegedly drugged and kept as a sex slave for months was found handcuffed on a balcony by a horrified neighbour. A local initially believed the half-naked woman was a leftover Halloween decoration before phoning cops with four men, including two teenagers, being charged over the alleged campaign of abuse. German investigators say...",
+      "link": "https://www.thesun.co.uk/news/39941819/woman-drugged-sex-slave-found-handcuffed-balcony-4-arrested/",
+      "source": "The Sun",
+      "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F08%2Fnewspress-collage-30na6k22d-1785661640477.jpg?quality%3D90%26strip%3Dall%261785665256%261785665256",
+      "published": "2026-08-02 09:52:59",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -18,278 +64,59 @@
       ]
     },
     {
-      "title": "14 Afghan migrants found dead in Afghanistan desert after trek to Iran",
-      "description": "HERAT: The bodies of 14 Afghans attempting to reach Iran were found in a scorching desert in southwestern Afghanistan, officials said on Saturday, weeks after their vehicle broke down and they set off on foot.",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/02/14-afghan-migrants-found-dead-in-afghanistan-desert-after-trek-to-iran",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/02/4039850.jpeg",
-      "published": "2026-08-02 08:52:00",
+      "title": "Indonesia Ferry Fire: At Least 5 Dead, 41 Missing After Vessel Catches Fire Off Madura Island",
+      "description": "Five dead, 41 missing after ferry fire off Indonesia's Madura Island. Search and rescue operations ongoing.",
+      "link": "https://www.news18.com/world/indonesia-ferry-fire-at-least-5-dead-41-missing-after-vessel-catches-fire-off-madura-island-10247896.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/indonesia-ferry-fire-edt-2026-08-f70e2bcc3274c46483bb71deae939cb8-1200x800.jpg",
+      "published": "2026-08-02 09:52:58",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "malaysia"
+        "india"
       ]
     },
     {
-      "title": "One Nation tops latest poll to dethrone Labor again - Nine.com.au",
-      "description": "One Nation tops latest poll to dethrone Labor again Nine.com.au Still waters run deep. Are we seeing a hollowing of Labor\u2019s support? AFR Pauline Hanson as PM? The maths versus the mirage SMH.com.au New MRP Model points to Hung Parliament DemosAU Arm wrestle: One Nation retakes lead over Labor in latest poll AFR",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVM3bFNyUXFwbmFwQXEtWUZPRW9KNFotYjdXSGZSX2dhNzE1c1RVcl9OTEpieEJ3ZGgzMXlEclBRYWVXY1BnbWhOLXZoUzloUFpOMnBfNWdYNWZOR3djalh1bVlZMVNCc0FIOXQtX0hWMU90eHRhVDFPbkZUdFByMW9aUWpQdkt4LWVZb3BXTjk?oc=5",
-      "source": "Google News",
+      "title": "President Trump says he will order American forces to hold off on new strikes against Iran",
+      "description": "The emerging deal \u201cwould include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran\u2019s nuclear threat,\u201d Trump wrote Saturday.",
+      "link": "https://www.khou.com/article/news/nation-world/attack-on-iran/president-trump-halts-new-strikes-against-iran/507-e5bf040c-812f-43be-870d-92ef734d19b3",
+      "source": "Khou",
+      "image": "https://media.tegna-media.com/assets/CCT/images/cc013a71-6757-4ee4-829f-20ff2fa573d5/20260802T094440/cc013a71-6757-4ee4-829f-20ff2fa573d5_750x422.jpg",
+      "published": "2026-08-02 09:52:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "5 dead, 41 missing after Indonesian ferry catches fire: Authorities",
+      "description": "At least five people were killed and 41 were still missing on Sunday after a ferry caught fire off Indonesia\u2019s Madura island, the country\u2019s search and rescue agency said in a statement. The ferry was carrying 271 passengers and crew members, 225 of whom have been rescued, agency data showed on Sunday afternoon. A search [...]",
+      "link": "https://www.tribuneindia.com/news/world/five-dead-41-missing-after-indonesian-ferry-catches-fire-authorities",
+      "source": "The Tribune India",
       "image": null,
-      "published": "2026-08-02 08:51:57",
+      "published": "2026-08-02 09:52:49",
       "category": [
-        "politics",
+        "crime",
         "top"
       ],
       "country": [
-        "australia"
+        "india"
       ]
     },
     {
-      "title": "One Nation tops latest poll to dethrone Labor again",
-      "description": "One Nation has jumped back up after a dip, \u201cindicating that for their base, grievance mobilises more reliably than policy\u201d.",
-      "link": "https://www.nine.com.au/australia-news/one-nation-tops-latest-poll-20260802-p60kqp.html",
-      "source": "9news",
-      "image": "https://static.ffx.io/images/$zoom_0.2647%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_121/t_crop_custom/q_86%2Cf_auto/25b4604537dd643f04a4553549e08ff7754bf164ceb7a08f5c10fbf6a3638f59",
-      "published": "2026-08-02 08:51:57",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "No Winner in Saturday's $707 Million Powerball Drawing as Jackpot Continues Climbing Even Higher Still",
-      "description": "The Powerball jackpot has reached $707 million after no ticket matched all winning numbers in the latest drawing. The next drawing is scheduled for Monday night, with anticipation building.",
-      "link": "https://www.ibtimes.com.au/powerball-jackpot-soars-707-million-1873354",
+      "title": "K'taka all-party meet on Cauvery dispute underway; CM Shivakumar seeks united stand",
+      "description": "Stressing that drinking water remains the top priority, Shivakumar appealed for political unity and urged protesters to withdraw their agitation, saying water must be released once the Kabini reservoir reaches full capacity.",
+      "link": "https://www.ibtimes.co.in/ktaka-all-party-meet-cauvery-dispute-underway-cm-shivakumar-seeks-united-stand-904378",
       "source": "International Business Times",
-      "image": "https://d.ibtimes.com.au/en/full/213128/powerball.jpg?w=1600&h=900&q=88&f=f22517d2ece0ef128c86b8a31d564bf5",
-      "published": "2026-08-02 08:51:56",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Colombia police station bombed wounding 14 people",
-      "description": "Colombia\u2019s government has blamed rebel groups for a truck bomb that wounded 14 people near the border with Venezuela. The attack came less than a week before President-elect Abelardo de la Espriella is due to take office. He has said he plans to end the current administration\u2019s peace negotiations with various armed groups. Morgan Ayre reports.",
-      "link": "https://www.france24.com/en/colombia-police-station-bombed-wounding-14-people",
-      "source": "France 24",
-      "image": "https://s.france24.com/media/display/0314b118-8e4d-11f1-9bc2-005056a97e36/w:1024/p:16x9/EN-20260802-100828-101000-CS.jpg",
-      "published": "2026-08-02 08:51:49",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "dominican republic",
-        "paraguay",
-        "brazil",
-        "netherland",
-        "mexico",
-        "puerto rico",
-        "belize",
-        "venezuela",
-        "argentina",
-        "honduras",
-        "barbados",
-        "bolivia",
-        "united states of america",
-        "dominica",
-        "jamaica",
-        "cayman islands",
-        "colombia",
-        "guatemala",
-        "peru",
-        "grenada",
-        "cuba",
-        "el salvador",
-        "costa rica",
-        "haiti",
-        "guyana",
-        "nicaragua",
-        "chile",
-        "panama",
-        "canada",
-        "uruguay",
-        "ecuador"
-      ]
-    },
-    {
-      "title": "FIFA chief Infantino's position looks unacceptable, head of European leagues says",
-      "description": "European Leagues chief Claudius Schaefer said Gianni Infantino's FIFA presidency is untenable after the failed World Cup rights plan, citing poor governance and no consultation.",
-      "link": "https://dunyanews.tv/en/Sports/965897-fifa-chief-infantinos-position-looks-unacceptable-head-of-european-l",
-      "source": "Dunyanews",
-      "image": "https://img.dunyanews.tv/news/2026/August/08-02-26/news_big_images/965897_88934070.jpg",
-      "published": "2026-08-02 08:51:49",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "'K-Volatility' and the Stock Market's Safety Devices",
-      "description": "As Korea's stock market triggered its sidecar 23 times and circuit breaker six times in July alone, this commentary explores the history and limits of these safety devices amid rising \"K-volatility.\"",
-      "link": "https://en.sedaily.com/news/2026/08/02/k-volatility-and-the-stock-markets-safety-devices",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/cms/2026/08/02/news-g.v1.20260802.2d315ed4af194ea29035c883a9569c26_P1.jpg",
-      "published": "2026-08-02 08:51:49",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Arsenal move for Brazilian superstar considered \u2018done deal\u2019 by reliable journalist",
-      "description": "Arsenal appear to be closing in on one of the summer\u2019s biggest Premier League transfers after reportedly reaching an agreement with Newcastle United for Bruno Guimara\u0303es. The proposed package is said to be worth around \u20ac80 million, although other reports suggest the eventual fee could rise through bonuses. DOWNLOAD THE OFFICIAL CAUGHTOFFSIDE APP FOR ALL [...] The post Arsenal move for Brazilian superstar considered \u2018done deal\u2019 by reliable journalist appeared first on CaughtOffside .",
-      "link": "https://www.caughtoffside.com/2026/08/02/arsenal-move-brazilian-superstar-considered-done-deal/",
-      "source": "Caughtoffside",
-      "image": "https://icdn.caughtoffside.com/wp-content/uploads/2026/04/COS-FeaturedHero-Image-Templates-57.jpg",
-      "published": "2026-08-02 08:51:48",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Iran Sees Every Threat from Adversaries as 'Real and Credible', Acting Defense Minister Says",
-      "description": "Tehran views every threat from its adversaries as \"real and credible\" even if made \u200cas part \u200cof psychological warfare, \u200cIran's \u2060acting defense minister, \u2060Majid Ibn al-Reza, said on Sunday according to \u2060state media. \"We \u200cwill \u200cneither be \u200ccaught off \u200cguard nor remain passive,\" he said, adding that \u200cIran would use threats \u2060as a \u2060basis to increase its military readiness, strengthen deterrence and enhance its military capabilities, reported Reuters.",
-      "link": "https://english.aawsat.com/node/5302571",
-      "source": "Al-sharq Al-awsat",
-      "image": "https://static.srpcdigital.com/styles/414x217/public/2026-08/1699054_0.jpeg.webp",
-      "published": "2026-08-02 08:51:42",
+      "image": "https://data1.ibtimes.co.in/en/full/835427/ktaka-all-party-meet-cauvery-dispute-underway-cm-shivakumar-seeks-united-stand.jpg",
+      "published": "2026-08-02 09:52:48",
       "category": [
         "politics",
-        "top"
-      ],
-      "country": [
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "Taiwan Open 2026: Aaron Chia-Aaron Tai finish as runners-up",
-      "description": "KUALA LUMPUR: National men\u2019s doubles pair, Aaron Chia-Aaron Tai, finished as runners-up at the Taiwan Open 2026 after a hard-fought final today. The fifth-seeded Malaysian duo lost in straight sets to Indonesia\u2019s eighth seeds, Leo Rolly Carnando-Daniel Marthin, with scores of 21-23, 19-21. In a match that lasted 42 minutes, a neck-and-neck battle in the opening [...]",
-      "link": "https://www.sarawaktribune.com/taiwan-open-2026-aaron-chia-aaron-tai-finish-as-runners-up/",
-      "source": "Sarawak Tribune",
-      "image": "https://www.sarawaktribune.com/wp-content/uploads/2026/08/926995b7bad5c47c69d818ffa6c705536a6efd480fa42.jpg",
-      "published": "2026-08-02 08:51:42",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Jeremy Clarkson\u2019s England\u2019s Best IPA has just been turned into a pub pie in Bolton",
-      "description": "Jeremy Clarkson said this week that there\u2019s \"no feeling like harvesting your own beer\" \u2013 and now fans can get a taste of the farming presenter\u2019s award-winning brew in a whole new way.",
-      "link": "https://www.theboltonnews.co.uk/news/26429482.jeremy-clarksons-hawkstone-ipa-pie-available-bolton-pub/",
-      "source": "The Bolton News",
-      "image": null,
-      "published": "2026-08-02 08:51:40",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Magnitude 5.9 earthquake hits east coast of North Island in New Zealand, GFZ says",
-      "description": null,
-      "link": "https://www.reuters.com/business/environment/magnitude-59-earthquake-hits-east-coast-north-island-new-zealand-gfz-says-2026-08-02/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/J2OT46IMSVO2LHG3HHCW3T5WGM.jpg?auth=1bb42dc711388997fd45b2f1aac58ca16ebd233c55b315fd77faa5f6343d7aff&smart=true&width=1920",
-      "published": "2026-08-02 08:51:40",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "japan",
-        "china",
-        "south africa",
-        "russia",
-        "iran",
-        "united states of america",
-        "ukraine",
-        "israel",
-        "united kingdom",
-        "india"
-      ]
-    },
-    {
-      "title": "Legal rights explained when the neighbour's dog keeps barking all day and night",
-      "description": "There's few things more exhausting and frustrating than a neighbour's dog barking all hours of the day, but what can you do about it?",
-      "link": "https://www.bristolpost.co.uk/news/uk-world-news/legal-rights-explained-neighbours-dog-11088486",
-      "source": "Bristolpost Co Uk",
-      "image": "https://i2-prod.bristolpost.co.uk/incoming/article11088484.ece/ALTERNATES/s615/0_GettyImages-1290033865.jpg",
-      "published": "2026-08-02 08:51:37",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "COKA is the right man to lead Ashanti NPP \u2013 Adomako-Mensah",
-      "description": "The Member of Parliament for Afigya Kwabre North, Collins Adomako-Mensah, has endorsed Odeneho Kwaku Appiah, popularly known as COKA, as the best candidate to",
-      "link": "https://www.citinewsroom.com/2026/08/coka-is-the-right-man-to-lead-ashanti-npp-adomako-mensah/",
-      "source": "Citinewsroom - Comprehensive News In Ghana",
-      "image": "https://www.citinewsroom.com/wp-content/uploads/2026/08/Screenshot-2026-08-02-083823.png",
-      "published": "2026-08-02 08:51:36",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Canada travel chaos: WestJet strike cancels over 300 flights",
-      "description": "WestJet strike cancels over 300 flights, disrupting Canada travel during a long weekend as flight attendants walk out in a pay dispute over ground duties.",
-      "link": "https://gulfnews.com/world/americas/canada-travel-chaos-westjet-strike-cancels-over-300-flights-1.500628258",
-      "source": "Gulf News",
-      "image": "https://media.assettype.com/gulfnews/2025-04-15/0mk87thg/newsml_afp_com_20250415T180916Z_doc_42fn6zp.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-08-02 08:51:33",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "WestJet flight attendants go on strike after talks fall through, grounding flights",
-      "description": "WestJet flight attendants commenced a strike on Sunday after contract negotiations failed. The Canadian Union of Public Employees represents thousands of affected cabin crew members. This action highlights broader efforts by flight attendants seeking better compensation structures. WestJet confirmed the work stoppage and will refund or re-accommodate affected passengers.",
-      "link": "https://economictimes.indiatimes.com/news/international/business/westjet-flight-attendants-go-on-strike-after-talks-fall-through-grounding-flights/articleshow/132803748.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-132803800,resizemode-4,width-1200,height-900,imgsize-53320,overlay-economictimes/articleshow.jpg",
-      "published": "2026-08-02 08:51:31",
-      "category": [
-        "business",
         "top"
       ],
       "country": [
@@ -297,134 +124,18 @@
       ]
     },
     {
-      "title": "Rolls-Royce, BAE Systems bust up leaves 'all-British\u2019 fighter jet to use American engine",
-      "description": "BAE\u2019s decision means that while Rolls-Royce is collaborating with the US and Germany, it remains absent from Britain's own flagship effort",
-      "link": "https://www.lbc.co.uk/article/rolls-royce-bae-systems-all-british-fighter-american-engine-5HjdfRn_2/",
-      "source": "London Broadcasting Company",
-      "image": "https://images.globalplayer.com/images/832350?crop=16_9&width=1200&signature=pzh111TgMYLZM1kRjDQJkHxHT4Q=",
-      "published": "2026-08-02 08:51:31",
+      "title": "Celtic sent Alistair Johnston transfer warning after Martin O'Neill confirmed Everton talks",
+      "description": "Chris Sutton has spoken out on Alistair Johnston after Celtic manager Martin O'Neill revealed that Everton's David Moyes had contacted him to say a bid was coming for the right-back",
+      "link": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/alistair-johnston-everton-celtic-transfer-34389308",
+      "source": "Liverpool Echo",
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34389357.ece/ALTERNATES/s615/0_FIL-MOTHERWELL-CELTIC-068JPG.jpg",
+      "published": "2026-08-02 09:52:47",
       "category": [
         "top",
-        "technology"
+        "sports"
       ],
       "country": [
         "united kingdom"
-      ]
-    },
-    {
-      "title": "Friendship is purely a connection of hearts: Angad Hasija on Friendship Day",
-      "description": "Angad Hasija, who plays the role of Yashvardhan in Zee TV's Tum Se Tumm Tak, talks about true friendships on the occasion of Friendship Day. Read his insights here at IWMBuzz.com.",
-      "link": "https://www.iwmbuzz.com/television/celebrities/friendship-is-purely-a-connection-of-hearts-angad-hasija-on-friendship-day/2026/08/02",
-      "source": "Iwmbuzz",
-      "image": "https://www.iwmbuzz.com/wp-content/uploads/2026/08/friendship-is-purely-a-connection-of-hearts-angad-hasija-on-friendship-day.jpeg",
-      "published": "2026-08-02 08:51:29",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "What are legal rights when neighbour's dog barks all day and night",
-      "description": "There's few things more exhausting and frustrating than a neighbour's dog barking all hours of the day, but what can you do about it?",
-      "link": "https://www.walesonline.co.uk/news/uk-news/what-legal-rights-neighbours-dog-34388732",
-      "source": "Wales Online",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34388757.ece/ALTERNATES/s615/0_GettyImages-1314289033.jpg",
-      "published": "2026-08-02 08:51:27",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "TOR paid in full for Ghana's Jubilee crude - President Mahama",
-      "description": "President John Dramani Mahama has disclosed that the Tema Oil Refinery (TOR) fully paid for Ghana\u2019s Jubilee crude oil supplied to the refinery, dismissing suggestions that the facility received the crude on credit.",
-      "link": "https://www.ghanaweb.com/GhanaHomePage/business/TOR-paid-in-full-for-Ghana-s-Jubilee-crude-President-Mahama-2045982",
-      "source": "Ghana Web",
-      "image": "https://cdn.ghanaweb.com/imagelib/src/President_Mahama-President_Mahama---HNW3hQDWAAAdXWj.jpg",
-      "published": "2026-08-02 08:51:25",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Sri Lanka deploys troops after prison riot",
-      "description": "Inmates destroyed multiple buildings inside Mahara Prison, just outside the capital Colombo, police said.",
-      "link": "https://www.channelnewsasia.com/asia/sri-lanka-police-troops-commandos-prison-riot-aug-2-6293551",
-      "source": "Channel Newsasia",
-      "image": "https://dam.mediacorp.sg/image/upload/s--drEbt2Sl--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/02/download_1.jpg?itok=NRoKOWiw",
-      "published": "2026-08-02 08:51:23",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "maldives",
-        "taiwan",
-        "india",
-        "hong kong",
-        "malaysia",
-        "vietnam",
-        "bhutan",
-        "sri lanka",
-        "bahrain",
-        "cambodia",
-        "pakistan",
-        "japan",
-        "nepal",
-        "china",
-        "north korea",
-        "philippines",
-        "south korea",
-        "mongolia",
-        "bangladesh",
-        "singapore",
-        "israel",
-        "afghanistan",
-        "indonesia",
-        "myanmar",
-        "kuwait",
-        "thailand",
-        "turkey"
-      ]
-    },
-    {
-      "title": "'They must face the most severe punishment' \u2013 How Vyshyneve's ammunition depot multiplied the toll of Russia's strike",
-      "description": "VYSHNEVE, Kyiv Oblast \u2013 After a Russian missile strike tore through a quiet suburb just southwest of Kyiv on July 6, causing massive explosions at a warehouse near a residential area, entire streets resemble a front-line town. Where neat gardens, cherry trees, and family homes once stood, there are now scorched foundations, collapsed roofs, and piles of twisted metal. The blast resulted in the most extensive damage to residential areas since Russia's full-scale invasion began, Ukrainian officia",
-      "link": "https://kyivindependent.com/these-requirements-were-ignored-how-ammunition-stored-beside-vyshneve-homes-multiplied-the-toll-of-a-russian-strike/",
-      "source": "The Kyiv Independent",
-      "image": "https://assets.kyivindependent.com/content/images/2026/07/DSC_4810_20260729-180545.jpg",
-      "published": "2026-08-02 08:51:15",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "ukraine"
-      ]
-    },
-    {
-      "title": "Hungary shuts down its nuclear plant due to heat wave",
-      "description": null,
-      "link": "https://www.brusselstimes.com/world/2255496/hungary-shuts-down-its-nuclear-plant-due-to-heat-wave/",
-      "source": "The Brussels Times",
-      "image": "https://api.brusselstimes.com/wp-content/uploads/2026/08/7c8895f2-bada-4481-9b00-1feca5b0cf99-1024x683.jpg",
-      "published": "2026-08-02 08:51:15",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "belgium"
       ]
     }
   ]

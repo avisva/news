@@ -1,17 +1,48 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "PM Modi Hails Andhra's Tech-Driven Growth",
-      "description": "Prime Minister Narendra Modi lauded Andhra Pradesh's rapid progress under Chief Minister N. Chandrababu Naidu, highlighting the state's focus on semiconductors, IT and innovation as key drivers of future growth and youth empowerment.",
-      "link": "https://kolkatatoday.com/pm-modi-praises-andhra-tech-growth",
-      "source": "Kolkata Today",
-      "image": "https://kolkatatoday.com/uploads/2026/08/b6e0d0bc7a0441f5-large.png",
-      "published": "2026-08-01 14:33:00",
+      "title": "Nashik mayor, commissioner draw flak for attending pothole review meeting online",
+      "description": "Nashik mayor, commissioner draw flak for attending pothole review meeting online",
+      "link": "https://timesofindia.indiatimes.com/city/nashik/nashik-mayor-commissioner-draw-flak-for-attending-pothole-review-meeting-online/articleshow/132794303.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132794300/132794300.jpg",
+      "published": "2026-08-01 17:53:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Heavy rain in Shivamogga district fills up rivers, dams",
+      "description": "Heavy rain in Shivamogga district fills up rivers, dams",
+      "link": "https://timesofindia.indiatimes.com/city/mysuru/heavy-rain-in-shivamogga-district-fills-up-rivers-dams/articleshow/132794872.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132794871/132794871.jpg",
+      "published": "2026-08-01 17:53:35",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Tripura\u2019s Asmita Dey scripts history with India\u2019s first-ever Commonwealth Games judo",
+      "description": "Tripura Chief Minister Manik Saha described her achievement as a historic moment for both the state and the nation",
+      "link": "https://www.krctimes.com/news/tripuras-asmita-dey-scripts-history-with-indias-first-ever-commonwealth-games-judo/",
+      "source": "Krc Times",
+      "image": "https://www.krctimes.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-01-at-11.17.51-PM.jpeg",
+      "published": "2026-08-01 17:53:34",
       "category": [
         "top",
-        "technology"
+        "lifestyle",
+        "sports"
       ],
       "country": [
         "india"

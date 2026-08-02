@@ -1,50 +1,63 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Chainlink (LINK) Price Could Rally to $12 if Bulls Defend Critical Support",
-      "description": "LINK price is holding the $7.30\u2013$8.20 support zone, with a breakout potentially sending the price toward $10 and $12. Analysts say Bitcoin's direction rema",
-      "link": "https://www.newsbreak.com/news/4804867308574-chainlink-link-price-could-rally-to-12-if-bulls-defend-critical-support",
-      "source": "Newsbreak",
-      "image": "https://img.particlenews.com/img/id/0fVPbU_1DrUbf9k00",
-      "published": "2026-08-02 00:00:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Plano internship program celebrates workforce partnerships",
-      "description": "The Plano Mayor\u2019s Summer Internship Program marked its 13th year on July 30 as city officials, educators, business leaders and community partners gathered",
-      "link": "https://www.newsbreak.com/plano-star-courier-324565322/4804718054510-plano-internship-program-celebrates-workforce-partnerships",
-      "source": "Newsbreak",
+      "title": "Australian farmers in trade dispute over pineapple import plan",
+      "description": "Growers say allowing Indian and Indonesian fruit in poses a wider biosecurity threat",
+      "link": "https://www.ft.com/content/89450629-32d9-495e-b287-42156e1aa68a?syn-25a6b1a6=1",
+      "source": "Financial Times",
       "image": null,
-      "published": "2026-08-02 00:00:00",
+      "published": "2026-08-02 02:25:49",
       "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "AI isn\u2019t a catch-all trade for stocks in this earnings season",
-      "description": "Investors are becoming more selective about AI-linked stocks, rewarding companies such as Microsoft and Amazon for showing clear returns from their investments while penalising Meta and Alphabet for rising spending and weaker cash flows. Despite strong earnings growth across the US and Europe, European equities have outperformed as gains broaden...",
-      "link": "https://www.inkl.com/news/ai-isnt-a-catch-all-trade-for-stocks-in-this-earnings-season",
-      "source": "Inkl",
-      "image": "https://images.inkl.com/s3/article/lead_image/23654103/132801452.jpg",
-      "published": "2026-08-02 00:00:00",
-      "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
         "united kingdom"
+      ]
+    },
+    {
+      "title": "'Buy land before buying a car': Financial advisor shares Gujarati family money rules for building wealth",
+      "description": "Financial advisor Prem Soni shared 10 Gujarati family money rules focused on building long-term wealth rather than appearing rich. He advised buying land before luxury cars, diversifying income, waiting for payments before celebrating profits and teaching children about money. Other lessons include protecting relationships with clear lending terms, living below your means, building wealth actively and prioritising financial security so future generations have fewer money worries.",
+      "link": "https://economictimes.indiatimes.com/magazines/panache/buy-land-before-buying-a-car-financial-advisor-shares-gujarati-family-money-rules-for-building-wealth/articleshow/132799082.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132799275,resizemode-4,width-1200,height-900,imgsize-177573,overlay-etpanache/articleshow.jpg",
+      "published": "2026-08-02 02:25:43",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "7 in 10 stocks fall in July as stock market posts steepest decline since 2008",
+      "description": "SEOUL, Aug. 2 (Yonhap) -- Prices of seven out of 10 stocks listed on South Korea...",
+      "link": "https://en.yna.co.kr/view/AEN20260802001100320",
+      "source": "Yonhap News Agency",
+      "image": "https://img.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072918100001300_P2.jpg",
+      "published": "2026-08-02 02:25:21",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "When the paycheck stops: Would your finances survive a job loss?",
+      "description": "While employees are investing more and planning for the future, many remain one layoff away from financial distress.",
+      "link": "https://www.businesstoday.in/jobs/story/when-the-paycheck-stops-would-your-finances-survive-a-job-loss-546687-2026-08-02",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a6eac0a68d27-55-of-indian-employees-not-financially-prepared-for-job-loss-ai-generated-023133538-16x9.png?size=1280:720",
+      "published": "2026-08-02 02:25:09",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

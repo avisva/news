@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "U. study shows New Jerseyans want regulations for AI, mental health",
+      "description": "Researchers at Rutgers published a study that found most adults in New Jersey support new regulations surrounding AI and mental health.",
+      "link": "https://www.dailytargum.com/article/u-study-shows-new-jerseyans-want-regulations-for-ai-mental-health-20260802",
+      "source": "The Daily Targum",
+      "image": "https://snworksceo.imgix.net/rdt/dfa08f32-807a-4f13-910b-ebcdb59edc8b.sized-1000x1000.jpg",
+      "published": "2026-08-02 22:39:44",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,34 +1,69 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Light rail service disrupted after train derails near CID Station - KING5.com",
-      "description": "Light rail service disrupted after train derails near CID Station KING5.com Seattle light rail train derailment leads to suspended service, alternate routes The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeDAzeTdaLWdvZXl6eDBCV1NndDRITEZncEhYeG0xWVpMTjNvemxueWdCaXk5eFF2WDd1RHQ3Y0dIXzdPVEtrUndsXzR1T2FBbHhyWXlSZ0xlRmxXYzNmWXVwVlZFYy0yVEhuS2VnbDZ0cnJwTGlZX1NTVVR3TzFlNmpIOGM1Uzlja3l6RE5SVllPdUVTTlV1NDV5bEZzMTNRM3doX2Qta3FVRThWRWdMTXlqM1pVMW53N3dUeFpsQkMxTFdMaXp4eW1OLXltY1RXaTN3QVJWQmFma0h2aGxzbXpmV0JVbFNyX2dN?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-02 14:51:00",
+      "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 2036? History Has Good and Bad News for Investors.",
+      "description": "The bad news is unavoidable. The good news is reassuring.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/where-vanguard-p-500-etf-182000163.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/motleyfool.com/8ccbb2f8cc533d0eb3bbcfca593f45b8",
+      "published": "2026-08-02 18:20:00",
       "category": [
         "business"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Stock Market Timings Change: F&O Trading To Continue Till 3:40 PM",
-      "description": "India's stock market timings will change from August 3 as SEBI introduces a Closing Auction Session for F&O-eligible stocks.",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-timings-change-from-monday-f-o-trading-to-continue-till-3-40-pm-new-closing-auction-session-introduced-11856026",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-08/okkoibs4_stock-market-timings-change-from-august-3-as-sebi-introduces-a-closing-auction-session-for-fo-stocks-with-fo-trading-extended-until-340-pm_625x300_02_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "published": "2026-08-02 14:50:55",
+      "title": "117 job seekers duped of Rs 3.7 crore with fake govt jobs promise",
+      "description": "117 job seekers duped of Rs 3.7 crore with fake govt jobs promise",
+      "link": "https://timesofindia.indiatimes.com/city/pune/117-job-seekers-duped-of-rs-3-7-crore-with-fake-govt-jobs-promise/articleshow/132812488.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "published": "2026-08-02 18:19:51",
       "category": [
         "business",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "ARB Apex Bank ready for microfinance supervisory role, posts GH\u00a234.56m profit in 2025",
+      "description": "The ARB Apex Bank is positioning itself to offer robust technical support and operational guidance, as well as coordinating capacity building to support the transition of community banks into the new microfinance regulatory framework.",
+      "link": "https://www.myjoyonline.com/arb-apex-bank-ready-for-microfinance-supervisory-role-posts-gh%C2%A234-56m-profit-in-2025/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-02-at-10.30.53-1024x768.jpeg",
+      "published": "2026-08-02 18:19:39",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Kit launch next to Spider-Man and opening Nasdaq: Wrexham take over New York",
+      "description": null,
+      "link": "https://www.thetimes.com/sport/football/article/wrexham-new-york-takeover-ryan-reynolds-3k8l6qklr",
+      "source": "The Times",
+      "image": null,
+      "published": "2026-08-02 18:19:36",
+      "category": [
+        "entertainment",
+        "world",
+        "business",
+        "sports",
+        "technology",
+        "tourism",
+        "other"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

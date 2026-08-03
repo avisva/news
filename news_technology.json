@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "This month in KDE Linux",
-      "description": "... is now hosted on KDE infrastructure, instead of this blog! Check out the July 2026 post , or the entire series here .",
-      "link": "https://pointieststick.com/2026/08/02/this-month-in-kde-linux-2/",
-      "source": "Planet Kde",
-      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-      "published": "2026-08-03 04:21:38",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "germany"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

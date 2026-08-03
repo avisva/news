@@ -1,5 +1,63 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Google reportedly had its own ChatGPT before OpenAI, but never released it: Former employee reveals why",
+      "description": "Google reportedly had its own ChatGPT before OpenAI, but never released it: Former employee reveals why",
+      "link": "https://www.digit.in/news/mobile-phones/google-reportedly-had-its-own-chatgpt-before-openai-but-never-released-it-former-employee-reveals-why.html",
+      "source": "Digit",
+      "image": "https://static.digit.in/Google-own-ChatGpt-.png",
+      "published": "2026-08-03 08:25:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Isee Hair Advances Glueless Wig Design with New Cap and Lace Technology",
+      "description": "Isee Hair introduced glueless wigs to the market. As a brand offering glueless installation for lace wigs, ISEE designs wigs with features intended to simplify the application process.",
+      "link": "https://www.financialcontent.com/article/accwirecq-2026-8-3-isee-hair-advances-glueless-wig-design-with-new-cap-and-lace-technology",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-08-03 08:25:00",
+      "category": [
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "India\u2019s 5G roadmap: Can telcos turn scale into profits?",
+      "description": "India\u2019s telecom sector has achieved one of the fastest 5G deployments anywhere in the world. But after the record-breaking rollout comes the tougher question: how do operators turn massive network investments into sustainable returns?",
+      "link": "https://www.thehindubusinessline.com/multimedia/indias-5g-roadmap-can-telcos-turn-scale-into-profits/article71300384.ece",
+      "source": "The Hindu - Business Line",
+      "image": "https://bl-i.thgim.com/public/incoming/7cdso4/article71300368.ece/alternates/LANDSCAPE_1200/Nitin%20Bansal%20India%20MD%20Ericsson.jpg",
+      "published": "2026-08-03 08:24:52",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
+      "description": "The developments show Chinese AI firms racing to build more powerful systems without sharply raising costs",
+      "link": "https://tribune.com.pk/story/2621839/alibaba-unveils-its-largest-ai-model-yet-deepseeks-latest-model-is-ultra-low-cost",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/image-61785764327-0/image-61785764327-0-640x480.webp",
+      "published": "2026-08-03 08:24:52",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "\u2018Untenable\u2019: Hipkins says PM must sack Peters",
-      "description": "Chris Hipkins says it is untenable for Winston Peters to remain as foreign affairs minister while attacking foreigners.",
-      "link": "https://www.thepost.co.nz/politics/361055207/untenable-chris-hipkins-says-christopher-luxon-must-sack-winston-peters",
-      "source": "The Post",
-      "image": null,
-      "published": "2026-08-02 22:39:14",
+      "title": "Time to revisit Kaiama killings, abductions",
+      "description": "What drew my attention to that BBC Hausa service report that early morning, last week, was the plaintive tone of the Kaiama spokesman appealing to the government to rescue their 176 captured citizens by the dreaded terrorists. He spoke with genuine anguish, pleading that their citizens abducted from Woro and Kuna villages, who have spent [...]",
+      "link": "https://dailytrust.com/time-to-revisit-kaiama-killings-abductions/",
+      "source": "Daily Trust",
+      "image": "https://dailytrust.com/wp-content/uploads/2020/10/Nigerian-Union-of-Teachers-NUT-150x150.jpg",
+      "published": "2026-08-03 01:37:13",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Bankipur, Datia election result LIVE: Key test for Prashant Kishor in Bihar, counting of votes begins at 8am",
+      "description": "Bankipur, Datia election result LIVE: Counting of votes for the bypolls in three assembly constituencies, Bankipur, Datia and Manjalpur, will begin at 8am today. The Bankipur contest is a key test for Jan Suraaj Party founder Prashant Kishor, who threw his hat after the seat fell vacant.",
+      "link": "https://www.hindustantimes.com/india-news/bankipur-election-result-live-updates-eci-prashant-kishor-jan-suraaj-datia-bypoll-ashutosh-tiwari-bjp-congress-manjalpur-101785718353017.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/03/1600x900/ANI-20260802008-0_1785720753343_1785720767201_17931c6c-b7ca-4ba6-8fca-1b538d541b34.jpg",
+      "published": "2026-08-03 01:37:09",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "new zealand"
+        "india"
       ]
     }
   ]

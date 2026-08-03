@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "U. study shows New Jerseyans want regulations for AI, mental health",
-      "description": "Researchers at Rutgers published a study that found most adults in New Jersey support new regulations surrounding AI and mental health.",
-      "link": "https://www.dailytargum.com/article/u-study-shows-new-jerseyans-want-regulations-for-ai-mental-health-20260802",
-      "source": "The Daily Targum",
-      "image": "https://snworksceo.imgix.net/rdt/dfa08f32-807a-4f13-910b-ebcdb59edc8b.sized-1000x1000.jpg",
-      "published": "2026-08-02 22:39:44",
+      "title": "US-Iran Talks: Trump says he's 'not looking to kill people', announces fresh negotiations from Monday",
+      "description": "The US President revealed that diplomatic engagements involving Saudi Arabia, the United Arab Emirates, Qatar and Iran led him to halt what was originally planned as a \"massive attack\" on Friday.",
+      "link": "https://www.dnaindia.com/world/report-us-iran-talks-trump-says-he-s-not-looking-to-kill-people-announces-fresh-negotiations-from-monday-3217697",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/08/03/2755525-phto-2026-07-15t230816.301.png",
+      "published": "2026-08-03 01:38:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "#HEALTH: Small habits, big impact on diabetes",
+      "description": "MALAYSIA is facing a dual epidemic of obesity and type 2 diabetes. One in two adults in the country is overweight or obese according to the National Health and Morbidity Survey (NHMS) 2024.",
+      "link": "https://www.nst.com.my/lifestyle/heal/2026/08/1503101/health-small-habits-big-impact-diabetes",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/196AF3183402EC489E8CC6B4AAE13347_data_1.jpg",
+      "published": "2026-08-03 01:37:20",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "united states of america"
+        "malaysia"
       ]
     }
   ]

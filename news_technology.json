@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Korea Navy Tests AI-Based Unmanned Mine Warfare System",
+      "description": "The Republic of Korea Navy and Hanwha Systems conducted an AI-based unmanned mine warfare combat experiment at Busan Naval Base, testing minesweepers, USVs and AUVs in a simulated port blockade scenario.",
+      "link": "https://en.sedaily.com/politics/2026/08/03/korea-navy-tests-ai-based-unmanned-mine-warfare-system",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/cms/2026/08/03/news-p.v1.20260803.70d32a5a87a44285b1107f3e77ea6718_P1.jpg",
+      "published": "2026-08-03 01:37:25",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Private equity-backed SG Fleet lobs $770m offer for FleetPartners",
+      "description": "Pacific Equity Partners plans to strengthen its grip on Australia\u2019s vehicle leasing sector with a proposal to merge two of its biggest players.",
+      "link": "https://www.afr.com/companies/transport/private-equity-backed-sg-fleet-lobs-770m-offer-for-fleetpartners-20260803-p60kv1",
+      "source": "Afr",
+      "image": null,
+      "published": "2026-08-03 01:37:09",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

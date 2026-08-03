@@ -1,34 +1,47 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "US-Iran Talks: Trump says he's 'not looking to kill people', announces fresh negotiations from Monday",
-      "description": "The US President revealed that diplomatic engagements involving Saudi Arabia, the United Arab Emirates, Qatar and Iran led him to halt what was originally planned as a \"massive attack\" on Friday.",
-      "link": "https://www.dnaindia.com/world/report-us-iran-talks-trump-says-he-s-not-looking-to-kill-people-announces-fresh-negotiations-from-monday-3217697",
-      "source": "Dna",
-      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/08/03/2755525-phto-2026-07-15t230816.301.png",
-      "published": "2026-08-03 01:38:00",
+      "title": "Gut microbiome shifts may begin before Alzheimer\u2019s symptoms appear",
+      "description": "A narrative review links reduced SCFA-producing gut bacteria and altered microbial metabolism with Alzheimer\u2019s disease, while early evidence suggests similar changes may appear before cognitive symptoms. Mediterranean, DASH, MIND, and prudent diets are associated with beneficial microbial profiles, but direct evidence connecting diet, the microbiome, and amyloid pathology remains limited.",
+      "link": "https://www.news-medical.net/news/20260803/Gut-microbiome-shifts-may-begin-before-Alzheimere28099s-symptoms-appear.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_843887_1785730880779786.jpg",
+      "published": "2026-08-03 04:22:00",
       "category": [
         "health"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     },
     {
-      "title": "#HEALTH: Small habits, big impact on diabetes",
-      "description": "MALAYSIA is facing a dual epidemic of obesity and type 2 diabetes. One in two adults in the country is overweight or obese according to the National Health and Morbidity Survey (NHMS) 2024.",
-      "link": "https://www.nst.com.my/lifestyle/heal/2026/08/1503101/health-small-habits-big-impact-diabetes",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/196AF3183402EC489E8CC6B4AAE13347_data_1.jpg",
-      "published": "2026-08-03 01:37:20",
+      "title": "Gut microbiome shifts may begin before Alzheimer\u2019s symptoms appear - News-Medical",
+      "description": "Gut microbiome shifts may begin before Alzheimer\u2019s symptoms appear News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2lqcDRJSkFOcFhvQVVpNEthWjI5YnIwOHNqelhCcnpUVF9XWTJVOE5ZQ0dSQjNoejFEOGxqWHo3QnFOWTVzdzJkaDZkbFY4OENNTk9DbmRFbF9tcXFkVWJQVl84Y21sYndHcWw0Qmg1VEVBNkRWeDE1S3puU0tab0tLVnhpYWZtVE1nVmtGU1YwWjlIMUFNczVpUzVIdU1BaG1MbUVsTzB3d0J6cTQ0YWRRaURWSWdDTUpB?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-03 04:22:00",
       "category": [
-        "top",
         "health"
       ],
       "country": [
-        "malaysia"
+        "canada"
+      ]
+    },
+    {
+      "title": "Making Splash For Cancer Free Future - Mirage News",
+      "description": null,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ma2NwdkQyQ3UwdFB5bDVDNVpQd09UdTBqR1JhRFdDMm5LcTVqbHFlTm1MaFJvRmJJZEhEWERYTUJ2aDhCeGxJcG8yRVRRSkFSaEh3Q3FkSEdodTdSWmZvWWY5d2gySm9XcWRvN3E1TFY5TEtlaHhJUHNsWDg?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-03 04:22:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

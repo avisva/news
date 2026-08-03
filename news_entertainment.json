@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Ariana Grande withdraws from London musical and will take a break from the public eye",
+      "description": "Ariana Grande has pulled out of an upcoming stage musical in London, producers said, and plans to withdraw from the public eye for a break from the intense scrutiny she faces.",
+      "link": "https://www.pressdemocrat.com/2026/08/03/ariana-grande-london-musical-break/",
+      "source": "The Press Democrat",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/Philanthropy-Ariana_Grande_96_16.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-03 04:22:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

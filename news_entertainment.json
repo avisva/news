@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
-      "description": "Spider-Man fans hail Brand New Day as Holland's best yet",
-      "link": "https://adaderana.lk/news/cmsbqqecr000d356poo6dct98",
-      "source": "Adaderana News",
-      "image": "https://ada-derana-prod-english-news-temp.s3.amazonaws.com/articles/cmsbqqecr000d356poo6dct98/MediaFile_20260802_172710_401.jpg",
-      "published": "2026-08-02 11:55:44",
+      "title": "Bigg Boss Kannada Season 13 first promo out: Kiccha Sudeep returns as host, fans say \u2018King is back\u2019",
+      "description": "The makers of Bigg Boss Kannada 13 have dropped the first official promo. The teaser confirms Kiccha Sudeep's return as host and offers a glimpse of what promises to be an exciting new season.",
+      "link": "https://www.india.com/entertainment/bigg-boss-kannada-season-13-first-promo-out-kiccha-sudeep-returns-as-host-fans-say-king-is-back-8491174/",
+      "source": "India",
+      "image": "https://static.india.com/wp-content/uploads/2026/08/Kiccha-Sudeep-to-host-Bigg-Boss-Kannada-13-.png",
+      "published": "2026-08-02 14:51:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Viewers 'questioning everything' after watching 'disturbing' true crime docuseries",
+      "description": "The four part series is said to leave fans glued to the screen",
+      "link": "https://www.glasgowlive.co.uk/news/tv/viewers-questioning-everything-after-watching-34392370",
+      "source": "Glasgowlive Co Uk",
+      "image": "https://i2-prod.glasgowlive.co.uk/news/tv/article34392363.ece/ALTERNATES/s615/0_Screenshot-2026-08-02-143300.jpg",
+      "published": "2026-08-02 14:50:36",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "sri lanka"
+        "united kingdom"
       ]
     }
   ]

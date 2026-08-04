@@ -1,29 +1,44 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Virginia primary elections set for Tuesday",
-      "description": "Polls open Tuesday at 6 a.m. across Virginia for primary elections that will determine nominees in two federal races.",
-      "link": "https://www.wvva.com/2026/08/03/virginia-primary-elections-set-tuesday/",
-      "source": "Https://www.wvva.com",
-      "image": "https://gray-wvva-prod.gtv-cdn.com/resizer/v2/ERB3IM725ZEBZN5VNNTIYCOC6Y.jpg?auth=dc8e1a7fb9e5a11d5ddd8d99ec0827762b69c26ef121076640c81829e8b3fa3f&width=1200&height=600&smart=true",
-      "published": "2026-08-03 22:34:53",
+      "title": "\u2018Basic\u2019: Brutal swipe after MP\u2019s gaffe",
+      "description": null,
+      "link": "https://www.news24.com.au/latest/matt-canavan-accuses-government-of-basic-misunderstanding-of-property-market/news-story/40dcfd2e40bf9b7141760298273a02c7",
+      "source": "Sky News Australia",
+      "image": "https://content.api.news/v3/images/bin/2317594d1db74d6a679f9bff10a9cc75",
+      "published": "2026-08-04 00:59:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "\u2018Was I a bad performer?\u2019 Dinesh Gundu Rao questions Congress over K\u2019taka cabinet exclusion",
+      "description": "Senior Congress leader Dinesh Gundu Rao questions his exclusion from the Karnataka Cabinet, saying the party should provide a proper reason while reaffirming his loyalty to Congress.",
+      "link": "https://english.mathrubhumi.com/news/india/dinesh-gundu-rao-unhappy-karnataka-cabinet-exclusion-ust20wgp",
+      "source": "Mathrubhumi English",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1svvf2c20dumvz1irzp/1/dinesh-gundu-rao-jpg.webp?$p=f162f31&f=16:9&w=1080&q=0.8",
+      "published": "2026-08-04 00:58:51",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Trump allies turn up the heat against Republican facing horrific allegations",
-      "description": "Allies of President Donald Trump are urging him to push embattled Rep. Max Miller (R-OH) out of his reelection race over domestic abuse allegations \u2014 even as Trump tells reporters he'll just \"let the families figure that out.\" On Monday, Sen. Rick Scott (R-FL) became the latest Trump ally to call on Miller to forfeit his seat. Republicans ranging from Sen. Bernie Moreno (R-OH) to several GOP strategists who have worked for Trump have also called on Miller to resign. \"You shouldn't be in office,\" Scott told Pablo Manri\u0301quez of MeidasTouch. Behind closed doors, four sources familiar with the matter told CNN that top House Republicans have been calling White House officials directly, hoping Trump will convince Miller to drop out before Tuesday's ballot deadline. Per one source, Trump has privately told allies he doesn't believe Miller can actually win the race given the mounting accusations. Publicly, though, Trump is staying noncommittal, simply saying, \"I'm going to let the families figure that out.\" Miller's ex-wife, Emily Moreno, has accused him in police interviews and court filings of holding a gun to her head and breaking their toddler daughter's collarbone, though no charges were ultimately filed. Miller has denied every allegation, calling the gun incident false and insisting his firearms stay locked in a safe. Over the weekend, Miller's own former father-in-law, Ohio Sen. Bernie Moreno, finally broke his silence and condemned Miller in a lengthy post to X, saying that he \"should not serve\" in Congress. Miller fired back, accusing him of only speaking out now to distract from his own controversies. He also posted a packet of court and police records that named his young daughter and included his ex-wife's home address, drawing further backlash. Under Ohio's ballot laws, if Miller withdraws by Tuesday, the state holds a special primary to replace him; after that, GOP leaders get a narrow window through August 10 to pick a replacement themselves. Trump carried Miller's exurban Cleveland-area district by 11 points in 2024, but Democrats are now eyeing the seat as vulnerable \u2014 leaving Republicans racing against the clock to decide whether Miller stays on the ballot at all.",
-      "link": "https://www.rawstory.com/max-miller-2677652020/",
-      "source": "Raw Story",
-      "image": "https://www.rawstory.com/media-library/u-s-congressman-max-miller-speaking-with-attendees-at-the-republican-jewish-coalition-s-2023-annual-leadership-summit-at-the-ve.jpg?id=65722992&width=980",
-      "published": "2026-08-03 22:34:32",
+      "title": "S.F. mayor\u2019s office, labor tried to strip \u2018affordable housing\u2019 wording from ballot measure. They failed.",
+      "description": "A November affordable housing measure almost lost the high-polling term \u201caffordable housing\u201d in the digest that will be printed in San Francisco\u2019s Voter Information Pamphlet. S.F. mayor\u2019s office, labor tried to strip \u2018affordable housing\u2019 wording from ballot measure. They failed.",
+      "link": "https://missionlocal.org/2026/08/mayors-office-labor-affordable-housing-wording/",
+      "source": "Mission Local",
+      "image": null,
+      "published": "2026-08-04 00:58:36",
       "category": [
         "politics"
       ],
@@ -32,18 +47,32 @@
       ]
     },
     {
-      "title": "French insist plan to use Navy to tow back small boats is illegal",
-      "description": "The diplomatic row was sparked hours after party leader Nigel Farage and Zia Yusuf, its home affairs spokesman, unveiled 'Operation Fortress' at a press conference yesterday.",
-      "link": "https://www.dailymail.com/news/article-16026073/French-insist-plan-use-Navy-tow-small-boats-illegal.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/03/23/110419239-0-image-a-26_1785796029570.jpg",
-      "published": "2026-08-03 22:34:28",
+      "title": "N. Korea slams US-led naval exercise, vows to respond with 'deterrence of new level'",
+      "description": "North Korea on Tuesday denounced a recent US-led multinational naval exercise as a \"war rehearsal\" and threatened to respond with a \"deterrence of new level.\" An article, attributed to \"a military commentator\" and published by the Korean Central News Agency, pointed to the biennial Rim of the Pacific exercise as evidence of deepening military cooperation between South Korea, the United States and Japan, and called it \"a war rehearsal of aggression.\" RIMPAC, the world's largest international mari",
+      "link": "https://www.koreaherald.com/article/10829986",
+      "source": "The Korea Herald",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/08/04/news-p.v1.20260804.3684f1db0344448e82731ebc4ce5159b_T1.jpg",
+      "published": "2026-08-04 00:58:28",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Will not allow any unauthorized route through Strait of Hormuz, target US warships if necessary: Iran",
+      "description": "Tehran: Senior military advisor to Iran's Supreme Leader Ayatollah Seyyed Mojtaba Khamenei, Mohsen Rezaee, on Monday (local time) rejected US President...",
+      "link": "https://timesofoman.com//article/175215-will-not-allow-any-unauthorized-route-through-strait-of-hormuz-target-us-warships-if-necessary-iran",
+      "source": "Timesofoman",
+      "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/08/1785805106-1785805106-nb3tjbdxkb69-700x400.jpg",
+      "published": "2026-08-04 00:58:26",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "romania"
       ]
     }
   ]

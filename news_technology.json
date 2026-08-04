@@ -1,19 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "SPX48D: Early Presale Interest Builds Around an AI Reward Model That Puts Staking and Referrals Front and Center",
-      "description": "The crypto market heading into the second half of 2026 looks different from previous cycles. Investors are still chasing narratives, but they are also asking harder questions about what happens after the initial raise. Pure hype still moves numbers, yet",
-      "link": "https://www.openpr.com/news/4593199/spx48d-early-presale-interest-builds-around-an-ai-reward-model",
-      "source": "Openpr.com",
-      "image": null,
-      "published": "2026-08-03 10:05:59",
+      "title": "V2 Cloud Solutions Inc.: CloudNett and V2 Cloud Help SMBs Reduce IT Burden as AI Accelerates the Cybersecurity Arms Race",
+      "description": "Joint initiative combines managed security operations, SOC 2-certified services, and virtual cloud computing to help small and medium-sized businesses operate with enterprise-grade resilience.QUEB...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69199400-v2-cloud-solutions-inc-cloudnett-and-v2-cloud-help-smbs-reduce-it-burden-as-ai-accelerates-the-cybersecurity-arms-race-008.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN17012&Transmission_Id=202608030800PR_NEWS_EURO_ND__EN17012&DateId=20260803",
+      "published": "2026-08-03 12:06:00",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
         "germany"
+      ]
+    },
+    {
+      "title": "Thales Launches Imperva for AWS to Help Organizations Protect Applications and APIs",
+      "description": "Imperva for AWS delivers enterprise-grade web application, API, and bot protection for AWS environments Using Amazon CloudFront, AWS's fully managed content delivery network, to simplify deploymen...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69199397-thales-launches-imperva-for-aws-to-help-organizations-protect-applications-and-apis-004.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-thales-sa-aktie-intraday-tradegate.png",
+      "published": "2026-08-03 12:06:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "EXL completes acquisition of iMerit, accelerating enterprise AI leadership",
+      "description": "NEW YORK, Aug. 03, 2026 (GLOBE NEWSWIRE) -- ExlService Holdings, Inc. (NASDAQ: EXLS), a global data and AI company, announced it has completed the acquisition of iMerit, a recognized leader in AI model training, evaluation and reinforcement learning. Together, EXL\u2019s...",
+      "link": "https://www.eagletribune.com/region/exl-completes-acquisition-of-imerit-accelerating-enterprise-ai-leadership/article_8b1af3f0-efb0-502a-9adc-c4ec22d2648f.html",
+      "source": "Eagletribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+      "published": "2026-08-03 12:05:59",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Xpanner Launches Shake-Out, GNSS-Guided Pile Distribution That Eliminates the Marking Task on ...",
+      "description": "SANTA FE SPRINGS, Calif. and SEOUL, South Korea, Aug. 03, 2026 (GLOBE NEWSWIRE) -- Xpanner, a ConTech startup pioneering construction site automation through robotics and Physical AI, today announced the launch of Shake-Out, a GNSS-guided pile distribution application built for...",
+      "link": "https://www.eagletribune.com/region/xpanner-launches-shake-out-gnss-guided-pile-distribution-that-eliminates-the-marking-task-on/article_ae9a808f-80a5-561e-862d-bc83cf4a3803.html",
+      "source": "Eagletribune",
+      "image": null,
+      "published": "2026-08-03 12:05:58",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

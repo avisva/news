@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Australia confirms first mass death of seabirds from H5N1 bird flu",
+      "description": "New Zealand's endangered bird, the Takahe, at the Zealandia Wildlife Sanctuary, in Wellington, New Zealand. \u2014 Reuters Australia warned on Monday against the risk of a wider spread of H5N1 bird flu after its first mass mortality episode among seabirds killed about 50 greater crested...",
+      "link": "https://www.geo.tv/latest/675929-australia-confirms-first-mass-death-of-seabirds-from-h5n1-bird-flu",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-08-03/675929_050409_updates.jpg",
+      "published": "2026-08-03 12:06:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

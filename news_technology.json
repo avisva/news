@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "SentinelOne Makes the Autonomous SOC Trustworthy with Governed, Closed-Loop Response",
-      "description": "Purple AI and Singularity Hyperautomation now autonomously investigate alerts, reach verdicts, and execute responses inside boundaries set by human security teams SentinelOne\u00ae , the AI Security leader, announced governed, closed-loop response across the SingularityTM Platform, delivering trustworthy automation for security operations. Purple AI\u00ae and Singularity Hyperautomation now autonomously investigate alerts,... The post SentinelOne Makes the Autonomous SOC Trustworthy with Governed, Closed-Loop Response appeared first on CIO Influence .",
-      "link": "https://cioinfluence.com/automation/sentinelone-makes-the-autonomous-soc-trustworthy-with-governed-closed-loop-response/",
-      "source": "Cio Influence",
-      "image": "https://cioinfluence.com/wp-content/uploads/2026/08/night-planet-earth-asian-countries-light-600nw-2500897965.jpg",
-      "published": "2026-08-04 07:26:46",
+      "title": "NASA air show could bring Thunderbirds, thousands of visitors to Space Coast",
+      "description": "An upcoming NASA press conference will preview a Kennedy Space Center event tied to America\u2019s 250th anniversary and American leadership in aviation.",
+      "link": "https://www.floridatoday.com/story/tech/science/space/2026/08/04/florida-officials-expect-big-250th-crowds-for-nasa-air-show-air-force-thunderbirds-at-kennedy/91153395007/",
+      "source": "Florida Today",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/03/PBRE/91156895007-nasa-pic.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200",
+      "published": "2026-08-04 09:10:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Will US red tape and other infrastructure delays give China the lead in AI race?",
+      "description": "Senators told of need for rapid expansion of data centres and fibre networks as Washington fears losing ground to Beijing",
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/04/will-us-red-tape-and-other-infrastructure-delays-give-china-the-lead-in-ai-race",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4038265.jpg",
+      "published": "2026-08-04 09:10:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "malaysia"
       ]
     }
   ]

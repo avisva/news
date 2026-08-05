@@ -1,50 +1,95 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Pavel Durov says Apple removed Telegram from App Store without warning, claims iPhone maker overreacted",
-      "description": "Pavel Durov says Apple removed Telegram from App Store without warning, claims iPhone maker overreacted",
-      "link": "https://www.digit.in/news/general/pavel-durov-says-apple-removed-telegram-from-app-store-without-warning-claims-iphone-maker-overreacted.html",
-      "source": "Digit",
-      "image": "https://static.digit.in/Pavel-Durov-says-Apple-removed-Telegram-from-App-Store-without-warning-claims-iPhone-maker-overreacted.png",
-      "published": "2026-08-05 04:39:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\u2018Formal notice to stop\u2019: Mrunal Thakur vows legal action against AI-generated deepfakes",
-      "description": "Mrunal Thakur warns against AI deepfakes, calling them illegal and saying any misuse of her identity will face legal action.",
-      "link": "https://www.sentinelassam.com/more-news/entertainment/formal-notice-to-stop-mrunal-thakur-vows-legal-action-against-ai-generated-deepfakes",
-      "source": "The Sentinel",
-      "image": "https://media.assettype.com/sentinelassam-english/2026-08-05/jt3edtug/mrunal-thakur-043712491-16x90.avif?w=280",
-      "published": "2026-08-05 04:38:47",
-      "category": [
-        "politics",
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Macquarie retains TVS Motor, Divi\u2019s & Titan in \u2018Stars\u2019 basket; adds Phoenix Mills as \u2018Rising Star\u2019",
-      "description": "Macquarie has retained TVS Motor, Titan and Divis Laboratories as its highest-conviction India picks while adding Phoenix Mills to its Rising Stars basket after recent weakness.",
-      "link": "https://www.financialexpress.com/market/macquarie-retains-tvs-motor-divis-amp-titan-in-stars-basket-adds-phoenix-mills-as-rising-starnbsp-4310751/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/08/macquarie-india-super-six-top-stock-picks-tvs-titan-divis-phoenix-mills.jpg.jpg",
-      "published": "2026-08-05 04:38:45",
+      "title": "Tuya Smart Launches Tuya AI Coding, Enabling Users to Build Their Own AI-Powered Lifestyle Apps with Natural Language",
+      "description": "HANGZHOU, China, Aug. 5, 2026 /PRNewswire/ -- Tuya Smart (NYSE: TUYA; HKEX: 2391), a global AI cloud platform service provider, has officially launched Tuya AI Coding, an AI-native no-code applica...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69218990-tuya-smart-launches-tuya-ai-coding-enabling-users-to-build-their-own-ai-powered-lifestyle-apps-with-natural-language-008.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-tuya-inc-adr-aktie-intraklein-tradegate.png",
+      "published": "2026-08-05 06:18:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "india"
+        "germany"
+      ]
+    },
+    {
+      "title": "Clever Steam Machine mod turns the faceplate into something useful",
+      "description": "The Steam Machine's interchangeable front panel was designed to let users easily customize the look of their console. A Reddit user has now shown that a faceplate can be more than just cosmetic \u2013 by turning it into a mount and charging dock for the Steam Controller.",
+      "link": "https://www.notebookcheck.net/Clever-Steam-Machine-mod-turns-the-faceplate-into-something-useful.1360513.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-Machine-Faceplate-mit-Controller-Halterung.jpg",
+      "published": "2026-08-05 06:18:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Beijing E-Town emerges as AI investment hotspot",
+      "description": "The Beijing Economic-Technological Development Area, also known as Beijing E-Town, has emerged as a major destination for AI investment, with several companies securing funding worth billions of yuan this year.",
+      "link": "http://www.ecns.cn/cns-wire/2026-08-05/detail-ihfhziqh0061761.shtml",
+      "source": "Ecns Cn",
+      "image": null,
+      "published": "2026-08-05 06:17:58",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "china"
+      ]
+    },
+    {
+      "title": "How to Change My Number on Capfin",
+      "description": "Knowing how to change your number on Capfin is important if you have changed your mobile number or no longer have access to the number linked to your Capfin account. Keeping your contact details up to date ensures you continue receiving important notifications, one-time passwords (OTPs), payment reminders, and account updates. Updating your mobile number [...] The post How to Change My Number on Capfin appeared first on Kahawatungu .",
+      "link": "https://kahawatungu.com/how-to-change-my-number-on-capfin/",
+      "source": "Kahawatungu",
+      "image": "https://kahawatungu.com/wp-content/uploads/2026/08/istockphoto-2199471016-612x612-29.webp",
+      "published": "2026-08-05 06:17:57",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "indonesia"
+      ]
+    },
+    {
+      "title": "Lenovo Yoga Slim 7i Ultra Aura Edition review: A capable ultralight laptop that\u2019s way too expensive",
+      "description": "There\u2019s a lot to like about the Yoga Slim 7i, but the current price is a bit too steep. Read More",
+      "link": "https://www.madshrimps.be/news/lenovo-yoga-slim-7i-ultra-aura-edition-review-a-capable-ultralight-laptop-thats-way-too-expensive/",
+      "source": "Madshrimps",
+      "image": null,
+      "published": "2026-08-05 06:17:55",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "belgium"
+      ]
+    },
+    {
+      "title": "Huawei Uganda launches Makerere ICT recruitment drive",
+      "description": "Kampala, Uganda | THE INDEPENDENT | Huawei Technologies Uganda launched its latest campus recruitment programme, reiterating its commitment to nurturing local ICT talent and bridging the gap between academia and industry. The recruitment drive will take place on Friday, Aug. 7, 2026, from 9:00 a.m. to 12:00 p.m. at the Main Building of Makerere University. ... The post Huawei Uganda launches Makerere ICT recruitment drive appeared first on The Independent Uganda: .",
+      "link": "https://www.independent.co.ug/huawei-uganda-launches-makerere-ict-recruitment-drive/",
+      "source": "The Independent",
+      "image": "https://www.independent.co.ug/wp-content/uploads/2026/08/Campus-Recruitment-Poster.jpg",
+      "published": "2026-08-05 06:17:45",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "uganda"
       ]
     }
   ]

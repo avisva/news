@@ -1,32 +1,45 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "It's a go! 208th Royal St. John's Regatta is on",
-      "description": "If you played Regatta Roulette this year, your gamble was successful. The 208th running of the Royal St. John's Regatta is a go at Quidi Vidi Lake.",
-      "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/royal-st-johns-regatta-9.7294873?cmp=rss",
-      "source": "Cbc",
-      "image": "https://i.cbc.ca/ais/1.5237687,1691013162000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
-      "published": "2026-08-05 08:23:59",
+      "title": "What to make of Michigan \u2014 Abdul El-Sayed's apparent victory is a big win for the left ... (Nate Silver/Silver Bulletin)",
+      "description": "Nate Silver / Silver Bulletin : What to make of Michigan \u2014 Abdul El-Sayed's apparent victory is a big win for the left \u2014 but a disaster for polling and a case study in poor expectations management. \u2014 It's just past 4 a.m. here on the East Coast, and as I write this, Abdul El-Sayed leads Haley Stevens by only 1.4 points ...",
+      "link": "https://www.memeorandum.com/260805/p5",
+      "source": "Memeorandum",
+      "image": null,
+      "published": "2026-08-05 10:10:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     },
     {
-      "title": "Stephen Nedoroscik, Pommel Horse Guy, faces chronic hurdles in bid for U.S. gymnastics record",
-      "description": "Stephen Nedoroscik returns from surgery to compete at the Xfinity U.S. Gymnastics Championships, live on Peacock and NBCSN. The post Stephen Nedoroscik, Pommel Horse Guy, faces chronic hurdles in bid for U.S. gymnastics record appeared first on KTVZ .",
-      "link": "https://ktvz.com/sports/nbc-olympics/2026/08/05/stephen-nedoroscik-pommel-horse-guy-faces-chronic-hurdles-in-bid-for-u-s-gymnastics-record/",
-      "source": "Ktvz",
-      "image": "https://ktvz.b-cdn.net/2026/08/2167181991.jpg",
-      "published": "2026-08-05 08:23:56",
+      "title": "Ally McCoist reveals what Rangers need to sign next after what he's seen",
+      "description": "Derek McInnes looking annoyed at Rangers towards Ally McCoist speaking on talkSPORT",
+      "link": "https://uk.sports.yahoo.com/news/ally-mccoist-reveals-rangers-sign-101000757.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/c398345b810d738af3fb3f8b778ed77e61d470cabd61601073450c09dc25b5e4/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fibrox_news_233%2F6ab8a980a9742911ab82ee5ebf4780ef",
+      "published": "2026-08-05 10:10:00",
       "category": [
-        "sports",
-        "top"
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Patriots training camp: Thoughts on the team's 44 defensive players after one week",
+      "description": "We break down every player on the New England defense, a unit that has looked solid thus far in training camp.",
+      "link": "https://www.nytimes.com/athletic/7492162/2026/08/05/new-england-patriots-defense-training-camp/",
+      "source": "Theathleticuk",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/04155251/2026-07-28T230512Z_34857273_MT1USATODAY29467341_RTRMADP_3_NFL-NEW-ENGLAND-PATRIOTS-TRAINING-CAMP-scaled-e1785873201411.jpg?width=1200&height=675&fit=cover",
+      "published": "2026-08-05 10:10:00",
+      "category": [
+        "sports"
       ],
       "country": [
         "united states of america"

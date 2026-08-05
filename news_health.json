@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Pondicherry govt appoints Dr V Rajendran as licensing and controlling authority to restart regulatory operations",
+      "description": "In a major development aimed at restoring regulatory operations, the Health Secretariat of the Pondicherry government has issued a notification appointing Dr V Rajendran, a senior pharmacist at the Indira Gandhi",
+      "link": "https://pharmabiz.com/ArticleDetails.aspx?aid=187716",
+      "source": "Pharma Biz",
+      "image": null,
+      "published": "2026-08-05 10:10:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

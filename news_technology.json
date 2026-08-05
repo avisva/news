@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Five Hacks Every Amazfit Balance 3 User Should Know",
+      "description": "I highly recommend using the voice assistant to log your thoughts mid-workout.",
+      "link": "https://lifehacker.com/health/hacks-every-amazfit-balance-3-user-should-know",
+      "source": "Lifehacker",
+      "image": "https://lifehacker.com/imagery/articles/01KZ74MGT2TKNHG43QWF6P6QQ6/hero-image.jpg",
+      "published": "2026-08-04 20:30:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

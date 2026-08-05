@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Ryan Ray chosen to serve as interim Madison County sheriff after previous officeholder announced resignation",
+      "description": "The Madison County Quorum Court unanimously appointed Ryan Ray as interim sheriff Monday, filling a role that was set to be left vacant by Ronnie Boyd's resignation that was announced late last month.",
+      "link": "https://www.nwaonline.com/news/2026/aug/04/ryan-ray-chosen-to-serve-as-interim-madison/",
+      "source": "Nwaonline",
+      "image": null,
+      "published": "2026-08-04 23:18:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "National Night Out brings Philadelphia communities, police together",
+      "description": "Philadelphia hosted 21 National Night Out events Tuesday as residents and police gathered to build trust and strengthen community relationships.",
+      "link": "https://www.nbcphiladelphia.com/news/local/national-night-out-brings-philadelphia-communities-police-together/4443587/",
+      "source": "Nbc10 Philadelphia",
+      "image": "https://media.nbcphiladelphia.com/2026/08/50148061001-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+      "published": "2026-08-04 23:17:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

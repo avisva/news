@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "'Ramayana' costume designers address online criticism over Sai Pallavi and Lara Dutta's looks",
+      "description": "Directed for a festive theatrical debut, Ramayana: Part 1 is slated for a grand worldwide release on November 8, 2026, coinciding with the Diwali festival season.",
+      "link": "https://zeenews.india.com/bollywood/ramayana-costume-designers-address-online-criticism-over-sai-pallavi-and-lara-duttas-looks-3064806.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/08/04/1970390-sai-pallavi-ramayana.png",
+      "published": "2026-08-04 14:14:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Iran war depletes US missile stocks, raising concerns over readiness for conflict with China: Report",
+      "description": "Iran war depletes US missile stocks, raising concerns over readiness for conflict with China: Report",
+      "link": "https://timesofindia.indiatimes.com/defence/international/us-has-nearly-emptied-its-stock-of-long-range-precision-weapons-in-war-with-iran-report/articleshow/132862107.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132863887/132863887.jpg",
+      "published": "2026-08-04 14:13:58",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "To rely less on wet-lease model, BEST approves Rs 28,000-crore \u2018Kayapalat\u2019 plan",
+      "description": "The redevelopment plan includes commercial and mixed-use projects, public parking facilities, employee housing, digital command centres, electric bus charging infrastructure and modern workshops.",
+      "link": "https://indianexpress.com/article/cities/mumbai/to-rely-less-on-wet-lease-model-best-approves-rs-28000-crore-kayapalat-plan-10817871/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/08/Untitled-design-1.jpg",
+      "published": "2026-08-04 14:13:55",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,35 +1,58 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Breaking News - Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee Join Netflix Series Based on Dan Brown's \"The Secret of Secrets\"",
-      "description": "Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee Join Netflix Series Based on Dan Brown's",
-      "link": "http://www.thefutoncritic.com/news/2026/08/05/cherry-jones-corey-stoll-rob-delaney-abbey-lee-join-netflix-series-based-on-dan-browns-the-secret-of-secrets-432414/20260805netflix05/",
-      "source": "Thefutoncritic",
-      "image": null,
-      "published": "2026-08-05 10:10:00",
+      "title": "Azerbaijan Dance Festival 2026 program announced \u2013 Tickets on sale",
+      "description": "The program of the international Azerbaijan Dance Festival 2026 has been announced, AzerNEWS reports.",
+      "link": "https://www.azernews.az/culture/262017.html",
+      "source": "Azernews",
+      "image": "https://www.azernews.az/media/2026/08/05/azerbaijan_dance_festival.png",
+      "published": "2026-08-05 11:58:00",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united states of america"
+        "azerbaijan"
       ]
     },
     {
-      "title": "Critic's Pick: 'Where We Meet'",
-      "description": null,
-      "link": "https://www.nashvillescene.com/criticspicks/critics-pick-where-we-meet/article_3ff66f1e-b438-4dcd-b870-cdbef9376502.html",
-      "source": "Nashvillescene",
-      "image": "https://bloximages.newyork1.vip.townnews.com/nashvillescene.com/content/tncms/assets/v3/editorial/6/90/69034260-4901-4d97-a1fb-dcdf5bbae9d5/6a722ac4e468f.image.jpg?crop=731%2C412%2C326%2C98&resize=300%2C169&order=crop%2Cresize",
-      "published": "2026-08-05 10:10:00",
+      "title": "Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu 'Underperformed', But Says The Movies Still Helped Shift Plenty of Merchandise",
+      "description": "You're welcome. Disney's live-action Moana and Star Wars: The Mandalorian and Grogu both underperformed at the box office, but their ticket sales are only part of the story, the company has argued. As part of its latest financial results, Disney admitted that both Moana and The Mandalorian and Grogu's theatrical ...",
+      "link": "https://pk.ign.com/moana-live-action/258796/disney-admits-live-action-moana-and-star-wars-the-mandalorian-and-grogu-underperformed-but-says-the",
+      "source": "Ign Pakistan",
+      "image": "https://sm.ign.com/ign_pk/news/d/disney-adm/disney-admits-live-action-moana-and-star-wars-the-mandaloria_6yd5.jpg",
+      "published": "2026-08-05 11:57:54",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Disney Admits Live-Action Moana and Star Wars: The Mandalorian and Grogu 'Underperformed,' But Says the Movies Still Helped Shift Plenty of Merchandise",
+      "description": "You're welcome. Disney's live-action Moana and Star Wars: The Mandalorian and Grogu both underperformed at the box office, but their ticket sales are only part of the story, the company has argued. As part of its latest financial results, Disney admitted that both Moana and The Mandalorian and Grogu's theatrical ...",
+      "link": "https://sea.ign.com/moana-live-action/246447/disney-admits-live-action-moana-and-star-wars-the-mandalorian-and-grogu-underperformed-but-says-the",
+      "source": "Ign Southeast Asia",
+      "image": "https://sm.ign.com/ign_ap/news/d/disney-adm/disney-admits-live-action-moana-and-star-wars-the-mandaloria_eq4h.jpg",
+      "published": "2026-08-05 11:57:54",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "myanmar",
+        "cambodia",
+        "indonesia",
+        "philippines",
+        "brunei",
+        "thailand",
+        "singapore",
+        "malaysia",
+        "vietnam"
       ]
     }
   ]

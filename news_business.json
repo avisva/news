@@ -1,134 +1,68 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Comer approves T-SPLOST agreement, discusses development projects",
-      "description": null,
-      "link": "https://www.mainstreetnews.com/madison/news/comer-approves-t-splost-agreement-discusses-development-projects/article_b1dad185-4c5e-4946-8212-afc45b20b510.html",
-      "source": "Mainstreetnews.com",
+      "title": "After $140-million hack, bitcoin users \u2018soul-searching\u2019 over self-custody - The Globe and Mail",
+      "description": "After $140-million hack, bitcoin users \u2018soul-searching\u2019 over self-custody The Globe and Mail What we know about ongoing Coldcard hack that's stolen over $100M worth of bitcoin CBC Hackers drain $140 million in Bitcoin from Canadian firms Winnipeg Sun Bitcoin owners rocked by $116 million hack: What we know about the Coldcard exploit Fortune Hackers steal more than $140M worth of bitcoin from Canadian-made devices CP24",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVDVqUEVpejk1Y0RiY0NoZ1B3MUhwWi1FVDBCbmJ5emxaRXo5UXFXTXg5anJFdVk1YzZqbktCWTgyNzZnOURpWUVJUVQ2cm1RS2pWVXNNUFN5UDZtZjNwYUI5OWwwRV9FUzdnUk1yZl9xUE5IUm9VX1ZsNjNnVUV3QjhRa3JuN3BhVlBMN3FWMnQ1dzhsaUlzdFh1TXJOQjFMSndoNVJqUnBhd3M4anZBbUdZNGNwNTg1ajFNRw?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-08-04 23:18:00",
+      "published": "2026-08-05 02:01:58",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "Disney exits A+E as media conglomerate Hearst gains full ownership in $1.2 billion deal",
+      "title": "After $140-million hack, bitcoin users \u2018soul-searching\u2019 over self-custody",
+      "description": "A coding error in bitcoin wallets made by Coinkite Inc. allowed hackers to steal from individuals storing their own cryptocurrency",
+      "link": "https://www.theglobeandmail.com/investing/article-after-140-million-hack-bitcoin-users-soul-searching-over-self-custody/",
+      "source": "Theglobeandmail",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3RYK33QGPFDDTD5K5EW4EZLHPY.JPG?auth=ebff116c21fcbe72c5d4dbfdcc9ec3a258ab57c73d5031976278bc045702bc22&smart=true&width=6901&height=4601",
+      "published": "2026-08-05 02:01:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Colombia to resume power exports to Ecuador, enables export contracts",
       "description": null,
-      "link": "https://www.reuters.com/legal/transactional/disney-exits-ae-media-conglomerate-hearst-gains-full-ownership-12-billion-deal-2026-08-04/",
+      "link": "https://www.reuters.com/business/energy/colombia-resume-power-exports-ecuador-enables-export-contracts-2026-08-05/",
       "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/MARC55LT25NZXCUERSKJADMEIA.jpg?auth=3350d33a2f2ed72042f1ca7fbdf09eeca0ade60e548a74b5293e90c933a1025e&smart=true&width=1920",
-      "published": "2026-08-04 23:17:54",
+      "image": "https://www.reuters.com/resizer/v2/EUO7JD2H5VP3ZAR3LCW6WCHOT4.jpg?auth=70373acc80fb64df88852993f802a7c3c161d24a9b812fb1bffa87c105dd7669&smart=true&width=1920",
+      "published": "2026-08-05 02:01:44",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "ukraine",
+        "china",
+        "russia",
         "india",
-        "israel",
         "iran",
         "south africa",
-        "china",
-        "japan",
         "united kingdom",
-        "united states of america",
-        "russia"
-      ]
-    },
-    {
-      "title": "Amazon\u2019s Historic $3 Trillion Market Cap Reflects Investor Confidence in AI",
-      "description": "Amazon has reached a historic financial milestone by surpassing a $3 trillion market capitalization for the first time, joining an exclusive group of the world\u2019s most valuable publicly traded companies. The achievement underscores the company\u2019s remarkable transformation from an online bookstore into a global technology powerhouse spanning e-commerce, cloud computing, artificial intelligence, digital advertising, logistics, [...] The post Amazon\u2019s Historic $3 Trillion Market Cap Reflects Investor Confidence in AI appeared first on Tekedia .",
-      "link": "https://www.tekedia.com/amazons-historic-3-trillion-market-cap-reflects-investor-confidence-in-ai/",
-      "source": "Tekedia",
-      "image": "https://www.tekedia.com/wp-content/uploads/2024/04/aws.jpg",
-      "published": "2026-08-04 23:17:49",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Shell invests in next phase of Arrow Energy's Surat Gas Project",
-      "description": null,
-      "link": "https://www.reuters.com/business/energy/shell-invests-next-phase-arrow-energys-surat-gas-project-2026-08-04/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/57G56OGJDRPZ5ADCPF3H3KFVIU.jpg?auth=91f25a278df537e8d682b145f0e1f55d9b076e61c52cab1f452bc27c167039ba&smart=true&width=1920",
-      "published": "2026-08-04 23:17:48",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "ukraine",
-        "india",
         "israel",
-        "iran",
-        "south africa",
-        "china",
-        "japan",
-        "united kingdom",
         "united states of america",
-        "russia"
-      ]
-    },
-    {
-      "title": "'Re-imagined' Johnson Park groundbreaking Friday, $8 million 'Destination' park planned",
-      "description": "Tulsa's Johnson Park project swelled in scope as nearby neighbors provided feedback on the original plan.",
-      "link": "https://www.newson6.com/tulsa-oklahoma-news/re-imagined-johnson-park-groundbreaking-friday-8-million-destination-park-planned",
-      "source": "Newson6.com",
-      "image": "https://cdn.griffin.news/dims4/default/49f631f/2147483647/strip/false/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Ffueltools-prod01-public.fuelmedia.io%2F91fa9954-d7e6-483b-9fc0-19e5940628a5%2F20260804%2F115fd645-2101-40c6-8777-e9ff5f61c32b%2Fthumbnail.png",
-      "published": "2026-08-04 23:17:48",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Coca-Cola y la embotelladora Arca Continental invertira\u0301n 1.000 millones de do\u0301lares en Peru\u0301",
-      "description": null,
-      "link": "https://www.reuters.com/es/mundo/OQWIRPNDKVMR3AFL4IHTXWDSLE-2026-08-04/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/OBTIPK327ROKZI2SGQ6WCJRJKQ.jpg?auth=4893bae9c5390212d0209ad6b107d85d1d7771dd0565b366cd026aa823f286fe&smart=true&width=1920",
-      "published": "2026-08-04 23:17:47",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
         "ukraine",
-        "india",
-        "israel",
-        "iran",
-        "south africa",
-        "china",
-        "japan",
-        "united kingdom",
-        "united states of america",
-        "russia"
+        "japan"
       ]
     },
     {
-      "title": "Aris Mining Updates Early Warning Report in Respect of Seasif Exploration",
-      "description": "VANCOUVER, British Columbia\u2013BUSINESS WIRE\u2013 Aris Mining Corporation (Aris Mining or the Company) (TSX: ARIS; NYSE: ARIS) announces that on August 4, 2026, it sold 15,500,000 common shares (Shares) of Seasif Exploration Inc. (TSXV: SAF.H) (Seasif) through a privately brokered transaction at a price of C$0.005 per Share, for aggregate gross proceeds of C$77,500. Early Warning ... Continued",
-      "link": "https://newshub.medianet.com.au/2026/08/aris-mining-updates-early-warning-report-in-respect-of-seasif-exploration/164829/",
-      "source": "News Hub - Medianet News Hub Archive",
-      "image": null,
-      "published": "2026-08-04 23:17:39",
+      "title": "BlinkLab Reports Positive ADHD Assessment Results from European Dx2 Diagnostic Platform Study",
+      "description": "BlinkLab reports ADHD Dx2 results: 82% sensitivity, 83% specificity in European study, signaling new smartphone-based diagnostic tool.",
+      "link": "https://smallcaps.com.au/article/blinklab-reports-positive-adhd-assessment-results-from-european-dx2-diagnostic-platform-study",
+      "source": "Small Caps",
+      "image": "https://assets.smallcaps.com.au/images/articles/blinklab-reports-positive-adhd-assessment-results-from-european-dx2-diagnostic-platform-study/cover/393EB018011678F5-1785895282893/medium.jpeg",
+      "published": "2026-08-05 02:01:31",
       "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
         "australia"

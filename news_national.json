@@ -1,5 +1,81 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 5,
+  "results": [
+    {
+      "title": "Nerve pain medicine sold under food license, seized",
+      "description": "Nerve pain medicine sold under food license, seized",
+      "link": "https://timesofindia.indiatimes.com/city/hyderabad/nerve-pain-medicine-sold-under-food-license-seized/articleshow/132961484.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "published": "2026-08-05 18:26:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Tamil Nadu unveils roadmap to build $1.5-trillion economy by 2031",
+      "description": "Tamil Nadu's finance minister presented the 2026-27 budget, aiming for a $1.5 trillion economy by 2031. A new industrial policy will foster innovation and technology-driven growth across emerging sectors. The government allocated significant funds for industries and introduced AI-powered investment platforms. New industrial parks will be established in backward districts, and Thoothukudi will become a space zone. The budget also detailed plans for India's first AI and Innovation city, 'Arivagam'.",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/tamil-nadu-unveils-roadmap-to-build-1-5-trillion-economy-by-2031/articleshow/132961296.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-132961397,resizemode-4,width-1200,height-900,imgsize-130022,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-05 18:26:55",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "AM/NS India Steel Powers Indian Navy's Newly Commissioned INS Malvan",
+      "description": "AM/NS India supplied 100% of the specialised naval-grade steel for newly commissioned Indian Navy vessel INS Malvan",
+      "link": "https://www.deccanchronicle.com/nation/in-other-news/amns-india-steel-powers-indian-navys-newly-commissioned-ins-malvan-1976924",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/05/2072933-ins-malvan-3.webp",
+      "published": "2026-08-05 18:26:54",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "PMC cautions property buyers against purchasing illegal constructions in merged areas",
+      "description": "PMC cautions property buyers against purchasing illegal constructions in merged areas",
+      "link": "https://timesofindia.indiatimes.com/city/pune/pmc-cautions-property-buyers-against-purchasing-illegal-constructions-in-merged-areas/articleshow/132961477.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-132961473/132961473.jpg",
+      "published": "2026-08-05 18:26:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bharath Inaugurates Road To Ease Kurnool Traffic",
+      "description": "Minister T.G. Bharath says project is part of the city's smart urban infrastructure push",
+      "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/bharath-inaugurates-road-to-ease-kurnool-traffic-1976923",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/05/2072932-minister-tg-bharath.webp",
+      "published": "2026-08-05 18:26:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

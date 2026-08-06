@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Nepal province legalizes use of medical marijuana",
-      "description": "A provincial government in Nepal has legalized the use and growing of marijuana for medical purposes despite a national ban.",
-      "link": "https://www.dw.com/en/nepal-province-legalizes-use-of-medical-marijuana/a-78245266?maca=en-rss-en-all-1573-rdf",
-      "source": "Dw Akademie",
-      "image": "https://static.dw.com/image/68666930_804.jpg",
-      "published": "2026-08-05 11:58:00",
+      "title": "Zimbabweans Fleeing Xenophobia in South Africa Battle to Get HIV Medicine Back Home",
+      "description": "HARARE, Zimbabwe \u2013 For the past two decades, 49-year-old Renious Gumbi from Mberengwa in Zimbabwe lived in South Africa, where he worked as a bricklayer. Gumbi, who was living with HIV, received free antiretroviral (ARV) treatment from his local clinic in South Africa as, according to that country\u2019s Constitution, \u201ceveryone has the right to have [...]",
+      "link": "https://healthpolicy-watch.news/zimbabweans-fleeing-xenophobia-in-south-africa-battle-to-get-hiv-medicine-back-home/",
+      "source": "Health Policy Watch",
+      "image": "https://i0.wp.com/healthpolicy-watch.news/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-3.58.35-PM-aspect-ratio-420-223.png?fit=1296%2C688&ssl=1",
+      "published": "2026-08-05 15:11:53",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "germany"
+        "switzerland"
+      ]
+    },
+    {
+      "title": "Country music star\u2019s daughter says Ozempic brought back eating disorder",
+      "description": "Gracie McGraw says Ozempic helped manage her PCOS but ultimately brought back her eating disorder, leading her to stop taking the medication.",
+      "link": "https://www.pennlive.com/entertainment/2026/08/country-music-stars-daughter-says-ozempic-brought-back-eating-disorder.html",
+      "source": "Pennlive",
+      "image": "https://www.pennlive.com/resizer/v2/5NKNQWLIAFGDPNOB7GD2UBZNUE.jpg?auth=389ff9062e59d9fd4c6b62f1b36774401a90120a99b9100ea43ad92dcf04de02&smart=true&height=1200",
+      "published": "2026-08-05 15:11:52",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

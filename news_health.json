@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "International team builds comprehensive cancer models for future drug development",
+      "description": "To develop new targeted treatments for cancer, scientists need tissue models that accurately represent the genetic and molecular traits of the cancer they're studying.",
+      "link": "https://www.news-medical.net/news/20260805/International-team-builds-comprehensive-cancer-models-for-future-drug-development.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+      "published": "2026-08-06 03:09:58",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

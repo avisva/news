@@ -1,5 +1,48 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "New research highlights carbohydrate role in early human brain development - News-Medical",
+      "description": "New research highlights carbohydrate role in early human brain development News-Medical Fruit and honey fuelled the early evolution of the human brain The Conversation Study Points to Sugar, Not Just Meat, as Fuel for Human Brain Evolution Sci.News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVU1enRreDE1Wmphd0hiT29fMHpGc0JxT2VLTHlXd29pNFN3YWdSaGUza3Rha1NWTjJLZnh6djRUSHVmc2lzNlNpUEJ2dTlESENMQzJHczQwTnpidUhvVDd1TWRPMk1HN25HY2xGSTM2NUVWQnBqcWdCYUJvNXdfSUZqQTMwWEIwbUIzcVhReEN2RU1MeDRBQWVyV1JNYnFodkRyWWw3Y0lRVE1hcGxYNE1xSFJKSng5T3MtWnlQMA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-07 04:51:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Genetic analysis of 1 million people points to FNIP1 as a promising metabolic target",
+      "description": "Mega-scale exome sequencing of 1,032,116 people identified 59 independent genes linked to the TG:HDL ratio, including 44 rare-coding associations not detected in the previous largest analysis. Ultra-rare FNIP1 loss-of-function variants were associated with favorable fat distribution, lower liver fat and glycemia, and around 60% lower odds of a composite cardiometabolic disease outcome.",
+      "link": "https://www.news-medical.net/news/20260807/Genetic-analysis-of-1-million-people-points-to-FNIP1-as-a-promising-metabolic-target.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_844360_17860781730008876.jpg",
+      "published": "2026-08-07 04:51:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Genetic analysis of 1 million people points to FNIP1 as a promising metabolic target - News-Medical",
+      "description": "Genetic analysis of 1 million people points to FNIP1 as a promising metabolic target News-Medical See more headlines and perspectives on Google News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeThrS2VWVEtfdWs3YkN6SHdZNEZQUUVLT2F1NHJnZHFXRVJkTW9JVDFBaUZfSW16TWZRT3JDaDI1TWdaNk85TEM4bDQyQWxmZnZJakExX2s1dnAtampyWFlvdWt4WXFOaVhTUmZuX2dKbEJCeFVkd1V0T2kxb1haSVhSRE9ONXZNSkVzemdjT0Z6dW45UUlGY3RhNk83WXhsM1hWSlhrNUVmWHRKOTFYaVoxWEk2cU9yYWYxLWdVTXhZYW9RWEpTLVkxYWI?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-07 04:51:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    }
+  ]
 }

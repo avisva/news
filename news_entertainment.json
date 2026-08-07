@@ -1,5 +1,64 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Tony Scott dead: Beloved music icon dies aged 54 after devastating health battle",
+      "description": "The Dutch hip-hop legend passed away after a battle with Multiple Sclerosis .",
+      "link": "https://www.express.co.uk/celebrity-news/2236888/rapper-tony-scott-dies",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/79/237x141/2236888_1.jpg",
+      "published": "2026-08-07 07:50:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "'Choukhat'- Sarah Zabin's Solo Exhibition at Alliance Francaise Explores Nostalgia, Memory and the Thresholds of Womanhood",
+      "description": "This exhibition exquisitely portrays female creativity, the erosion of memory, and the inner turmoil accompanying generational shifts, serving as a unique document viewed through the lenses of human rights, female identity, and social transformation. Photo: Taskina Yeasmin Source: Pressenza",
+      "link": "http://www.bangladeshsun.com/news/279226431/choukhat-sarah-zabin-solo-exhibition-at-alliance-francaise-explores-nostalgia-memory-and-the-thresholds-of-womanhood",
+      "source": "Bangladesh Sun",
+      "image": "https://image.chitra.live/api/v1/wps/cf56ae5/301a6ad3-4444-4dcb-98a2-ff1af0f0033b/0/NDE2Njk1ZDgtZDR-600x315.jpg",
+      "published": "2026-08-07 07:50:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "House prices stall as mortgage rate hikes hit UK property market and growth flatlines",
+      "description": "The average UK house price was flat in July 2026 at \u00a3299,253, as mortgage rates edged higher, according to the latest Lloyds house price index",
+      "link": "https://www.express.co.uk/finance/personalfinance/2236898/uk-house-pirces-flatline-july-2026-lloyds",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/23/237x141/2236898_1.jpg",
+      "published": "2026-08-07 07:50:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Ariana Grande sends message to London fans going to The O2 shows after dropping out of play",
+      "description": "Tickets are sold out for Ariana Grande's Eternal Sunshine Tour at The O2, although a small number of official resale tickets are available",
+      "link": "https://www.mylondon.news/whats-on/whats-on-news/ariana-grande-sends-message-london-34418832",
+      "source": "Mylondon",
+      "image": "https://i2-prod.mylondon.news/whats-on/whats-on-news/article34418855.ece/ALTERNATES/s615/0_Ariana-Grande.jpg",
+      "published": "2026-08-07 07:49:53",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

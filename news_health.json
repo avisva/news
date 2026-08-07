@@ -1,5 +1,39 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Nyamira Hospital performs first total hip replacement surgeries",
+      "description": "The hospital successfully conducted two total hip replacement procedures in a carefully planned three-hour operation led by a multidisciplinary team of specialists.",
+      "link": "https://www.healthcaremea.com/2026/08/07/nyamira-hospital-performs-first-total-hip-replacement-surgeries/",
+      "source": "Healthcaremea",
+      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-07T084829.610.png",
+      "published": "2026-08-07 07:50:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united arab emirates",
+        "egypt",
+        "jordan",
+        "saudi arabia"
+      ]
+    },
+    {
+      "title": "\u2018No dietary requirements (but I do hate pap)\u2019",
+      "description": "Whatever happened to Banting? How prevalent is vegetarianism, really? Is gluten-free as commonplace as we might think? Two decades of feeding the Kalahari\u2019s visitors, and what their forms told us.",
+      "link": "https://www.dailymaverick.co.za/article/2026-08-07-no-dietary-requirements-but-i-do-hate-pap/",
+      "source": "Daily Maverick",
+      "image": "https://cdn.dailymaverick.co.za/i/7XLtLBgrcK365s_EStEcj7sht6k=/800x0/smart/filters:strip_exif()/file/attachments/2996/XausLodgeonthe91stdunePhotobyJacquesMarais_992575.jpg",
+      "published": "2026-08-07 07:50:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "south africa"
+      ]
+    }
+  ]
 }

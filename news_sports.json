@@ -1,48 +1,77 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Transfer news LIVE: Man Utd deal announced, Barcola to Arsenal twist, Rodri decision made",
-      "description": "Expres Sport rounds up all of the latest transfer news and updates.",
-      "link": "https://www.express.co.uk/sport/football/2236878/transfer-news-live-man-utd-arsenal-barcola-liverpool",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/67/237x141/2236878_1.jpg",
-      "published": "2026-08-07 06:52:00",
+      "title": "Manchester United icon waxes lyrical over Real Madrid\u2019s Bellingham: \u2018One of the best midfielders in the world\u2019",
+      "description": "Former Manchester United and Real Madrid forward Javier Hernandez, famously known as Chicharito, has named Real Madrid midfielder Jude Bellingham as a player who deserves even greater appreciation on ...",
+      "link": "https://ca.sports.yahoo.com/news/manchester-united-icon-waxes-lyrical-075000092.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/54e4dfc3d9b2240407bec0ed223126709248c1c3c0db2949923d5458f805e387/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2F71fa2677b603e27974ebfc5dbbb6960d",
+      "published": "2026-08-07 07:50:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united kingdom"
+        "canada"
       ]
     },
     {
-      "title": "Hunt hopes to maintain momentum in cup at Uppermill",
-      "description": "Daisy Hill will look to build on their good start to the season when they travel to face Uppermill in a First Round tie in the Edward Case Cup tomorrow (3pm).",
-      "link": "https://www.theboltonnews.co.uk/sport/26438509.hunt-hopes-maintain-momentum-cup-uppermill/",
-      "source": "The Bolton News",
-      "image": null,
-      "published": "2026-08-07 06:52:00",
+      "title": "Serie A Giant Targeting Loan Deal For Man United Forward",
+      "description": "Manchester United Open Door for Joshua Zirkzee Loan as Juventus Weigh Summer MoveJuventus are advancing in their pursuit of Joshua Zirkzee, with Gazzetta dello Sport reporting that Manchester United h...",
+      "link": "https://ca.sports.yahoo.com/news/serie-giant-targeting-loan-deal-075000990.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/dd778530b51bd3e4481b8ae0cc69e271ef6fa306a1d659a6cc13634fd77d05c4/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fepl_index_articles_253%2F4b1e653704b72a7d529b89d8df170a5d",
+      "published": "2026-08-07 07:50:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united kingdom"
+        "canada"
       ]
     },
     {
-      "title": "Bears unveil inaugural playing jersey",
-      "description": "Ahead of their inaugural 2027 season, the Perth Bears unveil their official playing jersey.",
-      "link": "https://www.brisbanetimes.com.au/sport/nrl/bears-unveil-inaugural-playing-jersey-20260807-p60mgr.html",
-      "source": "Brisbane Times",
-      "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/13a4745df0f6ba7281e2370930a13ed635724849",
-      "published": "2026-08-07 06:51:57",
+      "title": "Kevin Maybury, August 7, 2026",
+      "description": null,
+      "link": "https://www.royalgazette.com/cartoon/opinion/article/20260807/kevin-maybury-august-7-2026/",
+      "source": "Royal Gazette",
+      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=56c100ab-6440-5f5f-8709-5ab42296582a&type=preview&width=600",
+      "published": "2026-08-07 07:50:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "australia"
+        "bermuda"
+      ]
+    },
+    {
+      "title": "African giants Ahly competing in second-tier CAF Cup this season",
+      "description": "Ahly won the 2014 Confederation Cup, edging Sewe Sport of the Ivory Coast on away goals.",
+      "link": "https://www.citizen.co.za/sport/soccer/african-giants-ahly-competing-in-second-tier-caf-cup-this-season/",
+      "source": "The Citizen",
+      "image": "https://media.citizen.co.za/wp-content/uploads/2026/08/Confed-Cup-draw-2500x1664.jpg",
+      "published": "2026-08-07 07:49:56",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "'Golden Boy' Neeraj can sometimes get silver too, he is human after all: Sumariwalla",
+      "description": "The two-time Olympic medal-winning javelin thrower, who has been troubled by a lower back injury for nearly a year, produced a season's best effort of 86.48m to win silver at the Commonwealth Games in Glasgow last month. He had collected a gold at the same event in 2018 before being forced to miss the 2022 edition due to injury.",
+      "link": "https://www.dtnext.in/news/sports/golden-boy-neeraj-can-sometimes-get-silver-too-he-is-human-after-all-sumariwalla",
+      "source": "Dt Next",
+      "image": "https://media.assettype.com/dt-next/2026-08-07/szz6dq7q/PTI06272026000352B.jpg?w=280",
+      "published": "2026-08-07 07:49:53",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

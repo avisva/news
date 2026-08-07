@@ -1,44 +1,29 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "From fantasy to spoken word: Professor invents languages with AI",
-      "description": "The University of Miami has just released a new AI tool that can generate new languages \u2014 like Klingon from Star Trek \u2014 and its inventors say this technology could help endangered ones.",
-      "link": "https://www.pressdemocrat.com/2026/08/07/from-fantasy-to-spoken-word-new-um-educator-invents-languages-with-ai-2/",
-      "source": "The Press Democrat",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/tfl-l-AdobeStock-1905514274-01-1.jpeg?w=1600&resize=1600,900",
-      "published": "2026-08-07 10:31:00",
+      "title": "Apple's iPhone 18 Pro Could Face Sales Hit Due To Memory Chip Shortage",
+      "description": "The ongoing global chip shortage is significantly affecting the smartphone market, leading to rising device prices and potential impacts on future releases. Apple is reportedly struggling to secure enough DRAM for its upcoming iPhone 18 Pro and iPhone Ultra, as it collaborates with manufacturers to address the shortage.",
+      "link": "https://www.timesnownews.com/technology-science/apples-iphone-18-pro-could-face-sales-hit-due-to-memory-chip-shortage-article-155361770",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155361777,thumbsize-18530,width-1280,height-720,resizemode-75/155361777.jpg",
+      "published": "2026-08-07 11:30:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "ARX validates GEREON during allied Army experiment",
-      "description": "ARX deployed eight GEREON robots during a multinational Army experiment. The month-long exercise tested sensor payloads, allied communications, logistics, casualty evacuation, and field charging in demanding desert conditions. The post ARX validates GEREON during allied Army experiment appeared first on Industrial News .",
-      "link": "https://industrialnews.co.uk/arx-validates-gereon-during-allied-army-experiment/",
-      "source": "Industrial News",
-      "image": null,
-      "published": "2026-08-07 10:31:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Ways to save money on your utility bills",
-      "description": "Dear Heloise: To drop your utility bill, close your closets. Keep the doors shut and unplug as many appliances as you can. If the coffeepot turns itself off, unplug it. You don't need to heat or air-condition closets, or waste...",
-      "link": "https://kenoshanews.com/article_d9a8f55c-c21b-5560-810b-4272ca76611b.html",
-      "source": "Kenosha News",
-      "image": null,
-      "published": "2026-08-07 10:30:59",
+      "title": "Does Kubernetes DRA Replace HAMi?",
+      "description": "Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary: nvidia.com/gpu: 1. It meant one...",
+      "link": "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/",
+      "source": "Cncf",
+      "image": "https://www.cncf.io/wp-content/uploads/2026/07/Blog-Default-2-1.jpg",
+      "published": "2026-08-07 11:30:00",
       "category": [
         "top",
         "technology"

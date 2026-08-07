@@ -1,34 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Strait Of Hormuz Framework Agreed With Oman, Says Iranian Official Amid US-Iran War: When Will It Completely Reopen?",
-      "description": "(MENAFN - Live Mint) Hassan Ghashghavi, spokesperson for the Iranian Parliament's National Security Commission, said Iran and Oman have reached an understanding framework regarding the Strait of ...",
-      "link": "https://menafn.com/1111508063/Strait-Of-Hormuz-Framework-Agreed-With-Oman-Says-Iranian-Official-Amid-US-Iran-War-When-Will-It-Completely-Reopen",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-08-07 10:30:58",
+      "title": "Rob Schofield: State continues to be ruled, held back by party of fear",
+      "description": "It would be silly to claim that there aren\u2019t a lot of things in the modern world about which to be deeply concerned or even, at times, fearful.",
+      "link": "https://www.dailyadvance.com/opinion/editorial_columnists/rob-schofield-state-continues-to-be-ruled-held-back-by-party-of-fear/article_25dce513-77be-40c4-aef9-94743f132685.html",
+      "source": "Dailyadvance",
+      "image": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/0/33/0337e27f-b737-5eb6-81bb-d7c1f7d744c6/63bf0e3c9339b.image.jpg?crop=99%2C85%2C0%2C3",
+      "published": "2026-08-07 11:30:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "morocco",
-        "iraq",
-        "syria",
-        "saudi arabia",
-        "kuwait",
-        "united arab emirates",
-        "algeria",
-        "lebanon",
-        "qatar",
-        "libya",
-        "jordan",
-        "tunisia",
-        "bahrain",
-        "yemen",
-        "egypt"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mayor backs calls for Yorkshire army college inquiry after reports of rape and abuse",
+      "description": "North Yorkshire\u2019s deputy mayor for policing, fire and crime has backed calls for an inquiry to be held into an military training college in Harrogate after reports of rape and sexual abuse against female recruits.",
+      "link": "https://www.yorkpress.co.uk/news/26445155.harrogate-army-college-inquiry-calls-grow-bbc-report/",
+      "source": "The Press",
+      "image": "https://www.yorkpress.co.uk/resources/images/21124720/",
+      "published": "2026-08-07 11:30:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "'Not everyone can manage': Longer walk to National Railway Museum divides visitors",
+      "description": "The longer walk to York's National Railway Museum during upgrade works has sparked debate, with some visitors raising concerns about accessibility.",
+      "link": "https://www.yorkpress.co.uk/news/26444892.longer-walk-yorks-national-railway-museum-sparks-debate/",
+      "source": "The Press",
+      "image": "https://www.yorkpress.co.uk/resources/images/21260038/",
+      "published": "2026-08-07 11:30:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

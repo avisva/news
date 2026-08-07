@@ -1,50 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "India sought strategic leverage; Bangladesh drew a clear line",
-      "description": "Professor Asif M. Shahan argues that by facilitating Sheikh Hasina's remarks, India appeared to be seeking strategic leverage over Bangladesh's government",
-      "link": "https://www.tbsnews.net/features/panorama/india-sought-strategic-leverage-bangladesh-drew-clear-line-1508281",
-      "source": "The Business Standard",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/08/06/asif_m._shahan_1.jpg",
-      "published": "2026-08-06 11:55:00",
+      "title": "The party of Lincoln gathers in Almont",
+      "description": "The Gunnison County Republicans held a Lincoln Day Fundraiser at Three Rivers Resort in Almont on Saturday, Aug. 1.",
+      "link": "https://www.gunnisontimes.com/stories/the-party-of-lincoln-gathers-in-almont,56113",
+      "source": "Gunnison Country Times",
+      "image": "https://epsilon.creativecirclecdn.com/gunnison/large/20260805-205637-5f5-Party%20of%20Lincoln.jpeg",
+      "published": "2026-08-06 14:35:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "bangladesh"
+        "united states of america"
       ]
     },
     {
-      "title": "Pensioner extradited from Australia remanded in custody over historic Belfast sex abuse charges",
-      "description": null,
-      "link": "https://www.belfasttelegraph.co.uk/news/courts/pensioner-extradited-from-australia-remanded-in-custody-over-historic-belfast-sex-abuse-charges/a/159686455.html",
-      "source": "Belfast Telegraph",
-      "image": null,
-      "published": "2026-08-06 11:55:00",
+      "title": "The Mata Hari affair: Courtesan, spy, legend",
+      "description": "Regarded the most famous female spy of all time, dancer Mata Hari had men falling at her feet \u2014 but was executed for treason. Did she really betray state secrets?",
+      "link": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-all-1573-rdf",
+      "source": "Dw Akademie",
+      "image": "https://static.dw.com/image/78186235_804.jpg",
+      "published": "2026-08-06 14:35:00",
       "category": [
-        "top",
-        "crime",
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "\u2018Do you still think Trump\u2019s an idiot?\u2019: Miliband confronted on past views of US president",
-      "description": "Ed Miliband ignored questions about his past criticism of \u201cracist\u201d Donald Trump as he held talks in Washington with US counterpart Marco Rubio on Thursday (6 August).",
-      "link": "https://www.independent.co.uk/tv/news/trump-ed-miliband-marco-rubio-video-b3028595.html",
-      "source": "The Independent",
-      "image": "https://static.independent.co.uk/2026/08/05/21/2026-08-05T142457Z_1181398870_RC2ESMAZT7AE_RTRMADP_3_USA-BRITAIN.JPG?width=1200&auto=webp&trim=0%2C84%2C0%2C84",
-      "published": "2026-08-06 11:54:57",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
+        "germany"
       ]
     }
   ]

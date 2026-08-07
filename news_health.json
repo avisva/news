@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "AIM ImmunoTech firma accordo da 1,5 milioni con Sterling Pharma",
+      "description": null,
+      "link": "https://it.investing.com/news/sec-filings/aim-immunotech-firma-accordo-da-15-milioni-con-sterling-pharma-93CH-3497734",
+      "source": "Investing - Quotazioni",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+      "published": "2026-08-06 21:57:56",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "italy"
+      ]
+    },
+    {
+      "title": "Deadly cat virus detected in Metro Vancouver - Nanaimo News Bulletin",
+      "description": "Deadly cat virus detected in Metro Vancouver Nanaimo News Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0c0UGNCVDNsV2ZKaXF0RXdUbDV5NEVoSFNYTTZrVGlVR3FSVGh4eDN4TEpNaGIyYXF3VTZZc0E3amU1bktreWpBTS1zWjZBRDkyQ0sydnQwMHpnckh4NTlhU3lYYWdNaGtYMDJ0aGpIdW95cVlLSTk5YmdRZ1JFTm94Q2p0OHdjNzNyYw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-06 21:57:53",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

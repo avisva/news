@@ -1,35 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "The party of Lincoln gathers in Almont",
-      "description": "The Gunnison County Republicans held a Lincoln Day Fundraiser at Three Rivers Resort in Almont on Saturday, Aug. 1.",
-      "link": "https://www.gunnisontimes.com/stories/the-party-of-lincoln-gathers-in-almont,56113",
-      "source": "Gunnison Country Times",
-      "image": "https://epsilon.creativecirclecdn.com/gunnison/large/20260805-205637-5f5-Party%20of%20Lincoln.jpeg",
-      "published": "2026-08-06 14:35:00",
+      "title": "219 Sewerage Projects Under Namami Gange; 146 Completed, Says MoS Raj Bhushan Chaudhary in Lok Sabha",
+      "description": "MoS Jal Shakti Raj Bhushan Chaudhary tells LS that 219 sewerage projects under Namami Gange Mission-II; 146 completed with 4,263 MLD capacity, boosting Ganga water quality.",
+      "link": "https://www.newkerala.com/news/a/219-sewerage-projects-taken-up-under-namami-gange-259.htm",
+      "source": "Newkerala.com",
+      "image": "https://one.newkerala.com/images/r/newkerala-com-news250.webp",
+      "published": "2026-08-06 16:50:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Netanyahu dials PM Modi, India, Israel reaffirm special strategic ties",
+      "description": "Prime Minister Narendra Modi received a phone call from Israeli Prime Minister Benjamin Netanyahu on Thursday evening. The two leaders reviewed progress in the India-Israel Special Strategic Partnership and exchanged views on the situation in West Asia. They reaffirmed their commitment to strengthening bilateral cooperation across sectors and agreed to remain in touch.",
+      "link": "https://telanganatoday.com/netanyahu-dials-pm-modi-india-israel-reaffirm-special-strategic-ties",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Modi-Netanyahu.jpg",
+      "published": "2026-08-06 16:50:57",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rand Paul\u2019s resolution holding Anthony Fauci in contempt passes Senate committee",
+      "description": "A committee led by Sen. Rand Paul voted to hold former White House chief medical adviser Anthony Fauci in contempt following a contentious hearing where he pleaded the Fifth over 100 times.",
+      "link": "https://www.dailyitem.com/wire/rand-paul-s-resolution-holding-anthony-fauci-in-contempt-passes-senate-committee/article_791536b3-7bb9-5889-b05a-bfdf209fe668.html",
+      "source": "Daily Item",
+      "image": null,
+      "published": "2026-08-06 16:50:51",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "The Mata Hari affair: Courtesan, spy, legend",
-      "description": "Regarded the most famous female spy of all time, dancer Mata Hari had men falling at her feet \u2014 but was executed for treason. Did she really betray state secrets?",
-      "link": "https://www.dw.com/en/the-mata-hari-affair-courtesan-spy-legend/a-78263857?maca=en-rss-en-all-1573-rdf",
-      "source": "Dw Akademie",
-      "image": "https://static.dw.com/image/78186235_804.jpg",
-      "published": "2026-08-06 14:35:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "germany"
       ]
     }
   ]

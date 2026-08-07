@@ -1,35 +1,51 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Sen. Legarda, son Rep. Leviste left PH separately on Aug. 2\u2014Immigration bureau",
-      "description": "The National Bureau of Investigation (NBI) and Bureau of Immigration (BI) confirmed Friday that Sen. Loren Legarda and her son Rep. Leandro Leviste left the Philippines separately on Aug. 2, Sunday.",
-      "link": "https://www.abs-cbn.com/news/nation/2026/8/7/sen-legarda-son-rep-leviste-left-ph-early-august-bi-1345",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/20260807060840/38d67963353e0893f8f5a292fe572d871a3f7eb59fd5ae439baa4cc5c5dabef0.png",
-      "published": "2026-08-07 05:45:52",
+      "title": "Report: Fears grow over Mojtaba Khamenei's condition",
+      "description": "Iranian opposition sources claim Supreme Leader Mojtaba Khamenei has not been seen by government ministers since February's attack on his compound.",
+      "link": "https://www.israelnationalnews.com/news/431373",
+      "source": "Israelnationalnews",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1211781.jpg",
+      "published": "2026-08-07 06:52:00",
       "category": [
+        "crime",
         "politics",
         "top"
       ],
       "country": [
-        "philippines"
+        "israel"
       ]
     },
     {
-      "title": "Ministry of Foreign Affairs: German authorities arrest Romanian citizen on suspicion of espionage",
-      "description": "Romania's Ministry of Foreign Affairs (MAE) announced on Thursday evening that the German authorities have executed an arrest warrant issued by the Federal Court of Justice in Rheine (North Rhine-Westphalia)",
-      "link": "https://www.stiripesurse.ro/ministry-of-foreign-affairs-german-authorities-arrest-romanian-citizen-on-suspicion-of-espionage_3910234",
-      "source": "Stiri Pe Surse",
-      "image": "https://www.stiripesurse.ro/media/images/202410/1600x900/media-172858053918126200.webp",
-      "published": "2026-08-07 05:45:48",
+      "title": "Pauline Hanson faces more backlash over Europe trip",
+      "description": "Pauline Hanson is facing fresh scrutiny over her recent European trip after revelations she used One Nation party funds to pay for her stay in a luxury London hotel.",
+      "link": "https://www.smh.com.au/national/pauline-hanson-faces-more-backlash-over-europe-trip-20260807-p60mgn.html",
+      "source": "The Sydney Morning Herald",
+      "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/9dca37dcc6d944d7a2cb8fd22c9de59bb4bbbf2c",
+      "published": "2026-08-07 06:51:53",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "romania"
+        "australia"
+      ]
+    },
+    {
+      "title": "Ministers Lobby For Key Portfolios As Karnataka Cabinet Allocation Nears",
+      "description": "Bengaluru: With the allocation of portfolios to the newly-inducted Karnataka ministers expected by Friday evening, intense lobbying has begun within the",
+      "link": "https://ommcomnews.com/india-news/ministers-lobby-for-key-portfolios-as-karnataka-cabinet-allocation-nears/",
+      "source": "Odisha News, Odisha Breaking News, Odisha Latest N",
+      "image": "https://ommcomnews.com/wp-content/uploads/2026/08/20260804295f-scaled-e1786085504571.jpg",
+      "published": "2026-08-07 06:51:48",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

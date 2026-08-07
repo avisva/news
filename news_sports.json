@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Moore delivers on the double at Leopardstown",
+      "description": "Isaac Newton and Ethical Diamond won the the Group 3s up for grabs",
+      "link": "https://www.irishexaminer.com/sport/racing/arid-41892367.html",
+      "source": "Irish Examiner",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10369/5184892_2_articlelarge_Isaac_20Newton_20Leopardstown_2006.jpg",
+      "published": "2026-08-06 20:10:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Gritty Shels battle hard in Amsterdam against European superpower Ajax",
+      "description": "Daniel Kelly grabbed a deserved goal in the Europa Conference League third round qualifier but overall the Dublin side were outclassed",
+      "link": "https://www.irishexaminer.com/sport/soccer/arid-41892370.html",
+      "source": "Irish Examiner",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10369/5184895_2_articlelarge_95432_3016911.jpg",
+      "published": "2026-08-06 20:10:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    }
+  ]
 }

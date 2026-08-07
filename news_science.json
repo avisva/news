@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "nLIGHT, Inc. Announces Second Quarter 2026 Results",
+      "description": "nLIGHT, Inc. (Nasdaq: LASR), a leading provider of high-power lasers for mission critical directed energy, optical sensing, and advanced manufacturing applications, today reported financial results for the second quarter of 2026.",
+      "link": "https://www.financialcontent.com/article/bizwire-2026-8-6-nlight-inc-announces-second-quarter-2026-results",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-08-06 20:10:00",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

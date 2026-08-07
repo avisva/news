@@ -1,5 +1,41 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Xperi Inc. Announces Participation in the BWS Financial Growth and Value Summer Investor Series",
+      "description": "SAN JOSE, Calif.--(BUSINESS WIRE)--Xperi Inc. (NYSE: XPER) (the \u201cCompany\u201d or \u201cXperi\u201d), an entertainment technology company that invents, develops, and delivers technologies that enable extraordinary experiences, today announced that CEO Jon Kirchner and CFO Robert Andersen will host meetings at the BWS Financial Growth and Value Summer Investor Series on August 25, 2026, at the AMA Conference Center in New York City. If you would like to schedule a meeting with Xperi Inc., please reach out to y",
+      "link": "http://www.businesswire.com/news/home/20260806573418/en/Xperi-Inc.-Announces-Participation-in-the-BWS-Financial-Growth-and-Value-Summer-Investor-Series/",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20260806573418/en/694900/21/xpe_logo_rgb_101.jpg",
+      "published": "2026-08-06 20:10:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "australia",
+        "china",
+        "united states of america",
+        "united kingdom",
+        "germany",
+        "japan",
+        "canada",
+        "france"
+      ]
+    },
+    {
+      "title": "Prince Harry dealt devastating William blow as reunion 'snubbed'",
+      "description": null,
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2236817/prince-harry-william-blow-reunion-snub",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/237x141/2236817_1.jpg",
+      "published": "2026-08-06 20:10:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

@@ -1,15 +1,16 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "I'm a co-creator of Alexa and an AI expert. If AI singularity ever arrives, everyone will notice \u2014 here\u2019s how",
-      "description": "The co-creator of Amazon Alexa, William Tunstall-Pedoe, said the AI singularity moment is unlikely. Courtesy of William Tunstall-Pedoe William Tunstall-Pedoe co-created Amazon Alexa after Amazon acquired his startup, Evi. He said the AI singularity is not here and finds the idea unlikely. He said...",
-      "link": "https://biztoc.com/x/ec755d61c753ac65",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/ec755d61c753ac65_s.webp",
-      "published": "2026-08-07 09:34:59",
+      "title": "From fantasy to spoken word: Professor invents languages with AI",
+      "description": "The University of Miami has just released a new AI tool that can generate new languages \u2014 like Klingon from Star Trek \u2014 and its inventors say this technology could help endangered ones.",
+      "link": "https://www.pressdemocrat.com/2026/08/07/from-fantasy-to-spoken-word-new-um-educator-invents-languages-with-ai-2/",
+      "source": "The Press Democrat",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/tfl-l-AdobeStock-1905514274-01-1.jpeg?w=1600&resize=1600,900",
+      "published": "2026-08-07 10:31:00",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
@@ -17,13 +18,29 @@
       ]
     },
     {
-      "title": "GOP plans socialism telethon at midterm convention",
-      "description": "Republicans plan to use their first-ever midterm convention in Dallas next month to mount a sweeping, made-for-prime-time case that Democrats have become captive to their activist left, Axios has learned. Why it matters: With President Trump's approval rating in the 30s and his war in Iran...",
-      "link": "https://biztoc.com/x/527bb007dbb53136",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/527bb007dbb53136_s.webp",
-      "published": "2026-08-07 09:34:58",
+      "title": "ARX validates GEREON during allied Army experiment",
+      "description": "ARX deployed eight GEREON robots during a multinational Army experiment. The month-long exercise tested sensor payloads, allied communications, logistics, casualty evacuation, and field charging in demanding desert conditions. The post ARX validates GEREON during allied Army experiment appeared first on Industrial News .",
+      "link": "https://industrialnews.co.uk/arx-validates-gereon-during-allied-army-experiment/",
+      "source": "Industrial News",
+      "image": null,
+      "published": "2026-08-07 10:31:00",
       "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Ways to save money on your utility bills",
+      "description": "Dear Heloise: To drop your utility bill, close your closets. Keep the doors shut and unplug as many appliances as you can. If the coffeepot turns itself off, unplug it. You don't need to heat or air-condition closets, or waste...",
+      "link": "https://kenoshanews.com/article_d9a8f55c-c21b-5560-810b-4272ca76611b.html",
+      "source": "Kenosha News",
+      "image": null,
+      "published": "2026-08-07 10:30:59",
+      "category": [
+        "top",
         "technology"
       ],
       "country": [

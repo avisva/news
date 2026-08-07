@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "New Aussie habit \u2018worse than drink driving\u2019",
-      "description": "It is no secret that fatigue is a massive killer on Australian roads.",
-      "link": "https://www.news.com.au/technology/motoring/on-the-road/new-study-finds-nine-in-ten-new-parents-are-driving-dangerously-fatigued/news-story/67d9692a8efbbf5a34067617476131ee",
-      "source": "News",
-      "image": "https://content.api.news/v3/images/bin/df21e90a7868d953c676aa58ac57655b",
-      "published": "2026-08-07 02:13:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "australia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

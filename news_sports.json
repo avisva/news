@@ -1,78 +1,50 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Isto e\u0301 Cinema - 06/08/2026",
-      "description": "O mundo da 7a arte com as estreias da semana, antestreias, bastidores, cinema em casa e curiosidades, num magazine apresentado por Axel.",
-      "link": "https://www.abola.pt/video/isto-e-cinema-06082026-2026080614484500665",
-      "source": "A Bola",
-      "image": "https://sportal365images.com/process/smp-images-production/abola.pt/06082026/abb75a31-8378-4158-a7c0-105419932d7b.jpg?operations=autocrop(1200:675)",
-      "published": "2026-08-06 22:59:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "portugal"
-      ]
-    },
-    {
-      "title": "Rubber ducks by the thousands splash into Chicago River for annual Special Olympics fundraiser - AP News",
-      "description": "Rubber ducks by the thousands splash into Chicago River for annual Special Olympics fundraiser AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3l4MUUtZ2oxaXp6aXVFUmFXRTRWYkVrZ3JuU2FibGFjWkJ5SmVITWlUS3lfUzViZmtYUVBhVEhDNlUtNW5ZeFRpZlJZejhZTHV6WWN5dy1EVmh6eGp1X0JrbVJNNXo5TVVOemt4cVoxUUVhZWxpS3o5YVFTZDMwS3A0MENUcEtza0lLanEtbjFOWmZRdHBhRUNmUnRyWG4zTUNCUWdObUhHUWw2U1k2OGtxcTdLX2c?oc=5",
-      "source": "Scenenewspaper.com",
-      "image": null,
-      "published": "2026-08-06 22:59:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Yankees are waiting for the lights to go on at the plate",
-      "description": "NEW YORK \u2014 Some lights atop Yankee Stadium briefly went dark a couple of times in the first inning Wednesday night.",
-      "link": "https://www.niagara-gazette.com/sports/yankees-are-waiting-for-the-lights-to-go-on-at-the-plate/article_77c60631-ba2c-4db7-a767-073f60be58e3.html",
-      "source": "Niagara-gazette",
-      "image": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/7/e8/7e80db0d-45d7-4f2e-bb16-6c1c89b15a7c/6a7512e517d5d.image.jpg?resize=300%2C217",
-      "published": "2026-08-06 22:59:00",
+      "title": "Is Mizzou football the 1960 national champion? Yes, says the U.S. Senate.",
+      "description": "There\u2019s important college sports-related legislation making the rounds on Capitol Hill this week in the form of the Protect College Sports Act, up for consideration in the U.S. Senate.",
+      "link": "https://www.columbiamissourian.com/sports/mizzou_football/is-mizzou-football-the-1960-national-champion-yes-says-the-u-s-senate/article_4dfc3765-2b87-45a4-b23f-09ad30965e17.html",
+      "source": "Columbia Missourian",
+      "image": "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/b/2d/b2d8bec6-bc33-40fe-9007-812f3d102b9d/6a751f6bb70bb.image.jpg?resize=1396%2C929",
+      "published": "2026-08-06 23:50:00",
       "category": [
         "top",
-        "crime",
-        "sports"
-      ],
-      "country": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Saints rookie and son of WWE Hall of Famer gets six-game ban for violating NFL's drug policy",
-      "description": "New Orleans Saints rookie Brock Rechsteiner has been suspended for the first six games of his NFL career for violating the policy on performance-enhancing drugs.",
-      "link": "https://www.dailymail.com/sport/nfl/article-16035183/Saints-rookie-WWE-Hall-Famer-gets-six-game-ban-NFL.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/06/23/110487817-0-image-a-7_1786056438770.jpg",
-      "published": "2026-08-06 22:58:54",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Series of new security incidents reveals startling behavior by rogue AI agents",
-      "description": "Latest breaches unveil AI\u2019s ability to conceive and execute deceptive strategies against individuals, and even leave messages for future versions of itself",
-      "link": "https://www.deseret.com/business/2026/08/06/donald-trump-ai-artificial-intelligence-agents-autonomous-hacking-security-breaches-openai-sam-altman-anthropic-social-engineering-ai-security-institute/",
-      "source": "Deseret",
-      "image": "https://www.deseret.com/resizer/v2/PKNQOTKBWVFXJGUAOGRROUYF3M.jpg?focal=0%2C0&auth=3488b9d98b80697329d67c1848a360da9a76a28e136683f42b43b681b4b31034&width=630&height=331",
-      "published": "2026-08-06 22:58:45",
-      "category": [
-        "breaking",
         "sports"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "The blend of old and new that's driving the Giants' transition",
+      "description": "It's been a new-look Giants midfield this year but the old guard has stepped up when required",
+      "link": "https://www.afl.com.au/news/1578335/giants-analysis",
+      "source": "Afl Au",
+      "image": "https://resources.afl.com.au/photo-resources/2026/08/07/9844ca1a-4e00-4b1f-8b35-2f8b34a88319/11GWSBr26CS068013078.jpg?width=1000",
+      "published": "2026-08-06 23:50:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "WAFCON 2026: Zambia coach Nora Hauptle questions CAF rules after bizarre WAFCON exit",
+      "description": "Zambia head coach Nora Hauptle has described her team's elimination from the 2026 Women's Africa Cup of Nations as \"completely weird\", after the Copper Queens were knocked out despite finishing the group stage with the best goal difference in their group.Despite a 2-1 victory over Malawi in their final Group C match, Zambia's tournament came to an end. They opened with a 6-0 demolition of Egypt and lost just 1-0 to Nigeria, finishing with six points and a goal difference of +7 \u2013 the best in the group.Yet they are out. Nigeria and Malawi advanced after holding the head-to-head advantage in a three-way tie on six points. Under CAF regulations, when three teams finish level on points, qualification is determined by results in matches between the tied teams.All three earned three points in those head-to-head matches, and with goal difference also level, goals scored in those specific matches became the deciding factor. Malawi and Nigeria had scored more than Zambia in the mini-league, sealing the Copper Queens' fate.Empty. We know the regulations. We were prepared, so we knew exactly that we needed to have a two-goal difference,\" Hauptle told the Zambia FA media.\"We scored the...",
+      "link": "https://ghanasoccernet.com/wafcon-2026-zambia-coach-nora-hauptle-questions-caf-rules-after-bizarre-wafcon-exit",
+      "source": "Ghanasoccernet.com",
+      "image": "https://cms.ghanasoccernet.com/wp-content/uploads/2025/01/Nora-Ha.jpg",
+      "published": "2026-08-06 23:49:47",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "ghana"
       ]
     }
   ]

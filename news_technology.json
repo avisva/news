@@ -1,16 +1,29 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Apple's iPhone 18 Pro Could Face Sales Hit Due To Memory Chip Shortage",
-      "description": "The ongoing global chip shortage is significantly affecting the smartphone market, leading to rising device prices and potential impacts on future releases. Apple is reportedly struggling to secure enough DRAM for its upcoming iPhone 18 Pro and iPhone Ultra, as it collaborates with manufacturers to address the shortage.",
-      "link": "https://www.timesnownews.com/technology-science/apples-iphone-18-pro-could-face-sales-hit-due-to-memory-chip-shortage-article-155361770",
-      "source": "Times Now News",
-      "image": "https://images.timesnownews.com/thumb/msid-155361777,thumbsize-18530,width-1280,height-720,resizemode-75/155361777.jpg",
-      "published": "2026-08-07 11:30:00",
+      "title": "Google Pixel 11 vs. Samsung Galaxy S26: APAC Price Guide Ahead of Aug. 12 Launch - TechRepublic",
+      "description": "Google Pixel 11 vs. Samsung Galaxy S26: APAC Price Guide Ahead of Aug. 12 Launch TechRepublic Google Contacts reveals what colors Pixel 11 HiLight will support 9to5Google Trevor Noah is hosting Google\u2019s Pixel 11 launch event The Verge The Pixel 11\u2019s \u201cglow\u201d feature is actually called HiLight\u2014here\u2019s what it does Ars Technica How To Watch Google's Pixel 11 Event Engadget",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CVVFGZDMyRHYwdVU5X1VFX3phdnRSaWVSVkFzcTFWRjhxcVlVLXdaREFBZVZWcnU3TkVaSzU1M0hXVFZscnZma2p6Sk1GeVMtVzJWYk41M19QdUFEY016SVh3ZWU2ZVlYWkZBSjlLMUlBSnROdGc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-07 13:20:56",
       "category": [
-        "top",
+        "technology"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "iPhone 18 Pro, Galaxy Z Fold8: What happens if you miss an EMI? Will smartphne be locked \u2013 RBI\u2019s new rules explained",
+      "description": "The Reserve Bank of India (RBI) has issued specific guidelines regarding when banks and regulated lenders are permitted to remotely lock financed smartphones, tablets, or laptops.",
+      "link": "https://www.india.com/technology/iphone-18-pro-galaxy-z-fold8-what-happens-if-you-miss-an-emi-will-it-be-locked-rbis-new-rules-explained-installment-8495807/",
+      "source": "India",
+      "image": "https://static.india.com/wp-content/uploads/2026/08/iPhone-18-pro-Galaxy-Z-Fold8.jpg",
+      "published": "2026-08-07 13:20:54",
+      "category": [
         "technology"
       ],
       "country": [
@@ -18,18 +31,17 @@
       ]
     },
     {
-      "title": "Does Kubernetes DRA Replace HAMi?",
-      "description": "Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary: nvidia.com/gpu: 1. It meant one...",
-      "link": "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami/",
-      "source": "Cncf",
-      "image": "https://www.cncf.io/wp-content/uploads/2026/07/Blog-Default-2-1.jpg",
-      "published": "2026-08-07 11:30:00",
+      "title": "PayGlocal to raise Rs 36.4 crore from Beenext at Rs 1,140 crore valuation",
+      "description": "The company\u2019s shareholders on July 25 approved the issue of 5,074 pre-series C compulsorily convertible preference shares at Rs 71,693.02 apiece to the fund through a private placement. The transaction marks a 32% increase from the Rs 865 crore valuation in its previous round.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/payglocal-to-raise-rs-36-4-crore-from-beenext-at-rs-1140-crore-valuation/articleshow/133034999.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-80118,resizemode-75,msid-133034999/tech/funding/payglocal-to-raise-rs-36-4-crore-from-beenext-at-rs-1140-crore-valuation.jpg",
+      "published": "2026-08-07 13:20:53",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

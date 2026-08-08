@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Maharashtra govt may bring Swiggy, Zomato, Zepto under bike-taxi rules",
+      "description": "Proposed changes could require delivery platforms to run EV fleets, track vehicles, provide insurance, and contribute 2% of each ride's fare to a driver welfare fund",
+      "link": "https://www.business-standard.com/industry/news/maharashtra-govt-may-bring-swiggy-zomato-zepto-under-bike-taxi-rules-126080800493_1.html",
+      "source": "Business Standard",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/20/full/1734664674-9059.jpg",
+      "published": "2026-08-08 07:25:31",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

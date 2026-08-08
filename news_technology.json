@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
-      "description": "WASHINGTON: OpenAI said on Friday it cannot rule out that its upcoming AI model, Astra, has \u201ccritical\u201d cybersecurity capabilities, prompting the startup to pause some internal development and trigger safety protocols.",
-      "link": "https://www.nst.com.my/world/world/2026/08/1506590/openai-flags-possible-critical-cybersecurity-risk-upcoming-model",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/4730833DB760FEE11FA82D86C9F47D17_data_0.jpg",
-      "published": "2026-08-08 01:41:56",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "L3 Is Just the Starting Line for China's AI-Agent Phones - Pandaily",
-      "description": "L3 Is Just the Starting Line for China's AI-Agent Phones Pandaily",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2JpTGNJQUhjeW5Hb2VyUXJ6b1RDalZWZFlLaENwUFdfQ0JQa1RnM0hrVmtaT1UwbTlzM053NkxXbXJTbkpsSUd3akhvUWdfUDB4VVphNDY2bFpuNFVTcE5LQVh0ekVMbV9IamZEQjhPV0tFcFRtR0FXcWlIV2REek1PMU1HR3FWT0FYbDFfaw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-08 01:41:25",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,105 +1,64 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Juventus Stalwart Makes Major Future Admission: \u201cNever Asked to Leave\u201d",
-      "description": "Juventus defender Gleison Bremer has no interest in leaving the club despite recent reports suggesting otherwise. Speaking to Gazzetta dello Sport via Tuttomercatoweb, the Brazilian star addressed his...",
-      "link": "https://ca.sports.yahoo.com/news/juventus-stalwart-makes-major-future-102500594.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/ec12a4556f63335cbf0d3f772e455ee0b65b7db8328325f2a358895158ae43ba/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cult_of_calcio_articles_203%2F4f3c05fafa23dc073ce08bcf60778e9e",
-      "published": "2026-08-08 10:25:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Confirmed 2. Bundesliga Lineups: 1. FC Magdeburg vs. Eintracht Braunschweig",
-      "description": "Magdeburg and Eintracht Braunschweig will start their 2026/27 season with the same opening matchday fixture from last term. The visitors took all three points that time, despite playing with ten for t...",
-      "link": "https://ca.sports.yahoo.com/news/confirmed-2-bundesliga-lineups-1-102500021.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/8a45e82a05c1a0a73f531e98982e4588486e14399e892c433a28dcf3648400f8/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbulinews_articles_290%2Faaf8a580e1e8dfb7564bb651019bc3fe",
-      "published": "2026-08-08 10:25:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Marseille enquire about Gent striker Hyllarion Goore",
-      "description": "Olympique de Marseille have made enquiries over KAA Gent forward Hyllarion Goore (20), according to L\u2019E\u0301quipe.Marseille are yet to make their first signing of the summer transfer window, with the cl...",
-      "link": "https://ca.sports.yahoo.com/news/marseille-enquire-gent-striker-hyllarion-102500364.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/f36abf5d9ac59ba5b14c7533d7bc87fb459078267aaa848d7006900e7b33802c/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fget_french_football_news_702%2F1ebc36ca6959eef6cc803b55de1b7bc8",
-      "published": "2026-08-08 10:25:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "PEC Zwolle vs. Ajax - prediction, team news, lineups",
-      "description": "Sports Mole previews Sunday's Eredivisie clash between PEC Zwolle and Ajax, including predictions, team news and possible lineups.",
-      "link": "https://www.sportsmole.co.uk/football/pec-zwolle/preview/pec-zwolle-vs-ajax-prediction-team-news-lineups_602610.html",
-      "source": "Sports Mole",
-      "image": "https://www.sportsmole.co.uk/thumbor/2ZaEDU1gpr3BuYmMlAusPxwPrMo=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F04%2Fmika-godts-l-celebrates-a-goal-with-ajax-teammates-on-february-14-2026-proshots-69f311d8b2583621117433.jpg",
-      "published": "2026-08-08 10:25:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Barcelona offered the services of \u00a360 million-rated Tottenham midfielder \u2013 report",
-      "description": "Lucas Bergvall\u2019s name has resurfaced at FC Barcelona. The Swedish midfielder, who was one of the club\u2019s top transfer targets two years ago, has recently been offered to Barc\u0327a by his representativ...",
-      "link": "https://sports.yahoo.com/articles/barcelona-offered-services-60-million-102500385.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/ae75b19b53598df735611cb6e5cafb375d5875a0cd6df38d3fccbd099c0942c6/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2Fa248a481d115dd37e55f43c9c3fed90e",
-      "published": "2026-08-08 10:25:00",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Andrew Cavenagh set for Rangers transfer grilling at shareholder summit",
-      "description": "The new owners are on their third manager after a trophyless season in their first term at the helm",
-      "link": "https://www.dailyrecord.co.uk/sport/football/football-news/andrew-cavenagh-set-rangers-transfer-37528136",
-      "source": "Daily Record",
-      "image": "https://i2-prod.dailyrecord.co.uk/sport/football/article36923335.ece/ALTERNATES/s615/0_cav.png",
-      "published": "2026-08-08 10:24:50",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Springboks expecting physical battle from Argentina in Buenos Aires",
-      "description": "The Springboks are expecting a physical battle from Argentina during their one-off Test match at what is expected to be an intimidating Estadio Jose\u0301 Amalfitani on Saturday night (9.10pm)",
-      "link": "https://www.timeslive.co.za/sport/2026-08-08-springboks-expecting-physical-battle-from-argentina-in-buenos-aires/",
-      "source": "Timeslive",
-      "image": "https://www.timeslive.co.za/resizer/v2/GJTVNJ2QR5GY7DCUYKGSGX6M2A.jpg?auth=3bbeee4618454f98877ebc80eaed8a892fd5972eda85ab58e3ae5f913b0ae221&smart=true&height=350",
-      "published": "2026-08-08 10:24:41",
+      "title": "Punjab\u2019s Own IPL; Top Players To Feature In Sher-e-Punjab T20 League From August 30 To September 13: CM Bhagwant Singh Mann",
+      "description": "Punjab is set to get its own IPL-style T20 league, with Chief Minister Bhagwant Singh Mann on Saturday unveiling the Sher-e-Punjab T20 League, featuring six franchise teams and star Punjab cricketers including Gill, Arshdeep Singh, Abhishek Sharma, Prabhsimran Singh, Ramandeep Singh and Gurnoor Brar. The league will be played from August 30 to September 13 [...] The post Punjab\u2019s Own IPL; Top Players To Feature In Sher-e-Punjab T20 League From August 30 To September 13: CM Bhagwant Singh Mann appeared first on DNP INDIA .",
+      "link": "https://www.dnpindia.in/states/punjab/punjabs-own-ipl-top-players-to-feature-in-sher-e-punjab-t20-league-from-august-30-to-september-13-cm-bhagwant-singh-mann/610346/",
+      "source": "Dnp India",
+      "image": null,
+      "published": "2026-08-08 11:25:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "south africa"
+        "india"
+      ]
+    },
+    {
+      "title": "SFA confirm officials for Celtic\u2019s sunday clash with Kilmarnock",
+      "description": "Ryan Lee will take charge of Celtic\u2019s first away fixture of the new Scottish Premiership season when Martin O\u2019Neill\u2019s side travel to face Kilmarnock on Sunday.3rd May 2026; Easter Road, Edinburg...",
+      "link": "https://ca.sports.yahoo.com/news/sfa-confirm-officials-celtic-sunday-112500762.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/8d1abdd24169708dd288402db98ad9d71688dba2446931ba76eae7fe7a5ed656/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_celtic_star_articles_180%2F388a068503077d233ce9a4c4b15105eb",
+      "published": "2026-08-08 11:25:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Teen Stars Elsie Hendershot, John Lucian Goins Power Chicago Slice into MLP Playoffs",
+      "description": "Elsie Hendershot and John Lucian Goins have powered Chicago\u2019s late-season surge, helping the Slice sneak into the MLP Playoffs as the No. 12 seed. Now, the teenage duo will look to make an impact against Palm Beach.",
+      "link": "https://www.timesnownews.com/sports/pickleball/teen-stars-elsie-hendershot-john-lucian-goins-power-chicago-slice-into-mlp-playoffs-article-155386072",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155386254,thumbsize-751500,width-1280,height-720,resizemode-75/155386254.jpg",
+      "published": "2026-08-08 11:24:54",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Doherty leading the way in Ulster Rally after opening day",
+      "description": "Eddie Doherty carries a 6.8 second lead going into the second and final day of the golden anniversary edition of the Modern Tyres Ulster Rally.",
+      "link": "https://www.irishnews.com/sport/doherty-leading-the-way-in-ulster-rally-after-opening-day-MJRVIHOZJFH4BJBKTFZFZ4HMTI/",
+      "source": "The Irish News",
+      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/xyQRzvBkqGwyANXA6YkgvbuP7Kc=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/7AVZNOANLJBURPETG4ZAZ4ULVY.jpg",
+      "published": "2026-08-08 11:24:46",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

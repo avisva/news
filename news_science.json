@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "The Canadian entrepreneur turning garbage into hand soap",
-      "description": "Nivatha Balendra's company has defied biotech odds, going straight from laboratory breakthrough to commercial production",
-      "link": "https://www.sudbury.com/local-news/the-canadian-entrepreneur-turning-garbage-into-hand-soap-12643378",
-      "source": "Sudbury.com",
-      "image": "https://www.vmcdn.ca/f/files/closerlook/balendra006.jpg",
-      "published": "2026-08-08 05:26:00",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "canada"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

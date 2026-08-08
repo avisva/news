@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Flock gives police troves of location data. Some are abusing it",
-      "description": "As more police departments across the country turn to artificial intelligence-powered cameras to fight crime, the Atlanta-based company Flock Safety has emerged as a leader in the growing industry for license plate readers.",
-      "link": "https://www.wbur.org/hereandnow/2026/08/07/flock-ai-police-cameras",
-      "source": "Wbur",
-      "image": "https://media.wbur.org/wp/2016/06/HereandNow-3000b-1000x1000.jpg",
-      "published": "2026-08-07 16:52:46",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

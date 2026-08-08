@@ -3,12 +3,191 @@
   "totalResults": 30,
   "results": [
     {
-      "title": "Massive fire burns at vacant building in Wakefield",
-      "description": "Flames from a commercial building fire caused thick black smoke over Wakefield. WBZ-TV's Tammy Mutasa reports.",
-      "link": "https://www.cbsnews.com/boston/video/massive-fire-burns-at-vacant-building-in-wakefield/",
+      "title": "New bar and pop-up restaurant opening in town",
+      "description": "Excitement is building in town as a pop-up bar and restaurant is set to open soon",
+      "link": "https://www.dorsetecho.co.uk/news/26447358.raven-roost-bar-open-south-street-bridport/",
+      "source": "Dorset Echo",
+      "image": null,
+      "published": "2026-08-08 01:42:00",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+      "description": "Nvidia will invest up to $3 billion in \u200bpower infrastructure developer Lancium, the company behind \u200cthe Stargate data center campus in Texas, the Information reported on Friday. Read more... The post Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports appeared first on CBNC .",
+      "link": "https://cbnc.com/nvidia-to-invest-up-to-3-billion-in-stargate-data-center-developer-lancium-the-information-reports/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/07/F2OO44ZFBNIWPI7I4ALSVXB5TI.jpg",
+      "published": "2026-08-08 01:42:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "American flags stolen from Dorchester Vietnam Veterans Memorial",
+      "description": "Thieves cut the ropes that secure the flags and took them from the memorial.",
+      "link": "https://www.cbsnews.com/boston/video/american-flags-stolen-from-dorchester-vietnam-veterans-memorial/",
       "source": "Cbs Boston",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/08/b79968e4-76dd-404f-91ee-f8c14d91e31f/thumbnail/1024x576/68d9c7184695e8bb0ed3e2c7e83245d0/d427dab88244b655f9d97b733219c2f0.png",
-      "published": "2026-08-08 00:41:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/08/54adb8a3-bb71-41f6-9f49-0551e765b70b/thumbnail/1024x576/0054431937caa2991c3bb7d2894ed42d/a065b7153715d7cc55d1a1fd2d953f8d.png",
+      "published": "2026-08-08 01:42:00",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Resorters Golf: Women's Executive semifinalists up their game",
+      "description": "Amanda Murphy and Stacy Faith will battle it out for championship on Saturday, Aug. 8.",
+      "link": "https://www.echopress.com/sports/resorters-golf-rematch-of-last-years-womens-executive-final-set-for-this-years-semifinals-1",
+      "source": "Alexandria Echo Press",
+      "image": "https://cdn.forumcomm.com/dims4/default/3c42ee5/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fae%2Fa5%2F7d0069534e5f9e9a513e853cb933%2Fresortgolf-stacyfaith080626-3393.JPG",
+      "published": "2026-08-08 01:41:57",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "description": "WASHINGTON: OpenAI said on Friday it cannot rule out that its upcoming AI model, Astra, has \u201ccritical\u201d cybersecurity capabilities, prompting the startup to pause some internal development and trigger safety protocols.",
+      "link": "https://www.nst.com.my/world/world/2026/08/1506590/openai-flags-possible-critical-cybersecurity-risk-upcoming-model",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/4730833DB760FEE11FA82D86C9F47D17_data_0.jpg",
+      "published": "2026-08-08 01:41:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Russia Says Ukraine Escalates Drone Attacks with Strike on Yaroslavl",
+      "description": "(MENAFN) Ukraine carried out what Russian officials described as the largest drone attack on the Yaroslavl region since the beginning of the conflict, according to regional Governor Mikhail Yevrayev ...",
+      "link": "https://menafn.com/1111509892/Russia-Says-Ukraine-Escalates-Drone-Attacks-with-Strike-on-Yaroslavl",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-08 01:41:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "hungary",
+        "spain",
+        "italy",
+        "bulgaria",
+        "ireland",
+        "france",
+        "liechtenstein",
+        "cyprus",
+        "slovenia",
+        "portugal",
+        "netherland",
+        "germany",
+        "czech republic",
+        "bosnia and herzegovina",
+        "poland",
+        "malta",
+        "montenegro",
+        "greece",
+        "sweden",
+        "finland",
+        "united kingdom",
+        "latvia",
+        "austria",
+        "lithuania",
+        "vatican",
+        "albania",
+        "denmark",
+        "estonia",
+        "norway",
+        "slovakia",
+        "switzerland",
+        "iceland",
+        "kosovo",
+        "ukraine",
+        "moldova",
+        "san marino",
+        "belarus",
+        "monaco",
+        "macedonia",
+        "russia",
+        "romania",
+        "belgium",
+        "luxembourg",
+        "serbia",
+        "andorra"
+      ]
+    },
+    {
+      "title": "Congress Gains Momentum in Punjab, BJP Considers Alliance with Akali Dal",
+      "description": "In a recent address, Bhupesh Baghel, Congress's Punjab in-charge, highlighted the party's growing public support, which he claims has alarmed the BJP. This shift has led the BJP to reopen discussions with the Shiromani Akali Dal for a potential alliance ahead of the 2027 Punjab Assembly elections. Baghel noted that the BJP's previous stance of contesting independently is now under reconsideration, especially following a significant meeting between Sukhbir Singh Badal and Prime Minister Modi. As political dynamics shift, the upcoming elections could see a reformation of alliances in Punjab.",
+      "link": "https://gyanhigyan.com/national/congress-gains-momentum-in-punjab-bjp-considers-alliance/cid19098209.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/768aa991fde5284cfe810d3cda2cab56.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-08-08 01:41:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US senator targets H-1B green card pathway",
+      "description": "Washington, Aug 8 (SocialNews.XYZ) A Republican US senator sought tougher recruitment rules for employers sponsoring foreign workers for permanent residency, proposing changes that could carry significant consequences for Indian technology professionals. Indians accounted for 70... The post US senator targets H-1B green card pathway appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/08/07/us-senator-targets-h-1b-green-card-pathway/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/08/08/202608083895932.jpg?fit=477%2C380&quality=80&zoom=1&ssl=1",
+      "published": "2026-08-08 01:41:44",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Union Minister Advocates for Reservation and Social Justice in Uttarakhand",
+      "description": "During his visit to Uttarakhand, Union Minister Ramdas Athawale emphasized the constitutional importance of reservation and supported the proposed caste census. He highlighted the need for effective welfare schemes and women's empowerment through reservation in democratic institutions. Athawale also addressed concerns regarding question paper leaks and called for political cooperation in Parliament. His remarks reflect a commitment to social justice and development in the state.",
+      "link": "https://gyanhigyan.com/national/union-minister-advocates-for-reservation-and-social-justice/cid19098210.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/768aa991fde5284cfe810d3cda2cab56.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-08-08 01:41:35",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bodycam footage released in LVMPD shooting that killed Officer Austin Abdelnabi",
+      "description": "Las Vegas police have released new bodycamera footage showing the moments from a shooting that leftOfficer Austin Abdelnabi dead.The Las Vegas Metropolitan Pol",
+      "link": "https://news3lv.com/news/local/las-vegas-police-name-21-year-old-suspect-in-deadly-shooting-of-officer-austin-abdelnabi",
+      "source": "Ksnv",
+      "image": "https://news3lv.com/resources/media2/16x9/1148/1320/79x0/90/82b4b995-fb9a-4366-8fcf-b877fecc5454-Screenshot20260807174819.png",
+      "published": "2026-08-08 01:41:34",
       "category": [
         "crime",
         "top"
@@ -18,27 +197,154 @@
       ]
     },
     {
-      "title": "Appeals court rules Trump can\u2019t build White House ballroom without congressional approval",
-      "description": "Construction continues on a helipad and the White House Ballroom on the South Lawn of the White House, Wednesday, Aug. 5, 2026, in Washington. (AP Photo/Tierney L. Cross) WASHINGTON (AP) \u2014 A divided federal appeals court ruled Friday that President Donald Trump\u2019s administration must stop construction of the $400 million White House ballroom because Congress has not approved the project, a...",
-      "link": "https://www.abccolumbia.com/2026/08/07/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval/",
-      "source": "Abc Columbia",
-      "image": "https://www.abccolumbia.com/content/uploads/2026/08/a/r/ap26217654784670-300x200.jpg",
-      "published": "2026-08-08 00:41:00",
+      "title": "Aflac (NYSE:AFL) Issues Earnings Results",
+      "description": "Aflac (NYSE:AFL \u2013 Get Free Report) posted its quarterly earnings results on Thursday. The financial services provider reported $1.75 EPS for the quarter, missing the consensus estimate of $1.76 by ($0.01), FiscalAI reports. Aflac had a net margin of 26.91% and a return on equity of 13.37%. The business had revenue of $4.22 billion during [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13534634/aflac-nyseafl-issues-earnings-results.html",
+      "source": "Ticker Report",
+      "image": "https://www.marketbeat.com/logos/aflac-logo-1200x675.jpg",
+      "published": "2026-08-08 01:41:27",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lantheus (NASDAQ:LNTH) Releases Earnings Results, Beats Expectations By $0.25 EPS",
+      "description": "Lantheus (NASDAQ:LNTH \u2013 Get Free Report) issued its earnings results on Thursday. The medical equipment provider reported $1.55 earnings per share (EPS) for the quarter, beating the consensus estimate of $1.30 by $0.25, FiscalAI reports. Lantheus had a net margin of 17.69% and a return on equity of 28.10%. The business had revenue of $388.18 [...]",
+      "link": "https://www.watchlistnews.com/lantheus-nasdaqlnth-releases-earnings-results-beats-expectations-by-0-25-eps/11175569.html",
+      "source": "Watch List News",
+      "image": "https://www.marketbeat.com/logos/lantheus-holdings-inc-logo-1200x675.png?v=20221117144509",
+      "published": "2026-08-08 01:41:26",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nelnet (NYSE:NNI) Issues Earnings Results, Misses Estimates By $0.36 EPS",
+      "description": "Nelnet (NYSE:NNI \u2013 Get Free Report) issued its quarterly earnings data on Thursday. The credit services provider reported $1.77 EPS for the quarter, missing analysts\u2019 consensus estimates of $2.13 by ($0.36), FiscalAI reports. Nelnet had a return on equity of 8.28% and a net margin of 14.35%.The company had revenue of $410.01 million for the [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13534633/nelnet-nysenni-issues-earnings-results-misses-estimates-by-0-36-eps.html",
+      "source": "Ticker Report",
+      "image": "https://www.marketbeat.com/logos/nelnet-inc-logo-1200x675.jpg?v=20240425090924",
+      "published": "2026-08-08 01:41:26",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "ESAB (NYSE:ESAB) Posts Earnings Results",
+      "description": "ESAB (NYSE:ESAB \u2013 Get Free Report) released its quarterly earnings results on Thursday. The company reported $1.33 EPS for the quarter, missing analysts\u2019 consensus estimates of $1.37 by ($0.04), Zacks reports. The company had revenue of $807.63 million for the quarter, compared to the consensus estimate of $749.05 million. ESAB had a return on equity [...]",
+      "link": "https://www.watchlistnews.com/esab-nyseesab-posts-earnings-results/11175568.html",
+      "source": "Watch List News",
+      "image": "https://www.marketbeat.com/logos/esab-co-logo-1200x675.png?v=20240515130719",
+      "published": "2026-08-08 01:41:25",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Artivion (NYSE:AORT) Announces Quarterly Earnings Results",
+      "description": "Artivion (NYSE:AORT \u2013 Get Free Report) posted its quarterly earnings results on Thursday. The company reported $0.13 earnings per share for the quarter, FiscalAI reports. The business had revenue of $125.76 million during the quarter, compared to analysts\u2019 expectations of $119.99 million. Artivion had a negative net margin of 0.67% and a positive return on [...]",
+      "link": "https://www.dailypolitical.com/2026/08/07/artivion-nyseaort-announces-quarterly-earnings-results.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/artivion-inc-logo-1200x675.jpg?v=20220202075835",
+      "published": "2026-08-08 01:41:25",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "L3 Is Just the Starting Line for China's AI-Agent Phones - Pandaily",
+      "description": "L3 Is Just the Starting Line for China's AI-Agent Phones Pandaily",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2JpTGNJQUhjeW5Hb2VyUXJ6b1RDalZWZFlLaENwUFdfQ0JQa1RnM0hrVmtaT1UwbTlzM053NkxXbXJTbkpsSUd3akhvUWdfUDB4VVphNDY2bFpuNFVTcE5LQVh0ekVMbV9IamZEQjhPV0tFcFRtR0FXcWlIV2REek1PMU1HR3FWT0FYbDFfaw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-08 01:41:25",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Hamilton Insurance Group (NYSE:HG) Announces Quarterly Earnings Results",
+      "description": "Hamilton Insurance Group (NYSE:HG \u2013 Get Free Report) released its quarterly earnings data on Thursday. The company reported $1.56 earnings per share for the quarter, topping the consensus estimate of $1.20 by $0.36, Zacks reports. The business had revenue of $839.58 million during the quarter, compared to analysts\u2019 expectations of $599.26 million. Hamilton Insurance Group [...]",
+      "link": "https://www.watchlistnews.com/hamilton-insurance-group-nysehg-announces-quarterly-earnings-results/11175567.html",
+      "source": "Watch List News",
+      "image": "https://www.marketbeat.com/logos/hamilton-insurance-group-ltd-logo-1200x675.jpg?v=20231128141817",
+      "published": "2026-08-08 01:41:24",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018We recognize this is a change\u2019: Contractor emphasizes communication, compliance for Revelstoke water metering",
+      "description": "Neptune Technology Group installing 3,720 meters for all residences, businesses this summer and fall",
+      "link": "https://revelstokereview.com/2026/08/07/we-recognize-this-is-a-change-contractor-emphasizes-communication-compliance-for-revelstoke-water-metering/",
+      "source": "Revelstoke Review",
+      "image": "https://revelstokereview.com/wp-content/uploads/sites/17/2026/08/Water20Meter.jpg",
+      "published": "2026-08-08 01:41:24",
       "category": [
         "top",
         "business"
       ],
       "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Nelnet (NYSE:NNI) Posts Earnings Results, Misses Expectations By $0.36 EPS",
+      "description": "Nelnet (NYSE:NNI \u2013 Get Free Report) released its quarterly earnings results on Thursday. The credit services provider reported $1.77 earnings per share for the quarter, missing analysts\u2019 consensus estimates of $2.13 by ($0.36), FiscalAI reports. The company had revenue of $410.01 million for the quarter, compared to analyst estimates of $419.92 million. Nelnet had a [...]",
+      "link": "https://www.dailypolitical.com/2026/08/07/nelnet-nysenni-posts-earnings-results-misses-expectations-by-0-36-eps.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/nelnet-inc-logo-1200x675.jpg?v=20240425090924",
+      "published": "2026-08-08 01:41:24",
+      "category": [
+        "politics"
+      ],
+      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Geltech Solutions (OTCMKTS:GLTC) Shares Cross Above 200 Day Moving Average \u2013 What\u2019s Next?",
-      "description": "Shares of Geltech Solutions, Inc. (OTCMKTS:GLTC \u2013 Get Free Report) crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $0.00 and traded as high as $0.0001. Geltech Solutions shares last traded at $0.0001, with a volume of 41,400 shares trading hands. Geltech Solutions Stock Up [...]",
-      "link": "https://www.watchlistnews.com/geltech-solutions-otcmktsgltc-shares-cross-above-200-day-moving-average-whats-next/11175533.html",
+      "title": "Wasted medicines thrown away in England annually could fill 75 swimming pools",
+      "description": "The National Pharmacy Association estimates the waste costs the NHS at least \u00a3480 million each year.",
+      "link": "https://www.lbc.co.uk/article/wasted-medicines-thrown-away-in-england-annually-could-fill-75-swimming-pools-5HjdfmQ_2/",
+      "source": "London Broadcasting Company",
+      "image": "https://images.globalplayer.com/images/833852?crop=16_9&width=1200&signature=Af62N3VoXRF-2LBYZuDGmP8qCTU=",
+      "published": "2026-08-08 01:41:23",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Fraport (FRA:FRA) Stock Price Crosses Below 50 Day Moving Average \u2013 What\u2019s Next?",
+      "description": "Fraport AG (FRA:FRA \u2013 Get Free Report)\u2019s share price crossed below its 50-day moving average during trading on Wednesday . The stock has a 50-day moving average of \u20ac69.99 and traded as low as \u20ac67.15. Fraport shares last traded at \u20ac67.40, with a volume of 107,477 shares changing hands. Fraport Trading Down 0.8% The company [...]",
+      "link": "https://www.watchlistnews.com/fraport-frafra-stock-price-crosses-below-50-day-moving-average-whats-next/11175566.html",
       "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/geltech-solutions-inc-logo-1200x675.png",
-      "published": "2026-08-08 00:40:56",
+      "image": "https://www.marketbeat.com/logos/fraport-ag-frankfurt-arprt-svcs-wrldwde-logo-1200x675.jpg",
+      "published": "2026-08-08 01:41:22",
       "category": [
         "business"
       ],
@@ -47,12 +353,12 @@
       ]
     },
     {
-      "title": "Aberdeen Total Dynamic Dividend Fund (NYSE:AOD) Stock Crosses Above Two Hundred Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Aberdeen Total Dynamic Dividend Fund (NYSE:AOD \u2013 Get Free Report)\u2019s stock price crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $10.16 and traded as high as $10.70. Aberdeen Total Dynamic Dividend Fund shares last traded at $10.6450, with a volume of 367,835 shares traded. [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/07/aberdeen-total-dynamic-dividend-fund-nyseaod-stock-crosses-above-two-hundred-day-moving-average-heres-why.html",
+      "title": "Palladyne AI (NASDAQ:PDYN) Announces Quarterly Earnings Results, Misses Estimates By $0.04 EPS",
+      "description": "Palladyne AI (NASDAQ:PDYN \u2013 Get Free Report) posted its quarterly earnings results on Thursday. The company reported ($0.27) earnings per share for the quarter, missing analysts\u2019 consensus estimates of ($0.23) by ($0.04), Zacks reports. The business had revenue of $5.78 million during the quarter, compared to analyst estimates of $5.80 million. Palladyne AI had a [...]",
+      "link": "https://www.thelincolnianonline.com/2026/08/07/palladyne-ai-nasdaqpdyn-announces-quarterly-earnings-results-misses-estimates-by-0-04-eps.html",
       "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/aberdeen-total-dynamic-dividend-fund-logo-1200x675.jpg?v=20251010070110",
-      "published": "2026-08-08 00:40:55",
+      "image": "https://www.marketbeat.com/logos/palladyne-ai-corp-logo-1200x675.jpg?v=20240613142147",
+      "published": "2026-08-08 01:41:22",
       "category": [
         "business"
       ],
@@ -61,40 +367,12 @@
       ]
     },
     {
-      "title": "Cohort (LON:CHRT) Stock Crosses Above Two Hundred Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Cohort plc (LON:CHRT \u2013 Get Free Report)\u2019s stock price crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of GBX 1,248.98 and traded as high as GBX 1,300. Cohort shares last traded at GBX 1,286.65, with a volume of 2,185,895 shares traded. Wall Street Analyst Weigh [...]",
-      "link": "https://www.dailypolitical.com/2026/08/07/cohort-lonchrt-stock-crosses-above-two-hundred-day-moving-average-heres-why.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/cohort-plc-logo-1200x675.png?v=20221219134450",
-      "published": "2026-08-08 00:40:55",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Polar Capital (LON:POLR) Share Price Crosses Above 200-Day Moving Average \u2013 Here\u2019s What Happened",
-      "description": "Polar Capital Holdings plc (LON:POLR \u2013 Get Free Report)\u2019s stock price passed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of GBX 730.10 and traded as high as GBX 859. Polar Capital shares last traded at GBX 848, with a volume of [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/07/polar-capital-lonpolr-share-price-crosses-above-200-day-moving-average-heres-what-happened.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/polar-capital-holdings-plc-logo-1200x675.jpg",
-      "published": "2026-08-08 00:40:54",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Greencore Group (LON:GNC) Share Price Passes Above Two Hundred Day Moving Average \u2013 Time to Sell?",
-      "description": "Greencore Group plc (LON:GNC \u2013 Get Free Report) shares crossed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of GBX 241.98 and traded as high as GBX 264.60. Greencore Group shares last traded at GBX 260.95, with a volume of 9,351,493 shares. [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13534597/greencore-group-longnc-share-price-passes-above-two-hundred-day-moving-average-time-to-sell.html",
+      "title": "Oscar Health (NYSE:OSCR) Issues Quarterly Earnings Results",
+      "description": "Oscar Health (NYSE:OSCR \u2013 Get Free Report) announced its quarterly earnings results on Thursday. The company reported $1.10 earnings per share for the quarter, topping the consensus estimate of $0.40 by $0.70, FiscalAI reports. The company had revenue of $4.88 billion for the quarter, compared to the consensus estimate of $4.73 billion. Oscar Health had [...]",
+      "link": "https://www.tickerreport.com/banking-finance/13534632/oscar-health-nyseoscr-issues-quarterly-earnings-results.html",
       "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/greencore-group-plc-logo-1200x675.png?v=20221214143609",
-      "published": "2026-08-08 00:40:54",
+      "image": "https://www.marketbeat.com/logos/oscar-health-inc-logo-1200x675.png?v=20240417093758",
+      "published": "2026-08-08 01:41:22",
       "category": [
         "business"
       ],
@@ -103,96 +381,12 @@
       ]
     },
     {
-      "title": "AMCON Distributing (NYSEAMERICAN:DIT) Shares Pass Below 200-Day Moving Average \u2013 Here\u2019s What Happened",
-      "description": "AMCON Distributing Company (NYSEAMERICAN:DIT \u2013 Get Free Report)\u2019s stock price crossed below its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $77.47 and traded as low as $68.86. AMCON Distributing shares last traded at $66.6850, with a volume of 423 shares trading hands. AMCON Distributing Stock Up [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13534593/amcon-distributing-nyseamericandit-shares-pass-below-200-day-moving-average-heres-what-happened.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/amcon-distributing-logo-1200x675.png?v=20221222122434",
-      "published": "2026-08-08 00:40:53",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Northeast Community Bancorp (NASDAQ:NECB) Share Price Passes Above Two Hundred Day Moving Average \u2013 Time to Sell?",
-      "description": "Northeast Community Bancorp Inc. (NASDAQ:NECB \u2013 Get Free Report) shares crossed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of $24.81 and traded as high as $27.44. Northeast Community Bancorp shares last traded at $27.18, with a volume of 40,847 shares. Wall [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13534594/northeast-community-bancorp-nasdaqnecb-share-price-passes-above-two-hundred-day-moving-average-time-to-sell.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/northeast-community-bancorp-inc-logo-1200x675.png?v=20240529123246",
-      "published": "2026-08-08 00:40:53",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Severfield (LON:SFR) Stock Crosses Above 200-Day Moving Average \u2013 Should You Sell?",
-      "description": "Shares of Severfield plc (LON:SFR \u2013 Get Free Report) crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of GBX 29.30 and traded as high as GBX 38. Severfield shares last traded at GBX 37.40, with a volume of 596,544 shares trading hands. Wall Street Analysts [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13534595/severfield-lonsfr-stock-crosses-above-200-day-moving-average-should-you-sell.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/severfield-plc-logo-1200x675.jpg",
-      "published": "2026-08-08 00:40:53",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Oramed Pharmaceuticals (NASDAQ:ORMP) Share Price Crosses Above 200 Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Oramed Pharmaceuticals Inc. (NASDAQ:ORMP \u2013 Get Free Report)\u2019s stock price passed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of $3.80 and traded as high as $4.52. Oramed Pharmaceuticals shares last traded at $4.32, with a volume of 162,435 shares traded. Wall [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13534596/oramed-pharmaceuticals-nasdaqormp-share-price-crosses-above-200-day-moving-average-heres-why.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/oramed-pharmaceuticals-inc-logo-1200x675.jpg?v=20240607141322",
-      "published": "2026-08-08 00:40:53",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Crombie Real Estate Investment Trust (TSE:CRR.UN) Shares Pass Above 200-Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Crombie Real Estate Investment Trust (TSE:CRR.UN \u2013 Get Free Report)\u2019s stock price passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of C$16.69 and traded as high as C$17.44. Crombie Real Estate Investment Trust shares last traded at C$17.07, with a volume of 168,267 shares traded. [...]",
-      "link": "https://www.dailypolitical.com/2026/08/07/crombie-real-estate-investment-trust-tsecrr-un-shares-pass-above-200-day-moving-average-heres-why.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/crombie-real-estate-investment-trust-logo-1200x675.png?v=20221122065759",
-      "published": "2026-08-08 00:40:53",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hargreaves Services (LON:HSP) Shares Pass Above 200-Day Moving Average \u2013 What\u2019s Next?",
-      "description": "Shares of Hargreaves Services Plc (LON:HSP \u2013 Get Free Report) passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of GBX 780.52 and traded as high as GBX 822. Hargreaves Services shares last traded at GBX 804, with a volume of 58,284 shares changing hands. Hargreaves [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/07/hargreaves-services-lonhsp-shares-pass-above-200-day-moving-average-whats-next.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/hargreaves-services-plc-logo-1200x675.jpg?v=20221221154051",
-      "published": "2026-08-08 00:40:52",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Sound Financial Bancorp (NASDAQ:SFBC) Stock Passes Above Two Hundred Day Moving Average \u2013 What\u2019s Next?",
-      "description": "Shares of Sound Financial Bancorp, Inc. (NASDAQ:SFBC \u2013 Get Free Report) passed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of $43.47 and traded as high as $49.21. Sound Financial Bancorp shares last traded at $46.98, with a volume of 206,503 shares. [...]",
-      "link": "https://baseballnewssource.com/2026/08/07/sound-financial-bancorp-nasdaqsfbc-stock-passes-above-two-hundred-day-moving-average-whats-next/11215680.html",
+      "title": "Palladyne AI (NASDAQ:PDYN) Releases Earnings Results, Misses Expectations By $0.04 EPS",
+      "description": "Palladyne AI (NASDAQ:PDYN \u2013 Get Free Report) issued its quarterly earnings data on Thursday. The company reported ($0.27) earnings per share (EPS) for the quarter, missing the consensus estimate of ($0.23) by ($0.04), Zacks reports. Palladyne AI had a negative net margin of 254.75% and a negative return on equity of 54.38%. The company had [...]",
+      "link": "https://baseballnewssource.com/2026/08/07/palladyne-ai-nasdaqpdyn-releases-earnings-results-misses-expectations-by-0-04-eps/11215716.html",
       "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/sound-financial-bancorp-inc-logo-1200x675.png?v=20221222143719",
-      "published": "2026-08-08 00:40:52",
+      "image": "https://www.marketbeat.com/logos/palladyne-ai-corp-logo-1200x675.jpg?v=20240613142147",
+      "published": "2026-08-08 01:41:22",
       "category": [
         "sports"
       ],
@@ -201,12 +395,26 @@
       ]
     },
     {
-      "title": "Hennes & Mauritz (OTCMKTS:HNNMY) Share Price Passes Above 200 Day Moving Average \u2013 Time to Sell?",
-      "description": "Shares of Hennes & Mauritz AB (OTCMKTS:HNNMY \u2013 Get Free Report) crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $3.66 and traded as high as $3.7050. Hennes & Mauritz shares last traded at $3.69, with a volume of 113,892 shares changing hands. Analysts Set [...]",
-      "link": "https://www.watchlistnews.com/hennes-mauritz-otcmktshnnmy-share-price-passes-above-200-day-moving-average-time-to-sell/11175532.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/h--m-hennes--mauritz-ab-(publ)-logo-1200x675.png?v=20221104114945",
-      "published": "2026-08-08 00:40:52",
+      "title": "Payoneer Global (NASDAQ:PAYO) Posts Earnings Results, Misses Expectations By $0.07 EPS",
+      "description": "Payoneer Global (NASDAQ:PAYO \u2013 Get Free Report) announced its quarterly earnings results on Thursday. The company reported ($0.01) earnings per share for the quarter, missing the consensus estimate of $0.06 by ($0.07), FiscalAI reports. The business had revenue of $274.26 million during the quarter, compared to the consensus estimate of $270.98 million. Payoneer Global had [...]",
+      "link": "https://baseballnewssource.com/2026/08/07/payoneer-global-nasdaqpayo-posts-earnings-results-misses-expectations-by-0-07-eps/11215717.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/payoneer-global-inc-logo-1200x675.png?v=20240426105800",
+      "published": "2026-08-08 01:41:22",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "AMN Healthcare Services (NYSE:AMN) Announces Earnings Results",
+      "description": "AMN Healthcare Services (NYSE:AMN \u2013 Get Free Report) posted its quarterly earnings results on Thursday. The company reported $0.77 earnings per share for the quarter, beating the consensus estimate of $0.19 by $0.58, FiscalAI reports. AMN Healthcare Services had a net margin of 3.06% and a return on equity of 20.48%. The company had revenue [...]",
+      "link": "https://www.themarketsdaily.com/2026/08/08/amn-healthcare-services-nyseamn-announces-earnings-results.html",
+      "source": "Markets Daily",
+      "image": "https://www.marketbeat.com/logos/amn-healthcare-services-inc-logo-1200x675.png?v=20240430120117",
+      "published": "2026-08-08 01:41:21",
       "category": [
         "business"
       ],
@@ -215,210 +423,54 @@
       ]
     },
     {
-      "title": "Under Armour (NYSE:UAA) Releases Earnings Results, Beats Expectations By $0.03 EPS",
-      "description": "Under Armour (NYSE:UAA \u2013 Get Free Report) announced its quarterly earnings results on Friday. The company reported $0.05 earnings per share for the quarter, beating analysts\u2019 consensus estimates of $0.02 by $0.03, Zacks reports. Under Armour had a negative net margin of 9.98% and a positive return on equity of 3.01%. The firm\u2019s quarterly revenue [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/07/under-armour-nyseuaa-releases-earnings-results-beats-expectations-by-0-03-eps.html",
+      "title": "Kion Group (FRA:KGX) Shares Pass Below 50-Day Moving Average \u2013 What\u2019s Next?",
+      "description": "Shares of Kion Group Ag (FRA:KGX \u2013 Get Free Report) crossed below its fifty day moving average during trading on Wednesday . The stock has a fifty day moving average of \u20ac40.76 and traded as low as \u20ac40.19. Kion Group shares last traded at \u20ac40.64, with a volume of 269,635 shares. Kion Group Stock Up [...]",
+      "link": "https://baseballnewssource.com/2026/08/07/kion-group-frakgx-shares-pass-below-50-day-moving-average-whats-next/11215715.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/kion-group-ag-logo-1200x675.png?v=20250103081528",
+      "published": "2026-08-08 01:41:21",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nuveen Churchill Direct Lending (NYSE:NCDL) Announces Quarterly Earnings Results",
+      "description": "Nuveen Churchill Direct Lending (NYSE:NCDL \u2013 Get Free Report) issued its quarterly earnings results on Thursday. The company reported $0.41 earnings per share for the quarter, beating analysts\u2019 consensus estimates of $0.39 by $0.02, Zacks reports. Nuveen Churchill Direct Lending had a net margin of 24.44% and a return on equity of 9.53%. The company [...]",
+      "link": "https://www.themarketsdaily.com/2026/08/08/nuveen-churchill-direct-lending-nysencdl-announces-quarterly-earnings-results.html",
+      "source": "Markets Daily",
+      "image": "https://www.marketbeat.com/logos/nuveen-churchill-direct-lending-corp-logo-1200x675.jpg?v=20240412142323",
+      "published": "2026-08-08 01:41:20",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Smith Douglas Homes (NYSE:SDHC) Posts Quarterly Earnings Results, Misses Estimates By $0.08 EPS",
+      "description": "Smith Douglas Homes (NYSE:SDHC \u2013 Get Free Report) released its quarterly earnings results on Thursday. The company reported $0.03 earnings per share for the quarter, missing the consensus estimate of $0.11 by ($0.08), FiscalAI reports. The firm had revenue of $273.03 million during the quarter, compared to the consensus estimate of $258.10 million. Smith Douglas [...]",
+      "link": "https://www.themarketsdaily.com/2026/08/08/smith-douglas-homes-nysesdhc-posts-quarterly-earnings-results-misses-estimates-by-0-08-eps.html",
+      "source": "Markets Daily",
+      "image": "https://www.marketbeat.com/logos/smith-douglas-homes-corp-logo-1200x675.jpg?v=20240206112642",
+      "published": "2026-08-08 01:41:20",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "DNOW (NYSE:DNOW) Releases Earnings Results, Beats Expectations By $0.03 EPS",
+      "description": "DNOW (NYSE:DNOW \u2013 Get Free Report) announced its quarterly earnings results on Thursday. The oil and gas company reported $0.12 earnings per share for the quarter, beating the consensus estimate of $0.09 by $0.03, FiscalAI reports. The firm had revenue of $1.31 billion during the quarter, compared to analyst estimates of $1.27 billion. DNOW had [...]",
+      "link": "https://www.thelincolnianonline.com/2026/08/07/dnow-nysednow-releases-earnings-results-beats-expectations-by-0-03-eps.html",
       "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/under-armour-inc-logo-1200x675.png",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "United Bancorp (NASDAQ:UBCP) Stock Passes Above 200-Day Moving Average \u2013 Here\u2019s What Happened",
-      "description": "United Bancorp, Inc. (NASDAQ:UBCP \u2013 Get Free Report)\u2019s stock price passed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of $15.38 and traded as high as $15.96. United Bancorp shares last traded at $15.96, with a volume of 1,644 shares traded. Analysts [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/07/united-bancorp-nasdaqubcp-stock-passes-above-200-day-moving-average-heres-what-happened.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/united-bancorp-inc-logo-1200x675.jpg?v=20220222082707",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Pacific Health Care Organization (OTCMKTS:PFHO) Stock Passes Below Two Hundred Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Pacific Health Care Organization Inc. (OTCMKTS:PFHO \u2013 Get Free Report)\u2019s stock price passed below its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $1.09 and traded as low as $0.8340. Pacific Health Care Organization shares last traded at $0.90, with a volume of 56,586 shares traded. Pacific [...]",
-      "link": "https://zolmax.com/investing/pacific-health-care-organization-otcmktspfho-stock-passes-below-two-hundred-day-moving-average-heres-why/11944307.html",
-      "source": "Zolmax",
-      "image": "https://www.marketbeat.com/logos/pacific-health-care-organization-inc-logo-1200x675.png?v=20211206100143",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "LightInTheBox (NYSE:LITB) Stock Price Crosses Above 200-Day Moving Average \u2013 Here\u2019s What Happened",
-      "description": "LightInTheBox Holding Co., Ltd. (NYSE:LITB \u2013 Get Free Report) passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $2.75 and traded as high as $3.27. LightInTheBox shares last traded at $3.17, with a volume of 5,605 shares trading hands. LightInTheBox Price Performance The company has [...]",
-      "link": "https://zolmax.com/investing/lightinthebox-nyselitb-stock-price-crosses-above-200-day-moving-average-heres-what-happened/11944309.html",
-      "source": "Zolmax",
-      "image": "https://www.marketbeat.com/logos/lightinthebox-holding-co-ltd-logo-1200x675.png?v=20241114073553",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Two men arrested over podcast allegedly touching on religious sensitivities, say police",
-      "description": "SHAH ALAM, Aug 8 \u2014 Police confirmed the arrest of two local men following a report received regarding a...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/08/two-men-arrested-over-podcast-allegedly-touching-on-religious-sensitivities-say-police/230565",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/08/355993.jpg",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "malaysia",
-        "singapore"
-      ]
-    },
-    {
-      "title": "Bradley Blasts Davis After Haney Fight Rejection",
-      "description": "Timothy Bradley ripped Keyshawn Davis for walking away from his mandatory shot at WBO welterweight champion Devin Haney, calling the decision one of the sport's most blatant examples of a fighter dodging a big opportunity.",
-      "link": "https://www.yardbarker.com/boxing/articles/bradley_blasts_davis_after_haney_fight_rejection/s1_17349_44150015",
-      "source": "Yardbarker",
-      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Petrel Resources (LON:PET) Share Price Crosses Above 200-Day Moving Average \u2013 Should You Sell?",
-      "description": "Petrel Resources Plc (LON:PET \u2013 Get Free Report) passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of GBX 0.84 and traded as high as GBX 0.85. Petrel Resources shares last traded at GBX 0.75, with a volume of 479 shares changing hands. Petrel Resources Stock [...]",
-      "link": "https://baseballnewssource.com/2026/08/07/petrel-resources-lonpet-share-price-crosses-above-200-day-moving-average-should-you-sell/11215677.html",
-      "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/petrel-resources-plc-logo-1200x675.gif",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Seeing Machines (LON:SEE) Stock Price Crosses Above 200 Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Shares of Seeing Machines Limited (LON:SEE \u2013 Get Free Report) passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of GBX 4.09 and traded as high as GBX 4.69. Seeing Machines shares last traded at GBX 4.50, with a volume of 10,732,440 shares traded. Seeing Machines [...]",
-      "link": "https://baseballnewssource.com/2026/08/07/seeing-machines-lonsee-stock-price-crosses-above-200-day-moving-average-heres-why/11215678.html",
-      "source": "Bbns",
-      "image": null,
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The Gabelli Healthcare & Wellness Trust (NYSE:GRX) Shares Cross Above 200 Day Moving Average \u2013 Time to Sell?",
-      "description": "The Gabelli Healthcare & Wellness Trust (NYSE:GRX \u2013 Get Free Report)\u2019s share price passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $9.38 and traded as high as $9.80. The Gabelli Healthcare & Wellness Trust shares last traded at $9.7650, with a volume of 11,151 [...]",
-      "link": "https://baseballnewssource.com/2026/08/07/the-gabelli-healthcare-wellness-trust-nysegrx-shares-cross-above-200-day-moving-average-time-to-sell/11215679.html",
-      "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/the-gabelli-healthcare--wellness-trust-logo-1200x675.jpg?v=20250207055715",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Professional Diversity Network (NASDAQ:IPDN) Shares Cross Below 200 Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Professional Diversity Network, Inc. (NASDAQ:IPDN \u2013 Get Free Report)\u2019s share price crossed below its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of $0.92 and traded as low as $0.40. Professional Diversity Network shares last traded at $0.4259, with a volume of 18,312 shares [...]",
-      "link": "https://www.dailypolitical.com/2026/08/07/professional-diversity-network-nasdaqipdn-shares-cross-below-200-day-moving-average-heres-why.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/professional-diversity-network-inc-logo-1200x675.jpg",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Bank of South Carolina (NASDAQ:BKSC) Stock Price Passes Above 200-Day Moving Average \u2013 What\u2019s Next?",
-      "description": "Bank of South Carolina Co. (NASDAQ:BKSC \u2013 Get Free Report)\u2019s share price crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $16.12 and traded as high as $19.1775. Bank of South Carolina shares last traded at $19.05, with a volume of 3,750 shares. Bank of [...]",
-      "link": "https://www.dailypolitical.com/2026/08/07/bank-of-south-carolina-nasdaqbksc-stock-price-passes-above-200-day-moving-average-whats-next.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/bank-of-south-carolina-co-logo-1200x675.jpg?v=20241211120655",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "TR Property Investment Trust (LON:TRY) Share Price Crosses Above Two Hundred Day Moving Average \u2013 Time to Sell?",
-      "description": "Shares of TR Property Investment Trust plc (LON:TRY \u2013 Get Free Report) passed above its two hundred day moving average during trading on Wednesday . The stock has a two hundred day moving average of GBX 320.98 and traded as high as GBX 321.67. TR Property Investment Trust shares last traded at GBX 318.66, with [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/08/tr-property-investment-trust-lontry-share-price-crosses-above-two-hundred-day-moving-average-time-to-sell.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/tr-property-investment-trust-plc-logo-1200x675.png?v=20241107140000",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Value Line (NASDAQ:VALU) Stock Crosses Above Two Hundred Day Moving Average \u2013 Here\u2019s Why",
-      "description": "Shares of Value Line, Inc. (NASDAQ:VALU \u2013 Get Free Report) crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $36.06 and traded as high as $37.59. Value Line shares last traded at $35.24, with a volume of 4,737 shares traded. Analysts Set New Price Targets [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/08/value-line-nasdaqvalu-stock-crosses-above-two-hundred-day-moving-average-heres-why.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/value-line-inc-logo-1200x675.png?v=20221209132904",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Arianne Phosphate (CVE:DAN) Stock Crosses Above Two Hundred Day Moving Average \u2013 Here\u2019s What Happened",
-      "description": "Arianne Phosphate Inc. (CVE:DAN \u2013 Get Free Report)\u2019s share price crossed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of C$0.32 and traded as high as C$0.32. Arianne Phosphate shares last traded at C$0.32, with a volume of 222,683 shares changing hands. Arianne Phosphate Stock Performance [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/08/arianne-phosphate-cvedan-stock-crosses-above-two-hundred-day-moving-average-heres-what-happened.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/arianne-phosphate-inc-logo-1200x675.jpg?v=20220510071354",
-      "published": "2026-08-08 00:40:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cathay Pacific Airways (OTCMKTS:CPCAY) Shares Cross Above 200 Day Moving Average \u2013 Should You Sell?",
-      "description": "Cathay Pacific Airways Ltd. (OTCMKTS:CPCAY \u2013 Get Free Report)\u2019s share price passed above its 200-day moving average during trading on Wednesday . The stock has a 200-day moving average of $8.09 and traded as high as $9.31. Cathay Pacific Airways shares last traded at $9.31, with a volume of 981 shares. Wall Street Analyst Weigh [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/08/cathay-pacific-airways-otcmktscpcay-shares-cross-above-200-day-moving-average-should-you-sell.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/cathay-pacific-airways-limited-logo-1200x675.png?v=20221117160919",
-      "published": "2026-08-08 00:40:51",
+      "image": "https://www.marketbeat.com/logos/dnow-inc-logo-1200x675.jpg?v=20240503122057",
+      "published": "2026-08-08 01:41:20",
       "category": [
         "business"
       ],

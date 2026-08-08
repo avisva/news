@@ -1,14 +1,179 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 11,
   "results": [
     {
-      "title": "Massive fire burns at vacant building in Wakefield",
-      "description": "Flames from a commercial building fire caused thick black smoke over Wakefield. WBZ-TV's Tammy Mutasa reports.",
-      "link": "https://www.cbsnews.com/boston/video/massive-fire-burns-at-vacant-building-in-wakefield/",
+      "title": "New bar and pop-up restaurant opening in town",
+      "description": "Excitement is building in town as a pop-up bar and restaurant is set to open soon",
+      "link": "https://www.dorsetecho.co.uk/news/26447358.raven-roost-bar-open-south-street-bridport/",
+      "source": "Dorset Echo",
+      "image": null,
+      "published": "2026-08-08 01:42:00",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "American flags stolen from Dorchester Vietnam Veterans Memorial",
+      "description": "Thieves cut the ropes that secure the flags and took them from the memorial.",
+      "link": "https://www.cbsnews.com/boston/video/american-flags-stolen-from-dorchester-vietnam-veterans-memorial/",
       "source": "Cbs Boston",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/08/b79968e4-76dd-404f-91ee-f8c14d91e31f/thumbnail/1024x576/68d9c7184695e8bb0ed3e2c7e83245d0/d427dab88244b655f9d97b733219c2f0.png",
-      "published": "2026-08-08 00:41:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/08/54adb8a3-bb71-41f6-9f49-0551e765b70b/thumbnail/1024x576/0054431937caa2991c3bb7d2894ed42d/a065b7153715d7cc55d1a1fd2d953f8d.png",
+      "published": "2026-08-08 01:42:00",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Resorters Golf: Women's Executive semifinalists up their game",
+      "description": "Amanda Murphy and Stacy Faith will battle it out for championship on Saturday, Aug. 8.",
+      "link": "https://www.echopress.com/sports/resorters-golf-rematch-of-last-years-womens-executive-final-set-for-this-years-semifinals-1",
+      "source": "Alexandria Echo Press",
+      "image": "https://cdn.forumcomm.com/dims4/default/3c42ee5/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fae%2Fa5%2F7d0069534e5f9e9a513e853cb933%2Fresortgolf-stacyfaith080626-3393.JPG",
+      "published": "2026-08-08 01:41:57",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls",
+      "description": "WASHINGTON: OpenAI said on Friday it cannot rule out that its upcoming AI model, Astra, has \u201ccritical\u201d cybersecurity capabilities, prompting the startup to pause some internal development and trigger safety protocols.",
+      "link": "https://www.nst.com.my/world/world/2026/08/1506590/openai-flags-possible-critical-cybersecurity-risk-upcoming-model",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/4730833DB760FEE11FA82D86C9F47D17_data_0.jpg",
+      "published": "2026-08-08 01:41:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Russia Says Ukraine Escalates Drone Attacks with Strike on Yaroslavl",
+      "description": "(MENAFN) Ukraine carried out what Russian officials described as the largest drone attack on the Yaroslavl region since the beginning of the conflict, according to regional Governor Mikhail Yevrayev ...",
+      "link": "https://menafn.com/1111509892/Russia-Says-Ukraine-Escalates-Drone-Attacks-with-Strike-on-Yaroslavl",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-08 01:41:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "hungary",
+        "spain",
+        "italy",
+        "bulgaria",
+        "ireland",
+        "france",
+        "liechtenstein",
+        "cyprus",
+        "slovenia",
+        "portugal",
+        "netherland",
+        "germany",
+        "czech republic",
+        "bosnia and herzegovina",
+        "poland",
+        "malta",
+        "montenegro",
+        "greece",
+        "sweden",
+        "finland",
+        "united kingdom",
+        "latvia",
+        "austria",
+        "lithuania",
+        "vatican",
+        "albania",
+        "denmark",
+        "estonia",
+        "norway",
+        "slovakia",
+        "switzerland",
+        "iceland",
+        "kosovo",
+        "ukraine",
+        "moldova",
+        "san marino",
+        "belarus",
+        "monaco",
+        "macedonia",
+        "russia",
+        "romania",
+        "belgium",
+        "luxembourg",
+        "serbia",
+        "andorra"
+      ]
+    },
+    {
+      "title": "Congress Gains Momentum in Punjab, BJP Considers Alliance with Akali Dal",
+      "description": "In a recent address, Bhupesh Baghel, Congress's Punjab in-charge, highlighted the party's growing public support, which he claims has alarmed the BJP. This shift has led the BJP to reopen discussions with the Shiromani Akali Dal for a potential alliance ahead of the 2027 Punjab Assembly elections. Baghel noted that the BJP's previous stance of contesting independently is now under reconsideration, especially following a significant meeting between Sukhbir Singh Badal and Prime Minister Modi. As political dynamics shift, the upcoming elections could see a reformation of alliances in Punjab.",
+      "link": "https://gyanhigyan.com/national/congress-gains-momentum-in-punjab-bjp-considers-alliance/cid19098209.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/768aa991fde5284cfe810d3cda2cab56.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-08-08 01:41:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US senator targets H-1B green card pathway",
+      "description": "Washington, Aug 8 (SocialNews.XYZ) A Republican US senator sought tougher recruitment rules for employers sponsoring foreign workers for permanent residency, proposing changes that could carry significant consequences for Indian technology professionals. Indians accounted for 70... The post US senator targets H-1B green card pathway appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/08/07/us-senator-targets-h-1b-green-card-pathway/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/08/08/202608083895932.jpg?fit=477%2C380&quality=80&zoom=1&ssl=1",
+      "published": "2026-08-08 01:41:44",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Union Minister Advocates for Reservation and Social Justice in Uttarakhand",
+      "description": "During his visit to Uttarakhand, Union Minister Ramdas Athawale emphasized the constitutional importance of reservation and supported the proposed caste census. He highlighted the need for effective welfare schemes and women's empowerment through reservation in democratic institutions. Athawale also addressed concerns regarding question paper leaks and called for political cooperation in Parliament. His remarks reflect a commitment to social justice and development in the state.",
+      "link": "https://gyanhigyan.com/national/union-minister-advocates-for-reservation-and-social-justice/cid19098210.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/768aa991fde5284cfe810d3cda2cab56.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-08-08 01:41:35",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bodycam footage released in LVMPD shooting that killed Officer Austin Abdelnabi",
+      "description": "Las Vegas police have released new bodycamera footage showing the moments from a shooting that leftOfficer Austin Abdelnabi dead.The Las Vegas Metropolitan Pol",
+      "link": "https://news3lv.com/news/local/las-vegas-police-name-21-year-old-suspect-in-deadly-shooting-of-officer-austin-abdelnabi",
+      "source": "Ksnv",
+      "image": "https://news3lv.com/resources/media2/16x9/1148/1320/79x0/90/82b4b995-fb9a-4366-8fcf-b877fecc5454-Screenshot20260807174819.png",
+      "published": "2026-08-08 01:41:34",
       "category": [
         "crime",
         "top"
@@ -18,34 +183,33 @@
       ]
     },
     {
-      "title": "Appeals court rules Trump can\u2019t build White House ballroom without congressional approval",
-      "description": "Construction continues on a helipad and the White House Ballroom on the South Lawn of the White House, Wednesday, Aug. 5, 2026, in Washington. (AP Photo/Tierney L. Cross) WASHINGTON (AP) \u2014 A divided federal appeals court ruled Friday that President Donald Trump\u2019s administration must stop construction of the $400 million White House ballroom because Congress has not approved the project, a...",
-      "link": "https://www.abccolumbia.com/2026/08/07/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval/",
-      "source": "Abc Columbia",
-      "image": "https://www.abccolumbia.com/content/uploads/2026/08/a/r/ap26217654784670-300x200.jpg",
-      "published": "2026-08-08 00:41:00",
+      "title": "\u2018We recognize this is a change\u2019: Contractor emphasizes communication, compliance for Revelstoke water metering",
+      "description": "Neptune Technology Group installing 3,720 meters for all residences, businesses this summer and fall",
+      "link": "https://revelstokereview.com/2026/08/07/we-recognize-this-is-a-change-contractor-emphasizes-communication-compliance-for-revelstoke-water-metering/",
+      "source": "Revelstoke Review",
+      "image": "https://revelstokereview.com/wp-content/uploads/sites/17/2026/08/Water20Meter.jpg",
+      "published": "2026-08-08 01:41:24",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "Two men arrested over podcast allegedly touching on religious sensitivities, say police",
-      "description": "SHAH ALAM, Aug 8 \u2014 Police confirmed the arrest of two local men following a report received regarding a...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/08/two-men-arrested-over-podcast-allegedly-touching-on-religious-sensitivities-say-police/230565",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/08/355993.jpg",
-      "published": "2026-08-08 00:40:51",
+      "title": "Wasted medicines thrown away in England annually could fill 75 swimming pools",
+      "description": "The National Pharmacy Association estimates the waste costs the NHS at least \u00a3480 million each year.",
+      "link": "https://www.lbc.co.uk/article/wasted-medicines-thrown-away-in-england-annually-could-fill-75-swimming-pools-5HjdfmQ_2/",
+      "source": "London Broadcasting Company",
+      "image": "https://images.globalplayer.com/images/833852?crop=16_9&width=1200&signature=Af62N3VoXRF-2LBYZuDGmP8qCTU=",
+      "published": "2026-08-08 01:41:23",
       "category": [
-        "crime",
-        "top"
+        "top",
+        "environment"
       ],
       "country": [
-        "malaysia",
-        "singapore"
+        "united kingdom"
       ]
     }
   ]

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Our top-rated business PC is a multitasking powerhouse \u2014 save $530 on the Dell Tower Plus with Core Ultra 7",
+      "description": "Our top-rated desktop computer for professionals comes with Intel Core Ultra 7 265, Nvidia RTX 5060 Ti, 32GB DDR5 RAM, and a 1TB NVMe SSD.",
+      "link": "https://www.techradar.com/pro/dell-tower-plus-desktop-ebt2250-deal",
+      "source": "Tech Radar",
+      "image": "https://cdn.mos.cms.futurecdn.net/mkyShzg9UaLwh3T5nqWoNi-1280-80.jpg",
+      "published": "2026-08-07 20:35:43",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gov. Hochul discusses AI data center pause in N.Y., where she stands on future construction",
+      "description": "Hochul said that it's not a complete ban but a chance to further discuss regulations.",
+      "link": "https://www.silive.com/news/2026/08/gov-hochul-responds-to-questions-surrounding-new-yorks-ai-data-center-moratorium.html",
+      "source": "Staten Island Ny Local News",
+      "image": "https://www.silive.com/resizer/v2/S2SW7I2J7ZAOVPHND5WINYZGTM.jpg?auth=e71bd9d739476ea74a5e4b64b094c7ba8f511ea88b08fbd4af2fc0fb37bdaf33&smart=true&height=1200",
+      "published": "2026-08-07 20:35:43",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "COOK, Samuel \"Sam\" John",
+      "description": "February 14, 1937 \u2013 July 27, 2026 At the age of 89 and despite a long battle with Parkinson\u2019s disease, Sam Cook passed away unexpectedly but peacefully at the Sault Area Hospital after an acute respiratory illness.",
+      "link": "https://www.sootoday.com/obituaries/cook-samuel-sam-john-12644395",
+      "source": "Sootoday",
+      "image": "https://www.vmcdn.ca/f/files/sootoday/images/announcements/obituaries/20260708-sjc.jpg",
+      "published": "2026-08-08 21:35:45",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

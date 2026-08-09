@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Prince Harry \u2018less reciprocal\u2019 of Meghan Markle\u2019s PDA and 'my man pose'",
+      "description": "EXCLUSIVE: The Duke of Sussex did not seem as affectionate as his wife Meghan Markle, a body language expert said.",
+      "link": "https://www.express.co.uk/news/royal/2237269/prince-harry-less-reciprocal-meghan",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/106/237x141/2237269_1.jpg",
+      "published": "2026-08-08 13:27:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

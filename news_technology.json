@@ -1,14 +1,73 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Claude Code can now share messages between coding sessions",
-      "description": "Anthropic has updated its AI-powered coding assistant, Claude Code, to allow communication between separate coding sessions.",
-      "link": "https://www.newsbytesapp.com/news/science/claude-code-can-now-chat-across-different-coding-sessions/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l271_3621786254630.jpg",
-      "published": "2026-08-09 06:35:53",
+      "title": "\u2018We make glass BEND\u2019 boasts Samsung as insiders reveal how foldable phones are the future & add brainy battery life perk",
+      "description": "THE days of boring, flat smartphones may soon be over \u2013 mobiles are bending again. Like a throwback to the noughties, foldable phones are all the range and Samsung has been leading the charge \u2013 we tackle the latest on Future Tech Feed with Sean Keach. The South Korean tech giant has been dishing out...",
+      "link": "https://www.thesun.ie/tech/17429977/samsung-galaxy-foldable-phones-annika-bizon-kadesh-beckford-interview/",
+      "source": "The Irish Sun",
+      "image": "https://www.thesun.ie/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F08%2FRW_07_08_FTF_TECH_OP_0811bf.jpg?quality%3D90%26strip%3Dall",
+      "published": "2026-08-09 07:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "I was an AI skeptic \u2014 until I started using it to identify plants",
+      "description": "Can AI replace a seasoned gardener\u2019s eye? I put it to the test.",
+      "link": "https://www.tomsguide.com/home/outdoors/i-was-an-ai-skeptic-until-i-started-using-it-to-identify-plants",
+      "source": "Tom's Guide",
+      "image": "https://cdn.mos.cms.futurecdn.net/p2VmnszBebiNqnn4ZsqotR-1280-80.jpg",
+      "published": "2026-08-09 07:30:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Energy Vault Announces Strategic Agreement to Deploy 1.25 GW of Integrated Power Infrastructure for Hyperscaler AI Data Center with Leading Power Generation EPC Deploying Caterpillar Gensets",
+      "description": "WESTLAKE VILLAGE, Calif.--(Business Wire/Korea Newswire)--Energy Vault Holdings, Inc. (NYSE: NRGV) (\u201cEnergy Vault\u201d), a global leader in sustainable energy infrastructure, today announced the execution of a strategic commercial agreement under whic...",
+      "link": "https://www.newswire.co.kr/newsRead.php?no=1040195&sourceType=rss",
+      "source": "Newswire",
+      "image": "https://file.newswire.co.kr/data/upfile/company_img/thumb_480/2025/02/1028147215_20250226090033_1843511950.jpg",
+      "published": "2026-08-09 07:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Must-Know CSE, IT Interview Questions to Crack Your First Job",
+      "description": "Learn what recruiters assess in CSE and IT interviews, from coding and DSA to SQL, networking, projects, and behavioral questions.",
+      "link": "https://www.analyticsinsight.net/education/must-know-cse-it-interview-questions-to-crack-your-first-job",
+      "source": "Analytics And Insight",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-09/f900ugje/Must-Know-CSE-and-IT-Interview-Questions-to-Crack-Your-First-Job.jpg",
+      "published": "2026-08-09 07:30:00",
+      "category": [
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BYD Sealion 7 vs Kia EV6: Performance, Range, Regen Compared",
+      "description": "Both AWD eSUVs get similar battery packs, with the Sealion 7 offering more potent motors, but does it also offer more real-woerld range?",
+      "link": "https://www.autocarindia.com/auto-features/byd-sealion-7-vs-kia-ev6-performance-range-regen-compared-440892",
+      "source": "Autocar India",
+      "image": "https://asset.autocarindia.com/static/features/images/20260807_122837_75fe5870.jpg",
+      "published": "2026-08-09 07:30:00",
       "category": [
         "top",
         "technology"
@@ -18,47 +77,32 @@
       ]
     },
     {
-      "title": "Asus Pad (T3201) Full Specs, Features, Price In Philippines",
-      "description": "Here\u2019s The Complete List of Specifications, Features, & Price of the Asus Pad (T3201) The Asus Pad (T3201) was officially announced on July 17, 2026, and released on August 06, 2026. The tablet is fueled with a Li-Po 9000 mAh battery + 45W wired charging. It was launched in a single color, Pure White. Body ... Read more The post Asus Pad (T3201) Full Specs, Features, Price In Philippines appeared first on PhilNews .",
-      "link": "https://philnews.ph/2026/08/09/asus-pad-t3201-specs-features-price-philippines/",
-      "source": "Philippine News",
-      "image": "https://philnews.ph/wp-content/uploads/2026/08/Asus-Pad-T3201-specs.jpg",
-      "published": "2026-08-09 06:35:19",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "AI agents are getting powerful but who is really controlling them",
-      "description": "AI agents are taking on bigger software tasks, but who controls them? Explore agent identity, least privilege, provenance, AI security, and human review today!",
-      "link": "https://www.pcquest.com/tech-trends/ai-agents-are-getting-powerful-but-who-is-really-controlling-them-12244092",
-      "source": "Pcquest",
-      "image": "https://img-cdn.publive.online/pcq/media/media_files/2026/08/09/ai-agents-are-getting-powerful-but-who-is-really-controlling-them-2026-08-09-12-03-28.png",
-      "published": "2026-08-09 06:35:08",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Is Sony Profiting from Xbox Games? Here's How It's Possible - ixbt.games",
-      "description": "Is Sony Profiting from Xbox Games? Here's How It's Possible ixbt.games",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDRBZkdpeUpyMGtlZHh6UjRfRXJKbURjcFd4T1FkeXFGaElrU3Y1MFZHeTVjYUJNOXJubjRfT201M09fY0RBUnhnQlFlVHNQd3IwbkhwYkZ6UVJDWkFHMjRBNzdGeWcxTFBHU2xvLV9EcnZ2QzExUDI4VjNsTUt3SXF1SVl3VElKTlFDV3RMcXFRYmRWejZibk8zZ20tZk54c3ZvaXRseXVuZm_SAbABQVVfeXFMTXluSmVoeUdsQTgtRngyQ3lTNXVCdWl2YjhhaGF5REVDWGdUVEdxUlE5VEtoeERwV1puRUhWMzV4Vml4dm9PYXNRZ2RBdUlJNzV2VkxPYVFPSko2akFRRFB3OTJvby1PR2ZQM3VZXzlRb0pkRjZMdXBFMlBOem9senUwTzFfR2V4emZSNFM4dTBpS0Q2dEtlN09QWkpPaDM5a2N1TVVLWDJpYXlHV09WU2U?oc=5",
+      "title": "I was an AI skeptic \u2014 until I started using it to identify plants - Tom's Guide",
+      "description": "I was an AI skeptic \u2014 until I started using it to identify plants Tom's Guide",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVRJVF93OEtNaVVobG0zRVdta0ZmNzJ3NS03TkhfTnY1WGlORWJIVzNKa2o1QnI3VEFLbjdBUUVlcTMwM0F3dUszbmxjUjNYTFo1UEo3N2pwdFAwUm1XRVJNZ0VXOFB6MDBUVy12ZWxKcUNNT1FPLW42V2QxY1lkd05aVkxFeV9BaGFQRVAwMGJsY0FzRi12SElFcFVkUFgwRVNaTEVB?oc=5",
       "source": "Google News",
       "image": null,
-      "published": "2026-08-09 06:35:01",
+      "published": "2026-08-09 07:30:00",
       "category": [
         "technology"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "Following my previous question about replacing my Tata Hexa, which has covered 1.25 lakh km, with a new SUV or MPV within a budget of Rs. 35 lakh and for a daily commute of around 85 km, I test-drove both the Tata Safari and the Toyota Hycross. However, I found both to be lacking in power. Could you suggest some other suitable options? I am also open to considering 5-seater SUVs, although a diesel remains my preference. Additionally, would the Mahindra XUV 7XO Diesel be a good choice for my requirements? If so, which variant would you recommend?",
+      "description": "Given your daily 85 km commute and the fact that you're coming from a Tata Hexa, a diesel car still makes the most sense. The Toyota Innova Hycross is a petrol-hybrid, so it was never going to feel as powerful as a diesel. The Tata Safari, while offering good torque, isn't the most responsive diesel SUV in its segment.The Mahindra XUV 7XO Diesel is the option we would recommend. It is one of the most powerful diesel SUVs in its segment, with strong mid-range performance and a genuinely engaging driving experience. It also strikes a good balance between comfort, space, and features, making it a well-rounded replacement for the Hexa. As for the XUV 7XO variants, the AX7 is the sweet spot, offering most of the key features without pushing the price too close to your Rs. 35 lakh budget.",
+      "link": "https://www.autocarindia.com/advice/tata-hexa-replacement-suv-mpv-under-35-lakh-455763",
+      "source": "Autocar India",
+      "image": "https://cdn-s3.autocarindia.com/Mahindra/xuv-7xo/OP704174.JPG?w=1200&h=675&fit=crop&crop=entropy&q=75&fm=auto",
+      "published": "2026-08-09 07:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

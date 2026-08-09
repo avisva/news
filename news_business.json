@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "St. Clare's Food Pantry Resumed August 5th!",
+      "description": null,
+      "link": "https://caldwellperspective.com/home-1/f/st-clares-food-pantry-resumed-august-5th",
+      "source": "Caldwell Perspective Newspaper",
+      "image": "https://img1.wsimg.com/isteam/ip/2cc55c2a-626a-4f25-9704-88e58a66d956/St.%20Clare's%20Pantry-3641e9d.jpg",
+      "published": "2026-08-08 22:31:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Step-by-Step Guide to Add a State to Your Corporation",
+      "description": "Learn how to add a state to your corporation with our comprehensive step-by-step guide. Discover the necessary steps, legal requirements, and tips to successfully expand your business across state lines.",
+      "link": "https://smallbiztrends.com/how-to-add-a-state-to-your-corporation/",
+      "source": "Small Business Trends",
+      "image": "https://media.smallbiztrends.com/2026/06/Kq6iCwD1-key-takeaways-100x100.jpg",
+      "published": "2026-08-08 22:31:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Zimbabwe, UAE on brink of landmark trade deal",
+      "description": "Rumbidzayi Zinyuke Senior Reporter ZIMBABWE and the United Arab Emirates (UAE), whose bilateral trade has since ballooned to US$7 billion, are working on further deepening ties, with the two countries...",
+      "link": "https://www.heraldonline.co.zw/zimbabwe-uae-on-brink-of-landmark-trade-deal/",
+      "source": "H-metro",
+      "image": null,
+      "published": "2026-08-08 22:30:55",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "zimbabwe"
+      ]
+    }
+  ]
 }

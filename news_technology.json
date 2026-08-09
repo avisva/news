@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Article on Google Maps Gets New Gemini Ag...",
-      "description": null,
-      "link": "https://completeaitraining.com/news/article-on-google-maps-gets-new-gemini-ag/",
-      "source": "Complete Ai Training",
-      "image": "https://cdn.completeaitraining.com/news_images/article-on-google-maps-gets-new-gemini-ag_2026-08-08.jpg",
-      "published": "2026-08-08 19:50:56",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

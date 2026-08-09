@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Roads in Parasnath",
+      "description": "\u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0947\u0902 \u0935\u093f\u0915\u093e\u0938 \u0915\u0947 \u0926\u094b \u092a\u0939\u0932\u0942 \u0939\u0948\u0902. \u090f\u0915 \u0924\u0930\u092b \u0921\u093f\u092e\u093e\u0902\u0921 \u092a\u0930 \u0911\u0928-\u0926-\u0938\u094d\u092a\u0949\u091f \u0938\u0941\u0928\u0935\u093e\u0908 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948. \u0926\u0942\u0938\u0930\u0940 \u0924\u0930\u092b \u0915\u094b\u0908 \u0938\u0941\u0928\u0928\u0947 \u0935\u093e\u0932\u093e \u0939\u0940 \u0928\u0939\u0940\u0902.",
+      "link": "https://www.etvbharat.com/hi/state/jharkhand-government-stance-regarding-demands-for-roads-across-different-areas-of-giridih-jhs26080902770",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/09-08-2026/1200-675-27350661-thumbnail-16x9-girir.jpg",
+      "published": "2026-08-09 11:27:29",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

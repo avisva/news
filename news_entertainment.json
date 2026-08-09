@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Caption this cat's dismay [Caption]",
-      "description": null,
-      "link": "https://www.fark.com/comments/14156846",
-      "source": "Fark",
-      "image": "https://img.fark.net/pub/topics/caption.png",
-      "published": "2026-08-08 17:01:00",
+      "title": "'Big Bang Theory' star John Ross Bowie makes surprising admission about his role",
+      "description": "'Big Bang Theory' star John Ross Bowie makes surprising admission about his roleJohn Ross Bowie has admitted that leaving his Big Bang Theory role behind after filming the spinoff was a bigger challenge.As he reprises his role as Kripke in Stuart Fails to Save the Universe, the actor told People...",
+      "link": "https://www.thenews.com.pk/latest/1411659-big-bang-theory-star-john-ross-bowie-makes-surprising-admission-about-his-role",
+      "source": "The News International",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-08-08/1411659_115705_updates.jpg",
+      "published": "2026-08-08 18:52:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "\"Dancing with the Stars: The Next Pro\" announces Bay Area studio",
+      "description": "(KRON) \u2014 Dance is taking center stage in San Jose as professional dancer Allen Genkin begins his next chapter in the Bay Area. Genkin, who is part of the cast of \"Dancing With the Stars: The Next Pro,\" joined KRON4 Anchor Stephanie Lin to talk about his journey in the ballroom world, his experience on the [...]",
+      "link": "https://www.kron4.com/news/bay-area/dancing-with-the-stars-the-next-pro-announces-bay-area-studio/",
+      "source": "Kron4",
+      "image": "https://www.kron4.com/wp-content/uploads/sites/11/2026/08/download-1.png?w=900",
+      "published": "2026-08-08 18:51:26",
       "category": [
         "top",
         "entertainment"

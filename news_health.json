@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Donate Blood, Kol Hospitals Urge Patient Families After Supply Crunch",
+      "description": "Donate Blood, Kol Hospitals Urge Patient Families After Supply Crunch",
+      "link": "https://timesofindia.indiatimes.com/city/kolkata/donate-blood-kol-hospitals-urge-patient-families-after-supply-crunch/articleshow/133058480.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133058478/133058478.jpg",
+      "published": "2026-08-08 18:51:40",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

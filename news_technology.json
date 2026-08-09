@@ -1,102 +1,14 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 1,
   "results": [
     {
-      "title": "\u2018We make glass BEND\u2019 boasts Samsung as insiders reveal how foldable phones are the future & add brainy battery life perk",
-      "description": "THE days of boring, flat smartphones may soon be over \u2013 mobiles are bending again. Like a throwback to the noughties, foldable phones are all the range and Samsung has been leading the charge \u2013 we tackle the latest on Future Tech Feed with Sean Keach. The South Korean tech giant has been dishing out...",
-      "link": "https://www.thesun.ie/tech/17429977/samsung-galaxy-foldable-phones-annika-bizon-kadesh-beckford-interview/",
-      "source": "The Irish Sun",
-      "image": "https://www.thesun.ie/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F08%2FRW_07_08_FTF_TECH_OP_0811bf.jpg?quality%3D90%26strip%3Dall",
-      "published": "2026-08-09 07:30:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "I was an AI skeptic \u2014 until I started using it to identify plants",
-      "description": "Can AI replace a seasoned gardener\u2019s eye? I put it to the test.",
-      "link": "https://www.tomsguide.com/home/outdoors/i-was-an-ai-skeptic-until-i-started-using-it-to-identify-plants",
-      "source": "Tom's Guide",
-      "image": "https://cdn.mos.cms.futurecdn.net/p2VmnszBebiNqnn4ZsqotR-1280-80.jpg",
-      "published": "2026-08-09 07:30:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Energy Vault Announces Strategic Agreement to Deploy 1.25 GW of Integrated Power Infrastructure for Hyperscaler AI Data Center with Leading Power Generation EPC Deploying Caterpillar Gensets",
-      "description": "WESTLAKE VILLAGE, Calif.--(Business Wire/Korea Newswire)--Energy Vault Holdings, Inc. (NYSE: NRGV) (\u201cEnergy Vault\u201d), a global leader in sustainable energy infrastructure, today announced the execution of a strategic commercial agreement under whic...",
-      "link": "https://www.newswire.co.kr/newsRead.php?no=1040195&sourceType=rss",
-      "source": "Newswire",
-      "image": "https://file.newswire.co.kr/data/upfile/company_img/thumb_480/2025/02/1028147215_20250226090033_1843511950.jpg",
-      "published": "2026-08-09 07:30:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Must-Know CSE, IT Interview Questions to Crack Your First Job",
-      "description": "Learn what recruiters assess in CSE and IT interviews, from coding and DSA to SQL, networking, projects, and behavioral questions.",
-      "link": "https://www.analyticsinsight.net/education/must-know-cse-it-interview-questions-to-crack-your-first-job",
-      "source": "Analytics And Insight",
-      "image": "https://media.assettype.com/analyticsinsight/2026-08-09/f900ugje/Must-Know-CSE-and-IT-Interview-Questions-to-Crack-Your-First-Job.jpg",
-      "published": "2026-08-09 07:30:00",
-      "category": [
-        "business",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "BYD Sealion 7 vs Kia EV6: Performance, Range, Regen Compared",
-      "description": "Both AWD eSUVs get similar battery packs, with the Sealion 7 offering more potent motors, but does it also offer more real-woerld range?",
-      "link": "https://www.autocarindia.com/auto-features/byd-sealion-7-vs-kia-ev6-performance-range-regen-compared-440892",
-      "source": "Autocar India",
-      "image": "https://asset.autocarindia.com/static/features/images/20260807_122837_75fe5870.jpg",
-      "published": "2026-08-09 07:30:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "I was an AI skeptic \u2014 until I started using it to identify plants - Tom's Guide",
-      "description": "I was an AI skeptic \u2014 until I started using it to identify plants Tom's Guide",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVRJVF93OEtNaVVobG0zRVdta0ZmNzJ3NS03TkhfTnY1WGlORWJIVzNKa2o1QnI3VEFLbjdBUUVlcTMwM0F3dUszbmxjUjNYTFo1UEo3N2pwdFAwUm1XRVJNZ0VXOFB6MDBUVy12ZWxKcUNNT1FPLW42V2QxY1lkd05aVkxFeV9BaGFQRVAwMGJsY0FzRi12SElFcFVkUFgwRVNaTEVB?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-09 07:30:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Following my previous question about replacing my Tata Hexa, which has covered 1.25 lakh km, with a new SUV or MPV within a budget of Rs. 35 lakh and for a daily commute of around 85 km, I test-drove both the Tata Safari and the Toyota Hycross. However, I found both to be lacking in power. Could you suggest some other suitable options? I am also open to considering 5-seater SUVs, although a diesel remains my preference. Additionally, would the Mahindra XUV 7XO Diesel be a good choice for my requirements? If so, which variant would you recommend?",
-      "description": "Given your daily 85 km commute and the fact that you're coming from a Tata Hexa, a diesel car still makes the most sense. The Toyota Innova Hycross is a petrol-hybrid, so it was never going to feel as powerful as a diesel. The Tata Safari, while offering good torque, isn't the most responsive diesel SUV in its segment.The Mahindra XUV 7XO Diesel is the option we would recommend. It is one of the most powerful diesel SUVs in its segment, with strong mid-range performance and a genuinely engaging driving experience. It also strikes a good balance between comfort, space, and features, making it a well-rounded replacement for the Hexa. As for the XUV 7XO variants, the AX7 is the sweet spot, offering most of the key features without pushing the price too close to your Rs. 35 lakh budget.",
-      "link": "https://www.autocarindia.com/advice/tata-hexa-replacement-suv-mpv-under-35-lakh-455763",
-      "source": "Autocar India",
-      "image": "https://cdn-s3.autocarindia.com/Mahindra/xuv-7xo/OP704174.JPG?w=1200&h=675&fit=crop&crop=entropy&q=75&fm=auto",
-      "published": "2026-08-09 07:30:00",
+      "title": "Motorola Edge 70 Neo design and colour leaked ahead of the official launch",
+      "description": "Leaked renders reveal the smartphone\u2019s four colour options, curved display and 200MP primary camera",
+      "link": "https://www.moneycontrol.com/technology/motorola-edge-70-neo-design-and-colour-leaked-ahead-of-the-official-launch-article-13998975.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260422102048_Edge-70-Pro.jpeg",
+      "published": "2026-08-09 08:27:31",
       "category": [
         "top",
         "technology"

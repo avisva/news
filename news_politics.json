@@ -1,33 +1,96 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Pentagon presses defense firms to speed up weapons production amid Iran war shortages - report | LIVE BLOG",
-      "description": "Tune into i24NEWS for global news broadcasting live from around the world bringing you the day\u2019s biggest stories from the U.S., Europe, and the Middle East. i24NEWS provides a unique voice in international news with its focus on Israel and the Middle East as well as covering all the major issues in global and domestic news, including in the United States",
-      "link": "https://www.i24news.tv/en/news/international/artc-pentagon-presses-defense-firms-to-speed-up-weapons-production-amid-iran-war-shortages-report-live-blog",
-      "source": "I24news",
-      "image": "https://cdn.i24news.tv/uploads/65/cf/82/12/5d/26/1c/21/5d/8f/2c/08/e6/9a/77/7c/65cf82125d261c215d8f2c08e69a777c.jpg",
-      "published": "2026-08-09 03:27:50",
+      "title": "Enforcing the law fairly: Why effective penalties matter",
+      "description": "Learn Key Institute is expanding its educational offering with the opening of its new campus in Msida",
+      "link": "https://timesofmalta.com/article/enforcing-law-fairly-effective-penalties-matter.1132436",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/3b70f174dd8bad2f1a4d3374855cfff9c4ec05f6-1786091801-af306187-1920x1280.jpg",
+      "published": "2026-08-09 04:31:00",
+      "category": [
+        "politics",
+        "top",
+        "education"
+      ],
+      "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "Turkey calls for moratorium on attacks against vessels in Black Sea",
+      "description": "Turkey has called on Ukraine and Russia to establish a mechanism for declaring a moratorium on mutual attacks against vessels in the Black Sea.",
+      "link": "https://www.ukrinform.net/rubric-ato/4152449-turkey-calls-for-moratorium-on-attacks-against-vessels-in-black-sea.html",
+      "source": "Ukrinform",
+      "image": "https://static.ukrinform.com/photos/2025_05/thumb_files/630_360_1748609871-799.jpg",
+      "published": "2026-08-09 04:31:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "iraq",
-        "iran",
-        "palestine",
-        "syria",
-        "saudi arabia",
-        "united arab emirates",
-        "united states of america",
-        "israel",
-        "lebanon",
-        "united kingdom",
-        "germany",
-        "jordan",
-        "france",
-        "egypt"
+        "ukraine"
+      ]
+    },
+    {
+      "title": "A rare glimpse into Tibet, where some hope to preserve cultural identity",
+      "description": "This year, China is marking the 75th anniversary of what it calls the \"peaceful liberation\" of Tibet \u2014 an event many Tibetans in exile regard as an invasion.",
+      "link": "https://www.1news.co.nz/2026/08/09/a-rare-glimpse-into-tibet-where-some-hope-to-preserve-cultural-identity/",
+      "source": "1news",
+      "image": "https://www.1news.co.nz/resizer/v2/W2KOG3ONQFG4PHLZ6WTEZ7R2NA.jpg?auth=34fa89721c95c172f3c8b2bb961577a0e77a2016a584842d3e298c3303653d4c&smart=true&width=8033&height=5355",
+      "published": "2026-08-09 04:30:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Messi returns to Rosario to bid final farewell to father Jorge Messi",
+      "description": null,
+      "link": "https://www.daily-sun.com/sports/891278",
+      "source": "Daily Sun",
+      "image": null,
+      "published": "2026-08-09 04:30:53",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Haryana Congress trains workers on SIR process",
+      "description": "The Haryana Pradesh Congress Committee organised a state-level workshop focussing on the Special Intensive Revision (SIR) of electoral rolls in Sonepat on Saturday. The party leaders said the booth-level workers had been directed to ensure that no eligible citizens is lift out of the voter lists. Former Chief Minister and Leader of Opposition Bhupinder Singh [...]",
+      "link": "https://www.tribuneindia.com/news/haryana/haryana-congress-trains-workers-on-sir-process",
+      "source": "The Tribune India",
+      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/04/69e071bedfc97-iStock-1434437996.jpg",
+      "published": "2026-08-09 04:30:43",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Karnataka forms ex-Chief Justice-led panel to review Bidadi Township",
+      "description": "The four-member panel, headed by retired High Court judge Justice Guhanathan Narendar, will examine concerns over the 7,481-acre township project and submit its report within 30 days.",
+      "link": "https://www.thenewsminute.com/karnataka/karnataka-forms-ex-chief-justice-led-panel-to-review-bidadi-township",
+      "source": "The News Minute",
+      "image": "https://cf-images.assettype.com/thenewsminute%2F2026-08-09%2F98iykwwv%2FDKS.jpeg?rect=0%2C818%2C1366%2C768&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "published": "2026-08-09 04:30:40",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

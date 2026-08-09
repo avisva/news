@@ -1,90 +1,195 @@
 {
   "status": "success",
-  "totalResults": 23,
+  "totalResults": 19,
   "results": [
     {
-      "title": "The most polluted areas of Birmingham and Black Country",
-      "description": "New data shows the most polluted areas of Birmingham and the Black Country \u2013 with neighbourhoods near the A38M and M6 breaching WHO clean air limits by more than three times",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/most-polluted-areas-birmingham-black-34410290",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34410289.ece/ALTERNATES/s615/0_Spaghetti-Junction-M6-Motorway-Birmingham-England-UK.jpg",
-      "published": "2026-08-09 04:31:00",
+      "title": "In the Dock: Woman guilty of sex abuse back in court and teen murderer appeals",
+      "description": "This week, our Ayrshire Weekly Press titles have covered cases from Ayr and Kilmarnock sheriff courts.",
+      "link": "https://www.irvinetimes.com/news/26445277.round-up-ayrshire-court-cases-past-week/",
+      "source": "Irvinetimes",
+      "image": null,
+      "published": "2026-08-09 05:28:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Turbulence Hit Phuket-Delhi Air India Flight Captain Fails Dope Test? Airline Responds To Reports",
+      "description": "The captain of the Phuket-Delhi Air India flight which experienced severe turbulence earlier this month injuring 17 has reportedly tested positive for psychoactive substances",
+      "link": "https://www.thedailyjagran.com/india/turbulence-hit-phuket-delhi-air-india-flight-captain-fails-dope-test-airline-responds-to-reports-10324249",
+      "source": "Jagran English",
+      "image": "https://images.thedailyjagran.com/article-img/2026/08/09/1200x675/airindia-1786253198137.webp",
+      "published": "2026-08-09 05:27:57",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Still Waiting for Answers? JPSC JSSC Protest Keep Jharkhand Students on the Streets, Will Govt Listen?",
+      "description": "The JPSC JSSC protest goes on in Jharkhand as students insist on their demands regarding recruitment examinations. Though talks are going on between the government and the agitating students, no breakthrough could be achieved till now, and students are now awaiting some action on their part. Students Insist on Their Demands The protesting students have [...] The post Still Waiting for Answers? JPSC JSSC Protest Keep Jharkhand Students on the Streets, Will Govt Listen? appeared first on DNP INDIA .",
+      "link": "https://www.dnpindia.in/people/still-waiting-for-answers-jpsc-jssc-protest-keep-jharkhand-students-on-the-streets-will-govt-listen/610373/",
+      "source": "Dnp India",
+      "image": "https://www.dnpindia.in/wp-content/uploads/2026/08/JPSC-JSSC-Protest.webp",
+      "published": "2026-08-09 05:27:55",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "'Fairytale' UK town boasts cobbled streets, Tudor cottages and a castle",
+      "description": "Experts have hailed it as the ultimate UK staycation destination",
+      "link": "https://www.nottinghampost.com/news/uk-world-news/fairytale-uk-town-boasts-cobbled-11100711",
+      "source": "Nottinghampost",
+      "image": "https://i2-prod.nottinghampost.com/news/uk-world-news/article11100710.ece/ALTERNATES/s615/0_Cobblestone-lane-at-sunset-with-roses-Rye-East-Sussex-England.jpg",
+      "published": "2026-08-09 05:27:53",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Cyril Shroff, IIM Ahmedabad set up leadership academy for general counsels",
+      "description": "The initiative comes as the role of general counsels has expanded beyond traditional legal advisory functions to include enterprise strategy, governance, risk management, technology and business transformation",
+      "link": "https://www.thehindubusinessline.com/news/education/cyril-shroff-iim-ahmedabad-set-up-leadership-academy-for-general-counsels/article71324084.ece",
+      "source": "The Hindu - Business Line",
+      "image": "https://bl-i.thgim.com/public/incoming/wpmrj4/article71324113.ece/alternates/LANDSCAPE_1200/Karnataka-adds-G90FNTCSE.3.jpg.jpg",
+      "published": "2026-08-09 05:27:43",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "BMC Plans Paid Parking in Residential Areas to End Traffic Chaos",
+      "description": "Bhubaneswar to introduce paid parking in residential areas soon.",
+      "link": "https://argusenglish.in/odisha/bmc-plans-paid-parking-in-residential-areas-to-end-traffic-chaos",
+      "source": "Argus English",
+      "image": "https://argusnewdashboard.s3.ap-south-1.amazonaws.com/article/1786253261833_76aea740-e097-4521-863a-a828db725902.webp",
+      "published": "2026-08-09 05:27:40",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "New autopsy finds Mir Ali Raza was shot in the back, suffered multiple injuries",
+      "description": "\u2022 Eight-member board exhumed the corpse in presence of magistrate, family \u2022 Police surgeon says cause of death reserved till receipt of reports \u2022 Says young businessman suffered injuries on head and face \u2022 Family lawyer wants investigation team replaced KARACHI: A fresh post-mortem examination conducted following the exhumation of the body of young business owner Mir Ali Raza on Saturday found that he had been shot in the back, evidence that ruled out the possibility of suicide. Sources told Dawn that an eight-member medical board that exhumed the body in the presence of a judicial magistrate at the Tariq Road graveyard also found \u201cmultiple injuries on the head and face\u201d and \u201cfractures on the nasal bone and skull\u201d that indicated he might have been subjected to torture before being fatally shot. Raza, owner of eatery Wafflix, had gone missing on July 28. The 25-year-old\u2019s body was found a day later with a gunshot wound in bushes near Shahi Qila Ground in Gulistan-i-Jauhar. While his family is convinced that he was kidnapped, tortured and murdered, investigators probing the incident said they found evidence that strengthened the possibility that he died by suicide. A controversy over flawed autopsy report and investigations compelled Raza\u2019s family to file an application before a judicial magistrate for exhumation of the body for a fresh post-mortem examination. On Saturday, the eight-member board, headed by Police Surgeon Dr Summaiya Syed, in the presence of a magistrate, victim\u2019s family and lawyer and the investigating officer of the case performed the exhumation. The post-mortem examination continued for one hour and fifteen minutes and the body was buried again at around 1:33pm \u201cWe have collected samples for positive identification, chemical analysis and gunshot residue. The cause of death is kept reserved for laboratory reports,\u201d Dr Syed told Dawn . Regarding autopsy, she said that multiple injuries were found on the head and face. \u201cFractured rib on the back which is the entry wound of the gunshot [that] exit from front,\u201d she said. She said the body bore \u201cinjuries in right flank and feet [and] congealed black substance present in mouth and throat\u201d. Lawyer demands new investigation team Later in the evening, lawyer for Raza\u2019s family Advocate Jibran Nasir alleged that the 25-year-old had been tortured before being murdered and demanded that the entire investigation team be replaced. Speaking to the media, he said the medical report of the second post-mortem detailed some of the alleged injuries Raza had sustained before his death. \u201cThis was murder following torture \u2014 the murder of a happy, ambitious and educated young man from Karachi,\u201d he alleged. The lawyer said that Raza had wounds to his forehead and a fractured nose, as well as swelling and congealed blood around his lower jaw, consistent with having been punched. \u201cThere is a fracture to his temple above his ear, indicating he was struck,\u201d he alleged. \u201cIn the tongue area, a congealed black substance was discovered, which is not naturally found in the body. This substance has been taken and sent to a lab to see what he was forced to ingest,\u201d he said. \u201cNow we come to the firearm injury, where it was earlier said that he was shot in the chest and the bullet exited through his back. We have now proven 110 per cent that the bullet entered his back and exited after breaking and fracturing his ribs,\u201d he said, referring to the fresh autopsy. The family\u2019s lawyer also criticised senior police officials, alleging that they \u201cdo not want to investigate, but rather humiliate, above his ear, indicating he was struck,\u201d he alleged. \u201cIn the tongue area, a congealed black substance was discovered, which is not naturally found in the body. This substance has been taken and sent to a lab to see what he was forced to ingest,\u201d he said. \u201cNow we come to the firearm injury, where it was earlier said that he was shot in the chest and the bullet exited through his back. We have now proven 110 per cent that the bullet entered his back and exited after breaking and fracturing his ribs,\u201d he said, referring to the fresh autopsy. The family\u2019s lawyer also criticised senior police officials, alleging that they \u201cdo not want to investigate, but rather humiliate, harass and exhaust the family\u201d. \u201cThey are finding months-old recordings and frustrating, emotionally exhausting and humiliating Mir Hussain and Maryam Hussain. Are you investigating or harassing them? They sat them in their offices and told them repeatedly, \u2018It\u2019s a suicide, accept it\u2019,\u201d the advocate claimed further. Advocate Nasir added that he and the family had \u201cno faith\u201d in the investigation team and that they wanted the entire team changed. Raza\u2019s father, Mir Hussain, told reporters that he had maintained since July 30 that his son\u2019s death was a brutal murder. \u201cWe saw the body and told them [that it was murder], but they kept saying, \u2018Suicide, suicide, suicide,\u2019\u201d he said. Mir Hussain said it \u201cbrought us peace\u201d to learn that their claims that Raza had been attacked before his death were true. \u201cWe have said it was murder from the start,\u201d he added. \u201cWhy are they hiding the killers?\u201d Published in Dawn, August 9th, 2026",
+      "link": "https://www.dawn.com/news/2021595/new-autopsy-finds-mir-ali-raza-was-shot-in-the-back-suffered-multiple-injuries",
+      "source": "Dawn",
+      "image": "https://i.dawn.com/large/2026/08/09102345fdb9aa3.webp",
+      "published": "2026-08-09 05:27:39",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "25-Foot Breach Floods Farmland in Subarnapur; Crops Damaged, Fields Covered in Sand",
+      "description": "#\u0b68\u0b6b_\u0b2b \u0b41\u0b1f\u0b30_\u0b18\u0b3e\u0b07 #\u0b1a \u0b3e\u0b37\u0b1c\u0b2e\u0b3f_\u0b2c\u0b3e\u0b32\u0b3f\u0b1a\u0b30 \u0b2c\u0b30\u0b4d\u0b37\u0b3e\u0b30\u0b47 \u0b2c\u0b41\u0b21\u0b3c\u0b3f\u0b32\u0b3e \u0b1a\u0b3e\u0b37 I \u0b2c\u0b22\u0b3f\u0b32\u0b3e \u0b1a\u0b3e\u0b37\u0b40\u0b19\u0b4d\u0b15 \u0b26\u0b41\u0b30\u0b4d\u0b26\u0b4d\u0b26\u0b36\u0b3e I \u0b32\u0b17\u0b3e\u0b23 \u0b2c\u0b30\u0b4d\u0b37\u0b3e\u0b30\u0b47 \u0b38\u0b41\u0b2c\u0b30\u0b4d\u0b23\u0b4d\u0b23\u0b2a\u0b41\u0b30 \u0b1c\u0b3f\u0b32\u0b4d\u0b32\u0b3e \u0b2c\u0b3f\u0b28\u0b3f\u0b15\u0b3e \u0b24\u0b39\u0b38\u0b3f\u0b32 \u0b15\u0b07\u0b01\u0b28\u0b4d\u0b24\u0b30\u0b3e \u0b2a\u0b1e\u0b4d\u0b1a\u0b3e\u0b5f\u0b24 \u0b2c\u0b3e\u0b1e\u0b4d\u0b1c\u0b3f\u0b2a\u0b3e\u0b32\u0b3f \u0b17\u0b3e\u0b01\u0b30 \u0b36\u0b24\u0b3e\u0b27\u0b3f\u0b15 \u0b0f\u0b15\u0b30 \u0b1a\u0b3e\u0b37 \u0b1c\u0b2e\u0b3f\u0b30\u0b47 \u0b2a\u0b3e\u0b23\u0b3f \u0b1c\u0b2e\u0b3f \u0b30\u0b39\u0b3f\u0b1b\u0b3f\u0964 \u0b24\u0b33\u0b3f \u0b2a\u0b1a\u0b3f\u0b38\u0b22\u0b3c\u0b3f \u0b28\u0b37\u0b4d\u0b1f \u0b39\u0b47\u0b2c\u0b3e\u0b15\u0b41 \u0b2c\u0b38\u0b3f\u0b32\u0b3e\u0b23\u0b3f I \u0b0f\u0b2a\u0b1f\u0b47 \u0b30\u0b3e\u0b38\u0b4d\u0b24\u0b3e\u0b30\u0b47 \u0b68\u0b6b \u0b2b\u0b41\u0b1f\u0b30 \u0b18\u0b3e\u0b07 \u0b38\u0b43\u0b37\u0b4d\u0b1f\u0b3f\u0b39\u0b47\u0b3e\u0b07 \u0b1a\u0b3e\u0b37\u0b1c\u0b2e\u0b3f \u0b2c\u0b3e\u0b32\u0b3f\u0b1a\u0b30 \u0b39\u0b47\u0b3e\u0b07\u0b2f\u0b3e\u0b07\u0b1b\u0b3f I Incessant rain has worsened the plight of farmers in Subarnapur district, with more than 100 acres of farmland in Banjipali village under Kaintara Panchayat of Binika tehsil remaining waterlogged. The paddy seedlings are reportedly rotting and on the verge of being destroyed. Meanwhile, a 25-foot breach has developed on a road, allowing water to affect nearby agricultural land and leaving parts of the fields covered with sand. The situation has raised concerns among farmers over crop losses and further damage to their farmland. #Subarnapur #Binika #FarmerCrisis #CropDamage #OdishaFlood #HeavyRain #FarmlandFlooding #RoadBreach #SandDeposits #OdishaAgriculture #FarmersIssue #OdishaNews #OdishaTV #OTV For latest news updates follow us on WhatsApp: https://whatsapp.com/channel/0029VaYNIW78qIzrtKKZiD3M OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Internet and Mobile. Stay tuned for all the breaking news ! Visit Our Website https://odishatv.in/ News In Odia: http://otvkhabar.in/ Android App: https://bit.ly/OTVAndroidApp iOS App: https://bit.ly/OTViOSApp Watch Live: https://odishatv.in/live-tv YouTube: https://goo.gl/Ehz6OP Watch our latest news in English: https://bit.ly/3wTgKxc Facebook: https://www.facebook.com/otvkhabar OTV English Facebook : https://www.facebook.com/otvnews Telegram @otvtelegram @otvkhabar Twitter: https://twitter.com/otvnews Instagram: https://www.instagram.com/otvnews/ #OdishaTV #OTV",
+      "link": "https://otvkhabar.in/videosodisha/society/25-foot-breach-floods-farmland-in-subarnapur-crops-damaged-fields-covered-in-sand-12244114",
+      "source": "Otv News",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv-khabar/media/youtube_thumbnails/vi/2xd0uPSMmDM/maxresdefault.jpg",
+      "published": "2026-08-09 05:27:39",
       "category": [
         "top",
         "environment"
       ],
       "country": [
-        "united kingdom"
+        "india"
       ]
     },
     {
-      "title": "Serious concerns for new mum and baby in 'mouse-infested' flat block in West Bromwich",
-      "description": "The homeless family looked privately - but found the cheapest rent was \u00a31,200 a month",
-      "link": "https://www.birminghammail.co.uk/black-country/serious-concerns-new-mum-baby-34394875",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34408296.ece/ALTERNATES/s615/1_image-1702410157514613.jpg",
-      "published": "2026-08-09 04:31:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Cambridgeshire prisoner dies after care plan not reviewed for two years",
-      "description": null,
-      "link": "https://www.cambridge-news.co.uk/news/local-news/cambridgeshire-prisoner-dies-after-care-34343243",
-      "source": "Cambridgeshire Live",
-      "image": "https://i2-prod.cambridge-news.co.uk/incoming/article34130947.ece/ALTERNATES/s615/1_HMP-PeterboroughJPG.jpg",
-      "published": "2026-08-09 04:31:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Enforcing the law fairly: Why effective penalties matter",
-      "description": "Learn Key Institute is expanding its educational offering with the opening of its new campus in Msida",
-      "link": "https://timesofmalta.com/article/enforcing-law-fairly-effective-penalties-matter.1132436",
-      "source": "Times Of Malta",
-      "image": "https://cdn-attachments.timesofmalta.com/3b70f174dd8bad2f1a4d3374855cfff9c4ec05f6-1786091801-af306187-1920x1280.jpg",
-      "published": "2026-08-09 04:31:00",
+      "title": "JPSC-JSSC Reform Manch accuses Jharkhand government of trying to derail students\u2019 protest",
+      "description": "Amid ongoing talks with a high-level committee, the JPSC-JSSC Reform Manch has strongly criticised the state government, alleging that it is attempting to undermine and derail the ongoing students\u2019 movement.",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/09/jpsc-jssc-reform-manch-accuses-jharkhand-government-of-trying-to-derail-students-protest",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-09/61fjtudk/1-53-08081-pti08082026000173a.jpg?w=280",
+      "published": "2026-08-09 05:27:37",
       "category": [
         "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Har Ghar Tiranga: V-P Radhakrishnan hoists Tricolour in Sri Vijaya Puram",
+      "description": "Sri Vijaya Puram: Vice President C.P. Radhakrishnan, who is currently on a two-day visit to Andaman and Nicobar Islands, on Sunday hoisted the Tricolour",
+      "link": "https://ommcomnews.com/india-news/har-ghar-tiranga-v-p-radhakrishnan-hoists-tricolour-in-sri-vijaya-puram/",
+      "source": "Odisha News, Odisha Breaking News, Odisha Latest N",
+      "image": "https://ommcomnews.com/wp-content/uploads/2026/08/Vice-president-1.jpg",
+      "published": "2026-08-09 05:27:31",
+      "category": [
         "top",
-        "education"
+        "politics",
+        "lifestyle"
       ],
       "country": [
-        "malta"
+        "india"
       ]
     },
     {
-      "title": "Turkey calls for moratorium on attacks against vessels in Black Sea",
-      "description": "Turkey has called on Ukraine and Russia to establish a mechanism for declaring a moratorium on mutual attacks against vessels in the Black Sea.",
-      "link": "https://www.ukrinform.net/rubric-ato/4152449-turkey-calls-for-moratorium-on-attacks-against-vessels-in-black-sea.html",
-      "source": "Ukrinform",
-      "image": "https://static.ukrinform.com/photos/2025_05/thumb_files/630_360_1748609871-799.jpg",
-      "published": "2026-08-09 04:31:00",
+      "title": "Nagasaki Marks 81 Years Since Atomic Bombing Amid Nuclear Deterrence Debate",
+      "description": "Nagasaki marks 81 years since the US atomic bombing as Japan urges nuclear disarmament amid a growing global debate over nuclear deterrence.",
+      "link": "https://en.tempo.co/read/2117041/nagasaki-marks-81-years-since-atomic-bombing-amid-nuclear-deterrence-debate",
+      "source": "Tempo.co",
+      "image": null,
+      "published": "2026-08-09 05:27:31",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ukraine"
+        "indonesia"
       ]
     },
     {
-      "title": "Over 430 arrested in islandwide crime and drug prevention operations",
-      "description": "Over 430 arrested in islandwide crime and drug prevention operations",
-      "link": "https://adaderana.lk/news/cmslaz1vr0001356qhiczo4bw",
-      "source": "Adaderana News",
-      "image": "https://ada-derana-prod-english-news-temp.s3.amazonaws.com/articles/cmslaz1vr0001356qhiczo4bw/MediaFile_20260809_100059_938.jpg",
-      "published": "2026-08-09 04:31:00",
+      "title": "Jharkhand government to hold fresh talks with protesting students over recruitment exam irregularities",
+      "description": "The decision came after several meetings between government representatives and student organisations on Friday and Saturday failed to break the deadlock.",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/09/jharkhand-government-to-hold-fresh-talks-with-protesting-students-over-recruitment-exam-irregularities",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-09/83b9otkw/PTI08092026000017B.jpg?w=280",
+      "published": "2026-08-09 05:27:28",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Islandwide Police Operations Lead to 437 Arrests",
+      "description": "Islandwide Police Operations Lead to 437 Arrests The post Islandwide Police Operations Lead to 437 Arrests appeared first on LNW Lanka News Web .",
+      "link": "https://lankanewsweb.net/archives/252969/islandwide-police-operations-lead-to-437-arrests/",
+      "source": "Lnw Lanka",
+      "image": "https://lankanewsweb.net/wp-content/uploads/2026/02/arrested-sri-lanka-police-arrest.jpg",
+      "published": "2026-08-09 05:27:22",
       "category": [
         "crime",
         "top"
@@ -94,45 +199,73 @@
       ]
     },
     {
-      "title": "It may be small but this village in West Sussex is historically important",
-      "description": "Henfield is home to the first Scout troop and one of the world\u2019s oldest cricket pitches",
-      "link": "https://www.theargus.co.uk/news/26444002.henfield-small-historically-important-village/",
-      "source": "The Argus",
-      "image": "https://www.theargus.co.uk/resources/images/21068567/",
-      "published": "2026-08-09 04:31:00",
+      "title": "Air India turbulence probe takes new turn: Pilot reportedly tests positive in dope test",
+      "description": "A reported positive dope-test result involving the captain of Air India's turbulence-hit Phuket-Delhi flight has added a new angle to the DGCA probe, but Air India says it has not received the test results.",
+      "link": "https://english.mathrubhumi.com/news/india/air-india-phuket-delhi-flight-captain-dope-test-report-nt6u6kcf",
+      "source": "Mathrubhumi English",
+      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1szxhc0jqfz9go5vi38/0/air-india-turbulence-jpg.webp?$p=f162f31&f=16:9&w=1200&q=1",
+      "published": "2026-08-09 05:27:21",
       "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "GeM enters 11th year, connects over 1.37 lakh government buyer organisations with 25 lakh sellers",
-      "description": "Government e-Marketplace (GeM) has entered its 11th year, connecting over 1.37 lakh government buyer organisations with nearly 25 lakh sellers and service providers, facilitating procurement worth more than \u20b920 lakh crore.",
-      "link": "https://www.thehansindia.com/news/national/gem-enters-11th-year-connects-over-137-lakh-government-buyer-organisations-with-25-lakh-sellers-1107151",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/08/09/1687213-gem.webp",
-      "published": "2026-08-09 04:31:00",
-      "category": [
-        "top",
-        "business"
+        "crime",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Bihar: Over 100 fall ill in Saharsa village with unknown illness",
-      "description": "Over 100 people in Bihar's Saharsa district have fallen sick with vomiting, diarrhoea, and fever. Health officials confirmed that a few children are in serious condition and are being moved to a hospital. The cause of the illness is being investigated.",
-      "link": "https://newsable.asianetnews.com/india/bihar-over-100-fall-ill-in-saharsa-village-with-unknown-illness-articleshow-hpb0xsd",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-5a4e6f12-ff96-494d-be3e-2c51f96080a7.jpg",
-      "published": "2026-08-09 04:30:59",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "description": "Oman has said positive talks have been taking place with Iran over an agreement to secure a shipping route through the Strait of Hormuz, as Tehran warned that any deal would not see an immediate reopening of the vital waterway. Both sides suggested on Saturday that discussions were progressing, but a timeline on any deal [...]",
+      "link": "http://island.lk/hormuz-talks-positive-oman-says-as-iran-warns-deal-would-not-open-strait/",
+      "source": "The Island",
+      "image": null,
+      "published": "2026-08-09 05:27:19",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Jairam Ramesh backs Tribunal Reforms Bill and calls for Great Nicobar Project report release",
+      "description": "Jairam Ramesh welcomes the Tribunal Reforms Bill, 2026, urging the NGT to release the Great Nicobar Project report, following the Supreme Court's 2025 judgment.",
+      "link": "https://thenewsmill.com/2026/08/jairam-ramesh-backs-tribunal-reforms-bill-and-calls-for-great-nicobar-project-report-release/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/08/jairam-ramesh-backs-tribunal-reforms-bill-and-calls-for-great-nicobar-project-report-release.jpg",
+      "published": "2026-08-09 05:27:17",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Kerala: NIA arrests one more in Malappuram explosives case",
+      "description": "Kerala: NIA arrests one more in Malappuram explosives case Malappuram: The National Investigation Agency (NIA) has arrested another accused, identified as Haris TA, in connection with the seizure of a huge consignment of illegal explosives in Kerala\u2019s Malappuram district, taking the total number of arrests in the case to ten, officials said on Sunday. According [...] The post Kerala: NIA arrests one more in Malappuram explosives case appeared first on Mangalorean.com .",
+      "link": "https://www.mangalorean.com/kerala-nia-arrests-one-more-in-malappuram-explosives-case/",
+      "source": "Mangalorean",
+      "image": "https://i0.wp.com/www.mangalorean.com/wp-content/uploads/2026/08/202608093896965.png?fit=450%2C304&#038;ssl=1",
+      "published": "2026-08-09 05:27:15",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Three cancers that should never be poked (biopsied)",
+      "description": "Health experts have cautioned that biopsy may carry risks in certain suspected cancers, potentially spreading malignant cells. Dr Priyam Bordoloi highlighted testicular cancer, Wilms tumour in children and ovarian cancer as cases requiring careful diagnostic approaches, with treatment decisions guided by specialists",
+      "link": "https://telanganatoday.com/three-cancers-that-should-never-be-poked-biopsied",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Cancer-1.jpeg",
+      "published": "2026-08-09 05:27:15",
       "category": [
         "top",
-        "crime",
         "health"
       ],
       "country": [
@@ -140,213 +273,18 @@
       ]
     },
     {
-      "title": "Jetstar and Qatar Airways near collision at Sydney Airport under investigation by Australian Transport Safety Bureau",
-      "description": "Safety regulators are investigating a near collision between two passenger aircraft at Sydney Airport. A Jetstar pilot braked suddenly, avoiding a Qatar Airways jet under tow. One Jetstar cabin crew member sustained injuries during the abrupt stop. Investigations are underway to determine the cause of the incident. Flights at Sydney Airport are currently experiencing operational delays.",
-      "link": "https://economictimes.indiatimes.com/news/international/world-news/jetstar-and-qatar-airways-near-collision-at-sydney-airport-under-investigation-by-australian-transport-safety-bureau/articleshow/133062223.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-133062258,resizemode-4,width-1200,height-900,imgsize-69682,overlay-economictimes/articleshow.jpg",
-      "published": "2026-08-09 04:30:58",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Mohali: From a village to an edu-city with chaos on roads",
-      "description": "Six kilometres. That is the distance from my house in Sector 66-A, Mohali, to Shahid Bhagat Singh International Airport. On a good day, it takes 15 to 20 minutes to reach there. But between 6 and 7 most evenings, it literally stops for over an hour, sometimes more, as traffic backs up along the lone [...]",
-      "link": "https://www.tribuneindia.com/news/shaharnama/mohali-from-a-village-to-an-edu-city-with-chaos-on-roads",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/08/6a772523bf364-Mohali.jpg",
-      "published": "2026-08-09 04:30:58",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "WNBA commissioner says league task force will discuss trans athlete participation",
-      "description": "Indiana Fever player Sophie Cunningham has publicly advocated to ban trans athletes from competing in the league.",
-      "link": "https://www.kron4.com/news/national/wnba-commissioner-says-league-task-force-will-discuss-trans-athlete-participation/",
-      "source": "Kron4",
-      "image": "https://www.kron4.com/wp-content/uploads/sites/11/2026/08/69baccd416a504.51593059-e1786249619947.jpeg?w=900",
-      "published": "2026-08-09 04:30:57",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Teenage sensation Katiso targets a personal best",
-      "description": "Mpho Katiso will be one of the exciting young athletes to watch at the Absa Run Your City Tshwane 10km in two weeks\u2019 time. With the likes of Mzansi\u2019s top runners Glenrose Xaba and Tayla Kavanagh increasingly making their mark internationally, Katiso is determined to seize her opportunity. The 19-year-old 1 500m specialist who completed her schooling at Prestige College in the nation\u2019s capital last year, is excited to make her Run Your City series debut in front of the Union Buildings. \u201cI have never competed in any of these series and races before,\u201d says Katiso. \u201cBut I\u2019d love to be there to feel the huge energy of a big race on a fast course. I\u2019m looking forward to competing against the top elites again.\u201d Now a student at the Tshwane University of Technology, Katiso has joined Violet and Caster Semenya\u2019s coaching setup which boasts the likes of Xaba, reigning African Championships 1 500m gold medalist Karabo More and 2024 FISU World University Championships Cross Country Champion Karabo Mailula \u2013 making it South Africa\u2019s foremost female-only training group. \u201cBeing part of coach Caster and Violet\u2019s training group feels hard, but it\u2019s also inspiring because you get mentorship, focus, discipline and you also learn to believe in yourself. I\u2019m growing as a person and not just as an athlete. Glenrose, Karabo More and Karabo Mailula are more like sisters to me not training partners because we stick together and push each other. Training with them encourages me and I\u2019ve learnt to show up even when it\u2019s hard.\u201d Katiso, who is the owner of a 4:27.92 1 500m personal best and produced a lifetime best 16:48 to grab the bronze medal at the national 5km championships in Gqeberha in June, is aiming to use it as a springboard to improve on the 36:52 she clocked when she finished in 13th position and as the first junior at the Spar Women\u2019s Challenge in Tshwane on August 1. \u201cMy target for the Tshwane 10km is to run a PB \u2013 and not just any PB, I\u2019ll be targeting a massive PB,\u201d she added.",
-      "link": "https://sundayworld.co.za/sports/teenage-sensation-katiso-targets-a-personal-best/",
-      "source": "Sunday World",
-      "image": "https://sundayworld.co.za/wp-content/uploads/2023/07/P23-Glenrose-Xaba--e1689150165838.jpg",
-      "published": "2026-08-09 04:30:56",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "City of Albuquerque expands Fix It Clinic to fight waste, promote sustainability",
-      "description": "Albuquerque's annual Fix It Clinic brought 25 experts together and helped more than 200 people save over 400 broken items from the trash. The post City of Albuquerque expands Fix It Clinic to fight waste, promote sustainability appeared first on KOB 4 .",
-      "link": "https://www.kob.com/new-mexico/city-of-albuquerque-expands-fix-it-clinic-to-fight-waste-promote-sustainability/",
-      "source": "Kob 4",
-      "image": "https://www.kob.com/wp-content/uploads/2026/08/City-of-Albuquerque-expands-Fix-It-Clinic-to-fight-waste-promote-sustainability.jpg",
-      "published": "2026-08-09 04:30:56",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "A rare glimpse into Tibet, where some hope to preserve cultural identity",
-      "description": "This year, China is marking the 75th anniversary of what it calls the \"peaceful liberation\" of Tibet \u2014 an event many Tibetans in exile regard as an invasion.",
-      "link": "https://www.1news.co.nz/2026/08/09/a-rare-glimpse-into-tibet-where-some-hope-to-preserve-cultural-identity/",
-      "source": "1news",
-      "image": "https://www.1news.co.nz/resizer/v2/W2KOG3ONQFG4PHLZ6WTEZ7R2NA.jpg?auth=34fa89721c95c172f3c8b2bb961577a0e77a2016a584842d3e298c3303653d4c&smart=true&width=8033&height=5355",
-      "published": "2026-08-09 04:30:56",
+      "title": "Today marks International Day of World's Indigenous Peoples",
+      "description": "Kathmandu, Aug 9: Today marks the International Day of the World's Indigenous Peoples. It's estimated that there are aro...",
+      "link": "https://risingnepaldaily.com/news/84773",
+      "source": "The Rising Nepal",
+      "image": "https://risingnepaldaily.com/storage/media/107613/internatioanl-day1.jpeg",
+      "published": "2026-08-09 05:27:15",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "Avore e-bikes launched: Up to 114 kmph top speed, 260 km range |",
-      "description": "Gujarat-based EV startup Avore Electric has entered the Indian electric motorcycle segment with the launch of its first product lineup, the EX series. The new range comprises three models: EX1, EX2 and EX2S, with introductory prices starting at Rs 1.24 lakh, ex-showroom. The launch offer is valid for the first 10,000 customers, after which the [...]",
-      "link": "https://www.ebmnews.com/2026/08/09/avore-e-bikes-launched-up-to-114-kmph-top-speed-260-km-range/",
-      "source": "Ebm News English",
-      "image": "https://www.ebmnews.com/wp-content/uploads/2026/08/Avore-e-bikes-launched-Up-to-114-kmph-top-speed-260.jpg",
-      "published": "2026-08-09 04:30:53",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Messi returns to Rosario to bid final farewell to father Jorge Messi",
-      "description": null,
-      "link": "https://www.daily-sun.com/sports/891278",
-      "source": "Daily Sun",
-      "image": null,
-      "published": "2026-08-09 04:30:53",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "Renting out office for PFI doesn\u2019t make it \u2018proceeds of terrorism\u2019: NIA court in Kerala",
-      "description": "The petitioners submitted that the rental income from the property was their only source of livelihood and that they had no connection with the banned organisation, including the PFI.",
-      "link": "https://www.newindianexpress.com/states/kerala/2026/Aug/09/renting-out-office-for-pfi-doesnt-make-it-proceeds-of-terrorism-nia-court-in-kerala",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2024-04/84f38043-f8bc-4844-87ee-91b255c7c10b/ANI_20240424135040.jpeg?w=280",
-      "published": "2026-08-09 04:30:48",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Morgan Stanley on how to spot the 'madness of crowds' in markets",
-      "description": "A Morgan Stanley report advises investors to scrutinize periods of strong consensus. It highlights that extreme sentiment, sharp price moves, and elevated valuations can signal a market's shift from 'wisdom' to the 'madness' of crowds.",
-      "link": "https://newsable.asianetnews.com/business/morgan-stanley-on-how-to-spot-the-madness-of-crowds-in-markets-articleshow-547glyv",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-a5d8d989-076b-439a-a297-dd2fd7251294.jpg",
-      "published": "2026-08-09 04:30:47",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Bulandshahr encounter: Man accused of rape, murder of minor killed",
-      "description": "A wanted accused in the rape and murder of a minor girl was killed in a police encounter in Bulandshahr, Uttar Pradesh. Police said two suspects on a motorcycle opened fire first, injuring two officers, before they returned fire in self-defence.",
-      "link": "https://newsable.asianetnews.com/india/bulandshahr-encounter-man-accused-of-rape-murder-of-minor-killed-articleshow-e243a76",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-0e3a902c-b215-4496-91fc-ba4f3056f9c3.jpg",
-      "published": "2026-08-09 04:30:46",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Haryana Congress trains workers on SIR process",
-      "description": "The Haryana Pradesh Congress Committee organised a state-level workshop focussing on the Special Intensive Revision (SIR) of electoral rolls in Sonepat on Saturday. The party leaders said the booth-level workers had been directed to ensure that no eligible citizens is lift out of the voter lists. Former Chief Minister and Leader of Opposition Bhupinder Singh [...]",
-      "link": "https://www.tribuneindia.com/news/haryana/haryana-congress-trains-workers-on-sir-process",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/04/69e071bedfc97-iStock-1434437996.jpg",
-      "published": "2026-08-09 04:30:43",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Pleasant Green Baptist Church gives away 2,000 pairs of shoes to kick off the school year",
-      "description": "Pleasant Green Baptist Church is hosting its 5th annual back-to-school shoe giveaway, distributing 2,000 pairs of new shoes to local children today from noon to 4 p.m",
-      "link": "https://www.3newsnow.com/north-omaha/pleasant-green-baptist-church-gives-away-2-000-pairs-of-shoes-to-kick-off-the-school-year",
-      "source": "Kmtv 3 News Now Omaha",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/b66c0ed/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F23%2F1d%2Fe5dfb92948369838a7e977bef96a%2Fposter-image-2026-08-08t232323-953.jpg",
-      "published": "2026-08-09 04:30:41",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Karnataka forms ex-Chief Justice-led panel to review Bidadi Township",
-      "description": "The four-member panel, headed by retired High Court judge Justice Guhanathan Narendar, will examine concerns over the 7,481-acre township project and submit its report within 30 days.",
-      "link": "https://www.thenewsminute.com/karnataka/karnataka-forms-ex-chief-justice-led-panel-to-review-bidadi-township",
-      "source": "The News Minute",
-      "image": "https://cf-images.assettype.com/thenewsminute%2F2026-08-09%2F98iykwwv%2FDKS.jpeg?rect=0%2C818%2C1366%2C768&w=1200&h=675&auto=format%2Ccompress&fit=crop",
-      "published": "2026-08-09 04:30:40",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
+        "nepal"
       ]
     }
   ]

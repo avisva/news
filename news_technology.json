@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Absa Deploys AI to Speed Up Debt Review Process",
+      "description": "Absa has deployed an artificial intelligence and Optical Character Recognition (OCR) solution within its Debt Review operations, cutting document-processing times and reducing the amount of manual work required from employees. Since the system went live in late June, the bank says document indexing efficiency has improved by 41%, with new documents and emails now processed [...]",
+      "link": "https://www.itnewsafrica.com/2026/08/absa-deploys-ai-to-speed-up-debt-review-process/",
+      "source": "It News Africa",
+      "image": "https://www.itnewsafrica.com/wp-content/uploads/2026/08/ABSA.jpg",
+      "published": "2026-08-10 06:53:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "south africa"
+      ]
+    }
+  ]
 }

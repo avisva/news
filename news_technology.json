@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Car giant walks back \u2018super woke\u2019 rebrand",
+      "description": "Speed and heritage are back in fashion at Jaguar, nearly two years after its highly controversial rebrand that was slammed as \u2018woke\u2019 in an on-going culture war.",
+      "link": "https://www.news.com.au/technology/motoring/luxury/jaguar-reboots-to-focus-on-speed/news-story/c5d93f72c6ffea4f200d1dfff5b5d74a",
+      "source": "News",
+      "image": "https://content.api.news/v3/images/bin/3e34f1ba23ae7161cf96d09af0fe596a",
+      "published": "2026-08-09 21:16:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Mundubile defends Mpundu\u2019s viral video as AI-generated.... political commentators slam the opposition leader\u2019s defense as a \u2018blue lie\u2019 after tech specialists point to real-time physical reflections as definitive proof of validity",
+      "description": "Mundubile defends Mpundu\u2019s viral video as AI-generated.... political commentators slam the opposition leader\u2019s defense as a \u2018blue lie\u2019 after tech specialists point to real-time physical reflections as definitive proof of validity By DAVID KANDUZAA FIERCE political storm has erupted following claims by opposition leader Brian Mundubile that a controversial viral video featuring Binwell Mpundu was [...] The post Mundubile defends Mpundu\u2019s viral video as AI-generated.... political commentators slam the opposition leader\u2019s defense as a \u2018blue lie\u2019 after tech specialists point to real-time physical reflections as definitive proof of validity first appeared on The Zambian Observer .",
+      "link": "https://zambianobserver.com/mundubile-defends-mpundus-viral-video-as-ai-generated-political-commentators-slam-the-opposition-leaders-defense-as-a-blue-lie-after-tech-specialists-point-to-real-time-physical-reflection/",
+      "source": "The Zambian Observer - The Zambian Observer - Late",
+      "image": "https://zambianobserver.com/wp-content/uploads/2026/08/1786310108492.jpg",
+      "published": "2026-08-09 21:16:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "zambia"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Tossing and turning at night? Endocrinologist suggests this simple bedtime trick to fall asleep faster",
+      "description": "If you are unable to sleep, try adopting this bedtime routine to be able to drift off quicker.",
+      "link": "https://www.hindustantimes.com/lifestyle/health/tossing-and-turning-at-night-endocrinologist-suggests-this-simple-bedtime-trick-to-fall-asleep-faster-101786331530224.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/period_insomnia_AdobeStock_531295017_1726659265962_1786336519110_dbcdc552-ef2c-479a-a363-2c76ee8c8281.jpeg",
+      "published": "2026-08-10 04:58:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

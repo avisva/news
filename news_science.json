@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "When and where to see the solar eclipse in London",
+      "description": "What you need to know about the solar eclipse on 12 August and the best viewing spots in London.",
+      "link": "https://www.bbc.co.uk/news/articles/c62x3pyrxrmo",
+      "source": "The Bbc",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e9/live/b656b440-925f-11f1-b9ff-37ae3aba3894.jpg",
+      "published": "2026-08-10 04:57:32",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "When and where to see the solar eclipse in London - BBC",
+      "description": "When and where to see the solar eclipse in London BBC See more headlines and perspectives on Google News",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qbzl6SXp3SmU4UUxzakV2ZG5GUlBZc1p1MHAwU2hlZThObkFWdVcyZ0lKNzhtdnN6Y3VtY1UxTWtpaWhDZkdtOHVzWTE1QVZ5UjN3dzlHd2pYYVRw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-10 04:57:32",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Roads in Parasnath",
-      "description": "\u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0947\u0902 \u0935\u093f\u0915\u093e\u0938 \u0915\u0947 \u0926\u094b \u092a\u0939\u0932\u0942 \u0939\u0948\u0902. \u090f\u0915 \u0924\u0930\u092b \u0921\u093f\u092e\u093e\u0902\u0921 \u092a\u0930 \u0911\u0928-\u0926-\u0938\u094d\u092a\u0949\u091f \u0938\u0941\u0928\u0935\u093e\u0908 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948. \u0926\u0942\u0938\u0930\u0940 \u0924\u0930\u092b \u0915\u094b\u0908 \u0938\u0941\u0928\u0928\u0947 \u0935\u093e\u0932\u093e \u0939\u0940 \u0928\u0939\u0940\u0902.",
-      "link": "https://www.etvbharat.com/hi/state/jharkhand-government-stance-regarding-demands-for-roads-across-different-areas-of-giridih-jhs26080902770",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/09-08-2026/1200-675-27350661-thumbnail-16x9-girir.jpg",
-      "published": "2026-08-09 11:27:29",
+      "title": "Chhattisgarh tiger reserve deploys hi-tech landscape security; dismantles organised crime syndicate",
+      "description": "The USTR has used modern technology to dismantle organised crime networks spanning poaching, illegal arms manufacturing, narcotics trafficking, timber smuggling, and land encroachment.",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/09/chhattisgarh-tiger-reserve-deploys-hi-tech-landscape-security-dismantles-organised-crime-syndicate",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-09/b726madr/Screenshot20260809184132WhatsApp.jpg?w=280",
+      "published": "2026-08-09 13:35:39",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "What is Arbileo Advisory: Navigating the digital shadows and How they protect you",
+      "description": "Navigating the Digital Shadows: What is Arbileo Advisory and How Does It Protect You?In an era where our lives, finances, and businesses are inextricably linked to the digital realm, the dark side of technology has evolved at a staggering pace. Cybercrime is no longer limited to isolated phishing emails or simple malware; it has matured [...] Read the full article on TechBullion.",
+      "link": "https://techbullion.com/what-is-arbileo-advisory-navigating-the-digital-shadows-and-how-they-protect-you/",
+      "source": "Techbullion",
+      "image": "https://techbullion.com/wp-content/uploads/2026/08/Screenshot_2026-08-09-18-32-01-61_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg",
+      "published": "2026-08-09 13:35:29",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

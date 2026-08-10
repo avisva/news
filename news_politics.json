@@ -1,49 +1,51 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "'Peace first, war later': Arab state urged potential Israel partner to sign peace deal before launching war",
-      "description": "Arab state reportedly urged another potential Israel-normalization country to sign peace deal, then go to war \u2018when time is right\u2019",
-      "link": "https://www.i24news.tv/en/news/middle-east/artc-peace-first-war-later-arab-state-urged-potential-israel-partner-to-sign-peace-deal-before-launching-war",
-      "source": "I24news",
-      "image": "https://cdn.i24news.tv/uploads/14/00/da/16/05/9e/79/93/73/fe/da/ef/a3/d1/0e/6a/1400da16059e799373fedaefa3d10e6a.png",
-      "published": "2026-08-10 07:52:56",
+      "title": "A blocked Iranian flight to Yemen set off Houthis\u2019 latest spiral with Saudi Arabia",
+      "description": "The escalation risks drawing Yemen into a broader regional conflict.",
+      "link": "https://www.redlandsdailyfacts.com/2026/08/10/iranian-flight-yemen-houthis-saudi-arabia/",
+      "source": "Redlands Daily Facts",
+      "image": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/08/Mideast_Wars_Yemen__4351_21081a-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-10 08:39:00",
       "category": [
+        "crime",
         "politics",
         "top"
       ],
       "country": [
-        "syria",
-        "united arab emirates",
-        "france",
-        "iran",
-        "iraq",
-        "palestine",
-        "germany",
-        "israel",
-        "united states of america",
-        "united kingdom",
-        "jordan",
-        "lebanon",
-        "saudi arabia",
-        "egypt"
+        "united states of america"
       ]
     },
     {
-      "title": "Amirudin Shari: Pakatan open to working with Bersatu, Perikatan if stability maintained",
-      "description": "BANGI, Aug 10 \u2014 Pakatan Harapan (PH) prioritises political stability and the people\u2019s interests when conside...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/10/amirudin-shari-pakatan-open-to-working-with-bersatu-perikatan-if-stability-maintained/230832",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/10/356378.jpg",
-      "published": "2026-08-10 07:52:52",
+      "title": "Isamaa, EKRE and Center agree on new Pa\u0308rnu coalition",
+      "description": "Isamaa, EKRE and the Center Party have reached an agreement to form a new governing coalition in Pa\u0308rnu, Pa\u0308rnu City Council Chair Andrei Korobeinik said.",
+      "link": "https://news.err.ee/1610106622/isamaa-ekre-and-center-agree-on-new-parnu-coalition",
+      "source": "Err",
+      "image": "https://s.err.ee/photo/crop/2025/11/10/3083043h570ct4.jpg",
+      "published": "2026-08-10 08:39:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "malaysia",
-        "singapore"
+        "estonia"
+      ]
+    },
+    {
+      "title": "Mass resignation hits CINTAA: Why eight members quit the Poonam Dhillon-led actors body",
+      "description": "CINTAA General Secretary Upasana Singh said that eight of the 11 executive committee members have accused Poonam Dhillon and Padmini Kolhapure of misusing their positions.",
+      "link": "https://indianexpress.com/article/entertainment/bollywood/mass-resignation-hits-cintaa-why-eight-members-quit-the-poonam-dhillon-led-actors-body-10826013/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/08/Padmini-Kolhapure-Poonam-Dhillon.jpg",
+      "published": "2026-08-10 08:38:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

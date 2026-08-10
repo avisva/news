@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Swine flu outbreak sweeps through Delhi-NCR: Capital logs over 1,300 cases of H1N1 virus \u2013 Symptoms, and who is at high risk?",
+      "description": "H1N1 is a type of influenza virus that causes a respiratory infection. It is commonly known as swine flu. The virus mainly affects the nose, throat and lungs and can spread when an infected person coughs, sneezes or comes into close contact with others.",
+      "link": "https://www.thehealthsite.com/news/swine-flu-outbreak-sweeps-through-delhi-ncr-capital-logs-over-1300-cases-of-h1n1-virus-symptoms-and-who-is-at-high-risk-1337348/",
+      "source": "Thehealthsite",
+      "image": "https://st1.thehealthsite.com/wp-content/uploads/2026/08/H1N1-outbreak-in-Delhi.jpg",
+      "published": "2026-08-10 09:37:53",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,16 +1,30 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Car giant walks back \u2018super woke\u2019 rebrand",
-      "description": "Speed and heritage are back in fashion at Jaguar, nearly two years after its highly controversial rebrand that was slammed as \u2018woke\u2019 in an on-going culture war.",
-      "link": "https://www.news.com.au/technology/motoring/luxury/jaguar-reboots-to-focus-on-speed/news-story/c5d93f72c6ffea4f200d1dfff5b5d74a",
-      "source": "News",
-      "image": "https://content.api.news/v3/images/bin/3e34f1ba23ae7161cf96d09af0fe596a",
-      "published": "2026-08-09 21:16:00",
+      "title": "Pead: AI search transition reshaping corporate reputation",
+      "description": "AI-generated answers are already shaping public perceptions, forcing firms to manage reputation across trusted third-party sources instead of search rankings.",
+      "link": "https://cfotech.co.nz/story/pead-ai-search-transition-reshaping-corporate-reputation",
+      "source": "Cfotech New Zealand",
+      "image": "https://cfotech.co.nz/uploads/story/2026/08/06/compatible_Jack_Wheeler-story-314293.jpg",
+      "published": "2026-08-09 23:05:00",
       "category": [
         "top",
+        "technology"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Experts find AI agents can be tricked into 'remembering' fake facts for months \u2014 so how do we stop it?",
+      "description": "Hidden text on a webpage can become a fact your AI assistant \"remembers\" and acts on weeks later.",
+      "link": "https://www.techradar.com/pro/security/experts-find-ai-agents-can-be-tricked-into-remembering-fake-facts-for-months-so-how-do-we-stop-it",
+      "source": "Techradar Au",
+      "image": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-1280-80.jpg",
+      "published": "2026-08-09 23:05:00",
+      "category": [
         "technology"
       ],
       "country": [
@@ -18,18 +32,17 @@
       ]
     },
     {
-      "title": "Mundubile defends Mpundu\u2019s viral video as AI-generated.... political commentators slam the opposition leader\u2019s defense as a \u2018blue lie\u2019 after tech specialists point to real-time physical reflections as definitive proof of validity",
-      "description": "Mundubile defends Mpundu\u2019s viral video as AI-generated.... political commentators slam the opposition leader\u2019s defense as a \u2018blue lie\u2019 after tech specialists point to real-time physical reflections as definitive proof of validity By DAVID KANDUZAA FIERCE political storm has erupted following claims by opposition leader Brian Mundubile that a controversial viral video featuring Binwell Mpundu was [...] The post Mundubile defends Mpundu\u2019s viral video as AI-generated.... political commentators slam the opposition leader\u2019s defense as a \u2018blue lie\u2019 after tech specialists point to real-time physical reflections as definitive proof of validity first appeared on The Zambian Observer .",
-      "link": "https://zambianobserver.com/mundubile-defends-mpundus-viral-video-as-ai-generated-political-commentators-slam-the-opposition-leaders-defense-as-a-blue-lie-after-tech-specialists-point-to-real-time-physical-reflection/",
-      "source": "The Zambian Observer - The Zambian Observer - Late",
-      "image": "https://zambianobserver.com/wp-content/uploads/2026/08/1786310108492.jpg",
-      "published": "2026-08-09 21:16:00",
+      "title": "Cars.com Q2 Earnings Call Highlights",
+      "description": "Cars.com (NYSE:CARS) reported second-quarter revenue growth and higher profitability as marketplace subscription gains offset a decline in OEM and national advertising revenue, while management reaffirmed its full-year outlook. Revenue for the quarter totaled $179.9 million, up 1% from a year earlier and within the company\u2019s guidance range. Dealer revenue increased 3% year over year, supported [...]",
+      "link": "https://www.thelincolnianonline.com/2026/08/09/cars-com-q2-earnings-call-highlights.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/carscom-inc-logo-1200x675.jpg",
+      "published": "2026-08-09 23:04:57",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "zambia"
+        "united states of america"
       ]
     }
   ]

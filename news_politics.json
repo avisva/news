@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "'Peace first, war later': Arab state urged potential Israel partner to sign peace deal before launching war",
+      "description": "Arab state reportedly urged another potential Israel-normalization country to sign peace deal, then go to war \u2018when time is right\u2019",
+      "link": "https://www.i24news.tv/en/news/middle-east/artc-peace-first-war-later-arab-state-urged-potential-israel-partner-to-sign-peace-deal-before-launching-war",
+      "source": "I24news",
+      "image": "https://cdn.i24news.tv/uploads/14/00/da/16/05/9e/79/93/73/fe/da/ef/a3/d1/0e/6a/1400da16059e799373fedaefa3d10e6a.png",
+      "published": "2026-08-10 07:52:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "syria",
+        "united arab emirates",
+        "france",
+        "iran",
+        "iraq",
+        "palestine",
+        "germany",
+        "israel",
+        "united states of america",
+        "united kingdom",
+        "jordan",
+        "lebanon",
+        "saudi arabia",
+        "egypt"
+      ]
+    },
+    {
+      "title": "Amirudin Shari: Pakatan open to working with Bersatu, Perikatan if stability maintained",
+      "description": "BANGI, Aug 10 \u2014 Pakatan Harapan (PH) prioritises political stability and the people\u2019s interests when conside...",
+      "link": "https://www.malaymail.com/news/malaysia/2026/08/10/amirudin-shari-pakatan-open-to-working-with-bersatu-perikatan-if-stability-maintained/230832",
+      "source": "Malay Mail",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/10/356378.jpg",
+      "published": "2026-08-10 07:52:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "malaysia",
+        "singapore"
+      ]
+    }
+  ]
 }

@@ -1,19 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Absa Deploys AI to Speed Up Debt Review Process",
-      "description": "Absa has deployed an artificial intelligence and Optical Character Recognition (OCR) solution within its Debt Review operations, cutting document-processing times and reducing the amount of manual work required from employees. Since the system went live in late June, the bank says document indexing efficiency has improved by 41%, with new documents and emails now processed [...]",
-      "link": "https://www.itnewsafrica.com/2026/08/absa-deploys-ai-to-speed-up-debt-review-process/",
-      "source": "It News Africa",
-      "image": "https://www.itnewsafrica.com/wp-content/uploads/2026/08/ABSA.jpg",
-      "published": "2026-08-10 06:53:00",
+      "title": "An Oil Giant Is Ripping Out Its Gas Pumps To Install BYD\u2019s 1,500kW Flash Chargers",
+      "description": "BYD and oil giant Sinopec are converting old gas stations into 1,500 kW Flash Charging hubs that refill an EV in nine minutes",
+      "link": "https://www.carscoops.com/2026/08/byd-sinopec-charging-stations/",
+      "source": "Carscoops",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/BYD-Flash-Charging-Sinopec-4-vtr-f.jpg",
+      "published": "2026-08-10 07:53:00",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "south africa"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Can hotel Wi-Fi really record your screen and audio? What Microsoft actually warned about",
+      "description": "A viral claim says hotel Wi-Fi can record a traveller\u2019s screen and audio, but Microsoft\u2019s guidance does not make that claim. Its security advice focuses on fake hotspots, open networks and ransomware attacks against vulnerable systems.",
+      "link": "https://www.news9live.com/technology/tech-news/hotel-wifi-record-screen-audio-microsoft-warning-truth-2998032",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/viral-hotel-wifi-warning-microsoft-cybersecurity-truth.png",
+      "published": "2026-08-10 07:53:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Moburst reveals AI-powered mobile growth playbook following record campaign performance milestones",
+      "description": "NEW YORK & TEL AVIV, August 10, 2026 Moburst, a global mobile App marketing agency specializing in creative strategy, performance marketing, and data science, has published its integrated framework for mobile application growth in the AI era. The announcement follows recently published performance metrics with technology partner Sprout Social, demonstrating campaign goal overachievements of up [...] This story continues at The Next Web",
+      "link": "https://thenextweb.com/news/moburst-ai-powered-mobile-growth-playbook",
+      "source": "Tnw",
+      "image": "https://media.thenextweb.com/2026/08/moburst-ai-powered-mobile-growth-playbook.avif",
+      "published": "2026-08-10 07:52:58",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

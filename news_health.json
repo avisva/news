@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Letter to the Editor: Sugar tax has failed to reverse obesity",
-      "description": "Dear Sir, When the sugar tax was introduced with great fanfare, Bermudians were promised a double victory: a healthier population and a government weaponising tax policy to defeat chronic disease. We ...",
-      "link": "https://www.royalgazette.com/letters-to-the-editor/opinion/article/20260810/letter-to-the-editor-sugar-tax-has-failed-to-reverse-obesity/",
-      "source": "Royal Gazette",
-      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=92245a67-3403-5e64-9f82-d64d78d2d4d0&type=preview&width=600",
-      "published": "2026-08-10 06:53:00",
+      "title": "H1N1 cases surge nearly 6-fold in Delhi: What causes swine flu, precautions and how to rebuild immunity",
+      "description": "Delhi has reported a nearly six-fold rise in H1N1 cases this season. Know the symptoms, warning signs, precautions, vaccination and treatment options, and how proper nutrition, rest and hydration can support recovery and immunity.",
+      "link": "https://www.news9live.com/health/delhi-h1n1-surge-symptoms-prevention-treatment-2998037",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/Rising-H1N1-cases-in-Delhi.png",
+      "published": "2026-08-10 07:53:00",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "bermuda"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "75-year-old with Parkinson\u2019s and life-threatening heart rhythm disorder undergoes simultaneous brain and heart implant surgery in Bengaluru",
+      "description": "In a groundbreaking procedure in Bengaluru, a 75-year-old man underwent simultaneous deep brain stimulation (DBS) surgery along with the installation of a leadless pacemaker. This unique approach tackled both his Parkinson's disease and a severe heart rhythm disorder. By integrating these two intricate surgeries, doctors minimized risks tied to dual implants, leading to marked improvements in the patient's movement and cardiovascular health after just one session.",
+      "link": "https://timesofindia.indiatimes.com/health/75-year-old-with-parkinsons-and-life-threatening-heart-rhythm-disorder-undergoes-rare-simultaneous-brain-and-heart-implant-surgery-in-bengaluru/articleshow/133090577.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133090732/133090732.jpg",
+      "published": "2026-08-10 07:52:56",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

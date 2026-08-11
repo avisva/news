@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "PizzaExpress Opens 38th Restaurant in India at Aerocity",
+      "description": null,
+      "link": "https://hospitalitynews.in/news/pizzaexpress-opens-38th-india-restaurant-at-5-worldmark-aerocity",
+      "source": "Hospitalitynews",
+      "image": "https://hospitalitynews.in/uploads/images/202608/image_870x580_6a79d3ae2b995.jpg",
+      "published": "2026-08-10 21:56:57",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

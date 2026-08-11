@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "HD Hyundai wins $674 million U.S. data center power deal",
+      "description": "HD Hyundai Heavy Industries won a $674 million deal to supply 1,000 MW of power generation equipment for Big Tech data centers in the United States.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/08/10/biz-hd-hyundai-data-center-power-deal/8781786398600/",
+      "source": "Upi",
+      "image": "https://cdnph.upi.com/ph/st/th/8781786398600/2026/i/17863988883656/v1.5/HD-Hyundai-wins-674-million-US-data-center-power-deal.jpg",
+      "published": "2026-08-10 21:56:50",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

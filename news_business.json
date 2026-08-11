@@ -1,15 +1,16 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Protecting wild oyster populations and supporting harvesters through the voluntary Oyster Licence Retirement Grant Program",
-      "description": "/CNW/ -- The Government of Canada is taking action to support affected wild oyster harvesters in Atlantic Canada who are facing substantial losses due to the...",
-      "link": "https://www.newswire.ca/news-releases/protecting-wild-oyster-populations-and-supporting-harvesters-through-the-voluntary-oyster-licence-retirement-grant-program-896074416.html",
-      "source": "Newswire",
-      "image": null,
-      "published": "2026-08-10 19:02:00",
+      "title": "Ontario drivers to see another big jump at the pumps for gasoline and diesel",
+      "description": "Dan McTeague, head of Canadians for Affordable Energy, offers his predictions for gasoline and diesel prices.",
+      "link": "https://www.durhamregion.com/news/ontario-gas-price-prediction-for-aug-12/article_be93bc00-cd2b-5165-9a9a-a3445407d964.html",
+      "source": "Durhamregion.com",
+      "image": "https://bloximages.chicago2.vip.townnews.com/durhamregion.com/content/tncms/assets/v3/editorial/c/15/c157e893-97e7-57d9-bc64-7378b8d98905/69e7df7a283e8.image.jpg?resize=300%2C200",
+      "published": "2026-08-10 20:51:00",
       "category": [
+        "top",
         "business"
       ],
       "country": [
@@ -17,17 +18,46 @@
       ]
     },
     {
-      "title": "ROSEN, A LONGSTANDING LAW FIRM, Encourages Bloom Energy Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - BE",
-      "description": "NEW YORK, Aug. 10, 2026 (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Bloom Energy Corporation (NYSE: BE) between February 27, 2025 and July 8, 2026, inclusive (the \u201cClass Period\u201d), of the important September 28, 2026 lead plaintiff deadline.",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/08/10/3342155/673/en/rosen-a-longstanding-law-firm-encourages-bloom-energy-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-be.html",
-      "source": "Globenewswire_fr",
+      "title": "The Finance Ghost: MTN \u2014 just a bump, or a bigger growth concern?",
+      "description": "MTN remains up 21% this year, but a post-Q2 selloff left investors cautious as Nigeria\u2019s revenue drop and Uganda\u2019s margin compression weigh on future market guidance.",
+      "link": "https://www.dailymaverick.co.za/article/2026-08-10-the-finance-ghost-mtn-just-a-bump-or-a-bigger-growth-concern/",
+      "source": "Daily Maverick",
+      "image": "https://cdn.dailymaverick.co.za/i/F2QVjxomjBdeitmcrCRHcdhWZ0U=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2024/08/19-GettyImages-1246471022.jpg",
+      "published": "2026-08-10 20:51:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Colombia quake leaves 69 dead, with more trapped under rubble",
+      "description": "BOGOTA\u0301 \u2014 A magnitude 7.4 earthquake struck western Colombia on Monday, killing at least 69 people, toppling dozens of buildings and reverberating in nearb...",
+      "link": "https://jordantimes.com/news/world/colombia-quake-leaves-69-dead-with-more-trapped-under-rubble",
+      "source": "Jordan Times",
       "image": null,
-      "published": "2026-08-10 19:02:00",
+      "published": "2026-08-10 20:51:00",
       "category": [
         "business"
       ],
       "country": [
-        "france"
+        "jordan"
+      ]
+    },
+    {
+      "title": "Government of Canada announces modernization of the Inuvik (Mike Zubko) Airport to begin this fall",
+      "description": "/CNW/ -- Strong and reliable transportation infrastructure is essential to keeping Northern, Arctic, and Indigenous communities connected. That's why the first...",
+      "link": "https://www.newswire.ca/news-releases/government-of-canada-announces-modernization-of-the-inuvik-mike-zubko-airport-to-begin-this-fall-887352259.html",
+      "source": "Newswire",
+      "image": null,
+      "published": "2026-08-10 20:51:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

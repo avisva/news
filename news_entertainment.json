@@ -1,20 +1,36 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Salman Khan, Sanjay Dutt's international film '7 Dogs' set to release in India",
-      "description": "Mumbai (Maharashtra) [India], August 10 (ANI): Bollywood stars Salman Khan and Sanjay Dutt are set to take their collaboration to the international stage with '7 Dogs' - the action spectacle led by Egyptian superstars Ahmed Ezz and Karim Abdel Aziz.",
-      "link": "http://www.californiatelegraph.com/news/279229650/salman-khan-sanjay-dutt-international-film-7-dogs-set-to-release-in-india",
-      "source": "California Telegraph",
-      "image": "https://image.chitra.live/api/v1/wps/a5b58a3/f890018c-7bca-4ff6-b735-5ec6930ef622/0/ANI-20260810123824-600x315.jpg",
-      "published": "2026-08-10 17:03:55",
+      "title": "BVFD celebrates 100th with beer garden, music",
+      "description": "The Becket Volunteer Fire Department will celebrate its centennial with the Becket Beer Garden and live music from Mostly Blue and D-ROD on Saturday, Aug. 15.",
+      "link": "https://www.berkshireeagle.com/news/community-news/bvfd-celebrates-100th-with-beer-garden-music/article_9334c351-82e7-4f66-9178-0bdef2f000fb.html",
+      "source": "Berkshireeagle.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/custom/image/2b802cce-8455-11ec-8935-3f9640429655.jpg?resize=600%2C315",
+      "published": "2026-08-10 19:02:00",
+      "category": [
+        "top",
+        "lifestyle",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "5 Zodiac signs finally get the breakthrough they\u2019ve been waiting for on August 11",
+      "description": "August 11 horoscope, horoscope today, daily horoscope August 11 2026, August 11 2026 horoscope, Angel Number Day 8/11, 8/11 angel number, zodiac signs August 11, Aries horoscope, Aries daily horoscope, Taurus horoscope, Taurus daily horoscope, Scorpio horoscope, Scorpio daily horoscope, Aquarius horoscope, Aquarius daily horoscope, Pisces horoscope, Pisces daily horoscope, Leo daily horoscope, Leo horoscope, Cancer daily horoscope, August 11 astrology, daily zodiac horoscope, horoscope August 11, zodiac breakthrough, Angel Number 811, August 2026 horoscope",
+      "link": "https://economictimes.indiatimes.com/astrology/us/5-zodiac-signs-finally-get-the-breakthrough-theyve-been-waiting-for-on-august-11/articleshow/133119191.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133122932,resizemode-4,width-1200,height-900,imgsize-213866,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-10 19:01:59",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

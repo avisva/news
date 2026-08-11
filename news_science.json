@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "SCU focusing on coffee",
+      "description": "Southern Cross University researchers will lead Australia's largest-ever coordinated coffee research program, heading a new $4 million national initiative to strengthen productivity, biosecurity and long-term growth across the Australian coffee industry. The post SCU focusing on coffee appeared first on The Echo .",
+      "link": "https://www.echo.net.au/2026/08/scu-focusing-on-coffee/",
+      "source": "The Echo",
+      "image": "https://www.echo.net.au/wp-content/uploads/2026/08/AdobeStock_640103945-scaled.jpeg",
+      "published": "2026-08-11 00:56:43",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

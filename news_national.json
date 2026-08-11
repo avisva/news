@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Imported Argentina beef recalled in Florida and Texas over reinspection lapse",
+      "description": "Check out what\u2019s clicking on FoxBusiness.com. Nearly 30,000 pounds of imported raw beef from South America have been recalled in two states over the failure to reinspect the product after arriving in the U.S., according to the U.S. Department of Agriculture\u2019s Food Safety and Inspection Service (FSIS). Florida-based Corte Argentino USA LLC is recalling about [...] The post Imported Argentina beef recalled in Florida and Texas over reinspection lapse appeared first on CBNC .",
+      "link": "https://cbnc.com/imported-argentina-beef-recalled-in-florida-and-texas-over-reinspection-lapse/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/08/beef-in-us-grocery-store.png",
+      "published": "2026-08-11 00:57:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Taxation Bill gets Parliament nod; FM rules out UPI charges",
+      "description": "Legislation seeks to attract foreign capital, boost electronics manufacturing and facilitate cloud firms",
+      "link": "https://www.thehansindia.com/business/market-compass/taxation-bill-gets-parliament-nod-fm-rules-out-upi-charges-1107996",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/08/04/1685353-sitharaman.webp",
+      "published": "2026-08-11 00:56:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bhagwati Products may delay IPO by up to 3 quarters",
+      "description": "Bhagwati Products may delay its initial public offering by several quarters. Volatility in memory chip prices hinders production forecasts for electronics manufacturers. The company awaits details of the government's second production-linked incentive scheme. This delay impacts investment plans and capital requirements for the firm. Bhagwati Products is a joint venture between Micromax Informatics and China's Huaqin Technology.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bhagwati-products-may-delay-ipo-by-up-to-3-quarters/articleshow/133139996.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133140021,resizemode-4,width-1200,height-900,imgsize-26022,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-08-11 00:56:44",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

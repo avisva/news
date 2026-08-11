@@ -1,43 +1,14 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Super Sophie storms to record breaking world silver",
-      "description": null,
-      "link": "https://www.dunfermlinepress.com/sport/26450766.sophie-thomas-wins-world-athletics-u20-championship-silver/",
-      "source": "Dunfermlinepress",
-      "image": "https://www.dunfermlinepress.com/resources/images/21297008/",
-      "published": "2026-08-10 13:26:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Drogheda\u2019s worries increase after drab draw in Galway",
-      "description": null,
-      "link": "https://www.independent.ie/county/louth/droghedas-worries-increase-after-drab-draw-in-galway/a/159835926.html",
-      "source": "The Independent",
+      "title": "Arkansas soccer lands five players on SEC 2026 preseason watchlist",
+      "description": "Kennedy Ball, Bella Field, Aniyah Nurse-Whyte, Zoe Susi and Vailana Tu'ua were named to the preseason watchlist.",
+      "link": "https://www.nwaonline.com/news/2026/aug/10/arkansas-soccer-lands-give-players-on-sec-2026-preseason-watchlist/",
+      "source": "Nwaonline",
       "image": null,
-      "published": "2026-08-10 13:26:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Samber pleased with team's direction",
-      "description": null,
-      "link": "https://www.crossville-chronicle.com/sports/local_sports/samber-pleased-with-teams-direction/article_caff5daf-0cd2-4240-8904-5573c8519f24.html",
-      "source": "Crossville Chronicle",
-      "image": null,
-      "published": "2026-08-10 13:26:00",
+      "published": "2026-08-10 15:41:00",
       "category": [
         "top",
         "sports"
@@ -47,17 +18,18 @@
       ]
     },
     {
-      "title": "2026-27 season preview: Paris Saint-Germain",
-      "description": "We're breaking down Europe's top teams as club soccer retakes the stage, starting with our defending Champions League winner Paris Saint-Germain.",
-      "link": "https://www.yardbarker.com/soccer/articles/2026_27_season_preview_paris_saint_germain/s1_13132_44158614",
-      "source": "Yardbarker",
-      "image": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_1123,w_2000,x_0,y_0/c_fill,f_auto,h_1215,q_auto,w_2160/v1/m/a/6/a65dc5da598cbdb14631a0b1afbeafe88727560e/2026-27-season-preview-paris-saint-germain.jpg",
-      "published": "2026-08-10 13:25:58",
+      "title": "Badminton-India's world championships organisers hire monkey whisperers",
+      "description": "Monkey mimics will be employed to deter primates at the upcoming badminton World Championships in New Delhi. Organizers are using langur monkey sounds to keep rhesus monkeys away from the venue. Pigeons also posed a problem, leading to court fouling during a previous event. A non-toxic gel has been applied to stadium areas to prevent birds from roosting. Organizers state that all issues faced previously have now been addressed.",
+      "link": "https://economictimes.indiatimes.com/news/sports/badminton/badminton-indias-world-championships-organisers-hire-monkey-whisperers/articleshow/133115328.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133115447,resizemode-4,width-1200,height-900,imgsize-221198,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-10 15:40:52",
       "category": [
+        "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

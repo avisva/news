@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "How the Bayh-Dole Act helped transform prostate cancer detection",
+      "description": "About one in eight American men will be diagnosed with prostate cancer during their lifetime.",
+      "link": "https://lakeonews.com/stories/how-the-bayh-dole-act-helped-transform-prostate-cancer-detection,87324",
+      "source": "Lake Okeechobee News",
+      "image": "https://eta.creativecirclecdn.com/scfl/large/20230817-191718-opinion%20slug.jpg",
+      "published": "2026-08-10 15:41:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "7 Best Razors for Men in 2026, According to Grooming Experts",
+      "description": "Whether cartridge or electric, these provide the smoothest, most comfortable shave.",
+      "link": "https://www.menshealth.com/grooming/a19524163/best-razors-for-men/",
+      "source": "Men's Health",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/mhl-razors-212-660712347d6c9.jpg?crop=0.471xw:0.707xh;0.313xw,0.149xh&resize=1200:*",
+      "published": "2026-08-10 15:41:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Psychology says people who never cry in front of anybody but can't hold onto tears when they are alone at times aren't as emotionally strong as they appear: What the behavior reveals?",
+      "description": "Psychology says people who never cry in front of anybody but can't hold onto tears when they are alone may be managing emotions in different ways depending on their surroundings. Public emotional control can come from fear of judgment, concern for others, past experiences or learned coping habits. Crying in private can provide a space where a person feels safe enough to process stress and emotion.",
+      "link": "https://economictimes.indiatimes.com/news/international/us/psychology-says-people-who-never-cry-in-front-of-anybody-but-cant-hold-onto-tears-when-they-are-alone-at-times-arent-as-emotionally-strong-as-they-appear-what-the-behavior-reveals/articleshow/133114051.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133115194,resizemode-4,width-1200,height-900,imgsize-160056,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-10 15:40:54",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

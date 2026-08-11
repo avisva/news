@@ -1,16 +1,15 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "ACC Scouting Report: Louisville Cardinals",
-      "description": null,
-      "link": "https://dailyprogress.com/sports/college/football/virginia-tech-hokies/article_56644ebe-5595-5435-a562-c579b19ee56f.html",
-      "source": "The Daily Progress",
-      "image": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/c/00/c003ef5b-16ec-56d8-938f-0f1516d11605/6a7a3f8eb0dfa.image.jpg?resize=300%2C200",
-      "published": "2026-08-11 08:00:00",
+      "title": "Charean believes A&M may have one of the best WR rooms in CFB",
+      "description": "With football season just a few weeks away, ProFootballTalk's Charean Williams joined Tuesday's edition of TexAgs Live to describe her perspective on A&M's fall camp highlights. Williams also detailed notes from the Hall of Fame game, NFL camp news and more.",
+      "link": "https://texags.com/s/77992/charean-believes-am-may-have-one-of-the-best-wr-rooms-in-cfb",
+      "source": "Texags",
+      "image": "https://texags.blob.core.windows.net/photos/0266949-thoa-1280x720.jpg",
+      "published": "2026-08-11 09:42:00",
       "category": [
-        "top",
         "sports"
       ],
       "country": [
@@ -18,15 +17,45 @@
       ]
     },
     {
-      "title": "Marshall football: Montgomery relishing 'great reward' of leadership role",
-      "description": "HUNTINGTON \u2014 Marshall offensive lineman Tariq Montgomery stands as a veteran leader in team meetings \u2013 now a redshirt senior spending his entire career with the Thundering Herd. Montgomery said he feels honored to bestow his experiences upon the younger players just as those before him. He does so alongside Jalen Slappy, Xavier Bausley and Evan Ferguson. \u201cI feel like last year was the first year I actually had to step into the older leader role. When I was younger, I had Ethan Driskell, Dalton Tucker, Logan Osburn and all of those guys. They were our leaders,\u201d Montgomery said. \u201cNow, it\u2019s time for me, Slap, Baus and Ferg to step up into that role. We\u2019re trying to lead them like the guys in the past led us.\u201d",
-      "link": "https://www.wvgazettemail.com/sports/marshall_university/marshall-football-montgomery-relishing-great-reward-of-leadership-role/article_df3e703a-0ea8-4401-b990-5c6356d64eaf.html",
-      "source": "Charleston Gazette-mail",
-      "image": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/d/f3/df3e703a-0ea8-4401-b990-5c6356d64eaf/6a7a1b7604a0a.preview.jpg?crop=1483%2C779%2C4%2C169&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-08-11 08:00:00",
+      "title": "Nikola Jokic's agent on Panathinaikos' offer: 'What Giannakopoulos said is true'",
+      "description": "Nikola Jokic's agent on Panathinaikos' offer: 'What Giannakopoulos said is true'",
+      "link": "https://sports.yahoo.com/articles/nikola-jokics-agent-panathinaikos-offer-094159348.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/cac6ce5d2ba74513efe43a49fc3c5c578dfd4ff0c6a5fb1034a61b6ba46bbafb/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhoops_hype_usa_today_sports_articles_974%2Fc8e08cae2e0b52fe458d9c34ace0ed4c",
+      "published": "2026-08-11 09:41:59",
       "category": [
-        "top",
-        "sports"
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\"I made a very serious offer,\" Giannakopoulos said, ...",
+      "description": "\"I made a very serious offer,\" Giannakopoulos said, ...",
+      "link": "https://sports.yahoo.com/articles/made-very-serious-offer-giannakopoulos-094158276.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/5f83ac44f2814f3f4e1e2b11df1ef23eb32fcac4edbad49836ef3fc6e2ecc69f/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published": "2026-08-11 09:41:58",
+      "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bobby Portis fires back at Norman Powell: 'Keep my name out your mouth'",
+      "description": "Bobby Portis fires back at Norman Powell: 'Keep my name out your mouth'",
+      "link": "https://sports.yahoo.com/articles/bobby-portis-fires-back-norman-094157853.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/78df9f17bdea6b963d3772f8160735be884eed5d8d4f9762f5a2e4d437728d3b/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhoops_hype_usa_today_sports_articles_974%2Ffcbeaf8e0915918ec459c1117b70681e",
+      "published": "2026-08-11 09:41:57",
+      "category": [
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"

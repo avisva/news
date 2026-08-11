@@ -1,5 +1,64 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Super Sophie storms to record breaking world silver",
+      "description": null,
+      "link": "https://www.dunfermlinepress.com/sport/26450766.sophie-thomas-wins-world-athletics-u20-championship-silver/",
+      "source": "Dunfermlinepress",
+      "image": "https://www.dunfermlinepress.com/resources/images/21297008/",
+      "published": "2026-08-10 13:26:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Drogheda\u2019s worries increase after drab draw in Galway",
+      "description": null,
+      "link": "https://www.independent.ie/county/louth/droghedas-worries-increase-after-drab-draw-in-galway/a/159835926.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-08-10 13:26:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Samber pleased with team's direction",
+      "description": null,
+      "link": "https://www.crossville-chronicle.com/sports/local_sports/samber-pleased-with-teams-direction/article_caff5daf-0cd2-4240-8904-5573c8519f24.html",
+      "source": "Crossville Chronicle",
+      "image": null,
+      "published": "2026-08-10 13:26:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "2026-27 season preview: Paris Saint-Germain",
+      "description": "We're breaking down Europe's top teams as club soccer retakes the stage, starting with our defending Champions League winner Paris Saint-Germain.",
+      "link": "https://www.yardbarker.com/soccer/articles/2026_27_season_preview_paris_saint_germain/s1_13132_44158614",
+      "source": "Yardbarker",
+      "image": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_1123,w_2000,x_0,y_0/c_fill,f_auto,h_1215,q_auto,w_2160/v1/m/a/6/a65dc5da598cbdb14631a0b1afbeafe88727560e/2026-27-season-preview-paris-saint-germain.jpg",
+      "published": "2026-08-10 13:25:58",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

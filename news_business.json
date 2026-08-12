@@ -1,14 +1,44 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Fort Worth proposes $11.25 million settlement with estate of Atatiana Jefferson",
-      "description": "FORT WORTH, Texas \u2014 The City of Fort Worth has proposed an $11.25 million settlement with the family of Atatiana Jefferson, who was killed by one of the city\u2019s police officers in 2019, according to a statement. The settlement will...",
-      "link": "https://hanfordsentinel.com/news/national/fort-worth-proposes-11-25-million-settlement-with-estate-of-atatiana-jefferson/article_475e9e11-cf16-5f8a-aaf2-037adefce41f.html",
-      "source": "Hanford Sentinel",
-      "image": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/b/5e/b5eba841-c819-59b4-957c-692521fee922/6a7bedd9399a7.image.jpg?resize=300%2C422",
-      "published": "2026-08-12 02:53:00",
+      "title": "Laxmi Cotspin reports consolidated net loss of Rs 0.44 crore in the June 2026 quarter",
+      "description": null,
+      "link": "https://www.business-standard.com/markets/capital-market-news/laxmi-cotspin-reports-consolidated-net-loss-of-rs-0-44-crore-in-the-june-2026-quarter-126081200273_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-12 03:55:58",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Gold rates in Pakistan on August 12, 2026",
+      "description": "Gold prices in Pakistan rose on Tuesday, mirroring gains in the international market. In the local market, the price of gold increased by Rs2,400 per tola to reach Rs459,736, according to rates released by the All-Pakistan Gems and Jewellers Sarafa Association (APGJSA). Similarly, the price of 10-gram gold climbed by Rs2,058 to Rs394,149. On Monday, [...] The post Gold rates in Pakistan on August 12, 2026 appeared first on MM News .",
+      "link": "https://mmnews.tv/gold-rates-in-pakistan-on-august-12-2026/",
+      "source": "Mm News",
+      "image": "https://mmnews.tv/wp-content/uploads/2026/01/Gold.jpg",
+      "published": "2026-08-12 03:55:53",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Savara Reports Second Quarter 2026 Financial Results and Provides Business Update",
+      "description": null,
+      "link": "https://www.biospace.com/press-releases/savara-reports-second-quarter-2026-financial-results-and-provides-business-update",
+      "source": "Biospace",
+      "image": "https://static.biospace.com/dims4/default/d32393a/2147483647/strip/true/crop/1120x630+40+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F88%2Fa9fddaf440db946b77e1d45d2e26%2Fbiospace-5.png",
+      "published": "2026-08-12 03:55:51",
       "category": [
         "business",
         "top"
@@ -18,95 +48,48 @@
       ]
     },
     {
-      "title": "Gold concentration exposes Ghana to export risks \u2013 GSS",
-      "description": "Gold accounted for 63.1 per cent of Ghana\u2019s total exports in 2025, highlighting rising concentration in the country\u2019s export earnings.",
-      "link": "https://www.myjoyonline.com/gold-concentration-exposes-ghana-to-export-risks-gss/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/stack-gold-bars-dark-background-1024x574.jpg",
-      "published": "2026-08-12 02:53:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "No financial loss to Keralam government from Argentina match proposal: ex-Sports Minister Abdurahiman",
-      "description": "Ex-Sports Minister Abdurahiman confirms Keralam incurred no financial loss in the proposal for a friendly match with Argentina, following proper procedures.",
-      "link": "https://thenewsmill.com/2026/08/no-financial-loss-to-keralam-government-from-argentina-match-proposal-ex-sports-minister-abdurahiman/",
-      "source": "The News Mill",
-      "image": "https://thenewsmill.com/wp-content/uploads/2026/08/no-financial-loss-to-keralam-government-from-argentina-match-proposal-ex-sports-minister-abdurahiman.jpg",
-      "published": "2026-08-12 02:52:47",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Govt cuts petrol price by Rs 1.70, raises diesel\u2019s by Rs 1.39",
-      "description": "The federal government raised the price of High Speed Diesel (HSD) by Rs1.39 per litre while reducing the price of Motor Spirit (petrol) by Rs1.70 per litre for Wednesday, August 12. According to a notification issued by the Ministry of Energy (Petroleum Division), the Oil and Gas Regulatory Authority (OGRA) on Tuesday revised the ex-depot [...]",
-      "link": "https://dailytimes.com.pk/1537155/govt-cuts-petrol-price-by-rs-1-70-raises-diesels-by-rs-1-39/",
-      "source": "Daily Times - Latest Pakistan News, World, Busines",
-      "image": "https://dailytimes.com.pk/assets/uploads/2025/07/app-icon-192x192-1-192x180-1.png",
-      "published": "2026-08-12 02:52:44",
-      "category": [
-        "business",
-        "top",
-        "technology"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Bank of India NZ to unveil BOINZ Freedom app, promising easier banking",
-      "description": "Bank of India New Zealand is set to launch a new mobile banking app designed to make everyday banking and remittance services easier and more accessible for customers.",
-      "link": "https://www.indianweekender.co.nz/features/bank-of-india-nz-to-unveil-boinz-freedom-app-promising-easier-banking",
-      "source": "Indian Weekender",
-      "image": "https://www.indianweekender.co.nz/hubfs/KIA%20ORA%20(1)-Aug-12-2026-02-51-59-8026-AM.jpg",
-      "published": "2026-08-12 02:52:39",
-      "category": [
-        "business",
-        "top",
-        "technology"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "Dish TV Q1 loss more than triples to Rs 286 crore; VZY sales cross Rs 200 crore",
-      "description": "Dish TV India reported a consolidated net loss of Rs 286 crore for the quarter ended June 30, 2026, as subscription revenue fell 41% to Rs 161 crore. Total expenses rose 46% amid shifting consumer viewing habits, while the company continued expanding its VZY Smart TV ecosystem to drive connected entertainment.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dish-tv-q1-loss-more-than-triples-to-rs-286-crore-vzy-sales-cross-rs-200-crore/articleshow/133176155.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-133176182,resizemode-4,width-1200,height-900,imgsize-10788,overlay-etmarkets/articleshow.jpg",
-      "published": "2026-08-12 02:52:37",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Japanese Market Slightly Higher",
-      "description": "(RTTNews) - The Japanese stock market is trading slightly higher in choppy trading on Wednesday, extending the sharp gains in the previous session, despite the broadly negative cues from Wall Street overnight. The Nikkei 225 is moving well above the 67,000 mark, with gains in financial and technology stocks partially offset by weakness in index...",
-      "link": "https://www.finanzen.ch/nachrichten/aktien/japanese-market-slightly-higher-1036443647",
-      "source": "Finanzen.ch",
+      "title": "What we learnt: Seek delivers investors a jobs shock",
+      "description": "Seek delivers investors a jobs shock, AGL makes hay while the sun doesn\u2019t shine, and Suncorp warns that insurance premium inflation is here to stay.",
+      "link": "https://www.afr.com/chanticleer/what-we-learnt-seek-delivers-investors-a-jobs-shock-20260812-p60nl1",
+      "source": "Afr",
       "image": null,
-      "published": "2026-08-12 02:52:36",
+      "published": "2026-08-12 03:55:47",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "switzerland"
+        "australia"
+      ]
+    },
+    {
+      "title": "KJMC Corporate Advisors (India) consolidated net profit rises 8.45% in the June 2026 quarter",
+      "description": null,
+      "link": "https://www.business-standard.com/markets/capital-market-news/kjmc-corporate-advisors-india-consolidated-net-profit-rises-8-45-in-the-june-2026-quarter-126081200272_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-12 03:55:45",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "TSMC Reports Record $14.49 Billion July Revenue",
+      "description": "TSMC reported its revenue for July, indicating that the company continues to increase its output capacity, customer commitments, and business execution. TSMC\u2019s July revenue stood at NT$467.58 billion, or about $14.49 billion at the time of writing. This marks a 5.6% increase from June\u2019s revenue of $13.75 billion and a significant 44.7% year-over-year growth. This...",
+      "link": "https://www.madshrimps.be/news/tsmc-reports-record-14-49-billion-july-revenue/",
+      "source": "Madshrimps",
+      "image": null,
+      "published": "2026-08-12 03:55:41",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "belgium"
       ]
     }
   ]

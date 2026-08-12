@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Kate Actress Explains Why She Rejects Much Younger Suitors",
-      "description": "Catherine Kamau, popularly known as Kate Actress, has opened up about her approach to dating, revealing why she is not interested in relationships with significantly younger men. The celebrated actress has previously been candid about her personal life and the attention she receives from men, including younger admirers. Kate has particularly addressed the \u201csugar mummy\u201d [...]",
-      "link": "https://www.ghafla.co.ke/kate-actress-explains-why-she-rejects-much-younger-suitors/",
-      "source": "Ghafla",
-      "image": "https://www.ghafla.co.ke/wp-content/uploads/2026/08/Kate-Actress-cover-768x1024.jpg",
-      "published": "2026-08-12 09:40:52",
+      "title": "Prince Harry and Meghan torn to shreds with humiliating blow as Sussexes \u2018crumble\u2019",
+      "description": "The couple were humiliated after the release of their documentary.",
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2238450/prince-harry-meghan-torn-shreds-humiliating-blow",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/237x141/2238450_1.jpg",
+      "published": "2026-08-12 10:37:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018Power, betrayal, and secrets\u2019: This slick new ITV thriller is perfect for fans of The Night Manager",
+      "description": null,
+      "link": "https://www.cosmopolitan.com/uk/entertainment/a73411442/itv-the-party/",
+      "source": "Cosmopolitan Uk",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d5144e38-5b01-49c2-817d-46d433da9c6c.jpg?crop=0.564xw:1.00xh;0.00481xw,0&resize=1200:*",
+      "published": "2026-08-12 10:37:00",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "kenya"
+        "united kingdom"
       ]
     }
   ]

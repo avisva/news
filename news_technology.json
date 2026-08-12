@@ -1,34 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Philips Unveils World's First 27-Inch Gaming Monitor with Three-Stage Resolution and Refresh Rate Switching - finance.biggo.com",
-      "description": "Philips Unveils World's First 27-Inch Gaming Monitor with Three-Stage Resolution and Refresh Rate Switching finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIczNZMFUxZWdhSnd5SXlObmZ5MjRMNzlXMk5KaVhaek5sbWhab1lDZkJ0Rk8td3B1RjZzU05RTXhFZlNrMXlTa081bDJzd3FPc1RCUjBCY0dHYlFYV2VPSWxQc2lQbXNwQTZvU0F6ekpxcmFuWkE?oc=5",
-      "source": "Google News",
+      "title": "Docker CopyEscape Vulnerability Enables Host File Overwrite and Root Code Execution",
+      "description": "A critical vulnerability in Docker, tracked as CVE-2026-17106 and referred to as \u201cCopyEscape,\u201d allows malicious containers to overwrite files on the host... Read more \u2192 The post Docker CopyEscape Vulnerability Enables Host File Overwrite and Root Code Execution appeared first on IT Security News .",
+      "link": "https://www.itsecuritynews.info/docker-copyescape-vulnerability-enables-host-file-overwrite-and-root-code-execution/",
+      "source": "It Security News",
       "image": null,
-      "published": "2026-08-12 03:56:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Mach 5 and beyond: US plans next-gen hypersonic missile with longer range, greater speed",
-      "description": "The US military is spearheading efforts to develop groundbreaking hypersonic cruise missile technology through DARPA. The goal is to achieve unprecedented advancements in speed, range, and durability for these weapons. While older systems transition to production, innovative designs are under scrutiny. Emphasis is placed on cost-effectiveness and the capacity for mass production to effectively counteract advanced enemy air defense systems.",
-      "link": "https://timesofindia.indiatimes.com/defence/international/mach-5-and-beyond-us-plans-next-gen-hypersonic-missile-with-longer-range-greater-speed/articleshow/133169307.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133169414/133169414.jpg",
-      "published": "2026-08-12 03:55:46",
+      "published": "2026-08-12 05:01:52",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Setting The Record Straight: Remembering Salihijo Ahmad Correctly",
-      "description": "By Babayola M. Toungo I came across an article published in Leadership newspaper on August 9, 2026, by Shu\u2019aibu Shua\u2019ibu, which sought to revisit the events surrounding the emergence of Chief Olusegun Obasanjo as the presidential candidate of the Peoples Democratic Party in 1999 and, in the process, brought the late Salihijo Ahmad into the [...]",
-      "link": "https://leadership.ng/setting-the-record-straight-remembering-salihijo-ahmad-correctly/",
-      "source": "Leadership",
-      "image": "https://leadership.ng/wp-content/uploads/2026/08/salihijo-ahmad.jpg",
-      "published": "2026-08-12 03:55:56",
+      "title": "PA panel takes up complaint against Faisalabad RPO",
+      "description": "LAHORE - After Kasur District Police Officer (DPO) Aftab Ahmad Phularwan, the Faisalabad Regional Police Officer (RPO) Sohail Sukhera has also come under scrutiny from members of the Punjab Assembly, according to Assembly sources.",
+      "link": "https://www.nation.com.pk/12-Aug-2026/pa-panel-takes-complaint-faisalabad-rpo",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-08-12 05:02:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "nigeria"
+        "pakistan"
+      ]
+    },
+    {
+      "title": "What are the rules for a recount in Wisconsin?",
+      "description": null,
+      "link": "https://www.jsonline.com/story/news/politics/elections/2026/08/12/what-are-the-rules-for-a-recount-in-wisconsin/91268084007/",
+      "source": "Journal Sentinel",
+      "image": null,
+      "published": "2026-08-12 05:01:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "police-force-late-night-reached-at-jpsc-student-protest-site",
+      "description": "\u0930\u093e\u0902\u091a\u0940 \u092e\u0947\u0902 \u0926\u0947\u0930 \u0930\u093e\u0924 \u092a\u0941\u0932\u093f\u0938 \u0905\u0927\u093f\u0915\u093e\u0930\u0940 \u0926\u0932 \u092c\u0932 \u0915\u0947 \u0938\u093e\u0925 \u0906\u0902\u0926\u094b\u0932\u0928 \u0938\u094d\u0925\u0932 \u092a\u0930 \u092a\u0939\u0941\u0902\u091a\u0947. \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u092c\u0940\u091c\u0947\u092a\u0940 \u0928\u0947 \u0905\u0927\u093f\u0915\u093e\u0930\u093f\u092f\u094b\u0902 \u092a\u0930 \u0917\u0902\u092d\u0940\u0930 \u0906\u0930\u094b\u092a \u0932\u0917\u093e\u090f \u0939\u0948\u0902.",
+      "link": "https://www.etvbharat.com/hi/state/police-force-late-night-reached-at-jpsc-student-protest-site-jhs26081201198",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/12-08-2026/1200-675-27372064-thumbnail-16x9-jpsc.jpg",
+      "published": "2026-08-12 05:01:50",
+      "category": [
+        "politics",
+        "crime"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,87 +1,14 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Poll results: Aug. 12",
-      "description": null,
-      "link": "https://www.heraldbulletin.com/opinion/editorials/poll-results-aug-12/article_07e58448-4cd7-46fa-84bc-ea630a89074c.html",
-      "source": "Herald Bulletin",
-      "image": null,
-      "published": "2026-08-11 16:04:00",
-      "category": [
-        "business",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Extension of federal government funding through early December provides opportunity",
-      "description": "By extending government funding through Dec. 4 while continuing to advance the appropriations process, the U.S. House of Representatives has given Washington an opportunity to replace recurring fiscal crises with responsible governing. The question, though, is whether that will happen.",
-      "link": "https://norfolkdailynews.com/commentary/extension-of-federal-government-funding-through-early-december-provides-opportunity/article_b640ac24-47b0-4300-8c71-175d484ff3d0.html",
-      "source": "Norfolk Daily News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/b/64/b640ac24-47b0-4300-8c71-175d484ff3d0/6a7b4863b96ee.preview.jpg?crop=700%2C368%2C0%2C41",
-      "published": "2026-08-11 16:04:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Vietnam\u2019s VinSpace, SpaceX sign deal",
-      "description": "HANOI \u2014 Vietnamese aerospace company VinSpace said on Tuesday it has signed a contract with SpaceX to send its first satellites into orbit aboard a SpaceX ride-share mission in 2027, as the Southeast Asian nation moves to develop its nascent space industry. VinSpace will launch its satellites on a SpaceX Transporter ride-share mission run by Elon Musk\u2019s company, which carries satellites from multiple customers on a single rocket to share launch costs, it said in a statement. The satellites, which VinSpace said it will develop and operate, will test the company\u2019s technology in orbit and support future commercial applications. VinSpace is part of Vietnam\u2019s Vingroup conglomerate and was established in November 2025. The company said in April that it planned to develop and launch its first satellites in 2027. Founded by tycoon Pham Nhat Vuong, Vingroup is Vietnam\u2019s largest privately owned company. It has a sprawling business empire that touches many aspects of daily life, from real estate and retail to health care, education and tourism. It is going global as it invests heavily in high-tech industries such as electric vehicles, space, artificial intelligence and robotics, sectors central to Vietnam\u2019s ambition to become Asia\u2019s next tiger economy. Vietnam has sought to build its aerospace capabilities for several decades but remains a relatively small player in the global space industry. It launched its first telecommunications satellite in 2008, followed by another in 2012, according to official documents. In March, it inaugurated a major space science and technology center in Hanoi\u2019s Hoa Lac High-Tech Park, aimed at expanding the country\u2019s satellite development and use of space-based data. Vietnam aims to become a mid-level space power in Southeast Asia by 2030. In February, Vietnam allowed SpaceX to launch its Starlink satellite internet service in the country. This was seen by some analysts as an effort by Vietnam to avoid US tariffs. Starlink has since begun accepting orders in Vietnam. VinSpace said the agreement with SpaceX is part of its plan to become a full-service aerospace company, developing capabilities ranging from satellite design and manufacturing to launch management, satellite operations and space-based data services. \u201cReliable access to space is fundamental to turning satellite innovation into operational missions,\u201d VinSpace CEO Thu Vu said in a statement.",
-      "link": "https://www.manilatimes.net/2026/08/12/business/foreign-business/vietnams-vinspace-spacex-sign-deal/2402733",
-      "source": "The Manila Times",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/11/1171983.jpg",
-      "published": "2026-08-11 16:04:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Pioneer status boosts Lite Shipping expansion",
-      "description": "THE Maritime Industry Authority (Marina) has officially granted \"Pioneering Status Protection\" to Lite Shipping Corporation\u2019s newly launched roll-on/roll-off (Ro-Ro) vessel, the M/V Lite Ferry Twenty, recognizing the company's aggressive fleet modernization efforts and its pivotal role in enhancing inter-island connectivity and regional commerce. The incentive, granted under government domestic shipping modernization frameworks, provides pioneer operators with key benefits including six-month route protection, a 50-percent discount on application and renewal fees, and streamlined regulatory processing. Marina Administrator Sonia Malaluan highlighted that the entry of state-of-the-art vessels like the M/V Lite Ferry Twenty extends far beyond mere fleet expansion, serving as a primary driver for trade, tourism, and local economic development across strategic sea corridors connecting Luzon, the Visayas, and Northern Mindanao. Featuring international classification by RINA of Italy, the newly deployed M/V Lite Ferry Twenty is designed to significantly upgrade standard passenger and cargo capacity along the vital Batangas City\u2013Caticlan corridor \u2014 linking Luzon directly to Western Visayas and Boracay \u2014 while offering enhanced safety systems and broader deck clearance. Lite Shipping Chief Executive Officer Lucio Lim Jr. affirmed that the company's ongoing investments reinforce its commitment to maintaining one of the youngest and safest domestic fleets in the Philippines while actively supporting the government's maritime transportation development goals.",
-      "link": "https://www.manilatimes.net/2026/08/12/business/maritime/pioneer-status-boosts-lite-shipping-expansion/2402721",
-      "source": "The Manila Times",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/11/1171938.jpeg",
-      "published": "2026-08-11 16:04:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Prashant Kishor promises 10,000 jobs in Bankipur after Jan Suraaj\u2019s historic victory",
-      "description": "Prashant Kishor has promised to help at least 10,000 unemployed youths in Bankipur find jobs within one to two years. The Jan Suraaj leader asked families to submit CVs and biodata, while outlining jobs, education and welfare as key priorities.",
-      "link": "https://www.news9live.com/india/prashant-kishor-promises-10000-jobs-in-bankipur-after-jan-suraajs-historic-victory-2998565",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2025/11/Prashant-Kishor-Bihar-elections.jpg",
-      "published": "2026-08-11 16:04:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Dallas Plaintiffs Law Firm Hamilton Wingo Welcomes Bethany Dow as Partner",
-      "description": "DALLAS, Aug. 11, 2026 /PRNewswire/ -- The award-winning Dallas plaintiffs law firm Hamilton Wingo is announcing the addition of accomplished trial attorney Bethany Dow as its newest partner handling complex personal injury and wrongful death litigation. Ms. Dow joins the experienced team...",
-      "link": "https://www.prnewswire.com/news-releases/dallas-plaintiffs-law-firm-hamilton-wingo-welcomes-bethany-dow-as-partner-302845844.html",
+      "title": "AITECH Cloud Network and Secret Network Partner to Bring Confidential AI to Agent Forge",
+      "description": "LOS ANGELES, Aug. 11, 2026 /PRNewswire/ -- AITECH Cloud Network, formerly Solidus AI Tech, has announced a strategic partnership with Secret Network to integrate confidential computing capabilities into Agent Forge, its no-code AI agent platform developed fully by ACN's internal...",
+      "link": "https://www.prnewswire.com/news-releases/aitech-cloud-network-and-secret-network-partner-to-bring-confidential-ai-to-agent-forge-302848659.html",
       "source": "Pr Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS1104225/hw-logo-800-x-300-px-Logo.jpg?id=OA2833929&p=original",
-      "published": "2026-08-11 16:04:00",
+      "image": "https://mmx.prnewswire.com/media/MS1637726/Secret-Network-Foundation-Logo.jpg?id=OA2857672&p=original",
+      "published": "2026-08-11 18:11:00",
       "category": [
         "business"
       ],
@@ -90,12 +17,12 @@
       ]
     },
     {
-      "title": "Exceptional Growing Conditions in West Africa Weigh on Cocoa Prices",
-      "description": "September ICE NY cocoa (CCU26 ) is down -291 (-5.00%) today, and September ICE London cocoa #7 (CAU26 ) is down -188 (-4.42%). Cocoa prices are sharply lower today, falling to 1-week lows. Cocoa prices are sliding on reports of exceptional growing c...",
-      "link": "https://www.barchart.com/story/news/3783621/exceptional-growing-conditions-in-west-africa-weigh-on-cocoa-prices",
-      "source": "Barchart.com",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Soft%20Commodities/Cocoa/Cocoa%20by%20Public%20Domain%20via%20Pixabay.jpg",
-      "published": "2026-08-11 16:03:59",
+      "title": "Home affordability is \u2018still a big problem,\u2019 says Zelman's Ivy Zelman",
+      "description": "Ivy Zelman, Zelman co-founder and EVP, joins 'The Exchange' to discuss the July existing home sales figures.",
+      "link": "https://www.cnbc.com/video/2026/08/11/home-affordability-is-still-a-big-problem-says-zelmans-ivy-zelman.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348022-17864705821786470579-47710550772-1080pnbcnews.jpg?v=1786470581",
+      "published": "2026-08-11 18:10:55",
       "category": [
         "business"
       ],

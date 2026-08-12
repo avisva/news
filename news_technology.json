@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Defeating Modern Threats with Capable, Affordable Munitions",
+      "description": "The United States and its allies face increasingly complex and rapidly evolving threats that require industry to meet the moment through innovation and a renewed focus on producibility, Quinlan Lyte, President, Advanced Effects, Missile Solutions, L3Harris, writes in Breaking Defense.",
+      "link": "https://www.l3harris.com/newsroom/editorial/2026/08/defeating-modern-threats-capable-affordable-munitions",
+      "source": "L3harris Technologies, Inc.",
+      "image": "https://www.l3harris.com/sites/default/files/2026-08/Launched-Effects-%20Quinlan-Lyte-Breaking-Defense-900.jpg",
+      "published": "2026-08-12 11:36:51",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

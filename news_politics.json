@@ -1,5 +1,81 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 5,
+  "results": [
+    {
+      "title": "Takaichi unlikely to visit Yasukuni Shrine on war anniversary",
+      "description": "The Shinto shrine is regarded by neighboring Asian countries such as South Korea and China as a symbol of Japan's wartime militarism.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/12/japan/takaichi-yasukuni-visit-unlikely/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/12/556968.jpg",
+      "published": "2026-08-12 11:37:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "COGAT's unusual warning to Gazans",
+      "description": "Israel warns Gaza residents to stay away from the Yellow Line, accusing Hamas of deliberately pushing civilians toward the area despite the danger.",
+      "link": "https://www.israelnationalnews.com/news/431604",
+      "source": "Israelnationalnews",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/1209976.jpg",
+      "published": "2026-08-12 11:36:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "israel"
+      ]
+    },
+    {
+      "title": "Turkish foreign minister to visit Egypt on Aug. 13-14",
+      "description": "Visit will include 2nd meeting of Tu\u0308rkiye-Egypt Joint Planning Group, co-chaired by Foreign Ministers Hakan Fidan and Badr Abdelatty",
+      "link": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-to-visit-egypt-on-aug-13-14/4025227",
+      "source": "Anadolu Agency",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/12/thumbs_b_c_48aa4189bc626cd2e8e310a5b9bf93a3.jpg",
+      "published": "2026-08-12 11:36:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "turkey"
+      ]
+    },
+    {
+      "title": "Chidambaram opposes Lok Sabha seat redistribution, says existing 543-seat strength should remain unchanged",
+      "description": "New Delhi, August 12, 2026 (Yes Punjab News) Congress MP P. Chidambaram on Wednesday opposed any reduction in the representation of southern states during delimitation, arguing that the strength of the Lok Sabha should remain fixed at 543 seats. Speaking to reporters, Chidambaram said states that had implemented family planning programmes should not be penalised [...] The post Chidambaram opposes Lok Sabha seat redistribution, says existing 543-seat strength should remain unchanged appeared first on Yes Punjab News .",
+      "link": "https://yespunjab.com/chidambaram-opposes-lok-sabha-seat-redistribution-says-existing-543-seat-strength-should-remain-unchanged/",
+      "source": "Yes Punjab News",
+      "image": "https://yespunjab.com/wp-content/uploads/2025/05/P-Chidambaram-Congress-leader.jpg",
+      "published": "2026-08-12 11:36:53",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Lead Duterte counsel Sison calls out prosecutor over viral trial clash",
+      "description": "MANILA, Philippines \u2014 Vice President Sara Duterte\u2019s defense lead counsel Sheila Sison on Wednesday jumped to her fellow counsel\u2019s defense after a heated exchange in court that went viral on social media. During a manifestation near the conclusion of the 15th day of Duterte\u2019s impeachment trial, Sison began by calling out a social media post",
+      "link": "https://newsinfo.inquirer.net/2283258/lead-duterte-counsel-sison-calls-out-prosecutor-over-viral-trial-clash",
+      "source": "Inquirer",
+      "image": "https://newsinfo.inquirer.net/files/2026/08/ligutan-sison-12august2026.jpg",
+      "published": "2026-08-12 11:36:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

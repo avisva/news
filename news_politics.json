@@ -1,34 +1,65 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Voters cast primary ballots as polls open Tuesday",
-      "description": "MANKATO \u2014 For Lynn Waterbury, voting in Tuesday\u2019s primary was about doing her civic duty and electing officials who really listen to their constituents and the issues affecting them.",
-      "link": "https://www.mankatofreepress.com/news/local_news/voters-cast-primary-ballots-as-polls-open-tuesday/article_b4cbedc6-ec69-4fbe-91e1-4e6c6190a54b.html",
-      "source": "Mankato Free Press",
-      "image": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg?resize=600%2C315",
-      "published": "2026-08-11 20:14:00",
+      "title": "BAAC chief faces backlash from staff",
+      "description": "Finance Minister Ekniti Nitithanprapas is set to convene an urgent board meeting over employee protests demanding the resignation of Chatchai Sirilai, president of the Bank for Agriculture and Agricultural Cooperatives (BAAC).",
+      "link": "https://www.bangkokpost.com/thailand/general/3300117/baac-chief-faces-backlash-from-staff",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260812/c1_3300117_260812060143.jpg",
+      "published": "2026-08-11 22:00:00",
       "category": [
         "politics",
         "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "Supervisors show support for legislation calling for partition of California into two states",
+      "description": "The Kern County Board of Supervisors is drafting a letter in support of Assembly Joint Resolution 23, a bill expressing the intent of the California State Legislature to split the state into two states \u2014 coastal and inland.",
+      "link": "https://www.bakersfield.com/news/supervisors-show-support-for-legislation-calling-for-partition-of-california-into-two-states/article_855aa5f3-c875-4a96-b3d5-49b0398c9eed.html",
+      "source": "The Bakersfield Californian",
+      "image": null,
+      "published": "2026-08-11 22:00:00",
+      "category": [
+        "top",
+        "politics"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Bennington is home to America\u2019s longest celebrated Revolutionary War battle. Here's how the town will honor it 249 years later.",
-      "description": "BENNINGTON \u2014 The Town of Bennington recently announced plans for the 2026 Battle Day celebrations, continuing a tradition that has endured since 1778. For nearly two and a half centuries, the community has gathered to commemorate the Battle of Bennington,...",
-      "link": "https://www.benningtonbanner.com/community-news/bennington-is-home-to-america-s-longest-celebrated-revolutionary-war-battle-heres-how-the-town/article_56d4aa68-1a9e-4246-b137-1f7e53bc5053.html",
-      "source": "Bennington Banner",
-      "image": "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/assets/v3/editorial/1/5d/15dc5a9f-7a27-4257-b137-f088967662bf/62f9339d3d020.image.jpg?resize=300%2C200",
-      "published": "2026-08-11 20:14:00",
+      "title": "Delta mayoral candidate Kruger signs Metro Vancouver Accountability Charter",
+      "description": "Signatories commit to 5 actions aimed at strengthening accountability, transparency and governance",
+      "link": "https://peacearchnews.com/2026/08/11/delta-mayoral-candidate-kruger-signs-metro-vancouver-accountability-charter/",
+      "source": "Peace Arch News",
+      "image": "https://peacearchnews.com/wp-content/uploads/sites/7/2026/08/260119-NDR-M-Mangrove-Lithium-funding-announcement-5-B.jpg",
+      "published": "2026-08-11 22:00:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
-        "united kingdom"
+        "canada"
+      ]
+    },
+    {
+      "title": "Nebraska Ed Board approves new North Omaha school in delayed vote",
+      "description": "The Nebraska State Board of Education has voted to approve a Black-founded school in North Omaha after concerns over references of an \"abolitionist framework\" delayed the process.",
+      "link": "https://theindependent.com/news/state-regional/nebraska/article_06cc2056-87e0-5cc6-a179-0e4e8b10c401.html",
+      "source": "The Grand Island Independent",
+      "image": null,
+      "published": "2026-08-11 22:00:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,65 +1,50 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "BAAC chief faces backlash from staff",
-      "description": "Finance Minister Ekniti Nitithanprapas is set to convene an urgent board meeting over employee protests demanding the resignation of Chatchai Sirilai, president of the Bank for Agriculture and Agricultural Cooperatives (BAAC).",
-      "link": "https://www.bangkokpost.com/thailand/general/3300117/baac-chief-faces-backlash-from-staff",
-      "source": "Bangkok Post",
-      "image": "https://static.bangkokpost.com/media/content/20260812/c1_3300117_260812060143.jpg",
-      "published": "2026-08-11 22:00:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "thailand"
-      ]
-    },
-    {
-      "title": "Supervisors show support for legislation calling for partition of California into two states",
-      "description": "The Kern County Board of Supervisors is drafting a letter in support of Assembly Joint Resolution 23, a bill expressing the intent of the California State Legislature to split the state into two states \u2014 coastal and inland.",
-      "link": "https://www.bakersfield.com/news/supervisors-show-support-for-legislation-calling-for-partition-of-california-into-two-states/article_855aa5f3-c875-4a96-b3d5-49b0398c9eed.html",
-      "source": "The Bakersfield Californian",
-      "image": null,
-      "published": "2026-08-11 22:00:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Delta mayoral candidate Kruger signs Metro Vancouver Accountability Charter",
-      "description": "Signatories commit to 5 actions aimed at strengthening accountability, transparency and governance",
-      "link": "https://peacearchnews.com/2026/08/11/delta-mayoral-candidate-kruger-signs-metro-vancouver-accountability-charter/",
-      "source": "Peace Arch News",
-      "image": "https://peacearchnews.com/wp-content/uploads/sites/7/2026/08/260119-NDR-M-Mangrove-Lithium-funding-announcement-5-B.jpg",
-      "published": "2026-08-11 22:00:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Nebraska Ed Board approves new North Omaha school in delayed vote",
-      "description": "The Nebraska State Board of Education has voted to approve a Black-founded school in North Omaha after concerns over references of an \"abolitionist framework\" delayed the process.",
-      "link": "https://theindependent.com/news/state-regional/nebraska/article_06cc2056-87e0-5cc6-a179-0e4e8b10c401.html",
-      "source": "The Grand Island Independent",
-      "image": null,
-      "published": "2026-08-11 22:00:00",
+      "title": "Former Cochise GOP Chair, other 2020 \u2018fake electors\u2019 see charges dismissed",
+      "description": "A Maricopa County judge dismisses charges against Arizona's 2020 Republican presidential electors at the request of Attorney General Kris Mayes but the charges could theoretically be refiled in the future.",
+      "link": "https://www.myheraldreview.com/news/cochise_county/former-cochise-gop-chair-other-2020-fake-electors-see-charges-dismissed/article_4d56c181-0771-4cf6-b0e8-591863071504.html",
+      "source": "Myheraldreview",
+      "image": "https://bloximages.chicago2.vip.townnews.com/myheraldreview.com/content/tncms/assets/v3/editorial/1/bc/1bc38a28-eae6-4084-b3d0-80a1609d66ca/66033ecfdd906.image.jpg?resize=300%2C386",
+      "published": "2026-08-11 23:42:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "House Democrats Propose Sweeping CYFD Overhaul Ahead of Legislative Session",
+      "description": "The comprehensive legislation aims to increase transparency and accountability through body cameras, an independent commission, and expanded watchdog authority, while Republicans question the timing of the reforms.",
+      "link": "https://www.koat.com/article/house-democrats-propose-sweeping-cyfd-overhaul-ahead-of-legislative-session/73406340",
+      "source": "Koat Action News Seven",
+      "image": "https://hips.hearstapps.com/vidthumb/f4d556d2-6aaf-4477-a01e-42ce3a496628/4f37231c-5ec2-40f6-8e4b-244f152f0abe.jpg",
+      "published": "2026-08-11 23:42:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Stranger things have happened\u2019: Trump coy on calling midterm-elections emergency",
+      "description": "Donald Trump delivered a cryptic response when asked whether he would consider calling a national security emergency ahead of the midterm elections, giving oxygen to calls from right-wing pundits for an unprecedented intervention.",
+      "link": "https://www.stuff.co.nz/world-news/361019106/stranger-things-have-happened-trump-coy-calling-midterm-elections-emergency",
+      "source": "Stuff",
+      "image": null,
+      "published": "2026-08-11 23:41:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "new zealand"
       ]
     }
   ]

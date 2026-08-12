@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Prakash Raj alleges voting rights being 'snatched' through SIR: 'You can't stop us from bringing you down'",
+      "description": "Officials said verification by the Booth Level Officer found that Prakash Raj had permanently shifted from his registered address at Garden Apartment, No. 266.",
+      "link": "https://zeenews.india.com/people/prakash-raj-alleges-voting-rights-being-snatched-through-sir-you-cant-stop-us-from-bringing-you-down-3066063.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/08/12/1972474-prakash-raj.jpg",
+      "published": "2026-08-12 05:58:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Vishnu Vishal Ends Collaboration with Arunraja Kamaraj; Cites Creative Differences and Budget Issues",
+      "description": "Actor-producer Vishnu Vishal ends collaboration with director Arunraja Kamaraj over creative clashes and budget concerns, calling budgeting a major challenge for today\u2019s film industry",
+      "link": "https://www.hollywoodreporterindia.com/features/insight/vishnu-vishal-ends-collaboration-with-arunraja-kamaraj-cites-creative-differences-and-budget-issues",
+      "source": "The Hollywood Reporter India",
+      "image": "https://media.assettype.com/hollywoodreporterindia/2026-08-12/656qy0bz/2-image-collage-24.jpg",
+      "published": "2026-08-12 05:57:49",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Callum Turner\u2019s controversial dating admission after Dua Lipa marriage",
+      "description": "Callum Turner has revealed what kind of lover he is just months after tying the knot with Dua Lipa.",
+      "link": "https://thewest.com.au/lifestyle/culture/callum-turners-controversial-dating-admission-after-dua-lipa-marriage-c-22712855",
+      "source": "The West",
+      "image": "https://images.thewest.com.au/publication/C-22712855/dd3571cb4af72adc695b8257b3ff2060290fd67b-16x9-x0y235w1154h649.jpg",
+      "published": "2026-08-12 05:57:45",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

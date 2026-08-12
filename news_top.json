@@ -1,31 +1,46 @@
 {
   "status": "success",
-  "totalResults": 11,
+  "totalResults": 21,
   "results": [
     {
-      "title": "OpenAI ChatGPT Linux App launched: Ubuntu, Debian and Fedora support",
-      "description": "OpenAI has launched an official ChatGPT desktop app for Linux users worldwide in preview. The app supports ChatGPT, ChatGPT Work and Codex across Ubuntu, Debian and Fedora versions.",
-      "link": "https://www.news9live.com/technology/artificial-intelligence/openai-chatgpt-linux-app-launched-ubuntu-debian-and-fedora-support-2998735",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/08/OpenAI-ChatGPT-Linux-app.png",
-      "published": "2026-08-12 08:39:00",
+      "title": "Bonfire materials removed from Bogside site as \u2018kill all cops\u2019 flag flown near another pyre",
+      "description": "Bonfire materials removed at Lecky Road in Derry spark anger over PSNI and DFI 'double standards' and fears for community relations. Read the full story.",
+      "link": "https://www.belfasttelegraph.co.uk/area/derry-londonderry-city/news/bonfire-materials-removed-from-bogside-site-as-kill-all-cops-flag-flown-near-another-pyre/a/159917604.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/guykut-screenshot-2026-08-12-101009.png/alternates/BASE_SIXTEEN_NINE/Screenshot%202026-08-12%20101009.png",
+      "published": "2026-08-12 09:41:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Amsterdam cafe goes offline with 'reading raves' for digital detox\u2014Gen Z queues up",
+      "description": "Amsterdam cafe goes offline with 'reading raves' for digital detox\u2014Gen Z queues up Gen Z are swapping smartphones with a newfound trend called 'reading raves', which has taken the internet by storm in western Europe\u2019s touristy Dutch capital, Amsterdam. With the evolving...",
+      "link": "https://www.geo.tv/latest/677265-amsterdam-cafe-goes-offline-with-reading-raves-for-digital-detox",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-08-12/677265_024228_updates.jpg",
+      "published": "2026-08-12 09:41:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "pakistan"
       ]
     },
     {
-      "title": "Why petrol and diesel are costlier in Himachal Pradesh from today",
-      "description": "Petrol and diesel have become slightly costlier in Himachal Pradesh after the state imposed a 60 paise per litre Widow and Orphan Cess. The levy, effective from August 11, will fund welfare measures for widows and orphaned children.",
-      "link": "https://www.news9live.com/auto/himachal-pradesh-petrol-diesel-price-rise-widow-orphan-cess-2998733",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/05/petrol-pump-getty1.png",
-      "published": "2026-08-12 08:39:00",
+      "title": "Police hunt continues after murder linked to biker gangs",
+      "description": "Police believe a fatal incident in Pontypool was the result of a clash between two rival motorcycle clubs.",
+      "link": "https://www.southwalesargus.co.uk/news/26457045.pontnewynydd-death-two-rival-motorcycle-clubs/",
+      "source": "Southwalesargus Co Uk",
+      "image": "https://www.southwalesargus.co.uk/resources/images/21291872/",
+      "published": "2026-08-12 09:41:00",
       "category": [
-        "business",
+        "crime",
         "top"
       ],
       "country": [
@@ -33,74 +48,103 @@
       ]
     },
     {
-      "title": "Fake Income Tax Notice Seeking \u20b96,000 Payment Circulates Online, Govt Says It Is a Phishing Attempt",
-      "description": "Srinagar: A purported Income Tax Department notice seeking a payment of \u20b96,000 from a taxpayer is circulating online, prompting the government to flag the document as fake and caution people against falling for the apparent phishing attempt. The notice, dated Aug 9, 2026, carries the name of an individual and claims a total amount of [...]",
-      "link": "https://asianmail.in/2026/08/12/fake-income-tax-notice-seeking-%E2%82%B96000-payment-circulates-online-govt-says-it-is-a-phishing-attempt/",
-      "source": "Asian Mail",
-      "image": "https://i0.wp.com/asianmail.in/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-12-at-2.06.18-PM.jpeg?fit=696%2C464&ssl=1",
-      "published": "2026-08-12 08:39:00",
+      "title": "Bonfire materials removed from Bogside site as community group hits out at \u2018double standards\u2019",
+      "description": null,
+      "link": "https://www.belfasttelegraph.co.uk/area/derry-londonderry-city/news/bonfire-materials-removed-from-bogside-site-as-community-group-hits-out-at-double-standards/a/159917604.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/guykut-screenshot-2026-08-12-101009.png/alternates/BASE_SIXTEEN_NINE/Screenshot%202026-08-12%20101009.png",
+      "published": "2026-08-12 09:41:00",
       "category": [
         "crime",
         "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Children with diabetes to receive additional infusion sets and cartridges",
+      "description": "Children with type 1 diabetes, as well as patients who develop diabetes following pancreatic removal surgery are to start receiving additional infusion sets. Shutterstock.",
+      "link": "https://timesofmalta.com/article/children-diabetes-receive-additional-infusion-sets-cartridges.1132641",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/f1536cc78c3838e0096451928667b40a7d30c158-1786528284-61b4bcde-1920x1280.jpg",
+      "published": "2026-08-12 09:41:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "Six dogs found dead at home in 'atrocious condition' after weeks of suffering",
+      "description": "Victoria Fowles, of St Peter's Street in Lowestoft, appeared at Great Yarmouth Magistrates\u2019 Court after her six dogs died due to neglect.",
+      "link": "https://www.edp24.co.uk/news/26456965.lowestoft-woman-sentenced-six-dogs-died-due-neglect/",
+      "source": "Edp24",
+      "image": null,
+      "published": "2026-08-12 09:41:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Lebanon says Israeli strikes on south kill one, damage ambulance | International",
+      "description": "BEIRUT, Lebanon, Aug 12, 2026 (BSS/AFP) - Israeli twin strikes on southern Lebanon killed one person on Tuesday and damaged",
+      "link": "https://bssnews.net/international/413863/Lebanon-says-Israeli-strikes-on-south-kill-one,-damage-ambulance",
+      "source": "Bss",
+      "image": "https://www.bssnews.net/assets/news_photos/2026/08/12/image-413863-1786506299.jpg",
+      "published": "2026-08-12 09:41:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Man charged after 'murder bid' on Glasgow's Sauchiehall Street sees four people hospitalised",
+      "description": "Three men and one woman were taken to The Queen Elizabeth University Hospital for treatment.",
+      "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-after-murder-bid-34443441",
+      "source": "Glasgowlive Co Uk",
+      "image": "https://i2-prod.glasgowlive.co.uk/incoming/article34443646.ece/ALTERNATES/s615/0_gettyimages-1468917891-170667a.jpg",
+      "published": "2026-08-12 09:40:57",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Indian physicist Deepak Dhar wins prestigious 2026 Dirac Medal",
+      "description": "Dhar is one of four physicists to receive this year's medal, the International Centre for Theoretical Physics (ICTP), the Italy-based organisation which issues the award, said in a statement on Saturday",
+      "link": "https://www.dtnext.in/news/world/indian-physicist-deepak-dhar-wins-prestigious-2026-dirac-medal",
+      "source": "Dt Next",
+      "image": "https://media.assettype.com/dt-next/2026-08-12/8vg6dd2r/BeFunky-collage-35.jpg?w=280",
+      "published": "2026-08-12 09:40:57",
+      "category": [
+        "top",
+        "lifestyle"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Solar eclipse glasses sold out across UK \u2013 how to safely watch without them",
-      "description": "Solar eclipse glasses have sold out across the UK ahead of tonight's near-total solar eclipse \u2013 but there are still safe ways to watch it without them",
-      "link": "https://www.dailypost.co.uk/news/uk-world-news/solar-eclipse-glasses-sold-out-34443072",
-      "source": "North Wales Live",
-      "image": "https://i2-prod.dailypost.co.uk/news/uk-world-news/article34443071.ece/ALTERNATES/s615/0_Hand-holding-protective-solar-eclipse-glasses-looking-up-at-the-bright-sun-during-a-celestial-event-for-eye-protection.jpg",
-      "published": "2026-08-12 08:38:59",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Ayenini backs GBA\u2019s position on legal vacation, cites key principles",
-      "description": "Legal practitioner and journalist, Samson Lardi Ayenini, has weighed into the debate over the observance of legal vacation in Ghana\u2019s superior courts, backing the Ghana Bar Association\u2019s (GBA) call for the established break for lawyers to be...",
-      "link": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ayenini-backs-GBA-s-position-on-legal-vacation-cites-key-principles-2047350",
-      "source": "Ghana Web",
-      "image": "https://cdn.ghanaweb.com/imagelib/src/Samson_Lardy_Anyenini---Samson_Lardy_Anyenini-Samson_Lardy_Anyenini-4564.jpg",
-      "published": "2026-08-12 08:38:56",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Hull City boss describes Leon Bailey-Aston Villa transfer saga as a \"mess\"",
-      "description": "The Villa winger has been linked with a move to Hull throughout the summer.",
-      "link": "https://www.expressandstar.com/sport/football/aston-villa/hull-city-boss-describes-leon-bailey-aston-villa-transfer-saga-as-a-mess-8910557",
-      "source": "Express & Star",
-      "image": "https://contentstore.nationalworld.com/images/3624729f-6bb1-4925-85aa-fbe872137f59.jpeg",
-      "published": "2026-08-12 08:38:55",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "History San Jose eyes downtown sites such as just-bought city building",
-      "description": "One of the locations being scouted is the Knox-Goodrich Building, built in 1889.",
-      "link": "https://www.marinij.com/2026/08/12/history-san-jose-economy-build-property-real-estate-develop-store-home/",
+      "title": "Denver airport mural at heart of conspiracy theories is coming back",
+      "description": "Notorious as it is, the work is eclipsed in the airport\u2019s public art collection by Blucifer, the looming mustang with glowing red eyes.",
+      "link": "https://www.marinij.com/2026/08/12/denver-international-airport-public-art-conspiracy-theories-leo-tanguma-mural/",
       "source": "Marin Independent Journal",
-      "image": "https://www.marinij.com/wp-content/uploads/2026/08/SJM-L-HISTORYSJDT-03.jpg?w=1600&resize=1600,900",
-      "published": "2026-08-12 08:38:54",
+      "image": "https://www.marinij.com/wp-content/uploads/2026/08/TDP-Z-DIA-Leo-Tanguma-mural-01.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-12 09:40:56",
       "category": [
-        "business",
         "top"
       ],
       "country": [
@@ -108,15 +152,58 @@
       ]
     },
     {
-      "title": "Delhi Capitals\u2019 Cricketer Abishek Porel Arrested in Alleged Rape Case, Sent to 3-Day Custody",
-      "description": "Kolkata, Aug 12: Delhi Capitals wicketkeeper-batter Abishek Porel has been arrested in connection with an alleged rape case involving a medical student and sent to three-day police custody, weeks after the Calcutta High Court directed police to take action in the matter. Porel was taken into custody in Hooghly late Tuesday night and arrested after [...] The post Delhi Capitals\u2019 Cricketer Abishek Porel Arrested in Alleged Rape Case, Sent to 3-Day Custody appeared first on Northlines .",
-      "link": "https://thenorthlines.com/delhi-capitals-cricketer-abishek-porel-arrested-in-alleged-rape-case-sent-to-3-day-custody/",
-      "source": "The Northlines",
-      "image": "https://thenorthlines.com/wp-content/uploads/2026/08/Porel.jpg",
-      "published": "2026-08-12 08:38:53",
+      "title": "Missed chances to save woman's life after fatal stroke misdiagnosed as migraine - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "description": "Missed chances to save woman's life after fatal stroke misdiagnosed as migraine ABC News & Headlines \u2013 Australian Broadcasting Corporation Two missed chances to save a young woman\u2019s life: Coroner Adelaide Now Listen to family: stroke victim 'could have been saved' Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQblZQdVpkTXZNcDlOczZXcnRmMWREVlVZVFYwNFY4ZHh0TUwyenhsN0NiaktPVS0weTVlUTlfUlB4SGJUWHJuN0dGbzhNTjVBbzJpLVhCenRLUjZNM0dUalRES1FOWVFVNWdfU1NabVV1cjZzWHlxMjVfQ1ZQNVdlOVNWQjhqblBmVUMxSWFRVUhHVWswS21pNmdEd29lSVR4dmc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-12 09:40:56",
       "category": [
         "crime",
-        "sports",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Missed chances to save woman's life after fatal stroke misdiagnosed as migraine",
+      "description": "An Adelaide woman incorrectly diagnosed with a migraine was twice failed by the health system in the lead-up to her fatal stroke, according to a deputy coroner who reached the \"overwhelming conclusion\" the 32-year-old's death was preventable.",
+      "link": "https://www.abc.net.au/news/2026-08-12/coronial-inquest-findings-into-death-of-kate-sylvia/107027382",
+      "source": "Abc",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a3281452be2678b0a941129423e94ac7?impolicy=wcms_crop_resize&cropH=608&cropW=1080&xPos=0&yPos=0&width=862&height=485",
+      "published": "2026-08-12 09:40:56",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Reba McEntire shares 4th installment of music capsule series with \u201cRing Ring\u201d \u2013 see the video",
+      "description": "Reba McEntire has released the fourth installment of her ongoing music capsule series, introducing the new track \u201cRing Ring\u201d as part of her latest collection of songs. The release continues the country superstar\u2019s return to new music",
+      "link": "https://www.kfdi.com/2026/08/12/reba-mcentire-shares-4th-installment-of-music-capsule-series-with-ring-ring-see-the-video/",
+      "source": "Kfdi 101.3 Fm",
+      "image": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1854/2026/08/12094055/shutterstock_732597358458161-150x150.jpg",
+      "published": "2026-08-12 09:40:55",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Three arrested for dangerous bike stunts in Vadapalani",
+      "description": "Three men arrested in Vadapalani for performing dangerous bike stunts and racing at high speeds, endangering public safety.",
+      "link": "https://www.thehindu.com/news/cities/chennai/three-arrested-for-dangerous-bike-stunts-in-vadapalani/article71335470.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/27bezi/article71335907.ece/alternates/FREE_1200/iStock-1905024012%202.jpg",
+      "published": "2026-08-12 09:40:55",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -124,14 +211,14 @@
       ]
     },
     {
-      "title": "Fadahunsi: I\u2019ve Been Misinterpreted, I Said If Anyone Kills Our People, We\u2019ll Retaliate",
-      "description": "Fadahunsi says he was misrepresented after warning of retaliation if alleged killings of APC members in Osun continue.",
-      "link": "https://www.arise.tv/fadahunsi-ive-been-misinterpreted-i-said-if-anyone-kills-our-people-well-retaliate/",
-      "source": "Arise News",
-      "image": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/08/Francis-Adenigba-Fadahunsi.jpeg",
-      "published": "2026-08-12 08:38:51",
+      "title": "Everywhen appoints Parry as principal international consultant",
+      "description": "Everywhen has appointed Hannah Parry as principal international consultant. She will be responsible for building and maintaining international client relationships, growing the international book of business strategically and managing providers and propositions. Parry (pictured) brings more than 10 years of experience of working with large corporates in the international private medical insurance (IPMI) space. Positions The post Everywhen appoints Parry as principal international consultant appeared first on Health & Protection .",
+      "link": "https://healthcareandprotection.com/everywhen-appoints-parry-as-principal-international-consultant/",
+      "source": "Health &amp; Protection",
+      "image": "https://healthcareandprotection.com/wp-content/uploads/2026/08/Hannah-Parry-Everywhen.jpg",
+      "published": "2026-08-12 09:40:55",
       "category": [
-        "politics",
+        "business",
         "top"
       ],
       "country": [
@@ -139,33 +226,93 @@
       ]
     },
     {
-      "title": "Ex-budget chief Diokno says gov't revenue targets for 2027 'too optimistic'; says infra spending is key",
-      "description": "Former Finance and Budget Secretary Benjamin Diokno said the Marcos Jr. administration's revenue target for 2027 may be overly optimistic due to weak economic performance, among others.",
-      "link": "https://www.abs-cbn.com/news/business/2026/8/12/ex-budget-chief-diokno-says-gov-t-revenue-targets-for-2027-too-optimistic-1638",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/20260812090828/943e183ce40faed0a34378b8fdc1b142f0ec5e538b920c27c72f090330a9e0f7.jpg",
-      "published": "2026-08-12 08:38:50",
+      "title": "SMART Prebend Centre in Bedford to close due to lack of funds",
+      "description": "The Prebend Street Day Care Centre \u2013 managed by SMART CJS \u2013 will close its doors for the last time in October.",
+      "link": "https://www.bedfordtoday.co.uk/health/smart-prebend-centre-in-bedford-to-close-due-to-lack-of-funds-8911816",
+      "source": "Bedford Today",
+      "image": "https://www.bedfordtoday.co.uk/webimg/b25lY21zOjk5NGZmNmU4LWQyYTUtNDMzOC05OTRmLTQ3OWY0NWNmYzU5ZDplN2QwMTFkYi02NWNjLTQ2NDMtYmNlZS0wZDNlNmU5M2E2YWU=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-08-12 09:40:55",
       "category": [
-        "business",
+        "crime",
         "top"
       ],
       "country": [
-        "philippines"
+        "united kingdom"
       ]
     },
     {
-      "title": "Tanasha Donna Breaks Silence On Unpaid Cosmetic Surgery Allegations",
-      "description": "Kenyan singer Tanasha Donna has publicly addressed long-running allegations that she defaulted on a KSh 815,000 bill for a cosmetic procedure at a Nairobi clinic, disputing the narrative in a detailed statement shared on Tuesday, August 12. Addressing the incident that first surfaced between 2021 and 2022, the artist claimed that the narrative surrounding her [...]",
-      "link": "https://www.ghafla.co.ke/tanasha-donna-breaks-silence-on-unpaid-cosmetic-surgery-allegations/",
+      "title": "Sinkhole closes westbound I-196 at M-40",
+      "description": "A large sinkhole has closed a stretch of westbound I-196 in Allegan County, according to the Allegan County Sheriff's Office.",
+      "link": "https://www.fox17online.com/news/local-news/lakeshore/allegan/sinkhole-closes-i-196",
+      "source": "Fox 17 West Michigan News (wxmi)",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/ebf803e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F63%2F66%2Fe19576464cc2ac8409181fb06e13%2F081226-196-sinkhole.jpg",
+      "published": "2026-08-12 09:40:54",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Discover Oundle's creative side this September",
+      "description": "This September, Northants & Rutland Open Studios returns, inviting local people to discover the artists, makers and creative spaces on their doorstep.",
+      "link": "https://www.northantstelegraph.co.uk/your-world/discover-oundles-creative-side-this-september-8911789",
+      "source": "Northamptonshire Telegraph",
+      "image": "https://www.northantstelegraph.co.uk/jpim-static/image/ugc/2026/08/12/10/WhatsApp_Image_2026-06-15_at_11.51.48__4__1786527551_6d9b9f05-c7c4087401e02617.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-08-12 09:40:54",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Kate Actress Explains Why She Rejects Much Younger Suitors",
+      "description": "Catherine Kamau, popularly known as Kate Actress, has opened up about her approach to dating, revealing why she is not interested in relationships with significantly younger men. The celebrated actress has previously been candid about her personal life and the attention she receives from men, including younger admirers. Kate has particularly addressed the \u201csugar mummy\u201d [...]",
+      "link": "https://www.ghafla.co.ke/kate-actress-explains-why-she-rejects-much-younger-suitors/",
       "source": "Ghafla",
-      "image": "https://www.ghafla.co.ke/wp-content/uploads/sites/4/2024/09/Tanasha-Donna-cover-e1726543085599-1024x492.jpg",
-      "published": "2026-08-12 08:38:48",
+      "image": "https://www.ghafla.co.ke/wp-content/uploads/2026/08/Kate-Actress-cover-768x1024.jpg",
+      "published": "2026-08-12 09:40:52",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
         "kenya"
+      ]
+    },
+    {
+      "title": "Realme 16x 5G Launched in India at Rs 25,999: Specs & Features",
+      "description": "Realme 16x 5G has launched in India starting at Rs 25,999, featuring a 144Hz display, Dimensity 6300 chipset, 50MP camera and 7,000mAh battery with 45W fast charging. The phone goes on sale August 13 via Flipkart and Realme's website.",
+      "link": "https://www.newsbricks.com/technology/realme-16x-5g-launched-india-specs-features",
+      "source": "Newsbricks",
+      "image": "https://img.newsbricks.com/news-images/2026/08/newsart7562/realme-16x-5g-hd-7562.webp",
+      "published": "2026-08-12 09:40:49",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "EA-Ukraine VideoCast: Can US \u201cAdults In The Room\u201d Ensure Support for Kyiv Despite Trump?",
+      "description": "27-minute analysis of signs that US officials -- despite Donald Trump's unpredictability -- working on support for Ukraine v. Russia invasion The post EA-Ukraine VideoCast: Can US \u201cAdults In The Room\u201d Ensure Support for Kyiv Despite Trump? appeared first on EA WorldView .",
+      "link": "https://eaworldview.com/2026/08/ukraine-trump-us-adults-room/",
+      "source": "Ea Worldview",
+      "image": "https://eaworldview.com/wp-content/uploads/2025/12/UKRAINE-US-MEETING-30-11-25-e1764575452148.jpg",
+      "published": "2026-08-12 09:40:48",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

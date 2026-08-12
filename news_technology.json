@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "OpenAI ChatGPT Linux App launched: Ubuntu, Debian and Fedora support",
-      "description": "OpenAI has launched an official ChatGPT desktop app for Linux users worldwide in preview. The app supports ChatGPT, ChatGPT Work and Codex across Ubuntu, Debian and Fedora versions.",
-      "link": "https://www.news9live.com/technology/artificial-intelligence/openai-chatgpt-linux-app-launched-ubuntu-debian-and-fedora-support-2998735",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/08/OpenAI-ChatGPT-Linux-app.png",
-      "published": "2026-08-12 08:39:00",
+      "title": "Amsterdam cafe goes offline with 'reading raves' for digital detox\u2014Gen Z queues up",
+      "description": "Amsterdam cafe goes offline with 'reading raves' for digital detox\u2014Gen Z queues up Gen Z are swapping smartphones with a newfound trend called 'reading raves', which has taken the internet by storm in western Europe\u2019s touristy Dutch capital, Amsterdam. With the evolving...",
+      "link": "https://www.geo.tv/latest/677265-amsterdam-cafe-goes-offline-with-reading-raves-for-digital-detox",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-08-12/677265_024228_updates.jpg",
+      "published": "2026-08-12 09:41:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Realme 16x 5G Launched in India at Rs 25,999: Specs & Features",
+      "description": "Realme 16x 5G has launched in India starting at Rs 25,999, featuring a 144Hz display, Dimensity 6300 chipset, 50MP camera and 7,000mAh battery with 45W fast charging. The phone goes on sale August 13 via Flipkart and Realme's website.",
+      "link": "https://www.newsbricks.com/technology/realme-16x-5g-launched-india-specs-features",
+      "source": "Newsbricks",
+      "image": "https://img.newsbricks.com/news-images/2026/08/newsart7562/realme-16x-5g-hd-7562.webp",
+      "published": "2026-08-12 09:40:49",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,178 +1,30 @@
 {
   "status": "success",
-  "totalResults": 27,
+  "totalResults": 20,
   "results": [
     {
-      "title": "Flash Flood Warning issued August 11 at 4:42PM PDT until August 11 at 7:45PM PDT by NWS Las Vegas NV",
-      "description": "Flash Flood Warning: San Bernardino, CA until Aug 11 at 11:57 PM The post Flash Flood Warning issued August 11 at 4:42PM PDT until August 11 at 7:45PM PDT by NWS Las Vegas NV appeared first on KESQ .",
-      "link": "https://kesq.com/weather/alerts-weather/2026/08/11/flash-flood-warning-issued-august-11-at-442pm-pdt-until-august-11-at-745pm-pdt-by-nws-las-vegas-nv/",
-      "source": "Kesq",
-      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
-      "published": "2026-08-11 23:42:00",
+      "title": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks",
+      "description": "Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals",
+      "link": "https://www.kcra.com/article/ice-officers-electric-shock-gloves/73407610",
+      "source": "Kcra",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/296a6508-f870-47a0-a2e1-8a3a112e6473.jpg",
+      "published": "2026-08-12 01:03:00",
       "category": [
         "top",
-        "environment"
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Bondi bombshell! Sam Walker contract talks break down in $5m Roosters shock",
-      "description": "Sam Walker is reportedly set to hit free agency on November 1 after contract talks with the Roosters broke down this week.",
-      "link": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-sam-walkers-contract-talks-with-roosters-break-down-set-to-hit-free-agency-on-november-1-who-could-sign-him/news-story/baaf96919a24d48963ab1d020b20c5af",
-      "source": "Fox Sports",
-      "image": null,
-      "published": "2026-08-11 23:42:00",
+      "title": "Raw beef recalled in high-risk alert",
+      "description": "Corte Argentino USA is recalling nearly 30,000 pounds of raw beef sold without inspection. The USDA has recalled five beef products in two states.",
+      "link": "https://www.thestreet.com/retail/corte-argentino-raw-beef-recall-high-risk-alert-usda",
+      "source": "Thestreet",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQyNzEz/recalled-ground-beef.jpg?profile=rss",
+      "published": "2026-08-12 01:03:00",
       "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Former Cochise GOP Chair, other 2020 \u2018fake electors\u2019 see charges dismissed",
-      "description": "A Maricopa County judge dismisses charges against Arizona's 2020 Republican presidential electors at the request of Attorney General Kris Mayes but the charges could theoretically be refiled in the future.",
-      "link": "https://www.myheraldreview.com/news/cochise_county/former-cochise-gop-chair-other-2020-fake-electors-see-charges-dismissed/article_4d56c181-0771-4cf6-b0e8-591863071504.html",
-      "source": "Myheraldreview",
-      "image": "https://bloximages.chicago2.vip.townnews.com/myheraldreview.com/content/tncms/assets/v3/editorial/1/bc/1bc38a28-eae6-4084-b3d0-80a1609d66ca/66033ecfdd906.image.jpg?resize=300%2C386",
-      "published": "2026-08-11 23:42:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Man who drove off ferry dock, killing 2 passengers, is sentenced",
-      "description": "A driver who drove through a barrier off the end of the Edmonds ferry dock last year, killing two passengers, was sentenced Tuesday to seven years in prison. Last month, William G. Leonard of ...",
-      "link": "https://www.edmondsbeacon.com/stories/untitled,188413",
-      "source": "Edmonds Beacon",
-      "image": "https://alpha.creativecirclecdn.com/beaconpub/large/20260811-164119-a38-ferry%20dock.png.jpg",
-      "published": "2026-08-11 23:42:00",
-      "category": [
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "House Democrats Propose Sweeping CYFD Overhaul Ahead of Legislative Session",
-      "description": "The comprehensive legislation aims to increase transparency and accountability through body cameras, an independent commission, and expanded watchdog authority, while Republicans question the timing of the reforms.",
-      "link": "https://www.koat.com/article/house-democrats-propose-sweeping-cyfd-overhaul-ahead-of-legislative-session/73406340",
-      "source": "Koat Action News Seven",
-      "image": "https://hips.hearstapps.com/vidthumb/f4d556d2-6aaf-4477-a01e-42ce3a496628/4f37231c-5ec2-40f6-8e4b-244f152f0abe.jpg",
-      "published": "2026-08-11 23:42:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Kawhi Leonard attends National Bank Open in Toronto - Sportsnet.ca",
-      "description": "Kawhi Leonard attends National Bank Open in Toronto Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVg3R1owRmJZc29QVE96WlI3cGF0UzV2dUhnY3B6bXUzdVEtbW9wMnFWeXZYMktOSWMxUVZFcnZydGhvZWdYOThRMW94cUVrSkcyQ1N6NVY2TV9OX3BkOWRpbUNwZlo3V1pMZzRGTHhnMUk4VC1NMEJyNUxueUtfWVBMcUxxOVRyQ2ZoVTVTbmwxN0U?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-11 23:42:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Tara Lipinski Was Just 15 When She Delivered an Olympic Performance That 'Stopped Time' - parade.com",
-      "description": "Tara Lipinski Was Just 15 When She Delivered an Olympic Performance That 'Stopped Time' parade.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0xpeUxEZjNqMFdIRldlcFAyRU9MT3dMWVU4c3F6cXQzaUNHWExiZWdEeGJBVVQ1WFFqNk9ReHVOVEZNaVZKbk52YmtmODlTVy1BSlRSTDBaZ2hsSk40eUpwNWp1S0U2bTFEbDBDSGg5NWE3ZThBd1JwZlEtMWhPQUxZblFsR0tTQzFkblNCdENpS2RFNTJpVkQ1TmExdw?oc=5",
-      "source": "Scenenewspaper.com",
-      "image": null,
-      "published": "2026-08-11 23:42:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Farmer's market chat",
-      "description": "Patt Weimer, 81, of Groton, who hand-stitches quilts and throws, chats with a customer at the Washington Park Farmers Market in Groton on Tuesday. and ask for more.",
-      "link": "https://theday.com/news/914952/farmers-market-chat/",
-      "source": "The Day",
-      "image": "https://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/1/150/208/1150208_1_v2",
-      "published": "2026-08-11 23:41:59",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Police logs \u2014 Aug. 12, 2026",
-      "description": "Arrest by state and local police departments across the region.",
-      "link": "https://theday.com/news/914718/police-logs-aug-12-2026/",
-      "source": "The Day",
-      "image": "https://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/0/766/789/766789_original",
-      "published": "2026-08-11 23:41:59",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Rockies at Diamondbacks live updates. Perdomo absent from lineup",
-      "description": "The Arizona Diamondbacks will look to beat the Colorado Rockies for the second time in as many games on Tuesday, Aug. 11, at Chase Field.",
-      "link": "https://www.azcentral.com/story/sports/mlb/diamondbacks/2026/08/11/diamondbacks-rockies-score-game-updates/91244503007/",
-      "source": "The Arizona Republic",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/06/PPHX/91197000007-20260806-t-020948-z-445831847-mt-1-usatoday-29524643-rtrmadp-3-mlbsandiegopadresatarizonadiamondbacks.JPG?auto=webp&crop=6221,3501,x0,y323&format=pjpg&width=1200",
-      "published": "2026-08-11 23:41:57",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "\u2018Stranger things have happened\u2019: Trump coy on calling midterm-elections emergency",
-      "description": "Donald Trump delivered a cryptic response when asked whether he would consider calling a national security emergency ahead of the midterm elections, giving oxygen to calls from right-wing pundits for an unprecedented intervention.",
-      "link": "https://www.stuff.co.nz/world-news/361019106/stranger-things-have-happened-trump-coy-calling-midterm-elections-emergency",
-      "source": "Stuff",
-      "image": null,
-      "published": "2026-08-11 23:41:56",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "Republicans to spend $6 million more to help Mike Rogers' Senate campaign",
-      "description": "WASHINGTON \u2014 A Senate Republican group said Tuesday it\u2019s adding $6 million this month to the $45 million it was already planning to spend on Michigan\u2019s open U.S. Senate race for a total of $51 million to help GOP nominee...",
-      "link": "https://www.eagletribune.com/region/republicans-to-spend-6-million-more-to-help-mike-rogers-senate-campaign/article_311c6f2e-f832-5244-acdf-f47225f46804.html",
-      "source": "Eagletribune",
-      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-      "published": "2026-08-11 23:41:55",
-      "category": [
-        "top",
         "business"
       ],
       "country": [
@@ -180,55 +32,42 @@
       ]
     },
     {
-      "title": "Ceddanne Rafaela's sac fly",
-      "description": "Ceddanne Rafaela lifts a fly ball to center field deep enough for Andruw Monasterio to tag up and score",
-      "link": "https://ca.sports.yahoo.com/video/ceddanne-rafaelas-sac-fly-234153370.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/aa60f570f9eb1cec1f4c2e2a57db53901d22fe9d12ddbf76c55dce55c2166689/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.mlb.com%2F2f7d7290ad663e9b63cd4323d20887d5.jpg",
-      "published": "2026-08-11 23:41:53",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Big Donation From Electrical Workers Puts Kotek in a Difficult Spot",
-      "description": "Major supporters of data centers, IBEW Local 48 gave governor\u2019s campaign $400K.",
-      "link": "https://www.wweek.com/news/state/2026/08/11/big-donation-from-electrical-workers-puts-kotek-in-a-difficult-spot/",
-      "source": "Willamette Week",
-      "image": "https://www.wweek.com/resizer/OlxW6R9ritTieowpjFL4eV6C8jw=/cloudfront-us-east-1.images.arcpublishing.com/wweek/YIBIU3HEARFBRKGOOKXOQKJPKY.jpg",
-      "published": "2026-08-11 23:41:52",
+      "title": "Boehringer Ingelheim expands equine health pipeline with acquisition of Evax AG",
+      "description": "Boehringer Ingelheim announced today that it has acquired Evax AG, a Swiss biotech company focused on equine health. Founded more than a decade ago at the University of Zurich, Evax has been exploring the use of therapeutic vaccines to address significant unmet needs in horses, particularly for the treatment of allergic skin diseases. \"We're excited to have the potential to offer horse owners the first innovative therapeutic option for allergic skin diseases targeting the underlying cause of the disease. This may result in a longer duration of action, better treatment outcomes, and increased convenience and compliance,\" said Saskia Kley, Global Head of Equine for Boehringer Ingelheim. Allergies and dermatologic conditions in horses are common and have a significant impact on their health and well-being yet are very challenging to treat. Current options for management of these conditions are often time-consuming and provide only temporary relief (e.g., shampoos and topical treatments), while some therapies may be associated with significant safety concerns (e.g. corticosteroids). Therapeutic vaccines incorporating virus-like particles are designed to induce the horse's immune system to produce neutralizing antibodies, treating the underlying cause of the disease. \"We're excited to join Boehringer Ingelheim Animal Health, and tap their innovation, supply and commercial expertise, as we advance through the next phases of providing novel therapeutic treatment options in areas of unmet need for horses,\" said Dr. Antonia Gabriel, CEO and Founder of Evax. Boehringer Ingelheim has been pursuing therapeutic vaccines for many years, including through its collaboration with and subsequent acquisition of Saiba Animal Health in 2024. \"The acquisition of Evax advances our strategy to drive breakthrough innovation in our preventive and therapeutic portfolio. Virus-like particle technology represents a truly innovative approach in animal health, with the potential to address areas of high unmet medical need, including chronic diseases in pets and allergy-related disorders in horses. Based on our research to date, we believe that this technology can play an important role in improving animal health and wellbeing,\" said Knut Elbers, Head of Global Innovation, Animal Health at Boehringer Ingelheim. Terms of the transaction were not disclosed. About Boehringer Ingelheim - Animal Health business Boehringer Ingelheim provides innovation for preventing and treating diseases in animals. The company offers a wide range of vaccines, parasite-control products, and medicines for pets, horses, and livestock to veterinarians, animal owners, farmers, and governments. As a leader in animal health, Boehringer Ingelheim values that the health of humans and animals is deeply connected and strives to have influence on people, animals, and society. Learn more at www.boehringer-ingelheim.com/animal-health. About Boehringer Ingelheim Boehringer Ingelheim is a biopharmaceutical company active in both human and animal health. As one of the industry's top investors in research and development, the company focuses on developing innovative therapies that can improve and extend lives in areas of high unmet medical need. Independent since its foundation in 1885, Boehringer takes a long-term perspective, embedding sustainability along the entire value chain. Our approximately 54,300 employees serve over 130 markets to build a healthier and more sustainable tomorrow. Learn more at www.boehringer-ingelheim.com. Attachment Boehringer headquarters Copyright 2026 GlobeNewswire, Inc.",
+      "link": "https://www.riauone.com/global/Boehringer-Ingelheim-expands-equine-health-pipeline-with-acquisition-of-Evax-AG",
+      "source": "Riauone.com | Berita Nusantara Terkini",
+      "image": "https://www.riauone.com/photo/berita/dir082026/9644_Boehringer-Ingelheim-expands-equine-health-pipeline-with-acquisition-of-Evax-AG.jpg",
+      "published": "2026-08-12 01:03:00",
       "category": [
         "top",
-        "business"
+        "health"
       ],
       "country": [
-        "united states of america"
+        "indonesia"
       ]
     },
     {
-      "title": "Crypto Market News Traps XRP and BNB Below Key Levels While Pepeto Erupts Before Binance Listing",
-      "description": "The crypto market news this week tells two stories at once. Bitcoin steadies above $63,500 as Iran and Oman negotiate a deal to reopen the Strait of Hormuz, easing geopolitical pressure that had kept risk assets pinned for weeks. The",
-      "link": "https://www.openpr.com/news/4601565/crypto-market-news-traps-xrp-and-bnb-below-key-levels-while-pepeto",
-      "source": "Openpr.com",
-      "image": "https://cdn.open-pr.com/L/8/L812911600_k.jpg",
-      "published": "2026-08-11 23:41:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Padres rally late to take opener, setting up key middle game of series",
+      "title": "Skill Games 120-Day Stay Order Nears Halfway Point, With No Legislation Passed",
       "description": null,
-      "link": "https://sports.yahoo.com/articles/padres-rally-opener-setting-key-234151920.html",
+      "link": "https://www.erienewsnow.com/news/skill-games-120-day-stay-order-nears-halfway-point-with-no-legislation-passed/article_5b264d0a-bb83-41da-b43f-cdc85717a114.html",
+      "source": "Erie News Now",
+      "image": null,
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lebby not letting recent news keep him from the present",
+      "description": "STARKVILLE \u2013 Jeff Lebby was tight-lipped and attentive at the podium on Tuesday at the Seal Complex. Mississippi State\u2019s head coach did not have much to say regarding the possible additions of edge rusher Malick Sylla and safety Jahron Manning. ESPN\u2019s Pete Thamel reported on Monday night that the Bulldogs are \u201cin the process\u201d of adding them back in light of a recent court ruling in Colorado ...",
+      "link": "https://sports.yahoo.com/articles/lebby-not-letting-recent-news-010300168.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/24e52386b0c87af83fe5539ba259e55c24a38e1e587e8b0e18ce898588a84a3a/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5d2e6f4b3345712729a11d5340d935ef.jpg",
-      "published": "2026-08-11 23:41:51",
+      "image": "https://s.yimg.com/lo/mysterio/api/5f83ac44f2814f3f4e1e2b11df1ef23eb32fcac4edbad49836ef3fc6e2ecc69f/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published": "2026-08-12 01:03:00",
       "category": [
         "breaking",
         "sports"
@@ -238,97 +77,132 @@
       ]
     },
     {
-      "title": "Every first-round pick in the NCHC in the 2026-27 season",
-      "description": "The NCHC currently has the reigning national champions, the Denver Pioneers. The conference is bringing in a lot of 2026 draft picks, with a lot of them in the first round. So who are the names, and which teams have the most players drafted on day one?",
-      "link": "https://ca.sports.yahoo.com/video/every-first-round-pick-nchc-234149320.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/9c0c6eaa702b48206878b351c6d652e2e42dddff095b17a50a073bdf4f8db7eb/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_ncaa_videos_805%2F22bf588a20009c99b1382954a094f8b8.jpg",
-      "published": "2026-08-11 23:41:49",
+      "title": "How much sleep do world leaders really get?",
+      "description": "How much sleep do world leaders really get? From Sanae Takaichi to Barack Obama, explore the short nights shaping decisions that affect millions.",
+      "link": "https://gulfnews.com/world/europe/how-much-sleep-do-world-leaders-really-get-1.500637486",
+      "source": "Gulf News",
+      "image": null,
+      "published": "2026-08-12 01:03:00",
       "category": [
-        "sports"
+        "top",
+        "health"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "This 240-Mile Rolls-Royce Cullinan Drew $555,551 And Still Went Home Unsold",
+      "description": "The previous owner of this Cullinan paid almost $163,000 for a new bodykit and wheels",
+      "link": "https://www.carscoops.com/2026/08/widebody-rolls-royce-cullinan-auction/",
+      "source": "Carscoops",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Rolls-Cullinan-Urban-Auction-6aa-copy.jpg",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What to Know About the Cuban Mafia in Quintana Roo",
+      "description": "For years, luxury boats and marine equipment were going missing from southwest Florida cities, from Sarasota to Naples to Marco Island.",
+      "link": "https://www.virginislandsdailynews.com/what-to-know-about-the-cuban-mafia-in-quintana-roo/article_627494ad-05e2-4ac3-931d-d885205957ac.html",
+      "source": "Virginislandsdailynews",
+      "image": "https://bloximages.newyork1.vip.townnews.com/virginislandsdailynews.com/content/tncms/assets/v3/editorial/f/31/f310fade-7268-4330-8a1d-6a85b7793fac/6a7bc65e60bd8.image.jpg?resize=300%2C375",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Why Is OD6 Metals (ASX:OD6) Back in Focus?",
+      "description": "OD6 Metals news explained through fresh company disclosures, sector conditions and the Australian market backdrop.",
+      "link": "https://kalkinemedia.com/au/stocks/penny/why-is-od6-metals-asxod6-back-in-focus",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_1928920910_08_12_2026_01_03_19_446683.jpg",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Voters pick David Varnam as Tom Tiffany\u2019s running mate",
+      "description": "Varnam defeated Will Martin, a former top aide to Govs. Tommy Thompson and Scott Walker.",
+      "link": "https://lacrossetribune.com/news/state-regional/government-politics/elections/article_74b44d53-0050-5fa2-989e-23eb871b3032.html",
+      "source": "La Crosse Tribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/8/74/874d3d72-b707-58f7-91ae-03d58da7a905/6a7be1f9aefd8.image.jpg?resize=300%2C169",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Three juveniles charged with string of car burglaries",
+      "description": "Crime news logo BOONEVILLE \u2013 The Prentiss County Sheriff\u2019s Office has detained three male juveniles who now face felony charges following a rash of car burgl...",
+      "link": "https://www.yahoo.com/news/articles/three-juveniles-charged-string-car-010300977.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Drug arrest sends woman back to jail two months after she got out",
+      "description": "Arnasia Holmes.jpeg Holmes OXFORD \u2013 Getting arrested for drug trafficking less than two months after being put on probation has landed a Vardaman woman back...",
+      "link": "https://www.yahoo.com/news/us/articles/drug-arrest-sends-woman-back-010300321.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Dollar subdued as markets await US inflation data for Fed clues",
+      "description": "Dollar subdued as markets await US inflation data for Fed clues",
+      "link": "https://ca.investing.com/news/economy-news/dollar-subdued-as-markets-await-us-inflation-data-for-fed-clues-4793999",
+      "source": "Investing Canada",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7B01C_L.jpg",
+      "published": "2026-08-12 01:02:59",
+      "category": [
+        "business"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "Live updates: Will early voting record lead to record turnout for Minnesota primary election?",
-      "description": "Minnesota set an early voting record for a non-presidential election year. Will Tuesday also end up with record turnout? Follow along live. The post Live updates: Will early voting record lead to record turnout for Minnesota primary election? first appeared on KSTP.com 5 Eyewitness News .",
-      "link": "https://kstp.com/kstp-news/top-news/minnesota-primary-election-2026-live-updates-wisconsin-results/",
-      "source": "Kstp Television",
-      "image": "https://kstp.com/wp-content/uploads/2026/08/HOW-TO-VOTE_PKG_KSTP005a_146_mxf_00.00.00.34.jpg",
-      "published": "2026-08-11 23:41:48",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "This viral couch was all over my TikTok, so I got it and put it to the test",
-      "description": "Viral Canadian lounge brand Cozey has made its way Down Under, and I put one of its modular sofas to the test.",
-      "link": "https://www.tomsguide.com/home/this-viral-couch-was-all-over-my-tiktok-so-i-got-it-and-put-it-to-the-test",
-      "source": "Tom's Guide",
-      "image": "https://cdn.mos.cms.futurecdn.net/9NHLaSt4bigBMMXeHNfF8C-1280-80.png",
-      "published": "2026-08-11 23:41:46",
-      "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New Mexico\u2019s Rio Rancho quarterback Micah Takahashi (9) throws the ball during a high school football game against Eastlake at SAC 1 in El Paso, Texas, on Thursday, Sept. 18, 2025.",
-      "description": "High School On SI unveils its 2026 New Mexico preseason high school football rankings, led by defending Class 6A champion Cleveland and a deep statewide Top 25.",
-      "link": "https://www.si.com/high-school/new-mexico/new-mexico-high-school-football-preseason-top-25-cleveland-opens-2026-at-no-1-01kzsfebp2pk",
-      "source": "Si",
-      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2159,h_1214,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/high_school/01kzsh2acncf9dzn94ev.jpg",
-      "published": "2026-08-11 23:41:46",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Firefly Aerospace pushes debut of Alpha Block 2 rocket to the fourth quarter of 2026",
-      "description": "During an investor earnings call on Tuesday, Firefly Aerospace CEO Jason Kim said the company now expects to fly a total of three Alpha rockets this year.",
-      "link": "https://spaceflightnow.com/2026/08/11/firefly-aerospace-pushes-debut-of-alpha-block-2-rocket-to-the-fourth-quarter-of-2026/",
-      "source": "Spaceflight Now",
-      "image": null,
-      "published": "2026-08-11 23:41:43",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "US Freight Railroads Lose Appeal Challenging New Rule Requiring at Least Two-Person Crews",
-      "description": "Six U.S. railroads and two industry groups lost their appeal challenging a new rule that would require many trains to operate with at least two crew members, according to a ruling filed by the U.S. Court of Appeals for the 11th Circuit on Tuesday. The nation\u2019s freight railroads, including Union Pacific and Berkshire Hathaway-owned BNSF, [...] The post US Freight Railroads Lose Appeal Challenging New Rule Requiring at Least Two-Person Crews appeared first on GV Wire .",
-      "link": "https://gvwire.com/2026/08/11/us-freight-railroads-lose-appeal-challenging-new-rule-requiring-at-least-two-person-crews/",
-      "source": "Gv Wire",
-      "image": null,
-      "published": "2026-08-11 23:41:43",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "3M Must Face Suit Challenging Retirement Plans' Fund Lineup",
+      "title": "Why is Suncorp stock surging today?",
       "description": null,
-      "link": "https://www.law360.com/articles/2512351/3m-must-face-suit-challenging-retirement-plans-fund-lineup",
-      "source": "Law360",
-      "image": null,
-      "published": "2026-08-11 23:41:43",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-suncorp-stock-surging-today-93CH-4853552",
+      "source": "Investing Us",
+      "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "published": "2026-08-12 01:02:56",
       "category": [
         "top",
         "business"
@@ -338,62 +212,91 @@
       ]
     },
     {
-      "title": "Three brief tornadoes identified from Tuesday morning\u2019s storms",
-      "description": "The twisters provided enhanced damage to those in their path.",
-      "link": "https://www.kcrg.com/2026/08/11/three-brief-tornadoes-identified-tuesday-mornings-storms/",
-      "source": "Https://www.kcrg.com",
-      "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/ID3MUFENTFEFFKEE4XRH3Z2CZI.png?auth=10c0826798d63ab85c5920ede1fc84cc765d9d8f1a0a26e7f8ed26c032aa8530&width=1200&height=600&smart=true",
-      "published": "2026-08-11 23:41:42",
+      "title": "ICE to spend $20M on gloves designed to deliver painful electric shocks",
+      "description": "The gloves must be applied directly to someone's skin to deliver a pain stimulus that typically helps an officer gain compliance within seconds",
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/ice-officers-glove-electric-shocks-b3031482.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-08-12 01:02:54",
       "category": [
         "top",
-        "environment"
+        "health"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "How a hedge fund billionaire became the Democrats' new kingmaker",
-      "description": "Hedge fund billionaire Stephen Mandel has emerged as an influential force in Connecticut Democratic politics through the Connecticut Project and related lobbying and campaign operations. The network funds more than 70 organizations and projects, spent $680,000 on lobbying in a single year, and has i... Article link",
-      "link": "https://www.opalesque.com/fullarticle/715887/How_a_hedge_fund_billionaire_became_the588.html",
-      "source": "Opalesque",
-      "image": "https://www.opalesque.com/images/opalesque-small-logo-23.png",
-      "published": "2026-08-11 23:41:40",
+      "title": "Star\u2019s drastic act after erupting at trolls - News.com.au",
+      "description": "Star\u2019s drastic act after erupting at trolls News.com.au See more headlines and perspectives on Google News",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNWhOM2VGMWZ3S19XS2ExQjBSNDRGM2R1VFROOElUdGs4Rm5kbUU2b1RTdjJGWGh6bW1iYng1Sl9CcUcyVC1YdFZxREsyOHFJVnNjRmlJZ01jbTZVRVBBM3VCZl94X1dWR2g2Q3I4REFtUElnUTYxTWpTdE1WR0FHdl9nN3JvZFgyYVJjckpEOVMxeVNHcTBZQnZtT3BsbE5acnpTcDZVYzRmZDVDQi1qQUU3WUhaVTdONE1mLWJPLVBHSW5wVzVtOWVZR0I3MEFwNW1HQW4xbm9JMFE0eFNQZWNDcUg3NHo5SEFPQlVFY0ZlV0FXYnMzRkhRd0NpNzdJSFHSAYcCQVVfeXFMT1ZjOVotb0RnQnpPRUR2QUhKQkYyR0ZDZXB6Um9DZmVFck5QUUZhSzA3RTZHM0ZmbWJvbjVGR1p1WDhtVlk5YlNPZVoxOERhVWxuS0M4WmpFTk5jNjVSenRGeXczbnEtQU1mNkFQcGVvVjZvYkFHMXRTbm4zVjNJZzF2OTBtVlRJTENWVUhRd1Z6bE4zZzRfdlZIMnN3SzBBNVlWajVZX1hibl96aEJ5RGw3aUVmdmt3RHdSc0k5N2NZOEJrdE85dWpud25BcndMWDR5TVhXQTJfZFU1QXhHbFlpeHFacG5kMzgxUWEyNFdUUXB5WlBGNXZleC1NLUVkNXRwYms1Snc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-12 01:02:45",
       "category": [
-        "business",
-        "top"
+        "entertainment"
       ],
       "country": [
-        "india"
+        "australia"
       ]
     },
     {
-      "title": "Giants to host Terrion Arnold as he faces kidnapping, robbery charges",
-      "description": "The Giants cornerback room could be getting a talented yet troubled addition.",
-      "link": "https://nypost.com/2026/08/11/sports/giants-to-host-corner-terrion-arnold-who-is-facing-felony-charges/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2026-connection-february-robbery-kidnapping-132721547.jpg?quality%3D90%26strip%3Dall",
-      "published": "2026-08-11 23:41:39",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Vietnam\u2013Australia education cooperation enters new phase",
-      "description": "The Vietnam\u2013Australia TechConnect Forum, held on August 10 at the University of Technology Sydney during General Secretary and President To Lam\u2019s state visit to Australia, showcased this opportunity. The event brought together representatives from both countries\u2019 governments, universities, research institutes, and businesses, creating a space to link education with science, technology, and investment. Vietnam, Australia cultivate media cooperation in digital age Vietnam Airlines marks 35,000th flight to Australia Top leader receives Vietnamese intellectuals, scientists in Australia",
-      "link": "https://en.vietnamplus.vn/vietnamaustralia-education-cooperation-enters-new-phase-post349886.vnp",
-      "source": "Vietnam+",
-      "image": "https://mediaen.vietnamplus.vn/images/f579a678cf9e90879541752073c26005dfefc904065b396d35ff2abf711a6ea9ee9ca0eeb69eaa531212b4d77a1bfb25cda595120d0988f5445d61e8b6c784a7/vnanet-layton-pike.jpg.webp",
-      "published": "2026-08-11 23:41:35",
+      "title": "Oil rises as doubts over US-Iran deal heighten supply concerns",
+      "description": "Oil rises as doubts over US-Iran deal heighten supply concerns",
+      "link": "https://ca.investing.com/news/commodities-news/oil-rises-as-doubts-over-usiran-deal-heighten-supply-concerns-4793998",
+      "source": "Investing Canada",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7B01D_L.jpg",
+      "published": "2026-08-12 01:02:44",
       "category": [
         "top",
-        "education"
+        "business"
       ],
       "country": [
-        "vietnam"
+        "canada"
+      ]
+    },
+    {
+      "title": "New attacks on shipping as Iran war talks hit impasse",
+      "description": "US military says it has fired on a ship in Gulf of Oman to enforce its blockade of Iranian ports.",
+      "link": "https://www.blayneychronicle.com.au/story/9328626/new-attacks-on-shipping-as-iran-war-talks-hit-impasse/?src=rss",
+      "source": "Blayney, Nsw",
+      "image": "https://www.blayneychronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/b5f1b929-a892-4d4a-a652-5d3c7d856a67.jpg/r0_75_800_526_w600_h338_fmax.jpg",
+      "published": "2026-08-12 01:02:43",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Letter: Unfair to expect families to solve the care conundrum",
+      "description": null,
+      "link": "https://www.ft.com/content/9b381aa1-6cfb-4d8d-a6d9-2b7bcfd0f2a1",
+      "source": "Financial Times",
+      "image": null,
+      "published": "2026-08-12 01:02:42",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Here\u2019s what could get the market moving again",
+      "description": "The salary cap has recently gone up in the National League. You\u2019ll probably say that this is often the case, which is true. But this year, the $8.5 million increase\u2014bringing the total to $104 million\u2014is truly on another level. The pandemic is behind us, and it shows\u2014since the projection for a year from now is [...] The post Here\u2019s what could get the market moving again appeared first on Dose.ca .",
+      "link": "https://dose.ca/2026/08/11/heres-what-could-get-the-market-moving-again/",
+      "source": "Dose Ca News",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26bd.png",
+      "published": "2026-08-12 01:02:39",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "AP Exclusive: ICE plans to give officers gloves that can deliver painful electric shocks",
+      "description": "Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks that are intended to gain compliance from combative individuals",
+      "link": "https://www.kcra.com/article/ice-officers-electric-shock-gloves/73407610",
+      "source": "Kcra",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/296a6508-f870-47a0-a2e1-8a3a112e6473.jpg",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "This 240-Mile Rolls-Royce Cullinan Drew $555,551 And Still Went Home Unsold",
+      "description": "The previous owner of this Cullinan paid almost $163,000 for a new bodykit and wheels",
+      "link": "https://www.carscoops.com/2026/08/widebody-rolls-royce-cullinan-auction/",
+      "source": "Carscoops",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/Rolls-Cullinan-Urban-Auction-6aa-copy.jpg",
+      "published": "2026-08-12 01:03:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

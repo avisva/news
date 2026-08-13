@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Defeating Modern Threats with Capable, Affordable Munitions",
-      "description": "The United States and its allies face increasingly complex and rapidly evolving threats that require industry to meet the moment through innovation and a renewed focus on producibility, Quinlan Lyte, President, Advanced Effects, Missile Solutions, L3Harris, writes in Breaking Defense.",
-      "link": "https://www.l3harris.com/newsroom/editorial/2026/08/defeating-modern-threats-capable-affordable-munitions",
-      "source": "L3harris Technologies, Inc.",
-      "image": "https://www.l3harris.com/sites/default/files/2026-08/Launched-Effects-%20Quinlan-Lyte-Breaking-Defense-900.jpg",
-      "published": "2026-08-12 11:36:51",
+      "title": "Georgia Power CEO speak on data centers",
+      "description": "by Kim Greene Georgia Power CEO If you\u2019re reading the headlines, you may have noticed a seemingly nationwide crisis \u2013 the increased use of artificial intelligence and cloud storage by all of us is driving an electricity demand surge unlike anything in recent memory. Companies are racing to build data centers and, in state after...",
+      "link": "https://www.thewiregrassfarmer.com/2026/08/12/georgia-power-ceo-speak-on-data-centers/",
+      "source": "The Wiregrass Farmer",
+      "image": "http://media.iadsnetwork.com/facebookthumbnail/facebook.jpg",
+      "published": "2026-08-12 13:46:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "georgia"
+      ]
+    },
+    {
+      "title": "Kingdom Hearts IV: D23 zeigt am 15. August neues Panel im Livestream",
+      "description": "Kingdom Hearts wird beim D23-Panel am 15. August live auf YouTube pra\u0308sentiert.",
+      "link": "https://www.xboxdynasty.de/news/kingdom-hearts-iv/d23-zeigt-am-15-august-neues-panel-im-livestream/",
+      "source": "Xboxdynasty",
+      "image": "https://www.xboxdynasty.de/wp-content/uploads/2026/06/kingdom-hearts-collection-i-iii-1-720x405.jpg",
+      "published": "2026-08-12 13:45:57",
       "category": [
         "technology"
       ],
       "country": [
-        "united states of america"
+        "germany"
       ]
     }
   ]

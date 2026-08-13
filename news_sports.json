@@ -1,49 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Local Sports Briefs",
-      "description": "Updated high school scrimmage schedule for remainder of the week",
-      "link": "https://www.wvnews.com/local-sports-briefs/article_8dec9176-43e8-42b7-91ae-492965acdb5b.html",
-      "source": "Wv News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
-      "published": "2026-08-12 11:37:00",
+      "title": "This Night Train 3D Animation Looks Like a Scene from a Fairytale",
+      "description": "Check out Seb van den Beemt created it using Unreal Engine.",
+      "link": "https://80.lv/articles/this-night-train-3d-animation-looks-like-a-scene-from-a-fairytale/",
+      "source": "80 Level",
+      "image": "https://cdn.80.lv/api/upload/post/41207/images/6a7c793be1805/cover_800x800.jpg",
+      "published": "2026-08-12 13:46:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "united states of america"
+        "latvia"
       ]
     },
     {
-      "title": "Wisconsin Group Sues to Block Sports Betting Law: Will This Challenge Succeed?",
-      "description": "... Read More L\u2019article Wisconsin Group Sues to Block Sports Betting Law: Will This Challenge Succeed? est apparu en premier sur The Meade County Messenger .",
-      "link": "https://www.meadecountymessenger.com/wisconsin-group-sues-to-block-sports-betting-law-will-this-challenge-succeed/",
-      "source": "The Meade County Messenger",
-      "image": "https://www.meadecountymessenger.com/wp-content/uploads/2026/08/Wisconsin-Group-Sues-to-Block-Sports-Betting-Law-Will-This.webp",
-      "published": "2026-08-12 11:36:55",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Revealed: What Justine Madugu said about Super Eagles' 2026 FIFA World Cup miss",
-      "description": "Super Falcons coach Justine Madugu apologises after Nigeria's WAFCON defeat to Cameroon and vows to avoid a repeat of the Super Eagles\u2019 World Cup playoff failure.",
-      "link": "https://www.legit.ng/sports/football/1724643-super-falcons-coach-aims-stylish-dig-super-eagles-2026-fifa-world-cup-absence/",
-      "source": "Legit Nigeria",
-      "image": "https://cdn.legit.ng/images/1200x675/cb7d9d9e65384a92.jpeg?v=1",
-      "published": "2026-08-12 11:36:54",
+      "title": "Record-setting Jacksonville QB is college-bound. Here's his next move",
+      "description": "Last year, King Boylston helped Ed White football surpass a Florida record. Now, he's lining up a college football future.",
+      "link": "https://sports.yahoo.com/articles/record-setting-jacksonville-qb-college-134600931.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/59bb5cf8319c737f2c24ea47b7c4c0fd55ace2a12fa406bd6d342b365adc842c/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2F58f0f23050a2724eb2fb631a95cc259d.jpg",
+      "published": "2026-08-12 13:46:00",
       "category": [
         "sports",
-        "top"
+        "breaking"
       ],
       "country": [
-        "nigeria"
+        "united states of america"
       ]
     }
   ]

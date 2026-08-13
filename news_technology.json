@@ -3,46 +3,53 @@
   "totalResults": 3,
   "results": [
     {
-      "title": "Tech M&A deals: Joby Aviation, Resonant Sciences, ENG, e-verse",
-      "description": "Latest technology M&A deals include announcements from Joby Aviation, Resonant Sciences, ENG, e-verse, and others.",
-      "link": "https://infotechlead.com/analytics/tech-ma-deals-joby-aviation-resonant-sciences-eng-e-verse-97680",
-      "source": "Infotech Lead",
-      "image": "https://infotechlead.com/wp-content/uploads/2025/09/acquisitions-MA.jpg",
-      "published": "2026-08-13 02:53:54",
+      "title": "Anthropic in talks to buy Decart AI, source says",
+      "description": "Aug 12 (Reuters) - \u2060Anthropic is in talks to buy Nvidia-backed startup Decart AI, \u2060according to a source familiar with the matter, as \u200cthe Claude maker explores acquisitions that could help it handle growing demand ahead of its public listing.",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/08/13/anthropic-in-talks-to-buy-decart-ai-source-says",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057276.jpg",
+      "published": "2026-08-13 03:56:00",
       "category": [
         "technology"
       ],
       "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Pause All Laravel Queues During a Deploy",
+      "description": "Laravel 13.25 adds queue:pause --all and Queue::pauseAll() to stop job processing on every connection without putting the app in maintenance mode. The post Pause All Laravel Queues During a Deploy appeared first on Laravel News . Join the Laravel Newsletter to get Laravel articles like this directly in your inbox.",
+      "link": "https://laravel-news.com/laravel-pause-all-queues",
+      "source": "Laravel News",
+      "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pause-all-laravel-queues-featured.png",
+      "published": "2026-08-13 03:56:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "germany",
+        "australia",
+        "united states of america",
+        "brazil",
+        "france",
+        "united kingdom",
+        "canada",
         "india"
       ]
     },
     {
-      "title": "Optus: $100 Cashback on 365 Days 300GB Prepaid Plan for $199 (Ongoing $350) @ ShopBack",
-      "description": "Roll over up to 200 GB Unlimited standard Australia talk and text No lock-in contract or credit check Speed capped at 250Mbps on our Award-winning 4G and Standard 5G Network 6000 mins standard ...",
-      "link": "https://www.ozbargain.com.au/node/971216",
-      "source": "Ozbargain",
-      "image": "https://files.ozbargain.com.au/n/16/971216l.jpg?h=12add15e",
-      "published": "2026-08-13 02:53:44",
+      "title": "German watchdog takes Meta to court over alleged privacy breaches linked to AI glasses",
+      "description": "A German advocacy group has filed a criminal complaint against Meta and other companies selling the technology group\u2019s AI glasses in Germany, arguing the devices violate privacy laws. Digital rights group HateAid said in a statement on Wednesday that the launch of the devices, the Ray-Ban Meta Wayfarer in particular, broke German digital privacy laws, in the latest sign of legal scrutiny in a nation where the right to privacy is highly valued. \u201cThere\u2019s no place to escape from smart glasses. You have to expect at any moment to be filmed and then exposed on the internet,\u201d said HateAid managing [...]",
+      "link": "https://telecomlive.in/web/2026/08/13/german-watchdog-takes-meta-to-court-over-alleged-privacy-breaches-linked-to-ai-glasses/",
+      "source": "Telecomliveweb",
+      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
+      "published": "2026-08-13 03:55:52",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Taihan Cable & Solution Prepares to Deploy Largest Offshore Cable-Laying Vessel",
-      "description": "Taihan Cable & Solution is strengthening its offshore wind construction capabilities with the deployment of a large cable-laying vessel as it prepares to put the Skandi Connector into commercial operation.The company said Thursday that it held a safety ceremony for the Skandi Connector at Orient Shi",
-      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156059",
-      "source": "Korea It Times",
-      "image": "https://www.koreaittimes.com/news/photo/202608/156059_105561_2619.jpg",
-      "published": "2026-08-13 02:53:42",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "south korea"
+        "india"
       ]
     }
   ]

@@ -1,19 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Personalized T-cell therapy eliminates advanced kidney tumor in teenager - News-Medical",
-      "description": "Personalized T-cell therapy eliminates advanced kidney tumor in teenager News-Medical See more headlines and perspectives on Google News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXc4WUJmc3VLdllwME8zNUpWOW11V0hmRzNPUW9TM1lRbFhxbHBmT2NnSjR4TGVjZkh0bWpmWk5vVm9hTFNnaXpZZWdvRWc2eVY1bEhWNkVYVXVCaGhiTHVTQVhXcF9WNnRkUnhwc2RSR0FWUWxTS3NzaXdDbHNvb0k0QWhVTDZ6Um5UdmxZa0Y4RnczT1RLU3RxQTh5SEk0Q282Um9TUTFjU0xXRmx5U1NtUnZiMHdhWDczYg?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-13 02:54:00",
+      "title": "Your social life may leave a mark on how fast you age",
+      "description": "Positive social experiences were associated with longer survival, while childhood adversity predicted shorter survival in a 1,309-person longitudinal cohort followed for nearly 15 years. Epigenetic aging, particularly GrimAge2, emerged as the strongest potential pathway linking social experiences with mortality risk.",
+      "link": "https://www.news-medical.net/news/20260812/Your-social-life-may-leave-a-mark-on-how-fast-you-age.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_844795_1786593245976507.jpg",
+      "published": "2026-08-13 03:56:00",
       "category": [
         "health"
       ],
       "country": [
-        "singapore"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Home-based dialysis offers new option for kidney patients",
+      "description": "Kidney patients in the country can now undergo dialysis from the comfort of their home, at a lower cost. Peritoneal Dialysis, or PD, was launched in the capital today, offering an alternative to hospital-based haemodialysis. According to the health ministry, there are over 450 patients with kidney failure in the country who require dialysis. 70-year-old [...] The post Home-based dialysis offers new option for kidney patients appeared first on BBSCL .",
+      "link": "https://www.bbs.bt/245120/",
+      "source": "Bbscl",
+      "image": "https://www.bbs.bt/wp-content/uploads/2026/08/1-13.jpg",
+      "published": "2026-08-13 03:55:54",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "bhutan"
+      ]
+    },
+    {
+      "title": "Air India makes psychoactive substance testing mandatory for pilots after Phuket incident",
+      "description": "Air India now mandates psychoactive substance testing for all pilots. This new internal measure enhances safety protocols beyond DGCA requirements. Previously, the airline followed DGCA rules for random testing of personnel. The Phuket incident prompted Air India to tighten its internal safety checks.",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-makes-psychoactive-substance-testing-mandatory-for-pilots-after-phuket-incident/articleshow/133206743.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133206815,resizemode-4,width-1200,height-900,imgsize-113190,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-13 03:55:43",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

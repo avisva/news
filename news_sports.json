@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Second bid rejected: City say no to \u20ac64m for Rodri \u274c",
-      "description": "FC Barcelona are not letting up in their efforts to sign Rodri in this transfer window. However, the Blaugrana sporting department has once again run into the firm stance of Manchester City, who have ...",
-      "link": "https://sports.yahoo.com/articles/second-bid-rejected-city-no-083800935.html",
+      "title": "Mona McSharry and Ellie McCartney advance at European Championships",
+      "description": "McSharry, who claimed silver in the 100m Breaststroke on Wednesday night in a new Irish record time, returned to action less than 15 hours later and looked comfortable as she clocked 2:23.37 in the 50m heats.",
+      "link": "https://www.irishexaminer.com/sport/othersport/arid-41895331.html",
+      "source": "Irish Examiner",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10382/5191147_2_articlelarge_95482_3021177.jpg",
+      "published": "2026-08-13 09:41:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Enzo Fernandez: What we know as Chelsea set Man City transfer deadline for \u00a3120m Argentina star",
+      "description": "Enzo Maresca wants to be reunited with his midfield talisman in Manchester and Chelsea have laid down clear terms to make a mega money deal happen.",
+      "link": "https://sports.yahoo.com/articles/enzo-fernandez-know-chelsea-set-094053268.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/31fba4763f3807adca8487f195b1be2c303c9e042bb0e153e564b04e556333e7/lightyear_networkapi/resizefit_w1024_h711%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F423b3365c2d6842b67f03b40a5cf2b3b.jpg",
-      "published": "2026-08-13 08:38:00",
+      "image": "https://s.yimg.com/lo/mysterio/api/cf8b4741f1b485413f737e655c14d68b7a8fafb134a5b6e39c01ab2f015d6046/lightyear_networkapi/resizefit_w760_h427%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fdf4d07f00030675a71ccc6ca6ddaee41.jpg",
+      "published": "2026-08-13 09:40:53",
       "category": [
         "sports",
         "breaking"

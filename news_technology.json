@@ -1,46 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Taiwan says it was targeted last month in AI-driven hacking campaign",
-      "description": "TAIPEI: Taiwan detected artificial intelligence-assisted cyberattacks on government agencies last month coming from overseas, but the affected bodies successfully \"handled\" the incident, the Ministry of Digital Affairs said on Thursday (Aug 13).In a statement, the Ministry of Digital Affairs said its cybersec",
-      "link": "https://www.channelnewsasia.com/east-asia/taiwan-ai-cyberattack-hacking-campaign-6316266",
-      "source": "Channel Newsasia",
-      "image": "https://dam.mediacorp.sg/image/upload/s--Rydsl6K---/c_crop,h_1125,w_2000,x_0,y_19/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/08/13/taipei_101.jpg?itok=8KlJP2Di",
-      "published": "2026-08-13 08:38:00",
+      "title": "MG teases 7-seater EV SUV inspired by a WWII fighter jet, launch on August 26",
+      "description": "JSW MG Motor India has teased its 7-seater electric SUV, the first model on its new ADAPT platform, inspired by a WWII fighter jet; it debuts on 26 August, with pre-reservations open for \u20b921,000.",
+      "link": "https://www.cnbctv18.com/auto/mg-teases-7-seater-ev-suv-inspired-by-a-wwii-fighter-jet-launch-on-august-26-19968596.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/jswmgmotor-7-seater-electric-suv-2026-08-957928109090a88296981f741b110e78.jpg",
+      "published": "2026-08-13 09:40:54",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "bhutan",
-        "pakistan",
-        "sri lanka",
-        "bahrain",
-        "south korea",
-        "israel",
-        "nepal",
-        "turkey",
-        "singapore",
-        "thailand",
-        "kuwait",
-        "indonesia",
-        "myanmar",
-        "afghanistan",
-        "taiwan",
-        "hong kong",
-        "japan",
-        "malaysia",
-        "north korea",
-        "china",
-        "vietnam",
-        "mongolia",
-        "philippines",
-        "maldives",
-        "india",
-        "bangladesh",
-        "cambodia"
+        "india"
+      ]
+    },
+    {
+      "title": "Oracle's transformation from enterprise software to AI powerhouse",
+      "description": "Oracle and quantum computing leader Quantinuum have entered a multi-year strategic partnership to bring Quantinuum's next-generation quantum computer, Helios, directly into Oracle Cloud Infrastructure (OCI). The collaboration aims to create a unified computing ecosystem where enterprise customers, AI research labs, and scientific institutions can access quantum processing units (QPUs) alongside existing GPU clusters and high-performance computing (HPC) hardware.",
+      "link": "https://www.digitimes.com/news/a20260813VL214/oracle-quantum-computing-partnership-infrastructure-hardware.html",
+      "source": "Digitimes",
+      "image": "https://img.digitimes.com/newsshow/20260813vl214_files/1_2b.jpg",
+      "published": "2026-08-13 09:40:50",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "china"
       ]
     }
   ]

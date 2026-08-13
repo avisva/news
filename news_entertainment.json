@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Solvang goes solar to expand its surveillance capabilities",
+      "description": "While the steady flow of box office returns for The Odyssey continues setting new records, referencing the film\u2019s source material helped one elected official illustrate her concerns about Solvang\u2019s AI-enabled surveillance cameras. \u201cI\u2019m going to say this as frankly as I can. I don\u2019t won\u2019t to Trojan Horse a bunch of functionality in here that [...] The post Solvang goes solar to expand its surveillance capabilities appeared first on Santa Maria Sun .",
+      "link": "https://www.santamariasun.com/news-2/solvang-goes-solar-to-expand-its-surveillance-capabilities/",
+      "source": "Santa Maria Sun",
+      "image": "https://i0.wp.com/www.santamariasun.com/wp-content/uploads/2026/08/news-briefs-Solvang-surveillance-ai-8-13.png?fit=1005%2C753&ssl=1",
+      "published": "2026-08-13 07:13:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Meghan Markle Plotting Revenge on Martha Stewart With Unusual Move \u2014 Source",
+      "description": "Meghan Markle reportedly planned a business-minded response after Martha Stewart criticized her lifestyle pivot. The Duchess of Sussex was said to be upset by comments about her shift from actress to princess to homemaking figure. A new source claimed she would not start a public feud. Instead, the former \u201cSuits\u201d actress allegedly wanted to answer [...] The post Meghan Markle Plotting Revenge on Martha Stewart With Unusual Move \u2014 Source appeared first on Mandatory .",
+      "link": "https://www.mandatory.com/news/1829470-meghan-markle-martha-stewart-feud-revenge-plan",
+      "source": "Mandatory",
+      "image": "https://www.mandatory.com/wp-content/uploads/sites/10/2026/08/Meghan-Markle-Martha-Stewart.jpg",
+      "published": "2026-08-13 07:12:52",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mallorca's master boatbuilder: Turning dreams into reality",
+      "description": "The new episode of German television journalist Sibylle Tiessen\u2019s video series The Mallorcans focuses on boatbuilder Sebastia\u0300 Vidal, who builds traditional wooden boats.",
+      "link": "https://www.majorcadailybulletin.com/the-mallorcans/news-2/2026/08/13/144909/mallorca-master-boatbuilder-turning-dreams-into-reality.html",
+      "source": "Majorca Daily Bulletin",
+      "image": "https://md.gsstatic.es/sfAttachPlugin/194071.webp",
+      "published": "2026-08-13 07:12:48",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "spain"
+      ]
+    }
+  ]
 }

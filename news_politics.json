@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Magna International (NYSE:MGA) Price Target Raised to $77.00",
+      "description": "Magna International (NYSE:MGA \u2013 Free Report) (TSE:MG) had its price target increased by JPMorgan Chase & Co. from $70.00 to $77.00 in a report published on Monday,Benzinga reports. The firm currently has an overweight rating on the stock. A number of other analysts also recently weighed in on the company. Scotiabank increased their price objective [...]",
+      "link": "https://www.dailypolitical.com/2026/08/13/magna-international-nysemga-price-target-raised-to-77-00.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/magna-international-inc-logo.jpg",
+      "published": "2026-08-13 07:12:59",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018We\u2019re running out of patience\u2019 errant councillor told before security removes him",
+      "description": "There are two certainties in life, well maybe three: Death, taxes and Cr Benedict Ong being removed from a council meeting.",
+      "link": "https://www.stuff.co.nz/nz-news/361019838/were-running-out-patience-errant-councillor-told-security-removes-him",
+      "source": "Stuff",
+      "image": null,
+      "published": "2026-08-13 07:12:47",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    }
+  ]
 }

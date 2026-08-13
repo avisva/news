@@ -1,22 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Estonia preparing to pass the country's first space law",
-      "description": "The law is needed because, in addition to existing research projects, companies are also planning to send satellites into orbit.",
-      "link": "https://news.err.ee/1610109013/estonia-preparing-to-pass-the-country-s-first-space-law",
-      "source": "Err",
-      "image": "https://s.err.ee/photo/crop/2026/08/13/3766513h9fdft4.png",
-      "published": "2026-08-13 05:59:00",
-      "category": [
-        "science",
-        "top",
-        "technology"
-      ],
-      "country": [
-        "estonia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,34 +1,62 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Georgia Power CEO speak on data centers",
-      "description": "by Kim Greene Georgia Power CEO If you\u2019re reading the headlines, you may have noticed a seemingly nationwide crisis \u2013 the increased use of artificial intelligence and cloud storage by all of us is driving an electricity demand surge unlike anything in recent memory. Companies are racing to build data centers and, in state after...",
-      "link": "https://www.thewiregrassfarmer.com/2026/08/12/georgia-power-ceo-speak-on-data-centers/",
-      "source": "The Wiregrass Farmer",
-      "image": "http://media.iadsnetwork.com/facebookthumbnail/facebook.jpg",
-      "published": "2026-08-12 13:46:00",
+      "title": "Stop \u2018bad bots\u2019 and protect journalism quality content",
+      "description": "Content written for human readers is being consumed by millions of automated bots that comb the Internet and often go out of their way to disguise their identity and steal",
+      "link": "https://www.thegazette.com/opinion/stop-bad-bots-and-protect-journalism-quality-content/article_6c4617f3-594f-4b0e-b155-9130e707eb4d.html",
+      "source": "The Gazette",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/6/c4/6c4617f3-594f-4b0e-b155-9130e707eb4d/6a7608784934d.preview.jpg?crop=800%2C420%2C0%2C54",
+      "published": "2026-08-12 16:08:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "georgia"
+        "united states of america"
       ]
     },
     {
-      "title": "Kingdom Hearts IV: D23 zeigt am 15. August neues Panel im Livestream",
-      "description": "Kingdom Hearts wird beim D23-Panel am 15. August live auf YouTube pra\u0308sentiert.",
-      "link": "https://www.xboxdynasty.de/news/kingdom-hearts-iv/d23-zeigt-am-15-august-neues-panel-im-livestream/",
-      "source": "Xboxdynasty",
-      "image": "https://www.xboxdynasty.de/wp-content/uploads/2026/06/kingdom-hearts-collection-i-iii-1-720x405.jpg",
-      "published": "2026-08-12 13:45:57",
+      "title": "Zettabyte Launches Model-as-a-Service on zCLOUD",
+      "description": "zCLOUD delivers Model-as-a-Service (MaaS), hosting open-weight and open-source models such as Kimi, GLM, Llama, GPT-OSS, Gemma, and Qwen on Zettabyte's GPUs and making them available through a single API. Offers open-weight and open-source models through an API, running on Zettabyte's...",
+      "link": "https://www.prnewswire.co.uk/news-releases/zettabyte-launches-model-as-a-service-on-zcloud-302849894.html",
+      "source": "Pr Newswire Uk",
+      "image": "https://mmx.prnewswire.com/media/MS1872144/ZETTABYTE-Logo-Horizontal-WhiteBG-Logo.jpg?id=OA2868660&p=original",
+      "published": "2026-08-12 16:08:00",
       "category": [
         "technology"
       ],
       "country": [
-        "germany"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Pixel 11 Pro Fold Gets Brighter Screens And Real Dust Protection",
+      "description": "Google's Pixel 11 Pro Fold brings brighter displays, thinner bezels and IP68 protection to its foldable phone line. The post Pixel 11 Pro Fold Gets Brighter Screens And Real Dust Protection appeared first on TechBooky .",
+      "link": "https://www.techbooky.com/pixel-11-pro-fold-brighter-screens-ip68-dust-protection/",
+      "source": "Techbooky",
+      "image": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/12222018/P11PF_Obsidian.width-1200.format-webp.webp",
+      "published": "2026-08-12 16:07:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pixel Watch 5 Adds Breathing Emergency Detection As Google Pushes Health",
+      "description": "Google's Pixel Watch 5 adds Breathing Emergency Detection, sleep breathing quality tracking and new workout tools. The post Pixel Watch 5 Adds Breathing Emergency Detection As Google Pushes Health appeared first on TechBooky .",
+      "link": "https://www.techbooky.com/pixel-watch-5-breathing-emergency-detection-health/",
+      "source": "Techbooky",
+      "image": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/08/12222827/PixelWatch5Lineup-1.jpg",
+      "published": "2026-08-12 16:07:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

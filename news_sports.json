@@ -1,35 +1,48 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "This Night Train 3D Animation Looks Like a Scene from a Fairytale",
-      "description": "Check out Seb van den Beemt created it using Unreal Engine.",
-      "link": "https://80.lv/articles/this-night-train-3d-animation-looks-like-a-scene-from-a-fairytale/",
-      "source": "80 Level",
-      "image": "https://cdn.80.lv/api/upload/post/41207/images/6a7c793be1805/cover_800x800.jpg",
-      "published": "2026-08-12 13:46:00",
+      "title": "Soccer-Everton forward Sherif charged by FA over betting rule violations",
+      "description": "Aug 12 (Reuters) - \u2060Everton forward Martin Sherif has \u2060been charged with breaking the \u200cFA's betting rules after allegedly placing 61 bets on soccer matches over a 15-month \u200bperiod, the English governing \u2060body said \u2060on Wednesday.",
+      "link": "https://www.thestar.com.my/sport/football/2026/08/13/soccer-everton-forward-sherif-charged-by-fa-over-betting-rule-violations",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4056752.jpg",
+      "published": "2026-08-12 16:08:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Jody Stewart Promoted to Associate Head Coach of Track & Field Program",
+      "description": "Ahead of the 2026-27 season, Jody Stewart has been elevated to Associate Head Coach of the track and field program, as announced by Head Coach Chris Miltenberg on Wednesday afternoon.",
+      "link": "https://goheels.com/news/2026/8/12/jody-stewart-promoted-to-associate-head-coach-of-track-field",
+      "source": "Official Athletics Website",
+      "image": "https://admin.goheels.com/common/controls/image_handler.aspx?thumb_prefix=rp_system&image_path=/images/2026/8/12/Stewart_Jody.duke.371.jpg",
+      "published": "2026-08-12 16:08:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Derby County in talks to sign West Brom star and Southampton attacker",
+      "description": "Derby County are in talks to sign both West Bromwich Albion's Alex Mowatt and Southampton's Ben Brereton Diaz this summer",
+      "link": "https://footballleagueworld.co.uk/derby-in-double-swoop-talks-for-west-brom-midfielder-and-southampton-forward/",
+      "source": "Football League World",
+      "image": "https://static0.footballleagueworldimages.com/wordpress/wp-content/uploads/2026/08/3000x1500-30.jpg",
+      "published": "2026-08-12 16:08:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "latvia"
-      ]
-    },
-    {
-      "title": "Record-setting Jacksonville QB is college-bound. Here's his next move",
-      "description": "Last year, King Boylston helped Ed White football surpass a Florida record. Now, he's lining up a college football future.",
-      "link": "https://sports.yahoo.com/articles/record-setting-jacksonville-qb-college-134600931.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/59bb5cf8319c737f2c24ea47b7c4c0fd55ace2a12fa406bd6d342b365adc842c/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-florida-times-union%2F58f0f23050a2724eb2fb631a95cc259d.jpg",
-      "published": "2026-08-12 13:46:00",
-      "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
+        "united kingdom"
       ]
     }
   ]

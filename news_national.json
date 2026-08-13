@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "FCRA aims to choke funds for NGOs; funding will remain only for RSS: Mahua Moitra",
-      "description": null,
-      "link": "https://www.thehindu.com/videos/shorts/fcra-aims-to-choke-funds-for-ngos-funding-will-remain-only-for-rss-mahua-moitra/article71337851.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/grwbbj/article71337850.ece/alternates/FREE_1200/PTI08_12_2026_000225A.jpg",
-      "published": "2026-08-12 16:07:59",
+      "title": "West Bengal STF arrests suspected Pakistani national Wahab Alam alias Rana Rauf",
+      "description": "West Bengal STF apprehended a suspected Pakistani national in North 24 Parganas. The arrested individual, Wahab Alam, allegedly holds links with Pakistan's Inter-Services Intelligence. He reportedly entered India through Nepal in 2012 and lived under forged documents. Another person, Muhammad Izaz, was arrested in East Kolkata for providing these documents. Authorities are currently investigating the connection between the two arrested individuals.",
+      "link": "https://economictimes.indiatimes.com/news/defence/west-bengal-stf-arrests-suspected-pakistani-national-wahab-alam-alias-rana-rauf/articleshow/133190314.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133190910,resizemode-4,width-1200,height-900,imgsize-7852,overlay-etdefence/articleshow.jpg",
+      "published": "2026-08-12 18:13:59",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "'I won't defund the police': Mamdani responds to AOC's stunning reckoning, 'Woke 1 was crazy'",
+      "description": "New York City Mayor Zohran Mamdani is weighing in on what critics and supporters alike are calling a major 'self-reckoning' on the political left.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/i-wont-defund-the-police-mamdani-responds-to-aocs-stunning-reckoning-woke-1-was-crazy/videoshow/133190911.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133190911,width-1200,height-900,overlay-economictimes/news/international/world-news/i-wont-defund-the-police-mamdani-responds-to-aocs-stunning-reckoning-woke-1-was-crazy.jpg",
+      "published": "2026-08-12 18:13:45",
       "category": [
         "politics",
         "top"

@@ -1,238 +1,161 @@
 {
   "status": "success",
-  "totalResults": 28,
+  "totalResults": 26,
   "results": [
     {
-      "title": "Your social life may leave a mark on how fast you age",
-      "description": "Positive social experiences were associated with longer survival, while childhood adversity predicted shorter survival in a 1,309-person longitudinal cohort followed for nearly 15 years. Epigenetic aging, particularly GrimAge2, emerged as the strongest potential pathway linking social experiences with mortality risk.",
-      "link": "https://www.news-medical.net/news/20260812/Your-social-life-may-leave-a-mark-on-how-fast-you-age.aspx",
-      "source": "Medical News",
-      "image": "https://www.news-medical.net/images/news/ImageForNews_844795_1786593245976507.jpg",
-      "published": "2026-08-13 03:56:00",
+      "title": "Pupils of $50k college face sex abuse charges",
+      "description": "Three pupils of one of Sydney\u2019s most expensive schools are set to face court accused of an alleyway sexual assault against a girl of just 14.",
+      "link": "https://www.news.com.au/national/nsw-act/three-boys-charged-over-sydney-alleyway-sexual-assault-on-girl-14/news-story/a5c6c5b71e1c7209a928afc03bd0bb19",
+      "source": "News",
+      "image": "https://content.api.news/v3/images/bin/3dce67afdbecd0b47b7183a74d5ccd04",
+      "published": "2026-08-13 04:57:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Vaibhav\u2019s 30th film Maaruvesham gets U/A certificate, release date pushed: Here\u2019s what we know",
+      "description": "Vaibhav\u2019s upcoming murder mystery Maaruvesham has been cleared by the CBFC with a U/A certificate, but the film will no longer arrive in cinemas on October 1, 2026.",
+      "link": "https://zeenews.india.com/regional/vaibhav-s-30th-film-maaruvesham-gets-u/a-certificate-release-date-pushed-here-s-what-we-know-3066198.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/08/13/1972702-seterty.jpg",
+      "published": "2026-08-13 04:57:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Hamilton Princess breaks silence around staff walkout",
+      "description": "The hotel at the centre of a demonstration this week that saw staff down tools for a half-day assured the public that services were now running smoothly. A spokeswoman for the Hamilton Princess & Beac...",
+      "link": "https://www.royalgazette.com/labour/news/article/20260813/hamilton-princess-breaks-silence-around-staff-walkout/",
+      "source": "Royal Gazette",
+      "image": "https://imengine.public.prod.rgb.navigacloud.com/?uuid=024aa6be-434d-56f8-b29c-b6a318f0ebaa&type=preview&width=600",
+      "published": "2026-08-13 04:57:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "bermuda"
+      ]
+    },
+    {
+      "title": "Report: Jayden Daniels sends cease-and-desist to LSU - Sportsnet.ca",
+      "description": "Report: Jayden Daniels sends cease-and-desist to LSU Sportsnet.ca Daniels sends cease and desist to LSU after Pickett given No. 5 ESPN Daniels sends LSU cease-and-desist letter regarding decision to give No. 5 jersey to current player Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEQ5V1l0cnJuRG1kcklyamVuMlpSYjIxUzVQazJHRlA2QWl6ZHZVQU81Wll3eTZHeWUtVXJwMVdtbW96U0pHVFNPOTVTNDh4WjNwYU1PRUJMVUVGYzNIVHpJYnBJbE9LR3FfMDNRWHMwa2tjdF9ldjVjelVjaVpLWHNNUDc2UWFNRjRFYkMzLWN3aVU?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-13 04:57:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "GTA Online Weekly Update Brings 4x Money and RP on Hotring Circuit Series, Along With Discounts on Vehicles, Weapons, and More",
+      "description": "Lots of freebies up for grabs this week. GTA Online is back with its latest weekly update, bringing 4X GTA$ and RP on Hotring Circuit Series, along with discounts on weapons, vehicles, and more. The update will remain live till August 20, 2026. Early information about this week\u2019s update has surfaced on Reddit, revealing that the podium ...",
+      "link": "https://in.ign.com/grand-theft-auto-online/268672/gta-online-weekly-update-brings-4x-money-and-rp-on-hotring-circuit-series-along-with-discounts-on-ve",
+      "source": "In Ign",
+      "image": "https://sm.ign.com/ign_in/news/g/gta-online/gta-online-update-reveals-first-look-at-michael-in-the-grand_wjjm.jpg",
+      "published": "2026-08-13 04:57:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Daraxonrasib gives new hope to pancreatic cancer treatment: How does this work and who are eligible for t - The Times of India",
+      "description": "Daraxonrasib gives new hope to pancreatic cancer treatment: How does this work and who are eligible for t The Times of India Acquired resistance to the RAS(ON) multi-selective inhibitor daraxonrasib guides rational combination therapy strategies in pancreatic cancer Nature 10 Intermountain Health Hospitals Join National Initiative with New Drug to Treat Pancreatic Cancer PR Underground Pancreatic Cancer Specialists Getting a Jump on Daraxonrasib Medscape AI identifies experimental drug targeting undruggable cancer protein Drug Target Review",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbVliSVduMDgxeTZPWjVHZmktWWdnWmo4UkdZR01TNHFpWkM3RG9lRUp3b0VOVVB5Ui1wQUxxV2VGR0RhUzg3eFN4QWJWOFA0YmwwUDFvdWZySmNqdGJaMnl1TnBfa09KNkhfUVNTdkpSdVkyN1NuNll2N3RuLWhrS1dUdm1fOXlSZEotUDlsMnN1Z3FvSURDUm5HamdqMzFycDlQOE5KLW5hM0w1aGlSbV9IM0JLZTBsak9WOWltaktwdFRhemlvZlhnempaSjRaMU5LUVVWemdNMFV3MU9rNlVzdm55MzVOcy1GNVFGck04NFJOeHdYOS1mQWpMSUo2bmtnanhYTdIBjAJBVV95cUxNTWo5b09SYTJ5d0VGOC12WjVNdTRTN1lQdDhoXzV0Y2NnRC1SM004amhaT1pCd3E4NS12TmpCa0VzLVg0WlduUEJKY1pYT3MwSGFoYndLZkJQMGRHRFdpbFBwQ1EybTIyTWZ5NlhDQWtaek9rbDFPd2FHcWpEdFNsTnU4QUdoNUR6d2tJdlZocWxIaTlqb2t6QkI3RkZzZGIwbjlRS3J1Nm9UR1hqRzRHZ0xvWHYyUXg0N0U3QkJSNm9hcU1tRUtzMHk0bnBCYXM2UDBzMkFUTDlBZEVscmlTUEJMd20zYjJxRU4zZDl3VWlwVWxrUy13bFZjTDR5VWpad1U2VC1VTExrTWMw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-13 04:57:00",
       "category": [
         "health"
       ],
       "country": [
-        "united kingdom"
+        "india"
       ]
     },
     {
-      "title": "Dacula softball wins walk-off thriller over Hebron Christian",
-      "description": null,
-      "link": "https://www.gwinnettdailypost.com/sports/prep/dacula-softball-wins-walk-off-thriller-over-hebron-christian/article_13f37542-69d4-47a2-b7b1-f377e5cf1014.html",
-      "source": "Gwinnett Daily Post",
-      "image": null,
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Anthropic in talks to buy Decart AI, source says",
-      "description": "Aug 12 (Reuters) - \u2060Anthropic is in talks to buy Nvidia-backed startup Decart AI, \u2060according to a source familiar with the matter, as \u200cthe Claude maker explores acquisitions that could help it handle growing demand ahead of its public listing.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/08/13/anthropic-in-talks-to-buy-decart-ai-source-says",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057276.jpg",
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "No. 3 Duke Opens Season with 3-1 Win at Southern California",
-      "description": "Powered by three goals over the first 31 minutes of the contest, the third-ranked Duke women's soccer team opened the 2026 season with a 3-1 victory over Southern California Wednesday evening inside Rawlinson Stadium in Los Angeles.",
-      "link": "https://goduke.com/news/2026/8/12/womens-soccer-no-3-duke-opens-season-with-3-1-win-at-southern-california",
-      "source": "Goduke Athletics",
-      "image": "https://admin.goduke.com/common/controls/image_handler.aspx?thumb_prefix=rp_system&image_path=/images/2026/8/12/ws-usc-final16x9.jpg",
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "NA Secretariat suspends security assistant Waqas Ahmed over alleged misuse of authority",
-      "description": "ISLAMABAD - The National Assembly Secretariat has issued orders for the suspension of Security Assistant Waqas Ahmed over the alleged misuse of authority under Rule 5(1) of the Government Servants (Efficiency and Discipline) Rules, 2020.",
-      "link": "https://www.nation.com.pk/13-Aug-2026/na-secretariat-suspends-security-assistant-waqas-ahmed-alleged-misuse-authority",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-08-13 03:56:00",
+      "title": "Why is Chief Secretary Anu Garg Part of a Design to Deprive IPS Dr Sudhanshu Sarangi of his Legitimate Dues? Why is She Misleading the Chief Minister Mohan Charan Majhi ?",
+      "description": "By Our Correspondent BHUBANESWAR: Chief Secretary Anu Garg and DGP YB Khurania are representing the Government of Odisha in the UPSC. Why is Chief Secretary Anu Garg part of a design to deprive IPS Dr Sudhanshu Sarangi of his legitimate dues? Why is she misleading the Chief Minister Mohan Charan Majhi. This a big question [...]",
+      "link": "https://indianewsdiary.com/why-is-chief-secretary-anu-garg-part-of-a-design-to-deprive-ips-dr-sudhanshu-sarangi-of-his-legitimate-dues-why-is-she-misleading-the-chief-minister-mohan-charan-majhi/",
+      "source": "Indianewsdiary",
+      "image": "https://indianewsdiary.com/wp-content/uploads/2026/08/Screenshot_20260813-100508__01.jpg",
+      "published": "2026-08-13 04:57:00",
       "category": [
         "politics",
         "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "PPP challenges re-polling at nine stations, citing Zia Qamar\u2019s decisive lead",
-      "description": "ISLAMABAD - Pakistan People\u2019s Party (PPP) challenged the decision to hold re-polling at nine polling stations, claiming that PPP candidate Sardar Zia Qamar had already secured a clear and decisive lead.",
-      "link": "https://www.nation.com.pk/13-Aug-2026/ppp-challenges-re-polling-nine-stations-citing-zia-qamar-s-decisive-lead",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Interactive platform maps habitat design effects on astronaut wellbeing - News-Medical",
-      "description": "Interactive platform maps habitat design effects on astronaut wellbeing News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVZmYkdOUk9EZkJvRklhNDZETEhicXhURl9qYUJSRUxjOHk2eTd0OUpYVzJMMGNQMDl0aTN5bk1xaWhOeWVnU3VBZ3JGeEtqVUN2cXJ6eF9jbEFCaXFHYVljQlVGUFA1cVVHYkRmbXc1U2hZYlU4eUVvUm45NTZxVzdFT2Z1dTNhajZYelZXTnZ4TWFCZkUwb0hXVERxWVVRNVYxemdEUkIyZWJrRFFNNTB6d2Z0TS13NTI0?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "science"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Iowa Libertarians nominate new candidates for lt. governor, 3rd District",
-      "description": "Iowa Libertarians have named new candidates for lieutenant governor and the 3rd District after earlier nominees were removed from the 2026 ballot.",
-      "link": "https://www.kcci.com/article/des-moines-iowa-libertarians-replace-ballot-candidates/73419874",
-      "source": "Kcci Television",
-      "image": "https://hips.hearstapps.com/vidthumb/78d6e614-2340-43cf-b73e-3b134a51e86e/f64f5237-d0e4-4ce3-bd1f-a5389596d091.jpeg",
-      "published": "2026-08-13 03:56:00",
+      "title": "Iran Could Extend Conflict Until Trump\u2019s Presidency Ends, According to IRGC Adviser",
+      "description": "A senior official from Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) has indicated that Tehran may intentionally extend its hostilities with the United States until the conclusion of President Donald Trump\u2019s term. Mohammad Reza Naqdi, serving as a close adviser to the IRGC\u2019s commander-in-chief, revealed this strategy during an interview with PBS NewsHour on Tuesday. He [...] The post Iran Could Extend Conflict Until Trump\u2019s Presidency Ends, According to IRGC Adviser appeared first on The CSR Journal .",
+      "link": "https://thecsrjournal.in/iran-could-extend-conflict-until-trumps-presidency-ends-according-to-irgc-adviser/",
+      "source": "The Csr Journal",
+      "image": "https://thecsrjournal.in/wp-content/uploads/2026/08/Senior-Iranian-commander-Mohammad-Reza-Naghdi.jpg",
+      "published": "2026-08-13 04:56:57",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Motley Fool",
-      "description": null,
-      "link": "https://www.nvdaily.com/motley-fool/article_f408e03f-359f-5bb7-a437-e68e5ab47fb2.html",
-      "source": "Nvdaily",
-      "image": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/7/9d/79d0e76c-d4ea-54a1-8449-38a7ec3306db/6a7d416186d01.image.jpg?resize=300%2C291",
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Venezuela government, opposition wrap up round of post-Maduro talks",
-      "description": "A joint statement highlighted agreement on two topics after several days of discussion: reforming the judiciary, and seeking access to frozen funds to aid in earthquake recovery efforts.",
-      "link": "https://www.channelnewsasia.com/world/venezuela-government-opposition-talks-maduro-6316411",
-      "source": "Channel Newsasia",
-      "image": "https://dam.mediacorp.sg/image/upload/s--xybIxllZ--/c_crop,h_1125,w_2000,x_0,y_16/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/08/13/000_c4jc7xe.jpg?itok=r-tiPuGo",
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "cambodia",
-        "hong kong",
-        "afghanistan",
-        "nepal",
-        "vietnam",
-        "singapore",
-        "south korea",
-        "myanmar",
-        "mongolia",
-        "pakistan",
-        "israel",
-        "bhutan",
-        "india",
-        "bahrain",
-        "taiwan",
-        "maldives",
-        "thailand",
-        "malaysia",
-        "bangladesh",
-        "sri lanka",
-        "china",
-        "north korea",
-        "philippines",
-        "kuwait",
-        "japan",
-        "turkey",
-        "indonesia"
-      ]
-    },
-    {
-      "title": "Pause All Laravel Queues During a Deploy",
-      "description": "Laravel 13.25 adds queue:pause --all and Queue::pauseAll() to stop job processing on every connection without putting the app in maintenance mode. The post Pause All Laravel Queues During a Deploy appeared first on Laravel News . Join the Laravel Newsletter to get Laravel articles like this directly in your inbox.",
-      "link": "https://laravel-news.com/laravel-pause-all-queues",
-      "source": "Laravel News",
-      "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/pause-all-laravel-queues-featured.png",
-      "published": "2026-08-13 03:56:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "germany",
-        "australia",
-        "united states of america",
-        "brazil",
-        "france",
-        "united kingdom",
-        "canada",
         "india"
       ]
     },
     {
-      "title": "Nigeria fails fiscal transparency test for 2nd year \u2014 US Report",
-      "description": "Nigeria has failed the minimum fiscal transparency requirements for the second conse cutive year, with the U.S Department of State saying the country made no significant progress in improving its financial management and opening up its public finances in 2025. The post Nigeria fails fiscal transparency test for 2nd year \u2014 US Report appeared first on Vanguard News .",
-      "link": "https://www.vanguardngr.com/2026/08/nigeria-fails-fiscal-transparency-test-for-2nd-year-us-report/",
-      "source": "Vanguard News",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/TINUBU-PRESENTS-2026-BUDGET5-1024x692-1.jpg",
-      "published": "2026-08-13 03:55:59",
+      "title": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks",
+      "description": "Reuters \u2013 Oil prices fell more than $1 on Thursday as forecasters lowered global oil demand projections for 2026 because of the disruptions from the U.S.-Israeli \u200bwar on Iran, though the supply constraints from the conflict provided a \u200cfloor for the market. Brent futures dropped $1.29, or 1.5%, at $87.69 a barrel by 0100 GMT. U.S. West Texas Intermediate (WTI) crude fell $1.30, or 1.6%, to $81.97. The Organisation of Petroleum Exporting Countries lowered its world oil demand \u200bgrowth forecast for 2026 to 580,000 barrels per day in its monthly \u200boil market report on Wednesday. On the same day, the International Energy Agency said \u2060 it expects a 1.6 million bpd contraction in consumption this year, down from a \u200bforecast of 1 million bpd last month, because of restricted fuel supplies and higher \u200bprices from the U.S.-Israeli war on Iran that have curtailed demand. Oil prices were also under pressure from a surprise build in U.S. commercial crude oil inventories, which posted their largest weekly gain since \u200bJanuary 2023 last week as exports slumped, the Energy Information Administration said on Wednesday. Crude \u200binventories rose by 17.4 million barrels to 424.4 million barrels in the week ended August 7, \u200ctheir \u2060highest since June 5, the EIA said, compared with analysts\u2019 expectations in a Reuters poll for a 1.4 million-barrel draw. Still, the deadlocked talks between Iran and the U.S. to end the war in the Gulf have kept prices elevated. A senior Iranian source said on \u200bWednesday that there had \u200bbeen no progress \u2060in talks to revive the interim deal agreed in June and define a time frame to implement it. Attacks on shipping in the \u200bStrait of Hormuz and the Bab el-Mandeb Strait on Tuesday, \u200btwo crucial \u2060export routes for Middle Eastern oil and gas, highlight the risks that remain for crude supply from the region. \u201cThe safety situation for navigation in these waters has further deteriorated, forcing \u2060vessels to turn \u200boff their signals, which reduces transparency in shipping \u200band makes it more difficult for the market to track and assess actual supply levels,\u201d analysts at Haitong \u200bFutures said in a note.",
+      "link": "http://bizenglish.adaderana.lk/oil-drops-on-lower-demand-forecasts-despite-deadlock-in-us-iran-talks/",
+      "source": "Adaderana News",
+      "image": "http://s3.amazonaws.com/bizenglish/wp-content/uploads/2026/08/13102632/Oil-Price-13.08.2026-300x158.jpg",
+      "published": "2026-08-13 04:56:54",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "nigeria"
+        "sri lanka"
       ]
     },
     {
-      "title": "10 Essential Sci-Fi TV Shows You Need To Watch Before You Die",
-      "description": "Some TV shows are so prolific and essential that every person should watch them before they die, and these big ten sci-fis are must-watches.",
-      "link": "https://screenrant.com/essential-sci-fi-tv-shows-need-to-watch/",
-      "source": "Screenrant",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/the-cast-of-star-trek-the-original-series.jpg",
-      "published": "2026-08-13 03:55:59",
+      "title": "Eric Lauer shows his value as Dodgers sweep the Royals",
+      "description": "Left-hander Eric Lauer, who could be odd man out when the postseason begins, pitches well as Dodgers sweep the Royals.",
+      "link": "https://sports.yahoo.com/articles/eric-lauer-shows-value-dodgers-045654113.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/0a51b82a889b5d1cea2e7038d22378f04b8dd703947c68dd1be07d553f9898f1/lightyear_networkapi/resizefit_w840_h560%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2F235492b2bdc34ba02c448cb30ab4182f.jpg",
+      "published": "2026-08-13 04:56:54",
       "category": [
-        "entertainment",
-        "top"
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "New Lakers Owner Bob Iger Confirms Jeanie Buss\u2019 Role With the Lakers After Mark Walter\u2019s $12.5B Record Sale",
-      "description": "The Lakers have changed hands again, but the franchise\u2019s most familiar figure is not going anywhere just yet. A record $12.5 billion transaction has shifted majority control from Mark Walter to an ownership group led by Bob Iger and Josh Kushner.",
-      "link": "https://www.yardbarker.com/nba/articles/new_lakers_owner_bob_iger_confirms_jeanie_buss_role_with_the_lakers_after_mark_walters_125b_record_sale/s1_17730_44169440",
-      "source": "Yardbarker",
-      "image": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_1125,w_2000,x_0,y_59/c_fill,f_auto,h_1215,q_auto,w_2160/v1/m/b/b/bb1d4e16f26e35834348749c3749ec43716659ab/nov-10-2025-green-bay-wisconsin-usa-disney-ceo.jpg",
-      "published": "2026-08-13 03:55:59",
+      "title": "Freddie Freeman exits Dodgers game after scary fall down dugout stairs",
+      "description": "Freddie Freeman took a scary fall down the first base dugout stairs while trying to chase a foul ball. He finished the inning but then was pulled.",
+      "link": "https://www.usatoday.com/story/sports/mlb/dodgers/2026/08/13/freddie-freeman-fall-dugout-stairs-injury-update/91282716007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/13/USAT/91282735007-20260731-t-024631-z-734580228-mt-1-usatoday-29485131-rtrmadp-3-mlbseattlemarinersatlosangelesdodgers.JPG?crop=2930,1648,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-13 04:56:52",
       "category": [
         "sports"
       ],
@@ -241,188 +164,12 @@
       ]
     },
     {
-      "title": "States Yet To Spend N267bn Released For Basic Schools \u2014 UBEC",
-      "description": "ABUJA \u2013 States are yet to utilise approximately N267 billion in previously released intervention funds for basic schools, the Universal Basic Education Commission (UBEC) has confirmed. This comes as the...",
-      "link": "https://independent.ng/states-yet-to-spend-n267bn-released-for-basic-schools-ubec/",
-      "source": "Independentng",
-      "image": "https://independent.ng/wp-content/uploads/Universal-Basic-Education-Commission-UBEC.jpg",
-      "published": "2026-08-13 03:55:57",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Shree Ganesh Remedies consolidated net profit declines 67.54% in the June 2026 quarter",
-      "description": null,
-      "link": "https://www.business-standard.com/markets/capital-market-news/shree-ganesh-remedies-consolidated-net-profit-declines-67-54-in-the-june-2026-quarter-126081300282_1.html",
-      "source": "Business Standard",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "published": "2026-08-13 03:55:57",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Home-based dialysis offers new option for kidney patients",
-      "description": "Kidney patients in the country can now undergo dialysis from the comfort of their home, at a lower cost. Peritoneal Dialysis, or PD, was launched in the capital today, offering an alternative to hospital-based haemodialysis. According to the health ministry, there are over 450 patients with kidney failure in the country who require dialysis. 70-year-old [...] The post Home-based dialysis offers new option for kidney patients appeared first on BBSCL .",
-      "link": "https://www.bbs.bt/245120/",
-      "source": "Bbscl",
-      "image": "https://www.bbs.bt/wp-content/uploads/2026/08/1-13.jpg",
-      "published": "2026-08-13 03:55:54",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "bhutan"
-      ]
-    },
-    {
-      "title": "Four years after COVID scrapped city's first attempt, Special Olympics finally underway in Medicine Hat",
-      "description": "The Special Olympics Canada Summer Games opened in Medicine Hat this week, four years after the city\u2019s first chance to host was cancelled because of COVID-19.",
-      "link": "https://www.stcatharinesstandard.ca/news/canada/four-years-after-covid-scrapped-citys-first-attempt-special-olympics-finally-underway-in-medicine-hat/article_152b3ecf-efb3-5e22-9246-dc96eac88136.html",
-      "source": "The Standard",
-      "image": "https://bloximages.chicago2.vip.townnews.com/stcatharinesstandard.ca/content/tncms/assets/v3/editorial/4/40/44020580-8452-5229-b606-56563aebe117/6a7d43cb6b2ab.image.jpg?resize=300%2C184",
-      "published": "2026-08-13 03:55:52",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "German watchdog takes Meta to court over alleged privacy breaches linked to AI glasses",
-      "description": "A German advocacy group has filed a criminal complaint against Meta and other companies selling the technology group\u2019s AI glasses in Germany, arguing the devices violate privacy laws. Digital rights group HateAid said in a statement on Wednesday that the launch of the devices, the Ray-Ban Meta Wayfarer in particular, broke German digital privacy laws, in the latest sign of legal scrutiny in a nation where the right to privacy is highly valued. \u201cThere\u2019s no place to escape from smart glasses. You have to expect at any moment to be filmed and then exposed on the internet,\u201d said HateAid managing [...]",
-      "link": "https://telecomlive.in/web/2026/08/13/german-watchdog-takes-meta-to-court-over-alleged-privacy-breaches-linked-to-ai-glasses/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-08-13 03:55:52",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "ANZ Bank\u2019s customer deposits, lending up in June quarter",
-      "description": "Australian bank ANZ has posted a mildly improved third-quarter result, showing that its New Zealand unit, ANZ Bank, enjoyed gains in customer deposits as well as net loans and advances. The Australian deposit taker, which is the parent of NZ\u2019s largest bank by total assets, produced an A$1.90 billion (NZ$2.29b) cash profit for the three months to the end of June, up 2% on the same period in 2025.",
-      "link": "https://businessdesk.co.nz/article/news-in-brief/anz-banks-customer-deposits-lending-up-in-june-quarter",
-      "source": "Nz Herald",
-      "image": "https://media.businessdesk.co.nz/file/c_fill,w_330,q_80/anz-bank-getty-P.jpg",
-      "published": "2026-08-13 03:55:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "PH gets 200-M euro loan from France for marine protection, blue economy dev't",
-      "description": "The Philippines has secured a 200-million euro loan (about \u20b114 billion) from the French government, through Agence Franc\u0327aise de De\u0301veloppement (AFD), for the country's protection of its marine ecosystems resources and expansion of opportunities in the blue economy.",
-      "link": "https://www.gmanetwork.com/news/money/economy/998398/ph-gets-200-m-euro-loan-from-france-for-marine-protection-blue-economy-dev-t/story/",
-      "source": "Gma News Online",
-      "image": "http://www8.gmanews.tv/webpics/v3/2013/01/ZZZ_012213_1_b.jpg",
-      "published": "2026-08-13 03:55:51",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Livestream, live updates: More police testimony expected in Lindsay Clancy trial",
-      "description": "Plymouth, MA \u2013 August 11: Lindsay Clancy listens to testimony during her murder trial at Plymouth Superior Court on August 11, 2026. (Photo by Jonathan Wiggs/The Boston Globe via Getty Images)",
-      "link": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-13-live-stream-live-updates/3997016/",
-      "source": "Necn",
-      "image": "https://media.nbcboston.com/2026/08/GettyImages-2289661751.jpg?quality=85&strip=all&fit=8062,5464",
-      "published": "2026-08-13 03:55:49",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Korea Stock Market Today (August 13): Why is the Korean Stock Market Up Today? KOSPI Surges Over 4%, Samsung Electronics Jumps Over 5% & SK Hynix Rallies Nearly 8% \u2013 Check Top Gainers & Losers",
-      "description": "Korea Stock Market (KRX) Today (August 13): KOSPI surges over 4% into bull-market territory as Samsung Electronics and SK Hynix lead an AI-driven chip rally. The post Korea Stock Market Today (August 13): Why is the Korean Stock Market Up Today? KOSPI Surges Over 4%, Samsung Electronics Jumps Over 5% & SK Hynix Rallies Nearly 8% \u2013 Check Top Gainers & Losers appeared first on The Sunday Guardian .",
-      "link": "https://sundayguardianlive.com/business/korea-stock-market-today-august-13-why-is-the-korean-stock-market-up-today-kospi-surges-over-4-samsung-electronics-jumps-over-5-sk-hynix-rallies-nearly-8-check-top-gainers-losers-260117/",
-      "source": "The Sunday Guardian",
-      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/08/independence-day-2026-weather-forecast-delhi-1.jpg",
-      "published": "2026-08-13 03:55:49",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Comfort Fincap consolidated net profit declines 17.60% in the June 2026 quarter",
-      "description": null,
-      "link": "https://www.business-standard.com/markets/capital-market-news/comfort-fincap-consolidated-net-profit-declines-17-60-in-the-june-2026-quarter-126081300281_1.html",
-      "source": "Business Standard",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "published": "2026-08-13 03:55:49",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Enchanting videos of total solar eclipse from Spain and Iceland",
-      "description": "Videos of the total solar eclipse from Spain and Iceland are mesmerising people across the world. Some of the videos show the eclipse at sunset. Videos from Iceland show the eclipse with cloudy skies. One video in particular shows day turning into darkness, with Jupiter also visible.",
-      "link": "https://www.wionews.com/trending/videos-of-total-solar-eclipse-from-spain-and-iceland-1786592472853",
-      "source": "Wion",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260813/image-1786593284777.png?rect=(0,0,1200,900)",
-      "published": "2026-08-13 03:55:47",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "No 'advance tips': Govt issues guidelines for tipping cab drivers, asks aggregators to stop pre-ride prompts \u2014 report",
-      "description": "The government reportedly cited a clause in the guidelines that specifies that passengers may give drivers a voluntary tip only after the journey is complete.",
-      "link": "https://www.livemint.com/news/india/cabs-asking-for-advance-tips-to-book-rides-govt-issues-guidelines-asks-aggregators-to-stop-pre-ride-prompts-report-11786592509601.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/pexels-photo-1521580_1751438413484_1751438427123_1786592591189_82c69702-f3aa-4d6a-9ff2-fb7808fb9cf1.jpeg",
-      "published": "2026-08-13 03:55:47",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "NIA Makes First Arrest In Manipur\u2019s Tronglaobi IED Attack That Killed Two Children",
-      "description": "The National Investigation Agency (NIA) has made its first arrest related to the April 7 IED attack in Manipur, which killed two young children and injured their mother. The explosion struck their home while the family was asleep, leading to public outrage and protests in demand for justice.",
-      "link": "https://www.republicworld.com/india/nia-makes-first-arrest-in-manipurs-tronglaobi-ied-attack-that-killed-two-children-2026-08-13-134618",
-      "source": "Republic World",
-      "image": "https://img.republicworld.com/all_images/2026/07/nia-chargesheets-shabir-ahmad-shah-five-other-senior-hurriyat-leaders-in-1996-srinagar-violence-case-1783682862182-1280x720.webp?tr=f-jpeg",
-      "published": "2026-08-13 03:55:46",
+      "title": "AI 2379 Under Scanner: Air India Told To \u2018Take Responsibility\u2019 Amid Ongoing Probe",
+      "description": "Flight AI 2379, carrying 145 passengers from Phuket to Delhi, encountered severe turbulence on August 4, injuring 20 passengers and four cabin crew members",
+      "link": "https://www.outlookindia.com/national/ai-2379-under-scanner-air-india-told-to-take-responsibility-amid-ongoing-probe",
+      "source": "Outlook",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-08-11/ocj8c37i/airindia_20151217_350_630.jpg",
+      "published": "2026-08-13 04:56:52",
       "category": [
         "crime",
         "top"
@@ -432,18 +179,211 @@
       ]
     },
     {
-      "title": "Air India makes psychoactive substance testing mandatory for pilots after Phuket incident",
-      "description": "Air India now mandates psychoactive substance testing for all pilots. This new internal measure enhances safety protocols beyond DGCA requirements. Previously, the airline followed DGCA rules for random testing of personnel. The Phuket incident prompted Air India to tighten its internal safety checks.",
-      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-makes-psychoactive-substance-testing-mandatory-for-pilots-after-phuket-incident/articleshow/133206743.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-133206815,resizemode-4,width-1200,height-900,imgsize-113190,overlay-economictimes/articleshow.jpg",
-      "published": "2026-08-13 03:55:43",
+      "title": "Lorry-van crash blocks Choa Chu Kang junction; bus service diverted",
+      "description": "An accident involving a lorry and a van in Choa Chu Kang on Monday (Aug 10) afternoon resulted in the diversion of bus trunk service 983. The accident happened at about 4.35pm at the junction of Choa Chua Kang Avenue 3 and Choa Chu Kang Avenue 4.A photograph of the accident shared on a Telegram motoring group shows a silver...",
+      "link": "https://www.asiaone.com/singapore/choa-chu-kang-lorry-van-accident-bus-diverted",
+      "source": "Asiaone",
+      "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Aug2026/choa-chu-kang-lorry-van-accident-bus-diverted.png?itok=vEvZBEp0",
+      "published": "2026-08-13 04:56:49",
       "category": [
-        "health",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Former reporter settles lawsuit over Kansas newspaper raid for $850K",
+      "description": "Former Marion County Record reporter Phyllis Zorn settled her lawsuit over the 2023 police raid on the Kansas newspaper.",
+      "link": "https://www.usatoday.com/story/news/nation/2026/08/13/kansas-newspaper-raid-phyllis-zorn-settlement/91282015007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/11/13/USAT/87246681007-getty-images-121044081.jpg?crop=2120,1193,x0,y110&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-13 04:56:48",
+      "category": [
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Karnataka Bandh Today: Schools, Banks, Hospitals, Public Transport to Remain Open Amid Cauvery Row",
+      "description": "Schools, banks, hospitals, pharmacies and public transport services are expected to function normally across Karnataka on Thursday despite a bandh call by several Kannada organisations over the Cauvery water-sharing dispute with Tamil Nadu. The Bengaluru City Police has appealed to residents to remain calm and cooperate with authorities ahead of the Karnataka Bandh called for [...] The post Karnataka Bandh Today: Schools, Banks, Hospitals, Public Transport to Remain Open Amid Cauvery Row appeared first on ANC .",
+      "link": "https://www.asian-news-channel.tv/karnataka-bandh-today-schools-banks-hospitals-public-transport-to-remain-open-amid-cauvery-row/",
+      "source": "Anc",
+      "image": "https://www.asian-news-channel.tv/wp-content/uploads/2026/08/Band3.jpg",
+      "published": "2026-08-13 04:56:47",
+      "category": [
+        "business",
+        "education",
+        "top"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Gamuda Secures RM1.64 Billion Solar, Battery Hybrid Contracts In Australia",
+      "description": "Gamuda Berhad has secured two Engineering, Procurement and Construction (EPC) contracts in Australia worth a combined AUD569 million (RM1.64 billion) for the development of the Ganymirra and Majors Creek solar and battery hybrid projects. The group said its wholly owned Australian subsidiary, DT Infrastructure Pty Ltd (DTI), entered into the EPC contracts with Ganymirra Solar [...]",
+      "link": "https://www.businesstoday.com.my/2026/08/13/gamuda-secures-rm1-64-billion-solar-battery-hybrid-contracts-in-australia/",
+      "source": "Businesstoday | Malaysia",
+      "image": null,
+      "published": "2026-08-13 04:56:45",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Rumor Killer On Issues Between Bron Breakker And Logan Paul",
+      "description": "It was recently claimed by former WWE personality Jonathan Coachman that Logan Paul and Bron Breakker do not get along when at WWE events. That is despite the pair of Superstars being allies in The Vision, a group that also includes Bronson Reed, Austin Theory, and Maxxine Dupri. Logan Paul has responded to the claim [...]",
+      "link": "https://www.ewrestlingnews.com/news/wwe/rumor-killer-on-issues-between-bron-breakker-and-logan-paul",
+      "source": "Ewrestlingnews.com",
+      "image": "https://i0.wp.com/www.ewrestlingnews.com/wp-content/uploads/2026/08/Bron-Breakker-Logan-Paul.png?fit=716%2C444&quality=30&ssl=1",
+      "published": "2026-08-13 04:56:44",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Come, celebrate I-Day with enthusiasm\u2019: Div Com Kashmir invites people to Bakshi Stadium",
+      "description": "Srinaga: Divisional Commissioner Kashmir Anshul Garg on Thursday invited people from across Kashmir to attend the Union Territory-level Independence Day celebrations at Bakshi Stadium, Srinagar and celebrate the occasion with a lot of enthusiasm. Speaking to reporters on the sidelines of full dress rehearsal at Bakshi Stadium, Garg said all arrangements for the August 15 [...]",
+      "link": "https://kashmirreader.com/2026/08/13/come-celebrate-i-day-with-enthusiasm-div-com-kashmir-invites-people-to-bakshi-stadium/",
+      "source": "Kashmir Reader",
+      "image": "https://kashmirreader.com/wp-content/uploads/2019/10/cropped-logoo.jpg",
+      "published": "2026-08-13 04:56:44",
+      "category": [
+        "top",
+        "politics",
+        "lifestyle"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Revealed: The ASX bank share with the highest dividend yield today",
+      "description": "The highest-yielding bank right now might surprise you. The post Revealed: The ASX bank share with the highest dividend yield today appeared first on The Motley Fool Australia .",
+      "link": "https://www.fool.com.au/2026/08/13/revealed-the-asx-bank-share-with-the-highest-dividend-yield-today/",
+      "source": "Fool Australia",
+      "image": "https://www.fool.com.au/wp-content/uploads/2024/12/banker-16.9-1200x675.jpg",
+      "published": "2026-08-13 04:56:42",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "2 Held for Killing Woman in Nagarkurnool",
+      "description": "Based on a complaint, the police booked a case under relevant provisions of BNS and detained Ramulu and another person who helped him in committing the crime",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/2-held-for-killing-woman-in-nagarkurnool-1978801",
+      "source": "Andhrabhoomi",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/22/2067420-1094201-roadaccident.webp",
+      "published": "2026-08-13 04:56:42",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Hartselle Utilities to begin major sewer rehabilitation project",
+      "description": "Hartselle Utilities will begin a major sewer rehabilitation project next week that will replace approximately 24,000 feet of clay sewer pipe with high-density polyethylene, or HDPE, pipe, according to utility officials. Vortex Services, a certified contractor for Hartselle Utilities, will complete the work in various areas throughout the city. Work will begin next week along Bethel Street. Sections of Bethel Street may be closed at times while work is underway, and motorists are encouraged to seek alternate routes when possible, officials said. Drivers traveling through construction areas should pay close attention to traffic control devices, signs and workers. Hartselle Utilities thanked residents for their patience as work continues to improve the city's sewer system. For more information, contact Hartselle Utilities at 773-3340 or email inquiries@hartselleutilities.org.",
+      "link": "https://www.hartselleenquirer.com/2026/08/13/hartselle-utilities-begin-major-sewer-rehabilitation-project/",
+      "source": "Hartselle Enquirer",
+      "image": "https://www.hartselleenquirer.com/hartselleenquirer/news/wp-content/uploads/sites/3/2026/08/774033649_122196495158752368_3867533292552230819_n-e1786564630908.jpg",
+      "published": "2026-08-13 04:56:40",
+      "category": [
+        "business",
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Meet Brian Madjo: Aston Villa\u2019s 17-Year-Old Youngest-Ever Goalscorer In UEFA Super Cup Final",
+      "description": "Meet Brian Madjo, Aston Villa\u2019s 17-year-old forward who made UEFA Super Cup history by becoming the youngest-ever scorer in the competition during the club\u2019s 2-1 defeat to PSG. The post Meet Brian Madjo: Aston Villa\u2019s 17-Year-Old Youngest-Ever Goalscorer In UEFA Super Cup Final appeared first on The Sunday Guardian .",
+      "link": "https://sundayguardianlive.com/sports/meet-brian-madjo-aston-villas-17-year-old-youngest-ever-goalscorer-in-uefa-super-cup-final-260145/",
+      "source": "The Sunday Guardian",
+      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/08/meet-brian-madjo-aston-villas-17-year-old-youngest-ever-goal-scorer-in-uefa-super-cup-final.png",
+      "published": "2026-08-13 04:56:34",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Cara Tejpal rejects survivor\u2019s \u2018father figure\u2019 claim in Tarun Tejpal rape case",
+      "description": "Cara Tejpal has rejected claims that the complainant was a family friend who saw her father as a father figure. Her statement comes after the Goa High Court convicted Tarun Tejpal, reviving scrutiny of the case narrative. Tarun Tejpal\u2019s daughter Cara has rejected as \u201can absolute untruth\u201d the \u201cnarrative\u201d that the complainant in the rape case against... The post Cara Tejpal rejects survivor\u2019s \u2018father figure\u2019 claim in Tarun Tejpal rape case appeared first on Read Selective .",
+      "link": "https://www.readselective.com/cara-tejpal-rejects-survivors-father-figure-claim-in-tarun-tejpal-rape-case/",
+      "source": "Read Selective",
+      "image": "https://i0.wp.com/www.readselective.com/wp-content/uploads/2026/08/Capture-16266.png?fit=845%2C471&ssl=1",
+      "published": "2026-08-13 04:56:30",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Sunny and hot with afternoon showers, yellow weather warning in place",
+      "description": "Sunny and hot weather will be prevailing across the island on Thursday, however clouds forming locally around noon are expected to yield isolated showers and thunderstorms, mainly over the mountains. The meteorological service has issued a yellow warning for high temperatures, valid from 2pm till 4.30pm. Temperatures will peak at 40C inland, 31C along the [...]",
+      "link": "https://cyprus-mail.com/2026/08/13/sunny-and-hot-with-afternoon-showers",
+      "source": "Cyprus Mail",
+      "image": "https://cyprus-mail.com/image/s640x/file/wp-content/uploads/2025/06/doggy-beach.jpg",
+      "published": "2026-08-13 04:56:30",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "cyprus"
+      ]
+    },
+    {
+      "title": "World Organ Donation Day 2026",
+      "description": "\u0c28\u0c47\u0c21\u0c41 \u0c2a\u0c4d\u0c30\u0c2a\u0c02\u0c1a \u0c05\u0c35\u0c2f\u0c35\u0c26\u0c3e\u0c28 \u0c26\u0c3f\u0c28\u0c4b\u0c24\u0c4d\u0c38\u0c35\u0c02 - \u0c2a\u0c4d\u0c30\u0c3e\u0c23\u0c3e\u0c32\u0c41 \u0c28\u0c3f\u0c32\u0c41\u0c2a\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c26\u0c3e\u0c24\u0c32\u0c41 - \u0c1a\u0c4a\u0c30\u0c35 \u0c05\u0c35\u0c17\u0c3e\u0c39\u0c28 \u0c32\u0c47\u0c15\u0c2a\u0c4b\u0c35\u0c1f\u0c2e\u0c47 \u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28 \u0c15\u0c3e\u0c30\u0c23\u0c02 - \u0c05\u0c35\u0c2f\u0c35\u0c26\u0c3e\u0c28\u0c02\u0c24\u0c4b \u0c2a\u0c32\u0c41\u0c35\u0c41\u0c30\u0c3f\u0c15\u0c3f \u0c15\u0c4a\u0c24\u0c4d\u0c24 \u0c1c\u0c40\u0c35\u0c3f\u0c24\u0c02",
+      "link": "https://www.etvbharat.com/te/state/world-organ-donation-day-donors-saving-lives-tgs26081300777",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/13-08-2026/1200-675-27380106-thumbnail-16x9-organ-donation-day.jpg",
+      "published": "2026-08-13 04:56:30",
+      "category": [
+        "lifestyle"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mark Magsayo books clash with Andres Cortes on Garcia-Benn card",
+      "description": "Mark \u201cMagnifico\u201d Magsayo will face unbeaten American Andres Cortes in a 10-round lightweight bout on September 12 (US time) at the T-Mobile Arena in Las Vegas, Nevada.",
+      "link": "https://www.gmanetwork.com/news/sports/boxing/998407/mark-magsayo-books-clash-with-andres-cortes-on-garcia-benn-card/story/",
+      "source": "Gma News Online",
+      "image": "https://images.gmanews.tv/webpics/2026/08/ab6df1c4-6062-48d0-a00b-9ebd15aee1ff_2026_08_13_12_55_35.jpeg",
+      "published": "2026-08-13 04:56:29",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "philippines"
       ]
     }
   ]

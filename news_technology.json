@@ -1,34 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "The US will let private security firms hack overseas cybercriminals for the first time",
-      "description": "President Donald Trump signed the National Security Presidential Memorandum on Wednesday. The move marks the first time the federal government has authorized private companies to conduct offensive cyber operations. Read Entire Article",
-      "link": "https://www.techspot.com/news/113484-us-private-security-firms-hack-overseas-cybercriminals-first.html",
-      "source": "Techspot",
-      "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-14-image-4.jpg",
-      "published": "2026-08-14 10:19:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New matchmaking service aims streamlined international dating",
-      "description": "Online dating has expanded global connections, allowing singles to meet across borders, but the abundance of choices often leaves busy professionals overwhelmed by unfiltered options and stalled...",
-      "link": "https://tribune.net.ph/2026/08/14/new-matchmaking-service-aims-streamlined-international-dating",
-      "source": "Daily Tribune",
-      "image": "https://images.assettype.com/tribune/2026-08-14/7qyysayp/IMG-20260625-WA00061.jpg?w=1200&auto=format",
-      "published": "2026-08-14 10:18:59",
+      "title": "AI-skilled job postings more than double in Q1 FY27 as demand spreads beyond tech roles: Report",
+      "description": "Bengaluru (Karnataka) [India]: Job postings seeking artificial intelligence skills more than doubled in India during the first quarter of Financial Year (FY)27, with demand increasingly spreading beyond specialist technology positions into roles such as digital marketing, graphic design, business development and teaching. Postings asking for AI skills grew 112.4 per cent year-on-year during the quarter, [...] ChiniMandi",
+      "link": "https://www.chinimandi.com/ai-skilled-job-postings-more-than-double-in-q1-fy27-as-demand-spreads-beyond-tech-roles-report/",
+      "source": "Chinimandi",
+      "image": "https://www.chinimandi.com/wp-content/uploads/2026/08/ANI-20260814104527.jpg",
+      "published": "2026-08-14 11:17:50",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "philippines"
+        "india"
       ]
     }
   ]

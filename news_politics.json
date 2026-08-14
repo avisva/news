@@ -1,19 +1,109 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Russian drones attack minibus in Zaporizhzhia region",
-      "description": "This morning, enemy FPV drones damaged a minibus in the settlement of Kushuhum in Zaporizhzhia region. The minibus had been operating for only 15 minutes.",
-      "link": "https://www.ukrinform.net/rubric-ato/4154124-russian-drones-attack-minibus-in-zaporizhzhia-region.html",
+      "title": "Indian Electronics Firm Eureka Probes Child Labour Findings at Supplier",
+      "description": "The National Human Rights \u200bCommission this week asked Eureka, as well as electrical equipment maker Havells and Unilever's \u200bIndia unit, to make checks after four children were rescued from \u2060a small-scale Indian vendor.",
+      "link": "https://www.deccanchronicle.com/business/indian-electronics-firm-eureka-probes-child-labour-findings-at-supplier-1979149",
+      "source": "Andhrabhoomi",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/14/2076108-la-1120690.webp",
+      "published": "2026-08-14 11:18:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "New German ambassador arrives in Kyiv",
+      "description": "Germany\u2019s new ambassador to Ukraine, Boris Ruge, has arrived in Kyiv.",
+      "link": "https://www.ukrinform.net/rubric-polytics/4154147-new-german-ambassador-arrives-in-kyiv.html",
       "source": "Ukrinform",
-      "image": "https://static.ukrinform.com/photos/2025_11/thumb_files/630_360_1764081786-428.jpg",
-      "published": "2026-08-14 10:19:00",
+      "image": "https://static.ukrinform.com/photos/2026_06/thumb_files/630_360_1780955405-107.jpg",
+      "published": "2026-08-14 11:18:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "The Traitors: Harman Singha Says Karan Johar Ignored Him Despite Having Worked Together | Exclusive",
+      "description": "Harman Singha, who was recently eliminated from The Traitors, recalls Karan Johar giving him the cold shoulder on the show despite having previously worked together on RRKPK.",
+      "link": "https://www.news18.com/movies/web-series/the-traitors-harman-singha-says-karan-johar-ignored-him-despite-having-worked-together-exclusive-10273440.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/BeFunky-collage-1-2026-08-7bc633e6afb72ea05e5258bae3a368f6-1200x800.jpg",
+      "published": "2026-08-14 11:17:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "2027 elections: ADP presidential candidate Abbas raises alarm over plans to substitute his name",
+      "description": "The Presidential candidate of the Action Democratic Party (ADP), Ambassador Aliyu Bin Abbas, has warned against schemes to substitute his name, to pave way for [...]",
+      "link": "https://blueprint.ng/2027-elections-adp-presidential-candidate-abbas-raises-alarm-over-plans-to-substitute-his-name/",
+      "source": "Blueprint Newspapers",
+      "image": "https://blueprint.ng/wp-content/uploads/2026/08/IMG-20260814-WA0009.jpg",
+      "published": "2026-08-14 11:17:50",
       "category": [
         "politics"
       ],
       "country": [
-        "ukraine"
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Dr Moses Atinga unveils 3-point plan to rebuild NPP in Upper East",
+      "description": "A seasoned party organiser with decades of grassroots service is positioning himself as the candidate to steady the New Patriotic Party (NPP) in the Upper",
+      "link": "https://www.citinewsroom.com/2026/08/dr-moses-atinga-unveils-3-point-plan-to-rebuild-npp-in-upper-east/",
+      "source": "Citinewsroom - Comprehensive News In Ghana",
+      "image": "https://www.citinewsroom.com/wp-content/uploads/2026/08/44077066-6b6d-423e-b28f-1a779c1175f6-e1786705643662.jpg",
+      "published": "2026-08-14 11:17:48",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Short: Partition wounds yet to heal fully even after eight decades: LG Sinha",
+      "description": null,
+      "link": "https://risingkashmir.com/breaking/short-partitionwoundslgsinha-12260555",
+      "source": "Rising Kashmir",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/rising-kashmir/media/media_files/2026/07/06/lg-sinha-2026-07-06-13-20-57.jpg",
+      "published": "2026-08-14 11:17:47",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "MPlan Urban Planning Welcome Week Timetable",
+      "description": "Please make sure to check this page in case of any updates to timings or venues.",
+      "link": "https://sheffield.ac.uk/geography-planning/undergraduate/pre-arrival/mplan-urban-planning-welcome-week-timetable",
+      "source": "University Of Sheffield",
+      "image": null,
+      "published": "2026-08-14 11:17:45",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

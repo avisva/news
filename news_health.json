@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Invaluable breast cancer \u2018manual\u2019 helps patients cut through blizzard of statistics and then ask the right questions",
+      "description": "Terrified after a breast cancer diagnosis and drowning in jargon? Learn how Christina Wilhelm\u2019s guide empowers informed choices and recovery",
+      "link": "https://www.belfasttelegraph.co.uk/news/invaluable-breast-cancer-manual-helps-patients-cut-through-blizzard-of-statistics-and-then-ask-the-right-questions/a/159964272.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/212yt4-fionola-meredith-on-friday.jpg/alternates/BASE_SIXTEEN_NINE/Fionola%20Meredith%20on%20Friday.jpg",
+      "published": "2026-08-14 05:50:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

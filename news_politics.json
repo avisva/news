@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Who are the biggest social media stars in Congress?",
-      "description": "Some familiar names top the list, but a slate of up and coming members have amassed significant followings this term.",
-      "link": "https://www.politico.com/news/2026/08/14/congress-social-media-stars-01036467",
-      "source": "Politico",
-      "image": "https://static.politico.com/56/48/247c07fd4e42a402bbe1b123ab08/main-congress-social-stars.jpg",
-      "published": "2026-08-14 07:45:00",
+      "title": "Mothers Against Vaping backs Maliwal's Parliament intervention on vapes, e-cigarettes",
+      "description": "Mothers Against Vaping backs Maliwal's Parliament intervention on vapes, e-cigarettes",
+      "link": "https://www.hindustantimes.com/india-news/mothers-against-vaping-backs-maliwal-s-parliament-intervention-on-vapes-ecigarettes-101786696018763.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india3_1751287297962_1751287304722.jpg",
+      "published": "2026-08-14 08:26:58",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Palaniswami slams TN CM Vijay over office shift, says farmers\u2019 woes being ignored",
+      "description": "Palaniswami slams TN CM Vijay over office shift, says farmers\u2019 woes being ignored",
+      "link": "https://www.hindustantimes.com/india-news/palaniswami-slams-tn-cm-vijay-over-office-shift-says-farmers-woes-being-ignored-101786696018934.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india1_1751287243850_1751287256749.jpg",
+      "published": "2026-08-14 08:26:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "7 famous stars who've publicly savaged Meghan Markle and Prince Harry",
+      "description": "These famous stars did not mince their words when discussing the Duke and Duchess of Sussex.",
+      "link": "https://www.express.co.uk/celebrity-news/2238868/harry-meghan-markle-savaged",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/79/237x141/2238868_1.jpg",
+      "published": "2026-08-14 09:21:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

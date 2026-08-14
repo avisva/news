@@ -1,20 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Los Angeles to speed up gun licensing process to settle US government lawsuit",
-      "description": null,
-      "link": "https://sg.news.yahoo.com/los-angeles-speed-gun-licensing-215700746.html",
-      "source": "Yahoo!news",
-      "image": null,
-      "published": "2026-08-13 21:57:00",
+      "title": "Nearly 20 new U.S. citizens take Oath of Allegiance at Tulsa's City Hall",
+      "description": "Nearly 20 people from 10 countries took the Oath of Allegiance at a naturalization ceremony at Tulsa's City Hall on Thursday. The new citizens, including some who traveled from as far as Amarillo and Lubbock, Texas, left with resources on voting registration and financial literacy.",
+      "link": "https://www.newson6.com/something-good/nearly-20-new-u-s-citizens-take-oath-of-allegiance-at-tulsas-city-hall",
+      "source": "Newson6.com",
+      "image": "https://cdn.griffin.news/dims4/default/7c4923c/2147483647/strip/false/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Ffueltools-prod01-public.fuelmedia.io%2F91fa9954-d7e6-483b-9fc0-19e5940628a5%2F20260813%2F7c3a3e58-2737-4002-960b-d4af1768ccb3%2Fthumbnail.png",
+      "published": "2026-08-13 23:00:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "singapore"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cobb police chief to address Flock camera concerns at four town halls",
+      "description": "In the midst of a growing debate over Flock Safety traffic cameras, Cobb Police Chief Dan Ferrell is scheduled to host four town hall meetings to help clear the air, the department announced Wednesday.",
+      "link": "https://www.mdjonline.com/news/police_fire/cobb-police-chief-to-address-flock-camera-concerns-at-four-town-halls/article_341f043a-4885-44ca-a6a0-e2e0fceca0d5.html",
+      "source": "Marietta Daily Journal",
+      "image": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/c/f6/cf6a9d94-c8fd-5693-863d-da2d2c42ab51/6a7dd929dfb03.image.jpg?resize=300%2C200",
+      "published": "2026-08-13 23:00:00",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "He\u2019s impatient, erratic and scaring investors. It\u2019s not Trump",
+      "description": "A volatile president has introduced drastic reforms to fix a perceived crisis. No, this is not the US under its current leader, but Indonesia under Prabowo Subianto.",
+      "link": "https://www.afr.com/world/asia/he-s-impatient-erratic-and-scaring-investors-it-s-not-trump-20260810-p60mva",
+      "source": "Afr",
+      "image": null,
+      "published": "2026-08-13 23:00:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

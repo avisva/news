@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "TN's Stanley hospital sanitation worker issued memo after viral egg distribution video",
+      "description": "Dr A Aravind, dean of Government Stanley Medical College Hospital, said the worker was a permanent employee with a clean record, but his conduct was unacceptable.",
+      "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/14/tns-stanley-hospital-sanitation-worker-issued-memo-after-viral-egg-distribution-video",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-13/0xawf5zz/Stanley-hospital.jpg?w=280",
+      "published": "2026-08-14 02:46:33",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

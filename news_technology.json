@@ -1,31 +1,17 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Urban Arrow launches its first longtail e-bike with impressive 100 Km range",
-      "description": "Urban Arrow has launched its first longtail electric cargo bike, the Breeze, in North America. The e-bike features Bosch\u2019s Cargo Line motor, 24-inch wheels, a Bosch Purion 200 display, and an 800h Bosch PowerPack battery. Plus, it\u2019s available in green and black colorways.",
-      "link": "https://www.notebookcheck.net/Urban-Arrow-launches-its-first-longtail-e-bike-with-impressive-100-Km-range.1368517.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Urban-Arrow-Breeze.jpg",
-      "published": "2026-08-14 06:49:00",
+      "title": "MongoDB adds AI retrieval tools to Atlas platform",
+      "description": "Developers can now query live Atlas data from ChatGPT, Claude and coding agents, cutting setup work and reducing stale AI responses.",
+      "link": "https://itbrief.com.au/story/mongodb-adds-ai-retrieval-tools-to-atlas-platform",
+      "source": "It Brief Australia",
+      "image": "https://itbrief.com.au/uploads/story/2026/08/14/compatible_jim-scharf-urvesh-patel-and-vibhor-chhabra-story-316651.jpg",
+      "published": "2026-08-14 07:45:00",
       "category": [
         "technology",
         "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New Chinese brand incoming",
-      "description": "Another Chinese brand is coming to Australia, and it spells bad news for one local favourite.",
-      "link": "https://www.blayneychronicle.com.au/story/9330676/new-chinese-brand-incoming/?src=rss",
-      "source": "Blayney, Nsw",
-      "image": "https://www.blayneychronicle.com.au/images/transform/v1/crop/frm/silverstone-feed-data/7ac49233-c8d6-4e99-89dd-9e0019410ff9.jpg/r44_0_1446_790_w600_h338_fmax.jpg",
-      "published": "2026-08-14 06:48:56",
-      "category": [
-        "technology"
       ],
       "country": [
         "australia"

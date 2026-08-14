@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "The US will let private security firms hack overseas cybercriminals for the first time",
+      "description": "President Donald Trump signed the National Security Presidential Memorandum on Wednesday. The move marks the first time the federal government has authorized private companies to conduct offensive cyber operations. Read Entire Article",
+      "link": "https://www.techspot.com/news/113484-us-private-security-firms-hack-overseas-cybercriminals-first.html",
+      "source": "Techspot",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-14-image-4.jpg",
+      "published": "2026-08-14 10:19:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "New matchmaking service aims streamlined international dating",
+      "description": "Online dating has expanded global connections, allowing singles to meet across borders, but the abundance of choices often leaves busy professionals overwhelmed by unfiltered options and stalled...",
+      "link": "https://tribune.net.ph/2026/08/14/new-matchmaking-service-aims-streamlined-international-dating",
+      "source": "Daily Tribune",
+      "image": "https://images.assettype.com/tribune/2026-08-14/7qyysayp/IMG-20260625-WA00061.jpg?w=1200&auto=format",
+      "published": "2026-08-14 10:18:59",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

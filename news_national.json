@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Assassin's Creed x Watcher of Realms: Official Crossover Trailer",
+      "description": "Assassin's Creed jumps into the world of Watcher of Realms, the tactical dark fantasy RPG for mobile devices starting on August 20. Check out this announcement trailer.",
+      "link": "https://in.ign.com/watcher-of-realms/268813/assassins-creed-x-watcher-of-realms-official-crossover-trailer",
+      "source": "In Ign",
+      "image": "https://sm.ign.com/ign_in/video/a/assassins-/assassins-creed-x-watcher-of-realms-official-crossover-trail_qrj3.jpg",
+      "published": "2026-08-14 01:00:00",
+      "category": [
+        "sports",
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

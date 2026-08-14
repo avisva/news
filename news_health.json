@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Continuing the Jurgens' impact",
+      "description": "The most devastating news a parent can hear is, \"Your child has cancer.\" The most encouraging news is, \"Bring your child to St. Jude's Children's Hospital.\" This year the Cornwall ...",
+      "link": "https://www.timeshudsonvalley.com/stories/continuing-the-jurgens-impact,240252",
+      "source": "Mid Hudson Times",
+      "image": "https://timescommunitypapers.tbenson.communityq.com/images/nameplates/hvt.png",
+      "published": "2026-08-13 18:11:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

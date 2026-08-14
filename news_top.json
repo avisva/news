@@ -1,104 +1,269 @@
 {
   "status": "success",
-  "totalResults": 15,
+  "totalResults": 20,
   "results": [
     {
-      "title": "Polaris missile moves to new home at China Lake Museum",
-      "description": "Another piece of China Lake history now stands ready for all to see it, as the Polaris missile formerly displayed on base moved to the China Lake Museum\u2019s new facility on East Las Flores Avenue Wednesday morning.",
-      "link": "https://www.ridgecrestca.com/news/polaris-missile-moves-to-new-home-at-china-lake-museum/article_58fae462-cd6f-4cae-ad2f-f6dfb67d7817.html",
-      "source": "Ridgecrestca",
-      "image": "https://bloximages.newyork1.vip.townnews.com/ridgecrestca.com/content/tncms/assets/v3/editorial/b/fe/bfe38870-9896-4c2f-bba9-6700bdb6af02/6a7e82330d448.image.jpg?resize=300%2C449",
-      "published": "2026-08-14 02:47:00",
+      "title": "Extreme Heat Warning from THU 10:48 PM CDT until FRI 8:00 PM CDT",
+      "description": "Extreme Heat Warning and Heat Advisory in Effect Through Sunday",
+      "link": "https://tulsaworld.com/news/local/weather/article_cb78d6b8-72fd-5703-a2f5-ae6381b4479f.html",
+      "source": "Tulsa World",
+      "image": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/e5/0e5a5300-46c7-59a2-a73c-60a82e4bc34f/6a7e3fa040e0a.image.jpg?resize=1200%2C675",
+      "published": "2026-08-14 03:48:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "India sitting on $5 trillion worth of gold: Will the govt tap it with a new scheme?",
+      "description": "A Gold Monetisation Scheme allow individuals, Hindu Undivided Families and trusts deposit idle physical gold with designated commercial banks which can generate interest for the depositors. It turns a dead asset into income generating financial tool.",
+      "link": "https://www.news9live.com/business/biz-news/india-sitting-on-5-trillion-worth-of-gold-will-the-govt-tap-it-with-a-new-scheme-2999233",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/gold-price-Getty1.png",
+      "published": "2026-08-14 03:48:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Expired rava, maida, baking powder found in Bengaluru\u2019s Apollo Hospital canteen; seized",
+      "description": "A food safety inspection at Apollo Hospital\u2019s Bannerghatta Road canteen in Bengaluru found expired ingredients, stale bread, misbranded food products and non-compliant chopping boards. The inspection was part of Karnataka\u2019s three-day enforcement drive covering major hotels and food establishments, with officials seizing expired and mislabelled products.",
+      "link": "https://www.news9live.com/city/bengaluru/expired-rava-maida-baking-powder-found-in-bengalurus-apollo-hospital-canteen-seized-2999234",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/Expired-rava-maida-found-in-Bengalurus-Apollo-Hospital-canteen-seized.png",
+      "published": "2026-08-14 03:48:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Iowa State Fair: Big Ram winner sets new record, Super Bull winner",
+      "description": "A new Big Ram record was set at the Iowa State Fair, with a 3,026-pound Red Angus winning the Super Bull contest",
+      "link": "https://www.kcci.com/article/iowa-state-fair-big-ram-winner-sets-new-record-super-bull-winner/73428811",
+      "source": "Kcci Television",
+      "image": "https://hips.hearstapps.com/vidthumb/d68a1257-112e-4a9a-8a2b-7cc3530543a7/66e7bfb6-42ac-4f8d-a04c-1b7d6567a02f.png",
+      "published": "2026-08-14 03:48:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Margaret Wanjiru Gives Ruto Government 30-Day Resignation Notice",
+      "description": "Nairobi Rivers Commission Chairperson Margaret Wanjiru has formally notified Head of Public Service Felix Koskei of her decision to resign, stating that she is ready to move on and shift her focus to other endeavors. In an official letter, the former Starehe MP provided a 30-day notice, specifying that she will step down on August 31. \u201cThe time has come for me to move on and give my full attention to other work,\u201d she said. Reflecting on her tenure, Wanjiru described her 20 months at the helm of the commission as an important learning journey and expressed gratitude to Koskei The post Margaret Wanjiru Gives Ruto Government 30-Day Resignation Notice appeared first on Nairobi Wire .",
+      "link": "https://nairobiwire.com/2026/08/margaret-wanjiru-resigns-nairobi-rivers-commission.html",
+      "source": "Nairobi Wire",
+      "image": "https://nairobiwire.com/wp-content/uploads/2026/08/wanjiru.jpg",
+      "published": "2026-08-14 03:47:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "kenya"
+      ]
+    },
+    {
+      "title": "Tushka-Calera Softball Highlights",
+      "description": null,
+      "link": "https://www.kxii.com/2026/08/14/tushka-calera-softball-highlights/",
+      "source": "Https://www.kxii.com",
+      "image": "https://gray-kxii-prod.gtv-cdn.com/resizer/v2//CYC4ROOO6FACJPQMJKEA6FOHOQ.jpg?auth=e12b01e8d7bd523a8afada6e84ddd56e887af276be853852e0ce69c57561fa57&smart=true&width=1280&height=720",
+      "published": "2026-08-14 03:47:56",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Random bilateral series must end if ODIs are to thrive, says ICC chief",
+      "description": "New Delhi, Aug 13: International cricket cannot remain sustainable if bilateral series continue to be scheduled without meaningful context, ICC Chief Executive Officer Sanjog Gupta has warned, calling for a rethink of the way the 50-over format is organised. With T20 cricket dominating the calendar and the World Test Championship giving Tests a structured competitive [...]",
+      "link": "https://theshillongtimes.com/2026/08/14/random-bilateral-series-must-end-if-odis-are-to-thrive-says-icc-chief/",
+      "source": "Theshillongtimes",
+      "image": null,
+      "published": "2026-08-14 03:47:55",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Thakkers Group reports standalone net loss of Rs 0.80 crore in the June 2026 quarter",
+      "description": null,
+      "link": "https://www.business-standard.com/markets/capital-market-news/thakkers-group-reports-standalone-net-loss-of-rs-0-80-crore-in-the-june-2026-quarter-126081400231_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-14 03:47:54",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump orders US aircraft carriers back to steam catapults as China, France advance EMALS technology",
+      "description": "President Donald Trump has ordered the US Navy to replace the advanced electromagnetic catapult system used on its newest aircraft carriers with older steam-powered technology, according to a directive issued Thursday. The move would likely cost billions of dollars and force the Navy to revert to a system that requires more sailors to operate and [...] The post Trump orders US aircraft carriers back to steam catapults as China, France advance EMALS technology appeared first on ANC .",
+      "link": "https://www.asian-news-channel.tv/trump-orders-us-aircraft-carriers-back-to-steam-catapults-as-china-france-advance-emals-technology/",
+      "source": "Anc",
+      "image": "https://www.asian-news-channel.tv/wp-content/uploads/2026/08/Warship5.jpg",
+      "published": "2026-08-14 03:47:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Goa CM Pramod Sawant Switches To Tata Harrier EV As Official Vehicle",
+      "description": "Goa CM Pramod Sawant Switches To Tata Harrier EV As Official Vehicle #goacm #pramodsawant #tataharrierev #harrierev #electricvehicle #goa #evindia #electriccars #otv #otvenglish #otvenglishnews --------------------------------------------------------------------------------------------------------- OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Internet and Mobile. Stay tuned for all the breaking news ! Visit Our Website https://odishatv.in/ Android App: bit.ly/OTVAndroidApp iOS App: http://bit.ly/OTViOSApp Watch Live: http://live.odishatv.in/ YouTube: https://goo.gl/Ehz6OP Facebook: https://www.facebook.com/otvnews OTV English Facebook : https://www.facebook.com/otvenglish Telegram @otvtelegram @otvkhabar Twitter: https://twitter.com/otvnews Instagram: https://www.instagram.com/otvnews/ #OTVNews #OdishaTV",
+      "link": "https://odishatv.in/videosodisha/society/goa-cm-pramod-sawant-switches-to-tata-harrier-ev-as-official-vehicle-12259050",
+      "source": "Odisha Tv",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv/media/youtube_thumbnails/vi/M1acr940SJE/maxresdefault.jpg",
+      "published": "2026-08-14 03:47:50",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US can maintain naval blockade on Iran 'indefinitely', says War Secretary Hegseth",
+      "description": "Panama City: US War Secretary Pete Hegseth on Thursday warned of continuing the United States' naval blockade on Iranian ports \"indefinitely\" and for as...",
+      "link": "https://timesofoman.com//article/175591-us-can-maintain-naval-blockade-on-iran-indefinitely-says-war-secretary-hegseth",
+      "source": "Timesofoman",
+      "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/08/1786679267-1786679266-wwoz3capjvxm-700x400.jpg",
+      "published": "2026-08-14 03:47:47",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "romania"
+      ]
+    },
+    {
+      "title": "Nihar Info Global reports standalone nil net profit/loss in the June 2026 quarter",
+      "description": null,
+      "link": "https://www.business-standard.com/markets/capital-market-news/nihar-info-global-reports-standalone-nil-net-profit-loss-in-the-june-2026-quarter-126081400230_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-14 03:47:46",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rohtak remains without DC for six days, ahead of I-Day",
+      "description": "The chair of the Rohtak DC has been vacant since August 6, when the Rohtak DC Sachin Gupta was transferred as DC of Ambala. Gupta joined as the Ambala DC the very next day on August 7",
+      "link": "https://www.hindustantimes.com/cities/chandigarh-news/rohtak-remains-without-dc-for-six-days-ahead-of-iday-101786651200784.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/13/1600x900/logo/The-delay-has-raised-eyebrows-in-administrative-an_1786651197538.jpg",
+      "published": "2026-08-14 03:47:42",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "JNU students, teachers demand VC Santishree Pandit\u2019s removal over recruitment row",
+      "description": "JNU teachers allege IQAC altered screening outcomes in faculty recruitment, seeks independent probe into alleged UGC norm violations",
+      "link": "https://news.careers360.com/jnu-faculty-recruitment-students-teachers-bodies-allege-illegalities-demand-vcs-removal-probe",
+      "source": "Careers360",
+      "image": "https://cache.careers360.mobi/media/article_images/2026/8/14/jnu-delhi-featured-image.jpg",
+      "published": "2026-08-14 03:47:41",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Dhanvantri Jeevan Rekha standalone net profit rises 200.00% in the June 2026 quarter",
+      "description": null,
+      "link": "https://www.business-standard.com/markets/capital-market-news/dhanvantri-jeevan-rekha-standalone-net-profit-rises-200-00-in-the-june-2026-quarter-126081400229_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-14 03:47:38",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Visoqo nursery targets food security, climate resilience",
+      "description": "Community selected among 20 nationwide for Kiwa EMPOWER project.",
+      "link": "https://fijisun.com.fj/news/environment/visoqo-nursery-targets-food-security-climate-resilience",
+      "source": "Fiji Sun",
+      "image": "https://images.fijisun.com.fj/media/72044626-76ba-4c9f-be45-48181a1b0f9b",
+      "published": "2026-08-14 03:47:36",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "fiji"
+      ]
+    },
+    {
+      "title": "Passengers Create Ruckus at Bhubaneswar Airport After Kolkata Flight Cancelled, Airport Property Damaged, watch",
+      "description": "Bhubaneswar: Passengers reportedly created ruckus at Biju Patnaik International Airport in Bhubaneswar, Odisha on Friday after an IndiGo flight to Kolkata was cancelled yesterday night. The flight was reportedly cancelled at the last minute due to a technical snag, leading angry passengers to vandalise airport property and abuse staff. According to officials, the flight was [...] The post Passengers Create Ruckus at Bhubaneswar Airport After Kolkata Flight Cancelled, Airport Property Damaged, watch appeared first on KalingaTV .",
+      "link": "https://kalingatv.com/odisha/passengers-create-ruckus-at-bhubaneswar-airport-after-kolkata-flight-cancelled-airport-property-damaged-watch/",
+      "source": "Kalinga Tv",
+      "image": null,
+      "published": "2026-08-14 03:47:35",
       "category": [
         "top",
         "crime"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The work of Independence",
-      "description": "Punjabi, Sindhi, Pashtun, Baloch, Saraiki, Kashmiri, Gilgiti, Balti and other inheritances are not outside Pakistan | They are part of the very human material from which Pakistan was made.",
-      "link": "https://www.nation.com.pk/14-Aug-2026/work-independence",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-08-14 02:47:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Poland could send MiG-29 jets to Ukraine within weeks in exchange for drones \u2013 Wirtualna Polska",
-      "description": "Warsaw and Kyiv have reportedly made significant progress on a deal under which Poland would transfer retired MiG-29s to Ukraine in exchange for drones and Ukrainian military technology.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/08/14/8048615/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/8/891580/1817231ae2d14a5816a20f122b2daffc.jpeg",
-      "published": "2026-08-14 02:47:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ukraine"
-      ]
-    },
-    {
-      "title": "North Korea denounces upcoming US-South Korea drills, vows stronger nuclear deterrence",
-      "description": null,
-      "link": "https://sg.news.yahoo.com/north-korea-denounces-us-south-214723929.html",
-      "source": "Yahoo!news",
-      "image": null,
-      "published": "2026-08-14 02:46:58",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Inter-department football tourney concludes at KU",
-      "description": "Srinagar, Aug 13: The Inter-Department Football Tournament, organised by Directorate of Physical Education and Sports, University of Kashmir (KU) concluded on Thursday at the University\u2019s Ground \u201cB\u201d, marking the culmination of a vibrant student-centric sporting activity. The tournament witnessed an overwhelming response, with over 19 teams representing various departments and satellite campuses of the University. The tournament was organised as part of the annual sports calendar of the Directorate of Physical Education and Sports, formulated earlier this year. The grand finale witnessed an exciting match between the Department of Management Studies and the Department of Computer Sciences. In a closely contested match, the Department of Management Studies emerged victorious with a 1\u20130 win. Mukaram scored the decisive goal in the 20th minute, helping his team clinch the championship trophy. The concluding ceremony was presided over by Director, Physical Education and Sports, Prof. Raies Qadri. Addressing the gathering, Prof. Raies Qadri congratulated both teams for exhibiting a great performance and precision throughout the tournament. He assured the players of every possible support from the Directorate in terms of coaching, training and sports equipment. He further informed that outstanding performers from the tournament would be shortlisted for participation in the forthcoming Inter-College Football Tournament, providing them an opportunity to represent Varsity\u2019s Post Graduate team. Head, Department of Management Studies, Prof. Mushtaq Siddiqi, appreciated the Directorate for organising such student-centric sporting initiatives and said that regular sports activities play an important role in the holistic development of students. Prof. Raies Qadri and Prof. Mushtaq Siddiqi distributed trophies and medals among the winning and runner-up teams. The tournament was coordinated by Assistant Director, Dr. Basharat Ali, while the proceedings of the concluding ceremony were conducted by Football Coach, Sajid Yousuf Dar.",
-      "link": "https://risingkashmir.com/sports/inter-department-football-tourney-concludes-at-ku-12258818",
-      "source": "Rising Kashmir",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/rising-kashmir/media/media_files/2026/08/14/1000853355-2026-08-14-08-16-25.jpg",
-      "published": "2026-08-14 02:46:52",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
         "india"
       ]
     },
     {
-      "title": "Placer County warns Legislature goat herder wage change could hurt wildfire grazing",
-      "description": "SACRAMENTO, Calif. \u2014 The Placer County Board of Supervisors urged California lawmakers to quickly address a wage disparity between sheep and goat herders that county officials said threatened prescribed grazing programs used to reduce wildfire risk.",
-      "link": "https://www.dailyitem.com/wire/placer-county-warns-legislature-goat-herder-wage-change-could-hurt-wildfire-grazing/article_95c2e78d-3859-57ad-ade6-cb2b9c8463be.html",
-      "source": "Daily Item",
-      "image": null,
-      "published": "2026-08-14 02:46:50",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Woman found dead in vehicle during traffic stop in Downtown Memphis",
-      "description": "Memphis Police are investigating after a woman died during a traffic stop in Downtown Memphis on Thursday night.",
-      "link": "https://www.actionnews5.com/2026/08/14/woman-dies-during-traffic-stop-downtown-memphis/",
-      "source": "Https://www.actionnews5.com",
-      "image": "https://gray-wmctv-prod.gtv-cdn.com/resizer/v2/FVF7KGOGP5HVNMVO6ZK75BPNZU.png?auth=2e7f12cbf2bfb9453885ce38ab977ae0747e822f196781a6f42a9648d5e40a56&width=1200&height=600&smart=true",
-      "published": "2026-08-14 02:46:45",
+      "title": "Broken Engine Parts Shattered the Ryanair Plane Window That a Man\u2019s Head Got Sucked Into: NTSB",
+      "description": "This undated photo provided by the National Transportation Safety Board on Thursday, Aug. 13, 2026, shows the shattered window on a Ryanair plane that was broken by a stray engine part shortly after takeoff, causing a man's head to be sucked into the hole. (National Transportation Safety Board via AP)",
+      "link": "https://www.theepochtimes.com/world/broken-engine-parts-shattered-the-ryanair-plane-window-that-a-mans-head-got-sucked-into-ntsb-6075127",
+      "source": "The Epoch Times",
+      "image": "https://img.theepochtimes.com/assets/uploads/2026/08/14/id6075134-Ryanair_Flight_Broken_Window_26225698260815-1080x720.jpg",
+      "published": "2026-08-14 03:47:34",
       "category": [
         "crime",
         "top"
@@ -108,120 +273,29 @@
       ]
     },
     {
-      "title": "CFC Boss Wins Historic Silver for Nigeria at 2026 Commonwealth Fencing Championships",
-      "description": "Adeyinka Samuel, President of the Nigeria Fencing Federation and newly elected head of the Commonwealth Fencing Federation (CFC), has written a new chapter in Nigerian sporting history. Already celebrated as",
-      "link": "https://www.thisdaylive.com/2026/08/14/cfc-boss-wins-historic-silver-for-nigeria-at-2026-commonwealth-fencing-championships/",
-      "source": "Thisdaylive",
-      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Samuel-Adeyinka-story-.jpg",
-      "published": "2026-08-14 02:46:43",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Man held for raping, impregnating minor in Matwada",
-      "description": "The incident came to light on Thursday evening after the minor complained of stomach pain and was taken to a private hospital by her mother.",
-      "link": "https://www.newindianexpress.com/states/telangana/2026/Aug/14/man-held-for-raping-impregnating-minor-in-matwada",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-23/c369wz9q/202506063422792.jpeg?w=280",
-      "published": "2026-08-14 02:46:41",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\ud83d\udd34Live | \u0b2b\u0b41\u0b32\u0b41\u0b1b\u0b3f \u0b28\u0b26\u0b40...\u0b1b\u0b3e\u0b24\u0b3f\u0b30\u0b47 \u0b1b\u0b28\u0b15\u0b3e | Flood Fears Rise as Baitarani River Flows Above Danger Mark | OTV",
-      "description": "Live | \u0b2b\u0b41\u0b32\u0b41\u0b1b\u0b3f \u0b28\u0b26\u0b40...\u0b1b\u0b3e\u0b24\u0b3f\u0b30\u0b47 \u0b1b\u0b28\u0b15\u0b3e | Flood Fears Rise as Baitarani River Flows Above Danger Mark | OTV \u0b15\u0b47\u0b28\u0b4d\u0b26\u0b41\u0b1d\u0b30\u0b30\u0b47 \u0b2c\u0b28\u0b4d\u0b5f\u0b3e \u0b06\u0b36\u0b19\u0b4d\u0b15\u0b3e\u0964 \u0b26\u0b41\u0b07 \u0b26\u0b3f\u0b28\u0b30 \u0b32\u0b17\u0b3e\u0b23 \u0b2c\u0b30\u0b4d\u0b37\u0b3e\u0b30\u0b47 \u0b2c\u0b22\u0b3f\u0b1b\u0b3f \u0b2c\u0b3f\u0b2d\u0b3f\u0b28\u0b4d\u0b28 \u0b28\u0b26\u0b40\u0b30 \u0b1c\u0b33\u0b38\u0b4d\u0b24\u0b30\u0964 \u0b2a\u0b3e\u0b1f\u0b23\u0b3e\u0b30\u0b47 \u0b2c\u0b3f\u0b2a\u0b26 \u0b38\u0b19\u0b4d\u0b15\u0b47\u0b24 \u0b09\u0b2a\u0b30\u0b47 \u0b2c\u0b47\u0b3e\u0b39\u0b41\u0b1b\u0b3f \u0b2c\u0b47\u0b56\u0b24\u0b30\u0b23\u0b40\u0964 \u0b1c\u0b33\u0b38\u0b4d\u0b24\u0b30 \u0b2c\u0b22\u0b3f\u0b2c\u0b3e\u0b30\u0b47 \u0b32\u0b3e\u0b17\u0b3f\u0b1b\u0b3f\u0964 \u0b30\u0b3e\u0b24\u0b3f \u0b6e\u0b1f\u0b3e \u0b38\u0b41\u0b26\u0b4d\u0b27\u0b3e \u0b2c\u0b47\u0b56\u0b24\u0b30\u0b23\u0b40 \u0b06\u0b28\u0b28\u0b4d\u0b26\u0b2a\u0b41\u0b30 \u0b20\u0b3e\u0b30\u0b47 \u0b2c\u0b3f\u0b2a\u0b26 \u0b38\u0b02\u0b15\u0b47\u0b24 \u0b09\u0b2a\u0b30\u0b47 \u0b2a\u0b4d\u0b30\u0b2c\u0b3e\u0b39\u0b3f\u0b24 \u0b39\u0b47\u0b09\u0b1b\u0b3f\u0964 \u0b06\u0b28\u0b28\u0b4d\u0b26\u0b2a\u0b41\u0b30 \u0b30\u0b3f\u0b19\u0b4d\u0b17 \u0b2c\u0b28\u0b4d\u0b27\u0b30\u0b47 \u0b38\u0b43\u0b37\u0b4d\u0b1f\u0b3f \u0b39\u0b47\u0b3e\u0b07\u0b25\u0b3f\u0b2c\u0b3e \u0b18\u0b3e\u0b07 \u0b38\u0b4d\u0b25\u0b3e\u0b28\u0b30\u0b47 \u0b2e\u0b30\u0b3e\u0b2e\u0b24\u0b3f\u0b30\u0b47 \u0b2c\u0b3f\u0b33\u0b2e\u0b4d\u0b2c \u0b2f\u0b47\u0b3e\u0b17\u0b41 \u0b2a\u0b41\u0b23\u0b3f \u0b38\u0b47\u0b20\u0b3e\u0b30\u0b47 \u0b2a\u0b3e\u0b23\u0b3f \u0b2a\u0b36\u0b3f\u0b2c\u0b3e \u0b06\u0b30\u0b2e\u0b4d\u0b2d \u0b39\u0b47\u0b3e\u0b07\u0b1b\u0b3f\u0964 Flood concerns have intensified in Kendujhar district after two days of continuous rainfall led to a sharp rise in the water levels of several rivers. The Baitarani River is flowing above the danger mark in the Patna and Anandapur regions, increasing the risk of flooding in nearby areas. #KendujharFlood #BaitaraniRiver #OdishaFlood #FloodAlert #Anandapur #HeavyRain #RiverWaterLevel #OdishaNews #OdishaTV #OTV For latest news updates follow us on WhatsApp: https://whatsapp.com/channel/0029VaYNIW78qIzrtKKZiD3M OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Internet and Mobile. Stay tuned for all the breaking news ! Visit Our Website https://odishatv.in/ News In Odia: http://otvkhabar.in/ Android App: https://bit.ly/OTVAndroidApp iOS App: https://bit.ly/OTViOSApp Watch Live: https://odishatv.in/live-tv YouTube: https://goo.gl/Ehz6OP Watch our latest news in English: https://bit.ly/3wTgKxc Facebook: https://www.facebook.com/otvkhabar OTV English Facebook : https://www.facebook.com/otvnews Telegram @otvtelegram @otvkhabar Twitter: https://twitter.com/otvnews Instagram: https://www.instagram.com/otvnews/ #OdishaTV #OTV",
-      "link": "https://otvkhabar.in/videosodisha/society/live-the-river-is-blooming-flood-fears-rise-as-baitarani-river-flows-above-danger-mark-otv-12258899",
-      "source": "Otv News",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv-khabar/media/youtube_thumbnails/vi/j1o9mfGoH2U/maxresdefault.jpg",
-      "published": "2026-08-14 02:46:41",
+      "title": "Ribbon-Cutting Opens Bud and Val Peterson Residence Hall",
+      "description": "Ribbon-Cutting Opens Bud and Val Peterson Residence Hall Superadmin Thu, 08/13/2026 - 23:47 In time for the fall semester, the ribbon has been cut, and students will soon move into Georgia Tech\u2019s newest traditional residence hall \u2014 the Bud and Val Peterson Residence Hall. Located along Northside Drive between Eighth and Ninth streets, the 191,000-square-foot facility offers 862 beds in double-occupancy rooms. The first traditional residence hall constructed on campus since 1969, Bud and Val Peterson Residence Hall features collaborative learning areas, an esports lounge, a fitness room, community lounges, a kitchen on the first floor of each wing, and a 24/7 cashierless market. The opening of the new residence hall allows Tech to keep pace with enrollment as the Institute continues to grow. This fall, over 4,100 first-year students will enroll at the Institute , along with 1,400 transfer students in the fall and spring. With growth comes the need for new infrastructure, as Georgia Tech President A\u0301ngel Cabrera said during Thursday\u2019s ribbon-cutting ceremony. \u201cIt turns out that more unbelievable students from every county in Georgia, from every corner of our country and countries around the world, want to have the learning experience here. It\u2019s our duty to figure out creative solutions, not just to house them, but to provide them with a transformative experience,\u201d he said. \u201cThe transformation of our students happens right here. It happens in the residence halls. It happens in the friendships that you make, the study groups, the activities, and when you\u2019re learning to be independent and to grow up. This is not just a dorm where you come to sleep.\u201d The residence hall is named in honor of Georgia Tech\u2019s 11th president and first lady. During Peterson\u2019s tenure from 2009 to 2019, Tech enhanced student programs and grew enrollment; increased collaboration and built strategic partnerships in Atlanta and Georgia; expanded its global reach, with a focus on innovation; executed Campaign Georgia Tech, which raised $1.8 billion for the Institute; and more than doubled new research awards, exceeding $1 billion for the first time in 2019. As president, Peterson launched the Online Master of Science in Computer Science program, which has since become a global model for accessible education. He has remained involved with the Institute as president emeritus, a Regents\u2019 Professor in the George W. Woodruff School of Mechanical Engineering, and a member of the steering committee for Transforming Tomorrow: The Campaign for Georgia Tech . In his remarks, Peterson recounted his first time visiting Tech, the feeling he got when he was on campus, and his path to eventually becoming Tech\u2019s next president, succeeding President Emeritus G. Wayne Clough, who was in attendance at the ceremony. Becoming a candidate for the job of president was \u201cone of the most important decisions I\u2019ve made in my professional career,\u201d Peterson said. \u201cThis is a remarkable place with remarkable people doing remarkable things. Val and I are enormously honored to be recognized in this fashion.\u201d As first lady, Val Peterson was a dedicated presence on campus and an ardent supporter of students and faculty. She served as the chief spokesperson for the Tech Ends Suicide Together initiative when it launched in 2016 and mentored students and campus organizations. Val Peterson holds two bachelor\u2019s degrees and a teaching certificate from Kansas State University and a master\u2019s degree from Texas A&M. She has been recognized as an honorary alumna by the Georgia Tech Alumni Association for her devotion to the greater good of the Institute. Nicknamed the \u201cQueen Bee\u201d of Georgia Tech, she found it \u201cquite fitting\u201d that the new hall bears the couple\u2019s names, because they lived together in a dorm room at KSU when they were first married. \u201cThat\u2019s where it all began. Those two towers, like us, together forever,\u201d she said. \u201cMy hope for the students who live in Peterson Hall is that their experience parallels our paths, not only in school but in life.\u201d Each space in the new residence hall is designed to encourage students to interact and develop shared experiences, a mindset that Kasey Helton, associate vice president of Campus Services, says was fostered during Peterson\u2019s tenure. \u201cWe weren't trying to create 860 places to sleep. We were trying to create 860 opportunities to belong. That sense of belonging is exactly what Bud and Val spent a decade here building. They championed living-learning communities, expanded opportunities for students to develop global perspectives, strengthened support for student well-being, and helped make a Georgia Tech education accessible to all students. That same spirit is built into this hall,\u201d Helton said. The opening of the Bud and Val Peterson Residence Hall brings the Institute\u2019s capacity to more than 9,600 bed spaces across nearly 50 residence halls. Move-in for the fall semester begins Aug. 15, including the first group of students who will call Bud and Val Peterson Residence Hall home. Subtitle Named in honor of Georgia Tech\u2019s 11th president and first lady, the residence hall is the first of its kind to be built on campus since 1969. Summary sentence Named in honor of Georgia Tech\u2019s 11th president and first lady, the residence hall is the first of its kind to be built on campus since 1969. Summary Named in honor of Georgia Tech\u2019s 11th president and first lady, the residence hall is the first of its kind to be built on campus since 1969. Dateline Thu, 08/13/2026 - 12:00 Contact Steven Gagliano \u2013 Institute Communications Related links Housing and Residence Life Associated importer 1 Keywords Campus Housing Student Housing Curran Street Residence Hall residence hall Bud Peterson val peterson News room topics Campus and Community Categories Building Construction City Planning, Transportation, and Urban Growth Community Institute Leadership Mercury ID 691677 Source updated Thu, 08/13/2026 - 23:44",
+      "link": "https://news.gatech.edu/news/2026/08/13/ribbon-cutting-opens-bud-and-val-peterson-residence-hall",
+      "source": "Georgia Institute Of Technology",
+      "image": null,
+      "published": "2026-08-14 03:47:32",
       "category": [
         "top",
-        "environment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Canadian Dollar strengthens despite subdued oil prices",
-      "description": "USD/CAD loses ground for the second successive day, trading around 1.3920 during the Asian hours on Friday. The pair depreciates as the US Dollar (USD) declines following a softer-than-expected US inflation report.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-despite-subdued-oil-prices-202608140246",
-      "source": "Fxstreet",
-      "image": "https://editorial.fxsstatic.com/images/i/CAD-bullish-animal.png",
-      "published": "2026-08-14 02:46:38",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "spain"
-      ]
-    },
-    {
-      "title": "Sukhbir Singh Badal Attacked News | \u0938\u0941\u0916\u092c\u0940\u0930 \u092c\u093e\u0926\u0932\u093e\u0902\u0935\u0930 \u0939\u0932\u094d\u0932\u093e! \u0906\u0930\u094b\u092a\u0940 \u091c\u0938\u092a\u093e\u0932 \u0938\u093f\u0902\u0917 \u092a\u094b\u0932\u093f\u0938\u093e\u0902\u091a\u094d\u092f\u093e \u0924\u093e\u092c\u094d\u092f\u093e\u0924",
-      "description": "\u092a\u0902\u091c\u093e\u092c\u091a\u0947 \u092e\u093e\u091c\u0940 \u0909\u092a\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0906\u0923\u093f \u0905\u0915\u093e\u0932\u0940 \u0926\u0932 \u092a\u094d\u0930\u092e\u0941\u0916 \u0938\u0941\u0916\u092c\u0940\u0930 \u0938\u093f\u0902\u0917 \u092c\u093e\u0926\u0932 \u092f\u093e\u0902\u091a\u094d\u092f\u093e\u0935\u0930 \u0928\u093e\u0902\u0926\u0947\u0921\u092e\u0927\u0940\u0932 \u092e\u093e\u0924\u093e \u0938\u093e\u0939\u093f\u092c \u0915\u094c\u0930 \u092d\u093e\u0917\u093e\u0924\u0940\u0932 \u0917\u0941\u0930\u0941\u0926\u094d\u0935\u093e\u0930\u093e \u092a\u0930\u093f\u0938\u0930\u093e\u0924 \u092a\u094d\u0930\u093e\u0923\u0918\u093e\u0924\u0915 \u0939\u0932\u094d\u0932\u093e \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u093e. \u0939\u0932\u094d\u0932\u094d\u092f\u093e\u0924\u0940\u0932 \u0906\u0930\u094b\u092a\u0940 \u091c\u0938\u092a\u093e\u0932 \u0938\u093f\u0902\u0917 \u092f\u093e\u091a\u0940 \u092a\u094b\u0932\u093f\u0938\u093e\u0902\u0915\u0921\u0942\u0928 \u091a\u094c\u0915\u0936\u0940 \u0938\u0941\u0930\u0942 \u0905\u0938\u0942\u0928, \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0926\u0947\u0935\u0947\u0902\u0926\u094d\u0930 \u092b\u0921\u0923\u0935\u0940\u0938 \u092f\u093e\u0902\u0928\u0940 \u0939\u0932\u094d\u0932\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u091a\u094c\u0915\u0936\u0940\u091a\u0947 \u0906\u0926\u0947\u0936 \u0926\u093f\u0932\u0947 \u0906\u0939\u0947\u0924.Former Punjab Deputy Chief Minister and Shiromani Akali Dal chief Sukhbir Singh Badal was attacked in the gurdwara premises in the Mata Sahib Kaur area of Nanded. Police are questioning the accused, Jaspal Singh, while Chief Minister Devendra Fadnavis has ordered an inquiry into the attack. news live, news18 marathi, marathi batmya, marathi news, mumbai monsoon, mumbai rain, maharashtra rain, maharashtra rain news today, mumbai weather today live, ncp sp mps meet pm modi, supriya sule pm modi meeting, devendra fadnavis jayant patil meeting, bjp tiranga yatra mumbai, devendra fadnavis tiranga rally worli, laxman hake solapur visit, manoj jarange sangli visit, anandraj ambedkar parli rally, sc sub classification beed protest, kisan sabha jail bharo maharashtra, maharashtra farmer protestWatch News18 Marathi for- marathi news, marathi batmya, latest marathi, news, international news in marathi, live batmya, news in marathi language, news marathi latest, tajya batmya.News18 Marathi is one of the leading YouTube News channels which delivers news from across Maharashtra, India and the world 24x7 in Marathi. Stay updated on all the current events shaping Maharashtra's political landscape, with a special focus on key figures such as PM Narendra Modi, Amit Shah, Devendra Fadnavis, Ajit Pawar, Sharad Pawar, Eknath Shinde, Uddhav Thackeray, CMO Maharashtra, Aaditya Thackeray, Raj Thackeray, Manoj Jarange Patil, Prakash Ambedkar, and more.We cover interesting stories from across the world as well.Join us as we delve into the heart of Maharashtra Politics, providing comprehensive coverage and unbiased reporting on News18 Marathi's platform. Don't miss out on the action, subscribe now for all the latest news, debates, and more.Follow Every Breaking Story LIVE \ud83d\udd34Watch News18 LIVE 24x7: https://youtube.com/live/L-tPyWhPpzgDownload our News18 Mobile App - https://onelink.to/desc-youtubeID_PM",
-      "link": "https://news18marathi.com/videos/maharashtra/sukhbir-singh-badal-attacked-news-1754291.html",
-      "source": "News18marathi",
-      "image": "https://images.news18.com/news18marathi/uploads/2026/08/1786675682_8b6c6900-1270-4a46-a073-eb401cd34930-1200x720.jpeg",
-      "published": "2026-08-14 02:46:37",
-      "category": [
-        "top",
-        "politics",
         "lifestyle"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "US 30-year bond yield hits highest level since Treasury ended bond in 2001",
-      "description": "US 30-year Treasury yields hit 5.216% at Thursday\u2019s $25 billion auction, the highest since 2001, as investors demand higher returns amid rising debt, deficits and inflation risks in markets.",
-      "link": "https://www.cnbctv18.com/world/us-thirty-year-treasury-bond-yield-highest-since-treasury-ended-long-bond-19969216.htm",
-      "source": "Cnbctv18",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/us-bond-2026-08-316f05874297aebed71af6cfa55c09c2.jpg",
-      "published": "2026-08-14 02:46:36",
+      "title": "Integrated Thermoplastics reports standalone net loss of Rs 1.26 crore in the June 2026 quarter",
+      "description": null,
+      "link": "https://www.business-standard.com/markets/capital-market-news/integrated-thermoplastics-reports-standalone-net-loss-of-rs-1-26-crore-in-the-june-2026-quarter-126081400228_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-14 03:47:31",
       "category": [
         "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Nearly 9 in 10 GTA 6 Preorders Picked the More Expensive Edition",
-      "description": "About 89% of GTA 6 of pre-orders chose the $99.99 Ultimate Edition, far above the usual 10 to 20% premium share for most games.",
-      "link": "https://www.gtaboom.com/nearly-9-in-10-gta-6-preorders-picked-the-more-expensive-edition-7425",
-      "source": "Gta Boom",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/51/20/nearly-9-in-10-gta-6-preorders-picked-the-more-expensive-edition.jpg",
-      "published": "2026-08-14 02:46:35",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "TN's Stanley hospital sanitation worker issued memo after viral egg distribution video",
-      "description": "Dr A Aravind, dean of Government Stanley Medical College Hospital, said the worker was a permanent employee with a clean record, but his conduct was unacceptable.",
-      "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/14/tns-stanley-hospital-sanitation-worker-issued-memo-after-viral-egg-distribution-video",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-13/0xawf5zz/Stanley-hospital.jpg?w=280",
-      "published": "2026-08-14 02:46:33",
-      "category": [
-        "health",
         "top"
       ],
       "country": [

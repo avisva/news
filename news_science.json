@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "The Ingredients For Planets Turned Up Astonishingly Early",
+      "description": "Planet building was supposed to be one of the universe's slow projects, something that only got going billions of years after the Big Bang. New research suggests otherwise. The raw materials for rocky worlds, and perhaps even the water needed for life, may have been ready to go just 100 million years after the Big Bang, long before the first galaxies had even taken shape.",
+      "link": "https://www.universetoday.com/articles/the-ingredients-for-planets-turned-up-astonishingly-early",
+      "source": "Universe Today",
+      "image": "https://www.universetoday.com/article_images/HL_Tau_protoplanetary_disk_20260813_215108.jpg",
+      "published": "2026-08-13 21:56:52",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

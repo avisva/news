@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "SNAPSHOT | Onn's big win in Johor bitter pill to swallow - PKR Youth chief; DPM recovering after surgery",
+      "description": "What's going on in the news today, with updates at 9am, 2pm, 6pm, and 9pm.",
+      "link": "https://www.malaysiakini.com/news/782176",
+      "source": "Malaysiakini",
+      "image": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/08/6d8c7382f5cfdca903f147d5c0e69cad.jpg",
+      "published": "2026-08-14 13:03:55",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Penn State basketball unveils full 2026-27 nonconference schedule",
+      "description": "Penn State basketball will take on three programs from the Commonwealth and travel to the Bahamas in nonconference play. Here's what you need to know.",
+      "link": "https://sports.yahoo.com/articles/penn-state-basketball-unveils-full-130355638.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/a96be14d62933b34947fcce4c1d5998ec4d6209e3619685feb83e5bc5ba4510f/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyork-daily-record%2Ffee3887e29202c0245a3f348789cd225.jpg",
+      "published": "2026-08-14 13:03:55",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "FINAL TEAMS- Bulldogs vs Rabbitohs - Round 24, 2026",
+      "description": "FINAL TEAMS- Bulldogs vs Rabbitohs - Round 24, 2026",
+      "link": "https://www.zerotackle.com/updated-team-lists-bulldogs-rabbitohs-10397669-236946/",
+      "source": "Sydney Sun",
+      "image": "https://www.zerotackle.com/wp-content/uploads/2026/08/match-centre-updated-team-lists-bulldogs-rabbitohs-10397669.jpg",
+      "published": "2026-08-14 13:03:53",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

@@ -1,21 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "PM Modi pitches 7 mantras for Developed India Mission: \u2018Sapt Dhara... Seven Streams of Strength\u2019",
-      "description": "Prime Minister Narendra Modi on Saturday laid out 7 mantras for the Developed India Mission as he delivered his address from the Red Fort to mark India's 80th Independence Day.",
-      "link": "https://www.firstpost.com/india/pm-modi-pitches-7-mantras-for-developed-india-mission-sapt-dhara-seven-streams-of-strength-14038352.html",
-      "source": "Firstpost",
-      "image": "https://images.firstpost.com/uploads/2026/08/WhatsApp-Image-2026-08-15-at-8.42.06-AM-2026-08-64797df9f597ce54c3c1e32e61dfa846-1200x675.jpg",
-      "published": "2026-08-15 03:17:00",
+      "title": "Bangladesh-India relations are becoming increasingly stronger: Dinesh Trivedi",
+      "description": null,
+      "link": "https://www.tbsnews.net/videos/tbs-today/bangladesh-india-relations-are-becoming-increasingly-stronger-dinesh-trivedi",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/08/15/baanlaadesher_sngge_bhaarter_smprk_ekhn_kemn_.jpg",
+      "published": "2026-08-15 04:20:00",
       "category": [
         "politics",
-        "top",
-        "lifestyle"
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "PM Modi Says India Emerging As Widely Respected Nation, Spotlights Trade Deals With 40 Nations",
+      "description": "New Delhi: Prime Minister Narendra Modi on Saturday said that India's influence and standing across the world have been increasing on several fronts,",
+      "link": "https://ommcomnews.com/india-news/pm-modi-says-india-emerging-as-widely-respected-nation-spotlights-trade-deals-with-40-nations/",
+      "source": "Odisha News, Odisha Breaking News, Odisha Latest N",
+      "image": "https://ommcomnews.com/wp-content/uploads/2026/08/Modi-3.jpg",
+      "published": "2026-08-15 04:19:57",
+      "category": [
+        "politics",
+        "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Wary of Trump, Europe seeks role in any Russia-Ukraine talks",
+      "description": "European diplomats are working on a format for future negotiations to protect European interests that would be led by France, Germany and Britain.",
+      "link": "https://www.bostonglobe.com/2026/08/15/world/europe-seeks-role-in-russia-ukraine-talks-wary-of-trump/",
+      "source": "The Boston Globe",
+      "image": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/34RSRDJLRLZTDTDRDYQJIFSATE.jpg?auth=27c3495a110ee0ce66eec5c5c83f93867e5a7cb1b5f8987115b5f85f7521712c&smart=true&width=8640&height=5760",
+      "published": "2026-08-15 04:19:45",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

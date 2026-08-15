@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Marvel finally confirms X-Men cast and release date for MCU reboot",
+      "description": null,
+      "link": "https://www.digitalspy.com/movies/a73435584/x-men-cast-release-date-mcu/",
+      "source": "Digital Spy",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2c7238e4-2dd7-4ff0-8ca9-8e230f482565.jpg?crop=0.669xw:1.00xh;0.272xw,0&resize=1200:*",
+      "published": "2026-08-15 04:20:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

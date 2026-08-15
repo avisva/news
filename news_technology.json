@@ -1,16 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Mahindra BE 6 Sporteq Edition Launched at Rs 11.45 Lakh, Gets Triple-Screen Cabin, Google Gemini and Drift Mode",
-      "description": "Mahindra BE 6 Sporteq launches at Rs 11.45 lakh (ex-showroom) with Battery-as-a-Service, featuring a triple-screen cabin, Google Gemini, Drift Mode, connected technology and upgraded equipment.",
-      "link": "https://www.timesnownews.com/auto/electric-vehicles/mahindra-be-6-sporteq-edition-launched-at-11-45-lakh-gets-triple-screen-cabin-google-gemini-and-drift-mode-article-155658763",
-      "source": "Times Now News",
-      "image": "https://images.timesnownews.com/thumb/msid-155659456,thumbsize-96700,width-1280,height-720,resizemode-75/155659456.jpg",
-      "published": "2026-08-15 06:23:21",
+      "title": "Polish Pilecki Institute Websites Hacked With Russian Propaganda",
+      "description": "Hackers breached the websites of the Witold Pilecki Institute in Poland, along with its branches in Berlin and Augusto\u0301w, posting Russian propaganda and anti-Ukrainian narratives. The institute announced on Friday that its IT team blocked the overnight attack, took the sites offline, and secured the archives. A security review is currently underway. The incident follows a separate, massive cyber breach involving the medical records of nearly 19 million people from the provider MyDr, which Polish Prime Minister Donald Tusk indicated was financially motivated.",
+      "link": "https://www.kyivpost.com/post/82397",
+      "source": "Kyiv Post",
+      "image": "https://static.kyivpost.com/storage/2026/08/15/ebffaa1ac9bdd3163e77d8a1f5b26cb4.jpg?w=640&q=90&f=jpg",
+      "published": "2026-08-15 07:19:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "India's Semiconductor Revolution: PM Modi Unveils Ambitious Plans for Future Growth",
+      "description": "Prime Minister Narendra Modi recently announced significant advancements in India's semiconductor manufacturing sector during the 80th Independence Day celebrations. With three plants already operational and plans for five to eight more, India is on a path to technological self-reliance. The government has launched the Semicon India Programme, aiming to establish a robust domestic semiconductor ecosystem. Modi emphasized the importance of quality manufacturing and the need for India to become a trusted partner in the global supply chain. The announcement also highlighted the growth in electronic manufacturing and the government's commitment to emerging technologies like AI and quantum computing. This ambitious vision sets the stage for India's future in the global technology landscape.",
+      "link": "https://gyanhigyan.com/national/indias-semiconductor-revolution-pm-modi-unveils-ambitious/cid19130397.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/668743761ee898eb9d227bdf3889d545.png?width=1280&height=720&resizemode=4",
+      "published": "2026-08-15 07:18:54",
+      "category": [
+        "technology",
+        "top"
       ],
       "country": [
         "india"

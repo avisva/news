@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "CBS News correspondent Matt Gutman accused of harassment in lawsuit",
+      "description": "A former ABC News journalist is suing former colleague CBS News Chief Correspondent Matt Gutman over inappropriate remarks he allegedly made when they worked together several years ago. Samira Said, a field producer for ABC News for four years, included...",
+      "link": "https://www.thederrick.com/news/entertainment/cbs-news-correspondent-matt-gutman-accused-of-harassment-in-lawsuit/article_acde77ec-7fa6-5666-9e86-6631c68ee64e.html",
+      "source": "Thederrick",
+      "image": "https://bloximages.newyork1.vip.townnews.com/thederrick.com/content/tncms/assets/v3/editorial/c/85/c85ae36a-6b2d-5a82-9bc2-c5aeb4607bfd/6a7fa67eb3f70.image.jpg?resize=300%2C200",
+      "published": "2026-08-14 23:17:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

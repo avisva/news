@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Iowa cancer researchers focus on white blood cell maturation, resiliency",
+      "description": "Researchers at Iowa\u2019s public and private universities are focusing their efforts on white blood cells as they explore potential new cancer treatments. Iowa State University and Des Moines University faculty have published research on the growth and internal operations of...",
+      "link": "https://www.southernminn.com/around_the_web/news/iowa-cancer-researchers-focus-on-white-blood-cell-maturation-resiliency/article_23048812-8a05-5635-8401-5d1f7ba4f88d.html",
+      "source": "Southernminn",
+      "image": "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/custom/image/ccf30c42-2648-11e5-b4b0-afdfa9085526.jpg?resize=600%2C315",
+      "published": "2026-08-14 22:18:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

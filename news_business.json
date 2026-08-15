@@ -1,121 +1,34 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Tyson to close more beef plants as cattle shortage drags on",
-      "description": "Tyson Foods Inc. is closing more beef plants as a prolonged cattle shortage continues to force the U.S. beefpacking industry\u2019s restructuring. The country\u2019s largest meatpacker said it would cease operations at an Illinois beef plant and a Utah case-ready facility,...",
-      "link": "https://thebrunswicknews.com/news/business/tyson-to-close-more-beef-plants-as-cattle-shortage-drags-on/article_5275852b-636e-5d2a-a685-9075d8791eac.html",
-      "source": "The Brunswick News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/3/2f/32f49be7-9d37-5d1a-b988-dcb44b0bb021/6a7fca3a99c67.image.jpg?resize=300%2C200",
-      "published": "2026-08-15 01:27:00",
+      "title": "A California designer brand opens first Dallas store at NorthPark",
+      "description": "The brand is known for denim, luxury clothes, shoes, swimwear and accessories.",
+      "link": "https://www.wfaa.com/article/money/business/california-brand-opens-first-dallas-store-northpark/287-0576f964-4537-47db-bd07-147b80e75f83",
+      "source": "Wfaa",
+      "image": "https://media.tegna-media.com/assets/WFAA/images/cbfd63a2-0d85-42c4-9ae8-0440d8383eb3/20260815T015953/cbfd63a2-0d85-42c4-9ae8-0440d8383eb3_750x422.jpg",
+      "published": "2026-08-15 02:17:50",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "'Never seen corruption of this magnitude': Horror as Trump family closer to launching bank",
+      "description": "The Trump family's pathway to opening a bank through its cryptocurrency investments is sending shockwaves, according to reporting by the Wall Street Journal. A trust company for World Liberty Financial , the Trump family's flagship crypto venture, has preliminary conditional approval to become a bank, The Journal reported. The Office of the Comptroller of the Currency, a Treasury bureau, gave the early preliminary approval on Friday. Sen. Elizabeth Warren (D-MA) wrote in a statement that \"we have never seen financial conflicts or corruption of this magnitude.\" President Donald Trump and his two sons launched World Liberty in late 2024 but have not yet made available promised borrowing, lending, and trading services, according to The Journal. If World Liberty Trust secures final approval, it will be able to operate as a federally chartered national trust bank, which will allow it to issue, redeem, and safeguard a dollar-backed stablecoin it launched last year, The Journal reported. The stablecoin has a market value of about $4 billion, according to The Journal. Unlike full banks, trust banks generally can't take deposits or make loans, The Journal reported. However, Trump has reported $1.4 billion in earnings from his memecoin and crypto ventures. The Journal noted that those earnings are \"the biggest roadblock\" for the Clarity Act, a landmark bill seeking a comprehensive regulatory framework for digital assets. The White House has previously defended Trump's financial ventures as president, saying \"neither the President nor his family has ever engaged\u2014or will ever engage\u2014in conflicts of interest,\" according to The Journal. Zach Witkoff, the son of the president's friend and Middle East envoy, Steve Witkoff , is the chief executive of World Liberty Financial and chairman of World Liberty Trust Company. The company said it submitted \"probably one of the most thoroughly reviewed applications in the history of the OCC\" to become a bank, according to The Journal. \"We answered all of the regulator's questions, and we accepted the significant obligations and ongoing scrutiny that come with the national charter,\" Zach Witkoff said in an interview, per The Journal. \"If we were looking for less oversight, we would not have chosen federal supervision.\"",
+      "link": "https://www.rawstory.com/trump-family-bank/",
+      "source": "Raw Story",
+      "image": "https://www.rawstory.com/media-library/file-photo-u-s-president-donald-trump-s-sons-eric-trump-and-donald-trump-jr-at-burning-hills-amphitheatre-on-the-day-of-the-d.jpg?id=67626519&width=980",
+      "published": "2026-08-15 02:17:32",
       "category": [
         "business",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Hamzah: BN-Perikatan seat talks must go beyond Melaka, allow room for compromise",
-      "description": "KUALA LUMPUR, Aug 15 \u2014 Barisan Nasional (BN) and Perikatan Nasional (PN) should work out a nationwide seat allocat...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/08/15/hamzah-bn-perikatan-seat-talks-must-go-beyond-melaka-allow-room-for-compromise/231415",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/15/357156.jpg",
-      "published": "2026-08-15 01:26:49",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malaysia",
-        "singapore"
-      ]
-    },
-    {
-      "title": "TG-17 (NASDAQ:OBAI) Announces Quarterly Earnings Results",
-      "description": "TG-17 (NASDAQ:OBAI \u2013 Get Free Report) announced its quarterly earnings data on Friday. The company reported ($0.20) EPS for the quarter, FiscalAI reports. The company had revenue of $2.12 million for the quarter. Here are the key takeaways from TG-17\u2019s conference call: Operating leverage improved in Q2, with operating expenses down 41% sequentially, net loss [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/15/tg-17-nasdaqobai-announces-quarterly-earnings-results.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/tg-17-inc-logo-1200x675.png?v=20260327140151",
-      "published": "2026-08-15 01:26:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Digi Power X (NASDAQ:DGXX) Announces Earnings Results",
-      "description": "Digi Power X (NASDAQ:DGXX \u2013 Get Free Report) released its earnings results on Friday. The company reported ($0.17) EPS for the quarter, FiscalAI reports. Digi Power X had a negative net margin of 98.79% and a negative return on equity of 42.04%. The company had revenue of $6.63 million for the quarter. Here are the [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/15/digi-power-x-nasdaqdgxx-announces-earnings-results.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/digihost-technology-inc-logo-1200x675.png?v=20250411063715",
-      "published": "2026-08-15 01:26:46",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lightwave Logic (NASDAQ:LWLG) Posts Earnings Results",
-      "description": "Lightwave Logic (NASDAQ:LWLG \u2013 Get Free Report) posted its quarterly earnings results on Friday. The company reported ($0.04) earnings per share (EPS) for the quarter, FiscalAI reports. Lightwave Logic had a negative return on equity of 38.79% and a negative net margin of 9,019.34%.The company had revenue of $0.03 million during the quarter. Lightwave Logic [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/14/lightwave-logic-nasdaqlwlg-posts-earnings-results.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/lightwave-logic-inc-logo-1200x675.png?v=20230830121600",
-      "published": "2026-08-15 01:26:45",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Rein Therapeutics (NASDAQ:RNTX) Releases Earnings Results, Beats Estimates By $0.17 EPS",
-      "description": "Rein Therapeutics (NASDAQ:RNTX \u2013 Get Free Report) announced its quarterly earnings results on Friday. The company reported ($0.10) EPS for the quarter, beating analysts\u2019 consensus estimates of ($0.27) by $0.17, Zacks reports. Rein Therapeutics Stock Performance Shares of RNTX stock traded up $0.02 on Friday, hitting $0.81. The company had a trading volume of 211,019 [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/14/rein-therapeutics-nasdaqrntx-releases-earnings-results-beats-estimates-by-0-17-eps.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/rein-therapeutics-inc-logo-1200x675.jpg?v=20250416111102",
-      "published": "2026-08-15 01:26:45",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cybin (NASDAQ:HELP) Issues Earnings Results",
-      "description": "Cybin (NASDAQ:HELP \u2013 Get Free Report) posted its quarterly earnings results on Friday. The company reported ($0.91) earnings per share for the quarter, missing the consensus estimate of ($0.80) by ($0.11), FiscalAI reports. Cybin Stock Performance Shares of Cybin stock traded up $0.54 during trading on Friday, hitting $11.99. 1,521,382 shares of the company\u2019s stock [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13543769/cybin-nasdaqhelp-issues-earnings-results.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/cybin-inc-logo-1200x675.jpg?v=20260212075247",
-      "published": "2026-08-15 01:26:45",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Policy clash threatening Nigeria\u2019s outdoor advertising sector \u2013 Ekechi",
-      "description": "An advertising expert, Dr. Theodore Ekechi, has warned that overlapping regulatory frameworks, conflicting fees, and fragmented enforcement are threatening the stability and growth of Nigeria\u2019s outdoor advertising sector. The post Policy clash threatening Nigeria\u2019s outdoor advertising sector \u2013 Ekechi appeared first on The Sun Nigeria .",
-      "link": "https://thesun.ng/policy-clash-threatening-nigerias-outdoor-advertising-sector-ekechi/",
-      "source": "The Sun Nigeria",
-      "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/Chief.jpg",
-      "published": "2026-08-15 01:26:41",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "nigeria"
       ]
     }
   ]

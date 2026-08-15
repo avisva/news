@@ -1,20 +1,36 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "The matte 144 Hz IPS display of the Asus ExpertBook PM5 G2 is perfect for work",
-      "description": "While some manufacturers only equip their business laptops with pretty weak IPS panels, Asus equips its new ExpertBook PM5 G2 with a high-resolution WQHD IPS panel with a frequency of 144 Hz, which is ideal for productive tasks.",
-      "link": "https://www.notebookcheck.net/The-matte-144-Hz-IPS-display-of-the-Asus-ExpertBook-PM5-G2-is-perfect-for-work.1368765.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_06.JPG",
-      "published": "2026-08-14 14:49:00",
+      "title": "Anthropic weighs $6 billion Decart deal",
+      "description": "Anthropic is negotiating a possible $6 billion acquisition of artificial intelligence infrastructure company Decart AI, a transaction that could become the Claude developer\u2019s largest takeover and strengthen its ability to reduce the soaring cost of running advanced AI models. The discussions remain unfinished and could still collapse. The proposed deal centres less on expanding Anthropic\u2019s consumer product portfolio than on improving the economics of computing. Decart develops [...] The article Anthropic weighs $6 billion Decart deal appeared first on Arabian Post .",
+      "link": "https://thearabianpost.com/anthropic-weighs-6-billion-decart-deal/",
+      "source": "Arabian Post",
+      "image": "https://thearabianpost.com/wp-content/uploads/2025/09/arabian-post-logo-animated-2025v1-1.gif",
+      "published": "2026-08-14 15:34:52",
+      "category": [
+        "business",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Nadra introduces new chipless QR code-based national identity card",
+      "description": "It replaces imported microchip with a secure QR code",
+      "link": "https://www.dialoguepakistan.com/en/pakistan/nadra-introduces-new-chipless-qr-code-based-national-identity-card",
+      "source": "Dialogue Pakistan",
+      "image": "https://www.dialoguepakistan.com/en/upload/media/posts/2026-08/14/nadra-introduces-new-chipless-qr-code-based-national-identity-card_1786721690-b.jpg",
+      "published": "2026-08-14 15:34:50",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
       ]
     }
   ]

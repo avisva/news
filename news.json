@@ -1,205 +1,57 @@
 {
   "status": "success",
-  "totalResults": 23,
+  "totalResults": 29,
   "results": [
     {
-      "title": "New to UK beauty brand loved by Italian shoppers for 'unbelievable' results",
-      "description": "'I came to Italy for the summer and forgot my retinol cream so I went to the pharmacy and found out about Miamo products. Since then I bought so many products because everything I tried works!'",
-      "link": "https://www.birminghammail.co.uk/whats-on/shopping/new-beauty-brand-italian-shoppers-34456946",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34457307.ece/ALTERNATES/s615/0_GettyImages-2222451484.jpg",
-      "published": "2026-08-14 13:04:00",
+      "title": "The old Prairie Elementary site has been sold. A large project is planned for the site.",
+      "description": "The former Prairie Elementary School site was sold to a local businessman who is a planning a significant upgrade of the property.",
+      "link": "https://www.theadvocate.com/acadiana/news/business/the-old-prairie-elementary-site-has-been-sold/article_c25dd671-1687-47b9-b546-71499fdbae39.html",
+      "source": "The Advocate",
+      "image": "http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/9/64/96463499-c233-5235-aacd-eb4978a45ded/5ec03f410dac0.image.jpg?resize=300%2C199",
+      "published": "2026-08-14 14:49:00",
       "category": [
-        "top",
-        "lifestyle"
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Taklakot: Where faith, trade and frontier politics meet",
+      "description": "Taklakot lies in the Purang region of southwestern Tibet, close to the borders of India and Nepal. Its position places it within one of the most historically important corridors of the western Himalayas.",
+      "link": "https://www.news9live.com/lifestyle/travel/taklakot-where-faith-trade-and-frontier-politics-meet-2999474",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/tank1.jpg",
+      "published": "2026-08-14 14:49:00",
+      "category": [
+        "tourism",
+        "top"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Index for crime severity in Nelson goes down, Castlegar rises: Statistics Canada (Nelson)",
-      "description": "The severity level of police-reported crime in Nelson has fallen over the last year, while it has risen in Castlegar over the same time frame, according to Statistics Canada data. The crime severity index (CSI) has dropped in Nelson, with the overall crime severity index sitting at 82.6, down 26....",
-      "link": "https://www.castanet.net/news/Nelson/628016/Index-for-crime-severity-in-Nelson-goes-down-Castlegar-rises-Statistics-Canada",
-      "source": "Castanet",
+      "title": "Lelantos Holdings, Inc. (\"LNTO\") to Present at the Emerging Growth Conference on August 20, 2026",
+      "description": "McAlester, Oklahoma--(Newsfile Corp. - August 14, 2026) - Lelantos Holdings, Inc. (OTCID: LNTO), the parent company of Airtopia Adventure Parks...",
+      "link": "https://www.financialcontent.com/article/newsfile-2026-8-14-lelantos-holdings-inc-lnto-to-present-at-the-emerging-growth-conference-on-august-20-2026",
+      "source": "Financialcontent",
       "image": null,
-      "published": "2026-08-14 13:04:00",
+      "published": "2026-08-14 14:49:00",
       "category": [
-        "top",
-        "crime"
+        "business"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Country singer Colt Ford breaks shoulder, pulled through windshield after tour bus crash",
-      "description": "\"Drivin' Around Song\" country singer Colt Ford was injured when his tour bus crashed on the way to a concert in Germany.",
-      "link": "https://www.wmur.com/article/colt-ford-injured-tour-bus-crash-germany/73435164",
-      "source": "Wmur",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/0fb7ffd1-621b-4347-9e70-ff8f7148d0d0.jpg",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Nathan Fillion\u2019s Guy Gardner Is the \u2018Fabric\u2019 of DCU Going From Superman to Mister Miracle",
-      "description": "Nathan Fillion\u2019s Guy Gardner may be turning into one of the DC Universe\u2019s most dependable wild cards. The actor himself recently noted how Gardner\u2019s expanding presence across Superman, Lanterns and Mister Miracle makes him feel less like a one-off character and more like a recurring thread tying the new DCU together. Nathan Fillion reflects on [...] The post Nathan Fillion\u2019s Guy Gardner Is the \u2018Fabric\u2019 of DCU Going From Superman to Mister Miracle appeared first on ComingSoon.net - Movie Trailers, TV & Streaming News, and More .",
-      "link": "https://www.comingsoon.net/movies/news/2176449-nathan-fillion-guy-gardner-mister-miracle-fabric-of-dcu-superman",
-      "source": "Coming Soon",
-      "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/Nathan-Fillion-Guy-Gardner-1.jpg",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "How to reduce and eliminate technical debt",
-      "description": "<p>Technical debt accumulates when organizations prioritize speed, growth or short-term delivery over long-term technology sustainability.</p> <p>Like financial debt, technical debt creates ongoing interest in the form of higher maintenance costs, slower innovation, greater operational risk and reduced engineering capacity. Systems that are merely inconvenient today can become major business constraints tomorrow as dependencies, complexity and <a href=\"https://www.techtarget.com/searchcloudcomputing/tip/A-4-step-action-plan-to-modernize-legacy-systems\">modernization costs</a> grow.</p> <p>IT leaders must reduce strategic debt, control its accumulation and keep its risk at an acceptable level. Technical debt is often invisible on balance sheets, yet it can materially affect operating costs and growth. Leaders should not mistake slow delivery or recurring incidents for isolated team problems when accumulated legacy practices and systems are to blame.</p> <p>Below, explore how to quantify technical debt, a five-phase roadmap to reduce and manage it effectively, and how to measure debt and its effect on the organization.</p> <section class=\"section main-article-chapter\" data-menu-title=\"Understanding and quantifying technical debt\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Understanding and quantifying technical debt</h2> <p><a href=\"https://www.techtarget.com/whatis/definition/technical-debt\">Technical debt</a> is the future cost created by shortcuts, outdated systems and deferred technology decisions. The result is compounding delivery delays, increased maintenance costs and increased risk. It also hinders organizations in legacy environments, thereby decreasing innovation and agility.</p> <blockquote class=\"main-article-pullquote\"> <div class=\"main-article-pullquote-inner\"> <figure> The essential question for executives is not 'How much debt exists?' but 'Which debt creates the most business drag or risk?' </figure> <i class=\"icon\" data-icon=\"z\"></i> </div> </blockquote> <p>Categorize technical debt across the following domains:</p> <ul class=\"default-list\"> <li><b>Code-level debt.</b> Duplicated, complex or poorly documented code.</li> <li><b>Architectural debt.</b> Legacy platforms, tightly coupled systems or infrastructure that limits scalability.</li> <li><b>Organizational debt.</b> Skills gaps, fragmented ownership, weak governance or inefficient processes.</li> </ul> <p>The essential question for executives is not \"How much debt exists?\" but \"Which debt creates the most business drag or risk?\"</p> <p>Evaluate existing systems and processes using the following measures:</p> <ul class=\"default-list\"> <li>Technical debt inventories and application portfolios.</li> <li><a href=\"https://www.techtarget.com/it-infrastructure/tip/Static-and-dynamic-code-analysis-Complementary-techniques\">Static code analysis</a> and complexity metrics.</li> <li>Cost of delay and maintenance spend.</li> <li>Risk scoring based on business criticality, security and operational exposure.</li> <li>Debt-to-value or debt-to-revenue ratios.</li> </ul> <p>Once debt is visible and quantified, leaders can shift from reactive maintenance to an informed, deliberate strategy. Use the resulting visibility to reduce the highest-impact debt first.</p> </section> <section class=\"section main-article-chapter\" data-menu-title=\"5 phases to technical debt elimination\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>5 phases to technical debt elimination</h2> <p>Addressing technical debt means more than initiating a one-time cleanup project. It is an ongoing management discipline that maintains smooth and flexible operations.</p> <h3>Phase 1: Discovery and assessment</h3> <p>Begin by creating a comprehensive technical debt inventory. Without this fundamental resource, it is impossible to identify and quantify potential sources of cost and drag.</p> <p>This inventory could include the following:</p> <ul class=\"default-list\"> <li>Catalog applications, infrastructure, integrations and critical dependencies.</li> <li>Combine data from IT teams, monitoring tools, code analysis and financial systems.</li> <li><a href=\"https://www.techtarget.com/enterprise-software/feature/Configuration-sprawl-is-hidden-software-debt\">Identify debt hidden in legacy systems</a> or undocumented dependencies.</li> <li>Record each item's owner, age, business dependency and potential effects.</li> <li>Establish a baseline for debt levels and annual interest costs.</li> </ul> <h3>Phase 2: Prioritization by business value</h3> <p>Decide what to address first based on business impact, which may be financial or risk-oriented.</p> <p>Take the following steps to prioritize debts:</p> <ul class=\"default-list\"> <li>Avoid treating every debt as equally urgent.</li> <li><a target=\"_blank\" href=\"https://www.forrester.com/blogs/key-questions-for-tackling-technical-debt/\" rel=\"noopener\">Rank</a> debt by business criticality, operational risk, security exposure, cost and strategic relevance.</li> <li>Distinguish between debt that blocks growth and debt that can safely remain in place.</li> <li>Link priorities to business goals, transformation initiatives and budget planning.</li> </ul> <p>Remediation is a capital allocation and portfolio decision on where limited budget and engineering capacity should be invested. Make prioritization an investment strategy, so teams focus on the technical debt that matters most.</p> <div class=\"youtube-iframe-container\"> <iframe id=\"ytplayer-0\" src=\"https://www.youtube.com/embed/cdzUXv8SpjY?autoplay=0&modestbranding=1&rel=0&widget_referrer=null&enablejsapi=1&origin=https://www.techtarget.com\" type=\"text/html\" height=\"360\" width=\"640\" frameborder=\"0\"></iframe> </div> <h3>Phase 3: Remediation while maintaining business continuity</h3> <p>Actively reduce debt without disrupting normal operations. This might involve the following:</p> <ul class=\"default-list\"> <li>Use <a href=\"https://www.techtarget.com/searchCloudComputing/tip/Use-the-7-Rs-to-develop-an-app-modernization-strategy\">refactoring</a>, application modernization, platform migration, system retirement and architecture redesign.</li> <li>Build debt reduction into existing product and engineering roadmaps.</li> <li>Start with high-value, high-risk debt where remediation can produce measurable results.</li> <li>Use incremental changes, phased migrations and rigorous testing to ensure continuity.</li> <li>Acknowledge that <a href=\"https://www.techtarget.com/enterprise-software/feature/4-shutdown-risks-that-complicate-legacy-modernization\">modernization brings its own risks</a>, including migration disruption and change fatigue.</li> </ul> <p>Evaluate remediation costs against the ongoing cost of carrying debt. Choose controlled reduction, not risky modernization efforts, and act only where the tradeoff is justified.</p> <h3>Phase 4: Prevention through sustainable processes and governance</h3> <p>Prevent new debt from accumulating at the same rate as reduction efforts. This might involve the following:</p> <ul class=\"default-list\"> <li>Establish architecture governance and clear technology ownership.</li> <li>Add technical debt reviews to portfolio, product and planning processes.</li> <li>Define standards for documentation, code quality, lifecycle management and <a href=\"https://www.techtarget.com/searchAppArchitecture/tip/Treat-platform-engineering-as-a-competitive-advantage\">platform selection</a>.</li> <li>Track intentional debt with owner, rationale and repayment plan.</li> <li>Align incentives so teams are not rewarded solely for speed of delivery.</li> </ul> <p>Clarify executive ownership: CIOs and CTOs set the strategy and risk tolerance, while CFOs help evaluate financial trade-offs. Business leaders should prioritize debt based on business impact. Build governance and accountability into routine operations so that technical debt management remains sustainable.</p> <h3>Phase 5: AI-driven optimization</h3> <p>The future of technical debt management may be increasingly predictive, automated and integrated into everyday technology operations. AI creates specific debt-reduction opportunities within that future, including the following:</p> <ul class=\"default-list\"> <li>AI can continuously scan codebases, architectures and operational data for debt patterns.</li> <li>AI-driven tools may identify dependencies, predict failure risk and recommend remediation priorities.</li> <li>AI can help assess the likely business impact of debt before it becomes a major constraint.</li> </ul> <blockquote class=\"main-article-pullquote\"> <div class=\"main-article-pullquote-inner\"> <figure> The target for success is sustained control of technical debt, not its complete elimination. </figure> <i class=\"icon\" data-icon=\"z\"></i> </div> </blockquote> <p><a href=\"https://www.techtarget.com/searchdatacenter/tip/Balancing-automation-with-human-oversight-in-AI-data-centers\">Human oversight</a> and executive governance are critical. AI should inform decisions, not replace accountability. Use AI to move from periodic debt reviews to continuous optimization.</p> </section> <section class=\"section main-article-chapter\" data-menu-title=\"Measuring success and ROI\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Measuring success and ROI</h2> <p>ROI should be measured through business outcomes rather than lines of code changed or the number of systems modernized. It must also track whether debt accumulates faster or more slowly over time. The target for success is sustained control of technical debt, not its complete elimination.</p> <p>Use the following specific KPIs and metrics:</p> <ul class=\"default-list\"> <li><b>Mean time to recovery</b><b>.</b> Does reduced complexity accelerate incident recovery?</li> <li><b>Maintenance cost reduction.</b> Is spending on legacy systems, manual work and recurring fixes declining?</li> <li><b>Engineering capacity recovered.</b> How much team capacity is returned to strategic work rather than maintenance?</li> <li><b>Risk mitigation.</b> Are critical vulnerabilities, unsupported technologies and high-risk dependencies being reduced?</li> <li><b>Time to market.</b> Are products, features and strategic initiatives delivered faster?</li> <li><b>Change failure rate.</b> Is modernization improving delivery quality without increasing operational disruption?</li> </ul> <p>Regular reporting ensures leadership is aware of the costs and benefits of deliberately managing technical debt.</p> <p>Overall, technical debt management is an ongoing strategic responsibility. Follow a clear roadmap, strengthen executive ownership and integrate metrics to control compounding costs while building a stronger foundation for innovation and growth.</p> <p><em>Damon Garn owns Cogspinner Coaction and provides freelance IT writing and editing services. He has written multiple CompTIA study guides, including the Linux+, Cloud Essentials+ and Server+ guides, and contributes extensively to TechTarget Editorial, The New Stack and CompTIA Blogs.</em></p> </section>",
-      "link": "https://www.techtarget.com/it-strategy/tip/How-to-reduce-and-eliminate-technical-debt",
-      "source": "Techtarget",
-      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/money_g1142678124.jpg",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Marvel's Midnight Variant Covers Reveal Monstrous Spider-Man, Vampire Storm, Magneto's New Brotherhood",
-      "description": "Marvel Comics' Midnight line will put a petrifying new spin on Spider-Man, the X-Men, and the Fantastic Four, and these latest variant covers showcase some twisted character designs.",
-      "link": "https://comicbookmovie.com/comics/marvel-comics/marvels-midnight-variant-covers-reveal-monstrous-spider-man-vampire-storm-magnetos-new-brotherhood-a229347",
-      "source": "Comicbookmovie.com",
-      "image": "https://comicbookmovie.com/images/articles/banners/229347.jpg",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Eurocastle Announces Director/PDMR Dealing Notification",
-      "description": "EUROCASTLE INVESTMENT LIMITED FOR IMMEDIATE RELEASE Contact: Oak Fund Services (Guernsey)...",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/08/14/3345369/0/en/eurocastle-announces-director-pdmr-dealing-notification.html",
-      "source": "Globenewswire_fr",
+      "title": "Beihai in Style, Shared with the World - \"International Celebrities Guide You to Tour Beihai\" Event Comes to a Successful Close",
+      "description": "Beihai, China--(Newsfile Corp. - August 14, 2026) - With a gentle sea breeze and waves rolling ashore, the \"Beihai in...",
+      "link": "https://www.financialcontent.com/article/newsfile-2026-8-14-beihai-in-style-shared-with-the-world-international-celebrities-guide-you-to-tour-beihai-event-comes-to-a-successful-close",
+      "source": "Financialcontent",
       "image": null,
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "france"
-      ]
-    },
-    {
-      "title": "Category Disruptor Living Proof Debuts Sheer Clean Dry Shampoo Mist, its First Non-Aerosol Dry Shampoo Inspired by Skincare",
-      "description": "The new patent-pending Micellar Bi-phase Cleansing System reimagines the clean hair experience for a 100% invisible finish* and weightless feel. BOSTON, Aug. 14, 2026 /PRNewswire/ -- Living Proof, the science-backed haircare brand and leader in dry shampoo innovation, introduces Perfect...",
-      "link": "https://www.prnewswire.com/news-releases/category-disruptor-living-proof-debuts-sheer-clean-dry-shampoo-mist-its-first-non-aerosol-dry-shampoo-inspired-by-skincare-302851411.html",
-      "source": "Pr Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS1969518/Living-Proof-Debuts-Sheer-Clean-Dry-Shampoo-Mist.jpg?id=OA2886567&p=original",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Google Pixel Watch 5: Smart and Snappier, but Spendier | Lab Report",
-      "description": "Skip to content Our expert, award-winning staff selects the products we cover and rigorously researches and tests our top picks. If you buy through our links, we may earn a commission. Owen Poole, a Certified Sleep Science Coach and proclaimed mattress expert, has been producing sleep video content in the wellness space for over three [...] The post Google Pixel Watch 5: Smart and Snappier, but Spendier | Lab Report appeared first on CBNC .",
-      "link": "https://cbnc.com/google-pixel-watch-5-smart-and-snappier-but-spendier-lab-report/",
-      "source": "Cbnc",
-      "image": "https://cbnc.com/wp-content/uploads/2026/08/thumbnail-1080-36.webp.jpeg",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Teen caught on video kicking sea lion pleads guilty, faces prison time: \"Federal crime. Federal consequences.\" - CBS News",
-      "description": "Teen caught on video kicking sea lion pleads guilty, faces prison time: \"Federal crime. Federal consequences.\" CBS News Teen who kicked sea lion in viral video in San Diego pleads guilty fox5sandiego.com 'Federal crime. Federal consequences' | La Jolla man pleads guilty to kicking sea lion cbs8.com Teen admits in guilty plea to kicking sea lion in La Jolla Cove San Diego Union-Tribune An 18-year-old La Jolla man who was seen on video repeatedly kicking a sea lion pleads guilty Times of San Diego",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVFGREM4YkZVMnlsczVfcUsyMFJKczlkOXNYYm9vTmFJRWdFM2htdXNxUVA1RHd3VWNFQVdiZ3hkeWZuYXdqcTVTcjU5Q3F0MXJ1bi11eTByVERxY3Rwb25UVzVoQmo0ZTBPSGdJWV9jUEFab3FIUklSZ3JtMjN6bkFYaUFUSWxyWFhjTw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Index for crime severity in Nelson goes down, Castlegar rises: Statistics Canada",
-      "description": "The severity level of police-reported crime in Nelson has fallen over the last year, while it has risen in Castlegar over the same time frame, according to Statistics Canada data.",
-      "link": "https://www.castanetkamloops.net/news/Nelson/628016/Index-for-crime-severity-in-Nelson-goes-down-Castlegar-rises-Statistics-Canada",
-      "source": "Kamloops This Week",
-      "image": "https://www.castanetkamloops.net/content/2026/8/large/npd_-_station_p4297705.jpg",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "DPM Fadillah recovering well after successful heart bypass surgery",
-      "description": "KUALA LUMPUR: Deputy Prime Minister Datuk Seri Fadillah Yusof, who is also Energy Transition and Water Transformation Minister, is recovering well after undergoing successful double coronary artery bypass surgery at the National Heart Institute (IJN) on Wednesday (Aug 12).",
-      "link": "https://www.thestar.com.my/news/nation/2026/08/14/dpm-fadillah-recovering-well-after-successful-heart-bypass-surgery",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/14/4060145.JPG",
-      "published": "2026-08-14 13:04:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Instagram New Wordmark Sparks \u201cInstagzam\u201d Backlash",
-      "description": "Taking to his official Instagram account, head of Instagram Adam Mosseri announced a new change coming to the platform. For the first time in ten years, Instagram has officially changed its wordmark. The Instagram new wordmark is the text you find at the page header on the Instagram app. Previously, this wordmark used a sort [...]",
-      "link": "https://techgenyz.com/instagram-new-wordmark-backlash/",
-      "source": "Techgenyz",
-      "image": "https://techgenyz.com/wp-content/uploads/2026/08/instagram-new-logo.webp",
-      "published": "2026-08-14 13:03:59",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Cuba Tourism Is Crippled in 2026 as US Sanctions and Energy Crisis Fuel a Record 60% Drop from More Than Sixteen Nations",
-      "description": "Cuba tourism crisis deepens in 2026 as US sanctions and energy shortages drive a 60% visitor drop across major international... Read More Source: Travel And Tour World TTW-1961132-1786713444",
-      "link": "https://www.travelandtourworld.com/news/article/82fcp1cujg63/",
-      "source": "Travel And Tour World",
-      "image": null,
-      "published": "2026-08-14 13:03:59",
+      "published": "2026-08-14 14:49:00",
       "category": [
         "tourism"
       ],
@@ -208,27 +60,42 @@
       ]
     },
     {
-      "title": "Education Ministry launches probe into \u2018missing\u2019 school textbooks",
-      "description": "Education Ministry launches probe into \u2018missing\u2019 school textbooks",
-      "link": "https://adaderana.lk/news/cmssybrdm0006356qvpsnltis",
-      "source": "Adaderana News",
-      "image": "https://ada-derana-prod-english-news-temp.s3.amazonaws.com/articles/cmssybrdm0006356qvpsnltis/MediaFile_20260814_183358_325.jpg",
-      "published": "2026-08-14 13:03:59",
+      "title": "Puisi Rock - Blues Kering",
+      "description": "Puisi Rock adalah karya sastra yang berisi ungkapan kemarahan atau sindiran dari penulisnya dalam bahasa puitis.",
+      "link": "https://www.suaramerdeka.com/hiburan/0417509415/puisi-rock-blues-kering",
+      "source": "Suara Merdeka Online - Perekat Komunitas Jawa Teng",
+      "image": "https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2023/10/14/Puisi-Rock-Blues-Kering-766001799.jpg",
+      "published": "2026-08-14 14:49:00",
       "category": [
-        "top",
-        "education"
+        "entertainment",
+        "top"
       ],
       "country": [
-        "sri lanka"
+        "indonesia"
       ]
     },
     {
-      "title": "Trump Announces 100% Tariff on Certain Imported Drones to Reduce US Dependence on China",
-      "description": "Washington (HRNW)- US President Donald Trump has announced a 100% tariff on certain imported drones and related components as part of efforts to reduce US dependence on China and strengthen the domestic drone industry. According to US officials, the decision was taken on national security grounds. A statement issued by the White House said that a... <p>The post Trump Announces 100% Tariff on Certain Imported Drones to Reduce US Dependence on China first appeared on Human Rights News Worldwide .</p>",
-      "link": "https://www.hrnww.com/?p=25080",
-      "source": "Human Rights News Worldwide Hrnw News Agency",
-      "image": "https://www.hrnww.com/wp-content/uploads/2026/08/DRONE_BLOOMBERG-confirmed.jpg",
-      "published": "2026-08-14 13:03:57",
+      "title": "No \u2018insider\u2019 helped Malaysian pilot evade KLIA checks, say cops",
+      "description": "Police say the pilot, who was caught in Indonesia with more than 26kg of drugs, acted alone in bypassing security checks at airport.",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/14/no-insider-helped-malaysian-pilot-evade-klia-checks-say-cops",
+      "source": "Free Malaysia Today",
+      "image": "https://media.freemalaysiatoday.com/wp-content/uploads/2026/03/01a48a30-klia-bernama-pic-2326.webp",
+      "published": "2026-08-14 14:49:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Deutsche Bank Given a Direct Line to Beijing",
+      "description": null,
+      "link": "https://www.thetrumpet.com/35368-deutsche-bank-given-a-direct-line-to-beijing",
+      "source": "The Trumpet",
+      "image": "https://www.thetrumpet.com/files/W1siZiIsIjIwMjYvMDgvMTQvN2MwZjN4dTc3MV8yNjA4MTRfTUJfRGV1dHNjaGVfQmFua19naXZlbl9hX2RpcmVjdF9saW5lX3RvX0JlaWppbmdfMTY2Njg2NzQ5MS5qcGciXSxbInAiLCJ0aHVtYiIsIjEwMjR4Il0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgODAiXV0/ccda4e317179fea0/260814-MB-Deutsche%20Bank%20given%20a%20direct%20line%20to%20Beijing-1666867491.jpg.jpg",
+      "published": "2026-08-14 14:49:00",
       "category": [
         "business",
         "top"
@@ -238,29 +105,73 @@
       ]
     },
     {
-      "title": "SNAPSHOT | Onn's big win in Johor bitter pill to swallow - PKR Youth chief; DPM recovering after surgery",
-      "description": "What's going on in the news today, with updates at 9am, 2pm, 6pm, and 9pm.",
-      "link": "https://www.malaysiakini.com/news/782176",
-      "source": "Malaysiakini",
-      "image": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2026/08/6d8c7382f5cfdca903f147d5c0e69cad.jpg",
-      "published": "2026-08-14 13:03:55",
+      "title": "The matte 144 Hz IPS display of the Asus ExpertBook PM5 G2 is perfect for work",
+      "description": "While some manufacturers only equip their business laptops with pretty weak IPS panels, Asus equips its new ExpertBook PM5 G2 with a high-resolution WQHD IPS panel with a frequency of 144 Hz, which is ideal for productive tasks.",
+      "link": "https://www.notebookcheck.net/The-matte-144-Hz-IPS-display-of-the-Asus-ExpertBook-PM5-G2-is-perfect-for-work.1368765.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Asus/ExpertBook_PM5_G2_PM5606/expertbook_pm5_g2_16_case_06.JPG",
+      "published": "2026-08-14 14:49:00",
       "category": [
-        "sports",
+        "technology",
         "top"
       ],
       "country": [
-        "malaysia"
+        "united states of america"
       ]
     },
     {
-      "title": "Penn State basketball unveils full 2026-27 nonconference schedule",
-      "description": "Penn State basketball will take on three programs from the Commonwealth and travel to the Bahamas in nonconference play. Here's what you need to know.",
-      "link": "https://sports.yahoo.com/articles/penn-state-basketball-unveils-full-130355638.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/a96be14d62933b34947fcce4c1d5998ec4d6209e3619685feb83e5bc5ba4510f/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyork-daily-record%2Ffee3887e29202c0245a3f348789cd225.jpg",
-      "published": "2026-08-14 13:03:55",
+      "title": "Computer Modelling Group Ltd. Announces Commencement of Previously Announced Substantial Issuer Bid",
+      "description": "Computer Modelling Group Ltd. (\u201cCMG\u201d or the \u201cCompany\u201d) (TSX: CMG) is pleased to announce the formal commencement of the previously announced substantial issuer bid (the \u201cOffer\u201d) under which the Company is offering to repurchase for cancellation up to C$20,000,000 of its outstanding common shares (the \u201cShares\u201d) by way of a \u201cmodified Dutch auction\u201d that includes the ability for shareholders to participate via a proportionate tender, subject to the receipt of the necessary exemptive relief under applicable securities laws.",
+      "link": "https://www.bnnbloomberg.ca/press-releases/2026/08/14/computer-modelling-group-ltd-announces-commencement-of-previously-announced-substantial-issuer-bid/",
+      "source": "Bnn Bloomberg",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1717607291216.jpg?auth=ef34cf3f59642485b12f79845baaee98582b911ca4d3aeb27d8722b9c453587b&width=1200",
+      "published": "2026-08-14 14:48:59",
       "category": [
         "breaking",
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Hormuz crisis: What UAE residents need to know this evening (August 14)",
+      "description": "Maritime tensions, drone strikes and airline changes disrupt Gulf travel routes",
+      "link": "https://gulfnews.com/uae/hormuz-crisis-what-uae-residents-need-to-know-this-evening-august-14-1.500641162",
+      "source": "Gulf News",
+      "image": "https://media.assettype.com/gulfnews/2026-08-14/jur98gzs/gulfnews2026-08-08ppgr290ngulfnewsimport20190708A-view-of-the-Strait-of-Hormuz-0212116bd246b794large.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-08-14 14:48:59",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "WPI inflation eases to 9.78% in July on lower fuel prices",
+      "description": null,
+      "link": "https://www.financialexpress.com/policy/economy/wpi-inflation-eases-to-9-78-in-july-on-lower-fuel-prices/4318105/",
+      "source": "Financial Express , Read To Lead",
+      "image": "https://images.financialexpressdigital.com/2026/08/WPIDatarelease_20260814144307.jpg",
+      "published": "2026-08-14 14:48:59",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rangers and the paradox of a painful exit that boosts their trophy chances",
+      "description": "All new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take Graeme Souness, whose start as Rangers\u2019 player-manager put the \u2018pish\u2019 in \u2018inauspicious\u2019. On his league debut, away to Hibs, he was sent off in the first half after a revenge attack on the wrong mullet. Rangers lost 2-1 and were beaten in the third game as well. Graeme out! Rangers won the League Cup and finished the season as champions for the first time in nine years. When I reflect on the lack of support for my very reasonable case from 1,057 people (Football Daily letters passim), I find consolation in the fact that I won letter o\u2019the day, and none of them did. The Football Daily merch, when it arrives, will have pride of place in the trophy room at Cushion Towers\u201d \u2013 Bob Cushion. So Arsenal are looking to spend \u20ac30m on Ezri Konsa as defensive cover. Meanwhile, the club I support, Exeter City, don\u2019t have two brass farthings to rub together (ask your dad). Something wrong here\u201d \u2013 Dave Hill. I will admit to the occasional snigger, but today was the first time in a long time that I\u2019ve actually laughed out loud at a joke in the Fiver \u2013 the one about Portugal and Euro 2028. It was a joke, wasn\u2019t it?\u201d \u2013 Bill Muskett. That 6ft 4in striker Brian Madjo has a very high ceiling is the most common sense, practical thing about modern football I\u2019ve read in a long time\u201d \u2013 Peter Oh. Continue reading...",
+      "link": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/3c50f7901492429002549bd981eb9019a00d513f/475_0_4810_3848/master/4810.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4c40748941b84132deeaa56df2c15c6",
+      "published": "2026-08-14 14:48:56",
+      "category": [
         "sports"
       ],
       "country": [
@@ -268,74 +179,246 @@
       ]
     },
     {
-      "title": "No potatoes? Here\u2019s what to use instead to make chips, mash and roasties",
-      "description": "Summer drought has pushed our spud crops to the brink, but celeriac, polenta and cannellini beans serve up great comfort-food alternatives",
-      "link": "https://www.telegraph.co.uk/food-and-drink/features/no-potatoes-what-to-use-to-make-chips-mash-roasties/",
-      "source": "The Telegraph",
-      "image": "https://www.telegraph.co.uk/content/dam/food-and-drink/2026/08/13/TELEMMGLPICT000498193959_17866130953980_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg",
-      "published": "2026-08-14 13:03:53",
+      "title": "Galamsey: \u2018The challenge is prosecution\u2019 \u2013 Armah-Kofi Buah",
+      "description": "The Minister made the disclosure during a policy engagement with the IMANI Centre for Policy and Education in Accra, where he outlined the government\u2019s",
+      "link": "https://www.citinewsroom.com/2026/08/galamsey-the-challenge-is-prosecution-armah-kofi-buah/",
+      "source": "Citinewsroom - Comprehensive News In Ghana",
+      "image": "https://www.citinewsroom.com/wp-content/uploads/2025/12/ARMAH.webp",
+      "published": "2026-08-14 14:48:54",
+      "category": [
+        "top",
+        "education"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+      "description": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan",
+      "source": "Al Jazeera",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f24d5bcd9-1786717397.jpg?resize=1920%2C1440",
+      "published": "2026-08-14 14:48:54",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "qatar",
+        "united states of america",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Man who drowned in Lake Anna identified as 24-year-old firefighter: 'A heartbreaking loss'",
+      "description": "Authorities have found the 24-year-old man at Lake Anna who witnesses say went under the water and did not resurface Thursday evening.",
+      "link": "https://www.wtvr.com/news/local-news/mason-fercovic-ortegel-obit-aug-14-2026",
+      "source": "Wtvr Cbs 6",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/301e0bf/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F2b%2Fa2%2F8119d4b04554b5413272a8569628%2Ftaylor-thumbnails-2026-08-14t104429-596.png",
+      "published": "2026-08-14 14:48:54",
+      "category": [
+        "domestic"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "San Antonio-area families take Ten Commandments classroom fight toward Supreme Court",
+      "description": "Families tied to Alamo Heights ISD and Comal ISD are among more than two dozen Texas families challenging the state's Ten Commandments classroom law.",
+      "link": "https://www.kens5.com/article/news/education/texas-tencommandments-schools-classrooms-supremecourt-religion-sb10-parents-students-lawsuit-alamoheights-comalisd-houston-austin-displa/273-b3c9a38f-c58f-484e-a479-754f9463a194",
+      "source": "Kens5.com",
+      "image": "https://media.tegna-media.com/assets/KVUE/images/37339fe0-5d18-4af8-91af-455984b75356/20260121T002211/37339fe0-5d18-4af8-91af-455984b75356_750x422.jpg",
+      "published": "2026-08-14 14:48:53",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "U.S. wins men's 4x200m freestyle relay at Pan Pacs",
+      "description": "The United States proved why they were favorites in the 4x200m freestyle relay, winning in convincing fashion with a Pan Pacific Championships record.",
+      "link": "https://www.nbcolympics.com/videos/us-wins-mens-4x200m-freestyle-relay-pan-pacs",
+      "source": "12news",
+      "image": "https://media.tegna-media.com/assets/NBC/images/47a2444f-eeb3-4e9f-845e-e6ca3103dc85/20260814T150504/47a2444f-eeb3-4e9f-845e-e6ca3103dc85_750x422.jpg",
+      "published": "2026-08-14 14:48:52",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "In town hit by wildfire, PM says UK must 'face up to climate change'",
+      "description": null,
+      "link": "https://sg.news.yahoo.com/town-hit-wildfire-pm-says-144852260.html",
+      "source": "Yahoo!news",
+      "image": null,
+      "published": "2026-08-14 14:48:52",
       "category": [
         "environment",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "singapore"
       ]
     },
     {
-      "title": "FINAL TEAMS- Bulldogs vs Rabbitohs - Round 24, 2026",
-      "description": "FINAL TEAMS- Bulldogs vs Rabbitohs - Round 24, 2026",
-      "link": "https://www.zerotackle.com/updated-team-lists-bulldogs-rabbitohs-10397669-236946/",
-      "source": "Sydney Sun",
-      "image": "https://www.zerotackle.com/wp-content/uploads/2026/08/match-centre-updated-team-lists-bulldogs-rabbitohs-10397669.jpg",
-      "published": "2026-08-14 13:03:53",
+      "title": "Smokies rally past five shutout innings from former Vols pitcher",
+      "description": "Knoxville had three games left this week at Covenant Health Park after Thursday, when a Cubs pitcher shared the mound with a Tennessee national champion.",
+      "link": "https://www.knoxnews.com/story/sports/local/2026/08/13/knoxville-smokies-daniel-palencia-rocket-city-trash-pandas-nate-snead-final-score-thursday-recap/91295925007/",
+      "source": "Knoxville News Sentinel",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/12/PKNS/91267489007-smokies-vs-trash-pandas-2397.JPG?auto=webp&crop=4677,2632,x0,y155&format=pjpg&width=1200",
+      "published": "2026-08-14 14:48:51",
       "category": [
-        "sports",
-        "top"
+        "domestic"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Hungry Arsenal target Shield in English season opener",
+      "description": "Arsenal are eager to get their hands on the first trophy of the season when they face Manchester City in the Community \u200cShield, with manager Mikel Arteta adamant his champions have returned refreshed and highly motivated.",
+      "link": "https://www.riverineherald.com.au/aap-soccer/hungry-arsenal-target-shield-in-english-season-opener/",
+      "source": "Riverine Herald",
+      "image": null,
+      "published": "2026-08-14 14:48:50",
+      "category": [
+        "sports"
       ],
       "country": [
         "australia"
       ]
     },
     {
-      "title": "No Artificial Paneer, Cheese Or Butter: Karnataka Health Minister Khader Warns Of Legal Action",
-      "description": "Karnataka Health Minister U.T. Khader has warned companies against producing or selling artificial paneer, cheese and butter, saying violators will face legal action. Authorities are also stepping up food safety inspections across Bengaluru.",
-      "link": "https://newsable.asianetnews.com/karnataka-news/no-artificial-paneer-cheese-or-butter-karnataka-health-minister-khader-warns-of-legal-action-articleshow-49q6u1u",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kzyrtm8ywy26ntxeq5m07h8t,imgname-----------------------2026-08-14t052246.958-1786665324830.jpg",
-      "published": "2026-08-14 13:03:53",
+      "title": "'Avoid travel' warning as train derailment affects Shenfield commuters",
+      "description": "Commuters travelling between Shenfield and Southend Victoria have been urged to avoid travel until further notice after a train has derailed.",
+      "link": "https://www.romfordrecorder.co.uk/news/26466162.wickford-train-derailment---passengers-asked-avoid-travel/",
+      "source": "Romfordrecorder Co Uk",
+      "image": "https://www.romfordrecorder.co.uk/resources/images/21322060/",
+      "published": "2026-08-14 14:48:50",
       "category": [
-        "health",
-        "top"
+        "top",
+        "crime"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     },
     {
-      "title": "Kalpataru Projects International bags new orders worth \u20b93,526 cr",
-      "description": "Kalpataru Projects International secures new orders worth \u20b93,526 crore, boosting its FY27 order intake to over \u20b911,000 crore.",
-      "link": "https://www.thehindubusinessline.com/companies/kalpataru-projects-international-bags-new-orders-worth-3526-cr/article71345227.ece",
-      "source": "The Hindu - Business Line",
-      "image": "https://bl-i.thgim.com/public/incoming/5t1j79/article71345769.ece/alternates/FREE_1200/kalpataru_projects_international_limited_logo.jfif",
-      "published": "2026-08-14 13:03:52",
+      "title": "Meet the McLaren McL 6GT: The first manual McLaren since the iconic F1",
+      "description": "As the first McLaren of its kind, the McL 6GT will celebrate 'tactile, analogue and deeply mechanical' driving, and connect 'McLaren's heritage to the present'.",
+      "link": "https://www.dailymail.com/money/cars/article-16052871/McLaren-McL-6GT-manual-iconic-F1.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/08/14/15/110641763-0-image-a-23_1786718438339.jpg",
+      "published": "2026-08-14 14:48:49",
       "category": [
         "business"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     },
     {
-      "title": "Overseas Stock Market Update \u2014 August 14, 2026",
-      "description": "NEW YORK \u2013 August 14, 2026 (STL.News) Overseas Stock Market \u2013 Overseas stock markets delivered a mixed performance overnight Friday, with a powerful semiconductor-led rally in South Korea and gains in Japan offset by declines in Hong Kong, mainland China, Australia and India. Investors entered the final trading day of the week balancing encouraging U.S. [...] This News Overseas Stock Market Update \u2014 August 14, 2026 appeared first on STL.News .",
-      "link": "https://www.stl.news/overseas-stock-market-update-august-14-2026/",
-      "source": "Stl.news",
-      "image": "https://85336464.delivery.rocketcdn.me/wp-content/uploads/2026/08/BigStock-Stock-Global-Blue-Big-5.jpg",
-      "published": "2026-08-14 13:03:52",
+      "title": "'Heartbreaking consequences': Leeds couple banned for animal cruelty after dead dog found in basement",
+      "description": "A Leeds couple have been banned indefinitely from keeping animals after a shocking case of animal cruelty was uncovered by the RSPCA",
+      "link": "https://www.yorkshireeveningpost.co.uk/news/crime/leeds-couple-banned-animal-cruelty-8921423",
+      "source": "Yorkshire Evening Post",
+      "image": "https://www.yorkshireeveningpost.co.uk/jpim-static/image/2026/08/14/12/03/MixCollage-14-Aug-2026-01-22-PM-95.jpeg?width=1200&auto=webp&trim=59%2C0%2C61%2C0",
+      "published": "2026-08-14 14:48:49",
       "category": [
-        "business",
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
+      "description": "Prime Minister Shehbaz Sharif called on President Asif Ali Zardari in Islamabad on Friday and briefed him on a recently signed defence pact between Pakistan, Saudi Arabia and Turkiye, according to a statement issued by the Presidency.",
+      "link": "https://www.24newshd.tv/14-Aug-2026/pm-shehbaz-briefs-president-zardari-pak-saudi-turkiye-defence-pact",
+      "source": "24 News Hd",
+      "image": "https://www.24newshd.tv/digital_images/small/2026-08-14/pm-shehbaz-briefs-president-zardari-pak-saudi-turkiye-defence-pact-1786718917-3066.png",
+      "published": "2026-08-14 14:48:48",
+      "category": [
+        "politics",
         "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Garth Brooks Adds Washington D.C. Dates to \u201cBlame It All On My Roots\u201d Tour",
+      "description": "The country star will bring his in-the-round drum pod stage to the Capital One Arena on September 18th and 19th. Garth Brooks Adds Washington D.C. Dates to \u201cBlame It All On My Roots\u201d Tour Paolo Ragusa",
+      "link": "https://consequence.net/2026/08/garth-brooks-washington-dc-blame-it-all-on-my-roots-tour/",
+      "source": "Consequence",
+      "image": "https://consequence.net/wp-content/uploads/2026/08/Garth-Brooks-Washington-D.C.-Blame-It-All-On-My-Roots-Tour.jpg?quality=80",
+      "published": "2026-08-14 14:48:48",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sunrun (NASDAQ:RUN) Given New $17.00 Price Target at Wells Fargo & Company",
+      "description": "Sunrun (NASDAQ:RUN \u2013 Get Free Report) had its price target lowered by analysts at Wells Fargo & Company from $22.00 to $17.00 in a research note issued on Friday,Benzinga reports. The brokerage currently has an \u201coverweight\u201d rating on the energy company\u2019s stock. Wells Fargo & Company\u2018s target price would suggest a potential upside of 63.54% [...]",
+      "link": "https://baseballnewssource.com/2026/08/14/sunrun-nasdaqrun-given-new-17-00-price-target-at-wells-fargo-company/11224322.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/sunrun-inc-logo-1200x675.png?v=20211008082542",
+      "published": "2026-08-14 14:48:45",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "B. Riley Financial Cuts Eos Energy Enterprises (NASDAQ:EOSE) Price Target to $5.00",
+      "description": "Eos Energy Enterprises (NASDAQ:EOSE \u2013 Get Free Report) had its target price decreased by B. Riley Financial from $8.00 to $5.00 in a research report issued to clients and investors on Friday,Benzinga reports. The firm presently has a \u201cneutral\u201d rating on the stock. B. Riley Financial\u2019s price objective indicates a potential upside of 20.34% from [...]",
+      "link": "https://www.thelincolnianonline.com/2026/08/14/b-riley-financial-cuts-eos-energy-enterprises-nasdaqeose-price-target-to-5-00.html",
+      "source": "The Lincolnian Online",
+      "image": "https://www.marketbeat.com/logos/eos-energy-enterprises-inc-logo-1200x675.png?v=20210329132213",
+      "published": "2026-08-14 14:48:45",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Williams-Sonoma (NYSE:WSM) Stock Price Expected to Rise, Royal Bank Of Canada Analyst Says",
+      "description": "Williams-Sonoma (NYSE:WSM \u2013 Get Free Report) had its price target hoisted by stock analysts at Royal Bank Of Canada from $192.00 to $260.00 in a research note issued to investors on Friday,Benzinga reports. The firm currently has an \u201coutperform\u201d rating on the specialty retailer\u2019s stock. Royal Bank Of Canada\u2019s price target indicates a potential upside [...]",
+      "link": "https://www.themarketsdaily.com/2026/08/14/williams-sonoma-nysewsm-stock-price-expected-to-rise-royal-bank-of-canada-analyst-says.html",
+      "source": "Markets Daily",
+      "image": "https://www.marketbeat.com/logos/williams-sonoma-inc-logo-1200x675.png?v=20240122152535",
+      "published": "2026-08-14 14:48:45",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Royal Bank Of Canada Boosts American Healthcare REIT (NYSE:AHR) Price Target to $61.00",
+      "description": "American Healthcare REIT (NYSE:AHR \u2013 Get Free Report) had its target price lifted by stock analysts at Royal Bank Of Canada from $56.00 to $61.00 in a report issued on Friday,Benzinga reports. The brokerage currently has an \u201coutperform\u201d rating on the stock. Royal Bank Of Canada\u2019s price target would suggest a potential upside of 13.20% [...]",
+      "link": "https://www.watchlistnews.com/royal-bank-of-canada-boosts-american-healthcare-reit-nyseahr-price-target-to-61-00/11184166.html",
+      "source": "Watch List News",
+      "image": "https://www.marketbeat.com/logos/american-healthcare-reit-inc-logo-1200x675.jpg?v=20240412135730",
+      "published": "2026-08-14 14:48:45",
+      "category": [
+        "business"
       ],
       "country": [
         "united states of america"

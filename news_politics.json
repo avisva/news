@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+      "description": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
+      "link": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan",
+      "source": "Al Jazeera",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7f24d5bcd9-1786717397.jpg?resize=1920%2C1440",
+      "published": "2026-08-14 14:48:54",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "qatar",
+        "united states of america",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "San Antonio-area families take Ten Commandments classroom fight toward Supreme Court",
+      "description": "Families tied to Alamo Heights ISD and Comal ISD are among more than two dozen Texas families challenging the state's Ten Commandments classroom law.",
+      "link": "https://www.kens5.com/article/news/education/texas-tencommandments-schools-classrooms-supremecourt-religion-sb10-parents-students-lawsuit-alamoheights-comalisd-houston-austin-displa/273-b3c9a38f-c58f-484e-a479-754f9463a194",
+      "source": "Kens5.com",
+      "image": "https://media.tegna-media.com/assets/KVUE/images/37339fe0-5d18-4af8-91af-455984b75356/20260121T002211/37339fe0-5d18-4af8-91af-455984b75356_750x422.jpg",
+      "published": "2026-08-14 14:48:53",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "PM Shehbaz briefs President Zardari on Pak-Saudi-Turkiye defence pact",
+      "description": "Prime Minister Shehbaz Sharif called on President Asif Ali Zardari in Islamabad on Friday and briefed him on a recently signed defence pact between Pakistan, Saudi Arabia and Turkiye, according to a statement issued by the Presidency.",
+      "link": "https://www.24newshd.tv/14-Aug-2026/pm-shehbaz-briefs-president-zardari-pak-saudi-turkiye-defence-pact",
+      "source": "24 News Hd",
+      "image": "https://www.24newshd.tv/digital_images/small/2026-08-14/pm-shehbaz-briefs-president-zardari-pak-saudi-turkiye-defence-pact-1786718917-3066.png",
+      "published": "2026-08-14 14:48:48",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

@@ -1,36 +1,52 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Anthropic weighs $6 billion Decart deal",
-      "description": "Anthropic is negotiating a possible $6 billion acquisition of artificial intelligence infrastructure company Decart AI, a transaction that could become the Claude developer\u2019s largest takeover and strengthen its ability to reduce the soaring cost of running advanced AI models. The discussions remain unfinished and could still collapse. The proposed deal centres less on expanding Anthropic\u2019s consumer product portfolio than on improving the economics of computing. Decart develops [...] The article Anthropic weighs $6 billion Decart deal appeared first on Arabian Post .",
-      "link": "https://thearabianpost.com/anthropic-weighs-6-billion-decart-deal/",
-      "source": "Arabian Post",
-      "image": "https://thearabianpost.com/wp-content/uploads/2025/09/arabian-post-logo-animated-2025v1-1.gif",
-      "published": "2026-08-14 15:34:52",
+      "title": "India Poised To Become Space Powerhouse As Australia Deepens Cooperation",
+      "description": "Former Australian Prime Minister Scott Morrison has expressed strong confidence in India\u2019s future as a global leader in space technology. Speaking virtually at the Indo-Mediterranean Dialogues, he said India has the potential to become a \u201cspace powerhouse\u201d within the next two to three decades, citing its favourable geography, industrial capabilities and expanding technological base.Morrison",
+      "link": "https://www.indiandefensenews.in/2026/08/india-poised-to-become-space-powerhouse.html",
+      "source": "Indiandefensenews",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigQuLHomeeXNDo7BF3Jl155O6XuOg4I2nA9TUgF2r6c-gh4ICuW6r2u3nJSRZZE-TJrwi7-02YiExEZTEi8jkL87e2fL2s9rrqjYLPOROuH2BHxbxZqhI36_hjLfugZTcjcWhiFuYwDZ43hvDGYU13whWQkehGJ81dBx4WHWLtEx2EunxXcbOmzvS3uww/s72-c/Scott_Morrison.jpg",
+      "published": "2026-08-14 16:26:00",
       "category": [
-        "business",
         "technology",
         "top"
       ],
       "country": [
-        "united arab emirates"
+        "india"
       ]
     },
     {
-      "title": "Nadra introduces new chipless QR code-based national identity card",
-      "description": "It replaces imported microchip with a secure QR code",
-      "link": "https://www.dialoguepakistan.com/en/pakistan/nadra-introduces-new-chipless-qr-code-based-national-identity-card",
-      "source": "Dialogue Pakistan",
-      "image": "https://www.dialoguepakistan.com/en/upload/media/posts/2026-08/14/nadra-introduces-new-chipless-qr-code-based-national-identity-card_1786721690-b.jpg",
-      "published": "2026-08-14 15:34:50",
+      "title": "The Pixel Watch 5 is here, and its GPS upgrades could be a huge win for runners",
+      "description": "Google just took the wraps off the Pixel Watch 5 yesterday at their annual hardware event in NYC, and rather than completely reinventing the wheel, it looks like a solid, calculated refinement of last year\u2019s model. The new watch leans heavily into proactive Gemini intelligence and introduces a fresh batch of health tracking features. But [...]",
+      "link": "https://chromeunboxed.com/the-pixel-watch-5-is-here-and-its-gps-upgrades-could-be-a-huge-win-for-runners/",
+      "source": "Chrome Unboxed",
+      "image": "https://chromeunboxed.com/wp-content/uploads/2026/08/GooglePixelWatch5-ChromeUnboxed.webp",
+      "published": "2026-08-14 16:25:58",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "pakistan"
+        "australia",
+        "united kingdom",
+        "canada",
+        "united states of america",
+        "india"
+      ]
+    },
+    {
+      "title": "Reliance Joins Hands With Rolls-Royce for India's Advanced Medium Combat Aircraft: Report",
+      "description": "The Indian Air Force endeavors to do away with overreliance on the gate-kept Rafael and aging Sukhois. Will the RIL-Rolls-Royce strategic parentship produce an indigenous engine to bridge the gap eight decades after the independence?",
+      "link": "https://in.mashable.com/tech/112883/reliance-joins-hands-with-rolls-royce-for-indias-advanced-medium-combat-aircraft-report",
+      "source": "In Mashable",
+      "image": "https://sm.mashable.com/mashable_in/photo/default/00-aa-banner-1200-x-675-2026-08-10t134604200-1-1-1-1-1-1-1-1_gmby.jpg",
+      "published": "2026-08-14 16:25:43",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

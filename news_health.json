@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Junk Food & Prostate Cancer; 'Office' Star's Stage IV Diagnosis; New Cancer Cluster?",
+      "description": "(MedPage Today) -- Men with a higher consumption of ultraprocessed foods had a significantly higher risk for developing prostate cancer in a large study. (Florida Atlantic University) Maura Gillison, MD, PhD, credited for proving the link between...",
+      "link": "https://www.medpagetoday.com/hematologyoncology/othercancers/122623",
+      "source": "Medpagetoday",
+      "image": "https://assets.medpagetoday.net/media/images/122xxx/122623.jpg",
+      "published": "2026-08-14 19:27:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

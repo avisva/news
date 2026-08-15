@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "BYD launches the Qin Max EV for half the price of a Tesla Model 3",
+      "description": "BYD\u2019s new Qin Max is now on sale, another Tesla Model 3-sized electric sedan that\u2019s about half the price.",
+      "link": "https://electrek.co/2026/08/14/byd-launches-qin-max-ev-half-price-tesla-model-3/",
+      "source": "Electrek",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Qin-Max-EV-prices-2.jpeg?quality=82&strip=all",
+      "published": "2026-08-14 19:26:56",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

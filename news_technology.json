@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Out of the clouds",
-      "description": "Firmus Technologies, Aureka, Yulu, and more raised funds this week.",
-      "link": "https://www.techinasia.com/out-of-the-clouds",
-      "source": "Tech In Asia",
-      "image": "https://cdn.techinasia.com/wp-content/uploads/2025/08/1755820943_Featured-image-The-mainframe-strikes-back-why-SEA-should-care-1200x675-1.gif",
-      "published": "2026-08-15 00:30:54",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "singapore"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -253,8 +253,8 @@
       }
 
       function renderApiStories(items) {
-        apiArticlesEl.innerHTML = items.length ? items.map(item => {
-          const image = item.image || 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80';
+          apiArticlesEl.innerHTML = items.length ? items.map(item => {
+          const image = item.image || 'news-img.jpg';
           const category = item.categories[0] || 'Top Story';
           return `
             <article class="story-card">

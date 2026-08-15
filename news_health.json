@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Woodlands Hospital CEO Joe Hau reads to slow down and reflect on what matters",
+      "description": "Reading is often a starting point for meaningful conversations for him.",
+      "link": "https://www.straitstimes.com/life/arts/woodlands-hospital-ceo-joe-hau-reads-to-slow-down-and-reflect-on-what-matters",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-08-15 05:17:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "singapore"
+      ]
+    }
+  ]
 }

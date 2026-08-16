@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Toyota Built The 1997 Land Cruiser To Be Thrashed, This One Did 170 Miles A Year",
+      "description": "Among the million-dollar exotics at Monterey sits a preserved Toyota that regular buyers can actually dream about chasing",
+      "link": "https://www.carscoops.com/2026/08/toyota-land-cruiser-auction-monterey/",
+      "source": "Carscoops",
+      "image": "https://www.carscoops.com/wp-content/uploads/2026/08/829197-copy.jpg",
+      "published": "2026-08-15 19:28:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -48,24 +48,26 @@
       }
 
       * { box-sizing: border-box; }
-      body { margin: 0; min-height: 100vh; background: linear-gradient(180deg, #eef4ff 0%, #f7fbff 45%, #f2f5fb 100%); }
+      body { margin: 0; min-height: 100vh; background: linear-gradient(180deg, #eef4ff 0%, #f7fbff 45%, #f2f5fb 100%); overflow-x: hidden; }
       html { scroll-behavior: smooth; }
       a { color: inherit; text-decoration: none; }
       button, select, input { font: inherit; }
 
       .page-shell { width: min(1200px, calc(100% - 32px)); margin: 0 auto; padding: 10px 0 32px; }
-      .brand-bar { position: sticky; top: 0; z-index: 300; display: flex; flex-wrap: nowrap; justify-content: space-between; gap: 12px; align-items: center; margin: 0 -16px 24px; padding: 12px 16px; background: rgba(255,255,255,.95); border: 1px solid rgba(79,70,229,.12); border-radius: 20px; box-shadow: 0 18px 40px rgba(79,70,229,.06); }
-      .brand-site { display: flex; flex-direction: column; gap: 4px; min-width: 120px; }
-      .brand-title { margin: 0; font-size: clamp(1.2rem, 2.2vw, 1.95rem); letter-spacing: -.03em; color: #4f46e5; line-height: 1.1; }
+      .brand-bar { position: sticky; top: 0; z-index: 300; display: flex; flex-wrap: nowrap; justify-content: space-between; gap: 12px; align-items: center; margin: 0 -16px 24px; padding: 12px 16px; background: linear-gradient(180deg, rgba(255,255,255,.97), rgba(245,247,255,.95)); border: 1px solid rgba(79,70,229,.14); border-radius: 22px; box-shadow: 0 18px 40px rgba(79,70,229,.08), inset 0 1px 0 rgba(255,255,255,.8); width: calc(100% - 0px); max-width: 100%; overflow: hidden; backdrop-filter: blur(8px); }
+      .brand-site { display: flex; flex-direction: column; gap: 4px; min-width: 80px; }
+      .brand-title { margin: 0; font-size: clamp(1.2rem, 2.2vw, 1.95rem); letter-spacing: -.04em; color: #4f46e5; line-height: 1.1; font-weight: 800; text-shadow: 0 1px 0 rgba(255,255,255,.7); }
 
-      .top-controls { display: flex; flex-wrap: nowrap; align-items: center; gap: 8px; width: min(100%, 880px); justify-content: flex-end; overflow-x: auto; }
-      .top-controls > * { flex: 0 0 auto; }
+      .top-controls { display: flex; flex-wrap: nowrap; align-items: center; gap: 6px; width: min(100%, 880px); justify-content: flex-end; min-width: 0; overflow: hidden; }
+      .top-controls > * { min-width: 0; }
       .top-controls::-webkit-scrollbar { height: 6px; }
       .top-controls::-webkit-scrollbar-thumb { background: rgba(79,70,229,.2); border-radius: 999px; }
-      select, input[type="search"] { border: 1px solid rgba(79,70,229,.18); background: rgba(255,255,255,.98); border-radius: 999px; padding: 10px 12px; color: #0f172a; min-width: 110px; font-size: .92rem; }
-      select { min-width: 106px; }
-      input[type="search"] { flex: 1 1 220px; min-width: 150px; max-width: 280px; }
-      button.primary { background: #4f46e5; color: #fff; border: none; padding: 10px 16px; border-radius: 999px; cursor: pointer; font-weight: 600; box-shadow: 0 10px 26px rgba(79,70,229,.22); transition: transform .15s ease, box-shadow .15s ease; }
+      select, input[type="search"] { border: 1px solid rgba(79,70,229,.18); background: rgba(255,255,255,.98); border-radius: 999px; padding: 10px 12px; color: #0f172a; width: 100%; min-width: 0; font-size: .9rem; transition: border-color .15s ease, box-shadow .15s ease, transform .15s ease; }
+      select:focus, input[type="search"]:focus { outline: none; border-color: rgba(79,70,229,.5); box-shadow: 0 0 0 4px rgba(79,70,229,.12); }
+      select { flex: 0 1 24%; }
+      input[type="search"] { flex: 1 1 38%; }
+      button.primary { background: linear-gradient(135deg, #4f46e5 0%, #4338ca 100%); color: #fff; border: none; padding: 10px 16px; border-radius: 999px; cursor: pointer; font-weight: 700; box-shadow: 0 12px 22px rgba(79,70,229,.24); transition: transform .15s ease, box-shadow .15s ease, filter .15s ease; white-space: nowrap; flex: 0 0 auto; }
+      button.primary:hover { transform: translateY(-1px); box-shadow: 0 14px 24px rgba(79,70,229,.28); filter: brightness(1.03); }
       button.primary:hover { transform: translateY(-1px); box-shadow: 0 14px 28px rgba(79,70,229,.28); }
       .chip { display: inline-flex; align-items: center; gap: 8px; background: var(--surface-soft); border: 1px solid var(--border); border-radius: 999px; padding: 10px 14px; color: var(--text-muted); }
       .chip span { font-weight: 600; color: #0f172a; }
@@ -116,22 +118,47 @@
       }
 
       @media (max-width: 720px) {
-        .page-shell { width: min(100% - 12px, 1200px); }
-        .brand-bar { margin: 0 -8px 18px; padding: 8px 10px; gap: 8px; }
+        .brand-bar {
+          display: flex;
+          flex-direction: column;
+          align-items: stretch;
+          gap: 8px;
+          margin: 0 -8px 18px;
+          padding: 8px 10px 10px;
+          border-radius: 18px;
+          background: linear-gradient(180deg, rgba(255,255,255,.98), rgba(244,247,255,.96));
+          box-shadow: 0 16px 32px rgba(79,70,229,.08), inset 0 1px 0 rgba(255,255,255,.9);
+        }
         .brand-site { min-width: 0; }
         .brand-title { font-size: clamp(1.05rem, 5vw, 1.5rem); }
-        .top-controls { width: 100%; gap: 6px; -webkit-overflow-scrolling: touch; }
-        select, input[type="search"] { padding: 8px 10px; font-size: .8rem; }
-        select { min-width: 88px; }
-        input[type="search"] { min-width: 112px; max-width: 180px; }
-        button.primary { padding: 8px 14px; font-size: .82rem; }
+        .top-controls {
+          width: 100%;
+          gap: 5px;
+          padding: 2px 0;
+        }
+        select, input[type="search"] {
+          padding: 8px 8px;
+          font-size: .7rem;
+          border-radius: 14px;
+          box-shadow: inset 0 1px 1px rgba(15,23,42,.03);
+        }
+        select { flex-basis: 24%; }
+        input[type="search"] { flex-basis: 34%; }
+        button.primary {
+          padding: 8px 10px;
+          font-size: .7rem;
+          border-radius: 14px;
+          box-shadow: 0 8px 18px rgba(79,70,229,.22);
+        }
       }
 
       @media (max-width: 420px) {
-        .brand-title { font-size: 1.25rem; }
-        .top-controls { justify-content: flex-start; }
-        select { min-width: 82px; }
-        input[type="search"] { min-width: 92px; max-width: 140px; }
+        .brand-title { font-size: 1.15rem; }
+        .top-controls { gap: 4px; }
+        select, input[type="search"] { font-size: .66rem; }
+        select { flex-basis: 22%; }
+        input[type="search"] { flex-basis: 30%; }
+        button.primary { padding: 8px 8px; }
       }
     </style>
   </head>

@@ -1,34 +1,57 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "UFP Technologies executive chairman Bailly sells $4.1m in shares",
-      "description": null,
-      "link": "https://in.investing.com/news/stock-market-news/ufp-technologies-executive-chairman-bailly-sells-41m-in-shares-93CH-5558662",
-      "source": "Investing India",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "published": "2026-08-16 00:32:08",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Anthropic\u2019s Stunning $11.5 Billion Quarter Signals AI\u2019s Arrival as Big Business",
-      "description": "Anthropic reported over $11.5 billion in Q2 2026 revenue, a 14x jump from the prior year, while posting positive adjusted operating income for the first time. The surge, fueled by enterprise adoption of Claude coding tools, aligns with its $47 billion run-rate and massive funding rounds. This marks a pivotal shift for the AI industry from heavy losses to scalable profits.",
-      "link": "https://www.webpronews.com/anthropics-stunning-11-5-billion-quarter-signals-ais-arrival-as-big-business/",
-      "source": "Webpronews",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/08/article-23610-1786829018.jpeg",
-      "published": "2026-08-16 00:32:05",
+      "title": "Tata\u2019s power struggle exposes a governance fault line",
+      "description": "Tata Sons\u2019 leadership deadlock over N. Chandrasekaran exposes deep governance fault lines between Tata Trusts and professional management.",
+      "link": "https://gulfnews.com/opinion/op-eds/tatas-power-struggle-exposes-a-governance-fault-line-1.500641181",
+      "source": "Gulf News",
+      "image": "https://media.assettype.com/gulfnews/2026-08-12/p845m7ce/202608123901309.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-08-16 01:28:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "BMW AVTODOM Vernadsky and BMW AVTODOM MKAD named best service centers according to 2GIS users",
+      "description": "(MENAFN - Abtodom) BMW dealership AVTODOM Vernadsky received the prestigious 2GIS award of the Best Auto Service Center in the Troparevo-Nikulino District for 2026. BMW dealership AVTODOM MKAD was ...",
+      "link": "https://menafn.com/1111547916/BMW-AVTODOM-Vernadsky-and-BMW-AVTODOM-MKAD-named-best-service-centers-according-to-2GIS-users",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-16 01:27:46",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "qatar",
+        "saudi arabia",
+        "india",
+        "united arab emirates",
+        "pakistan",
+        "egypt",
+        "bahrain",
+        "jordan",
+        "kuwait"
+      ]
+    },
+    {
+      "title": "Anthropic Revenue Surges to More Than $11.5 Billion as AI Firm Positions for Mega IPO",
+      "description": "Anthropic\u2019s revenue surged more than 14-fold in the second quarter from a year earlier, underscoring the rapid commercial adoption of its Claude artificial intelligence models as the company prepares investors for a potential blockbuster initial public offering. The AI company generated preliminary revenue of more than $11.5 billion in the quarter, compared with $787 million [...] The post Anthropic Revenue Surges to More Than $11.5 Billion as AI Firm Positions for Mega IPO appeared first on Tekedia .",
+      "link": "https://www.tekedia.com/anthropic-revenue-surges-to-more-than-11-5-billion-as-ai-firm-positions-for-mega-ipo/",
+      "source": "Tekedia",
+      "image": "https://www.tekedia.com/wp-content/uploads/2026/04/dario-anthropic-CEO.jpg",
+      "published": "2026-08-16 01:27:20",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
       ]
     }
   ]

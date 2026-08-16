@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Dialysis services commence at Lima Regional Hospital",
+      "description": "Residents across Region Two (Pomeroon-Supenaam), who require dialysis treatment, will no longer have to travel to receive the life-saving service as the Lima Regional Hospital rolls out dialysis services. There are approximately 12 patients in the region who require this treatment. Previously, they had to travel to Regions Three and Four to access dialysis. The commencement [...] The post Dialysis services commence at Lima Regional Hospital appeared first on INews Guyana .",
+      "link": "https://inewsguyana.com/dialysis-services-commence-at-lima-regional-hospital/",
+      "source": "Inews Guyana",
+      "image": "https://i0.wp.com/inewsguyana.com/wp-content/uploads/2026/08/Dialysis-Region-2.jpg?fit=1600%2C1200&ssl=1",
+      "published": "2026-08-15 16:32:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "guyana"
+      ]
+    },
+    {
+      "title": "Can you get flesh-eating bacteria from eating seafood or oysters?",
+      "description": "Dr. William Schaffner said people with liver disease or who are immunocompromised should avoid eating raw oysters.",
+      "link": "https://www.fox21news.com/news/can-you-get-flesh-eating-bacteria-from-eating-seafood-or-oysters/",
+      "source": "Fox21 News Colorado",
+      "image": "https://www.fox21news.com/wp-content/uploads/sites/37/2026/08/GettyImages-2191218813-e1773140888184.jpg?w=900",
+      "published": "2026-08-15 16:31:58",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "DCA raids med shops for violations over sale of weight-loss drugs",
+      "description": "DCA raids med shops for violations over sale of weight-loss drugs",
+      "link": "https://timesofindia.indiatimes.com/city/hyderabad/dca-raids-med-shops-for-violations-over-sale-of-weight-loss-drugs/articleshow/133265725.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-47529300/47529300.jpg",
+      "published": "2026-08-15 16:31:54",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

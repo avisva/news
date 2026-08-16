@@ -1,48 +1,79 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "What is Penn State football\u2019s culture like with summer winding down? Hey, Bob!",
-      "description": "Penn State\u2019s season opener against Marshall at Beaver Stadium is less than three weeks away.",
-      "link": "https://www.dailyitem.com/ap/sports/what-is-penn-state-football-s-culture-like-with-summer-winding-down-hey-bob/article_60dc58af-acde-54ca-8b29-9ef7848f6421.html",
-      "source": "Daily Item",
-      "image": null,
-      "published": "2026-08-16 10:16:56",
+      "title": "Babovich rides to victory in Tour of Belarus",
+      "description": "The winners and prize-winners of the Tour of Belarus, the national open road cycling multi-stage race for men, have been named.",
+      "link": "https://eng.belta.by/sport/view/babovich-rides-to-victory-in-tour-of-belarus-184652-2026/",
+      "source": "\u0411\u0435\u043b\u0442\u0430",
+      "image": "https://eng.belta.by/images/storage/news/with_archive/2026/000028_1786877058_184652_big.png",
+      "published": "2026-08-16 11:16:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "belarus"
+      ]
+    },
+    {
+      "title": "UPDATED: Number of people killed, four injured following Kildare motorway collision",
+      "description": null,
+      "link": "https://www.kildare-nationalist.ie/news/updated-number-of-people-killed-four-injured-following-kildare-motorway-collision_arid-108469.html",
+      "source": "Kildare Nationalist",
+      "image": "https://www.kildare-nationalist.ie/cms_media/module_img/7728/3864369_2_articledetail_M9_Collision1.jpg",
+      "published": "2026-08-16 11:16:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "\u2018Stick to commentary\u2019: Kris Srikkanth rejects World Cup-winning captain for CSK head coach role",
+      "description": "Former India batter Kris Srikkanth has urged Chennai Super Kings to not hire England\u2019s former World Cup-winning captain as their new head coach after Stephen Fleming.",
+      "link": "https://www.news9live.com/sports/cricket-news/stick-to-commentary-kris-srikkanth-rejects-world-cup-winning-captain-for-csk-head-coach-role-2999946",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/CSK-vs-MI-IPL-2026.png",
+      "published": "2026-08-16 11:16:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Man arrested, athletes stuck and medal ceremonies delayed in armed police operation at European Championships",
+      "description": "A huge security operation involving armed police meant some athletes did not get home until gone midnight on Sunday",
+      "link": "https://sports.yahoo.com/articles/man-arrested-athletes-stuck-medal-111550346.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/d4b240b83123dd1dc95823349fd5216bee4db93f0f107c53c44df0bdd5ecd4ba/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F8b25076946191203eb464159ebad5552.jpg",
+      "published": "2026-08-16 11:15:50",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Despite lingering back issue, SF Giants\u2019 Adames hopes to avoid IL stint",
+      "description": "Willy Adames hasn\u2019t played since Wednesday due to a mild low back strain",
+      "link": "https://www.pressdemocrat.com/2026/08/16/despite-lingering-back-issue-sf-giants-adames-hopes-to-avoid-il-stint/",
+      "source": "The Press Democrat",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/BNG-L-GIANTS-0810-13.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-16 11:15:49",
       "category": [
         "sports",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "How to watch Red Sox vs. Pirates: TV channel and streaming options for August 16",
-      "description": "Find out how to watch the Boston Red Sox play the Pittsburgh Pirates, with time, TV channel and streaming information.",
-      "link": "https://www.nytimes.com/athletic/7516549/2026/08/16/red-sox-vs-pirates-stream-how-to-watch-aug-16/",
-      "source": "Theathleticuk",
-      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/08/16061628/afXkXi5.jpg?width=1200&height=675&fit=cover",
-      "published": "2026-08-16 10:16:28",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
-      "description": "More than 900 flights, or about 40% of those expected, were cancelled in Shanghai\u2019s Hongqiao and Pudong airports after about 1,300 were canceled the day before, according to Shanghai Airport Group.",
-      "link": "https://ca.news.yahoo.com/hundreds-more-flights-cancelled-tropical-041413665.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/e96c70990b66e98fe25a5e790f86f3d11b8f44a1e8ca5f18d2be17978fc4e59f/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_ca_videos_207%2F6a2f54dab3142350be62ad0dbf2f0831.jpg",
-      "published": "2026-08-16 10:16:27",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
       ]
     }
   ]

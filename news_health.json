@@ -1,5 +1,43 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Maharashtra deputy CM Eknath Shinde 'makes sure to work out for 60 minutes every day': Treadmill, weight training and...",
+      "description": "Maharashtra deputy chief minister Eknath Shinde, who is in his 60s, maintains a disciplined daily fitness routine to power through gruelling schedules.",
+      "link": "https://www.hindustantimes.com/lifestyle/health/maharashtra-deputy-cm-eknath-shinde-workout-60-minutes-every-day-fitness-routine-treadmill-weight-training-pilates-yoga-101786851890607.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/16/1600x900/logo/PTI07-15-2026-000248A-0_1786852345550_1786852368158_3892d884-f764-4d57-8058-e31079eabc18.jpg",
+      "published": "2026-08-16 04:19:56",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Indonesia Quake: Thousands Evacuate After 7.7-Tremor Leaves At Least 51 Dead",
+      "description": "(MENAFN - Khaleej Times) Around 5,000 people have been evacuated after a magnitude-7.7 earthquake smashed an area in eastern Indonesia, killing at least 51, blocking roads and causing landslides, ...",
+      "link": "https://menafn.com/1111548365/Indonesia-Quake-Thousands-Evacuate-After-77-Tremor-Leaves-At-Least-51-Dead",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-16 04:19:29",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "pakistan",
+        "bahrain",
+        "qatar",
+        "india",
+        "egypt",
+        "saudi arabia",
+        "united arab emirates",
+        "jordan",
+        "kuwait"
+      ]
+    }
+  ]
 }

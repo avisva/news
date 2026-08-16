@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Battersea Park four day festival series returns for August Bank Holiday",
+      "description": "A four-day music festival where you can picnic whilst listening to classical renditions of movies and musicals returns to Battersea Park in August. Battersea Park in Concert is back from Friday 28th to Monday 31st August for another long summer weekend of picnic concerts, live performances and more. Guests are welcome to bring their own food, [...]",
+      "link": "https://southwarknews.co.uk/news/community/battersea-park-four-day-festival-series-returns-for-august-bank-holiday/",
+      "source": "Southwark News",
+      "image": "https://southwarknews.co.uk/wp-content/uploads/2026/08/Battersea-Park-in-Concert-_-Image-6-scaled.jpg",
+      "published": "2026-08-15 13:08:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Former Naughty Dog designer: Uncharted 1 remake makes no sense, want a new Drake prequel instead",
+      "description": "Former Naughty Dog designer Benson Russell argues that remaking Uncharted: Drake\u2019s Fortune is unnecessary because the original remains accessible on modern consoles and a major rewrite could undermine its identity.",
+      "link": "https://www.notebookcheck.net/Former-Naughty-Dog-designer-Uncharted-1-remake-makes-no-sense-want-a-new-Drake-prequel-instead.1369396.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nathan-Drake-from-Uncharted-A-Thiefs-End-Image-Source-Steam-Community-Screenshots.jpg.jpeg",
+      "published": "2026-08-15 13:08:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The K-W Little Theatre brings \u2018New Works Festival\u2019 into region",
+      "description": "The Kitchener-Waterloo Little Theatre (KWLT) is back performing at their black box theatre in Waterloo. After making its debut in 2024, now the New Works Festival is in it\u2019s third year of action. Since the festival began on Aug. 14, eight fully staged plays will be performed over the 9 day event. In a news [...] The post The K-W Little Theatre brings \u2018New Works Festival\u2019 into region appeared first on CityNews Kitchener .",
+      "link": "https://kitchener.citynews.ca/2026/08/15/the-k-w-little-theatre-brings-new-works-festival-into-region/",
+      "source": "Kitchener News",
+      "image": "https://kitchener.citynews.ca/wp-content/blogs.dir/sites/3/2026/08/15/Screenshot-2026-08-15-090234-e1786799000784.png",
+      "published": "2026-08-15 13:07:54",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

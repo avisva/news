@@ -1,20 +1,52 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "USS Abraham Lincoln is returning home, Acting Navy Secretary says",
-      "description": "Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier\u2019s long deployment has come under scrutiny over reported harsh conditions the sailors onboard have worked under.",
-      "link": "https://www.kxan.com/news/national-news/uss-abraham-lincoln-is-returning-home-acting-navy-secretary-says/",
-      "source": "Kxan",
-      "image": "https://www.kxan.com/wp-content/uploads/sites/40/2026/08/USS-Abraham_081426_Mitchell_AP.jpg?w=900",
-      "published": "2026-08-15 13:07:45",
+      "title": "6.5 magnitude earthquake strikes Indonesia hours after 7.7 quake kills 38",
+      "description": "The head of the Maumere Search and Rescue Agency, Fathur Rahman, said rescuers continued searching for two villagers believed to be buried under mud following a landslide triggered by the earthquake.",
+      "link": "https://newsroompost.com/world/6-5-magnitude-earthquake-strikes-indonesia-hours-after-7-7-quake-kills-38/5359613.html",
+      "source": "Newsroompost",
+      "image": "https://newsroompost.com/wp-content/uploads/2026/08/Indonesia-Earthquake.jpg",
+      "published": "2026-08-15 14:55:53",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Singapore criminalizes AI-generated abuse images",
+      "description": "SINGAPORE - Singapore authorities prepare to enforce legislation that goes into effect on Monday, protecting citizens from online sexual abuse including banning the use of artificial intelligence to create explicit images without consent.",
+      "link": "https://www.gmanetwork.com/news/scitech/technology/998684/singapore-ai/story/",
+      "source": "Gma News Online",
+      "image": "https://images.gmanews.tv/webpics/2026/07/AI_acronym_2026_07_23_18_54_38.JPG",
+      "published": "2026-08-15 14:55:36",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Epic Games vs Apple -- The continuing six-year App Store saga",
+      "description": "The Epic Games \"Fortnite\" versus Apple's AppStore antitrust trial has completed its last week. Here's what you need to know about the saga, with closing arguments left to go. Between Epic CEO Tim Sweeney's ongoing complaints, the trial, Apple's lies, and the Supreme Court, the Epic vs. Apple App Store lawsuit continues to roll on years later. Here's all you need to know about the long-running courtroom drama, updated on August 15, 2026. Within the space of a few weeks in 2020, a disagreement between the ambitions of Epic Games and the intention to maintain the App Store status quo by Apple courted considerable controversy . The affair commenced with little warning to consumers but quickly led to international interest as the battle sought to change one of the fundamental elements of the App Store: how much Apple earns. Apple's dominance has previously led to an antitrust probe by the U.S. Justice Department into the App Store's fees and policies. Still, the disagreement between Apple and Epic was being made more public and directly affected younger customers. Continue Reading on AppleInsider | Discuss on our Forums",
+      "link": "https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far",
+      "source": "Apple Insider",
+      "image": "https://photos5.appleinsider.com/gallery/37289-86123-37977-72326-201009-Fortnite-xl-xl.jpg",
+      "published": "2026-08-15 14:55:34",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore",
+        "canada",
+        "united states of america",
+        "united kingdom",
+        "india",
+        "australia"
       ]
     }
   ]

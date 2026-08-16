@@ -1,33 +1,65 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Joshua Ba\u0301ez first player to homer in first 3 at-bats in the majors, leads Cardinals past Cubs 8-4",
-      "description": null,
-      "link": "https://www.wsbradio.com/sports/joshua-bez-first/EWCLBTMAFM42VED7OJVFUY5WQQ/",
-      "source": "95.5 Wsb",
-      "image": "https://www.wsbradio.com/resizer/v2/7WHEK6MJJA745LPPBHWWRPPZXM.jpg?auth=82c3683de1b05be61e0e46a92497b8a387c1544a5aedfa8cb9f2c37d840e0120&smart=true&width=5568&height=3712",
-      "published": "2026-08-15 21:22:48",
+      "title": "Thousands line up for Wheel of Fortune auditions in Rhode Island",
+      "description": "If you missed your chance to audition today for Wheel of Fortune, don't worry! Auditions will be held Sunday August 16 in Lincoln, Rhode Island.",
+      "link": "https://www.cbsnews.com/boston/video/thousands-line-up-for-wheel-of-fortune-auditions-in-rhode-island/",
+      "source": "Cbs Boston",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/15/3cdd307d-495c-4bf0-9535-859ba88a1a03/thumbnail/1024x576/0d4471f118548f1bdb9f9922cde0f274/025ef5334a0d8a0b1ea2b7405c8d20d0.jpg",
+      "published": "2026-08-15 22:20:00",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "TALK OF THE TOWN: Flingo Starr! What made Barry Keoghan throw a tantrum on The Beatles set?",
-      "description": "He might be playing the most laid-back Beatle, Ringo Starr, but Barry Keoghan's latest on-set tantrum has left the crew praying he'll learn to Let It Be sooner rather than later.",
-      "link": "https://www.dailymail.com/tvshowbiz/article-16055309/TALK-TOWN-Barry-Keoghan-tantrum-Beatles-set.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/15/21/110659661-0-image-a-19_1786824980569.jpg",
-      "published": "2026-08-15 21:22:26",
+      "title": "Shinnston's Party on the Green celebrates fifth year amid overcast skies",
+      "description": "Shinnston band 3 Teez performs a cover of \"8576309/Jenny\" by Tommy Tutone.",
+      "link": "https://www.wvnews.com/theet/news/shinnstons-party-on-the-green-celebrates-fifth-year-amid-overcast-skies/article_94b33fce-0ce7-4caa-9b1e-b13936e0c54c.html",
+      "source": "Wv News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/2/d7/2d7a092e-c6e5-4c03-b6da-d91f94c6713b/6a80df7c920d5.image.jpg?resize=1396%2C785",
+      "published": "2026-08-15 22:20:00",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Charlie Hunnam's Ed Gein Transformation: Platinum Silicone Chemistry and 30-Lb Fast",
+      "description": "Charlie Hunnam Ed Gein transformation for Netflix's Emmy-nominated Monster series required platinum-cure silicone prosthetics, a 30-lb medically supervised fast, and vocal motor retraining -- three scientific disciplines that together reveal real materials chemistry and metabolic biology inside an acclaimed performance.",
+      "link": "https://www.techtimes.com/articles/324637/20260815/charlie-hunnams-ed-gein-transformation-platinum-silicone-chemistry-30-lb-fast.htm",
+      "source": "Techtimes",
+      "image": "https://d.techtimes.com/en/full/472919/monster.jpg",
+      "published": "2026-08-15 22:19:38",
+      "category": [
+        "entertainment",
+        "top"
       ],
       "country": [
         "united kingdom"
+      ]
+    },
+    {
+      "title": "HBKU students explore World Cup legacy in Canada through Years of Culture",
+      "description": "Tribune News NetworkToronto and DohaGraduate students from the Sport and Entertainment Management programme at Hamad Bin Khalifa University\u2019s (HBKU) School of Economics and Managem...",
+      "link": "https://www.qatar-tribune.com/article/248847/nation/hbku-students-explore-world-cup-legacy-in-canada-through-years-of-culture",
+      "source": "Qatar Tribune",
+      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/08/16/381795.jpg",
+      "published": "2026-08-15 22:19:34",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "qatar"
       ]
     }
   ]

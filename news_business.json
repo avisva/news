@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
+      "description": "Autonomous driving might be the biggest financial opportunity in Uber's history.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-just-delivered-fantastic-222000993.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/motleyfool.com/c210e95b42fbdaf5e36c941ee53a2b28.jpg",
+      "published": "2026-08-15 22:20:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Global finance looks like a 'giant Jenga tower' propped up by a Japanese yen that's in deep trouble - Fortune",
+      "description": "Global finance looks like a 'giant Jenga tower' propped up by a Japanese yen that's in deep trouble Fortune Why Japan Is Struggling to Stop the Yen\u2019s Decline The New York Times Traders are spoiling for a fight over the yen Financial Times Japanese Drama Is No Sideshow for U.S. Markets wsj.com Carry Traders Are Exploiting Intervention to Rebuild Yen Shorts Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmtNdlpDSU8zTlhDd1ZIQTFNXzM5TURFQjFxbDVqYll6X1BBaG1kRWdBRExFYTlPZlNCWTZKTzF2cHYtV0RlU2FydG9kN0ZaWTNrQmhESEMwMjlQcnd5Qm5iZEZjOGRQZ0duY0ZjZlNLSzBWMUpfN3lDTnl4S3hHWHBzZXVpQmF1cmhhNUVpMjZGZDRrdm5iZUxoOXBxeGhOTk9UNFlzYUVBTUxubjdsWVIxRjduVkNmSVp3?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-15 22:20:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "LuLu\u2019s India Utsav strengthens Qatar-India trade ties",
+      "description": "Tribune News Network Doha Leading retail brand LuLu Hypermarket has launched \u201cIndia Utsav 2026\u201d, a special festival commemorating India\u2019s 80th Independence Day and offering shopper...",
+      "link": "https://www.qatar-tribune.com/article/248903/business/lulus-india-utsav-strengthens-qatar-india-trade-ties",
+      "source": "Qatar Tribune",
+      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/08/16/381886.jpeg",
+      "published": "2026-08-15 22:19:34",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "qatar"
+      ]
+    }
+  ]
 }

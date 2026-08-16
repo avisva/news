@@ -1,35 +1,64 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "India PM Narendra Modi shares morning routine with peacocks and cows",
-      "description": "Watch PM Narendra Modi\u2019s peaceful morning ritual as he feeds peacocks and indigenous cows at 7 Lok Kalyan Marg ahead of his Independence Day address.",
-      "link": "https://gulfnews.com/world/offbeat/india-pm-narendra-modi-shares-morning-routine-with-peacocks-and-cows-1.500642573",
-      "source": "Gulf News",
-      "image": "https://media.assettype.com/gulfnews/2026-08-16/2u0exgdg/Modi.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-08-16 08:17:56",
+      "title": "CENTCOM Commander Visits Six Countries During Middle East Tour",
+      "description": "The U.S. military has announced that General Brad Cooper, commander of U.S. Central Command (CENTCOM), visited six countries during a 10-day trip to the Middle East. CENTCOM said early Sunday, August 16, in a post on X that Cooper also visited a U.S. Navy aircraft carrier in the Arabian Sea. CENTCOM said Cooper met with [...] The post CENTCOM Commander Visits Six Countries During Middle East Tour appeared first on Hasht-e Subh .",
+      "link": "https://8am.media/eng/centcom-commander-visits-six-countries-during-middle-east-tour/",
+      "source": "Hasht-e Subh Daily",
+      "image": "https://8am.media/eng/wp-content/uploads/2026/08/Brad-Cooper.png",
+      "published": "2026-08-16 09:15:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "afghanistan"
+      ]
+    },
+    {
+      "title": "Amit Shah slams Sonia Gandhi over Vande Mataram row, says 'sin won't be forgiven'",
+      "description": null,
+      "link": "https://www.moneycontrol.com/news/india/amit-shah-slams-sonia-gandhi-over-vande-mataram-row-says-sin-won-t-be-forgiven-14006656.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260414100602_amitshahpti.png",
+      "published": "2026-08-16 09:15:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DAP votes to remain in Anwar-led unity government",
+      "description": "DAP delegates at the 2026 National Congress voted 1,857 to 242 in favor of remaining in Prime Minister Anwar Ibrahim's unity government despite political pressure.",
+      "link": "https://thesun.my/news/malaysia-news/politics/dap-votes-to-remain-in-anwar-led-unity-government/",
+      "source": "Thesun",
+      "image": "https://thesun.my/wp-content/uploads/2026/08/DAPbosses-ber.webp",
+      "published": "2026-08-16 09:15:57",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Democrats Disagree over Abolishing or Reforming ICE at DNC Meeting",
+      "description": "Democrats on Saturday approved dueling messages on whether US Immigration and Customs Enforcement should be abolished or reformed, reflecting sharp opposition to President Donald Trump's crackdown but revealing disagreement in the party ahead of the midterms. The Democratic National Committee, gathered for a summer meeting, also signed off on a raft of policy positions, including one that calls for \u201cconcrete reforms\u201d of ICE and another for abolishing the agency that's been at the center of several fatal encounters.",
+      "link": "https://english.aawsat.com/node/5307599",
+      "source": "Al-sharq Al-awsat",
+      "image": "https://static.srpcdigital.com/styles/414x217/public/2026-08/1722313_0.jpeg.webp?VersionId=2ssTpckMsp79vvOhU0oKBgr36y7yz4fh",
+      "published": "2026-08-16 09:15:31",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "united arab emirates"
-      ]
-    },
-    {
-      "title": "S\u030cPIRIC\u0301: NEW TECHNOLOGIES AND OLD MISCONCEPTIONS",
-      "description": "SARAJEVO, AUGUST 16 /SRNA/ \u2013 Nikola S\u030cpiric\u0301, Deputy Speaker of the House of Peoples of the BiH Parliamentary Assembly, has accused BiH\u2019s Central Election Commission /CEC/ of creating complete confusion by introducing new technologies while repeating old misconceptions on the eve of the election campaign. \"The opposition is under the illusion that it will win the election without a program or vision, while new technologies are being used to somehow predetermine the election result and make them the winners. There may be something new in the new technologies, but there is nothing new in the opposition. New technology, old opposition. The only thing that unites this opposition is defeat,\" S\u030cpiric\u0301 told SRNA. He said that voters were not at the center of the disorganized electoral process, nor was there a focus on making it easier for them to exercise their democratic right. \"Through a complicated voting process and changes whose legality is questionable, they are creating suspicion that scanners are being used to favor those who never win elections. For SNSD, voters remain the only priority, along with the program we have been implementing for 20 years in line with their wishes and the interests of Republika Srpska,\" S\u030cpiric\u0301 said. He said he expected the adventure involving new technologies to further complicate the situation after the election, attributing this to the CEC, which, he said, obviously does not know what it is doing. /end/sj/bb/nm",
-      "link": "https://srna.rs/news/1421061",
-      "source": "Srna | Novinska Agencija Republike Srpske",
-      "image": null,
-      "published": "2026-08-16 08:17:48",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "bosnia and herzegovina"
       ]
     }
   ]

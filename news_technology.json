@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "National Cyber Security Academy introduces students to cybersecurity careers",
+      "description": "DOHA: The National Cyber Security Agency, represented by the National Cyber Security Academy, participated in the eighth edition of the 'My Career \u2013 My Future'job-shadowing program...",
+      "link": "https://www.qatar-tribune.com/article/248981/latest-news/national-cyber-security-academy-introduces-students-to-cybersecurity-careers",
+      "source": "Qatar Tribune",
+      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/08/16/382001.jpg",
+      "published": "2026-08-16 08:18:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "qatar"
+      ]
+    }
+  ]
 }

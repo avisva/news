@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Two Air India Group pilots test non-negative in initial drug screening",
+      "description": "On August 13, Air India and Air India Express started mandatory psychoactive substance testing of all their pilots, expanding checks beyond regulatory requirements",
+      "link": "https://www.business-standard.com/industry/aviation/two-air-india-group-pilots-test-non-negative-in-initial-drug-screening-126081700617_1.html",
+      "source": "Business Standard",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/27/full/1724742744-3171.jpg",
+      "published": "2026-08-17 09:21:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "3 GWh Supernode battery energy project achieves key milestone to accelerate energy transition",
+      "description": "With planned capacity expected to exceed 3 GWh, Supernode is supported by CATL as its core energy storage system supplier for all three stages.",
+      "link": "https://interestingengineering.com/energy/supernode-battery-energy-project-energy-transition",
+      "source": "Interesting Engineering",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/battery-storage.jpg",
+      "published": "2026-08-17 09:21:51",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

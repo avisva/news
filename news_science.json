@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "In the knowledge age, understanding remains strangely scarce",
+      "description": "Despite unprecedented access to information and massive global investment in specialized education, humanity faces a critical democratic dilemma where broad, systemic understanding of the world remains dangerously scarce",
+      "link": "https://www.ucanews.com/news/in-the-knowledge-age-understanding-remains-strangely-scarce/114828",
+      "source": "Ucanews.com",
+      "image": "https://i.ucanews.com/ucanews/uploads/2026/08/in-the-knowledge-age-understanding-remains-strangely-scarce-6a82d24133d93_600.jpeg",
+      "published": "2026-08-17 09:21:58",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

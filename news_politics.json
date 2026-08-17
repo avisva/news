@@ -1,35 +1,21 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Trump's candid admission about 'irreplacable' Karoline Leavitt as White House scrambles to fill role",
-      "description": "President Donald Trump joked that he was \"very concerned\" about White House Press Secretary Karoline Leavitt liking her children more than he did, as she prepares to leave her role in the administration",
-      "link": "https://www.themirror.com/news/politics/trumps-candid-admission-irreplacable-karoline-1984895",
-      "source": "The Mirror Us",
-      "image": "https://i2-prod.themirror.com/news/politics/article1984894.ece/ALTERNATES/s615/0_FILES-US-POLITICS-BRIEFING-LEAVITT.jpg",
-      "published": "2026-08-16 20:38:54",
+      "title": "NSW Gun Laws Tighten as Massive Buyback Looms",
+      "description": "Farmers and recreational shooters face new firearm caps as NSW prepares to remove up to 274,000 guns from circulation",
+      "link": "https://www.hawkesburygazette.com/nsw-gun-laws-tighten-as-massive-buyback-looms/",
+      "source": "Hawkesbury Gazette",
+      "image": "https://storage.ghost.io/c/d7/22/d722ac4d-ce99-434a-8784-bf46852ec263/content/images/2026/08/Chris-Mins-gun-buy-back.jpeg",
+      "published": "2026-08-16 21:36:46",
       "category": [
         "politics",
-        "top"
+        "top",
+        "crime"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln - The New York Times",
-      "description": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln The New York Times CENTCOM commander touts USS Abraham Lincoln mental health record after more than 260 days without port call Fox News Iran War Commander Visits the USS Abraham Lincoln WSJ Families of US sailors denounce Trump and Hegseth for \u2018dismissing their experiences and calling them liars\u2019 The Guardian US pulls out last aircraft carrier in Asia Inquirer.net",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0tOV2pQTFhJRmJNekpVdmxYOEdRYVd2bDBWM2dDVktacHNJQ2h6cENVWS1XNVZIaHRoeXZGc242cXQyNjZiNmFoNFBSX3dRZkZGMkF5TUhYNm5OS3Zyb042dWlsb2JOdnByb3lRQThCUkFoWjlyX0NxYXB3aEJwRkFR?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-16 20:38:42",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "australia"
       ]
     }
   ]

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Don\u2019t just adapt but lead in determining use of technology to reshape legal system: CJI to NLUs",
+      "description": "CJI Surya Kant urges national law universities to lead in legal technology, emphasizing responsible AI use and academic integrity.",
+      "link": "https://www.thehindu.com/news/national/dont-just-adapt-but-lead-in-determining-use-of-technology-to-reshape-legal-system-cji-to-nlus/article71353948.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/3zguvh/article69887913.ece/alternates/FREE_1200/PTI03_04_2025_000497A.jpg",
+      "published": "2026-08-16 21:36:42",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Colombo port under threat? Galathea is the warning shot",
+      "description": "Colombo has the port. India has the cargo. With nearly, Sri Lanka\u2019s record-breaking port performance hides a strategic vulnerability it can no longer ignore. 45% of Colombo\u2019s transshipment business linked to Indian cargo and half of Colombo\u2019s transshipment business is linked to India.",
+      "link": "https://www.dailymirror.lk/news-features/Colombo-port-under-threat---Galathea-is-the-warning-shot/131-348230",
+      "source": "Daily Mirror",
+      "image": null,
+      "published": "2026-08-16 21:37:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Reddit just landed in the big leagues",
+      "description": "Wall Street loves a good redemption arc, but it rarely hands one out for free. The market makes companies wait, publicly and sometimes painfully, before admitting they belong. Few companies know that waiting game better than Reddit (RDDT). For two decades, the platform was the internet\u2019s message ...",
+      "link": "https://www.thestreet.com/investing/stocks/reddit-just-landed-in-the-big-leagues",
+      "source": "Thestreet",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQ2NzQ2/germany-us-internet-technology-reddit.jpg?profile=rss",
+      "published": "2026-08-16 21:37:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,137 +1,31 @@
 {
   "status": "success",
-  "totalResults": 16,
+  "totalResults": 13,
   "results": [
     {
-      "title": "Downed trees, flooding cause multiple road closures on Oahu",
-      "description": "Honolulu police reported multiple road closures on Oahu due to high winds, rain and flooding caused by Tropical Storm Lala. >> Punahou Overpass: Honolulu pol...",
-      "link": "https://www.yahoo.com/news/weather-news/articles/downed-trees-flooding-cause-multiple-213700430.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "published": "2026-08-16 21:37:00",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Flash flood warning extended for Oahu as Lala drenches island",
-      "description": "UPDATE: 10 a.m. The National Weather Service has extended a flash flood warning for Oahu until noon as heavy rains pound the windward side of the island. \u201cAt...",
-      "link": "https://www.yahoo.com/news/weather-news/articles/flash-flood-warning-extended-oahu-213700337.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/150afeec82b96c8edfb05d7e98a23e7e5f1e6917dc328e2c1a7c8ecc4d4736fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "published": "2026-08-16 21:37:00",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Arsenal cruise to Community Shield win against disappearing Man City",
-      "description": "Premier League champions Arsenal produced a statement win over rivals Manchester City to lift the 2026 Community Shield in Cardiff.",
-      "link": "https://www.myjoyonline.com/arsenal-cruise-to-community-shield-win-against-disappearing-man-city/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-2097.png",
-      "published": "2026-08-16 21:37:00",
+      "title": "Amy Hunt claims fourth gold of European Championships with 4x100m relay triumph",
+      "description": "The 24-year-old also moved to the outright top of the European Athletics Championships all-time list, for both men and women, with her 11th medal",
+      "link": "https://www.lbc.co.uk/article/amy-hunt-fourth-gold-european-championships-5Hjdg7J_2/",
+      "source": "London Broadcasting Company",
+      "image": "https://images.globalplayer.com/images/835421?crop=16_9&width=1200&signature=naUMGBZ5QsfG-U0J8I5cKwOI_tA=",
+      "published": "2026-08-16 22:28:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "ghana"
+        "united kingdom"
       ]
     },
     {
-      "title": "Colombo port under threat? Galathea is the warning shot",
-      "description": "Colombo has the port. India has the cargo. With nearly, Sri Lanka\u2019s record-breaking port performance hides a strategic vulnerability it can no longer ignore. 45% of Colombo\u2019s transshipment business linked to Indian cargo and half of Colombo\u2019s transshipment business is linked to India.",
-      "link": "https://www.dailymirror.lk/news-features/Colombo-port-under-threat---Galathea-is-the-warning-shot/131-348230",
-      "source": "Daily Mirror",
-      "image": null,
-      "published": "2026-08-16 21:37:00",
+      "title": "Scottie Scheffler back to his dominant self and opens PGA Tour postseason with 8-shot win",
+      "description": null,
+      "link": "https://www.whio.com/sports/scottie-scheffler/UDQUCHOYJU4Q5O6VL2LWW2NFVQ/",
+      "source": "Whio News Center Seven",
+      "image": "https://www.whio.com/resizer/v2/BCQQQYPDUI36ZCYNWTKXB7EL3U.jpg?auth=af716ab50a1de3570eba7873edd9772f15fa17ee041ad793b7630453b3d7b9b3&smart=true&width=3261&height=2174",
+      "published": "2026-08-16 22:27:51",
       "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "sri lanka"
-      ]
-    },
-    {
-      "title": "(Video) Motorcyclist rescues dog from busy Kowloon City road as owner criticised over leash",
-      "description": "A motorcyclist was praised online after stopping traffic to rescue a dog that had run onto a busy road in Kowloon City on Sunday evening, while the dog's owner faced criticism for apparently not using a leash.",
-      "link": "https://www.thestandard.com.hk/news/article/340087/Video-Motorcyclist-rescues-dog-from-busy-Kowloon-City-road-as-owner-criticised-over-leash",
-      "source": "The Standard \u82f1\u6587\u864e\u5831",
-      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/9f64be3a398794894df0d9e678f7437c/2026-08/2026-08-17_3_29_44cover.jpg",
-      "published": "2026-08-16 21:36:47",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "hong kong"
-      ]
-    },
-    {
-      "title": "HKBU hit by ransomware attack, data of nearly 1,800 users compromised",
-      "description": "Hong Kong Baptist University has been targeted by a ransomware group identified as \"TheGentlemen\", with data from at least 130 staff accounts and 1,778 user accounts believed to have been accessed.",
-      "link": "https://www.thestandard.com.hk/news/article/340088/HKBU-hit-by-ransomware-attack-data-of-nearly-1800-users-compromised",
-      "source": "The Standard \u82f1\u6587\u864e\u5831",
-      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/60b337719f23485549f0b1494f364645/2026-08/006_2_0.png",
-      "published": "2026-08-16 21:36:47",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "hong kong"
-      ]
-    },
-    {
-      "title": "Cathay Pacific flight to Jakarta returns to HK after suspected engine overheating",
-      "description": "A Cathay Pacific flight bound for Jakarta returned to Hong Kong International Airport on Sunday evening after suspected engine overheating.",
-      "link": "https://www.thestandard.com.hk/news/article/340089/Cathay-Pacific-flight-to-Jakarta-returns-to-HK-after-suspected-engine-overheating",
-      "source": "The Standard \u82f1\u6587\u864e\u5831",
-      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/79c1c1375d531276ffeea90cdc5778ce/2026-08/004_9.png",
-      "published": "2026-08-16 21:36:47",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "hong kong"
-      ]
-    },
-    {
-      "title": "NSW Gun Laws Tighten as Massive Buyback Looms",
-      "description": "Farmers and recreational shooters face new firearm caps as NSW prepares to remove up to 274,000 guns from circulation",
-      "link": "https://www.hawkesburygazette.com/nsw-gun-laws-tighten-as-massive-buyback-looms/",
-      "source": "Hawkesbury Gazette",
-      "image": "https://storage.ghost.io/c/d7/22/d722ac4d-ce99-434a-8784-bf46852ec263/content/images/2026/08/Chris-Mins-gun-buy-back.jpeg",
-      "published": "2026-08-16 21:36:46",
-      "category": [
-        "politics",
-        "top",
-        "crime"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "AEW Collision from Vegas Review: Upsets and Drama",
-      "description": "El Presidente reviews AEW Collision from Vegas featuring Continental Challenge Cup action with upsets and drama. The show features several exciting matches, including Kyle O'Reilly vs. Roderick Strong and Hechicero vs. Brian Cage. Mercedes Mone\u0301's post-match attack on Zayda Steel and Christopher Daniels adds to the drama.",
-      "link": "https://us.headtopics.com/news/aew-collision-from-vegas-review-upsets-and-drama-86692094",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/16/bleedingcool/aew-collision-from-vegas-review-upsets-and-drama-aew-collision-from-vegas-review-upsets-and-drama-34C5735F57487B7A8CA096D78FC78E86.webp",
-      "published": "2026-08-16 21:36:43",
-      "category": [
-        "entertainment",
+        "sports",
         "top"
       ],
       "country": [
@@ -139,12 +33,87 @@
       ]
     },
     {
-      "title": "U.S. men and Canada women win flag football world titles for 2028 Olympics spots",
-      "description": "The U.S. men beat Italy to secure a sixth straight title and the women missed out on a fourth straight title after losing to Canada.",
-      "link": "https://us.headtopics.com/news/u-s-men-and-canada-women-win-flag-football-world-titles-86692090",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/16/nbcla/u-s-men-and-canada-women-win-flag-football-world-t-u-s-men-and-canada-women-win-flag-football-world-t-4B65A68080A5B3982F70299B6F4E7156.webp",
-      "published": "2026-08-16 21:36:43",
+      "title": "Gerrit Cole calls Tommy John a 'trailblazer' who deserves to be in Hall of Fame",
+      "description": "The Yankees ace said Tommy John and the initial surgeon, Dr. Frank Jobe, extended Cole's career and many others.",
+      "link": "https://www.newsday.com/sports/baseball/yankees/gerrit-cole-tommy-john-obh9ygaq",
+      "source": "Newsday",
+      "image": null,
+      "published": "2026-08-16 22:27:47",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ice Box Skating Rink hosts Blades on the Bend in South Bend",
+      "description": "The Ice Box raised money for affordable skating programs and is now registering students for fall learn-to-skate and hockey classes.",
+      "link": "https://www.wndu.com/2026/08/16/ice-box-skating-rink-hosts-blades-bend-south-bend/",
+      "source": "Wndu",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/C7JWTAH4RZBGZMQ6RXDY6KNABM.png?auth=ba104bada375d6d9297593d90bf33ef62d2c99a5e14826beb6bde8871fb616dd&width=1200&height=600&smart=true",
+      "published": "2026-08-16 22:27:46",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018That\u2019s the standard\u2019: Mikel Arteta hails Arsenal\u2019s desire on blue day for Maresca",
+      "description": null,
+      "link": "https://www.bundle.app/en/sports/thats-the-standard-mikel-arteta-hails-arsenals-desire-on-blue-day-for-maresca-F44F277F-25B5-4D6C-943B-4FFF3FA7160F",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/ef78a874-07ce-5843-9d18-c6303150142c.jpg",
+      "published": "2026-08-16 22:27:45",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Las Vegas police investigating man found stabbed in vacant lot near North Eastern Avenue",
+      "description": "Las Vegas police are investigating after a man was found stabbed in a vacant lot Saturday night on Hinkle Drive",
+      "link": "https://www.fox5vegas.com/2026/08/16/las-vegas-police-investigating-man-found-stabbed-vacant-lot-near-north-eastern-avenue/",
+      "source": "Https://www.fox5vegas.com",
+      "image": "https://gray-kvvu-prod.gtv-cdn.com/resizer/v2/F5PVE6MITNEV3NI54C3NOEG3C4.jpg?auth=20f46e05d4da98e5bf8fbe4b0ecf30070ae62e8e38acfbed697ef362c6f4f3c3&width=1200&height=600&smart=true",
+      "published": "2026-08-16 22:27:42",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Thousands without power following strong storms in Western Pennsylvania",
+      "description": null,
+      "link": "https://www.wpxi.com/news/local/thousands-without-power-following-strong-storms-western-pennsylvania/R5OZFK6WSFCDTNOXZHFL6ZGJBM/",
+      "source": "Wpxi News",
+      "image": "https://www.wpxi.com/resizer/v2/X3DHNSUNT5H7RJBBMZHKKZH5XA.jpeg?auth=16fd89fd2919ef9988d2a1e0f061f6f3e3f8f479ac18ce9d63c628956d4091ae&smart=true&width=5463&height=2746",
+      "published": "2026-08-16 22:27:36",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Voice of Praise Worship Center marks 10 years of Mercer County Diaper Run",
+      "description": "Cole Harley-Davidson hosted the Mercer County Diaper Run, a community outreach event that helps children in need.",
+      "link": "https://www.wvva.com/2026/08/16/voice-praise-worship-center-marks-10-years-mercer-county-diaper-run/",
+      "source": "Https://www.wvva.com",
+      "image": "https://gray-wvva-prod.gtv-cdn.com/resizer/v2/FNO6EOPR75DPPLOLK5AO3DSV5E.png?auth=30d7c48752998650dda68772f51c5d6e4f6de643a9e0684aed1d1d193d0a8acc&width=1200&height=600&smart=true",
+      "published": "2026-08-16 22:27:34",
       "category": [
         "top",
         "lifestyle"
@@ -154,59 +123,14 @@
       ]
     },
     {
-      "title": "Aaron Donald officially works out for Rams \u2014 again, Sean McVay shares \u2018behind the scenes\u2019",
-      "description": "The Los Angeles Rams worked out Aaron Donald for the second time this summer. On Sunday, Donald was listed as a player who \u201ctried out\u201d for the team, according to the NFL\u2019s transac...",
-      "link": "https://us.headtopics.com/news/aaron-donald-officially-works-out-for-rams-again-sean-86692106",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/16/nypost/aaron-donald-officially-works-out-for-rams-again-s-aaron-donald-officially-works-out-for-rams-again-s-2BC862EA99D338D6BA1230FB4222209E.webp",
-      "published": "2026-08-16 21:36:43",
+      "title": "Assam eyes 10,000 MW electricity generation, 30K jobs: CM Sarma",
+      "description": "Guwahati, Aug 17 (IANS) Assam Chief Minister Himanta Biswa Sarma has said that investments worth more than Rs 1 lakh crore are being lined up in the state's power sector, with projects expected to generate more than 10,000 MW of electricity and create more than 30,000 jobs. Sarma said on Sunday that the state government is working to remove bottlenecks affecting investment proposals under the Advantage Assam 2.0 initiative and is tracking projects individually to ensure that proposals do not remain stuck in the administrative system. \"Just reviewed the Rs 5 lakh crore investment pipeline from Advantage Assam 2 in 2025. As much as 75 per cent is now at various stages of firming up,\" the Chief Minister said in a post on social media platform X. He added that the focus of the latest review was on identifying and clearing bottlenecks so that investment proposals can move towards implementation. \"No proposal gets lost in the system. We track every single one,\" CM Sarma said. The Chief Minister also chaired a meeting focused specifically on Assam's power projects, which he said represent more than Rs 1 lakh crore in investments and have the potential to generate more than 10,000 MW of power and create more than 30,000 jobs. Sarma said the expansion of the state's power generation capacity is aimed not merely at meeting Assam's growing electricity requirements but at fundamentally changing its position in the country's power sector. \"Today, Assam depends on other states for power. In the next decade, we will reverse this -- become power surplus and supply electricity to the rest of India,\" he added. The proposed investments are expected to play a key role in Assam's longer-term industrialisation strategy, with reliable and adequate power supply being critical for attracting large-scale industries and supporting existing businesses. The Chief Minister's remarks also indicate that the state government is seeking to convert investment commitments announced through Advantage Assam 2.0 into projects on the ground by closely monitoring their progress and addressing regulatory and implementation hurdles. The Rs 5 lakh crore investment pipeline reviewed by the state government includes proposals at different stages of firming up, with around 75 per cent having progressed to various stages, according to CM Sarma. The Assam government is now focusing on faster execution and ensuring that major investment proposals translate into employment, infrastructure and increased economic activity in the state. --IANS tdr/khz",
+      "link": "https://www.thehawk.in/news/india/assam-eyes-10000-mw-electricity-generation-30k-jobs-cm-sarma",
+      "source": "Thehawk",
+      "image": "https://thehawk.sgp1.digitaloceanspaces.com/cb4301c7-7605-4f0b-825f-f8c46f2cb107/202608173907111-2fa7c54e-d514-479f-870e-fed97121ce35.jpg",
+      "published": "2026-08-16 22:27:32",
       "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "UC-Berkeley math prof says she has to teach fractions to calculus students because standards have fallen so far",
-      "description": "In a scathing piece, she described the admissions process as \u201cless like careful evaluation and more like chance\u201d at the prestigious California college.",
-      "link": "https://us.headtopics.com/news/uc-berkeley-math-prof-says-she-has-to-teach-fractions-to-86692102",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/16/nypost/uc-berkeley-math-prof-says-she-has-to-teach-fracti-uc-berkeley-math-prof-says-she-has-to-teach-fracti-136777FACA393A5362562B696075C155.webp",
-      "published": "2026-08-16 21:36:43",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ariana Grande Brings Out Cynthia Erivo for 'Happy Days' and 'For Good' at Eternal Sunshine London Show",
-      "description": "Ariana Grande brought out her 'Wicked' co-star Cynthia Erivo to sing 'Happy Days' and 'For Good' at her Eternal Sunshine London show.",
-      "link": "https://us.headtopics.com/news/ariana-grande-brings-out-cynthia-erivo-for-happy-days-and-86692128",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/16/variety/ariana-grande-brings-out-cynthia-erivo-for-happy-d-ariana-grande-brings-out-cynthia-erivo-for-happy-d-801EE16CCEB9BD2EA09A886B8CD9F5BD.webp",
-      "published": "2026-08-16 21:36:43",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Don\u2019t just adapt but lead in determining use of technology to reshape legal system: CJI to NLUs",
-      "description": "CJI Surya Kant urges national law universities to lead in legal technology, emphasizing responsible AI use and academic integrity.",
-      "link": "https://www.thehindu.com/news/national/dont-just-adapt-but-lead-in-determining-use-of-technology-to-reshape-legal-system-cji-to-nlus/article71353948.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/3zguvh/article69887913.ece/alternates/FREE_1200/PTI03_04_2025_000497A.jpg",
-      "published": "2026-08-16 21:36:42",
-      "category": [
-        "technology",
+        "business",
         "top"
       ],
       "country": [
@@ -214,30 +138,60 @@
       ]
     },
     {
-      "title": "Musetti-Altmaier: highlights Atp Cincinnati",
-      "description": "Buona la prima al Masters 1000 di Cincinnati per Lorenzo Musetti: l'azzurro domina Altmaier 6-4 6-2 con un inizio partita scoppiettante, destinato poi a trasformarsi in semplice gestione. Gli highlights del match.",
-      "link": "https://video.gazzetta.it/tennis/atp/highlights/video-musetti-altmaier-6-4-6-2-highlights-atp-cincinnati/70edfcf4-15b0-4d36-86a5-0e54b96d3xlk",
-      "source": "Esports Gazzetta",
-      "image": "https://dimages2.gazzettaobjects.it/files/image_896_504/uploads/2026/08/16/6a822ba837ddc.png",
-      "published": "2026-08-16 21:36:36",
+      "title": "Ferrari\u2019s Controversial Electric Luce Fetches $40 Million At Auction",
+      "description": "The first production electric Ferrari beats the previous new-car auction record by $14 million and sells for nearly 11 times the strongest comparable VIN 001 charity result.",
+      "link": "https://www.nysun.com/article/ferraris-controversial-electric-luce-fetches-40-million-at-auction",
+      "source": "The New York Sun",
+      "image": "https://wp.nysun.com/wp-content/uploads/2026/08/HN0HE7OWgAAILLe.jpeg",
+      "published": "2026-08-16 22:27:25",
       "category": [
-        "sports",
+        "technology",
         "top"
       ],
       "country": [
-        "italy"
+        "united states of america"
       ]
     },
     {
-      "title": "Fantastic Courses from Lifelong Learning",
-      "description": "Byron Cotter Do you enjoy learning new \u201cstuff\u201d? If so, SaddleBrooke Lifelong Learning is your ticket to a range of exciting courses this coming fall! New courses include: * The First Renegades of Rock and Roll by David Jarvis. David will cover the origins and predecessors of Rock and Roll, which date back to the...",
-      "link": "https://saddlebrookeprogress.com/fantastic-courses-from-lifelong-learning/",
-      "source": "Saddlebrookeprogress",
+      "title": "Lala is again a tropical storm, sending drenching rain and damaging wind across the Hawaiian islands",
+      "description": "Hurricane Lala weakened to a tropical storm on Sunday after its eyewall skirted Hawaii without making landfall. But it continued to punish the state with hurricane-force gusts and pounding rain, reaching a total of nearly three feet in places and sending raging torrents down mountain slopes.",
+      "link": "https://triblive.com/news/world/lala-is-again-a-tropical-storm-sending-drenching-rain-and-damaging-wind-across-the-hawaiian-islands/",
+      "source": "Home | Triblive.com",
+      "image": "https://assets-varnish.triblive.com/2026/08/9853904_web1_9853904-21caa11128ae4a8e8e5f379ba45cc2dc.jpg",
+      "published": "2026-08-16 22:27:23",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Former rich lister\u2019s drink-driving spat with police revealed",
+      "description": "Wealthy property developer John Butterfield got into a Christmas Day spat with a police officer after U-turning before a checkpoint, resulting in a slow speed pursuit.",
+      "link": "https://www.stuff.co.nz/nz-news/361021158/former-rich-listers-drink-driving-spat-police-revealed",
+      "source": "Stuff",
       "image": null,
-      "published": "2026-08-16 21:36:30",
+      "published": "2026-08-16 22:27:21",
       "category": [
         "top",
-        "education"
+        "crime"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Ice Box Skating Rink hosts Blades on the Bend to raise money for hockey & figure skating programs",
+      "description": "The Ice Box raised money for affordable skating programs and is now registering students for fall learn-to-skate and hockey classes.",
+      "link": "https://www.wndu.com/video/2026/08/16/ice-box-skating-rink-hosts-blades-bend-raise-money-hockey-figure-skating-programs/",
+      "source": "Wndu",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F08-16-2026%2Ft_3492f3af7d42458ea594b887139cb378_name_file_1280x720_2000_v3_1_.jpg?auth=3768ff29e8361fde524c824d0aecbb4da01eeb02cbf5b331d6ee46106674d422&width=1920&height=1080&smart=true",
+      "published": "2026-08-16 22:27:19",
+      "category": [
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"

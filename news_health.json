@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Wellness hub\u2019s thoughtful design helps strengthen community health",
+      "description": "SM Foundation has turned over the Barugo Municipal Hospital Wellness Hub in Leyte, a community-centered healthcare facility designed to provide compassionate pediatric and geriatric care while encouraging intergenerational connection.",
+      "link": "https://tribune.net.ph/2026/08/16/wellness-hubs-thoughtful-design-helps-strengthen-community-health",
+      "source": "Daily Tribune",
+      "image": "https://images.assettype.com/tribune/2026-08-16/r96xl6te/wellness-hub2-smfi.JPG?w=1200&auto=format",
+      "published": "2026-08-16 14:55:37",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

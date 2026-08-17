@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Superconducting Qubit Chain Drives Dephasing to Zero Without Error Correction",
+      "description": "Superconducting qubit noise protection takes a new form: a seven-member international team demonstrates theoretically that a qubit chain with alternating XX-YY ultrastrong coupling drives dephasing to exactly zero and halves relaxation, eliminating phase noise at the hardware level without quantum error correction overhead.",
+      "link": "https://www.techtimes.com/articles/324641/20260816/superconducting-qubit-chain-drives-dephasing-zero-without-error-correction.htm",
+      "source": "Techtimes",
+      "image": "https://d.techtimes.com/en/full/472921/quantum-chain.jpg",
+      "published": "2026-08-16 14:55:35",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

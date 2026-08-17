@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Android 17 QPR2 Beta 3 is a surprisingly feature-packed update",
-      "description": "Google is introducing new protections against call-forwarding scams, the Quick Settings layout editor, and lots more.",
-      "link": "https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/",
-      "source": "Androidauthority",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-2-scaled.jpg",
-      "published": "2026-08-17 03:20:50",
+      "title": "How Are BrainChip (ASX:BRN) and NEXTDC (ASX:NXT) Navigating Change?",
+      "description": "BrainChip and NEXTDC remain in focus as commercial adoption shapes Australian artificial-intelligence companies.",
+      "link": "https://kalkinemedia.com/au/stocks/artificial-intelligence/how-are-brainchip-asxbrn-and-nextdc-asxnxt-navigating-change",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2344281447_08_17_2026_04_24_02_229066.jpg",
+      "published": "2026-08-17 04:23:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "australia"
+      ]
+    },
+    {
+      "title": "What Is Putting NEXTDC (ASX:NXT) and WiseTech (ASX:WTC) in Focus?",
+      "description": "NEXTDC and WiseTech remain in focus as commercial adoption shapes Australian artificial-intelligence companies.",
+      "link": "https://kalkinemedia.com/au/stocks/artificial-intelligence/what-is-putting-nextdc-asxnxt-and-wisetech-asxwtc-in-focus",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2344281447_08_17_2026_04_23_56_988010.jpg",
+      "published": "2026-08-17 04:23:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

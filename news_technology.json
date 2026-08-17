@@ -1,66 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "How I Run A/B Tests in a Chrome Extension (Without Re-Releasing to the Store)",
-      "description": null,
-      "link": "https://www.bundle.app/en/technology/how-i-run-ab-tests-in-a-chrome-extension-without-re-releasing-to-the-store-AB9AC7D8-C823-4062-935F-4B23F381B2E7",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/2796f08a-234f-542b-8d2b-5d2e42e4c81e.jpg",
-      "published": "2026-08-16 17:31:28",
+      "title": "Hostel startup Apollyon launches jet UAV from moving car",
+      "description": "Founders of Apollyon Dynamics are fourth yr BTech students",
+      "link": "https://timesofindia.indiatimes.com/city/hyderabad/hostel-startup-apollyon-launches-jet-uav-from-moving-car/articleshow/133281359.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133281358/133281358.jpg",
+      "published": "2026-08-16 18:48:41",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "BACnet/IP: A Packet-Level Study of Objects, Priority Arrays, and Event Services",
-      "description": null,
-      "link": "https://www.bundle.app/en/technology/bacnetip-a-packet-level-study-of-objects-priority-arrays-and-event-services-E5A69333-8398-46DD-ADF6-1B5071B008E4",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/c0cccb86-dfc6-5192-ae6d-997cd6f0090d.jpg",
-      "published": "2026-08-16 17:31:28",
-      "category": [
-        "science",
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Stop Hand-Rolling Chat UIs: Streaming LLM Tokens Into React Native Without the Jank",
-      "description": null,
-      "link": "https://www.bundle.app/en/technology/stop-hand-rolling-chat-uis-streaming-llm-tokens-into-react-native-without-the-jank-A4E14A00-5670-4A55-8300-939B72650831",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/f82cb637-fde8-5503-8aa7-8f886d8e7c3d.jpg",
-      "published": "2026-08-16 17:31:28",
+      "title": "IIM Ranchi Celebrates 80th Independence Day with Focus on Human Capability, Innovation and Nation Building",
+      "description": "IIM Ranchi Celebrates 80th Independence Day with Focus on Human Capability, Innovation and Nation Building",
+      "link": "https://www.freepressjournal.in/corporate-gallery/iim-ranchi-celebrates-80th-independence-day-with-focus-on-human-capability-innovation-and-nation-building",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-16/gwzpzfgv/IIMR.jpeg",
+      "published": "2026-08-16 18:48:40",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "A Six-Step Framework for Auditing Enterprise AI Agents",
-      "description": null,
-      "link": "https://www.bundle.app/en/technology/a-six-step-framework-for-auditing-enterprise-ai-agents-5A507665-9DF9-4715-8199-0BFF2B932035",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/9a2d51ab-59c7-5afa-b8ba-ab1e76ac443c.jpg",
-      "published": "2026-08-16 17:31:28",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

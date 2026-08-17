@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Samsung's China sales overtake US; Nvidia not among top five customers",
-      "description": "Samsung Electronics' sales to China and the US surged in the first half of 2026 as an AI-driven memory upcycle boosted its semiconductor business, while Nvidia did not rank among the company's five largest customers despite growing ties between the two companies in high-bandwidth memory (HBM).",
-      "link": "https://www.digitimes.com/news/a20260817VL216/samsung-sales-nvidia-2026-hbm.html",
-      "source": "Digitimes",
-      "image": "https://img.digitimes.com/newsshow/20260817vl216_files/2_b.jpg",
-      "published": "2026-08-17 07:24:54",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "china"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

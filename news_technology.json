@@ -1,34 +1,66 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Georgia absentee ballot registration for midterm elections to open through Oct. 23",
+      "title": "How I Run A/B Tests in a Chrome Extension (Without Re-Releasing to the Store)",
       "description": null,
-      "link": "https://www.wsbtv.com/news/local/atlanta/georgia-absentee-ballot-registration-midterm-elections-open-through-oct-23/5MO7Q3KZ5RDQ5BCZRSGBSC6KNA/",
-      "source": "Wsb-tv Channel 2 - Atlanta",
-      "image": "https://www.wsbtv.com/resizer/v2/YQHJODISGBEKFPNHMY5ED7WUPQ.jpg?auth=4320fcba71dc049d4605b6122f3281da37193bf9ef467e8577cb433b0e672a1c&smart=true&width=960&height=540",
-      "published": "2026-08-16 16:37:40",
+      "link": "https://www.bundle.app/en/technology/how-i-run-ab-tests-in-a-chrome-extension-without-re-releasing-to-the-store-AB9AC7D8-C823-4062-935F-4B23F381B2E7",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/2796f08a-234f-542b-8d2b-5d2e42e4c81e.jpg",
+      "published": "2026-08-16 17:31:28",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Taiwan\u2019s AI Cyberattack Offers a Warning for Global Banks",
-      "description": "An AI-assisted attack against Taiwan shows how autonomous agents can accelerate conventional hacking techniques, challenging banks and regulators to rethink identity controls, third-party risk, and cyber resilience. A cyberattack against Taiwan has provided one of the clearest demonstrations yet of how artificial intelligence could alter the economics and speed of digital intrusion\u2014with implications extending from [...] The post Taiwan\u2019s AI Cyberattack Offers a Warning for Global Banks appeared first on The Middle East Observer .",
-      "link": "https://meobserver.news/technology/2026/08/16/taiwans-ai-cyberattack-offers-a-warning-for-global-banks/",
-      "source": "The Middle East Observer",
-      "image": "https://meobserver.news/wp-content/uploads/2026/08/2-79.png",
-      "published": "2026-08-16 16:37:39",
+      "title": "BACnet/IP: A Packet-Level Study of Objects, Priority Arrays, and Event Services",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/bacnetip-a-packet-level-study-of-objects-priority-arrays-and-event-services-E5A69333-8398-46DD-ADF6-1B5071B008E4",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/c0cccb86-dfc6-5192-ae6d-997cd6f0090d.jpg",
+      "published": "2026-08-16 17:31:28",
+      "category": [
+        "science",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Stop Hand-Rolling Chat UIs: Streaming LLM Tokens Into React Native Without the Jank",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/stop-hand-rolling-chat-uis-streaming-llm-tokens-into-react-native-without-the-jank-A4E14A00-5670-4A55-8300-939B72650831",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/f82cb637-fde8-5503-8aa7-8f886d8e7c3d.jpg",
+      "published": "2026-08-16 17:31:28",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "egypt"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "A Six-Step Framework for Auditing Enterprise AI Agents",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/a-six-step-framework-for-auditing-enterprise-ai-agents-5A507665-9DF9-4715-8199-0BFF2B932035",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/9a2d51ab-59c7-5afa-b8ba-ab1e76ac443c.jpg",
+      "published": "2026-08-16 17:31:28",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

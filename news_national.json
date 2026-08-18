@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Sky City Mall\u2019s Fest-O-Berry Strawberry Festival",
+      "description": null,
+      "link": "https://hospitalitynews.in/events/sky-city-mall-hosts-fest-o-berry-strawberry-festival-in-borivali",
+      "source": "Hospitalitynews",
+      "image": "https://hospitalitynews.in/uploads/images/202602/image_870x580_698b1a96787fa.jpg",
+      "published": "2026-08-17 21:28:54",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

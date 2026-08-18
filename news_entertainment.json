@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Journey prepares for the last leg of what could be rockers\u2019 final tour together",
+      "description": "Journey has over 100 concerts this year, playing hits like \u201cFaithfully\u201d and \u201cDon\u2019t Stop Believin\u2019.\u201d",
+      "link": "https://www.pressdemocrat.com/2026/08/18/journey-last-leg-farewell-tour/",
+      "source": "The Press Democrat",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/Music-Journey_12197-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-18 10:19:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Princess Eugenie announces the name of her baby daughter",
+      "description": "Princess Eugenie (left) and husband Jack Brooksbank (right) now have three children together.",
+      "link": "https://www.kxly.com/news/national-and-world-news/princess-eugenie-announces-the-name-of-her-baby-daughter/image_459d8f59-fb58-5867-88c7-8dbfc1688023.html",
+      "source": "Fox 28 Spokane",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kxly.com/content/tncms/assets/v3/editorial/4/59/459d8f59-fb58-5867-88c7-8dbfc1688023/6a84318879f5f.image.jpg?resize=300%2C201",
+      "published": "2026-08-18 10:18:48",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trolled For Its \u2018Poor\u2019 Graphics, Chinese Film Niu Lai Gets Shocking Box Office Boost, Takes On Spider-Man",
+      "description": null,
+      "link": "https://www.idiva.com/entertainment/arts-culture/poor-graphics-chinese-film-niu-lai-gets-box-office-boost-takes-on-spider-man-brand-new-day-the-odyssey/18097906",
+      "source": "Idiva",
+      "image": "https://idiva-media.ilnmedia.com/content/2026/Aug/lead-92_6a8431657de08.jpg",
+      "published": "2026-08-18 10:18:48",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

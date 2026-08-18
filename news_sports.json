@@ -1,51 +1,5 @@
 {
   "status": "success",
-  "totalResults": 3,
-  "results": [
-    {
-      "title": "Brand-new Southampton skate park ready for action",
-      "description": "A brand-new skate park in Southampton is ready for action.",
-      "link": "https://www.dailyecho.co.uk/news/26470926.brand-new-hoglands-park-skate-park-ready-action/",
-      "source": "Southern Daily Echo",
-      "image": "https://www.dailyecho.co.uk/resources/images/21330304/",
-      "published": "2026-08-18 02:30:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Saints fans urged to use park and ride bus service",
-      "description": "Football fans are being encouraged to use the PR2 Park and Ride service in Southampton.",
-      "link": "https://www.dailyecho.co.uk/news/26469699.saints-fans-encouraged-use-park-ride-bus-service/",
-      "source": "Southern Daily Echo",
-      "image": "https://www.dailyecho.co.uk/resources/images/21328387/",
-      "published": "2026-08-18 02:30:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Sundowns are rebuilding and TV pundits should know that, Cardoso says",
-      "description": "Coach says his side has changed markedly from the one that won the Champions League",
-      "link": "https://www.timeslive.co.za/sport/soccer/2026-08-18-sundowns-are-rebuilding-and-tv-pundits-should-know-that-cardoso-says/",
-      "source": "Timeslive",
-      "image": "https://www.timeslive.co.za/resizer/v2/IQ6CCFFIA5DYJHHKDHCD6XRLPI.JPG?auth=87d4868fe8f29dd5649a3c8fc6818b766c97ab109f1d470f9ca2e3bdc5863e54&smart=true&height=350",
-      "published": "2026-08-18 02:30:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "south africa"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

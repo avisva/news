@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Norfloxacin 400mg Tab",
-      "description": null,
-      "link": "https://pharmabiz.com/ArticleDetails.aspx?aid=188020",
-      "source": "Pharma Biz",
-      "image": null,
-      "published": "2026-08-18 02:30:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\u2018This is how we do it\u2019: 30 years of caring for a son with cerebral palsy",
-      "description": "His wheelchair no longer fits, and the local clinic often runs out of his medicine. Add to that three decades of living with cerebral palsy",
-      "link": "https://www.timeslive.co.za/news/south-africa/2026-08-18-this-is-how-we-do-it-30-years-of-caring-for-a-son-with-cerebral-palsy/",
-      "source": "Timeslive",
-      "image": "https://www.timeslive.co.za/resizer/v2/EGFQXHA5HZCHRMXDDWU7VGZPPQ.jpg?auth=4b7fe51a161b36ecf91e5543585365bfc34116c1ea842a43d0fa2ba9a387ff4f&smart=true&height=350",
-      "published": "2026-08-18 02:30:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "south africa"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,64 +1,40 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Goodman Group (ASX:GMG) Firms on Data Centre Build",
-      "description": "Goodman Group firms as digital infrastructure dominates its development pipeline, with grid access and pre-commitment levels in focus.",
-      "link": "https://kalkinemedia.com/au/stocks/infrastructure-and-real-estate/goodman-group-asxgmg-firms-on-data-centre-build",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2461242727_08_17_2026_11_20_04_745737.jpg",
-      "published": "2026-08-17 11:19:00",
+      "title": "Telcos shoulder big risk building fiber for AI data centers",
+      "description": null,
+      "link": "https://www.fierce-network.com//cloud/telcos-shoulder-big-risk-building-fiber-ai-data-centers",
+      "source": "Fierce Network",
+      "image": null,
+      "published": "2026-08-17 13:04:00",
       "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "SanDisk extends rally, Snap faces fresh pressure in premarket trade",
-      "description": "SanDisk extends rally, Snap faces fresh pressure in premarket trade",
-      "link": "https://www.investing.com/news/stock-market-news/sandisk-extends-rally-snap-faces-fresh-pressure-in-premarket-trade-4862757",
-      "source": "Investing Us",
-      "image": "https://content-media.investing.com/news/LYNXMPEDA71FC_M.jpg",
-      "published": "2026-08-17 11:18:56",
-      "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Google and AMD Partner on Next-Gen TPU for Reinforcement Learning",
-      "description": "Google and AMD: A New Collaboration on TPU Technology Reinforcement learning hardware is rapidly evolving, and the latest industry buzz reveals a strategic collaboration between Google and AMD. According to a report by SemiAnalysis, Google has teamed up with AMD to work on the 10th generation of its Tensor Processing Units (TPUs). This partnership could [...] <p>The post Google and AMD Partner on Next-Gen TPU for Reinforcement Learning first appeared on AITechTrend .</p>",
-      "link": "https://aitechtrend.com/reinforcement-learning-hardware/",
-      "source": "Aitechtrend",
-      "image": "https://aitechtrend.com/wp-content/uploads/2026/08/google_reportedly_taps_amd_to_design_next_generation_tpu__mdash__hybrid_ai_asic_could_integrate_on_package_cpu_cores_for_reinforcement_learning-1024x576.jpg",
-      "published": "2026-08-17 11:18:55",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Motorola's new Moto G Max comes with a Min price and 'over two days' of battery life - PhoneArena",
-      "description": "Motorola's new Moto G Max comes with a Min price and 'over two days' of battery life PhoneArena Motorola launches moto g max with 50MP Sony LYTIATM camera, Snapdragon\u00ae 6s Gen 4, 7000mAh battery and PantoneTM colours, starting Rs. 26,999* ANI News Moto G Max vs Redmi Note 17 comparison: identical price, different priorities 91mobiles.com OnePlus Nord CE 6 Lite vs Moto G Max vs Realme 16x 5G: Which is the best phone under \u20b930,000? PCQuest moto g max Unboxing and First Impressions FoneArena.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHVwS3NXSjZNdkJWS3l2clpDb3l6WHVSZUNwcWRhOGlkb2RLOWJlTE9OaGhVNUZjOG9GaEZhV29BWlZHSDZKTDM0aEFRZXdrV3k4R3UwZGVHZHkzZVdKMnVnblFnSjd0V0h2YzVfZVhPOFlGWDNZdEI0T25aTk0wR2xVcmRyUGlOdGZfTEM2TDktQXVvU2pGZTVjYl8yNTBmQ3A5Z1F3V192RlpM?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-17 11:18:54",
+      "title": "Elavon renews partnership with Sage to simplify payments for growing businesses",
+      "description": "LONDON--(BUSINESS WIRE)-- #fintech--Elavon, the merchant payment division of U.S. Bank and one of Europe\u2019s leading global merchant acquirers, and Sage, the leader in accounting, financial, HR and payroll technology for small and mid-sized businesses, have renewed their long-standing partnership to continue delivering simple, seamless and scalable payment solutions to even more Sage customers across the United Kingdom and Ireland. The renewed partnership is underpinned by a shared commitment to customer su",
+      "link": "http://www.businesswire.com/news/home/20260817822382/en/Elavon-renews-partnership-with-Sage-to-simplify-payments-for-growing-businesses/",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20260817822382/en/2876691/21/Logo-elavon.jpg",
+      "published": "2026-08-17 13:04:00",
       "category": [
         "technology"
       ],
       "country": [
-        "india"
+        "canada",
+        "united kingdom",
+        "france",
+        "japan",
+        "united states of america",
+        "china",
+        "germany",
+        "australia"
       ]
     }
   ]

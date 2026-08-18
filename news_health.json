@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Report: British PM Texted With Fake Trump Aide",
+      "description": "Andy Burnham's early days as Britain's prime minister reportedly included an awkward brush with a suspected scammer. Four officials tell Politico that Burnham exchanged a handful of messages with someone pretending to be Susie Wiles, President Trump's White House chief of staff, before realizing something was off. Downing Street declined...",
+      "link": "https://www.newser.com/story/394767/report-british-pm-texted-with-fake-trump-aide.html",
+      "source": "Newser",
+      "image": "http://cdn.newser.com/image/1705703-0-20260817080402.jpeg?width=45&height=45&crop=Y",
+      "published": "2026-08-17 13:04:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The Pre-Market Rundown 2: August 17, 2026",
+      "description": "CNBC brings you fast, accurate, and actionable business news and market updates.",
+      "link": "https://www.cnbc.com/video/2026/08/17/the-pre-market-rundown-2-august-17-2026.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350297-2ED1-REQ-081726-NewsPRE2.jpg?v=1786971057",
+      "published": "2026-08-17 13:04:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

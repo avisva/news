@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "AI companies look to the ocean as a place to put more data centers",
+      "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
+      "link": "https://www.newstimes.com/news/article/ai-companies-look-to-the-ocean-as-a-place-to-put-22391179.php",
+      "source": "News Times",
+      "image": "https://s.hdnux.com/photos/01/34/02/56/24128432/3/square_large.jpg",
+      "published": "2026-08-17 13:03:53",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

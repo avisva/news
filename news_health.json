@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Miranda Kerr\u2019s \u2018IBS diet\u2019 avoids eggs, bread and sushi \u2013 we asked a dietitian to weigh in",
+      "description": "Miranda Kerr says IBS inspired her restrictive diet. A registered dietitian explains which food rules may help and the risks of cutting out too much.",
+      "link": "https://www.womenshealthmag.com/uk/food/a73451558/miranda-kerr-diet/",
+      "source": "Women's Health",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/21c6fe8c-e3ae-4b87-8f2b-8b826796187b.png?crop=0.340xw:0.678xh;0.333xw,0.0127xh&resize=1200:*",
+      "published": "2026-08-17 15:41:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

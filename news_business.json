@@ -1,31 +1,47 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Oil prices climb as US Strategic Petroleum Reserve sinks to 40-year low",
-      "description": "The US Strategic Petroleum Reserve (SPR) continues to fall, now dropping to a 40-plus-year low not seen since the first Reagan administration. Yaho...",
-      "link": "https://ca.finance.yahoo.com/video/oil-prices-climb-as-us-strategic-petroleum-reserve-sinks-to-40-year-low-193500384.html",
-      "source": "Yahoo! News",
-      "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/98887760-ed37-473b-9e35-b94ae6373382_ffcc92dda268f342bfb72e853423c3b2d0bd94be3be17ef462b850376cd1df36.jpg",
-      "published": "2026-08-17 19:35:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Wynita Walther: The wisdom we carry with us",
-      "description": "Something is inspiring about the idea that we all have individual paths, talents and lessons to contribute to the world. Most of us spend a good amount of time thinking about what we\u2019ve accomplished, who we\u2019ve become or are becoming,...",
-      "link": "https://dailytimes.com/columnists/wynita-walther-the-wisdom-we-carry-with-us/article_4f54b46f-954c-46fa-a697-cea24c507274.html",
-      "source": "Dailytimes",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailytimes.com/content/tncms/assets/v3/editorial/9/7d/97de3a46-012a-11f0-a261-974c951f2537/67d4b931a2ee5.image.jpg?resize=300%2C355",
-      "published": "2026-08-17 19:35:00",
+      "title": "Nigeria\u2019s pension remittances drop by 38% in Q1 2026",
+      "description": "Pension contributions under Nigeria\u2019s Contributory Pension Scheme (CPS) plunged by 38 per cent in the first quarter of 2026. According to data released by the National Pension Commission (PenCom) in the Nigerian Pension Industry Quarterly Report, total pension contributions declined to N559.4 billion in Q1 2026, compared with N903.7 billion recorded in the fourth quarter [...] The post Nigeria\u2019s pension remittances drop by 38% in Q1 2026 appeared first on 21st CENTURY CHRONICLE .",
+      "link": "https://21stcenturychronicle.com/nigerias-pension-remittances-drop-by-38-in-q1-2026/",
+      "source": "21st Century Chronicle",
+      "image": "https://21stcenturychronicle.com/wp-content/uploads/2024/02/Investment-Market-Prices-Shares-Increase.jpg",
+      "published": "2026-08-17 20:32:58",
       "category": [
         "business",
         "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Jeanie Buss battling siblings over sale of remaining Lakers shares to new ownership group: reports",
+      "description": "The Buss family has voted to sell its remaining ownership stake in the Los Angeles Lakers to Bob Iger and Josh Kushner, who are purchasing the majority stake from Mark Walter.",
+      "link": "https://www.foxbusiness.com/sports/jeanie-buss-battling-siblings-over-sale-remaining-lakers-shares-new-ownership-group-reports",
+      "source": "Fox Business",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/jeanie-buss-.jpg",
+      "published": "2026-08-17 20:32:49",
+      "category": [
+        "breaking",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Buss family agrees to sell remaining Lakers ownership stake to Josh Kushner, Bob Iger group",
+      "description": "The Buss family has voted to sell its remaining ownership stake in the Los Angeles Lakers to Bob Iger and Josh Kushner, who are purchasing the majority stake from Mark Walter.",
+      "link": "https://www.foxbusiness.com/sports/buss-family-agrees-sell-remaining-lakers-ownership-stake-jared-kushner-bob-iger-group",
+      "source": "Fox Business",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/06/jeanie-buss-.jpg",
+      "published": "2026-08-17 20:32:49",
+      "category": [
+        "business",
+        "breaking"
       ],
       "country": [
         "united states of america"

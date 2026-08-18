@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Immigrant boy 5",
+      "description": "Photographer Berge Arabian shares the stories behind his photographs in his column, \"If Lenses Could Talk,\" published in the arts and culture pages of Agos. This week he writes about young Berge's feeling to Marry Allen whom he met in in Toronto.",
+      "link": "https://www.agos.com.tr/en/article/immigrant-boy-5-41545",
+      "source": "Anasayfa | Agos",
+      "image": "https://static.agos.com.tr/yazi/2026/08/17/gocmen-cocuk-5.jpg",
+      "published": "2026-08-17 20:33:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "turkey"
+      ]
+    },
+    {
+      "title": "Marvel Adds \u2018Ghost Rider\u2019 to a Crowded 2028 Slate - Gizmodo",
+      "description": "Marvel Adds \u2018Ghost Rider\u2019 to a Crowded 2028 Slate Gizmodo 'Ghost Rider' Sets July 2028 Release, All 2028 Disney Dates From D23 Deadline Ryan Gosling\u2019s \u2018Ghost Rider\u2019 Sets Release Date; Third Marvel Movie on 2028 Calendar Variety Marvel Studios Officially Sets Ryan Gosling's Ghost Rider Film for July 2028 Release IGN Marvel Studios Locks In Its 2028 Slate Dark Horizons",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUlXeXZkNW8zeFEyX3MyNHZlOWpZVnpGVTQ1V05vS0pFTzREQXRoTzZNcGlqNmRFV0dCNXZvZlZHOUhVdnpMSmd5bi03WFZiNHk3ckFJNDU0elBvVzA5eTB1dElYRDFOazZVbXptRWd5VDVNdkdob1pDT29MN1pvYWFfVEw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-17 20:32:54",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Theo Von Takes Break From Field of Dreams Game to Talk Road Trips, Staying Healthy And Loving Iowa",
+      "description": "The wildly popular comedian rarely does interviews outside of his own podcast but he did a quick one with THR from his seat in the stadium while rooting for the Minnesota Twins for a surprising reason.",
+      "link": "https://www.hollywoodreporter.com/news/general-news/theo-von-interview-netflix-stand-up-last-weekend-podcast-1236674658/",
+      "source": "The Hollywood Reporter",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2273153930.jpg",
+      "published": "2026-08-17 20:32:53",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

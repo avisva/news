@@ -1,75 +1,120 @@
 {
   "status": "success",
-  "totalResults": 12,
+  "totalResults": 16,
   "results": [
     {
-      "title": "\"Zero-Tolerance Driving\" campaign hits the road in Portugal",
-      "description": "The National Road Safety Authority (ANSR), the PSP, and the GNR are launching the \u201cZero Alcohol Behind the Wheel\u201d campaign on Tuesday to raise awareness about the risks of driving under the influence of alcohol.",
-      "link": "https://www.theportugalnews.com/news/2026-08-17/zero-tolerance-driving-campaign-hits-the-road-in-portugal/1071492",
-      "source": "The Portugal News",
-      "image": "https://d1mnxluw9mpf9w.cloudfront.net/media/1783683592/viktor-bystrov-qd-zd2MoeE8-unsplash.jpg",
-      "published": "2026-08-17 13:04:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "portugal"
-      ]
-    },
-    {
-      "title": "Substantial increase in fines for littering in England from September 1 2026",
-      "description": "The Government has confirmed that littering and fly-tipping fines will increase in England from September 1, 2026",
-      "link": "https://www.express.co.uk/news/uk/2239887/substantial-increase-fines-littering-england-from-september-1-2026",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2239887_1.jpg",
-      "published": "2026-08-17 13:04:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Carrollton Schools Back-to-School Bash draws about 500 students and families",
-      "description": "About 500 students and family members attended the Carrollton Schools Back-to-School Bash Aug. 10, featuring 22 vendors, school supplies, backpacks, food and student performances.",
-      "link": "https://www.yourohionews.com/carroll-county/carrollton-bash-draws-500-students/1063883",
-      "source": "Your Ohio News",
-      "image": "https://image.yourohionews.com/?imageId=1063890&format=webp&width=1200",
-      "published": "2026-08-17 13:04:00",
+      "title": "Nurses sue Iowa DHHS after violent attacks at mental health facility",
+      "description": "Being punched, slammed into concrete walls, stomped on and beaten so badly as to result in a miscarriage should not be business as usual, employees of a state-run facility say.",
+      "link": "https://nonpareilonline.com/news/state-regional/crime-courts/article_25f89b00-b102-458d-8738-52ea889670df.html",
+      "source": "Nonpareilonline",
+      "image": "https://bloximages.chicago2.vip.townnews.com/nonpareilonline.com/content/tncms/assets/v3/editorial/7/c8/7c86651a-15dc-5ed0-9d0f-5d576e3088e8/6a7ddb1a5b516.image.jpg?resize=300%2C399",
+      "published": "2026-08-17 14:52:00",
       "category": [
         "top",
-        "education"
+        "crime"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "HRCP calls for judicial tribunal to probe deaths of women in Lahore police custody",
+      "title": "One election integrity bill reaches deadline, one signed into law",
+      "description": "(The Center Square) \u2013 One election integrity law on Monday morning reached the final day for action and another has been signed into law.",
+      "link": "https://www.rrdailyherald.com/news/state/one-election-integrity-bill-reaches-deadline-one-signed-into-law/article_96f8043e-06dd-5ed5-9d47-e5a0bb2d14c2.html",
+      "source": "Rrdailyherald",
+      "image": "https://bloximages.newyork1.vip.townnews.com/rrdailyherald.com/content/tncms/assets/v3/editorial/7/41/7415f552-d578-5009-b883-8c54e19aed00/6a832cb6d58f8.preview.jpg?crop=1265%2C664%2C0%2C486&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-08-17 14:52:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Hayden Panettiere, Actor Of Nashville, Heroes, And Voice Of Kingdom Hearts\u2019 Kairi, Has Passed Away",
+      "description": "Hayden Panettiere, the actor known for TV series such as Nashville and Heroes , and the former voice performer for Kairi in the Kingdom Hearts series, has passed away. She was 36. Panettiere\u2019s extensive credits include roles in films such as Remember the Titans , I Love You, Beth Cooper, Scream 4 , and, most recently, Sleepwalker . She portrayed Juliette Barnes in the CMT series Nashville and Claire Bennet in Heroes and Heroes Reborn . Video game fans will recognize Panettiere as the original English voice of Kairi in multiple Kingdom Hearts games. She played Kairi in Kingdom Hearts, Kingdom Hearts II, Kingdom Hearts: Birth by Sleep, and Kingdom Hearts 3D: Dream Drop Distance. Panettiere did not return in Kingdom Hearts III, as Alyson Stoner took over Kairi's role. Panettiere also appeared in the 2015 horror game Until Dawn (and its 2024 remake) as Samantha \"Sam\" Giddings, one of the primary characters for which she lent her likeness and performed motion capture. Hayden Panettiere in Until Dawn (2024) Game Informer extends its condolences to the family and loved ones of Hayden Panettiere.",
+      "link": "https://gameinformer.com/obituary/2026/08/17/hayden-panettiere-actor-of-nashville-heroes-and-voice-of-kingdom-hearts-kairi",
+      "source": "Game Informer",
+      "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/08/17/6b25c408/hayden-panettiere-kairi.jpg.webp",
+      "published": "2026-08-17 14:52:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sigler Western Museum to host free artist demonstration",
+      "description": "The Sigler Western Museum invites the public to enjoy a free artist demonstration Saturday, Aug. 22, in conjunction with \u201cWest of Center: Highlights from the Wickenburg Art Club,\u201d currently on",
+      "link": "https://www.wickenburgsun.com/around-town/arts-entertainment/sigler-western-museum-to-host-free-artist-demonstration/article_6a4af369-fbcb-4df9-b6cf-0bb36b34876c.html",
+      "source": "The Wickenburg Sun",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wickenburgsun.com/content/tncms/assets/v3/editorial/2/06/206a5477-664f-484b-a75e-abb6ef6fb2c3/6a83217b8b0f6.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-08-17 14:52:00",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Here\u2019s What Disney Didn\u2019t Announce at D23",
+      "description": "Horizons: A Carousel of Progress has come and gone. After two years of anticipation, the 2026 D23 Expo is now in the books, too. We\u2019ll spend the rest of the year evaluating all of... The post Here\u2019s What Disney Didn\u2019t Announce at D23 appeared first on MickeyBlog.com .",
+      "link": "https://mickeyblog.com/2026/08/17/heres-what-disney-didnt-announce-at-d23/",
+      "source": "Mickeyblog.com",
+      "image": "https://mickeyblog.com/wp-content/uploads/2026/08/2026-d23-the-ultimate-disney-fan-event-honda-center-horizons9-scaled.jpg",
+      "published": "2026-08-17 14:51:59",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Vera named the Brooklyn of Tbilisi",
+      "description": "Brooklyn Of (brooklynof.com), a travel publication that names the coolest neighborhood in more than 150 cities worldwide, has named Vera the Brooklyn of Tbilisi. The \u201cBrooklyn of\u201d a city is a metaphor, of course: shorthand for the coolest neighborhood in town, the one where independent culture, serious coffee, and creative energy define the character. Not [...]",
+      "link": "https://georgiatoday.ge/vera-named-the-brooklyn-of-tbilisi/",
+      "source": "Georgia Today",
+      "image": "https://georgiatoday.ge/wp-content/uploads/2026/08/tbilisi_georgia.jpg",
+      "published": "2026-08-17 14:51:58",
+      "category": [
+        "tourism",
+        "top"
+      ],
+      "country": [
+        "georgia"
+      ]
+    },
+    {
+      "title": "Improvements and projects lead the way in Brunswick County",
+      "description": "From new industrial growth to a woman caught with 30 cats, here is the latest on what's happening in Brunswick County.",
+      "link": "https://www.starnewsonline.com/story/news/local/2026/08/17/drought-updates-and-new-plans-for-brunswick-county-nc/91187504007/",
+      "source": "Wilmington Star-news",
+      "image": "https://www.starnewsonline.com/gcdn/authoring/authoring-images/2026/08/07/NSTN/91214827007-img-0611.jpg?crop=2855,1607,x0,y267&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-17 14:51:58",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ocoee seeks resident input on 18 parks and recreation sites via survey",
       "description": null,
-      "link": "https://www.dialoguepakistan.com/en/pakistan/hrcp-calls-for-judicial-tribunal-to-probe-deaths-of-women-in-lahore-police-custody",
-      "source": "Dialogue Pakistan",
-      "image": "https://www.dialoguepakistan.com/en/upload/media/posts/2026-08/17/hrcp-calls-for-judicial-tribunal-to-probe-deaths-of-women-in-lahore-police-custody_1786972180-b.jpg",
-      "published": "2026-08-17 13:04:00",
+      "link": "https://www.wftv.com/news/local/ocoee-seeks-resident-input-18-parks-recreation-sites-via-survey/54RWSRVRU5BHPALOFAEQ6IWLGE/",
+      "source": "Wftv",
+      "image": "https://www.wftv.com/resizer/v2/7RZL6XXLPZD5RBLQHOIPFYKPTQ.jpg?auth=9dcf2b6690ef7efdf78c2b60704a46468c5c58843cb1b65c61fc3c575ebbea8c&smart=true&width=400&height=300",
+      "published": "2026-08-17 14:51:58",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Election 2026: Since primary, 9 in 10 choose independence",
-      "description": "(The Center Square) \u2013 Of 118,389 voter registration additions since North Carolina\u2019s primary, net gain is 91.7% independence rather than either of two major political parties or two other recognized parties.",
-      "link": "https://www.sanfordherald.com/news/state/election-2026-since-primary-9-in-10-choose-independence/article_aa28d727-270c-5fd5-85df-4f2b9ce3d464.html",
-      "source": "The Sanford Herald",
-      "image": null,
-      "published": "2026-08-17 13:04:00",
-      "category": [
-        "politics",
+        "environment",
         "top"
       ],
       "country": [
@@ -77,72 +122,57 @@
       ]
     },
     {
-      "title": "Is Red Bull junior Nikola Tsolov the next Formula 1 'Big Thing' in the making?",
-      "description": "Nikola Tsolov is making an increasingly convincing case. The 19-year-old Bulgarian leads the 2026 F2 Championship for Campos Racing",
-      "link": "https://www.grandprix247.com/f1-driver-news/is-nikola-tsolov-the-next-formula-1-big-thing-in-the-making",
-      "source": "Grand Prix 247",
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgrandprix247.com%2Fimages%2F2026-08%2Ftsolov-6a8304de2c53e.jpg",
-      "published": "2026-08-17 13:04:00",
+      "title": "Dog food recalled in these states after reported illnesses",
+      "description": "Bags of frozen raw dog food sold in several states are being recalled for possible salmonella contamination.",
+      "link": "https://lufkindailynews.com/news_reuters/national/dog-food-recalled-in-these-states-after-reported-illnesses/article_33343631-1299-594b-8602-81b607a6906c.html",
+      "source": "Lufkindailynews",
+      "image": null,
+      "published": "2026-08-17 14:51:55",
       "category": [
-        "sports",
+        "environment",
         "top"
       ],
       "country": [
-        "germany"
+        "united states of america"
       ]
     },
     {
-      "title": "Scio Summer Fest to host Faith @ Summer Fest worship service Aug. 23",
-      "description": "Faith @ Summer Fest will be held Sunday, Aug. 23, from 10 a.m. to noon on the Scio Summer Fest main stage, led by Pastor Mike Cunningham and Pastor Dixie McHugh. The service will include praise, worship and a message, with free coffee, juice and doughnuts available.",
-      "link": "https://www.yourohionews.com/harrison-county/scio-summer-fest-to-host-worship-service/1059923",
-      "source": "Your Ohio News",
-      "image": "https://image.yourohionews.com/?imageId=1059926&format=webp&width=1200",
-      "published": "2026-08-17 13:04:00",
+      "title": "Four impaired driving arrests bring August total to nine in PEC",
+      "description": "Prince Edward County Ontario Provincial Police (OPP) officers have charged an additional four drivers with impaired driving-related offences, bringing...",
+      "link": "https://www.inquinte.ca/2026/08/four-impaired-driving-arrests-bring-august-total-to-nine-in-pec/",
+      "source": "Inquinte",
+      "image": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3922/files/2025/10/opp-car.jpg",
+      "published": "2026-08-17 14:51:54",
       "category": [
         "top",
-        "lifestyle"
+        "crime"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "7 On Your Side shares tips on Connecticut's tax-free week on clothing",
+      "description": "Connecticut is the only state in the Tri-State area still offering a statewide sales tax-free week, after New York ended its program and New Jersey later followed.",
+      "link": "https://abc7ny.com/post/7-side-shares-tips-connecticuts-tax-free-week-clothing/19692008/",
+      "source": "Abc7 New York",
+      "image": "https://cdn.abcotvs.com/dip/images/5774334_shutterstock_546883993.jpg",
+      "published": "2026-08-17 14:51:52",
+      "category": [
+        "business",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Pninat Yanay, the lawyer, is Israel\u2019s new ambassador to Greece: \u201cI look forward to working closely with our Greek friends\u201d",
-      "description": "She brings to her new position extensive experience in the fields of law, business, diplomacy, public diplomacy & strategic communications The post Pninat Yanay, the lawyer, is Israel\u2019s new ambassador to Greece: \u201cI look forward to working closely with our Greek friends\u201d appeared first on ProtoThema English .",
-      "link": "https://en.protothema.gr/2026/08/17/pninat-yanay-the-lawyer-is-israels-new-ambassador-to-greece-i-look-forward-to-working-closely-with-our-greek-friends/",
-      "source": "Protothema",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/pninatyanay_arthrou-1.jpg-1.jpg",
-      "published": "2026-08-17 13:04:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "greece"
-      ]
-    },
-    {
-      "title": "I\u2019m my family\u2019s lastborn, got away with lots of things \u2013 Governor Adeleke",
-      "description": "Fresh from his victory in the Osun State governorship election, Governor Ademola Adeleke has offered a personal glimpse into his family life, revealing how being the lastborn earned him special treatment from his siblings. The post I\u2019m my family\u2019s lastborn, got away with lots of things \u2013 Governor Adeleke appeared first on The Sun Nigeria .",
-      "link": "https://thesun.ng/im-my-familys-lastborn-got-away-with-lots-of-things-governor-adeleke/",
-      "source": "The Sun Nigeria",
-      "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/772773172_38069988602592171_3060334901693499654_n.webp",
-      "published": "2026-08-17 13:03:59",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Bradford (Park Avenue) AFC Chairman Provides Season Update",
-      "description": "Early Season Challenges and Developments at Bradford (Park Avenue) Bradford (Park Avenue) AFC has begun its league campaign with a... The post Bradford (Park Avenue) AFC Chairman Provides Season Update appeared first on Bradfordian .",
-      "link": "https://bradfordian.co.uk/sports/football/bradford-park-avenue/bradford-park-avenue-afc-chairman-provides-season-update/",
-      "source": "Bradfordian",
-      "image": "https://bradfordian.co.uk/wp-content/uploads/2026/08/bradford-park-avenue-afc-chairman-provides-season-update-1786971862.webp",
-      "published": "2026-08-17 13:03:58",
+      "title": "Brighton vs Crystal Palace Premier League date change explained",
+      "description": "All the latest team and fixture news for Brighton and Hove Albion and across the Premier League",
+      "link": "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/brighton-vs-crystal-palace-premier-league-date-change-explained-8925643",
+      "source": "Sussexworld",
+      "image": "https://www.sussexexpress.co.uk/jpim-static/image/2026/08/17/14/12/GettyImages-2260655980.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "published": "2026-08-17 14:51:50",
       "category": [
         "sports",
         "top"
@@ -152,14 +182,44 @@
       ]
     },
     {
-      "title": "AP Decision Notes: What to expect in Florida\u2019s state primary",
-      "description": "Florida voters will select nominees Tuesday to replace term-limited Republican Gov. Ron DeSantis and to complete the remainder of Secretary of State Marco Rubio\u2019s unexpired U.S. Senate term. The...",
-      "link": "https://www.greenwichtime.com/news/politics/article/ap-decision-notes-what-to-expect-in-florida-s-22391180.php",
-      "source": "Greenwich Time",
-      "image": "https://s.hdnux.com/photos/01/67/06/20/31220777/3/square_large.jpg",
-      "published": "2026-08-17 13:03:55",
+      "title": "College lecturer suspended over Aug 15 Facebook post paying respect to Sheikh Mujibur Rahman",
+      "description": "Rajshahi\u2019s Nandangachi Degree College principal says decision came amid student protests",
+      "link": "https://www.thedailystar.net/news/bangladesh/news/college-lecturer-suspended-over-aug-15-facebook-post-paying-respect-sheikh-mujibur-rahman-4250031",
+      "source": "The Daily Star",
+      "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+      "published": "2026-08-17 14:51:48",
       "category": [
         "politics",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "After drug death in her home, Red Lion woman pleads guilty to charges",
+      "description": "A Red Lion woman admitted she supported a young man\u2019s drug use, contributing to his death two years ago.",
+      "link": "https://cumberlink.com/news/state-regional/pennsylvania/article_0fbabc06-569f-51b5-afa4-547df919a4b5.html",
+      "source": "The Sentinel",
+      "image": "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/7/8c/78cfbed2-f840-51aa-b294-8b1a3aaa0640/6a8304cc430a5.image.jpg?resize=1200%2C675",
+      "published": "2026-08-17 14:51:45",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "ByteDance signs AI copyright pact with Hollywood trade group",
+      "description": "Aug 17 (Reuters) - ByteDance and the Motion Picture Association on Monday signed an agreement to strengthen copyright safeguards on the Chinese company's AI video and image-generation models, months",
+      "link": "https://lufkindailynews.com/news_reuters/business/bytedance-signs-ai-copyright-pact-with-hollywood-trade-group/article_05371d1e-e8fc-574a-89a1-2816e445b36b.html",
+      "source": "Lufkindailynews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/b/5c/b5cfb766-18ac-5d4f-ac5f-3a463a198937/6a832037e4ffb.image.jpg?resize=300%2C200",
+      "published": "2026-08-17 14:51:43",
+      "category": [
+        "entertainment",
         "top"
       ],
       "country": [
@@ -167,14 +227,14 @@
       ]
     },
     {
-      "title": "AI companies look to the ocean as a place to put more data centers",
-      "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-      "link": "https://www.newstimes.com/news/article/ai-companies-look-to-the-ocean-as-a-place-to-put-22391179.php",
-      "source": "News Times",
-      "image": "https://s.hdnux.com/photos/01/34/02/56/24128432/3/square_large.jpg",
-      "published": "2026-08-17 13:03:53",
+      "title": "California stabbing victim's friend blasts 'failed' justice system over illegal immigrant suspect's release",
+      "description": "A friend of Todd Stewart says the Golden State's judicial system \"failed\" by releasing illegal immigrant Marcos Iriarte-Valdez before the stabbing.",
+      "link": "https://www.foxnews.com/media/california-stabbing-victim-friend-blasts-failed-justice-system-illegal-immigrant-suspect-release",
+      "source": "Fox News",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Todd-Stewart-murder.png?ve=1&tl=1",
+      "published": "2026-08-17 14:51:42",
       "category": [
-        "science",
+        "politics",
         "top"
       ],
       "country": [

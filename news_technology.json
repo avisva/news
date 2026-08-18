@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "World\u2019s Fastest Hydrogen Vehicle Hits Record-Breaking 406 MPH",
-      "description": "A hydrogen-powered streamliner has become the world\u2019s fastest hydrogen vehicle, reaching an average speed of 406.32 mph (653km/h) over two runs on Utah\u2019s Bonneville Salt Flats. The JCB Hydromax\u2019s run was verified by the Fe\u0301de\u0301ration Internationale de l\u2019Automobile, motorsport\u2019s international governing authority, and stands as the fastest speed ever recorded by a hydrogen combustion engine. Andy Green, a 64-year-old former Royal Air Force officer who already holds the world\u2019s outright land speed record after topping 760 mph in an earlier run, drove the Hydromax to the new mark. The run more than doubled the previous hydrogen combustion record of 185.5...",
-      "link": "https://freerepublic.com/focus/f-chat/4392160/posts",
-      "source": "Freerepublic",
+      "title": "Exclusive: Google plans to stop making Pixel products in China in 2027 - Nikkei Asia",
+      "description": "Exclusive: Google plans to stop making Pixel products in China in 2027 Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWVmdnZtTU1kbEJYU0c4TDFCSnF0Wmo5ci1iTFJHX2Q0ckF2cWJJNTc0eTdjUjNhbUhkbDVtTVJqdmlzTXRYLXFhLU8wYWRsbEdid2VaR3lKck1oU2N0SjFpc2hUQ1ZSWWwxR2FGUVgtYzQ0Q0ZyMmp2RDFVN1EyTUtmQjUxVjA0b0VIYkZ6S1Q5bHVYQXc2RVJYcEFIUWVLVmhvbEFuS3dSTS1sOTBDRU9SU3NoUnc?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-08-18 01:38:31",
+      "published": "2026-08-18 02:30:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "EDITORIAL | Madlanga\u2019s \u2018line in the sand\u2019 is welcome",
+      "description": "Madlanga commission refers uncooperative witness to criminal justice system",
+      "link": "https://www.timeslive.co.za/opinion/2026-08-18-editorial-madlangas-line-in-the-sand-is-welcome/",
+      "source": "Timeslive",
+      "image": "https://www.timeslive.co.za/resizer/v2/VVZ2JEYDRNEHDC6BF5EKTNMTRI.jpg?auth=4ffde7d07a207e380aed41e891ca4043df075cfdc386e4c509cbfd215e748714&smart=true&height=350",
+      "published": "2026-08-18 02:30:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "south africa"
       ]
     }
   ]

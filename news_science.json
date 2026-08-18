@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Our Survival Might One Day Rely on Nuking a 'City Killer' Asteroid. Scientists Just Tested Whether It'll Work - ScienceAlert",
-      "description": "Our Survival Might One Day Rely on Nuking a 'City Killer' Asteroid. Scientists Just Tested Whether It'll Work ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1IxbmtfMlhOenM4bFJha3hlcU9tZExaMTJfR0cxZFVoWDhlYkVEd1NFVmlMQWVKMmxCMGlpclQtVktONGw4QjFVNWg0ZHdpR2V2UlVxR3I4NlFQRFdxUlBIQlZTTDFhSXRIVW4xY1FZZjYzblFJdVJTWkFTYnh0Vy1aNGw3dnF0bjl2dURVcUthWkJZcXB0V1pqQ3lweFhSQUdjdl9HYW10NVNPMGJQbTZKTW9iTUl0TUVuamVUR25iNWU2dFlvUHEtUlM4U2M?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-18 01:38:13",
+      "title": "Sculpture made from reclaimed metal to take centre stage at science festival",
+      "description": "A sculpture made from reclaimed metal is set to take centre stage at the British Science Festival.",
+      "link": "https://www.dailyecho.co.uk/news/26469955.british-science-festival-showcase-reclaimed-metal-sculpture/",
+      "source": "Southern Daily Echo",
+      "image": "https://www.dailyecho.co.uk/resources/images/21328741/",
+      "published": "2026-08-18 02:30:00",
       "category": [
-        "science"
+        "science",
+        "top"
       ],
       "country": [
-        "canada"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Southampton researchers use AI to highlight patterns in breast cancer",
+      "description": "Artificial intelligence is helping to uncover hidden patterns in breast cancer.",
+      "link": "https://www.dailyecho.co.uk/news/26469856.southampton-researchers-use-ai-highlight-cancer-patterns/",
+      "source": "Southern Daily Echo",
+      "image": "https://www.dailyecho.co.uk/resources/images/21328581/",
+      "published": "2026-08-18 02:30:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

@@ -1,34 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Florida Rep. Cory Mills loses primary as Wasserman Schultz, Moskowitz prevail",
-      "description": "Florida Rep. Cory Mills, seen here at a House Armed Services hearing in April, has lost his bid for renomination in the 7th District.",
-      "link": "https://rollcall.com/2026/08/18/florida-rep-cory-mills-loses-primary-as-wasserman-schultz-moskowitz-prevail/",
-      "source": "Roll Call",
-      "image": "https://rollcall.com/app/uploads/2026/08/defense_house_254_042926.jpg",
-      "published": "2026-08-18 23:20:56",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "In Meta\u2019s trial, families of social media victims see a pivotal moment for online safety",
-      "description": "Parents hold pictures of their deceased children during a protest against social media platforms outside the Ronald V. Dellums Federal Building and U.S. Courthouse on Tuesday, Aug. 18, 2026, in Oakland, Calif. (AP Photo/Noah Berger)(AP Photo/Noah Berger) As opening statements kicked off Tuesday in a trial for Meta Platforms, advocates and parents of social media [...]",
-      "link": "https://www.durangoherald.com/articles/associated-press/in-metas-trial-families-of-social-media-victims-see-a-pivotal-moment-for-online-safety/",
-      "source": "Durango Herald",
-      "image": "https://www.durangoherald.com/wp-content/uploads/2026/08/d7f42f23-ccff-55b5-a093-120826b388c1.jpg",
-      "published": "2026-08-18 23:20:55",
+      "title": "San Diego County will stop letting federal immigration agents train at local firing ranges",
+      "description": "A Southern California county will stop letting federal immigration authorities train at a local firing range over concerns about the Trump administration\u2019s crackdown on immigrants. San Diego County supervisors voted 3-2 on Tuesday to end contracts with Immigration and Customs Enforcement and Customs and Border Protection to train at a county-owned facility near the Mexican border and a Navy facility leased by the county. The head of CBP says the move could reduce local staffing as 1,700 officers need to get mandatory training elsewhere, affecting trade and travel on the border.",
+      "link": "https://mymotherlode.com/news/state/11076736/san-diego-county-will-stop-letting-federal-immigration-agents-train-at-local-firing-ranges.html",
+      "source": "Mymotherlode.com - The Mother Lode's Local News, S",
+      "image": "https://www.mymotherlode.com/wp-content/uploads/2024/07/MML_FB.png",
+      "published": "2026-08-19 00:39:54",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "MPs demand for cannabis legalisation, smooth supply of gas",
+      "description": "By A Staff Reporter, Kathmandu, Aug.19: Members of the House of Representatives (HoR) meeting held on Tuesday called on...",
+      "link": "https://risingnepaldaily.com/news/85208",
+      "source": "The Rising Nepal",
+      "image": null,
+      "published": "2026-08-19 00:39:42",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "nepal"
+      ]
+    },
+    {
+      "title": "Shootout row: Karnataka CM Shivakumar tells Tamil Nadu leaders to stay out of Karnataka affairs",
+      "description": "Karnataka Chief Minister D K Shivakumar has rejected calls from Tamil Nadu leaders for a CBI investigation into the Hanur forest shootout, stressing that states should respect each other\u2019s jurisdiction. The incident in Chamarajanagar district has sparked anger in Tamil Nadu because the three men who were killed were reportedly from the state. Tamil Nadu Chief Minister C Joseph Vijay... Continue reading \"Shootout row: Karnataka CM Shivakumar tells Tamil Nadu leaders to stay out of Karnataka affairs\"",
+      "link": "https://chennaivision.com/shootout-row-karnataka-cm-shivakumar-tells-tamil-nadu-leaders-to-stay-out-of-karnataka-affairs/",
+      "source": "Tamil News | Online Tamilnadu News | Tamil Cinema",
+      "image": "https://chennaivision.com/wp-content/uploads/2026/08/Untitled-97.jpg",
+      "published": "2026-08-19 00:39:25",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

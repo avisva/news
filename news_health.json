@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Flight crew, pilots highest at risk of dying from radiation-linked cancers",
-      "description": "Researchers found flight attendants had about 50% higher odds of dying from a radiation-related cancer than the general working population.",
-      "link": "https://www.1news.co.nz/2026/08/19/flight-crew-pilots-highest-at-risk-of-dying-from-radiation-linked-cancers/",
-      "source": "1news",
-      "image": "https://www.1news.co.nz/resizer/v2/SXRR7IDMYZC4NCTONVGXGRLFX4.jpg?auth=327435007745239d7eb215af9123fb99fa0005021ed70b6d3c8bc05bbd10e791&smart=true&width=1920&height=1080",
-      "published": "2026-08-19 02:28:52",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "US President Donald Trump picks White House aide Heidi Overton to lead the FDA",
-      "description": "President Trump chose Heidi Overton to lead the FDA. She was deputy director of the White House Domestic Policy Council and helped lead the 2026 Central Africa Ebola response.",
-      "link": "https://www.cnbctv18.com/world/us-president-donald-trump-picks-white-house-aide-heidi-overton-to-lead-the-fda-19972301.htm",
-      "source": "Cnbctv18",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/goa-cm-sawant-1-2026-08-2e30c95b3309450ed7edf3bcabd6e24d.jpg",
-      "published": "2026-08-19 02:28:46",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

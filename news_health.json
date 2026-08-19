@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Bill Rasmussen, ESPN co-founder, dies at 93 from the effects of Parkinson\u2019s disease",
+      "description": "Rasmussen announced in 2019 that he had been diagnosed with the degenerative disease in 2014.",
+      "link": "https://www.news9.com/sports/bill-rasmussen-dead-espn-founder",
+      "source": "News9.com",
+      "image": "https://cdn.griffin.news/dims4/default/0d8976e/2147483647/strip/false/crop/869x577+0+0/resize/869x577!/quality/90/?url=https%3A%2F%2Fgriffin-media-production-griffin.s3.us-east-2.amazonaws.com%2Fbrightspot%2F39%2F2e%2F55ac13364b68abcf1834097aa880%2Fbillrassmussen.png",
+      "published": "2026-08-18 17:25:59",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

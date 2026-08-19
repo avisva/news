@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "On Mount Etna, Lightning Has Claimed More Lives Than Eruptions Since 1980",
+      "description": "Learn how a recent U.S. tourist\u2019s death reveals an overlooked danger on the slopes of Europe\u2019s most active volcano.",
+      "link": "https://www.discovermagazine.com/on-mount-etna-lightning-has-claimed-more-lives-than-eruptions-since-1980-49557",
+      "source": "Discover Magazine",
+      "image": "https://cdn.discovermagazine.com/assets/image/60228/mt-etna-eruption-t.jpg",
+      "published": "2026-08-18 21:30:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

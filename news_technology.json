@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Social Media Platforms Are Training Their AI Models on Your Content, but You Can Stop Them (Sometimes)",
+      "description": "There's not always an option to opt out of having your social media data harvested for AI, but if there is, it's here. Recently, the Amazon-owned Twitch made headlines for announcing that it would allow users to opt out of having their streams, VODs, and chats fed into an AI training machine. This, understandably, made a lot of people upset . But, it turns out, Twitch might be one of the ...",
+      "link": "https://au.lifehacker.com/ai/119392/social-media-platforms-are-training-their-ai-models-on-your-content-but-you-can-stop-them-sometimes",
+      "source": "Lifehacker",
+      "image": "https://sm.lifehacker.com/lifehacker_au/feature/s/social-med/social-media-platforms-are-training-their-ai-models-on-your_nbxe.jpg",
+      "published": "2026-08-18 21:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Mikautadze's clause rises to \u20ac78m amid Barc\u0327a interest",
-      "description": "Villarreal is pleased that, under Georges Mikautadze\u2019s contract, his release clause has stood at \u20ac78 million since last August 15. The measure aims to protect the Georgian international striker fr...",
-      "link": "https://sports.yahoo.com/articles/mikautadzes-clause-rises-78m-amid-102100982.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/c544fbe44c858bc2249fd7bfc32e6640d838f2b5cb0177328d18c7b2a7a83589/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F169c2db0eaae87d85893bc082750f65c.jpg",
-      "published": "2026-08-19 10:21:00",
+      "title": "Han Ho-san, Korean-born coach behind German judo's golden era, dies at 88",
+      "description": "Han Ho-san, the Korean-born former Germany national judo coach who guided generations of medal-winning athletes, has died at 88.",
+      "link": "https://www.koreajoongangdaily.com/sports/han-hosan-longtime-coach-behind-german-judos-golden-era-dies-at-88/12833399",
+      "source": "Koreajoongangdaily Joins News",
+      "image": null,
+      "published": "2026-08-19 11:19:00",
       "category": [
-        "breaking",
+        "sports",
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Mark Rydell, actor-turned-director behind On Golden Pond, who straddled studio and New Hollywood eras",
+      "description": "Mark Rydell, who has died aged 97, was an American actor-turned-director who straddled the divide between the studio era and the New Hollywood that followed, refusing to pick sides. He filmed John Wayne being shot in the back for The Cowboys (1972); in his role as gangster Marty Augustine in Robert Altman\u2019s The Long Goodbye (1973), he was seen to smash a Coke bottle into his girlfriend\u2019s face. It was something of a curveball, then, when Rydell directed On Golden Pond (1981), the genteel romance",
+      "link": "https://ca.news.yahoo.com/mark-rydell-actor-turned-director-111858142.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/cf5173db3d152c197b8fa53d561529514b9ca7073c3c2d7a532773d4253fbb9e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_818%2F8212a8a3d0c861bdf630dd6e9a7cac9b.jpg",
+      "published": "2026-08-19 11:18:58",
+      "category": [
         "sports"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     }
   ]

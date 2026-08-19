@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Frank Beard, drummer of boogie-rock trio ZZ Top, dies at 77",
-      "description": "NEW YORK (AP) \u2014 Frank Beard, the drummer for the Texas boogie-rock trio ZZ Top who kept the tempo for the band\u2019s biggest hits like \u201cSharp Dressed Man,\u201d \u201cGimme All Your Lovin'\u201d and \u201cLegs,\u201d has died. He was 77.",
-      "link": "https://www.nsnews.com/the-mix/frank-beard-drummer-of-boogie-rock-trio-zz-top-dies-at-77-12679558",
-      "source": "Ns News",
-      "image": null,
-      "published": "2026-08-19 10:20:52",
+      "title": "ZZ top\u2019s Frank Beard dies at 77: The drummer behind the band\u2019s iconic beat",
+      "description": "ZZ Top drummer Frank Beard, who helped power the legendary rock band for six decades, has died at 77. The musician passed away in hospice care at his Texas ranch, with family by his side.",
+      "link": "https://www.news9live.com/entertainment/hollywood/zz-tops-frank-beard-dies-at-77-the-drummer-behind-the-bands-iconic-beat-3000822",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/frank-beard.jpg",
+      "published": "2026-08-19 11:19:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Jeremy Clarkson's Diddly Squat Farm Shop named best in UK - here's why",
+      "description": "Jeremy Clarkson\u2019s Diddly Squat Farm Shop has come out on top in a ranking of the top 10 farm shops in the UK.",
+      "link": "https://www.oxfordmail.co.uk/news/26477662.jeremy-clarksons-diddly-squat-farm-shop-named-best-uk/",
+      "source": "Oxford Mail",
+      "image": "https://www.oxfordmail.co.uk/resources/images/21341184/",
+      "published": "2026-08-19 11:18:53",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "canada"
+        "united kingdom"
       ]
     }
   ]

@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Govt pushes advanced tech to modernise agriculture",
-      "description": "Government is stepping up efforts to modernise Indian agriculture through advanced technologies aimed at boosting productivity improving resource use efficiency reducing cultivation costs and labour drudgery",
-      "link": "https://www.fnbnews.com/Top-News/govt-pushes-advanced-tech-to-modernise-agriculture-87627",
-      "source": "Fnbnews",
-      "image": null,
-      "published": "2026-08-19 06:30:00",
-      "category": [
-        "science",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,45 +1,43 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 6,
   "results": [
     {
-      "title": "China goes rural with data centres in quest to power AI",
-      "description": "In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum \u2013 a clue to its unexpected identity as tech giant Huawei's largest data centre.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/08/19/china-goes-rural-with-data-centres-in-quest-to-power-ai",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4066983.jpg",
-      "published": "2026-08-19 06:30:00",
+      "title": "As Europe rearms, Italy\u2019s fragmented space sector faces a scale test",
+      "description": "Italy's space sector is known for niche engineering expertise but remains dominated by small and medium-size companies.",
+      "link": "https://www.japantimes.co.jp/business/2026/08/19/tech/europe-defense-italy-space-sector/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/19/558347.JPG",
+      "published": "2026-08-19 07:22:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "malaysia"
+        "japan"
       ]
     },
     {
-      "title": "Briahna Joy Gray and the Luigi Mangione Murder Apologists",
-      "description": "Maybe the advent of the Internet just amplified the crazy we've always had. Maybe there has always been 10,000 Squeaky...",
-      "link": "https://twitchy.com/gordon-kushner/2026/08/19/luigi-mangione-murder-apologists-n2431402",
-      "source": "Twitchy",
-      "image": "https://media.townhall.com/cdn/hodl/2024/359/c267b609-4a93-46ee-9eac-b1cd509646a3.jpg",
-      "published": "2026-08-19 06:30:00",
+      "title": "Dell 34 Plus USB-C Monitor Review: A Versatile Ultrawide Monitor for Productivity and Content Creation",
+      "description": "The Dell 34 Plus USB-C Hub Monitor is an excellent productivity-focused ultrawide display that successfully combines a spacious 34-inch UWQHD panel with a practical docking station experience.",
+      "link": "https://www.gizbot.com/computer/reviews/dell-34-plus-usb-c-monitor-review-versatile-ultrawide-monitor-productivity-content-creation-126113.html",
+      "source": "Gizbot",
+      "image": "https://images.gizbot.com/webp/img/2026/06/dell-ultrawide-monitor-review-1780809030.jpg",
+      "published": "2026-08-19 07:22:00",
       "category": [
-        "entertainment",
-        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "BEML Launches Indigenous BL40 TH 8-Ton Tyre Handler",
-      "description": "BEML flags off its made-in-India BL40 TH 8-Ton Tyre Handler. Additional Secretary, Dept of Defence Production, calls it a game-changer for India\u2019s mining and...",
-      "link": "https://www.psuconnect.in/psu-news/beml-launches-indigenous-bl40-th-8-ton-tyre-handler",
-      "source": "Psu Connect",
-      "image": "https://images.psuconnect.in/BEML_Launches_Indigenous_BL40_TH_8_Ton_Tyre_Handler.jpg",
-      "published": "2026-08-19 06:30:00",
+      "title": "Astronauts remove faulty ISS antenna during spacewalk; out of time to install spare",
+      "description": "Astronauts Anil Menon and Sophie Adenot removed a failed space-to-ground antenna from the International Space Station during a six-hour-23-minute spacewalk but could not install its replacement due to delays. NASA said the installation will be completed during a future spacewalk, planned for August 25",
+      "link": "https://telanganatoday.com/astronauts-remove-faulty-iss-antenna-during-spacewalk-out-of-time-to-install-spare",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Internation-spce_1.jpg",
+      "published": "2026-08-19 07:21:59",
       "category": [
         "top",
         "technology"
@@ -49,14 +47,52 @@
       ]
     },
     {
-      "title": "Personal Guarantee Recoveries Under IBC Remain Near 1% Despite Over 5,000 Applications",
-      "description": "Personal guarantee recoveries under IBC remain near 1%, with only 64 repayment plans approved from more than 5,000 applications filed since 2019.",
-      "link": "https://www.analyticsinsight.net/news/personal-guarantee-recoveries-under-ibc-remain-near-1-despite-over-5000-applications",
-      "source": "Analytics And Insight",
-      "image": "https://media.assettype.com/analyticsinsight/2026-08-19/kkm7phu9/Creditors-see-1-recovery-in-case-of-personal-guarantees.jpg",
-      "published": "2026-08-19 06:30:00",
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "description": "The world's biggest humanoid robot maker Unitree Robotics made its stock market debut in Shanghai on Wednesday, with its shares soaring by more than 600% in early trading. In the highly anticipated initial public offering (IPO), the Chinese firm's shares opened at 1,100 yuan (\u00a3120.60; $163.12), before giving up some of the gains to trade at around 900 yuan, BBC reports. The listing on... Details",
+      "link": "https://en.ittefaq.com.bd/17786/chinese-robotics-giant-unitree-soars-in-stock",
+      "source": "\u09a6\u09c8\u09a8\u09bf\u0995 \u0987\u09a4\u09cd\u09a4\u09c7\u09ab\u09be\u0995 | The Daily Ittefaq",
+      "image": null,
+      "published": "2026-08-19 07:21:55",
       "category": [
-        "business",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Chery's robot unit eyes IPO, targets overseas market for police robots",
+      "description": null,
+      "link": "https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/C27QWUWOGZIW3A7NW27YXBGLDQ.jpg?auth=ac1c73ca994f6a2a6a59f99ecb4066e2392c7026704f2baca028d16998d31a5a&smart=true&width=1920",
+      "published": "2026-08-19 07:21:43",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "japan",
+        "united kingdom",
+        "ukraine",
+        "iran",
+        "india",
+        "russia",
+        "israel",
+        "south africa",
+        "china",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Inox Clean Energy acquires Vena Energy India for $627m",
+      "description": "Inox Clean Energy, a company within the INOXGFL Group, has acquired Vena Energy India in a transaction valued at around Rs60bn ($626.7m).",
+      "link": "https://www.power-technology.com/news/inox-clean-acquires-vena-energy-india-627m/",
+      "source": "Water Technology",
+      "image": "https://www.power-technology.com/wp-content/uploads/sites/21/2026/08/Power-1-19Aug26-shutterstock_2210445037.jpg",
+      "published": "2026-08-19 07:21:39",
+      "category": [
         "technology"
       ],
       "country": [

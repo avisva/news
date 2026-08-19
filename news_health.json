@@ -1,5 +1,41 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Lumitex Unveils 2026 State of Medical Lighting Report",
+      "description": "Lumitex, a global leader in medical lighting and light-based technologies, proudly announces the release of its 2026 State of Medical Lighting Report.",
+      "link": "https://www.newswise.com/articles/lumitex-unveils-2026-state-of-medical-lighting-report/?sc=rsmn",
+      "source": "Newswise",
+      "image": "https://www.newswise.com/assets/new/img/Newswise-Logo.png",
+      "published": "2026-08-18 13:05:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Healthcare Decision Intelligence Leader Lyric Establishes New Headquarters in Nashville",
+      "description": "NASHVILLE, Tenn.--(BUSINESS WIRE)--Lyric, a healthcare decision intelligence company, today announced it is establishing its new headquarters in Nashville, Tennessee.",
+      "link": "http://www.businesswire.com/news/home/20260818487138/en/Healthcare-Decision-Intelligence-Leader-Lyric-Establishes-New-Headquarters-in-Nashville/",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20260818487138/en/2868169/21/Screenshot_2026-05-12_at_12.18.36%E2%80%AFPM.jpg",
+      "published": "2026-08-18 13:05:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "germany",
+        "australia",
+        "china",
+        "united kingdom",
+        "united states of america",
+        "japan",
+        "canada",
+        "france"
+      ]
+    }
+  ]
 }

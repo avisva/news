@@ -1,20 +1,66 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Chinese firms approach MITI over flying car testing in Malaysia",
-      "description": "KUALA LUMPUR: Several Chinese companies have approached the Ministry of Investment, Trade and Industry (MITI) about using Malaysia as a testing ground for urban air mobility technologies, including so-called flying cars. Deputy Investment, Trade and Industry Minister Sim Tze Tzin said discussions were still at an early stage, but the companies were also interested in [...]",
-      "link": "https://thesun.my/business/chinese-firms-approach-miti-over-flying-car-testing-in-malaysia/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/08/IMG_2485.jpeg",
-      "published": "2026-08-19 05:22:30",
+      "title": "China goes rural with data centres in quest to power AI",
+      "description": "In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum \u2013 a clue to its unexpected identity as tech giant Huawei's largest data centre.",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/08/19/china-goes-rural-with-data-centres-in-quest-to-power-ai",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4066983.jpg",
+      "published": "2026-08-19 06:30:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
         "malaysia"
+      ]
+    },
+    {
+      "title": "Briahna Joy Gray and the Luigi Mangione Murder Apologists",
+      "description": "Maybe the advent of the Internet just amplified the crazy we've always had. Maybe there has always been 10,000 Squeaky...",
+      "link": "https://twitchy.com/gordon-kushner/2026/08/19/luigi-mangione-murder-apologists-n2431402",
+      "source": "Twitchy",
+      "image": "https://media.townhall.com/cdn/hodl/2024/359/c267b609-4a93-46ee-9eac-b1cd509646a3.jpg",
+      "published": "2026-08-19 06:30:00",
+      "category": [
+        "entertainment",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BEML Launches Indigenous BL40 TH 8-Ton Tyre Handler",
+      "description": "BEML flags off its made-in-India BL40 TH 8-Ton Tyre Handler. Additional Secretary, Dept of Defence Production, calls it a game-changer for India\u2019s mining and...",
+      "link": "https://www.psuconnect.in/psu-news/beml-launches-indigenous-bl40-th-8-ton-tyre-handler",
+      "source": "Psu Connect",
+      "image": "https://images.psuconnect.in/BEML_Launches_Indigenous_BL40_TH_8_Ton_Tyre_Handler.jpg",
+      "published": "2026-08-19 06:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Personal Guarantee Recoveries Under IBC Remain Near 1% Despite Over 5,000 Applications",
+      "description": "Personal guarantee recoveries under IBC remain near 1%, with only 64 repayment plans approved from more than 5,000 applications filed since 2019.",
+      "link": "https://www.analyticsinsight.net/news/personal-guarantee-recoveries-under-ibc-remain-near-1-despite-over-5000-applications",
+      "source": "Analytics And Insight",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-19/kkm7phu9/Creditors-see-1-recovery-in-case-of-personal-guarantees.jpg",
+      "published": "2026-08-19 06:30:00",
+      "category": [
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

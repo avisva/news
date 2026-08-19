@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "India vs Pakistan, FIH Hockey Men's World Cup 2026: When And Where To Watch High-Stakes Clash In India?",
-      "description": "A high-stakes clash looms in the FIH Men's Hockey World Cup 2026 as India and Pakistan will take on one another on August 19, Wednesday at the Wagener Stadium, Amstelveen, Netherlands.",
-      "link": "https://www.newsx.com/sports/india-vs-pakistan-fih-hockey-mens-world-cup-2026-when-and-where-to-watch-high-stakes-clash-in-india-262083/",
-      "source": "Newsx",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/08/resized-fotojet-2026-08-19t124625273.jpg",
-      "published": "2026-08-19 07:21:47",
+      "title": "Gold-seeking Yulo banners 14-man Philippine gymnastics squad in Asian Games",
+      "description": "Filipino gymnastics star Carlos Yulo has won it all except one \u2014 the Asian Games gold medal.",
+      "link": "https://www.philstar.com/sports/2026/08/19/2550387/gold-seeking-yulo-banners-14-man-philippine-gymnastics-squad-asian-games",
+      "source": "Philstar.com",
+      "image": "https://media.philstar.com/photos/2024/08/05/yulo_2024-08-05_00-46-53.jpg",
+      "published": "2026-08-19 08:23:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Pakistan, India set for high-stakes Hockey World Cup 2026 clash",
+      "description": "AMSTELVEEN \u2013 Pakistan are set to face arch-rivals India in a crucial Hockey World Cup 2026 match on Wednesday, with...",
+      "link": "https://pakobserver.net/pakistan-india-set-for-high-stakes-hockey-world-cup-2026-clash/",
+      "source": "Pakistan Observer",
+      "image": "https://pakobserver.net/wp-content/uploads/2026/08/pakistan-india-set-for-high-stakes-hockey-world-cup-2026-clash-pakobserver-771852-1.jpg",
+      "published": "2026-08-19 08:23:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "india"
+        "pakistan"
       ]
     }
   ]

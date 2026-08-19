@@ -1,247 +1,106 @@
 {
   "status": "success",
-  "totalResults": 17,
+  "totalResults": 15,
   "results": [
     {
-      "title": "As Europe rearms, Italy\u2019s fragmented space sector faces a scale test",
-      "description": "Italy's space sector is known for niche engineering expertise but remains dominated by small and medium-size companies.",
-      "link": "https://www.japantimes.co.jp/business/2026/08/19/tech/europe-defense-italy-space-sector/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/19/558347.JPG",
-      "published": "2026-08-19 07:22:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "japan"
-      ]
-    },
-    {
-      "title": "Apollo Hospitals launches \u2018Always Open, Always Here\u2019, a global first in healthcare from India",
-      "description": "Apollo Hospitals launches \u2018Always Open, Always Here\u2019, a global first in healthcare from India",
-      "link": "https://www.psuconnect.in/health/apollo-hospitals-launches-always-open-always-here-a-global-first-in-healthcare-from-india",
-      "source": "Psu Connect",
-      "image": "https://images.psuconnect.in/Apollo_Hospitals_launches_Always_Open_Always_Here_a_global_first_in_healthcare_from_India.jpg",
-      "published": "2026-08-19 07:22:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Madonna tops 2026 VMA nominations as Swift eyes historic record",
-      "description": "Madonna leads the 2026 MTV Video Music Award nominations, the network announced Tuesday. The pop superstar has been nominated in every decade of her musical career. She has 19 com...",
-      "link": "https://www.dailysabah.com/arts/music/madonna-tops-2026-vma-nominations-as-swift-eyes-historic-record",
-      "source": "Daily Sabah",
-      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/19/456490.jpg",
-      "published": "2026-08-19 07:22:00",
-      "category": [
-        "entertainment",
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "turkey"
-      ]
-    },
-    {
-      "title": "Astronauts remove faulty ISS antenna during spacewalk; out of time to install spare",
-      "description": "Astronauts Anil Menon and Sophie Adenot removed a failed space-to-ground antenna from the International Space Station during a six-hour-23-minute spacewalk but could not install its replacement due to delays. NASA said the installation will be completed during a future spacewalk, planned for August 25",
-      "link": "https://telanganatoday.com/astronauts-remove-faulty-iss-antenna-during-spacewalk-out-of-time-to-install-spare",
-      "source": "Telangana Today",
-      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Internation-spce_1.jpg",
-      "published": "2026-08-19 07:21:59",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Pakistan government to challenge Imran Khan hospital move, says law minister",
-      "description": "ISLAMABAD, Aug 19 - Pakistan's government will challenge a Supreme Court decision that ordered authorities to move jailed former Prime Minister Imran Khan to a private hospital, Law Minister Azam Nazeer Tarar said in a video statement.",
-      "link": "https://www.straitstimes.com/asia/pakistan-government-to-challenge-imran-khan-hospital-move-says-law-minister",
-      "source": "Straitstimes",
-      "image": null,
-      "published": "2026-08-19 07:21:58",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Chinese robotics giant Unitree soars in stock market debut",
-      "description": "The world's biggest humanoid robot maker Unitree Robotics made its stock market debut in Shanghai on Wednesday, with its shares soaring by more than 600% in early trading. In the highly anticipated initial public offering (IPO), the Chinese firm's shares opened at 1,100 yuan (\u00a3120.60; $163.12), before giving up some of the gains to trade at around 900 yuan, BBC reports. The listing on... Details",
-      "link": "https://en.ittefaq.com.bd/17786/chinese-robotics-giant-unitree-soars-in-stock",
-      "source": "\u09a6\u09c8\u09a8\u09bf\u0995 \u0987\u09a4\u09cd\u09a4\u09c7\u09ab\u09be\u0995 | The Daily Ittefaq",
-      "image": null,
-      "published": "2026-08-19 07:21:55",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "London seeing \u2018sustained escalation of anti-Muslim hate\u2019, charity reports",
-      "description": null,
-      "link": "https://www.independent.co.uk/bulletin/news/anti-muslim-hate-london-tell-mama-b3035426.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-08-19 07:21:54",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o",
-      "source": "The Bbc",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea5/live/58d5cb20-9b93-11f1-a724-73731eb60c12.jpg",
-      "published": "2026-08-19 07:21:51",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "thailand",
-        "syria",
-        "iraq",
-        "saudi arabia",
-        "taiwan",
-        "malaysia",
-        "bangladesh",
-        "cyprus",
-        "tajikistan",
-        "kuwait",
-        "mongolia",
-        "lebanon",
-        "armenia",
-        "pakistan",
-        "hong kong",
-        "indonesia",
-        "north korea",
-        "sri lanka",
-        "israel",
-        "united kingdom",
-        "timor-leste",
-        "yemen",
-        "afghanistan",
-        "myanmar",
-        "georgia",
-        "azerbaijan",
-        "macau",
-        "kyrgyzstan",
-        "japan",
-        "laos",
-        "maldives",
-        "nepal",
-        "uzbekistan",
-        "iran",
-        "cambodia",
-        "jordan",
-        "qatar",
-        "oman",
-        "vietnam",
-        "turkey",
-        "turkmenistan",
-        "singapore",
-        "bahrain",
-        "south korea",
-        "india",
-        "bhutan",
-        "philippines",
-        "united arab emirates",
-        "kazakhstan",
-        "china",
-        "brunei"
-      ]
-    },
-    {
-      "title": "Chief of Staff finds new role for offcier blocked from promotion",
-      "description": "Defense Minister Israel Katz rejected a promotion for Maj. Gen. Eliad Muati. Now, IDF Chief of Staff Eyal Zamir has found a way to keep the senior officer in service.",
-      "link": "https://www.israelnationalnews.com/news/431922",
-      "source": "Israelnationalnews",
-      "image": "https://www.israelnationalnews.com/files/pictures/0/1220805.jpg",
-      "published": "2026-08-19 07:21:51",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "israel"
-      ]
-    },
-    {
-      "title": "Berwick and Narre Warren South One Nation candidates announced",
-      "description": "As the election draws closer, in an attempt to ride the momentum wave, One Nation has announced 10 new candidates for the November state election. Among them are Berwick candidate Michael Piastrino and Narre Warren South candidate Trevor Hammond. Both had formerly been involved in prior elections. Who is Michael Piastrino? As outlined by his [...]",
-      "link": "https://cranbournenews.starcommunity.com.au/news/2026-08-19/berwick-and-narre-warren-south-one-nation-candidates-announced/",
-      "source": "Cranbourne Star News",
-      "image": "https://cranbournenews.starcommunity.com.au/files/2026/08/ONcand_573133_04.jpg",
-      "published": "2026-08-19 07:21:50",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "MOPP Dedicates New Health Center in Maryland",
-      "description": "By Patrick N. Mensah, Maryland County PLEEBO, Maryland County: The Maryland Oil Palm Plantation (MOPP), in collaboration with the Maryland County local government and other partners, has dedicated a newly constructed health center in Wlowein Community, Karluway District, aimed at improving access to basic healthcare services. The facility was constructed through MOPP\u2019s Corporate Social Responsibility ... The post MOPP Dedicates New Health Center in Maryland appeared first on Liberia news The New Dawn Liberia, premier resource for latest news .",
-      "link": "https://www.thenewdawnliberia.com/mopp-dedicates-new-health-center-in-maryland/",
-      "source": "Liberia News The New Dawn Liberia, Premier Resourc",
-      "image": "https://www.thenewdawnliberia.com/jepujef/2026/08/Health-Center.jpg",
-      "published": "2026-08-19 07:21:48",
+      "title": "2 Highland warehouses would be bad neighbors for schools, critics say",
+      "description": "An environmental justice group is appealing extensions for projects near Highland Head Start and Indian Springs High School.",
+      "link": "https://www.sbsun.com/2026/08/19/2-highland-warehouses-would-be-bad-neighbors-for-schools-critics-say/",
+      "source": "San Bernardino Sun",
+      "image": "https://www.sbsun.com/wp-content/uploads/2026/08/SBS-L-MENSDAY-BRF-1111.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-19 08:23:00",
       "category": [
         "environment",
         "top"
       ],
       "country": [
-        "liberia"
+        "united states of america"
       ]
     },
     {
-      "title": "India vs Pakistan, FIH Hockey Men's World Cup 2026: When And Where To Watch High-Stakes Clash In India?",
-      "description": "A high-stakes clash looms in the FIH Men's Hockey World Cup 2026 as India and Pakistan will take on one another on August 19, Wednesday at the Wagener Stadium, Amstelveen, Netherlands.",
-      "link": "https://www.newsx.com/sports/india-vs-pakistan-fih-hockey-mens-world-cup-2026-when-and-where-to-watch-high-stakes-clash-in-india-262083/",
-      "source": "Newsx",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/08/resized-fotojet-2026-08-19t124625273.jpg",
-      "published": "2026-08-19 07:21:47",
+      "title": "Ukrainian man arrested over 2022 Nord Stream pipeline explosions",
+      "description": "German prosecutors said that the suspect was a \u201ctrained scuba diver.\u201d",
+      "link": "https://www.sbsun.com/2026/08/19/ukrainian-man-arrested-nord-stream-pipeline-explosions/",
+      "source": "San Bernardino Sun",
+      "image": "https://www.sbsun.com/wp-content/uploads/2026/08/Germany_Nord_Stream_Arrest_91457.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-19 08:23:00",
       "category": [
-        "sports",
+        "crime",
         "top"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Labor thinks it can win elections defending super. For Hanson, it\u2019s just another way to deprive Taylor of political oxygen",
-      "description": "Despite leading in the polls, Hanson is allowed to offer thought bubbles instead of actual policy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast All sides of politics are feeling the heat from Pauline Hanson. On Tuesday, the One Nation leader pulled the rug out from under the Coalition by announcing a policy to slash tobacco excise by 75%, to deal with surging illegal sales. The policy was remarkably similar to one Liberals and Nationals have been discussing for months. Continue reading...",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/19/labor-thinks-it-can-win-elections-defending-super-for-hanson-its-just-another-way-to-deprive-taylor-of-political-oxygen",
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/8825e2b3393b3da5701cd5bcd9ace2e246b04d9b/420_0_5708_4569/master/5708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4610f67652d070fc341cc37eacaf23c",
-      "published": "2026-08-19 07:21:44",
+      "title": "David Krumholtz drops shocking Hollywood career announcement",
+      "description": "David Krumholtz drops shocking Hollywood career announcement David Krumholtz has spent decades building an impressive Hollywood re\u0301sume\u0301. Now, the actor says he may be stepping away from the business altogether. The 48-year-old star, who has more than 140 acting...",
+      "link": "https://www.geo.tv/latest/678283-david-krumholtz-drops-shocking-hollywood-career-announcement",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-08-19/678283_012331_updates.jpg",
+      "published": "2026-08-19 08:23:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Your Maverick Insider payment",
+      "description": null,
+      "link": "https://www.dailymaverick.co.za/article/2995647-your-maverick-insider-payment",
+      "source": "Daily Maverick",
+      "image": null,
+      "published": "2026-08-19 08:23:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "OCHA Reaffirms Commitment to Supporting Afghanistan",
+      "description": "The United Nations humanitarian office in Afghanistan has called for continued international support as growing humanitarian needs and a severe funding shortfall threaten the delivery of lifesaving assistance to vulnerable Afghans. Amy Martin, head of the UN Office for the Coordination of Humanitarian Affairs (OCHA) in Afghanistan, made the appeal on Wednesday, August 19, marking [...] The post OCHA Reaffirms Commitment to Supporting Afghanistan appeared first on Khaama Press .",
+      "link": "https://www.khaama.com/ocha-reaffirms-commitment-to-supporting-afghanistan/",
+      "source": "Khaama Press",
+      "image": "https://www.khaama.com/wp-content/uploads/2026/08/OCHA-afghanistan.jpg",
+      "published": "2026-08-19 08:23:00",
       "category": [
         "politics",
+        "top"
+      ],
+      "country": [
+        "afghanistan"
+      ]
+    },
+    {
+      "title": "A Proud Milestone for AISpeech! Matrix Array Microphone Named AV Awards 2026 Finalist in Two Categories",
+      "description": "SUZHOU, China, Aug. 19, 2026 /PRNewswire/ \u2014 The article is from Shuzhi Society. AISpeech is pleased to announce that its flagship MA600D Matrix Array Microphone has been named a finalist...",
+      "link": "https://nynewscast.com/a-proud-milestone-for-aispeech-matrix-array-microphone-named-av-awards-2026-finalist-in-two-categories-248236/",
+      "source": "Nynewscast",
+      "image": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+      "published": "2026-08-19 08:23:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018No idea\u2019: Couple sat on $4.8m lotto ticket",
+      "description": null,
+      "link": "https://www.news24.com.au/latest/no-idea-couple-did-not-realise-they-had-a-48m-winning-lotto-ticket-on-their-desk/news-story/35746e6168ca4bb061b6420e3290cc82",
+      "source": "Sky News Australia",
+      "image": "https://content.api.news/v3/images/bin/944233263f119a969192dc09b59b42bf",
+      "published": "2026-08-19 08:23:00",
+      "category": [
+        "business",
         "top"
       ],
       "country": [
@@ -249,52 +108,101 @@
       ]
     },
     {
-      "title": "Chery's robot unit eyes IPO, targets overseas market for police robots",
-      "description": null,
-      "link": "https://www.reuters.com/business/autos-transportation/cherys-robot-unit-eyes-ipo-targets-overseas-market-police-robots-2026-08-19/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/C27QWUWOGZIW3A7NW27YXBGLDQ.jpg?auth=ac1c73ca994f6a2a6a59f99ecb4066e2392c7026704f2baca028d16998d31a5a&smart=true&width=1920",
-      "published": "2026-08-19 07:21:43",
+      "title": "He returned to Ukraine at 18 to defend it, lost a leg but returned to service: Marine Yevhen Minzhener, 21, killed in action",
+      "description": "Ukrainian soldier Yevhen Minzhenerm, 21, was killed near Pavlohrad. He returned from Tu\u0308rkiye at the age of 18, lost a leg on the front line but later returned to military service.",
+      "link": "https://www.pravda.com.ua/eng/news/2026/08/19/8049276/",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/9/894644/3916379953bafdac8902dd85da1f196e.jpeg",
+      "published": "2026-08-19 08:23:00",
       "category": [
-        "technology",
+        "crime",
         "top"
       ],
       "country": [
-        "japan",
-        "united kingdom",
-        "ukraine",
-        "iran",
-        "india",
-        "russia",
-        "israel",
-        "south africa",
-        "china",
-        "united states of america"
+        "ukraine"
       ]
     },
     {
-      "title": "Gold at risk of H4 reversal.",
-      "description": "Gold is showing clear signs of weakening on the H4 timeframe after failing to sustain the recent upward momentum. Price was rejected from the 4425\u20134440 Demand zone and has since formed a sequence of lower highs, while the short-term descending trendline continues to cap upside recovery. The current rebound toward 4360\u20134370 should therefore be treated as a potential retest rather than a confirmed upward reversal. Bearish Scenario \u2014 Preferred Bias If Gold fails to reclaim and hold above 4360\u20134370, sellers could regain control and push price back toward the 4310\u20134320 Supply/Support zone. A confirmed break below this area would strengthen the bearish structure and open the way toward the next major support around 4215\u20134230. Bullish Scenario Gold can only regain upward momentum if buyers reclaim 4360\u20134370 with a decisive H4 close. A confirmed breakout could bring price back toward 4425\u20134440, where major supply remains. Until that happens, chasing buys carries unfavorable risk after the previous rejection. Lucas View The broader momentum is shifting from expansion to distribution/correction. With Gold showing weaker follow-through after the strong rally, Lucas prefers SELL on confirmed rejection, rather than chasing price in the middle of the range. The key decision zone remains 4360\u20134370. \ud83d\udd34 Resistance: 4360\u20134370 | 4425\u20134440 \ud83d\udfe2 Support: 4310\u20134320 | 4215\u20134230 \ud83d\udccc Bias: BEARISH \u2014 WAIT FOR CONFIRMATION LucasGrayTrading",
-      "link": "https://in.tradingview.com/chart/XAUUSD/IHFvEkuX-Gold-at-risk-of-H4-reversal/",
-      "source": "Tradingview",
-      "image": "https://s3.tradingview.com/i/IHFvEkuX_big.png",
-      "published": "2026-08-19 07:21:43",
+      "title": "Pakistan, India set for high-stakes Hockey World Cup 2026 clash",
+      "description": "AMSTELVEEN \u2013 Pakistan are set to face arch-rivals India in a crucial Hockey World Cup 2026 match on Wednesday, with...",
+      "link": "https://pakobserver.net/pakistan-india-set-for-high-stakes-hockey-world-cup-2026-clash/",
+      "source": "Pakistan Observer",
+      "image": "https://pakobserver.net/wp-content/uploads/2026/08/pakistan-india-set-for-high-stakes-hockey-world-cup-2026-clash-pakobserver-771852-1.jpg",
+      "published": "2026-08-19 08:23:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "IPC Shopping Centre Builds Momentum Towards the Opening of IPC Gourmet Hall",
+      "description": "Scheduled to open in December 2026, the new destination brings together established brands, refreshed concepts and a thoughtfully curated customer experience PETALING JAYA , Malaysia , Aug. 19, 2026 /PRNewswire/ -- First announced in March 2026, IPC Gourmet Hall is progressing steadily towards its targeted December 2026 opening, reinforcing IPC Shopping Centre's continued commitment to shaping a stronger dining and lifestyle proposition for the surrounding community. Spanning approximately 43,000 square feet with 39 outlets upon completion, the new destination has been designed to offer greater variety, convenience and choice while creating more opportunities for people to gather, connect and enjoy meaningful everyday moments. *The images presented are artists' impressions and are for illustrative purposes only. Final designs may vary. As the destination continues to take shape, its carefully curated line-up signals strong progress and growing confidence in IPC Gourmet Hall as a future dining address. Confirmed tenants such as Ole-Ole Bali, Paradise Dynasty, Chameleon Restaurant, Bantianyao Grilled Fish, Seven Seas, BaD Scones, Churn Ice Cream, Halla Holla, Furiku, and Anytime Acai reflect the breadth of the offering being built for visitors, while reinforcing the hall's appeal to brands seeking to be part of a lifestyle-led community destination. Mark Tan, Acting General Manager of IPC Shopping Centre said, \"Food plays an important role in bringing people together, and consumers today are increasingly looking for places that offer both variety and quality within a welcoming environment. IPC Gourmet Hall is designed to meet those evolving expectations by bringing together a strong mix of brands, cuisines and dining experiences in one destination. It will also complement our existing food and beverage offering, giving the community more reasons to meaningfully connect with their loved ones at IPC Shopping Centre. \"At IPC Shopping Centre, we want to create a place where people feel at home; whether they are stopping by for a quick meal, catching up with family and friends, or simply spending time together. Through IPC Gourmet Hall, we're bringing together a wider variety of dining experiences within a welcoming, nature-inspired setting, making it easier for our community to discover new favourites, enjoy familiar comforts and create meaningful moments. More importantly, we hope it becomes another reason for people to continue seeing IPC Shopping Centre as their familiar third home.\" A Curated Mix of Flavours and New Dining Experiences More than an expansion of IPC's food and beverage offering, IPC Gourmet Hall has been thoughtfully planned around a range of dining needs and occasions, from quick weekday meals and casual catch-ups to family gatherings and celebrations. The destination will bring together diverse flavours within a warm, nature-inspired environment featuring greenery, natural textures and flexible seating options. Among the highlights include Paradise Dynasty , which will introduce a first-of-its-kind concept at IPC Shopping Centre that is different from its other outlets, making IPC the first destination to feature this refreshed experience. Ole-Ole Bali will also unveil a new concept that celebrates the rich culinary traditions of Bali. Further diversifying the offering is Chameleon Restaurant , which will mark its first outlet in a shopping centre. The Japanese-Western fusion concept is recognised for its restaurant-quality cuisine, wholesome ingredients and approachable dining experience that balances comfort with value. The tenant line-up also includes Bantianyao Grilled Fish , a popular grilled fish concept known for its bold flavours and shareable dining experience. Complementing the savoury offerings is BaD Scones , that specializes in classic freshly baked English scones and hearty British comfort food concept built around its \"Buy and Donate\" mission. The dessert selection is further enhanced by Churn Ice Cream , a homegrown artisanal ice cream brand recognised for its handcrafted ice creams made from quality ingredients, alongside Malaysia's first recorded sourdough waffles. With construction now at its halfway mark, IPC Gourmet Hall continues to take shape and remains on track for its December 2026 opening. The aforementioned tenants offer an early glimpse of the dining experience visitors can look forward to. Upon completion, IPC Gourmet Hall will mark an important milestone in IPC Shopping Centre's continued evolution as a lifestyle destination, further strengthening its role as a place where there's something for everyone. As an extension of IPC Shopping Centre's role as a familiar third home, the new destination reflects its commitment to creating spaces that remain relevant to the everyday lives for the many people it serves. For more information or leasing enquiries, please contact leasing@ikano.asia . -END- About IPC Shopping Centre: Established in December 2003, IPC Shopping Centre is Malaysia's first meeting place anchored by IKEA with the big blue box store and a vital part of Ikano Retail's growing portfolio in the Southeast Asia region. Strategically nestled in the heart of the mixed-use development of Mutiara Damansara, it serves as a familiar third home for their community and beyond. More than just a retail destination, IPC Shopping Centre is a space where everyone can recharge, reconnect, and enjoy life's simple moments, all while providing the convenience they need for their shopping. Rooted in its Swedish heritage, IPC Shopping Centre embodies the concept of Lagom Life \u2013 a way of living that is balanced, sustainable, and just right. This shapes everything from its sustainable living inspired environment, the carefully curated tenant mix, to the overall experience, offering visitors a space to slow down, find balance, and enjoy life at their own pace. IPC Shopping Centre also leads in sustainability with the flagship Recycling and Buy-Back Centre and other green initiatives in fostering community engagement and showcasing their commitment to a greener future.",
+      "link": "https://en.prnasia.com/story/544505-0.shtml",
+      "source": "Pr Newswire Apac",
+      "image": "https://mmx.prnewswire.com/media/MS1885219/MORFIUS.jpg?id=OA2769962&p=facebook",
+      "published": "2026-08-19 08:23:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "india"
+        "pakistan",
+        "turkmenistan",
+        "bangladesh",
+        "india",
+        "uzbekistan",
+        "brunei",
+        "armenia",
+        "qatar",
+        "taiwan",
+        "singapore",
+        "afghanistan",
+        "macau",
+        "china",
+        "laos",
+        "tajikistan",
+        "bahrain",
+        "timor-leste",
+        "hong kong",
+        "azerbaijan",
+        "united arab emirates",
+        "vietnam",
+        "bhutan",
+        "yemen",
+        "philippines",
+        "saudi arabia",
+        "syria",
+        "turkey",
+        "romania"
       ]
     },
     {
-      "title": "South Africa: Public Protector\u2019s Report on R5.1 Billion in Improper Student Funding Is Deeply Concerning",
-      "description": "Download logoThe Chairperson of the Portfolio Committee on Higher Education and Training, Mr Tebogo Letsie, has noted the damning Office of the Public Protector report relating to the National Student Financial Aid Scheme (NSFAS) and... The post South Africa: Public Protector\u2019s Report on R5.1 Billion in Improper Student Funding Is Deeply Concerning appeared first on Social News XYZ .",
-      "link": "https://www.socialnews.xyz/2026/08/19/south-africa-public-protectors-report-on-r5-1-billion-in-improper-student-funding-is-deeply-concerning/",
-      "source": "Social News Xyz",
-      "image": null,
-      "published": "2026-08-19 07:21:42",
+      "title": "Epson expands ecozone operations with robotics manufacturing project",
+      "description": "The Philippine Economic Zone Authority and Epson Precision Philippines signed an agreement enabling Epson to expand its Batangas operations",
+      "link": "https://portcalls.com/epson-expands-ecozone-operations-with-robotics-manufacturing-project/",
+      "source": "Portcalls Asia",
+      "image": "https://portcalls.com/wp-content/uploads/2026/08/PEZA-Epson.jpeg",
+      "published": "2026-08-19 08:22:58",
       "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Coal scam cases: SC asks Delhi HC to dispose of appeals in four weeks",
+      "description": "The Supreme Court on Wednesday asked the Delhi High Court not to grant any stay on trials in coal block allocation scam cases and decide pending appeals of accused within four weeks to ensure their rights are not adversely affected. A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana passed the orders after it was pointed out that in some coal scam cases the accused have moved the high court for relief while in some cases they have moved the top court. \"No interim stay can be granted by the Delhi High Court. However, keeping in view the fact that non-stay of the trial may prejudice the rights of the accused, the high court is directed to decide such petitions preferably in four weeks,\" the bench ordered. The bench said it has not expressed any opinion on the merit of any case. Last month, the top court, while relaxing its nearly 12-year-old order mandating appeals arising from the orders of special court in coal block allocation scam cases to be filed in t",
+      "link": "https://www.business-standard.com/india-news/coal-scam-cases-sc-asks-delhi-hc-to-dispose-of-appeals-in-four-weeks-126081900550_1.html",
+      "source": "Business Standard",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260819/thumb-126081900550.jpg",
+      "published": "2026-08-19 08:22:57",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -302,18 +210,50 @@
       ]
     },
     {
-      "title": "New US immigration guidance may affect thousands of Indians seeking green cards",
-      "description": "Washington: Thousands of Indians seeking US green cards could face wider scrutiny of their finances and use of public benefits under new immigration guidance taking effect September 18. US Citizenship and Immigration Services said officers may consider housing assistance, food stamps, college financial aid and other means-tested benefits when deciding whether an applicant is likely [...]",
-      "link": "https://www.orissapost.com/new-us-immigration-guidance-may-affect-thousands-of-indians-seeking-green-cards/",
-      "source": "Orissa Post",
-      "image": "https://www.orissapost.com/wp-content/uploads/2026/08/New-US-green-card-rule.png",
-      "published": "2026-08-19 07:21:40",
+      "title": "GCC Aesthetic Medicine training evolves as demand for clinical expertise grows",
+      "description": "Across Dubai, Doha, Riyadh, Muscat and other Gulf cities, physicians, dentists, nurses and other eligible healthcare professionals are encountering an increasingly diverse range of aesthetic treatments.",
+      "link": "https://www.healthcaremea.com/2026/08/19/gcc-aesthetic-medicine-training-evolves-as-demand-for-clinical-expertise-grows/",
+      "source": "Healthcaremea",
+      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-19T111149.865.png",
+      "published": "2026-08-19 08:22:54",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "saudi arabia",
+        "united arab emirates",
+        "jordan",
+        "egypt"
+      ]
+    },
+    {
+      "title": "Former Pakistan PM Imran Khan Meets Wife Bushra Bibi, Sister After 9 Months In Adiala Jail",
+      "description": "Imran Khan met wife Bushra Bibi and sister after nine months inside Adiala Jail following a Supreme Court order allowing family meetings amid health concerns and ongoing legal battles in Pakistan.",
+      "link": "https://www.dynamitenews.com/international/former-pakistan-pm-imran-khan-meets-wife-bushra-bibi-sister-after-9-months-in-adiala-jail",
+      "source": "Dynamite News",
+      "image": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/08/Imran-khan-and-wife.jpg",
+      "published": "2026-08-19 08:22:53",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Live from Pembrokeshire County Show- Wales' biggest farming event of its kind",
+      "description": "Welcome to our live blog from Pembrokeshire County Show- Wales' biggest agricultural event of its kind.",
+      "link": "https://www.westerntelegraph.co.uk/news/26476558.food-farming-family-fun-pembrokeshire-county-show/",
+      "source": "The Western Telegraph",
+      "image": "https://www.westerntelegraph.co.uk/resources/images/14485836/",
+      "published": "2026-08-19 08:22:49",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

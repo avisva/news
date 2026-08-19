@@ -1,20 +1,36 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Bill Rasmussen, ESPN co-founder, dies at 93 from the effects of Parkinson\u2019s disease",
-      "description": "Rasmussen announced in 2019 that he had been diagnosed with the degenerative disease in 2014.",
-      "link": "https://www.news9.com/sports/bill-rasmussen-dead-espn-founder",
-      "source": "News9.com",
-      "image": "https://cdn.griffin.news/dims4/default/0d8976e/2147483647/strip/false/crop/869x577+0+0/resize/869x577!/quality/90/?url=https%3A%2F%2Fgriffin-media-production-griffin.s3.us-east-2.amazonaws.com%2Fbrightspot%2F39%2F2e%2F55ac13364b68abcf1834097aa880%2Fbillrassmussen.png",
-      "published": "2026-08-18 17:25:59",
+      "title": "Why Neutrogena is facing boycott calls after Hayden Panettiere\u2019s death",
+      "description": null,
+      "link": "https://www.independent.co.uk/bulletin/lifestyle/hayden-panettiere-death-neutrogena-backlash-ppd-b3035186.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-08-18 18:37:59",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Clients of Carleton Place salon may have been exposed to infection, health unit warns",
+      "description": "Southeast Public Health is warning clients of a Carleton Place salon who received certain services over the past three years that they may have been exposed to equipment that wasn't properly cleaned or disinfected.",
+      "link": "https://www.cbc.ca/news/canada/ottawa/carleton-place-galleria-health-unit-infection-news-9.7311229?cmp=rss",
+      "source": "Cbc",
+      "image": "https://i.cbc.ca/ais/9c0556b0-6515-4e3e-9109-17db625cb763,1787076878306/full/max/0/default.jpg?im=Crop%2Crect%3D%28136%2C1511%2C3797%2C2135%29%3B",
+      "published": "2026-08-18 18:37:46",
+      "category": [
+        "crime",
+        "top",
+        "health"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

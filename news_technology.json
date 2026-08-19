@@ -1,18 +1,31 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "How can governments turn data into better decisions?",
-      "description": "Highlights Governments generate enormous amounts of data, but they harness only a fraction of its potential. Administrative systems contain key information for improving public management. Turning data into decisions can improve the implementation of public policies and contribute to more timely and effective services for people. By Sandra Hipatia Naranjo Bautista Governments generate enormous amounts of [...]",
-      "link": "https://caribbeannewsglobal.com/how-can-governments-turn-data-into-better-decisions/",
-      "source": "Caribbean News Global",
-      "image": null,
-      "published": "2026-08-19 01:41:00",
+      "title": "AI-assisted tool helps secure satellite communications after Russia\u2019s 2022 hack",
+      "description": "An AI-assisted cybersecurity tool used to secure Viasat after Russia's 2022 satellite hack has been released commercially, as threats to critical infrastructure from state-backed hackers grow.",
+      "link": "https://www.cnbctv18.com/world/ai-assisted-tool-helps-secure-satellite-communications-after-russias-2022-hack-19972316.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-96496db20e73841b31a247c48c70c75d.jpg",
+      "published": "2026-08-19 02:28:58",
       "category": [
-        "science",
-        "technology",
-        "top"
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Abu Dhabi congress to explore Arabic AI tools and creative industries financing",
+      "description": "The fifth Congress of Arabic and Creative Industries takes place September 20 in Abu Dhabi, focusing on growing the sector globally. The free event, organized by the Abu Dhabi Arabic Language Centre, covers AI tools, licensing, and investment gaps in MENA's creative economy.",
+      "link": "https://completeaitraining.com/news/abu-dhabi-congress-to-explore-arabic-ai-tools-and-creative/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/abu-dhabi-congress-to-explore-arabic-ai-tools-and-creative-industries-financing_2026-08-18.jpg",
+      "published": "2026-08-19 02:28:51",
+      "category": [
+        "top",
+        "technology"
       ],
       "country": [
         "united states of america"

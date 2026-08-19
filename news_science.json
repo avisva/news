@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Telescope spies the fastest star in the Milky Way zipping around a black hole",
+      "description": "It\u2019s zipping around the supermassive black hole at the center of our galaxy.",
+      "link": "https://www.redlandsdailyfacts.com/2026/08/19/fastest-star-black-hole/",
+      "source": "Redlands Daily Facts",
+      "image": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/08/Fastest_Star_Black_Hole_56_59.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-19 09:22:00",
+      "category": [
+        "science",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "England vs Pakistan, 1st Test Live Score",
+      "description": null,
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/england-vs-pakistan-first-cricket-test-leeds-headingley-live-score-updates-joe-root-harry-brook-salman-agha-mohammad-rizwan/liveblog/133343478.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/photo/msid-33550531/33550531.jpg",
+      "published": "2026-08-19 09:22:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Unnatural Amino Acids Market to Reach $2.39 Billion by 2031 as Peptide Therapeutics and Biopharmaceutical Research Accelerate",
+      "description": "Dublin, Aug. 19, 2026 (GLOBE NEWSWIRE) -- The \"Unnatural Amino Acids - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026-2031)\" has been added to ResearchAndMarkets.com's offering.",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/08/19/3347460/28124/en/unnatural-amino-acids-market-to-reach-2-39-billion-by-2031-as-peptide-therapeutics-and-biopharmaceutical-research-accelerate.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-08-19 09:22:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "france"
+      ]
+    }
+  ]
 }

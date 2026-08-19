@@ -1,35 +1,81 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "OCHA Reaffirms Commitment to Supporting Afghanistan",
-      "description": "The United Nations humanitarian office in Afghanistan has called for continued international support as growing humanitarian needs and a severe funding shortfall threaten the delivery of lifesaving assistance to vulnerable Afghans. Amy Martin, head of the UN Office for the Coordination of Humanitarian Affairs (OCHA) in Afghanistan, made the appeal on Wednesday, August 19, marking [...] The post OCHA Reaffirms Commitment to Supporting Afghanistan appeared first on Khaama Press .",
-      "link": "https://www.khaama.com/ocha-reaffirms-commitment-to-supporting-afghanistan/",
-      "source": "Khaama Press",
-      "image": "https://www.khaama.com/wp-content/uploads/2026/08/OCHA-afghanistan.jpg",
-      "published": "2026-08-19 08:23:00",
+      "title": "Primary takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
+      "description": "A look at Tuesday's primary takeaways: Democratic voters have elevated a progressive Senate candidate in Florida, while Republican Rep. Byron Donalds, backed by President Donald Trump, won the GOP nomination as he vies to become the first Black governor of the state.",
+      "link": "https://www.kcra.com/article/primary-election-takeaways-florida-alaska-california-wyoming/73471624",
+      "source": "Kcra",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/b606420e-aec2-45fa-a144-fa7242cb8a50.jpg",
+      "published": "2026-08-19 09:22:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "afghanistan"
+        "united states of america"
       ]
     },
     {
-      "title": "Former Pakistan PM Imran Khan Meets Wife Bushra Bibi, Sister After 9 Months In Adiala Jail",
-      "description": "Imran Khan met wife Bushra Bibi and sister after nine months inside Adiala Jail following a Supreme Court order allowing family meetings amid health concerns and ongoing legal battles in Pakistan.",
-      "link": "https://www.dynamitenews.com/international/former-pakistan-pm-imran-khan-meets-wife-bushra-bibi-sister-after-9-months-in-adiala-jail",
-      "source": "Dynamite News",
-      "image": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/08/Imran-khan-and-wife.jpg",
-      "published": "2026-08-19 08:22:53",
+      "title": "Michigan 8 case is part of a broader pattern of repression",
+      "description": "Violently assaulting and arresting the students the university ostensibly exists to serve is seen as preferable to divesting from military occupation and possibly the most well-documented genocide in history.",
+      "link": "https://electronicintifada.net/content/michigan-8-case-part-broader-pattern-repression/51579",
+      "source": "The Electronic Intifada",
+      "image": "https://electronicintifada.net/sites/default/files/styles/mailchimp/public/2026-08/zumaglobalfourteen320088.jpg?itok=ezzHYTCL",
+      "published": "2026-08-19 09:21:58",
+      "category": [
+        "politics",
+        "world"
+      ],
+      "country": [
+        "palestine"
+      ]
+    },
+    {
+      "title": "Joint military drill cut short at Washington\u2019s request, confirms South Korean media",
+      "description": "SEOUL: Following the decision by US President Donald Trump, the joint military exercise Ulchi Freedom Shield (UFS) between the United States of America and South Korea, which commenced earlier this week have been cut short, with the scheduled field training also set to be reduced, South Korea\u2019s Yonhap News Agency confirmed, citing the military. As [...]",
+      "link": "https://english.publictv.in/joint-military-drill-cut-short-at-washingtons-request-confirms-south-korean-media/",
+      "source": "Public Tv English",
+      "image": "https://i0.wp.com/english.publictv.in/wp-content/uploads/2026/08/Ulchi-Freedom-Shield-US-S-Korea.jpg?fit=800%2C450&ssl=1",
+      "published": "2026-08-19 09:21:56",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Tejashwi Yadav Detained During RJD March Over Siwan AK-47 Row, Water Cannons Used",
+      "description": "The protest march was held on the controversy surrounding the alleged use of an AK-47 during a student protest in Siwan on July 25.",
+      "link": "https://www.news18.com/india/tejashwi-yadav-detained-during-rjd-march-over-siwan-ak-47-row-water-cannons-used-ws-l-10281797.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/NW18-14-2026-08-7858080228507d039d39bf8e45f211f6-1200x800.png",
+      "published": "2026-08-19 09:21:56",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Iran parliament speaker Ghalibaf in Iraq for talks",
+      "description": "Iran's parliament speaker Mohammad Bagher Ghalibaf, who led negotiations with the United States to end the Middle East war, arrived in Baghdad on Wednesday for talks. Ghalibaf will head \"a high-level parliamentary delegation to discuss regional developments\" and \"strengthen strategic cooperation between Tehran and Baghdad,\" Iran's Fars news agency said. The visit comes as Iraq faces pressure from Washington to disarm powerful Iran-backed armed factions, which have built considerable political and financial clout in the country. FRANCE 24's Reza Sayah reports from Tehran, Iran.",
+      "link": "https://www.france24.com/en/video/20260819-iran-parliament-speaker-ghalibaf-in-iraq-for-talks",
+      "source": "France 24",
+      "image": "https://s.france24.com/media/display/537adbe8-9bac-11f1-9b8c-005056a97e36/w:1024/p:16x9/EN-20260819-090552-090929-CS.jpg",
+      "published": "2026-08-19 09:21:55",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "france"
       ]
     }
   ]

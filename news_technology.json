@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Elon Musk's Starlink makes fresh India push, resubmits application for Gen 2 satellite constellation, including direct-to-device tech",
-      "description": "People familiar with the matter informed that the request seeks approval for its Gen 2 constellation, which supports advanced capabilities, including direct-to-device (D2D) phone connectivity.",
-      "link": "https://www.etnownews.com/technology/elon-musks-starlink-makes-fresh-india-push-resubmits-application-for-gen-2-satellite-constellation-article-155798729",
-      "source": "Et Now",
-      "image": "https://images.etnownews.com/thumb/msid-155798729,updatedat-1787190151956,width-1280,height-720,resizemode-75/155798729.jpg",
-      "published": "2026-08-20 01:42:36",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

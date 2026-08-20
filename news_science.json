@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Cats likely identify one another using fatty acids in urine, research shows",
+      "description": "The team's findings were published in the online edition of U.S. scientific journal Current Biology on Wednesday.",
+      "link": "https://www.japantimes.co.jp/news/2026/08/20/japan/science-health/cats-identification-fatty-acid-research/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/20/558421.jpg",
+      "published": "2026-08-20 02:32:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "japan"
+      ]
+    }
+  ]
 }

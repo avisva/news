@@ -1,17 +1,31 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "US Ambassador Sergio Gor Begins Ladakh Visit, First Such Trip Since Galwan Clashes",
-      "description": "US Ambassador to India Sergio Gor has begun his two-day visit to Ladakh, bringing fresh attention to the strategically important Himalayan",
-      "link": "https://centraltimes.in/international/us-ambassador-sergio-gor-ladakh-visit-first-since-galwan-clashes/",
-      "source": "Central Times",
-      "image": "https://centraltimes.in/wp-content/uploads/2026/08/f5492a5c-b96a-4095-8026-d231b1e286b5.png",
-      "published": "2026-08-20 10:22:54",
+      "title": "Gastroenterologist Shares Simple Lifestyle Changes To Manage Acid Reflux",
+      "description": "Waiting 2 to 3 hours before lying down gives your stomach time to empty its contents, lowering the pressure on the valve that keeps acid down.",
+      "link": "https://www.ndtv.com/health/doctor-explains-how-to-manage-acid-reflux-with-simple-lifestyle-changes-11931391",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-07/sidd0u7k_a-healthy-dinner-can-lose-its-benefits-if-eaten-too-close-to-bedtime_625x300_12_July_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-20 11:21:54",
       "category": [
-        "politics",
-        "lifestyle",
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Six Pakistani Seafarers Injured In Houthi Attack Return Home, Bodies Of Two Killed Repatriated",
+      "description": "Bodies of two Pakistani sailors killed in the August 11 attack on the Tanzania-flagged Tihamah are also repatriated to Pakistan.",
+      "link": "https://www.outlookindia.com/international/six-pakistani-seafarers-injured-in-houthi-red-sea-attack-return-home",
+      "source": "Outlook",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-08-20/flz0ce3o/53b89409533b4820aea16a9fb0cf1c2f.jpg",
+      "published": "2026-08-20 11:21:53",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -19,15 +33,14 @@
       ]
     },
     {
-      "title": "3.5-bn-year-old rock found in Jharkhand that may hold oldest signs of life",
-      "description": "A rock from Jharkhand contains carbon signatures that researchers say point to ancient microbial activity, offering a rare glimpse into life on early Earth",
-      "link": "https://www.business-standard.com/india-news/india-3-5-billion-year-old-rock-jharkhand-oldest-evidence-life-earth-126082000798_1.html",
-      "source": "Business Standard",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/full/1787221311-5757.jpg",
-      "published": "2026-08-20 10:22:53",
+      "title": "OPTCL Admit Card 2026 Out, Office Assistant Grade-III Trainee Skill Test Hall Ticket Link",
+      "description": "OPTCL Admit Card 2026 for 50 Management Trainee vacancies will be released at https://www.optcl.co.in/. Refer to the article for details regarding the hall ticket.",
+      "link": "https://www.careerpower.in/blog/optcl-admit-card-2026",
+      "source": "Careerpower",
+      "image": "https://www.careerpower.in/blog/wp-content/uploads/2026/06/20133210/OPTCL-Admit-Card-2026.webp",
+      "published": "2026-08-20 11:21:50",
       "category": [
         "business",
-        "environment",
         "top"
       ],
       "country": [
@@ -35,16 +48,14 @@
       ]
     },
     {
-      "title": "'You Didn't Come First': When Vishwanath & Sons Star Suriya Urged Parents To Stop Burdening Children With Ranks",
-      "description": "Suriya advised parents to let children enjoy their childhood.",
-      "link": "https://www.ndtv.com/lifestyle/you-didnt-come-first-when-vishwanath-sons-star-suriya-urged-parents-to-stop-burdening-children-with-ranks-11934559",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-08/gtrc0jps_suriya_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "published": "2026-08-20 10:22:42",
+      "title": "Bajaj Pulsar 125 and Pulsar 150 to Debut on August 24: Here\u2019s What The New Bikes May Offer",
+      "description": "Bajaj Auto is expected to reveal the prices of the new Pulsar 125 and Pulsar 150 on August 24. With upgrades including TFT instrumentation, monoshock suspension, LED lighting and revised engines, both models could be priced slightly above their respective outgoing versions. The new Pulsar 125 is expected to receive a substantial makeover, with spy images revealing a redesigned LED headlamp, refreshed tail lamp and revised tank extensions. The motorcycle is also likely to feature a new exhaust system and sharper graphics, giving it a more modern and sporty appearance.",
+      "link": "https://in.mashable.com/automobiles/113065/bajaj-pulsar-125-and-pulsar-150-to-debut-on-august-24-heres-what-the-new-bikes-may-offer",
+      "source": "In Mashable",
+      "image": "https://sm.mashable.com/mashable_in/photo/default/pulsar-125_ss64.jpg",
+      "published": "2026-08-20 11:21:45",
       "category": [
-        "entertainment",
-        "politics",
-        "top"
+        "technology"
       ],
       "country": [
         "india"

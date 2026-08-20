@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Match Review Panel verdict on Lewis, Pangai Junior and Sue incidents",
-      "description": "Hull KR\u2019S Mikey Lewis and Tevita Pangai Junior have both been handed bans for incidents during the defeat to Warrington Wolves on Tuesday.",
-      "link": "https://www.warringtonguardian.co.uk/sport/wolves/wolvesnews/26480715.hull-kr-pair-banned-following-warrington-wolves-defeat/",
-      "source": "Warringtonguardian Co Uk",
-      "image": "https://www.warringtonguardian.co.uk/resources/images/21346769/",
-      "published": "2026-08-20 10:23:00",
+      "title": "TexAgs Rewind (8/20)",
+      "description": "Thursday's edition of the rewind featured TexAgs columnist Olin Buchanan, former Texas A&M quarterback Stephen McGee, Arkansas insider Reagan Skarda and The Fan Show.",
+      "link": "https://texags.com/s/78217/texags-rewind-820",
+      "source": "Texags",
+      "image": "https://texags.blob.core.windows.net/photos/0267880-aurs-1280x720.jpg",
+      "published": "2026-08-20 11:22:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Curtis Jones to Inter Milan: Medical details revealed ahead of emotional Liverpool exit",
+      "description": "Curtis Jones is in the final stages of finalising his transfer from Liverpool to Inter Milan this summer.",
+      "link": "https://www.sportsmole.co.uk/football/liverpool/transfer-talk/news/jones-to-inter-medical-details-revealed-ahead-of-emotional-liverpool-exit_603340.html",
+      "source": "Sports Mole",
+      "image": "https://www.sportsmole.co.uk/thumbor/Igr_fFbKwjwlttSdgH91yas6cHs=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F08%2Ffernandez-pardo-savinho-duplicated-email-sportmole-1-6a81e9d2000fa361772001.jpg",
+      "published": "2026-08-20 11:21:59",
       "category": [
         "sports"
       ],
@@ -17,32 +31,31 @@
       ]
     },
     {
-      "title": "Fearless Donovan relishing Celtic's Champions League charge",
-      "description": "Colby Donovan says he plays with \"no fear\" after the 19-year-old's impressive individual display helped Celtic take command of their Champions League play-off against LASK. The right-back showed up well in the absence of the injured Alistair Johnston as the Scottish champions carved out a 3-0 lead to take to Austria for Tuesday's second leg. \"I feel comfortable in every game I go into,\" Donovan said.",
-      "link": "https://sports.yahoo.com/articles/fearless-donovan-relishing-celtics-champions-094617347.html",
+      "title": "GCSE results: almost one in four boys in England get top grades in maths",
+      "description": "Overall results slightly better than last year, with share receiving grades 7, 8 and 9 rising by 0.1 of a percentage point to 23.1%",
+      "link": "https://ca.news.yahoo.com/gcse-results-almost-one-four-083047170.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/b9b9ded5faed4c044d6bf92e7d5fa9be3eae01f12243bf319205e0995ad4f2fc/lightyear_networkapi/resizefit_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7.png",
-      "published": "2026-08-20 10:22:48",
+      "image": "https://s.yimg.com/lo/mysterio/api/6b2fb2a22c06d379a9c8133c5a50b73363219a5eb7c7a9ce13ad383663f745fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheguardian_763%2F322a6becd9e279b7b0a6cf76704c1ce9.jpg",
+      "published": "2026-08-20 11:21:51",
       "category": [
-        "breaking",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "2026 BMW Championship Thursday TV coverage: How to watch Round 1",
-      "description": "How to watch the 2026 BMW Championship on Thursday, including full BMW Championship TV coverage and streaming details for Round 1. The post 2026 BMW Championship Thursday TV coverage: How to watch Round 1 appeared first on Golf .",
-      "link": "https://golf.com/news/2026-bmw-championship-thursday-tv-coverage-watch-round-1/",
-      "source": "Golf",
-      "image": "https://golf.com/wp-content/uploads/2026/08/scottie-scheffler-2026-bmw-championship.webp",
-      "published": "2026-08-20 10:22:46",
+      "title": "Woman at centre of the Sydney Swans\u2019 sex assault allegations speaks out",
+      "description": "The woman at the centre of the Sydney Swans\u2019 sex assault allegations says she just wants justice, while another woman says they fear for their lives.",
+      "link": "https://thewest.com.au/sport/sydney-swans/woman-at-centre-of-the-sydney-swans-sex-assault-allegations-speaks-out-c-22752742",
+      "source": "The West",
+      "image": "https://images.thewest.com.au/publication/C-22752742/828da683a101116712e0415f2be04ac526f6eadf-16x9-x0y59w4000h2250.jpg",
+      "published": "2026-08-20 11:21:46",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america"
+        "australia"
       ]
     }
   ]

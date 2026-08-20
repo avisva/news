@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Rome Criteria for IBS: When Is Further Testing Needed? - Medscape",
+      "description": "Rome Criteria for IBS: When Is Further Testing Needed? Medscape",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFTbjNvY1VuWHBwNVFJWGlOZGFLYmpUZ2tRV0V5cE1DZGlUMTBDQi1OYmFiQ3hCOGJYYUdxSGlzRHdWM1BYVFM0andHd1ZXMkRkS1NGRVV1alIyN1VRZ0U2NFFUeFY1ZDhFTkpOWmpETzlJWnBRT01RMWU4bTBqWmV2VWxvMm5LbF9iN0NMS0ltTDB0Y1BjalV4a0E4eTFyelU4MVBENkVmZlBkdWc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-20 08:23:58",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Insurer\u2019s Int\u2019l health plan covers cancer, chronic conditions",
+      "description": "AXA Mansard Health\u2019s International Healthcare Plan, iMED, offers Nigerians access to comprehensive medical coverage for cancer, as well as critical medical procedures such as organ and bone marrow transplants, and international emergency medical assistance at leading healthcare facilities in Nigeria, the United States, the United Kingdom and Dubai. The post Insurer\u2019s Int\u2019l health plan covers cancer, chronic conditions appeared first on The Sun Nigeria .",
+      "link": "https://thesun.ng/insurers-intl-health-plan-covers-cancer-chronic-conditions/",
+      "source": "The Sun Nigeria",
+      "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/IMG-20260820-WA0004.jpg",
+      "published": "2026-08-20 08:23:56",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

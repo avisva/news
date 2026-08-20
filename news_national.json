@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Mr. Rajiv Mehra Receives Prestigious Award from CSI and FMS",
+      "description": null,
+      "link": "https://hospitalitynews.in/news/mr-rajiv-mehra-receives-prestigious-award-from-csi-and-fms-delhi-university-alumni",
+      "source": "Hospitalitynews",
+      "image": "https://hospitalitynews.in/uploads/images/202409/image_870x580_66f6afd487e69.jpg",
+      "published": "2026-08-19 21:30:58",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "RIKO: Peruvian-Latin Restaurant Opens in Bengaluru",
+      "description": null,
+      "link": "https://hospitalitynews.in/news/bengalurus-first-true-peruvian-latin-restaurant-riko-opens-at-ub-city",
+      "source": "Hospitalitynews",
+      "image": "https://hospitalitynews.in/uploads/images/202507/image_870x580_6888bf433ea11.jpg",
+      "published": "2026-08-19 21:30:48",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

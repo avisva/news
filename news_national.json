@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
+      "description": "United States debt has now exceeded forty trillion dollars for the first time. This significant increase occurred during the presidencies of Donald Trump and Joe Biden. Growing costs for social programs and interest payments are outpacing revenues. Tax cuts have constrained government income, contributing to the rising debt. Budget watchdogs warn of a potential fiscal crisis if action is not taken.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden/articleshow/133361360.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133361361,resizemode-4,width-1200,height-900,imgsize-34466,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-20 00:41:49",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

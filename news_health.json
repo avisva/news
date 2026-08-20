@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Lindsay Clancy has \u2018bad days and worse days,\u2019 must be monitored round-the-clock for suicide: psychologist",
+      "description": "Lindsay Clancy has \"bad days and worse days\" at a hospital where she is monitored round-the-clock to ensure she doesn't take her own life, a psychologist testified Wednesday.",
+      "link": "https://nypost.com/2026/08/19/us-news/lindsay-clancy-has-bad-days-and-worse-days-must-be-monitored-round-the-clock-for-suicide-psychologist/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fwww-youtube-com-watch-v-137892700_0c6e7e.jpg?w%3D1024",
+      "published": "2026-08-20 00:41:55",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Radio bracelets help Bella Vista police locate missing residents with cognitive disabilities",
+      "description": "For families caring for a loved one with dementia, autism or another cognitive condition, a small wearable bracelet has given the Bella Vista Police Department a 100% success rate in locating clients who have gone missing.",
+      "link": "https://www.nwahomepage.com/news/local-news/radio-bracelets-help-bella-vista-police-locate-missing-residents-with-cognitive-disabilities/",
+      "source": "Knwa Fox24",
+      "image": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2026/08/Screenshot-2026-08-19-180810.png?w=900",
+      "published": "2026-08-20 00:41:55",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Phoebe Bridgers spends 32nd birthday hospitalized with appendicitis",
+      "description": "The singer-songwriter, whose birthday is Aug. 17, had to postpone tour dates in the U.K.",
+      "link": "https://www.kvue.com/article/news/nation-world/phoebe-bridgers-birthday-appendicitis/507-75073df5-5247-45a4-bd96-a0221485ca42",
+      "source": "Kvue",
+      "image": "https://media.tegna-media.com/assets/CCT/images/d4e9cdc8-6da5-40a1-ab24-aee82321e584/20260820T000238/d4e9cdc8-6da5-40a1-ab24-aee82321e584_750x422.jpg",
+      "published": "2026-08-20 00:41:46",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

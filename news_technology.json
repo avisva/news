@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "SKT to End 3G Service After 23 Years, Halts New Sign-Ups From the 20th",
+      "description": "SK Telecom will stop new 3G sign-ups on the 20th and aims to shut down the service by end-2027, offering support to switch to LTE or 5G.",
+      "link": "https://en.sedaily.com/technology/2026/08/20/skt-to-end-3g-service-after-23-years-halts-new-sign-ups",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/cms/2026/08/20/news-p.v1.20260820.cef7fe542d0f477d975ceb1ec74fe751_P1.jpg",
+      "published": "2026-08-20 00:41:59",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Trump\u2019s Smart Move to Cut Nonprofit Funding",
+      "description": "The Trump administration is changing the nonprofit landscape. A recent report from Granted AI found that federal grants to \u201ceveryday\u201d charities that are not hospitals or universities dropped more than 40 percent when comparing the months from February to September 2025 with the same period a year earlier. The Chronicle of Philanthropy has sounded the alarm, noting, \u201cNonprofits have long relied on federal funding to help them provide vital services to their communities.\u201d And since this funding was \u201coften viewed as more reliable than funding from grant makers, which can shift priorities,\u201d the loss of federal money has \u201cupended finances...",
+      "link": "https://freerepublic.com/focus/f-news/4392429/posts",
+      "source": "Freerepublic",
+      "image": null,
+      "published": "2026-08-20 00:41:40",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,15 +1,16 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 12,
   "results": [
     {
-      "title": "Fiesta 4 Impact brings business community together to fundraise for the United Way",
-      "description": null,
-      "link": "https://www.kvrr.com/news/local/fiesta-4-impact-brings-business-community-together-to-fundraise-for-the-united-way/article_fa982307-ca15-4da3-9e7f-4f49e96f6944.html",
-      "source": "Kvrr Local News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/kvrr.com/content/tncms/assets/v3/editorial/4/40/4402639b-1308-4acc-a912-b6cbef029fb5/6a863c3274f84.image.png?resize=300%2C143",
-      "published": "2026-08-19 23:23:00",
+      "title": "Flash Flood Warning issued August 19 at 6:42PM MDT until August 19 at 9:45PM MDT by NWS Pueblo CO",
+      "description": "Flash Flood Warning: Custer, CO; Pueblo, CO until Aug 20 at 12:49 AM The post Flash Flood Warning issued August 19 at 6:42PM MDT until August 19 at 9:45PM MDT by NWS Pueblo CO appeared first on KRDO .",
+      "link": "https://krdo.com/weather/alerts-weather/2026/08/19/flash-flood-warning-issued-august-19-at-642pm-mdt-until-august-19-at-945pm-mdt-by-nws-pueblo-co/",
+      "source": "Krdo",
+      "image": "https://krdo.b-cdn.net/2025/01/Untitled-design-2024-02-27T104337.412.webp",
+      "published": "2026-08-20 00:42:00",
       "category": [
+        "environment",
         "top"
       ],
       "country": [
@@ -17,42 +18,103 @@
       ]
     },
     {
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "description": "Ecuador's intelligence chief and his wife have been killed in a helicopter crash in Kenya.",
-      "link": "https://www.myjoyonline.com/ecuador-intelligence-chief-and-five-americans-killed-in-kenya-helicopter-crash/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-2493-1024x576.png",
-      "published": "2026-08-19 23:23:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Walden picks new village manager",
-      "description": "The Walden Board of Trustees, after reviewing applications and interviewing candidates over the past four months, has appointed a new full-time village manager: Kathryn Luciani, the Town of ...",
-      "link": "https://www.timeshudsonvalley.com/stories/walden-picks-new-village-manager,241040",
-      "source": "Mid Hudson Times",
-      "image": "https://gamma.creativecirclecdn.com/hvt/large/20260819-192259-7e4-W_KL-P1.jpg",
-      "published": "2026-08-19 23:23:00",
+      "title": "Brain drain hits AAUA as welfare woes push lecturers out",
+      "description": "\u2014-Rejects promise, demands payment before resumption By Dayo Johnson Akure Lecturers at Adekunle Ajasin University, Akungba-Akoko, AAUA, Ondo State, are leaving the institution amid welfare concerns and the ongoing strike by the Academic Staff Union of Universities, ASUU. Findings show that the prolonged industrial action and poor welfare package have affected staff retention, with some [...] The post Brain drain hits AAUA as welfare woes push lecturers out appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/08/brain-drain-hits-aaua-as-welfare-woes-push-lecturers-out/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/poasa.png",
+      "published": "2026-08-20 00:42:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "SKT to End 3G Service After 23 Years, Halts New Sign-Ups From the 20th",
+      "description": "SK Telecom will stop new 3G sign-ups on the 20th and aims to shut down the service by end-2027, offering support to switch to LTE or 5G.",
+      "link": "https://en.sedaily.com/technology/2026/08/20/skt-to-end-3g-service-after-23-years-halts-new-sign-ups",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/cms/2026/08/20/news-p.v1.20260820.cef7fe542d0f477d975ceb1ec74fe751_P1.jpg",
+      "published": "2026-08-20 00:41:59",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Middletown Revolutionary War Soldier Overlooked No More",
+      "description": "A man who fought during the revolution is being recognized after a more decent burial at the Old North Burial Ground in Middlefield.",
+      "link": "https://patch.com/connecticut/middletown-ct/middletown-revolutionary-war-soldier-overlooked-no-more",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/users/103600/20260819/084153/styles/patch_image/public/freeman-squarejpg___19201727288.png",
+      "published": "2026-08-20 00:41:56",
+      "category": [
+        "crime",
+        "top",
+        "lifestyle"
+      ],
+      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Richwood leaders discuss infrastructure upgrades",
-      "description": "Richwood Business Alliance plans for economic growth. The Monroe Chamber of Commerce and the Richwood Business Alliance sat down with community leaders Wednesday morning to talk about increasing walkability, drainage, sewage and other plans for economic growth.",
-      "link": "https://www.knoe.com/2026/08/19/richwood-leaders-discuss-infrastructure-upgrades/",
-      "source": "Https://www.knoe.com",
-      "image": "https://gray-knoe-prod.gtv-cdn.com/resizer/v2/7ZSOFGOLPRBTJCWI2W2Q5H7PLY.PNG?auth=c4ea42469c82b98c4540ccd1db3da26640a3a5fe28f33cb0406b3142e060488f&width=1200&height=600&smart=true",
-      "published": "2026-08-19 23:22:59",
+      "title": "Lindsay Clancy has \u2018bad days and worse days,\u2019 must be monitored round-the-clock for suicide: psychologist",
+      "description": "Lindsay Clancy has \"bad days and worse days\" at a hospital where she is monitored round-the-clock to ensure she doesn't take her own life, a psychologist testified Wednesday.",
+      "link": "https://nypost.com/2026/08/19/us-news/lindsay-clancy-has-bad-days-and-worse-days-must-be-monitored-round-the-clock-for-suicide-psychologist/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fwww-youtube-com-watch-v-137892700_0c6e7e.jpg?w%3D1024",
+      "published": "2026-08-20 00:41:55",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Radio bracelets help Bella Vista police locate missing residents with cognitive disabilities",
+      "description": "For families caring for a loved one with dementia, autism or another cognitive condition, a small wearable bracelet has given the Bella Vista Police Department a 100% success rate in locating clients who have gone missing.",
+      "link": "https://www.nwahomepage.com/news/local-news/radio-bracelets-help-bella-vista-police-locate-missing-residents-with-cognitive-disabilities/",
+      "source": "Knwa Fox24",
+      "image": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2026/08/Screenshot-2026-08-19-180810.png?w=900",
+      "published": "2026-08-20 00:41:55",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Palestinians, UK condemn Israel\u2019s \u2018destructive\u2019 E1 settlement plan - Al Jazeera",
+      "description": "Palestinians, UK condemn Israel\u2019s \u2018destructive\u2019 E1 settlement plan Al Jazeera Israel opens up bids for highly-sensitive West Bank settlement project BBC Miliband clashes with Israel over controversial West Bank settlement Sky News Foreign Secretary statement on Government of Israel launch of a tender for the E1 settlement project GOV.UK Israel accuses \u2018patronising\u2019 Miliband of damaging relationship with UK The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUHZvR3hjQ0hLd2FaRHZKT3o3YjBxUU92Q2R4Y2ozMndRSHRPSFk2NWNGTUFDTkxYUXZwSGwtN0ExRUF2MWR6djlDXzBVV1JDOU1wdXNiVnhrV2lCbHBHLW5FRGxkZHpIS0t1UnRyNkxNb2FjWXJUVXpDLU5mRkc4RE5fUEFFZ0FQMnNSbjRmbElIeFdJTEhZbUZPbF82QklKUy1VdEdxZHVIWE1KQld6QU5B0gG3AUFVX3lxTFA1bTFlWHlqWEtNckNVMmpHWEF5QlBOX1oxd29qUWM5NGhpc2RURlROUEdlekptMkp1eDJ4TlpPbXZsNE9IMjk2eno1dmdXOTNNY1RabGxIa2JkTXNFemtONlJDZThLX2ZsMVFjSGRlM19pQi11b0tLWjNCNzNjQjVSRVBfNVlGOVE5UG1HSXVzd1d4MThSd2NSMFBVUmFKUFZqVGptYWkxUGhNbHJzeGRwQW5jc0lUWQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-20 00:41:53",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "US set to cut tariffs on Canada metals, autos in trade deal",
+      "description": "WASHINGTON \u2014 The tentative trade deal between the United States and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25% and cut duties on Canadian auto exports to 15%, according to people familiar with the...",
+      "link": "https://www.union-bulletin.com/news/national/us-set-to-cut-tariffs-on-canada-metals-autos-in-trade-deal/article_2a1c499f-2d37-5ca1-8c69-006ff31a4135.html",
+      "source": "Union-bulletin",
+      "image": null,
+      "published": "2026-08-20 00:41:53",
       "category": [
         "business",
         "top"
@@ -62,15 +124,60 @@
       ]
     },
     {
-      "title": "Man, 40, wounded in shooting in West Seattle park",
-      "description": "A 40-year-old man was in serious condition Wednesday after a shooting in Roxhill Park, and the shooter remained at large, according to authorities.",
-      "link": "https://www.seattletimes.com/seattle-news/law-justice/man-40-wounded-in-shooting-in-west-seattle-park/",
-      "source": "The Seattle Times",
-      "image": null,
-      "published": "2026-08-19 23:22:58",
+      "title": "Pueblo County Football looking to build on winning culture entering new season",
+      "description": "PUEBLO, Colo. (KRDO)-- Pueblo County football is getting used to winning. After a successful 2025 season that included a 7-4 record, victories over every Pueblo-area opponent and an undefeated record at home, the Hornets are determined to keep the momentum going. \"Coming to this and actually winning, there's no better feeling,\" senior Brady Ware said. The post Pueblo County Football looking to build on winning culture entering new season appeared first on KRDO .",
+      "link": "https://krdo.com/news/sports-news/2026/08/19/pueblo-county-football-looking-to-build-on-winning-culture-entering-new-season/",
+      "source": "Krdo",
+      "image": "https://krdo.b-cdn.net/2026/08/pueblo-co-fb.png",
+      "published": "2026-08-20 00:41:51",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
+      "description": "United States debt has now exceeded forty trillion dollars for the first time. This significant increase occurred during the presidencies of Donald Trump and Joe Biden. Growing costs for social programs and interest payments are outpacing revenues. Tax cuts have constrained government income, contributing to the rising debt. Budget watchdogs warn of a potential fiscal crisis if action is not taken.",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden/articleshow/133361360.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133361361,resizemode-4,width-1200,height-900,imgsize-34466,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-20 00:41:49",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Resident exchanges words with tree-trimmer: Mayfield Police Blotter",
+      "description": "A resident said Aug. 11 that an employee of a neighbor\u2019s hired tree service yelled and swore at his wife. He said the incident occurred after cut branches fell into the roadway and his driveway and his wife asked one man to remove them.",
+      "link": "https://www.cleveland.com/community/2026/08/resident-exchanges-words-with-tree-trimmer-mayfield-police-blotter.html",
+      "source": "Cleveland",
+      "image": "https://www.cleveland.com/resizer/v2/KZAT6U7LOVHDHDFHL7CLGKNRGA.JPG?auth=893ee5420eadf550ba346dd56bd3835f777959a4b464deb1f096c9a8f35b355a&smart=true&height=1200",
+      "published": "2026-08-20 00:41:40",
       "category": [
         "crime",
         "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump\u2019s Smart Move to Cut Nonprofit Funding",
+      "description": "The Trump administration is changing the nonprofit landscape. A recent report from Granted AI found that federal grants to \u201ceveryday\u201d charities that are not hospitals or universities dropped more than 40 percent when comparing the months from February to September 2025 with the same period a year earlier. The Chronicle of Philanthropy has sounded the alarm, noting, \u201cNonprofits have long relied on federal funding to help them provide vital services to their communities.\u201d And since this funding was \u201coften viewed as more reliable than funding from grant makers, which can shift priorities,\u201d the loss of federal money has \u201cupended finances...",
+      "link": "https://freerepublic.com/focus/f-news/4392429/posts",
+      "source": "Freerepublic",
+      "image": null,
+      "published": "2026-08-20 00:41:40",
+      "category": [
+        "top",
+        "technology"
       ],
       "country": [
         "united states of america"

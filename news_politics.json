@@ -1,33 +1,77 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Penny Wong condemns \u2018insulting\u2019 decision to clear IDF over Gaza strikes that killed Australian aid worker Zomi Frankcom - The Guardian",
-      "description": "Penny Wong condemns \u2018insulting\u2019 decision to clear IDF over Gaza strikes that killed Australian aid worker Zomi Frankcom The Guardian Federal politics live: Wong 'outraged' after IDF soldiers cleared over Zomi Frankcom killing ABC News & Headlines \u2013 Australian Broadcasting Corporation Wong blasts Israel, calls in ambassador over Gaza death probe The Australian Wong 'outraged' after Israeli soldiers cleared over strike that killed Australian theage.com.au Wong outrage as Israel clears soldiers over Australian\u2019s death afr.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYVlQQjRwc3gwQnBKZDRMUTNXM0V5NEhYZGMyeFg0MWJSM3l6NU8yRFdVWEc0SWI5alhPVFZBX3dXT2twNGJLSjE3a0dMeXBGTUlnRC1UMzVDZ2p4d0RJYThabVhzT3U0Z0ItUmZFYmlZSl94Ukg0TWM3SFFOZ0c2WjJuNHR3ekV2NEp1QzlJRE11TVNGSTBxdHYyeGpVRC0xVWxWNHBUOFp3VUhTaVRnZE9wWmVmZGdrMDBodUZFSFl0MkdBWDd6V2Q0bw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-19 21:31:00",
+      "title": "Texas UFO files have it all: A lockdown, a fake saucer and a glowing egg",
+      "description": "There are no answers about the incidents or revelations about extraterrestrial life, aliens living among us or spaceship visits in recent unclassified documents involving Texas.",
+      "link": "https://theeagle.com/news/state-regional/government-politics/article_c980d945-fb93-4cf0-bfc3-9249dc59315d.html",
+      "source": "The Eagle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/9/49/949cbc64-1d62-5d21-a9f6-2e217869499c/6a86293e7a172.image.jpg?resize=1200%2C675",
+      "published": "2026-08-19 22:26:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "TxDOT gathers public input on I-14, I-214 loop",
+      "description": "Unlike the recent battle by residents to stop the proposed Inner Loop East, residents appear more receptive to the proposed Interstate 14 and the I-214 loop around Bryan-College Station.",
+      "link": "https://theeagle.com/news/local/government-politics/article_85cf213f-89c3-4513-8e41-5571e6db36ab.html",
+      "source": "The Eagle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/c/73/c7358723-d2db-4d32-b732-2a58e2097c7f/6a84e9170b5e0.image.jpg?resize=300%2C240",
+      "published": "2026-08-19 22:26:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     },
     {
-      "title": "Cape Coral Mayor John Gunter skips council meeting day after losing in primary election",
-      "description": "Cape Coral Mayor John Gunter missed the city council meeting following his primary election defeat, leaving voters to choose between Lisa Cohen Adkinson and Rick Erickson in November.",
-      "link": "https://www.gulfcoastnewsnow.com/article/cape-coral-mayor-skips-council-after-primary-defeat/73477992",
-      "source": "Wbbh",
-      "image": "https://hips.hearstapps.com/htv-prod/images/john-gunter-horizontal-68fa549d98299.jpg",
-      "published": "2026-08-19 21:31:00",
+      "title": "Prince Harry and Meghan to move back to UK",
+      "description": "Prince Harry, King Charles III's youngest son, and his wife Meghan have lived in California since 2020 amid a bitter feud with his family.",
+      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/08/20/prince-harry-and-meghan-to-move-back-to-uk",
+      "source": "Free Malaysia Today",
+      "image": "https://media.freemalaysiatoday.com/wp-content/uploads/2026/06/bc86abd4-13908011_cropped_1.webp",
+      "published": "2026-08-19 22:26:00",
       "category": [
-        "crime",
         "politics",
         "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "City of Memphis public works crews take on major Memphis issues",
+      "description": "One street at a time, city of Memphis public works crews are trying to patch up some of the city's biggest issues.",
+      "link": "https://www.fox13memphis.com/news/city-of-memphis-public-works-crews-take-on-major-memphis-issues/article_6eb4a23a-bd92-4b42-b45b-00d28dae0552.html",
+      "source": "Fox 13 Memphis",
+      "image": "https://bloximages.chicago2.vip.townnews.com/fox13memphis.com/content/tncms/assets/v3/editorial/7/a2/7a2c28f6-bb70-11ee-bc13-0bc93c6d062f/65b23e9a0d37a.image.png?resize=300%2C169",
+      "published": "2026-08-19 22:26:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "EPA Waiver Review Could Upend Rulemaking, Judge Signals",
+      "description": null,
+      "link": "https://www.law360.com/articles/2515572/epa-waiver-review-could-upend-rulemaking-judge-signals",
+      "source": "Law360",
+      "image": null,
+      "published": "2026-08-19 22:25:45",
+      "category": [
+        "politics",
+        "top",
+        "environment"
       ],
       "country": [
         "united states of america"

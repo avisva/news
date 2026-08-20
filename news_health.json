@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Why Brain Imaging Doesn't Always Hold Up--and How Experts Say to Fix It",
-      "description": "Neuroimaging is facing a reproducibility crisis, Yale School of Medicine (YSM) researchers say.",
-      "link": "https://www.newswise.com/articles/why-brain-imaging-doesn-t-always-hold-up-and-how-experts-say-to-fix-it/?sc=rsmn",
-      "source": "Newswise",
-      "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
-      "published": "2026-08-19 21:30:47",
+      "title": "This Habit Could Cut Your Diabetes Risk in Half, New Study Says - EatingWell",
+      "description": "This Habit Could Cut Your Diabetes Risk in Half, New Study Says EatingWell",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVZnZtVFVFSVRCdmQxRElwbXRUakV4YVJ5bTFwTGp6ajFhWExsMDFLaW9IUXpyNmZGTVlzRkpmbTBveDVOMHRMSEl5NVQwWjBOWU1UcmlPYmt6LXhUS195UnBpanR6MjFQeGVfT2lqbWJmQQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-19 22:25:54",
       "category": [
         "health"
       ],
       "country": [
-        "united states of america"
+        "singapore"
+      ]
+    },
+    {
+      "title": "Westin Marks Global Wellness Day with Restorative Moments",
+      "description": null,
+      "link": "https://hospitalitynews.in/news/westin-hotels-embrace-global-wellness-day-with-purposeful-renewal-experiences",
+      "source": "Hospitalitynews",
+      "image": "https://hospitalitynews.in/uploads/images/202506/image_870x580_68593df3432c5.jpg",
+      "published": "2026-08-19 22:25:52",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

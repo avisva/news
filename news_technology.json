@@ -1,31 +1,17 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Meet the startup helping Wall Street put a price on AI compute",
-      "description": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn\u2019t a straightforward way to put a price on compute \u2014 or for firms to hedge their exposure when the price changes. Silicon Data [...]",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "source": "Tech Crunch",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg",
-      "published": "2026-08-19 17:26:48",
+      "title": "AI responds to query about AI and data centers",
+      "description": null,
+      "link": "https://www.mainstreetnews.com/jackson/opinion/ai-responds-to-query-about-ai-and-data-centers/article_d8711330-84c8-4a65-abd1-92589a41c7fd.html",
+      "source": "Mainstreetnews.com",
+      "image": null,
+      "published": "2026-08-19 18:40:00",
       "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Casepoint Launches MCP Server To Enable Customer-Choice AI Across Legal and Government Workflows",
-      "description": "Casepoint MCP Server allows agencies and enterprises to connect their preferred AI models and agents to Casepoint\u2019s unified platform while maintaining enterprise-grade security.",
-      "link": "https://www.legalreader.com/casepoint-launches-mcp-server-to-enable-customer-choice-ai-across-legal-and-government-workflows/",
-      "source": "Legal Reader",
-      "image": "https://www.legalreader.com/wp-content/uploads/2026/04/Man-in-blue-suit-at-desk-reading-paperwork-image-by-RDNE-Stock-project-via-Pexels.com_..png",
-      "published": "2026-08-19 17:26:48",
-      "category": [
-        "top",
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"

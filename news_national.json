@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "CBI files FIR against Gensol, promoters for diverting IREDA loan funds",
-      "description": "Anmol and Puneet Jaggi stepped down from the company as managing director and whole-time director, respectively, in May last year.",
-      "link": "https://www.hindustantimes.com/business/cbi-files-fir-against-gensol-promoters-for-diverting-ireda-loan-funds-101787151180439.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/FILE-PHOTO--There-has-been-no-reaction-from-the-pr_1787151173517.jpg",
-      "published": "2026-08-19 14:53:00",
+      "title": "BWF World Championships 2026: PV Sindhu, Ayush Shetty reach R16; Lakshya Sen, Unnati Hooda exit",
+      "description": "Day 3 of the BWF World Championships 2026 in New Delhi brought mixed fortunes for India, with PV Sindhu and Ayush Shetty advancing to the Round of 16, while Satwiksairaj Rankireddy and Chirag Shetty progressed via walkover. Lakshya Sen suffered a shock defeat to American teenager Garrett Tan, while Unnati Hooda was knocked out by Canada\u2019s Michelle Li.",
+      "link": "https://www.news9live.com/sports/badminton/bwf-world-championships-2026-pv-sindhu-ayush-shetty-reach-r16-lakshya-sen-unnati-hooda-exit-3000901",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/PV-Sindhu-4.jpg",
+      "published": "2026-08-19 15:43:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Around 100 Feared Dead In Central African Republic Gold Mine Collapse",
+      "description": "Rescue teams were continuing to search the site for miners who remained trapped beneath the rubble.",
+      "link": "https://www.ndtvprofit.com/world/around-100-feared-dead-in-central-african-republic-gold-mine-collapse-11932228",
+      "source": "Ndtv Profit",
+      "image": "https://c.ndtvimg.com/2026-08/0kakrc1g_mine-collapse_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-19 15:42:58",
       "category": [
         "business"
       ],
@@ -17,14 +32,15 @@
       ]
     },
     {
-      "title": "Rahul Gandhi backs tribal 'Satyagraha' against Ken-Betwa river-linking project",
-      "description": "Rahul Gandhi has backed tribal protests against the Ken-Betwa river-linking project in Madhya Pradesh and promised to visit the site.",
-      "link": "https://www.wionews.com/india-news/rahul-gandhi-backs-tribal-satyagraha-ken-betwa-project-1787147459837",
-      "source": "Wion",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260819/image-1787151116610.jpg?rect=(0,104,627,470)",
-      "published": "2026-08-19 14:52:51",
+      "title": "Pete Hegseth Accused of Hiding Truth Behind USS Lincoln's Supply Problems",
+      "description": "US Defense Secretary Pete Hegseth is accused of downplaying the impact of Iranian strikes on a crucial US resupply base, which has affected the USS Abraham Lincoln's operations.",
+      "link": "https://www.timesnownews.com/world/us/us-news/pete-hegseth-accused-of-hiding-truth-behind-uss-lincolns-supply-problems-article-155785491",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155786005,thumbsize-38528,width-1280,height-720,resizemode-75/155786005.jpg",
+      "published": "2026-08-19 15:42:55",
       "category": [
-        "world"
+        "politics",
+        "top"
       ],
       "country": [
         "india"

@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Georgia's seventh case of measles this year reported in the Atlanta area",
+      "description": "Data reported this month by the CDC confirms the state lacks herd immunity against measles spread.",
+      "link": "https://www.gpb.org/news/2026/08/19/georgias-seventh-case-of-measles-year-reported-in-the-atlanta-area",
+      "source": "Georgia Public Broadcasting",
+      "image": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/2026-08/022025_kids%20and%20vaccines_06_0.JPG?itok=VS7xNIbw",
+      "published": "2026-08-19 15:43:00",
+      "category": [
+        "crime",
+        "top",
+        "health"
+      ],
+      "country": [
+        "georgia"
+      ]
+    }
+  ]
 }

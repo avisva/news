@@ -1,17 +1,78 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 5,
   "results": [
     {
-      "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
-      "description": "United States debt has now exceeded forty trillion dollars for the first time. This significant increase occurred during the presidencies of Donald Trump and Joe Biden. Growing costs for social programs and interest payments are outpacing revenues. Tax cuts have constrained government income, contributing to the rising debt. Budget watchdogs warn of a potential fiscal crisis if action is not taken.",
-      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden/articleshow/133361360.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-133361361,resizemode-4,width-1200,height-900,imgsize-34466,overlay-economictimes/articleshow.jpg",
-      "published": "2026-08-20 00:41:49",
+      "title": "'We are Gen Z is the new mera baap kaun hai': Omar Abdullah slams tourist ruckus at Kargil checkpoint",
+      "description": "Jammu and Kashmir Chief Minister Omar Abdullah took to social media platform X to criticize the growing use of the phrase \"We are Gen Z\" as a form of intimidation, comparing it to the classic entitlement line \"Jaante nahin ho mera baap kaun hai\".",
+      "link": "https://zeenews.india.com/india/omar-abdullah-we-are-gen-z-viral-video-minimarg-kargil-checkpoint-3067393.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/08/20/1974476-mixcollage-20-aug-2026-07-12-am-9475.jpg",
+      "published": "2026-08-20 01:43:00",
       "category": [
-        "business",
+        "politics",
         "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Congress calls for 25-year freeze on Lok Sabha strength, 33 per cent women\u2019s quota from 2029",
+      "description": "The party\u2019s stand came at a four-hour-long Congress Working Committee (CWC) meeting chaired by party president Mallikarjun Kharge.",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/20/congress-calls-for-25-year-freeze-on-lok-sabha-strength-33-per-cent-womens-quota-from-2029",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-20/0x0hm194/CWC-for-25.jpg?w=280",
+      "published": "2026-08-20 01:42:46",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Congress calls for 25-year freeze on Lok Sabha strength, implements 33 per cent women\u2019s quota from 2029",
+      "description": "The party\u2019s stand came at a four-hour-long Congress Working Committee (CWC) meeting chaired by party president Mallikarjun Kharge.",
+      "link": "https://www.newindianexpress.com/india/2026/Aug/20/congress-calls-for-25-year-freeze-on-lok-sabha-strength-implements-33-per-cent-womens-quota-from-2029",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-20/0x0hm194/CWC-for-25.jpg?w=280",
+      "published": "2026-08-20 01:42:46",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Elon Musk's Starlink makes fresh India push, resubmits application for Gen 2 satellite constellation, including direct-to-device tech",
+      "description": "People familiar with the matter informed that the request seeks approval for its Gen 2 constellation, which supports advanced capabilities, including direct-to-device (D2D) phone connectivity.",
+      "link": "https://www.etnownews.com/technology/elon-musks-starlink-makes-fresh-india-push-resubmits-application-for-gen-2-satellite-constellation-article-155798729",
+      "source": "Et Now",
+      "image": "https://images.etnownews.com/thumb/msid-155798729,updatedat-1787190151956,width-1280,height-720,resizemode-75/155798729.jpg",
+      "published": "2026-08-20 01:42:36",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bandi Sanjay felicitates young chess player Shaunak",
+      "description": "Karimnagar player earns 175 FIDE rating points in Spain tournament; Union Minister lauds his achievements",
+      "link": "https://www.thehansindia.com/news/cities/karimnagar/bandi-sanjay-felicitates-young-chess-player-shaunak-1111701",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/08/20/1691722-bandi.webp",
+      "published": "2026-08-20 01:42:35",
+      "category": [
+        "sports",
+        "top",
+        "lifestyle"
       ],
       "country": [
         "india"

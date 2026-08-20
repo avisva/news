@@ -1,5 +1,65 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Amber Technology launches Sonance VX52R UTL in Australia - ChannelLife Australia",
+      "description": "Amber Technology launches Sonance VX52R UTL in Australia ChannelLife Australia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0hIemlWd1ZkU2kxQVNlcDhvdDBoVEZBMGxfZ1p1LUhXNE9XcEl1Z2d5b2RYbG1mM1FHR1EybXJ6TGdBUmtHb0ZCbjNNTU82V09ZWVdfUWNWNmdlNXpxSDVpNEE2QnN0RlF6WWtEOUtTWnVxRzgyVDd0M3JkVHZ6OWhFR19sTFlVWUgwVXhQYUZnenc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-20 03:30:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Charles Stern: Quack-in-chief taking on vaccines",
+      "description": null,
+      "link": "https://theeagle.com/article_e7484e5a-d813-44c4-be29-7873af6f4da1.html",
+      "source": "The Eagle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/custom/image/ea82e954-f846-11e6-848a-43d1424998d2.jpg?resize=600%2C315",
+      "published": "2026-08-20 03:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Amber Technology launches Sonance VX52R UTL in Australia",
+      "description": "Shallow ceiling cavities in apartments and office retrofits can now be fitted with a 6-inch Sonance speaker through Amber Technology's dealer network.",
+      "link": "https://channellife.com.au/story/amber-technology-launches-sonance-vx52r-utl-in-australia",
+      "source": "Channellife Australia",
+      "image": "https://channellife.com.au/uploads/story/2026/08/20/compatible_vx-thin-line-story-317133(2).jpg",
+      "published": "2026-08-20 03:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Net Protector Antivirus Expanding Beyond Consumers to Lead India\u2019s Enterprise Cybersecurity Revolution",
+      "description": "Net Protector Antivirus, developed by Biz Secure Labs Private Limited, delivers trusted, innovative and certified cybersecurity solutions for consumers, businesses and enterprises. During an exclusive interaction with NCN Magazine, Mr. Jagannath Patnaik, National Sales Head, Net Protector Antivirus (Biz Secure Labs Pvt Ltd), shares insights on the brand\u2019s expansion, enterprise security strategy, innovation and vision [...] The post Net Protector Antivirus Expanding Beyond Consumers to Lead India\u2019s Enterprise Cybersecurity Revolution appeared first on NCN Online .",
+      "link": "https://www.ncnonline.net/net-protector-antivirus-expanding-beyond-consumers-to-lead-indias-enterprise-cybersecurity-revolution/",
+      "source": "National Catholic News",
+      "image": "https://www.ncnonline.net/wp-content/uploads/2026/08/Net-Protector-Antivirus-Expanding-Beyond-Consumers-to-Lead-Indias-Enterprise-Cybersecurity-Revolution.jpg",
+      "published": "2026-08-20 03:30:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

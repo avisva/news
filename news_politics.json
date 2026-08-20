@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Private jet users in Scotland should face 'punishingly high' taxes, demand campaigners",
+      "description": "John Swinney has promised action on private jets and campaigners are now calling for him \"to prove he means business\" on the issue.",
+      "link": "https://www.dailyrecord.co.uk/news/politics/private-jet-users-scotland-should-37569870",
+      "source": "Daily Record",
+      "image": "https://i2-prod.dailyrecord.co.uk/sport/football/football-news/article30222083.ece/ALTERNATES/s615/4_JS302736265.jpg",
+      "published": "2026-08-20 03:30:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Scottish Labour leadership candidate under fire over cuts to free school buses for pupils",
+      "description": "EXCLUSIVE: Joe Fagan's administration in South Lanarkshire pushed through a cut that scrapped the eligibility for free transport for over 1,000 pupils.",
+      "link": "https://www.dailyrecord.co.uk/news/politics/scottish-labour-leadership-candidate-under-37568520",
+      "source": "Daily Record",
+      "image": "https://i2-prod.dailyrecord.co.uk/incoming/article37552724.ece/ALTERNATES/s615/2_JS414862764.jpg",
+      "published": "2026-08-20 03:30:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Moderna\u2019s Skyrocketing Rally Puts These 7 Biotech Stocks in Focus",
-      "description": "Market Analysis by covering: Merck & Company Inc, Arvinas Inc, Moderna Inc, Janux Therapeutics Inc. Read 's Market Analysis on Investing.com UK.",
-      "link": "https://uk.investing.com/analysis/modernas-skyrocketing-rally-puts-these-7-biotech-stocks-in-focus-200627389",
-      "source": "Investing Uk",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "published": "2026-08-20 08:24:00",
+      "title": "J&T Express Adjusted Net Profit Up 124.3% YoY in 1H2026; Overall Profitability Continues to Strengthen",
+      "description": "Southeast Asia Leading Position Sustained; Market Share in China and Other Markets Rises SteadilyHONG KONG, Aug. 20, 2026 /PRNewswire/ -- J&T Global Express Limited (\"J&T Express\" or \"J&T\" or the ...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69362349-j-t-express-adjusted-net-profit-up-124-3-yoy-in-1h2026-overall-profitability-continues-to-strengthen-008.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN30414&Transmission_Id=202608200517PR_NEWS_EURO_ND__EN30414&DateId=20260820",
+      "published": "2026-08-20 09:24:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "germany"
+      ]
+    },
+    {
+      "title": "Swiss Trade Surplus Rises In July",
+      "description": "BRUSSELS (dpa-AFX) - Switzerland's foreign trade surplus grew notably in July as exports surged amid a fall in imports, data from the Federal Customs Administration showed on Thursday.The trade su...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69362348-swiss-trade-surplus-rises-in-july-020.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/content/g/fb.png",
+      "published": "2026-08-20 09:24:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Sugar prices surge to record highs; what it means for mills",
+      "description": "Prashant Biyani, VP-Institutional Equity at Elara Securities, expects the higher realisations to translate into a significant improvement in earnings for sugar mills in the second quarter and through the rest of FY27.",
+      "link": "https://www.cnbctv18.com/market/commodities/sugar-prices-rally-sugar-stocks-ebitda-growth-balrampur-chini-19973544.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/sugar-consumption-2026-08-3ac14b867faf8972ec808bd0f6317d28.jpg",
+      "published": "2026-08-20 09:24:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Andhra junior doctors cut stipend demand to 20%, reject government\u2019s 3% offer",
+      "description": "A 15% stipend revision would cost \u20b987.91 crore, about 0.03% of the State Budget, striking junior doctors said, cutting their demand from 30% to 20%.",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-junior-doctors-cut-stipend-demand-to-20-reject-governments-3-offer/article71368000.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/news/national/andhra-pradesh/w1k4d9/article71368403.ece/alternates/FREE_1200/DOcs.jpeg",
+      "published": "2026-08-20 09:23:53",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

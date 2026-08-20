@@ -1,19 +1,48 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Hope for duo to make return from injury soon as doubts remain for Glatzel",
-      "description": "Joe Snowdon and James Ball are hopeful of making a return for Swindon Town as they head to Oldham Athletic next week after dealing with hamstring injuries",
-      "link": "https://www.wiltsglosstandard.co.uk/news/26480048.swindon-town-injured-duo-expected-make-return-soon/",
-      "source": "Wilts And Glos Standard",
-      "image": "https://www.wiltsglosstandard.co.uk/resources/images/21265613/",
-      "published": "2026-08-20 08:23:51",
+      "title": "New darts venue opened by expert players at shopping destination near Norwich",
+      "description": "Game Shop Darts, a new darts shop and venue, has opened in Bowthorpe, near Norwich.",
+      "link": "https://www.edp24.co.uk/news/26479649.game-shop-darts-opens-new-shop-bowthorpe-near-norwich/",
+      "source": "Edp24",
+      "image": null,
+      "published": "2026-08-20 09:24:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "VCCL haul salutes Sunraysia four",
+      "description": "SUNRAYSIA cricket has recently received meritorious recognition at state country level, with four of the region\u2019s own earning prestigious acclaim. More than half a century of service has earned Gary McGlashan induction into the Victorian Country Cricket League Hall of Fame as the 2026 R. F. Merriman medallist, while immense campaigns from Jesse McGinty, Shania [...]",
+      "link": "https://sunraysiadaily.com.au/sport/2026/08/20/vccl-haul-salutes-sunraysia-four/",
+      "source": "Sunraysia Daily",
+      "image": "https://sunraysiadaily.com.au/wp-content/uploads/2026/08/WomCric_510505_01.jpg",
+      "published": "2026-08-20 09:23:57",
       "category": [
         "sports"
       ],
       "country": [
-        "united kingdom"
+        "australia"
+      ]
+    },
+    {
+      "title": "Hamza Abdelkarim dazzles Barcelona star and forces his way in before Elche clash",
+      "description": "Garci\u0301a predicts a bright future for the talented Egyptian Hamza Abdelkarim needed no more than a single pre-season with Barcelona's first team to start catching the eye.",
+      "link": "https://www.yardbarker.com/soccer/articles/hamza_abdelkarim_dazzles_barcelona_star_and_forces_his_way_in_before_elche_clash/s1_17790_44196823",
+      "source": "Yardbarker",
+      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
+      "published": "2026-08-20 09:23:47",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

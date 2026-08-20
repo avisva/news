@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 15,
   "results": [
     {
-      "title": "Just because the bill is low doesn\u2019t mean energy is affordable",
-      "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-      "link": "https://www.newstimes.com/news/article/just-because-the-bill-is-low-doesn-t-mean-22394573.php",
-      "source": "News Times",
-      "image": "https://s.hdnux.com/photos/01/34/02/56/24128432/3/square_large.jpg",
-      "published": "2026-08-19 13:04:00",
+      "title": "Pa. Turnpike to build new interchange in Mt. Pleasant Township",
+      "description": null,
+      "link": "https://www.dailycourier.com/news/pa-turnpike-to-build-new-interchange-in-mt-pleasant-township/article_3f3dc880-c34b-4cc0-a8e1-c62bda815797.html",
+      "source": "Daily Courier",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycourier.com/content/tncms/assets/v3/editorial/e/c7/ec7a9493-be1f-4e69-897f-c1a406921a66/6953f48a066cd.image.jpg?resize=400%2C267",
+      "published": "2026-08-19 14:53:00",
       "category": [
-        "business",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "LEGALS- August 19, 2026",
+      "description": null,
+      "link": "https://www.lyndentribune.com/legals/legals--august-19-2026/article_b4351c5b-635d-42db-8688-907ad784264e.html",
+      "source": "Lynden Tribune",
+      "image": "https://bloximages.newyork1.vip.townnews.com/lyndentribune.com/content/tncms/custom/image/035c06ec-e7ac-11e5-88e6-9fca445a530e.jpg?resize=600%2C315",
+      "published": "2026-08-19 14:53:00",
+      "category": [
+        "politics",
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Coast of Maine Organic Products Achieves B Corporation Certification, Deepening its Longstanding Commitment to Social and Environmental Stewardship",
+      "description": "Formalizing a decades-long mission to support healthy soils, thriving communities, and a sustainable planet.",
+      "link": "https://www.eagletribune.com/region/coast-of-maine-organic-products-achieves-b-corporation-certification-deepening-its-longstanding-commitment-to-social/article_bf110ada-f38e-5936-ac81-31509cb2558a.html",
+      "source": "Eagletribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+      "published": "2026-08-19 14:53:00",
+      "category": [
         "environment",
         "top"
       ],
@@ -19,59 +49,44 @@
       ]
     },
     {
-      "title": "SECP approves public offering of Naya Nazimabad Apartments REIT",
-      "description": "ISLAMABAD - Pakistan\u2019s primary capital market continues to gain momentum as the Securities and Exchange Commission of Pakistan (SECP) has approved the Offer for Sale prospectus of Naya Nazimabad Apartments REIT (NNAR) for listing on the Pakistan Stock Exchange (PSX).",
-      "link": "https://www.nation.com.pk/19-Aug-2026/secp-approves-public-offering-naya-nazimabad-apartments-reit",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-08-19 13:04:00",
+      "title": "Tess Daly gives her favourite \u2018ballet blush\u2019 nails an elegant update: how to recreate them",
+      "description": "They\u2019re glossy, polished and surprisingly easy to DIY...",
+      "link": "https://www.cosmopolitan.com/uk/beauty-hair/nails/a73472084/tess-daly-new-ballet-blush-nails/",
+      "source": "Cosmopolitan Uk",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4004d069-5a6b-4e75-9943-b928286ba1d3.jpg?crop=1.00xw:0.665xh;0,0&resize=1200:*",
+      "published": "2026-08-19 14:53:00",
       "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Lim You: 'Dad turned my left foot into a weapon of destruction'",
-      "description": "KUALA LUMPUR: Malayan Tigresses under-17 forward Lim You is grateful that the training her father put her through from a young age has helped turn her left foot into a \u201cweapon of destruction\u201d in her football career.",
-      "link": "https://www.nst.com.my/sports/football/2026/08/1514729/lim-you-dad-turned-my-left-foot-weapon-destruction",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/566144030AF91C4113F4769604907626_data_0.jpg",
-      "published": "2026-08-19 13:03:59",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Police name Cambridgeshire man 'found with kitchen knife' in public",
-      "description": "A member of the public saw a man 'concealing what they believed was a knife'",
-      "link": "https://www.cambridge-news.co.uk/news/local-news/police-name-cambridgeshire-man-found-34484003",
-      "source": "Cambridgeshire Live",
-      "image": "https://i2-prod.cambridge-news.co.uk/incoming/article34484007.ece/ALTERNATES/s615/0_Police-officers-being-vetted.jpg",
-      "published": "2026-08-19 13:03:59",
-      "category": [
-        "crime",
-        "top"
+        "top",
+        "lifestyle"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Bayern star Jamal Musiala\u2019s season start is in doubt after two collapses in games",
-      "description": "Jamal Musiala's readiness for Bayern Munich's season start is uncertain after collapsing in two warmup games because of a neurological issue. The 23-year-old Germany star went down in matches against...",
-      "link": "https://www.newstimes.com/sports/article/bayern-star-jamal-musiala-s-season-start-is-in-22394401.php",
-      "source": "News Times",
-      "image": "https://s.hdnux.com/photos/01/67/07/34/31225634/6/square_large.jpg",
-      "published": "2026-08-19 13:03:55",
+      "title": "In the Know: Charity care at Alomere Health tops $1M in a year",
+      "description": "From the column: If you are facing an illness, you may already be experiencing one of the hardest moments of their life, and we recognize that medical bills often add to the stress.",
+      "link": "https://www.echopress.com/opinion/columns/in-the-know-charity-care-at-alomere-health-tops-1m-in-a-year",
+      "source": "Alexandria Echo Press",
+      "image": "https://cdn.forumcomm.com/dims4/default/41299cd/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F9f%2Ffd%2Fe7bc4f2e4f8a9fe72f76092b7241%2Fep-in-the-know.jpg",
+      "published": "2026-08-19 14:53:00",
       "category": [
-        "sports",
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Commentary: \u2018New weather\u2019 reality will change the nation, defy politics",
+      "description": "How to live with the new weather will definitely be a new priority that politicians will find difficult to address.",
+      "link": "https://www.grandforksherald.com/opinion/columns/commentary-new-weather-reality-will-change-the-nation-defy-politics",
+      "source": "Grandforksherald",
+      "image": "https://cdn.forumcomm.com/dims4/default/cf460d5/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fb4%2F1a%2Fd85299e24a1986776e04b50e4a4a%2Fllewellyn-king-1.jpg",
+      "published": "2026-08-19 14:53:00",
+      "category": [
+        "politics",
         "top"
       ],
       "country": [
@@ -79,18 +94,138 @@
       ]
     },
     {
-      "title": "Voices for the Bay Fundraiser Highlights Growing Public Interest in Georgian Bay\u2019s Future",
-      "description": "Save Georgian Bay is inviting residents, families, cottagers, and visitors from across the region to attend Voices for the Bay, a community music festival and fundraiser taking place on Saturday, August 29 at the Collingwood Brewery Beer Garden. The event will feature live music, Indigenous drumming, food trucks, craft beer, and community engagement activities, all [...]",
-      "link": "https://themeafordindependent.ca/voices-for-the-bay-fundraiser-highlights-growing-public-interest-in-georgian-bays-future/",
-      "source": "The Meaford Independent",
-      "image": "https://themeafordindependent.ca/wp-content/uploads/2026/08/SGB-Voices-for-the-Bay.jpg",
-      "published": "2026-08-19 13:03:53",
+      "title": "$689 -- Mexico penthouse w/flights, meals & drinks",
+      "description": "Trade a standard room for a spacious penthouse and access a private rooftop.",
+      "link": "https://www.travelzoo.com/vacations/mexico/-689-Mexico-penthouse-w-flights-meals-drinks-3278568/",
+      "source": "Travelzoo",
+      "image": "https://www.travelzoo.com/images/tzoo.92347.0.1524143.poolwoman_TheFivesBeachHotelResidences.jpg?v=76jovgcou",
+      "published": "2026-08-19 14:53:00",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Shrama Vasana\u2019 Fund abolished \u2013 Sri Lanka Mirror \u2013 Right to Know. Power to Change",
+      "description": "A decision underneath the Finance Act to abolish the Shrama Vasana Fund working underneath the Ministry of Labour was handed in Parliament right this moment. Accordingly, steps might be taken to liquidate the fund in the end. The decision was offered to Parliament by Deputy Minister of Finance and Planning Anil Jayantha. Anil Jayantha stated: [...] The post \u2018Shrama Vasana\u2019 Fund abolished \u2013 Sri Lanka Mirror \u2013 Right to Know. Power to Change appeared first on Asia Today .",
+      "link": "https://asiatoday.co/2026/08/19/shrama-vasana-fund-abolished-sri-lanka-mirror-right-to-know-power-to-change/",
+      "source": "Asia Today",
+      "image": null,
+      "published": "2026-08-19 14:53:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Taxi driver, 36, who raped tourist, 22, after night out on family holiday in Tenerife is jailed for six years",
+      "description": "A TAXI driver has been jailed for raping a tourist after a night out in the south of Tenerife. The woman, 22, was on a family holiday in Spain when the assault occurred. She left a nightclub in Veronicas, Playa de Las Americas at around 3am and had intended to take a taxi home. According...",
+      "link": "https://www.thesun.ie/news/17483631/taxi-driver-raped-tourist-tenerife-jailed-six-years/",
+      "source": "The Irish Sun",
+      "image": "https://www.thesun.ie/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F08%2F2WC7AM1-JS1068967353.jpg?quality%3D90%26strip%3Dall",
+      "published": "2026-08-19 14:52:59",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "International News Briefs for Wednesday, August 19, 2026",
+      "description": "We bring you some of the top international news stories compiled by Democracy Now on Wednesday, August 19, 2026. The post International News Briefs for Wednesday, August 19, 2026 appeared first on Havana Times .",
+      "link": "https://havanatimes.org/news/international-news-briefs-for-wednesday-august-19-2026/",
+      "source": "Havana Times",
+      "image": "https://havanatimes.org/wp-content/uploads/2026/08/HD7-Trump-deportations.jpg",
+      "published": "2026-08-19 14:52:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "cuba"
+      ]
+    },
+    {
+      "title": "AP News Summary at 10:52 a.m. EDT",
+      "description": "Election takeaways: Donalds joins historic field and progressive scores upset victory in Florida",
+      "link": "https://www.chronicleonline.com/news/national/ap-news-summary-at-10-52-a-m-edt/article_62ef30d3-2170-5b84-9a83-34934e96d306.html",
+      "source": "Chronicle Online",
+      "image": null,
+      "published": "2026-08-19 14:52:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "TCN adds 672MW transmission capacity to Lagos network",
+      "description": "By Obas Esiedesa, Abuja ABUJA \u2014 The Transmission Company of Nigeria, TCN, has added 672 megawatts (MW) of transmission capacity to the Lagos electricity network following the commissioning of transformer projects at four transmission substations across the state. The projects, commissioned by the Minister of Power, Engr. Joseph Olasunkanmi Tegbe, comprise seven 132/33kV transformers and [...] The post TCN adds 672MW transmission capacity to Lagos network appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/08/tcn-adds-672mw-transmission-capacity-to-lagos-network/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2020/12/Coronavirus-TCN-makes-clarification-on-free-electricity-supply-to-Nigerians.jpg",
+      "published": "2026-08-19 14:52:56",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "5 Americans among 7 people killed when helicopter on safari crashes in northern Kenya",
+      "description": "NBCUniversal said Jose\u0301 Alberto Sua\u0301rez was among those killed in the crash.",
+      "link": "https://www.oneidadispatch.com/2026/08/19/kenya-safari-helicopter-crash/",
+      "source": "Oneida Dispatch",
+      "image": "https://www.oneidadispatch.com/wp-content/uploads/2026/08/AP26231531478830.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-19 14:52:51",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "County at a Glance Aug. 20, 2026",
+      "description": "County at a Glance Aug. 20, 2026 naronchetti Wed, 08/19/2026 - 09:52",
+      "link": "https://www.star-herald.com/calendar-community-events/county-glance-aug-20-2026",
+      "source": "Star-herald",
+      "image": null,
+      "published": "2026-08-19 14:52:50",
       "category": [
         "top",
         "lifestyle"
       ],
       "country": [
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "IFC and Popular to work for healthcare dev | Business",
+      "description": "DHAKA, Aug 19, 2026 (BSS)- International Finance Corporation (IFC), a member of the World Bank Group, will provide US$ 30.7",
+      "link": "https://bssnews.net/business/416211/IFC-and-Popular-to-work-for-healthcare-dev",
+      "source": "Bss",
+      "image": "https://www.bssnews.net/assets/news_photos/2026/08/19/image-416211-1787144167.jpg",
+      "published": "2026-08-19 14:52:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
       ]
     }
   ]

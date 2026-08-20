@@ -1,115 +1,63 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Just because the bill is low doesn\u2019t mean energy is affordable",
-      "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-      "link": "https://www.newstimes.com/news/article/just-because-the-bill-is-low-doesn-t-mean-22394573.php",
-      "source": "News Times",
-      "image": "https://s.hdnux.com/photos/01/34/02/56/24128432/3/square_large.jpg",
-      "published": "2026-08-19 13:04:00",
+      "title": "CBI files FIR against Gensol, promoters for diverting IREDA loan funds",
+      "description": "Anmol and Puneet Jaggi stepped down from the company as managing director and whole-time director, respectively, in May last year.",
+      "link": "https://www.hindustantimes.com/business/cbi-files-fir-against-gensol-promoters-for-diverting-ireda-loan-funds-101787151180439.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/FILE-PHOTO--There-has-been-no-reaction-from-the-pr_1787151173517.jpg",
+      "published": "2026-08-19 14:53:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Commissioner says dates on Rays stadium votes may be set soon",
+      "description": "A vote to build a new stadium for the Tampa Bay Rays could happen as early as next week.",
+      "link": "http://www.baynews9.com/fl/tampa/news/2026/08/19/commissioner-says-dates-on-rays-stadium-votes-may-be-set-soon",
+      "source": "Spectrum Bay News 9",
+      "image": "https://s7d2.scene7.com/is/image/TWCNews/0708_bn9_rays_ballpark_inside_1-1",
+      "published": "2026-08-19 14:53:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "TCN adds 672MW transmission capacity to Lagos network",
+      "description": "By Obas Esiedesa, Abuja ABUJA \u2014 The Transmission Company of Nigeria, TCN, has added 672 megawatts (MW) of transmission capacity to the Lagos electricity network following the commissioning of transformer projects at four transmission substations across the state. The projects, commissioned by the Minister of Power, Engr. Joseph Olasunkanmi Tegbe, comprise seven 132/33kV transformers and [...] The post TCN adds 672MW transmission capacity to Lagos network appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/08/tcn-adds-672mw-transmission-capacity-to-lagos-network/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2020/12/Coronavirus-TCN-makes-clarification-on-free-electricity-supply-to-Nigerians.jpg",
+      "published": "2026-08-19 14:52:56",
       "category": [
         "business",
-        "environment",
         "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "SECP approves public offering of Naya Nazimabad Apartments REIT",
-      "description": "ISLAMABAD - Pakistan\u2019s primary capital market continues to gain momentum as the Securities and Exchange Commission of Pakistan (SECP) has approved the Offer for Sale prospectus of Naya Nazimabad Apartments REIT (NNAR) for listing on the Pakistan Stock Exchange (PSX).",
-      "link": "https://www.nation.com.pk/19-Aug-2026/secp-approves-public-offering-naya-nazimabad-apartments-reit",
-      "source": "The Nation",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-08-19 13:04:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "China successfully recovers rocket stage on land for the first time - AP News",
-      "description": "China successfully recovers rocket stage on land for the first time AP News SpaceX stock in focus after China rocket milestone, share unlock ahead Yahoo Finance Touchdown! Private Chinese rocket aces landing on 2nd-ever flight (video) Space China's LandSpace lands rocket booster; joins SpaceX, Blue Origin with reusable tech Reuters China becomes first to recover orbital launch rockets with 2 distinct paths South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEstcXhyeGhWbXllN1BkSHk1WWhxWUktWEpzemUwb0ZyeVg2TlF1QVBGazYtVGhIMUNnSXB1cE1QN3JQaFZHMVZjeFJlQlN1M1Qwc3Fhak1LRGkxbzItOUlfUlFib3VOVm14QlU3bFNzSG5zY1BNbVpaZFgzc01tOGJRZjd0N1RVbF81bEtDWmZyaFU?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-19 13:04:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Palo Alto Networks Introduces Frontier AI Critical Defense Program",
-      "description": "A collaboration of leading technology providers to protect critical infrastructure against the rapid rise of AI-discovered vulnerabilities SANTA CLARA, Calif., Aug. 19, 2026 /PRNewswire/ -- Palo Alto Networks (NASDAQ: PANW) today announced the Frontier AI Critical Defense Program, a...",
-      "link": "https://www.prnewswire.com/news-releases/palo-alto-networks-introduces-frontier-ai-critical-defense-program-302855274.html",
-      "source": "Pr Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS381466/Palo-Alto-Networks-Logo-2025.jpg?id=OA2896381&p=original",
-      "published": "2026-08-19 13:04:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "1Kosmos Delivers High Assurance Identity Verification for Healthcare Providers in EpicCare Link",
-      "description": "1Kosmos platform enables healthcare organizations to verify the identities of providers and external clinicians before granting access to EpicCare Link.",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/08/19/3347713/0/en/1kosmos-delivers-high-assurance-identity-verification-for-healthcare-providers-in-epiccare-link.html",
-      "source": "Globenewswire_fr",
-      "image": null,
-      "published": "2026-08-19 13:04:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "france"
-      ]
-    },
-    {
-      "title": "Canadian Stocks Poised For Gains As Tariff Pause Signals Trade Deal",
-      "description": "Canadian markets are expected to open higher Wednesday following the Trump administration's decision to temporarily pause new tariffs on Canadian goods ahead of a potential U.",
-      "link": "https://www.rttnews.com/3682109/canadian-stocks-poised-for-gains-as-tariff-pause-signals-trade-deal.aspx",
-      "source": "Rttnews",
-      "image": "https://cdn.rttnews.com/images/v4/RTTNews-Logo-512x512.png",
-      "published": "2026-08-19 13:03:58",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "japan",
-        "india",
-        "south korea",
-        "germany",
-        "united states of america",
-        "united kingdom",
-        "canada",
-        "france",
-        "china",
-        "australia"
-      ]
-    },
-    {
-      "title": "FG borrows N11.9 trillion in two years, says subsidy removal prevented more debt",
-      "description": "The Federal Government borrowed N11.9 trillion between June 2023 and December 2025, but says the amount would have been significantly higher without the fiscal space created by its economic reforms. The post FG borrows N11.9 trillion in two years, says subsidy removal prevented more debt appeared first on Nairametrics .",
-      "link": "https://nairametrics.com/2026/08/19/fg-borrows-n11-9-trillion-in-two-years-says-subsidy-removal-prevented-more-debt/",
-      "source": "Nairametrics",
-      "image": "https://media.nairametrics.com/wp-content/uploads/2026/08/Taiwo-Oyedele-1.webp",
-      "published": "2026-08-19 13:03:55",
-      "category": [
-        "business"
       ],
       "country": [
         "nigeria"
+      ]
+    },
+    {
+      "title": "IFC and Popular to work for healthcare dev | Business",
+      "description": "DHAKA, Aug 19, 2026 (BSS)- International Finance Corporation (IFC), a member of the World Bank Group, will provide US$ 30.7",
+      "link": "https://bssnews.net/business/416211/IFC-and-Popular-to-work-for-healthcare-dev",
+      "source": "Bss",
+      "image": "https://www.bssnews.net/assets/news_photos/2026/08/19/image-416211-1787144167.jpg",
+      "published": "2026-08-19 14:52:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
       ]
     }
   ]

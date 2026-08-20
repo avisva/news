@@ -1,16 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "BWF World Championships 2026: Lakshya Sen knocked out after Garrett Tan pulls off major upset",
-      "description": "Lakshya, who had started the match strongly by taking the opening game 21-19, was unable to maintain the momentum as Tan hit back to win the second by the identical scoreline and force the contest into a decider.",
-      "link": "https://www.cnbctv18.com/sports/bwf-world-championships-2026-lakshya-sen-knocked-out-after-garrett-tan-pulls-off-major-upset-19972982.htm",
-      "source": "Cnbctv18",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/screenshot-2026-08-19-at-63309pm-2026-08-8e1697a475113e462db3f0752d52c326.jpg",
-      "published": "2026-08-19 13:03:57",
+      "title": "CBI files FIR against Gensol, promoters for diverting IREDA loan funds",
+      "description": "Anmol and Puneet Jaggi stepped down from the company as managing director and whole-time director, respectively, in May last year.",
+      "link": "https://www.hindustantimes.com/business/cbi-files-fir-against-gensol-promoters-for-diverting-ireda-loan-funds-101787151180439.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/FILE-PHOTO--There-has-been-no-reaction-from-the-pr_1787151173517.jpg",
+      "published": "2026-08-19 14:53:00",
       "category": [
-        "sports"
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rahul Gandhi backs tribal 'Satyagraha' against Ken-Betwa river-linking project",
+      "description": "Rahul Gandhi has backed tribal protests against the Ken-Betwa river-linking project in Madhya Pradesh and promised to visit the site.",
+      "link": "https://www.wionews.com/india-news/rahul-gandhi-backs-tribal-satyagraha-ken-betwa-project-1787147459837",
+      "source": "Wion",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260819/image-1787151116610.jpg?rect=(0,104,627,470)",
+      "published": "2026-08-19 14:52:51",
+      "category": [
+        "world"
       ],
       "country": [
         "india"

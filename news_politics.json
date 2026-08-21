@@ -1,50 +1,34 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Let's talk about Christian Nationalism",
-      "description": "A movement that grows on the seedbed of hating your enemy, killing and deporting the immigrant, starving your own citizens by cutting food programs like SNAP, is not Christian.",
-      "link": "https://www.ncspin.com/lets-talk-about-christian-nationalism",
-      "source": "Nc Spin",
-      "image": "https://www.ncspin.com/content/images/1200x628/69695b9f2b85b.jpg",
-      "published": "2026-08-20 21:33:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Moment French police are attacked before using knives to slash dinghy filled with migrants from reaching UK",
-      "description": "Shocking footage has captured the moment French police officers were attacked by migrants as they intercepted the launch of a boat.",
-      "link": "https://www.lbc.co.uk/article/french-police-video-attacked-migrant-channel-dinghy-uk-5HjdgLM_2/",
-      "source": "London Broadcasting Company",
-      "image": "https://images.globalplayer.com/images/836536?crop=16_9&width=1200&signature=i4Lts2Kd8dKXo6m8jLk-sdotRtw=",
-      "published": "2026-08-20 21:32:54",
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Army to Shutter Emerging Drone Unit in Europe",
-      "description": "An Army unit based in Europe that was specializing in drone warfare has been directed to end its efforts to learn and use the battlefield technology and return to being a traditional infantry battalion, officials said Thursday.For more nearly a year, soldiers of the 173rd...",
-      "link": "https://www.newsmax.com/newsfront/drones-army-ukraine/2026/08/20/id/1266822",
-      "source": "Newsmax.com",
-      "image": "https://www.newsmax.com/cmspages/getfile.aspx?guid=DBBE2BDE-B981-41CD-9533-A0C4759230F5",
-      "published": "2026-08-20 21:32:44",
+      "title": "Anderson County Joins South Carolina Counties Halting Data Center Approvals",
+      "description": "Anderson County, SC approved a six-month data center moratorium, joining York, Newberry and other counties pausing new projects in 2026.",
+      "link": "https://hoodline.com/2026/08/anderson-county-joins-south-carolina-counties-halting-data-center-approvals/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/8/anderson-county-joins-south-carolina-counties-halting-data-center-approvals-1.webp",
+      "published": "2026-08-20 22:25:55",
       "category": [
         "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018From crisis management to stability\u2019: Pashinyan unveils new government programme",
+      "description": "Armenia's Cabinet approves 2026\u20132031 programme: Pashinyan explains what to expect over the next five years and outlines the government's foreign policy priorities",
+      "link": "https://jam-news.net/armenias-2026-2031-government-programme/",
+      "source": "Jamnews In English",
+      "image": "https://jam-news.net/app/uploads/2026/08/Pashinyan_people_child.jpg",
+      "published": "2026-08-20 22:25:46",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "armenia"
       ]
     }
   ]

@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Cinnamon Lakeside Colombo celebrates ASEAN Day with culinary journey across Southeast Asia",
+      "description": "Cinnamon Lakeside Colombo is set to celebrate the rich culinary heritage of Southeast Asia with its ASEAN Food Festival, taking place from 21 to 23 August 2026 at the hotel\u2019s Pool Terrace. Held in celebration of ASEAN Day, the three-night culinary experience is presented in partnership with the Embassies of Thailand, Indonesia, Malaysia, Myanmar and Vietnam, bringing together the distinctive flavours and culinary traditions of five Southeast Asi",
+      "link": "https://www.ft.lk/food__beverage/Cinnamon-Lakeside-Colombo-celebrates-ASEAN-Day-with-culinary-journey-across-Southeast-Asia/39-796343",
+      "source": "Daily Ft",
+      "image": "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ft.lk/assets/uploads/image_3c7a956598.jpg",
+      "published": "2026-08-20 18:40:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "sri lanka"
+      ]
+    },
+    {
+      "title": "Ofcom to investigate Sky over \u2018harassment\u2019 of Farage\u2019s daughter - The Telegraph",
+      "description": "Ofcom to investigate Sky over \u2018harassment\u2019 of Farage\u2019s daughter The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazh5R25qWjE0dFFZT3lDNmhISXVBcHJqckJ2UmlFX3d4MXJlNEtobkRCVThqVFQwdmZUMlZSVW1Ic0d0LXUxam5UQ3Q3VlE0cUNDY2JqYUxLOWxlYlBIQ1ZwYmhjd2QyNVVMMnBvb3hMT2VWUVR6T0ktd1ZyRTh1NnZnTEJzRWRxTWdJSTBTRVNybEpYOGJ3NmtUajMwOEhmV2pIck9B?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-20 18:40:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Village of Bosque Farms explores joining November elections | News | news-bulletin.com",
+      "description": "Bosque Farms \u2014 Valencia County\u2019s last hold out to election consolidation is considering joining the rest of the municipalities in November elections run by the Valencia County clerk\u2019s office. At",
+      "link": "https://www.news-bulletin.com/news/village-of-bosque-farms-explores-joining-november-elections/342463",
+      "source": "Valencia County News-bulletin",
+      "image": null,
+      "published": "2026-08-20 18:40:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

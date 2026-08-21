@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "China to replace soldiers with AI robots",
-      "description": "Chinese experts have proposed transforming disputed islands and reefs in the South China Sea into autonomous \u201crobotic fortresses\u201d equipped with unmanned systems and automated defense technologies.",
-      "link": "https://www.azernews.az/region/262640.html",
+      "title": "Robotics boom fueling nation's tech ambitions",
+      "description": "BEIJING, Aug. 20, 2026 /PRNewswire/ -- The following article was published today by China Daily. More than 3,000 cutting-edge robots and related products packed the 2026 World Robot Conference, which opened in Beijing on Wednesday, the same day that Unitree Robotics made its debut on the...",
+      "link": "https://www.prnewswire.com/news-releases/robotics-boom-fueling-nations-tech-ambitions-302856608.html",
+      "source": "Pr Newswire",
+      "image": null,
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US to fund hypersonic missile development",
+      "description": "American defense startup Castelion has raised more than $1 billion in new funding to accelerate the development and production of hypersonic weapons.",
+      "link": "https://www.azernews.az/region/262642.html",
       "source": "Azernews",
-      "image": "https://www.azernews.az/media/2026/08/20/image-1755267747612.png",
-      "published": "2026-08-20 14:59:00",
+      "image": "https://www.azernews.az/media/2026/08/20/rodong-jan5-2026-kju-hypersonic-missile-test-3.jpg",
+      "published": "2026-08-20 15:55:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
         "azerbaijan"
+      ]
+    },
+    {
+      "title": "Best AI Search Visibility Software for Enterprises: 7 Platforms Compared",
+      "description": "A new procurement category with no evaluation criteria \u2014 until now. A five-point scorecard and seven platforms scored against it.",
+      "link": "https://www.gmtoday.com/partner/best-ai-search-visibility-software-enterprises/article_0f38fb5d-e0dd-4921-89ca-7784dae73ba7.html",
+      "source": "Gmtoday",
+      "image": "https://bloximages.newyork1.vip.townnews.com/gmtoday.com/content/tncms/assets/v3/editorial/e/34/e34abb92-d453-4eb4-9677-636f7e5b4f96/6a87240950403.image.png?crop=977%2C513%2C0%2C0",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

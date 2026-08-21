@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 17,
+  "totalResults": 16,
   "results": [
     {
-      "title": "China to replace soldiers with AI robots",
-      "description": "Chinese experts have proposed transforming disputed islands and reefs in the South China Sea into autonomous \u201crobotic fortresses\u201d equipped with unmanned systems and automated defense technologies.",
-      "link": "https://www.azernews.az/region/262640.html",
+      "title": "People asked to avoid area after serious collision in West Cork",
+      "description": null,
+      "link": "https://www.irishexaminer.com/news/munster/arid-41899075.html",
+      "source": "Irish Examiner",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10401/5200699_3_articlelarge_dan_20garriff_207.jpg",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "US to fund hypersonic missile development",
+      "description": "American defense startup Castelion has raised more than $1 billion in new funding to accelerate the development and production of hypersonic weapons.",
+      "link": "https://www.azernews.az/region/262642.html",
       "source": "Azernews",
-      "image": "https://www.azernews.az/media/2026/08/20/image-1755267747612.png",
-      "published": "2026-08-20 14:59:00",
+      "image": "https://www.azernews.az/media/2026/08/20/rodong-jan5-2026-kju-hypersonic-missile-test-3.jpg",
+      "published": "2026-08-20 15:55:00",
       "category": [
         "top",
         "technology"
@@ -18,87 +33,42 @@
       ]
     },
     {
-      "title": "Walmart is cautious with expectations after slowest sales growth in 6 years",
-      "description": "Walmart reported its slowest growth in U.S. comparable sales in six years during its most recent quarter, and it offered a reserved upgraded outlook. The results, announced Thursday, fanned some concerns about the health of its core low-income shoppers who...",
-      "link": "https://www.sharonherald.com/news/local_news/walmart-is-cautious-with-expectations-after-slowest-sales-growth-in-6-years/article_a59b7a89-b754-5ed7-a994-43bb9a083d8e.html",
-      "source": "Sharonherald",
-      "image": null,
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "How to turn an empty ISA into a passive income of \u00a312,500 a year",
-      "description": "Too many underestimate the wealth-building power of FTSE 100 shares, and how they can generate a generous passive income for retirement. The post How to turn an empty ISA into a passive income of \u00a312,500 a year appeared first on The Twelfth Magpie .",
-      "link": "https://www.twelfthmagpie.com/2026/08/20/how-to-turn-an-empty-isa-into-a-passive-income-of-12500-a-year/",
-      "source": "Fool Uk",
-      "image": "https://www.twelfthmagpie.com/wp-content/uploads/2022/10/UK-retirement.jpg",
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "What happened to King Charles?",
-      "description": "In a move that could reshape the House of Windsor, King Charles has stepped up his efforts to bring Prince Harry home, with Queen Camilla standing firmly at his side and the Palace choosing quiet dignity over noise. The news has sent shockwaves across Britain. But behind...",
-      "link": "https://www.geo.tv/latest/678496-what-happened-to-king-charles",
-      "source": "Geo Tv",
-      "image": "https://www.geo.tv/assets/uploads/updates/2026-08-20/678496_080117_updates.jpg",
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "After recent visit to Haiti, congressman wants TPS for Haitians restored",
-      "description": "A U.S. congressman from California is urging the Trump administration to reinstate Temporary Protected Status for Haitians, arguing that a recent visit to a violence-torn Haiti convinced him that conditions remain far too dangerous for hundreds of thousands of its...",
-      "link": "https://thebrunswicknews.com/news/national_news/after-recent-visit-to-haiti-congressman-wants-tps-for-haitians-restored/article_0b05e111-25ce-5ad7-b08e-11021a1bd4c9.html",
-      "source": "The Brunswick News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/2/6f/26f96211-5718-5bc6-a778-2e4857dd9100/6a871b7386a5d.image.jpg?resize=300%2C200",
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "RCMP cite proactive policing as several Springfield crime categories decline",
-      "description": null,
-      "link": "https://www.winnipegsun.com/springfield-rcmp-sees-12-percent-rise-in-calls-for-service/article_b351e4e1-f45a-47f7-a7ba-aec2539a107a.html",
-      "source": "Winnipeg Sun",
-      "image": null,
-      "published": "2026-08-20 14:59:00",
+      "title": "Tanker overturns on Highway 166 near Rock Front Ranch",
+      "description": "Traffic on Highway 166 west of New Cuyama was slowed for a time and then halted after a tanker rolled off the highway and into a ditch Wednesday afternoon.",
+      "link": "https://www.taftmidwaydriller.com/news/tanker-overturns-on-highway-166-near-rock-front-ranch/article_f39ff2de-f6b0-486d-833d-48379ca7ff44.html",
+      "source": "Taft Midway Driller",
+      "image": "https://bloximages.newyork1.vip.townnews.com/taftmidwaydriller.com/content/tncms/assets/v3/editorial/c/d8/cd8d0904-66e0-42f2-8cdf-bb5443194c8b/6a8724616dee9.image.jpg?resize=300%2C186",
+      "published": "2026-08-20 15:55:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     },
     {
-      "title": "Scotties pick up section win",
-      "description": null,
-      "link": "https://www.dailycourier.com/sports/scotties-pick-up-section-win/article_a8921553-a15d-429e-930b-3e3a4d864048.html",
-      "source": "Daily Courier",
-      "image": null,
-      "published": "2026-08-20 14:59:00",
+      "title": "Rajya Sabha MP's Son Charged As Aston Martin Car Crash Kills Woman In Hyderabad",
+      "description": "Car was being driven by Lingamaneni Ramesh's son Sanjush, 21, allegedly at high speed and in a rash manner when it struck Bharathi, a 26-year-old mall saleswoman",
+      "link": "https://www.ndtv.com/india-news/rajya-sabha-lingamaneni-rameshs-son-sanjush-booked-as-aston-martin-car-crash-kills-woman-in-hyderabad-11937375",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-08/p42ujkcc_aston-martin_625x300_20_August_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Lawton football preview: Blue Devils lost entire backfield \u2014 and somehow got faster",
+      "description": "The star backfield is gone, but a new wave of speed and athleticism has the Blue Devils believing they're even more dangerous in 2026.",
+      "link": "https://www.mlive.com/highschoolsports/2026/08/lawton-football-preview-blue-devils-lost-entire-backfield-and-somehow-got-faster.html",
+      "source": "Mlive",
+      "image": "https://www.mlive.com/resizer/v2/QE7MZLY3PJDRTHWTBMOUUDQN7Y.JPG?auth=ab886eb332ae2bb1cda828e3e5ffcb2a0fecf46715beb25026caecb0a4df23cc&smart=true&height=1200",
+      "published": "2026-08-20 15:55:00",
       "category": [
         "sports",
         "top"
@@ -108,104 +78,14 @@
       ]
     },
     {
-      "title": "Fundraising continues to support fire-affected businesses",
-      "description": "REGIONAL-- As legislative economic relief stalls, United Way of Northeastern Minnesota has directed its own effort to provide assistance to area businesses affected by the fires in the Boundary ...",
-      "link": "https://www.timberjay.com/stories/fundraising-continues-to-support-fire-affected-businesses,40698",
-      "source": "The Timberjay",
-      "image": null,
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "After recent visit to Haiti, congressman wants TPS for Haitians restored - Thu, 20 Aug 2026 PST",
-      "description": "A U.S. congressman from California is urging the Trump administration to reinstate Temporary Protected Status for Haitians, arguing that a recent visit to a violence-torn Haiti convinced him that conditions remain far too dangerous for hundreds of thousands of its nationals to safely return.",
-      "link": "http://www.spokesman.com/stories/2026/aug/20/after-recent-visit-to-haiti-congressman-wants-tps-/",
-      "source": "Spokesman",
-      "image": "https://thumb.spokesman.com/GLsnrSfj0xclbniXJHsm5Ov6BVY=/2500x1405/smart/media.spokesman.com/photos/2026/08/20/6a877971c6726.hires.jpg",
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Airlift Group Launches New VR Partnership",
-      "description": "AUGUST 20, 2026 \u2013 Despite having no aircraft assigned to its unit authorization document, the 913th Airlift Group is training maintainers as if an entire fleet is at its fingertips. Inside its newly established virtual reality training center, logistical limitations have given way to immersive, mission-ready instruction. By utilizing realistic, zero-risk simulations instead of active [...] The post Airlift Group Launches New VR Partnership appeared first on MilitarySpot.com .",
-      "link": "https://www.militaryspot.com/news/airlift-group-launches-new-vr-partnership",
-      "source": "Military Spot",
-      "image": "https://www.militaryspot.com/wp-content/uploads/2026/08/VR-partnership.jpg",
-      "published": "2026-08-20 14:59:00",
+      "title": "Wizzmoni Partners with Oman Air to Launch AI-Powered Co-Branded 'Wizz Voyager' Multi-Currency Travel Card",
+      "description": "KOCHI, India, Aug. 20, 2026 /PRNewswire/ -- Wizzmoni Financial Services Ltd and Oman Air have partnered to launch the co-branded Wizz Voyager Multi-Currency Card, an AI-powered travel card supporting multiple global currencies. Bringing together Wizzmoni's fintech capabilities with Oman...",
+      "link": "https://www.prnewswire.co.uk/news-releases/wizzmoni-partners-with-oman-air-to-launch-ai-powered-co-branded-wizz-voyager-multi-currency-travel-card-302856607.html",
+      "source": "Pr Newswire Uk",
+      "image": "https://mmx.prnewswire.com/media/MS1972941/WC5A9055-1-1.jpg?id=OA2900215&p=original",
+      "published": "2026-08-20 15:55:00",
       "category": [
         "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "No EIS needed for Silver Rapids plan",
-      "description": "TWO HARBORS-- The Lake County Planning Commission, as expected, won't require a full environmental impact statement, or EIS, for the proposed redevelopment of the Silver Rapids Lodge, near Ely. ...",
-      "link": "https://www.timberjay.com/stories/no-eis-needed-for-silver-rapids-plan,40696",
-      "source": "The Timberjay",
-      "image": "https://beta.creativecirclecdn.com/timberjay/large/20241023-165606-899-10.25%20silver%20rapids%20view%20from%20bridge2.tif.jpg",
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Reports: DEA joins investigation into Hayden Panettiere\u2019s death",
-      "description": "The federal DEA has joined the investigation into the death of actress Hayden Panettiere, according to multiple media reports.",
-      "link": "https://www.koco.com/article/hayden-panettiere-death-dea-investigation/73483989",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/4bb2a382-ee49-4b27-b55b-42592b5d8a57.jpg",
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "FRONT PORCH: Lessons from FNM\u2019s 1992 victory:",
-      "description": "AS the Free National Movement (FNM) celebrates the 34th anniversary of its first election to office in 1992, there are lessons the current FNM might draw from that victory.",
-      "link": "https://tribune242.com/news/2026/aug/20/front-porch-lessons-from-fnms-1992-victory/",
-      "source": "The Tribune",
-      "image": null,
-      "published": "2026-08-20 14:59:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "bahamas"
-      ]
-    },
-    {
-      "title": "Man arrested in connection with reported racial abuse in York city centre",
-      "description": "A man has been arrested in connection with reported racial abuse in Piccadilly, York.",
-      "link": "https://www.yorkpress.co.uk/news/26482401.man-arrested-alleged-racial-abuse-piccadilly-york/",
-      "source": "The Press",
-      "image": "https://www.yorkpress.co.uk/resources/images/21063453/",
-      "published": "2026-08-20 14:58:59",
-      "category": [
-        "crime",
         "top"
       ],
       "country": [
@@ -213,48 +93,153 @@
       ]
     },
     {
-      "title": "Vietnam, Guinea seek to boost investment cooperation",
-      "description": "The MOU signed between the Vietnamese Ministry of Finance and the Guinean Minister of Planning, International Cooperation and Development aims to formalise cooperation, strengthen institutional capacity and share experience in planning, development and other areas agreed upon by the two sides in writing, in line with their respective functions and responsibilities. Vietnam looks to stronger ties with Africa for sustainable development PM\u2019s trip lays strategic foundations for Middle East\u2013Africa market expansion: FM Africa emerges as promising market for Vietnamese rice",
-      "link": "https://en.vietnamplus.vn/vietnam-guinea-seek-to-boost-investment-cooperation-post350470.vnp",
-      "source": "Vietnam+",
-      "image": "https://mediaen.vietnamplus.vn/images/9XmmeM-ekIeVQXUgc8JgBfzXI28KQ37KVeT9ZvFn42BdTDwF6U_P5VH1L111Hyk6h-hDZmwLI4HNym7JTh860w/ngo-van-tuan.jpg.webp",
-      "published": "2026-08-20 14:58:59",
+      "title": "World Mosquito Day: MSF rallies in Ctg to raise dengue awareness",
+      "description": "The organisation distributed practical advice and demonstrated source reduction techniques to residents to help lower the risk of infection.",
+      "link": "https://www.tbsnews.net/bangladesh/world-mosquito-day-msf-rallies-ctg-raise-dengue-awareness-1520826",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/08/20/mosquito_day.png",
+      "published": "2026-08-20 15:55:00",
       "category": [
-        "business",
+        "environment",
         "top"
       ],
       "country": [
-        "vietnam"
+        "bangladesh"
       ]
     },
     {
-      "title": "26 CG students hospitalised after having mid-day meal with \u2018chemical odour\u2019",
-      "description": "26 CG students hospitalised after having mid-day meal with \u2018chemical odour\u2019",
-      "link": "https://timesofindia.indiatimes.com/city/raipur/26-cg-students-hospitalised-after-having-mid-day-meal-with-chemical-odour/articleshow/133381324.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133381082/133381082.jpg",
-      "published": "2026-08-20 14:58:59",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "BJP leader oppose ESA notification",
-      "description": "Former Minister and BJP leader Haratal Halappa has opposed the draft notification declaring parts of the Western Ghats, including villages on the foothills, as an eco-sensitive area.",
-      "link": "https://www.thehindu.com/news/national/karnataka/bjp-leader-oppose-esa-notification/article71369205.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/8ivxdd/article71369994.ece/alternates/FREE_1200/9911_20_8_2026_18_19_1_5_HALAPPA04.JPG",
-      "published": "2026-08-20 14:58:57",
+      "title": "11-party alliance to begin Dhaka-Ctg long march from Shapla Chattar on 5 Sep",
+      "description": "The procession will hold roadside rallies at Madanpur in Narayanganj, Paduar Bazar Bishwaroad in Cumilla and Mirsarai in Chattogram before reaching its final destination in Chattogram.",
+      "link": "https://www.tbsnews.net/bangladesh/politics/11-party-alliance-begin-dhaka-ctg-long-march-shapla-chattar-5-sep-1520831",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/08/20/jamaat_shapla_chattar.jpg",
+      "published": "2026-08-20 15:55:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
+      "description": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard.",
+      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Landscapers threatened with call to ICE outside a Riverside salon, advocates say",
+      "description": "Protesters say a social media video shows that immigrants continue to be targeted but \u201cshould be protected and respected.\u201d",
+      "link": "https://www.dailybulletin.com/2026/08/20/landscapers-threatened-with-call-to-ice-outside-a-riverside-salon-advocates-say/",
+      "source": "Inland Valley Daily Bulletin",
+      "image": "https://www.dailybulletin.com/wp-content/uploads/2026/08/RPE-L-ICECALLS-0820-01MS-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Speaker pledges \u2018more appropriate solution\u2019 to Parliament barricades",
+      "description": "The new IG\u0307M council (from left: Emma Brownrigg Fenech, president Nicole Meilak, Juliana Zammit and Daniel Ellul) at the meeting with Speaker Carmelo Abela. Photo: DOI",
+      "link": "https://timesofmalta.com/article/speaker-pledges-more-appropriate-solution-parliament-barricades.1133009",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/1108137b0a9ca03dbcd0854d0493fd85f24f8205-1787241365-c5b4cdef-1920x1280.jpg",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "Elmore County Honors Five Deputies for Heroic Actions During May Wildfire",
+      "description": "Elmore County honored five sheriff\u2019s deputies for evacuations, home protection and life-saving actions during the May 26 wildfire.",
+      "link": "https://www.mountainhomenews.com/news/elmore-county-honors-five-deputies-for-heroic-actions-during-may-wildfire-e3d6d1cb",
+      "source": "Mountain Home News",
+      "image": "https://public-assets-prod.pubgen.ai/brand_022133f6-fe09-41c8-b8d2-d96d449f41e0/asset_1a28fd34-4cc3-4850-8e5b-a06a8485ca8f.jpg",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Best AI Search Visibility Software for Enterprises: 7 Platforms Compared",
+      "description": "A new procurement category with no evaluation criteria \u2014 until now. A five-point scorecard and seven platforms scored against it.",
+      "link": "https://www.gmtoday.com/partner/best-ai-search-visibility-software-enterprises/article_0f38fb5d-e0dd-4921-89ca-7784dae73ba7.html",
+      "source": "Gmtoday",
+      "image": "https://bloximages.newyork1.vip.townnews.com/gmtoday.com/content/tncms/assets/v3/editorial/e/34/e34abb92-d453-4eb4-9677-636f7e5b4f96/6a87240950403.image.png?crop=977%2C513%2C0%2C0",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Post Malone is engaged! Shop Christy Lee's stunning ring look for less",
+      "description": "Post Malone and Christy Lee are engaged, and her jaw-dropping diamond is giving us major bridal inspiration. Here's how you can get the look for less.",
+      "link": "https://www.thespectrum.com/story/shopping/entertainment/celebrity/2026/08/20/post-malone-christy-lee-engagement-ring-similar-styles/91391732007/",
+      "source": "The Spectrum",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/20/USAT/91387410007-getty-images-2249659306.jpg?auto=webp&crop=5999,3375,x0,y312&format=pjpg&width=1200",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Odisha CM directs officials to construct additional block at SCB Medical College",
+      "description": "Odisha CM directs officials to construct additional block at SCB Medical College",
+      "link": "https://www.edexlive.com/news/odisha-cm-directs-officials-to-construct-additional-block-at-scb-medical-college",
+      "source": "Edex Live",
+      "image": "https://cf-images.assettype.com/edexlive/2026-08-20/8jzyhwwl/202603163710716.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-08-20 15:55:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Business activity moderated in July, but outlook remains solid",
+      "description": "Business activity in key segments of the logistics economy remained steady despite slowing conditions recorded in July, according to reports released this week. U.S. trucking activity fell 1% in July after rising 1.5% in June, according to the American Trucking Associations\u2019 (ATA) monthly Truck Tonnage Index. ATA\u2019s advanced seasonally adjusted For-Hire Truck Tonnage Index equaled 113.5 in July, down from 114.7 in June. The index fell 0.5% from the same month in 2025, which was worse than June\u2019s revised 1.2% gain, ATA said. Year-to-date, compared with the same period in 2025, tonnage is up 1.4% due to robust year-over-year increases from February through April. \u201cTonnage levels have been choppy recently, and this trend was reflected in July\u2019s decline,\u201d ATA Chief Economist Bob Costello said in a press release announcing the results Tuesday. \u201cAside from a couple pockets of strength, including the boom in data center construction for AI, freight has been lackluster. It is also true that the industry is seeing a recovery, but that is nearly all due to excess capacity leaving the market.\u201d Intermodal freight activity moderated as well, according to August estimates from the Intermodal Association of North America (IANA), released Monday. The group said its Intermodal Volume Index (IVI) registered 101.3, down from July\u2019s estimate of 104.1, but still showing year-over-year growth. A steady reading near the IVI\u2019s baseline of 100 indicates intermodal demand remains stable, neither accelerating into a capacity crunch nor sliding toward a downturn, according to IANA. \u201cThe August estimate, though down, reads as a continuation of the strength that we've seen for much of ... 2026,\u201d Andrew Sibold, IANA\u2019s director of economics, said in a statement announcing the monthly report. \u201cAlthough this month's forecast carries a bit more uncertainty, we're seeing no reason for any near-term reversal of the positive trend we've seen this year.\u201d Manufacturing groups reported similar results. Declines in consumer goods production were offset by gains in other areas\u2014particularly industrial equipment and defense production\u2014yielding a slightly slower rate of growth in industrial output during July compared to June, according to a report from AMT-The Association for Manufacturing Technology, released Tuesday. Total U.S. industrial production grew 0.2% in July, down from 0.3% growth in June, according to AMT. \u201cThe pullback in production of consumer goods could be the result of the increasingly bifurcated consumer economy,\u201d Christopher Chidzik, principal economist with AMT, said in a press release. \u201cManufacturing technology orders came in at record levels over the first half of 2026 . Some of these capital investments were surely motivated by increased demand for industrial, space, and defense equipment. While a deterioration of consumer strength could quell some manufacturing technology orders, elevated demand from producers of business and military equipment could keep the industrial economy afloat during any upcoming period of declining consumer activity.\u201d",
+      "link": "https://www.thescxchange.com/move/business-activity-moderated-in-july-but-outlook-remains-solid",
+      "source": "Thescxchange",
+      "image": "https://www.thescxchange.com/media-library/an-image-of-different-transportation-modes-including-a-cargo-ship-a-truck-and-a-plane.jpg?id=67651680&width=980",
+      "published": "2026-08-20 15:54:58",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

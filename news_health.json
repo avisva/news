@@ -1,31 +1,60 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Odisha CM directs officials to construct additional block at SCB Medical College",
-      "description": "Odisha CM directs officials to construct additional block at SCB Medical College",
-      "link": "https://www.edexlive.com/news/odisha-cm-directs-officials-to-construct-additional-block-at-scb-medical-college",
-      "source": "Edex Live",
-      "image": "https://cf-images.assettype.com/edexlive/2026-08-20/8jzyhwwl/202603163710716.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-08-20 15:55:00",
+      "title": "New AI framework improves reliability of cancer pathology diagnosis - News-Medical",
+      "description": "New AI framework improves reliability of cancer pathology diagnosis News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzNhaER6LW9uMjhTcGtISlBVZm9HVUE4ck9LS0ktaUZpcXNvMjRxY1VYUzhMN0xRejNBSUV0aE9vb21nbTJ0TGFScHl5dVZvVmRCSVA5YkN3SFRzQnE4Y3ZUbTVjbXZ2Tk5vbGlpOUlMcWJDRHQ4dzBBU20tSzNMcVpVR2tLdzJ1SFVqSzQ0MHE5MkpfaHFmeVFrdHVLUzk1TmwzSXpYZFFqQU9od3hPVzA2emstdw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-20 16:35:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "VGM Group Opinion Editorial: Third-Party Administrators: A Short-Term Fix That Creates Long-Term Healthcare Problems",
+      "description": null,
+      "link": "https://www.hastingstribune.com/ap/business/vgm-group-opinion-editorial-third-party-administrators-a-short-term-fix-that-creates-long-term/article_52ac26b6-240e-5728-92b5-9e7b4f589e17.html",
+      "source": "Hastingstribune",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/6/20/6200c136-e077-5c6b-846f-b342f23119a7/6a872d399df2d.image.jpg?resize=300%2C350",
+      "published": "2026-08-20 16:35:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Katie Price being sent to specialist over concerning weight loss",
+      "description": "Katie Price has revealed she is being sent to a specialist over her continuing and concerning weight loss, as investigations continue to get to the bottom of what's behind it.",
+      "link": "https://www.mirror.co.uk/3am/celebrity-news/katie-price-specialist-weight-loss-37574289",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37556769.ece/ALTERNATES/s615/2_Katie-Price-Nothing-to-Hide-Photocall.jpg",
+      "published": "2026-08-20 16:34:53",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     },
     {
-      "title": "Watch CNBC's full interview with St. Louis Fed President Alberto Musalem",
-      "description": "Alberto Musalem, St. Louis Fed president, and CNBC\u2019s Steve Liesman join 'Squawk on the Street' to discuss the Treasury's debt buyback program, bond yields, inflation, and more.",
-      "link": "https://www.cnbc.com/video/2026/08/20/watch-cnbcs-full-interview-with-st-louis-fed-president-alberto-musalem.html",
-      "source": "Cnbc",
-      "image": "https://image.cnbcfm.com/api/v1/image/108352219-17872407541787240749-47882722330-1080pnbcnews.jpg?v=1787240753",
-      "published": "2026-08-20 15:54:57",
+      "title": "The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech",
+      "description": "Why the flood of consumer wellness devices demands clear boundaries between lifestyle improvement and clinical diagnostics The post The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech appeared first on MedCity News .",
+      "link": "https://medcitynews.com/2026/08/the-imperative-of-distinguishing-medical-grade-devices-from-wellness-tech/",
+      "source": "Medcity News",
+      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2019/11/GettyImages-1054552144.jpg",
+      "published": "2026-08-20 16:34:51",
       "category": [
-        "health"
+        "health",
+        "technology"
       ],
       "country": [
         "united states of america"

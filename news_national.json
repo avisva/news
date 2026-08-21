@@ -1,5 +1,65 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Sugar stock limit raises concerns among food companies",
+      "description": "The government\u2019s decision to limit sugar stocks held by bulk industrial users to 15 days of consumption has drawn opposition from food processors, who say the move could disrupt production without addressing the main reason for the recent rise in sugar prices \u2014 the diversion of sugarcane towards ethanol production, Financial Express reported. The government [...] ChiniMandi",
+      "link": "https://www.chinimandi.com/sugar-stock-limit-raises-concerns-among-food-companies/",
+      "source": "Chinimandi",
+      "image": "https://www.chinimandi.com/wp-content/uploads/2025/01/sugar-export-1.jpeg",
+      "published": "2026-08-21 05:24:59",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bessent\u2019s bond market push struggles to bring down US borrowing costs",
+      "description": "US Treasury Secretary Scott Bessents bond-buyback push has offered only limited relief, with long-term Treasury yields rising again. Investors remain focused on the wider pressures driving borrowing costs higher, including the growing fiscal deficit, heavy government debt issuance, persistent inflation and uncertainty over Federal Reserve policy.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/bessents-bond-market-push-struggles-to-bring-down-us-borrowing-costs/articleshow/133393939.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133394090,resizemode-4,width-1200,height-900,imgsize-121864,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-08-21 05:24:53",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Govt Revamps HGCL Board With 10 Members",
+      "description": "The Telangana government has reconstituted the board of directors of Hyderabad Growth Corridor Limited (HGCL) with 10 members,",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/govt-revamps-hgcl-board-with-10-members-1980965",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/21/2079257-hgcl.webp",
+      "published": "2026-08-21 05:24:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Moises Henriques smashes maiden T20I century for Portugal: Why former Australia star switched allegiance",
+      "description": "Moises Henriques' century helped Portugal beat Czechia by 91 runs in the 2028 T20 World Cup Europe Sub-Regional Qualifier C match in Finland on Thursday.",
+      "link": "https://www.livemint.com/sports/cricket-news/moises-henriques-smashes-maiden-t20i-century-for-portugal-why-former-australia-star-switched-allegiance-11787287302645.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Moises_Henriques_ICC_Instagram__1787288585350_1787288600973_bbae6213-d7c4-46bb-a1f7-35af482c59e3.jpg",
+      "published": "2026-08-21 05:24:50",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

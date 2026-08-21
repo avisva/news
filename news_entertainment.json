@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "\u2018Automata are as much real characters as the humans\u2019 - Author to launch book inspired by Forres museum",
-      "description": "Irish novelist Jess Kidd to launch new book inspired by The House of Automata in the Forres museum.",
-      "link": "https://www.forres-gazette.co.uk/news/automata-are-as-much-real-characters-as-the-humans-autho-442974/",
-      "source": "Forres-gazette Co Uk",
-      "image": "https://www.forres-gazette.co.uk/_media/img/YWBISUK5FGGO2KJ43N11.jpg",
-      "published": "2026-08-21 04:30:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Declan Lynch: Three hours of my life I won\u2019t get back \u2013 and no, I\u2019m not talking about the Rose of Tralee",
-      "description": "Radio review: 2FM Breakfast with Carl, Roz, and Aisling (RTE\u0301 2FM, weekdays, 7am)",
-      "link": "https://www.independent.ie/comment/opinion/declan-lynch-three-hours-of-my-life-i-wont-get-back-and-no-im-not-talking-about-the-rose-of-tralee/a/160162353.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-08-21 04:30:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "ireland"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

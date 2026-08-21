@@ -1,33 +1,64 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "GTA 6 Leak: Who Is Cyberleek and Why Is the Hacker Targeting Rockstar Games?",
-      "description": "A hacker known as Cyberleek has leaked \"Grand Theft Auto VI\" gameplay footage and a map, demanding Rockstar apologize for digital-only sales, while promoting a crypto token that has drawn skepticism from preservationists.",
-      "link": "https://www.ibtimes.sg/gta-6-leak-who-cyberleek-why-hacker-targeting-rockstar-games-92600",
-      "source": "International Business Times",
-      "image": "https://data.ibtimes.sg/en/full/95842/gta.jpg?w=1200&h=630?q=60",
-      "published": "2026-08-21 09:20:49",
+      "title": "Ryanair passengers warned over check-in error costing them \u00a355",
+      "description": "While travellers will have their flight details to hand, often via the airline app or an email, some forget to check in online.",
+      "link": "https://www.birminghammail.co.uk/travel/ryanair-passengers-warned-over-check-34394169",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34394216.ece/ALTERNATES/s615/0_ryanair.jpg",
+      "published": "2026-08-21 10:20:00",
       "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "AHMM seeks planning consent for 2,000-home Olympic Park gateway finale",
-      "description": "The Architects\u2019 Journal AHMM seeks planning consent for 2,000-home Olympic Park gateway finale Allford Hall Monaghan Morris (AHMM) has submitted plans for around 2,000 homes as the final phase of Lendlease\u2019s Stratford Cross development next to the Olympic Park in east London The post AHMM seeks planning consent for 2,000-home Olympic Park gateway finale appeared first on The Architects\u2019 Journal Gino Spocchia",
-      "link": "https://www.architectsjournal.co.uk/news/ahmm-seeks-planning-consent-for-2000-home-olympic-park-gateway-finale",
-      "source": "The Architects\u2019 Journal",
-      "image": "https://cdn.rt.emap.com/wp-content/uploads/sites/4/2026/08/21094238/SCmain-scaled.webp",
-      "published": "2026-08-21 09:20:42",
-      "category": [
+        "top",
         "technology"
       ],
       "country": [
         "united kingdom"
+      ]
+    },
+    {
+      "title": "Analysis-US corporate AI debt surge tests investor limits as fatigue emerges",
+      "description": "NEW YORK, Aug 21 (Reuters) - The wave of debt issuance funding \u2060the artificial-intelligence buildout is testing the limits of investor demand, with some large bond buyers warning that the market is showing signs of indigestion.",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/08/21/analysis-us-corporate-ai-debt-surge-tests-investor-limits-as-fatigue-emerges",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4071618.jpg",
+      "published": "2026-08-21 10:20:00",
+      "category": [
+        "business",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "IDnow Receives Certification to Issue Qualified Electronic Attestations of Attributes (QEAAs), Closing a Key Gap in EU Compliance",
+      "description": "IDnow is expanding its identity verification and trust services to include the issuance of QEAAs, enabling organisations to use verified credentials in a legally compliant manner that national eID systems and the EUDI Wallet have not yet been able to provide consistently. LONDON, Aug. 21,...",
+      "link": "https://www.prnewswire.com/news-releases/idnow-receives-certification-to-issue-qualified-electronic-attestations-of-attributes-qeaas-closing-a-key-gap-in-eu-compliance-302857256.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS1462352/IDnow-logo-RGB-on-light.jpg?id=OA2901622&p=original",
+      "published": "2026-08-21 10:20:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Top 10 Nonconformance Management Tools: Features, Pros, Cons & Comparison",
+      "description": "Introduction Nonconformance Management Tools are software solutions that help organizations record, manage, investigate, and resolve nonconforming products, processes, or services. [...]",
+      "link": "https://www.myhospitalnow.com/blog/top-10-nonconformance-management-tools-features-pros-cons-comparison/",
+      "source": "Myhospitalnow.com",
+      "image": null,
+      "published": "2026-08-21 10:19:59",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

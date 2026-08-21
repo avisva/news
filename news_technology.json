@@ -1,20 +1,48 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Crane Venture Partners: Crane Venture Partners Introduces the Meridian Principle: A Philosophy of Human Progress for the Age of AI",
-      "description": "London, United Kingdom--(Newsfile Corp. - August 20, 2026) - Crane Venture Partners today published The Meridian Principle, a philosophy of human progress that articulates the beliefs behind where...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69369185-crane-venture-partners-crane-venture-partners-introduces-the-meridian-principle-a-philosophy-of-human-progress-for-the-age-of-ai-296.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://images.newsfilecorp.com/files/12659/310674_figure1_550.jpg",
-      "published": "2026-08-20 22:26:00",
+      "title": "Google Cloud previews quantum-safe key import in KMS",
+      "description": "The preview aims to reduce the risk of intercepted keys being cracked later by quantum computers, especially in bring your own key deployments.",
+      "link": "https://securitybrief.com.au/story/google-cloud-previews-quantum-safe-key-import-in-kms",
+      "source": "Securitybrief Australia",
+      "image": "https://securitybrief.com.au/uploads/story/2026/08/21/compatible_secure-cloud-vault-encryption-key-shield-lock-key-enterprise-security-illustration-story-317235.jpg",
+      "published": "2026-08-20 23:22:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "germany"
+        "australia"
+      ]
+    },
+    {
+      "title": "Gfk: UK consumer morale hits 2-year high in August",
+      "description": "Consumer morale in the United Kingdom rose to a two-year high in August, according to a GfK survey conducted for the month.The Consumer Confidence Index increased by three points from July to negative...",
+      "link": "https://biztoc.com/x/958ae963dee275ce",
+      "source": "Biztoc",
+      "image": "https://cdn.biztoc.com/958ae963dee275ce_s.webp",
+      "published": "2026-08-20 23:21:53",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Australian private sector output expands in August",
+      "description": "The growth of Australia's private sector activity softened but continued to expand in August, according to Friday's preliminary report by S&P Global.The Flash Australia Services PMI Business Activ...",
+      "link": "https://biztoc.com/x/eb1986c96427b891",
+      "source": "Biztoc",
+      "image": "https://cdn.biztoc.com/eb1986c96427b891_s.webp",
+      "published": "2026-08-20 23:21:52",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

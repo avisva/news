@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "False jobs, foreign battlefields: Policy gaps that exposed South Africans",
-      "description": "The return of South Africans allegedly lured into Russia\u2019s war exposes a preventive failure spanning overseas recruitment, online advertising, travel screening and consular protection.",
-      "link": "https://www.dailymaverick.co.za/opinionista/2026-08-20-false-jobs-foreign-battlefields-policy-gaps-that-exposed-south-africans/",
-      "source": "Daily Maverick",
-      "image": "https://cdn.dailymaverick.co.za/i/kwuqOgcIs2p7QBs9xEeYfhAau54=/1600x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2025/11/Wellington-Muzengeza-Profile-Picture.jpg",
-      "published": "2026-08-20 20:36:00",
+      "title": "Let's talk about Christian Nationalism",
+      "description": "A movement that grows on the seedbed of hating your enemy, killing and deporting the immigrant, starving your own citizens by cutting food programs like SNAP, is not Christian.",
+      "link": "https://www.ncspin.com/lets-talk-about-christian-nationalism",
+      "source": "Nc Spin",
+      "image": "https://www.ncspin.com/content/images/1200x628/69695b9f2b85b.jpg",
+      "published": "2026-08-20 21:33:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "south africa"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Moment French police are attacked before using knives to slash dinghy filled with migrants from reaching UK",
+      "description": "Shocking footage has captured the moment French police officers were attacked by migrants as they intercepted the launch of a boat.",
+      "link": "https://www.lbc.co.uk/article/french-police-video-attacked-migrant-channel-dinghy-uk-5HjdgLM_2/",
+      "source": "London Broadcasting Company",
+      "image": "https://images.globalplayer.com/images/836536?crop=16_9&width=1200&signature=i4Lts2Kd8dKXo6m8jLk-sdotRtw=",
+      "published": "2026-08-20 21:32:54",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Army to Shutter Emerging Drone Unit in Europe",
+      "description": "An Army unit based in Europe that was specializing in drone warfare has been directed to end its efforts to learn and use the battlefield technology and return to being a traditional infantry battalion, officials said Thursday.For more nearly a year, soldiers of the 173rd...",
+      "link": "https://www.newsmax.com/newsfront/drones-army-ukraine/2026/08/20/id/1266822",
+      "source": "Newsmax.com",
+      "image": "https://www.newsmax.com/cmspages/getfile.aspx?guid=DBBE2BDE-B981-41CD-9533-A0C4759230F5",
+      "published": "2026-08-20 21:32:44",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

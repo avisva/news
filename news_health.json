@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Researchers Develop Smart Cancer Drug That Could Reduce Need for Chemotherapy",
+      "description": "Scientists in India have developed a promising \u201csmart\u201d cancer drug designed to activate primarily inside cancer cells while limiting damage to healthy tissue. The findings, published in the ACS...",
+      "link": "https://medicaldialogues.in/mdtv/oncology/videos/researchers-develop-smart-cancer-drug-that-could-reduce-need-for-chemotherapy-177678",
+      "source": "Business Medical Dialogues",
+      "image": "https://medicaldialogues.in/h-upload/2026/08/20/366085-untitled-design-81.webp",
+      "published": "2026-08-21 02:30:48",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

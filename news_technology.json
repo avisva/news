@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "The AI race: can India turn sunlight into intelligence?",
+      "description": "If India is to claim a share of the AI race data centers are likely to be the first foray in. But this should be preceded by a clear set of easy-to-follow rules",
+      "link": "https://www.hindustantimes.com/opinion/the-ai-race-can-india-turn-sunlight-into-intelligence-101787253387877.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/India-has-plentiful-solar-potential--and-it-is-alr_1787253385401.jpg",
+      "published": "2026-08-21 02:30:59",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "From AI literacy to AI mastery: Why organisational skilling is the next priority",
+      "description": "Explore how HR leaders can build AI mastery through personalised learning, role-specific skills and continuous workplace development. The post From AI literacy to AI mastery: Why organisational skilling is the next priority first appeared on ET Edge Insights .",
+      "link": "https://etedge-insights.com/technology/artificial-intelligence/from-ai-literacy-to-ai-mastery-why-organisational-skilling-is-the-next-priority/",
+      "source": "Et Edge Insights - The New Paradigm Of Business In",
+      "image": "https://etedge-insights.com/wp-content/uploads/2024/07/shutterstock_2459250951-1.jpg",
+      "published": "2026-08-21 02:30:46",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

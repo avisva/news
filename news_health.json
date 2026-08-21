@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Kratom Bird Introduces New Hang Kang Kratom Capsules in Red, Green and White Varieties",
+      "description": "London, UK, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Kratom Bird has expanded its kratom range with the introduction of a new capsule series under the Hang Kang name, available in Red Hang Kang, Green Hang Kang and White Hang Kang varieties.",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/08/20/3348829/0/en/kratom-bird-introduces-new-hang-kang-kratom-capsules-in-red-green-and-white-varieties.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-08-20 20:36:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Bengaluru: Khata conversion applications surge, but reach just 10% of GBA target",
+      "description": "Khata conversion applications surge, but reach just 10% of GBA target",
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-khata-conversion-applications-surge-but-reach-just-10-of-gba-target-4118775",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2025-08-22/f96ywrug/file7yenx99gkebw5rp88l.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-08-20 20:35:58",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

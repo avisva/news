@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Ohio updates TechCred guidelines ahead of Oct. 1 application round",
-      "description": "COLUMBUS, Ohio \u2014 The Ohio Department of Development has announced updated guidelines for the state\u2019s TechCred program ahead of the next application round, which opens Oct. 1.",
-      "link": "https://www.wvnews.com/rivercities/ohio-updates-techcred-guidelines-ahead-of-oct-1-application-round/article_f0afd392-f1c5-4129-85c9-22d58be85b42.html",
-      "source": "Wv News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/0/90/090852c0-94ab-4edf-8e02-6b7030c89841/6a8722c84d20b.image.jpg?resize=300%2C421",
-      "published": "2026-08-20 16:35:00",
+      "title": "Central Ohio Transit Authority Partners with Ohio State to Integrate Bus Access on University App",
+      "description": "Students can now scan a digital pass directly in the Ohio State app to board COTA buses COTA Available on Ohio State App An Ohio State student opens the Ohio...",
+      "link": "https://nynewscast.com/central-ohio-transit-authority-partners-with-ohio-state-to-integrate-bus-access-on-university-app-248758/",
+      "source": "Nynewscast",
+      "image": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+      "published": "2026-08-20 17:29:00",
       "category": [
         "top",
         "technology"
@@ -18,14 +18,29 @@
       ]
     },
     {
-      "title": "The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech",
-      "description": "Why the flood of consumer wellness devices demands clear boundaries between lifestyle improvement and clinical diagnostics The post The Imperative of Distinguishing Medical-Grade Devices from Wellness Tech appeared first on MedCity News .",
-      "link": "https://medcitynews.com/2026/08/the-imperative-of-distinguishing-medical-grade-devices-from-wellness-tech/",
-      "source": "Medcity News",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2019/11/GettyImages-1054552144.jpg",
-      "published": "2026-08-20 16:34:51",
+      "title": "beyerdynamic MMX 130 wireless open-back, MMX 100 wireless closed-back gaming headsets launched",
+      "description": "beyerdynamic continues to expand its gaming headset lineup, this time with more budget-friendly options. The MMX 100 and MMX 130 will be available starting in September in two colors.",
+      "link": "https://www.notebookcheck.net/beyerdynamic-MMX-130-wireless-open-back-MMX-100-wireless-closed-back-gaming-headsets-launched.1374162.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/beyerdynamic-mmx100-130.jpg",
+      "published": "2026-08-20 17:29:00",
       "category": [
-        "health",
+        "sports",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Graph engineering is where AI agents stop working alone",
+      "description": "Sometimes, the demo works but the actual rollout doesn\u2019t. An agent on one task is reliable, but run several against the same codebase and the results stop adding up: they rebuild what a neighbor just shipped, make conflicting changes to the same file, take an approach another agent ruled out an hour earlier. The gap is coordination: assignments, dependencies, and review workflows. Prompt engineering was about the words you gave a model. Loop engineering was about the cycle one agent ran to finish a task. Graph engineering is about how many agents work as a system: which agents exist, what each one owns, how work splits across them, where results come back together, and where a person still signs off. Coordination has to be designed Split a feature across several agents and you\u2019ve created a set of dependencies that has to be spelled out. An agent acts on what it\u2019s handed, so anything not written into the structure is invisible to it. Say you split a service by ownership: a security agent owns auth, permissions, and audit logging; a data agent owns the schema and migrations; and an API agent owns the endpoints and their contracts. Each is capable on its own, but the API agent can\u2019t finalize an endpoint until the data agent\u2019s migration lands. The security agent has to review any change that touches permissions before it ships. If the data agent renames a field, the API agent needs to know before it builds against the old one. Those handoffs, dependencies, and review gates are the actual system. They don\u2019t live inside any single agent\u2019s loop, and they don\u2019t emerge on their own. It\u2019s on you to design them. What each agent can see decides the outcome Picture the setup as a graph. Each agent is a node: a unit that does one part of the work. The connections between them are edges: the handoffs, the dependencies, the review steps that say what has to happen before what. The graph itself fits on a whiteboard. It includes a planner sending work out to specialists, the specialists running in parallel, a verifier checking the result, and always a person approving the judgement calls. What decides whether the graph actually works is harder to see: what each agent is allowed to know (the node) and what actually passes between them (the edges). It\u2019s whether a handoff carries the detail the next agent needs, and whether a reviewer sees the evidence or just the conclusion. The same diagram produces very different results depending on those choices. A graph needs something to stand on A coordination graph holds together only if the agents share one current picture of the work beneath it. Instead of a chat log that resets every run, institute a durable system of record where each task carries its real connections: the decision behind it, the code it touches, the work it depends on, the person accountable for it. Give that to an agent and it can see the migration it depends on and the contract it has to honor, without scouring for hidden context. Otherwise, every agent works from its own partial view, and coordination fails exactly where the work is most connected. The topology of the graph decides who does what and in what order. The shared record is what the topology reads from and writes to, so a finished task updates the same structure the next task will read. Context builds across the team instead of getting reassembled by hand every run. What this means for CIOs Scaling agents past the demo is an organizational design problem before it\u2019s a tooling one. What sets a great team apart is how they designed their agents\u2019 coordination layer, including the shared, machine-readable record of the work to coordinate over. That layer is slow to build and hard to copy, which is why it\u2019s becoming the line between running agents well and just running a lot of them. Learn how to turn your agents into a system that holds and scales at jira.dev .",
+      "link": "https://www.cio.com/article/4212069/graph-engineering-is-where-ai-agents-stop-working-alone.html",
+      "source": "Cio",
+      "image": "https://www.cio.com/wp-content/uploads/2026/08/4212069-0-69536800-1787246985-BrandPost-10_1200x800@2x.png",
+      "published": "2026-08-20 17:29:00",
+      "category": [
         "technology"
       ],
       "country": [

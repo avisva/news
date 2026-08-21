@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Zydus receives USFDA approval for Ascorbic Acid Injection USP",
+      "description": "Zydus Lifesciences announced the receipt of final approval from the United States Food and Drug Administration (USFDA) for its Abbreviated New Drug Application (ANDA) for Ascorbic Acid Injection USP, 25,000 mg/50 mL (500 mg/mL), 5,000 mg/10 mL (500 mg/mL).",
+      "link": "https://www.business-standard.com/markets/capital-market-news/zydus-receives-usfda-approval-for-ascorbic-acid-injection-usp-126082100690_1.html",
+      "source": "Business Standard",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "published": "2026-08-21 09:20:38",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

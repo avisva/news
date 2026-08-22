@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "West Nile virus reported in 12 European countries",
-      "description": "STOCKHOLM: Twelve countries in Europe have reported locally-acquired cases of West Nile virus so far this year, the EU health agency said Friday, urging the continent to boost its control efforts",
-      "link": "https://www.thestar.com.my/news/world/2026/08/22/west-nile-virus-reported-in-12-european-countries",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072555.jpeg",
-      "published": "2026-08-22 00:33:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

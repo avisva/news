@@ -1,46 +1,17 @@
 {
   "status": "success",
-  "totalResults": 23,
+  "totalResults": 28,
   "results": [
     {
-      "title": "Health Canada issues advisory involving a baby activity walker sold through Fruugo.ca",
-      "description": "Health Canada is warning consumers to stop using the \"Baby Activity Walker Multi Functional Anti Drop Light Musical 8 Wheels Infant Activity Walker Rocker Light Purple\u201d sold through Fruugo.ca because it may pose a risk of injury to children",
-      "link": "https://www.newhamburgindependent.ca/news/baby-activity-walker-product-recall-health-canada/article_7b661376-1291-5bba-a951-21ada222144c.html",
-      "source": "New Hamburg Independent",
-      "image": "https://bloximages.chicago2.vip.townnews.com/newhamburgindependent.ca/content/tncms/assets/v3/editorial/3/ec/3ec5aca4-bc95-581c-a0ba-b6f40b7ea1c3/6a88bc8ec4e67.image.png?resize=300%2C184",
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Winona scraps bike bridge for Riverfront Trail, citing rising costs",
-      "description": null,
-      "link": "https://www.winonapost.com/news/winona-scraps-bike-bridge-for-riverfront-trail-citing-rising-costs/article_a7d592d9-500c-414f-9294-a1e77cd509c4.html",
-      "source": "Winona Post",
-      "image": null,
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Man arrested after allegedly threatening Massachusetts state trooper",
-      "description": "A man accused of heading up a violent gang is facing witness intimidation charges after police say he threatened a Massachusetts State Police trooper. WBZ-TV chief investigator Cheryl Fiandaca reports.",
-      "link": "https://www.cbsnews.com/boston/video/man-arrested-after-allegedly-threatening-massachusetts-state-trooper/",
-      "source": "Cbs Boston",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/21/28a48c73-179a-4501-803a-b222bf294cee/thumbnail/1024x576/eaf730aa05867bcde20ac063364b8194/95fa7b9181ca85c55c8588a05ca06b9b.png",
-      "published": "2026-08-21 22:19:00",
+      "title": "Ross Fire: Evacuation order issued for fire burning in Murphys",
+      "description": "The Calaveras County Sheriff\u2019s Office issued an evacuation order for a fire burning in Murphys on Friday.",
+      "link": "https://www.kcra.com/article/ross-fire-evacuation-order-murphys/73499211",
+      "source": "Kcra",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/5f18c175-df9d-48cf-a769-cd6dc2e5d881.png",
+      "published": "2026-08-21 23:18:00",
       "category": [
         "crime",
+        "environment",
         "top"
       ],
       "country": [
@@ -48,187 +19,12 @@
       ]
     },
     {
-      "title": "This week in science: A new black hole star, exercises for dementia, and winter shrews - KGOU",
-      "description": "This week in science: A new black hole star, exercises for dementia, and winter shrews KGOU A gas-enshrouded and gas-reddened black hole at cosmic dawn Nature Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object Live Science Astronomers Peered at the Early Universe and May Have Discovered a New Kind of Celestial Object: Black Hole Stars Smithsonian Magazine New space object \u2018black hole star\u2019 discovered by astronomers CTV News",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnROMERIdElKeFlwRXR4YWZRYVZNUkNhQjF3OVBNbjVCbUxTUzl6dEhaLU9Yc2hvZ1VtNG5MWVZubjdVMDM5VlV1cjVWT3dKTkNTQ3RzR29LYWdOaWlmMVV4dkU1YlhYaWZTeDB4RFFqTUgwakUyQmdRVTlZVmYtLWxYaHZiSEdCSHlJc2F4Q1dlcVc0dV9HSThOZTV4Nm9wcGd3LURIbzJmOXBHZDJPUThBT0pxYjNNRzZlVnpnbWZ5QktJdkg0eTBsLWV5YnJZN2oydkp0cGxuam5nNzRHQTZhcC0?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "This week in science: A new black hole star, exercises for dementia, and winter shrews - WJCT News 89.9",
-      "description": "This week in science: A new black hole star, exercises for dementia, and winter shrews WJCT News 89.9 A gas-enshrouded and gas-reddened black hole at cosmic dawn Nature Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object Live Science Astronomers Peered at the Early Universe and May Have Discovered a New Kind of Celestial Object: Black Hole Stars Smithsonian Magazine New space object \u2018black hole star\u2019 discovered by astronomers CTV News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmpJWGRMYktJNUNVSi1CeVA4U21xYkpaSzNOcWRCV0ROUk5PWE9YZ2VkMG1YcTBxZ2tnZXlZN1NCV1ZuTTI4c05wMGRLY1Y1d3RCOEU5T3pTckVFSFlFQ1YzUTdRWXhsQVpmcVlpVl9mUVo0ZENuWnpNSXhKeVllWEVQdGpqVWQyQVhvQmVGbGk2NlVLR0drVVo4VWRaeWNDa3hIdVRGcmNJSUYwWHEwelhRYmtaajg?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Family-owned tire shop in OKC searching for stolen Goodyear sign",
-      "description": "A historic Goodyear sign was stolen from Ira's Tire Shop in downtown Oklahoma City, leaving the family owned business searching for answers and hoping for its return.",
-      "link": "https://www.koco.com/article/goodyear-sign-stolen-from-family-owned-tire-shop-oklahoma-city/73498179",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/vidthumb/4363ece9-547e-4ae5-af96-7623952193c5/532c84e4-9a78-4cf4-9583-817d77364942.jpg",
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Man arrested after police pursuit, injury collision",
-      "description": "Officers with the Bakersfield Police Department arrested a man Thursday night on suspicion of causing a hit-and-run accident, evading officers and DUI, according to an agency news release Friday.",
-      "link": "https://www.bakersfield.com/news/man-arrested-after-police-pursuit-injury-collision/article_bb8fa6b8-7336-44ae-8a76-8413d37d20a9.html",
-      "source": "The Bakersfield Californian",
-      "image": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/5/dc/5dcedacc-0a0b-11ed-8e63-935c1aebf4b7/5df2bf512c211.image.jpg?resize=300%2C196",
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
-      "description": "David Tepper's hedge fund, Appaloosa Management, recently initiated a position in CoreWeave while also raising its exposure to Meta Platforms.",
-      "link": "https://www.fool.com/investing/2026/08/21/billionaire-david-tepper-piled-into-a-debt-laden-a/",
-      "source": "Fool",
-      "image": "https://g.foolcdn.com/editorial/images/884178/coreweave-and-meta-logos.png",
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Three vote centers to close in Elkhart County",
-      "description": "GOSHEN \u2014 The Elkhart County Election Board voted to close three voting centers after an hourslong debate Monday.",
-      "link": "https://www.goshennews.com/news/three-vote-centers-to-close-in-elkhart-county/article_36244359-4602-4924-8f99-6b338f600535.html",
-      "source": "Goshen News",
-      "image": null,
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "TikTok To Pay $400 Million Settlement In US Children's Privacy Case",
-      "description": "The US government said that video-sharing platform violated federal children's privacy laws.",
-      "link": "https://www.ndtv.com/world-news/tiktok-to-pay-400-million-settlement-in-us-childrens-privacy-case-11943022",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2025-10/f8frltps_indonesia-tiktok_625x300_03_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "published": "2026-08-21 22:19:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "DJ Pauly D, 46, Books Coast-to-Coast Tour, Says Shows Are One Big Party",
-      "description": "DJ Pauly D, 46, has a coast-to-coast 2026 tour and new singles, including LOST with Capri Everitt, following his Jersey Shore breakout.",
-      "link": "https://hoodline.com/2026/08/dj-pauly-d-46-books-coast-to-coast-tour-says-shows-are-one-big-party/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/8/dj-pauly-d-46-books-coast-to-coast-tour-says-shows-are-one-big-party-3.webp",
-      "published": "2026-08-21 22:18:58",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Latvia issues red alert for torrential rain as cyclone raises flood risk",
-      "description": null,
-      "link": "https://english.news.cn/20260822/5b3f9c9be6284d39af5ea0ec1f5f6816/c.html",
-      "source": "Xinhuanet",
-      "image": null,
-      "published": "2026-08-21 22:18:57",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Alfalfa sprout linked to food-poisoning outbreak in 15 states, health officials say",
-      "description": "NEW YORK (AP) \u2014 U.S. health officials say a food-poisoning outbreak tied to alfalfa sprouts and involving multiple germs has sickened people in 15 states....",
-      "link": "https://wsvn.com/news/us-world/alfalfa-sprout-linked-to-food-poisoning-outbreak-in-15-states-health-officials-say/",
-      "source": "Wsvn 7 News",
-      "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/082126-salmonella-e-coli-outbreak.png",
-      "published": "2026-08-21 22:18:53",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Penn State\u2019s 2027 class takes hit after OL commit suffers major injury",
-      "description": "Penn State has built a strong 2027 recruiting class, but one of its players is about to miss a ton of time with an injury.",
-      "link": "https://sports.yahoo.com/articles/penn-state-2027-class-takes-221852688.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/e8349f17f4d4c9d524aec5930c104dbe1134474e94248925d7b097b04793a8ee/lightyear_networkapi/resizefit_w1100_h628%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnittany_lions_wire_usa_today_articles_595%2F53e41453958fc4b3381826e570d00ef9.png",
-      "published": "2026-08-21 22:18:52",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New Milwaukee memorial honors civil rights leader Vel R. Phillips",
-      "description": "The three-part stone and bronze sculptural installation honoring Vel R. Phillips is the largest city-funded public artwork in recent history.",
-      "link": "https://www.jsonline.com/story/entertainment/arts/2026/08/21/city-of-milwaukee-unveils-new-public-artwork-in-vel-r-phillips-plaza/91407260007/",
-      "source": "Journal Sentinel",
-      "image": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/08/21/PMJS/91410975007-img-1731.jpeg?crop=5711,3213,x0,y535&width=1600&height=800&format=pjpg&auto=webp",
-      "published": "2026-08-21 22:18:50",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "What NC State AD Boo Corrigan said about the Wolfpack\u2019s athletics budget",
-      "description": "N.C. State athletic director Boo Corrigan, right, and Wolfpack Club Executive Director Ben Broussard watch the Wolfpack\u2019s game against Pitt at the Lenovo Center in Raleigh, N.C., Wednesday, March 5, 2025.",
-      "link": "https://www.newsobserver.com/sports/college/acc/nc-state/article316793692.html",
-      "source": "Raleigh News &amp; Observer",
-      "image": "https://www.newsobserver.com/public/latest-news/3zd6qn/picture316967678/alternates/FREE_1140/RAL_STATEPITT16-030525-EDH.JPG",
-      "published": "2026-08-21 22:18:49",
+      "title": "Harrisburg runs wild in win over A-J",
+      "description": "ANNA \u2014 Harrisburg\u2019s recent dominance over Anna-Jonesboro continued Friday night, as did the Wildcats\u2019 lengthy losing streak.",
+      "link": "https://thesouthern.com/sports/harrisburg-runs-wild-in-win-over-a-j/article_89ece3e4-7504-5070-b102-3d83afb7856f.html",
+      "source": "Southern Illinoisan",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/f/62/f622ee8c-8ec8-5c44-b703-8c17b6b352ae/6a89131c39efb.image.jpg?resize=300%2C225",
+      "published": "2026-08-21 23:18:00",
       "category": [
         "sports",
         "top"
@@ -238,70 +34,27 @@
       ]
     },
     {
-      "title": "These Foods May Be Better for Your Gut Than You Realize, New Study Says - EatingWell",
-      "description": "These Foods May Be Better for Your Gut Than You Realize, New Study Says EatingWell See more headlines and perspectives on Google News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVDM3eTBMeW4yNEltU1ZKMmcwMUV5aWZzZEFzNmNJT1dDOC1mdUhyTXBOV2Fia0M0eWdrbFpsd0xJNnU0RVBPbjlybUFEZWlZNlNoODNNem1GejU2S3I3S1N5Ulc1T0hqUDUwSl9DWTF2MjR4?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-21 22:18:45",
+      "title": "Inauguration, Not \u2018Commissioning\u2019",
+      "description": "Expression By Ebere Wabara NEWS: \u201cJudges (Judges\u2019) welfare strategic investment in rule of law, Tinubu says at commissioning (inauguration et al) of Katampe quarters\u201d Daily Trust of August 3 massacred",
+      "link": "https://www.thisdaylive.com/2026/08/22/inauguration-not-commissioning/",
+      "source": "Thisdaylive",
+      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Ebere-Wabara.png",
+      "published": "2026-08-21 23:18:00",
       "category": [
-        "health"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Many wild rabbits found dead in Helsinki during summer",
-      "description": "A large number of dead wild rabbits have been found in the Herttoniemi area of Helsinki over the summer, said the City of Helsinki in a press release on Friday. A few rabbits have been sent to the Finnish Food Authority for examination and the rabbits have been found to carry the RHD (rabbit haemorrhagic disease) virus. The virus is not believed to pose a risk to other animal species or people. The supervising veterinarians of the City of Helsinki have also received reports of individual dead rabbits in Laajasalo and Kulosaari as well. Samples have been collected from Laajasalo and submitted for analysis, but the results are not yet available. The city recommends against taking pet rabbits outdoors in areas with wild rabbit populations. The authority also advised not to gather plants for pet rabbits to eat from areas populated by wild rabbits. The RHD virus can survive in the environment for several weeks. The city recommends vaccinating pet rabbits against the RHD virus, as the virus can also be carried indoors, on footwear. Any rabbit carcasses found in yards can be put in a mixed waste container. People should not touch the carcasses with bare hands and advised to use protection such as disposable gloves or an inside-out plastic bag. Burying rabbit carcasses is not recommended. For a more thorough examination of the disease, it is best to use a carcass that is as fresh as possible. People were also advised to report to the Citys supervising veterinarians, if they find a rabbit that has just died.",
-      "link": "https://www.dailyfinland.fi/health/50969/Many-wild-rabbits-found-dead-in-Helsinki-during-summer",
-      "source": "Dailyfinland",
-      "image": "https://www.dailyfinland.fi/assets/news_photos/2026/08/22/image-50969-1787347338.jpg",
-      "published": "2026-08-21 22:18:42",
-      "category": [
-        "environment",
+        "politics",
         "top"
       ],
       "country": [
-        "finland"
+        "nigeria"
       ]
     },
     {
-      "title": "Jury deliberates fate of woman charged in connection with Bradley officer's shooting",
-      "description": "A Kankakee jury is deliberating the fate of a woman charged in connection with the deadly shooting of a Bradley police officer.",
-      "link": "https://www.nbcchicago.com/video/top-videos-home/jury-deliberates-fate-of-woman-charged-in-connection-with-bradley-officers-shooting/3978621/",
-      "source": "Nbc Chicago",
-      "image": "https://media.nbcchicago.com/2026/08/50579179923-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-      "published": "2026-08-21 22:18:37",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime",
-      "description": "WASHINGTON (AP) \u2014 President Donald Trump is threatening to sue a left-leaning think tank unless it retracts a report that said his National Guard deployments to various cities did not reduce crime as he said.",
-      "link": "https://www.thestar.com/news/world/united-states/trump-threatens-lawsuit-against-nonprofit-that-questioned-whether-national-guard-plan-lessened-crime/article_2b2fce49-affc-5f00-8c79-ecd150e69e0d.html",
-      "source": "The Star",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/ad/aad892bd-45f8-50b0-986b-f641d9f8a604/6a88cf11d4edf.image.jpg?resize=300%2C200",
-      "published": "2026-08-21 22:18:35",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "How Michael Block became golf\u2019s ultimate everyman",
-      "description": "A club pro for 22 years, Block is living an unlikely dream on the PGA TOUR Champions while never forgetting where he came from.",
-      "link": "https://calgaryherald.com/sports/golf/how-michael-block-became-golfs-ultimate-everyman",
-      "source": "Calgary Herald",
-      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/rogers-golf-michael-block_304774221.jpg",
-      "published": "2026-08-21 22:18:32",
+      "title": "Tampa Bay 28 News Latest Headlines | August 21 8 p.m.",
+      "description": "Watch the latest Tampa Bay 28 News headlines any time. Updated weekdays from 4 a.m. to 11:30 p.m.",
+      "link": "https://ca.news.yahoo.com/tampa-bay-28-news-latest-231754490.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/9f1ef19d1b6ffbedb03c66979d4373f35bee01e09eca7af682dd50a649a6f826/lightyear_networkapi/resizefill_w889_h500%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.wfts.scripps.com%2Fb288a7fd7d28ce172783070131f081c9.png",
+      "published": "2026-08-21 23:17:54",
       "category": [
         "sports"
       ],
@@ -310,14 +63,29 @@
       ]
     },
     {
-      "title": "An Alabama cattle farm with a bird-tourism side hustle",
-      "description": "Christopher Joe runs birdwatching tours on his father\u2019s Black Angus cattle farm in Alabama.",
-      "link": "https://www.marketplace.org/story/2026/08/21/an-alabama-cattle-farm-with-a-birdtourism-side-hustle",
-      "source": "Marketplace",
-      "image": "https://img.apmcdn.org/3b896bf6dd223070d5c88912bfa6adfbd3c7a35d/widescreen/156d5a-joefarmbird-2000.jpg",
-      "published": "2026-08-21 22:18:31",
+      "title": "Beating the end of summer heat at Jacobson Plaza",
+      "description": "SIOUX FALLS, S.D. (KELO)-- School is just around the corner, but the summer heat hasn't gone away just yet. People are still trying to find ways to escape the hot weather, and one of them has been at the Jacobson Plaza Splash Pad. \"We've seen great attendance throughout the whole season. But as school starts [...]",
+      "link": "https://www.keloland.com/news/local-news/beating-the-end-of-summer-heat-at-jacobson-plaza/",
+      "source": "Keloland.com",
+      "image": "https://www.keloland.com/wp-content/uploads/sites/103/2026/08/Beating-the-end-of-summer-heat-at-Jacobson-Plaza.jpg?w=900",
+      "published": "2026-08-21 23:17:54",
       "category": [
-        "environment",
+        "top",
+        "education"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Billy Wagner Park construction begins in Tazewell",
+      "description": "Wagner grew up in nearby Tannersville and graduated from Tazewell High School in 1990. He played in the Major Leagues for 16 seasons and last year was elected to the Baseball Hall of Fame.",
+      "link": "https://www.wvva.com/2026/08/21/billy-wagner-park-construction-begins-tazewell/",
+      "source": "Https://www.wvva.com",
+      "image": "https://gray-wvva-prod.gtv-cdn.com/resizer/v2/LXJQTJLYCBDQ5JLGEZV5AXMQXU.png?auth=7bbd46fd57a437fc91e9c21038aa48b79a39b7a68e653c9696ec8bc6e63dc766&width=1200&height=600&smart=true",
+      "published": "2026-08-21 23:17:50",
+      "category": [
+        "sports",
         "top"
       ],
       "country": [
@@ -325,18 +93,319 @@
       ]
     },
     {
-      "title": "Montana man sentenced to 15 years in prison for hit-and-run deadly crash, evidence tampering",
-      "description": "A Montana judge sentenced Gerald Lee Johnson Jr. to 15 years in prison for a 2023 crash that killed Hunter Berry.",
-      "link": "https://www.kbzk.com/news/montana-man-sentenced-to-15-years-in-prison-for-hit-and-run-deadly-crash-evidence-tampering",
-      "source": "Kbzk News",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/be669bf/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F04%2Fbc%2Fcb4b75e341d49dedf2264145f2d0%2Fcourt-news-1280x720.png",
-      "published": "2026-08-21 22:18:28",
+      "title": "CITY OF MINERAL WELLS, TEXAS V...",
+      "description": "CITY OF MINERAL WELLS, TEXAS VEHICLE AND EQUIPMENT LEASE-PURCHASE FINANCING The City of Mineral Wells, Texas, is requesting sealed proposals from qualified financial institutions to provide tax-exempt financing for vehicles and equipment with an estimated total cost of $554,598. The requested financing term is seven years. Proposals must be submitted in a sealed package clearly marked: \"RFP 2026-009 - Vehicle and Equipment Financing\" The sealed package must contain one electronic PDF copy of the proposal on a USB drive and must be delivered to: City of Mineral Wells - Finance Department 211 S.W. 1st Avenue Mineral Wells, Texas 76067 Proposals must be received no later than 2:00 p.m. Central Time on Friday, September 18, 2026. Proposals will be publicly opened at 2:30 p.m. Central Time on the same date. Late, faxed, emailed, or paper-only proposals will not be accepted. Questions and requests for the complete RFP should be directed in writing to Aaron Bovos at abovos@mineralwellstx.gov. The City of Mineral Wells reserves the right to reject any or all proposals, waive informalities, request additional information, negotiate terms, or cancel the solicitation when determined to be in the City's best interest.",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/city-of-mineral-wells-texas-v/AC1E040E1413202CC3XFK02F3FF3",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:47",
+      "category": [
+        "other"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "SMALL TAXING UNIT NOTICE THE ...",
+      "description": "SMALL TAXING UNIT NOTICE The City of Mingus will hold a meeting at 6:00 PM on September 9, 2026 at City Hall, 229 S. Mingus Blvd., Mingus, Texas to consider adopting a proposed tax rate for tax year 2026. The proposed tax rate is 0.1405870 per $100 of value. The proposed tax rate would increase total taxes in City of Mingus by 7.28%.",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/small-taxing-unit-notice-the-/AC1E040E1413202CC37Ldt73FFAA",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:47",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "CITY OF MINERAL WELLS REQUEST ...",
+      "description": "CITY OF MINERAL WELLS REQUEST FOR PROPOSALS RFP #2026-008 Due Date: Friday, September 18, 2026 by 2:00 p.m. CST FULLY INSURED MEDICAL, VOLUNTARY DENTAL, VOLUNTARY VISION, BASIC LIFE AD&D, VOLUNTARY LIFE & ADD, SHORT-TERM DISABILITY AND LONG TERM DISABILITY BENEFITS The City of Mineral Wells is soliciting qualifications from vendors for Fully Insured Medical, Voluntary Dental, Voluntary Vision, Basic Life & ADD, Voluntary Life & ADD, Short-term Disability, Long-Term Disability Benefits. The complete RFP packet and any subsequent Addendums may be obtained by contacting HUB International by email: gladys.reichert@hubinternational.com Responses will be received by email at Gladys Reichert gladys.reichert@hubinternational.com until 2:00 p.m. CST, Friday, September 18, 2026. Qualifications received after the deadline stated herein will not be opened and shall be considered void and unacceptable. The City of Mineral Wells reserves the right to reject any and all qualifications, to waive irregularities, and to accept the qualifications deemed the most advantageous to the City. All inquiries about this RFP shall be submitted no later than 5:00 p.m. CST Friday, August 21, 2026. All requests for information and inquiries regarding this RFP must be made, in writing to HUB International, at gladys.reichert@hubinternational.com The City is not requesting the services of a Consultant/Agent/Broker. Proposal documents can be obtained from the City of Mineral Wells's consultant/agent of record, HUB International Texas, Attn: gladys.reichert@hubinternational.com",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/city-of-mineral-wells-request-/AC1E040E1413202CC3YKUy81FF8C",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:46",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+      "description": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to engage with audiences and artists from all over the world, is set to take place from June 4\u201330, 2027, at [...]",
+      "link": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
+      "source": "Artforum",
+      "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg",
+      "published": "2026-08-21 23:17:46",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Lessons learned for Coventry in difficult top-flight return",
+      "description": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
+      "link": "https://ca.sports.yahoo.com/news/lessons-learned-coventry-difficult-top-231746356.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/45b0854599d739ff6f97767d9ac06ea4198f2250815dc7bd4b0d969afce84413/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa28156e9f774af327a90d89c18d13d79.jpg",
+      "published": "2026-08-21 23:17:46",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "PUBLISHED NOTICE TO CREDITORS ...",
+      "description": "PUBLISHED NOTICE TO CREDITORS Notice is hereby given that Letters Independent Administration for the Estate of John Daniel Roberts, Deceased, were issued on August 17, 2026, in Cause No. 26P198 pending in the County Court of Parker County, Texas, to Heather Marie Gunter, Independent Administrator of the Estate of John Daniel Roberts, Deceased. The address of record and to which claims may be addressed to Heather Marie Gunter is as follows: c/o Kaitlin R. Goddard The Blum Firm, P.C. 777 Main Street, Suite 550 Fort Worth, Texas 76102 All persons having claims against this Estate are required to present their claims within the time and in the manner prescribed by law. Dated: August 19, 2026 The Blum Firm, P.C. Kaitlin R. Goddard State Bar No. 24103967 kgoddard@theblumfirm.com 777 Main Street, Suite 550 Fort Worth, Texas 76102 (817) 334-0066 - Telephone (817) 334-0078 - Fax Attorneys for Independent Administrator",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/published-notice-to-creditors-/AC1E040E1413202CC3eIKR3DE444",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:45",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Time to Jump-Start Congress",
+      "description": "Another fortnight has come and gone\u2014and not just any fortnight. Continuing a trend that began in 2015\u2014and mirroring, in the political realm, the ratcheting up of global temperatures and resultant climatic catastrophes\u2014this has been the 290th consecutive fortnight to have been worse than the one before. Appropriately, this one kicked off under cover of darkness. In the early morning hours of Saturday, August 8th, the full Senate voted, in effect, to combine the offices of Attorney General of the United States of America with that of Mr. Fixit of the Trump Organization. So, your mother was right: nothing good happens after midnight. Nine years earlier, ... Read more",
+      "link": "https://www.nhgazette.com/2026/08/21/time-to-jump-start-congress/",
+      "source": "The New Hampshire Gazette",
+      "image": "https://www.nhgazette.com/wp-content/uploads/2026/08/Abort_web.jpg",
+      "published": "2026-08-21 23:17:45",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NOTICE OF PUBLIC HEARING ON A ...",
+      "description": "NOTICE OF PUBLIC HEARING ON A RE-PLAT OF A SUBDIVISION LOCATED IN PRECINCT #3 THE HONORABLE COMMISSIONERS' COURT of Parker County, Texas, will conduct a Public Hearing on the First Floor of the Main Courthouse, located at One Courthouse Square, Weatherford, Parker County, Texas, on Monday, the 14th day of September 2026 at the hour of 9:00 a.m. to consider, discuss and/or act on the re-plat of a subdivision located in Precinct 3, Parker County, Texas: NOTICE IS HEREBY GIVEN THAT AN APPLICATION HAS BEEN FILED WITH THE PARKER COUNTY COMMISSIONERS COURT TO APPROVE THE REPLAT OF THE FOLLOWING SUBDIVISION: REVISION HARMONY FLATS ADDITION LOT 1, BLOCK 1 Consider, discuss, and/or act on a replat of a subdivision known as Harmony Flats Addition, located on Harmony Circle, being a combination of Lot 1, Block 1, Harmony Flats Addition, and a called 11.55-acre tract of land situated in the J.M. Bradley Survey, as described in Instrument No. 201817866, Real Records of Parker County, Texas, located in Precinct 3.",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/notice-of-public-hearing-on-a-/AC1E040E1413202CC3BiE3EADADB",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:43",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Visitors to Toft\u2019s Dairy face 49 ice-cream choices",
+      "description": "Toft\u2019s Dairy in Sandusky, Ohio, has operated for more than a century and remains locally owned. Its ice-cream parlour offers 49 flavours, alongside food, coffee and dairy products.",
+      "link": "https://dairynews.today/news/visitors_to_toft_s_dairy_face_49_ice_cream_choices_2398202.html",
+      "source": "Dairynews",
+      "image": "https://dairynews.today/upload/iblock/d68/2z74dshm85m6trfh8lyt7nex5k24ccw3/03.jpg",
+      "published": "2026-08-21 23:17:42",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "netherland"
+      ]
+    },
+    {
+      "title": "LEGAL NOTICE PARKER COUNTY HOS...",
+      "description": "LEGAL NOTICE PARKER COUNTY HOSPITAL DISTRICT SOLICITATION OF BIDS MEDICAL CITY DRIVE REHABILITATION The Parker County Hospital District is soliciting sealed bids for the rehabilitation of Medical City Drive, Weatherford, Texas. Bidders will be required to register at https://procurement.opengov.com/portal/pchdtx. A complete set of plans and bid documents will be located at this site. Any revisions, changes, addenda, or updates will be posted to the portal. Bids must be electronically submitted to this portal by noon on September 8th, 2026. Late submissions will not be accepted. Bids that are mailed through USPS, faxed, or hand delivered will not be accepted and returned unopened to vendors. Bids will be opened and read on Wednesday, September 9th, 2026, at 1:00 P.M. in the Parker County Hospital District Boardroom at 1130 Pecan Dr, Weatherford, Texas 76086. The Parker County Hospital District reserves the right to accept or reject any or all bids and to waive any informalities or irregularities in the bid procedure or bids when such actions are deemed in the best interest of the Hospital District. Please contact Tyler Brewer at 817-341-2520 for questions or additional information or Email tyler.brewer@pchdtx.org.",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/legal-notice-parker-county-hos/AC1E040E1413202CC3ECY49342C2",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:42",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NOTICE OF PUBLIC HEARING A PU...",
+      "description": "NOTICE OF PUBLIC HEARING A Public Hearing will be held September 14, 2026 at 9:00 A.M. in the Palo Pinto County Commissioner's Court, Palo Pinto, Texas in compliance with Local Government Code Section 118.025(g) concerning the County Clerk's Records Archive plan for the preservation and restoration services performed by the County Clerk. Anyone wishing to make comments may do so at that time in person or in writing to the Palo Pinto County Commissioner's Court, P.O. Box 369, Palo Pinto, Texas 76484",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/notice-of-public-hearing-a-pu/AC1E040E1413202CC3sUznE24B33",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:40",
+      "category": [
+        "crime",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fact Check: Videos Do NOT Show Migrant Toppling Cross Or Burning Church In Ceuta, Spain -- Separate Incidents, Different Countries",
+      "description": "Do videos show a migrant toppling a cross and a burning church in Ceuta, Spain? No, that's not true: Neither video used to support the claim is from the Span...",
+      "link": "https://www.yahoo.com/news/world/articles/fact-check-videos-not-show-231739565.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/cd3523cabe7dabd8a776f727b78ff6ba450054fad0dc3aaec13f8678e185ba25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Fa1fe758129bd82d7286cc2e03ce93f40.jpg",
+      "published": "2026-08-21 23:17:39",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "PUBLIC NOTICE ROCKING N STORA...",
+      "description": "PUBLIC NOTICE Rocking N Storage will hold an auction on September 6th 2026 located at 7010 E. Bankhead Highway, Aledo, TX 76008 @1145am of household goods and personal items from storage unit belonging to Hallie Sheffield, Unit# 33. Seller has the right to remove units from Auction at anytime.",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/public-notice-rocking-n-stora/AC1E040E1413202CC3euQi72D9B0",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:39",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NOTICE OF PUBLIC SALE PURSUANT...",
+      "description": "NOTICE OF PUBLIC SALE Pursuant to Chapter 59, Texas Property Code, StoreMore LLC which is located at 2141 N FM 51 Weatherford, TX 76086 will hold a public auction of property being sold to satisfy a landlord's lien. The sale will be held at the following website address: https://storageauctions.net from September 4th, 2026 to September 11th, 2026. Property will be sold to highest bidder for cash. Deposit for removal and cleanup may be temporarily required. Seller reserves the right to not accept any bid and to withdraw property from sale. Property in each space may be sold item-by-item, in batches, or by the space. Property being sold includes contents in space(s) of the tenant listed below, with brief description of contents in the space(s): Jennifer Rumbaugh \u2013 Various Personal Effects. Christine Garner \u2013 Various Personal Effects.",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/notice-of-public-sale-pursuant/AC1E040E1413202CC3BlH4F5AA30",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:39",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Baltimore Police fire officer captured in viral video driving directly at a man and striking him",
+      "description": "The Baltimore Police Department has fired a police officer who was captured in a viral video driving directly at a man and striking him following his convictions this week for assault and related crimes. from The Baltimore Banner",
+      "link": "https://www.thebanner.com/community/criminal-justice/baltimore-police-officer-robert-parks-terminated-4Y4E45U5INBXPOPWHATQETNXZE/",
+      "source": "The Banner",
+      "image": "https://baltimorebanner-the-baltimore-banner-prod.web.arc-cdn.net/resizer/v2/SNGDGLQKMBFTPPTSIUQBFOPQQU.JPG?auth=fa490b5f4ead9f93191fb60c0ec590d6340be22005e2be4e9e2732db1629f8c3&smart=true&width=3000&height=2327",
+      "published": "2026-08-21 23:17:38",
       "category": [
         "crime",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "NOTICE OF PUBLIC HEARINGS NOT...",
+      "description": "NOTICE OF PUBLIC HEARINGS Notice is hereby given that the City of Hudson Oaks will hold Public Hearings on the following: A request for a specific use permit to allow for a \"Day-Care Center, Child\" being a 10,000 square foot facility on a portion of a 3.558 acres tract, Lot 2R1R1, Block 1, A.B. Cinema Development Addition, commonly known as 2050 Cinema Drive, Hudson Oaks, Parker County, Texas, and; A request for a specific use permit to allow for a \"Package Liquor Store\" a 5,000 square foot suite on a portion of a 2.793 acre tract, Lot 1, Block 1, Jerry Spencer Subdivision, commonly known as 3196 IH-20, Hudson Oaks, Parker County, Texas. The City of Hudson Oaks will conduct the Public Hearings on Tuesday, September 8, 2026 at 7:00 p.m., and Thursday, September 24, 2026 at 7:00 p.m. at the Hudson Oaks City Hall, 210 Hudson Oaks Drive, Hudson Oaks, Texas, 76087.All interested parties are invited to attend. Any inquiries should be directed to the City Secretary. 682-229-2400",
+      "link": "https://marketplace.weatherforddemocrat.com/weatherford-tx/public-notices/notice-of-public-hearings-not/AC1E040E1413202CC31SWqE8755C",
+      "source": "Weatherford Democrat",
+      "image": null,
+      "published": "2026-08-21 23:17:38",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bank-of-England.jpg",
+      "description": null,
+      "link": "https://www.sfweekly.com/news/national/bank-of-england-jpg/image_dc2df3a2-f038-56ac-9625-6e278fce26d6.html",
+      "source": "Sfweekly",
+      "image": "https://bloximages.chicago2.vip.townnews.com/sfweekly.com/content/tncms/assets/v3/editorial/d/c2/dc2df3a2-f038-56ac-9625-6e278fce26d6/6a88e36decfe2.image.jpg?resize=300%2C169",
+      "published": "2026-08-21 23:17:37",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Start of Friday's Mets-White Sox game delayed due to impending weather",
+      "description": "The White Sox announced that the start of Friday's game with the Mets will be delayed due to impending weather.",
+      "link": "https://sny.tv/articles/start-mets-white-sox-game-delayed-rain-start-time-8-21-2026",
+      "source": "Sports New York",
+      "image": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/blt9f29a24dfaa87075/6a88dc2ae41d7f6a8b653c0c/2025-04-02T181744Z_1777552654_MT1USATODAY25828619_RTRMADP_3_MLB-MINNESOTA-TWINS-AT-CHICAGO-WHITE-SOX.JPG?fit=bounds&width=1920&height=1080",
+      "published": "2026-08-21 23:17:32",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "1969 Porsche 912 Coupe",
+      "description": "This 1969 Porsche 912 coupe was acquired by the seller in 2016 and was repainted in 2018. The car is finished in Medium Ivory over black leatherette upholstery and is powered by a 1.6-liter flat-four mated to a four-speed manual transaxle. Equipment includes 15\" Fuchs forged alloy wheels, disc brakes, RS-style door panels, lap and shoulder belts, and a digital AM/FM radio. This 912 coupe is now offered with a car cover and a clean Kentucky title in the seller's name.",
+      "link": "https://bringatrailer.com/listing/1969-porsche-912-coupe-46/",
+      "source": "Bring A Trailer",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/IMG_8772-scaled-copy-2026-08-05-ga4-42405.jpeg?w=940",
+      "published": "2026-08-21 23:17:30",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Horrific plane crash kills eight in Alaska",
+      "description": "Authorities say a charter plane crash at a remote radar station in Alaska killed all eight people on board. Two of the victims were U.S. Army Corps of Engine...",
+      "link": "https://www.yahoo.com/news/videos/horrific-plane-crash-kills-eight-231728338.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/c110f4a0e49f7c20f12cb7145ac80376f5fe8bf1505d3ca486fc75c9f597445f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2Fd512e7e0b65baa6fc9f1cf5abe378b16.jpg",
+      "published": "2026-08-21 23:17:28",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ravens WR Rashod Bateman Facing Three Charges For Prior Incident Involving Ex-Girlfriend",
+      "description": "TMZ Sports reports that Ravens WR Rashod Bateman was arrested on June 3 for allegedly smashing the windows of his baby mama\u2019s car while the child was in the back seat.",
+      "link": "https://www.yardbarker.com/nfl/articles/ravens_wr_rashod_bateman_facing_three_charges_for_prior_incident_involving_ex_girlfriend/s1_17039_44203749",
+      "source": "Yardbarker",
+      "image": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_1123,w_2000,x_0,y_0/c_fill,f_auto,h_1215,q_auto,w_2160/v1/m/6/2/6217a6ac7a690c9293ccc2c9d6a97e02f638add9/jul-29-2026-owings-mills-md-usa-baltimore-ravens.jpg",
+      "published": "2026-08-21 23:17:27",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Days after picking up new instruments, these Indigenous youths wrote their own song",
+      "description": "The Community Arts Mentorship Program hosted a week-long program for young Indigenous musicians aged 11 to 18 at Saskatoon's White Buffalo Youth Lodge. Students took away more than just a new song.",
+      "link": "https://ca.news.yahoo.com/days-picking-instruments-indigenous-youths-231726882.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/e1dccdcfabb026ab81089b98fd81fac5dfe85efb98f76ca63ca7e5f2bde91cad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbc_videos_73%2F48b25096281b994953c6d2fa376563db.jpg",
+      "published": "2026-08-21 23:17:26",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "GMERS Gotri to boost research capabilities, train faculty at govt medical colleges",
+      "description": "GMERS Gotri to boost research capabilities, train faculty at govt medical colleges",
+      "link": "https://timesofindia.indiatimes.com/city/vadodara/gmers-gotri-to-boost-research-capabilities-train-faculty-at-govt-medical-colleges/articleshow/133413279.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133413278/133413278.jpg",
+      "published": "2026-08-21 19:28:42",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,28 +1,57 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Standard Chartered Forecasts Bitcoin Will Retest All-Time High",
-      "description": null,
-      "link": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-forecasts-bitcoin-retest-172300311.html",
-      "source": "Yahoo Finance",
+      "title": "U.S. Chamber Endorses Rep. Addison McDowell for North Carolina's Sixth Congressional District",
+      "description": "Today, the U.S. Chamber of Commerce announced its endorsement of Rep. Addison McDowell for North Carolina's Sixth District. Read More",
+      "link": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-addison-mcdowell-for-north-carolinas-sixth-congressional-district",
+      "source": "United States Chamber Of Commerce",
+      "image": "https://www.uschamber.com/assets/images/uscc-default-1200x600.png",
+      "published": "2026-08-21 18:34:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Traffic to shift to first half of new 105 bridge",
+      "description": "HIGH COUNTRY \u2013 The N.C. Department of Transportation soon will shift traffic to the first half of a new bridge on N.C. 105 over the Watauga River.",
+      "link": "https://www.reflector.com/apgstate/traffic-to-shift-to-first-half-of-new-105-bridge/article_7de9407b-b0bd-5fd3-ace5-4add94ed781c.html",
+      "source": "Reflector",
+      "image": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/6/0e/60e41f7a-407a-5cc9-8ee9-90a8a751004c/6a889cbfbdf9a.image.jpg?resize=300%2C225",
+      "published": "2026-08-21 18:34:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "N.S. fishers plan appeal after court dismisses lobster treaty rights case",
+      "description": "SAULNIERVILLE \u2014 A group representing commercial fishers in Nova Scotia says it plans to appeal after a court ruled it does not have standing to pursue a case...",
+      "link": "https://ca.finance.yahoo.com/news/n-fishers-plan-appeal-court-155503724.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/cp_finance_889/ec998d8f0dde8b69d095b55ff0106eaf.jpg",
+      "published": "2026-08-21 18:33:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Trump announces plan to lower beef prices, but ranchers and some Republicans are already balking",
+      "description": "WASHINGTON (AP) \u2014 President Donald Trump announced Friday that his administration will allow more beef to be temporarily imported into the U.S. withou...",
+      "link": "http://www.nashvilleledger.com/editorial/Article.aspx?id=206930",
+      "source": "Tnledger",
       "image": null,
-      "published": "2026-08-21 17:23:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Decisions, Decisions",
-      "description": "When you are working and saving, managing your investment portfolio is fairly straightforward. But when you retire and those paychecks from an employer are no longer coming in, you must turn around and start taking money out of your investment...",
-      "link": "https://www.news-gazette.com/business/decisions-decisions/article_6609c67f-2d4b-4f25-9b34-713f4b1ef00d.html",
-      "source": "News-gazette",
-      "image": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/b/59/b5976057-bb86-4c8f-be75-21eb870203b1/687a68a736468.image.jpg",
-      "published": "2026-08-21 17:23:00",
+      "published": "2026-08-21 18:33:57",
       "category": [
         "business",
         "top"
@@ -32,32 +61,34 @@
       ]
     },
     {
-      "title": "Turn AEGIS Controls Into An Agentic AI Security Stack",
-      "description": "Agentic AI creates control, technology, and purchasing problems. Security leaders need to know which controls they must satisfy, which technologies can satisfy them, where existing tools already provide coverage, and where a new investment actually fills a gap. Far too often, we see clients conducting that process in reverse order...trying to buy a technology and [...]",
-      "link": "https://www.forrester.com/blogs/turn-aegis-controls-into-an-agentic-ai-security-stack/",
-      "source": "Forrester Research, Inc.",
-      "image": "https://go.forrester.com/wp-content/uploads/2026/08/Navigate-FI.png",
-      "published": "2026-08-21 17:22:56",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "For the First Time, DeFi Was Solved by Everything Protocol",
-      "description": "Decentralized finance has spent a decade piling on new features. We have automated market makers for trading, money markets for borrowing, and specialized platforms for leverage or limit orders. Yet beneath all that flash, a huge problem has been staring everyone in the face. Capital is hopelessly fragmented. Money sitting in a lending pool cannot... Read the full article on TechBullion.",
-      "link": "https://techbullion.com/for-the-first-time-defi-was-solved-by-everything-protocol/",
-      "source": "Techbullion",
-      "image": "https://techbullion.com/wp-content/uploads/2026/08/image1-46.png",
-      "published": "2026-08-21 17:22:51",
+      "title": "Maharashtra: Finance portfolio snub, internal rift test NCP\u2019s unity",
+      "description": null,
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-finance-portfolio-snub-internal-rift-test-ncps-unity/articleshow/133412175.cms",
+      "source": "The Economic Times",
+      "image": null,
+      "published": "2026-08-21 18:33:56",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "india"
+      ]
+    },
+    {
+      "title": "Ladakh diverts glacier runoff to boost irrigation",
+      "description": "Leh: Ladakh has diverted around 90 million litres of glacier runoff every day from Stok Nallah into the Igoo-Phey Irrigation Canal through simple, zero-capital earthwork, turning previously unused glacier water into a major source for irrigation and agricultural activity across several villages. The initiative, undertaken by the UT Administration, involves two diversions from Stok Nallah. Of the nearly 36 cusecs of water flowing through the nallah, around 25 cusecs has now been channelled into the Igoo-Phey Irrigation Canal, increasing the canal\u2019s water availability from about 50 cusecs to nearly 75 cusecs. For years, a substantial portion of the glacier runoff flowed unused into the Indus River. The intervention has now redirected this water towards agricultural fields, providing a fresh water source for 12 villages and more than 1,000 acres of land that have historically faced water shortages. The development is particularly significant for the 43-km-long Igoo-Phey Irrigation Canal, which had remained largely defunct due to inadequate water availability. With the additional flow from Stok Nallah, the canal is expected to support irrigation over a much wider area and provide greater reliability to farmers dependent on seasonal water sources. The administration said the intervention demonstrates that practical and low-cost water management measures can make a substantial difference in Ladakh\u2019s cold-desert environment, where agriculture is heavily dependent on limited water resources and glacier-fed streams. The project also highlights the potential of using existing natural water flows more efficiently rather than relying solely on expensive infrastructure. By diverting water that was earlier flowing away unused, the administration has sought to strengthen irrigation capacity while improving the utilisation of Ladakh\u2019s glacier resources. Ladakh Lieutenant Governor Vinai Kumar Saxena highlighted the initiative as part of the administration\u2019s efforts to improve water security, agricultural sustainability and rural livelihoods. The administration has indicated that similar cost-effective interventions could be explored in other parts of the Union Territory to capture and utilise scattered glacier-fed flows. The initiative has also drawn appreciation from Congress MP Shashi Tharoor, who, while responding to the Lieutenant Governor\u2019s post on the project, said his committee\u2019s recent visit had reinforced his view that Ladakh could emerge as a national showcase for environmental progress and sustainability.",
+      "link": "https://risingkashmir.com/jammu-and-kashmir/ladakh-diverts-glacier-runoff-to-boost-irrigation-12409278",
+      "source": "Rising Kashmir",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/rising-kashmir/media/media_files/2026/08/21/lg-ladakh-2026-08-21-23-39-00.png",
+      "published": "2026-08-21 18:33:46",
+      "category": [
+        "business",
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

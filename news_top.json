@@ -1,29 +1,58 @@
 {
   "status": "success",
-  "totalResults": 18,
+  "totalResults": 12,
   "results": [
     {
-      "title": "I use a walking stick at 26. Strangers say I\u2019m \u2018too young\u2019",
-      "description": null,
-      "link": "https://www.adelaidenow.com.au/health/savannah-oskorep-on-the-reality-of-using-mobility-aids-in-your-20s/news-story/4634726659cfa6147e75e7032aba889e",
-      "source": "The Advertiser",
-      "image": null,
-      "published": "2026-08-22 05:17:00",
+      "title": "M27 traffic LIVE: Motorway closure as 999 crews rush to 'serious incident'",
+      "description": "National Highways has urged drivers to \"plan ahead\".",
+      "link": "https://www.express.co.uk/news/uk/2241450/m27-traffic-live-closed-incident-hampshire",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2241450_1.jpg",
+      "published": "2026-08-22 06:25:00",
       "category": [
-        "top",
-        "politics"
+        "crime",
+        "top"
       ],
       "country": [
-        "australia"
+        "united kingdom"
       ]
     },
     {
-      "title": "Hyderabad Aston Martin crash: MP\u2019s son\u2019s drug, alcohol tests negative; blood sample sent to FSL",
-      "description": "Preliminary alcohol and drug tests on Andhra MP\u2019s son Lingamaneni Sanjush were negative after the fatal Hyderabad Aston Martin crash. His blood sample has been sent for forensic examination.",
-      "link": "https://www.news9live.com/india/hyderabad-aston-martin-crash-mps-sons-drug-alcohol-tests-negative-blood-sample-sent-to-fsl-3001578",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/08/Hyderabad-car-accident.jpg",
-      "published": "2026-08-22 05:17:00",
+      "title": "KP Food Authority intensifies crackdown against substandard food",
+      "description": "Peshawar - On the directives of Special Assistant to the Chief Minister (SACM) for Food Dr Israr Khan, the Khyber Pakhtunkhwa Food Safety & Halal Food Authority has intensified its crackdown against substandard, adulterated and hazardous food across the province.",
+      "link": "https://www.nation.com.pk/22-Aug-2026/kp-food-authority-intensifies-crackdown-substandard-food",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-08-22 06:25:00",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+      "description": "While fund managers remain comfortable with the credit quality of companies such as Amazon and Alphabet, Google's parent company, they are increasingly demanding higher yields to accommodate the flood of issuance",
+      "link": "https://www.tbsnews.net/worldbiz/usa/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-1521591",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/08/22/usa_data_center.jpg",
+      "published": "2026-08-22 06:25:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Nagaon: Man Detained Over Alleged Rs 37 Lakh Betel Nut Theft",
+      "description": "The case has also raised allegations that a DSP posted in Guwahati and a resident of Rupahihat attempted to intervene on Rahman\u2019s behalf",
+      "link": "https://www.sentinelassam.com/breakingnews/nagaon-man-detained-over-alleged-rs-37-lakh-betel-nut-theft",
+      "source": "The Sentinel",
+      "image": "https://media.assettype.com/sentinelassam-english/2026-08-22/ipo966go/image-2026-08-22T114343.589.png?w=280",
+      "published": "2026-08-22 06:25:00",
       "category": [
         "crime",
         "top"
@@ -33,266 +62,123 @@
       ]
     },
     {
-      "title": "Trump announces plan to lower beef prices",
-      "description": null,
-      "link": "https://www.timesdaily.com/life/food/trump-announces-plan-to-lower-beef-prices/article_532abc1b-6e7e-4c97-b557-59319890ade8.html",
-      "source": "Timesdaily",
-      "image": null,
-      "published": "2026-08-22 05:17:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Azerbaijani Oil Scales Up In Price",
-      "description": "(MENAFN - Trend News Agency) BAKU, Azerbaijan, August 22. The price of Azerbaijan's Azeri Light crude rose by $0.44, or 0.45%, from the previous level to $97.12 per barrel on a CIF basis at ...",
-      "link": "https://menafn.com/1111575348/Azerbaijani-Oil-Scales-Up-In-Price",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-08-22 05:16:53",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "egypt",
-        "qatar",
-        "saudi arabia",
-        "pakistan",
-        "india",
-        "kuwait",
-        "morocco",
-        "united arab emirates",
-        "jordan",
-        "bahrain",
-        "iraq",
-        "lebanon"
-      ]
-    },
-    {
-      "title": "Ashgabat To Host Meeting Of CIS Economic Council In September",
-      "description": "(MENAFN - Trend News Agency) BAKU, Azerbaijan, August 22. Ashgabat will host the 111th meeting of the Economic Council of the Commonwealth of Independent States (CIS) on September 11, 2026. This ...",
-      "link": "https://menafn.com/1111575349/Ashgabat-To-Host-Meeting-Of-CIS-Economic-Council-In-September",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-08-22 05:16:53",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "egypt",
-        "qatar",
-        "saudi arabia",
-        "pakistan",
-        "india",
-        "kuwait",
-        "morocco",
-        "united arab emirates",
-        "jordan",
-        "bahrain",
-        "iraq",
-        "lebanon"
-      ]
-    },
-    {
-      "title": "[WA] Parent Plays for Free, 3-4pm Select Days @ Matagarup Mini Golf",
-      "description": "Received this on email, and some Perth parents might appreciate it. Use the code when you book a round for both you and your child (Aged 5-15), on either Wednesdays and Thursdays between 3-4pm, and ...",
-      "link": "https://www.ozbargain.com.au/node/972319",
-      "source": "Ozbargain",
-      "image": "https://files.ozbargain.com.au/n/19/972319l.jpg?h=f7dc4b36",
-      "published": "2026-08-22 05:16:52",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Afghanistan Loses $84 Million a Year From Restrictions on Women\u2019s Education, Work",
-      "description": "Restrictions on women\u2019s education and employment are costing Afghanistan at least $84 million a year, about 0.5% of the country\u2019s gross domestic product, while deepening economic isolation and undermining hopes for international recognition, Bloomberg reported, citing a United Nations assessment. According to Bloomberg, which cited UN findings, nearly 3.8 million girls in Afghanistan are currently [...] The post Afghanistan Loses $84 Million a Year From Restrictions on Women\u2019s Education, Work appeared first on Khaama Press .",
-      "link": "https://www.khaama.com/afghanistan-loses-84-million-a-year-from-restrictions-on-womens-education-work/",
-      "source": "Khaama Press",
-      "image": "https://www.khaama.com/wp-content/uploads/2026/03/girls.jpg",
-      "published": "2026-08-22 05:16:51",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "afghanistan"
-      ]
-    },
-    {
-      "title": "Fifteen Years After Her Own Bronze, Ashwini Ponnappa Backs Treesa-Gayatri To Go 'Bigger' At Badminton Worlds",
-      "description": "Ashwini Ponnappa and Jwala Gutta won India's last women's doubles medal at the Worlds in 2011. Fifteen years on, Treesa-Gayatri have matched that, reaching the semifinals, while Satwik-Chirag's bid ended in the quarterfinals. Ponnappa tells Outlook India she wants the pair to go bigger and better",
-      "link": "https://www.outlookindia.com/sports/badminton/ashwini-ponnappa-exclusive-reaction-treesa-jolly-gayatri-gopichand-bwf-world-championships-quarterfinal-win-bronze",
-      "source": "Outlook",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-08-22/xgyyw10t/Gayatri-Gopichand-and-Treesa-Jolly-BWF-Championships-quaterfinal-2.jpg",
-      "published": "2026-08-22 05:16:47",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
-      "description": "The lack of a final agreement means that new 50-percent duties, set to impact some $20 billion of Canadian exports to the United States, took effect on Saturday.",
-      "link": "https://thesun.my/news/world-news/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/08/US-Canada-fail-to-reach-trade-pact-to-avert-Trump-tariffs.webp",
-      "published": "2026-08-22 05:16:45",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "description": "The man accused of orchestrating the murder of Tupac Shakur told police more than a decade later that he handed the gun used in the drive-by shooting to a passenger who then passed it to his nephew who opened fire on the rapper. Duane \u201cKeffe D\u201d Davis is on trial in Las Vegas, charged with [...] The post Tupac murder accused told police in 2008 his nephew fired fatal shots appeared first on Kahawatungu .",
-      "link": "https://kahawatungu.com/tupac-murder-accused-told-police-in-2008-his-nephew-fired-fatal-shots/",
-      "source": "Kahawatungu",
-      "image": "https://kahawatungu.com/wp-content/uploads/2026/08/images-7.jpeg",
-      "published": "2026-08-22 05:16:45",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "indonesia"
-      ]
-    },
-    {
-      "title": "Telcos Crack Down on Sites Streaming School Shootings & Violent Content",
-      "description": "Telcos Take Action Against Online Videos That Turn School Violence Into Entertainment TELCOS \u2013 Websites showing horrifying footage of school shootings may soon become inaccessible to more Filipino internet users as major telcos begin a crackdown on extreme online violence. Telecommunications companies PLDT Inc., Smart Communications Inc., and Globe Telecom have announced efforts to block ... Read more The post Telcos Crack Down on Sites Streaming School Shootings & Violent Content appeared first on PhilNews .",
-      "link": "https://philnews.ph/2026/08/22/telcos-crack-down-on-sites-streaming-school-shootings-violent-content/",
-      "source": "Philippine News",
-      "image": "https://philnews.ph/wp-content/uploads/2026/08/Telcos-School-Shootings.jpg",
-      "published": "2026-08-22 05:16:44",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Ganjam leading Odisha in rooftop solar panel installation",
-      "description": "Brahmapur: Ganjam has emerged as the leading district in Odisha in the installation of rooftop solar panels under the Centre\u2019s PM Surya Ghar: Muft Bijli Yojana, officials said. According to them, Ganjam has recorded the installation of 16,418 rooftop solar projects, followed by Baleswar with 16,407 installations, Khordha with 14,603 units, Kataka with 13,758 units [...]",
-      "link": "https://www.orissapost.com/ganjam-leading-odisha-in-rooftop-solar-panel-installation/",
-      "source": "Orissa Post",
-      "image": "https://www.orissapost.com/wp-content/uploads/2021/12/Rooftop-solar-panel-in-city-1.jpeg",
-      "published": "2026-08-22 05:16:43",
-      "category": [
-        "business",
-        "environment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Abhishek Sharma eyes IPL, state opportunities for young talent in Sher-e-Punjab T20 League",
-      "description": "Amritsar Soormas captain Abhishek Sharma said helping young teammates earn state and IPL opportunities would be the biggest reward in the Sher-e-Punjab T20 League. He also stressed attacking cricket, self-belief and fearless decision-making while leading his hometown team.",
-      "link": "https://telanganatoday.com/abhishek-sharma-eyes-ipl-state-opportunities-for-young-talent-in-sher-e-punjab-t20-league",
-      "source": "Telangana Today",
-      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Seeing-young-lads-get-exposure-IPL-contracts-is-ultimate-reward-Amritsar-Soormas-skipper-Abhishek-Sharma.jpg",
-      "published": "2026-08-22 05:16:39",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Badminton: Ghana delivers best Olympic qualifying result in 64 years at 2026 Grand Slam",
-      "description": "Ghana\u2019s badminton team achieved its strongest Olympic qualifying result in 64 years, securing four medals at the Badminton Grand Slam 2026 held at the Borteyman Sports Complex in Accra. By the end of the thirty-eight-nation competition, Team Ghana won gold, a silver and two bronze medals \u2013 the country\u2019s best performance in 64 years. Moslena [...] The post Badminton: Ghana delivers best Olympic qualifying result in 64 years at 2026 Grand Slam appeared first on Ghana News Online .",
-      "link": "https://ghananewss.com/badminton-ghana-delivers-best-olympic-qualifying-result-in-64-years-at-2026-grand-slam/",
-      "source": "Ghana News Online",
-      "image": "https://ghananewss.com/wp-content/uploads/2026/08/images-4-1.jpeg",
-      "published": "2026-08-22 05:16:36",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Gurwin residents enjoy 3rd annual \u2018Dog Days of Summer\u2019 show",
-      "description": "Gurwin Jewish Nursing & Rehabilitation Center in Commack recently hosted its 3rd Annual Dog Days of Summer Fashion Show, welcoming pooches and their owners for a runway-style fashion show and pet therapy session. The annual event is highly anticipated by the Gurwin community and provided an afternoon of laughter and connection. The Canine Couture Fashion Show starred a dozen furry friends belonging to Gurwin staff, friends, and members of Fountaingate Gardens, Gurwin\u2019s independent living Life Plan Community. An added bonus to the celebration was a visit by The Guide Dog Foundation, featuring puppies-in-training, who showed off impressive skills and focus. \u201cOur annual dog show is part of Gurwin\u2019s ongoing commitment to enriching resident quality of life through meaningful programs like pet therapy,\u201d said Nicole Hopper, Chief Therapeutic Officer of the Gurwin Healthcare System. \u201cA wagging tail, gentle nuzzle and playful paw in the hand make a real impact on our residents\u2019 well-being. Our staff loved sharing their beloved dogs with the residents, and the addition of the service dog interaction brought even more joy to the celebration.\u201d Each four-legged participant went home with a goodie bag of homemade dog treats. The event was held in Gurwin\u2019s newly remodeled Simon Rainbow Room, where immersive projections of playful summer visuals set the scene for a joyful afternoon of canine charm.",
-      "link": "https://tbrnewsmedia.com/gurwin-residents-enjoy-3rd-annual-dog-days-of-summer-show/",
-      "source": "Tbrnewsmedia",
-      "image": "https://tbrnewsmedia.com/wp-content/uploads/2026/08/unnamed-4-3-scaled.jpg",
-      "published": "2026-08-22 05:16:34",
+      "title": "Everyone Sophisticated Is Wearing This Lesser-Known, Up-and-Coming Brand Right Now",
+      "description": "If minimalistic, elegant cuts, neutral tones and layered silhouettes are your aesthetic, then this is the label to bookmark straight away.",
+      "link": "https://www.marieclaire.co.uk/fashion/voranida-trending-brand",
+      "source": "Marie Claire Uk",
+      "image": "https://cdn.mos.cms.futurecdn.net/PCwBuACeXmRLhSrzLKLFS6-1280-80.jpg",
+      "published": "2026-08-22 06:25:00",
       "category": [
         "top",
         "lifestyle"
       ],
       "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "When Should You Replace a Microwave? 2026 Lifespan, Safety Checks and Repair Costs",
+      "description": "How Long Do Microwaves Last 2026: clear 2026 explainer for US homeowners and renters. Plain-English definition, real-life examples, and 2026 implications.",
+      "link": "https://baltimorechronicle.com/tech/how-long-do-microwaves-last-2026/",
+      "source": "Baltimore Chronicle",
+      "image": "https://baltimorechronicle.com/wp-content/uploads/2026/08/photo_5210668501654250852_w.jpg",
+      "published": "2026-08-22 06:25:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Leo Rivas, Mariners walk off Cubs in extra innings",
-      "description": "Leo Rivas came off the bench to play the hero, delivering a two-out single in the bottom of the 10th inning to send the Mariners to a walkoff win over the Cubs.",
-      "link": "https://www.union-bulletin.com/sports/pro_sports/mariners/leo-rivas-mariners-walk-off-cubs-in-extra-innings/article_6b62f262-90a0-5fb6-af97-5651d62a2914.html",
-      "source": "Union-bulletin",
+      "title": "Darwin River fire: Residents urged to take action",
+      "description": null,
+      "link": "https://www.ntnews.com.au/news/nt-bushfires-watch-and-act-alert-issued-after-bushfire-spreads-across-darwin-river-road/news-story/7bbb63abd6123db0bacd40dde9c856c9",
+      "source": "Nt News",
       "image": null,
-      "published": "2026-08-22 05:16:29",
+      "published": "2026-08-22 06:25:00",
       "category": [
-        "sports",
-        "top"
+        "top",
+        "environment"
       ],
       "country": [
-        "united states of america"
+        "australia"
       ]
     },
     {
-      "title": "Bo Nix shines in return from broken ankle, but Broncos fall to Packers 33-13",
-      "description": "DENVER (AP) \u2014 Bo Nix \u2018s 21-yard touchdown toss to R.J. Harvey two plays after hooking up with new speedster Jaylen Waddle for 35 yards highlighted the Denver quarterback\u2019s return successful return from a broken ankle in the Broncos\u2019 33-13 loss to the Green Bay Packers on Friday night. \u201cIt felt great,\u201d Nix said after...",
-      "link": "https://mymotherlode.com/sports/nfl-general-news/11085451/bo-nix-shines-in-return-from-broken-ankle-but-broncos-fall-to-packers-33-13.html",
-      "source": "Mymotherlode.com - The Mother Lode's Local News, S",
-      "image": "https://mymotherlode.com/wp-content/uploads/2026/08/AP_ba86401e0b9e4129b31f00b382701751_bc981ad54c.jpg",
-      "published": "2026-08-22 05:16:27",
+      "title": "Cotton MSP Increased",
+      "description": "\u0c2a\u0c24\u0c4d\u0c24\u0c3f \u0c30\u0c46\u0c56\u0c24\u0c41\u0c32\u0c15\u0c41 \u0c15\u0c47\u0c02\u0c26\u0c4d\u0c30 \u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c02 \u0c0a\u0c30\u0c1f\u0c28\u0c3f\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f. 2026-27 \u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c46\u0c1f\u0c3f\u0c02\u0c17\u0c4d\u200c \u0c38\u0c40\u0c1c\u0c28\u0c4d\u200c\u0c15\u0c41 \u0c2a\u0c24\u0c4d\u0c24\u0c3f \u0c15\u0c28\u0c40\u0c38 \u0c2e\u0c26\u0c4d\u0c26\u0c24\u0c41 \u0c27\u0c30 \u0c15\u0c4d\u0c35\u0c3f\u0c02\u0c1f\u0c3e\u0c32\u0c4d\u200c\u0c15\u0c41 \u0c30\u0c42.8,667\u0c17\u0c3e \u0c28\u0c3f\u0c30\u0c4d\u0c23\u0c2f\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f.",
+      "link": "https://www.andhrajyothy.com/2026/telangana/karimnagar/cotton-msp-increased-to-rs-8-667-per-quintal-for-2026-27-season-farmers-seek-cci-procurement-1551779.html",
+      "source": "Andhrajyothi",
+      "image": "https://media.andhrajyothy.com/media/2026/20260318/zzz_dea7db8c18_v_jpg.webp",
+      "published": "2026-08-22 06:24:58",
       "category": [
-        "sports",
+        "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "PM orders probe into non-functional CT coronary angiography facility at PIMS",
-      "description": "Constitutes an inquiry committee to determine the facts and responsibility",
-      "link": "https://tribune.com.pk/story/2625256/pm-orders-probe-into-non-functional-ct-coronary-angiography-facility-at-pims",
-      "source": "The Express Tribune",
-      "image": "https://i.tribune.com.pk/media/images/121783559490-6/121783559490-6-640x480.webp",
-      "published": "2026-08-22 05:16:21",
+      "title": "18-year-old son jumps off a cliff after parents refused to buy him an iPhone; father and mother die trying to save him",
+      "description": "An 18-year-old jumped off a cliff in Chhatrapati Sambhajinagar after his parents refused to buy him an iPhone. His father tried to catch him and fell too, while his mother jumped moments later in grief. All three died despite nearly three hours of rescue efforts by police, villagers and fire brigade teams.",
+      "link": "https://economictimes.indiatimes.com/news/new-updates/18-year-old-son-jumps-off-a-cliff-after-parents-refused-to-buy-him-an-iphone-father-and-mother-die-trying-to-save-him/articleshow/133418782.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133418967,resizemode-4,width-1200,height-900,imgsize-244209,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-22 06:24:55",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump calls Strait of Hormuz 'American territory', says Iran will 'never' have nuclear weapon",
+      "description": "Myrtle Beach: US President Donald Trump on Friday said Iran must never be allowed to obtain a nuclear weapon and described the Strait of Hormuz as \"American...",
+      "link": "https://timesofoman.com//article/175908-trump-calls-strait-of-hormuz-american-territory-says-iran-will-never-have-nuclear-weapon",
+      "source": "Timesofoman",
+      "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/08/1787379892-1787379892-q8b5iygjuage-700x400.jpg",
+      "published": "2026-08-22 06:24:52",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "pakistan"
+        "romania"
+      ]
+    },
+    {
+      "title": "\u2018Toxic\u2019: Time for Yash, the actor, to take centre stage",
+      "description": "With Toxic, can Yash push beyond the familiar swagger and tap into a more nuanced, layered side of his craft?",
+      "link": "https://www.thehindu.com/videos/toxic-time-for-yash-the-actor-take-centre-stage/article71376767.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/videos/shows/n2xp7y/article71376749.ece/alternates/FREE_1200/Yash-the-actor-thumbnail.jpg",
+      "published": "2026-08-22 06:24:50",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bitcoin nears $80,000 in its biggest weekly rally in 3 years",
+      "description": "Bitcoin surged toward $80,000 on Saturday, gaining 24.5% over the past week and heading for its strongest weekly rally in more than three years. The rally was supported by lower long-term US bond yields, increased risk appetite, short-position liquidations and renewed institutional buying.",
+      "link": "https://www.ibtimes.co.in/bitcoin-nears-80000-its-biggest-weekly-rally-3-years-904948",
+      "source": "International Business Times",
+      "image": "https://data1.ibtimes.co.in/en/full/832442/bitcoin-price-drops-two-week-low-over-growing-us-iran-war-concerns.jpg",
+      "published": "2026-08-22 06:24:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

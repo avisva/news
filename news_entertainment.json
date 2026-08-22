@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "\u2018Toxic\u2019: Time for Yash, the actor, to take centre stage",
+      "description": "With Toxic, can Yash push beyond the familiar swagger and tap into a more nuanced, layered side of his craft?",
+      "link": "https://www.thehindu.com/videos/toxic-time-for-yash-the-actor-take-centre-stage/article71376767.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/videos/shows/n2xp7y/article71376749.ece/alternates/FREE_1200/Yash-the-actor-thumbnail.jpg",
+      "published": "2026-08-22 06:24:50",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

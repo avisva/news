@@ -1,141 +1,43 @@
 {
   "status": "success",
-  "totalResults": 29,
+  "totalResults": 28,
   "results": [
     {
-      "title": "Brady football defeats Sutherland in Week 0 matchup",
-      "description": "Brady\u2019s Payton Miller scored the first touchdown in the newly formed Class D3 when he returned the opening kickoff for a touchdown to start a 57-0 win over Sutherland in a Week 0 matchup on Friday in Brady.",
-      "link": "https://nptelegraph.com/sports/high-school/article_898e662f-da27-46b1-933c-ca9860ff0197.html",
-      "source": "North Platte Telegraph",
-      "image": "https://bloximages.chicago2.vip.townnews.com/nptelegraph.com/content/tncms/assets/v3/editorial/6/6f/66f5bcb9-c5f2-4eee-ab56-d23e5df6c7f5/6a89256d69f77.image.jpg?resize=300%2C200",
-      "published": "2026-08-22 04:19:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Irish rapper Reggie: \u2018Dundalk\u2019s on top of the world right now. The centre of the universe\u2019",
-      "description": "The former drill rapper went viral when one of the world\u2019s biggest DJs remixed his song. Now he\u2019d like to rebrand",
-      "link": "https://www.irishtimes.com/culture/music/2026/08/22/irish-rapper-reggie-dundalks-on-top-of-the-world-right-now-the-centre-of-the-universe/",
-      "source": "The Irish Times",
-      "image": "https://www.irishtimes.com/resizer/v2/433HMPIUH5C63FXHRB4AH4L2HU.jpeg?auth=51349197a98f68a87c84d21755c58d0bcdc70984c79610d62b16f5c7926ad8ba&smart=true&width=630&height=350",
-      "published": "2026-08-22 04:19:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Boeing (BA) Names A New Controller, Is The Stock 34% Overvalued?",
-      "description": "Boeing (BA) has drawn fresh investor attention after appointing Ryan L. Shedd as Senior Vice President and Controller, and principal accounting officer, effective following the upcoming 2026 Form 10 K filing. See our latest analysis for Boeing. Boeing\u2019s latest executive moves come after a mixed period for investors, with the share price currently at $214.20 and recent pressure on short term momentum, while longer term total shareholder returns also remain in decline. If you are looking beyond...",
-      "link": "https://ca.finance.yahoo.com/news/boeing-ba-names-controller-stock-041858774.html",
-      "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/abfa91c800baa8eacbba4ad17b7c4741.png",
-      "published": "2026-08-22 04:18:58",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Gold regains momentum as weak dollar, safe haven demand and seasonal buying support prices",
-      "description": "Gold prices have surged sharply in August, supported by a weaker U.S. dollar, expectations of monetary easing, geopolitical tensions, and sustained central-bank purchases. Strong Chinese demand and India\u2019s upcoming festive and wedding season add further support. Despite potential short-term corrections, structural factors including reserve diversification, inflation concerns, and de-dollarisation keep gold\u2019s long-term outlook bullish.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-regains-momentum-as-weak-dollar-safe-haven-demand-and-seasonal-buying-support-prices/articleshow/133417184.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-133417237,resizemode-4,width-1200,height-900,imgsize-598649,overlay-etmarkets/articleshow.jpg",
-      "published": "2026-08-22 04:18:50",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Flash: U.S., Canada fail to reach trade pact -- media",
-      "description": null,
-      "link": "https://english.news.cn/20260822/e4243fafaa264f8cbb4ef4ad9446ace3/c.html",
-      "source": "Xinhuanet",
-      "image": null,
-      "published": "2026-08-22 04:18:50",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Has Tempus AI (TEM) Run Too Far Ahead Of Its Valuation Narrative?",
-      "description": "Tempus AI (TEM) is back in focus after investors linked a major melanoma trial milestone to its pending US$1.5b acquisition of Personalis Inc, raising fresh questions about how this cancer data deal fits the stock\u2019s story. See our latest analysis for Tempus AI. At a latest share price of US$72.69, Tempus AI has seen strong short term momentum, with a 30 day share price return of 54.79% and a 90 day share price return of 57.41%. However, the 1 year total shareholder return is down 9.72%,...",
-      "link": "https://ca.finance.yahoo.com/news/tempus-ai-tem-run-too-041848356.html",
-      "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/21619f067f38e2286a235260b73bfe07.png",
-      "published": "2026-08-22 04:18:48",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Japan dad ditches 7-year-old son for hours to climb Mount Fuji",
-      "description": "A man left his seven-year-old son behind for hours on Japan's Mount Fuji while continuing the climb, resulting in a stern warning from authorities, police and local media reported.",
-      "link": "https://www.gmanetwork.com/news/topstories/world/999443/japan-dad-ditches-7-year-old-for-hours-to-climb-mount-fuji/story/",
-      "source": "Gma News Online",
-      "image": "http://images.gmanews.tv/webpics/2018/04/ZZZ_042718_mount_fuji_2018_04_27_13_37_06.jpg",
-      "published": "2026-08-22 04:18:47",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "WILL SUPREME COURT STOP TRUMP'S BALLROOM? What we know and don't know after high court's new action",
-      "description": "The Supreme Court Chief Justice has given Donald Trump a temporary green light to continue construction on a massive ...",
-      "link": "https://biztoc.com/x/b650d652aa7d367e",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/b650d652aa7d367e_s.webp",
-      "published": "2026-08-22 04:18:43",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Sam Budnyk honored in Cardinal Newman season-opening win | D'Angelo",
-      "description": "Cardinal Newman honored legendary coach Sam Budnyk before kickoff, then opened its state title defense with a 37-6 win over Community School of Naples.",
-      "link": "https://www.palmbeachpost.com/story/sports/high-school/football/2026/08/22/sam-budynk-remembered-cardinal-newman-season-opener/91400629007/",
-      "source": "Palm Beach Post",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/22/NPPP/91417140007-082126-naples-newman-football-11.JPG?auto=webp&crop=5596,3148,x0,y742&format=pjpg&width=1200",
-      "published": "2026-08-22 04:18:43",
+      "title": "Police seize phone of PAS chief Hadi Awang\u2019s Facebook admin",
+      "description": "PETALING JAYA: Police have seized the mobile phone belonging to the administrator of PAS president Tan Sri Abdul Hadi Awang's Facebook page to assist in ongoing investigations into reports lodged against the party chief.",
+      "link": "https://www.thestar.com.my/news/nation/2026/08/22/police-seize-phone-of-pas-chief-hadi-awangs-facebook-admin",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072644.JPG",
+      "published": "2026-08-22 05:17:00",
       "category": [
         "domestic"
       ],
       "country": [
-        "united states of america"
+        "malaysia"
       ]
     },
     {
-      "title": "Delhi Techie Beaten to Death After Dispute With Wife, 4 of Her Relatives Arrested",
-      "description": "A 27-year-old tech professional was allegedly beaten to death in New Delhi following a heated dispute with his wife, prompt local law enforcement to apprehend four individuals in connection with the incident. The deceased was involved in a domestic conflict with his wife, which escalated rapidly when her family members intervened.",
-      "link": "https://www.latestly.com/india/news/delhi-techie-beaten-to-death-after-dispute-with-wife-4-of-her-relatives-arrested-7570842.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/04/DEATH-2.jpg",
-      "published": "2026-08-22 04:18:42",
+      "title": "I use a walking stick at 26. Strangers say I\u2019m \u2018too young\u2019",
+      "description": null,
+      "link": "https://www.adelaidenow.com.au/health/savannah-oskorep-on-the-reality-of-using-mobility-aids-in-your-20s/news-story/4634726659cfa6147e75e7032aba889e",
+      "source": "The Advertiser",
+      "image": null,
+      "published": "2026-08-22 05:17:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Hyderabad Aston Martin crash: MP\u2019s son\u2019s drug, alcohol tests negative; blood sample sent to FSL",
+      "description": "Preliminary alcohol and drug tests on Andhra MP\u2019s son Lingamaneni Sanjush were negative after the fatal Hyderabad Aston Martin crash. His blood sample has been sent for forensic examination.",
+      "link": "https://www.news9live.com/india/hyderabad-aston-martin-crash-mps-sons-drug-alcohol-tests-negative-blood-sample-sent-to-fsl-3001578",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/08/Hyderabad-car-accident.jpg",
+      "published": "2026-08-22 05:17:00",
       "category": [
         "crime",
         "top"
@@ -145,28 +47,96 @@
       ]
     },
     {
-      "title": "Bo Nix shines in return from broken ankle, but Broncos fall to Packers 33-13",
-      "description": "Bo Nix's 21-yard touchdown pass to R.J. Harvey capped a promising return from a broken ankle in the Broncos' 33-13 loss to the Packers.",
-      "link": "https://www.denver7.com/sports/broncos/bo-nix-shines-in-return-from-broken-ankle-but-broncos-fall-to-packers-33-13",
-      "source": "Denver7 News",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/8aaf3d1/2147483647/strip/true/crop/3600x1890+0+166/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F93%2Fcb%2Fbebcdede4edba69554248de2c970%2Fap26234096032019.jpg",
-      "published": "2026-08-22 04:18:42",
+      "title": "Trump announces plan to lower beef prices",
+      "description": null,
+      "link": "https://www.timesdaily.com/life/food/trump-announces-plan-to-lower-beef-prices/article_532abc1b-6e7e-4c97-b557-59319890ade8.html",
+      "source": "Timesdaily",
+      "image": null,
+      "published": "2026-08-22 05:17:00",
       "category": [
-        "domestic"
+        "business",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Trump imposes fresh round of 50% tariffs on Canada's imports after last-ditch crisis talks collapsed",
-      "description": "Canadian Prime Minister Mark Carney responded to the failed negociations, calling the last-minute changes in the US proposed terms 'unfair and uneconomic'",
-      "link": "https://www.dailymail.com/news/article-16071583/Trump-imposes-tariffs-Canada-imports.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/22/05/110787263-0-image-a-7_1787371857817.jpg",
-      "published": "2026-08-22 04:18:35",
+      "title": "Bont\u2019s back as Dogs guns return with Dees\u2019 top-six spot under threat - LIVE AFL",
+      "description": "Marcus Bontempelli returns as the Western Bulldogs bring back a series of guns in their bid to sneak eighth spot from Collingwood - and make Melbourne\u2019s plan to hold onto a top-six berth that much tougher. Live updates below!",
+      "link": "https://www.foxsports.com.au/afl/live-afl-2026-melbourne-demons-vs-western-bulldogs-round-24-live-scores-and-stats-updates-and-blog-start-time-aest-and-how-to-watch-video-highlights/news-story/88564ba5bcd4411ac5bca5ea4c1faa0b",
+      "source": "Fox Sports",
+      "image": null,
+      "published": "2026-08-22 05:17:00",
+      "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Azerbaijani Oil Scales Up In Price",
+      "description": "(MENAFN - Trend News Agency) BAKU, Azerbaijan, August 22. The price of Azerbaijan's Azeri Light crude rose by $0.44, or 0.45%, from the previous level to $97.12 per barrel on a CIF basis at ...",
+      "link": "https://menafn.com/1111575348/Azerbaijani-Oil-Scales-Up-In-Price",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-22 05:16:53",
       "category": [
         "business",
+        "top"
+      ],
+      "country": [
+        "egypt",
+        "qatar",
+        "saudi arabia",
+        "pakistan",
+        "india",
+        "kuwait",
+        "morocco",
+        "united arab emirates",
+        "jordan",
+        "bahrain",
+        "iraq",
+        "lebanon"
+      ]
+    },
+    {
+      "title": "Ashgabat To Host Meeting Of CIS Economic Council In September",
+      "description": "(MENAFN - Trend News Agency) BAKU, Azerbaijan, August 22. Ashgabat will host the 111th meeting of the Economic Council of the Commonwealth of Independent States (CIS) on September 11, 2026. This ...",
+      "link": "https://menafn.com/1111575349/Ashgabat-To-Host-Meeting-Of-CIS-Economic-Council-In-September",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-22 05:16:53",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "egypt",
+        "qatar",
+        "saudi arabia",
+        "pakistan",
+        "india",
+        "kuwait",
+        "morocco",
+        "united arab emirates",
+        "jordan",
+        "bahrain",
+        "iraq",
+        "lebanon"
+      ]
+    },
+    {
+      "title": "[WA] Parent Plays for Free, 3-4pm Select Days @ Matagarup Mini Golf",
+      "description": "Received this on email, and some Perth parents might appreciate it. Use the code when you book a round for both you and your child (Aged 5-15), on either Wednesdays and Thursdays between 3-4pm, and ...",
+      "link": "https://www.ozbargain.com.au/node/972319",
+      "source": "Ozbargain",
+      "image": "https://files.ozbargain.com.au/n/19/972319l.jpg?h=f7dc4b36",
+      "published": "2026-08-22 05:16:52",
+      "category": [
+        "sports",
         "top"
       ],
       "country": [
@@ -174,130 +144,247 @@
       ]
     },
     {
-      "title": "Kingsley Agyemang donates medical equipment, pays patients\u2019 bills at Kyebi Hospital",
-      "description": "Member of Parliament for Abuakwa South, Dr Kingsley Agyemang, has donated a range of medical equipment and consumables to the Kyebi Government Hospital as part of efforts to improve healthcare delivery in the municipality. The items were handed over to the hospital on Friday, August 21, 2026, to help address some of the facility\u2019s immediate [...] The post Kingsley Agyemang donates medical equipment, pays patients\u2019 bills at Kyebi Hospital appeared first on Ghana News Online .",
-      "link": "https://ghananewss.com/kingsley-agyemang-donates-medical-equipment-pays-patients-bills-at-kyebi-hospital/",
-      "source": "Ghana News Online",
-      "image": "https://ghananewss.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-21-at-19.48.12-1-1080x630.jpeg",
-      "published": "2026-08-22 04:18:35",
+      "title": "Afghanistan Loses $84 Million a Year From Restrictions on Women\u2019s Education, Work",
+      "description": "Restrictions on women\u2019s education and employment are costing Afghanistan at least $84 million a year, about 0.5% of the country\u2019s gross domestic product, while deepening economic isolation and undermining hopes for international recognition, Bloomberg reported, citing a United Nations assessment. According to Bloomberg, which cited UN findings, nearly 3.8 million girls in Afghanistan are currently [...] The post Afghanistan Loses $84 Million a Year From Restrictions on Women\u2019s Education, Work appeared first on Khaama Press .",
+      "link": "https://www.khaama.com/afghanistan-loses-84-million-a-year-from-restrictions-on-womens-education-work/",
+      "source": "Khaama Press",
+      "image": "https://www.khaama.com/wp-content/uploads/2026/03/girls.jpg",
+      "published": "2026-08-22 05:16:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "afghanistan"
+      ]
+    },
+    {
+      "title": "ENG Vs PAK, 1st Test: Ollie Robinson\u2019s eight-wicket haul ensures Pakistan\u2019s embarrassing innings and 103-run defeat, fans on X say...",
+      "description": "Robinson and Tongue finished with eight wickets each in the match with the former receiving the player of the match award for figures of 5/51 and 3/29.",
+      "link": "https://www.india.com/sports/eng-vs-pak-1st-test-ollie-robinsons-eight-wicket-haul-ensures-pakistans-embarrassing-innings-and-103-run-defeat-in-headingley-8507270/",
+      "source": "India",
+      "image": "https://static.india.com/wp-content/uploads/2026/08/sdasdsm.jpg",
+      "published": "2026-08-22 05:16:50",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "description": "The price cuts are effective \u200con OpenAI's application programming interface, or \u200cAPI, \u2060and are rolling out \u2060across eligible plans for credits on its agentic AI product ChatGPT Work and its coding tool \u200bCodex",
+      "link": "https://www.thehindubusinessline.com/info-tech/openai-cuts-developer-pricing-for-frontier-gpt-56-sol-model-by-more-than-20/article71376571.ece",
+      "source": "The Hindu - Business Line",
+      "image": "https://bl-i.thgim.com/public/incoming/sih868/article71367612.ece/alternates/LANDSCAPE_1200/2026-08-18T115114Z_956305570_RC2URLA2ZZCN_RTRMADP_3_OPENAI-SAFETY-TEENS.JPG",
+      "published": "2026-08-22 05:16:49",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Fifteen Years After Her Own Bronze, Ashwini Ponnappa Backs Treesa-Gayatri To Go 'Bigger' At Badminton Worlds",
+      "description": "Ashwini Ponnappa and Jwala Gutta won India's last women's doubles medal at the Worlds in 2011. Fifteen years on, Treesa-Gayatri have matched that, reaching the semifinals, while Satwik-Chirag's bid ended in the quarterfinals. Ponnappa tells Outlook India she wants the pair to go bigger and better",
+      "link": "https://www.outlookindia.com/sports/badminton/ashwini-ponnappa-exclusive-reaction-treesa-jolly-gayatri-gopichand-bwf-world-championships-quarterfinal-win-bronze",
+      "source": "Outlook",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-08-22/xgyyw10t/Gayatri-Gopichand-and-Treesa-Jolly-BWF-Championships-quaterfinal-2.jpg",
+      "published": "2026-08-22 05:16:47",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US, Canada fail to reach trade pact to avert Trump tariffs",
+      "description": "The lack of a final agreement means that new 50-percent duties, set to impact some $20 billion of Canadian exports to the United States, took effect on Saturday.",
+      "link": "https://thesun.my/news/world-news/us-canada-fail-to-reach-trade-pact-to-avert-trump-tariffs/",
+      "source": "Thesun",
+      "image": "https://thesun.my/wp-content/uploads/2026/08/US-Canada-fail-to-reach-trade-pact-to-avert-Trump-tariffs.webp",
+      "published": "2026-08-22 05:16:45",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "description": "The man accused of orchestrating the murder of Tupac Shakur told police more than a decade later that he handed the gun used in the drive-by shooting to a passenger who then passed it to his nephew who opened fire on the rapper. Duane \u201cKeffe D\u201d Davis is on trial in Las Vegas, charged with [...] The post Tupac murder accused told police in 2008 his nephew fired fatal shots appeared first on Kahawatungu .",
+      "link": "https://kahawatungu.com/tupac-murder-accused-told-police-in-2008-his-nephew-fired-fatal-shots/",
+      "source": "Kahawatungu",
+      "image": "https://kahawatungu.com/wp-content/uploads/2026/08/images-7.jpeg",
+      "published": "2026-08-22 05:16:45",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "indonesia"
+      ]
+    },
+    {
+      "title": "Suez Canal Economic Zone Emerges as a New Corporate Travel Hub After China Investment Push",
+      "description": "Egypt\u2019s Suez Canal Economic Zone is entering a new era as international investment strengthens its role beyond trade and industry.... Read More Source: Travel And Tour World TTW-1972686-1787375887",
+      "link": "https://www.travelandtourworld.com/news/article/tr6uwrk14b7j/",
+      "source": "Travel And Tour World",
+      "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/08/China-Investment-Push.jpeg",
+      "published": "2026-08-22 05:16:44",
+      "category": [
+        "tourism"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Telcos Crack Down on Sites Streaming School Shootings & Violent Content",
+      "description": "Telcos Take Action Against Online Videos That Turn School Violence Into Entertainment TELCOS \u2013 Websites showing horrifying footage of school shootings may soon become inaccessible to more Filipino internet users as major telcos begin a crackdown on extreme online violence. Telecommunications companies PLDT Inc., Smart Communications Inc., and Globe Telecom have announced efforts to block ... Read more The post Telcos Crack Down on Sites Streaming School Shootings & Violent Content appeared first on PhilNews .",
+      "link": "https://philnews.ph/2026/08/22/telcos-crack-down-on-sites-streaming-school-shootings-violent-content/",
+      "source": "Philippine News",
+      "image": "https://philnews.ph/wp-content/uploads/2026/08/Telcos-School-Shootings.jpg",
+      "published": "2026-08-22 05:16:44",
       "category": [
         "top",
-        "health"
+        "technology"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Ganjam leading Odisha in rooftop solar panel installation",
+      "description": "Brahmapur: Ganjam has emerged as the leading district in Odisha in the installation of rooftop solar panels under the Centre\u2019s PM Surya Ghar: Muft Bijli Yojana, officials said. According to them, Ganjam has recorded the installation of 16,418 rooftop solar projects, followed by Baleswar with 16,407 installations, Khordha with 14,603 units, Kataka with 13,758 units [...]",
+      "link": "https://www.orissapost.com/ganjam-leading-odisha-in-rooftop-solar-panel-installation/",
+      "source": "Orissa Post",
+      "image": "https://www.orissapost.com/wp-content/uploads/2021/12/Rooftop-solar-panel-in-city-1.jpeg",
+      "published": "2026-08-22 05:16:43",
+      "category": [
+        "business",
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Australia High Speed Rail Project Moves Forward With Future Sydney Newcastle Travel Transformation",
+      "description": "Australia\u2019s high speed rail project advances as global suppliers support a future Sydney Newcastle connection that could transform travel. Read More Source: Travel And Tour World TTW-1972735-1787375880",
+      "link": "https://www.travelandtourworld.com/news/article/bworifb2eb1b/",
+      "source": "Travel And Tour World",
+      "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-22-2026-10_43_41-AM.jpg",
+      "published": "2026-08-22 05:16:42",
+      "category": [
+        "tourism"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Amateur historian explores county's forgotten forts",
+      "description": "Stephen Mudie shares on social media the story of three forts that were built in the 1600s.",
+      "link": "https://ca.style.yahoo.com/amateur-historian-explores-countys-forgotten-051642274.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/211fe32389aa6f09ad6b68717474a0ef58f8cc267c52bb446c85f9b59872de6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F87b8d2ebc29f8eb1e0b538343f53b1ca.jpg",
+      "published": "2026-08-22 05:16:42",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Abhishek Sharma eyes IPL, state opportunities for young talent in Sher-e-Punjab T20 League",
+      "description": "Amritsar Soormas captain Abhishek Sharma said helping young teammates earn state and IPL opportunities would be the biggest reward in the Sher-e-Punjab T20 League. He also stressed attacking cricket, self-belief and fearless decision-making while leading his hometown team.",
+      "link": "https://telanganatoday.com/abhishek-sharma-eyes-ipl-state-opportunities-for-young-talent-in-sher-e-punjab-t20-league",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/08/Seeing-young-lads-get-exposure-IPL-contracts-is-ultimate-reward-Amritsar-Soormas-skipper-Abhishek-Sharma.jpg",
+      "published": "2026-08-22 05:16:39",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Badminton: Ghana delivers best Olympic qualifying result in 64 years at 2026 Grand Slam",
+      "description": "Ghana\u2019s badminton team achieved its strongest Olympic qualifying result in 64 years, securing four medals at the Badminton Grand Slam 2026 held at the Borteyman Sports Complex in Accra. By the end of the thirty-eight-nation competition, Team Ghana won gold, a silver and two bronze medals \u2013 the country\u2019s best performance in 64 years. Moslena [...] The post Badminton: Ghana delivers best Olympic qualifying result in 64 years at 2026 Grand Slam appeared first on Ghana News Online .",
+      "link": "https://ghananewss.com/badminton-ghana-delivers-best-olympic-qualifying-result-in-64-years-at-2026-grand-slam/",
+      "source": "Ghana News Online",
+      "image": "https://ghananewss.com/wp-content/uploads/2026/08/images-4-1.jpeg",
+      "published": "2026-08-22 05:16:36",
+      "category": [
+        "sports",
+        "top"
       ],
       "country": [
         "ghana"
       ]
     },
     {
-      "title": "\u2018My husband became scapegoat\u2019: Wife of Indian captain held in UK over \u2018Russia shadow fleet\u2019 case",
-      "description": "Ritu Pant said her husband sounded devastated when she first spoke to him after his arrest, \u201cHe was broken and he was just crying.\u201d",
-      "link": "https://www.hindustantimes.com/india-news/my-husband-became-scapegoat-wife-of-indian-captain-held-in-uk-over-russia-shadow-fleet-case-101787368962270.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/22/1600x900/logo/ajay_pant_1787370921799_1787370928876_0c8ba27b-0dc9-467e-b539-dfea38d8af00.png",
-      "published": "2026-08-22 04:18:32",
+      "title": "Hocking Hills Tourism Expansion Puts Ohio on Travel Map With $295 Million Economic Success Story",
+      "description": "The Hocking Hills expansion of tourism has put Ohio on the travel map with the development of one of the... Read More Source: Travel And Tour World TTW-1972734-1787375887",
+      "link": "https://www.travelandtourworld.com/news/article/phy65x6o2bqv/",
+      "source": "Travel And Tour World",
+      "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/08/Hocking-Hills-Tourism.jpg",
+      "published": "2026-08-22 05:16:35",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Paradip Port achieves 150 MT annual cargo handling milestone; Rs 21,000 crore port planned in Ganjam",
-      "description": "Odisha 's Paradip Port has achieved a major milestone by reaching an annual cargo handling capacity of 150 million metric tonnes, Union Minister for Ports , Shipping and Waterways Sarbananda Sonowal said during his visit to the port on Friday. The minister also inaugurated and laid foundation stones for seven major projects worth Rs 427.80 crore. The port is now aiming to significantly expand its capacity, with a target of handling 500 million metric tonnes of cargo annually. The Centre has also planned a greenfield port at Bahuda in Ganjam district at an estimated cost of Rs 21,000 crore, which is expected to handle around five million containers. Paradip Sets Sights On 500 MT Target Sonowal credited the Odisha government and people for helping Paradip Port achieve the milestone and said the port has demonstrated its strength as one of the country\u2019s most powerful ports. \u201cWith the help of the Odisha government and the people, Paradip Port has achieved a milestone and proved that it is the most powerful port in the country. Our next target will be 500 million metric tonnes per annum,\u201d Sonowal said. The minister inaugurated and laid the foundation stones for seven projects at the port as part of efforts to strengthen its infrastructure and cargo handling capacity. Development Push For Odisha\u2019s Maritime Sector Jagatsinghpur MP Bibhu Prasad Tarai said the programme also highlighted the port\u2019s recent achievements and the development initiatives undertaken in the area. He congratulated youths who received appointment letters for new jobs during the minister\u2019s visit. \u201cI congratulate the youths who received their appointment letters today for their new jobs from the minister. The programme was aimed at highlighting the achievements of Paradip Port in recent times. Various MoUs were signed, and the minister has also assured us that the development of the port will continue,\u201d Tarai said. Odisha Industries, Skill Development and Technical Education Minister Sampad Chandra Swain said the initiatives were aimed at accelerating the growth of both Paradip Port and Odisha. Also Read: Paradip Port Handles Highest Volume Of Cargo In Country During First Quarter Of Current Fiscal \u201cThe programmes held here today were aimed at making Paradip Port and Odisha grow. Ships carrying heavy logistics will also be able to anchor at Paradip Port, and the port can now handle more cargo,\u201d Swain said. Bahuda Greenfield Port Planned The proposed Rs 21,000-crore greenfield port at Bahuda is expected to handle five million containers and further strengthen Odisha\u2019s maritime infrastructure.",
-      "link": "https://odishatv.in/odisha/paradip-port-achieves-150-mt-annual-cargo-handling-milestone-rs-21000-crore-port-planned-in-ganjam-12412101",
-      "source": "Odisha Tv",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv/media/media_files/2026/02/02/paradip-port-starts-2026-on-high-note-with-record-cargo-handling-2026-02-02-08-25-13.jpeg",
-      "published": "2026-08-22 04:18:31",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "15-year-old says he was attacked hours after arriving at Monroe mental health facility",
-      "description": "Keymon Barker said he had been at Ridgeview for about three hours when the attack happened.",
-      "link": "https://www.11alive.com/article/news/15-year-old-says-he-was-attacked-hours-after-arriving-at-monroe-mental-health-facility/85-9dd78687-5446-4085-9757-7e93c249a28e",
-      "source": "Alive",
-      "image": "https://media.tegna-media.com/assets/WXIA/images/905d5b10-371e-47df-a6e0-b2547f20723a/20260822T041802/905d5b10-371e-47df-a6e0-b2547f20723a_750x422.jpg",
-      "published": "2026-08-22 04:18:30",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "georgia"
-      ]
-    },
-    {
-      "title": "India News | BJP Diversions Won't Mask Border Security, Economic Failures\": Himachal Minister Negi over Vande Mataram Row",
-      "description": "Get latest articles and stories on India at LatestLY. Negi asserted that the debate was brought to Parliament to divert public focus from agrarian crises, youth unemployment, rising inflation, and border security issues involving China.",
-      "link": "https://www.latestly.com/agency-news/india-news-bjp-diversions-wont-mask-border-security-economic-failures-himachal-minister-negi-over-vande-mataram-row-7570850.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/08/ANI-20260822034300.jpg",
-      "published": "2026-08-22 04:18:28",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Everybody\u2019s Business: Are We Headed For Stagflation?",
-      "description": "The Roosevelt Island Tram is a monument to the 1970s stagflation era when New York City ran out of money and couldn't borrow ...",
-      "link": "https://biztoc.com/x/75e16fb25da67736",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/75e16fb25da67736_s.webp",
-      "published": "2026-08-22 04:18:24",
-      "category": [
-        "technology"
+        "tourism"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Over 16,000 vaccine doses delivered to the Democratic Republic of the Congo",
-      "description": "A shipment of 16,250 doses of the Ervebo vaccine arrived early Saturday morning in the Democratic Republic of the Congo, a country heavily affected by Ebola. A total of 70,000 doses are to be delivered, according to the AFP news agency.",
-      "link": "https://www.bluewin.ch/www.bluewin.ch/en/news/over-16-000-vaccine-doses-delivered-to-the-democratic-republic-of-the-congo-li.3571688",
-      "source": "Bluewin",
-      "image": "https://bluewin-prod-sc-images.imgix.net/2026/08/22/a011e605-d673-4d89-ab64-d1435de338f6.jpg?w=1024&auto=format&s=9a00722c939f4d627109bf5dc2453a9b",
-      "published": "2026-08-22 04:18:24",
+      "title": "Gurwin residents enjoy 3rd annual \u2018Dog Days of Summer\u2019 show",
+      "description": "Gurwin Jewish Nursing & Rehabilitation Center in Commack recently hosted its 3rd Annual Dog Days of Summer Fashion Show, welcoming pooches and their owners for a runway-style fashion show and pet therapy session. The annual event is highly anticipated by the Gurwin community and provided an afternoon of laughter and connection. The Canine Couture Fashion Show starred a dozen furry friends belonging to Gurwin staff, friends, and members of Fountaingate Gardens, Gurwin\u2019s independent living Life Plan Community. An added bonus to the celebration was a visit by The Guide Dog Foundation, featuring puppies-in-training, who showed off impressive skills and focus. \u201cOur annual dog show is part of Gurwin\u2019s ongoing commitment to enriching resident quality of life through meaningful programs like pet therapy,\u201d said Nicole Hopper, Chief Therapeutic Officer of the Gurwin Healthcare System. \u201cA wagging tail, gentle nuzzle and playful paw in the hand make a real impact on our residents\u2019 well-being. Our staff loved sharing their beloved dogs with the residents, and the addition of the service dog interaction brought even more joy to the celebration.\u201d Each four-legged participant went home with a goodie bag of homemade dog treats. The event was held in Gurwin\u2019s newly remodeled Simon Rainbow Room, where immersive projections of playful summer visuals set the scene for a joyful afternoon of canine charm.",
+      "link": "https://tbrnewsmedia.com/gurwin-residents-enjoy-3rd-annual-dog-days-of-summer-show/",
+      "source": "Tbrnewsmedia",
+      "image": "https://tbrnewsmedia.com/wp-content/uploads/2026/08/unnamed-4-3-scaled.jpg",
+      "published": "2026-08-22 05:16:34",
       "category": [
-        "domestic"
+        "top",
+        "lifestyle"
       ],
       "country": [
-        "switzerland"
+        "united states of america"
       ]
     },
     {
-      "title": "Johana Ng'eno's Brother Dies Hours After Gachagua Promise",
-      "description": "Paul Ng\u2019eno died 174 days after his younger brother Johana succumbed in a fatal helicopter crash on February 28.",
-      "link": "https://www.kenyans.co.ke/news/126398-paul-ngeno-brother-late-emurua-dikirr-mp-johana-ngeno-dies",
-      "source": "Kenyans",
-      "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/johana-and-paul-ng-eno-1.jpg.webp?itok=RI_SUowv",
-      "published": "2026-08-22 04:18:24",
+      "title": "Leo Rivas, Mariners walk off Cubs in extra innings",
+      "description": "Leo Rivas came off the bench to play the hero, delivering a two-out single in the bottom of the 10th inning to send the Mariners to a walkoff win over the Cubs.",
+      "link": "https://www.union-bulletin.com/sports/pro_sports/mariners/leo-rivas-mariners-walk-off-cubs-in-extra-innings/article_6b62f262-90a0-5fb6-af97-5651d62a2914.html",
+      "source": "Union-bulletin",
+      "image": null,
+      "published": "2026-08-22 05:16:29",
       "category": [
-        "crime",
+        "sports",
         "top"
       ],
       "country": [
-        "kenya"
+        "united states of america"
       ]
     },
     {
-      "title": "Scoreless through 9, Rangers win 2-1 over Angels when Langford has tying RBI and winning run in 10th",
-      "description": "Wyatt Langford had a tying RBI double in the 10th inning, then scored the winning run on third baseman Denzer Guzman\u2019s throwing error as the Texas Rangers beat the Los Angeles Angels 2-1. Guzman had opened the top of the 10th Friday night with an RBI double to put the Angels ahead in the eighth MLB this season that was scoreless going into extra innings. With two outs in the bottom of the 10th after an intentional walk, Guzman made a nice stop on a grounder by Ezequiel Duran. But his wide throw to second base trying to get an inning-ending forceout allowed Langford to race home.",
-      "link": "https://mymotherlode.com/sports/baseball-general-news/11085311/scoreless-through-9-rangers-win-2-1-over-angels-when-langford-has-tying-rbi-and-winning-run-in-10th.html",
+      "title": "Bo Nix shines in return from broken ankle, but Broncos fall to Packers 33-13",
+      "description": "DENVER (AP) \u2014 Bo Nix \u2018s 21-yard touchdown toss to R.J. Harvey two plays after hooking up with new speedster Jaylen Waddle for 35 yards highlighted the Denver quarterback\u2019s return successful return from a broken ankle in the Broncos\u2019 33-13 loss to the Green Bay Packers on Friday night. \u201cIt felt great,\u201d Nix said after...",
+      "link": "https://mymotherlode.com/sports/nfl-general-news/11085451/bo-nix-shines-in-return-from-broken-ankle-but-broncos-fall-to-packers-33-13.html",
       "source": "Mymotherlode.com - The Mother Lode's Local News, S",
-      "image": "https://mymotherlode.com/wp-content/uploads/2026/08/AP_00d136f4655f4b0ca6e8ac83a027da9e_a61275f991.jpg",
-      "published": "2026-08-22 04:18:23",
+      "image": "https://mymotherlode.com/wp-content/uploads/2026/08/AP_ba86401e0b9e4129b31f00b382701751_bc981ad54c.jpg",
+      "published": "2026-08-22 05:16:27",
       "category": [
         "sports",
         "top"
@@ -307,120 +394,47 @@
       ]
     },
     {
-      "title": "Vote Now: Week 1 Best Play of the Week",
-      "description": "JOHNSON CITY, Tenn. (WJHL) \u2014 It\u2019s time to pick the Best Play of the Week! Watch the plays above and vote in the poll below. Here are the contenders in this week\u2019s poll: Voting will remain open through noon on Monday, with a limit of one vote per hour. The winner will be revealed on [...]",
-      "link": "https://sports.yahoo.com/articles/vote-now-week-1-best-041822199.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/a4f63219fcec20934afa63746eaf5bba61a72f334ded00d936fdb1da463a30be/lightyear_networkapi/resizefit_w900_h506%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjhl_tri_cities_articles_267%2Fda1212a1c3816a19946af152f1205602.png",
-      "published": "2026-08-22 04:18:22",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Tips for Talk in Interviews",
-      "description": "-\u0c07\u0c02\u0c1f\u0c30\u0c4d\u0c35\u0c4d\u0c2f\u0c42\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c32\u0c3f \u0c2e\u0c3e\u0c1f\u0c4d\u0c32\u0c3e\u0c21\u0c1f\u0c02\u0c32\u0c4b \u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e\u0c30\u0c4d\u0c25\u0c41\u0c32\u0c41, \u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c41\u0c32\u0c15\u0c41 \u0c24\u0c30\u0c1a\u0c42 \u0c07\u0c2c\u0c4d\u0c2c\u0c02\u0c26\u0c41\u0c32\u0c47 - \u0c15\u0c4a\u0c28\u0c4d\u0c28\u0c3f \u0c2e\u0c46\u0c32\u0c15\u0c41\u0c35\u0c32\u0c41 \u0c2a\u0c3e\u0c1f\u0c3f\u0c38\u0c4d\u0c24\u0c47 \u0c2a\u0c4b\u0c1f\u0c40 \u0c2a\u0c4d\u0c30\u0c2a\u0c02\u0c1a\u0c02\u0c32\u0c4b \u0c28\u0c46\u0c17\u0c4d\u0c17\u0c41\u0c15\u0c41\u0c30\u0c3e\u0c17\u0c32\u0c02 \u0c05\u0c02\u0c1f\u0c41\u0c28\u0c4d\u0c28 \u0c28\u0c3f\u0c2a\u0c41\u0c23\u0c41\u0c32\u0c41!",
-      "link": "https://www.etvbharat.com/te/education-and-career/tips-for-talk-in-interviews-and-what-are-the-best-tips-to-talk-in-interview-details-in-telugu-tgn26082200558",
-      "source": "Etv Bharat",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/22-08-2026/1200-675-27453782-thumbnail-16x9-interviews.jpg",
-      "published": "2026-08-22 04:18:22",
-      "category": [
-        "sports",
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Veeva Systems (VEEV) Names Dan Rizzo EVP Of Sales Consulting And Services",
-      "description": "Veeva Systems (NYSE:VEEV) announced a leadership transition with Dan Rizzo appointed EVP, Sales, Consulting, and Services. Long-serving executive Thomas D. Schwenger is leaving Veeva to become CEO at a partner company. The changes affect oversight of Veeva's global sales, consulting, and services organization. This kind of leadership reshuffle is not unique to Veeva Systems, so it can be useful to compare it with other companies exposed to similar themes of management change and execution...",
-      "link": "https://ca.finance.yahoo.com/news/veeva-systems-veev-names-dan-041822712.html",
-      "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/73cea003c37ea063245bfe2e19f6812e.png",
-      "published": "2026-08-22 04:18:22",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Tinubu suspends 3 perm secs as ICPC uncovers another fake agency",
-      "description": "The Independent Corrupt Practices and Other Related Offences Commission (ICPC) has uncovered another fake agency with office space in the office of the Secretary to the Government of the Federation (SGF), Senator George Akume. This is as President Bola Ahmed ordered the suspension of three permanent secretaries allegedly linked to the operation of the fake [...]",
-      "link": "https://dailytrust.com/tinubu-suspends-3-perm-secs-as-icpc-uncovers-another-fake-agency/",
+      "title": "From auditing around the computer to governing AI",
+      "description": "While economists debated and regulators scrambled over the sudden implosion of banks, a small, unheralded community of information technology (IT) audit pioneers performed a service indispensable to the survival of Nigeria\u2019s financial system and its economic sovereignty. On January 16, 1998, the \u201cmass burial\u201d day\u2014the Central Bank of Nigeria simultaneously revoked the licences of 26 [...]",
+      "link": "https://dailytrust.com/from-auditing-around-the-computer-to-governing-ai/",
       "source": "Daily Trust",
-      "image": "https://dailytrust.com/wp-content/uploads/2026/08/mining-150x150.jpg",
-      "published": "2026-08-22 04:18:21",
+      "image": "https://dailytrust.com/wp-content/uploads/2026/05/Buni-150x150.jpg",
+      "published": "2026-08-22 05:16:25",
       "category": [
-        "crime",
-        "top"
+        "politics"
       ],
       "country": [
         "nigeria"
       ]
     },
     {
-      "title": "HCLTech Mega Walk-in Interview For Customer Service Representative Role",
-      "description": "<p>The post HCLTech Mega Walk-in Interview For Customer Service Representative Role first appeared on Job4freshers .</p>",
-      "link": "https://job4freshers.co.in/hcltech-mega-walk-in-freshers-voice/",
-      "source": "Job4freshers",
-      "image": "https://job4freshers.co.in/wp-content/uploads/2025/01/What-is-VLSI-10.webp",
-      "published": "2026-08-22 04:18:20",
+      "title": "PM orders probe into non-functional CT coronary angiography facility at PIMS",
+      "description": "Constitutes an inquiry committee to determine the facts and responsibility",
+      "link": "https://tribune.com.pk/story/2625256/pm-orders-probe-into-non-functional-ct-coronary-angiography-facility-at-pims",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/121783559490-6/121783559490-6-640x480.webp",
+      "published": "2026-08-22 05:16:21",
       "category": [
-        "business",
+        "politics",
         "top"
       ],
       "country": [
-        "india"
+        "pakistan"
       ]
     },
     {
-      "title": "More details emerge from underworld figure \u2018Summitpura Chathu\u2019 after extradition from Oman",
-      "description": "More details emerge from underworld figure \u2018Summitpura Chathu\u2019 after extradition from Oman",
-      "link": "https://adaderana.lk/news/cmt3v9ti2000a356qqun78qag",
-      "source": "Adaderana News",
-      "image": "https://ada-derana-prod-english-news-temp.s3.amazonaws.com/articles/cmt3v9ti2000a356qqun78qag/MediaFile_20260822_094817_159.jpg",
-      "published": "2026-08-22 04:18:18",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "sri lanka"
-      ]
-    },
-    {
-      "title": "Could slashing the excise end the tobacco wars?",
-      "description": "Has the steady increase of the tobacco excise done the opposite of what was intended? Smokers are now buying cheaper ...",
-      "link": "https://biztoc.com/x/f5e5281a8547baa4",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/f5e5281a8547baa4_s.webp",
-      "published": "2026-08-22 04:18:17",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Eli Lilly (LLY) Is Up 6.4% After UK Clears Foundayo and GLP\u20101 Portfolio Advances - What's Changed",
-      "description": "Eli Lilly recently reported strong revenue growth driven by its Mounjaro and Zepbound obesity and diabetes drugs, raised full-year guidance, advanced its next-generation GLP-1 pipeline, and secured UK approval for Foundayo, its once-daily oral GLP-1 pill for weight management and type 2 diabetes. These developments, alongside vaccine research collaborations and ongoing legal action against unauthorized retatrutide sellers, highlight Lilly\u2019s bid to extend its leadership across injectable,...",
-      "link": "https://ca.finance.yahoo.com/news/eli-lilly-lly-6-4-041817693.html",
+      "title": "Randy Va\u0301squez goes seven innings as Padres take opener against Twins",
+      "description": "SAN DIEGO - The San Diego Padres are where they want to be with 33 games left in the regular season, as they maintain their hold for the final NL Wild Card spot and keep pace with the Phillies for the second spot.",
+      "link": "https://sports.yahoo.com/articles/randy-v-squez-goes-seven-051621045.html",
       "source": "Yahoo! News",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/2d9d75f6b70b2b273ee4d6a547a4e5da.png",
-      "published": "2026-08-22 04:18:17",
+      "image": "https://s.yimg.com/lo/mysterio/api/66724dc0c6964b68dccf420f4964d507c949c1bb9320860333533a96ec87e021/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_tribune_articles_423%2F9136046390622a00ecd345efd50dfdc4.jpg",
+      "published": "2026-08-22 05:16:21",
       "category": [
+        "breaking",
         "sports"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     }
   ]

@@ -1,35 +1,49 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "\u2018My husband became scapegoat\u2019: Wife of Indian captain held in UK over \u2018Russia shadow fleet\u2019 case",
-      "description": "Ritu Pant said her husband sounded devastated when she first spoke to him after his arrest, \u201cHe was broken and he was just crying.\u201d",
-      "link": "https://www.hindustantimes.com/india-news/my-husband-became-scapegoat-wife-of-indian-captain-held-in-uk-over-russia-shadow-fleet-case-101787368962270.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/22/1600x900/logo/ajay_pant_1787370921799_1787370928876_0c8ba27b-0dc9-467e-b539-dfea38d8af00.png",
-      "published": "2026-08-22 04:18:32",
+      "title": "I use a walking stick at 26. Strangers say I\u2019m \u2018too young\u2019",
+      "description": null,
+      "link": "https://www.adelaidenow.com.au/health/savannah-oskorep-on-the-reality-of-using-mobility-aids-in-your-20s/news-story/4634726659cfa6147e75e7032aba889e",
+      "source": "The Advertiser",
+      "image": null,
+      "published": "2026-08-22 05:17:00",
       "category": [
-        "politics",
-        "top"
+        "top",
+        "politics"
       ],
       "country": [
-        "india"
+        "australia"
       ]
     },
     {
-      "title": "India News | BJP Diversions Won't Mask Border Security, Economic Failures\": Himachal Minister Negi over Vande Mataram Row",
-      "description": "Get latest articles and stories on India at LatestLY. Negi asserted that the debate was brought to Parliament to divert public focus from agrarian crises, youth unemployment, rising inflation, and border security issues involving China.",
-      "link": "https://www.latestly.com/agency-news/india-news-bjp-diversions-wont-mask-border-security-economic-failures-himachal-minister-negi-over-vande-mataram-row-7570850.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/08/ANI-20260822034300.jpg",
-      "published": "2026-08-22 04:18:28",
+      "title": "From auditing around the computer to governing AI",
+      "description": "While economists debated and regulators scrambled over the sudden implosion of banks, a small, unheralded community of information technology (IT) audit pioneers performed a service indispensable to the survival of Nigeria\u2019s financial system and its economic sovereignty. On January 16, 1998, the \u201cmass burial\u201d day\u2014the Central Bank of Nigeria simultaneously revoked the licences of 26 [...]",
+      "link": "https://dailytrust.com/from-auditing-around-the-computer-to-governing-ai/",
+      "source": "Daily Trust",
+      "image": "https://dailytrust.com/wp-content/uploads/2026/05/Buni-150x150.jpg",
+      "published": "2026-08-22 05:16:25",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "PM orders probe into non-functional CT coronary angiography facility at PIMS",
+      "description": "Constitutes an inquiry committee to determine the facts and responsibility",
+      "link": "https://tribune.com.pk/story/2625256/pm-orders-probe-into-non-functional-ct-coronary-angiography-facility-at-pims",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/121783559490-6/121783559490-6-640x480.webp",
+      "published": "2026-08-22 05:16:21",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "india"
+        "pakistan"
       ]
     }
   ]

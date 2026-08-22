@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Fox News halted as Trump talks defying Melania with 'gay National Anthem'",
+      "description": "Fox News cut away from Laura Ingraham's panel to air Trump joking that Melania dislikes his dance moves.",
+      "link": "https://www.the-express.com/entertainment/celebrity-news/214409/fox-news-halted-trump-talks",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/21/237x141/214409_1.jpg",
+      "published": "2026-08-22 00:33:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "TikTok agrees to pay $400 million to the government to settle child privacy lawsuit",
+      "description": "TikTok has now settled a lawsuit, originally launched by the Biden administration, that accused it of letting kids under 13 sign up without parental supervision.",
+      "link": "https://www.avclub.com/tiktok-settles-400-million-child-privacy-suit-with-government",
+      "source": "Av Club",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/large/2025/01/21/MixCollage-21-Jan-2025-03-31-PM-5663.jpg",
+      "published": "2026-08-22 00:32:56",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

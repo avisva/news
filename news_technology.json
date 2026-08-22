@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "3 Common Problems With Sennheiser Headphones",
+      "description": "Sennheiser headphones have a strong reputation, but some owners still encounter frustrating issues. Here's what to know before buying or troubleshooting.",
+      "link": "https://www.bgr.com/2238262/common-problems-sennheiser-headphones/",
+      "source": "Bgr",
+      "image": "https://www.bgr.com/img/gallery/3-common-problems-with-sennheiser-headphones/l-intro-1786972996.jpg",
+      "published": "2026-08-22 03:17:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BSP reports strong growth in Digital Payments in 2025",
+      "description": "Nearly 65% of retail payment transactions in the Philippines were made digitally in 2025, according to the Bangko Sentral ng... The post BSP reports strong growth in Digital Payments in 2025 appeared first on YugaTech | Philippines Tech News & Reviews .",
+      "link": "https://www.yugatech.com/news/bsp-reports-strong-growth-in-digital-payments-in-2025/",
+      "source": "Yugatech",
+      "image": "https://www.yugatech.com/wp-content/uploads/2026/08/bsp-reports-strong-growth-in-digital-payments-in-2025.webp",
+      "published": "2026-08-22 03:16:36",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

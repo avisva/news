@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "18 Expert-Backed Health Hacks You Can Try Right Now to Live Longer and Better",
+      "description": "These simple habits can give your healthy lifestyle an upgrade.",
+      "link": "https://www.prevention.com/health/a73485060/top-health-hacks/",
+      "source": "Prevention",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a7085077-6b5a-452f-988f-5d02b7adf4fc.jpeg?crop=0.667xw:1xh;0.213xw,0xh&resize=1200:*",
+      "published": "2026-08-21 21:22:20",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

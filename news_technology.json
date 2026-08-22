@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "TikTok agrees to pay $400 million to settle child privacy lawsuit",
+      "description": "The Justice Department sued TikTok in 2024, alleging that it violated a U.S. law prohibiting the collection of kids' data.",
+      "link": "https://www.cbsnews.com/news/tiktok-settle-child-privacy-lawsuit/",
+      "source": "Cbs News",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/21/16322bfe-a632-4afd-b347-e0aeade49994/thumbnail/1200x630/c46740b38ca26ca130006ff713034f81/gettyimages-1200715713-1.jpg",
+      "published": "2026-08-21 20:24:59",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "GRIT - Official Launch Trailer",
+      "description": "Take a look at the Launch Trailer for GRIT, a third-person Wild West battle royale shooter developed by Team GRIT. Players will drop into 100-player matches to explore the sprawling map where the game's inventory is also a poker hand. Match the right suits with weapons to gain perks and mind the incoming Calamity in GRIT, available now for PC (Steam).",
+      "link": "https://in.ign.com/video/269726/grit-official-launch-trailer",
+      "source": "In Ign",
+      "image": "https://sm.ign.com/ign_in/video/g/grit-offic/grit-official-launch-trailer_1qtv.png",
+      "published": "2026-08-21 20:24:57",
+      "category": [
+        "entertainment",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

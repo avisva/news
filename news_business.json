@@ -1,35 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Chief justice temporarily clears way for White House ballroom construction",
-      "description": "White House ballroom construction can continue, at least temporarily, after an order Friday from Supreme Court Chief Justice John Roberts.",
-      "link": "https://news3lv.com/news/nation-world/chief-justice-temporarily-clears-way-for-white-house-ballroom-construction",
-      "source": "Ksnv",
-      "image": "https://news3lv.com/resources/media2/16x9/8128/1320/20x780/90/2778ecc7-7dfa-4009-b05d-04d6dac8e8f9-AP26217654784670.jpg",
-      "published": "2026-08-21 19:28:38",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift",
-      "description": null,
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-reportedly-cuts-jobs-siri-192838174.html",
-      "source": "Yahoo!news",
-      "image": null,
-      "published": "2026-08-21 19:28:38",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "singapore"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

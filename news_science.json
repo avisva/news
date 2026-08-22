@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
-      "description": "Ukrainian hacktivists exploiting the bugs, but TrueConf's reach stretches well beyond home turf",
-      "link": "https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156",
-      "source": "The Register",
-      "image": null,
-      "published": "2026-08-21 16:29:00",
-      "category": [
-        "science",
-        "technology"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "18 Expert-Backed Health Hacks You Can Try Right Now to Live Longer and Better",
-      "description": "These simple habits can give your healthy lifestyle an upgrade.",
-      "link": "https://www.prevention.com/health/a73485060/top-health-hacks/",
-      "source": "Prevention",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a7085077-6b5a-452f-988f-5d02b7adf4fc.jpeg?crop=0.667xw:1xh;0.213xw,0xh&resize=1200:*",
-      "published": "2026-08-21 21:22:20",
+      "title": "Health Canada issues advisory involving a baby activity walker sold through Fruugo.ca",
+      "description": "Health Canada is warning consumers to stop using the \"Baby Activity Walker Multi Functional Anti Drop Light Musical 8 Wheels Infant Activity Walker Rocker Light Purple\u201d sold through Fruugo.ca because it may pose a risk of injury to children",
+      "link": "https://www.newhamburgindependent.ca/news/baby-activity-walker-product-recall-health-canada/article_7b661376-1291-5bba-a951-21ada222144c.html",
+      "source": "New Hamburg Independent",
+      "image": "https://bloximages.chicago2.vip.townnews.com/newhamburgindependent.ca/content/tncms/assets/v3/editorial/3/ec/3ec5aca4-bc95-581c-a0ba-b6f40b7ea1c3/6a88bc8ec4e67.image.png?resize=300%2C184",
+      "published": "2026-08-21 22:19:00",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "united states of america"
+        "canada"
+      ]
+    },
+    {
+      "title": "These Foods May Be Better for Your Gut Than You Realize, New Study Says - EatingWell",
+      "description": "These Foods May Be Better for Your Gut Than You Realize, New Study Says EatingWell See more headlines and perspectives on Google News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVDM3eTBMeW4yNEltU1ZKMmcwMUV5aWZzZEFzNmNJT1dDOC1mdUhyTXBOV2Fia0M0eWdrbFpsd0xJNnU0RVBPbjlybUFEZWlZNlNoODNNem1GejU2S3I3S1N5Ulc1T0hqUDUwSl9DWTF2MjR4?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-21 22:18:45",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
       ]
     }
   ]

@@ -1,14 +1,44 @@
 {
   "status": "success",
-  "totalResults": 30,
+  "totalResults": 23,
   "results": [
     {
-      "title": "Neighbor describes life near accused Capitol plotter",
-      "description": "An Albany neighbor described tense encounters with Jessica Bowie before her arrest in an alleged New York State Capitol attack plot.",
-      "link": "http://www.spectrumlocalnews.com/nys/buffalo/news/2026/08/21/jessica-bowie-neighbor-speaks-out",
-      "source": "Spectrum News 1 | Buffalo",
+      "title": "Health Canada issues advisory involving a baby activity walker sold through Fruugo.ca",
+      "description": "Health Canada is warning consumers to stop using the \"Baby Activity Walker Multi Functional Anti Drop Light Musical 8 Wheels Infant Activity Walker Rocker Light Purple\u201d sold through Fruugo.ca because it may pose a risk of injury to children",
+      "link": "https://www.newhamburgindependent.ca/news/baby-activity-walker-product-recall-health-canada/article_7b661376-1291-5bba-a951-21ada222144c.html",
+      "source": "New Hamburg Independent",
+      "image": "https://bloximages.chicago2.vip.townnews.com/newhamburgindependent.ca/content/tncms/assets/v3/editorial/3/ec/3ec5aca4-bc95-581c-a0ba-b6f40b7ea1c3/6a88bc8ec4e67.image.png?resize=300%2C184",
+      "published": "2026-08-21 22:19:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Winona scraps bike bridge for Riverfront Trail, citing rising costs",
+      "description": null,
+      "link": "https://www.winonapost.com/news/winona-scraps-bike-bridge-for-riverfront-trail-citing-rising-costs/article_a7d592d9-500c-414f-9294-a1e77cd509c4.html",
+      "source": "Winona Post",
       "image": null,
-      "published": "2026-08-21 21:23:00",
+      "published": "2026-08-21 22:19:00",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Man arrested after allegedly threatening Massachusetts state trooper",
+      "description": "A man accused of heading up a violent gang is facing witness intimidation charges after police say he threatened a Massachusetts State Police trooper. WBZ-TV chief investigator Cheryl Fiandaca reports.",
+      "link": "https://www.cbsnews.com/boston/video/man-arrested-after-allegedly-threatening-massachusetts-state-trooper/",
+      "source": "Cbs Boston",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/21/28a48c73-179a-4501-803a-b222bf294cee/thumbnail/1024x576/eaf730aa05867bcde20ac063364b8194/95fa7b9181ca85c55c8588a05ca06b9b.png",
+      "published": "2026-08-21 22:19:00",
       "category": [
         "crime",
         "top"
@@ -18,59 +48,42 @@
       ]
     },
     {
-      "title": "SchoolPower Kicks Off School Year \u2018Powered by Participation\u2019",
-      "description": "As Laguna Beach students head back to class, SchoolPower, the nonprofit education foundation that has supported Laguna Beach\u2019s public schools since 1981, is kicking off the 2026\u201327 school year with a simple idea: the more the community participates, the more...",
-      "link": "https://www.lagunabeachindy.com/news/schoolpower-kicks-off-school-year-powered-by-participation/article_48482710-246d-4041-9ba8-89398f82358f.html",
-      "source": "Lagunabeachindy.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/lagunabeachindy.com/content/tncms/assets/v3/editorial/e/03/e0339354-a517-49e3-9d99-ff4c42c70f87/6a88c2b6ed10d.image.jpg?resize=300%2C200",
-      "published": "2026-08-21 21:23:00",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Canara Bank Vs. Triveni Infratech Pvt. Ltd. \u2013 NCLT, Kolkata Bench",
-      "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password \ud83d\udc41 Remember [...]",
-      "link": "https://ibclaw.in/canara-bank-vs-triveni-infratech-pvt-ltd-nclt-kolkata-bench/",
-      "source": "Ibclaw",
-      "image": "https://ibclaw.in/wp-content/uploads/2026/08/IBCLaws-logo-schema.webp",
-      "published": "2026-08-21 21:23:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Saranac Lake High School 2025-26 Fourth Quarter Honor Roll",
-      "description": "The fourth quarter honor roll for the 2025-26 academic year at Saranac Lake High School is listed below.",
-      "link": "https://www.pressrepublican.com/news/saranac-lake-high-school-2025-26-fourth-quarter-honor-roll/article_e1af565a-a4a1-4b90-a045-596b072c35f3.html",
-      "source": "Press Republican",
+      "title": "This week in science: A new black hole star, exercises for dementia, and winter shrews - KGOU",
+      "description": "This week in science: A new black hole star, exercises for dementia, and winter shrews KGOU A gas-enshrouded and gas-reddened black hole at cosmic dawn Nature Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object Live Science Astronomers Peered at the Early Universe and May Have Discovered a New Kind of Celestial Object: Black Hole Stars Smithsonian Magazine New space object \u2018black hole star\u2019 discovered by astronomers CTV News",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnROMERIdElKeFlwRXR4YWZRYVZNUkNhQjF3OVBNbjVCbUxTUzl6dEhaLU9Yc2hvZ1VtNG5MWVZubjdVMDM5VlV1cjVWT3dKTkNTQ3RzR29LYWdOaWlmMVV4dkU1YlhYaWZTeDB4RFFqTUgwakUyQmdRVTlZVmYtLWxYaHZiSEdCSHlJc2F4Q1dlcVc0dV9HSThOZTV4Nm9wcGd3LURIbzJmOXBHZDJPUThBT0pxYjNNRzZlVnpnbWZ5QktJdkg0eTBsLWV5YnJZN2oydkp0cGxuam5nNzRHQTZhcC0?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-08-21 21:23:00",
+      "published": "2026-08-21 22:19:00",
       "category": [
-        "top",
-        "lifestyle"
+        "science"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "Car insurance is getting cheaper (really)",
-      "description": "It\u2019s hard to believe, but car insurance companies are pumping the brakes on cost. Premiums are down almost five percent in the past year, according to federal data.",
-      "link": "https://www.fox13memphis.com/news/car-insurance-is-getting-cheaper-really/article_e52d21e7-4bdb-4ba4-8d47-bed08e6aa1ba.html",
-      "source": "Fox 13 Memphis",
-      "image": "https://bloximages.chicago2.vip.townnews.com/fox13memphis.com/content/tncms/assets/v3/editorial/6/58/658fa544-9c44-5b4d-8940-3c3c993c11aa/6a88d341e3690.image.png?resize=1396%2C785",
-      "published": "2026-08-21 21:23:00",
+      "title": "This week in science: A new black hole star, exercises for dementia, and winter shrews - WJCT News 89.9",
+      "description": "This week in science: A new black hole star, exercises for dementia, and winter shrews WJCT News 89.9 A gas-enshrouded and gas-reddened black hole at cosmic dawn Nature Black hole star? Solar-system-size 'dot' from the early universe is our best evidence yet of a brand-new type of cosmic object Live Science Astronomers Peered at the Early Universe and May Have Discovered a New Kind of Celestial Object: Black Hole Stars Smithsonian Magazine New space object \u2018black hole star\u2019 discovered by astronomers CTV News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmpJWGRMYktJNUNVSi1CeVA4U21xYkpaSzNOcWRCV0ROUk5PWE9YZ2VkMG1YcTBxZ2tnZXlZN1NCV1ZuTTI4c05wMGRLY1Y1d3RCOEU5T3pTckVFSFlFQ1YzUTdRWXhsQVpmcVlpVl9mUVo0ZENuWnpNSXhKeVllWEVQdGpqVWQyQVhvQmVGbGk2NlVLR0drVVo4VWRaeWNDa3hIdVRGcmNJSUYwWHEwelhRYmtaajg?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-21 22:19:00",
       "category": [
-        "business",
+        "science"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Family-owned tire shop in OKC searching for stolen Goodyear sign",
+      "description": "A historic Goodyear sign was stolen from Ira's Tire Shop in downtown Oklahoma City, leaving the family owned business searching for answers and hoping for its return.",
+      "link": "https://www.koco.com/article/goodyear-sign-stolen-from-family-owned-tire-shop-oklahoma-city/73498179",
+      "source": "Koco News Channel Five",
+      "image": "https://kubrick.htvapps.com/vidthumb/4363ece9-547e-4ae5-af96-7623952193c5/532c84e4-9a78-4cf4-9583-817d77364942.jpg",
+      "published": "2026-08-21 22:19:00",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -78,12 +91,41 @@
       ]
     },
     {
-      "title": "Met security guard \u2018ruins\u2019 romantic wedding proposal by ordering kneeling groom to \u2018get up\u2019",
-      "description": "Lina, who said she's lawyer, was standing happily with her boyfriend in front of the stained glass section of the Big Apple museum, when he popped the question, according to footage she posted on Instagram last week.",
-      "link": "https://nypost.com/2026/08/21/us-news/met-security-guard-ruins-romantic-wedding-proposal-by-ordering-kneeling-groom-to-get-up/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fmet-museum-security-guard-ruins-138110534.jpg?w%3D850",
-      "published": "2026-08-21 21:23:00",
+      "title": "Man arrested after police pursuit, injury collision",
+      "description": "Officers with the Bakersfield Police Department arrested a man Thursday night on suspicion of causing a hit-and-run accident, evading officers and DUI, according to an agency news release Friday.",
+      "link": "https://www.bakersfield.com/news/man-arrested-after-police-pursuit-injury-collision/article_bb8fa6b8-7336-44ae-8a76-8413d37d20a9.html",
+      "source": "The Bakersfield Californian",
+      "image": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/5/dc/5dcedacc-0a0b-11ed-8e63-935c1aebf4b7/5df2bf512c211.image.jpg?resize=300%2C196",
+      "published": "2026-08-21 22:19:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+      "description": "David Tepper's hedge fund, Appaloosa Management, recently initiated a position in CoreWeave while also raising its exposure to Meta Platforms.",
+      "link": "https://www.fool.com/investing/2026/08/21/billionaire-david-tepper-piled-into-a-debt-laden-a/",
+      "source": "Fool",
+      "image": "https://g.foolcdn.com/editorial/images/884178/coreweave-and-meta-logos.png",
+      "published": "2026-08-21 22:19:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Three vote centers to close in Elkhart County",
+      "description": "GOSHEN \u2014 The Elkhart County Election Board voted to close three voting centers after an hourslong debate Monday.",
+      "link": "https://www.goshennews.com/news/three-vote-centers-to-close-in-elkhart-county/article_36244359-4602-4924-8f99-6b338f600535.html",
+      "source": "Goshen News",
+      "image": null,
+      "published": "2026-08-21 22:19:00",
       "category": [
         "politics",
         "top"
@@ -93,28 +135,57 @@
       ]
     },
     {
-      "title": "Children\u2019s health: Why poor air quality matters for kids",
-      "description": "When summer temperatures rise, many families look forward to spending more time outdoors. But along with sunny days can come another seasonal concern: poor air quality. Wildfire smoke, ozone pollution...",
-      "link": "https://www.dailyherald.com/20260821/health-and-fitness/childrens-health-why-poor-air-quality-matters-for-kids/",
-      "source": "Daily Herald",
-      "image": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=259a8647-9db2-558c-887d-225ac88992f8&function=fit&type=preview",
-      "published": "2026-08-21 21:22:59",
+      "title": "TikTok To Pay $400 Million Settlement In US Children's Privacy Case",
+      "description": "The US government said that video-sharing platform violated federal children's privacy laws.",
+      "link": "https://www.ndtv.com/world-news/tiktok-to-pay-400-million-settlement-in-us-childrens-privacy-case-11943022",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2025-10/f8frltps_indonesia-tiktok_625x300_03_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-21 22:19:00",
       "category": [
-        "lifestyle"
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DJ Pauly D, 46, Books Coast-to-Coast Tour, Says Shows Are One Big Party",
+      "description": "DJ Pauly D, 46, has a coast-to-coast 2026 tour and new singles, including LOST with Capri Everitt, following his Jersey Shore breakout.",
+      "link": "https://hoodline.com/2026/08/dj-pauly-d-46-books-coast-to-coast-tour-says-shows-are-one-big-party/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/8/dj-pauly-d-46-books-coast-to-coast-tour-says-shows-are-one-big-party-3.webp",
+      "published": "2026-08-21 22:18:58",
+      "category": [
+        "entertainment"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "The Latest: Supreme Court chief justice allows White House ballroom renovation to continue for now",
-      "description": "Supreme Court Chief Justice John Roberts is allowing the White House to continue construction on President Donald Trump\u2019s $400 million ballroom project for now. Roberts signed a temporary order on Friday allowing work to continue while the court considers an...",
-      "link": "https://www.news-gazette.com/news/nation-world/the-latest-supreme-court-chief-justice-allows-white-house-ballroom-renovation-to-continue-for-now/article_3db9ef06-5ccd-5383-a1de-d2ec467ff686.html",
-      "source": "News-gazette",
-      "image": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/3d3bfbd4-3cf5-11ec-9461-574a9d514a20.jpg?resize=600%2C315",
-      "published": "2026-08-21 21:22:59",
+      "title": "Latvia issues red alert for torrential rain as cyclone raises flood risk",
+      "description": null,
+      "link": "https://english.news.cn/20260822/5b3f9c9be6284d39af5ea0ec1f5f6816/c.html",
+      "source": "Xinhuanet",
+      "image": null,
+      "published": "2026-08-21 22:18:57",
       "category": [
-        "business",
+        "world"
+      ],
+      "country": [
+        "china"
+      ]
+    },
+    {
+      "title": "Alfalfa sprout linked to food-poisoning outbreak in 15 states, health officials say",
+      "description": "NEW YORK (AP) \u2014 U.S. health officials say a food-poisoning outbreak tied to alfalfa sprouts and involving multiple germs has sickened people in 15 states....",
+      "link": "https://wsvn.com/news/us-world/alfalfa-sprout-linked-to-food-poisoning-outbreak-in-15-states-health-officials-say/",
+      "source": "Wsvn 7 News",
+      "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/082126-salmonella-e-coli-outbreak.png",
+      "published": "2026-08-21 22:18:53",
+      "category": [
+        "crime",
         "top"
       ],
       "country": [
@@ -122,12 +193,115 @@
       ]
     },
     {
-      "title": "Heat's Updated Roster, Salary Cap amid Rumored Klay Thompson Contract After Mavs Buyout - Bleacher Report",
-      "description": "Heat's Updated Roster, Salary Cap amid Rumored Klay Thompson Contract After Mavs Buyout Bleacher Report Klay Thompson to sign 2-year deal with Heat after Mavs buyout ESPN Reports: Klay Thompson expected to sign with Heat after Mavs buyout NBA.com AP Source: Klay Thompson intends to sign with Heat after Mavericks buyout Sportsnet.ca Mavs buy out Klay Thompson, who could join Heat after Doncic trade wrecked Dallas tenure CBC",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1E0OUJ0dEdvd3c4Q0hKTGt4QUV3WEduZGI3TnpYTlRaeVcyX0cxdXpNRlRKN2RFY3BSZ0ZXOXBUY0Z6SngyQmx6cmhyQ25oR2ozZ2xXWi1hZ3A5clFwU2YzeG5GeW1qWkg5UVdLeEM3eUpVdGhkVlV3RGRtM3BSS1lFYWRXdnJPM0hLam9icEQ1akw2SVh2QVV0c0FGVXlTVC04UGNqQzEweG9OUmxsbENFUWRDVkQ3SmFIcFliaHFCVUpPVXBUY2xR?oc=5",
+      "title": "Penn State\u2019s 2027 class takes hit after OL commit suffers major injury",
+      "description": "Penn State has built a strong 2027 recruiting class, but one of its players is about to miss a ton of time with an injury.",
+      "link": "https://sports.yahoo.com/articles/penn-state-2027-class-takes-221852688.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/e8349f17f4d4c9d524aec5930c104dbe1134474e94248925d7b097b04793a8ee/lightyear_networkapi/resizefit_w1100_h628%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnittany_lions_wire_usa_today_articles_595%2F53e41453958fc4b3381826e570d00ef9.png",
+      "published": "2026-08-21 22:18:52",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "New Milwaukee memorial honors civil rights leader Vel R. Phillips",
+      "description": "The three-part stone and bronze sculptural installation honoring Vel R. Phillips is the largest city-funded public artwork in recent history.",
+      "link": "https://www.jsonline.com/story/entertainment/arts/2026/08/21/city-of-milwaukee-unveils-new-public-artwork-in-vel-r-phillips-plaza/91407260007/",
+      "source": "Journal Sentinel",
+      "image": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/08/21/PMJS/91410975007-img-1731.jpeg?crop=5711,3213,x0,y535&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-21 22:18:50",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What NC State AD Boo Corrigan said about the Wolfpack\u2019s athletics budget",
+      "description": "N.C. State athletic director Boo Corrigan, right, and Wolfpack Club Executive Director Ben Broussard watch the Wolfpack\u2019s game against Pitt at the Lenovo Center in Raleigh, N.C., Wednesday, March 5, 2025.",
+      "link": "https://www.newsobserver.com/sports/college/acc/nc-state/article316793692.html",
+      "source": "Raleigh News &amp; Observer",
+      "image": "https://www.newsobserver.com/public/latest-news/3zd6qn/picture316967678/alternates/FREE_1140/RAL_STATEPITT16-030525-EDH.JPG",
+      "published": "2026-08-21 22:18:49",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "These Foods May Be Better for Your Gut Than You Realize, New Study Says - EatingWell",
+      "description": "These Foods May Be Better for Your Gut Than You Realize, New Study Says EatingWell See more headlines and perspectives on Google News",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVDM3eTBMeW4yNEltU1ZKMmcwMUV5aWZzZEFzNmNJT1dDOC1mdUhyTXBOV2Fia0M0eWdrbFpsd0xJNnU0RVBPbjlybUFEZWlZNlNoODNNem1GejU2S3I3S1N5Ulc1T0hqUDUwSl9DWTF2MjR4?oc=5",
       "source": "Google News",
       "image": null,
-      "published": "2026-08-21 21:22:58",
+      "published": "2026-08-21 22:18:45",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Many wild rabbits found dead in Helsinki during summer",
+      "description": "A large number of dead wild rabbits have been found in the Herttoniemi area of Helsinki over the summer, said the City of Helsinki in a press release on Friday. A few rabbits have been sent to the Finnish Food Authority for examination and the rabbits have been found to carry the RHD (rabbit haemorrhagic disease) virus. The virus is not believed to pose a risk to other animal species or people. The supervising veterinarians of the City of Helsinki have also received reports of individual dead rabbits in Laajasalo and Kulosaari as well. Samples have been collected from Laajasalo and submitted for analysis, but the results are not yet available. The city recommends against taking pet rabbits outdoors in areas with wild rabbit populations. The authority also advised not to gather plants for pet rabbits to eat from areas populated by wild rabbits. The RHD virus can survive in the environment for several weeks. The city recommends vaccinating pet rabbits against the RHD virus, as the virus can also be carried indoors, on footwear. Any rabbit carcasses found in yards can be put in a mixed waste container. People should not touch the carcasses with bare hands and advised to use protection such as disposable gloves or an inside-out plastic bag. Burying rabbit carcasses is not recommended. For a more thorough examination of the disease, it is best to use a carcass that is as fresh as possible. People were also advised to report to the Citys supervising veterinarians, if they find a rabbit that has just died.",
+      "link": "https://www.dailyfinland.fi/health/50969/Many-wild-rabbits-found-dead-in-Helsinki-during-summer",
+      "source": "Dailyfinland",
+      "image": "https://www.dailyfinland.fi/assets/news_photos/2026/08/22/image-50969-1787347338.jpg",
+      "published": "2026-08-21 22:18:42",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "finland"
+      ]
+    },
+    {
+      "title": "Jury deliberates fate of woman charged in connection with Bradley officer's shooting",
+      "description": "A Kankakee jury is deliberating the fate of a woman charged in connection with the deadly shooting of a Bradley police officer.",
+      "link": "https://www.nbcchicago.com/video/top-videos-home/jury-deliberates-fate-of-woman-charged-in-connection-with-bradley-officers-shooting/3978621/",
+      "source": "Nbc Chicago",
+      "image": "https://media.nbcchicago.com/2026/08/50579179923-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "published": "2026-08-21 22:18:37",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump threatens lawsuit against nonprofit that questioned whether National Guard plan lessened crime",
+      "description": "WASHINGTON (AP) \u2014 President Donald Trump is threatening to sue a left-leaning think tank unless it retracts a report that said his National Guard deployments to various cities did not reduce crime as he said.",
+      "link": "https://www.thestar.com/news/world/united-states/trump-threatens-lawsuit-against-nonprofit-that-questioned-whether-national-guard-plan-lessened-crime/article_2b2fce49-affc-5f00-8c79-ecd150e69e0d.html",
+      "source": "The Star",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/ad/aad892bd-45f8-50b0-986b-f641d9f8a604/6a88cf11d4edf.image.jpg?resize=300%2C200",
+      "published": "2026-08-21 22:18:35",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "How Michael Block became golf\u2019s ultimate everyman",
+      "description": "A club pro for 22 years, Block is living an unlikely dream on the PGA TOUR Champions while never forgetting where he came from.",
+      "link": "https://calgaryherald.com/sports/golf/how-michael-block-became-golfs-ultimate-everyman",
+      "source": "Calgary Herald",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/rogers-golf-michael-block_304774221.jpg",
+      "published": "2026-08-21 22:18:32",
       "category": [
         "sports"
       ],
@@ -136,127 +310,12 @@
       ]
     },
     {
-      "title": "Fatah, Hamas set to meet in Cairo next week to resume Palestinian dialogue: Sources",
-      "description": "Palestinian sources tell Anadolu that groups will discuss national unity, challenges facing Palestinian cause ahead of November legislative elections",
-      "link": "https://www.aa.com.tr/en/middle-east/fatah-hamas-set-to-meet-in-cairo-next-week-to-resume-palestinian-dialogue-sources/4034328",
-      "source": "Anadolu Agency",
-      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/08/22/thumbs_b_c_4c7aca1a3b348e07c0fef1fbd37d207e.jpg",
-      "published": "2026-08-21 21:22:56",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "turkey"
-      ]
-    },
-    {
-      "title": "Jessica Simpson Netflix Documentary: Release Date, Details & Everything to Know",
-      "description": "More than 20 years after 'Newlyweds' made her a reality TV fixture, the singer is letting Netflix cameras back in, and this time she says nothing's off the table.",
-      "link": "https://hollywoodlife.com/feature/jessica-simpson-netflix-documentary-5557035/",
-      "source": "Hollywood Life",
-      "image": "https://i0.wp.com/media.hollywoodlife.com/uploads/2026/08/GettyImages-2234207538-e1787345273897.jpg?fit=5270%2C2980&quality=89&ssl=1",
-      "published": "2026-08-21 21:22:56",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "ACTION 8 UPDATE: Name released of suspect in officer-involved shooting in Montgomery",
-      "description": "The Alabama Law Enforcement Agency has now released the name of the suspect in an officer-involved shooting in Montgomery.",
-      "link": "https://www.waka.com/2026/08/21/action-8-update-name-released-of-suspect-in-officer-involved-shooting-in-montgomery/",
-      "source": "Waka",
-      "image": "https://www.waka.com/content/uploads/2026/08/m/a/1787264364-5304ff98996eecc24e9e49b679db3dfe897a29fa.jpg",
-      "published": "2026-08-21 21:22:55",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Gadsden man arrested, charged with first-degree rape",
-      "description": "ETOWAH COUNTY, Ala. (WIAT) -- A Gadsden man was arrested and charged with rape, according to Sheriff Jonathon Horton. Matthew Crane was arrested Aug. 19 and taken to the Etowah County Jail. He has been charged with first-degree rape. Investigator Brandi Simmons said a victim disclosed that she had been sexually assaulted by Crane for [...]",
-      "link": "https://www.cbs42.com/news/crime/gadsden-man-arrested-charged-with-first-degree-rape/",
-      "source": "Cbs 42",
-      "image": "https://www.cbs42.com/wp-content/uploads/sites/81/2026/05/PoliceLIghtsGettyImages-679724810-e1772045920740.jpg?w=900",
-      "published": "2026-08-21 21:22:54",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "'Tipping point' in AFL's problem with gendered violence",
-      "description": "Within 12 hours of a woman reporting sexual assault allegations involving Sydney Swans players to police, CEO Matthew Pavlich held a press conference.",
-      "link": "https://www.kyfreepress.com.au/afl/tipping-point-in-afls-problem-with-gendered-violence/",
-      "source": "Kyabram Free Press",
-      "image": null,
-      "published": "2026-08-21 21:22:52",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Ryan Lochte's fiance\u0301e hits back at ex-wife's 'homewrecker' jibe as Olympic legend's divorce gets even uglier",
-      "description": "Ryan Lochte split from his wife, Kayla Reid, last year and she hit out at his new partner, Molly Gillihan, after their divorce was finalized.",
-      "link": "https://www.dailymail.com/sport/othersports/article-16070863/ryan-lochte-fiancee-homewrecker-divorce.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/21/20/110782795-0-image-a-7_1787341535139.jpg",
-      "published": "2026-08-21 21:22:49",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Is 2027 Set to Be the Hottest Year on Record?",
-      "description": "An unusually strong El Nin\u0303o is brewing in the Pacific. Satellites are already detecting massive amounts of warm water beneath the ocean\u2019s surface. Is a \u201cSuper El Nin\u0303o\u201d on the horizon? Seven questions about this climate phenomenon and the possibility of a record-breaking year in 2027.",
-      "link": "https://www.bluewin.ch/www.bluewin.ch/en/lifestyle/is-2027-set-to-be-the-hottest-year-on-record-li.3571520",
-      "source": "Bluewin",
-      "image": "https://bluewin-prod-sc-images.imgix.net/2026/08/21/408ca9d7-9ea1-484f-a772-ebc266ca8014.png?w=1024&auto=format&s=ba8a31a05c40c1438a0cb18dd842f6ef",
-      "published": "2026-08-21 21:22:47",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "switzerland"
-      ]
-    },
-    {
-      "title": "The Orchid Chandigarh Hosts Onam Sadhya Food Festival",
-      "description": null,
-      "link": "https://hospitalitynews.in/events/the-orchid-chandigarh-celebrates-onam-with-traditional-sadhya-at-south-of-vindhyas",
-      "source": "Hospitalitynews",
-      "image": "https://hospitalitynews.in/uploads/images/202608/image_870x580_6a88419258000.jpg",
-      "published": "2026-08-21 21:22:44",
-      "category": [
-        "top",
-        "tourism"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Residents issued mandatory evacuation notice due to Clover Fire",
-      "description": "(FOX40.COM) \u2014 Mandatory evacuations have been ordered for some Nevada County residents as the Clover fire burns in the Alta Sierra area, the Nevada County Sheriff\u2019s Office announced Friday. Those who live in zone NCO-E048 were ordered to evacuate immediately, and residents of zone NCO-E050 were placed under evacuation warning as the fire burns in [...]",
-      "link": "https://fox40.com/news/local-news/nevada-county/residents-issued-mandatory-evacuation-notice-due-to-clover-fire/",
-      "source": "Fox40 News",
-      "image": "https://fox40.com/wp-content/uploads/sites/13/2026/08/9544f224-edf0-46e6-b148-8ab2a05d5bba.jpg?w=680",
-      "published": "2026-08-21 21:22:40",
+      "title": "An Alabama cattle farm with a bird-tourism side hustle",
+      "description": "Christopher Joe runs birdwatching tours on his father\u2019s Black Angus cattle farm in Alabama.",
+      "link": "https://www.marketplace.org/story/2026/08/21/an-alabama-cattle-farm-with-a-birdtourism-side-hustle",
+      "source": "Marketplace",
+      "image": "https://img.apmcdn.org/3b896bf6dd223070d5c88912bfa6adfbd3c7a35d/widescreen/156d5a-joefarmbird-2000.jpg",
+      "published": "2026-08-21 22:18:31",
       "category": [
         "environment",
         "top"
@@ -266,181 +325,18 @@
       ]
     },
     {
-      "title": "Superman DCU TV Show With Skyler Gisondo\u2019s Jimmy Olsen & Gorilla Grodd Gets Official Title",
-      "description": "The new Superman DCU spinoff TV series has officially received its title, with HBO Max handing down an eight-episode order for the half-hour comedy The People v. Gorilla Grodd. The series comes from DC Studios in association with Warner Bros. Television. It will expand the world established in James Gunn\u2019s Superman through a unique, mockumentary [...]",
-      "link": "https://www.superherohype.com/tv/688165-superman-dcu-tv-show-skyler-gisondo-jimmy-olsen-gorilla-grodd",
-      "source": "Superhero Hype",
-      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/08/Untitled-Design-2026-08-22T023733.928.png",
-      "published": "2026-08-21 21:22:36",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "1987 Dodge Ram 50 at No Reserve",
-      "description": "This 1987 Dodge Ram 50 pickup is said to have remained registered to the original owner in Tennessee through 2025 and now shows 28k miles. It is finished in Gold Dust Metallic over tan vinyl and powered by a 2.0-liter G63B inline-four that drives the rear wheels through a three-speed automatic transmission. The truck has air conditioning and 14\" steel wheels with bright trim rings. This Ram 50 is offered by the selling dealer at no reserve in Arkansas with a Carfax report and a Mississippi title.",
-      "link": "https://bringatrailer.com/listing/1987-dodge-ram-50/",
-      "source": "Bring A Trailer",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1987_dodge_ram-d100_IMG_7520-83229-scaled-1-copy-2026-08-13-6c4-60097.jpeg?w=940",
-      "published": "2026-08-21 21:22:33",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "2Baba Sparks Reactions After Using Annie\u2019s \u2018Rainbow\u2019 to Tease New Album",
-      "description": "Sola Benson Legendary Nigerian singer Innocent Idibia, popularly known as 2Baba or Tubaba, has stirred fresh conversations online after using a song associated with his former wife, Annie Macaulay-Idibia, to announce his forthcoming album. The music icon took to social media to reveal that his next body of work, titled Oldest Young Man , is in the works, accompanying the announcement with a reflective message about his journey and resilience. \u201cI\u2019ve lived it. I\u2019ve seen it. I\u2019m still here. My new album, Oldest Young Man, soon to come,\u201d Tubaba wrote. While the announcement itself generated interest among his followers, it was the choice of background music that drew particular attention. 2Baba used Rainbow , a song he famously sang for Annie, as the soundtrack to the post. The choice immediately prompted reactions from social media users, with some interpreting it as a possible emotional reference to his past relationship with the actress. The singer did not explain the reason behind his choice of song or indicate that the post was specifically directed at Annie. However, fans quickly began attaching their own meanings to the combination of his message, the song and the title of his forthcoming album. One Instagram user, eje_bailo_ejeh, tagged Annie and wrote, \u201cCome home. We no go go again. I know my guy well to understand this is for you.\u201d Another user, kallystouch, reacted emotionally to the song, writing, \u201cEya. This song tells a story, love you legendary.\u201d For some followers, the post appeared to represent a moment of reflection following the singer's highly publicised personal experiences. One commenter, nwannewuihejudith, wrote, \u201cSometimes you just have to let go, to find yourself. And for them to realise their worth.\u201d Another Instagram user, kenjne_001, declared, \u201cYou and Annie na soulmate.\u201d A further reaction from blessingok read, \u201cHe went to hell and back. Now it makes sense.\u201d The reactions underline the continued public interest in 2Baba and Annie\u2019s relationship, even after their marriage came to an end. The pair, who had been married for several years, became one of Nigeria\u2019s most recognisable celebrity couples, with their relationship frequently attracting public attention. Beyond the personal interpretations surrounding the post, the announcement also signals a new musical chapter for 2Baba, one of the most enduring figures in Nigeria\u2019s contemporary music scene. With Oldest Young Man , the singer appears poised to reflect on the experiences that have shaped his journey, judging from his words: \u201cI\u2019ve lived it. I\u2019ve seen it. I\u2019m still here.\u201d For now, however, the use of Rainbow has ensured that the album announcement is being discussed not only as a musical comeback or new project, but also through the lens of one of the most closely followed chapters of the singer\u2019s personal life.",
-      "link": "http://www.brandiconimage.com/2026/08/2baba-sparks-reactions-after-using.html",
-      "source": "Brand Icon Image - Latest Brand, Tech And Business",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUUHnKLEUqLGgkrHxykvGEkH1UulvGPyzOg2Awj6PgEvmVRarzRQP58aMNwBVvdF0ufPDJPhRLOX08jSkKqX34yfzkBRUn-EkcaV8hm-3gvM0vscViaa343_WMXpkq4kJ-t5LJp-v_TbAZLJx-l2tKdEOxOTLZ92N2N23lxpFfyP7ekI9CGr1GBnJuHGM/s72-c/1000974867.jpg",
-      "published": "2026-08-21 21:22:31",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "The world of model railways and the folk who build them",
-      "description": "With 50 model railway layouts on display, the upcoming Goulburn Model Expo is something railroaders look forward to, especially for those who focus on what lies either side of the train tracks rather than what's on them.",
-      "link": "https://www.abc.net.au/news/2026-08-22/the-world-of-miniature-railways-and-the-folk-who-build-them/106928064",
-      "source": "Abc",
-      "image": "https://live-production.wcms.abc-cdn.net.au/24ab5faaf2b0b28aa644b22f01dcff42?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=2&width=862&height=485",
-      "published": "2026-08-21 21:22:30",
-      "category": [
-        "top",
-        "tourism"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Arsenal ease past Coventry to kick off new Premier League season",
-      "description": "Arsenal made the perfect start to their Premier League title defence with a stylish 3-0 win against Coventry in the opening game of the season on Friday.",
-      "link": "https://www.beinsports.com/en-mena/football/premier-league/articles-video/arsenal-ease-past-coventry-to-kick-off-new-premier-league-season-2026-08-21",
-      "source": "Bein Sports",
-      "image": "https://prod-media.beinsports.com/image/1787345511073_75ea89ee-5276-4caf-b5ab-6a9a4930ec43.1080.png",
-      "published": "2026-08-21 21:22:30",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Neutrogena, mom Lesley Vogel address Hayden Panettiere death \u2013 Updates - USA Today",
-      "description": "Neutrogena, mom Lesley Vogel address Hayden Panettiere death \u2013 Updates USA Today Brother of Hayden Panettiere\u2019s Boyfriend Reveals New Details About the Final Moments Before Her Death People.com Drugs at their fingertips, intense pressure: Why child stars fall into addiction BBC Hayden Panettiere\u2019s mother shares first public comments since her daughter\u2019s death NBC News Hayden Panettiere\u2019s Ex Wladimir Klitschko Shares Emotional Post on Her 37th Birthday TODAY.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDY2R3Y1UXhCenFyeDRMSmRzMGlmbVJXUDY1c0U4azdmTVIyR19fR3o5Q3gyNDlTMENyd2lqM29fM3BKUG53NWdVS21NbHF6UGtzX1ZLMzZPNXdQUmxudEdJOVk3S3NLOHhYNlF5S2Zyakh0OE1SRV9TLTZyMnk2X2ZaTmxUcGlURm5QS3J0YVVfS1BGVncyMkdGVk5URTJnN2JtWFp4OEd2cmF3cVNtRXgzUVlseFpLa3RHaFZNVUlZWm9JT0hzeS1reTljdWxTSjd3UjVCeDR0T0U?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-21 21:22:30",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Supreme Court allows Trump's ballroom construction to proceed for now - Axios",
-      "description": "Supreme Court allows Trump's ballroom construction to proceed for now Axios Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal WSJ Supreme Court temporarily allows construction of White House ballroom to continue CNN The Case of the Disappearing, Reappearing White House Ballroom Stairs The New York Times Supreme Court allows Trump\u2019s ballroom construction to continue for now NPR",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNmpqMTc0dUdhT3FrSndMNDR5dkdtcS0wWHc1bS1XN0ZoRXBrWmFDQlF0a1duZ01ZYUJBSlRIUDFlcThtcVhpLTJ0b2NhQW4yVjdicVUybkh1SVJ5WU5zUW5NY2lRSlczTXlVb2FYMkdsaG1zV2FydWVBYmRVRTA?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-21 21:22:30",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "2019 Volvo S60 T6 R-Design Polestar Engineered at No Reserve",
-      "description": "This 2019 Volvo S60 T6 R-Design is finished in Denim Blue Metallic over black Nappa leather and is powered by a twin-charged 2.0L inline-four linked to an eight-speed automatic transmission and an all-wheel-drive system. Features include the Protection Package Premier, as well as Polestar engine management software, 19\" R-Design alloy wheels, LED lighting, a panoramic sunroof, parking sensors, heated power-adjustable front sport seats, a heated rear bench, dual-zone automatic climate control, a rearview camera, navigation, and touchscreen infotainment paired with a Harman Kardon sound system. This S60 has 166k miles and is offered at no reserve by the selling dealer with a clean Carfax report and a clean Pennsylvania title.",
-      "link": "https://bringatrailer.com/listing/2019-volvo-s60/",
-      "source": "Bring A Trailer",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_6403-scaled-copy-2026-08-18-ix3-91852.jpeg?w=940",
-      "published": "2026-08-21 21:22:29",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Tzolis shines as Arsenal opens Premier League season by sweeping aside promoted Coventry",
-      "description": "Newcomer Christos Tzolis helped set up two goals as defending champion Arsenal opened the Premier League season by dismantling promoted Coventry 3-0 to spoil the visitor\u2019s long-awaited return to the...",
-      "link": "https://www.ctinsider.com/sports/article/tzolis-shines-as-arsenal-opens-premier-league-22398709.php",
-      "source": "Ct Insider",
-      "image": "https://s.hdnux.com/photos/01/67/11/16/31232938/3/square_large.jpg",
-      "published": "2026-08-21 21:22:28",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lightning lore",
-      "description": "At this centuries-old Shiva temple atop Kharal hills above Kullu town, known as Bijli Mahadev, legend, faith and the forces of nature converge. Famous for its extraordinary lightning ritual and dramatic tale of origin, the temple is located amid deodar forests on a Himalayan ridge, offering sweeping views of the Kullu valley. According to local [...]",
-      "link": "https://www.tribuneindia.com/news/himachal/lightning-lore",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/08/6a886d9817afb-12108469CD-_BIJLI23A-scaled.jpg",
-      "published": "2026-08-21 21:22:20",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "18 Expert-Backed Health Hacks You Can Try Right Now to Live Longer and Better",
-      "description": "These simple habits can give your healthy lifestyle an upgrade.",
-      "link": "https://www.prevention.com/health/a73485060/top-health-hacks/",
-      "source": "Prevention",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a7085077-6b5a-452f-988f-5d02b7adf4fc.jpeg?crop=0.667xw:1xh;0.213xw,0xh&resize=1200:*",
-      "published": "2026-08-21 21:22:20",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Further eight people charged amid probe into mayhem at Celtic fans\u2019 Trongate title party",
-      "description": "EIGHT more people have been charged as part of the police probe into the chaos at Celtic's title party. Clashes broke out in Glasgow's Trongate after 3,000 fans gathered to celebrate winning the league in May. Two cops were left badly hurt and three members of the public required hospital treatment. Police confirmed that a...",
-      "link": "https://www.thescottishsun.co.uk/news/16718019/eight-charged-celtic-fans-trongate-title-party-mayhem-probe/",
-      "source": "The Scottish Sun",
-      "image": "https://www.thescottishsun.co.uk/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fnewspress-collage-qlh61eie3-1787347000982.jpg?quality%3D90%26strip%3Dall%261787350587%261787350587",
-      "published": "2026-08-21 21:22:20",
+      "title": "Montana man sentenced to 15 years in prison for hit-and-run deadly crash, evidence tampering",
+      "description": "A Montana judge sentenced Gerald Lee Johnson Jr. to 15 years in prison for a 2023 crash that killed Hunter Berry.",
+      "link": "https://www.kbzk.com/news/montana-man-sentenced-to-15-years-in-prison-for-hit-and-run-deadly-crash-evidence-tampering",
+      "source": "Kbzk News",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/be669bf/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F04%2Fbc%2Fcb4b75e341d49dedf2264145f2d0%2Fcourt-news-1280x720.png",
+      "published": "2026-08-21 22:18:28",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
       ]
     }
   ]

@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Indian Army Seeks Vendors For New Artillery Mobility Platform",
+      "description": "The Indian Army has issued requirements for a new dedicated mobility platform to tow field artillery guns, emphasising rapid deployment, firing, and immediate relocation to counter enemy threats.The specifications demand a 4\u00d74 cross\u2010country vehicle with a 4,000 kg towing capacity, remote operation capability, and performance benchmarks tailored for survivability in contested environments.The Army",
+      "link": "https://www.indiandefensenews.in/2026/08/indian-army-seeks-vendors-for-new.html",
+      "source": "Indiandefensenews",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioVf17UQ3oDXG4IkFZipsYne09g0RnIZubk8BeSeHAtTA3j_ap4ypcujdpINcxPRl7I7qShEO-YuUMHdpLo0BzEBSUAdEzdpLwbs3nC0mGkNiYUHMU1vZwS0m0DSabgXUI75Bv7ELOgUc1aJUm0Ut4uOr7pbB9Sq9IqGReSDNiZQ1YGTOr8XCSoNhZF3o/s72-c/Bharat-52_Artillery_Gun.jpg",
+      "published": "2026-08-21 16:29:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "PM Modi Assures Space Start-Ups of Support, Highlights India\u2019s Innovative And Commercially Viable Model",
+      "description": "Prime Minister Narendra Modi met founders and CEOs of twenty Indian space start-ups, praising their courage to enter a demanding domain and assuring them of continued government support.He emphasised that India can build a strong, innovative and commercially viable model for the world, while urging entrepreneurs to expand applications of space technology into agriculture, environment, education",
+      "link": "https://www.indiandefensenews.in/2026/08/pm-modi-assures-space-start-ups-of.html",
+      "source": "Indiandefensenews",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ZdK8l4UTmsKaXaqTS9S2S-_4WDWHtVZNwMaT5A0TZydCrnRySflMfyOOUkQZM3v-OqZ0yTHO0_b4GoPALWkW4ZZUjZtK7i_sYpexEONGEoNYLZDCFAcO1UMa8rvyBaNZL3YJ5WWvurQq19uw6CDtDFj4wGXItcFf8EfPRNDGFviKcLgnY1SucbOJzf4/s72-c/Modi_Meets_CEOs_of_Private_Space_Start-Ups.jpg",
+      "published": "2026-08-21 16:29:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
+      "description": "Ukrainian hacktivists exploiting the bugs, but TrueConf's reach stretches well beyond home turf",
+      "link": "https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156",
+      "source": "The Register",
+      "image": null,
+      "published": "2026-08-21 16:29:00",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

@@ -1,34 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "Nvidia invests in data center developer Cloverleaf Infrastructure",
-      "description": "Aug 21 (Reuters) - Nvidia \u2060has made a minority investment in \u2060privately held Cloverleaf Infrastructure to develop \u200cinfrastructure to power AI data center projects across the U.S., the companies said on Friday.",
-      "link": "https://www.thestar.com.my/tech/tech-news/2026/08/21/nvidia-invests-in-data-center-developer-cloverleaf-infrastructure",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4072011.jpg",
-      "published": "2026-08-21 14:51:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "If one PC creates 20dB of noise and another makes 40dB, how louder is the second PC?",
-      "description": "Also: what are humming, rattling and whining PC noises? Read Entire Article",
-      "link": "https://www.techspot.com/trivia/48-if-one-pc-creates-noise-level-20db-another/",
-      "source": "Techspot",
-      "image": null,
-      "published": "2026-08-21 14:51:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "img_0960_1024.jpg",
-      "description": "Dearman\u2019s South is slated for a grand opening on Aug. 29, 174 South Blvd., Baton Rouge.",
-      "link": "https://www.theadvocate.com/img-0960-1024-jpg/image_da217dcf-846f-4213-8163-0c64f917a313.html",
-      "source": "The Advocate",
-      "image": "http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/a2/da217dcf-846f-4213-8163-0c64f917a313/6a8865fb283c8.image.jpg?resize=300%2C225",
-      "published": "2026-08-21 14:51:00",
+      "title": "Dr. Phil's longtime publicist is suing him over claims of wrongful termination and discrimination - Fri, 21 Aug 2026 PST",
+      "description": "Phil McGraw's longtime publicist has filed a lawsuit against the celebrity therapist, better known as Dr. Phil, on claims of wrongful termination and discrimination.",
+      "link": "http://www.spokesman.com/stories/2026/aug/21/dr-phils-longtime-publicist-is-suing-him-over-clai/",
+      "source": "Spokesman",
+      "image": "https://thumb.spokesman.com/hB6zr_vqVr7_diNV0yUKtr0WxOw=/2500x1405/smart/media.spokesman.com/photos/2026/08/21/6a889e299c766.hires.jpg",
+      "published": "2026-08-21 15:38:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Cabinet expanded: Who is likely to get which ministry?",
+      "description": "Four ministers and two state ministers take oath as sources indicate major portfolio assignments and reassignments",
+      "link": "https://www.thedailystar.net/news/governance/news/cabinet-expanded-who-likely-get-which-ministry-4253511",
+      "source": "The Daily Star",
+      "image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+      "published": "2026-08-21 15:37:58",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
       ]
     }
   ]

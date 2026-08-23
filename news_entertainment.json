@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Don Lemon urges Harry and Meghan to 'make up their mind' as he mocks their UK return",
-      "description": "Don Lemon wasn't impressed to hear that Prince Harry and Meghan Markle are set to relocate back to the U.K. this month with their children.",
-      "link": "https://www.the-express.com/entertainment/celebrity-news/214436/Don-Lemon-Harry-Meghan-UK",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/21/237x141/214436_1.jpg",
-      "published": "2026-08-22 14:59:00",
+      "title": "Concord, One of Gaming\u2019s Most Controversial Flops, Now Sells For Up to $1,000 Online as a Collector\u2019s Item",
+      "description": "The video game 'Concord,' released by Firewalk Studios and Sony Interactive Entertainment, is regarded as a major flop with disastrous sales and a peak of only 697 concurrent players on Steam. Despite its failure and the shutdown of its servers in September 2024, making physical copies useless, these editions have become collector's items, selling for up to $1,000 on platforms like eBay. Although some copies are listed at high prices, others are available at much lower costs, reflecting the game's notoriety and scarcity. Efforts to revive the game through private servers were halted by PlayStation, highlighting the game's enduring intrigue among collectors despite its commercial failure.",
+      "link": "https://www.levelup.com/en/news/concord-one-of-gamings-most-controversial-flops-now-sells-for-up-to-1000-online-as-a-collectors-item/",
+      "source": "Levelup",
+      "image": "https://www.levelup.com/resizer/v2/MSAHKLIBQZEKRBXNVWR2VIBCNA.jpg?auth=dde5ae8e70809ff9c7e4ea3d0e0816b74203ffe9d5a6e94dcf7420fed288146a&smart=true&width=1200&height=900",
+      "published": "2026-08-22 15:56:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "Anna Paquin Blasts Hollywood\u2019s Treatment of Child Stars In Tribute To Hayden Panetierre",
+      "description": "Following the death of actor Hayden Panettiere, fellow former child star Anna Paquin spoke out about Hollywood\u2019s treatment of its young female actors.",
+      "link": "https://www.today.com/popculture/news/anna-paquin-hollywood-treatment-child-stars-hayden-panettiere-rcna593892",
+      "source": "Nbc News",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/anna-paquin-hayden-panettiere-ky-260822-115801.jpg",
+      "published": "2026-08-22 15:55:58",
       "category": [
         "entertainment"
       ],
@@ -17,17 +31,34 @@
       ]
     },
     {
-      "title": "Ethel Caterham, la persona ma\u0301s anciana del mundo, celebra su 117 cumplean\u0303os: \"He pasado un di\u0301a estupendo\"",
-      "description": "Caterham conocio\u0301 al rey Carlos el an\u0303o pasado, cuando celebro\u0301 su 116 cumplean\u0303os",
-      "link": "https://www.hola.com/actualidad/20260822919483/ethel-caterham-la-persona-mas-anciana-del-mundo/",
-      "source": "Hola!",
-      "image": "https://www.hola.com/horizon/landscape/bb26898e26f4-gettyimages-2290779918.jpg",
-      "published": "2026-08-22 14:58:50",
+      "title": "\u2018I thought it was horrible\u2019: Dave Portnoy does not hold back on Pat McAfee album",
+      "description": "ESPN superstar Pat McAfee stepped into the music industry this week with his debut album, The Diary of a Polarizing Figure. Barstool Sports founder Dave Portnoy was not a fan of the music, bluntly calling it \u201chorrible.\u201d While Portnoy made his thoughts on the album quite clear, he also made it clear that he doesn\u2019t really...",
+      "link": "https://thecomeback.com/culture/i-thought-it-was-horrible-dave-portnoy-does-not-hold-back-on-pat-mcafee-album.html",
+      "source": "The Comeback",
+      "image": "https://thecomeback.com/wp-content/uploads/2026/08/Dave-Portnoy-and-Pat-McAfee.jpg",
+      "published": "2026-08-22 15:55:56",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
-        "spain"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "La Grange Taps Its First Oktoberfest, Complete With Stein-Hoisting Showdown",
+      "description": "La Grange, Illinois will host its first Oktoberfest September 25-27 on Calendar Avenue, featuring brass bands, bratwurst pizza and a stein hoist contest.",
+      "link": "https://hoodline.com/2026/08/la-grange-taps-its-first-oktoberfest-complete-with-stein-hoisting-showdown/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/8/la-grange-taps-its-first-oktoberfest-complete-with-stein-hoisting-showdown-1.webp",
+      "published": "2026-08-22 15:55:51",
+      "category": [
+        "entertainment",
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

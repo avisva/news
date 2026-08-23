@@ -1,43 +1,44 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 13,
   "results": [
     {
-      "title": "The Death of the Easy Beat: Why Classic Stock-Picking Rules No Longer Work",
-      "description": null,
-      "link": "https://www.barrons.com/articles/stock-strategies-study-6f78c897?yptr=yahoo",
-      "source": "Yahoo Finance",
-      "image": null,
-      "published": "2026-08-22 14:59:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Egypt Sets 50 Percent Cash Collateral Limit in New Rules for Short Selling",
-      "description": "[Daba Finance] Egypt has issued new rules for short selling on the Egyptian Exchange, requiring investors to provide cash collateral equal to at least 50% of the market value of borrowed securities. The Financial Regulatory Authority approved the framework under Resolution No. 155 of 2026 as part of efforts to increase trading and add more investment tools to the market.",
-      "link": "https://allafrica.com/stories/202608220072.html",
-      "source": "Allafrica.com",
-      "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "published": "2026-08-22 14:58:56",
+      "title": "Quick quotes: Here's what people are saying about the Canada-U.S. trade negotiations",
+      "description": "The United States imposed 50 per cent tariffs on billions of dollars worth of Canadian exports Saturday, after the two countries failed to reach a new trade deal before an extended deadline imposed by President Donald Trump earlier in the week.",
+      "link": "https://www.ctvnews.ca/world/trumps-tariffs/article/quick-quotes-heres-what-people-are-saying-about-the-canada-us-trade-negotiations/",
+      "source": "Ctv News",
+      "image": "https://www.ctvnews.ca/resizer/v2/UR3PNO244AUGHW5AKBDO62OVGQ.jpg?auth=1b805ca6ee58851fd0fbdab456b4b7fe04bfdcde8c10d887fff920c35db1fe85&smart=true&width=1400&height=933",
+      "published": "2026-08-22 15:56:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "egypt"
+        "canada"
       ]
     },
     {
-      "title": "Contrasting Environmental Tectonics (OTCMKTS:ETCC) & Volex (OTCMKTS:VLXGF)",
-      "description": "Volex (OTCMKTS:VLXGF \u2013 Get Free Report) and Environmental Tectonics (OTCMKTS:ETCC \u2013 Get Free Report) are both industrials companies, but which is the better business? We will contrast the two companies based on the strength of their risk, analyst recommendations, earnings, institutional ownership, valuation, dividends and profitability. Profitability This table compares Volex and Environmental Tectonics\u2019 net [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/22/contrasting-environmental-tectonics-otcmktsetcc-volex-otcmktsvlxgf.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/environmental-tectonics-co-logo-1200x675.png",
-      "published": "2026-08-22 14:58:48",
+      "title": "Dart Mining (ASX:DTM): Why Is Yamarna Back in Focus?",
+      "description": "Dart Mining expands into Yamarna gold exploration as acquisition conditions, fresh funding and target prioritisation shape the next phase.",
+      "link": "https://kalkinemedia.com/au/stocks/gold/dart-mining-asxdtm-why-is-yamarna-back-in-focus",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Goldminimnmn_10_15_2024_16_52_12_622885.jpg",
+      "published": "2026-08-22 15:56:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "The S&P 500 Is Near an All-Time High. Here's What History Says Investors Should Do.",
+      "description": "A lot of investors get nervous about putting new money into stocks when the market is at an all-time high. History says there's no need to fear.",
+      "link": "https://www.fool.com/investing/2026/08/22/sp-500-near-all-time-high-what-history-says-next/",
+      "source": "Fool",
+      "image": "https://g.foolcdn.com/editorial/images/883997/analyst-home-investor-stocks-trends.jpg",
+      "published": "2026-08-22 15:56:00",
       "category": [
         "business"
       ],
@@ -46,73 +47,154 @@
       ]
     },
     {
-      "title": "Financial Comparison: APA Group (APAJF) vs. Its Competitors",
-      "description": "APA Group (OTCMKTS:APAJF \u2013 Get Free Report) is one of 46 publicly-traded companies in the \u201cGas Utilities\u201d industry, but how does it compare to its peers? We will compare APA Group to similar businesses based on the strength of its dividends, earnings, profitability, valuation, institutional ownership, analyst recommendations and risk. Profitability This table compares APA [...]",
-      "link": "https://www.themarketsdaily.com/2026/08/22/financial-comparison-apa-group-apajf-vs-its-competitors.html",
-      "source": "Markets Daily",
-      "image": "https://www.marketbeat.com/logos/apa-group-logo-1200x675.png?v=20230306134506",
-      "published": "2026-08-22 14:58:48",
+      "title": "Canada to impose retaliatory tariffs on US goods from September 8",
+      "description": "The move escalates a trade conflict after Washington imposed 50% tariffs on $20 billion of Canadian goods and failed negotiations collapsed late Friday",
+      "link": "https://www.thehindubusinessline.com/news/world/canada-to-impose-retaliatory-tariffs-on-us-goods-from-sept-8/article71378527.ece",
+      "source": "The Hindu - Business Line",
+      "image": "https://bl-i.thgim.com/public/incoming/j3vj8u/article71378557.ece/alternates/LANDSCAPE_1200/2026-08-07T151753Z_487940382_RC247HA8LWC2_RTRMADP_3_USA-TRUMP-TARIFFS-CANADA.JPG",
+      "published": "2026-08-22 15:55:57",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "iQSTEL (IQST) and Its Peers Head-To-Head Comparison",
-      "description": "iQSTEL (NASDAQ:IQST \u2013 Get Free Report) is one of 203 publicly-traded companies in the \u201cDiversified Telecommunication Services\u201d industry, but how does it contrast to its rivals? We will compare iQSTEL to similar businesses based on the strength of its analyst recommendations, institutional ownership, profitability, valuation, earnings, risk and dividends. Insider & Institutional Ownership 32.7% of [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13554556/iqstel-iqst-and-its-peers-head-to-head-comparison.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/iqstel-inc-logo-1200x675.jpg?v=20250702111912",
-      "published": "2026-08-22 14:58:48",
+      "title": "Freight costs surge 372% after strike",
+      "description": "Exporters face Rs450b losses, shipping space shortages",
+      "link": "https://tribune.com.pk/story/2625309/freight-costs-surge-372-after-strike",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/aaa-canva-1200x900-2025-12-12t233436-7981765564475-0/aaa-canva-1200x900-2025-12-12t233436-7981765564475-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
       ]
     },
     {
-      "title": "Hang Feng Technology Innovation (NASDAQ:FOFO) vs. Falcon\u2019s Beyond Global (NASDAQ:FBYD) Critical Analysis",
-      "description": "Hang Feng Technology Innovation (NASDAQ:FOFO \u2013 Get Free Report) and Falcon\u2019s Beyond Global (NASDAQ:FBYD \u2013 Get Free Report) are both small-cap industrials companies, but which is the better stock? We will compare the two businesses based on the strength of their risk, earnings, valuation, profitability, dividends, institutional ownership and analyst recommendations. Profitability This table compares [...]",
-      "link": "https://www.tickerreport.com/banking-finance/13554557/hang-feng-technology-innovation-nasdaqfofo-vs-falcons-beyond-global-nasdaqfbyd-critical-analysis.html",
-      "source": "Ticker Report",
-      "image": "https://www.marketbeat.com/logos/falcons-beyond-global-inc-logo-1200x675.jpg?v=20231018063609",
-      "published": "2026-08-22 14:58:48",
+      "title": "Tarbela cost jumps 282% to Rs316b",
+      "description": "ECNEC approves Rs1.15tr projects including Lahore-Bahawalnagar motorway",
+      "link": "https://tribune.com.pk/story/2625308/tarbela-cost-jumps-282-to-rs316b",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/tarbela-dam1787432473-0/tarbela-dam1787432473-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
       ]
     },
     {
-      "title": "Head-To-Head Comparison: Honeywell Aerospace (HONA) and The Competition",
-      "description": "Honeywell Aerospace (NASDAQ:HONA \u2013 Get Free Report) is one of 229 publicly-traded companies in the \u201cAerospace & Defense\u201d industry, but how does it weigh in compared to its peers? We will compare Honeywell Aerospace to related businesses based on the strength of its analyst recommendations, institutional ownership, valuation, risk, profitability, dividends and earnings. Insider & [...]",
-      "link": "https://www.watchlistnews.com/head-to-head-comparison-honeywell-aerospace-hona-and-the-competition/11195497.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/honeywell-aerospace-logo-1200x675.jpg?v=20260701103057",
-      "published": "2026-08-22 14:58:47",
+      "title": "Ministry seeks govt support for cross-subsidy",
+      "description": "Looks to provide tariff relief to sectors funding subsidy for domestic consumers",
+      "link": "https://tribune.com.pk/story/2625311/ministry-seeks-govt-support-for-cross-subsidy",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/petroleum-division1787435060-0/petroleum-division1787435060-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
       ]
     },
     {
-      "title": "Latham Group (NASDAQ:SWIM) vs. QuantaSing Group (NASDAQ:QSG) Financial Survey",
-      "description": "QuantaSing Group (NASDAQ:QSG \u2013 Get Free Report) and Latham Group (NASDAQ:SWIM \u2013 Get Free Report) are both small-cap consumer discretionary companies, but which is the better investment? We will contrast the two companies based on the strength of their earnings, institutional ownership, valuation, profitability, risk, analyst recommendations and dividends. Analyst Ratings This is a breakdown [...]",
-      "link": "https://www.watchlistnews.com/latham-group-nasdaqswim-vs-quantasing-group-nasdaqqsg-financial-survey/11195498.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/latham-group-inc-logo-1200x675.png?v=20240521115623",
-      "published": "2026-08-22 14:58:47",
+      "title": "Food, machinery imports fuel 26% deficit spike",
+      "description": "Imports of food items hit $805m, while machinery arrivals cost $1.3b",
+      "link": "https://tribune.com.pk/story/2625312/food-machinery-imports-fuel-26-deficit-spike",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/trade-deficit1783890797-0/trade-deficit1783890797-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
       "category": [
-        "business"
+        "business",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Virtual assets licensing launched",
+      "description": "Portal offers 10 categories of crypto, services; operators face Sept 5 deadline",
+      "link": "https://tribune.com.pk/story/2625313/virtual-assets-licensing-launched",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/vistual-asset1787435686-0/vistual-asset1787435686-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "US hits Canadian goods with 50% tariffs",
+      "description": "Ottawa suspends negotiations, vows dollar-for-dollar retaliation as USMCA renewal clouds",
+      "link": "https://tribune.com.pk/story/2625314/us-hits-canadian-goods-with-50-tariffs",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/export-growth-linked-to-tariff-reforms-says-pide-e1762810568-0/export-growth-linked-to-tariff-reforms-says-pide-e1762810568-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Seoul sends first commercial ship via Arctic to Europe",
+      "description": "40-day voyage via Russia coast aims to cut transit times, expand Busan's reach",
+      "link": "https://tribune.com.pk/story/2625315/seoul-sends-first-commercial-ship-via-arctic-to-europe",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/south-korean-ship1787436541-0/south-korean-ship1787436541-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Stock market slips 1.6% on Hormuz uncertainty",
+      "description": "KSE-100 ends week lower by 2,938 points, also weighed down by domestic political noise",
+      "link": "https://tribune.com.pk/story/2625316/stock-market-slips-16-on-hormuz-uncertainty",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/psx-11785328716-0/psx-11785328716-0-640x480.webp",
+      "published": "2026-08-22 15:55:48",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Vatican to build 100m solar farm",
+      "description": "80-90 MW project aims to meet full energy needs, supply surplus to Italy",
+      "link": "https://tribune.com.pk/story/2625317/vatican-to-build-100m-solar-farm",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/386570-storySolarpan_1736778821/386570-storySolarpan_1736778821-640x480.webp",
+      "published": "2026-08-22 15:55:48",
+      "category": [
+        "business",
+        "environment",
+        "top"
+      ],
+      "country": [
+        "pakistan"
       ]
     }
   ]

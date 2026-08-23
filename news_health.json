@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "KMPDU Raises Alarm Over New Bill Targeting Doctors, Issue Demands",
+      "description": "The proposed legislation seeks to introduce additional regulatory measures, including provisions targeting the fraudulent acquisition of practicing licenses.",
+      "link": "https://www.kenyans.co.ke/news/126421-kmpdu-calls-withdrawal-proposed-health-bill-says-existing-laws-are-enough",
+      "source": "Kenyans",
+      "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/duale-kmpdu.jpg.webp?itok=054NRbNP",
+      "published": "2026-08-23 07:18:38",
+      "category": [
+        "business",
+        "top",
+        "health"
+      ],
+      "country": [
+        "kenya"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Hotels follow SA travellers into ChatGPT",
+      "description": "Enough South Africans are now planning trips through AI assistants that the way hotels get found is starting to change.",
+      "link": "https://www.smetechguru.co.za/hotels-follow-sa-travellers-into-chatgpt/",
+      "source": "Sme Tech Guru",
+      "image": "https://www.smetechguru.co.za/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-09.17.40.png",
+      "published": "2026-08-23 07:18:45",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Bipartisan reforms pass as migration debate ignites | ABC NEWS In-depth",
+      "description": "David Speers discusses the week in politics with Andrew Probyn, Clare Armstrong and Phil Coorey including the government ...",
+      "link": "https://biztoc.com/x/cb7a117a4bd7609b",
+      "source": "Biztoc",
+      "image": "https://cdn.biztoc.com/cb7a117a4bd7609b_s.webp",
+      "published": "2026-08-23 07:18:31",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

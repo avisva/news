@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "FG Moves NigComSat -2A, 2B To Next Phase",
+      "description": "The Federal Government has moved the acquisition and deployment of NIGCOMSAT \u2013 2A and NIGCOMSAT \u2013 2B into the next phase following Federal Executive Council approval for the two next...",
+      "link": "https://independent.ng/fg-moves-nigcomsat-2a-2b-to-next-phase-2/",
+      "source": "Independentng",
+      "image": "https://independent.ng/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-16.40.46.jpeg",
+      "published": "2026-08-22 16:35:55",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

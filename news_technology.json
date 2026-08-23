@@ -1,21 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Trump caps USA's 250th birthday summer with Indy race through Washington",
-      "description": "WASHINGTON - \u200bPresident Donald Trump will cap the celebration of the U.S. 250th \u200canniversary with a first-of-its-kind auto race through the streets of Washington, closing a summer defined by sports and spectacle as drivers speed past some of the capital's most iconic landmarks.",
-      "link": "https://www.bangkokpost.com/world/3306573/trump-caps-usas-250th-birthday-summer-with-indy-race-through-washington",
-      "source": "Bangkok Post",
-      "image": "https://static.bangkokpost.com/media/content/20260823/c1_3306573_260823172044.jpg",
-      "published": "2026-08-23 10:18:00",
+      "title": "Study Shows That Launching Anti-Solar Spray Into Space Might Solve Heat Waves",
+      "description": "Earth is getting hotter and we need to cool it down; one way to do that may be injecting reflective sulfur dioxide particles into the stratosphere.",
+      "link": "https://www.bgr.com/2241973/launching-aerosol-into-space-reduces-heat-wave-study/",
+      "source": "Bgr",
+      "image": "https://www.bgr.com/img/gallery/study-shows-that-launching-anti-solar-spray-into-space-might-solve-heat-waves/l-intro-1787246336.jpg",
+      "published": "2026-08-23 11:17:00",
       "category": [
-        "sports",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Digital prescriptions soon as Odisha set to launch new health app",
+      "description": "Bhubaneswar: The Odisha government has started preparation for strengthening digital healthcare ecosystem as the Centre moves towards implementing the 'One Nation, One Health' vision. The initiative aims to leverage technology to make healthcare services more accessible, transparent and integrated across the country, said Health and Family Welfare (H&FW) Minister Mukesh Mahaling on Sunday. Under the Ayushman Bharat Digital Mission (ABDM), the National Health Authority has launched Aarogya Setu 2.0, which comes with a range of digital healthcare features. The app promotes the \u2018Scan and Share\u2019 concept, enabling patients to access healthcare services more conveniently. Prescriptions can be maintained through digital lockers \u201cOne of the key features is the ability to digitally share and store doctors\u2019 prescriptions. Prescriptions can be maintained through digital lockers, allowing patients and families to preserve medical records for future reference. This could also help in maintaining a comprehensive health history of family members and make medical information easier to access when required,\u201d stated the minister. According to the minister, the state government is also working on launching another digital health application shortly. The upcoming platform is expected to encourage doctors to shift towards digital prescriptions, further strengthening the state\u2019s digital healthcare infrastructure. Concern over unnecessary antibiotic use The digital system could also play an important role in monitoring the use of antibiotics. Prime Minister Narendra Modi had highlighted the issue of unnecessary antibiotic use during his Mann Ki Baat programme, added the minister. Under the proposed digital prescription system, information about medicines, including antibiotics prescribed by doctors, can be digitally recorded, helping authorities monitor prescription patterns and promote responsible antibiotic use, he said. Mahaling revealed that the state government is making extensive preparations to expand the use of technology in healthcare. \u201cOur objective is to use digital tools to improve healthcare delivery and make services more efficient for citizens. Detailed information about the new Odisha app will be shared at the time of its launch,\u201d said the minister. Mahaling, meanwhile, urged the people to download Aarogya Setu 2.0 on their mobile phones. \u201cThe app is designed to help users locate nearby medicine stores, diagnostic and testing centres, hospitals and other healthcare facilities, making it easier to find essential services. The move is expected to give a further boost to digital healthcare in Odisha and improve access to health-related information and services through technology,\u201d said the minister.",
+      "link": "https://sambadenglish.com/latest-news/digital-prescriptions-soon-as-odisha-set-to-launch-new-health-app-12422199",
+      "source": "Sambad English",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/sambad-english/media/media_files/2024/11/01/Tmal98oE06uUqlV8qL3g.JPG",
+      "published": "2026-08-23 11:16:58",
+      "category": [
         "top",
         "technology"
       ],
       "country": [
-        "thailand"
+        "india"
       ]
     }
   ]

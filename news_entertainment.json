@@ -1,17 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "ITV The Voice UK star Danny Jones' life from marriage strain to 'scary' health condition",
-      "description": "The McFly frontman has had more than 20 years in the spotlight, but what do we know about his life away from his career?",
-      "link": "https://www.birminghammail.co.uk/news/showbiz-tv/itv-voice-uk-star-danny-34502500",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/news/article30275103.ece/ALTERNATES/s615/4_Danny-Jones.jpg",
-      "published": "2026-08-22 16:35:54",
+      "title": "Rapper BigXthaPlug Arrested for Allegedly Driving While Intoxicated",
+      "description": "BigXthaPlug found himself back in jail Friday ... after he was caught allegedly driving while intoxicated and posessing some marijuana. Online jail records show the Dallas-based rapper was booked into the Collin County Jail in Texas on Friday by...",
+      "link": "https://www.tmz.com/2026/08/22/bigxthaplug-arrested-intoxicated-while-driving/",
+      "source": "Tmz",
+      "image": "https://imagez.tmz.com/image/70/4by3/2026/08/22/7066abce82f54f7cb045d862ce9ca3d6_xl.jpg",
+      "published": "2026-08-22 17:25:44",
       "category": [
-        "entertainment",
-        "top"
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pokemon card collector sets up alleged thieves after they relist his stolen cards online",
+      "description": "A Pokemon card collector recovered his stolen collection after alleged thieves relisted the cards on Facebook Marketplace using his own photos.",
+      "link": "https://www.dexerto.com/pokemon/pokemon-card-collector-sets-up-alleged-thieves-after-they-relist-his-stolen-cards-online-3401199/",
+      "source": "Dexerto",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/22/pokemon-card-thief-sting.jpg?width=1080&quality=75&format=auto",
+      "published": "2026-08-22 17:25:34",
+      "category": [
+        "entertainment"
       ],
       "country": [
         "united kingdom"

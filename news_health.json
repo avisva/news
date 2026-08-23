@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "CDU unveils plan for affordable Darwin maternity care",
+      "description": null,
+      "link": "https://www.ntnews.com.au/news/northern-territory/studentled-midwifery-clinic-opens-to-ease-darwins-maternity-services-crisis/news-story/c33ff71e1957f5e1a33f0f3f56f4fb4b",
+      "source": "Nt News",
+      "image": null,
+      "published": "2026-08-22 19:30:00",
+      "category": [
+        "health",
+        "top",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

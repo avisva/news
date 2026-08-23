@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Trump caps USA's 250th birthday summer with Indy race through Washington",
+      "description": "WASHINGTON - \u200bPresident Donald Trump will cap the celebration of the U.S. 250th \u200canniversary with a first-of-its-kind auto race through the streets of Washington, closing a summer defined by sports and spectacle as drivers speed past some of the capital's most iconic landmarks.",
+      "link": "https://www.bangkokpost.com/world/3306573/trump-caps-usas-250th-birthday-summer-with-indy-race-through-washington",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260823/c1_3306573_260823172044.jpg",
+      "published": "2026-08-23 10:18:00",
+      "category": [
+        "sports",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "thailand"
+      ]
+    }
+  ]
 }

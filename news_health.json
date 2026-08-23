@@ -1,21 +1,38 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "KMPDU Raises Alarm Over New Bill Targeting Doctors, Issue Demands",
-      "description": "The proposed legislation seeks to introduce additional regulatory measures, including provisions targeting the fraudulent acquisition of practicing licenses.",
-      "link": "https://www.kenyans.co.ke/news/126421-kmpdu-calls-withdrawal-proposed-health-bill-says-existing-laws-are-enough",
-      "source": "Kenyans",
-      "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/duale-kmpdu.jpg.webp?itok=054NRbNP",
-      "published": "2026-08-23 07:18:38",
+      "title": "Delhi H1N1 Cases Surge To 1,777: Swine Flu Infections Rise Nearly 8-Fold; Check Symptoms & Health Advisory",
+      "description": "Swine flu infection has taken over Delhi and has seen a sharp rise in seasonal influenza and H1N1 cases this monsoon.",
+      "link": "https://www.goodreturns.in/news/delhi-h1n1-cases-surge-to-1-777-swine-flu-infections-rise-nearly-8-fold-check-symptoms-health-adviso-1530157.html",
+      "source": "Goodreturns",
+      "image": "https://images.goodreturns.in/webp/img/2026/08/delhih1n112-39091787472933.jpeg",
+      "published": "2026-08-23 08:17:58",
       "category": [
-        "business",
         "top",
         "health"
       ],
       "country": [
-        "kenya"
+        "india"
+      ]
+    },
+    {
+      "title": "Saudi Arabia orders health insurers to provide outpatient coverage without prior approval",
+      "description": "Unlike conventional plans that may require insurers to approve certain outpatient services before beneficiaries receive care, the new option will remove the pre-approval requirement for eligible outpatient services.",
+      "link": "https://www.healthcaremea.com/2026/08/23/saudi-arabia-orders-health-insurers-to-provide-outpatient-coverage-without-prior-approval/",
+      "source": "Healthcaremea",
+      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/08/image-1600x900-2026-08-23T111428.752.png",
+      "published": "2026-08-23 08:17:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "saudi arabia",
+        "jordan",
+        "united arab emirates",
+        "egypt"
       ]
     }
   ]

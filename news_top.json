@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 12,
+  "totalResults": 17,
   "results": [
     {
-      "title": "Veteran finds road to recovery through 400-mile bike ride to Madison",
-      "description": "MADISON, Wis. \u2014 For Jen Goodbody, the finish line at the Wisconsin State Capitol represented more than the end of a 400-mile bike ride.",
-      "link": "https://www.channel3000.com/news/veteran-finds-road-to-recovery-through-400-mile-bike-ride-to-madison/article_cb2ef04f-3b61-4c91-af96-fe4ee7df0671.html",
-      "source": "Channel 3000",
-      "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/6/aa/6aaebf9a-0bfe-44da-83ce-acc3c2491eed/6a8a209bc2bf9.image.png?resize=300%2C167",
-      "published": "2026-08-22 22:20:00",
+      "title": "Tennis: Cincinnati Open",
+      "description": "Jessica Pegula of the U.S. returns a shot against Iga Swiatek of Poland during a match at the Cincinnati Open on Saturday in Mason, Ohio.",
+      "link": "https://madison.com/partners/reuters/photos/image_6d9bc69f-d62f-5ca6-97e6-3662dbc773cf.html",
+      "source": "Wisconsin State Journal",
+      "image": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/d9/6d9bc69f-d62f-5ca6-97e6-3662dbc773cf/6a8a3625ade77.image.jpg?resize=300%2C200",
+      "published": "2026-08-22 23:18:00",
       "category": [
         "sports",
         "top"
@@ -18,147 +18,192 @@
       ]
     },
     {
-      "title": "Gulfstream Park Results for Aug. 22, 2026",
-      "description": null,
-      "link": "https://www.miamiherald.com/sports/horse-racing/article316978421.html",
-      "source": "Miami Herald",
-      "image": "https://www.miamiherald.com/wps/source/images/miamiherald/facebook.jpg",
-      "published": "2026-08-22 22:20:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Galana Kulalu Project: History, cost, size, progress and the future of Kenya's mega farm",
-      "description": "Since the 2013 debut, Galana Kulalu has survived disappointing maize yields, stalled implementation and years of controversy. Now, private investors, modern irrigation, new infrastructure and a proposed mega dam are turning the vast ranch into a potential commercial farming hub.",
-      "link": "https://www.pulse.co.ke/story/galana-kulalu-project-history-cost-size-progress-and-the-future-of-kenyas-mega-farm-2026082222195538694",
-      "source": "Pulse Kenya",
-      "image": "https://sportal365images.com/process/smp-images-production/pulselive.co.ke/22082026/653bb3af-fda9-4480-8174-0c35104b5ad6.jpg?operations=autocrop(1200:630)",
-      "published": "2026-08-22 22:19:55",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "kenya"
-      ]
-    },
-    {
-      "title": "\u523b\u5ea6\u4e89\u8bae\u3001\u9636\u6bb5\u914d\u4ef6 | \u8d1d\u4eb28.23\u65e5\u62a5",
-      "description": ".tgaigc-wrap{padding:0 4%;padding-bottom:24px;font-family:PingFang SC,Heiti SC,San Francisco,Helvetica,Arial,sans-serif;font-s...",
-      "link": "https://post.smzdm.com/p/a5rd7opk/",
-      "source": "Smzdm",
-      "image": null,
-      "published": "2026-08-22 22:19:53",
+      "title": "Auckland flights to resume",
+      "description": "Thai Airways International will resume direct flights between Bangkok and Auckland next year.",
+      "link": "https://www.bangkokpost.com/thailand/general/3306504/auckland-flights-to-resume",
+      "source": "Bangkok Post",
+      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "published": "2026-08-22 23:18:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "china"
+        "thailand"
       ]
     },
     {
-      "title": "IndyCar qualifying results: Who takes pole at the Freedom 250?",
-      "description": null,
-      "link": "https://www.bundle.app/en/sports/indycar-qualifying-results-who-takes-pole-at-the-freedom-250-E420407E-0B4A-44EA-80BD-C82B16EB5CA1",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/f86bc12e-cfd5-5045-b9a7-870cbfa7f27e.jpg",
-      "published": "2026-08-22 22:19:52",
+      "title": "County of Barrhead racks up $87,000 bill for summer flooding damages",
+      "description": "The County of Barrhead experienced a much wetter summer than normal.",
+      "link": "https://www.townandcountrytoday.com/barrhead-news/county-of-barrhead-racks-up-87000-bill-for-summer-flooding-damages-12691556",
+      "source": "Town And Country Today",
+      "image": "https://www.vmcdn.ca/f/files/townandcountrytoday/images/spotlight/seekers-media/lac-la-nonne-flooding.JPG",
+      "published": "2026-08-22 23:18:00",
       "category": [
-        "sports",
+        "environment",
         "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Back to school giveaways, resource fairs and shopping happening around the Delaware Valley",
-      "description": "Back to school means new teachers, new lessons and for kids in Chester City, it means new backpacks.",
-      "link": "https://6abc.com/post/back-school-giveaways-resource-fairs-shopping-happening-around-delaware-valley/19719235/",
-      "source": "6abc",
-      "image": "https://cdn.abcotvs.com/dip/images/19719929_082226-wpvi-back-2-school-preps-6-vid-vid.jpg",
-      "published": "2026-08-22 22:19:46",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Scholarship announced in honour of late Miss Jamaica Universe Contestant LaToya Malcolm",
-      "description": "Member of Parliament and Minister of State in the Ministry of Industry, Investment and Commerce Delano Seiveright has announced the LaToya Malcolm Scholarship for Resilience in memory of the 2024 Miss Bikini Jamaica International titleholder and former Miss Universe Jamaica contestant. The announcement came amid emotional scenes as the mother, family and friends of Malcolm wept and paid their final respects at her funeral on Saturday. Seiveright, a friend of Malcom, said the scholarship will see two high school students each receiving $100,000 to assist with their educational development. Malcolm, 35, whose sudden passing in July shocked her family, friends and the wider entertainment and pageant communities, was remembered during the deeply emotional service as an exceptionally kind, loving and good-hearted young woman. News of her passing also attracted international media attention, including coverage by major US entertainment outlet TMZ, reflecting the reach she had achieved beyond Jamaica. An actress, entertainer and dance instructor with more than a decade of experience in entertainment, Malcolm competed in the 2024 Miss Universe Jamaica competition and later captured the Miss Bikini Jamaica International 2024 crown, also winning Best Figure, Best Legs and Best Condition. Her pageant success was itself a story of resilience. Malcolm lost her father, Winston, earlier in 2024 but persevered through months of demanding fitness and dance training to capture the title, which she dedicated to his memory. Tributes at Saturday's service reflected not only on Malcolm's accomplishments, but on the person behind them \u2014 a loving daughter who relatives and friends remembered for her warmth, kindness, ambition and generous spirit. Her mother, family members and friends were visibly overcome with grief as mourners gathered to celebrate a life cut painfully short. The LaToya Malcolm Scholarship for Resilience will honour her memory by assisting young people facing challenges while pursuing their education. For this year's award, two deserving high-school students will each receive $100,000 towards their educational development. Seiveright said: \u201cLaToya was special, she was loved, and she will not be forgotten. I hope this assistance in her name will give two young people an opportunity to keep pushing forward despite the challenges they may face.\u201d",
-      "link": "https://www.jamaicaobserver.com/2026/08/22/scholarship-announced-honour-late-miss-jamaica-universe-contestant-latoya-malcolm/",
-      "source": "Jamaica Observer",
-      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/07/waiofj.png",
-      "published": "2026-08-22 22:19:38",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "jamaica"
-      ]
-    },
-    {
-      "title": "What to know about Trump\u2019s 50% tariffs on Canadian goods that just went into effect",
-      "description": "President Donald Trump implemented 50% tariffs on approximately $20 billion worth of Canadian imports on Saturday following failed trade negotiations, prompting Prime Minister Mark Carney to promise retaliatory measures beginning September 8.",
-      "link": "https://www.wishtv.com/news/politics/what-to-know-about-trumps-50-tariffs-on-canadian-goods-that-just-went-into-effect/",
-      "source": "Wish-tv",
-      "image": "https://www.wishtv.com/wp-content/uploads/2026/01/30/Trump-threatens-Canada-with-50-tariff-on-aircraft-sold-in-US-expanding-trade-war-scaled-e1769738762365.jpg?resize",
-      "published": "2026-08-22 22:19:31",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Rory McIlroy: Masters champion improves to go second at BMW Championship",
-      "description": null,
-      "link": "https://www.bundle.app/en/sports/rory-mcilroy-masters-champion-improves-to-go-second-at-bmw-championship-89C6D478-384D-4D9E-B659-B0697196107F",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/44415b04-2e05-5d48-b15a-5880ff377a09.jpg",
-      "published": "2026-08-22 22:19:28",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Penticton council wants to use AI to improve traffic congestion",
-      "description": "Notice of motion from Coun. Campbell Watt met with great enthusiasm from fellow councillors, mayor",
-      "link": "https://similkameenspotlight.com/2026/08/22/penticton-council-wants-to-use-ai-to-improve-traffic-congestion/",
-      "source": "The Similkameen Spotlight",
-      "image": "https://similkameenspotlight.com/wp-content/uploads/sites/31/2026/08/Nanaimo20Main202.jpg",
-      "published": "2026-08-22 22:19:26",
-      "category": [
-        "top",
-        "technology"
       ],
       "country": [
         "canada"
       ]
     },
     {
-      "title": "Jack Chambers on whether Taoiseach will lead FF into next election",
-      "description": null,
-      "link": "https://www.bundle.app/en/breaking-news/jack-chambers-on-whether-taoiseach-will-lead-ff-into-next-election-6498AB0B-B74A-40BC-9F62-D9A9422D8824",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/aaf2c19a-ceab-5b00-847b-0adb70088261.jpg",
-      "published": "2026-08-22 22:19:26",
+      "title": "Tru\u031b\u0323c tie\u0302\u0301p Sitra vs Malkiya full lu\u0301c 23:00, nga\u0300y 27/08",
+      "description": "Link tra\u0323\u0302n \u0111a\u0302\u0301u tru\u031b\u0323c tie\u0302\u0301p Sitra vs Malkiya \u0111u\u031bo\u031b\u0323c die\u0302\u0303n ra va\u0300o lu\u0301c 23:00 gia\u0309i \u0111a\u0302\u0301u Bahrain Premier League, se\u0303 \u0111u\u031bo\u031b\u0323c pha\u0301t so\u0301ng ta\u0323i Socolive TV.",
+      "link": "https://socoliveuu.tv/truc-tiep/sitra-vs-malkiya-luc-2300-ngay-27-08-2026/",
+      "source": "Socolive Tv",
+      "image": null,
+      "published": "2026-08-22 23:17:58",
       "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "brazil"
+      ]
+    },
+    {
+      "title": "Pardoned J6er jailed after vehicle drives \u2018onto sidewalk toward a crowd of people\u2019: police",
+      "description": "MAGA influencer and pardoned Jan. 6 rioter Jake Lang was arrested Saturday in Minnesota after a vehicle he was occupying drove \u201ctoward a crowd of people\u201d near Minneapolis City Hall, according to a statement from the Minneapolis Police Department (MPD). \u201cAt approx. 11:50 a.m., far-right extremist Jake Lang arrived near Minneapolis City Hall with other people in two vehicles. Both vehicles drove onto the sidewalk in front of City Hall toward a crowd of people gathered there,\u201d the statement reads. \u201cMPD intervened and LE partners later arrested all occupants, including Lang, on probable cause riot. Both vehicles were impounded. Additional arrests by MPD occurred near City Hall.\u201d A native New Yorker who now lives in West Palm Beach, Florida, Lang was charged with 11 offenses stemming from Jan. 6, including allegations of assaulting officers with a baseball bat, and spent four years awaiting trial before Trump pardoned approximately 1,500 people connected to the insurrection in January 2025. He was never convicted of any of the charges against him. Since his release, Lang has rebranded as a far-right influencer and has built a reputation for staging provocations that draw counter-protests, including demonstrations in Dearborn, Michigan, Plano, Texas, and Minneapolis since November 2025 that have led to counter-protests, injuries and viral footage. A statement from the Minneapolis Police Department: At approx. 11:50 a.m., far-right extremist Jake Lang arrived near Minneapolis City Hall with other people in two vehicles. Both vehicles drove onto the sidewalk in front of City Hall toward a crowd of people gathered there. \u2014 City of Minneapolis (@CityMinneapolis) August 22, 2026",
+      "link": "https://www.rawstory.com/jake-lang-2677759687/",
+      "source": "Raw Story",
+      "image": "https://www.rawstory.com/media-library/bond-set-at-1-million-for-frequently-arrested-jan-6-rioter-on-new-charges.png?id=66892931&width=980",
+      "published": "2026-08-22 23:17:57",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Amman To Host 4Th International Food, Food Tech Expo In September",
+      "description": "(MENAFN - Jordan Times) AMMAN - The fourth edition of the International Food and Food Tech Expo (INFTEXPO) is set to kick off on September 4 at the Amman International Motor Show on the Airport ...",
+      "link": "https://menafn.com/1111576896/Amman-To-Host-4Th-International-Food-Food-Tech-Expo-In-September",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-22 23:17:48",
+      "category": [
+        "food",
+        "top"
+      ],
+      "country": [
+        "syria",
+        "libya",
+        "egypt",
+        "qatar",
+        "saudi arabia",
+        "morocco",
+        "kuwait",
+        "united arab emirates",
+        "yemen",
+        "algeria",
+        "bahrain",
+        "jordan",
+        "iraq",
+        "lebanon",
+        "tunisia"
+      ]
+    },
+    {
+      "title": "Int@J, EFE-Jordan To Develop Projects To Support Digital Outsourcing, Youth Employment",
+      "description": "(MENAFN - Jordan Times) AMMAN - The Information and Communications Technology Association of Jordan (Int@j) and Education For Employment-Jordan (EFE-Jordan) discussed developing new projects to ...",
+      "link": "https://menafn.com/1111576897/IntJ-EFE-Jordan-To-Develop-Projects-To-Support-Digital-Outsourcing-Youth-Employment",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-08-22 23:17:48",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "syria",
+        "libya",
+        "egypt",
+        "qatar",
+        "saudi arabia",
+        "morocco",
+        "kuwait",
+        "united arab emirates",
+        "yemen",
+        "algeria",
+        "bahrain",
+        "jordan",
+        "iraq",
+        "lebanon",
+        "tunisia"
+      ]
+    },
+    {
+      "title": "INTERVIEW: Minnesota Farmers Union unveils 2 new State Fair items",
+      "description": "Minnesota Farmers Union debuts two new foods at the Minnesota State Fair, including the Farmer's Muffin Top and watermelon mint limeade. The post INTERVIEW: Minnesota Farmers Union unveils 2 new State Fair items first appeared on KSTP.com 5 Eyewitness News .",
+      "link": "https://kstp.com/kstp-news/local-news/interview-minnesota-farmers-union-unveils-2-new-state-fair-items/",
+      "source": "Kstp Television",
+      "image": "https://kstp.com/wp-content/uploads/2026/08/farmer-union-state-fair.png",
+      "published": "2026-08-22 23:17:44",
+      "category": [
+        "food",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sydney Sweeney sizzles in Wonder Woman corset costume as she soaks up summer romance with Scooter Braun",
+      "description": "Sydney Sweeney is turning up the heat with her superhero alter ego. The \u201cEuphoria\u201d star... The post Sydney Sweeney sizzles in Wonder Woman corset costume as she soaks up summer romance with Scooter Braun appeared first on Democratic Accent .",
+      "link": "https://www.democraticaccent.com/sydney-sweeney-sizzles-in-wonder-woman-corset-costume-as-she-soaks-up-summer-romance-with-scooter-braun/",
+      "source": "Democratic Accent",
+      "image": "https://i0.wp.com/www.democraticaccent.com/wp-content/uploads/2026/08/sydney-sweeney-wonder-woman-d4RmKQ.jpg?fit=931%2C523&#038;ssl=1",
+      "published": "2026-08-22 23:17:41",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "En fotos: la celebracio\u0301n de los 90 an\u0303os de la Orquesta Sinfo\u0301nica Nacional de Colombia",
+      "description": "La Orquesta Sinfo\u0301nica Nacional de Colombia celebro\u0301 90 an\u0303os de su fundacio\u0301n en 1936 con un concierto en el Teatro Colo\u0301n.",
+      "link": "https://www.elespectador.com/el-magazin-cultural/en-fotos-la-celebracion-de-los-90-anos-de-la-orquesta-sinfonica-nacional-de-colombia/",
+      "source": "Elespectador.com",
+      "image": "https://www.elespectador.com/resizer/v2/3JIEMZRMBVDPRAZVND74ZTZWGI.JPG?auth=6649f132d164652f1d73600be393cd126f56d1bab1043d0bf67b00d130d3199e&smart=true",
+      "published": "2026-08-22 23:17:33",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "colombia"
+      ]
+    },
+    {
+      "title": "Jessica Pegula defeats Iga Swiatek to reach Cincinnati Open final",
+      "description": "Pegula took down the defending champion in a 7-5, 4-6, 6-4 contest that lasted nearly three hours.",
+      "link": "https://www.cincinnati.com/story/sports/tennis/2026/08/22/wta-cincinnati-open-semifinals-pegula-gauff-bejlek/91424642007/",
+      "source": "The Enquirer",
+      "image": "https://www.cincinnati.com/gcdn/authoring/authoring-images/2026/08/22/PCIN/91426245007-082226-tennis-cincnnati-69.JPG?crop=5351,3010,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-22 23:17:33",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Deshaun Watson calls booing by Browns fans \u2018disrespectful\u2019 and \u2018personal,\u2019 but QB feels love on road",
+      "description": "CLEVELAND (AP) \u2014 Browns quarterback Deshaun Watson fired back at his detractors, calling the booing he heard from some Cleveland fans during Saturday\u2019s home preseason loss against Buffalo \u201cdisrespectful\u201d and \u201cpersonal.\u201d Watson, who has a complicated relationship with Cleveland fans because of injuries, off-field issues \u2014 including an NFL suspension in 2022 \u2014 and a...",
+      "link": "https://mymotherlode.com/sports/nfl-general-news/11086809/deshaun-watson-calls-booing-by-browns-fans-disrespectful-and-personal-but-qb-feels-love-on-road.html",
+      "source": "Mymotherlode.com - The Mother Lode's Local News, S",
+      "image": "https://mymotherlode.com/wp-content/uploads/2026/08/AP_ed12913b55da444ba4a824b73804ce26_cdf6493439.jpg",
+      "published": "2026-08-22 23:17:26",
+      "category": [
+        "sports",
         "politics",
         "top"
       ],
@@ -167,17 +212,78 @@
       ]
     },
     {
-      "title": "Kelowna Hockey Fest takes over MNP Place to raise funds for the local YMCA",
-      "description": "More than 30 former and current NHL players were involved in the game on Aug. 22",
-      "link": "https://kelownacapnews.com/2026/08/22/kelowna-hockey-fest-takes-over-mnp-place-to-raise-funds-for-the-local-ymca/",
-      "source": "Kelowna Capital News",
-      "image": "https://kelownacapnews.com/wp-content/uploads/sites/5/2026/08/Image_20260822_151538_610.jpeg",
-      "published": "2026-08-22 22:19:22",
+      "title": "Dallas Rapper BigXthaPlug Arrested In Texas On Drug And Gun Charges",
+      "description": "The southern hip-hop, trap and country-rap artist also performed at London's Wireless Festival in 2025.",
+      "link": "https://www.timesnownews.com/world/us/us-news/dallas-rapper-bigxthaplug-arrested-in-texas-on-drug-and-gun-charges-article-155970223",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-155970224,thumbsize-1152705,width-1280,height-720,resizemode-75/155970224.jpg",
+      "published": "2026-08-22 23:17:26",
       "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "World No. 3 Pegula beats defending champ Swiatek to reach Cincy final",
+      "description": "CINCINNATI: World number three Jessica Pegula out-lasted defending champion Iga Swiatek 7-5, 4-6, 6-4 on Saturday to reach the final of the ATP-WTA Cincinnati Masters.",
+      "link": "https://www.nst.com.my/sports/racquet-sports/2026/08/1516809/world-no-3-pegula-beats-defending-champ-swiatek-reach-cincy",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/9C63D81EA94AC1EE81A1656024F81E12_data_0.jpg",
+      "published": "2026-08-22 23:17:13",
+      "category": [
+        "sports",
         "top"
       ],
       "country": [
-        "canada"
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Steelers OC Opens up on WR Roman Wilson Amid Criticism From Preseason Week 2",
+      "description": null,
+      "link": "https://www.bundle.app/en/sports/steelers-oc-opens-up-on-wr-roman-wilson-amid-criticism-from-preseason-week-2-DAFF94F3-3747-4D0E-B925-BD7C614A0CE5",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/cf169548-bdb3-5445-b489-a94b91bf9bba.jpg",
+      "published": "2026-08-22 23:17:12",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "ArtFest returns to downtown Green Bay for 4th annual festival",
+      "description": "This year, visitors can enter an art raffle featuring pieces donated by local artists, with proceeds going back into downtown beautification.",
+      "link": "https://www.wbay.com/2026/08/22/artfest-returns-downtown-green-bay-4th-annual-festival/",
+      "source": "Https://www.wbay.com",
+      "image": "https://gray-wbay-prod.gtv-cdn.com/resizer/v2/7Z2VN6IZGNAI7IUZEYLNM6WVNA.jpg?auth=9262cb8597f0fe2cf6c72076358c3d223219a9d74138d44af7796be0525b4ddd&width=1200&height=600&smart=true",
+      "published": "2026-08-22 23:17:09",
+      "category": [
+        "top",
+        "tourism"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Stetson Bennett looks sharp, Saints' backup QBs don't separate in Rams' 34-0 preseason win",
+      "description": "The Los Angeles Rams cruised to a 34-0 preseason victory over the New Orleans Saints. Stetson Bennett passed for 181 yards and rushed for two TDs while leading the Rams to a 20-point halftime lead,...",
+      "link": "https://www.houstonchronicle.com/sports/article/stetson-bennett-looks-sharp-saints-backup-qbs-22399597.php",
+      "source": "Houston Chronicle",
+      "image": "https://s.hdnux.com/photos/01/67/11/47/31234503/3/square_large.jpg",
+      "published": "2026-08-22 23:17:01",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

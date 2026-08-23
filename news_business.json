@@ -1,49 +1,66 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "2027 budget to focus on cost of living and investments, says Fahmi",
-      "description": "The federel budget proposals for next year are expected to be tabled in Parliament on Oct 9.",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/08/23/2027-budget-to-focus-on-cost-of-living-investments-says-fahmi",
-      "source": "Free Malaysia Today",
-      "image": "https://storage.googleapis.com/fmt-media-ecb9/v3/2026/07/749b99fd-9eed-4bf3-9fc9-f81ab14a437c-6-FAHMI-FADZIL-PACAK-WAYANG-JERAM-PADANG-MOGANRAJ-FMT-25072026-copy-3.webp",
-      "published": "2026-08-23 03:18:00",
+      "title": "UAE market free of recalled GreenWise frozen berries",
+      "description": "Abu Dhabi: The Ministry of Climate Change and Environment (MOCCAE) has confirmed that frozen berry products marketed under the GreenWise brand are not available in the UAE market following their recall in the United States over potential contamination with E. coli bacteria. In a statement published on its official account on the social media platform X, the ministry said the confirmation came after the relevant regulatory authorities completed investigations and verified import and distribution records across local markets. The ministry stated that the review found no trace of the affected products in the UAE market. The announcement followed the recall of GreenWise frozen berry products in the United States as a precautionary measure related to potential E. coli contamination. The ministry reiterated its commitment to monitoring food products and taking the necessary measures to ensure that products available in local markets meet approved health and safety standards.",
+      "link": "https://www.emirates247.com/uae/uae-market-free-of-recalled-greenwise-frozen-berries/4824",
+      "source": "Emirates24|7",
+      "image": "https://api.emirates247.com/emirates247/uploads/images/2026/08/23/7414.webp",
+      "published": "2026-08-23 04:21:00",
       "category": [
         "business",
+        "environment",
         "top"
       ],
       "country": [
-        "malaysia"
+        "united arab emirates"
       ]
     },
     {
-      "title": "Humanoid Robot Beats Men 100m World Record In Beijing",
-      "description": "A humanoid robot clocked 9.39 seconds to beat the men\u2019s 100m world record of 9.58 seconds during the opening ceremony of the second edition of the World Humanoid Robot Games at the National Speed Skating Oval in Beijing on Saturday. The men\u2019s 100m world record is 9.58 seconds, set by Usain Bolt in Berlin in [...]",
-      "link": "https://www.businesstoday.com.my/2026/08/23/humanoid-robot-beats-men-100m-world-record-in-beijing/",
-      "source": "Businesstoday | Malaysia",
+      "title": "What Warren Buffett and Tony Elumelus Legendary Lives Tell Us",
+      "description": "VIEW POINT In a deeply personal and reflective letter to shareholders at the end of 2025, Americas billionaire investor, Warren Buffett, reminded the world that while money matters, the highest",
+      "link": "https://www.latestnigeriannews.com/p/378166/what-warren-buffett-and-tony-elumelus-legendary-lives-tell-us.html",
+      "source": "Latest Nigerian News",
       "image": null,
-      "published": "2026-08-23 03:17:48",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Iran's President pushes for dialogue",
-      "description": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru and other cities stood steady as Iranian President Masoud Pezeshkian pushed for dialogue amid the standoff with US. Check exact fuel rates here.",
-      "link": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-irans-president-pushes-for-dialogue-11787450428267.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/Some-of-the-political-framing-around-E20-is-opport_1787454660626_1787454682266_9cd62f87-4e3a-4f7b-90fe-ad1ed96860d0.jpg",
-      "published": "2026-08-23 03:17:17",
+      "published": "2026-08-23 04:20:36",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "india"
+        "nigeria"
+      ]
+    },
+    {
+      "title": "SOUTH AFRICAS BLOOD MONEY BILL",
+      "description": "South Africa wants money. The government of South Africa has levied Nigeria, Ethiopia and Ghana. The levy is the sum of $18.5m for expenses incurred in repatriating citizens of those",
+      "link": "https://www.latestnigeriannews.com/p/378172/south-africas-blood-money-bill.html",
+      "source": "Latest Nigerian News",
+      "image": null,
+      "published": "2026-08-23 04:20:36",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "SEC Proposes N30m Registration Fee, N2bn Capital Requirement for Crypto Firms",
+      "description": "Insists operators must maintain local presence, resident chief executives The Securities and Exchange Commission (SEC) has proposed a new regulatory framework for Nigerias digital asset industry, prescribing registration fees",
+      "link": "https://www.latestnigeriannews.com/p/378165/sec-proposes-n30m-registration-fee-n2bn-capital-requirement-for-crypto-firms.html",
+      "source": "Latest Nigerian News",
+      "image": null,
+      "published": "2026-08-23 04:20:31",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
       ]
     }
   ]

@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "9 new health centres to be set up in Haryana",
+      "description": "The Haryana Government has approved the opening of nine new Sub-Health Centres and the upgradation of one existing Sub-Health Centre into a Primary Health Centre (PHC). Health Minister Arti Singh Rao said CM has accorded approval for the expansion of the state\u2019s rural healthcare network with Nuh district set to receive seven of the nine [...]",
+      "link": "https://www.tribuneindia.com/news/haryana/9-new-health-centres-to-be-set-up-in-haryana",
+      "source": "The Tribune India",
+      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/08/6a7d5f66aba01-NEET-medical-iStock.jpg",
+      "published": "2026-08-23 04:20:48",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Wrexham therapist launches book tackling anxiety and self-doubt",
+      "description": "A Wrexham therapist has drawn on more than 25 years of working with clients struggling with anxiety, self-doubt and confidence issues for a new book...",
+      "link": "https://wrexham.com/news/wrexham-therapist-launches-book-tackling-anxiety-and-self-doubt-297906.html",
+      "source": "Wrexham",
+      "image": "https://wrexham.com/wp-content/uploads/2026/08/CatAuthor.jpg",
+      "published": "2026-08-23 04:20:22",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

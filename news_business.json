@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Pipe down, SEC: Big Ten has a strength-of-schedule argument now",
-      "description": "Pipe down, SEC snobs. This whole strength-of-schedule thing is way overblown. Like many things of the not-so-distant past, the argument has been blown away by a Big Ten revival.",
-      "link": "https://chippewa.com/sports/college/football/article_8eca17cc-fcff-5f1d-82ef-8f1a983608b2.html",
-      "source": "Chippewa Herald",
-      "image": "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/5/e5/5e520f29-1385-5df4-86af-8ab45be69479/6a86ff51d9172.image.jpg?resize=300%2C200",
-      "published": "2026-08-22 19:30:00",
+      "title": "HMRC 25% penalty charge warning for savers with these bank accounts",
+      "description": "These accounts are meant to help savers put aside money for some of life\u2019s biggest expenses - their first home and retirement.",
+      "link": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-25-penalty-charge-warning-34472797",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34472833.ece/ALTERNATES/s615/0_bills1.jpg",
+      "published": "2026-08-22 20:25:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "FHTA says TST confusion could have been avoided",
+      "description": "The Fiji Hotel and Tourism Association says the confusion surrounding the new Tourism Services Tax could have been avoided if Government had listened to industry concerns. FHTA Chief Executive Fantasha Lockington says the association raised concerns about the five percent tax months before it was gazetted. She says the industry asked for holidays already booked [...]",
+      "link": "https://www.fbcnews.com.fj/news/fhta-says-tst-confusion-could-have-been-avoided/",
+      "source": "Fbc News",
+      "image": "https://www.fbcnews.com.fj/wp-content/uploads/2024/06/Fantasha-Lockington.jpg",
+      "published": "2026-08-22 20:24:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "fiji"
       ]
     }
   ]

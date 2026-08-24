@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Dog food recalled across US and Canada after complaints of metal contamination",
+      "description": "Nearly 5,800 cases of Fromm Turkey Pa\u0302te\u0301 and Diner Classics Milo\u2019s Meatloaf Pa\u0302te\u0301 are being recalled over potential metal contamination. No illnesses or injuries have been reported.",
+      "link": "https://www.foxbusiness.com/lifestyle/dog-food-recalled-across-us-canada-after-complaints-metal-contamination",
+      "source": "Fox Business",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/dog-eating-from-bowl-stock-image.jpg",
+      "published": "2026-08-23 22:33:55",
+      "category": [
+        "breaking",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Morning Wrap: ASX 200 to rise, S&P 500 higher, Mining stocks set to soar - Market Index",
+      "description": "Morning Wrap: ASX 200 to rise, S&P 500 higher, Mining stocks set to soar Market Index Markets live updates: ASX set to lift as Wall Street slump arrested ABC News & Headlines \u2013 Australian Broadcasting Corporation Bendigo Bank warns of \u2018softening property cycle, rate hikes\u2019 Adelaide Now ASX Runners of the Week: Genesis, Triton, Pure One & DXN The West Australian ASX set to rise as Wall Street advances; $A, bitcoin stronger SMH.com.au",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXpRTmYwRExMbTRwaVl2cDlSd3p2NDJ0YlNMdUx1MENmUTlscEZQN3dTTDg0TzM3eUVWdzN5ZWZtdmVaNV81TUU2RURQYmxuMHIyVi1lY0hnT2FBRnlqZXRvMVdKVERIRnBfRFBiVXRnZFoyZGoxbHZBOGR0dW1QRldGd2FKYUxkcUZBc1pFVjhwVEN0S2JKUnFVOTE3bWVHY1ZpeGg2VHB0bVZfanc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-23 22:33:21",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "ASX 200 Live Today - Monday, 24th August - Market Index",
+      "description": "ASX 200 Live Today - Monday, 24th August Market Index Rise and Shine: Everything you need to know before the ASX opens Stockhead 5 things to watch on the ASX 200 on Monday 24 August 2026 The Motley Fool Australia",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lYWdMMXNxdExKTmlaUDd2Z1RzTXp4QkNYUk42QjFHS2trN2VhVWVLTmg0cGI5blo5R1MyRGRiN21EY3psYWZHN1oxWklaYS1BTzMwTXVSUEItV0hhX21NWFlRSG1RUEVZbFd0QTF1MG5abXJIeDRSNkxXczgxUQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-23 22:33:21",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

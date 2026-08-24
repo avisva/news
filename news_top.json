@@ -1,88 +1,182 @@
 {
   "status": "success",
-  "totalResults": 12,
+  "totalResults": 17,
   "results": [
     {
-      "title": "Talented gelding a Force to be reckoned with at Newcastle",
-      "description": "Force March has not raced since an impressive second at Wyong in early April, but she is set to return in style on Tuesday.",
-      "link": "https://www.smh.com.au/sport/racing/talented-gelding-a-force-to-be-reckoned-with-at-newcastle-20260824-p60r1t.html",
-      "source": "The Sydney Morning Herald",
-      "image": "https://static.ffx.io/images/$zoom_0.5017%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_99%2C$y_109/t_crop_custom/q_86%2Cf_auto/5da90945ffe7394a831d247ead430bacde4d6753",
-      "published": "2026-08-24 06:35:00",
+      "title": "Cyberabad police seize 100 tonnes of chicken waste in raids",
+      "description": "Hyderabad: The Cyberabad police and veterinary officials seized 100 tons of chicken waste during raids across the commissionerate on Monday, August 24. According to the police, the accused sold the chicken waste to fish pond owners in Andhra Pradesh. Veterinary officials warned that consuming fish fed with chicken waste could cause cancer. The police inspected ... Get the latest updates in Hyderabad City News , Technology , Entertainment , Sports , Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS .",
+      "link": "https://www.siasat.com/cyberabad-police-seize-100-tonnes-of-chicken-waste-in-raids-3529702/",
+      "source": "Siasat.com",
+      "image": null,
+      "published": "2026-08-24 07:26:00",
       "category": [
-        "sports",
+        "crime",
         "top"
       ],
       "country": [
-        "australia"
+        "india"
       ]
     },
     {
-      "title": "EU approves further \u20ac6.1b for Ukraine's defence",
-      "description": "The \u2060EU said this latest \u200baid package came on \u200btop of \u20ac16 billion of previously approved procurement plans, of which \u20ac8.35 \u200bbillion had already been \u200bdisbursed",
-      "link": "https://www.tbsnews.net/worldbiz/europe/eu-approves-further-eu61b-ukraines-defence-1523176",
-      "source": "The Business Standard",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2025/06/21/eu_european_union_flag.jpg",
-      "published": "2026-08-24 06:35:00",
+      "title": "Prabowo surveys Indonesia wildfires causing world\u2019s worst air",
+      "description": "JAKARTA: Indonesia President Prabowo Subianto said authorities will revoke the permits of companies found to be responsible for the forest fires that have left a Malaysian city with the world's worst air pollution.",
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/24/prabowo-surveys-indonesia-wildfires-causing-worlds-worst-air",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/24/4075323.png",
+      "published": "2026-08-24 07:26:00",
       "category": [
+        "environment",
         "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure",
+      "description": "- BROOMFIELD, Colo. and AUSTIN, Texas, Aug. 11, 2026 /PRNewswire/ -- Quantinuum (NASDAQ: QNT), a leading quantum computing company, and Oracle today announced a multi-year strategic partnership to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will be able to directly access Quantinuum's Helios, the most accurate commercial quantum computer in the world,[1] through OCI's quantum service, alongside OCI's high-performance computing (HPC) and GPU infrastructure. Together, Quantinuum and Oracle plan to explore how hybrid quantum-AI infrastructure could address some of the most computationally intensive challenges facing enterprises and broaden access for universities and research institutions advancing scientific discovery and education. The partnership reflects a shared vision that the future of enterprise computing will be built on the convergence of AI, classical supercomputing, and quantum computing. Many complex problems across materials discovery, drug development, logistics, energy, and financial modeling already push the limits of today's computing architectures. \"We believe the next phase of enterprise computing will be shaped by bringing quantum, AI, and high-performance computing together,\" said Dr. Rajeeb Hazra, President and CEO of Quantinuum. \"Deploying Helios inside OCI gives Quantinuum and Oracle an opportunity to create a unique deeply integrated environment for hybrid workloads, explore enterprise use cases with customers, and accelerate commercial adoption.\" Quantum computing offers a fundamentally different approach to computation with the potential to address problems that are impractical for traditional systems alone. In addition, quantum computing uses significantly less energy than supercomputers. A single Helios system has an estimated power draw of less than one percent of the draw reported for leading supercomputers,[2] offering a lower power complementary resource for suitable hybrid workloads. \"AI has changed what organizations can imagine, and we believe quantum computing can expand what they're able to solve,\" said Mahesh Thiagarajan, Executive Vice President of Oracle Cloud Infrastructure. \"By bringing Quantinuum's Helios to Oracle Cloud Infrastructure, we want to give developers a practical and secure way to explore how quantum computing could complement their existing AI and HPC workloads on Oracle Cloud Infrastructure while improving compute efficiency and energy use.\" With Quantinuum's Helios on OCI, customers can expect to gain managed, secure access to cloud-hosted quantum computing without having to procure, install, or operate dedicated hardware or specialized facilities. Helios, launched commercially in November 2025, is Quantinuum's third-generation quantum computer. The 98-physical-qubit trapped-ion system has been used in demonstrations involving 48 logical qubits and achieves an average two-qubit gate fidelity of 99.921%, exceeding the widely cited \"three 9s\" threshold. Helios is designed for hybrid integration with classical HPC and AI environments. By operating on-premises within OCI's infrastructure, Helios is anticipated to be able to integrate seamlessly with existing OCI compute, networking, storage, identity, and data services under the same governance and access controls customers already use. Oracle plans to preview its OCI quantum service in the coming months, giving developers a streamlined way to move from simulation to execution on real quantum computing hardware. The planned OCI quantum service is expected to combine Quantinuum's development stack with support for open-source hybrid-programming frameworks, helping developers build, test, and refine quantum-classical applications more efficiently. New Possibilities for Hybrid Quantum-AI Computing \"Our roadmap includes exploring classical-quantum hybrid computing to accelerate scientific discovery,\" said Johannes Blaschke, Head of Scientific Computing, GBI at Ellison Institute of Technology. \"QPUs promise to unlock new insights as they are very different from the hardware that we are used to. So having both GPUs and QPUs available within OCI would provide an all-in-one platform, simplify the operation of novel hardware, and help us move at speed from concept to execution by allowing our researchers to focus on innovation. It could herald in an exciting new phase for our work.\" \"As quantum computing moves closer to enterprise adoption, simplifying how organizations access and integrate quantum resources has become just as important as advancing the hardware itself,\" said Heather West, PhD, Global Quantum Research Lead at IDC. \"Deploying quantum systems within private cloud environments enables organizations to integrate quantum computing into existing AI and HPC workflows through familiar cloud infrastructure and development tools, reducing barriers to adoption and making hybrid quantum-classical computing a practical part of enterprise IT.\" About Quantinuum Quantinuum is a leading quantum computing company offering a full-stack platform designed to make quantum computing deployable in real-world environments. The company has commercially deployed multiple generations of trapped-ion based quantum systems built on the well-established QCCD architecture, which it has implemented with novel designs and capabilities to achieve the industry's highest accuracy levels based on average two-qubit gate fidelity.[3] Quantinuum has active engagements with market leaders across pharmaceuticals, material science, financial services, and government and industrial markets, as well as academic and research institutions globally. The company has a global workforce of approximately 800 employees, including top scientists and researchers. Over 70% of its technology team holds PhDs or Master's degrees. Quantinuum's headquarters is in Broomfield, Colorado, with additional facilities across the United States, United Kingdom, Germany, Japan, Qatar, and Singapore. For more information, please visit www.quantinuum.com. About Oracle Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle, please visit us at www.oracle.com. Trademarks Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company\u2014ushering in the new era of cloud computing. Cautionary Statement Concerning Forward-Looking Statements This press release contains certain statements that may be deemed \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements that are not historical facts. The words \"anticipate,\" \"assume,\" \"believe,\" \"continue,\" \"could,\" \"estimate,\" \"expect,\" \"intend,\" \"may,\" \"plan,\" \"potential,\" \"predict,\" \"project,\" \"future,\" \"will,\" \"seek,\" \"foreseeable,\" the negative version of these words, or similar terms and phrases are intended to identify forward-looking statements. Such statements are based on certain assumptions and assessments made by our management in light of their experience and their perception of historical trends, current economic and industry conditions, expected future developments and other factors they believe to be appropriate. The forward-looking statements included in this release are also subject to a number of material risks and uncertainties, including but not limited to economic, competitive, governmental, and technological factors affecting our operations, markets, products, services and prices. New factors emerge from time to time, and it is not possible for Quantinuum to predict all such factors. Any forward-looking statement speaks only as of the date on which it is made, and, except as required by law, Quantinuum does not undertake any obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise. Future Product Disclaimer The above is intended to outline our general product direction. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, timing, and pricing of any features or functionality described for Oracle's products may change and remains at the sole discretion of Oracle Corporation. [1] Based on two-qubit gate fidelity as of December 31, 2025. [2] According to Tchakoute, R.N., et al. (2026) Energy-Aware Computing in the Year 2026., leading supercomputers use 16 MW to 39 MW of energy, whereas a single Helios unit uses approximately 60 kW without an HVAC system. [3] As of December 31, 2025. View original content to download multimedia:https://www.prnewswire.co.uk/news-releases/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure-302848857.html Copyright 2026 PR Newswire. All Rights Reserved.",
+      "link": "https://www.iltempo.it/adnkronos/2026/08/24/news/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure-48935893/",
+      "source": "Il Tempo",
+      "image": "https://www.iltempo.it/assets/images/placeholder_iltempo_gallery.png",
+      "published": "2026-08-24 07:26:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "italy"
+      ]
+    },
+    {
+      "title": "Met Office forecast names Birmingham in 134 areas to get soaked with rain in 'weahter phenomenon'",
+      "description": "The Met Office has said there could be widespread thunderstorms after a summer of intense heat",
+      "link": "https://www.birminghammail.co.uk/news/uk-news/met-office-forecast-names-birmingham-34506172",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34487943.ece/ALTERNATES/s615/0_NWP_BEM_130226Rain_09JPG.jpg",
+      "published": "2026-08-24 07:25:58",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "DXB T3 rolls out complimentary treats, live music for August travelers",
+      "description": "DXB T3 rolls out complimentary treats, live music for August travelers",
+      "link": "https://bangladeshmonitor.com.bd/en/dxb-t3-rolls-out-complimentary-treats-live-music-for-august-travelers",
+      "source": "The Bangladesh Monitor",
+      "image": "https://m360ict.s3.ap-south-1.amazonaws.com/monitor-website-storage/news-media-files/31f82389b6fb9bccba77acbd.webp",
+      "published": "2026-08-24 07:25:57",
+      "category": [
+        "top",
+        "tourism"
       ],
       "country": [
         "bangladesh"
       ]
     },
     {
-      "title": "$91 million for a college football coach. Hope you like your $4 DoorDash tip. Your student loan payment depends on it [Asinine]",
-      "description": null,
-      "link": "https://www.fark.com/comments/14173626",
-      "source": "Fark",
-      "image": "https://img.fark.net/pub/topics/asinine.gif",
-      "published": "2026-08-24 06:35:00",
+      "title": "Clean LA With Me founder is on a mission to tackle city trash and clean up Los Angeles",
+      "description": "Armed with gloves and trash bags, Juan Naula is on a mission to clean up Los Angeles and is urging residents and the city to help.",
+      "link": "https://www.yahoo.com/news/articles/clean-la-founder-mission-tackle-072555436.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/0c3bd837b6c808a2c73391662bc54415bf862cdafdb7209434be1ee2b7e0585b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkabc_articles_995%2F12f0cd0f740f32f0925571b4dad8773e.jpg",
+      "published": "2026-08-24 07:25:55",
       "category": [
-        "business",
-        "top"
+        "top",
+        "lifestyle"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Highlights and report from Kerry IFC: Glenflesk to face Laune Rangers in quarter-finals despite loss to Castleisland Desmonds",
-      "description": "Adam O\u2019Donoghue\u2019s late two-pointer gave Desmonds victory but they will still face a relegation semi-final against Firies after finishing bottom of Group 4",
-      "link": "https://www.independent.ie/county/kerry/highlights-and-report-from-kerry-ifc-glenflesk-to-face-laune-rangers-in-quarter-finals-despite-loss-to-castleisland-desmonds/a/160384639.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-08-24 06:35:00",
+      "title": "War film based on 'harrowing' real experiences in World War Two now on Netflix",
+      "description": "A Spanish historical drama about a photographer imprisoned at the Mauthausen concentration camp during World War II has stunned Netflix viewers.",
+      "link": "https://www.mirror.co.uk/tv/tv-news/war-film-based-harrowing-real-37574234",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37575045.ece/ALTERNATES/s615/0_Screenshot-2026-08-20-at-120509jpeg.jpg",
+      "published": "2026-08-24 07:25:55",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Premier League: Maresca's ''perfect day'' as City rallies for win, Liverpool grabs late equalizer",
+      "description": "A big welcome from the fans at the start. A stoppage-time winner at the end.",
+      "link": "https://www.dtnext.in/news/sports/premier-league-marescas-perfect-day-as-city-rallies-for-win-liverpool-grabs-late-equalizer",
+      "source": "Dt Next",
+      "image": "https://media.assettype.com/dt-next/2026-08-24/y3vvfv58/1-44.jpg?w=280",
+      "published": "2026-08-24 07:25:54",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "ireland"
+        "india"
       ]
     },
     {
-      "title": "DNOW Inc. Sued for Securities Law Violations \u2013 Contact the DJS Law Group to Discuss Your Rights \u2013 DNOW",
-      "description": "LOS ANGELES, Aug. 24, 2026 /PRNewswire/ \u2014 The DJS Law Group reminds investors of a class action lawsuit against DNOW Inc. (\u201cDNOW\u201d or \u201cthe Company\u201d) (NYSE: DNOW) violations of \u00a7\u00a710(b) and 20(a) of...",
-      "link": "https://nynewscast.com/dnow-inc-sued-for-securities-law-violations-contact-the-djs-law-group-to-discuss-your-rights-dnow-249533/",
-      "source": "Nynewscast",
-      "image": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
-      "published": "2026-08-24 06:35:00",
+      "title": "Polls underway for 7 reserved seats in AJK Legislative Assembly",
+      "description": "Elections on seven reserved seats in the Azad Jammu and Kashmir (AJK) Legislative Assembly are currently underway. Polling began after 10am and will continue until 1pm. Under Article 22(1) of the AJK Constitution, the Legislative Assembly consists of 53 members, including 45 members elected directly through adult franchise and eight members chosen by directly elected representatives. The reserved seats include five seats for women and one each for Ulema-i-Din or Mashaikh well-versed in the teachings of Islam, Jammu and Kashmir State subjects residing abroad, and technocrats and other professionals. PML-N\u2019s Chaudhry Abdul Rehman Arain was the only candidate to have submitted his nomination papers for the seat reserved for state subjects residing abroad. He was consequently declared elected unopposed. Elections to seven of the 45 directly elected seats \u2014 five in Poonch district and two in Sudhnoti district \u2014 could not be held due to the law and order situation in the region. As a result, the 38 members elected so far, representing 84.4 per cent of the directly elected membership, are participating in the reserved seat elections. Six candidates are contesting five seats reserved for women, according to the final list issued by the Election Commission on Sunday. The candidates in the fray are PML-N\u2019s Riffat Abid, Sehrish Qamar, Maryam Idrees and Maryam Zaman, also known as Maryam Kashmiri, and PPP\u2019s Farzana Yaqoob and Zobia Khurshid Raja. For the seat reserved for Ulema and Mashaikh, PPP\u2019s Hafiz Tariq Mahmood is facing against PML-N\u2019s Mohammad Mazhar Saeed. Similarly, PML-N\u2019s Barrister Syed Iftikhar Gillani and PPP\u2019s Sahibzada Zulfiqar Ali are contesting the seat reserved for technocrats and professionals. As the inaugural session of the incoming Legislative Assembly has already been summoned for 2pm on Monday, shortly after the announcement of the results, all newly elected members will take an oath at the hands of outgoing Speaker Chaudhry Latif Akbar, who failed to retain his seat in the elections. AJK polls The elections in the region, originally scheduled for July 27, were divided into phases over security concerns amid unrest in the region. The first phase was held on July 27, the second on Aug 2 and the third on Aug 10. The third phase was originally meant to cover all of Poonch Division, which comprises 11 constituencies, including three in Bagh, one in Haveli, five in Poonch district and two in Sudhnoti district. However, the AJK Election Commission announced that polling would only go ahead as scheduled in Bagh and Haveli because of concerns over the law and order situation. So far, in the direct elections to 38 constituencies, the PML-N has secured 25 seats while the PPP won 12. The lone MLA-elect of the Awami Dast-o-Bazu party has also joined hands with the PML-N . The PPP has alleged widespread rigging in the polls, with the party also ramping up its criticism of the ruling PML-N in recent days. Last week, PPP Chairman Bilawal Bhutto-Zardari said that a genuine alliance with the PML-N was not possible until their grievances regarding the AJK polls were addressed as he established formal contact with the PTI and offered to cooperate with the party in Parliament. Speaking to the media, the PPP chairman alleged that the AJK election process had been made controversial for political interests. He alleged that the federal government\u2019s political and administrative machinery had remained active in AJK throughout the six-phase election process, raising serious questions over its transparency. The PPP, he said, had raised its objections before the Election Commission, parliament and other constitutional forums, but the PML-N had failed to address its concerns or engage in meaningful dialogue after the polls. Moreover, he said the commitments and political understandings reached with the PML-N before the prime minister\u2019s election had not been honoured. The PPP had cooperated in the wider national interest, he said, but there could be no genuine alliance with the PML-N unless the party\u2019s concerns over the AJK elections were addressed and political commitments fulfilled. He pointed out that the government needed PPP\u2019s votes for several important laws, constitutional amendments and difficult bills. He said legislation could not be forced through on the basis of a majority or through coercion. The discord between the PPP and PML-N was also apparent in the National Assembly on Aug 18, when the former managed to compel the government to virtually suspend the heavy legislative agenda for the day, which included 21 bills. On Aug 20, when the lower house of Parliament passed two bills pertaining to the military and nuclear command structure, the PPP also objected to the manner in which the legislation was presented. While the party ultimately voted in favour of the bills, Bilawal lashed out at the government for not taking ruling allies on board.",
+      "link": "https://www.dawn.com/news/2024952/polls-underway-for-7-reserved-seats-in-ajk-legislative-assembly",
+      "source": "Dawn",
+      "image": "https://i.dawn.com/large/2026/08/240950519fc57cd.webp",
+      "published": "2026-08-24 07:25:49",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "FSSAI Suspends Delhi Retailer\u2019s Licence, Bans Sale of Daman Ghee Products",
+      "description": "Shafaqna India: The Food Safety and Standards Authority of India (FSSAI) has taken regulatory action against two food businesses in Delhi and Daman after inspections and laboratory tests uncovered serious food safety violations and continued non-compliance. The regulator has suspended the licence of Marche Retail Private Limited in New Delhi for 30 days with immediate effect. [...]",
+      "link": "https://india.shafaqna.com/EN/fssai-suspends-delhi-retailers-licence-bans-sale-of-daman-ghee-products/",
+      "source": "India News (news Reader)",
+      "image": "https://india.shafaqna.com/wp-content/uploads/2026/08/FSSAI.webp",
+      "published": "2026-08-24 07:25:49",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united states of america"
+        "iran",
+        "lebanon",
+        "bahrain",
+        "iraq"
       ]
     },
     {
-      "title": "\u2018He should be panicked\u2019: Sleepy tradie slammed by magistrate",
-      "description": "A Melbourne tradie will remember to set multiple alarms in the future after he was slammed by a magistrate for sleeping in and not turning up to court on time.",
-      "link": "https://www.heraldsun.com.au/leader/west/taylor-tangas-appears-at-sunshine-magistrates-court/news-story/0f1dd6acdf976566e915de69b11cd3c0",
-      "source": "Herald Sun",
-      "image": null,
-      "published": "2026-08-24 06:35:00",
+      "title": "Casualties reported in Israeli attacks on Khan Younis",
+      "description": "TEHRAN, Aug. 24 (MNA) \u2013 A man died on Monday morning due to his injuries from an Israeli attack on Sunday in Khan Younis in southern Gaza, according to medical sources at Al Nasser Hospital.",
+      "link": "https://en.mehrnews.com/news/247193/Casualties-reported-in-Israeli-attacks-on-Khan-Younis",
+      "source": "Mehr News Agency",
+      "image": "https://media.mehrnews.com/d/2024/07/13/4/5078384.jpg",
+      "published": "2026-08-24 07:25:48",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "iran"
+      ]
+    },
+    {
+      "title": "Dominic Perrottet\u2019s brother allegedly \u2018ventilating dirt\u2019 on fugitive developer\u2019s adversaries, Icac hears",
+      "description": "Charles Perrottet appeared to be furthering Jean Nassif\u2019s interests when he shared a secret recording, a former NSW MP claims Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Dominic Perrottet\u2019s brother shared \u201cdirt\u201d \u2013 including a secret pocket phone recording of a minister \u2013 to try to help a property developer achieve political outcomes, lawyers assisting a corruption inquiry have alleged. Former New South Wales Liberal MP and staffer Chris Spence told the Independent Commission Against Corruption (Icac) on Monday that Charles Perrottet may have been acting in the interests of fugitive property developer Jean Nassif when Perrottet shared audio recordings with Spence in 2021, although he denied having knowledge of any plans Perrottet may have had at the time. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/24/dominic-perrottet-brother-charles-secret-recording-icac-inquiry-ntwnfb",
+      "source": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/565f799c7da638307efbd5ce214805e239c840f0/725_0_3743_2995/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f924802cdfe71b40f650b47416b64e5",
+      "published": "2026-08-24 07:25:48",
       "category": [
         "crime",
         "top"
@@ -92,59 +186,60 @@
       ]
     },
     {
-      "title": "PBAT Door-to-Door Movement lauds Yari, vows support for 2027 victory",
-      "description": "THE PBAT Door-to-Door Movement 2027 has congratulated Senator Abdulaziz Yari Abubakar on his appointment as the Director-General of the Presidential Campaign Council for President Bola Tinubu The post PBAT Door-to-Door Movement lauds Yari, vows support for 2027 victory appeared first on Tribune Online .",
-      "link": "https://tribuneonlineng.com/pbat-door-to-door-movement-lauds-yari-vows-support-for-2027-victory/",
-      "source": "Tribune",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2025/04/Yari.jpg",
-      "published": "2026-08-24 06:35:00",
+      "title": "New Car, Bike Headlight Rule From Next Year: Automatic Lamps To Stay On Low Beam, Here\u2019s What Changes",
+      "description": "Government has proposed reducing the maximum permissible intensity of high-intensity headlamps. For two-wheelers, the limit would be reduced from 1.5 lakh candela (cd) to 1 lakh cd",
+      "link": "https://www.news18.com/india/new-car-bike-headlight-rule-from-next-year-automatic-lamps-to-stay-on-low-beam-heres-what-changes-10290153.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/1785999922_1783090735_how-to-avoid-bike-slip-during-heavy-rains-2-2026-07-1e7b629c1c6dd61d73a4bcb9bcfd60dd-1200x800.jpg",
+      "published": "2026-08-24 07:25:47",
       "category": [
-        "politics",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Woolies slashes prices on 105 items",
+      "description": "Woolworths has slashed prices on another 105 products as part of its major cost-cutting campaign, just days from the company\u2019s full-year financial results.",
+      "link": "https://au.news.yahoo.com/woolies-slashes-prices-105-items-072546789.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/88d13637656fec5aaa61cab320cd82ae59c1062fd881510ebc7f1cba754a37b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnca_newswire_424%2Fec3ef65b839e6b6f7ba969fe59dcbd64.jpg",
+      "published": "2026-08-24 07:25:46",
+      "category": [
+        "business",
         "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "APC chairman, Yilwatda emerges Daily Times \u2018Politician of the Year\u2019",
+      "description": "The National Chairman of the All Progressives Congress (APC), Prof. Nentawe Yilwatda, has been named the recipient of the Daily Times Nigeria 100 Politician of the Year Award. The recognition is part of the newspaper\u2019s centenary celebrations, tagged DTN@100, which seeks to honour distinguished Nigerians who have contributed to the country\u2019s... The post APC chairman, Yilwatda emerges Daily Times \u2018Politician of the Year\u2019 appeared first on THE AUTHORITY NEWS .",
+      "link": "https://authorityngr.com/2026/08/24/apc-chairman-yilwatda-emerges-daily-times-politician-of-the-year/",
+      "source": "The Authority News",
+      "image": "https://authorityngr.com/wp-content/uploads/2026/08/images-20-1.jpeg",
+      "published": "2026-08-24 07:25:42",
+      "category": [
+        "top",
+        "lifestyle"
       ],
       "country": [
         "nigeria"
       ]
     },
     {
-      "title": "UAE weighs investment in 500 MW AI data center plan in Japan",
-      "description": "The United Arab Emirates is considering backing a proposed 500 MW AI data center in Akita prefecture, Japan, after local officials met with the UAE ambassador on Aug. 19. The project, which could begin operations as early as 2030, is being positioned as one of Japan's largest data center developments if it moves ahead.",
-      "link": "https://www.digitimes.com/news/a20260824PD225/data-center-uae-investment-offshore-wind.html",
-      "source": "Digitimes",
-      "image": "https://img.digitimes.com/newsshow/20260824pd225_files/1_2b.jpg",
-      "published": "2026-08-24 06:35:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Remote work and labour law in Cyprus",
-      "description": "Remote work has become a permanent feature of the modern labour market, transforming the operation of businesses, the organisation of production and, above all, the very substance of the employment relationship. Technology has removed geographical boundaries and created new opportunities for flexibility, while at the same time giving rise to unprecedented legal challenges that labour [...]",
-      "link": "https://cyprus-mail.com/2026/08/24/remote-work-and-labour-law-in-cyprus",
-      "source": "Cyprus Mail",
-      "image": "https://cyprus-mail.com/wp-content/uploads/2026/05/remote-worker.jpg",
-      "published": "2026-08-24 06:35:00",
+      "title": "UEFA President Ceferin Says Won't Run Against FIFA President But Calls For Infantino To Quit",
+      "description": "Infantino has come under increasing pressure to step down over his plan, now aborted, to sell stakes in football's biggest tournament, the World Cup, to private equity investors",
+      "link": "https://www.deccanchronicle.com/sports/uefa-president-ceferin-says-wont-run-against-fifa-president-but-calls-for-infantino-to-quit-1981740",
+      "source": "Andhrabhoomi",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/24/2080388-la-3117427.webp",
+      "published": "2026-08-24 07:25:41",
       "category": [
         "business",
-        "top"
-      ],
-      "country": [
-        "cyprus"
-      ]
-    },
-    {
-      "title": "Driver suspected drunk hits multiple vehicles; elderly woman dies in south Delhi",
-      "description": "A 71-year-old woman was killed and her 65-year-old husband injured after a driver, suspected to be under the influence of alcohol, allegedly hit multiple vehicles before ramming into the couple in south Delhi\u2019s Greater Kailash 1 area, police said. According to the police, the incident took place on Sunday night. A PCR call was received [...]",
-      "link": "https://www.tribuneindia.com/news/delhi/driver-suspected-drunk-hits-multiple-vehicles-elderly-woman-dies-in-south-delhi",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/08/ANI-20260824031711.jpg",
-      "published": "2026-08-24 06:34:59",
-      "category": [
-        "crime",
+        "sports",
         "top"
       ],
       "country": [
@@ -152,33 +247,18 @@
       ]
     },
     {
-      "title": "New Zealand's prime minister proposes banning children from using social media",
-      "description": "New Zealand's Prime Minister Christopher Luxon has unveiled a bill that would ban children younger than 16 from using social media. The proposal doesn't have enough support in his coalition government...",
-      "link": "https://www.beaumontenterprise.com/news/world/article/new-zealand-s-prime-minister-proposes-banning-22400547.php",
-      "source": "Beaumont Enterprise",
-      "image": "https://s.hdnux.com/photos/01/67/11/76/31235970/3/square_large.jpg",
-      "published": "2026-08-24 06:34:57",
+      "title": "Xiaomi launches Xring O3 chip with TSMC production",
+      "description": "TSMC will manufacture the chip using its 3-nanometre process.",
+      "link": "https://www.techinasia.com/xiaomi-plans-release-in-house-xring-chip-each-year",
+      "source": "Tech In Asia",
+      "image": "https://cdn.techinasia.com/wp-content/uploads/2026/08/1787555470_1736734353_shutterstock_2408486689-scaled-1.jpg",
+      "published": "2026-08-24 07:25:38",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Chandigarh ISBT-43 terror bid: BKI hand surfaces, foreign-based handler Satta Naushera named",
-      "description": "A day after three persons were arrested over a suspected IED and firearm recovery in Chandigarh, police on Monday confirmed the Babbar Khalsa International (BKI) terror angle, identifying the outfit, its foreign-based handler and the alleged roles of the accused. Police on Sunday evening stated that three persons had been apprehended in connection with a [...]",
-      "link": "https://www.tribuneindia.com/news/chandigarh/chandigarh-isbt-43-terror-bid-bki-hand-surfaces-foreign-based-handler-satta-naushera-named",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/08/6a8be5d1cb4af-12308293CD-_20260823_222817.jpg",
-      "published": "2026-08-24 06:34:55",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
+        "singapore"
       ]
     }
   ]

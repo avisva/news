@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "GMB viewers 'switch off' over Prince Harry and Meghan Markle bombshell",
+      "description": "Good Morning Britain viewers were left furious over the programme's top story.",
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2241800/gmb-viewers-switch-off-prince-harry-meghan-markle",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/237x141/2241800_1.jpg",
+      "published": "2026-08-24 07:26:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "War film based on 'harrowing' real experiences in World War Two now on Netflix",
+      "description": "A Spanish historical drama about a photographer imprisoned at the Mauthausen concentration camp during World War II has stunned Netflix viewers.",
+      "link": "https://www.mirror.co.uk/tv/tv-news/war-film-based-harrowing-real-37574234",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37575045.ece/ALTERNATES/s615/0_Screenshot-2026-08-20-at-120509jpeg.jpg",
+      "published": "2026-08-24 07:25:55",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Meghan Markle\u2019s acting comeback in \u2018The Gentlemen\u2019 falls apart but there\u2019s more to the story",
+      "description": "Meghan Markle starred in \u2018Suits\u2019 as Rachel Zane for seven seasons before exiting the role in 2017",
+      "link": "https://meaww.com/will-meghan-markle-be-in-the-gentlemen-season-3-hollywood-acting-comeback-guy-ritchie-uk-move-season-2-release-date-theo-james-renewal-update",
+      "source": "Meaww",
+      "image": "https://d2a0gza273xfgz.cloudfront.net/814772/uploads/5b9b2300-9f80-11f1-92ca-17e24c759b2b_1200_630.jpeg",
+      "published": "2026-08-24 07:25:50",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

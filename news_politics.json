@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Scott Bessent warns Iran 'we are now entering the endgame' with new punishment at dawn",
+      "description": "Treasury Secretary Scott Bessent announced the United States is \"entering the endgame\" in Iran.",
+      "link": "https://www.the-express.com/news/politics/214517/scott-bessent-iran-warning-economy",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/13/237x141/214517_1.jpg",
+      "published": "2026-08-24 01:49:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ranked: America\u2019s Most AI-Resistant Jobs",
+      "description": "Ranked: America\u2019s Most AI-Resistant Jobs This was originally posted on our Voronoi app. Download the app for free on iOS or Android and discover incredible data-driven charts from a variety of trusted sources. Key Takeaways: As artificial intelligence transforms the workplace, one question is becoming increasingly important: which jobs are the hardest to automate? Occupations [...] The post Ranked: America\u2019s Most AI-Resistant Jobs appeared first on Activist Post .",
+      "link": "https://www.activistpost.com/ranked-americas-most-ai-resistant-jobs/",
+      "source": "Activist Post",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/08/istockphoto-1040486324-612x612-1.jpg",
+      "published": "2026-08-24 01:49:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

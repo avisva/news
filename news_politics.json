@@ -1,35 +1,63 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Hafiz Naeem says JI will not join any grand opposition alliance",
-      "description": "Speaking during a meeting with senior journalists in Lahore, Hafiz Naeem said past political alliances had caused more harm than benefit to the Jamaat-e-Islami",
-      "link": "https://dunyanews.tv/en/Pakistan/969379-hafiz-naeem-says-ji-will-not-join-any-grand-opposition-alliance",
-      "source": "Dunyanews",
-      "image": "https://img.dunyanews.tv/news/2026/August/08-23-26/news_big_images/969379_44912863.jpg",
-      "published": "2026-08-24 02:37:55",
+      "title": "The Death of Ordinariness",
+      "description": "We appear to have arrived at a point in time where AI, despite all the reluctance and mayhem that surrounds it, has undeniably become a necessary part of our lives.",
+      "link": "https://www.nation.com.pk/24-Aug-2026/death-ordinariness",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-08-24 03:36:00",
       "category": [
-        "politics",
-        "top"
+        "politics"
       ],
       "country": [
         "pakistan"
       ]
     },
     {
-      "title": "Odisha CM to hold public grievance hearing at Unit-2",
-      "description": "Bhubaneswar: Odisha Chief Minister Mohan Charan Majhi will organize a public grievance hearing in Bhubaneswar offering the opportunity to citizens to interact directly with him on their problems and issues. The hearing would be conducted at the old Government Primary School at Unit-2 in Ashok Nagar, Bhubaneswar. The Chief Minister\u2019s public grievance hearing is part [...] The post Odisha CM to hold public grievance hearing at Unit-2 appeared first on KalingaTV .",
-      "link": "https://kalingatv.com/odisha/odisha-cm-to-hold-public-grievance-hearing-at-unit-2/",
-      "source": "Kalinga Tv",
-      "image": "https://kalingatv.com/wp-content/uploads/2026/07/CMHearing.jpg",
-      "published": "2026-08-24 02:37:42",
+      "title": "Trump says the US leads the AI race with China 'by a lot'",
+      "description": "President Donald Trump also said that artificial intelligence companies are building their own power plants to supply electricity to data centers.",
+      "link": "https://www.washingtonexaminer.com/policy/technology/4697828/trump-us-leads-ai-race-china-by-a-lot/",
+      "source": "Washington Examiner",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/image-collage-0ryocduxt-1787538247466-e1787538347839.jpg?1787523934&#038;w=696",
+      "published": "2026-08-24 03:35:53",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Exit poll shows five parties passing into Kazakhstan's Kurultai",
+      "description": "News and analytical articles about Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.",
+      "link": "https://akipress.com/news:914162",
+      "source": "Akipress",
+      "image": "https://cdn-1.aki.kg/cdn-st-0/qiJ/O/9/en-914162.1787542589.b.jpg",
+      "published": "2026-08-24 03:35:40",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "india"
+        "kyrgyzstan"
+      ]
+    },
+    {
+      "title": "\"Stop The Violence\" rally held in Niagara Falls to honor lives of two young people killed by gun violence over Independence Day weekend",
+      "description": "The Niagara Falls community came together Sunday to celebrate the lives of two young people who were shot and killed over Independence Day weekend.",
+      "link": "https://www.wgrz.com/article/news/community/stop-the-violence-rally-held-in-niagara-falls-to-honor-lives-of-2-young-people-killed-by-gun-violence-over-independence-day-weekend/71-3007d19e-f158-448a-ae6b-3902f71a39fd",
+      "source": "Buffalo",
+      "image": "https://media.tegna-media.com/assets/WGRZ/images/01ff964e-065f-4101-9661-2f91d271643c/20260823T224145/01ff964e-065f-4101-9661-2f91d271643c_750x422.jpg",
+      "published": "2026-08-24 03:35:36",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

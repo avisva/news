@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Demo to Deployment: Paras Savnani on the Testing Gap in Robotics",
-      "description": "Can a robot perform reliably once it leaves a controlled environment.",
-      "link": "https://www.distractify.com/p/demo-to-deployment-paras-savnani-on-the-testing-gap-in-robotics",
-      "source": "Distractify",
-      "image": "https://media.distractify.com/brand-img/nCEvrNEuv/0x0/paras-savnani-1787538990502.jpeg",
-      "published": "2026-08-24 02:37:50",
+      "title": "'It\u2019s bumpy, I'm emotional': Jaquie Brown on cancer treatment",
+      "description": "Brown begins radiation therapy following a recent breast cancer diagnosis and mastectomy.",
+      "link": "https://www.1news.co.nz/2026/08/24/its-bumpy-im-emotional-jaquie-brown-on-cancer-treatment/",
+      "source": "1news",
+      "image": "https://www.1news.co.nz/resizer/v2/R7BQR4ZTSVBKVJCDOFEDUNM5PY.png?auth=407e93735e1892208ac4c5d8362056281819dd7dbc6c0a4fe19115d707d187c3&smart=true&width=1920&height=1080",
+      "published": "2026-08-24 03:35:38",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Toxic: 6 AM and 11.45 PM shows added in Mumbai amis increasing demand",
+      "description": "Toxic is witnessing an overwhelming response with its advance bookings ahead of its release, with shows going houseful. Amid the surging demand, cinema halls in Mumbai have added 6 AM and 11.45 PM shows of the Yash-starrer",
+      "link": "https://www.mid-day.com/entertainment/regional-indian-cinema-news/article/toxic-6-am-and-11-45-pm-shows-added-in-mumbai-amis-increasing-demand-23646302",
+      "source": "Mid-day",
+      "image": "https://images.mid-day.com/images/images/2026/aug/Toxic-cover-098659f0-0e48-11f1-8611-9b9b08827f22-1fe80b60-7515-11f1-80cb-8d86651b0d39-1787541157994_d.png",
+      "published": "2026-08-24 03:35:38",
       "category": [
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

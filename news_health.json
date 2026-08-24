@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "The quiet heroes saving lives in Queensland's remote outback",
+      "description": "A lesser-known medical team is making a huge outback impact.",
+      "link": "https://www.northweststar.com.au/story/9335989/primary-health-care-4716-clinics-transform-outback-queensland/?src=rss",
+      "source": "The North West Star",
+      "image": "https://www.northweststar.com.au/images/transform/v1/crop/frm/BsiwkMTjUiUfGgmGHtfdCy/f3b40b0f-aa8e-429c-a2d4-e3ee682fe0bd.jpg/r1_70_752_493_w600_h338_fmax.jpg",
+      "published": "2026-08-24 03:36:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Healthspan and longevity: Experts to highlight new science, R&D and regulations - NutraIngredients.com",
+      "description": "Healthspan and longevity: Experts to highlight new science, R&D and regulations NutraIngredients.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNktpSXp0ZEFmU1l1bTN6Q1BWc0hWNmoyNkV0emRmOHVOX0RMTzM3REdEM0NWc19qODhOaVpmNUNsSG5ReHAxc0Vlb1gweF9jWnNXOFpRVmQyTG9DRUFDUFZiVDBkdlRwcUNRSVd2VzJBX0hKSXhxaUxrM3lnSndYNVY0bVVJa0Q1b0taRGhZVENJd2RVUXpVTzM3Um9wXzVRdzQxenoxRzMtQXFYUl9GUUw0R2oxclh0SlhCYzI4OFJneWVyc0lJYQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-24 03:35:50",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    }
+  ]
 }

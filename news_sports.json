@@ -1,50 +1,104 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Arizona Cardinals defensive, special teams snap counts vs. Cowboys",
-      "description": "The Cardinals played 59 defensive snaps against the Cowboys. See how the playing time was split up.",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-defensive-special-teams-023800245.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/1e9797d16030dcda387d7633dec5ff9c58bc64313d23e593cb475e14e287ecb7/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Farizona_cardinals_wire_usa_today_sports_articles_662%2Fbe9ed351aa5d44a911a867d08d8b13ac.jpg",
-      "published": "2026-08-24 02:38:00",
+      "title": "See where Stars' Wyatt Johnston ranks among NHL's top centers ahead of 2026-27 season",
+      "description": null,
+      "link": "https://www.dallasnews.com/sports/stars/article/wyatt-johnston-dallas-stars-nhl-top-centers-22400505.php",
+      "source": "Dallas News",
+      "image": null,
+      "published": "2026-08-24 03:35:49",
       "category": [
-        "breaking",
-        "sports"
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Former NBA player who says he identifies as woman ejected from WNBA game",
-      "description": "A former NBA player who says he now identifies as a woman is ejected from a WNBA game after an explosive confrontation with players.",
-      "link": "https://www.abc.net.au/news/2026-08-24/wnba-enes-kantor-freedom-ejected-from-game/107071160",
-      "source": "Abc",
-      "image": "https://live-production.wcms.abc-cdn.net.au/39fed3b2b7033eeec40c7ff45aa46611?impolicy=wcms_crop_resize&cropH=1394&cropW=2477&xPos=0&yPos=78&width=862&height=485",
-      "published": "2026-08-24 02:37:47",
+      "title": "Jeanty helped off with apparent right knee injury",
+      "description": "Raiders running back Ashton Jeanty left Sunday's training camp practice early after suffering an apparent right knee injury.",
+      "link": "https://www.espn.com.au/nfl/story/_/id/49705650/raiders-ashton-jeanty-exits-practice-apparent-knee-injury",
+      "source": "Espn Australia",
+      "image": null,
+      "published": "2026-08-24 03:35:43",
       "category": [
-        "sports",
-        "top"
+        "sports"
       ],
       "country": [
         "australia"
       ]
     },
     {
-      "title": "Atlanta 4, Milwaukee 2",
-      "description": null,
-      "link": "https://www.times-news.com/ap/sports/agate/atlanta-4-milwaukee-2/article_eba6c987-a6f9-5eee-ba08-017da69c853d.html",
-      "source": "The Cumberland Times-news",
+      "title": "Hird concedes Dons coaching race to McVeigh",
+      "description": "Mark McVeigh appears set to be unveiled as Essendon's next senior coach, with fellow applicant James Hird congratulating his former teammate on the impending appointment.",
+      "link": "https://www.espn.com.au/afl/story/_/id/49706226/afl-round-24-news-james-hird-essendon-bombers-coaching-coach-race-mark-mcveigh",
+      "source": "Espn Australia",
       "image": null,
-      "published": "2026-08-24 02:37:39",
+      "published": "2026-08-24 03:35:43",
       "category": [
-        "sports",
-        "top"
+        "sports"
       ],
       "country": [
-        "united states of america"
+        "australia"
+      ]
+    },
+    {
+      "title": "ESPN AU extends NFL deal; Melb. Game LIVE",
+      "description": "ESPN will remain the home of US sports in Australia and New Zealand after the broadcaster announced an extended long-term NFL deal, featuring the historic NFL Melbourne game and RedZone on Disney+.",
+      "link": "https://www.espn.com.au/american-football/story/_/id/49706625/espn-australia-new-zealand-announces-long-term-nfl-broadcast-deal",
+      "source": "Espn Australia",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706023_1200x675_16-9.jpg",
+      "published": "2026-08-24 03:35:43",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Kanter Freedom tossed after clash with Cloud",
+      "description": "Ex-NBA player Enes Kanter Freedom was ejected from Sunday's game between the Fever and the Sky after a verbal altercation with Chicago's Natasha Cloud.",
+      "link": "https://www.espn.com.au/wnba/story/_/id/49707455/kanter-freedom-ejected-confrontation-sky-cloud",
+      "source": "Espn Australia",
+      "image": null,
+      "published": "2026-08-24 03:35:43",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Thompson clears waivers, joins Giannis, Heat",
+      "description": "Klay Thompson officially agreed to a two-year deal to join Giannis Antetokounmpo and the Miami Heat after clearing waivers on Sunday.",
+      "link": "https://www.espn.com.au/nba/story/_/id/49706703/klay-thompson-lands-heat-clearing-waivers",
+      "source": "Espn Australia",
+      "image": "https://a.espncdn.com/photo/2026/0824/r1706035_1024x576_16-9.jpg",
+      "published": "2026-08-24 03:35:43",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "AFL 2026: Sydney Swans five will be denied entry to Brownlow Medal",
+      "description": "A major AFL event will go ahead without five Sydney players after the league made a stance over the ongoing investigation.",
+      "link": "https://thewest.com.au/news/afl-2026-sydney-swans-five-will-be-denied-entry-to-brownlow-medal-c-22768582",
+      "source": "The West",
+      "image": "https://images.thewest.com.au/publication/C-22768582/7b8e5f4bd4a8083b5eece23ff0bac3dbf9659e9c-16x9-x226y0w1449h815.jpg",
+      "published": "2026-08-24 03:35:38",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

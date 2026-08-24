@@ -1,65 +1,77 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
-      "title": "WSJ: Russia holds mobilisation exercise in Kaliningrad Oblast",
-      "description": "Western intelligence officials say Russian military officers travelled to Kaliningrad Oblast in July to test preparations for a potential new mobilisation, amid concerns over mounting personnel losses.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/08/23/8049970/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/6/897489/76fd45df95802086229885aa19e11f80.jpeg",
-      "published": "2026-08-23 18:52:00",
+      "title": "Immigration Under the New Left",
+      "description": "The growing socialist wing of the Democratic Party has made it evident that national immigration policy could return to what it was under former President Joe Biden\u2019s administration, or worse, if Democrats regain control. With a slim Republican majority in the House and growing momentum for certain Democratic Senate candidates, sanctuary policies, pathways to citizenship,...",
+      "link": "https://www.dailysignal.com/2026/08/23/immigration-under-the-new-left/",
+      "source": "The Daily Signal",
+      "image": "https://static.dailysignalmedia.org/26-823-Haitian_Immigrants-scaled-e1787512809899.jpg",
+      "published": "2026-08-23 19:55:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "ukraine"
+        "united states of america"
       ]
     },
     {
-      "title": "NAF Vows to Deny Extremists, Hostile Elements Freedom to Threaten Vulnerable Communities in North-West",
-      "description": "Linus Aleke in Abuja The Nigerian Air Force (NAF) has vowed to deny terrorists, bandits, kidnappers, extremists and hostile elements the freedom to threaten vulnerable communities, as the Service intensifies",
-      "link": "https://www.thisdaylive.com/2026/08/23/naf-vows-to-deny-extremists-hostile-elements-freedom-to-threaten-vulnerable-communities-in-north-west/",
-      "source": "Thisdaylive",
-      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Nigerian-Air-Force.gif",
-      "published": "2026-08-23 18:51:38",
+      "title": "Mark Ruffalo calls Paramount's suggestion he's antisemitic 'appalling'",
+      "description": "Mark Ruffalo is pushing back against \"appalling\" antisemitism allegations after Paramount accused the actor of invoking \"antisemitic tropes.\"",
+      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/08/23/what-did-mark-ruffalo-say-paramount-antisemitism/91432179007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/23/USAT/91432740007-getty-images-2255450581.jpg?crop=4999,2812,x0,y260&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-23 19:54:56",
       "category": [
-        "politics",
-        "top"
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Light Parade of Vehicles Adorned with Muhammadan Lights in Taiz Celebrating Mawlid al-Nabawi",
+      "description": "Taiz Governorate was adorned this evening with a massive light parade of vehicles and cars decorated with green lights and Muhammadan slogans, celebrating the anniversary of the noble Prophet's birth (PBUH).",
+      "link": "https://www.saba.ye/en/news3773637.htm",
+      "source": "Saba",
+      "image": "https://www.saba.ye/storage/larage/IZKwXjSfOd0oaT1WK5VKUU3F8SdQRhH6.jpg",
+      "published": "2026-08-23 19:54:51",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "yemen"
+      ]
+    },
+    {
+      "title": "2027 election between oppressed Nigeria, those responsible for their oppression \u2013 Kwankwaso",
+      "description": "The presidential running mate of the Nigerian Democratic Congress, NDC, Rabiu Kwankwaso, has said the 2027 election is between oppressed Nigerians and those responsible for their oppression. Kwankwaso made the remark while faulting the Presidential Campaign Council of the All Progressives Congress, APC. In a statement he signed, the former Kano State governor wondered if [...] 2027 election between oppressed Nigeria, those responsible for their oppression \u2013 Kwankwaso",
+      "link": "https://dailypost.ng/2026/08/23/2027-election-between-oppressed-nigeria-those-responsible-for-their-oppression-kwankwaso/",
+      "source": "Daily Post",
+      "image": "https://dailypost.ng/wp-content/uploads/2025/07/Rabiu-Kwankwaso.jpg",
+      "published": "2026-08-23 19:54:47",
+      "category": [
+        "politics"
       ],
       "country": [
         "nigeria"
       ]
     },
     {
-      "title": "Omar Govt must honour 200-unit free power promise: Sahni",
-      "description": "Power hike betrays public trust, withdraw it: Shiv Sena STATE TIMES NEWS JAMMU: Accusing the National Conference government of backtracking on its electoral promises, Shiv Sena (UBT) Jammu & Kashmir has termed the proposed 6.83% hike in power tariffs, scheduled to take effect from September 1, as a betrayal of public trust. The party demanded [...]",
-      "link": "https://statetimes.in/omar-govt-must-honour-200-unit-free-power-promise-sahni/",
-      "source": "Statetimes",
-      "image": "https://statetimes.in/wp-content/uploads/2026/08/Omar-Govt-must-honour-200-unit-free-power-promise-Sahni.jpg",
-      "published": "2026-08-23 18:51:38",
+      "title": "Dr. Oz disputes Trump's claim that MMR vaccine could be \"lethal\"",
+      "description": null,
+      "link": "https://www.bundle.app/en/breaking-news/dr-oz-disputes-trumps-claim-that-mmr-vaccine-could-be-lethal-FE5AEAE1-83D4-4740-A7BE-9E5FCCE25CC2",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/9ee00dd7-a0b0-5299-81c3-79b9859d40c7.jpg",
+      "published": "2026-08-23 19:54:24",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "DPM Dar, Uzbek FM discuss matters of mutual interest",
-      "description": "They discussed matters of mutual interest and the upcoming SCO Council of Heads of State meeting in Kyrgyzstan",
-      "link": "https://dunyanews.tv/en/Pakistan/969398-dpm-dar-uzbek-fm-discuss-matters-of-mutual-interest",
-      "source": "Dunyanews",
-      "image": "https://img.dunyanews.tv/news/2026/August/08-23-26/news_big_images/969398_27460546.jpg",
-      "published": "2026-08-23 18:51:27",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "pakistan"
+        "united states of america"
       ]
     }
   ]

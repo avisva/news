@@ -1,49 +1,20 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 1,
   "results": [
     {
-      "title": "AvtoVAZ installs ten new machining centers for updated engines in Togliatti",
-      "description": "AvtoVAZ has commissioned ten new machining centers at its Togliatti plant for finish machining of cylinder heads destined for updated 1.6\u2010liter and 1.8\u2010liter engines. The equipment installation, carried out during the factory's scheduled corporate vacation period, is part of the preparation for serial production of the modernized power units. Over 13,000 technological operations were completed during the shutdown, a significant portion tied to retooling lines for the new engines. Engine changes The modernization extends beyond the cylinder heads. According to the manufacturer, the revised engines will receive: an updated intake system; a modified connecting\u2010rod\u2010and\u2010piston group; piston\u2010cooling oil jets; new fuel\u2010delivery equipment; a higher\u2010capacity oil pump. Several solutions are shared between the 1.6\u2010liter and 1.8\u2010liter variants, reducing parts\u2010count complexity for inventory and service. For the first time on the 1.6\u2010liter engine, a variable valve timing phaser will be fitted, allowing valve\u2010timing adjustment across load and speed ranges to broaden the effective operating envelope without adding control\u2010system complexity.",
-      "link": "https://english.pravda.ru/news/auto/168193-avtovaz-engine-modernization/",
-      "source": "Pravda",
-      "image": "https://english.pravda.ru/image/preview/article/1/9/3/168193_amp.jpeg",
-      "published": "2026-08-24 10:22:00",
+      "title": "NVIDIA Vera Rubin Chips and the Future of AI Training",
+      "description": "OpenAI\u2019s first NVIDIA Vera Rubin racks have reportedly arrived and begun running the company\u2019s training stack, marking an important step in the race to build increasingly powerful artificial intelligence infrastructure. The development highlights how the next phase of AI competition is moving beyond model architecture and software toward the physical systems capable of training and [...] The post NVIDIA Vera Rubin Chips and the Future of AI Training appeared first on Tekedia .",
+      "link": "https://www.tekedia.com/nvidia-vera-rubin-chips-and-the-future-of-ai-training/",
+      "source": "Tekedia",
+      "image": "https://www.tekedia.com/wp-content/uploads/2025/09/nvidia.jpg",
+      "published": "2026-08-24 11:18:46",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Small Business AI Search Visibility Guide Released: Online Presence Tips",
-      "description": "Profit Acuity releases guide helping small businesses improve AI search visibility. Two-thirds expect AI search to be important, yet most haven't assessed their appearance in AI-generated answers. Guide covers seven metrics, audit processes, and optimization strategies.",
-      "link": "https://www.financialcontent.com/article/marketersmedia-2026-8-24-small-business-ai-search-visibility-guide-released-online-presence-tips",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-08-24 10:22:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Space Safari Drone Light Show at Aintree Racecourse date, tickets, travel and weather policy",
-      "description": "Hundreds of drones will fly over Merseyside for cinematic display this weekend",
-      "link": "https://www.liverpoolecho.co.uk/whats-on/whats-on-news/space-safari-drone-light-show-34506619",
-      "source": "Liverpool Echo",
-      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34506925.ece/ALTERNATES/s615/0_Space-Safari-The-Drone-Light-Show.jpg",
-      "published": "2026-08-24 10:21:58",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united kingdom"
+        "nigeria"
       ]
     }
   ]

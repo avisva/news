@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Oyo NNPP Gov\u2019ship Candidate Seeks Probe Into Oranyan Market Inferno",
-      "description": "Governorship candidate of the New Nigeria Peoples Party (NNPP) in Oyo State, Adebiyi Adedapo, has called for an independent and transparent investigation into the Sunday night inferno at Oranyan Market in Ibadan, He described the incident as another disturbing reminder of the vulnerability of markets across the state. Adedapo, in a statement he signed, expressed [...]",
-      "link": "https://leadership.ng/oyo-nnpp-govship-candidate-seeks-probe-into-oranyan-market-inferno/",
-      "source": "Leadership",
-      "image": "https://leadership.ng/wp-content/uploads/2026/08/IMG-20260824-WA0166-1-705x536.jpg",
-      "published": "2026-08-25 05:27:52",
+      "title": "ITUC-Africa, NLC pledge support for EFCC to fight corruption",
+      "description": "The African Regional Organisation of the International Trade Union Confederation (ITUC-Africa) and the Nigeria Labour Congress (NLC) have pledged support for the Economic and Financial Crimes Commission (EFCC) in its fight against corruption, illicit financial flows (IFFs) and kleptocracy. The post ITUC-Africa, NLC pledge support for EFCC to fight corruption appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/ituc-africa-nlc-pledge-support-for-efcc-to-fight-corruption/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/08/efcc.jpg",
+      "published": "2026-08-25 06:35:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "nigeria"
+      ]
+    },
+    {
+      "title": "Andy Burnham told major pledge is 'pure fantasy' after new data released",
+      "description": "Experts and political critics have warned that a major promise is in danger of not being delivered.",
+      "link": "https://www.express.co.uk/news/politics/2240818/andy-burnham-house-building-data-fantasy",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/139/237x141/2240818_1.jpg",
+      "published": "2026-08-25 06:35:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

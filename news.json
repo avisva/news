@@ -1,248 +1,134 @@
 {
   "status": "success",
-  "totalResults": 30,
+  "totalResults": 25,
   "results": [
     {
-      "title": "Scattered inland storms Tuesday; Higher coverage tomorrow",
-      "description": "Rain chances will ramp up by Wednesday as more moisture returns to the Gulf Coast.",
-      "link": "https://www.gulfcoastnewsnow.com/article/weather-forecast-southwest-florida-storms-cape-coral-fort-myers/73517794",
-      "source": "Wbbh",
-      "image": "https://hips.hearstapps.com/htv-prod/images/ac21b6c0-311f-4c0a-a379-0b5b736f61d0.png",
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Judge\u2019s parole warning was ignored",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/business/legal-affairs/judges-serious-miscarriage-of-justice-warning-fails-to-sway-farhat-parole-case/news-story/4abffd7e6f7b7527b7f371cf0eb3aa0e",
-      "source": "The Australian",
-      "image": null,
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "crime"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Founded by Metsera backers, Sentivera emerges with $1.5B inflammatory disease deal",
-      "description": "Having set Metsera on its journey to a $10 billion takeover, Arch Venture Partners and Population Health Partners have powered their new startup\u2014Sentivera\u2014to a licensing deal worth up to $1.5 billion.",
-      "link": "https://www.fiercebiotech.com/biotech/founded-metsera-backers-sentivera-emerges-15b-inflammatory-disease-deal",
-      "source": "Fierce Biotech News",
-      "image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1412148163%20%281%29.jpg?VersionId=GNz9MCTKdAYlEOmFF2KdnJARjNg0BzKJ",
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "College football 2026: What you need to know about the new season",
-      "description": "The season begins in earnest on Labor Day weekend with a handful of Top 25 games.",
-      "link": "https://www.pressdemocrat.com/2026/08/25/college-football-2026-what-to-know/",
-      "source": "The Press Democrat",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/Football_Big_Ten_Preseason_Honors_63599_bf0c2e-1.jpg?w=1600&resize=1600,900",
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Comstock becomes fully fledged recycler, clean energy company after selling mine assets to Mackay",
-      "description": "NYSE-listed specialised metals recycler Comstock has closed the sale of all its mining assets in the historic Comstock Lode district of Nevada to TSX-V-listed Mackay Gold & Silver Corporation subsidiary Mackay Precious Metals for $45-million. Comstock has received $20-million of the consideration in cash and two-million common shares in Mackay Gold & Silver, valued at about $4.5-million, to which Comstock expects to record a gain in a range of about $10-million to $12-million. Another $7-million payment is due within 18 months.",
-      "link": "https://www.miningweekly.com/article/comstock-becomes-fully-fledged-recycler-clean-energy-company-after-selling-mine-assets-to-mackay-2026-08-25",
-      "source": "Australasia Global Mining News",
-      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001294807_resized_nevadalandscapemackaygoldandsilverexploration2026081022.jpeg",
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "SJM Holdings H1 Loss Widens, Adj. EBITDA Rises; Shares Down",
-      "description": "HONG KONG (dpa-AFX) - SJM Holdings Ltd. (SJMHY, 0880.HK), a casino and resorts operator in Macau, reported Tuesday wider net loss in its first half of fiscal 2026 with weak gaming revenues, while ...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69398818-sjm-holdings-h1-loss-widens-adj-ebitda-rises-shares-down-020.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/chart-sjm-holdings-ltd-aktie-intraklein-frankfurt.png",
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "European Commission aware of Operation Forrest Gump, reiterates \"zero tolerance for corruption\"",
-      "description": "The European Commission is aware of the latest developments in Ukraine related to the Forrest Gump anti-corruption operation and has reiterated that fighting corruption is a central requirement for EU candidate countries.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/08/25/8050203/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/b/898647/3b904891ecf2921c3eccf0f4970e1e08.jpeg",
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ukraine"
-      ]
-    },
-    {
-      "title": "SA\u2019s recent rain bomb delivers an unexpected aftermath",
-      "description": null,
-      "link": "https://www.adelaidenow.com.au/news/south-australia/adelaide-spared-summer-water-restrictions-by-biggest-rainfall-in-two-decades/news-story/9372c6b34253c9b103cb4d98a82909b3",
-      "source": "The Advertiser",
-      "image": null,
-      "published": "2026-08-25 09:24:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Quantbot Technologies LP Buys New Stake in Manhattan Associates, Inc. $MANH",
-      "description": "Quantbot Technologies LP purchased a new stake in Manhattan Associates, Inc. (NASDAQ:MANH \u2013 Free Report) during the 2nd quarter, HoldingsChannel.com reports. The institutional investor purchased 11,476 shares of the software maker\u2019s stock, valued at approximately $1,598,000. A number of other institutional investors have also modified their holdings of the stock. Evolve Private Wealth LLC purchased [...]",
-      "link": "https://www.thelincolnianonline.com/2026/08/25/quantbot-technologies-lp-buys-new-stake-in-manhattan-associates-inc-manh.html",
-      "source": "The Lincolnian Online",
-      "image": "https://www.marketbeat.com/logos/manhattan-associates-inc-logo-1200x675.png?v=20240426160544",
-      "published": "2026-08-25 09:23:59",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "WikiHow sues OpenAI for unsanctioned content use in AI training",
-      "description": "WikiHow has sued OpenAI for allegedly scraping and copying its copyrighted articles to train AI models, use them in RAG systems, and reproduce their substance in ChatGPT responses. The post WikiHow sues OpenAI for unsanctioned content use in AI training appeared first on MEDIANAMA .",
-      "link": "https://www.medianama.com/2026/08/223-wikihow-openai-unsanctioned-ai-training/",
-      "source": "Medianama",
-      "image": "https://www.medianama.com/wp-content/uploads/2024/08/AI-platforms-e1742291520220.jpg",
-      "published": "2026-08-25 09:23:57",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "10 Traditional Indian Dishes Every Food Lover Should Try",
-      "description": "India\u2019s food culture is shaped by centuries of regional traditions, local ingredients and distinctive cooking styles. From fragrant biryani and creamy butter chicken to steamed dhokla and spicy fish curry, every dish tells a different culinary story. Exploring these traditional Indian dishes offers a delicious way to experience the country\u2019s remarkable diversity through food.",
-      "link": "https://www.newspointapp.com/english/lifestyle/10-traditional-indian-dishes-every-food-lover-should-try/articleshow/133503332.cms",
-      "source": "Www.newspointapp.com",
-      "image": "https://static.toiimg.com/english/lifestyle/10-traditional-indian-dishes-every-food-lover-should-try/photo/133503332.jpg?imgsize=301308",
-      "published": "2026-08-25 09:23:57",
-      "category": [
-        "food",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "CBSE OSM glitches: SC closes plea, says revaluation will open \u2018Pandora\u2019s Box\u2019",
-      "description": "The plea sought a regulatory framework for exams through the OSM system and the constitution of a panel to supervise its implementation",
-      "link": "https://www.hindustantimes.com/india-news/cbse-osm-glitches-sc-closes-plea-says-revaluation-will-open-pandora-s-box-101787649836994.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/25/1600x900/logo/The-plea-sought-relaxation-of-minimum-qualifying-m_1787649830867.jpg",
-      "published": "2026-08-25 09:23:56",
-      "category": [
-        "breaking",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Boom time for Argyll maker of \u2018deal toys\u2019 and financial tombstones",
-      "description": "\u201cAn acrylic award stands out with its perfect fusion of timeless elegance, lasting durability, and unmatched versatility\u201d \u2013 Graham Ramsay, director",
-      "link": "https://www.scotsman.com/business/boom-time-for-argyll-maker-of-deal-toys-and-financial-tombstones-8940055",
-      "source": "The Scotsman",
-      "image": "https://www.scotsman.com/webimg/b25lY21zOjgxZjkzM2I3LTM0YTEtNGIzYi04MmUxLWRlYzc3NGUzODkyYjpiZjBhZDNlNC0xYzA1LTQyMmQtYTVkNi1kYWM1OTc2NWJkM2I=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-08-25 09:23:56",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "'Not a flight risk' - Durban businessman pleads for bail in human trafficking case",
-      "description": "A Durban businessman and Rangasamy Naidoo have asked the court for bail while facing human trafficking and related charges.",
-      "link": "https://www.iol.co.za/news/south-africa/kwazulu-natal/not-a-flight-risk-durban-businessman-pleads-for-bail-in-human-trafficking-case-db3a22f1-f79d-471e-9195-421b1c7c1907",
-      "source": "Iol",
-      "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/a5a78907974b335495a90cc085a64e2f19ba3165/4096&operation=CROP&offset=412x0&resize=3271x1840",
-      "published": "2026-08-25 09:23:56",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "Bengaluru Woman Cries In Auto After \u2018Creep\u2019 Encounter, Driver Comforts Her Despite Not Knowing Hindi: \u2018Cutest Anna\u2019",
-      "description": "The woman shared that she got into an auto minutes after her encounter with a \u2018creep\u201d and she began crying when the driver tried to console her despite not knowing Hindi",
-      "link": "https://www.news18.com/viral/bengaluru-woman-cries-in-auto-after-creep-encounter-driver-comforts-her-despite-not-knowing-hindi-cutest-anna-ws-l-10292149.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/08/News18-2026-08-d13ea2bfa84bbe2dcb9f963364e0175d-1200x800.png",
-      "published": "2026-08-25 09:23:55",
+      "title": "For decades, Lockerbie bombing families wanted attackers to face US justice. They\u2019re still waiting",
+      "description": "Federal judge Monday postponed a case in 1988 bombing of Pan Am Flight 103.",
+      "link": "https://www.sbsun.com/2026/08/25/lockerbie-bombing-families/",
+      "source": "San Bernardino Sun",
+      "image": "https://www.sbsun.com/wp-content/uploads/2026/08/Lockerbie_Bombing_Families_32287-1-1.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-25 10:23:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Quantbot Technologies LP Acquires New Holdings in Harmonic Inc. $HLIT",
-      "description": "Quantbot Technologies LP bought a new position in shares of Harmonic Inc. (NASDAQ:HLIT \u2013 Free Report) during the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The institutional investor bought 104,447 shares of the communications equipment provider\u2019s stock, valued at approximately $1,706,000. Quantbot Technologies LP owned [...]",
-      "link": "https://www.watchlistnews.com/quantbot-technologies-lp-acquires-new-holdings-in-harmonic-inc-hlit/11198453.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/harmonic-inc-logo-1200x675.jpg?v=20240521134446",
-      "published": "2026-08-25 09:23:54",
+      "title": "Hungary files a criminal complaint over $965M COVID-19 ventilator deal, citing possible fraud",
+      "description": "Hungary's foreign ministry has filed a criminal complaint over possible fraud related to the previous government's purchase of ventilators during the COVID-19 pandemic. Foreign Minister Anita Orba\u0301n...",
+      "link": "https://www.myplainview.com/news/world/article/hungary-files-a-criminal-complaint-over-965m-22402337.php",
+      "source": "Plainview Daily Herald",
+      "image": "https://s.hdnux.com/photos/01/34/02/56/24128442/3/square_large.jpg",
+      "published": "2026-08-25 10:23:00",
       "category": [
-        "business"
+        "crime",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Goldman's engineers have a new challenge: turning AI agents into firm insiders",
-      "description": "Marco Argenti said that an engineer's main AI challenge has shifted. Bloomberg/Getty Images Marco Argenti, chief information officer, said engineers need to transfer \"tribal knowledge\" to AI. Now that all developers are using AI, Argenti said the focus is on making tools specific to Goldman. AI is...",
-      "link": "https://biztoc.com/x/73cec68593833adf",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/73cec68593833adf_s.webp",
-      "published": "2026-08-25 09:23:54",
+      "title": "Apple @ Work Podcast: Breaking down Apple\u2019s bug bounty cap and cool down period",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . In this episode of Apple @ Work, 9to5Mac\u2019s Arin Waichulis joins me to talk about Apple\u2019s decision to put in cool-down periods on its bug bounty submission program.",
+      "link": "https://9to5mac.com/2026/08/25/breaking-down-apples-bug-bounty-cap-and-cool-down-period/",
+      "source": "9to5 Mac",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom",
+        "united states of america",
+        "singapore",
+        "australia",
+        "india"
+      ]
+    },
+    {
+      "title": "Douglas junior hurlers up and running with victory over Glen Rovers",
+      "description": "Diarmuid Coleman was in clinical form at Ballinlough",
+      "link": "https://www.echolive.ie/corksport/arid-41900698.html",
+      "source": "The Echo: Cork News And Sport",
+      "image": "https://www.echolive.ie/cms_media/module_img/10409/5204500_1_articlelarge_IMG_2451_5b2_5d.jpg",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Ezy Airlines halts northern flights over high fees",
+      "description": "Ezy Airlines has suspended a plan to fly in northern Thailand, reportedly due to high parking fees at Chiang Mai airport, prompting the governor of Mae Hong Son to seek a review of the fees to support tourism.",
+      "link": "https://www.bangkokpost.com/business/general/3307724/ezy-airlines-halts-northern-flights-over-high-fees",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260825/c1_3307724.png",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "3 Gabelli Mutual Funds to Consider for Your Portfolio",
+      "description": "Invest in Gabelli mutual funds such as GFSIX, GIGRX and GABOX for research-driven investment strategies.",
+      "link": "https://ca.finance.yahoo.com/news/3-gabelli-mutual-funds-consider-102300829.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/zacks.com/97402aa1b82592d8cc574d3aa9ec2d26.jpg",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Wife of active-duty US Army sergeant is deported to Honduras",
+      "description": "The incident marks the latest example of the impact of the Trump administration's immigration crackdown on relatives of members of the U.S. military.",
+      "link": "https://www.usatoday.com/story/news/nation/2026/08/25/army-sergeant-wife-deported-honduras/91452848007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91452906007-20260716-t-181402-z-1421427873-rc-2-kemau-29-o-4-rtrmadp-3-usatrumpdefense.JPG?crop=2084,1172,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BTS V surprises fan after concertgoer mentions viral BTS meme",
+      "description": "BTS V surprises fan after concertgoer mentions viral BTS meme Some things are impossible to ignore and V just proved it. During BTS\u2019 recent ARIRANG World Tour stop in Toronto, a fan managed to grab the K-pop sensation\u2019s attention by shouting a familiar phrase:...",
+      "link": "https://www.geo.tv/latest/679087-bts-v-surprises-fan-after-concertgoer-mentions-viral-bts-meme",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-08-25/679087_032439_updates.jpg",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Peterborough Court taps Freshwave for all-operator mobile coverage",
+      "description": "<p>What was once the famous, architecturally imposing former home of <em>Telegraph</em> newspapers in London has now made a full transformation into a modern media hub. As part of the redevelopment, connectivity infrastructure-as-a-service provider Freshwave is bringing all-operator mobile connectivity to the new Peterborough Court.</p> <p>Built in the 1880s and located in the old heart of the UK\u2019s newspaper industry, Fleet Street, and still popularly known as the Telegraph Building, <a href=\"https://www.peterboroughcourt.com/index.html\">Peterborough Court</a> has undergone a complete redevelopment to create high-spec grade A office space while retaining its art deco fac\u0327ade.</p> <p>The office space spans more than 300,000 sq ft across 11 floors and has stated aim of having a focus on wellbeing through the creation of outdoor spaces, on-site amenities and \u201cstate-of-the-art end-of-trip\u201d facilities. It has terraces on four floors and boasts panoramic views of London. Peterborough Court\u2019s sustainability credentials include a WiredScore Platinum rating, a target BREEAM \u201cExcellent\u201d or better rating, and an all-electric design that is said to reduce significantly whole life carbon.</p> <p>Also high among the key features of the space are \u201cdiverse telecoms intake rooms and diverse risers\u201d. Advanced communications is an essential element of the building and, in this regard, <a href=\"https://freshwavegroup.com/\">Freshwave</a> believes that mobile connectivity is no longer an add-on for commercial buildings.</p> <p>Working with commercial property IT and smart building infrastructure specialists <a href=\"https://tcmips.co.uk/\">TCM</a>, Freshwave has deployed its small cell <a title=\"https://url.us.m.mimecastprotect.com/s/fwftCG6Y9jfqv8Ng2upimXhBLVva?domain=urldefense.com\" href=\"https://freshwavegroup.com/omni-network/\">Omni Network</a> with all the mobile network operators throughout the landlord areas.</p> <p>The firms regard Peterborough Court as an prime example of how digital infrastructure is becoming a defining feature of premium commercial real estate. Connectivity was treated as a core building service from the outset, ensuring occupiers benefit from what is claimed to be reliable, high-performance mobile coverage alongside the wider smart building infrastructure.</p> <p>Tenants are able to opt into extending the service to their workspaces through a pay-as-you-occupy model, with Freshwave providing support through their ongoing managed service.</p> <p>\u201cPeterborough Court represents exactly the kind of premium workspace that today\u2019s occupiers are looking for. We\u2019ve seen strong demand for the building and are pleased that all-operator mobile connectivity is one of the many amenities that we will be offering to occupiers,\u201d said Jason Gallehawk, associate director at <a href=\"https://www.cbre.co.uk/\">CBRE</a>, the joint leasing agent for the building.</p> <p>\u201cOmni Network\u2019s lower energy use made it a natural choice, as sustainability was at the heart of this redevelopment, while still offering the same reliable, seamless coverage across all operators that tenants expect from a best-in-class London workspace.\u201d</p> <p>Freshwave senior director Brendan Hourihane added: \u201cWe\u2019re delighted to be working with CBRE and TCM to bring assured connectivity into Peterborough Court. With building materials and low-e glass blocking mobile signal from entering from outside, Omni Network extends all the mobile networks indoors so that everyone inside receives the capacity they need.</p> <p>\u201cWe\u2019re already seeing good uptake of the service from tenants who are moving into the building and look forward to working with more of them in the future as space in this fantastic building is snapped up.\u201d</p> <p>TCM managing director Tom McAuley said: \u201cWe\u2019re proud to have worked with Freshwave to deliver a future-ready solution that supports both the current and long-term needs of the building and its tenants.\u201d</p> <div class=\"extra-info\"> <div class=\"extra-info-inner\"> <h3 class=\"splash-heading\">Read more about in-building connectivity</h3> <ul class=\"default-list\"> <li><a href=\"https://www.computerweekly.com/news/366641102/Wilson-Connectivity-Autonomous-Systems-team-for-in-building-wireless-service\">Wilson Connectivity, Autonomous Systems team for in-building wireless service</a>: Joint development brings AI-ready, automated monitoring and real-time service assurance to indoor distributed antenna system and private network deployments.</li> <li><a href=\"https://www.computerweekly.com/news/366623560/Nokia-looks-to-light-up-in-building-enterprise-connectivity-with-Aurelis\">Nokia looks to light up in-building enterprise connectivity with Aurelis</a>: Fibre-based LAN solution designed to deliver simple, reliable and future-proof local area connectivity for enterprises, using up to 70% less cabling and 40% less power than copper-based technologies.</li> <li><a href=\"https://www.computerweekly.com/news/366618532/Freshwave-deploys-all-operator-4G-in-building-connectivity-to-City-of-London\">Freshwave deploys all-operator 4G in-building connectivity to City of London</a>: Connectivity infrastructure-as-a-service provider fits out in-building mobile connectivity from all the UK mobile operators to 8 Bishopsgate location, with sixteen occupiers already signing up to the service.</li> <li><a href=\"https://www.computerweekly.com/news/366640730/Proptivity-Telehouse-team-for-reliable-indoor-4G-5G-in-London-workplaces\">Proptivity, Telehouse team for reliable indoor 4G, 5G in London workplaces</a>: Datacentre service provider and indoor mobile infrastructure firm look to address connectivity blind spot inside modern office buildings, enabling scalable indoor 4G, 5G across London workplaces via neutral host model.</li> </ul> </div> </div>",
+      "link": "https://www.computerweekly.com/news/366648931/Peterborough-Court-taps-Freshwave-for-all-operator-mobile-coverage",
+      "source": "Techtarget",
+      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/Peterborough-Court-Freshwave-hero.jpg",
+      "published": "2026-08-25 10:23:00",
       "category": [
         "technology"
       ],
@@ -251,12 +137,27 @@
       ]
     },
     {
-      "title": "2026-08-25T09:23:53+00:00",
-      "description": "Screenwriter Samy Burch speaks about \u201cCoyote vs Acme,\u201d as well as which Looney Tunes character landed on the cutting room floor and the controversy that initially engulfed the film.",
-      "link": "https://www.dailynews.com/2026/08/25/coyote-vs-acme-screenwriter-samy-burch-on-the-films-looney-tunes-journey/",
-      "source": "Los Angeles Daily News",
-      "image": "https://www.dailynews.com/wp-content/uploads/2026/08/sut-l-movies-coyote.jpg?w=1600&resize=1600,900",
-      "published": "2026-08-25 09:23:53",
+      "title": "FULL VOTES: Blues young gun wins Rising Star, falls just short of perfect season",
+      "description": "Jagga Smith has capped off a stellar year by winning the Ron Evans Medal",
+      "link": "https://www.afl.com.au/news/1595019/carlton-blues-young-gun-jagga-smith-caps-memorable-season-with-afl-rising-star-win",
+      "source": "Afl Au",
+      "image": "https://resources.afl.com.au/photo-resources/2026/07/18/0e4e12fe-2202-4671-aabc-d5ee0def70f3/0YvSICS6.jpg?width=1000",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Breaking News - Four New Documentaries Celebrating Some of Comedy's Most Influential Voices Are Coming to Netflix This October",
+      "description": "Four New Documentaries Celebrating Some of Comedy's Most Influential Voices Are Coming to Netflix This October",
+      "link": "http://www.thefutoncritic.com/news/2026/08/25/four-new-documentaries-celebrating-some-of-comedys-most-influential-voices-are-coming-to-netflix-this-october-48012/20260825netflix07/",
+      "source": "Thefutoncritic",
+      "image": null,
+      "published": "2026-08-25 10:23:00",
       "category": [
         "entertainment",
         "top"
@@ -266,12 +167,183 @@
       ]
     },
     {
-      "title": "Dividend Stock Alert: Rs 45 per share payout by this pharma company - Check record date and payment date",
-      "description": "Dividend Stock Alert: Procter and Gamble Health announced a Rs 45 final dividend, equivalent to 450% of face value, with August 27 set as the record date for eligible shareholders.",
-      "link": "https://www.etnownews.com/markets/dividend-stock-alert-rs-45-per-share-payout-by-this-pharma-company-check-record-date-and-payment-date-article-155982373",
-      "source": "Et Now",
-      "image": "https://images.etnownews.com/thumb/msid-155982373,updatedat-1787649828801,width-1280,height-720,resizemode-75/155982373.jpg",
-      "published": "2026-08-25 09:23:53",
+      "title": "Terrifying scenes in France as tornado sweeps through villages, leaving at least 41 injured and more than 300 homes damaged (video)",
+      "description": "The village of Pomas suffered the worst damage \u2014 Transport disruptions The post Terrifying scenes in France as tornado sweeps through villages, leaving at least 41 injured and more than 300 homes damaged (video) appeared first on ProtoThema English .",
+      "link": "https://en.protothema.gr/2026/08/25/terrifying-scenes-in-france-as-tornado-sweeps-through-villages-leaving-at-least-41-injured-and-more-than-300-homes-damaged-video/",
+      "source": "Protothema",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/anemostrovilos_maketa.webp",
+      "published": "2026-08-25 10:23:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "greece"
+      ]
+    },
+    {
+      "title": "Pakistani Drama Mitti De Baway: Wait is over for Mahira-Wahaj fans",
+      "description": "Islamabad: The wait is finally ending for Mahira Khan and Wahaj Ali fans. After months of speculation and leaked glimpses from the sets, the makers of Mitti De Baway have officially begun unveiling the world of the much-awaited drama. The first-look posters of the lead stars were released on Monday, instantly creating a stir on ... Get the latest updates in Hyderabad City News , Technology , Entertainment , Sports , Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS .",
+      "link": "https://www.siasat.com/pakistani-drama-mitti-de-baway-wait-is-over-for-mahira-wahaj-fans-3530263/",
+      "source": "Siasat.com",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/08/Mahira-Khan.jpg",
+      "published": "2026-08-25 10:22:59",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "What do we know about the Syria and Israel meeting in Jordan?",
+      "description": "The meeting was the highest-level publicly announced direct contact since the start of the security track between the two sides.",
+      "link": "https://www.newarab.com/news/what-do-we-know-about-syria-and-israel-meeting-jordan",
+      "source": "The New Arab",
+      "image": "https://www.newarab.com/sites/default/files/styles/medium_16_9/public/2288488221.jpeg?h=199d8c1f&itok=8fvCDQgd",
+      "published": "2026-08-25 10:22:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "syria",
+        "palestine",
+        "libya",
+        "egypt",
+        "qatar",
+        "saudi arabia",
+        "morocco",
+        "kuwait",
+        "united arab emirates",
+        "algeria",
+        "bahrain",
+        "jordan",
+        "iraq",
+        "lebanon",
+        "tunisia"
+      ]
+    },
+    {
+      "title": "(LEAD) Arrest warrant issued for Jeju police officer over mishandling of missing person case",
+      "description": "JEJU, South Korea, Aug. 25 (Yonhap) -- The Jeju District Court on Tuesday issued...",
+      "link": "https://en.yna.co.kr/view/AEN20260825008751315",
+      "source": "Yonhap News Agency",
+      "image": "https://img.yna.co.kr/etc/inner/EN/2026/08/25/AEN20260825008751315_01_i_P2.jpg",
+      "published": "2026-08-25 10:22:59",
+      "category": [
+        "domestic"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "US leveraged single-stock ETF boom may be cooling",
+      "description": null,
+      "link": "https://www.reuters.com/legal/transactional/us-leveraged-single-stock-etf-boom-may-be-cooling-2026-08-25/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/NQA4FT3P4VKX3C5MGQ4VKZAS2A.jpg?auth=c34b8590c035a5253a96af867bfd47f7ee58f77cba4b3de7c331521605b637b0&smart=true&width=1920",
+      "published": "2026-08-25 10:22:57",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "japan",
+        "united kingdom",
+        "ukraine",
+        "iran",
+        "india",
+        "russia",
+        "israel",
+        "south africa",
+        "china",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kriti Sanon Gives Befitting Reply To Kangana Ranaut's 'Bikini' Jibe Over Rakhi Ad",
+      "description": "Kriti Sanon responds to Kangana Ranaut's criticism of her Raksha Bandhan ad, questioning why women are still judged for their clothing choices.",
+      "link": "https://www.etvbharat.com/en/entertainment/kriti-sanon-gives-befitting-reply-to-kangana-ranaut-bikini-remark-over-rakhi-ad-enn26082503466",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/25-08-2026/1200-675-27477960-530-27477960-1787653159609.jpg",
+      "published": "2026-08-25 10:22:55",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "First National Bank Ghana pioneers financial literacy programme for Persons with Disabilities",
+      "description": "Head of Retail Banking at First National Bank Ghana, Akweley Laryea, underscored the bank's commitment to ensuring that everyone has access to the knowledge and tools to participate meaningfully in the financial system",
+      "link": "https://www.myjoyonline.com/first-national-bank-ghana-pioneers-financial-literacy-programme-for-persons-with-disabilities/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-13.06.13-1024x576.jpeg",
+      "published": "2026-08-25 10:22:53",
+      "category": [
+        "business",
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "West Bengal SIR: SC directs EC to submit data on pendency of appeals before appellate tribunals",
+      "description": "The Supreme Court has directed the Election Commission to submit data on pending electoral roll appeals. Tribunals must adjudicate these appeals in a time-bound manner, the court stated. The poll panel must explain steps taken to streamline appeal disposal processes. Additional tribunals may be constituted if required to expedite the process. This directive follows concerns about the timely resolution of voter inclusion and exclusion appeals.",
+      "link": "https://economictimes.indiatimes.com/news/india/west-bengal-sir-sc-directs-ec-to-submit-data-on-pendency-of-appeals-before-appellate-tribunals/articleshow/133505216.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133505629,resizemode-4,width-1200,height-900,imgsize-165372,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-25 10:22:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Leeds and Rangers co-owner jailed after prostitution arrest - BBC",
+      "description": "Leeds and Rangers co-owner jailed after prostitution arrest BBC San Francisco 49ers owner Jed York pleads no contest after arrest at Ohio trailer park The Guardian Leeds and Rangers co-owner Jed York arrested in prostitution sting at US trailer park Sky News Leeds United co-owner sentenced to day in jail after prostitution sting The Telegraph Leeds and Rangers co-owner York sentenced to jail RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yU1ZVNk5sQ0ZYVHBZclNQUVNyNWxfZV9peUdfaDBEWkNTMk9BeFpQZkJlUGJpeWhWYVFwUTFqQVJ0WnFPU1psdVMyeVpSeFM0T21fNTJfM3B1YTdo?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-25 10:22:52",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Volkswagen labour chief says confidence in CEO damaged but can be repaired",
+      "description": "Confidence in CEO Oliver Blume has been damaged in the debate over restructuring but is not beyond repair, Volkswagen labour leader Daniela Cavallo said in a speech to workers gathered at the carmaker\u2019s main plant in Wolfsburg, Germany, on Tuesday",
+      "link": "https://www.timeslive.co.za/motoring/2026-08-25-volkswagen-labour-chief-says-confidence-in-ceo-damaged-but-can-be-repaired/",
+      "source": "Timeslive",
+      "image": "https://www.timeslive.co.za/resizer/v2/TFVMJPXSENCLDHKNSBACHTICUI.JPG?auth=94d8a2e71595973069df6c83029e068f4fa09f5e24de1d452edce8be62b49589&smart=true&height=350",
+      "published": "2026-08-25 10:22:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Taapsee's Gandhari Faces Copyright Allegations Before Release, Makers React",
+      "description": "Kalyan Bandi shared that he had initially reached out to Shergill through LinkedIn to discuss the story he had written",
+      "link": "https://www.ndtv.com/entertainment/netflix-india-accused-of-copyright-infringement-over-taapsee-pannu-s-gandhari-makers-react-11955498",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-08/jmetigj8_gandhari_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-25 10:22:50",
       "category": [
         "business",
         "top"
@@ -281,29 +353,28 @@
       ]
     },
     {
-      "title": "Samsung may be working on self-healing glass for the Galaxy S27 Ultra",
-      "description": "Samsung's Galaxy S27 Ultra could feature glass that heals itself.",
-      "link": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s27-ultra-self-healing-glass-leak",
-      "source": "Android Central",
-      "image": "https://cdn.mos.cms.futurecdn.net/ygMKG9aBZikNUtH6YX99bf-1280-80.jpg",
-      "published": "2026-08-25 09:23:52",
+      "title": "How to watch Valencia vs. Real Betis online for free",
+      "description": "How to watch La Liga for free. Live steam Valencia vs. Real Betis in La Liga for free from anywhere in the world.",
+      "link": "https://mashable.com/entertainment/valencia-real-betis-la-liga-2026-live-stream-for-free",
+      "source": "Mashable",
+      "image": "https://helios-i.mashable.com/imagery/articles/06CB2LmnQtdQoK4DvwyK3Uz/hero-image.fill.size_1200x675.v1787651918.jpg",
+      "published": "2026-08-25 10:22:49",
       "category": [
-        "top",
-        "technology"
+        "entertainment"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "SBI eyes $10 billion from NRIs, foreign investors ahead of RBI swap window closure",
-      "description": "Talking about SBI's Vision 2030 strategy, Setty said the bank aspires to double its total business to around Rs 200 lakh crore when the country's biggest lender celebrates its platinum jubilee.",
-      "link": "https://www.newindianexpress.com/business/2026/Aug/25/sbi-eyes-10-billion-from-nris-foreign-investors-ahead-of-rbi-swap-window-closure",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-25/dlumz0m5/SBI-Chairman-CS-Setty.png?w=280",
-      "published": "2026-08-25 09:23:51",
+      "title": "Eid-e-Milad 2026: Thane Traffic Restrictions, Diversions And Road Closures On Aug. 26",
+      "description": "Thane Traffic Police has announced route diversions, road closures and parking curbs across five divisions for Eid-e-Milad processions on August 26.",
+      "link": "https://www.ndtvprofit.com/india/eid-e-milad-2026-thane-traffic-restrictions-diversions-and-road-closures-on-aug-26-11956192",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-08/svonrl98_thane_625x300_25_August_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-25 10:22:48",
       "category": [
-        "business",
+        "crime",
         "top"
       ],
       "country": [
@@ -311,132 +382,18 @@
       ]
     },
     {
-      "title": "M&S rolls out Zalando fulfilment deal in 22 European markets",
-      "description": "The Entire Business World on a Single Page with the Web's Most Comprehensive One-Stop Finance News Hub.",
-      "link": "https://biztoc.com/x/8c8977d3896839ad",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/8c8977d3896839ad_s.webp",
-      "published": "2026-08-25 09:23:50",
+      "title": "Over 2,300 H1N1 cases among 3,000 influenza infections in Delhi; CM calls for emergency meeting",
+      "description": "In light of increasing influenza cases, Delhi's Chief Minister Rekha Gupta convened an emergency review meeting. Health Minister Pankaj Kumar Singh reassured citizens that all necessary resources are available to combat the issue. The city has reported around 3,000 influenza cases this year, with 2,308 cases linked specifically to H1N1. Hospitals have set up isolation wards to treat affected patients, emphasizing that there is no reason for public alarm.",
+      "link": "https://economictimes.indiatimes.com/news/india/over-2300-h1n1-cases-among-3000-influenza-infections-in-delhi-cm-calls-for-emergency-meeting/articleshow/133505097.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133505640,resizemode-4,width-1200,height-900,imgsize-56180,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-25 10:22:47",
       "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei\u2019s safety-first AI strategy faces backlash as public trust in artificial intelligence continues to collapse",
-      "description": "Anthropic has built much of its identity around the idea that artificial intelligence should be developed cautiously, with safety treated as a central priority rather than an afterthought. Co-founder and CEO Dario Amodei has repeatedly warned about the potential dangers of increasingly capable AI systems, including job displacement, autonomous weapons and surveillance. His stance helped [...]",
-      "link": "https://tdpelmedia.com/anthropic-ceo-dario-amodeis-safety-first-ai-strategy-faces-backlash-as-public-trust-in-artificial-intelligence-continues-to-collapse/",
-      "source": "Event Coverage",
-      "image": "https://tdpelmedia.com/wp-content/uploads/2026/08/Anthropic.jpg",
-      "published": "2026-08-25 09:23:50",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Target apologizes for children\u2019s clown Halloween costume after backlash",
-      "description": "EDITOR\u2019S NOTE: This story contains sensitive content that some may find disturbing. Target apologized on Monday and said it had pulled a Halloween costume from sale depicting a circus clown that critics said evoked Blackface and minstrel shows. The product, sold as the \u201cKids\u2019 Glows Under...",
-      "link": "https://biztoc.com/x/f6ea98e48c5076e8",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/f6ea98e48c5076e8_s.webp",
-      "published": "2026-08-25 09:23:50",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Quantbot Technologies LP Takes Position in Cracker Barrel Old Country Store, Inc. $CBRL",
-      "description": "Quantbot Technologies LP bought a new stake in shares of Cracker Barrel Old Country Store, Inc. (NASDAQ:CBRL \u2013 Free Report) during the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The fund bought 38,737 shares of the restaurant operator\u2019s stock, valued at approximately $2,065,000. [...]",
-      "link": "https://www.watchlistnews.com/quantbot-technologies-lp-takes-position-in-cracker-barrel-old-country-store-inc-cbrl/11198452.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/cracker-barrel-old-country-store-inc-logo-1200x675.png?v=20221122121422",
-      "published": "2026-08-25 09:23:49",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The New Career Safety Net Isn\u2019t 1 Full-Time Job. It\u2019s a Portfolio of Work You Control",
-      "description": "If your career has several lanes, give them one clear destination. A shared purpose increases credibility.",
-      "link": "https://biztoc.com/x/0be02874eb888d87",
-      "source": "Biztoc",
-      "image": "https://cdn.biztoc.com/0be02874eb888d87_s.webp",
-      "published": "2026-08-25 09:23:49",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "When will the Super El Nin\u0303o storms hit the UK? Scientists tell Brits to prepare for heavy rain and flooding from October - followed by a 'bitterly cold' winter",
-      "description": "According to scientists, Brits should prepare for 'heavy rainfall and flooding' from as early as October.",
-      "link": "https://www.dailymail.com/sciencetech/article-16077853/When-Super-El-Nino-storms-hit-UK.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/25/10/110834999-0-image-a-15_1787649124232.jpg",
-      "published": "2026-08-25 09:23:49",
-      "category": [
-        "environment",
+        "crime",
         "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Quantbot Technologies LP Purchases New Shares in Alignment Healthcare, Inc. $ALHC",
-      "description": "Quantbot Technologies LP purchased a new position in shares of Alignment Healthcare, Inc. (NASDAQ:ALHC \u2013 Free Report) in the second quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The institutional investor purchased 69,727 shares of the company\u2019s stock, valued at approximately $1,660,000. Other institutional investors also recently [...]",
-      "link": "https://www.watchlistnews.com/quantbot-technologies-lp-purchases-new-shares-in-alignment-healthcare-inc-alhc/11198451.html",
-      "source": "Watch List News",
-      "image": "https://www.marketbeat.com/logos/alignment-healthcare-inc-logo-1200x675.png?v=20221123110710",
-      "published": "2026-08-25 09:23:48",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy S27 Pro and Samsung Galaxy S27 Ultra To Look Similar",
-      "description": "The newly leaked CAD models suggest that the upcoming Samsung flagship devices will share designed language. The reliable leaker Sonny Dickson has shared CAD renders that appear to show two slightly different sizes of devices. One of them could be the Samsung Galaxy S27 Ultra and the other one will be the Pro model. The [...]",
-      "link": "https://www.technobugg.com/samsung-galaxy-s27-pro-and-samsung-galaxy-s27-ultra-to-look-similar/",
-      "source": "Technobugg",
-      "image": "https://www.technobugg.com/wp-content/uploads/2026/08/Samsung-Galaxy-S27-Ultra-1.jpg",
-      "published": "2026-08-25 09:23:48",
-      "category": [
-        "technology"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Tornado tears through French village injuring dozens",
-      "description": "A TORNADO tore through a village in south-west France, injuring 41 people and damaging hundreds of homes. Fifteen people were taken to hospital, including a pregnant woman who was injured when her house collapsed on her after winds reaching 73mph ripped through Pomas on Monday. An orange alert was issued for thunderstorms across large sections of the country\u2019s south-west, which have already been hit by power outages and transport disruptions.",
-      "link": "https://www.morningstaronline.co.uk/article/tornado-aude-south-west-france",
-      "source": "Morning Star",
-      "image": "https://www.morningstaronline.co.uk/sites/default/files/styles/wide/public/2026-08/TORNADO%20GENERIC%20greg-johnson-2ww84LX_um4-unsplash.jpg.webp?itok=xuA_y0x4",
-      "published": "2026-08-25 09:23:48",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
       ]
     }
   ]

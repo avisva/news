@@ -1,35 +1,77 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "European Commission aware of Operation Forrest Gump, reiterates \"zero tolerance for corruption\"",
-      "description": "The European Commission is aware of the latest developments in Ukraine related to the Forrest Gump anti-corruption operation and has reiterated that fighting corruption is a central requirement for EU candidate countries.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/08/25/8050203/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/b/898647/3b904891ecf2921c3eccf0f4970e1e08.jpeg",
-      "published": "2026-08-25 09:24:00",
+      "title": "Wife of active-duty US Army sergeant is deported to Honduras",
+      "description": "The incident marks the latest example of the impact of the Trump administration's immigration crackdown on relatives of members of the U.S. military.",
+      "link": "https://www.usatoday.com/story/news/nation/2026/08/25/army-sergeant-wife-deported-honduras/91452848007/",
+      "source": "Usa Today",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91452906007-20260716-t-181402-z-1421427873-rc-2-kemau-29-o-4-rtrmadp-3-usatrumpdefense.JPG?crop=2084,1172,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-08-25 10:23:00",
       "category": [
-        "politics",
-        "top"
+        "politics"
       ],
       "country": [
-        "ukraine"
+        "united states of america"
       ]
     },
     {
-      "title": "'Not a flight risk' - Durban businessman pleads for bail in human trafficking case",
-      "description": "A Durban businessman and Rangasamy Naidoo have asked the court for bail while facing human trafficking and related charges.",
-      "link": "https://www.iol.co.za/news/south-africa/kwazulu-natal/not-a-flight-risk-durban-businessman-pleads-for-bail-in-human-trafficking-case-db3a22f1-f79d-471e-9195-421b1c7c1907",
-      "source": "Iol",
-      "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/a5a78907974b335495a90cc085a64e2f19ba3165/4096&operation=CROP&offset=412x0&resize=3271x1840",
-      "published": "2026-08-25 09:23:56",
+      "title": "What do we know about the Syria and Israel meeting in Jordan?",
+      "description": "The meeting was the highest-level publicly announced direct contact since the start of the security track between the two sides.",
+      "link": "https://www.newarab.com/news/what-do-we-know-about-syria-and-israel-meeting-jordan",
+      "source": "The New Arab",
+      "image": "https://www.newarab.com/sites/default/files/styles/medium_16_9/public/2288488221.jpeg?h=199d8c1f&itok=8fvCDQgd",
+      "published": "2026-08-25 10:22:59",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "south africa"
+        "syria",
+        "palestine",
+        "libya",
+        "egypt",
+        "qatar",
+        "saudi arabia",
+        "morocco",
+        "kuwait",
+        "united arab emirates",
+        "algeria",
+        "bahrain",
+        "jordan",
+        "iraq",
+        "lebanon",
+        "tunisia"
+      ]
+    },
+    {
+      "title": "Kriti Sanon Gives Befitting Reply To Kangana Ranaut's 'Bikini' Jibe Over Rakhi Ad",
+      "description": "Kriti Sanon responds to Kangana Ranaut's criticism of her Raksha Bandhan ad, questioning why women are still judged for their clothing choices.",
+      "link": "https://www.etvbharat.com/en/entertainment/kriti-sanon-gives-befitting-reply-to-kangana-ranaut-bikini-remark-over-rakhi-ad-enn26082503466",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/25-08-2026/1200-675-27477960-530-27477960-1787653159609.jpg",
+      "published": "2026-08-25 10:22:55",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "West Bengal SIR: SC directs EC to submit data on pendency of appeals before appellate tribunals",
+      "description": "The Supreme Court has directed the Election Commission to submit data on pending electoral roll appeals. Tribunals must adjudicate these appeals in a time-bound manner, the court stated. The poll panel must explain steps taken to streamline appeal disposal processes. Additional tribunals may be constituted if required to expedite the process. This directive follows concerns about the timely resolution of voter inclusion and exclusion appeals.",
+      "link": "https://economictimes.indiatimes.com/news/india/west-bengal-sir-sc-directs-ec-to-submit-data-on-pendency-of-appeals-before-appellate-tribunals/articleshow/133505216.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-133505629,resizemode-4,width-1200,height-900,imgsize-165372,overlay-economictimes/articleshow.jpg",
+      "published": "2026-08-25 10:22:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

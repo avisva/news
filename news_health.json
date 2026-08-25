@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Unraveling Menopause: Why you don't feel like yourself \u2014 and when to seek help",
+      "description": "Menopause brings hormonal changes that can affect women\u2019s emotional and mental well-being. Mood swings, anxiety, irritability, low mood, brain fog and sleep problems may occur during this transition. Experts point out that while some changes are temporary, persistent or severe symptoms that affect daily life, relationships or self-care should be addressed with appropriate professional support.",
+      "link": "https://zeenews.india.com/health/unraveling-menopause-why-you-dont-feel-like-yourself-and-when-to-seek-help-3068311",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/08/25/1976136-women-stress-magnific.jpeg",
+      "published": "2026-08-25 08:25:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

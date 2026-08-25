@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Actors Jang Dong-yoon and Kim Seung-yoon to marry in October",
+      "description": "Actors Jang Dong-yoon and Kim Seung-yoon will marry in October in a small family wedding, following years of being together, BH Entertainment confirmed.",
+      "link": "https://www.koreajoongangdaily.com/entertainment/actors-jang-dongyoon-kim-seungyoon-to-tie-the-knot-in-october/12841992",
+      "source": "Koreajoongangdaily Joins News",
+      "image": null,
+      "published": "2026-08-25 02:41:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "'1942: A Love Story' removed from several theatres: Why Anil Kapoor-Manisha Koirala-starrer has a limited release",
+      "description": "The restored classic has returned to cinemas with upgraded picture and sound quality. But its new technical format has forced the makers to limit screenings to select theatres.",
+      "link": "https://www.thestatesman.com/entertainment/bollywood/1942-a-love-story-removed-from-several-theatres-why-anil-kapoor-manisha-koirala-starrer-has-a-limited-release-1503630828.html",
+      "source": "The Statesman",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2026/08/1942-A-Love-Story.webp",
+      "published": "2026-08-25 02:41:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

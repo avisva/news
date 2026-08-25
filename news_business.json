@@ -1,86 +1,46 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Ezy Airlines halts northern flights over high fees",
-      "description": "Ezy Airlines has suspended a plan to fly in northern Thailand, reportedly due to high parking fees at Chiang Mai airport, prompting the governor of Mae Hong Son to seek a review of the fees to support tourism.",
-      "link": "https://www.bangkokpost.com/business/general/3307724/ezy-airlines-halts-northern-flights-over-high-fees",
-      "source": "Bangkok Post",
-      "image": "https://static.bangkokpost.com/media/content/20260825/c1_3307724.png",
-      "published": "2026-08-25 10:23:00",
+      "title": "Turkish central bank reserves gain nearly $40B since late June",
+      "description": "Tu\u0308rkiye's central bank reserves are projected to have increased last week to their highest level in five months, bringing the rebound since late June to nearly $40 billion, ac...",
+      "link": "https://www.dailysabah.com/business/economy/turkish-central-bank-reserves-gain-nearly-40b-since-late-june",
+      "source": "Daily Sabah",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/25/457536.jpg",
+      "published": "2026-08-25 11:22:00",
       "category": [
         "business"
       ],
       "country": [
-        "thailand"
+        "turkey"
       ]
     },
     {
-      "title": "US leveraged single-stock ETF boom may be cooling",
-      "description": null,
-      "link": "https://www.reuters.com/legal/transactional/us-leveraged-single-stock-etf-boom-may-be-cooling-2026-08-25/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/NQA4FT3P4VKX3C5MGQ4VKZAS2A.jpg?auth=c34b8590c035a5253a96af867bfd47f7ee58f77cba4b3de7c331521605b637b0&smart=true&width=1920",
-      "published": "2026-08-25 10:22:57",
+      "title": "Belated works on Birkirkara main road set to start",
+      "description": "A section of Mannarino Road (Valley Road) in Birkirkara. (Google Street View)",
+      "link": "https://timesofmalta.com/article/belated-works-birkirkara-main-road-set-start.1133187",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/adb02bcbd9f8bec936329628b0bbd0e8e3d662cb-1787657591-01faf64f-1920x1280.png",
+      "published": "2026-08-25 11:22:00",
       "category": [
         "business",
+        "crime",
         "top"
       ],
       "country": [
-        "japan",
-        "united kingdom",
-        "ukraine",
-        "iran",
-        "india",
-        "russia",
-        "israel",
-        "south africa",
-        "china",
-        "united states of america"
+        "malta"
       ]
     },
     {
-      "title": "First National Bank Ghana pioneers financial literacy programme for Persons with Disabilities",
-      "description": "Head of Retail Banking at First National Bank Ghana, Akweley Laryea, underscored the bank's commitment to ensuring that everyone has access to the knowledge and tools to participate meaningfully in the financial system",
-      "link": "https://www.myjoyonline.com/first-national-bank-ghana-pioneers-financial-literacy-programme-for-persons-with-disabilities/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-25-at-13.06.13-1024x576.jpeg",
-      "published": "2026-08-25 10:22:53",
+      "title": "RSU Windfall: Nvidia Employees Cash In AI Wealth For Trump Towers In Hyderabad",
+      "description": "Luxury apartments at Trump Towers Hyderabad are priced between around Rs 6.2 crore and Rs 18 crore",
+      "link": "https://www.ndtvprofit.com/india/rsu-windfall-nvidia-employees-cash-in-ai-wealth-for-trump-towers-in-hyderabad-11956292",
+      "source": "Ndtv Profit",
+      "image": "https://c.ndtvimg.com/2026-08/cdg5i60o_rsu-windfall-nvidia-employees-cash-in-ai-wealth-for-trump-towers-in-hyderabad_625x300_25_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-08-25 11:21:51",
       "category": [
-        "business",
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Volkswagen labour chief says confidence in CEO damaged but can be repaired",
-      "description": "Confidence in CEO Oliver Blume has been damaged in the debate over restructuring but is not beyond repair, Volkswagen labour leader Daniela Cavallo said in a speech to workers gathered at the carmaker\u2019s main plant in Wolfsburg, Germany, on Tuesday",
-      "link": "https://www.timeslive.co.za/motoring/2026-08-25-volkswagen-labour-chief-says-confidence-in-ceo-damaged-but-can-be-repaired/",
-      "source": "Timeslive",
-      "image": "https://www.timeslive.co.za/resizer/v2/TFVMJPXSENCLDHKNSBACHTICUI.JPG?auth=94d8a2e71595973069df6c83029e068f4fa09f5e24de1d452edce8be62b49589&smart=true&height=350",
-      "published": "2026-08-25 10:22:51",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "Taapsee's Gandhari Faces Copyright Allegations Before Release, Makers React",
-      "description": "Kalyan Bandi shared that he had initially reached out to Shergill through LinkedIn to discuss the story he had written",
-      "link": "https://www.ndtv.com/entertainment/netflix-india-accused-of-copyright-infringement-over-taapsee-pannu-s-gandhari-makers-react-11955498",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-08/jmetigj8_gandhari_625x300_25_August_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "published": "2026-08-25 10:22:50",
-      "category": [
-        "business",
-        "top"
+        "business"
       ],
       "country": [
         "india"

@@ -1,20 +1,36 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "ACAB: Bachelor Party Edition [Dumbass]",
-      "description": null,
-      "link": "https://www.fark.com/comments/14174878",
-      "source": "Fark",
-      "image": "https://img.fark.net/pub/topics/dumbass.gif",
-      "published": "2026-08-25 06:35:00",
+      "title": "Willkommen in der Realita\u0308t!",
+      "description": "You must be logged into the site to view this content.",
+      "link": "https://www.budapester.hu/wirtschaft/willkommen-in-der-realitaet-3/",
+      "source": "Budapester Zeitung",
+      "image": "https://www.budapester.hu/wp-content/uploads/2020/05/bz_icon.jpg",
+      "published": "2026-08-25 07:27:51",
+      "category": [
+        "entertainment",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "hungary"
+      ]
+    },
+    {
+      "title": "Bethlehem Kudumba Unit Set For Tamil, Telugu Release",
+      "description": "Nivin Pauly and Mamitha Baiju-starrer Bethlehem Kudumba Unit will release in Tamil and Telugu on September 4, the makers announced on Monday. The post Bethlehem Kudumba Unit Set For Tamil, Telugu Release appeared first on News Today | First with the news .",
+      "link": "https://newstodaynet.com/2026/08/25/bethlehem-kudumba-unit-set-for-tamil-telugu-release/",
+      "source": "News Today",
+      "image": "https://newstodaynet.com/wp-content/uploads/2026/08/e9.webp",
+      "published": "2026-08-25 07:27:46",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

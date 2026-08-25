@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "ChatGPT can now turn your photos into custom iMessage and WhatsApp stickers",
-      "description": "ChatGPT can now turn your photos into custom stickers with transparent backgrounds, ready to send straight to iMessage or WhatsApp.",
-      "link": "https://www.digitaltrends.com/phones/chatgpt-can-now-turn-your-photos-into-custom-imessage-and-whatsapp-stickers/",
-      "source": "Digitaltrends",
-      "image": "https://www.digitaltrends.com/tachyon/2026/08/iPhone-showing-ChatGPT-stickers-feature.jpg?resize=440%2C292",
-      "published": "2026-08-25 04:32:55",
+      "title": "Photo diary: A vintage buying trip in Italy with PDA Shop - Fashion Journal",
+      "description": "Photo diary: A vintage buying trip in Italy with PDA Shop Fashion Journal",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTMnk3bHNBU0pjc0ZaX1pwaXRoWG1jNmJvdGQyZXJ5OUtzY0l6eXVNQTJzaUdhMjFsZ3YtSk4xOS1WdzBSR0JHNzRtdHg5UFpRQkdyUWh2anhTbHN3cUI3TTBRTVBmRnJWa0ExMTlMTGNjeVllZ3hZ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-25 05:27:45",
       "category": [
         "technology"
       ],
       "country": [
-        "united states of america"
+        "australia"
+      ]
+    },
+    {
+      "title": "Intel Core i3-10105F CPU 3.70GHz",
+      "description": null,
+      "link": "http://www.semanario.pt/shops/M89089997808/",
+      "source": "Seman\u00e1rio Econ\u00f3mico",
+      "image": null,
+      "published": "2026-08-25 05:27:40",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "portugal"
       ]
     }
   ]

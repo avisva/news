@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Tiruchy Airport Also Transports Domestic Cargo Now",
+      "description": "An airport press release said the first shipment, weighing 1,192 kg, departed on flight 6E 2171 at 6.20 am.",
+      "link": "https://www.deccanchronicle.com/southern-states/tamil-nadu/tiruchy-airport-also-transports-domestic-cargo-now-1982335",
+      "source": "Andhrabhoomi",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/25/2081221-59455112113622502930124.webp",
+      "published": "2026-08-25 20:39:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

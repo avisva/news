@@ -1,17 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Libre Duo 10 Day Authorized as First Glucose-Ketone Monitor for Diabetes",
-      "description": null,
-      "link": "https://www.hcplive.com/view/libre-duo-10-day-authorized-as-first-glucose-ketone-monitor-for-diabetes",
-      "source": "Hcplive",
-      "image": null,
-      "published": "2026-08-25 19:42:00",
+      "title": "Family-run NJ pizzeria to change ownership after 50 years in business",
+      "description": "Denville Pizzeria & Restaurant, on Diamond Spring Road in the township, will be under new ownership as of the end of the day Aug. 29.",
+      "link": "https://www.northjersey.com/story/news/morris/denville/2026/08/25/denville-pizza-shop-to-get-new-owners-after-50-years/91456867007/",
+      "source": "North Jersey Media Group",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/03/27/PAPP/73118518007-pizzerialucci-0326-h.jpg?auto=webp&crop=2398,1348,x0,y251&format=pjpg&width=1200",
+      "published": "2026-08-25 20:38:56",
       "category": [
-        "health",
-        "top"
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Intuit shares fall on guidance",
+      "description": "Intuit shares slide despite beat as quarterly guidance disappoints.",
+      "link": "https://www.cnbc.com/video/2026/08/25/intuit-shares-fall-on-guidance.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354151-17876890801787689078-47982840947-1080pnbcnews.jpg?v=1787689079",
+      "published": "2026-08-25 20:38:54",
+      "category": [
+        "health"
       ],
       "country": [
         "united states of america"

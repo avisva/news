@@ -1,32 +1,17 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Young guns take charge",
-      "description": "The appointment of relatively young civil servants, with many years left in public service, to top bureaucratic posts under Prime Minister Anutin Charnvirakul has drawn attention in political and administrative circles.",
-      "link": "https://www.bangkokpost.com/thailand/general/3308190/young-guns-take-charge",
-      "source": "Bangkok Post",
-      "image": "https://static.bangkokpost.comhttps//static.bangkokpost.com/media/content/20260826/6202509.png",
-      "published": "2026-08-25 23:26:00",
+      "title": "WPD aims to revive K-9 program",
+      "description": "Cpl. Brendan McMillian is hoping to bring a furry face back to the Washington Police Department for the first time in 20 years.",
+      "link": "https://www.missourian.com/news/wpd-aims-to-revive-k-9-program/article_40b15c6c-b8f6-4876-8cd7-9c83806c59c8.html",
+      "source": "The Columbia Missourian",
+      "image": "https://bloximages.chicago2.vip.townnews.com/missourian.com/content/tncms/assets/v3/editorial/d/5e/d5e1670c-64a7-11ef-8d3c-0b5ff6935806/60d266a46a9a9.image.jpg?resize=300%2C200",
+      "published": "2026-08-26 00:45:00",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "thailand"
-      ]
-    },
-    {
-      "title": "\u2020John Joseph Camps",
-      "description": null,
-      "link": "https://www.postguam.com/obituaries/paid/john-joseph-camps/article_6077fc6a-94fd-4059-b725-4755a585fbbd.html",
-      "source": "Postguam",
-      "image": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/8e/98e95f86-6ebc-41a6-a50c-5e60804b432a/6a8e26e3ad473.image.jpg?resize=300%2C426",
-      "published": "2026-08-25 23:26:00",
-      "category": [
-        "politics",
-        "top"
+        "top",
+        "politics"
       ],
       "country": [
         "united states of america"

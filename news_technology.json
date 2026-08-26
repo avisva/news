@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Apple supercharges desktop lineup with AI-focused Mac mini and Mac Studio upgrades",
+      "description": "Ahead of the big hardware event, Apple has announced the overhauled desktop lineup, putting local artificial intelligence and performance efficiency at the forefront. Leading the announcement is the completely updated Mac mini, now featuring the next-generation M6 and M5 Pro chips, alongside a refreshed Mac Studio powered by the M5 Max and M5 Ultra. Both compact machines leverage hardware-accelerated Neural Accelerators built directly into their GPU cores, aiming to make on-device LLM inference, local AI agents, and creative production faster without relying on cloud processing. Mac mini: Ultracompact AI powerhouse The new Mac mini serves as Apple's primary push into always-on, deskside agentic computing. With its tiny footprint, upgraded 2.5Gb Ethernet (10Gb optional), and faster storage architecture, it offers server-like utility for personal or business workflows. M6 Configuration: Introduces a 12-core CPU with Apple's fastest single-threaded cores, a 12-core GPU with built-in Neural Accelerators, and a Dual 16-core Neural Engine. It supports up to 32GB of unified memory (170GB/s bandwidth) and delivers up to 4x faster AI performance and 2x faster graphics than the M4 generation. M5 Pro Configuration: Built for heavy creative workloads like 3D design and video editing, offering up to an 18-core CPU, up to a 20-core GPU, and support for up to 64GB of unified memory (307GB/s bandwidth). Connectivity: Front USB-C ports and audio jack; rear connectivity includes 2.5Gb Ethernet, HDMI, and three Thunderbolt ports (Thunderbolt 4 on M6, Thunderbolt 5 on M5 Pro). Mac Studio: Extreme pro Workflows and clustering For heavy-duty data science, complex 3D rendering, and multi-stream 8K video editing, the updated Mac Studio scales performance further with the M5 Max and M5 Ultra chips. M5 Max: Packs an 18-core CPU, up to 40 GPU cores, and up to 128GB of memory. M5 Ultra: Features a 36-core CPU, up to 80 GPU cores, and up to 512GB of unified memory with 1.2TB/s bandwidth\u2014capable of running massive frontier-class open-weight models locally. System Clustering: Using Thunderbolt 5 and RDMA (Remote Direct Memory Access), users can link up to four Mac Studio units together to form a vast shared memory pool, yielding up to 3x faster distributed AI inference. Shared ecosystem features Both systems run the upcoming macOS 27 Golden Gate, featuring a revamped Spotlight search engine and UI refinements across the system. Wireless capabilities are standardized across both machines with Wi-Fi 7 and Bluetooth 6, alongside USB-C genlock support for precise display-to-camera frame synchronization with devices like the iPhone 17 Pro.",
+      "link": "https://mb.com.ph/article/10932908/technews/apple-supercharges-desktop-lineup-with-ai-focused-mac-mini-and-mac-studio-upgrades",
+      "source": "Manila Bulletin",
+      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/08/26/126445.webp",
+      "published": "2026-08-26 00:45:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

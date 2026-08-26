@@ -1,76 +1,50 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Lewis Hamilton issues public apology after controversial TV and radio comments",
-      "description": "Lewis Hamilton was left furious during the Dutch Grand Prix.",
-      "link": "https://www.express.co.uk/sport/f1-autosport/2242270/Lewis-Hamilton-apology-Dutch-Grand-Prix",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/73/237x141/2242270_1.jpg",
-      "published": "2026-08-25 11:22:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "One person taken to hospital after flats fire",
-      "description": "Sixteen crews from Berkshire and Buckinghamshire tackle the fire, which spread through flats to the roof.",
-      "link": "https://ca.news.yahoo.com/one-person-taken-hospital-flats-112159229.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/1fb7b3fca51a44d93b028a20f3921291c30bdb16e08180e5567368ed1deafdb3/lightyear_networkapi/resizefill_w720_h405%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F95a1f82d018fd25e51c73b9be72fc5ae.jpg",
-      "published": "2026-08-25 11:21:59",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Why Chelsea's 'JPMorgan' front three have a huge advantage over title rivals after flying start at Fulham - and the clue that Mike Penders is creeping closer to starting place after Robert Sanchez howlers, writes KIERAN GILL",
-      "description": "Cole Palmer twisted and turned Antonee Robinson until Fulham's left back resembled a pretzel at times. Palmer brought the mustard even when Alvaro Arbeloa doubled up on him.",
-      "link": "https://www.dailymail.com/sport/football/article-16078021/Chelsea-Palmer-Rogers-Pedro-Penders-Sanchez.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/08/25/12/110837795-0-image-a-25_1787656907736.jpg",
-      "published": "2026-08-25 11:21:58",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Charlton Athletic set to re-sign former loan star with medical scheduled ahead of permanent move",
-      "description": "Charlton Athletic are finalising the permanent signing of Crystal Palace winger Jesurun Rak-Sakyi, with a medical set to take place today. Charlton Athletic are eager to strengthen their squad before the summer transfer window ends as they look to push up the Championship table.",
-      "link": "https://uk.sports.yahoo.com/news/charlton-athletic-set-sign-former-112156529.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/164b47658c8b18459919d44ba306410b777d9a64ccbbe2f21de1cb92407413ad/lightyear_networkapi/resizefit_w768_h512%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_72_988%2F67989cca343a99063ef5118988b734dc",
-      "published": "2026-08-25 11:21:56",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "An England cricketer does have a public profile: Atherton on Carse row",
-      "description": null,
-      "link": "https://indianexpress.com/article/sports/cricket/michael-atherton-slams-brydon-carse-handcuff-row-england-cricket-10848914/",
-      "source": "The Indian Express",
-      "image": "https://images.indianexpress.com/2025/11/England-10.jpg",
-      "published": "2026-08-25 11:21:56",
+      "title": "Real Madrid's Jose Mourinho happy with squad despite losing out on Rodri",
+      "description": "Real Madrid coach Jose Mourinho said Tuesday he is \" very happy\" with his squad, which he considers complete despite missing out on midfielder Rodri, later signed by rivals Barcelona.",
+      "link": "https://businessreport.co.za/sport/soccer/la-liga/2026-08-25-real-madrids-mourinho-happy-with-squad-despite-losing-out-on-rodri/",
+      "source": "Business Report",
+      "image": "https://iol-prod.appspot.com/image/55ef47fc9a33ddabdc38380837d8f8a09226dead",
+      "published": "2026-08-25 13:08:00",
       "category": [
         "sports",
         "top"
       ],
       "country": [
-        "india"
+        "south africa"
+      ]
+    },
+    {
+      "title": "2 NBA teams that just increased their championship odds",
+      "description": "Two teams have joined the championship conversation after their latest moves.",
+      "link": "https://sports.yahoo.com/articles/2-nba-teams-just-increased-130800391.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/f9c64e3ce86da44f6dc3184c802b6d395afa0ea019aa8177b2abe0fc8b02bddf/lightyear_networkapi/resizefit_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F5481a473109b87e2eb617933d270cb0c.jpg",
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cloverleaf football ends 11-game losing streak to Buckeye",
+      "description": "Cloverleaf beat county rival Buckeye 10-6 for its first football win in 12 meetings, while Medina-area teams opened the fall sports season in soccer, golf and tennis.",
+      "link": "https://www.yourohionews.com/medina/cloverleaf-ends-losing-streak-against-county-rival-buckeye/1067352",
+      "source": "Your Ohio News",
+      "image": "https://image.yourohionews.com/?imageId=1067358&format=webp&width=1200",
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
+      "description": "Here\u2019s how finance leaders can evaluate AI investments in revenue cycle management before committing budget, and the risk exposure most vendor pitches leave out. The post Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask appeared first on MedCity News .",
+      "link": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
+      "source": "Medcity News",
+      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/07/GettyImages-1211202460.jpg",
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "business",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Serial NT-proBNP May Sharpen Heart Risk Prediction in Older Adults",
+      "description": "Tracking 3-year changes in the heart stress marker separated older adults whose risk climbed from those whose risk resolved.",
+      "link": "https://www.pharmacytimes.com/view/serial-nt-probnp-may-sharpen-heart-risk-prediction-in-older-adults",
+      "source": "Pharmacy Times",
+      "image": "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/232a2f39a90301d50c796577b14ca3c028d25536-7952x5304.jpg",
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Doctors in UAE call for early diabetes screening as youth cases surge",
+      "description": "US study shows ten-fold increase in Type 2 diabetes, with similar trends throughout Gulf",
+      "link": "https://www.thenationalnews.com/news/uae/2026/08/25/doctors-in-uae-call-for-early-diabetes-screening-as-youth-cases-surge/",
+      "source": "The National",
+      "image": "https://www.thenationalnews.com/resizer/v2/6J5L3BQLNP7UI4KBZ6XYB2IPZY.jpg?auth=52a909ebdab961f15409d5e7ce80f5a6599bdc56cc6edf64dc43430a9f979a81&smart=true&width=1024&height=576",
+      "published": "2026-08-25 13:07:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    }
+  ]
 }

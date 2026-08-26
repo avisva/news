@@ -1,49 +1,113 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Turkish central bank reserves gain nearly $40B since late June",
-      "description": "Tu\u0308rkiye's central bank reserves are projected to have increased last week to their highest level in five months, bringing the rebound since late June to nearly $40 billion, ac...",
-      "link": "https://www.dailysabah.com/business/economy/turkish-central-bank-reserves-gain-nearly-40b-since-late-june",
-      "source": "Daily Sabah",
-      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/08/25/457536.jpg",
-      "published": "2026-08-25 11:22:00",
+      "title": "Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask",
+      "description": "Here\u2019s how finance leaders can evaluate AI investments in revenue cycle management before committing budget, and the risk exposure most vendor pitches leave out. The post Before You Sign That AI Contract: 7 Questions Every Healthcare CFO Should Ask appeared first on MedCity News .",
+      "link": "https://medcitynews.com/2026/08/before-you-sign-that-ai-contract-7-questions-every-healthcare-cfo-should-ask/",
+      "source": "Medcity News",
+      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/07/GettyImages-1211202460.jpg",
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "business",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "WealthReach and VastAdvisor Partner to End Disconnect Between Organic and Paid Advisor Marketing",
+      "description": "NEW YORK--(BUSINESS WIRE)--The WealthReach and VastAdvisor partnership allows advisors to direct paid spend toward warm, in-market prospects interested in the firm's services.",
+      "link": "http://www.businesswire.com/news/home/20260825456826/en/WealthReach-and-VastAdvisor-Partner-to-End-Disconnect-Between-Organic-and-Paid-Advisor-Marketing/",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20260825456826/en/2881322/21/WealthReach_Logo.jpg",
+      "published": "2026-08-25 13:08:00",
       "category": [
         "business"
       ],
       "country": [
-        "turkey"
+        "japan",
+        "germany",
+        "united states of america",
+        "united kingdom",
+        "canada",
+        "france",
+        "china",
+        "australia"
       ]
     },
     {
-      "title": "Belated works on Birkirkara main road set to start",
-      "description": "A section of Mannarino Road (Valley Road) in Birkirkara. (Google Street View)",
-      "link": "https://timesofmalta.com/article/belated-works-birkirkara-main-road-set-start.1133187",
-      "source": "Times Of Malta",
-      "image": "https://cdn-attachments.timesofmalta.com/adb02bcbd9f8bec936329628b0bbd0e8e3d662cb-1787657591-01faf64f-1920x1280.png",
-      "published": "2026-08-25 11:22:00",
+      "title": "SEBI Clears Axis Bank, Closes Proceedings Without Penalty",
+      "description": "SEBI has disposed of all proceedings against Axis Bank, Axis Securities and Axis Capital related to Max Life Insurance share purchase without any penalty or...",
+      "link": "https://www.psuconnect.in/bank-news/sebi-clears-axis-bank-closes-proceedings-without-penalty",
+      "source": "Psu Connect",
+      "image": "https://images.psuconnect.in/SEBI_Clears_Axis_Bank_Closes_Proceedings_Without_Penalty.jpg",
+      "published": "2026-08-25 13:08:00",
       "category": [
         "business",
-        "crime",
         "top"
       ],
       "country": [
-        "malta"
+        "india"
       ]
     },
     {
-      "title": "RSU Windfall: Nvidia Employees Cash In AI Wealth For Trump Towers In Hyderabad",
-      "description": "Luxury apartments at Trump Towers Hyderabad are priced between around Rs 6.2 crore and Rs 18 crore",
-      "link": "https://www.ndtvprofit.com/india/rsu-windfall-nvidia-employees-cash-in-ai-wealth-for-trump-towers-in-hyderabad-11956292",
-      "source": "Ndtv Profit",
-      "image": "https://c.ndtvimg.com/2026-08/cdg5i60o_rsu-windfall-nvidia-employees-cash-in-ai-wealth-for-trump-towers-in-hyderabad_625x300_25_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "published": "2026-08-25 11:21:51",
+      "title": "Executive Presence Releases The Executive LinkedIn Report: 2026, Revealing What's Working for CEOs and Executives on LinkedIn",
+      "description": "DENVER, Aug. 25, 2026 /PRNewswire/ -- Executive Presence, a strategic communications firm composed of former consultants, writers, and media strategists who specialize in turning leaders into thought leaders, today released The Executive LinkedIn Report: 2026, its fourth annual analysis...",
+      "link": "https://www.prnewswire.com/news-releases/executive-presence-releases-the-executive-linkedin-report-2026-revealing-whats-working-for-ceos-and-executives-on-linkedin-302859423.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS1967683/Executive-Presence-LOGO.jpg?id=OA2909916&p=original",
+      "published": "2026-08-25 13:08:00",
       "category": [
         "business"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Advisors Asset Management and Wilshire Launch AAM Wilshire Infrastructure Fund",
+      "description": "Interval fund provides individual investors with access to diversified small and middle market infrastructure investments positioned to benefit from long-term megatrends. MONUMENT, Colo., Aug. 25, 2026 /PRNewswire/ -- As demand grows for infrastructure investments, Advisors Asset...",
+      "link": "https://www.prnewswire.com/news-releases/advisors-asset-management-and-wilshire-launch-aam-wilshire-infrastructure-fund-302858949.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS672211/AAM-Logo.jpg?id=OA2907711&p=original",
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Important Notice to Long-Term Shareholders of ARS Pharmaceuticals, Inc. (NASDAQ: SPRY); Hub Group, Inc. (NASDAQ: HUBG); Insulet Corporation (NASDAQ: PODD); and Roblox Corporation (NYSE: RBLX): Grabar Law Office is Investigating Claims on Your Behalf",
+      "description": "INVESTOR NOTICE: ARS Pharmaceuticals, Inc. (NASDAQ: SPRY); Hub Group, Inc. (NASDAQ: HUBG); Insulet Corp. (NASDAQ: PODD); and Roblox Corp. (NYSE: RBLX)",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/08/25/3350535/0/en/important-notice-to-long-term-shareholders-of-ars-pharmaceuticals-inc-nasdaq-spry-hub-group-inc-nasdaq-hubg-insulet-corporation-nasdaq-podd-and-roblox-corporation-nyse-rblx-grabar-.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-08-25 13:08:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Columbia Business Times",
+      "description": null,
+      "link": "https://www.kbia.org/tags/columbia-business-times",
+      "source": "Kbia",
+      "image": null,
+      "published": "2026-08-25 13:07:57",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

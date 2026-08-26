@@ -1,41 +1,53 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Morningstar and PitchBook Help Ground AI with Trusted Investment Intelligence in Gemini Enterprise for Financial Services, Expanding Access Across AI Ecosystems",
-      "description": "CHICAGO & SEATTLE--(BUSINESS WIRE)--Morningstar and PitchBook announced upcoming Model Context Protocol (MCP) integrations with Google Cloud\u2019s Gemini Enterprise for Financial Services.",
-      "link": "http://www.businesswire.com/news/home/20260825674797/en/Morningstar-and-PitchBook-Help-Ground-AI-with-Trusted-Investment-Intelligence-in-Gemini-Enterprise-for-Financial-Services-Expanding-Access-Across-AI-Ecosystems/",
-      "source": "Businesswire",
-      "image": "https://mms.businesswire.com/media/20260825674797/en/2764795/21/Morningstar.jpg",
-      "published": "2026-08-25 16:36:00",
+      "title": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
+      "description": "Today Apple unveiled its M6 chip , the first of a new chip generation that will soon include iPhone 18 Pro\u2019s A20 Pro. Here\u2019s what the M6 reveals about iPhone 18 Pro gains to expect.",
+      "link": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
+      "source": "9to5 Mac",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all",
+      "published": "2026-08-25 17:30:58",
       "category": [
         "technology"
       ],
       "country": [
-        "canada",
-        "united kingdom",
-        "france",
-        "japan",
         "united states of america",
-        "china",
-        "germany",
+        "singapore",
+        "united kingdom",
+        "india",
         "australia"
       ]
     },
     {
-      "title": "Como o Mac mini M6 altera a disputa por intelige\u0302ncia artificial no mercado",
-      "description": "O avanc\u0327o do novo chip de 2 nano\u0302metros impulsiona o processamento local de IA: entenda os impactos no desempenho de softwares e sistemas",
-      "link": "https://www.em.com.br/tecnologia/2026/08/7487046-como-o-mac-mini-m6-altera-a-disputa-por-inteligencia-artificial-no-mercado.html",
-      "source": "Jornal Estado De Minas",
-      "image": "https://midias.em.com.br/_midias/jpg/2026/08/25/7487046-d300fe9c99d44417b435e4911efea9fa-67509855.jpg",
-      "published": "2026-08-25 16:35:50",
+      "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S.",
+      "description": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the UK, Japan and now Germany.",
+      "link": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108289300-1775748036631-gettyimages-2270578340-mms19003_vnsswh1p.jpeg?v=1775748096&w=1200&h=675",
+      "published": "2026-08-25 17:30:54",
       "category": [
-        "technology",
-        "top"
+        "top",
+        "technology"
       ],
       "country": [
-        "brazil"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "PM Modi reviews Rs 30,000-crore infrastructure projects at 53rd PRAGATI meeting",
+      "description": "Prime Minister Narendra Modi on Tuesday chaired the 53rd meeting of PRAGATI, the ICT-enabled multi-modal platform for Pro-Active Governance and Timely Implementation, and reviewed six major infrastructure projects in the Railway, Road and Power sectors across nine states involving a cumulative investment of more than Rs 30,000 crore.",
+      "link": "https://www.thestatesman.com/india/pm-modi-reviews-rs-30000-crore-infrastructure-projects-at-53rd-pragati-meeting-1503631178.html",
+      "source": "The Statesman",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2026/07/IMG_3868.webp",
+      "published": "2026-08-25 17:30:53",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "GomSpace A/S: Q2 Financial Reporting Confirms a Strong First Half of 2026: 30% Growth, Positive EBIT, Reinforced Balance Sheet and Guidance Maintained",
-      "description": "STOCKHOLM, Aug. 26, 2026 /PRNewswire/ -- GomSpace posts above-market 30% revenue growth, improved profitability with 11% EBITDA and positive EBIT, and a strengthened balance sheet with equity ratio increase to 41%, while progressing its shift toward sovereign solutions and long-term value...",
-      "link": "https://www.prnewswire.co.uk/news-releases/gomspace-as-q2-financial-reporting-confirms-a-strong-first-half-of-2026-30-growth-positive-ebit-reinforced-balance-sheet-and-guidance-maintained-302860317.html",
-      "source": "Pr Newswire Uk",
-      "image": null,
-      "published": "2026-08-26 06:58:00",
+      "title": "Pro-Russian hackers claim responsibility for cyberattacks on Norway over support for Ukraine",
+      "description": "Pro-Russian hacker group Server Killers has claimed responsibility for recent cyberattacks against Norway, according to a post on the group's Telegram channel.",
+      "link": "https://www.pravda.com.ua/eng/news/2026/08/26/8050371/",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/b/899482/6b5d77d8d7fddec5e4274784a70a6d9f.jpeg",
+      "published": "2026-08-26 09:43:00",
       "category": [
-        "technology",
-        "business"
+        "top",
+        "technology"
       ],
       "country": [
-        "united kingdom"
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Chinese EV exports surge as weak home sales push carmakers overseas",
+      "description": "Chinese electric vehicle exports rose 147.8% year on year in July, helping manufacturers offset weaker sales in their domestic market. Total EV deliveries in China fell 5% to 980,000 units during the month, while global sales of electric and hybrid vehicles increased 9% to 1.85 million units, Retail News Asia reported. China\u2019s overall vehicle exports [...] The post Chinese EV exports surge as weak home sales push carmakers overseas appeared first on BioEnergy Times .",
+      "link": "https://bioenergytimes.com/chinese-ev-exports-surge-as-weak-home-sales-push-carmakers-overseas/",
+      "source": "Bioenergy Times",
+      "image": "https://bioenergytimes.com/wp-content/uploads/2026/01/EV-13.jpeg",
+      "published": "2026-08-26 09:42:45",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Queens Of The Stone Age Announce New Album Perfecth : Hear \u201cInsignificant Other\u201d - Stereogum",
-      "description": "Queens Of The Stone Age Announce New Album Perfecth : Hear \u201cInsignificant Other\u201d Stereogum Queens of the Stone Age Reveal New Album Perfecth Pitchfork Queens of the Stone Age Detail 'Perfecth,' Share \"Insignificant Other\" Exclaim! Queens Of The Stone Age announce details of new album 'Perfecth' with groovy single 'Insignificant Other' NME",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXJhMUNFTjZwcGRyMUwwU0lKZ3BCMUJlVWlnWlpIWTM1WUlieGlpSlVlTll6emY2OFluazYyMUlHME5KYnc5Ymg4cHMtc3AwaEhuclJtaEh4enJHNFI5bVl4cXZMaEVFQWlWd09SRzd0X2ZfVDhXVmNFdThOQnhjbWs5MnA1VVlVZC1LclA1QU1FTWNxelJHVm9zVWlYM3NNb2pqR21lS2ZGR0J0MHI3V0l3?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-25 13:08:00",
+      "title": "Donald Trump humilated live on air as singer takes savage swipe",
+      "description": null,
+      "link": "https://www.express.co.uk/showbiz/tv-radio/2242383/donald-trump-humilated-live-on-air",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/20/237x141/2242383_1.jpg",
+      "published": "2026-08-25 15:01:00",
       "category": [
         "entertainment"
       ],
       "country": [
-        "canada"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "From Bach to John Coltrane, 10 best Scottish classical and jazz concerts in September",
+      "description": "The best Scottish classical and jazz concerts in September: The National Youth Choir of Scotland marks its 30th anniversary with a performance of perhaps the most famous choral work of all, Carl Orff\u2019s Carmina Burana",
+      "link": "https://www.heraldscotland.com/news/26489413.10-best-scottish-classical-jazz-concerts-september/",
+      "source": "The Herald",
+      "image": "https://www.heraldscotland.com/resources/images/21363239/",
+      "published": "2026-08-25 15:01:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

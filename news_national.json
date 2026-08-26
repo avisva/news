@@ -1,17 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "SEBI Clears Axis Bank, Closes Proceedings Without Penalty",
-      "description": "SEBI has disposed of all proceedings against Axis Bank, Axis Securities and Axis Capital related to Max Life Insurance share purchase without any penalty or...",
-      "link": "https://www.psuconnect.in/bank-news/sebi-clears-axis-bank-closes-proceedings-without-penalty",
-      "source": "Psu Connect",
-      "image": "https://images.psuconnect.in/SEBI_Clears_Axis_Bank_Closes_Proceedings_Without_Penalty.jpg",
-      "published": "2026-08-25 13:08:00",
+      "title": "Andres Guardado joins Mexican national team",
+      "description": "Rafa Ma\u0301rquez, Mexico\u2019s new team, could incorporate Guardado into his working group",
+      "link": "https://www.news247plus.com/news/entertainment/andres-guardado-joins-mexican-national-team-58056",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/58056/andres-guardado-joins-mexican-national-team-news-image-58056.webp",
+      "published": "2026-08-25 15:01:00",
       "category": [
-        "business",
+        "sports",
         "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "IST Interview: Anjan Umamaheswaran B, Founder of CuriousCats.ai, on Building a Personal Intelligence Layer for the Internet",
+      "description": "The internet has made information more accessible than ever, but staying informed has become increasingly fragmented. News apps, newsletters, social media, YouTube and search platforms each provide a different piece of the picture, forcing users to constantly switch between platforms to understand what is happening. For Anjan Umamaheswaran B, Founder of CuriousCats.ai, this became a [...]",
+      "link": "https://www.indianstartuptimes.com/interviews/ist-interview-anjan-umamaheswaran-b-founder-of-curiouscats-ai-on-building-a-personal-intelligence-layer-for-the-internet/",
+      "source": "Indian Startup Times",
+      "image": "https://i0.wp.com/www.indianstartuptimes.com/wp-content/uploads/2026/08/ex-2026-08-25T155602.560.jpg",
+      "published": "2026-08-25 15:00:59",
+      "category": [
+        "top",
+        "technology"
       ],
       "country": [
         "india"

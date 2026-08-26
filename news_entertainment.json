@@ -1,50 +1,80 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "The Man behind the Portuguese National Anthem",
-      "description": "While millions around the world recognise the stirring melodies of \"A Portuguesa,\" fewer know the multi-talented creative genius behind the music: Alfredo Keil.",
-      "link": "https://www.theportugalnews.com/news/2026-08-25/the-man-behind-the-portuguese-national-anthem/1075709",
-      "source": "The Portugal News",
-      "image": null,
-      "published": "2026-08-25 17:31:00",
+      "title": "Dolly Parton, music star, actor and beloved figure who spanned generations, dies at 80",
+      "description": "NASHVILLE, Tenn. (AP) \u2014 Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died. She...",
+      "link": "https://www.indianagazette.com/entertainment/dolly-parton-music-star-actor-and-beloved-figure-who-spanned-generations-dies-at-80/article_f1b785a1-4740-5927-9db0-fb2eb378968f.html",
+      "source": "Indianagazette",
+      "image": "http://bloximages.newyork1.vip.townnews.com/indianagazette.com/content/tncms/assets/v3/editorial/d/ba/dba0a474-1cea-5dae-93ec-4b46ee897ddf/6a8de3a5d370e.image.jpg?resize=300%2C200",
+      "published": "2026-08-25 18:43:00",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "portugal"
+        "united states of america"
       ]
     },
     {
-      "title": "Trigger Point's Vicky McClure teases Shetland star's new role in S4 of the ITV thriller",
+      "title": "Dolly Parton, country music icon, dies at 80 years old",
       "description": null,
-      "link": "https://www.digitalspy.com/tv/a73521761/trigger-point-vicky-mcclure-julie-graham-role/",
-      "source": "Digital Spy",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b9604a58-4325-4a07-8388-d63b4f3ef84b.jpg?crop=0.591xw:0.888xh;0.169xw,0.0538xh&resize=1200:*",
-      "published": "2026-08-25 17:31:00",
+      "link": "https://www.winnipegsun.com/life/dolly-parton-country-music-icon-dies-at-80-years-old/article_0fc90124-a8d3-4976-b5f2-82daf7f34ac4.html",
+      "source": "Winnipeg Sun",
+      "image": null,
+      "published": "2026-08-25 18:43:00",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "canada"
       ]
     },
     {
-      "title": "Runaways Got Morgan le Fay's Neuroscience Right; Dark Patterns and Brane Physics Too",
-      "description": "Morgan le Fay Runaways Season 3 villain Elizabeth Hurley wields three supernatural powers that each correspond to a real scientific discipline: the temporoparietal junction neuroscience of out-of-body experiences, the dopamine-circuit psychology of dark patterns, and extra-dimensional brane-world physics. The show's magic turns out to be surprisingly accurate science.",
-      "link": "https://www.techtimes.com/articles/325504/20260825/runaways-got-morgan-le-fays-neuroscience-right-dark-patterns-brane-physics-too.htm",
-      "source": "Techtimes",
-      "image": "https://d.techtimes.com/en/full/473698/elizabeth-hurley-morgan-le-fay.jpg",
-      "published": "2026-08-25 17:30:51",
+      "title": "Country legend Dolly Parton dies at 80",
+      "description": "Dolly Parton \u2014 country music icon, movie star, theme park owner, sex symbol and philanthropist \u2014 has died at 80.",
+      "link": "https://www.missourian.com/news/country-legend-dolly-parton-dies-at-80/article_3d962b0b-0ca7-488a-986a-f1f33b3fc69a.html",
+      "source": "The Columbia Missourian",
+      "image": "https://bloximages.chicago2.vip.townnews.com/missourian.com/content/tncms/assets/v3/editorial/c/67/c67ea08c-1f49-40c2-bd4d-944ea14ef06e/6a8de2e8a174e.image.jpg?resize=300%2C200",
+      "published": "2026-08-25 18:43:00",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Dolly Parton, a legend of country music, dies at the age of 80.",
+      "description": "The singer, composer and actress died peacefully on Tuesday in Nashville, her family said.",
+      "link": "https://www.news247plus.com/news/business/dolly-parton-a-legend-of-country-music-dies-at-the-age-of-80-58109",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/58109/dolly-parton-a-legend-of-country-music-dies-at-the-age-of-80-news-image-58109.webp",
+      "published": "2026-08-25 18:43:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Perez Hilton\u2019s Brother-in-Law Details Recovery After Livestreamed Self-Harm Incident",
+      "description": "The troubled celebrity blogger has been treated for broken bones and lacerations as the family begins to turn toward \"what caused this mental break.\"",
+      "link": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-update-health-broken-bones-brother-in-law-podcast-1236680847/",
+      "source": "The Hollywood Reporter",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Perez-Hilton-getty-H-2026.png",
+      "published": "2026-08-25 18:42:58",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

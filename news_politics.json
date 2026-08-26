@@ -1,102 +1,29 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Spain moves to tighten immigration laws",
-      "description": "Following the major border crisis, the Spanish government decided to review the country\u2019s immigration and asylum laws.",
-      "link": "https://www.dialoguepakistan.com/en/world/spain-moves-to-tighten-immigration-laws",
-      "source": "Dialogue Pakistan",
-      "image": "https://www.dialoguepakistan.com/en/upload/media/posts/2026-08/26/spain-moves-to-tighten-immigration-laws_1787694610-b.jpg",
-      "published": "2026-08-25 22:32:00",
+      "title": "Young guns take charge",
+      "description": "The appointment of relatively young civil servants, with many years left in public service, to top bureaucratic posts under Prime Minister Anutin Charnvirakul has drawn attention in political and administrative circles.",
+      "link": "https://www.bangkokpost.com/thailand/general/3308190/young-guns-take-charge",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.comhttps//static.bangkokpost.com/media/content/20260826/6202509.png",
+      "published": "2026-08-25 23:26:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "pakistan"
+        "thailand"
       ]
     },
     {
-      "title": "New Yorkers share their opinions about Trump's idea to change the name of Lake Ontario",
-      "description": "The trade war between the U.S. and Canada took an unexpected turn Tuesday morning, when President Donald Trump threatened to rename Lake Ontario.",
-      "link": "http://www.spectrumlocalnews.com/nys/buffalo/politics/2026/08/25/new-yorkers-share-their-opinions-about-trump-s-idea-to-change-the-name-of-lake-ontario",
-      "source": "Spectrum News 1 | Buffalo",
-      "image": null,
-      "published": "2026-08-25 22:32:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "FBI arrests Ohio man accused of threatening to kill Rep. Randy Fine, his family",
-      "description": "\"I cannot wait to take a trip to your lovely home and light the whole place on fire and murder you and your entire family in the middle of the night while you sleep,\" the man wrote to Fine.",
-      "link": "https://www.jpost.com/american-politics/article-906591",
-      "source": "Jpost",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734534",
-      "published": "2026-08-25 22:31:57",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "israel"
-      ]
-    },
-    {
-      "title": "As elections near, Netanyahu casts Turkey as Israel\u2019s latest enemy",
-      "description": "The giant billboard on Tel Aviv\u2019s main highway placed Turkey squarely at the center of Prime Minister Benjamin Netanyahu\u2019s election campaign. The image showed its president, Recep Tayyip Erdogan, alongside the leaders of Iran, Hezbollah and the mayor of New York City as adversaries of Israel under the slogan, \u201cThey want Netanyahu to lose. Don\u2019t let them win.\u201d",
-      "link": "https://www.cp24.com/news/world/2026/08/25/as-elections-near-netanyahu-casts-turkey-as-israels-latest-enemy/",
-      "source": "Cp24",
-      "image": "https://www.cp24.com/resizer/v2/AJV4TFCCBZHSLE2KQMIR7VRMYA.JPG?auth=26aa81a90a0c966fc4b40acca1299a776471e2b20a75bb2f88900bb530716a8a&smart=true&width=3000&height=2250",
-      "published": "2026-08-25 22:31:55",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "GOP governor nominee Drazan touts proposals to slash taxes, lower cost of living in Oregon",
-      "description": "PORTLAND\u2014 Oregon Republican gubernatorial nominee Christine Drazan on Tuesday made the case for her agenda to slash taxes, reduce regulations and make state government more accountable to taxpayers, offering some of the clearest details yet on how she plans to tackle the cost of living in the state. The state senator from Canby made her [...]",
-      "link": "https://oregoncapitalchronicle.com/2026/08/25/gop-governor-nominee-drazan-touts-proposals-to-slash-taxes-lower-cost-of-living-in-oregon/",
-      "source": "Oregon Capital Chronicle",
-      "image": null,
-      "published": "2026-08-25 22:31:43",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Supreme Court allows part of Trump mail-in voting executive order to take effect",
-      "description": "The U.S. Supreme Court ruled 6-3 to allow President Trump to implement part of his mail-in voting executive order.",
-      "link": "https://www.wxyz.com/news/supreme-court-allows-part-of-trump-mail-in-voting-executive-order-to-take-effect",
-      "source": "Wxyz",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/99f5ee8/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F61%2Fe08535774708bd9e098214102b8b%2Fap-20277607918430.jpg",
-      "published": "2026-08-25 22:31:36",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "North Baton Rouge residents gather at Istrouma High to discuss issues, resources, and improvements",
-      "description": "BATON ROUGE \u2014 City leaders held a community meeting to address concerns in North Baton Rouge. Residents joined the session at Istrouma High tonight. The group discussed ongoing issues, initiatives, resources and ways to improve the area. Mayor President Sid Edwards wants the public to play a key role in making a change in the capital city. Edwards encourages more neighborhoods to advocate for what they have done in the community. Permalink | Comments",
-      "link": "https://www.wbrz.com/news/north-baton-rouge-residents-gather-at-istrouma-high-to-discuss-issues-resources-and-improvements/",
-      "source": "Wbrz",
-      "image": "https://dcer237tfveol.cloudfront.net/v2/c08TX7bwH-LIOTNyeX3qigDauYcb9PaAUMPpUjr_lJh0GmkAx7vt2qb7jOCnUT08VaDoUHHOH-fQvDVMB_MwxaJYQDVrNJlCEUpvc45S_6AGuU-HPmLFQ214w323Ot034",
-      "published": "2026-08-25 22:31:27",
+      "title": "\u2020John Joseph Camps",
+      "description": null,
+      "link": "https://www.postguam.com/obituaries/paid/john-joseph-camps/article_6077fc6a-94fd-4059-b725-4755a585fbbd.html",
+      "source": "Postguam",
+      "image": "https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/8e/98e95f86-6ebc-41a6-a50c-5e60804b432a/6a8e26e3ad473.image.jpg?resize=300%2C426",
+      "published": "2026-08-25 23:26:00",
       "category": [
         "politics",
         "top"

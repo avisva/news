@@ -1,19 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "COONTEC Unveils National R&D Demonstration for Smart Ship Cybersecurity",
-      "description": "- Real-world cyberattacks launched against two virtual vessels in a physical equipment environment, demonstrating the full process from detection and response to inspection evidence generation",
-      "link": "https://www.financialcontent.com/article/accwirecq-2026-8-26-coontec-unveils-national-r-and-d-demonstration-for-smart-ship-cybersecurity",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-08-26 02:40:00",
+      "title": "Google at the Global Forum on Intellectual Property",
+      "description": "Read remarks from Kent Walker, President of Global Affairs for Google and Alphabet, to the Global Forum on Intellectual Property.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+      "source": "The Keyword",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp",
+      "published": "2026-08-26 04:15:00",
       "category": [
         "technology"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Birmingham City Council's Oracle IT system goes live after \u00a3144m overhaul",
+      "description": "Four years after a botched digital upgrade contributed to Birmingham City Council's financial crisis and a Section 114 notice, the revamped Oracle system \u2014 now named Brindley \u2014 has gone live",
+      "link": "https://www.birminghammail.co.uk/news/midlands-news/birmingham-city-councils-oracle-system-34508473",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34508472.ece/ALTERNATES/s615/0_JS402559186.jpg",
+      "published": "2026-08-26 04:15:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

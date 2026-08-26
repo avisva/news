@@ -1,43 +1,89 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 10,
   "results": [
     {
-      "title": "Mason Hall U-20 semis today",
-      "description": "Canaan closed out the preliminary round of the Mason Hall Police Youth Club Under-20 Football League with a vintage performance on Sunday.The Canaan boys registered a commanding 9-2 victory over Bon Accord, at the Canaan ground.",
-      "link": "https://trinidadexpress.com/sports/local/mason-hall-u-20-semis-today/article_64395cf9-c281-4173-9e56-8815d1a1398e.html",
-      "source": "Trinidadexpress",
-      "image": "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/b/a5/ba5d8052-5be9-4fb8-bac3-b2d001f62045/6a8e526e3641b.image.jpg?resize=300%2C210",
-      "published": "2026-08-26 02:40:00",
+      "title": "Scotties seeking more milestones",
+      "description": null,
+      "link": "https://www.dailycourier.com/sports/scotties-seeking-more-milestones/article_afa06d01-3198-4acd-8319-61ca780a5cd9.html",
+      "source": "Daily Courier",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycourier.com/content/tncms/assets/v3/editorial/9/d4/9d46195b-47dc-4157-973d-83ae8fe0cef7/6a84f6b42dc33.image.jpg?resize=400%2C267",
+      "published": "2026-08-26 04:15:00",
       "category": [
-        "sports"
-      ],
-      "country": [
-        "trinidad and tobago"
-      ]
-    },
-    {
-      "title": "Chicago Cubs\u2019 pitch tipping brouhaha highlights how teams keep trying to find an edge in the PitchCom era",
-      "description": "PHOENIX \u2014 A day after tensions rose between the Chicago Cubs and the Arizona Diamondbacks over pitch tipping, the issue appeared resolved for both sides by Tuesday night. The situation reached a crescendo during the fifth inning of the Cubs\u2019 7-0 win Monday. The Diamondbacks became incensed by Cubs third base coach Quintin Berry relaying pitch information to his hitters from cues he picked up ...",
-      "link": "https://sports.yahoo.com/articles/chicago-cubs-pitch-tipping-brouhaha-024000899.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/5f83ac44f2814f3f4e1e2b11df1ef23eb32fcac4edbad49836ef3fc6e2ecc69f/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png",
-      "published": "2026-08-26 02:40:00",
-      "category": [
-        "breaking",
-        "sports"
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Luis Campusano catches Jake Mangum stealing second",
-      "description": "Luis Campusano makes a quick toss over to Xander Bogaerts and catches Jake Mangum stealing second base in the 4th inning",
-      "link": "https://ca.sports.yahoo.com/video/luis-campusano-catches-jake-mangum-023959276.html",
+      "title": "Falcons hope for strong return to WPIAL",
+      "description": null,
+      "link": "https://www.dailycourier.com/sports/falcons-hope-for-strong-return-to-wpial/article_30dfc9a2-9bda-4a19-b294-bae693d12705.html",
+      "source": "Daily Courier",
+      "image": null,
+      "published": "2026-08-26 04:15:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Red Raiders excited for return to WPIAL",
+      "description": null,
+      "link": "https://www.dailycourier.com/sports/red-raiders-excited-for-return-to-wpial/article_2ab8138b-da41-4e68-bb22-021762da8cad.html",
+      "source": "Daily Courier",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycourier.com/content/tncms/assets/v3/editorial/7/97/7974b07b-32e2-4a36-83a4-cc8166cfffaf/6a83601b0e8d6.image.jpg?resize=400%2C267",
+      "published": "2026-08-26 04:15:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Under Edenfield, Mustangs coming together",
+      "description": null,
+      "link": "https://www.dailycourier.com/sports/under-edenfield-mustangs-coming-together/article_f7ce294b-2b53-41d8-8c7a-c70955da8efd.html",
+      "source": "Daily Courier",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycourier.com/content/tncms/assets/v3/editorial/4/1a/41a9eb09-9d6a-480c-b420-349fc68e2eb7/6a8456f4c0ba7.image.jpg?resize=400%2C267",
+      "published": "2026-08-26 04:15:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Vikings striving for return to playoffs",
+      "description": null,
+      "link": "https://www.dailycourier.com/sports/vikings-striving-for-return-to-playoffs/article_8afb8661-d74e-4db7-ba86-9ab3832454ab.html",
+      "source": "Daily Courier",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycourier.com/content/tncms/assets/v3/editorial/9/9b/99b327e5-ee54-4698-8ad2-7061f2e3ca0c/6a8486f41873f.image.jpg?resize=400%2C175",
+      "published": "2026-08-26 04:15:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lodi hits his best goal tally in a season",
+      "description": "Renan Lodi is enjoying a special season in the Galo shirt. By scoring the equalizer in the 1-1 draw with Cruzeiro on Tuesday (25) at Mineira\u0303o, the left-back reached five goals in 2026, setting his be...",
+      "link": "https://ca.sports.yahoo.com/news/lodi-hits-best-goal-tally-041500845.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/b1f01a581a0b6d94294e0d2ecdd7080f78e06d5eda1ef68c821a2da77473cd41/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.mlb.com%2Ff3b879afb107e172f63f95b4eb99dfb7.jpg",
-      "published": "2026-08-26 02:39:59",
+      "image": "https://s.yimg.com/lo/mysterio/api/4a013eb6b79fe89fa8995308eb534b12e3d1b521c784379f152929818ca857a7/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclube_atl_tico_mineiro_355%2Fa7500d79d4aa39cc9d21dc107ddff62e.jpg",
+      "published": "2026-08-26 04:15:00",
       "category": [
         "sports"
       ],
@@ -46,12 +92,12 @@
       ]
     },
     {
-      "title": "Former Grossmont High School employee arrested for alleged relationship with student",
-      "description": "A former Grossmont High School staff member was arrested on suspicion of 12 felony charges, including statutory rape, following an investigation into an inappropriate relationship with a student.",
-      "link": "https://fox5sandiego.com/news/local-news/el-cajon/grossmont-high-staff-arrested/",
-      "source": "Fox 5 San Diego",
-      "image": "https://fox5sandiego.com/wp-content/uploads/sites/15/2026/08/Image-38.jpg?w=900",
-      "published": "2026-08-26 02:39:43",
+      "title": "No. 1 Plainview Battles Back for Pair of Tri-Match Victories",
+      "description": "The No. 1-ranked Plainview Lady Bears were pushed to the limit Tuesday night, but found a way to keep their unbeaten start intact.",
+      "link": "https://times-journal.com/sports/article_c61e74b6-8e24-42cb-a33b-8d3ff126a529.html",
+      "source": "Times-journal",
+      "image": "https://bloximages.chicago2.vip.townnews.com/times-journal.com/content/tncms/assets/v3/editorial/4/d8/4d80ef02-93c6-457a-8f10-9f361d1bca16/6a8e658fd3ec1.image.jpg?resize=300%2C218",
+      "published": "2026-08-26 04:15:00",
       "category": [
         "sports"
       ],
@@ -60,12 +106,12 @@
       ]
     },
     {
-      "title": "Crushers outslug Y\u2019alls, 7-5",
-      "description": "Luis Acevedo doubled, had a solo home run in the second and drove in three runs amid a 3-for-5 night to lead the Crushers to a 7-5 win over the Y'alls in Florence on Aug. 25.",
-      "link": "https://www.morningjournal.com/2026/08/25/crushers-outslug-yalls-7-5/",
-      "source": "Morning Journal",
-      "image": "https://www.morningjournal.com/wp-content/uploads/2021/08/MJE-L-Crusherslogo.jpg?w=1400px&strip=all",
-      "published": "2026-08-26 02:39:36",
+      "title": "Bryan girls tennis collects sixth consecutive shutout win; defeats Van Wert",
+      "description": "BRYAN \u2014 Bryan\u2019s girls tennis team recorded their sixth straight victory Tuesday evening in a 5-0 effort against Van Wert at home.",
+      "link": "https://www.bryantimes.com/sports/bryan-girls-tennis-collects-sixth-consecutive-shutout-win-defeats-van-wert/article_0362805e-d71b-4f85-8a0c-796053adfa76.html",
+      "source": "Bryan Times",
+      "image": "https://bloximages.chicago2.vip.townnews.com/bryantimes.com/content/tncms/custom/image/45f9f6d2-e0e6-11e7-954d-4f5f4b273a47.jpg?resize=600%2C600",
+      "published": "2026-08-26 04:15:00",
       "category": [
         "sports"
       ],
@@ -74,17 +120,32 @@
       ]
     },
     {
-      "title": "Motorsport Australia, AASA split on safety measure implementation - Speedcafe.com",
-      "description": "Motorsport Australia, AASA split on safety measure implementation Speedcafe.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHJuOXFwX1JNaEVqLUNLZjlPMlpCU1hMajZtUDg3SFNZR2ljbkhKMGp1RlR3eUNvaU40cUJtODJqSW5RaWhuT3haZVkxbmM4aHlPSEZaYlV6Zy0wb3RheElGM1dKYWdhWlMwT0g2SzV5bWEydUhRc1lnc2pqOE9JSnFPcW9EUkVBVE9rMDdLc3g?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-26 02:39:34",
+      "title": "Second half lifts Sturgis past Belle Fourche",
+      "description": "BELLE FOURCHE \u2014 Sturgis Brown scored 3 goals in the second half Tuesday night and defeated Belle Fourche 4-1 in a varsity boys' soccer game played at the Black Hills Roundup grounds.",
+      "link": "https://www.bhpioneer.com/local_sports/second-half-lifts-sturgis-past-belle-fourche/article_dc670939-7d03-46ec-ae27-683ab02e1473.html",
+      "source": "Bhpioneer",
+      "image": "https://bloximages.chicago2.vip.townnews.com/bhpioneer.com/content/tncms/assets/v3/editorial/1/3d/13d30f55-c6b4-4dd9-af12-f10212fc9446/6a8e66fb06210.image.jpg?resize=300%2C300",
+      "published": "2026-08-26 04:15:00",
       "category": [
         "sports"
       ],
       "country": [
-        "australia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Soccer: Bucks Play Tea Area To 2-2 Draw In Home Opener",
+      "description": "The Yankton Bucks nearly edged out the Tea Area Titans with an early showing of strength during the first half of the game but ultimately tied the Titans 2-2 in Eastern South Dakota Conference boys\u2019 soccer action on Tuesday evening...",
+      "link": "https://www.yankton.net/sports/article_f7b3c980-8fdf-400a-a3d8-32743b902f6b.html",
+      "source": "Yankton Net",
+      "image": "https://bloximages.chicago2.vip.townnews.com/yankton.net/content/tncms/assets/v3/editorial/2/fa/2fad3f60-42ff-4988-b1d0-d197be366ea8/6a8e688ff3b2f.image.jpg?resize=300%2C224",
+      "published": "2026-08-26 04:15:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

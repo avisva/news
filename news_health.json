@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "description": "The US Food and Drug Administration has approved a treatment for pancreatic cancer that, in clinical trials, nearly doubled the overall survival time for patients.",
+      "link": "https://www.myjoyonline.com/us-drug-agency-approves-breakthrough-treatment-for-pancreatic-cancer/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3308-1024x576.png",
+      "published": "2026-08-27 01:45:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "NSW new tertiary study subsidies success sees more than 11,390 students benefit",
+      "description": "More than 11,390 students across the state have benefitted from the Minns Labor Government\u2019s $121.9 million investment in tertiary study subsidies",
+      "link": "https://www.nationaltribune.com.au/nsw-new-tertiary-study-subsidies-success-sees-more-than-11-390-students-benefit/",
+      "source": "The National Tribune",
+      "image": "https://c.nationaltribune.com.au/wp-content/themes/news/images/news-image-default.jpg",
+      "published": "2026-08-27 01:44:55",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

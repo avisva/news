@@ -1,35 +1,65 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Pro-Russian hackers claim responsibility for cyberattacks on Norway over support for Ukraine",
-      "description": "Pro-Russian hacker group Server Killers has claimed responsibility for recent cyberattacks against Norway, according to a post on the group's Telegram channel.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/08/26/8050371/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/b/899482/6b5d77d8d7fddec5e4274784a70a6d9f.jpeg",
-      "published": "2026-08-26 09:43:00",
+      "title": "Meta reaches $17 billion settlement with states, including Arkansas, in landmark trial over teen social media addiction",
+      "description": "Meta has agreed to pay $17 billion and add child-safety measures to its Facebook and Instagram platforms to end a landmark trial over teen social media addiction and settle claims filed by 47 states, state attorneys general announced Wednesday.",
+      "link": "https://www.nwaonline.com/news/2026/aug/26/meta-reaches-17-billion-settlement-with-states-including-arkansas-in-landmark-trial-over-teen-social-media-addiction/",
+      "source": "Nwaonline",
+      "image": null,
+      "published": "2026-08-26 14:53:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "ukraine"
+        "united states of america"
       ]
     },
     {
-      "title": "Chinese EV exports surge as weak home sales push carmakers overseas",
-      "description": "Chinese electric vehicle exports rose 147.8% year on year in July, helping manufacturers offset weaker sales in their domestic market. Total EV deliveries in China fell 5% to 980,000 units during the month, while global sales of electric and hybrid vehicles increased 9% to 1.85 million units, Retail News Asia reported. China\u2019s overall vehicle exports [...] The post Chinese EV exports surge as weak home sales push carmakers overseas appeared first on BioEnergy Times .",
-      "link": "https://bioenergytimes.com/chinese-ev-exports-surge-as-weak-home-sales-push-carmakers-overseas/",
-      "source": "Bioenergy Times",
-      "image": "https://bioenergytimes.com/wp-content/uploads/2026/01/EV-13.jpeg",
-      "published": "2026-08-26 09:42:45",
+      "title": "Joget Introduces Agent Lab, a Program Helping Businesses Build AI Agents Without Code",
+      "description": "New community initiative invites businesses to submit real workflow challenges for a free, expert-built AI agent, with selected builds shown live in an exclusive webinar. COLUMBIA, Md., Aug. 27, 2026 /PRNewswire/ -- Joget, Inc., the global innovator of the open-source,... The post Joget Introduces Agent Lab, a Program Helping Businesses Build AI Agents Without Code appeared first on Kosmo Digital .",
+      "link": "https://www.kosmo.com.my/2026/08/26/joget-introduces-agent-lab-a-program-helping-businesses-build-ai-agents-without-code/",
+      "source": "Kosmo Digital",
+      "image": "https://www.kosmo.com.my/wp-content/uploads/prnewswire/prnewswire.png",
+      "published": "2026-08-26 14:53:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Buy Optus Flex Plus $350 300GB 365-Day Prepaid SIM for $199, Get $100cashback @Shop Back",
+      "description": "Requirements as used to be Just one day quick sale. Optus terms and conditions \u2022 Only online self-serve purchases are eligible for cashback. \u2022 Cashback is eligible for New Customers on a ...",
+      "link": "https://www.ozbargain.com.au/node/972855",
+      "source": "Ozbargain",
+      "image": "https://files.ozbargain.com.au/n/55/972855l.jpg?h=12add15e",
+      "published": "2026-08-26 14:52:59",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Google Integrates Gemini AI to Generate Video Ads from Text Briefs in Asset Studio",
+      "description": "Google has integrated its Gemini Omni multimodal model into Google Ads' Asset Studio, enabling advertisers to generate multi-format campaign-ready videos from text briefs, brand guidelines, and existing assets for Demand Gen, Performance Max, and YouTube campaigns. This significantly expands AI-driven creative tools while preserving human oversight.",
+      "link": "https://www.webpronews.com/google-integrates-gemini-ai-to-generate-video-ads-from-text-briefs-in-asset-studio/",
+      "source": "Webpronews",
+      "image": "https://www.webpronews.com/wp-content/uploads/2026/08/article-24527-1787755959.jpeg",
+      "published": "2026-08-26 14:52:54",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

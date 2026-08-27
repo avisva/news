@@ -1,34 +1,19 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-      "description": "The US Food and Drug Administration has approved a treatment for pancreatic cancer that, in clinical trials, nearly doubled the overall survival time for patients.",
-      "link": "https://www.myjoyonline.com/us-drug-agency-approves-breakthrough-treatment-for-pancreatic-cancer/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/08/image-3308-1024x576.png",
-      "published": "2026-08-27 01:45:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "NSW new tertiary study subsidies success sees more than 11,390 students benefit",
-      "description": "More than 11,390 students across the state have benefitted from the Minns Labor Government\u2019s $121.9 million investment in tertiary study subsidies",
-      "link": "https://www.nationaltribune.com.au/nsw-new-tertiary-study-subsidies-success-sees-more-than-11-390-students-benefit/",
-      "source": "The National Tribune",
-      "image": "https://c.nationaltribune.com.au/wp-content/themes/news/images/news-image-default.jpg",
-      "published": "2026-08-27 01:44:55",
+      "title": "Bioprinting Market to Reach $5.1 Billion by 2030, Driven by Regenerative Medicine Demand and AI Integration",
+      "description": "\u201cBioprinting is moving rapidly from research toward practical applications in drug discovery, tissue models and regenerative medicine.\u201d",
+      "link": "https://www.globenewswire.com/news-release/2026/08/27/3351922/0/en/bioprinting-market-to-reach-5-1-billion-by-2030-driven-by-regenerative-medicine-demand-and-ai-integration.html",
+      "source": "Globe Newswire",
+      "image": null,
+      "published": "2026-08-27 11:34:00",
       "category": [
         "health"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     }
   ]

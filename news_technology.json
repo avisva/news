@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Chinese company to help Belarusian commodity exchange develop business intelligence system",
-      "description": "Special attention was paid to the use of artificial intelligence technologies to extract, clean, and transform data, identify potential risks and bottlenecks as well as business forecasting taking into account internal and external factors...",
-      "link": "http://www.belarus.by/en/business/business-news/chinese-company-to-help-belarusian-commodity-exchange-develop-business-intelligence-system_i_0000218715.html",
-      "source": "Latest News Of Belarus",
-      "image": "https://www.belarus.by/nimages/000689_378130.jpg",
-      "published": "2026-08-28 09:04:00",
+      "title": "The 10 cheapest garages in and around south Shropshire for petrol and diesel",
+      "description": "To help you get the best deal on your petrol or diesel, the Ludlow Advertiser has compiled a list of the cheapest garages in and around Ludlow.",
+      "link": "https://www.ludlowadvertiser.co.uk/news/26505072.ludlow-fuel-prices-cheap-garages-petrol-diesel/",
+      "source": "Ludlow Advertiser",
+      "image": "https://www.ludlowadvertiser.co.uk/resources/images/15726968/",
+      "published": "2026-08-28 15:28:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "belarus"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Mazda Driver Avoids Sanctions In Oil-Burning Defect Suit",
+      "description": null,
+      "link": "https://www.law360.com/articles/2518550/mazda-driver-avoids-sanctions-in-oil-burning-defect-suit",
+      "source": "Law360",
+      "image": null,
+      "published": "2026-08-28 15:27:53",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

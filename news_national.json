@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Aditya Dhar marks Raksha Bandhan with a heartwarming 'Dhurandhar' still of Ranveer Singh and his on-scree - The Times of India",
+      "description": "Aditya Dhar marks Raksha Bandhan with a heartwarming 'Dhurandhar' still of Ranveer Singh and his on-scree The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQOF9tclVqYjAzZUp5VzdQU0phQ1dveDJJRzBPYmw2X3lSeUZKajNDTUkza1NMVjVwRDdZc3lkV3JXUkZueDJBX0FIejB3ZUx2NDVxMkl0WTJveU84VFBFdW0tTS1CN3FKZHVXWlk5dHFib25teVpjc2U1anpZV1RwVXJYZlQ2VnZyajhuUnBvN3BJa19uNVM5MExkRy1tVGpWT2ZNcWZDRDEwbFJ2bm81aWJMVFo4b3dtX1NlOGpiQlRuVkhLeGhJZ0tPLUgzMFZxNmoyY1dDMnYxem9uWUNTdHRYNUxIa0Zua2w5WTNabXd5d3J5QnRaOWZiNUUwbF8yQWFVcjVKak1SOFpUdzFwWGtWQWtUX3dnOWhzbE5LWEtBOEhWS3BCbFoxMW9zMlpxWEE?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-28 15:28:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Anaya Bangar Answers Marizanne Kapp In 'Unfair Advantage' Row: 'Not All Trans Women...' - EXCLUSIVE",
+      "description": "Anaya Bangar views Cricket Australia's decision to allow her to return to competitive cricket as a significant milestone. She is focused on self-acceptance and believes that opportunities should be merit-based, countering claims of unfair advantages in sports for transgender athletes.",
+      "link": "https://www.timesnownews.com/sports/cricket/anaya-bangar-answers-marizanne-kapp-in-unfair-advantage-row-not-all-trans-women-exclusive-article-156002747",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156003089,thumbsize-274451,width-1280,height-720,resizemode-75/156003089.jpg",
+      "published": "2026-08-28 15:27:52",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

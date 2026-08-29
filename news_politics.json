@@ -1,20 +1,94 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Karoline Leavitt and the moms who\u2019ve quit before her",
-      "description": "Karoline Leavitt walked into the White House briefing room holding a single sheet of paper as the crowd of reporters fell silent.",
-      "link": "https://www.unionleader.com/news/human_interest/karoline-leavitt-and-the-moms-who-ve-quit-before-her/article_85361190-72b8-5ca0-874d-809fb6e33ce8.html",
-      "source": "Unionleader",
-      "image": "http://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/3/10/310ab3f2-7ead-5ad8-b6dd-cb48869d15be/6a9165445ff98.image.jpg?resize=300%2C200",
-      "published": "2026-08-28 09:04:00",
+      "title": "EU to resume preparations for opening negotiating clusters for Ukraine and Moldova on 1 September \u2013 sources",
+      "description": "After the summer recess, the Working Party on Enlargement and Countries Negotiating Accession to the EU (COELA) will consider approving the screening results for negotiating clusters 2 and 3 for Ukraine and Moldova on 1 September.",
+      "link": "https://www.pravda.com.ua/eng/news/2026/08/28/8050811/",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/901394/5237367862fc3e8e24829c21f4fcd219.jpeg",
+      "published": "2026-08-28 15:28:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "ukraine"
+      ]
+    },
+    {
+      "title": "Walmart parking lot ridiculous",
+      "description": "Oh my God! Who in the world designed the Rome Walmart parking lot? What a waste of parking space! Then, if you need a handicap space, you have to drive around repeatedly to find one!",
+      "link": "https://www.romesentinel.com/opinion/walmart-parking-lot-ridiculous/article_aec429ef-1907-4402-9733-e9db9ee24913.html",
+      "source": "Romesentinel",
+      "image": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/assets/v3/editorial/b/57/b5729754-7526-11ef-9dfe-f7565b2646e5/664e4844aab6a.image.png?resize=300%2C201",
+      "published": "2026-08-28 15:28:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump used to say he saw a quick end to his Iran war, but 6 months later he claims he's in no hurry",
+      "description": "WASHINGTON \u2014 President Donald Trump arrives at an awkward moment for his presidency on Friday as the U.S.-Israel war against Iran reaches the six-month mark, a notable milestone for a conflict that the Republican leader repeatedly assured Americans would be...",
+      "link": "https://www.hendersondispatch.com/archives/trump-used-to-say-he-saw-a-quick-end-to-his-iran-war-but-6/article_649537a7-d994-5880-9d31-60621dd56c66.html",
+      "source": "Hendersondispatch",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/assets/v3/editorial/5/73/57305cdb-2a0a-5d8e-8d22-392d6ec51741/6a91aad385742.image.jpg?resize=300%2C200",
+      "published": "2026-08-28 15:28:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Muslims must lead by example through morality, integrity: Anwar",
+      "description": "BUKIT MERTAJAM: Muslims must set the best example for society through good character, integrity, diligence and by rejecting corruption and wrongdoing, Prime Minister Datuk Seri Anwar Ibrahim said.",
+      "link": "https://www.nst.com.my/news/nation/2026/08/1520954/muslims-must-lead-example-through-morality-integrity-anwar",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/84920360F003037D566F7D09161CD87F_data_0_0.jpg",
+      "published": "2026-08-28 15:27:54",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Andy Burnham says he will abstain in assisted dying vote weeks after voicing doubts",
+      "description": "Andy Burnham said he would abstain when the Terminally Ill Adults (End of Life) Bill is put before MPs next month, having previously said palliative and social care need to be fixed first",
+      "link": "https://www.mirror.co.uk/news/politics/assisted-dying-andy-burnham-vote-37604749",
+      "source": "Mirror",
+      "image": "https://i2-prod.irishstar.com/incoming/article37601284.ece/ALTERNATES/s615/0_JS415797738.jpg",
+      "published": "2026-08-28 15:27:53",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Brit diplomat taken aback by spectacular Calgary",
+      "description": "\"The partnership is strong and my job is to try and make it even stronger\"",
+      "link": "https://calgaryherald.com/news/local-news/brit-diplomat-taken-aback-by-spectacular-calgary",
+      "source": "Calgary Herald",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/british-consul-082626-1.ca_304864097.jpg",
+      "published": "2026-08-28 15:27:52",
+      "category": [
+        "politics",
+        "world"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

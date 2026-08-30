@@ -1,59 +1,103 @@
 {
   "status": "success",
-  "totalResults": 26,
+  "totalResults": 30,
   "results": [
     {
-      "title": "What to Wear Forecast on a hot Saturday",
-      "description": null,
-      "link": "https://www.koco.com/article/8-29-26-what-to-wear-forecast-on-a-hot-saturday/73559276",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/vidthumb/37a100eb-9c09-4818-b5d4-2fcd21af0157/ba9e2977-54e3-4383-9546-daa7f51bf413.jpg",
-      "published": "2026-08-29 10:19:00",
+      "title": "Police searching for missing teenager last seen at retail park Asda store",
+      "description": "Police are searching for a missing teenager who was last seen at the ASDA store at Teesside Park in Stockton.",
+      "link": "https://www.thenorthernecho.co.uk/news/26506716.missing-teenager-last-seen-asda-store-teesside-park/",
+      "source": "The Northern Echo",
+      "image": null,
+      "published": "2026-08-29 13:01:00",
       "category": [
-        "environment",
-        "top"
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Herts care home boss issues plea amid ongoing national reforms",
+      "description": "Families in Hertfordshire are being warned not to wait for long-promised social care reform before planning for later-life care.",
+      "link": "https://www.thecomet.net/news/26499538.hitchin-care-home-boss-urges-families-take-action/",
+      "source": "The Comet",
+      "image": "https://www.thecomet.net/resources/images/21377507/",
+      "published": "2026-08-29 13:01:00",
+      "category": [
+        "top",
+        "politics",
+        "lifestyle"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018It gives Shein\u2019: how did polyester become the world\u2019s most-hated material? - The Guardian",
+      "description": "\u2018It gives Shein\u2019: how did polyester become the world\u2019s most-hated material? The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2FtdGJrdmROa1U4UXhfVlF6aF8zNEdYNU5zeTlmOV9HWmMxSHZYWWN3MUN1VDZwQjd0RXlDWjZ4c1lHbE9FMWxZRURya2l6Qm5jRXBPN3hodndHbmw5bWVqUG5BZ0tvQWpWdjhtRGQxRERFVkdUeVpHNlhHMFVyeFNmeXZ4Y0RlaF9OcDJn?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-08-29 13:01:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Mastercard Incorporated $MA Shares Bought by Prosperitas Financial LLC",
+      "description": "Prosperitas Financial LLC grew its stake in shares of Mastercard Incorporated (NYSE:MA \u2013 Free Report) by 14.4% in the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The fund owned 8,688 shares of the credit services provider\u2019s stock after purchasing an additional 1,092 shares during the quarter. [...]",
+      "link": "https://www.dailypolitical.com/2026/08/29/mastercard-incorporated-ma-shares-bought-by-prosperitas-financial-llc.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/mastercard-incorporated-logo-1200x675.png?v=20221020142959",
+      "published": "2026-08-29 13:01:00",
+      "category": [
+        "politics"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Haze Worsens As Two Sarawak Areas Record Very Unhealthy API",
-      "description": "Haze conditions remained a concern this afternoon, with two areas in Sarawak recording very unhealthy Air Pollutant Index (API) readings. Meanwhile, 29 other areas nationwide registered unhealthy air quality as of 4 pm today. According to the Air Pollutant Index Management System (APIMS), Sri Aman recorded an API reading of 229. On the other hand, [...]",
-      "link": "https://www.businesstoday.com.my/2026/08/29/haze-worsens-as-two-sarawak-areas-record-very-unhealthy-api/",
-      "source": "Businesstoday | Malaysia",
+      "title": "Apple hikes Apple TV and Apple One subscription prices in US ahead of September 9 iPhone launch event - The Times of India",
+      "description": "Apple hikes Apple TV and Apple One subscription prices in US ahead of September 9 iPhone launch event The Times of India Apple hikes prices again, this time for Apple TV and Apple One - GSMArena.com news GSMArena.com Apple TV Hikes Prices as Streaming Inflation Continues The Hollywood Reporter Apple TV+ price increase to $14.99 per month in 2026 qz.com Apple TV Hikes Price of Streaming Service in U.S. Effective Immediately Variety",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWUV1dWlBZ1RtMG5wQS0yMzgyQ2YtYWRvamZ6ck4wb2NDNmdPcFl5VmhOTlJpb3E3aTJjWWg2SzVZTWh5VjNqZWhnM1RPLWpWZWJIdFhKcnRXc3VaSE4yLTFkUy1SRDcyQ3l1ZlJMWVhaWmhWTVMzWTBYVzN4QmpyRXpLdFZBalZBdnBHTXQxSDNsRmJFWkhFb1haaUVzVGo3VkdUcHR0bDhSV0ZQV2s0MkJTS0xnY2MzQU1Cd0xkTC1NdkVIQzRBcmVIeXBOMERkcEVvbmxSTTZ3QTdMVWRyTE1OYmpFWXRtRDNJbDlYT1ZFbC04YmpMTkNEYlMwcmQ2XzQyNFIwRE1nU1daREpiVURn0gGXAkFVX3lxTE5JUkJsVXJpZDd4a05yRUFkWUJRbUp3TW5YUXZ1NUUwalFXVWhoaVU2dEtOQUlNR3d4REhDZWNlWWlXbHJMbGhTVVFWT2FmN0RaYVBHNGR3a1JVb1VPbWpKN2tHdV9DUllMRkhjS3hkT3UtUTNjUGdDdmlGcEZpWWlUeV94RTF2dDhQcEhPOWNUZEdRWGpaaUJjSlUyMVVDNDZ3b1hCOEczZ0QtY0RxVDZGR2diSlRhb1RNdW1iaExmWXVpQ0tiN1JGeU14bHVONVBEdWpQcVU1Wkk4S1hHa2NoOWFwYkM5RHNJU1pGWUtIaTVVbjR0VE5yNVJ5X1VuRldxT2VZMXFuOUt5OE9GRmhSMFlvY2t6WQ?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-08-29 10:19:00",
+      "published": "2026-08-29 13:01:00",
       "category": [
-        "business"
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "19-year-old rider dies in crash at fifth round of cub prix championship",
+      "description": "PETALING JAYA: Teenage rider Mohd Farres Putra Fadhil lost his life after an accident in the fifth round of the PETRONAS MAM Malaysian Cub Prix Championship in Terengganu Saturday (Aug 29).",
+      "link": "https://www.thestar.com.my/sport/motorsport/2026/08/29/19-year-old-rider-dies-in-crash-at-fifth-round-of-cub-prix-championship",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/29/4084329.jpeg",
+      "published": "2026-08-29 13:01:00",
+      "category": [
+        "sports"
       ],
       "country": [
         "malaysia"
       ]
     },
     {
-      "title": "[Checkin] Dan Q found GC9QWHD Plankton\u2019s cache",
-      "description": "This checkin to GC9QWHD Plankton's cache reflects a geocaching.com log entry. See more of Dan's cache logs. Like many before me, from the looks of things, I didn\u2019t find the cache at the published coordinates but about 11 metres away at N 51\u00b0 34.086\u2032, W 001\u00b0 26.441\u2032. Possibly worth the CO checking if those coordinates [...]",
-      "link": "https://danq.me/2026/08/29/dan-q-found-gc9qwhd-planktons-cache/",
-      "source": "Dan Q Personal Blog",
-      "image": "https://danq.me/_q23-og/30058/1.png",
-      "published": "2026-08-29 10:19:00",
+      "title": "Where to find the biggest mattress discounts for Labor Day 2026",
+      "description": "Looking for the best Labor Day mattress sales? Find major savings on Saatva, DreamCloud, Nectar, Tempur-Pedic, Casper and other top-rated mattress brands.",
+      "link": "https://www.thespectrum.com/story/shopping/deals/labor-day/2026/08/29/popular-labor-day-mattress-sales-deals-2026/91528640007/",
+      "source": "The Spectrum",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/29/USAT/91529130007-labordaymattress.png?auto=webp&crop=1999,1124,x0,y0&format=pjpg&width=1200",
+      "published": "2026-08-29 13:01:00",
       "category": [
-        "lifestyle"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "New-look Seneca rolls past East Newton in \u201826 opener",
-      "description": null,
-      "link": "https://www.joplinglobe.com/sports/new-look-seneca-rolls-past-east-newton-in-26-opener/article_57274d1c-3829-4af2-b9b7-ad400c6946bc.html",
-      "source": "The Joplin Globe",
-      "image": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/a/f2/af2914d2-c471-482d-a04c-3f1ef154a7c3/6a924ff15e40c.image.jpg?resize=300%2C200",
-      "published": "2026-08-29 10:19:00",
-      "category": [
-        "sports",
+        "business",
         "top"
       ],
       "country": [
@@ -61,201 +105,26 @@
       ]
     },
     {
-      "title": "Boots begins NHS flu jabs in days \u2013 check if you're among the first eligible",
-      "description": "Boots is launching its first wave of NHS flu vaccinations in September. Check to see if you are eligible.",
-      "link": "https://www.readingchronicle.co.uk/news/26506449.boots-begins-nhs-flu-jabs---check-eligible/",
-      "source": "Reading Chronicle",
-      "image": "https://www.readingchronicle.co.uk/resources/images/21387741/",
-      "published": "2026-08-29 10:18:58",
+      "title": "Royal Navy turns to amphibious ships; sells HMS Bulwark to Brazilian Navy",
+      "description": "HMS Bulwark is to be sold to the Brazilian Navy, ending more than two decades of service with the Royal Navy, as UK focus turns to the future of amphibious assault ships.",
+      "link": "https://en.mercopress.com/2026/08/29/royal-navy-turns-to-amphibious-ships-sells-hms-bulwark-to-brazilian-navy",
+      "source": "Mercopress",
+      "image": "https://en.mercopress.com/data/cache/noticias/111304/100x80/bote.jpg",
+      "published": "2026-08-29 13:01:00",
       "category": [
-        "health",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "venezuela"
       ]
     },
     {
-      "title": "Mirziyoyev unveils seven national programs at Uzbekistan\u2019s 35th independence anniversary",
-      "description": "Uzbek President Shavkat Mirziyoyev outlined seven national programs aimed at accelerating Uzbekistan\u2019s development and improving citizens\u2019... The post Mirziyoyev unveils seven national programs at Uzbekistan\u2019s 35th independence anniversary appeared first on The Asia Today .",
-      "link": "https://theasiatoday.org/news/mirziyoyev-unveils-seven-national-programs-at-uzbekistans-35th-independence-anniversary/",
-      "source": "The Asia Today",
-      "image": "https://theasiatoday.org/wp-content/uploads/2026/08/8adf47f9-7b6b-47d9-a9a7-eb4fc7366fd5-1.jpg",
-      "published": "2026-08-29 10:18:58",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "pakistan",
-        "bangladesh",
-        "sri lanka",
-        "india"
-      ]
-    },
-    {
-      "title": "Barkatullah University Hosts Various Sports Activities on National Sports Day",
-      "description": "Barkatullah University, Bhopal, organised various sports activities on National Sports Day, including tug-of-war competitions, skill demonstrations and a football match.",
-      "link": "https://itdcindia.com/barkatullah-university-national-sports-day-activities/",
-      "source": "Itdc India Epress",
-      "image": null,
-      "published": "2026-08-29 10:18:58",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Weather warning issued for widespread rain and possible thunderstorms in Ireland",
-      "description": "It will not be welcome news for the tens of thousands of people attending the Electric Picnic music festival in Co Laois.",
-      "link": "https://www.kilkennypeople.ie/national/weather-warning-issued-for-widespread-rain-and-possible-thunderstorms-in-ireland-8949102",
-      "source": "Kilkenny Live",
-      "image": "https://www.kilkennypeople.ie/jpim-static/image/2026/08/29/11/cs-72a2243f-fab5-4910-9f38-a436dfedf7ad.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-08-29 10:18:55",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Oman unveils five investment opportunities worth OMR1.95 billion in Dhofar",
-      "description": "MUSCAT: The Ministry of Commerce, Industry and Investment Promotion has announced five major investment opportunities in Dhofar Governorate through its...",
-      "link": "https://timesofoman.com//article/176179-oman-unveils-five-investment-opportunities-worth-omr195-billion-in-dhofar",
-      "source": "Timesofoman",
-      "image": "https://shabiba.eu-central-1.linodeobjects.com/2026/08/1787998733-1787998733-oqa0orq2tat9-700x400.jpeg",
-      "published": "2026-08-29 10:18:53",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "romania"
-      ]
-    },
-    {
-      "title": "AINRC hails Puducherry Budget presented by CM Rangasamy",
-      "description": "AINRC praises CM Rangasamy's Puducherry Budget, highlighting welfare schemes and economic initiatives benefiting the community.",
-      "link": "https://www.thehindu.com/news/cities/puducherry/ainrc-hails-puducherry-budget-presented-by-cm-rangasamy/article71399918.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/e30igo/article71404245.ece/alternates/FREE_1200/2786_24_8_2026_17_49_2_3_08PY24PONDYASSEMBLYBUDGET8.JPG",
-      "published": "2026-08-29 10:18:51",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Aston Villa should complete 'three full international quality' signings after Nicolas Jackson - expert",
-      "description": "Aston Villa manager Unai Emery with Nicolas Jackson at Bayern Munich",
-      "link": "https://uk.sports.yahoo.com/news/aston-villa-complete-three-full-101850779.html",
+      "title": "What happened with Browns Aug. 29? Live updates from day before roster deadline",
+      "description": "The Browns were on the practice field again on Aug. 29 as they transition from training camp to the roster cutdown deadline. Follow for updates.",
+      "link": "https://sports.yahoo.com/articles/happened-browns-aug-29-live-130059802.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/b84961baa67f1d4203660c82d5db6ea901840783b90ca151c9ec8a3b9ec6ef8d/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootball_insider_939%2Fc479a64f37b5057d2809929629dbe539.jpg",
-      "published": "2026-08-29 10:18:50",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Hungry bears wander into US West homes, shops in record numbers",
-      "description": null,
-      "link": "https://www.reuters.com/world/us/hungry-bears-wander-into-us-west-homes-shops-record-numbers-2026-08-29/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/GALLEQLWMRIBDILNB75FJUBTCE.jpg?auth=1bc2d840bbeb73260146182121bca25884f5135be2ac97c49dadbdab378bf4bc&smart=true&width=1920",
-      "published": "2026-08-29 10:18:44",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "russia",
-        "united states of america",
-        "iran",
-        "india",
-        "japan",
-        "ukraine",
-        "israel",
-        "united kingdom",
-        "south africa",
-        "china"
-      ]
-    },
-    {
-      "title": "81st anniversary of traditional day of Vietnamese diplomatic sector observed in New York",
-      "description": "81st anniversary of traditional day of Vietnamese diplomatic sector observed in New York OP-ED: Vietnamese diplomacy seeks to turn every relationship into new cooperation opportunity Diplomacy to accompany businesses in expanding Vietnam's development space 33rd Diplomatic Conference: Party, people-to-people diplomacy play pioneering role",
-      "link": "https://en.vietnamplus.vn/81st-anniversary-of-traditional-day-of-vietnamese-diplomatic-sector-observed-in-new-york-post351032.vnp",
-      "source": "Vietnam+",
-      "image": "https://mediaen.vietnamplus.vn/images/9XmmeM-ekIeVQXUgc8JgBThH_Njv4aDrb1NNmveidhU5uAsuAWuPNqOPAEsYeMukjd_DcIxaHL4rks8lazoKsBLP4WYu-V9fFPRGROG8cpkJlIFLIWEoNm7eERdyz59Fv2YmPiJ6L6KZQQTyMLoj8JR6ABMZKdEihu9hPnyBoKpxbfsa5f7ttE_zIyXlpmj_/vnanet-potal-ky-niem-81-nam-quoc-khanh-va-ngay-truyen-thong-nganh-ngoai-giao-viet-nam-tai-new-york-8991673.jpg.webp",
-      "published": "2026-08-29 10:18:41",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "vietnam"
-      ]
-    },
-    {
-      "title": "Delhi has eight \u2018\u20ac \u0303troublesome\u2019\u20acTM drains; master plan suggests remedial measures",
-      "description": "New Delhi, Aug 29 (PTI) Delhi authorities have identified eight \u2018troublesome\u2019 drains for the first time, which are particularly difficult to clean due to encroachments, sewage discharge, and waste dumping, which complicate flood management in those areas. There are eight drains labelled \u2018troublesome\u2019, which are detailed in the service plan report shared by the Irrigation [...]",
-      "link": "https://theprint.in/india/delhi-has-eight-%C2%80%C2%98troublesome%C2%80%C2%99-drains-master-plan-suggests-remedial-measures/3028362/",
-      "source": "Theprint",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "published": "2026-08-29 10:18:41",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "NJ beach weather and waves: Jersey Shore Report for Saturday",
-      "description": "Check the latest weather and surf conditions and forecasts for New Jersey's beaches, boardwalks, and bays.",
-      "link": "https://nj1015.com/jersey-shore-report-august-29-2026/",
-      "source": "New Jersey 101.5",
-      "image": "https://townsquare.media/site/385/files/2026/08/attachment-asbury-park-6-1.jpg?format=natural",
-      "published": "2026-08-29 10:18:38",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mother Dog Saves Puppy",
-      "description": "\u0c1a\u0c41\u0c1f\u0c4d\u0c1f\u0c42 \u0c0e\u0c1f\u0c41 \u0c1a\u0c42\u0c38\u0c3f\u0c28\u0c3e \u0c2a\u0c4a\u0c02\u0c17\u0c3f\u0c2a\u0c4a\u0c30\u0c4d\u0c32\u0c47 \u0c35\u0c26\u0c30 \u0c28\u0c40\u0c30\u0c41. \u0c2a\u0c4d\u0c30\u0c3e\u0c23\u0c3e\u0c32\u0c41 \u0c15\u0c3e\u0c2a\u0c3e\u0c21\u0c41\u0c15\u0c4b\u0c35\u0c21\u0c2e\u0c47 \u0c15\u0c37\u0c4d\u0c1f\u0c2e\u0c46\u0c56\u0c28 \u0c2a\u0c30\u0c3f\u0c38\u0c4d\u0c25\u0c3f\u0c24\u0c3f. \u0c05\u0c2f\u0c3f\u0c28\u0c3e \u0c24\u0c28 \u0c17\u0c41\u0c30\u0c3f\u0c02\u0c1a\u0c3f \u0c06\u0c32\u0c4b\u0c1a\u0c3f\u0c02\u0c1a\u0c32\u0c47\u0c26\u0c41 \u0c06 \u0c24\u0c32\u0c4d\u0c32\u0c3f \u0c15\u0c41\u0c15\u0c4d\u0c15. \u0c24\u0c28 \u0c1a\u0c3f\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c3f\u0c28\u0c3f \u0c28\u0c4b\u0c1f\u0c3f\u0c24\u0c4b \u0c2a\u0c1f\u0c4d\u0c1f\u0c41\u0c15\u0c41\u0c28\u0c3f \u0c38\u0c41\u0c30\u0c15\u0c4d\u0c37\u0c3f\u0c24\u0c2e\u0c46\u0c56\u0c28 \u0c15\u0c3e\u0c30\u0c41 \u0c2a\u0c46\u0c56\u0c15\u0c2a\u0c4d\u0c2a\u0c41\u0c2a\u0c46\u0c56\u0c15\u0c3f \u0c1a\u0c47\u0c30\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f. \u0c2a\u0c4d\u0c30\u0c3e\u0c23\u0c02 \u0c2a\u0c4b\u0c2f\u0c3f\u0c28\u0c3e \u0c2a\u0c30\u0c4d\u0c32\u0c47\u0c26\u0c41.. \u0c28\u0c3e \u0c2c\u0c3f\u0c21\u0c4d\u0c21\u0c15\u0c41 \u0c0f\u0c2e\u0c40 \u0c15\u0c3e\u0c15\u0c42\u0c21\u0c26\u0c28\u0c3f \u0c24\u0c32\u0c4d\u0c32\u0c3f \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c2a\u0c4b\u0c30\u0c3e\u0c1f\u0c02.. \u0c1a\u0c42\u0c38\u0c3f\u0c28 \u0c2a\u0c4d\u0c30\u0c24\u0c3f \u0c12\u0c15\u0c4d\u0c15\u0c30\u0c3f \u0c39\u0c43\u0c26\u0c2f\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c15\u0c26\u0c3f\u0c32\u0c3f\u0c38\u0c4d\u0c24\u0c4b\u0c02\u0c26\u0c3f.",
-      "link": "https://www.andhrajyothy.com/2026/prathyekam/mother-dog-saves-puppy-flood-waters-viral-video-erk-1553665.html",
-      "source": "Andhrajyothi",
-      "image": "https://media.andhrajyothy.com/media/2026/20260822/mother_dog_ea53ab33c8_v_jpg.webp",
-      "published": "2026-08-29 10:18:37",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Serena Williams\u2019 Husband Alexis Ohanian Stands With Coco Gauff & Her Mom As American Laments \u2018Absurd\u2019 US Open Ticket Demands",
-      "description": "Serena Williams\u2019 husband, Alexis Ohanian, sided with Coco Gauff and her mom after Candi Gauff revealed that some family members and distant relatives are now coming out of the woodwork demanding tickets, despite barely keeping in touch all these years. Coco Gauff and her mother, Candi, have found a favorable ally in their battle against entitled ticket seekers for the US Open.",
-      "link": "https://sports.yahoo.com/articles/serena-williams-husband-alexis-ohanian-101836714.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/a53c468c61e0babef4459d7380985c41ff0a394a82ad93a547f78c0d2123bf22/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2Fa3a9c1a72254f67abc03c0c48385dbf1.jpg",
-      "published": "2026-08-29 10:18:36",
+      "image": "https://s.yimg.com/lo/mysterio/api/68da068d7c327698a1723b1ca23c75b8b6f016ee3c78cfa59e4d6e5b074c72f0/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fakron-beacon-journal%2F61b787e007d6365b86af9248b92950ca.jpg",
+      "published": "2026-08-29 13:00:59",
       "category": [
         "sports",
         "breaking"
@@ -265,14 +134,242 @@
       ]
     },
     {
-      "title": "Interesting Idea To learn (NOT SEBI REG ANALYST/ ONLY STUDY VIEW",
-      "description": "Stock showing signs of Almost 2 Year BO movement. Will have to wait and watch. for BO Confirmation. On Daily Looks like a Cup and Handle Formed. Weekely and Monthly candles are good BO candle, but Monthly basis Volume is not supportive hence it would be an interesting base to learn here.",
-      "link": "https://in.tradingview.com/chart/COFORGE/4TWZ50tm-Interesting-Idea-To-learn-NOT-SEBI-REG-ANALYST-ONLY-STUDY-VIEW/",
-      "source": "Tradingview",
-      "image": "https://s3.tradingview.com/4/4TWZ50tm_big.png",
-      "published": "2026-08-29 10:18:36",
+      "title": "Family Mart releases new Human Made Cup Noodle in Japan, with freebies for Nigo fans",
+      "description": "Japanese convenience store essential gets a cool Human Made makeover. Ever since Family Mart opened a new \u201cFamima\u201d flagship store in Tokyo last month, the convenience store chain has been undergoing something of a transformation, leaning heavily into street culture through its collaboration with Nigo, the founder of streetwear brand Bape and lifestyle brand Human [...]",
+      "link": "https://soranews24.com/2026/08/29/family-mart-releases-new-human-made-cup-noodle-in-japan-with-freebies-for-nigo-fans/",
+      "source": "Sora News 24",
+      "image": "https://soranews24.com/wp-content/uploads/sites/3/2026/08/Human-Made-Nissin-Cup-Noodle-Family-Mart-Famima-Japan-convenience-store-food-instant-ramen-exclusive-must-try-buy-campaign-freebies-streetwear-Bape-fashion-news-4-1.jpg",
+      "published": "2026-08-29 13:00:58",
+      "category": [
+        "business",
+        "food",
+        "top"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Psilocybin reverses depressive behaviors and restores brain cell growth in stressed rats",
+      "description": "Two low doses of psilocybin helped chronically stressed rats recover their ability to experience pleasure while reducing anxiety. The psychedelic compound also promoted the birth of new neurons and normalized stress hormone levels.",
+      "link": "https://www.psypost.org/psilocybin-reverses-depressive-behaviors-and-restores-brain-cell-growth-in-stres/",
+      "source": "Psypost - Psychology News",
+      "image": "https://www.psypost.org/wp-content/uploads/2024/11/psychedelic-psilocybin-mushrooms-1.jpg",
+      "published": "2026-08-29 13:00:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "australia",
+        "france",
+        "canada",
+        "united states of america",
+        "united kingdom",
+        "sweden",
+        "germany"
+      ]
+    },
+    {
+      "title": "Oregon is spending more than ever on low-income housing. A state law keeps the details secret.",
+      "description": "The public isn\u2019t allowed to see the details of how Oregon's dollars are being spent on affordable housing.",
+      "link": "https://oregoncapitalchronicle.com/2026/08/29/oregon-is-spending-more-than-ever-on-low-income-housing-a-state-law-keeps-the-details-secret/",
+      "source": "Oregon Capital Chronicle",
+      "image": "https://oregoncapitalchronicle.com/wp-content/uploads/2024/12/IMG_2040-scaled.jpeg",
+      "published": "2026-08-29 13:00:55",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Grade SI suspended in Idukki for sharing \u2018anti-Muslim\u2019 post",
+      "description": "Idukki police officer suspended for sharing anti-Muslim post on social media, sparking community outrage and an internal inquiry.",
+      "link": "https://www.thehindu.com/news/national/kerala/grade-si-suspended-in-idukki-for-sharing-anti-muslim-post/article71404662.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/df4qay/article71404757.ece/alternates/FREE_1200/e-Sim-adoption-G7IET8K32.4.jpg.jpg",
+      "published": "2026-08-29 13:00:55",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "India\u2019s Semiconductor Push: From electronics manufacturing to semicon 2.0",
+      "description": "India is building a semiconductor ecosystem that goes beyond chip manufacturing, combining electronics production, chip design, fabrication, packaging, equipment, materials, research and talent development. With 12 semiconductor units approved and a new Semicon 2.0 phase planned, the government is seeking to turn the country into a major global base for semiconductor design and manufacturing India is seeking to establish itself as a major global hub for semiconductor manufacturing and chip design, building on the rapid expansion of its electronics manufacturing industry over the past decade. In an account of the government\u2019s semiconductor strategy, Union Minister for Railways, Information & Broadcasting, and Electronics and Information Technology Ashwini Vaishnaw said the approach is focused on creating a complete semiconductor ecosystem rather than setting up isolated manufacturing facilities. The strategy covers the entire semiconductor value chain, including chip design, fabrication, packaging, manufacturing equipment, specialised materials, research and development and the development of skilled talent. The effort has gained importance as semiconductors have become essential to almost every major technology-driven industry. From smartphones and automobiles to aircraft, drones and medical equipment, modern products increasingly depend on sophisticated chips. For India, the objective is therefore not simply to become another manufacturing location. The larger ambition is to develop capabilities across the semiconductor value chain and create an ecosystem that can support both domestic requirements and global markets. Why semiconductors have become strategically important Semiconductors form the foundation of the modern electronics industry. Chips produced by semiconductor companies power an enormous range of devices and systems, making the sector critical to industries far beyond electronics. The global electronics industry is estimated at $4.3 trillion and continues to expand. Semiconductor chips themselves are among the most technologically complex products manufactured anywhere in the world. Vaishnaw cited Apple\u2019s A19 Bionic chip as an example of the technological sophistication involved. The chip uses a 3-nanometre process and contains roughly 30 billion transistors. The strategic importance of semiconductors became particularly visible during the COVID-19 pandemic, when disruptions to global supply chains caused shortages of chips used in automobiles, electronics and other products. The crisis exposed the risks associated with concentrated semiconductor manufacturing and prompted countries across the world to accelerate efforts to establish or expand domestic capabilities. Many of these countries, however, had already spent decades building semiconductor industries. India is attempting to develop its ecosystem while competing in an industry where technology, capital, infrastructure and highly specialised skills are all critical. India\u2019s semiconductor journey began decades ago India\u2019s attempt to develop a semiconductor industry is not new. According to Vaishnaw, the country\u2019s semiconductor journey can be traced back to 1960, when Fairchild Semiconductor, one of the world\u2019s earliest semiconductor companies, explored the possibility of establishing operations in India. However, he said India\u2019s economic system at the time, including socialist economic planning and production quotas, discouraged the company from proceeding. Efforts to establish a semiconductor industry continued over the following decades, but they did not produce the scale of ecosystem that India had hoped to build. Another major push came in the early 2010s. Vaishnaw said that while the intention was there, the strategy and execution did not match the ambition. He cited instances in which semiconductor companies shipped manufacturing equipment to India, only for the equipment to be returned by customs. The situation, according to the minister, began to change after Prime Minister Narendra Modi assumed office, with the government taking a more comprehensive approach towards electronics and semiconductor manufacturing. Electronics manufacturing became the starting point The government chose to build its semiconductor strategy on a foundation that had already begun to develop: India\u2019s expanding electronics manufacturing industry. The launch of Make in India, combined with reforms in foreign direct investment, taxation and customs duties and a series of manufacturing support schemes, encouraged companies to increase electronics production in the country. Mobile phone manufacturing became one of the most visible examples of this transformation. Global electronics and mobile phone companies expanded their manufacturing operations in India, while domestic production capacity also increased. According to figures cited by Vaishnaw, India now has more than 300 electronics manufacturing units. Electronics manufacturing has crossed $130 billion, while electronics exports have exceeded $48 billion. Mobile phones have also become India\u2019s largest exported item, surpassing petroleum products as well as gems and jewellery, according to the minister. The sector has also become an important source of employment, with electronics manufacturing supporting around 2.5 million jobs. This expanding industrial base was important for the semiconductor strategy because chip manufacturing requires an ecosystem of suppliers, engineers, technicians, infrastructure and downstream customers. The government\u2019s approach was therefore to develop electronics manufacturing first and then use that base to support the more complex semiconductor ecosystem. Semicon India launched in 2021 The next major step came in 2021, when the government launched the Semicon India programme. The objective, according to Vaishnaw, was to create a robust semiconductor ecosystem rather than pursue individual projects that might look impressive but would not create a sustainable industry. The government studied semiconductor industries in different countries and consulted companies operating across the sector before designing the programme. The initiative initially faced considerable scepticism. Questions were raised about whether India genuinely understood the complexity of semiconductor manufacturing and whether the country could build the infrastructure required for semiconductor fabrication. Semiconductor manufacturing requires highly specialised clean rooms, ultrapure water, sophisticated lithography equipment and a large supporting ecosystem. Rather than attempting to immediately match the hundreds of billions of dollars being invested by developed semiconductor economies, India began with a $10-billion programme designed to support fabrication facilities, or fabs, as well as semiconductor packaging units. The approach was intended to provide government support while allowing an industry ecosystem to develop gradually. 12 semiconductor units approved The initial programme has since resulted in substantial industry interest. According to Vaishnaw, over a period of five years, the government approved 12 semiconductor units involving cumulative investment of $20 billion. Three of these units have already entered commercial production. Micron began commercial production on February 28, 2026, Kaynes began production [...]",
+      "link": "https://organiser.org/2026/08/29/377592/bharat/indias-semiconductor-push-from-electronics-manufacturing-to-semicon-2-0/",
+      "source": "Organiser Weekly",
+      "image": "https://organiser.org/wp-content/uploads/2026/07/semi-conductor.webp",
+      "published": "2026-08-29 13:00:55",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Eastern Michigan vs. Sacramento State betting preview: Week 0 college football odds, picks, predictions, time",
+      "description": "Sacramento State makes its FBS debut against Eastern Michigan in the first weekend of college football action. Here's everything bettors need to know",
+      "link": "https://www.cbssports.com/betting/news/eastern-michigan-vs-sacramento-state-betting-preview-week-0-college-football-odds-picks-predictions-time/",
+      "source": "Cbssports",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/21/2a8f69f1-7f47-4d39-aa84-46d64199566a/noah-kim-eastern-michigan.jpg",
+      "published": "2026-08-29 13:00:54",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Grupo armado incendia ring de Noche Suprema en Sonora; posponen evento de box e influencers",
+      "description": "Los hombres incendiaron el ring y dispararon en el Centro de Usos Mu\u0301ltiples donde se realizari\u0301a la Noche Suprema",
+      "link": "https://www.adn40.mx/seguridad/2026-08-29/grupo-armado-incendia-ring-de-noche-suprema-en-sonora-posponen-evento-de-box-e-influencers/",
+      "source": "Adn40",
+      "image": "https://tvazteca-adnnoticias-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Ftvazteca%2FF6SONGSOVFF7POEOOE5L7ODJBI.jpg?auth=6dee1a4778acf91dac33bf5d93690320e6ff57dc7f335c086d9633edb4396878&smart=true&width=1200&height=675",
+      "published": "2026-08-29 13:00:53",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "mexico"
+      ]
+    },
+    {
+      "title": "12.8 kg MDMA worth over \u20b910 cr seized in Keralam, three held",
+      "description": "A police squad from Malappuram seized 12.8 kg of MDMA valued at more than \u20b910 crore in the retail market from a car in Coimbatore. Three persons from Malappuram and Wayanad were arrested.",
+      "link": "https://www.thehindu.com/news/national/kerala/128-kg-mdma-worth-over-10-cr-seized-in-keralam-three-held/article71404441.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/y9zxek/article71404448.ece/alternates/FREE_1200/MDMA.jpeg",
+      "published": "2026-08-29 13:00:53",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Gardening: Let\u2019s plant a fall garden!",
+      "description": "By Jill O\u2019Connell, Master Gardener Summer gardening in Denton County has its challenges. High temperatures, alkaline and clay soils, winter ice storms and short springs can make gardening in North Texas seem difficult. But now is the perfect time to start planning a fall garden. One advantage North Texas gardeners enjoy is a long growing [...] The post Gardening: Let\u2019s plant a fall garden! appeared first on Cross Timbers Gazette | Southern Denton County | Flower Mound | News .",
+      "link": "https://www.crosstimbersgazette.com/2026/08/29/gardening-lets-plant-a-fall-garden/",
+      "source": "Cross Timbers Gazette | Southern Denton County | F",
+      "image": "https://www.crosstimbersgazette.com/crosstimbersgazette/wp-content/uploads/2025/08/2.jpg",
+      "published": "2026-08-29 13:00:52",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "89-year-old man establishes $400K reward trust to catch son's killer after decades-long search",
+      "description": "In June 2003, Chris Giauque got out of prison. He got married. And within days, after a meeting with business associates over owed money, he was never seen again.",
+      "link": "https://wgntv.com/news/nexstar-media-wire/89-year-old-man-establishes-400k-reward-trust-to-catch-sons-killer-after-decades-long-search/",
+      "source": "Wgn-tv",
+      "image": "https://wgntv.com/wp-content/uploads/sites/5/2026/08/Reward-Poster.jpg?w=900",
+      "published": "2026-08-29 13:00:52",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018So stressful\u2019: Kampung Pasir Marudi residents endure recurring water disruptions",
+      "description": "MIRI (Aug 29): Residents of Kampung Pasir in Marudi near here are calling upon the relevant authorities to resolve persistent water supply disruptions that they say have plagued the area over the past year. A resident, who wished to be known only as Voon, 58, said her household had been without water for two weeks [...] The post \u2018So stressful\u2019: Kampung Pasir Marudi residents endure recurring water disruptions appeared first on Borneo Post Online .",
+      "link": "https://www.theborneopost.com/2026/08/29/so-stressful-kampung-pasir-marudi-residents-endure-recurring-water-disruptions/",
+      "source": "Borneo",
+      "image": "https://www.theborneopost.com/newsimages/2026/08/Lead-02-myy-290826-jls-kampung-pasir-no-water-p1.jpeg",
+      "published": "2026-08-29 13:00:52",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "ETBU ranked No. 4 in AVCA preseason poll",
+      "description": "MARSHALL \u2013 Picking up where they left off last season, East Texas Baptist University comes into the 2026 season nationally ranked fourth by the American Volleyball Coaches Association. ETBU has [...]",
+      "link": "https://marshallnewsmessenger.com/2026/08/29/etbu-ranked-no-4-in-avca-preseason-poll/",
+      "source": "Marshallnewsmessenger",
+      "image": "https://marshallnewsmessenger.com/wp-content/uploads/sites/18/2026/08/ETBU-VB-2026-ranked_web.jpg",
+      "published": "2026-08-29 13:00:52",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Victoria Beckham passionately kisses husband David as she shares wholesome family snaps from their European summer - as estranged son Brooklyn cosies up to Nicola in bed",
+      "description": "Victoria Beckham passionately kissed husband David as she shared a plethora of wholesome family snaps from their idyllic summer in Europe.",
+      "link": "https://www.dailymail.com/tvshowbiz/article-16089383/Victoria-Beckham-kisses-David-family-European-summer-estranged-son-Brooklyn.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/08/29/13/110926287-0-image-a-39_1788008161819.jpg",
+      "published": "2026-08-29 13:00:52",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Council considers 4-cent tax rate increase at prelim budget hearing",
+      "description": "Kilgore City Council members are considering a budget plan which includes a tax rate increase of about 4 cents but also more aggressively confronts a longstanding problem \u2014 fixing local [...]",
+      "link": "https://kilgorenewsherald.com/2026/08/29/council-considers-4-cent-tax-rate-increase-at-prelim-budget-hearing-to-tackle-road-projects/",
+      "source": "Kilgore News Herald",
+      "image": "https://kilgorenewsherald.com/wp-content/uploads/sites/17/2026/01/City-Hall.jpg",
+      "published": "2026-08-29 13:00:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Your homework assignment: Tell us a true story",
+      "description": "Summer break is over and school is back in session. Here\u2019s your homework assignment, readers.",
+      "link": "https://www.columbian.com/news/2026/aug/29/your-homework-assignment-tell-us-a-true-story/",
+      "source": "Columbian",
+      "image": "https://www.columbian.com/wp-content/themes/columbian3/static/img/og/default-2026-3.jpg",
+      "published": "2026-08-29 13:00:50",
       "category": [
         "education",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Union Budget 2027-28: Finance Ministry begins budget-making process",
+      "description": "The Finance Ministry has initiated the budget process for 2027-28, directing ministries to submit estimates via a circular. Pre-budget meetings, chaired by the Secretary (Expenditure), will commence on October 12, 2026, with data due by October 6.",
+      "link": "https://newsable.asianetnews.com/business/union-budget-2027-28-finance-ministry-begins-budget-making-process-articleshow-ovey5tt",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-0594110f-5fca-49a7-9057-d1cf0ae89c6f.jpg",
+      "published": "2026-08-29 13:00:49",
+      "category": [
         "business",
         "top"
       ],
@@ -281,125 +378,73 @@
       ]
     },
     {
-      "title": "Google Adds Expert Intelligence Feature to Help Readers Analyse E-Books in Gemini Notebook",
-      "description": "Google rolls out Expert Intelligence in Gemini Notebook, letting users analyse over 100,000 purchased Google Play Books with custom AI tools.",
-      "link": "https://pc-tablet.com/google-adds-expert-intelligence-feature-to-help-readers-analyse-e-books-in-gemini-notebook/194005/",
-      "source": "Pc-tablet",
-      "image": "https://pc-tablet.com/wp-content/uploads/2026/08/Google-Adds-Expert-Intelligence-Feature-to-Help-Readers-Analyse-E-Books-in-Gemini-Notebook.jpg",
-      "published": "2026-08-29 10:18:34",
+      "title": "April 25, 2026; Oregon quarterback Dante Moore is all smiles during the Oregon Ducks spring game at Autzen Stadium in Eugene, Oregon.",
+      "description": "The Ducks quarterback is chasing a national title, Heisman Trophy and an opportunity to rewrite history.",
+      "link": "https://www.si.com/college/oregon/football/dante-moore-fernando-mendoza-nfl-draft-comparison-turning-heads",
+      "source": "Si",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2648,h_1489,x_7,y_219/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/ducks_digest/01m0zcd8m8mxyy75n1qc.jpg",
+      "published": "2026-08-29 13:00:49",
       "category": [
-        "top",
-        "technology"
+        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Heavy Rain Wreaks Havoc In MP: Train Services Disrupted On Mumbai-Howrah Railway Line; Check Full List",
-      "description": "MP Rains Continuous rainfall in Madhya Pradesh caused the Sharabhang River to swell disrupting Mumbai-Howrah railway line services in the Satna region Several trains were affected inconveniencing passengers though services resumed at a reduced speed after water levels receded",
-      "link": "https://www.thedailyjagran.com/india/mp-heavy-rain-sharabhang-river-disrupts-mumbai-howrah-railway-line-12-trains-affected-10327089",
-      "source": "Jagran English",
-      "image": "https://images.thedailyjagran.com/article-img/2026/08/29/1200x675/datna-1787998638534.webp",
-      "published": "2026-08-29 10:18:34",
+      "title": "Letter: Support Perez for check on GOP",
+      "description": "I would urge Brent Hennrich and his supporters to move past the primary and vote for Marie Gluesenkamp Perez in November.",
+      "link": "https://www.columbian.com/news/2026/aug/29/letter-support-perez-for-check-on-gop/",
+      "source": "Columbian",
+      "image": "https://www.columbian.com/wp-content/themes/columbian3/static/img/og/default-2026-1.jpg",
+      "published": "2026-08-29 13:00:49",
       "category": [
-        "environment",
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Letter: Democrats don\u2019t care",
+      "description": "Another day, another pair of stories that show just how little Democrats actually care about anyone.",
+      "link": "https://www.columbian.com/news/2026/aug/29/letter-democrats-dont-care/",
+      "source": "Columbian",
+      "image": "https://www.columbian.com/wp-content/themes/columbian3/static/img/og/default-2026-3.jpg",
+      "published": "2026-08-29 13:00:49",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Awesome Czech looks to defend her title in the Yaddo",
+      "description": "SARATOGA SPRINGS, N.Y. \u2014 Barry Schwartz\u2019s homebred Awesome Czech seeks a title defense in Sunday\u2019s $200,000 Yaddo, a 1 1/16-mile Mellon turf test for state-bred fillies and mares 3-years-old and up, at Saratoga Race Course. Trained by Horac...",
+      "link": "https://www.oneidadispatch.com/2026/08/29/awesome-czech-looks-to-defend-her-title-in-the-yaddo/",
+      "source": "Oneida Dispatch",
+      "image": "https://www.oneidadispatch.com/wp-content/uploads/2024/08/Awesome-Czech.jpg?w=1600&resize=1600,900",
+      "published": "2026-08-29 13:00:49",
+      "category": [
+        "sports",
         "top"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Arsenal considering Marcus Rashford move",
-      "description": "Marcus Rashford has been actively linked with moves away from Manchester United, just months after his return to the club following the World Cup. The England international, who played in United\u2019s defeat at Hull City last weekend, has rejected offers from Fenerbahce.",
-      "link": "https://www.yardbarker.com/soccer/articles/arsenal_considering_marcus_rashford_move/s1_17737_44232891",
-      "source": "Yardbarker",
-      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
-      "published": "2026-08-29 10:18:33",
-      "category": [
-        "sports"
-      ],
-      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Malta Is Surging With Travel Enthusiasts While Surging Daily Expenses Force Travelers To Cut Short Their Entire Stays",
-      "description": "Explore how rising costs in Malta impact global travelers, hotel rates, stay lengths, and overall vacation budgets across Valletta, Gozo,... Read More Source: Travel And Tour World TTW-1984392-1788000469",
-      "link": "https://www.travelandtourworld.com/news/article/yhxs9jky4433/",
-      "source": "Travel And Tour World",
-      "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/08/Malta-coastal-cityscape-featuring-historic-limestone-buildings-turquoise-sea-harbour-views-and-a-busy-waterfront-road.jpg",
-      "published": "2026-08-29 10:18:32",
-      "category": [
-        "tourism"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Elite and social runners to lace up for Hollywoodbets 10km in Durban",
-      "description": "The Kingsmead Stadium in Durban will be painted purple on Sunday morning, as elite athletes, social runners, and running enthusiasts from across the country will gather for the much-anticipated Hollywoodbets 10km race. The sixth edition of the Hollywoodbets 10km will see a record 15 000 runners, both elite and social, descend for one of South Africa\u2019s premier road races. Elite athletes such as Tayla Kavanagh, Neheng Khatala, Thabang Mosiako, Karabo More, Kabelo \u2018Mr Podium\u2019 Mulaudzi and veteran Stephen Mokoka will line up, as they will all be competing for the ultimate prize. Speaking to the media during a press conference on Friday, Boxer Athletics Club duo Mulaudzi and More said their targets will be to finish their respective races in podium positions. \u201cThis year has not been going as planned because of the ups and downs with injuries,\u201d Mulaudzi said. \u201cSo, I hope this time I will run well and finish on the podium, because last week at the Absa Run Your City in Tshwane, I finished seventh. I haven\u2019t been consistent since that hamstring injury out of fear it could pull out again. \u201cBut I am going to go all out this time because something has to give for me to return to the podium. More, who recently returned from the Commonwealth Games in Glasgow, said she will not only be aiming for a podium finish, but a Personal Best as well. \u201cMy plan for Sunday is to try and get a podium finish. I have run 10km races this year but have not been able to get to the podium,\u201d More said. \u201cSo, I am hoping for number three and getting a faster time. even if it\u2019s by a second, I need to get that PB.\u201d Hollywoodbets Athletics Club manager Brett Goodwill has since expressed his excitement ahead of the event, stating that Hollywoodbets 10km is more than a race. \u201cThe Hollywoodbets 10km race is about much more than running. It is about bringing people together, creating unforgettable experiences, and celebrating what is possible when you keep moving forward,\u201d Goodwill said, as this year\u2019s race is promising to be one for the books. Subscribe To Our Newsletter",
-      "link": "https://sundayworld.co.za/sports/more-sports/elite-and-social-runners-to-lace-up-for-hollywoodbets-10km-in-durban/",
-      "source": "Sunday World",
-      "image": "https://sundayworld-prod-s3-bucket.s3.eu-west-1.amazonaws.com/wp-content/uploads/2026/08/29111509/Hollywoodbets-10km-runners.jpg",
-      "published": "2026-08-29 10:18:32",
-      "category": [
-        "sports",
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "Real Racing Club de Santander v Elche CF - LaLiga EA Sports 2026/27",
-      "description": "\u0642\u0627\u062f \u0627\u0644\u0645\u063a\u0631\u0628\u064a \u064a\u0627\u0633\u0631 \u0627\u0644\u0632\u0627\u0628\u064a\u0631\u064a\u060c \u0645\u0647\u0627\u062c\u0645 \u0631\u0627\u0633\u064a\u0646\u062c \u0633\u0627\u0646\u062a\u0627\u0646\u062f\u064a\u0631\u060c \u0641\u0631\u064a\u0642\u0647 \u0627\u0655\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0641\u0648\u0632\u0647 \u0627\u0644\u0627\u0654\u0648\u0644 \u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0633\u0645 \u0641\u064a \u0627\u0644\u062f\u0648\u0631\u064a \u0627\u0644\u0627\u0655\u0633\u0628\u0627\u0646\u064a\u060c \u0628\u0639\u062f\u0645\u0627 \u0633\u062c\u0644 \u062b\u0644\u0627\u062b\u064a\u0629 \u062e\u0644\u0627\u0644 21 \u062f\u0642\u064a\u0642\u0629 \u0641\u0642\u0637 \u0627\u0654\u0645\u0627\u0645 \u0627\u0655\u0644\u062a\u0634\u064a\u060c \u0645\u0633\u0627\u0621 \u0627\u0654\u0645\u0633 \u0627\u0644\u062c\u0645\u0639\u0629\u060c \u0636\u0645\u0646 \u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629\u060c \u0641\u064a \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0646\u062a\u0647\u062a (3-2).",
-      "link": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A8%D9%8A%D8%B1%D9%8A--%D9%85%D9%86-%D9%87%D8%A7%D9%85%D8%B4-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%A7%D9%95%D9%84%D9%89-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A7%D9%84%D9%84%D9%8A%D8%AC%D8%A7/bltaaaa5cd27b8ad072",
-      "source": "\u0643\u0648\u0648\u0648\u0631\u0629",
-      "image": "https://assets.kooora.com/images/v3/getty-2292471744/crop/MM5DIOJVG45DENZYHA5G433XMU5DAORSHEYA====/GettyImages-2292471744.jpg?auto=webp&format=jpg&quality=80",
-      "published": "2026-08-29 10:18:31",
+      "title": "Trish Stratus Recalls Being Told She Was Winning Women\u2019s Title, Origin Of The MaTrish",
+      "description": "Trish Stratus recently recounted when she found out she was winning the WWE Women's Championship for the first time and the origin of the MaTrish. The post Trish Stratus Recalls Being Told She Was Winning Women\u2019s Title, Origin Of The MaTrish appeared first on 411MANIA | Wrestling News, WWE & AEW Results .",
+      "link": "https://411mania.com/wrestling/trish-stratus-recalls-told-winning-womens-title-origin-matrish/",
+      "source": "411mania",
+      "image": "https://411mania.com/wp-content/uploads/2020/02/Trish-Stratus.jpg",
+      "published": "2026-08-29 13:00:46",
       "category": [
         "sports"
-      ],
-      "country": [
-        "tunisia",
-        "qatar",
-        "algeria",
-        "egypt",
-        "morocco",
-        "jordan",
-        "united arab emirates",
-        "saudi arabia",
-        "bahrain",
-        "kuwait"
-      ]
-    },
-    {
-      "title": "\u2018Mole\u2019 in Ireland accused of leaking state secrets",
-      "description": "DUBLIN, Ireland: An alleged Irish government \"mole\" accused of leaking sensitive state information to a hostile foreign power will face trial before the Special Criminal Court, which operates without a jury. Yevgen McKeeffe, 46, a civil servant originally from Ukraine and now an Irish citizen, is accused of offenses under the Official Secrets Act and other laws. He has denied all allegations. McKeeffe was",
-      "link": "http://www.dublinnews.com/news/279271860/mole-in-ireland-accused-of-leaking-state-secrets",
-      "source": "Dublin News",
-      "image": "https://image.chitra.live/api/v1/wps/ba12172/bf6ad7d6-c276-4f79-96f2-0364215b9517/2/7-Dublin-Criminal-Courts-600x315.jpg",
-      "published": "2026-08-29 10:18:28",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Delaware Coastal Towns Turn Into a Live Music Trail for New Songwriters Festival",
-      "description": "Delaware\u2019s new four-day songwriters festival brings G. Love, Low Cut Connie, intimate gigs and waterfront music to three coastal towns. Read More Source: Travel And Tour World TTW-1984422-1788000469",
-      "link": "https://www.travelandtourworld.com/news/article/r5xu3cnajcc4/",
-      "source": "Travel And Tour World",
-      "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/08/Delaware-1.jpg",
-      "published": "2026-08-29 10:18:25",
-      "category": [
-        "tourism"
       ],
       "country": [
         "united states of america"

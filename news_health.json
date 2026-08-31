@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Arrowhead Pharmaceuticals, Inc.: Arrowhead Pharmaceuticals Presents Phase 3 SHASTA-3 and SHASTA-4 Data Demonstrating Plozasiran Reduced Acute Pancreatitis Events in Patients with Severe Hypertriglyceridemia",
+      "description": "Plozasiran reduced triglycerides (TG) by 79% and 81% versus placebo in SHASTA-3 and SHASTA-4 across the broad sHTG population More than 90% of plozasiran-treated patients achieved triglycerides be...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69445196-arrowhead-pharmaceuticals-inc-arrowhead-pharmaceuticals-presents-phase-3-shasta-3-and-shasta-4-data-demonstrating-plozasiran-reduced-acute-pancreat-004.htm",
+      "source": "Finanznachrichten.de",
+      "image": null,
+      "published": "2026-08-30 15:36:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Ex-boss of scandal-hit Nottingham hospital trust now a director of firm giving NHS maternity training",
+      "description": "Dr Peter Homa's company Acorn Leadership Development has been paid a six-figure sum to deliver training to NHS Trusts",
+      "link": "https://www.nottinghampost.com/news/nottingham-news/ex-boss-scandal-hit-nottingham-11135196",
+      "source": "Nottinghampost",
+      "image": "https://i2-prod.nottinghampost.com/incoming/article11135207.ece/ALTERNATES/s615/2_Screenshot-2026-08-30-154533.jpg",
+      "published": "2026-08-30 15:35:57",
+      "category": [
+        "health",
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Yashoda Hospitals Hitec City brings Next-Generation Cancer Care closer to Patients with Advanced MR-LINAC Technology",
+      "description": "Kolkata, 30th August 2026: Yashoda Hospitals, Hitec City, Hyderabad, organized a press meet at the Kolkata Press Club to showcase its advanced cancer care capabilities, with a special focus on MR-LINAC Technology and its role in delivering highly precise and personalised radiation therapy. The interaction was led by Dr. M. Suneetha, Sr. Consultant Radiation Oncologist & Clinical Director, along with Mr. Sanjay Bhattacharya, AGM \u2013 Marketing, and Mr. Sagar Mukherjee, AM \u2013 Marketing, Yashoda Hospitals, Hitec City. The session provided an opportunity for the media to understand the evolving landscape of cancer treatment and the role of advanced technology in improving precision, treatment planning and patient care. A key focus of the discussion was MR-LINAC, one of the world\u2019s most advanced radiation therapy technologies and among the pioneering installations in India. The technology combines high-quality MRI imaging with precise radiation delivery, enabling clinicians to visualise tumours and surrounding healthy tissues more clearly during treatment and adapt radiation delivery based on changes in the patient\u2019s anatomy. Speaking at the press meet, Dr. M. Suneetha, Sr. Consultant Radiation Oncologist & Clinical Director, Yashoda Hospitals, Hitec City, highlighted the growing importance of precision and personalised approaches in cancer treatment. She explained how advanced technologies such as MR-LINAC can support clinicians in delivering more targeted radiation therapy while taking into consideration the movement and changes in tumours and surrounding organs during the course of treatment.",
+      "link": "https://www.nationset.in/2026/08/yashoda-hospitals-hitec-city-brings.html",
+      "source": "Nationset",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEizae6eBRvlFAtnN1Ic4goenswzsyK91KV4WVy1sF3OJUmALix1HXBSP4iIOIyRFF34KMSH1CRBlIsVK4GR7sI2nOwmHk8HUNwUBFVA2GLMbEVa4qbFoDOPGtO6VQQI5Htn-y8j51XZmLprZfmYahDQC_Mpb1TeCY1kcV8YhtLhy-5OlFa2riG1CWD50MIv=s72-c",
+      "published": "2026-08-30 15:35:49",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

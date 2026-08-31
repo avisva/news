@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "San Francisco's Town Nears $1 Billion Valuation as AI Assistant Race Heats Up",
+      "description": "San Francisco startup Town is closing in on a $1 billion valuation as rival Instinct hits $2.5 billion in the AI assistant funding frenzy.",
+      "link": "https://hoodline.com/2026/08/san-francisco-s-town-nears-1-billion-valuation-as-ai-assistant-race-heats-up/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/8/san-franciscos-town-nears-dollar1-billion-valuation-as-ai-assistant-race-heats-up-10.webp",
+      "published": "2026-08-30 15:36:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

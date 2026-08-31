@@ -1,273 +1,167 @@
 {
   "status": "success",
-  "totalResults": 18,
+  "totalResults": 11,
   "results": [
     {
-      "title": "Electric vs ICE: which cars under 4 million rubles are cheapest to own",
-      "description": "Buyers looking for a vehicle under 4 million rubles in the Russian market face a choice between low initial purchase prices and long-term ownership costs. Russian dealers have identified a list of models where the combination of purchase price, fuel expenses, service maintenance, and parts availability results in the lowest total cost of ownership. Ownership cost drivers: The final expense is determined by the purchase price, fuel or electricity costs, scheduled maintenance (TO), insurance, taxes, and projected depreciation during resale. The Evolute i-JOY electric vehicle is ranked as the most economical option. This is attributed to the absence of an internal combustion engine (ICE) and complex transmission, which lowers maintenance costs, combined with the low price of electricity. Additionally, government support programs reduce the initial financial burden for buyers.",
-      "link": "https://english.pravda.ru/news/auto/168413-cheapest-car-ownership/",
-      "source": "Pravda",
-      "image": "https://english.pravda.ru/image/preview/article/4/1/3/168413_amp.jpeg",
-      "published": "2026-08-30 15:36:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "russia"
-      ]
-    },
-    {
-      "title": "Arrowhead Pharmaceuticals, Inc.: Arrowhead Pharmaceuticals Presents Phase 3 SHASTA-3 and SHASTA-4 Data Demonstrating Plozasiran Reduced Acute Pancreatitis Events in Patients with Severe Hypertriglyceridemia",
-      "description": "Plozasiran reduced triglycerides (TG) by 79% and 81% versus placebo in SHASTA-3 and SHASTA-4 across the broad sHTG population More than 90% of plozasiran-treated patients achieved triglycerides be...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-08/69445196-arrowhead-pharmaceuticals-inc-arrowhead-pharmaceuticals-presents-phase-3-shasta-3-and-shasta-4-data-demonstrating-plozasiran-reduced-acute-pancreat-004.htm",
-      "source": "Finanznachrichten.de",
-      "image": null,
-      "published": "2026-08-30 15:36:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Jason Arday accuser given three-month teaching ban but can continue research - The Guardian",
-      "description": "Jason Arday accuser given three-month teaching ban but can continue research The Guardian US academic who accused Jason Arday of plagiarism allowed to resume some work Reuters Jason Arday accuser\u2019s hiring questioned by academics months ago The Times Belgian university issues major update on academic who accused Jason Arday of plagiarism The Independent Cofnas, Arday, and the Ever-Expanding \u2018Discrimination\u2019 Definition The American Conservative",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGd6WW5Ca0x5WjYycGxRd1VvWjZBZWNTU0hmWmFlOV81UWdfQzNWWkhFakIwdGU0bGFmam9lbWVqZ3lLT3lGRnR6M29iVXhSWjNUck9OWjRrN3YxTjFCOGtaLWk3bHpTY3k1aEVEUmxVWWVZbHc1dmE3WjFaX3FtV2NpdVhtRURZSDlwQTRtQUVFMlk0c3k5SVNhOWNwVXVGOXRpUmV3?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-08-30 15:36:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Hunt County included in multi-state oilfield theft investigation",
-      "description": "Hunt County was among areas targeted in mid-August as authorities investigated an alleged criminal enterprise involved in the theft and trafficking of petroleum products, according to a Texas Department of Public Safety press release.",
-      "link": "https://www.heraldbanner.com/news/local_news/hunt-county-included-in-multi-state-oilfield-theft-investigation/article_00e6e2b0-cb03-4d0e-bd6a-33377e23b898.html",
-      "source": "Heraldbanner",
-      "image": "https://bloximages.chicago2.vip.townnews.com/heraldbanner.com/content/tncms/assets/v3/editorial/2/92/29275957-afee-4ecd-9f9a-471a6c32619d/6a944eca628f6.image.png?resize=300%2C311",
-      "published": "2026-08-30 15:36:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Why Tinubu left Abuja for three-week Europe vacation \u2014 Presidency",
-      "description": "The Presidency has said that President Bola Tinubu embarked on a three-week vacation to \u2018refuel\u2019 after months of intense engagement with state matters. Special Adviser to the President on Media and Public Communications, Sunday Dare, stated this while addressing newsmen on Sunday. According to him, the President had spent the past six to seven months handling state matters, [...] Why Tinubu left Abuja for three-week Europe vacation \u2014 Presidency",
-      "link": "https://dailypost.ng/2026/08/30/why-tinubu-left-abuja-for-three-week-europe-vacation-presidency/",
-      "source": "Daily Post",
-      "image": "https://dailypost.ng/wp-content/uploads/2025/06/Tinubu-1200x720.jpg",
-      "published": "2026-08-30 15:35:58",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Ex-boss of scandal-hit Nottingham hospital trust now a director of firm giving NHS maternity training",
-      "description": "Dr Peter Homa's company Acorn Leadership Development has been paid a six-figure sum to deliver training to NHS Trusts",
-      "link": "https://www.nottinghampost.com/news/nottingham-news/ex-boss-scandal-hit-nottingham-11135196",
-      "source": "Nottinghampost",
-      "image": "https://i2-prod.nottinghampost.com/incoming/article11135207.ece/ALTERNATES/s615/2_Screenshot-2026-08-30-154533.jpg",
-      "published": "2026-08-30 15:35:57",
-      "category": [
-        "health",
-        "business",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Frankly Speaking: How prepared is Yemen\u2019s military to confront Houthi escalation?",
-      "description": "article author: Arab News Author: Sun, 2026-08-30 18:31 RIYADH: Yemen\u2019s armed forces have transformed their ability to confront the Houthis, coordinating their response across multiple fronts and overturning the Iran-backed militia\u2019s assumptions about how government forces would react to renewed attacks, according to the military\u2019s newly appointed spokesman. \u201cWhat they have seen on the ground, I am sure that has changed their perception of the equation,\u201d Staff Colonel Majed Al-Nuzaili told Arab News. Main category: Middle East Tags: Frankly Speaking Yemen Houthis Editor\u2019s Choice",
-      "link": "https://www.arabnews.pk/node/2656338/middle-east",
-      "source": "Arab News Pk",
-      "image": "https://www.arabnews.pk/sites/default/files/styles/n_670_395/public/main-image/2026/08/30/4745577-321711667.png?itok=WzMKKwIA",
-      "published": "2026-08-30 15:35:53",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Beer heist? 17,964 litres of alcohol valued at \u20b966.76 lakh stolen in California, brand says \u2018not a marketing stunt\u2019",
-      "description": "The Montclair Police Department is currently investigating the case who added the incidents could be part of two cargo thefts in August. No suspects have been identified.",
-      "link": "https://www.livemint.com/news/trends/beer-heist-17-964-litres-of-alcohol-valued-at-66-76-lakh-stolen-in-california-brand-says-not-a-marketing-stunt-11788103190195.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/21438_1788103679183_1788103685707_a019388a-4039-4040-b783-96fa21f650c2.jpg",
-      "published": "2026-08-30 15:35:52",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Signed, sealed, delivered: Former grocery driver Joe Dean wins British Masters with wife as caddie",
-      "description": "Former grocery delivery man Joe Dean has captured his first European tour title by shooting 9-under 63 to win the British Masters with his wife on the bag.",
-      "link": "https://www.wsls.com/sports/2026/08/30/signed-sealed-delivered-former-grocery-driver-joe-dean-wins-british-masters-with-wife-as-caddie/",
-      "source": "Wsls",
-      "image": "https://www.wsls.com/resizer/mD_H0hZahIaT8cdDvcuZn2mu89g=/cloudfront-us-east-1.images.arcpublishing.com/gmg/ORDVX77WHBHZ7F6CKPPYMAJQMI.jpg",
-      "published": "2026-08-30 15:35:51",
+      "title": "'Idiots': Webster slams critics as Wahs eye first place",
+      "description": "Coach Andrew Webster has lashed out at criticism su...",
+      "link": "https://nit.com.au/31-08-2026/26204/idiots-webster-slams-critics-as-wahs-eye-first-place",
+      "source": "National Indigenous Times",
+      "image": "https://cdn.nit.com.au/storage/hgUwGvkdzpuRbJgAy8PLjWXE0np4OyYIZZ47vZdn.jpg",
+      "published": "2026-08-30 22:30:00",
       "category": [
         "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Yashoda Hospitals Hitec City brings Next-Generation Cancer Care closer to Patients with Advanced MR-LINAC Technology",
-      "description": "Kolkata, 30th August 2026: Yashoda Hospitals, Hitec City, Hyderabad, organized a press meet at the Kolkata Press Club to showcase its advanced cancer care capabilities, with a special focus on MR-LINAC Technology and its role in delivering highly precise and personalised radiation therapy. The interaction was led by Dr. M. Suneetha, Sr. Consultant Radiation Oncologist & Clinical Director, along with Mr. Sanjay Bhattacharya, AGM \u2013 Marketing, and Mr. Sagar Mukherjee, AM \u2013 Marketing, Yashoda Hospitals, Hitec City. The session provided an opportunity for the media to understand the evolving landscape of cancer treatment and the role of advanced technology in improving precision, treatment planning and patient care. A key focus of the discussion was MR-LINAC, one of the world\u2019s most advanced radiation therapy technologies and among the pioneering installations in India. The technology combines high-quality MRI imaging with precise radiation delivery, enabling clinicians to visualise tumours and surrounding healthy tissues more clearly during treatment and adapt radiation delivery based on changes in the patient\u2019s anatomy. Speaking at the press meet, Dr. M. Suneetha, Sr. Consultant Radiation Oncologist & Clinical Director, Yashoda Hospitals, Hitec City, highlighted the growing importance of precision and personalised approaches in cancer treatment. She explained how advanced technologies such as MR-LINAC can support clinicians in delivering more targeted radiation therapy while taking into consideration the movement and changes in tumours and surrounding organs during the course of treatment.",
-      "link": "https://www.nationset.in/2026/08/yashoda-hospitals-hitec-city-brings.html",
-      "source": "Nationset",
-      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEizae6eBRvlFAtnN1Ic4goenswzsyK91KV4WVy1sF3OJUmALix1HXBSP4iIOIyRFF34KMSH1CRBlIsVK4GR7sI2nOwmHk8HUNwUBFVA2GLMbEVa4qbFoDOPGtO6VQQI5Htn-y8j51XZmLprZfmYahDQC_Mpb1TeCY1kcV8YhtLhy-5OlFa2riG1CWD50MIv=s72-c",
-      "published": "2026-08-30 15:35:49",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Mysterious graffiti legend Helch who \u2018upset\u2019 Queen Elizabeth dies",
-      "description": "Helch death: Man behind London murals dies after beginning gallery",
-      "link": "https://metro.co.uk/2026/08/30/mysterious-graffiti-legend-helch-upset-queen-elizabeth-dies-29495835/",
-      "source": "Metro",
-      "image": "https://metro.co.uk/wp-content/uploads/2019/09/PRI_81849891-e1567438016631.jpg?quality=90&strip=all",
-      "published": "2026-08-30 15:35:48",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Main draw play gets underway at the US Open, with Jessica Pegula playing early",
-      "description": "NEW YORK (AP) \u2014 Main draw play is underway at the U.S. Open, with 19th-seeded Jasmine Paolini among those playing in the opening set of matches at the Billie Jean King National Tennis Center on Sunday.",
-      "link": "https://www.local10.com/sports/2026/08/30/main-draw-play-gets-underway-at-the-us-open-with-jessica-pegula-playing-early/",
-      "source": "Local 10 News",
-      "image": "https://www.local10.com/resizer/v2/N73MSOGZJ4FJWFBOHD564XN66U.jpg?auth=cc1f0511aff043645a63de9b0f6d458b179d49b56f5bff2c3bc65c50f9e8843a&smart=true&width=1200&height=900",
-      "published": "2026-08-30 15:35:45",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "LADY's bold club outfit sparks a buzz - See trending PHOTOs",
-      "description": null,
-      "link": "https://www.kenyan-post.com/2026/08/ladys-bold-club-outfit-sparks-buzz-see.html",
-      "source": "Daily Post",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6DcANjXbCZ5ghyphenhyphenZ2f9gagGCMD6YI4d6iyV-a2160Hmqlv1RqHasAza5Kw5Vfex5G_zjmqWvPEhMlzc6KjTmfMpMiAxzgb-G035uSEc509o7ihhx5FG2PNPeUXK-6y8HdP6s_-cO8Kpeux1H5Uslmg3HvtGHaOJ_Q_spPi4UtWEhxYjQ3hMMhgGjLXQexK/s72-w426-h640-c/788261086_1476259587859986_2186598579094394372_n.jpg",
-      "published": "2026-08-30 15:35:42",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "kenya"
-      ]
-    },
-    {
-      "title": "Grammy-Winning Superstar\u2019s Concert Stage Catches Fire",
-      "description": "Taylor Hill / Taylor Hill, Getty Images Country star Kacey Musgraves was forced to stop her Boston concert Friday night after a small fire broke out above the stage. The Grammy-winning singer had just performed \u201cGolden Hour\u201d at TD Garden when a shower of sparks erupted in the rafters. \u201cThat looks bad. Genuinely, something\u2019s on fire,\u201d she told fans from the stage. \u201cI have way too much hairspray to be standing under that s\u2013t,\u201d she added. \u201cI only like pyro when I know what\u2019s going to happen\u201d and jokingly asked, \u201cDoes anybody have like a bedazzled fire extinguisher anywhere?\u201d A video on TikTok captured the moment, with one user commenting: \u201cyou can say it is a slow burn.\u201d Another quipped, \u201cYou set my world on fireeeeee.\u201d A third remarked that the small flame \u201cdied out [on] its own after three minutes or so.\u201d The Boston concert was a stop on Musgraves\u2019 \u201cMiddle of Nowhere\u201d tour. The tour kicked off earlier this month at the United Center in Chicago. Read it at TMZ Read more at The Daily Beast.",
-      "link": "https://www.thedailybeast.com/grammy-winning-superstar-kacey-musgraves-concert-stage-catches-fire/",
-      "source": "The Daily Beast",
-      "image": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/KQMCZN66RNBBZF3SJ4UA3LINSE.jpg?auth=09e315a2922a610363c7d6525c42cce62af26a97da7c7e439f40f8921353cdc0&smart=true&width=2978&height=1675",
-      "published": "2026-08-30 15:35:41",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Premier League 2026-27, Chelsea overcome Brighton in 7-goal thriller: Stats",
-      "description": "Chelsea continued their unbeaten streak in the ongoing Premier League season by defeating Brighton at Stamford Bridge.",
-      "link": "https://www.newsbytesapp.com/news/sports/chelsea-beat-brighton-4-3-in-premier-league-at-stamford-bridge/story",
-      "source": "Newsbytes",
-      "image": "https://i.cdn.newsbytesapp.com/images/l29520260830205927.jpeg",
-      "published": "2026-08-30 15:35:37",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\u2018It was very upsetting\u2019: India Day returns a year after being cancelled due to attacks",
-      "description": "Ireland India Council says vast majority of hostile phone calls it received before 2025 event was postponed originated from the US",
-      "link": "https://www.irishtimes.com/ireland/2026/08/30/it-was-very-upsetting-india-day-returns-a-year-after-being-cancelled-due-to-attacks/",
-      "source": "The Irish Times",
-      "image": "https://www.irishtimes.com/resizer/v2/XRTECMIJNFDLPJ53T2EF3M62DU.JPG?auth=1868fd9b724fee06210389046314dc0381c11228b5df41a357697bcbbf51b602&smart=true&width=630&height=350",
-      "published": "2026-08-30 15:35:36",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Delhi-Mumbai Expressway Update: Faridabad-Ashram Lane Set To Reopen Before Janmashtami; How Will It Benefit Commuters?",
-      "description": "The Faridabad-Ashram lane of the Delhi-Mumbai Expressways Jaitpur-DND Junction elevated flyover is set to reopen soon after safety work completion NHAI and Delhi Police will inspect the site with the lane expected to open before Janmashtami benefiting commuters to Delhi and beyond",
-      "link": "https://www.thedailyjagran.com/india/delhi-mumbai-expressway-update-faridabad-ashram-lane-set-to-reopen-before-janmashtami-details-10327198",
-      "source": "Jagran English",
-      "image": "https://images.thedailyjagran.com/article-img/2026/08/30/1200x675/Delhi-Mumbai-Expressway--1788103558347.webp",
-      "published": "2026-08-30 15:35:35",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "What is the secret to keeping a clean and happy house? Fascism apparently [Ironic]",
-      "description": null,
-      "link": "https://www.fark.com/comments/14180946",
-      "source": "Fark",
-      "image": "https://img.fark.net/pub/topics/ironic.gif",
-      "published": "2026-08-30 15:35:32",
-      "category": [
-        "lifestyle",
         "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Michigan\u2019s best pass rusher in camp? It\u2019s not who you might think",
+      "description": "While All-American John Henry Daley works his way back from injury, a junior defensive end has flashed in practice.",
+      "link": "https://www.mlive.com/wolverines/football/2026/08/michigans-best-pass-rusher-in-camp-its-not-who-you-might-think.html",
+      "source": "Mlive",
+      "image": "https://www.mlive.com/resizer/v2/5DL2HPJCMVFEPFG2PT2AFVBDHU.JPG?auth=e6d4d93c186d81c2c654455f53d755bfdc3cf33bf387586f64255fa8cabe6d06&smart=true&height=1200",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NFL preseason winners, losers: Cowboys look legit, Shedeur Sanders won hearts",
+      "description": null,
+      "link": "https://poststar.com/sports/professional/nfl/article_955a8bce-f06b-515a-a88f-3a778a14d4bd.html",
+      "source": "Post Star",
+      "image": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/4/97/49739b32-f2e0-5ee5-89fa-2c8965b11aa4/6a946c0478da2.image.jpg?resize=300%2C200",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Rawlins gets in win column",
+      "description": "RAWLINS -- The Rawlins Outlaws downed the Burns Broncs 21-8 to open the 2026 football season, snapping a 14-game losing streak that dated back to 2024.",
+      "link": "https://www.wyomingnews.com/rawlinstimes/rawlins-gets-in-win-column/article_22f7156b-20b1-46b8-b370-55a210800704.html",
+      "source": "Wyoming Tribune Eagle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/7/ac/7ac1f930-f0a6-4ec0-a129-555494f0a6ff/6a94ed10a836a.image.jpg?resize=300%2C200",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Carson City birth announcements for August 18 to 22, 2026",
+      "description": "Carson City birth announcements for August 18 to 22, 2026",
+      "link": "https://www.nevadaappeal.com/news/2026/aug/30/carson-city-birth-announcements-for-august-18-to-22-2026/",
+      "source": "Nevada Appeal",
+      "image": "https://nevadanewsgroup.media.clients.ellingtoncms.com/img/photos/2026/07/28/USE_Tile_birth_2026_t1200x630.jpeg?b488907419a4f4bb2699a58f7dac3d0615975bd7",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Coastal Cleanup Day returns to Lodi Lake, San Joaquin County on Sept. 19",
+      "description": "California Coastal Cleanup Day is just around the corner, and cleanup sites in Lodi and San Joaquin County need volunteers.",
+      "link": "https://www.lodinews.com/news/article_89b5dd91-0280-439e-832d-e2fe42623f18.html",
+      "source": "Lodinews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/lodinews.com/content/tncms/assets/v3/editorial/0/6f/06f40336-2a5b-4602-8df7-bc8bbce3a497/6a923a8484620.image.jpg?resize=300%2C200",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nex and Bandai Namco Entertainment America Inc. Announce Collaboration to Bring PAC-MANTM to Nex Playground in Q3 2026",
+      "description": "\u2013Nex, maker of Nex Playground, the active play system that gets families moving together, has entered a licensing partnership with Bandai Namco Entertainment America Inc., to bring PAC-MANTM on NEX to the console later this year. The collaboration introduces one of gaming\u2019s most enduring franchises to a new generation of families while expanding Nex Playground\u2019s growing library ...",
+      "link": "https://cerebral-overload.com/2026/08/nex-and-bandai-namco-entertainment-america-inc-announce-collaboration-to-bring-pac-man-to-nex-playground-in-q3-2026/",
+      "source": "Cerebral-overload",
+      "image": "https://cerebral-overload.com/wp-content/uploads/2026/08/bandai-namco-logo.webp",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "3 ASX dividend shares raising dividends like clockwork",
+      "description": "I like stocks with impressive records of regular dividend growth. The post 3 ASX dividend shares raising dividends like clockwork appeared first on The Motley Fool Australia .",
+      "link": "https://www.fool.com.au/2026/08/31/3-asx-dividend-shares-raising-dividends-like-clockwork-9/",
+      "source": "Fool Australia",
+      "image": "https://www.fool.com.au/wp-content/uploads/2022/02/growth-shares-12-16.9-1200x675.jpg",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Zambia Follows MP\u2019s Kuno Model For Cheetahs, Plans 2,000-Hectare Soft Release Boma",
+      "description": "MP\u2019s Kuno National Park\u2019s cheetah conservation model is finding an international taker, with Zambia adopting its quarantine, soft-release and round-the-clock monitoring approach. Six cheetahs translocated from South Africa to Zambia are expected to undergo quarantine before entering a planned 2,000-hectare soft-release boma and eventually being released into the wild.",
+      "link": "https://www.freepressjournal.in/bhopal/zambia-follows-mps-kuno-model-for-cheetahs-plans-2000-hectare-soft-release-boma",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-30/q4vsjozh/Kuno-cheetah.jpg",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Outsider Employees\u2019 Union Allegedly Occupies Bhopal Municipal Corporation Property, Breaks Locks To Set Up Office",
+      "description": "A BMC property near Kamla Park in Bhopal has allegedly been occupied by an outsider employees\u2019 union, which reportedly replaced the civic body\u2019s locks and converted the premises into an office. After two notices to vacate went unanswered, BMC officials are preparing to remove the belongings and reclaim the property.",
+      "link": "https://www.freepressjournal.in/bhopal/outsider-employees-union-allegedly-occupies-bhopal-municipal-corporation-property-breaks-locks-to-set-up-office",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-30/sw4g8zr1/News-2026-08-30T215405.875.jpg",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Passion for church leads Bullock to new business idea",
+      "description": "BELOIT \u2014 Michelle Bullock has \u201cadmired from afar\u201d what was formerly known as Rock County Jumpstart since moving to Beloit in 2022.",
+      "link": "https://www.beloitdailynews.com/news/business-news/passion-for-church-leads-bullock-to-new-business-idea/article_f92f423a-d0b6-4310-8ee7-40247a028794.html",
+      "source": "Beloit Daily News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/d/15/d158c5d9-efc0-4b9a-a0b4-9a4417f51706/6a9494e638669.image.jpg?resize=300%2C225",
+      "published": "2026-08-30 22:30:00",
+      "category": [
+        "business",
         "top"
       ],
       "country": [

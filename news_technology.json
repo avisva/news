@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Electric vs ICE: which cars under 4 million rubles are cheapest to own",
-      "description": "Buyers looking for a vehicle under 4 million rubles in the Russian market face a choice between low initial purchase prices and long-term ownership costs. Russian dealers have identified a list of models where the combination of purchase price, fuel expenses, service maintenance, and parts availability results in the lowest total cost of ownership. Ownership cost drivers: The final expense is determined by the purchase price, fuel or electricity costs, scheduled maintenance (TO), insurance, taxes, and projected depreciation during resale. The Evolute i-JOY electric vehicle is ranked as the most economical option. This is attributed to the absence of an internal combustion engine (ICE) and complex transmission, which lowers maintenance costs, combined with the low price of electricity. Additionally, government support programs reduce the initial financial burden for buyers.",
-      "link": "https://english.pravda.ru/news/auto/168413-cheapest-car-ownership/",
-      "source": "Pravda",
-      "image": "https://english.pravda.ru/image/preview/article/4/1/3/168413_amp.jpeg",
-      "published": "2026-08-30 15:36:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "russia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

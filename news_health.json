@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "India, Brazil reaffirm $30 billion trade target by 2030; Brazil to widen pharma market access",
+      "description": "India and Brazil aim for $30 billion trade by 2030, with Brazil opening market access for Indian pharma. They discussed diversified trade, MERCOSUR, and cooperation in BRICS, G20.",
+      "link": "https://www.cnbctv18.com/economy/india-brazil-reaffirm-30-billion-trade-target-by-2030-brazil-to-widen-pharma-market-access-19980191.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/india-brazil-meet-2026-08-b2373be99b11eeb2f92138fd857f47da.jpg",
+      "published": "2026-08-31 05:50:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Type 2 diabetes may trigger different health risks in men and women",
+      "description": "Type 2 diabetes may trigger different health risks in men and women",
+      "link": "https://www.indiatoday.in/health/story/type-2-diabetes-may-trigger-different-health-risks-in-men-and-women-2983435-2026-08-31",
+      "source": "India Today",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/diabetes-20283151-16x9.jpg?VersionId=pD4faLTaYi36RBifZCiz7L8IZnlHcLYk&size=1280:720",
+      "published": "2026-08-31 05:50:32",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

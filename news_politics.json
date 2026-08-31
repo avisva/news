@@ -1,36 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "'Idiots': Webster slams critics as Wahs eye first place",
-      "description": "Coach Andrew Webster has lashed out at criticism su...",
-      "link": "https://nit.com.au/31-08-2026/26204/idiots-webster-slams-critics-as-wahs-eye-first-place",
-      "source": "National Indigenous Times",
-      "image": "https://cdn.nit.com.au/storage/hgUwGvkdzpuRbJgAy8PLjWXE0np4OyYIZZ47vZdn.jpg",
-      "published": "2026-08-30 22:30:00",
-      "category": [
-        "sports",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Outsider Employees\u2019 Union Allegedly Occupies Bhopal Municipal Corporation Property, Breaks Locks To Set Up Office",
-      "description": "A BMC property near Kamla Park in Bhopal has allegedly been occupied by an outsider employees\u2019 union, which reportedly replaced the civic body\u2019s locks and converted the premises into an office. After two notices to vacate went unanswered, BMC officials are preparing to remove the belongings and reclaim the property.",
-      "link": "https://www.freepressjournal.in/bhopal/outsider-employees-union-allegedly-occupies-bhopal-municipal-corporation-property-breaks-locks-to-set-up-office",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-30/sw4g8zr1/News-2026-08-30T215405.875.jpg",
-      "published": "2026-08-30 22:30:00",
+      "title": "Family received only 'half justice', says Ankit Balyan's father after UP Police encounter",
+      "description": "Satbir Singh said that while the family is satisfied with the police action, they believe that justice will be fully served only when the remaining suspects are eliminated.",
+      "link": "https://www.newindianexpress.com/states/uttar-pradesh/2026/Aug/31/family-received-only-half-justice-says-ankit-balyans-father-after-up-police-encounter",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-08-31/81xk4f4o/202608313924351.jpg?w=280",
+      "published": "2026-08-31 05:50:41",
       "category": [
         "top",
         "politics"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Trump posts AI video of Iran's Kharg oil hub in \u2018smithereens\u2019 as sides trade first attacks since July",
+      "description": "U.S. President Donald Trump posted an AI-generated video clip that he said was Iran\u2019s oil hub Kharg Island being blown to smithereens, hours after the two countries traded attacks for the first time since July.",
+      "link": "https://www.independent.ie/world-news/trump-posts-ai-video-of-irans-kharg-oil-hub-in-smithereens-as-sides-trade-first-attacks-since-july/a/160731770.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-08-31 05:50:36",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Who is Firdaus Daud, the lawyer taking over Faishal Ibrahim\u2019s grassroots responsibilities in Kembangan?",
+      "description": "Ahmad Firdaus Daud, a lawyer and PAP reserve candidate in the 2025 General Election, will be taking over former Acting Minister-in-charge of Muslim Affairs Faishal Ibrahim\u2019s grassroots responsibilities in Kembangan.",
+      "link": "https://www.stomp.sg/in-a-nutshell/who-firdaus-daud-lawyer-taking-over-faishal-ibrahims-grassroots-responsibilities-kembangan",
+      "source": "Stomp",
+      "image": null,
+      "published": "2026-08-31 05:50:35",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "singapore"
       ]
     }
   ]

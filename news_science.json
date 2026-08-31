@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Is Meteoric (ASX:MEI) Changing the Rare Earth Minerals Debate?",
+      "description": "Meteoric in focus as rare earth minerals conditions, operating execution and sector developments reshape the company-specific market discuss",
+      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/is-meteoric-asxmei-changing-the-rare-earth-minerals-debate",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Goldnmini_06_25_2026_06_45_46_634699.jpg",
+      "published": "2026-08-31 10:26:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Why Is Lynas (ASX:LYC) Shaping Rare Earth Minerals?",
+      "description": "Lynas in focus as rare earth minerals conditions, operating execution and sector developments reshape the company-specific market discussion",
+      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/why-is-lynas-asxlyc-shaping-rare-earth-minerals",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Uranium_07_08_2026_10_31_07_167707.jpg",
+      "published": "2026-08-31 10:26:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

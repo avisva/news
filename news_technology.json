@@ -1,37 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "New free, open-source video editor update brings offline AI subject masking and pro color scopes",
-      "description": "OpenShot 4.0 is now available for Linux, Windows and macOS. The GPLv3 editor gets a color grading view with wheels, curves, scopes and LUT support, a recording view for screen and webcam capture, ten new effects, and subject masking that runs offline.",
-      "link": "https://www.notebookcheck.net/New-free-open-source-video-editor-update-brings-offline-AI-subject-masking-and-pro-color-scopes.1383937.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OpenShot-video-editor.png",
-      "published": "2026-08-31 13:37:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "This soft robot jumps under infrared light without needing a reset",
-      "description": "US researchers develop soft robots that use infrared light to jump repeatedly without motors, batteries or external resetting.",
-      "link": "https://us.headtopics.com/news/this-soft-robot-jumps-under-infrared-light-without-needing-87230302",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/31/intengineering/this-soft-robot-jumps-under-infrared-light-without-this-soft-robot-jumps-under-infrared-light-without-39F56CC5563D301F008C048119C10F8E-16x9.webp",
-      "published": "2026-08-31 13:36:57",
-      "category": [
-        "science",
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

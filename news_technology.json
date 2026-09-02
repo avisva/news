@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "BMW Accused Of Misleading 'Lifetime' Fluid In Drive System",
-      "description": null,
-      "link": "https://www.law360.com/articles/2519821/bmw-accused-of-misleading-lifetime-fluid-in-drive-system",
-      "source": "Law360",
-      "image": null,
-      "published": "2026-09-01 22:36:57",
+      "title": "Smartwatches may overestimate calories burned during exercise",
+      "description": "Smartwatches can significantly overestimate how many calories people burn during exercise, and their calorie estimates become less accurate as body fat increases, according to a new Florida International University study.",
+      "link": "https://www.news-medical.net/news/20260901/Smartwatches-may-overestimate-calories-burned-during-exercise.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
+      "published": "2026-09-02 02:56:57",
       "category": [
-        "technology",
-        "top"
+        "technology"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Which auto stocks should you buy after August sales? Here's what Jefferies, Nomura, Citi say",
+      "description": "Compared with Jefferies' estimates, August wholesales were broadly in line for Maruti Suzuki, Hero MotoCorp and Hyundai, while the rest of the automakers came in ahead of expectations.",
+      "link": "https://www.cnbctv18.com/market/auto-stocks-to-buy-august-sales-bajaj-auto-tata-motors-mahindra-mahindra-maruti-suzuki-jefferies-nomura-citi-picks-19981978.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-2938f91b220801dddbdbd270e1a45332.jpg",
+      "published": "2026-09-02 02:56:49",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Research: Nordics spend \u20ac280m a year on pirate streaming",
+      "description": "In spring 2026, almost one in ten households across Denmark, Finland, Norway and Sweden had access to illegal IPTV. These households report paying an average of approximately \u20ac20 per month, according to research from Mediavision. Together, this amounts to more than \u20ac23 million per month and close to \u20ac280 million a year. \u201cClose to 1.2 [...]",
+      "link": "https://www.advanced-television.com/2026/09/02/research-nordics-spend-e280m-a-year-on-pirate-streaming/",
+      "source": "Advanced-television",
+      "image": null,
+      "published": "2026-09-02 02:56:42",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

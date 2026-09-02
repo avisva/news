@@ -1,63 +1,48 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Pirates avoid near-disastrous collapse, outlast Giants in walk-off victory",
-      "description": "PITTSBURGH \u2014 On paper this was supposed to be a pitching duel. The reigning National League Cy Young winner and the award\u2019s fourth-place finisher last season. Yet a pitching duel it certainly was not. Paul Skenes gave up five runs...",
-      "link": "https://thebrunswicknews.com/sports/national_sports/pirates-avoid-near-disastrous-collapse-outlast-giants-in-walk-off-victory/article_3b5cb6b7-a312-5032-8b00-fee053b6a1f6.html",
-      "source": "The Brunswick News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/5/28/528f8d94-b4a1-5b8c-acf2-5d58ec3a7522/6a979651c1d76.image.jpg?resize=300%2C215",
-      "published": "2026-09-02 02:57:00",
+      "title": "Colts GM Chris Ballard sends strong message amid Keenan Allen\u2019s arrest",
+      "description": "Indianapolis Colts general manager Chris Ballard appears to be a big believer in second chances. The Colts granted Keenan Allen such a chance when the team decided not to cut the veteran wide receiver after he was arrested over two misdemeanor drunken-driving charges.",
+      "link": "https://www.yardbarker.com/nfl/articles/colts_gm_chris_ballard_sends_strong_message_amid_keenan_allens_arrest/s1_127_44249120",
+      "source": "Yardbarker",
+      "image": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_1123,w_2000,x_0,y_0/c_fill,f_auto,h_1215,q_auto,w_2160/v1/m/6/b/6b900f50cd7d732bdf9b60782b4836e148efebd7/jul-30-2026-westfield-usa-indianapolis-colts-gm.jpg",
+      "published": "2026-09-02 06:27:58",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Orlando Pirates must address defensive and midfield vulnerabilities despite impressive start,",
+      "description": "Orlando Pirates are enjoying a strong season, but coach Abdeslam Ouaddou must address defensive vulnerabilities and midfield cohesion to maintain their impressive early title momentum.",
+      "link": "https://www.iol.co.za/sport/soccer/psl/orlando-pirates-must-address-defensive-and-midfield-vulnerabilities-despite-impressive-start-66605717-75da-4c34-8bf7-979d49c88916",
+      "source": "Iol",
+      "image": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/a3853288ad4aa99fe54a66fe9bb24ac503fe1893/2041&operation=CROP&offset=0x0&resize=2041x1148",
+      "published": "2026-09-02 06:27:45",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Rotterdam hold their nerve to down Glasgow Cosmic by five wickets in dramatic finish",
+      "description": "Rotterdam Dockers held their nerve in a dramatic finish to defeat Glasgow Cosmic by five wickets, chasing down 141 with just one ball remaining in Match 9 of the ETPL at Sportpark Westvliet, The Hague, Netherlands, on Tuesday. \u201cA little bit nervous on whether you\u2019re going to get over the line. You call that a [...]",
+      "link": "https://khelkhiladis.com/rotterdam-hold-their-nerve-to-down-glasgow-cosmic/",
+      "source": "Khel Khiladis.com",
+      "image": "https://khelkhiladis.com/wp-content/uploads/2026/09/ETPL-Ben-Manenti-and-Ben-Mcdermott.jpeg",
+      "published": "2026-09-02 06:27:41",
       "category": [
         "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Bucs, Panthers, Falcons and Saints all contenders in NFC South",
-      "description": "How many wins will it take to win the NFC South this season?",
-      "link": "http://www.mynews13.com/fl/orlando/sports/2026/09/02/tampa-bay-buccaneers--nfc-south",
-      "source": "Spectrum News 13",
-      "image": "https://s7d2.scene7.com/is/image/TWCNews/9-1-26_Baker_Mayfield",
-      "published": "2026-09-02 02:57:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Babar Azam down with high fever amid PCB fiasco ahead of 3rd Test vs England",
-      "description": "Adding to an already chaotic situation within the touring contingent, Pakistan captain Babar Azam has fallen ill with a high fever as the squad prepares for the third Test against England at Edgbaston.",
-      "link": "https://zeenews.india.com/cricket/babar-azam-down-with-high-fever-amid-pcb-fiasco-ahead-of-3rd-test-vs-england-3069581.html",
-      "source": "Zee News",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/09/02/1978843-fotojet-2026-09-01t183047.044.jpg",
-      "published": "2026-09-02 02:57:00",
-      "category": [
         "sports"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Wallabies back Kiss as Australia chase fifth straight win",
-      "description": "MENDOZA: New Australia coach Les Kiss has got the seal of approval from his players as the Wallabies look to extend their winning streak to five matches when they take on Argentina in the second test in Mendoza on Saturday.",
-      "link": "https://www.nst.com.my/sports/others/2026/09/1524016/wallabies-back-kiss-australia-chase-fifth-straight-win",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/1C7B6E9A21E1647013191CD95FEA3983_data_0.jpg",
-      "published": "2026-09-02 02:56:48",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "malaysia"
       ]
     }
   ]

@@ -1,26 +1,36 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "SBC Medical to Participate in Several Upcoming Investor Conferences in September 2026",
-      "description": "IRVINE, Calif.--(BUSINESS WIRE)-- #Healthcare--SBC Medical will be conducting a Non-Deal Roadshow (NDR) and participating in several investor conferences throughout September 2026.",
-      "link": "http://www.businesswire.com/news/home/20260901566839/en/SBC-Medical-to-Participate-in-Several-Upcoming-Investor-Conferences-in-September-2026/",
-      "source": "Businesswire",
-      "image": "https://mms.businesswire.com/media/20260901566839/en/2887202/21/SBCMG_%E9%95%B7%E6%96%B9%E5%BD%A2.jpg",
-      "published": "2026-09-01 17:35:00",
+      "title": "Prostate Cancer Awareness Month promotes early testing for curable disease",
+      "description": "Prostate cancer is a disease that physicians say if detected early is highly curable. September is Prostate Cancer Awareness Month and survivors and advocates gather at the State Capitol to ask men to get tested.",
+      "link": "https://www.wlbt.com/2026/09/01/prostate-cancer-awareness-month-promotes-early-testing-curable-disease/",
+      "source": "Wlbt",
+      "image": "https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/ITUIROVBGVBS3PIPFIYQ64QEDY.png?auth=7e6830c8aaa7d95ca68777416bb92d8a6faf40929d25d4d4568b7d483f13faaa&width=1200&height=600&smart=true",
+      "published": "2026-09-01 22:36:56",
       "category": [
+        "top",
         "health"
       ],
       "country": [
-        "united kingdom",
-        "canada",
-        "australia",
-        "japan",
-        "france",
-        "united states of america",
-        "germany",
-        "china"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Federal funding arrives as hospital closures continue across Georgia",
+      "description": "The closed Hancock County hospital illustrates the health care problem faced by rural communities across Georgia. Will federal funding help?",
+      "link": "https://www.wrdw.com/2026/09/01/federal-funding-arrives-hospital-closures-continue-across-georgia/",
+      "source": "Https://www.wrdw.com",
+      "image": "https://gray-wrdw-prod.gtv-cdn.com/resizer/v2/6XBLRREYYBGK3I7CRJYBLKSGNM.png?auth=581786a84eaea4e184d5189db28d4913d4133319734755f9b6b7c9b71842328b&width=1200&height=600&smart=false&focal=1033%2C470",
+      "published": "2026-09-01 22:36:49",
+      "category": [
+        "top",
+        "crime",
+        "health"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

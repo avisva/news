@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "QC Ware and IonQ Demonstrate High-Precision Hybrid Quantum Workflow for Drug Discovery",
+      "description": "Joint test on IonQ Forte hardware lands within 4% of benchmark, clearing the chemical-accuracy bar for enzyme active-site modeling via Amazon Braket PALO ALTO, Calif., Sept. 1, 2026 /PRNewswire/ -- QC Ware today announced a technology demonstration of a hybrid quantum-classical chemistry workflow u...",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=223456",
+      "source": "It\ube44\uc988\ub274\uc2a4",
+      "image": "https://cdn.itbiznews.com/news/photo/202609/223456_226568_1507.jpg",
+      "published": "2026-09-01 12:57:57",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "south korea"
+      ]
+    }
+  ]
 }

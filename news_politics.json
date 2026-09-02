@@ -1,36 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Ex-prosecutor who accused boss of rape urges reform",
-      "description": "Japan's Public Prosecutor's Office has recently been rocked by a series of scandals involving misconduct by elite prosecutors.",
-      "link": "https://www.japantimes.co.jp/news/2026/09/01/japan/crime-legal/ex-prosecutor-rape-reform/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/560698.png",
-      "published": "2026-09-01 10:59:00",
+      "title": "Defense Forces debunk Russian claim of capturing Mohrytsia in Sumy region",
+      "description": "The Ukrainian military has debunked a Russian false claim about the alleged capture of Mohrytsia in the Sumy region; our soldiers recorded a video showing the Ukrainian flag flying in the village.",
+      "link": "https://www.ukrinform.net/rubric-ato/4159778-defense-forces-debunk-russian-claim-of-capturing-mohrytsia-in-sumy-region.html",
+      "source": "Ukrinform",
+      "image": "https://static.ukrinform.com/photos/2024_08/thumb_files/630_360_1724417606-860.jpg",
+      "published": "2026-09-01 12:58:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "japan"
+        "ukraine"
       ]
     },
     {
-      "title": "Jakim to summon M'sian linked to Miss Equality World",
-      "description": "Director-general Sirajuddin Suhaimee says Jakim and state Islamic religious authorities will not tolerate efforts to normalise such conduct.",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/09/01/jakim-to-summon-m-sian-linked-to-miss-equality-world",
-      "source": "Free Malaysia Today",
-      "image": "https://media.freemalaysiatoday.com/v3/2026/09/1ebeb960-f6e8-4a30-9f22-c82a1def1594-Sirajuddin-Suhaimee-fbpic-010926.jpg",
-      "published": "2026-09-01 10:59:00",
+      "title": "As Hegseth\u2019s Pentagon purge intensifies, will anyone save the U.S. Army?",
+      "description": "\u201cIt is far past time for President Trump to recognize the lasting harm that Pete Hegseth is inflicting on the Department of Defense,\u201d one senator said. The post As Hegseth\u2019s Pentagon purge intensifies, will anyone save the U.S. Army? appeared first on MS NOW .",
+      "link": "https://www.ms.now/rachel-maddow-show/maddowblog/driscoll-hegseth-army-pentagon-defense-purge",
+      "source": "Ms Now",
+      "image": "https://www.ms.now/wp-content/uploads/2026/09/260901-pete-hegseths-pentagon-military-personnel-purge-pi.webp",
+      "published": "2026-09-01 12:57:58",
       "category": [
         "top",
-        "politics",
-        "lifestyle"
+        "politics"
       ],
       "country": [
-        "malaysia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The Latest: Army Secretary Dan Driscoll is stepping down, White House says",
+      "description": "Army Secretary Dan Driscoll is stepping down. An Army official told The Associated Press on condition of anonymity that his departure followed a conversation Driscoll had with President Donald Trump about the current state of the Army. A whistleblower says...",
+      "link": "https://www.dailyadvance.com/news/national/the-latest-army-secretary-dan-driscoll-is-stepping-down-white-house-says/article_40033e69-af0e-5b14-9262-996702c42b1d.html",
+      "source": "Dailyadvance",
+      "image": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/0/c6/0c6746f1-dd09-504f-b0eb-2621e5a20818/6a8f466fbe820.image.jpg?resize=300%2C200",
+      "published": "2026-09-01 12:57:54",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

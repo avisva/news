@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Acupressure mats can help you relax at home",
+      "description": "Acupressure mats are becoming increasingly popular as a tool for relaxation and wellness.",
+      "link": "https://www.newsbytesapp.com/news/lifestyle/acupressure-mats-your-guide-to-daily-relaxation/story",
+      "source": "Newsbytes",
+      "image": "https://i.cdn.newsbytesapp.com/images/l20320260903124213.jpeg",
+      "published": "2026-09-03 07:37:40",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

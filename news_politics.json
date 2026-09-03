@@ -1,34 +1,65 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Commentary: Derecho recovery continues, so should preparation",
-      "description": "The Minnesota Department of Commerce met many families who shared their stories. In our community meetings, one theme came up repeatedly: frustration that people weren\u2019t as covered by their insurance as they expected.",
-      "link": "https://www.bemidjipioneer.com/opinion/commentary-derecho-recovery-continues-so-should-preparation",
-      "source": "The Bemidji Pioneer",
-      "image": "https://cdn.forumcomm.com/dims4/default/0714dd6/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Feb%2Fcc%2F5e2b13254eef8c74be0cc52bc8d2%2F090226-op-bp-mncommerce.png",
-      "published": "2026-09-02 11:50:00",
+      "title": "Calls to slap 'lazy' school-run parents with \u00a360 pavement parking fines",
+      "description": "New restrictions are being introduced in three more Stoke-on-Trent streets this week",
+      "link": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/residents-welcome-school-run-vehicle-11136287",
+      "source": "Stoke-on-trent Live",
+      "image": "https://i2-prod.stokesentinel.co.uk/incoming/article11136284.ece/ALTERNATES/s615/0_Stockfield-Road-in-Meir.jpg",
+      "published": "2026-09-02 14:55:00",
       "category": [
+        "top",
+        "crime",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Trump's boat strikes are illegal. Does it matter? (Jeffrey Stein/The Hill)",
-      "description": "Jeffrey Stein / The Hill : Trump's boat strikes are illegal. Does it matter? \u2014 On Oct. 12 of last year, Chad Joseph and Rishi Samaroo boarded a small boat docked just beyond a Venezuelan beach. The two Trinidadian men had recently fished together and picked up work as farm hands in Venezuela, but it was time for them to get back to Trinidad.",
-      "link": "https://www.memeorandum.com/260902/p15",
-      "source": "Memeorandum",
-      "image": null,
-      "published": "2026-09-02 11:50:00",
+      "title": "Pakistan says continued talks on Afghanistan depend on action against terrorist groups",
+      "description": "Tahir Andrabi, spokesperson for Pakistan\u2019s Ministry of Foreign Affairs, says Islamabad appreciates China\u2019s constructive engagement on issues related to Afghanistan and has always been ready for constructive dialogue on Afghanistan. Speaking at a press briefing, Andrabi said that the continuation of these talks depends on the Islamic Emirate taking action against the Tehreek-e-Taliban Pakistan (TTP), [...] The post Pakistan says continued talks on Afghanistan depend on action against terrorist groups first appeared on Ariana News | Afghanistan News .",
+      "link": "https://www.ariananews.af/pakistan-says-continued-talks-on-afghanistan-depend-on-action-against-terrorist-groups/",
+      "source": "Ariana News",
+      "image": "https://www.ariananews.af/wp-content/uploads/2026/09/Andarbi.png",
+      "published": "2026-09-02 14:54:57",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "afghanistan"
+      ]
+    },
+    {
+      "title": "EU budget talks move to Dublin with frugal states and cohesion camp still locked in stalemate",
+      "description": "The Irish EU-presidency has prepared a document hoping to \u201caid consideration\u201d and smooth over differences that have gridlocked negotiations since June.",
+      "link": "https://euobserver.com/234752/eu-budget-talks-move-to-dublin-with-frugal-states-and-cohesion-camp-still-locked-in-stalemate/",
+      "source": "Euobserver",
+      "image": "https://static.euobserver.com/2026/09/The_Dubhlinn_Gardens_Dublin_Castle_01-2400x1600.jpg",
+      "published": "2026-09-02 14:54:45",
+      "category": [
+        "politics",
+        "world"
+      ],
+      "country": [
+        "czech republic",
+        "italy",
+        "sweden",
+        "romania",
+        "ireland",
+        "spain",
+        "austria",
+        "finland",
+        "belgium",
+        "greece",
+        "portugal",
+        "france",
+        "germany",
+        "denmark",
+        "hungary"
       ]
     }
   ]

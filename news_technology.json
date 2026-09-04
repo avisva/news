@@ -1,58 +1,28 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Tesla launches self-driving 'Cybercab' in Texas",
-      "description": "Electric-vehicle maker Tesla announced the debut of its self-driving robotaxi, dubbed \"Cybercab,\" on Thursday in a bid to compete with the likes of Uber and Waymo.",
-      "link": "https://www.abs-cbn.com/news/technology/2026/9/4/tesla-launches-self-driving-cybercab-in-texas-1045",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/20260904030940/da69ef1ec080ef1cf0f6acaac8891cb5da0f491e1d958b1dea57b5aa9c84d257.jpg",
-      "published": "2026-09-04 02:45:45",
+      "title": "Lenovo, Acer to launch Nvidia RTX Spark-powered Windows PCs in October",
+      "description": "Nvidia's RTX Spark platform will power Windows PCs from Lenovo and Acer in October, bringing local AI capabilities to developers, creators and enthusiasts, alongside AI agents and gaming",
+      "link": "https://www.business-standard.com/technology/tech-news/lenovo-acer-to-launch-nvidia-rtx-spark-powered-windows-pcs-in-october-126090400378_1.html",
+      "source": "Business Standard",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260904/thumb-126090400378.jpg",
+      "published": "2026-09-04 06:04:00",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "philippines"
+        "india"
       ]
     },
     {
-      "title": "SEVA And MIE Group Partner To Co-Host EV & Mobility Show Saudi Arabia 2026",
-      "description": "(MENAFN - Mid-East Info) Strategic partnership brings together Saudi market expertise and international exhibition capabilities to strengthen the Kingdom's electric vehicle and future mobility ...",
-      "link": "https://menafn.com/1111620597/SEVA-And-MIE-Group-Partner-To-Co-Host-EV-Mobility-Show-Saudi-Arabia-2026",
-      "source": "Menafn",
+      "title": "India Post Goes Digital: Comprehensive Guide to Online Postal and Banking Services",
+      "description": "India Post Goes Digital: eBook Highlights Wide Range of Online Postal Services The Department of Posts has brought together a comprehensive overview of its digital and online services through a newly prepared eBook on Online Services by Chikkamagaluru Division. The eBook aims to create awareness among customers, postal employees, administrators and the public about the growing range of technology-enabled services offered by India Post. Download India Post Goes Digital: eBook Highlights Wide Range of Online Postal Services in PDF Wide Range of Online Services The eBook covers several important digital services available through India Post, including: Online postal booking and customer self-service facilities Dak Sewa App Post Office Savings Bank Internet Banking India Post ATM services India Post Payments Bank (IPPB) Online article tracking Online postage calculation PIN code and Post Office search PLI premium payment PLI payment through UPI Digital PLI/RPLI policy bonds through DigiLocker e-Post Office services Online complaint registration. Convenient Tracking and Postage Calculation Customers can track Speed Post, Parcels, eMO and other postal articles online using the India Post website, Self-Service Portal or Dak Sewa App. The eBook explains that customers can enter the 13-digit consignment number to obtain tracking information. Similarly, postage can be calculated online by entering the origin and destination PIN codes, article type and weight. The facility is available through the India Post website, Self-Service Portal and Dak Sewa App. Enhanced Post Office Internet Banking The eBook highlights several Internet Banking facilities for Post Office Savings Bank customers. These include fund transfers, account-related services, transaction history, PPF and SSA/SCSS deposits, NEFT/RTGS and bill payments. A notable recent facility is online nominee management, allowing customers to add, modify or delete nominee details through Internet Banking. The eBook also mentions personalized cheque-book facilities and annual interest-statement downloads. IPPB and Doorstep Banking The eBook gives significant coverage to India Post Payments Bank, including digital account opening, Aadhaar-based authentication, fund transfers, AePS, QR-based transactions, POSA linkage, bill payments and Direct Benefit Transfer. IPPB also enables doorstep banking, under which postmen and Grameen Dak Sevaks can provide several banking services at customers' homes using handheld devices. Other services highlighted include insurance and loan referral services, online payments for Post Office schemes, Aadhaar-related services and Digital Life Certificate facilitation. Digital PLI/RPLI Policy Bonds Another important digital initiative covered in the eBook is the availability of PLI/RPLI policy documents through DigiLocker. Aadhaar authentication, digital signatures and encrypted QR codes help improve the verifiability and security of digital policy bonds. Towards a Citizen-Centric Digital India Post The eBook reflects the continuing transformation of India Post from a traditional postal network into a technology-enabled, customer-centric service organisation. By bringing postal booking, tracking, banking, insurance, payments, Aadhaar services and grievance registration closer to citizens through digital channels, India Post is strengthening convenience, transparency and accessibility. The initiative is also intended to improve awareness and encourage greater use of online facilities among customers across urban and rural India. Postal study for the purpose of postal exams",
+      "link": "https://www.postalstudy.in/2026/09/india-post-goes-digital-comprehensive.html",
+      "source": "Postalstudy | Post Office Blog | Materials For | E",
       "image": null,
-      "published": "2026-09-04 02:45:40",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "saudi arabia",
-        "united arab emirates",
-        "lebanon",
-        "libya",
-        "tunisia",
-        "yemen",
-        "iraq",
-        "syria",
-        "egypt",
-        "bahrain",
-        "morocco",
-        "qatar",
-        "algeria",
-        "kuwait",
-        "jordan"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy Book 6 14-inch takes on Apple\u2019s MacBook Neo: We find out which is right for you",
-      "description": "For less than Rs 80,000, Apple thinks that the MacBook Neo is all the laptop you\u2019d ever need. With an AI-capable iPhone chip, a solid metal body and a solid battery, the MacBook Neo promises to deliver a no-nonsense basic computing experience without offering excess of anything. It reset expectations of consumers for this entry-level laptop segment, despite not being the greatest like some of its Windows counterparts. The Dell XPS 13 2026 edition we had a look at last month proved the same.",
-      "link": "https://telecomlive.in/web/2026/09/04/samsung-galaxy-book-6-14-inch-takes-on-apples-macbook-neo-we-find-out-which-is-right-for-you/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-09-04 02:45:23",
+      "published": "2026-09-04 06:03:55",
       "category": [
         "top",
         "technology"
@@ -62,18 +32,65 @@
       ]
     },
     {
-      "title": "Canva unlocks recurring cardless payments in South Africa via Capitec Pay",
-      "description": "Canva became the first merchant to integrate Capitec Pay recurring payments through EBANX offering South African users cardless account to account subscription access",
-      "link": "https://vir.com.vn/canva-unlocks-recurring-cardless-payments-in-south-africa-via-capitec-pay-160082.html",
-      "source": "Vietnam Investment Review - Vir",
-      "image": "https://vir.com.vn/stores/news_dataimages/2026/092026/04/09/in_social/804771-ebanx-canva-capitec-jpg-120260904094428.jpeg?randTime=1788491376",
-      "published": "2026-09-04 02:45:20",
+      "title": "XPON Technologies Director James Olsen Converts 4 Million Performance Rights into Shares",
+      "description": null,
+      "link": "https://kalkinemedia.com/au/news/announcements/xpon-technologies-director-james-olsen-converts-4-million-performance-rights-into-shares",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2769732347_07_03_2026_00_19_23_867228.jpg",
+      "published": "2026-09-04 06:03:53",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "XPON Technologies Group Director Mark Simari Converts Over 6.3 Million Performance Rights into Shares",
+      "description": null,
+      "link": "https://kalkinemedia.com/au/news/announcements/xpon-technologies-group-director-mark-simari-converts-over-63-million-performance-rights-into-shares",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2765269355_07_02_2026_23_45_45_484072.jpg",
+      "published": "2026-09-04 06:03:53",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "vietnam"
+        "australia"
+      ]
+    },
+    {
+      "title": "Xpon Technologies Group Converts Performance Rights, Issues Over 10 Million New Shares",
+      "description": null,
+      "link": "https://kalkinemedia.com/au/news/announcements/xpon-technologies-group-converts-performance-rights-issues-over-10-million-new-shares",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/Stockmar_05_11_2026_00_51_12_865957.jpg",
+      "published": "2026-09-04 06:03:53",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "THE HACK: SOTEU prep in full swing",
+      "description": "In today's edition: Google break-up, G7 cyber, Meta enforcement",
+      "link": "https://www.euractiv.com/news/the-hack-soteu-prep-in-full-swing/",
+      "source": "Euractiv | \u0218tiri, Politici Europene & Actori Ue On",
+      "image": "https://www.euractiv.com/content/uploads/sites/2/2025/10/thumbnail_Thumbnails-04-1182x788.png",
+      "published": "2026-09-04 06:03:51",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "romania"
       ]
     }
   ]

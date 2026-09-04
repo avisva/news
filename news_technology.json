@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "All set for ISRO's state-of-art imaging satellite launch, first from Geosynchronous orbit",
+      "description": "ISRO has commenced the countdown for the launch of a state-of-the-art Earth observation spacecraft on Friday, which will be India's first ever imaging satellite from the Geosynchronous orbit, official sources said.",
+      "link": "https://www.deccanherald.com/india/all-set-for-isros-state-of-art-imaging-satellite-launch-first-from-geosynchronous-orbit-4134092",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-09-03/1doikda2/Images-6.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-09-03 17:29:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "TikTok Introduces Voice Comments And Simplified Polls",
+      "description": "It\u2019s also letting people upload multiple photos at once when reacting to a post. TikTok just announced a few nifty tools that could improve the overall user experience. First up, people will soon be able to make voice comments under any video. These messages can be up to 60 seconds long and anyone can tap [...] The post TikTok Introduces Voice Comments And Simplified Polls appeared first on CBNC .",
+      "link": "https://cbnc.com/tiktok-introduces-voice-comments-and-simplified-polls/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/09/l-intro-1788455742.jpg",
+      "published": "2026-09-03 17:29:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "ThriveCart Announces Creator Commerce Live Virtual Event for Digital Sellers and Course Creators",
+      "description": null,
+      "link": "https://www.financialcontent.com/article/acnnewswire-2026-9-3-thrivecart-announces-creator-commerce-live-virtual-event-for-digital-sellers-and-course-creators",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-09-03 17:29:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

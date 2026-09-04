@@ -1,5 +1,37 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "First Phase of Jinnah Medical Complex to Be Completed by March 2027",
+      "description": "Prime Minister Shehbaz Sharif has directed the authorities to complete the first phase of the Jinnah Medical Complex and Research Centre by March 2027 to provide modern healthcare services to citizens as early as possible. He issued the directive while chairing a review meeting at the Prime Minister\u2019s Office on the development of the medical [...]",
+      "link": "https://www.pakistantimes.com/first-phase-of-jinnah-medical-complex-to-be-completed-by-march-2027-14778/",
+      "source": "Pakistan Times",
+      "image": "https://www.pakistantimes.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-3-2026-10_44_51-PM.webp",
+      "published": "2026-09-04 02:45:55",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Nutritional Growth Solutions Seeks ASX Quotation for 4.48 Million Shares Issued as Director Fee Compensation",
+      "description": null,
+      "link": "https://kalkinemedia.com/au/news/announcements/nutritional-growth-solutions-seeks-asx-quotation-for-448-million-shares-issued-as-director-fee-compensation",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2742049913_07_02_2026_01_36_24_900043.jpg",
+      "published": "2026-09-04 02:45:39",
+      "category": [
+        "top",
+        "business",
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

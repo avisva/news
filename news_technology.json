@@ -1,33 +1,79 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Friday Soccer Schedule Altered \u2013 Minnesota State University \u2013 Mankato Athletics",
-      "description": "MANKATO, Minn. \u2013 Due to the forecast of excessive heat for Friday afternoon, the No. 16 Minnesota State women's soccer matches scheduled for Friday have been changed in the interest of safety for players and fans. The Mavericks and No. 10 Central Missouri will now play at The Pitch at 10 a.m., Friday morning, while No. 5 Grand Valley State and Bemidji State also will play at 10 a.m., at the soccer field at Bethany Lutheran College in Mankato. Both matches will have live streaming and live stats. Sunday's matches are still as scheduled with Southwest Minnesota State battling Central Missouri at 11 a.m. at The Pitch, while MSU battles Grand Valley State at 3 p.m. Check back with msumavericks.com for further updates. Stay up to date on all Maverick Athletics news by downloading the Maverick mobile app for exclusive content, gameday notifications, schedules, rosters and more. Fans can also follow @MinnStAthletics on Instagram and X and like the Minnesota State Mavericks Facebook page.",
-      "link": "https://socialnetworkrelease.com/friday-soccer-schedule-altered-minnesota-state-university-mankato-athletics/",
-      "source": "Social Network Release",
-      "image": "https://socialnetworkrelease.com/wp-content/uploads/2026/09/125730-friday-soccer-schedule-altered-minnesota-state-university-mankato-athletics.jpg",
-      "published": "2026-09-03 22:34:00",
+      "title": "Tesla launches self-driving 'Cybercab' in Texas",
+      "description": "Electric-vehicle maker Tesla announced the debut of its self-driving robotaxi, dubbed \"Cybercab,\" on Thursday in a bid to compete with the likes of Uber and Waymo.",
+      "link": "https://www.abs-cbn.com/news/technology/2026/9/4/tesla-launches-self-driving-cybercab-in-texas-1045",
+      "source": "Abs-cbn",
+      "image": "https://od2-image-api.abs-cbn.com/prod/20260904030940/da69ef1ec080ef1cf0f6acaac8891cb5da0f491e1d958b1dea57b5aa9c84d257.jpg",
+      "published": "2026-09-04 02:45:45",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "philippines"
       ]
     },
     {
-      "title": "Why India\u2019s Gen Z risks missing the networking advantage \u2013 PRESS Insider",
-      "description": "Indian job applicants with an inside connection are nearly 8.5 times more likely to be hired than those without one. Yet 83% of Gen Z professionals in the country hesitate to network with people who could help their careers, according to new LinkedIn research. The contrast points to a divide between recognizing the value of professional relationships and knowing how to build them. While 79% of Indian Gen Z professionals consider such relationships important, 52% do not know how to begin and 53% struggle to turn contacts into meaningful connections. Confidence is one barrier. The survey found that 44% fear being judged, 39% worry about bothering people and 37% are concerned about sounding inauthentic. A lack of guidance may be another. Nearly three in five respondents said nobody had clearly shown them how to develop professional relationships, leaving many uncertain about whom to approach, when to make contact or what to say. That hesitation matters in a labor market where personal connections remain closely associated with opportunity. Nearly 30% of Indian Gen Z respondents said they had found their next role through an online professional community. LinkedIn\u2019s hiring analysis found that applicants in India who already had a first-degree connection",
-      "link": "https://socialnetworkrelease.com/why-indias-gen-z-risks-missing-the-networking-advantage-press-insider/",
-      "source": "Social Network Release",
-      "image": "https://socialnetworkrelease.com/wp-content/uploads/2026/09/125736-why-indias-gen-z-risks-missing-the-networking-advantage-press-insider.jpg",
-      "published": "2026-09-03 22:34:00",
+      "title": "SEVA And MIE Group Partner To Co-Host EV & Mobility Show Saudi Arabia 2026",
+      "description": "(MENAFN - Mid-East Info) Strategic partnership brings together Saudi market expertise and international exhibition capabilities to strengthen the Kingdom's electric vehicle and future mobility ...",
+      "link": "https://menafn.com/1111620597/SEVA-And-MIE-Group-Partner-To-Co-Host-EV-Mobility-Show-Saudi-Arabia-2026",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-09-04 02:45:40",
       "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "saudi arabia",
+        "united arab emirates",
+        "lebanon",
+        "libya",
+        "tunisia",
+        "yemen",
+        "iraq",
+        "syria",
+        "egypt",
+        "bahrain",
+        "morocco",
+        "qatar",
+        "algeria",
+        "kuwait",
+        "jordan"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy Book 6 14-inch takes on Apple\u2019s MacBook Neo: We find out which is right for you",
+      "description": "For less than Rs 80,000, Apple thinks that the MacBook Neo is all the laptop you\u2019d ever need. With an AI-capable iPhone chip, a solid metal body and a solid battery, the MacBook Neo promises to deliver a no-nonsense basic computing experience without offering excess of anything. It reset expectations of consumers for this entry-level laptop segment, despite not being the greatest like some of its Windows counterparts. The Dell XPS 13 2026 edition we had a look at last month proved the same.",
+      "link": "https://telecomlive.in/web/2026/09/04/samsung-galaxy-book-6-14-inch-takes-on-apples-macbook-neo-we-find-out-which-is-right-for-you/",
+      "source": "Telecomliveweb",
+      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
+      "published": "2026-09-04 02:45:23",
+      "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Canva unlocks recurring cardless payments in South Africa via Capitec Pay",
+      "description": "Canva became the first merchant to integrate Capitec Pay recurring payments through EBANX offering South African users cardless account to account subscription access",
+      "link": "https://vir.com.vn/canva-unlocks-recurring-cardless-payments-in-south-africa-via-capitec-pay-160082.html",
+      "source": "Vietnam Investment Review - Vir",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/092026/04/09/in_social/804771-ebanx-canva-capitec-jpg-120260904094428.jpeg?randTime=1788491376",
+      "published": "2026-09-04 02:45:20",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "vietnam"
       ]
     }
   ]

@@ -1,5 +1,73 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 4,
+  "results": [
+    {
+      "title": "Country home in \u2018magical\u2019 North Wales location which housed major gallery sold",
+      "description": "The property once housed the Ffin-y-Parc art gallery, the largest and busiest commercial gallery in Wales, representing over 40 artists.",
+      "link": "https://www.leaderlive.co.uk/news/26512437.country-property-housed-ffin-y-parc-gallery-sold/",
+      "source": "The Leader",
+      "image": null,
+      "published": "2026-09-05 05:08:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "ACC Exports Grew To JD1.031Bln In 1St 8 Months 2026: Data",
+      "description": "(MENAFN - Jordan News Agency) Amman, Sep. 5 (Petra) \u2013 The value of certificates of origin issued by the Amman Chamber of Commerce (ACC) for the export of goods and commodities to Arab and foreign ...",
+      "link": "https://menafn.com/1111624634/ACC-Exports-Grew-To-JD1031Bln-In-1St-8-Months-2026-Data",
+      "source": "Menafn",
+      "image": null,
+      "published": "2026-09-05 05:08:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "kuwait",
+        "india",
+        "united arab emirates",
+        "egypt",
+        "bahrain",
+        "jordan",
+        "qatar",
+        "pakistan",
+        "saudi arabia"
+      ]
+    },
+    {
+      "title": "Does Telix Pharmaceuticals' Pipeline Progress Hint at a New Strategic Phase?",
+      "description": "Telix Pharmaceuticals (ASX:TLX) completes a pivotal trial enrollment and strengthens governance, reigniting focus on its growth strategy.",
+      "link": "https://kalkinemedia.com/au/stocks/healthcare/does-telix-pharmaceuticals-pipeline-progress-hint-at-a-new-strategic-phase",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/medicalgloves_09_05_2026_05_08_54_912665.jpg",
+      "published": "2026-09-05 05:08:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "TDP\u2019s 40-day programme reaches one crore homes",
+      "description": "According to the party, Andhra Pradesh has 1,35,91,105 households, and the programme has so far covered 73.6 per cent of them. The campaign is being conducted across all 175 Assembly constituencies.",
+      "link": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Sep/05/tdps-40-day-programme-reaches-one-crore-homes",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-09-05/kyzj4hqx/C_40_1_CH1555_36850815.jpg?w=280",
+      "published": "2026-09-05 05:07:44",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

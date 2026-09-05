@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Parties should be willing to draw lines",
-      "description": "Political parties are coalitions, not clubs whose members agree about everything.",
-      "link": "https://www.tdtnews.com/article_5c1b304c-309f-48a9-b0e1-96ea98c606c9.html",
-      "source": "Tdtnews.com",
-      "image": null,
-      "published": "2026-09-04 19:27:00",
+      "title": "ICE officer pleads not guilty to lying about shooting and is released from custody",
+      "description": "A U.S. Immigration and Customs Enforcement officer has been released from federal custody after pleading not guilty to lying to investigators about the circumstances that led to the shooting of a Venezuelan man during the Minnesota immigration crackdown last winter....",
+      "link": "https://www.wvnews.com/newsfeed/us/ice-officer-pleads-not-guilty-to-lying-about-shooting-and-is-released-from-custody/article_a29429b9-d634-5ddd-b81b-4826d3102300.html",
+      "source": "Wv News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/b/9d/b9d4d890-9d7b-544f-ba18-be16bd46f170/6a9a015c7c859.image.jpg?resize=300%2C200",
+      "published": "2026-09-04 23:37:00",
       "category": [
         "top",
         "politics"
@@ -18,12 +18,51 @@
       ]
     },
     {
-      "title": "North Bay mayoral candidate Melanie Demers willing to shake things up inside city hall",
-      "description": "Free city parking, Wididifield reopening and mental health and addictions hub at Chippewa among ideas",
-      "link": "https://www.nugget.ca/news/north-bay-mayoral-candidate-melanie-demers-willing-to-shake-things-up-inside-city-hall",
-      "source": "Nugget",
-      "image": "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2026/09/0908-nb-demers.jpeg",
-      "published": "2026-09-04 19:26:48",
+      "title": "As China Exits the Gwangju Biennale, Taiwan Plows Ahead",
+      "description": "Amid an escalating controversy, Taiwanese artists have been readying their installations. The post As China Exits the Gwangju Biennale, Taiwan Plows Ahead appeared first on Artnet News .",
+      "link": "https://news.artnet.com/art-world/gwangju-biennale-china-pulls-out-plows-ahead-2806903",
+      "source": "Artnet News",
+      "image": null,
+      "published": "2026-09-04 23:36:57",
+      "category": [
+        "tourism",
+        "top",
+        "politics"
+      ],
+      "country": [
+        "italy",
+        "united kingdom",
+        "japan",
+        "china",
+        "germany",
+        "switzerland",
+        "france",
+        "russia",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Critics call Okanagan mayors\u2019 involuntary care push \u2018short-sighted\u2019",
+      "description": null,
+      "link": "https://infonews.ca/news/7860828/critics-call-okanagan-mayors-involuntary-care-push-short-sighted/",
+      "source": "Infonews.ca",
+      "image": "https://infonews.ca/wp-content/uploads/Sept.-4-announcement-OCC.jpg?w=1290",
+      "published": "2026-09-04 23:36:51",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "UN General Assembly endorses a new world map that shows more accurately Africa\u2019s size",
+      "description": "The United Nations General Assembly on Friday endorsed a new world map that represents Africa more accurately in its larger size, a culmination of a recent campaign led by African countries and advocacy groups.",
+      "link": "https://calgary.citynews.ca/2026/09/04/un-general-assembly-endorses-a-new-world-map-that-shows-more-accurately-africas-size/",
+      "source": "Citynews Calgary",
+      "image": "https://calgary.citynews.ca/wp-content/blogs.dir/sites/8/2025/08/4585bcbe0efd3bcee3df0535e8e048f592c5899020044b5a5668454337822928.jpg",
+      "published": "2026-09-04 23:36:39",
       "category": [
         "top",
         "politics"

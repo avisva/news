@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Read your daily horoscope for Saturday, September 5, 2026",
+      "description": "Read your free daily horoscope for September 5, 2026, from the astrology experts at USA TODAY.",
+      "link": "https://www.thespectrum.com/story/life/horoscopes/2026/09/05/horoscopes-today/91627881007/",
+      "source": "The Spectrum",
+      "image": null,
+      "published": "2026-09-05 02:34:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Paige Takes Shot At Nikki Bella \u2013 \u2018I Built My Career On Hustle, Loyalty, And Respect. You Just Slept With It!\u2019",
+      "description": "Paige took a personal shot at Nikki Bella during this week\u2019s episode of WWE SmackDown. Backstage, Cathy Kelley was interviewing Nikki when Paige interrupted the segment. Paige made it clear that there has been bad blood between the two dating back to their earlier days in WWE, before referencing Nikki\u2019s past relationship in a pointed [...]",
+      "link": "https://www.ewrestlingnews.com/news/wwe/paige-takes-shot-at-nikki-bella-i-built-my-career-on-hustle-loyalty-and-respect-you-just-slept-with-it",
+      "source": "Ewrestlingnews.com",
+      "image": "https://i0.wp.com/www.ewrestlingnews.com/wp-content/uploads/2026/09/Nikki-Bella-Paige-02948.jpg?fit=680%2C383&quality=30&ssl=1",
+      "published": "2026-09-05 02:33:27",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Blackpink\u2019s Lisa says she hid past relationships as K-pop star",
+      "description": "Blackpink\u2019s Lisa has opened up about the restrictions she faced as a K-pop star, including having to keep past relationships private out of concern that they could affect the group\u2019s popularity. \u201cIn K-pop culture, we can\u2019t date,\u201d Lisa says in her upcoming documentary \u201cAlways Lalisa,\u201d according to Canadian media, Thursday, Sept. 3. \u201cIf you\u2019re seeing",
+      "link": "https://entertainment.inquirer.net/682792/blackpinks-lisa-says-she-hid-past-relationships-as-k-pop-star",
+      "source": "Inquirer",
+      "image": "https://entertainment.inquirer.net/files/2026/09/8BBD4BA6-C4E8-4BD7-B7F3-DB9E9DD82799.jpeg",
+      "published": "2026-09-05 02:33:19",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "philippines"
+      ]
+    }
+  ]
 }

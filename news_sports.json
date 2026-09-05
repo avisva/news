@@ -1,14 +1,43 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 8,
   "results": [
     {
-      "title": "Going to the mat",
-      "description": "This week I took my first yoga class, and it kicked my butt.",
-      "link": "https://www.galvnews.com/opinion/columns/leonard_woolsey/going-to-the-mat/article_a0cccdff-5a65-4161-baf8-66a66f53154c.html",
-      "source": "The Daily News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/2/34/234d662f-2a36-57eb-84d7-19804449760a/67afee583062f.image.jpg?crop=1196%2C628%2C121%2C292",
-      "published": "2026-09-04 23:37:00",
+      "title": "Vasco beat Palmeiras to claim first-ever Brasileiro U20 title",
+      "description": "Andrey Fernandes celebrates the goal he scoredCredits: Rafael Ribeiro / CBFVasco are the Brazilian U-20 champions. After losing the first leg of the final 1-0 at Sa\u0303o Janua\u0301rio, the Cruz-Maltino side ...",
+      "link": "https://ca.sports.yahoo.com/news/vasco-beat-palmeiras-claim-first-023400423.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/3bcc3a57bd721f0f868a3f5eccd915e0306e555d5345c6ea8c2bfea997038de8/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbf_articles_956%2F7fc1584a9772d6bbb0f3f99a1ea07952.jpg",
+      "published": "2026-09-05 02:34:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "GB CM orders review of mountaineering laws, SOPs",
+      "description": "GILGIT - Chief Minister Gilgit-Baltistan Amjad Hussain has taken serious notice of multiple incidents during the ongoing mountaineering season, particularly the recent Broad Peak incident, and directed the relevant authorities to ensure the safety and security of mountaineers, trekking groups, mountain guides, porters and other.",
+      "link": "https://www.nation.com.pk/05-Sep-2026/gb-cm-orders-review-mountaineering-laws-sops",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-09-05 02:34:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Here are the Ann Arbor-area scores for Friday of Week 2",
+      "description": "Here are the Ann Arbor-area scores for Friday of Week 2",
+      "link": "https://www.mlive.com/highschoolsports/2026/09/here-are-the-ann-arbor-area-scores-for-friday-of-week-2.html",
+      "source": "Mlive",
+      "image": "https://www.mlive.com/resizer/v2/GZCLAAJDJJCH3A2RJVUGBCYKGE.JPG?auth=b8c1258066c085a87cfbe7c87819ace51d6bfc77be45656d2b0b567cebb211d0&smart=true&height=1200",
+      "published": "2026-09-05 02:33:58",
       "category": [
         "top",
         "sports"
@@ -18,51 +47,74 @@
       ]
     },
     {
-      "title": "Live Photo Gallery: Stanford Football vs. Miami 2026",
-      "description": null,
-      "link": "https://gostanford.com/news/2026/09/4/live-photo-gallery-stanford-football-vs-miami-2026",
-      "source": "Stanford University Athletics",
-      "image": "https://gostanford.com/imgproxy/5NUMhemG6DVHzD0kofM7k6ZA01TrlvihS2qLEPTTyMY/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3N0YW5mb3JkLXByb2QvMjAyNi8wOS8wNC9TUEpXMHRxOGdEdTdNaFdaTGVsODZTM2hEbEhvSXdRaFhPYXlZNUZaLmpwZw.jpg",
-      "published": "2026-09-04 23:37:00",
+      "title": "Megan Rapinoe slams Tom Brady's 'bizarre' behavior - 'Like, why?'",
+      "description": "Megan Rapinoe called Tom Brady's feud with Logan Paul bizarre and questioned why the NFL icon needs the social media rub while simultaneously holding FOX Sports' lead NFL lead analyst broadcasting role",
+      "link": "https://www.themirror.com/sport/american-football/tom-brady-rapinoe-podcast-criticism-2011585",
+      "source": "The Mirror Us",
+      "image": "https://i2-prod.themirror.com/incoming/article2011592.ece/ALTERNATES/s615/0_rapinoe.png",
+      "published": "2026-09-05 02:33:37",
       "category": [
-        "sports",
-        "top"
+        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Inside the never-ending puzzle of US Open match scheduling",
-      "description": "US Open tournament director Eric Butorac handles player and broadcast scheduling requests. It's hectic and tough to please everyone -- but he loves it.",
-      "link": "https://www.espn.com/tennis/story/_/id/49828183/us-open-2026-match-scheduling-iga-swiatek-venus-serena-williams",
-      "source": "Entertainment And Sports Programming Network",
-      "image": null,
-      "published": "2026-09-04 23:36:41",
+      "title": "Aaron Judge Gives Injury Update Amid Rehab From Rib Issue as Yankees Approach MLB Playoffs",
+      "description": "New York Yankees superstar outfielder Aaron Judge hasn't played since May 31 due to a stress fracture of his first rib on his right side. However, he took a key step toward making his return after taking on-field batting practice with the team in San Diego, where the Yankees will play a three-game series with the Padres from Friday through Sunday.",
+      "link": "https://bleacherreport.com/articles/25496300-aaron-judge-gives-injury-update-amid-rehab-rib-issue-yankees-approach-mlb-playoffs",
+      "source": "Bleacherreport",
+      "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2292057806_large_cropped.jpg",
+      "published": "2026-09-05 02:33:36",
       "category": [
         "sports"
       ],
       "country": [
-        "australia",
-        "canada",
-        "india",
-        "united kingdom",
-        "united states of america",
-        "singapore"
+        "united states of america"
       ]
     },
     {
-      "title": "23ABC Evening weather update September 4, 2026",
-      "description": "Latest Kern County, California and US and world news from 23ABC in Bakersfield, Calif.",
-      "link": "https://ca.news.yahoo.com/23abc-evening-weather-september-4-233640141.html",
+      "title": "Mbappe misses penalty as Betis past Real Madrid",
+      "description": "Parrott\u2019s first-half goal ensures three points for Los Verdiblancos",
+      "link": "https://tribune.com.pk/story/2627576/mbappe-misses-penalty-as-betis-past-real-madrid",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/pg13-four-col1788593710-0/pg13-four-col1788593710-0-640x480.webp",
+      "published": "2026-09-05 02:33:30",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Can Alabama Return to the Top of College Football in 2026?",
+      "description": "The Alabama Crimson Tide enter the 2026 college football season with something they haven\u2019t had in quite some time: something to prove. Under head coach Kalen DeBoer, Alabama has reached the College Football Playoff and SEC Championship Game, but the Crimson Tide have also lost eight games during DeBoer\u2019s first two seasons. That has created...",
+      "link": "https://ca.sports.yahoo.com/news/alabama-return-top-college-football-023318523.html",
       "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/c02d9f32a5990195992f1c6d3d4f96921dfb78ba7bd594be21daaa3d9c3307e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.kero.scripps.com%2F05aaff2e616455a91bac6fc53d3e0464.jpg",
-      "published": "2026-09-04 23:36:40",
+      "image": "https://s.yimg.com/lo/mysterio/api/255e6f24faf4398aef380927f7709b6c2a96febb942a463e6806d5fe6954b099/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feasy_sportz_188%2F9f4a9368be53b59f17e36404a50e5de0.jpg",
+      "published": "2026-09-05 02:33:18",
       "category": [
         "sports"
       ],
       "country": [
         "canada"
+      ]
+    },
+    {
+      "title": "Milwaukee-Cincinnati Runs",
+      "description": null,
+      "link": "https://www.starbeacon.com/ap/sports/agate/milwaukee-cincinnati-runs/article_0a628257-891a-5547-aad7-498fea307000.html",
+      "source": "Starbeacon",
+      "image": null,
+      "published": "2026-09-05 02:33:17",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

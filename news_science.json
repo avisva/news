@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Accelerating Chemical Kinetics For Exoplanet Atmospheres Using Neural Networks",
+      "description": "[astro-ph.EP] Observations increasingly reveal the coupled radiative, chemical, and dynamical processes that shape exoplanet atmospheres. Interpreting these atmospheres requires models that can capture this complexity. However, multidimensional models remain fundamentally [...] The post Accelerating Chemical Kinetics For Exoplanet Atmospheres Using Neural Networks appeared first on Astrobiology .",
+      "link": "https://astrobiology.com/2026/09/04/accelerating-chemical-kinetics-for-exoplanet-atmospheres-using-neural-networks/",
+      "source": "Astrobiology Web",
+      "image": "https://i0.wp.com/astrobiology.com/wp-content/uploads/2026/09/Accelerating.png?fit=1275%2C718&ssl=1",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Canonical shuttering some of its legacy chat channels",
+      "description": "The Ubuntu Pastebin went in June, IRC gets demoted next",
+      "link": "https://www.theregister.com/os-platforms/2026/09/04/canonical-shuttering-some-of-its-legacy-chat-channels/5294524",
+      "source": "The Register",
+      "image": "https://image.theregister.com/2918386.webp?width=1200",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

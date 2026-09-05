@@ -1,336 +1,386 @@
 {
   "status": "success",
-  "totalResults": 22,
+  "totalResults": 26,
   "results": [
     {
-      "title": "Batadrava Than Devotees Stage Protest on Janmashtami",
-      "description": "The protesters appealed to Chief Minister Dr. Himanta Biswa Sarma to intervene and address their demands",
-      "link": "https://www.sentinelassam.com/breakingnews/batadrava-than-devotees-stage-protest-on-janmashtami",
-      "source": "The Sentinel",
-      "image": "https://media.assettype.com/sentinelassam-english/2026-09-04/hfof60r7/image-2026-09-04T170607.083.png?w=280",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Arsenal brace for Chelsea test as Spurs seek spark",
-      "description": "Defending champions Arsenal and Xabi Alonso's Chelsea are among four sides to have won their first two league games this season, along with Manchester City and newly-promoted Hull.",
-      "link": "https://citizen.digital/article/arsenal-brace-for-chelsea-test-as-spurs-seek-spark-n389581",
-      "source": "Citizen Digital",
-      "image": "https://assets.citizen.digital/173834/conversions/e7ab070d-4420-40b6-9fdc-7d0ee39b16fe_AFP__20260830__C6UR8X7__v1__HighRes__FblEngPrChelseaBrighton-thumbnail.webp",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "kenya"
-      ]
-    },
-    {
-      "title": "FAA Invests $481 Mln To Improve Airport Infrastructure Across US",
-      "description": "WASHINGTON (dpa-AFX) - U.S. Transportation Secretary Sean P. Duffy has announced that the Federal Aviation Administration is investing $481 million to improve infrastructure and enhance safety at ...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69497095-faa-invests-dollar-481-mln-to-improve-airport-infrastructure-across-us-020.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://www.finanznachrichten.de/content/g/fb.png",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "top",
-        "business",
-        "technology"
-      ],
-      "country": [
-        "germany"
-      ]
-    },
-    {
-      "title": "Momina Iqbal, Saqib Chadhar issued notices by NCCIA over concealing information: Report",
-      "description": "Chats and videos were found in the forensic examination that had not previously been provided to the investigating agency",
-      "link": "https://www.dialoguepakistan.com/en/pakistan/momina-iqbal--saqib-chadhar-issued-notices-by-nccia-over-concealing-information--report",
-      "source": "Dialogue Pakistan",
-      "image": "https://www.dialoguepakistan.com/en/upload/media/posts/2026-09/04/momina-iqbal-saqib-chadhar-issued-notices-by-nccia-over-concealing-information-report_1788520721-b.jpg",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Bhupinder Hooda slams Haryana govt for being unfair with athletes",
-      "description": "Chandigarh, Sep 4 (SocialNews.XYZ) Former Haryana Chief Minister Bhupinder Hooda on Friday extended congratulations to the state's medal-winning athletes who have secured appointments to state civil and police posts. He said these athletes had to... The post Bhupinder Hooda slams Haryana govt for being unfair with athletes appeared first on Social News XYZ .",
-      "link": "https://www.socialnews.xyz/2026/09/04/bhupinder-hooda-slams-haryana-govt-for-being-unfair-with-athletes/",
-      "source": "Social News Xyz",
-      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/09/04/20250807459F-scaled.jpg?fit=2560%2C1809&quality=80&zoom=1&ssl=1",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Skyland Conference boys soccer goalies to watch in 2026",
-      "description": "A look at the goalies to watch this season in the Skyland Conference",
-      "link": "https://www.nj.com/highschoolsports/2026/09/skyland-conference-boys-soccer-goalies-to-watch-in-2026.html",
-      "source": "Nj",
-      "image": "https://www.nj.com/resizer/v2/S662RLY5SZHADGYCGRDM67HYTA.JPG?auth=56ead13d1515627d3dbdfbfd2c297e091d2ae53472a52779bb86c7823ee8abd3&smart=true&height=1200",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Slopsquatting explained: When AI code turns malicious",
-      "description": "<div class=\"extra-info\"> <div class=\"extra-info-inner\"> <h2>Executive summary</h2> <ul type=\"disc\" class=\"default-list\"> <li>Slopsquatting is a new AI-driven supply chain attack where threat actors register malicious packages under names that AI coding tools hallucinate, then wait for developers or AI agents to install them without verification.</li> <li>The risk is widespread and measurable. Research shows that nearly one in five AI-recommended packages doesn't exist, and hallucinated names recur across identical prompts.</li> <li>Traditional security tools miss these threats because slopsquatting doesn't fit into existing categories, and few enterprises have policies governing AI-assisted development or validation of AI-suggested dependencies.</li> </ul> </div> </div> <p>With the rise of AI tools for coding, including tools grouped under the category of <a href=\"https://www.techtarget.com/it-strategy/feature/Vibe-coding-What-IT-leaders-need-to-know\">vibe coding</a>, there has been a corresponding rise in new AI supply chain security threats.</p> <p>While AI coding assistants accelerate the development process for IT professionals, the same technology can also accelerate the creation of threat vectors by attackers. That's what slopsquatting is all about. Slopsquatting attacks work by registering a software package under a name that an AI model invented, then waiting for a developer or an AI agent to install it.</p> <p>Slopsquatting is not generic <a href=\"https://www.techtarget.com/it-strategy/feature/AI-slop-The-hidden-enterprise-risk-CIOs-cant-ignore\">AI slop</a>, or <a href=\"https://www.techtarget.com/it-strategy/feature/Vibe-slop-in-coding-A-guide-for-IT-executives\">vibe slop</a>, it's something more specific and inherently more insidious. While AI slop and vibe slop are almost accidental byproducts of unmanaged AI use, slopsquatting is a deliberate tactic that uses AI to create a new form of code supply chain risk.</p> <p>Security researcher Seth Larson, developer-in-residence at the Python Software Foundation, coined the term in April 2025, though the underlying behavior had been observed as early as 2023. The term combines AI slop, which is all about low-quality generated AI output, with the older practices of typosquatting, which is a technique where a name that is close to a real name used for a technology or product is used to trick a user. Typosquatting is a technique used by attackers for decades, often in <a href=\"https://www.techtarget.com/cybersecurity/definition/What-is-phishing-Understanding-enterprise-phishing-threats\">phishing </a>attacks where a legitimate-looking domain name is used to trick users into clicking a malicious link.</p> <section class=\"section main-article-chapter\" data-menu-title=\"Understanding slopsquatting\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Understanding slopsquatting</h2> <p>Slopsquatting poses a growing risk to modern AI coding tools.</p> <p>Modern application development practices rely on application and code packages. Those packages provide the frameworks and capabilities needed to build the application. AI coding tools sometimes hallucinate package names by suggesting packages that were never published. Instead of checking a code registry, the model predicts plausible-sounding names based on patterns in its training data.</p> <p>Developers, as well as AI coding agents, can install code without first verifying that the packages are in fact legitimate.</p> <h3>How it works</h3> <p>Attackers can exploit AI behavior to carry out package hallucination attacks.</p> <p>\"They're analyzing the patterns in large language model (LLM) outputs, identifying the phantom package names that surface repeatedly and pre-registering them on package managers and online registries with malicious payloads attached,\" explained Shane Barney, chief information security officer at Keeper Security. \"By the time a developer runs the install command, the payload is already in place.\"</p> <p>The recurring nature of AI package name hallucinations is measurable. A 2025 USENIX Security <a href=\"https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen\" target=\"_blank\" rel=\"noopener\">paper</a> by researchers at the University of Texas at San Antonio, the University of Oklahoma and Virginia Tech, tested 16 code-generating models and found that 19.7% of the packages they recommended did not exist. Adding further insult to injury, when the researchers repeated identical prompts 10 times each, 43% of hallucinated package names reappeared on every single run.</p> <h3>Typosquatting vs slopsquatting</h3> <p>Typosquatting relies on a human mistyping a real name or being tricked by a typo. Slopsquatting relies on an AI model inventing a name that isn't real. USENIX researchers found only 13.4% of hallucinated names were within one or two characters of a real package.</p> </section> <section class=\"section main-article-chapter\" data-menu-title=\"Why this matters to IT leaders now\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Why this matters to IT leaders now</h2> <p>Slopsquatting is one of the more urgent AI coding security risks IT leaders face for a number of critical reasons:</p> <ul class=\"default-list\"> <li><b>Rapid AI adoption</b>. Nearly every organization is using <a href=\"https://www.techtarget.com/it-infrastructure/tip/Vibe-coding-is-killing-open-source-increasing-software-risk\">AI for coding</a>, which creates a vast attack surface<b>.</b> Gartner <a href=\"https://www.gartner.com/en/newsroom/press-releases/2025-07-01-gartner-identifies-the-top-strategic-trends-in-software-engineering-for-2025-and-beyond\" target=\"_blank\" rel=\"noopener\">estimates</a> that 90% of enterprise engineers will use AI code assistants by 2028, a scale that puts AI coding assistant risks on nearly every roadmap.</li> <li><b>Supply chain amplification</b>. A package isn't just a piece of code in a single application; it's used widely throughout multiple applications, amplifying software supply chain threats. That means one compromised package can spread and affect hundreds or even thousands of applications that used it as a dependency. \"When developers trust an AI coding assistant to suggest a dependency and then install it without verification, they are effectively handing a privileged step in the software supply chain to a system that can invent package names that don't exist,\" Barney explained.</li> <li><b>Reputational and financial risk.</b> A compromised dependency in production can lead to a potential exploit or data breach. That in turn could trigger compliance violations and customer notification obligations.</li> <li><b>Regulatory pressure.</b> The <a href=\"https://www.techtarget.com/it-strategy/feature/Regulatory-trends-every-CIO-should-watch\">EU Cyber Resilience Act</a> requires incident reporting by September 11, 2026. OMB's Memorandum M-26-05, issued in January 2026, shifted federal SBOM attestation to a risk-based approach.</li> <li><b>Detection challenges.</b> Traditional scanners miss AI hallucination security risks because the malicious package is often newly registered rather than a modified known one. \"This risk hasn't shown up on a board packet, an audit checklist, or a cyber insurance questionnaire for most organizations I talk to, because it doesn't fit an existing category, it isn't a phishing test, and it isn't a patch cadence,\" said Trey Ford, chief strategy and trust officer at Bugcrowd.</li> <li><b>The threat is real.</b> In January 2026, security researcher Charlie Eriksen at Aikido Security <a href=\"https://www.aikido.dev/blog/slopsquatting-ai-package-hallucination-attacks\" target=\"_blank\" rel=\"noopener\">found</a> a hallucinated npm package called react-code shift that had already spread to 237 repositories through AI-generated agent skills, with autonomous agents still attempting to install it daily before Eriksen registered the name himself.</li> </ul> </section> <section class=\"section main-article-chapter\" data-menu-title=\"Organizational impact and risk assessment\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Organizational impact and risk assessment</h2> <p>Slopsquatting incidents impact multiple layers within an organization.</p> <h3><b>Development workflow vulnerabilities</b></h3> <p>Developer teams use AI tools now as part of code development and typically do not have a defined dependency security management process.</p> <p>\"The primary gaps are dependency governance and validation,\" said Li Zhao, principal strategic services consultant at Black Duck. \"Most organizations can scan known components and vulnerabilities, but many lack controls to verify the legitimacy, provenance, and trustworthiness of AI-suggested dependencies before they enter source repositories, build systems, or CI/CD pipelines.\"</p> <h3><b>Technology stack considerations</b></h3> <p>Developer workflow is enabled by infrastructure, which is another area where it's important to catch AI-generated code vulnerabilities.</p> <ul class=\"default-list\"> <li>Package registries, such as npm and PyPI, are widely used by AI coding assistants, making package repository security an expanding attack surface.</li> <li>A software bill of materials (SBOM) is meant to provide an accurate inventory of every component in an application, as part of a broader SBOM security strategy, but the practice is uneven outside regulated industries.</li> <li>Software composition analysis (SCA) tools, which are supposed to identify what's inside an application, often have a blind spot when it comes to hallucinated package names.</li> </ul> <h3><b>Security architecture gaps</b></h3> <p>Many enterprises treat dependency verification as an individual developer's judgment call rather than as a built-in control point. \"The scalable fix lives at the registry and pipeline layer, not in a developer's half-focused judgment in a given moment,\" Ford said.</p> <h3><b>Governance and policy needs</b></h3> <p>As a relatively new phenomenon, AI coding practices lack policy and governance. \"Very few organizations have explicitly addressed AI-assisted development in their secure development lifecycle documentation,\" Barney said.</p> <h3><b>Cross-functional implications</b></h3> <p>Beyond technical teams, slopsquatting has broader operational risks.</p> <p>There is a legal and compliance risk that an organization could face if a compromised package is used in production. Many organizations have not yet treated slopsquatting as a formal risk event.</p> <p>\"Of the third-party examples that I have familiarity with, what followed wasn't necessarily an audit finding or an insurance claim. In most cases, it triggered a broader conversation around software supply chain security -- which is a good thing,\" said Erik Avakian, technical counselor at Info-Tech Research Group. \"It prompted these organizations to start asking basic and important questions around these risks: How did an AI-generated dependency make it into the codebase? Why wasn't it validated? Who was responsible for approving it?\"</p> </section> <section class=\"section main-article-chapter\" data-menu-title=\"Strategic actions for IT leaders\"> <h2 class=\"section-title\"><i class=\"icon\" data-icon=\"1\"></i>Strategic actions for IT leaders</h2> <p>IT leaders should be proactive while the slopsquatting risk grows. There is a series of near-term and longer-term actions that can be taken to help limit risk.</p> <h3>Immediate tactical measures</h3> <p>Start with the basic controls that help to enforce code hygiene, including:</p> <ul class=\"default-list\"> <li>Audit which AI coding tools are in use, sanctioned or not.</li> <li>Verify every AI-suggested package against the target registry before installation.</li> <li>Enable dependency pinning and lockfile enforcement, locking installs to exact, verified versions.</li> <li>Invest in SCA and SBOM tools that properly identify new packages and outliers that are indicators of slopsquatting.</li> <li>Integrate threat intelligence feeds that cover package repository activity.</li> </ul> <p>\"Organizations should treat AI-suggested dependencies like any other untrusted third-party component,\" Zhao said. \"Integrate SCA and dependency monitoring into CI/CD: Scan early and continuously but recognize that traditional SCA may not detect newly published slopsquatted packages.\"</p> <h3>Policy and governance framework</h3> <p>It's critical to define a specific policy for AI-assisted code development, which is one of the clearer gaps in DevSecOps best practices in most organizations today.</p> <p>\"The real exposure here is that organizations have defined acceptable use policies for almost every part of the development lifecycle except this one,\" Barney said.</p> <blockquote class=\"main-article-pullquote\"> <div class=\"main-article-pullquote-inner\"> <figure> When developers trust an AI coding assistant to suggest a dependency and then install it without verification, they are effectively handing a privileged step in the software supply chain to a system that can invent package names that don't exist. </figure> <figcaption> <strong>Shane Barney, chief information security officer at Keeper Security</strong> </figcaption> <i class=\"icon\" data-icon=\"z\"></i> </div> </blockquote> <h3>Metrics and monitoring</h3> <p>Having controls and policies in place is a foundational aspect of reducing risk.</p> <ul class=\"default-list\"> <li>Monitor installation patterns for unvetted packages.</li> <li>Measure time-to-detection for malicious packages, addressing security threats before they reach production.</li> <li>Track developer security training completion, tying supply chain attack prevention back to a measurable program.</li> </ul> <h3>Key questions to ask</h3> <p>The following list of questions can help to determine an organization's ability to respond to and limit the risk of a slopsquatting incident:</p> <ul class=\"default-list\"> <li>Does SBOM coverage include AI-generated code?</li> <li>Have AI tool providers' security practices been evaluated as part of procurement?</li> <li>Are registry-level security controls being assessed at every repository in use?</li> <li>Can the organization detect when an unvetted package is installed?</li> <li>What is the incident response plan if a compromise is confirmed?</li> </ul> <p>The hardest question to answer is often about accountability and ownership.</p> <p>\"What's still missing almost everywhere is the ownership question: nobody has clearly assigned accountability for a suggestion that came from a machine instead of a person,\" Ford said.</p> <p>In the final analysis, if there is just one thing an organization should do to mitigate slopsquatting, it's to have validation at the time of code commit.</p> <p>\"If I could implement one control tomorrow, it would be to require mandatory validation of any AI-generated code before it's committed to a repository,\" Avakian said. \"Developers should never assume that a package suggested by an AI model is legitimate simply because the code compiles.\"</p> <p><i>Sean Michael Kerner is an IT consultant, technology enthusiast and tinkerer. He has pulled Token Ring, configured NetWare and been known to compile his own Linux kernel. He consults with industry and media organizations on technology issues.</i></p> </section>",
-      "link": "https://www.techtarget.com/it-strategy/feature/Slopsquatting-explained-When-AI-code-turns-malicious",
-      "source": "Techtarget",
-      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/code_g1023226678.jpg",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Vanterpool calls for halt to $798K RT sidewalk project",
-      "description": "People\u2019s Leadership Movement leader Mark Vanterpool has called on the government to halt the DeCastro Street sidewalk project until it explains the proposed works and the planned removal of mature trees in Road Town. The approximately $798,000 project is scheduled [...]",
-      "link": "https://bvinews.com/vanterpool-calls-for-halt-to-798k-rt-sidewalk-project/",
-      "source": "Bvi News",
-      "image": "https://bvinews.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-6.40.14-AM-1024x745.png",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "King Charles' true feelings about Harry and Meghan's UK return exposed",
-      "description": "King Charles has not commented publicly on Prince Harry and Meghan Markle's return to the UK, but an insider shared how he is reportedly feeling.",
-      "link": "https://www.the-express.com/entertainment/celebrity-news/215322/king-charles-harry-meghan-return",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/21/237x141/215322_1.jpg",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Domestic economy grows 3.1% in first six months of the year as Ta\u0301naiste says figures show 'ongoing resilience'",
-      "description": "CSO says GDP up 10.2% in Q2 but domestic economy contracted",
-      "link": "https://www.irishexaminer.com/business/economy/arid-41906785.html",
-      "source": "Irish Examiner",
-      "image": "https://www.irishexaminer.com/cms_media/module_img/10435/5217889_3_articlelarge_69162356-cf64-4002-85f3-eb9f48e2287a.jpg",
-      "published": "2026-09-04 11:42:00",
+      "title": "'Cut rates or I'll halt trade with countries US has deficit with': Donald Trump threatens Federal Reserve - The Times of India",
+      "description": "'Cut rates or I'll halt trade with countries US has deficit with': Donald Trump threatens Federal Reserve The Times of India Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses CNBC Trump says he will cease trading with top partners unless Fed lowers rates CNN Trump says if the Fed doesn't cut rates, he'll stop trading with some nations Reuters Trump threatens to halt trade with some countries unless the Federal Reserve lowers interest rates \u2013 US politics live The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWjNvYTFjYWNiMnFURW1pWWJZSjViM1hvbzRYMW1iTWFlNV9CLWdZdHlvcGtrLTRSM2x4bnM4bVRnc3Z1UjFkbndpX21NN2t0RGt6ajFjUWl6U0JVT3ZvcUk2NmExZlU3Q3lIdDdwVUZHU0VrY25JZWNRRTJCNnRwNmRrRnlCVW1oelkydy1BV0NlUGJmZC1PTXp0MjdPcU9VSFJOV0IzVkU5Q0E5TTNhV1ppUF92cU9WbEpuc2NpdnJKbEZYd0N2Yl9wTTU1VnpUYXFYUFdGUmdlVUN0SXc0VXN6cVRYRzdwS0dtQzB1enFMSm5tWGFRRmk0ZUxxMEwybEFzWXRacXRBTjItbDF2OTZueE5xMlBmaGw5aG5RbDI?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-09-04 14:56:00",
       "category": [
         "business"
       ],
       "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "Malaysian durians could clear China Customs in under 4 hours with proposed mechanism, says MAHB",
-      "description": "PUTRAJAYA: Malaysian fresh durians could potentially clear customs in China within three to four hours under a proposed fast-track mechanism being explored by Malaysia Airports Holdings Bhd (MAHB), China Henan Aviation Group Co Ltd (CHAG) and Tropika Makmur Manufacturing Sdn Bhd (TMM).",
-      "link": "https://www.thestar.com.my/news/nation/2026/09/04/malaysian-durians-could-clear-china-customs-in-under-4-hours-with-proposed-mechanism-says-mahb",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/04/4093444.jpg",
-      "published": "2026-09-04 11:42:00",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Digital Brands Group Finds Financial Lifeline through New Apparel and Footwear Categories",
-      "description": "The guaranteed cash flow stems solely from the first two markets of a larger $165 million U.S. Program over the next two years. This expansion was said to be driven by the addition of new apparel and footwear categories.",
-      "link": "https://sgbonline.com/digital-brands-group-finds-financial-lifeline-through-new-apparel-and-footwear-categories/",
-      "source": "Sgb Online",
-      "image": "https://sgbonline.com/wp-content/uploads/2026/08/dgbi-avo-ole-miss-apparel-900.jpg",
-      "published": "2026-09-04 11:41:59",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Abbey Clancy recalls 'hurtful' Peter Crouch comment that left her in tears",
-      "description": "Abbey Clancy has revealed the brutal comment Peter Crouch made during the early days of their relationship that left her in tears",
-      "link": "https://www.liverpoolecho.co.uk/news/showbiz-news/abbey-clancy-recalls-hurtful-peter-34567724",
-      "source": "Liverpool Echo",
-      "image": "https://i2-prod.walesonline.co.uk/lifestyle/showbiz/article34385170.ece/ALTERNATES/s615/0_Model-Abbey-Clancy-and-footballer-Peter-Crouch-at-the-BGC.jpg",
-      "published": "2026-09-04 11:41:58",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Two workers rescued alive from Nepal tunnel 9 days after floods",
-      "description": "Two workers were rescued alive from a Nepal hydropower tunnel nine days after devastating floods, raising hopes for hundreds still missing or trapped.",
-      "link": "https://www.newschannel5.com/science-and-tech/natural-disasters/two-workers-rescued-alive-from-nepal-tunnel-9-days-after-floods",
-      "source": "Newschannel 5",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/d832ecf/2147483647/strip/true/crop/1280x672+0+91/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F20%2F7c7d6e134d55b65283d7ba2c709c%2Fap26247155624727.jpg",
-      "published": "2026-09-04 11:41:57",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "\u201cSave Us From Our Traitor Gov\u2019t\u201d: Massive Madrid Protests Erupt Over Socialist Regime\u2019s Handling Of Ceuta Invasion",
-      "description": "Spain\u2019s Ceuta border invasion has morphed into a major political headache for Socialist Prime Minister Pedro Sa\u0301nchez. Tens of thousands of Spaniards took to the streets of Madrid to protest the government\u2019s handling of the crisis, potentially accelerating the political shift identified by Nomura analysts, who expect right-wing populist movements to gain traction across Europe during the next 18-month election cycle. About 72,000 migrants, many reportedly military-age men, invaded the Spanish enclave from neighboring Morocco in late July. The scale and apparent coordination of the invasion raised concerns that Ceuta had been targeted through weaponized migration flows. The influx plunged the enclave, which has a population of approximately 84,000, into utter chaos for weeks. By mid-August, a second wave of military-age men attempted to storm the Ceuta border, but that effort largely fell flat. Although most of the migrants were quickly returned or repatriated, the surge overwhelmed local resources, left at least 90 people dead and sparked serious questions about Madrid\u2019s open border policies. Italy\u2019s continued border checks on arrivals from Spain further show how the Ceuta crisis is reverberating well beyond Spain\u2019s borders. About a month and a half after the first migrant wave, the political backlash against Sa\u0301nchez [...]",
-      "link": "https://www.gulf-insider.com/save-us-from-our-traitor-govt-massive-madrid/",
-      "source": "Gulf Insider",
-      "image": "https://www.gulf-insider.com/wp-content/uploads/2026/09/2026-09-03_07-11-45.png",
-      "published": "2026-09-04 11:41:54",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "kuwait",
-        "bahrain",
-        "qatar",
-        "saudi arabia",
-        "united arab emirates"
-      ]
-    },
-    {
-      "title": "Truck gets stuck between barriers at railway crossing in Poland, moments later disaster strikes",
-      "description": "A passenger train crashed into the trailer of a truck at a railway crossing in Poland after the vehicle stopped on the tracks as the crossing barriers came down. CCTV footage captured the incident, showing the truck entering the crossing before the barriers lowered, leaving the trailer in the path of the approaching train.",
-      "link": "https://www.indiatvnews.com/trending/offbeat/truck-gets-stuck-between-barriers-at-railway-crossing-in-poland-moments-later-disaster-strikes-2026-09-04-1053324",
-      "source": "India Tv",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/main-pic-1788521975.jpg",
-      "published": "2026-09-04 11:41:53",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
         "india"
       ]
     },
     {
-      "title": "GLOBAL MARKETS-Traders brace for US jobs data after Fed's Waller soothes bond markets",
-      "description": "World shares tip-toed higher ahead of US jobs data on Friday while bond markets got some much-needed relief after a top Federal Reserve official cooled rate-hike expectations and dragged the dollar lower The dollars retreat had run its course as the usual pre-payrolls holding patterns played out but it left the yen set for a weekly rise of nearly 25 its best since late July when Japan and the US conducted a rare joint intervention to halt a relentless slide in the Japanese currency",
-      "link": "https://www.devdiscourse.com/article/international/3972584-global-markets-traders-brace-for-us-jobs-data-afterfeds-waller-soothes-bond-markets",
-      "source": "Devdiscourse",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_24_6979208.jpg&amp;width=920",
-      "published": "2026-09-04 11:41:52",
+      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+      "description": "Adam Aron said synthetic AMC shares could divert demand from the actual stock and strip investors of shareholder rights, drawing support from some tokenization executives.",
+      "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+      "source": "Coindesk Indonesia",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/922887aed0e47fe82d8ea0f44a3116b66c314232-5000x3383.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "published": "2026-09-04 14:56:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "india"
+        "indonesia"
       ]
     },
     {
-      "title": "1,115 Nigerian Army Personnel Begin Crucial Promotion Exercise",
-      "description": "More than a thousand Nigerian Army personnel are facing a major career test in Rivers State as they compete for promotion to higher ranks.",
-      "link": "https://www.tori.ng/news/325409/1115-nigerian-army-personnel-begin-crucial-promoti.html",
-      "source": "Tori",
-      "image": "https://www.tori.ng/userfiles/thumb/2026/sep/04/bb/b_325409.jpg",
-      "published": "2026-09-04 11:41:51",
+      "title": "Adam Zyglis: Oh Canada",
+      "description": "Trump's war on Canada has put stress on Buffalo's close relationship to our northern ally. See cartoonist Adam Zyglis's take, plus more of his recent work.",
+      "link": "https://buffalonews.com/opinion/article_464fda27-f2e3-42a7-899b-1937b83d309f.html",
+      "source": "Buffalonews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/7/7c/77c1971e-37af-4765-a34e-4d73415fb794/6a99e61f80a04.image.jpg?resize=300%2C242",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Saline County Courthouse project moves into third phase",
+      "description": "BENTON \u2014 For more than 120 years, the Saline County Courthouse has stood at the center of Downtown Benton, weathering generations of Arkansas heat, rain and changing times.",
+      "link": "https://www.bentoncourier.com/news/saline-county-courthouse-project-moves-into-third-phase/article_1946f79f-0191-45a2-8ed1-fd674da90388.html",
+      "source": "Bentoncourier",
+      "image": "https://bloximages.newyork1.vip.townnews.com/bentoncourier.com/content/tncms/assets/v3/editorial/7/f9/7f987181-0d31-4693-ad11-dd9d33244b93/6a9adc3820c21.image.jpg?resize=300%2C200",
+      "published": "2026-09-04 14:56:00",
       "category": [
         "top",
         "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Accelerating Chemical Kinetics For Exoplanet Atmospheres Using Neural Networks",
+      "description": "[astro-ph.EP] Observations increasingly reveal the coupled radiative, chemical, and dynamical processes that shape exoplanet atmospheres. Interpreting these atmospheres requires models that can capture this complexity. However, multidimensional models remain fundamentally [...] The post Accelerating Chemical Kinetics For Exoplanet Atmospheres Using Neural Networks appeared first on Astrobiology .",
+      "link": "https://astrobiology.com/2026/09/04/accelerating-chemical-kinetics-for-exoplanet-atmospheres-using-neural-networks/",
+      "source": "Astrobiology Web",
+      "image": "https://i0.wp.com/astrobiology.com/wp-content/uploads/2026/09/Accelerating.png?fit=1275%2C718&ssl=1",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Canonical shuttering some of its legacy chat channels",
+      "description": "The Ubuntu Pastebin went in June, IRC gets demoted next",
+      "link": "https://www.theregister.com/os-platforms/2026/09/04/canonical-shuttering-some-of-its-legacy-chat-channels/5294524",
+      "source": "The Register",
+      "image": "https://image.theregister.com/2918386.webp?width=1200",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "technology",
+        "science"
       ],
       "country": [
         "nigeria"
       ]
     },
     {
-      "title": "Moray paedophile who attempted sexual communication with multiple young girls jailed for three years",
-      "description": "A 60-year-old who was snared by decoys while trying to contact young girls has been sent to prison.",
-      "link": "https://www.forres-gazette.co.uk/news/moray-paedophile-who-attempted-sexual-communication-with-mul-444164/",
-      "source": "Forres-gazette Co Uk",
-      "image": "https://www.forres-gazette.co.uk/_media/img/2WO0CQ3GG67II53MCCFJ.jpg",
-      "published": "2026-09-04 11:41:50",
+      "title": "Veterans Azriyn-Wee Kiong march into China Masters semis",
+      "description": "PETALING JAYA: Veteran men's doubles pair Nur Azriyn Ayub-Tan Wee Kiong showed they still have plenty left in the tank after booking a place in the China Masters semi-finals on Friday (Sept 4).",
+      "link": "https://www.thestar.com.my/sport/badminton/2026/09/04/veterans-azriyn-wee-kiong-march-into-china-masters-semis",
+      "source": "The Star",
+      "image": "https://cdn.thestar.com.my/Themes/img/tsol-default-image2023.png",
+      "published": "2026-09-04 14:56:00",
       "category": [
-        "top",
-        "crime"
+        "sports"
       ],
       "country": [
-        "united kingdom"
+        "malaysia"
       ]
     },
     {
-      "title": "Sidharth Malhotra and Tamannaah Launch \u2018Samjho Na\u2019 From The Vvaan, Large Crowd Cheers Their New Pairing",
-      "description": "Sidharth Malhotra and Tamannaah launched \u201cSamjho Na\u201d from The Vvaan at an event in Mumbai, where a large crowd cheered the new pairing.",
-      "link": "https://english.hindfirst.in/entertainment/sidharth-malhotra-and-tamannaah-launch-samjho-na-from-the-vvaan-large-crowd-cheers-their-new-pairing-556732",
-      "source": "Hind First English",
-      "image": "https://english.hindfirst.in/h-upload/2026/09/04/423127-sidharth-malhotra-and-tamannaah-launch-samjho-na-from-the-vvaan-large-crowd-cheers-their-new-pairing.webp",
-      "published": "2026-09-04 11:41:50",
+      "title": "Trump's push to protect US tech supply chain backfires on Tennessee plant",
+      "description": "Trump\u2019s push to protect US tech supply chain backfires on Tennessee plantU.S. President Donald Trump's strategy to secure the domestic semiconductor supply chain has inadvertently backfired in Charleston, Tennessee, threatening a major manufacturing plant and endangering local jobs.The...",
+      "link": "https://www.thenews.com.pk/latest/1414874-trumps-push-to-protect-us-tech-supply-chain-backfires-on-tennessee-plant",
+      "source": "The News International",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-09-04/1414874_075621_updates.jpg",
+      "published": "2026-09-04 14:56:00",
       "category": [
-        "entertainment",
-        "top"
+        "world"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "2027 Range Rover Electric launches with $180K First Edition",
+      "description": "The new flagship luxury SUV arrives a year later than planned but is ready for Tesla Superchargers and wading through nearly three feet of water.",
+      "link": "https://www.wardsauto.com/news/2027-range-rover-electric-launches-with-180k-first-edition/829525/",
+      "source": "Wards Auto",
+      "image": "https://imgproxy.divecdn.com/rptFXHK4s0j-zSxoNtHftlkh50jMCyVMPFi1v8PvMsw/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KTFJSYW5nZVJvdmVyRWxlY3RyaWNBbmRDbGFzc2ljTW9kZWwuanBn.webp",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Punjab Congress condemns youth\u2019s detention for waving black flag at CM Mann",
+      "description": "Chandigarh, Sep 4 (SocialNews.XYZ) Congress' Punjab unit President Amarinder Singh Raja Warring on Friday condemned the detention and \"torture\" of protester Mohanjit Singh Sidhu, who had waved a black flag at Chief Minister Bhagwant Mann.... The post Punjab Congress condemns youth\u2019s detention for waving black flag at CM Mann appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/09/04/punjab-congress-condemns-youths-detention-for-waving-black-flag-at-cm-mann/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/09/04/20262907149f-scaled.jpg?fit=2560%2C1807&quality=80&zoom=1&ssl=1",
+      "published": "2026-09-04 14:56:00",
+      "category": [
+        "top",
+        "politics"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Several homes planned for former Church Of Jesus Christ Of Latter-day Saints",
-      "description": "Proposals for a new residential development at the site of a former Church Of Jesus Christ Of Latter-day Saints, have been revealed",
-      "link": "https://www.glasgowtimes.co.uk/news/26522513.residential-development-planned-former-rutherglen-church/",
-      "source": "Glasgow Times",
-      "image": "https://www.glasgowtimes.co.uk/resources/images/21411573/",
-      "published": "2026-09-04 11:41:50",
+      "title": "Mankato woman to compete in Miss Czech Slovak pageant",
+      "description": "MANKATO \u2014 After her great aunt Lorrie Mathiowetz passed away in 2023, Wren Zwaschka found herself wanting to learn more about her Czech heritage.",
+      "link": "https://www.mankatofreepress.com/news/local_news/mankato-woman-to-compete-in-miss-czech-slovak-pageant/article_345f65a7-b474-4200-bb7f-510d9f7b4147.html",
+      "source": "Mankato Free Press",
+      "image": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/5/88/5881c7aa-f57c-4002-97af-d680da55aa97/6a9adcd5bb9de.image.jpg?resize=300%2C650",
+      "published": "2026-09-04 14:56:00",
       "category": [
         "top",
         "politics",
         "lifestyle"
       ],
       "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US hits Turkish bank with sanctions over alleged ties to Iran",
+      "description": null,
+      "link": "https://apnews.com/article/sanctions-turkish-bank-iran-dde8b5408b85115f79b7351c8e882815",
+      "source": "Apnews",
+      "image": null,
+      "published": "2026-09-04 14:55:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What To Know Before Replacing Windows Or Doors In Ridgewood",
+      "description": "Knowing when to repair, what affects cost and how to compare contractors can make a major home project easier to navigate.",
+      "link": "https://patch.com/new-jersey/ridgewood/what-know-replacing-windows-or-doors-ridgewood",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/shutterstock/27331871/20260904/105558/styles/patch_image/public/shutterstock-2354534993___04105517555.jpg",
+      "published": "2026-09-04 14:55:59",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Is Shivakumar resetting Congress politics from confrontation to accommodation?",
+      "description": "By withdrawing the controversial Karnataka Government Parks (Preservation) (Amendment) Bill, 2026, which allowed the alienation of up to 5% of park and garden land for public infrastructure, and accepting B. Nagendra\u2019s resignation within a week, Chief Minister D.K. Shivakumar appears increasingly willing to retreat from politically costly positions rather than allow controversies to overshadow his government\u2019s broader agenda.",
+      "link": "https://www.thehindu.com/news/national/karnataka/is-shivakumar-resetting-congress-politics-from-confrontation-to-accommodation/article71428017.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/4lbznz/article71429166.ece/alternates/FREE_1200/_JAI3403.JPG",
+      "published": "2026-09-04 14:55:58",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US Issues Sanctions on Turkish Bank That It Calls a 'Critical Financial Lifeline' for Iran",
+      "description": "The U.S. Treasury has imposed sanctions on a Turkish financial institution as part of its latest effort to sever \u201ccritical financial lifelines\u201d for the Iranian government",
+      "link": "https://www.usnews.com/news/business/articles/2026-09-04/us-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran",
+      "source": "Usnews",
+      "image": "https://www.usnews.com/dims4/USNEWS/4f947c1/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff3%2F55a54844c6514f335863cca81ab206%2F991338382b5842a69a78cb76d14c37dfG2__Finance_Ministers_21744.jpg",
+      "published": "2026-09-04 14:55:58",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US issues sanctions on Turkish bank that it calls a \u2018critical financial lifeline\u2019 for Iran",
+      "description": "WASHINGTON (AP) \u2014 The U.S. Treasury announced Friday it has imposed sanctions on a Turkish financial institution as part of its latest effort to sever \u201ccritical financial lifelines\u201d for the Iranian government. The actions against Golden Global Yatirim Bankasi Anonim Sirketi come nearly a week after Treasury Secretary Scott Bessent announced \u201cOperation Economic Outcast\u201d as [...]",
+      "link": "https://www.tricityrecordnm.com/us-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran/",
+      "source": "Tri-city Record Nm",
+      "image": null,
+      "published": "2026-09-04 14:55:58",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "UN experts raise alarm over extrajudicial killing of civilian by Pakistani forces in Balochistan",
+      "description": "Geneva, Sep 4 (SocialNews.XYZ) The United Nations experts on Friday expressed grave concern over the alleged enforced disappearance, torture, and extrajudicial killing of Baloch civilian Imran Ali by Pakistani forces in Balochistan and called on... The post UN experts raise alarm over extrajudicial killing of civilian by Pakistani forces in Balochistan appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/09/04/un-experts-raise-alarm-over-extrajudicial-killing-of-civilian-by-pakistani-forces-in-balochistan/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/09/04/20260714093.jpg?fit=2000%2C1333&quality=80&zoom=1&ssl=1",
+      "published": "2026-09-04 14:55:57",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "TetherMax Names South Korean Actor Yun Si Yun as Brand Ambassador as It Expands Across Asia",
+      "description": "SINGAPORE, Sept. 04, 2026 (GLOBE NEWSWIRE) -- TetherMax, a global trading fee cashback platform, is accelerating its expansion across Asia following the platform\u2019s June 2026 rebrand, naming South Korean actor Yun Si Yun as its brand ambassador for regional marketing initiatives. The appointment marks a key step in TetherMax\u2019s broader strategy to strengthen brand awareness and build closer connections with users across Asian markets as the platform expands its international presence. Yun Si Yun is a well-known South Korean actor whose career spans television, entertainment programs and musical theater. He gained widespread recognition through the popular sitcom High Kick Through the Roof and the hit TV drama King of Baking, Kim Takgu (Bread, Love and Dreams). More recently, Yun has appeared on the SBS entertainment program My Little Old Boy and is currently starring as Mu-young in the musical The Days, which opened in Seoul in June 2026 and is now on a national tour. TetherMax said Yun\u2019s approachable public image and recognition among audiences in Korea and other Asian markets were key factors behind his appointment. As part of the partnership, Yun will appear in TetherMax brand campaigns and localized marketing content aimed at introducing the platform to a broader audience across Asia. \"Yun Si Yun has built a strong connection with audiences through his long-standing career and approachable image,\u201d said a TetherMax spokesperson. \"We believe he is a strong fit for the TetherMax brand as we expand across Asia. Through upcoming campaigns and localized marketing activities featuring Yun, we aim to increase both brand awareness and trust among users in the region.\u201d TetherMax Strengthens Its Trading Fee Cashback Platform TetherMax provides trading fee cashback services that allow eligible users to receive back a portion of trading fees generated through supported cryptocurrency exchanges. The platform works with more than 16 global cryptocurrency exchanges through official partnerships. Users can connect eligible exchange accounts through TetherMax, allowing supported trading activity and corresponding cashback amounts to be tracked and calculated through the platform. Accumulated cashback can be monitored through a user\u2019s TetherMax account and withdrawn in accordance with the applicable conditions of each supported service. TetherMax has operated its cashback services for more than four years and continues to expand its exchange network and user services. Its supported exchanges include major global platforms such as Binance and WOO X Pro, with cashback rates of up to 90% of eligible trading fees available through selected services, depending on the exchange, account and applicable program conditions. The platform also provides 24-hour customer support as part of its efforts to make cashback services more accessible to users across different markets and time zones. By building its service around official exchange relationships and platform integrations, TetherMax aims to provide users with a more transparent and structured way to access trading fee cashback while reducing the complexity often associated with managing individual referral arrangements. WOO X Pro Referral and Trading Volume Rewards Alongside its brand expansion, TetherMax is currently running referral and trading volume campaigns for eligible WOO X Pro users, providing additional rewards beyond standard trading fee cashback. Through the referral campaign, participants can receive reward tickets through eligible friend invitations, with each issued ticket receiving a reward. The campaign offers rewards of up to 50,000 USDT, subject to the applicable campaign terms and eligibility requirements. TetherMax is also running a trading volume campaign in which participants receive one reward ticket for every 1 million USDT in cumulative eligible trading volume generated after joining the event. The trading volume campaign offers rewards of up to 100,000 USDT, with participants able to accumulate additional tickets as their eligible trading volume increases. The campaigns form part of TetherMax\u2019s broader effort to combine trading fee cashback with additional user benefits and localized promotional activities as the company expands across Asian markets. TetherMax\u2019s June 2026 rebrand repositioned the platform around transparency, accessibility and user benefits, with the Yun Si Yun partnership representing the first major consumer-facing campaign built around the refreshed brand identity. TetherMax said it will continue expanding its exchange partnerships, cashback programs and market-specific promotions across the region. About TetherMax TetherMax is a global trading fee cashback platform that enables users to receive back a portion of trading fees generated through eligible trading activity on supported cryptocurrency exchanges. With more than four years of operating experience, TetherMax works with leading global cryptocurrency exchanges, including Binance, Bybit, Bitget, OKX, Gate and WOO X Pro. Through exchange integrations, the platform tracks eligible trading activity and calculates cashback based on the applicable conditions of each exchange and account. Beyond cryptocurrency trading fee cashback, TetherMax is expanding its cashback model into the FX brokerage market as it continues to broaden its services for traders across global markets. TetherMax is an independent platform and is not affiliated with Tether Limited or the issuer of USDT. Learn more at https://tethermax.io Contact Roro JOO HOLDINGS LTD. Black@tethermax.io Photos accompanying this announcement are available at https://www.globenewswire.com/NewsRoom/AttachmentNg/f0049d47-aa75-4bec-8f86-a76a04ad4521 https://www.globenewswire.com/NewsRoom/AttachmentNg/b594776a-e114-4b97-ac84-8d951de35a82",
+      "link": "https://www.manilatimes.net/2026/09/04/tmt-newswire/globenewswire/tethermax-names-south-korean-actor-yun-si-yun-as-brand-ambassador-as-it-expands-across-asia/2418880",
+      "source": "The Manila Times",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/04/1203731.jpg",
+      "published": "2026-09-04 14:55:55",
+      "category": [
+        "crime"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Govt strengthens oversight as Guyana\u2019s infrastructure programme expands \u2013 Edghill",
+      "description": "The government has strengthened technical oversight, international engineering supervision and continuous quality testing to manage the unprecedented scale of infrastructure development underway countrywide. Minister of Public Works, Bishop Juan Edghill said these systems are in place to ensure the rapid expansion does not come at the expense of quality, accountability or value for money. At [...] The post Govt strengthens oversight as Guyana\u2019s infrastructure programme expands \u2013 Edghill appeared first on INews Guyana .",
+      "link": "https://inewsguyana.com/govt-strengthens-oversight-as-guyanas-infrastructure-programme-expands-edghill/",
+      "source": "Inews Guyana",
+      "image": "https://i0.wp.com/inewsguyana.com/wp-content/uploads/2026/09/777988233_1354107583549510_7590507427672283227_n.jpg?fit=2048%2C1152&ssl=1",
+      "published": "2026-09-04 14:55:53",
+      "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "guyana"
+      ]
+    },
+    {
+      "title": "Norway shares lower at close of trade; Oslo OBX down 0.29%",
+      "description": null,
+      "link": "https://in.investing.com/news/stock-market-news/norway-shares-lower-at-close-of-trade-oslo-obx-down-029-5583065",
+      "source": "Investing India",
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published": "2026-09-04 14:55:53",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Guardians vs Tigers Picks, Props & Splits (Sep 4)",
+      "description": "The Cleveland Guardians (70-70) host the Detroit Tigers (64-75) at Progressive Field for a divisional clash on September 4, 2026. First pitch is scheduled for 2:10 PM ET, with live television coverage available on Tigers TV and Guardians TV. Cleveland enters this matchup as the home favorite with a 5.5-game lead over Detroit in the ... Continued The post Guardians vs Tigers Picks, Props & Splits (Sep 4) appeared first on Sports Betting Dime .",
+      "link": "https://www.sportsbettingdime.com/news/mlb/guardians-tigers-picks-props-splits/",
+      "source": "Sports Betting Dime",
+      "image": "https://www.sportsbettingdime.com/app/uploads/2026/09/2026-08-29T172833Z_165468368_MT1USATODAY29691304_RTRMADP_3_MLB-LOS-ANGELES-DODGERS-AT-DETROIT-TIGERS-scaled.jpg",
+      "published": "2026-09-04 14:55:52",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Iowa's coal-fired energy up after years of decline, report finds",
+      "description": "The Iowa Environmental Council in a new report finds that after years of progress toward carbon-free power, the state's share of coal generation is up.",
+      "link": "https://www.desmoinesregister.com/story/news/environment/2026/09/04/iowa-coal-power-up-report-environmental-council/91608978007/",
+      "source": "The Des Moines Register",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/04/PDEM/91609478007-ottumwa-generating-station.png?auto=webp&crop=886,497,x50,y0&format=pjpg&width=1200",
+      "published": "2026-09-04 14:55:52",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kane County Marks Hunger Action Month, Highlights Food Resources",
+      "description": "Health officials and community partners are raising awareness about food insecurity.",
+      "link": "https://patch.com/illinois/grayslake/kane-county-marks-hunger-action-month-highlights-food-resources",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/shutterstock/52718/20260904/105548/styles/patch_image/public/shutterstock-1711512715___04105524327.jpg",
+      "published": "2026-09-04 14:55:49",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US sanctions on Iran hit three Turkish entities",
+      "description": "US sanctions on Iran hit three Turkish entities The US has targeted three Turkey-based entitites in a new round of Iran-related sanctions issued on Friday. According to the US Treasury Department, the entities targeted are Golden Global Portfoy Yonetimi Anonim Sirketi, Golden Global Varlik Kiralama Anonim Sirketi, and Golden Global Yatirim Bankasi Anonim Sirketi. The move is the latest in the Trump administration's campaign to economically pressure Tehran six months into Washington's war on Iran, which has pushed energy prices higher worldwide. Diesel prices at home in the US are at an all-time high. Treasury Secretary Scott Bessent, who last month announced an \u201ceconomic onslaught\u201d against Iran's financial links around the world, has said Washington is seeking to force Tehran back to the negotiating table, Reuters reported.",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-sanctions-iran-hit-three-turkish-entities",
+      "source": "Middleeasteye Net",
+      "image": null,
+      "published": "2026-09-04 14:55:48",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Nepal floods: Trapped man who chanted 'Hare Krishna' for nine days rescued on Lord's birthday",
-      "description": "For nine days, deep inside a flooded tunnel in Nepal, Sanjay Sah had little idea whether he would make it out alive. With darkness around him and the rescue operation unfolding somewhere beyond the tunnel, the 30-year-old employee of the Nepal Electricity Authority held on to one thing he could still do, chant the Hare Krishna mahamantra. On Friday, Sah was finally brought out alive. The timing carried an extraordinary significance. His rescue came on Krishna Janmashtami, the Hindu festival celebrating the birth of Lord Krishna. \u201cI was chanting Hare Krishna mahamantra for the past nine days,\u201d Sah said shortly after being rescued. His words gave an intensely personal dimension to a rescue that had already captured attention across Nepal, as security teams worked for days to reach workers trapped inside the tunnel at the Trishuli 3A hydropower project. A prayer through nine days of uncertainty Sah, a 30-year-old foreman from Saptari district in Madhesh province, was among two workers rescued from the tunnel on Friday. According to security sources, his condition was stable and he had no immediate health concerns. He was taken to a local hospital in Trishuli for treatment. For the nine days he spent trapped underground, Sah said he continued chanting the Hare Krishna mantra. The coincidence of his rescue with Janmashtami made the moment particularly poignant. Janmashtami is observed by Hindus around the world as the birth anniversary of Lord Krishna, with devotees marking the occasion through prayers, chanting and religious ceremonies. For Sah, the festival arrived on the same day he emerged from the tunnel alive after nine days of uncertainty. His rescue was also a moment of relief for those involved in the search operation, which had continued despite the difficult conditions inside the long tunnel. He stayed behind when others fled Sah was working in the control room when the disaster struck. Rather than immediately fleeing, he said he stayed behind because he felt responsible for the safety of others at the project. \u201cI was working in the control room. My responsibility was to save everyone's life,\u201d Sah said. He recalled urging others to run after the accident. But by the time the others had escaped, it was too late for Sah to get out. He subsequently became trapped inside the tunnel. His account also offered a glimpse into the uncertainty surrounding those who may still be inside. Sah said he had heard or communicated with three or four people nearby, either by talking or making noises. \u201cThere were only three or four people with whom we were able to communicate, nearby, by talking or making noises.\u201d But he warned that others could have been trapped deeper inside. \u201cNot everyone may have been able to escape. The tunnel is very long,\u201d he said. Sah added that the force of the floodwater could have carried people further into the tunnel, including towards the powerhouse. Two workers rescued as search continues Sah was one of two workers brought out safely on Friday (4). The other was 45-year-old Kabir Maharjan, who was airlifted to Nepal Army Hospital in Chhauni, Kathmandu, after developing health complications and requiring further medical treatment. The Nepal Army-led security command has continued the search and rescue operation using specialised equipment as teams attempt to establish whether more people remain trapped inside. For Sah, however, the immediate ordeal ended with his emergence from the tunnel on a day already filled with spiritual significance for millions of Hindus. After nine days underground, his first account was not about the darkness, the floodwater or the fear. It was about the mantra he had continued to chant while waiting to be found. \u201cI was chanting Hare Krishna mahamantra for the past nine days,\u201d he said. And on the day devotees were celebrating the birth of Krishna, Sah walked out alive.",
-      "link": "https://www.easterneye.biz/nepal-floods-man-rescued-nine-days-hare-krishna-janmashtami/",
-      "source": "Asiantimes",
-      "image": "https://www.easterneye.biz/media-library/sah-a-30-year-old-foreman-from-saptari-district-in-madhesh-province-was-among-two-workers-rescued-from-the-tunnel-on-friday-a.jpg?id=67727319&width=980",
-      "published": "2026-09-04 11:41:50",
+      "title": "SB Energy: One Of The Wildest IPOs I've Seen Since The Dot Com",
+      "description": "The party is on, and the AI guest list keeps getting stranger.",
+      "link": "https://seekingalpha.com/article/4943143-sb-energy-one-of-the-wildest-ipos-ive-seen-since-the-dot-com",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154185842/image_2154185842.jpg?io=getty-c-w1280",
+      "published": "2026-09-04 14:55:48",
       "category": [
-        "top",
-        "crime",
-        "environment"
+        "business"
       ],
       "country": [
-        "united kingdom"
+        "canada"
+      ]
+    },
+    {
+      "title": "Bumbershoot 2026: Lineup, schedule, tickets and what else to know",
+      "description": "SEATTLE \u2014 One of Seattle\u2019s biggest festivals of the summer, Bumbershoot, is back this Labor Day weekend at Seattle Center.",
+      "link": "https://www.hastingstribune.com/ap/entertainment/bumbershoot-2026-lineup-schedule-tickets-and-what-else-to-know/article_3caa07c5-3767-5389-ab15-80935c21650f.html",
+      "source": "Hastingstribune",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?resize=600%2C315",
+      "published": "2026-09-04 14:55:47",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,274 +1,231 @@
 {
   "status": "success",
-  "totalResults": 28,
+  "totalResults": 30,
   "results": [
     {
-      "title": "Woman charged after 81yo man found dead",
-      "description": "A man whose body was found in a creek near his home has been identified, after a woman was charged with his alleged murder.",
-      "link": "https://www.news24.com.au/latest/woman-charged-with-murder-after-body-of-81yearold-sam-singh-found-in-creek-near-ballina/news-story/7cb617931a0802a56cc8365ac57fd8f4",
-      "source": "Sky News Australia",
-      "image": "https://content.api.news/v3/images/bin/b66a69a1ff583fd8263e727a3b45f1b4",
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Bowie by Candlelight coming to Gloucester Cathedral with two shows",
-      "description": "DAVID Bowie fans will be able to hear some of the singer\u2019s best-known songs performed by candlelight at a special concert in Gloucester Cathedral",
-      "link": "https://www.gazetteseries.co.uk/news/26521311.david-bowie-tribute-coming-gloucester-cathedral/",
-      "source": "Gazette Series",
-      "image": "https://www.gazetteseries.co.uk/resources/images/21409595/",
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Indonesia\u2019s Anak Krakatau continues to erupt",
-      "description": "Booming and rumbling sounds could be heard from an observation post as authorities reported lava-fountaining activity.",
-      "link": "https://www.freemalaysiatoday.com/category/highlight/2026/09/05/indonesia-s-anak-krakatau-continues-to-erupt",
-      "source": "Free Malaysia Today",
-      "image": "https://media.freemalaysiatoday.com/v3/2026/09/0ce2d87e-b6e0-4963-8bba-eec093d18a86-8707095.webp",
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Country home in \u2018magical\u2019 North Wales location which housed major gallery sold",
-      "description": "The property once housed the Ffin-y-Parc art gallery, the largest and busiest commercial gallery in Wales, representing over 40 artists.",
-      "link": "https://www.leaderlive.co.uk/news/26512437.country-property-housed-ffin-y-parc-gallery-sold/",
-      "source": "The Leader",
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - The Hacker News",
+      "description": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel The Hacker News EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring Reuters OpenAI admits to German wiki \u2018incident\u2019 The Verge Why the Hugging Face Hack Should Make You Worry More About A.I. The New York Times OpenAI agents discussed ways to escape their sandbox on public wiki Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RjMyVHJhdDZZR1dwZ1JKT2M3akdOQTh4c0w2aU8xRzR2MmR0N2tIWFpIUGVCVjFFUGFQZlJCWDVXcllQQXRWMFdOdGlzbTJXTEc3OHFJWHNuRVlkWUNqS2hza2tkUW1DcmZfNWdlVDdRM0E0eFU3cl9ObEs5UQ?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-09-05 05:08:00",
+      "published": "2026-09-05 07:55:00",
       "category": [
-        "top",
         "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "270 Runners Compete In 17Th Petra Desert Marathon",
-      "description": "(MENAFN - Jordan News Agency) Petra, Sep. 5 (Petra) \u2013 The 17th Petra Desert Marathon 2026 kicked off on Saturday, with the participation of approximately 270 runners from various countries. The ...",
-      "link": "https://menafn.com/1111624633/270-Runners-Compete-In-17Th-Petra-Desert-Marathon",
-      "source": "Menafn",
-      "image": null,
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "kuwait",
-        "yemen",
-        "egypt",
-        "libya",
-        "tunisia",
-        "iraq",
-        "lebanon",
-        "saudi arabia",
-        "bahrain",
-        "morocco",
-        "jordan",
-        "syria",
-        "united arab emirates",
-        "qatar",
-        "algeria"
-      ]
-    },
-    {
-      "title": "London weather forecast: Sunny intervals and mild temperatures expected Saturday",
-      "description": "London will see sunny intervals and a slight chance of rain today. Temperatures will be pleasant, reaching a high of 22 degrees Celsius. Tomorrow brings sunshine and warmer conditions with a 26-degree high. The week ahead features sunny intervals and moderate temperatures. By September 11, skies will be cloudy with highs around 22 degrees.",
-      "link": "https://timesofindia.indiatimes.com/world/uk/london-weather-forecast-sunny-intervals-and-mild-temperatures-expected-saturday/articleshow/133788629.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133788628/133788628.jpg",
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Football: Wolves eat early and often, gobble up Goslings, 36-14",
-      "description": "Sun Prairie West senior running back Jahleel Weah had a short evening, but a productive one.",
-      "link": "https://www.dailyunion.com/football-wolves-eat-early-and-often-gobble-up-goslings-36-14/article_d1fe0bc4-73ec-4420-bcbb-e7c7c91eca1f.html",
-      "source": "Daily Jefferson County Union",
-      "image": "https://bloximages.newyork1.vip.townnews.com/dailyunion.com/content/tncms/custom/image/cf15f7e8-eee5-11eb-a3eb-2b5754d09ad7.jpg",
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "top",
-        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Dengue swine flu cases surge in Tamil Nadu doctors urge vigilance ahead of monsoon",
-      "description": "Chennai Sep 5 Tamil Nadu is witnessing a sharp increase in dengue and swine flu cases compared with last year prompting doctors to urge greater vigilance and stronger preventive measures as the monsoon season approaches Public Health Department data show that 13573 dengue cases were reported across the State between January 1 and August 30 this year with nine deathsWhile the fatality rate remains relatively low health experts are concerned about the noticeable rise in infections during July and AugustMonthly figures show 1722 dengue cases in January 1322 in February 1228 in March 1201 in April and 1062 in MayCases began climbing again in June when 1384 infections were recorded followed by 2339 in July and 3315 in AugustThe increase is particularly significant compared with last year Dengue cases rose from 1880 in July last year to 2339 this July while August infections jumped from 1832 to 3315Chennai has reported the highest number of cases accounting for 2584 of the Statea\u0302s 13573 infections between January and August Coimbatore follows with 1999 casesThe rise has raised concerns because the monsoon period is still aheadTamil Nadu recorded 25533 dengue cases last year when the annual caseload declined considerably from the higher levels seen between 2022 and 2024Swine flu infections have also increased Tamil Nadu has recorded more than 1500 cases this year and ranks second among States in the country in terms of infectionsHealth data also indicate a substantial rise compared with recent years particularly during June July and AugustThe increase in August has been especially striking with swine flu cases climbing from just 46 during the corresponding month last year to 645 this yearGovernment doctors said Chennaia\u0302s high population density and inadequate adherence to publichealth precautions were contributing to the spread of infectionsPeople suffering from swine flu should isolate themselves for at least five days they said Doctors also advised people with fever or respiratory symptoms to avoid crowded public places wear masks where appropriate and seek timely medical attentionFor dengue prevention authorities have stressed eliminating stagnant water and mosquitobreeding sites around homes and workplacesDoctors said environmental cleanliness mosquito control public awareness and early treatment would be crucial in preventing a further surge during the coming rainy months IANS",
-      "link": "https://dailyworld.in/national/dengue-swine-flu-cases-surge-in-tamil-nadu-doctors-urge-vigilance-ahead-of-monsoon-700046.html",
-      "source": "Dailyworld Newspaper",
-      "image": "https://dailyworld.in/assets/images/newsImages/large.png?size=1280:720",
-      "published": "2026-09-05 05:08:00",
+      "title": "Bangladesh Navy chief leaves for Saudi Arabia on official visit",
+      "description": "The visit is expected to further strengthen the existing mutual cooperation and fraternal ties between Bangladesh and Saudi Arabia.",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-navy-chief-leaves-saudi-arabia-official-visit-1533936",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/09/05/khondkar_misbah_ul_azim.jpg",
+      "published": "2026-09-05 07:55:00",
       "category": [
-        "domestic"
+        "top",
+        "politics"
       ],
       "country": [
-        "india"
+        "bangladesh"
       ]
     },
     {
-      "title": "ACC Exports Grew To JD1.031Bln In 1St 8 Months 2026: Data",
-      "description": "(MENAFN - Jordan News Agency) Amman, Sep. 5 (Petra) \u2013 The value of certificates of origin issued by the Amman Chamber of Commerce (ACC) for the export of goods and commodities to Arab and foreign ...",
-      "link": "https://menafn.com/1111624634/ACC-Exports-Grew-To-JD1031Bln-In-1St-8-Months-2026-Data",
-      "source": "Menafn",
+      "title": "Cowboys win battle for ex-Dragons captain; Forward stood down after police chase: NRLW Daily",
+      "description": "NRLW star and former St George Illawarra Dragons co-captain Zali Hopkins has decided to take her talents to the North Queensland Cowboys for next season after a five-year stint at the Red V.",
+      "link": "https://www.foxsports.com.au/nrl/nrl-premiership/nrlw-2026-zali-hopkins-departs-dragons-signs-threeyear-deal-with-cowboys-seriah-palepale-stood-down-by-dragons-nrlw-news/news-story/7002e252fda3af82c4a0d3bc78eb1bf1",
+      "source": "Fox Sports",
       "image": null,
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "kuwait",
-        "india",
-        "united arab emirates",
-        "egypt",
-        "bahrain",
-        "jordan",
-        "qatar",
-        "pakistan",
-        "saudi arabia"
-      ]
-    },
-    {
-      "title": "Does Telix Pharmaceuticals' Pipeline Progress Hint at a New Strategic Phase?",
-      "description": "Telix Pharmaceuticals (ASX:TLX) completes a pivotal trial enrollment and strengthens governance, reigniting focus on its growth strategy.",
-      "link": "https://kalkinemedia.com/au/stocks/healthcare/does-telix-pharmaceuticals-pipeline-progress-hint-at-a-new-strategic-phase",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/medicalgloves_09_05_2026_05_08_54_912665.jpg",
-      "published": "2026-09-05 05:08:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "More drama in Pakistan cricket: Mohsin Naqvi's PCB likely to remove chief selector Aaqib Javed in 'clean-up' exercise",
-      "description": "The development comes days after senior players Mohammad Rizwan, Imam-ul-Haq and Salman Ali Agha were sent home from England. The decision has raised questions over Pakistan's selection policy and team management.",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/more-drama-in-pakistan-cricket-mohsin-naqvis-pcb-likely-to-remove-chief-selector-aaqib-javed-in-clean-up-exercise/articleshow/133788251.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133788583/133788583.jpg",
-      "published": "2026-09-05 05:07:58",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Elijah Canlas confirms split from Miles Ocampo, denies cheating allegations",
-      "description": "Photo from Facebook/@notelijahcanlas MANILA \u2014 Elijah Canlas has confirmed that he and actress and television host Miles Ocampo have ended their relationship again, while denying allegations that infidelity or another... The post Elijah Canlas confirms split from Miles Ocampo, denies cheating allegations appeared first on Asian Journal News .",
-      "link": "https://asianjournal.com/entertainment/elijah-canlas-confirms-split-from-miles-ocampo-denies-cheating-allegations/",
-      "source": "Asian Journal News",
-      "image": "https://asianjournal.com/wp-content/uploads/2026/09/elijah-canlas.jpg",
-      "published": "2026-09-05 05:07:57",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mauritius Considers 9 Bills for British Style National Crime Agency Model",
-      "description": "The Cabinet of Ministers took note on Friday, 4 September 2026, of nine draft bills aimed at establishing a dedicated National Crime Agency to bolster and streamline the fight against major crime in Mauritius. Inspired by the British enforcement model, ... The post Mauritius Considers 9 Bills for British Style National Crime Agency Model appeared first on News Moris .",
-      "link": "https://newsmoris.com/mauritius-considers-9-bills-for-british-style-national-crime-agency-model/",
-      "source": "News Moris",
-      "image": "https://newsmoris.com/wp-content/uploads/2025/10/Law-Bill-NM.jpg",
-      "published": "2026-09-05 05:07:57",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "mauritius"
-      ]
-    },
-    {
-      "title": "THE BLITZ: No. 12 West Laurens def. No. 13 Dodge County",
-      "description": "The West Laurens Raiders landed their first win of the 2026 high school football season with a one-point win against the Dodge County Indians.",
-      "link": "https://wgxa.tv/sports/the-blitz/the-blitz-no-12-west-laurens-def-no-13-dodge-county-football-high-school-indians-raiders-aamaury-fountain-braylen-robinson",
-      "source": "Wgxa",
-      "image": "https://wgxa.tv/resources/media2/16x9/1920/1320/center/90/0343bb5d-8113-40a5-8103-c761f9ced04c-000005.jpg",
-      "published": "2026-09-05 05:07:56",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "georgia"
-      ]
-    },
-    {
-      "title": "Police get hands on mystery audio recording about Sydney Swans sexual assault allegations",
-      "description": "The secret tape has been known about for some time now and it contains \u2018detailed recollections\u2019 from people inside the room.",
-      "link": "https://thenightly.com.au/australia/police-get-hands-on-mystery-audio-recording-about-sydney-swans-sexual-assault-allegations--c-22828534",
-      "source": "The Nightly",
-      "image": "https://images.thenightly.com.au/publication/C-22828534/19f91e51bbe6c57e6f93d33d23e99568dbd29549-16x9-x0y0w1304h734.webp",
-      "published": "2026-09-05 05:07:52",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Pottsboro - Farmersville Highlights",
-      "description": null,
-      "link": "https://www.kxii.com/2026/09/05/pottsboro-farmersville-highlights/",
-      "source": "Https://www.kxii.com",
-      "image": "https://gray-kxii-prod.gtv-cdn.com/resizer/v2//GWXZEKJTZBAIVFELBLRTQLFAUE.jpg?auth=f4e13358da5e7c2e1c0b165c39a134c3ff35e34bbae90d9dd17600de962e56fd&smart=true&width=1280&height=720",
-      "published": "2026-09-05 05:07:49",
+      "published": "2026-09-05 07:55:00",
       "category": [
         "sports",
-        "top"
+        "breaking"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "New IFAB rule proves Mbappe\u2019s penalty should have been retaken during Betis vs Real Madrid",
+      "description": "The controversy surrounding Kylian Mbappe\u2019s missed penalty against Real Betis has taken another turn, with the new IFAB rules for the 2026/27 season indicating that the spot-kick should have been re...",
+      "link": "https://sports.yahoo.com/articles/ifab-rule-proves-mbappe-penalty-075500726.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/4d8c351fd73c1afd405bd7eaa7d42477e2a66b3e4f0c4f7d5eba4b3abf6320e1/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fff9e3e15a644bd75c08df9e4929ecf2f.jpg",
+      "published": "2026-09-05 07:55:00",
+      "category": [
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Scuffle in Chirayinkeezhu: Case filed against seven Congress workers; Ramya Haridas MLA seeks treatment",
-      "description": "THIRUVANANTHAPURAM: Police registered a case against seven Congress workers after Ramya Haridas MLA filed a complaint.",
-      "link": "https://keralakaumudi.com/en/news/kerala/general/case-filed-in-scuffle-in-chirayinkeezhu-1799723",
-      "source": "Kerala Kaumudi Online",
-      "image": "https://keralakaumudi.com/web-news/en/2026/09/NMAN0701974/image/conrgess-.1.4008513.jpg",
-      "published": "2026-09-05 05:07:47",
+      "title": "Western Asset Active Bond Gov/Corp Portfolios Q2 2026 Commentary",
+      "description": "Duration positioning was slightly beneficial to performance due to tactical trading over the quarter. Read more here.",
+      "link": "https://seekingalpha.com/article/4943311-western-asset-active-bond-govcorp-portfolios-q2-2026-commentary",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2272946459/image_2272946459.jpg?io=getty-c-w1280",
+      "published": "2026-09-05 07:55:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "New free-to-play MMORPG, currently topping Steam charts, has an English store page but no English support",
+      "description": "Longevity: Path of the Immortal is trending on Steam with English copy, but interestingly, no English support whatsoever. The game supports Simplified Chinese only, and Steam does outright flag this with a warning. It currently has \"Very Positive\" reviews, but almost none of them are English.",
+      "link": "https://www.notebookcheck.net/New-free-to-play-MMORPG-currently-topping-Steam-charts-has-an-English-store-page-but-no-English-support.1389284.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Longevity-Steam.png",
+      "published": "2026-09-05 07:55:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Caleb Amisi announces PM Party\u2019s first-ever rally, targets Tharaka Nithi in grassroots mobilisation",
+      "description": "Saboti Member of Parliament (MP) Caleb Amisi has announced the first-ever rally of the People\u2019s Renaissance Movement (PM) Party as the new political outfit takes its grassroots mobilisation drive to Tharaka Nithi. Taking to his official X account on Saturday, September 5, 2026, Amisi said the party will hold a series of engagements across Tharaka [...]",
+      "link": "https://peopledaily.digital/inside-politics/caleb-amisi-announces-pm-partys-first-ever-rally-targets-tharaka-nithi-in-grassroots-mobilisation",
+      "source": "People Daily",
+      "image": "https://peopledaily.digital/wp-content/uploads/2026/06/amisi-768x528.jpg",
+      "published": "2026-09-05 07:54:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "kenya"
+      ]
+    },
+    {
+      "title": "26,404 Shares in First BanCorp. $FBP Purchased by denkapparat Operations GmbH",
+      "description": "denkapparat Operations GmbH purchased a new position in shares of First BanCorp. (NYSE:FBP \u2013 Free Report) in the second quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The firm purchased 26,404 shares of the bank\u2019s stock, valued at approximately $688,000. A number of other large investors also recently [...]",
+      "link": "https://www.watchlistnews.com/26404-shares-in-first-bancorp-fbp-purchased-by-denkapparat-operations-gmbh/11214603.html",
+      "source": "Watch List News",
+      "image": "https://www.marketbeat.com/logos/first-bancorp-(puerto-rico)-logo-1200x675.gif",
+      "published": "2026-09-05 07:54:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Your AI Agent Has a System Prompt. But Will It Keep the Bowtie?",
+      "description": "What kind of actor does an autonomous agent become when given a choice? Exploring agent behavioral identity, provenance, and the limits of profiles.",
+      "link": "https://hackernoon.com/your-ai-agent-has-a-system-prompt-but-will-it-keep-the-bowtie",
+      "source": "Hackernoon",
+      "image": "https://cdn.hackernoon.com/images/CUe4Moi6I0c6692YiaWx1g6YuhA2-6w83a7u.png",
+      "published": "2026-09-05 07:54:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Adtalem Global Education (NYSE:CVSA) Rating Lowered to Hold at Truist Financial",
+      "description": "Adtalem Global Education (NYSE:CVSA \u2013 Get Free Report) was downgraded by investment analysts at Truist Financial from a \u201cbuy\u201d rating to a \u201chold\u201d rating in a research note issued on Thursday, MarketBeat reports. They currently have a $140.00 target price on the stock. Truist Financial\u2019s target price points to a potential upside of 9.16% from [...]",
+      "link": "https://www.americanbankingnews.com/2026/09/05/adtalem-global-education-nysecvsa-rating-lowered-to-hold-at-truist-financial.html",
+      "source": "Americanbankingnews",
+      "image": "https://www.marketbeat.com/logos/generic-stocks10.jpg",
+      "published": "2026-09-05 07:54:56",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Concurrent Investment Advisors LLC Grows Stock Holdings in Vanguard Mid-Cap Value ETF $VOE",
+      "description": "Concurrent Investment Advisors LLC grew its position in shares of Vanguard Mid-Cap Value ETF (NYSEARCA:VOE \u2013 Free Report) by 36.3% in the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund owned 56,778 shares of the company\u2019s stock after purchasing an additional 15,127 [...]",
+      "link": "https://www.watchlistnews.com/concurrent-investment-advisors-llc-grows-stock-holdings-in-vanguard-mid-cap-value-etf-voe/11214602.html",
+      "source": "Watch List News",
+      "image": "https://www.marketbeat.com/logos/vanguard-mid-cap-value-etf-logo-1200x675.png?v=20210827104511",
+      "published": "2026-09-05 07:54:56",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ultragenyx Pharmaceutical (NASDAQ:RARE) Stock Rating Lowered by JPMorgan Chase & Co.",
+      "description": "Ultragenyx Pharmaceutical (NASDAQ:RARE \u2013 Get Free Report) was downgraded by stock analysts at JPMorgan Chase & Co. from an \u201coverweight\u201d rating to a \u201cneutral\u201d rating in a research report issued on Thursday, Marketbeat.com reports. They currently have a $36.00 target price on the biopharmaceutical company\u2019s stock, down from their prior target price of $80.00. JPMorgan [...]",
+      "link": "https://www.americanbankingnews.com/2026/09/05/ultragenyx-pharmaceutical-nasdaqrare-stock-rating-lowered-by-jpmorgan-chase-co.html",
+      "source": "Americanbankingnews",
+      "image": "https://www.marketbeat.com/logos/ultragenyx-pharmaceutical-inc-logo-1200x675.png?v=20240503131906",
+      "published": "2026-09-05 07:54:55",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Concurrent Investment Advisors LLC Boosts Stock Holdings in Dimensional US Real Estate ETF $DFAR",
+      "description": "Concurrent Investment Advisors LLC boosted its stake in shares of Dimensional US Real Estate ETF (NYSEARCA:DFAR \u2013 Free Report) by 5.2% during the 2nd quarter, according to its most recent 13F filing with the SEC. The firm owned 469,889 shares of the company\u2019s stock after buying an additional 23,030 shares during the period. Concurrent Investment [...]",
+      "link": "https://www.dailypolitical.com/2026/09/05/concurrent-investment-advisors-llc-boosts-stock-holdings-in-dimensional-us-real-estate-etf-dfar.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/dimensional-us-real-estate-etf-logo-1200x675.png?v=20250207071406",
+      "published": "2026-09-05 07:54:55",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Delays, threats, and investigations heard at Newry, Mourne and Down council last month",
+      "description": "Here is your chamber round-up for Newry, Mourne and Down District Council for the month from the Local Democracy Reporting Service",
+      "link": "https://www.belfastlive.co.uk/news/northern-ireland/delays-threats-investigations-heard-newry-34532770",
+      "source": "Belfastlive",
+      "image": "https://i2-prod.belfastlive.co.uk/incoming/article24968075.ece/ALTERNATES/s615/1_Newry-NMDDC-HQ-1.jpg",
+      "published": "2026-09-05 07:54:53",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Sheffield United owner breaks silence on points deduction threat",
+      "description": "Sheffield United owner Steven Rosen has dismissed speculation that the club could be given a 12-point deduction.",
+      "link": "https://footballleagueworld.co.uk/sheffield-united-onwer-breaks-silence-on-points-deduction-threat/",
+      "source": "Football League World",
+      "image": "https://static0.footballleagueworldimages.com/wordpress/wp-content/uploads/2026/09/copy-of-flw-fi-3000x1500-2026-09-04t180616-214.png",
+      "published": "2026-09-05 07:54:51",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "West Bengal plans grand drone shows and global events to elevate 2026 Durga Puja festivities",
+      "description": "Kolkata, Sep 5 (SocialNews.XYZ) The West Bengal government will convene a mega meeting on Monday to discuss the preparations for taking this year\u2019s Durga Puja celebrations to an international level, with a series of large-scale... The post West Bengal plans grand drone shows and global events to elevate 2026 Durga Puja festivities appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/09/05/west-bengal-plans-grand-drone-shows-and-global-events-to-elevate-2026-durga-puja-festivities/",
+      "source": "Social News Xyz",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/09/05/202609053931059.jpg?fit=450%2C284&quality=80&zoom=1&ssl=1",
+      "published": "2026-09-05 07:54:49",
       "category": [
         "top",
         "politics"
@@ -278,27 +235,158 @@
       ]
     },
     {
-      "title": "U88 Casino: Quick\u2010Paced Gaming for Instant Wins",
-      "description": "In today\u2019s fast\u2010moving digital world, many players crave the thrill of a game that delivers excitement in moments rather than hours. If you\u2019re one of those who love a quick spin, a rapid bet, or a lightning\u2010fast payout, U88 Casino offers the perfect playground. Explore the action directly from your browser or phone at https://u88-casino-bet.com/, [...] The post U88 Casino: Quick\u2010Paced Gaming for Instant Wins appeared first on MEWS .",
-      "link": "https://mews.in/u88-casino-quick%E2%80%91paced-gaming-for-instant-wins/",
-      "source": "Mews",
-      "image": "https://mews.in/assets/uploads/2020/05/mews-logo.png",
-      "published": "2026-09-05 05:07:46",
+      "title": "Three Perfect Plans for Your Movie Marathon",
+      "description": "On Movie Day, it\u2019s perfectly fine to go more than once. On Sunday, tickets at Swiss movie theaters cost just 7 francs. Three movie fans from the blue News editorial team share how they\u2019d spend the day\u2014and each puts together their own personal movie itinerary for the day.",
+      "link": "https://www.bluewin.ch/www.bluewin.ch/en/people/three-perfect-plans-for-your-movie-marathon-li.3588740",
+      "source": "Bluewin",
+      "image": null,
+      "published": "2026-09-05 07:54:45",
+      "category": [
+        "domestic"
+      ],
+      "country": [
+        "switzerland"
+      ]
+    },
+    {
+      "title": "Should William reconcile with Harry? The King has two options: Demand an apology or strip them of their titles, says RICHARD EDEN",
+      "description": "Now Prince Harry and Meghan are back in Britain, people keep saying that Prince William and Catherine can't keep ignoring them. But a friend of the Waleses tells me that is exactly the plan.",
+      "link": "https://www.dailymail.com/news/royals/article-16107251/Video-William-reconcile-Harry-King-two-options-Demand-apology-strip-titles-says-RICHARD-EDEN.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/09/05/08/111067297-0-image-a-6_1788592589714.jpg",
+      "published": "2026-09-05 07:54:43",
       "category": [
         "top",
-        "sports"
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Millions face DWP State Pension shake-up as triple lock branded \u2018idiotic\u2019",
+      "description": "The State Pension triple lock could be replaced with a \u201cdouble lock\u201d, a former Conservative pensions secretary has suggested, in a major warning for millions of pensioners.",
+      "link": "https://www.yorkpress.co.uk/news/26524650.dwp-state-pension-triple-lock-faces-shake-up-new-warning/",
+      "source": "The Press",
+      "image": "https://www.yorkpress.co.uk/resources/images/21411955/",
+      "published": "2026-09-05 07:54:42",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Ali Gillani Urges Business Owners to Take a Closer Look at Their Numbers Before Year-End",
+      "description": "Toronto accountant says the second half of the year is a useful time for business owners to catch financial issues before they become year-end problems. Toronto, Ontario, 4th September 2026, ZEX PR WIRE - With the second half of the year",
+      "link": "https://www.openpr.com/news/4622827/ali-gillani-urges-business-owners-to-take-a-closer-look-at-their",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/L/9/L905240191_k.jpg",
+      "published": "2026-09-05 07:54:41",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Ajman marks 45 years of Sheikh Humaid bin Rashid\u2019s rule",
+      "description": "Ajman marks 45 years of Sheikh Humaid bin Rashid\u2019s rule, celebrating transformative progress in education, infrastructure, economy and social welfare across the emirate.",
+      "link": "https://gulfnews.com/uae/government/ajman-marks-45-years-of-sheikh-humaid-bin-rashids-rule-1.500664015",
+      "source": "Gulf News",
+      "image": null,
+      "published": "2026-09-05 07:54:40",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Eight TN engineering students killed in Kerala crash",
+      "description": "Eight people, including seven engineering students from Tamil Nadu, were killed when their car crashed into a stationary goods lorry on National Highway 66 at Panambikkunnu in Kaipamangalam, Thrissur district, late Friday night. The post Eight TN engineering students killed in Kerala crash appeared first on News Today | First with the news .",
+      "link": "https://newstodaynet.com/2026/09/05/eight-tn-engineering-students-killed-in-kerala-crash/",
+      "source": "News Today",
+      "image": "https://newstodaynet.com/storage/2026/09/Untitled-design-2026-09-39bbd8b218200193d3eab9553b41cb65.jpeg",
+      "published": "2026-09-05 07:54:38",
+      "category": [
+        "top",
+        "crime"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "TDP\u2019s 40-day programme reaches one crore homes",
-      "description": "According to the party, Andhra Pradesh has 1,35,91,105 households, and the programme has so far covered 73.6 per cent of them. The campaign is being conducted across all 175 Assembly constituencies.",
-      "link": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Sep/05/tdps-40-day-programme-reaches-one-crore-homes",
+      "title": "Andy Burnham invited to Grangemouth to 'right broken Labour promises'",
+      "description": "Andy Burnham has been invited to Grangemouth to 'right broken promises' Labour made about the refinery",
+      "link": "https://www.thenational.scot/news/26524649.andy-burnham-invited-grangemouth-right-broken-promises/",
+      "source": "Thenational Scot",
+      "image": null,
+      "published": "2026-09-05 07:54:38",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "(Picture) Sky Sports post heavily misleading Liverpool stat during Ipswich game",
+      "description": "A few viewers might have noticed a stat from Sky Sports during Liverpool\u2019s 2-0 win over Ipswich Town last night as it\u2019s either completely inaccurate or heavily misleading. Alexander Isak scored two early goals for the Reds as they beat Ipswich, and they certainly have a very strong record when it comes to going two [...] The post (Picture) Sky Sports post heavily misleading Liverpool stat during Ipswich game appeared first on CaughtOffside .",
+      "link": "https://www.caughtoffside.com/2026/09/05/liverpool-unbeaten-stat-from-sky-sports-looks-misleading/",
+      "source": "Caughtoffside",
+      "image": "https://icdn.caughtoffside.com/wp-content/uploads/2026/09/COS-FeaturedHero-Image-Templates-92.jpg",
+      "published": "2026-09-05 07:54:35",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "100 people queue as Mecca Hobart reopens after months of renovations",
+      "description": "The cosmetics chain had been running from a pop-up during renovations...",
+      "link": "https://pulsetasmania.com.au/news/100-people-queue-as-mecca-hobart-reopens-after-months-of-renovations/",
+      "source": "Pulse Tasmania",
+      "image": "https://cdn.pulsetasmania.com.au/images/pmg/e19abb9e-5q6g911wa7b0gtd_81u9y_u4qu2.jpg",
+      "published": "2026-09-05 07:54:35",
+      "category": [
+        "domestic"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Kharge urges FIR against those involved in \u2018purification\u2019 case",
+      "description": "New Delhi, Sept 5: Congress president Mallikarjun Kharge claimed that the \u201cpurification\u201d carried out at the site of his rally in Haldwani last month was an act of \u201cuntouchability\u201d, as he urged Rajya Sabha Leader of House J P Nadda to direct Uttarakhand Chief Minister Pushkar Singh Dhami to ensure that an FIR is [...] The post Kharge urges FIR against those involved in \u2018purification\u2019 case appeared first on News Today | First with the news .",
+      "link": "https://newstodaynet.com/2026/09/05/kharge-urges-fir-against-those-involved-in-purification-case/",
+      "source": "News Today",
+      "image": "https://newstodaynet.com/storage/2026/09/PTI09_02_2026_000432B.jpg",
+      "published": "2026-09-05 07:54:33",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "The Man on the Treadmill",
+      "description": "Karnataka's Greater Bengaluru Development Minister on what the city's boom took from it \u2014 and why he still won't call it a mistake.",
+      "link": "https://www.newindianexpress.com/lifestyle/nehas-corner/2026/Sep/05/the-man-on-the-treadmill",
       "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-09-05/kyzj4hqx/C_40_1_CH1555_36850815.jpg?w=280",
-      "published": "2026-09-05 05:07:44",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-09-05/mvtpwevj/WhatsApp-Image-2026-09-05-at-1.22.07-PM.jpeg?w=280",
+      "published": "2026-09-05 07:54:32",
       "category": [
         "top",
         "business"
@@ -308,131 +396,43 @@
       ]
     },
     {
-      "title": "Ahead Of Miss World 2026 Finale In Vietnam, Revisiting India's 6 Historic Crowns - ndtv.com",
-      "description": "Ahead Of Miss World 2026 Finale In Vietnam, Revisiting India's 6 Historic Crowns ndtv.com Miss India World Nikita Porwal Is Inspired By... rediff.com Royal nostalgia at Miss World 2026: Nikita Porwal wears gown inspired by Princess Diana\u2019s sapphire ring The Indian Express Nikita Porwal: Stepping Into the World's Spotlight femina.in Miss World 2026: When and where to watch the grand finale in India Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLU9sNW5zb1hldGNvbVUyd0tiMXR2bTFCQW13ZDQwQXpEUHIyVE9MSzJma1pJQXVfanBoeF9ReEEzVFhGaTcxNV9TT1JYRXdoT3BQNmllYlBlZjdfWF93OVI3X2hEVExlZVNKTURqRTNpV3RmOThHUXZoUU9vTVNFUTM0M3N4Y3NlelJrZGZUVEVieFB5d3ZidENoaV85SnhfWnllYWdiaXJNNjM1Tk4taC1lN1hlMHRTZUpoRkpQREEzTGkxbnVfNUNQNG5TUFZleDM5XzlNLWkyV3JrZ3d5bDVib3hsazhpanFnaE1rY01lb3QyR3ItSQ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-05 05:07:43",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Sheriff\u2019s Office Investigating Disturbance Involving Gun at Cantonment Whataburger Following Football Game",
-      "description": "Deputies are investigating an altercation involving a firearm that forced a Cantonment fast food restaurant to shut down Friday night following a local high school football game. Deputies from the Escambia County Sheriff\u2019s Office 5th Precinct in Cantonment were dispatched to the Whataburger on Highway 29 around 10:30 p.m. for a reported shots-fired disturbance, according to [...]",
-      "link": "http://www.northescambia.com/2026/09/sheriff%E2%80%99s-office-investigating-disturbance-involving-gun-at-cantonment-whataburger-following-football-game",
-      "source": "North Escambia News",
-      "image": "http://www.northescambia.com/wp-content/uploads/2026/09/ecsonightfb.jpg",
-      "published": "2026-09-05 05:07:43",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ahead Of Miss World 2026 Finale In Vietnam, Revisiting India's 6 Historic Crowns - NDTV",
-      "description": "Ahead Of Miss World 2026 Finale In Vietnam, Revisiting India's 6 Historic Crowns NDTV Royal nostalgia at Miss World 2026: Nikita Porwal wears gown inspired by Princess Diana\u2019s sapphire ring The Indian Express Nikita Porwal: Stepping Into the World's Spotlight femina.in Miss India World Nikita Porwal Is Inspired By... rediff.com Miss World 2026: When and where to watch the grand finale in India Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUxjcm5JOVA4RzRQWGRPT1FOaFdZMXlGUEk2Mm4tdWFZV1NTZVJHRklKU1hWWmppM2tFcEVzOWNnQXhRcHc5cnlBSzJ0TXNIYVUwcDRuU2xvNk12RV9uZHIzNndhLUNaYlVtd2tEREl0T19ZTk9QZEtVRFVLZ3RlRnlETWw1SzJTUEJVeC1rS3BtSkdLSkQ3bjczb3ViZE9tb3FXQWsxMGNxVEE4QmpoZXVLbE9TNkt0emfSAcIBQVVfeXFMTTZHa2IzT0pKY0Fta0ZBZ0Jmd3g5MDJpXzRFaVhBYm1ZbFVXbGIyVVNrRFVVVWViRjFvMlJpRzlrQ0NvWVk1TlpfczUycG5zNGd4RHlsakNKT2RBYWhlZXhQM3ZwRngwc2d1QlRpaGlMVFBBMXRlTDRRVmJQMEVXdWV2SVZBeE5zd2pOU2RzNXdwS25XV2FpVTFJbFYtZ1ZCSjRlSm9OTDBUcGdRRE0yWFk3MkVuQ3hnOTRSdWlzdzdockE?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-05 05:07:43",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Ahead Of Miss World 2026 Finale In Vietnam, Revisiting India's 6 Historic Crowns",
-      "description": "The Miss World 2026 finale will be held in Vietnam on September 5.",
-      "link": "https://www.ndtv.com/lifestyle/ahead-of-miss-world-2026-finale-in-vietnam-revisiting-indias-6-historic-crowns-12004804",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-09/h6c589vc_miss-world_625x300_05_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "published": "2026-09-05 05:07:43",
+      "title": "State pensioners told not eligible for Winter Payments despite being over 65",
+      "description": "Rules are now in place over who receives the annual support",
+      "link": "https://www.birminghammail.co.uk/news/cost-of-living/state-pensioners-told-not-eligible-34571927",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/cost-of-living/article34383819.ece/ALTERNATES/s615/0_hmrc1.jpg",
+      "published": "2026-09-05 07:54:31",
       "category": [
         "top",
-        "lifestyle"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "US Open Umpire Halts Naomi Osaka Match After Creators Use Blinding Ring Lights for Mid-Game Photoshoot",
-      "description": "Influencers disrupted Naomi Osaka's US Open match with bright ring lights, prompting the umpire to intervene and reigniting debate over creator behaviour.",
-      "link": "https://www.ibtimes.co.uk/us-open-influencer-controversy-naomi-osaka-1817856",
-      "source": "International Business Times",
-      "image": "https://d.ibtimes.co.uk/en/full/1829563/influencers.png?w=1600&h=900&q=88&f=d88a2d48168a34ff1a43741ed4e2e658",
-      "published": "2026-09-05 05:07:41",
-      "category": [
-        "top"
+        "business"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "AFL LIVE: Sydney Swans, Brisbane Lions face off at SCG for preliminary final spot",
-      "description": "The undermanned Swans will look to put weeks of scandal behind them when they take on reigning premiers Brisbane Lions at the SCG in a qualifying final with the winner booking a home preliminary final. Follow along live.",
-      "link": "https://www.watoday.com.au/sport/afl/afl-live-sydney-swans-brisbane-lions-face-off-at-scg-for-preliminary-final-spot-20260904-p60un8.html",
-      "source": "Watoday",
-      "image": "https://static.ffx.io/images/$zoom_0.2145%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_auto/67f25edc4557bfe756690fccb589c72d06e480fa",
-      "published": "2026-09-05 05:07:41",
+      "title": "MTN Eyes Africa\u2019s $331bn SME Funding Gap as It Weighs Banking Licences",
+      "description": "Africa\u2019s largest telecoms operator is exploring banking licences in selected markets as it seeks to deepen lending through MoMo and tap a sub-Saharan African SME financing gap estimated at $331bn. The strategic test is whether MTN can turn its payments data and distribution scale into a profitable lending franchise without importing excessive banking risk onto [...] The post MTN Eyes Africa\u2019s $331bn SME Funding Gap as It Weighs Banking Licences appeared first on The Middle East Observer .",
+      "link": "https://meobserver.news/technology/2026/09/05/mtn-eyes-africas-331bn-sme-funding-gap-as-it-weighs-banking-licences/",
+      "source": "The Middle East Observer",
+      "image": "https://meobserver.news/wp-content/uploads/2026/09/1-14.png",
+      "published": "2026-09-05 07:54:25",
       "category": [
-        "top",
-        "sports"
+        "world"
       ],
       "country": [
-        "australia"
+        "egypt"
       ]
     },
     {
-      "title": "Play of the Week - Pottsboro Cardinals",
-      "description": null,
-      "link": "https://www.kxii.com/2026/09/05/play-week-pottsboro-cardinals/",
-      "source": "Https://www.kxii.com",
-      "image": "https://gray-kxii-prod.gtv-cdn.com/resizer/v2//H5Y44D56F5A2FG3PRH5L4UNBGM.jpg?auth=ab13cb7e2c6dde1531192271d8d8d7bc7733ad17d05efa37d037bcfb95ac5e3c&smart=true&width=1280&height=720",
-      "published": "2026-09-05 05:07:36",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Raiders overcome slow start, roll Wilson Central",
-      "description": "MATT TYSON Staff Writer Coffee County football got back in the win column in dominant fashion Friday night. Traveling to Wilson Central after a heartbreaking rivalry loss at Tullahoma the week before, the Red Raiders trailed early but took control late in the first half on the way to a 34-3 routing. The victory also [...] The post Raiders overcome slow start, roll Wilson Central appeared first on Manchester Times .",
-      "link": "https://www.manchestertimes.com/uncategorized/2026/09/05/raiders-overcome-slow-start-roll-wilson-central/",
-      "source": "Manchestertimes",
-      "image": "https://www.manchestertimes.com/wp-content/uploads/sites/12/2026/09/Sports-1-CHS-football-Kam-Stafford-scaled.jpg",
-      "published": "2026-09-05 05:07:35",
+      "title": "BCCI demands separate accommodation for Indian cricketers participating in Asian Games 2026, IOA clarifies that the entire Indian delegation will be treated equally",
+      "description": "The BCCI has proposed to send a team to Japan ahead of the Games to assess the facilities for Indian cricket teams.",
+      "link": "https://www.opindia.com/news-updates/bcci-demands-separate-accommodation-for-indian-cricketers-asian-games-details/",
+      "source": "Op India",
+      "image": "https://www.opindia.com/wp-content/uploads/2026/09/BCCI.png",
+      "published": "2026-09-05 07:54:22",
       "category": [
         "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cycling Around Taiwan: Why The Island\u2019s Famous Bike Journey Is So Popular",
-      "description": "Cycling around Taiwan is more than a long-distance ride. Known locally as Huandao, the journey has become a distinctive way to experience the island's landscapes, towns and culture.The official Cycling Route No. 1 covers about 960.8 kilometres and is designed to make a round-island cycling journey more accessible. For many riders, the appeal lies in combining a physical challenge with the freedom to discover Taiwan at road level.",
-      "link": "https://www.newspointapp.com/english/lifestyle/why-cycling-around-taiwan-is-so-popular-from-island-route/articleshow/133777860.cms",
-      "source": "Www.newspointapp.com",
-      "image": "https://static.toiimg.com/english/lifestyle/why-cycling-around-taiwan-is-so-popular-from-island-route/photo/133777860.jpg?imgsize=375384",
-      "published": "2026-09-05 05:07:34",
-      "category": [
-        "tourism",
-        "sports",
-        "top"
       ],
       "country": [
         "india"

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Your AI Agent Has a System Prompt. But Will It Keep the Bowtie?",
+      "description": "What kind of actor does an autonomous agent become when given a choice? Exploring agent behavioral identity, provenance, and the limits of profiles.",
+      "link": "https://hackernoon.com/your-ai-agent-has-a-system-prompt-but-will-it-keep-the-bowtie",
+      "source": "Hackernoon",
+      "image": "https://cdn.hackernoon.com/images/CUe4Moi6I0c6692YiaWx1g6YuhA2-6w83a7u.png",
+      "published": "2026-09-05 07:54:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

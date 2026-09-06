@@ -1,35 +1,64 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "OneXPlayer X2 Mini Pro handheld console with SteamOS tested in AAA games",
-      "description": "YouTuber ETA Prime has put Steam OS on the AMD Strix Halo-powered OneXPlayer X2 Mini Pro handheld gaming console and tested it in AAA games. The console proved to be an impressive gaming handheld, playing demanding titles like Crimson Desert at over 60 FPS.",
-      "link": "https://www.notebookcheck.net/OneXPlayer-X2-Mini-Pro-handheld-console-with-SteamOS-tested-in-AAA-games.1388362.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OneXPlayer-X2-Mini-Pro-has-been-tested-with-SteamOS.jpg",
-      "published": "2026-09-05 11:33:00",
+      "title": "Soccer-Manager Rose rues Bournemouth's unwanted Premier League record",
+      "description": "NEWCASTLE, England, Sept 5 (Reuters) - Bournemouth made \u2060Premier League history in a 2-2 draw at Newcastle United on Saturday by becoming \u2060the first club to score first in their opening three games of a season \u200cwithout winning any of them.",
+      "link": "https://www.thestar.com.my/sport/football/2026/09/05/soccer-manager-rose-rues-bournemouth039s-unwanted-premier-league-record",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/05/4094802.jpg",
+      "published": "2026-09-05 14:55:00",
       "category": [
         "top",
+        "sports"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Ellensburg golf scores for the week of Aug. 31, 2026",
+      "description": null,
+      "link": "https://www.dailyrecordnews.com/sports/ellensburg-golf-scores-for-the-week-of-aug-31-2026/article_46214dc5-8d39-4ca1-84a9-845fb2e30ef9.html",
+      "source": "Dailyrecordnews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png?resize=600%2C315",
+      "published": "2026-09-05 14:55:00",
+      "category": [
         "sports",
-        "technology"
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "TD Waterhouse Canada Inc. Purchases 19,088 Shares of Johnson Controls International plc $JCI",
-      "description": "TD Waterhouse Canada Inc. boosted its holdings in Johnson Controls International plc (NYSE:JCI \u2013 Free Report) by 18.0% in the 2nd quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm owned 124,880 shares of the company\u2019s stock after purchasing an additional 19,088 shares during the quarter. [...]",
-      "link": "https://baseballnewssource.com/2026/09/05/td-waterhouse-canada-inc-purchases-19088-shares-of-johnson-controls-international-plc-jci/11255616.html",
-      "source": "Bbns",
-      "image": "https://www.marketbeat.com/logos/jci_logo-1200x675.jpg",
-      "published": "2026-09-05 11:32:55",
+      "title": "WATCH LIVE: Pig Trail Nation Gameday | Silverfield era kicks off vs. North Alabama",
+      "description": "The opening game of the Ryan Silverfield era is just hours away as the Arkansas Razorbacks take on North Alabama in what is expected to be one of the hottest games in school history.",
+      "link": "https://www.nwahomepage.com/sports/pig-trail-nation/watch-live-pig-trail-nation-gameday-silverfield-era-kicks-off-vs-north-alabama/",
+      "source": "Knwa Fox24",
+      "image": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2026/09/GettyImages-2272620898.jpg?w=900",
+      "published": "2026-09-05 14:55:00",
       "category": [
+        "top",
         "sports"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Chancellor warns of tough Budget as Iran war puts strain on economy",
+      "description": "Donald Trump\u2019s war with Iran is hitting \u2018inflation, growth and borrowing costs\u2019, John Healey warns",
+      "link": "https://ca.news.yahoo.com/chancellor-warns-tough-budget-iran-225903212.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/8b923af95a9cf0d817b0dd4928642ec408fc15ba3fd3ee024d9e2985882ce4eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2Fe09ab7d9d61ecf557f957ae83bebd6f2.jpg",
+      "published": "2026-09-05 14:54:59",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

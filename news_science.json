@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Progress for the privileged: Celebrating innovation, ignoring access",
+      "description": "We celebrate breakthroughs in immunotherapy, gene-editing, and artificial intelligence in diagnosis. We rarely ask: for whom?",
+      "link": "https://www.tbsnews.net/thoughts/progress-privileged-celebrating-innovation-ignoring-access-1534271",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2025/09/27/medicine.png",
+      "published": "2026-09-05 14:55:00",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    }
+  ]
 }

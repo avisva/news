@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Mitchell Tech\u2019s Christensen, cancer survivor, launches MTC Cancer Fund",
+      "description": "Initiative to support school students, employees fighting cancer",
+      "link": "https://www.mitchellrepublic.com/news/local/mitchell-techs-christensen-cancer-survivor-launches-mtc-cancer-fund",
+      "source": "Mitchell Daily Republic",
+      "image": "https://cdn.forumcomm.com/dims4/default/2bad32e/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fe3%2F35%2F7d5c010f45f88821aca3af84ae30%2Fmtccancer1.JPG",
+      "published": "2026-09-05 14:55:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

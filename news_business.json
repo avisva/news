@@ -1,35 +1,63 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Powerball: See the winning numbers in Saturday\u2019s $173 million drawing",
-      "description": "Check your numbers to see if you hit it big in Saturday's jackpot.",
-      "link": "https://www.pennlive.com/lottery/2026/09/powerball-see-the-winning-numbers-in-saturdays-173-million-drawing.html",
-      "source": "Pennlive",
-      "image": "https://www.pennlive.com/resizer/v2/YTQYJU6X6JDJ3H2HNGCF7XTX7U.png?auth=1447f124209e28178e1a30064b9daa7b95c59d9ed2666b5195bcd07ad36f9d8e&smart=true&height=1200",
-      "published": "2026-09-06 03:05:58",
+      "title": "How do people on the streets of Luxembourg feel about direct US flights?",
+      "description": "United Airlines will launch a non-stop flight between Luxembourg and Newark in April 2027",
+      "link": "https://www.luxtimes.lu/luxembourg/how-do-people-on-the-streets-of-luxembourg-feel-about-direct-us-flights/160943787.html",
+      "source": "Luxtimes",
+      "image": "https://img.luxtimes.lu/public/luxembourg/ovq32w-153.jpeg/alternates/BASE_SIXTEEN_NINE/153.jpeg",
+      "published": "2026-09-06 06:00:00",
       "category": [
         "top",
+        "business"
+      ],
+      "country": [
+        "luxembourg"
+      ]
+    },
+    {
+      "title": "Bewers Fayre officially shuts all 89 restaurants TOMORROW as chain vanishes from UK \u2013 see full list of locations",
+      "description": "BREWERS FAYRE will officially shut all 89 of its restaurants tomorrow as the chain vanishes from the UK for good. The casual diner has been serving Brits for 45 years, opening its first site back in 1981. But come Monday, September 7, fans will have to wave goodybe to their local branch before all 89 sites...",
+      "link": "https://www.thesun.co.uk/money/40280407/brewers-fayre-shuts-all-restaurants-uk/",
+      "source": "The Sun",
+      "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2024%2F02%2Faaf51107-12ff-451a-b6c9-f9d0a6cfdc26.jpg?quality%3D90%26strip%3Dall",
+      "published": "2026-09-06 06:00:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "One region dominates UK's most popular destinations for Christmas 2026",
+      "description": "Five of the six most-booked locations are in the same county",
+      "link": "https://www.bristolpost.co.uk/whats-on/whats-on-news/one-region-dominates-uks-most-11141141",
+      "source": "Bristolpost Co Uk",
+      "image": "https://i2-prod.bristolpost.co.uk/incoming/article11141113.ece/ALTERNATES/s615/0_Richmond-House-2.jpg",
+      "published": "2026-09-06 06:00:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "New showroom: Rug & Home unveils reimagined space",
+      "description": "KANNAPOLIS \u2014 Rug & Home is unveiling a completely reimagined Kannapolis showroom as part of a redevelopment of the nearly 100,000-square-foot former Target building at 3333 Cloverleaf Parkway. The project [...]",
+      "link": "https://www.salisburypost.com/2026/09/06/new-showroom-rug-home-unveils-reimagined-space/",
+      "source": "Salisbury Post",
+      "image": "https://www.salisburypost.com/wp-content/themes/2024-salisbury-child/media/img/brand/default-logo.png",
+      "published": "2026-09-06 06:00:00",
+      "category": [
         "business"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "BNM holds OPR at 2.75 pct as growth resilient, inflation contained",
-      "description": "BNM keeps OPR at 2.75% as sustainable growth and contained inflation support Malaysia\u2019s economy, with AI and tech expected to boost exports",
-      "link": "https://thesun.my/news/malaysia-news/people-issues/bnm-holds-opr-at-2-75-pct-as-growth-resilient-inflation-contained/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/09/KL02_06092026_BNM.webp",
-      "published": "2026-09-06 03:05:55",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "malaysia"
       ]
     }
   ]

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Sailor Jones: How Rowan County won the war on early voting",
+      "description": "Rowan Board of Elections Member Evelyn Medina may not have known it at the time, but her remarks at last month\u2019s State Board of Elections meeting revealed just how North [...]",
+      "link": "https://www.salisburypost.com/2026/09/06/sailor-jones-how-rowan-county-won-the-war-on-early-voting/",
+      "source": "Salisbury Post",
+      "image": "https://www.salisburypost.com/wp-content/uploads/sites/9/2026/09/jones.jpeg",
+      "published": "2026-09-06 06:00:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "The Best Hotels In Ibiza, From Beach Resorts To Wellness Retreats",
+      "description": "Heading to Ibiza in 2026? Explore Vogue's edit of the best hotels in Ibiza and Formentera. From wellness-focused stays perfect for a detox to minimalist-chic luxury resorts ideal for couples, here\u2019s where to stay in Ibiza.",
+      "link": "https://www.vogue.co.uk/article/best-hotels-in-ibiza",
+      "source": "Vogue",
+      "image": "https://media.vogue.co.uk/photos/663c931b888230a20c8f00b9/master/pass/holding%20option%203%20+%20in%20story.jpg",
+      "published": "2026-09-06 06:00:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Drummer Bride Tennessee Thomas\u2019s Wedding Was Held In A Gas Station Off Route 395",
+      "description": "Tennessee Thomas staged her wedding at the Whoa Nellie Deli in Tioga Gas Mart \u2013 the mid-point between Mount Whitney and Death Valley \u2013 and wore three whimsical dresses for the occasion.",
+      "link": "https://www.vogue.co.uk/gallery/tennessee-thomas-wedding",
+      "source": "Vogue",
+      "image": "https://media.vogue.co.uk/photos/6a968760e941b7c4dbf87894/master/pass/79560032_VSCO.jpg",
+      "published": "2026-09-06 06:00:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Millionaire NI beauty boss\u2019s vile rant at hotel guest caught on camera",
+      "description": null,
+      "link": "https://www.belfasttelegraph.co.uk/sunday-life/news/millionaire-ni-beauty-bosss-vile-rant-at-hotel-guest-caught-on-camera/a/160972363.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/e9vbhp-mb-20260307-01a-187.jpg/alternates/BASE_SIXTEEN_NINE/MB_20260307_01A_187.jpg",
+      "published": "2026-09-06 06:00:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

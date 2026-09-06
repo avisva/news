@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Honest Money: When money loses its anchor, economies pay the hidden price",
-      "description": "The dollar\u2019s global dominance gives the US extraordinary monetary power, leaving nations exposed to decisions they neither influence nor control",
-      "link": "https://telanganatoday.com/honest-money-when-money-loses-its-anchor-economies-pay-the-hidden-price",
-      "source": "Telangana Today",
-      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/honest_money_1280x750_100kb.jpg",
-      "published": "2026-09-05 23:55:55",
+      "title": "Powerball: See the winning numbers in Saturday\u2019s $173 million drawing",
+      "description": "Check your numbers to see if you hit it big in Saturday's jackpot.",
+      "link": "https://www.pennlive.com/lottery/2026/09/powerball-see-the-winning-numbers-in-saturdays-173-million-drawing.html",
+      "source": "Pennlive",
+      "image": "https://www.pennlive.com/resizer/v2/YTQYJU6X6JDJ3H2HNGCF7XTX7U.png?auth=1447f124209e28178e1a30064b9daa7b95c59d9ed2666b5195bcd07ad36f9d8e&smart=true&height=1200",
+      "published": "2026-09-06 03:05:58",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BNM holds OPR at 2.75 pct as growth resilient, inflation contained",
+      "description": "BNM keeps OPR at 2.75% as sustainable growth and contained inflation support Malaysia\u2019s economy, with AI and tech expected to boost exports",
+      "link": "https://thesun.my/news/malaysia-news/people-issues/bnm-holds-opr-at-2-75-pct-as-growth-resilient-inflation-contained/",
+      "source": "Thesun",
+      "image": "https://thesun.my/wp-content/uploads/2026/09/KL02_06092026_BNM.webp",
+      "published": "2026-09-06 03:05:55",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "malaysia"
       ]
     }
   ]

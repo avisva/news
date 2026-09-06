@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Sailor Jones: How Rowan County won the war on early voting",
-      "description": "Rowan Board of Elections Member Evelyn Medina may not have known it at the time, but her remarks at last month\u2019s State Board of Elections meeting revealed just how North [...]",
-      "link": "https://www.salisburypost.com/2026/09/06/sailor-jones-how-rowan-county-won-the-war-on-early-voting/",
-      "source": "Salisbury Post",
-      "image": "https://www.salisburypost.com/wp-content/uploads/sites/9/2026/09/jones.jpeg",
-      "published": "2026-09-06 06:00:00",
+      "title": "Tinubu: Nigeria needs leaders committed to public good, not personal gain",
+      "description": "President Bola Tinubu has declared that Nigeria requires patriotic leaders and citizens whose commitment to national development transcends personal interests and self-aggrandisement. The post Tinubu: Nigeria needs leaders committed to public good, not personal gain appeared first on The Sun Nigeria .",
+      "link": "https://thesun.ng/tinubu-nigeria-needs-leaders-committed-to-public-good-not-personal-gain/",
+      "source": "The Sun Nigeria",
+      "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/08/President-Bola-A.-Tinub-720x530-1.jpg",
+      "published": "2026-09-06 08:18:48",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "nigeria"
+      ]
+    },
+    {
+      "title": "ICYMI#TheTribuneOpinion: Why tangible outcomes keep eluding India-China talks",
+      "description": "Conceived in 2003, the Special Representatives framework for better Indo-China relations has slowly degenerated into a procedural exercise. When the two current Special Representatives \u2014 India\u2019s National Security Adviser (NSA) Ajit Doval and Chinese Foreign Minister Wang Yi \u2014 met recently in Beijing for the 25th round of the dialogue, the mechanism turned 23 with [...]",
+      "link": "https://www.tribuneindia.com/news/comment/icymithetribuneopinion-why-tangible-outcomes-keep-eluding-india-china-talks",
+      "source": "The Tribune India",
+      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/09/6a9d21be80db3-INDO-CHINA.jpeg",
+      "published": "2026-09-06 08:18:39",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Vivo X500 Pro Max Just Broke 4,000 Points on Geekbench",
+      "description": "Vivo X500 Pro Max hits over 4,000 single-core and 13,000 multi-core points on Geekbench, giving us an early look at the Dimensity 9600.",
+      "link": "https://www.gizchina.com/vivo-phones/vivo-x500-pro-max-just-broke-4000-points-on-geekbench",
+      "source": "Gizchina",
+      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgizchina.com%2Fimages%2F2026-03%2Fvivo-x500-pro-concept-v0-kmqrv8b-69b401221869a.jpg@webp",
+      "published": "2026-09-06 12:40:00",
+      "category": [
+        "top",
+        "sports",
+        "technology"
+      ],
+      "country": [
+        "china"
+      ]
+    }
+  ]
 }

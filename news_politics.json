@@ -1,19 +1,64 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Ryanair calls on European Union to extend new \"shambolic\" border control derogation to April 2027",
-      "description": "Ryanair\u2019s COO Neal McMahon, said: \u201cThe EU\u2019s handling of EES has been a shambles from start to finish.",
-      "link": "https://www.majorcadailybulletin.com/holiday/airport/2026/09/07/145559/ryanair-calls-european-union-extend-new-shambolic-border-control-derogation-april-2027.html",
-      "source": "Majorca Daily Bulletin",
-      "image": "https://md.gsstatic.es/sfAttachPlugin/195201.webp",
-      "published": "2026-09-07 09:06:00",
+      "title": "Pacific island nation Nauru opens embassy in Jerusalem",
+      "description": "Nauru has opened its embassy in Jerusalem, becoming one of a small group of countries to take the symbolic step of backing Israeli sovereignty over the city.",
+      "link": "https://www.newarab.com/news/pacific-island-nation-nauru-opens-embassy-jerusalem",
+      "source": "The New Arab",
+      "image": null,
+      "published": "2026-09-07 11:57:56",
       "category": [
+        "top",
         "politics"
       ],
       "country": [
-        "spain"
+        "morocco",
+        "libya",
+        "iraq",
+        "kuwait",
+        "lebanon",
+        "palestine",
+        "united arab emirates",
+        "syria",
+        "egypt",
+        "bahrain",
+        "jordan",
+        "algeria",
+        "tunisia",
+        "qatar",
+        "saudi arabia"
+      ]
+    },
+    {
+      "title": "\u2018Strategy yet to be decided\u2019: Shinde on NDA alliance in Goa, backs BJP-Shiv Sena \u2018same ideology\u2019",
+      "description": "\u2018Strategy yet to be decided\u2019: Shinde on NDA alliance in Goa, backs BJP-Shiv Sena \u2018same ideology\u2019",
+      "link": "https://timesofindia.indiatimes.com/india/strategy-yet-to-be-decided-shinde-on-nda-alliance-in-goa-backs-bjp-shiv-sena-same-ideology/articleshow/133878936.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133879766/133879766.jpg",
+      "published": "2026-09-07 11:57:50",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Jamaica takes its case for reparations for Britain\u2019s role in slavery to King Charles III",
+      "description": "LONDON (AP) \u2014 Jamaica is taking its campaign for Britain to pay reparations for the ravages of the trans-Atlantic slave trade to King Charles III. Using legal traditions that stretch back to the early days of the British Empire, Jamaica will on Monday petition the king to refer a series of questions about slavery and...",
+      "link": "https://mymotherlode.com/news/europe/11120857/jamaica-takes-its-case-for-reparations-for-britains-role-in-slavery-to-king-charles-iii.html",
+      "source": "Mymotherlode.com - The Mother Lode's Local News, S",
+      "image": "https://mymotherlode.com/wp-content/uploads/2026/09/AP_bac687e4349d4b77abed9e19bea8ebac_459c330f1a.jpg",
+      "published": "2026-09-07 11:57:39",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

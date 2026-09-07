@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "MIT scientists crack the code for flexible wafer-scale photonics",
+      "description": "Bendy bonding process could transform wearables ... and data center rack designs",
+      "link": "https://www.sdxcentral.com/news/mit-scientists-crack-the-code-for-flexible-wafer-scale-photonics/",
+      "source": "Sdxcentral",
+      "image": "https://media.datacenterdynamics.com/media/images/GettyImages-2219447200.2e16d0ba.fill-750x500.jpg",
+      "published": "2026-09-07 11:58:00",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

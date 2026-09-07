@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "5 Things never to say to someone experiencing a mental health crisis",
+      "description": "When someone is going through a mental health crisis, the words of the people around them can make",
+      "link": "https://k24.digital/lifestyle/mental-wellnes/5-things-never-to-say-to-someone-experiencing-a-mental-health-crisis",
+      "source": "K24 Tv",
+      "image": "https://k24.digital/wp-content/uploads/2026/09/Mental-health.png",
+      "published": "2026-09-07 11:57:38",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "kenya"
+      ]
+    }
+  ]
 }

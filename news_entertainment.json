@@ -1,21 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "5 Most Historically Accurate Mafia Movies, Ranked",
-      "description": "More than just the Italian Mafia, mafia movies cover crime families across the world. These five movies depict those hidden societies with the most accuracy.",
-      "link": "https://www.looper.com/2248191/most-historically-accurate-mafia-movies-ranked/",
-      "source": "Looper",
-      "image": "https://www.looper.com/img/gallery/5-most-historically-accurate-mafia-movies-ranked/l-intro-1787946529.jpg",
-      "published": "2026-09-07 16:18:00",
+      "title": "114 Years Later, \u2018The Odyssey\u2019 Is Officially Making Hollywood History",
+      "description": "Christopher Nolan\u2019s The Odyssey is officially on track to be the highest-grossing movie in Universal Pictures history.",
+      "link": "https://collider.com/the-odyssey-universal-box-office-record-highest-grossing-ever/",
+      "source": "Collider",
+      "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/the-odyssey-jon-bernthal.jpg",
+      "published": "2026-09-07 21:20:56",
       "category": [
         "entertainment",
-        "top",
-        "crime"
+        "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "South Park mocks Donald Trump after latest Emmy win",
+      "description": "Long-running TV satire South Park has taken a dig at US President Donald Trump after its latest Emmy win.",
+      "link": "https://www.riverineherald.com.au/aap-entertainment/south-park-mocks-donald-trump-after-latest-emmy-win/",
+      "source": "Riverine Herald",
+      "image": null,
+      "published": "2026-09-07 21:20:56",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

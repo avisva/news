@@ -1,16 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Everfit Launches Booking & Scheduling For Coaches and Fitness Studios",
-      "description": "Everfit launched Booking & Scheduling, a native calendar and session management system built directly into its coaching platform. The number one most-requested feature among its over 380,000 coaches lets them run their entire business inside Everfit, eliminating the need to manage a 3rd party calendar and scheduling system.",
-      "link": "https://www.financialcontent.com/article/bizwire-2026-9-8-everfit-launches-booking-and-scheduling-for-coaches-and-fitness-studios",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-09-08 15:03:00",
+      "title": "EQS-PVR: AT&S Austria Technologie & Systemtechnik AG: Release according to Article 135, Section 2 Bo\u0308rseG with the objective of Europe-wide distribution",
+      "description": "<table border=\"0\"><tr><td> EQS Voting Rights Announcement: ATS Austria Technologie Systemtechnik AG <br/> ATS Austria Technologie Systemtechnik AG: Release according to Article 135, Section 2 Bo\u0308rseG with the objective of Europe-wide distribution <br/><br/> 08.09.2026 / 22:35 CET/CEST<br/> Dissemination of a Voting...",
+      "link": "https://www.finanzen.at/nachrichten/aktien/eqs-pvr-at&s-austria-technologie-&-systemtechnik-ag-release-according-to-article-135-section-2-boerseg-with-the-objective-of-europe-wide-distribution-1036530188",
+      "source": "Finanzen",
+      "image": "https://www.finanzen.at/Images/FacebookIcon.jpg",
+      "published": "2026-09-08 20:35:51",
       "category": [
-        "technology"
+        "technology",
+        "top"
+      ],
+      "country": [
+        "austria"
+      ]
+    },
+    {
+      "title": "A developer finds AI asset tools give small studios back time for creative decisions",
+      "description": "SIFOR cut weeks of asset revisions by using Ludo.ai's generators, turning concept art into game-ready 3D meshes for titles like *Abduct 'Em*. The freed hours shifted toward creative decisions, not less work.",
+      "link": "https://completeaitraining.com/news/a-developer-finds-ai-asset-tools-give-small-studios-back/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/a-developer-finds-ai-asset-tools-give-small-studios-back-time-for-creative-decis_2026-09-08.jpg",
+      "published": "2026-09-08 20:35:49",
+      "category": [
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"

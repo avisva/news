@@ -1,19 +1,64 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Does education need AI-tutor Chris?",
-      "description": "Sceptical amusement aside that even the consideration of an AI data centre be built, the recent launch of the AI-powered tutor \u201cChris\u201d for secondary school students is a much more realistic and foundational step toward the kind of AI-inevitable world...",
-      "link": "https://trinidadexpress.com/opinion/columnists/does-education-need-ai-tutor-chris/article_fca8bc76-9448-45c2-8f63-550045c20162.html",
-      "source": "Trinidadexpress",
-      "image": "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/b/8d/b8df014e-49c4-11ef-8adf-1f74b4d0c032/66a108767ae75.image.jpg?resize=300%2C210",
-      "published": "2026-09-09 01:22:00",
+      "title": "HarmonyOS 7 installed on more than 5 million devices within 24 hours",
+      "description": "Huawei said more than 5 million devices were upgraded to HarmonyOS 7 within 24 hours of the operating system\u2019s release. HarmonyOS 7 has entered public beta for supported smartphones, tablets, computers, smartwatches and earphones in China. The update expands the capabilities of Huawei\u2019s Celia AI assistant, which can access more than 2,100 system functions and [...]",
+      "link": "https://technode.com/2026/09/09/harmonyos-7-five-million-device-upgrades-24-hours/",
+      "source": "Tech Node",
+      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/09/harmonyos-7.png?fit=1173%2C675&ssl=1",
+      "published": "2026-09-09 05:31:55",
       "category": [
         "technology"
       ],
       "country": [
-        "trinidad and tobago"
+        "china"
+      ]
+    },
+    {
+      "title": "Google Chat won\u2019t lose track of your unfinished messages anymore",
+      "description": "Your half-written work messages finally have somewhere safe to hang out.",
+      "link": "https://www.androidauthority.com/persistent-drafts-on-google-chat-3709047/",
+      "source": "Androidauthority",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Chat-compose-box-for-unsent-messages.jpg",
+      "published": "2026-09-09 05:31:49",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cyberattacks Put SMB Survival at Risk",
+      "description": "Kaspersky survey reveals phishing, ransomware and data theft are hitting smaller businesses hard, exposing the urgent need for stronger cyber resilience. Small and medium-sized businesses are increasingly finding themselves on the frontline of a cyber threat landscape once associated primarily with large enterprises. A new global survey by Kaspersky shows...",
+      "link": "https://www.enterpriseitworld.com/cyberattacks-put-smb-survival-at-risk/",
+      "source": "Enterprise It World",
+      "image": "https://www.enterpriseitworld.com/wp-content/uploads/2023/07/Ilya-Markelov.jpg",
+      "published": "2026-09-09 05:31:43",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Massive Redis Cryptojacking Campaign Hijacks Thousands of Linux Servers",
+      "description": "A large-scale Redis cryptojacking operation targets thousands of exposed Linux servers by abusing unauthenticated Redis deployments to install XMRig... Read more \u2192 The post Massive Redis Cryptojacking Campaign Hijacks Thousands of Linux Servers appeared first on IT Security News .",
+      "link": "https://www.itsecuritynews.info/massive-redis-cryptojacking-campaign-hijacks-thousands-of-linux-servers/",
+      "source": "It Security News",
+      "image": null,
+      "published": "2026-09-09 05:31:41",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

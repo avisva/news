@@ -1,20 +1,66 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "[Exclusive] Korea to disburse first round of investments in US this month",
-      "description": null,
-      "link": "https://www.hani.co.kr/arti/english_edition/e_international/1277024.html",
-      "source": "Hani",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/722/433/imgdb/original/2026/0909/2017889422089986.webp",
-      "published": "2026-09-09 08:24:00",
+      "title": "Zelenskyy urges more international pressure on Russia over civilian deaths",
+      "description": "Ukrainian President Volodymyr Zelenskyy is criticizing the international community for not taking a tougher stance against Russia's attacks on civilian areas.",
+      "link": "https://www.wsls.com/news/world/2026/09/09/zelenskyy-urges-more-international-pressure-on-russia-over-civilian-deaths/",
+      "source": "Wsls",
+      "image": "https://www.wsls.com/resizer/Mv27-1MxC4uxCEQ3RyC5zfaNas8=/cloudfront-us-east-1.images.arcpublishing.com/gmg/OVEEUJQ2IRAH3FG6JPVR4YSWYA.jpg",
+      "published": "2026-09-09 10:53:50",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "south korea"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BRS Disrupting Assembly Instead of Raising Public Issues: Congress MLA Parnika",
+      "description": "The Congress MLA alleged that the Opposition was diverting the debate from Assembly business and raising issues unrelated to the scheduled proceedings.",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/brs-disrupting-assembly-proceedings-instead-of-raising-public-issues-congress-mla-chittem-parnika-1986094",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/09/2086797-chittem-parnika-reddy.webp",
+      "published": "2026-09-09 10:53:49",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\u2018Mention The Name Of That Aide\u2019 \u2013 Benue Govt Challenges Peter Obi Over Thugs Attack",
+      "description": "The Benue State Government has challenged the presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, and his party to identify the government... The post \u2018Mention The Name Of That Aide\u2019 \u2013 Benue Govt Challenges Peter Obi Over Thugs Attack appeared first on Naija News .",
+      "link": "https://www.naijanews.com/2026/09/09/benue-govt-challenges-peter-obi/",
+      "source": "Naija News",
+      "image": "https://www.naijanews.com/wp-content/uploads/2026/09/Peter-Obi-1536x900.png",
+      "published": "2026-09-09 10:53:47",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "BCCI, State Associations Grilled By Top Court Over New Sports Governance Law",
+      "description": "A bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V Mohana observed this on Tuesday while hearing the applications filed by some cricket bodies in the BCCI matter.",
+      "link": "https://sports.ndtv.com/cricket/bcci-state-associations-grilled-by-supreme-court-over-new-sports-governance-law-12023103",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-09/dqccssuo_bcci_625x300_09_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-09-09 10:53:44",
+      "category": [
+        "top",
+        "sports",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

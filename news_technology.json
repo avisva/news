@@ -1,64 +1,20 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 1,
   "results": [
     {
-      "title": "HarmonyOS 7 installed on more than 5 million devices within 24 hours",
-      "description": "Huawei said more than 5 million devices were upgraded to HarmonyOS 7 within 24 hours of the operating system\u2019s release. HarmonyOS 7 has entered public beta for supported smartphones, tablets, computers, smartwatches and earphones in China. The update expands the capabilities of Huawei\u2019s Celia AI assistant, which can access more than 2,100 system functions and [...]",
-      "link": "https://technode.com/2026/09/09/harmonyos-7-five-million-device-upgrades-24-hours/",
-      "source": "Tech Node",
-      "image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/09/harmonyos-7.png?fit=1173%2C675&ssl=1",
-      "published": "2026-09-09 05:31:55",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "Google Chat won\u2019t lose track of your unfinished messages anymore",
-      "description": "Your half-written work messages finally have somewhere safe to hang out.",
-      "link": "https://www.androidauthority.com/persistent-drafts-on-google-chat-3709047/",
-      "source": "Androidauthority",
-      "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Chat-compose-box-for-unsent-messages.jpg",
-      "published": "2026-09-09 05:31:49",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cyberattacks Put SMB Survival at Risk",
-      "description": "Kaspersky survey reveals phishing, ransomware and data theft are hitting smaller businesses hard, exposing the urgent need for stronger cyber resilience. Small and medium-sized businesses are increasingly finding themselves on the frontline of a cyber threat landscape once associated primarily with large enterprises. A new global survey by Kaspersky shows...",
-      "link": "https://www.enterpriseitworld.com/cyberattacks-put-smb-survival-at-risk/",
-      "source": "Enterprise It World",
-      "image": "https://www.enterpriseitworld.com/wp-content/uploads/2023/07/Ilya-Markelov.jpg",
-      "published": "2026-09-09 05:31:43",
+      "title": "What Is Instagram\u2019s Viral ChatGPT \u201980s Photo Trend? Here\u2019s How To Create Yours",
+      "description": "A new Instagram trend involves users creating 1980s-style portraits of themselves using ChatGPT's AI image generation. Instead of simple filters, users upload a photo and provide a detailed prompt to reimagine it with retro aesthetics. This includes specifying hairstyles, clothing, and backgrounds to create authentic-looking vintage images.",
+      "link": "https://newsable.asianetnews.com/lifestyle/what-is-instagram-viral-chatgpt-80s-photo-trend-here-s-how-to-create-yours-articleshow-xzbf5b4",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m22m82febsvf2fay9fngqaxv,imgname-chatgpt-image-sep-9--2026--01-52-48-pm-1788942223854.png",
+      "published": "2026-09-09 08:23:51",
       "category": [
         "technology",
         "top"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Massive Redis Cryptojacking Campaign Hijacks Thousands of Linux Servers",
-      "description": "A large-scale Redis cryptojacking operation targets thousands of exposed Linux servers by abusing unauthenticated Redis deployments to install XMRig... Read more \u2192 The post Massive Redis Cryptojacking Campaign Hijacks Thousands of Linux Servers appeared first on IT Security News .",
-      "link": "https://www.itsecuritynews.info/massive-redis-cryptojacking-campaign-hijacks-thousands-of-linux-servers/",
-      "source": "It Security News",
-      "image": null,
-      "published": "2026-09-09 05:31:41",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
       ]
     }
   ]

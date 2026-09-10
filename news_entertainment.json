@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Rosewood Hong Kong's Secret? Hugo Montanari's People-First Approach",
+      "description": "At Rosewood Hong Kong, Managing Director Hugo Montanari leads with warmth",
+      "link": "https://www.esquireindia.co.in/lifestyle/travel/rosewood-hong-kongs-secret-hugo-montanaris-people-first-approach",
+      "source": "Esquire India",
+      "image": "https://media.assettype.com/esquireindia/2026-09-10/cyxjiu3i/Hugo-Montanari.jpg",
+      "published": "2026-09-10 09:22:42",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

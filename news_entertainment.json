@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "EastEnders airs two sensational Cindy and Max twists in early iPlayer release",
+      "title": "Viking View: New season, new characters, new plot",
       "description": null,
-      "link": "https://www.digitalspy.com/soaps/eastenders/a73651455/eastenders-two-cindy-max-twists-iplayer/",
-      "source": "Digital Spy",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c47899ce-6501-4b4d-bf84-d82944736e6d.jpg?crop=0.341xw:0.512xh;0.457xw,0.0697xh&resize=1200:*",
-      "published": "2026-09-09 12:49:00",
+      "link": "https://www.winonapost.com/sports/viking-view-new-season-new-characters-new-plot/article_51697ac3-fe09-472c-b085-119f68ba6c9a.html",
+      "source": "Winona Post",
+      "image": null,
+      "published": "2026-09-09 17:34:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What's on TV tonight",
+      "description": "1) \u201cColin From Accounts\u201d final season, Paramount+. In one eight-episode clump, here\u2019s the entire season. It\u2019s written (beautifully) by the married duo of Patrick Brammall and Harriet Dyer, who also star. Starting three years after his drunken proposal, this gets...",
+      "link": "https://www.cadillacnews.com/whats-on-tv-tonight/article_ebd04919-60c1-46f8-8f64-124d23f9439e.html",
+      "source": "Cadillacnews",
+      "image": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/b45cec82-e266-4ee5-8309-6a16877bc51b.png?resize=600%2C315",
+      "published": "2026-09-09 17:34:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Crunchyroll Reveals New Contender for Solo Leveling\u2019s Crown in 2027 \u2013 Watch Trailer",
+      "description": "\u00a9 \u201cSSS-Class Revival Hunter\u201d Production Committee Crunchyroll has revealed a new major anime adaptation that\u2019s coming for Solo Leveling\u2018s crown in 2027, and the first trailer for it is showing off what fans can hope to see. Korean webcomic adaptations have been getting much bigger in scope over the last decade as following a few key successes, fans have seen breakout [...]",
+      "link": "https://comicbook.com/anime/news/crunchyroll-reveals-new-contender-for-solo-levelings-crown-in-2027-watch-trailer/",
+      "source": "Comic Book",
+      "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/SSS-Class-Revival-Hunter-2027-Anime-Crunchyroll.jpg",
+      "published": "2026-09-09 17:33:54",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

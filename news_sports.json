@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 10,
   "results": [
     {
-      "title": "Fishing trip on Lake George was a nice change of pace",
-      "description": "This past weekend I did something a little outside of my normal wheelhouse. Now typically, when it comes to fishing, I am wholeheartedly a moving water angler; whether it be a trout stream or a river, there is something about...",
-      "link": "https://www.dailygazette.com/sports/fishing-trip-on-lake-george-was-a-nice-change-of-pace/article_d376f2f4-b83d-4786-8bb7-5c1e839335a4.html",
-      "source": "Dailygazette.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/7/09/709be4cc-05e7-45eb-98bb-8f76bc42ece3/6aa19ea93e07d.preview.jpg?resize=300%2C160",
-      "published": "2026-09-09 17:34:00",
+      "title": "FROM THE PUBLISHER | An argument in favor of tennis-induced sleep deprivation",
+      "description": "Quick tennis column, for the half-dozen of you in the audience who care.",
+      "link": "https://themercury.com/sports/from-the-publisher-an-argument-in-favor-of-tennis-induced-sleep-deprivation/article_de492c6f-6561-4ebc-8519-b36f2a085c86.html",
+      "source": "Themercury",
+      "image": "https://bloximages.newyork1.vip.townnews.com/themercury.com/content/tncms/custom/image/47283276-d683-11e6-9ad2-7311962f5570.jpg?resize=600%2C315",
+      "published": "2026-09-09 22:36:00",
       "category": [
         "top",
         "sports"
@@ -18,12 +18,41 @@
       ]
     },
     {
-      "title": "Boczar matches career best Baylor finish as Bears finish strong at Cougar Classic",
-      "description": "Baylor senior Bridget Boczar used a strong start in the first two rounds to finish tied for second at the Cougar Classic at Yeman Hall Club in South Carolina.",
-      "link": "https://wacotrib.com/sports/college/baylor/article_49a7863d-8d7f-4e9b-84c4-867dc4f2051a.html",
-      "source": "Waco Tribune-herald",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/9/c0/9c06f67d-d0a8-40b1-916d-a41db9ea414a/6aa199f40d9ee.image.png?crop=1729%2C973%2C5%2C192&resize=300%2C169&order=crop%2Cresize",
-      "published": "2026-09-09 17:34:00",
+      "title": "Rybakina ends Sabalenka\u2019s 99-week reign as world No 1, books US Open semi against Gauff",
+      "description": "Home town favourite Coco Gauff overcame a horrible start to give herself a chance at a second US Open title, with victory over Mirra Andreeva.",
+      "link": "https://www.thepost.co.nz/sport/361077920/elena-rybakina-beats-zheng-qinwen-reach-us-open-semifinals-and-move-no-1-womens-rankings",
+      "source": "The Post",
+      "image": null,
+      "published": "2026-09-09 22:36:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Fracassi: Today's sports consumption traces back to ESPN's berth 47 years ago",
+      "description": "We all have important days in our lives. Birthdays of family and friends.",
+      "link": "https://www.niagara-gazette.com/sports/fracassi-todays-sports-consumption-traces-back-to-espns-berth-47-years-ago/article_42381afe-b5e7-4db3-94e9-653a6c40b3d2.html",
+      "source": "Niagara-gazette",
+      "image": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/d/d1/dd1b90eb-2d7e-4fdd-8cab-c71848526594/6aa1dde08cc65.image.jpg?resize=300%2C200",
+      "published": "2026-09-09 22:36:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "title": "H.S. BOYS SOCCER: Phillips produces hat trick, Livonia steamrolls Arkport-Canaseraga",
+      "description": "LIVONIA \u2014 The Livonia boys soccer team showed up in a big way for its season opener against Arkport-Canaseraga on Tuesday night, capturing a blowout 8-1 win at home behind several great performances.",
+      "link": "https://www.thedailynewsonline.com/sports/h-s-boys-soccer-phillips-produces-hat-trick-livonia-steamrolls-arkport-canaseraga/article_9fabbfd5-fc57-4dc3-9d27-e62657d20ec1.html",
+      "source": "Thedailynewsonline",
+      "image": "https://bloximages.newyork1.vip.townnews.com/thedailynewsonline.com/content/tncms/assets/v3/editorial/4/9b/49b6481e-c1e1-40a7-8224-1e81d02f03cb/6a91d3eadadd9.image.jpg?resize=300%2C225",
+      "published": "2026-09-09 22:36:00",
       "category": [
         "sports"
       ],
@@ -32,13 +61,14 @@
       ]
     },
     {
-      "title": "Wildcats Welcome Northern Arizona to Mulcahy Thursday",
-      "description": null,
-      "link": "https://arizonawildcats.com/news/2026/9/9/soccer-wildcats-welcome-northern-arizona-to-mulcahy-thursday",
-      "source": "University Of Arizona Athletics",
-      "image": "https://arizonawildcats.com/common/controls/image_handler.aspx?thumb_prefix=rp_system&image_path=/images/2026/9/9/16x9.png",
-      "published": "2026-09-09 17:34:00",
+      "title": "Young Dolphins ready for rebuild and week one matchup against Raiders",
+      "description": "The Dolphins open up their season Sunday in Las Vegas",
+      "link": "https://www.wpbf.com/article/miami-dolphins-week-one-las-vegas-raiders/73657858",
+      "source": "Wpbf",
+      "image": "https://hips.hearstapps.com/htv-prod/images/5c0bb5ca-bf9e-4e76-bd29-c6841a7e2cf5.jpg",
+      "published": "2026-09-09 22:36:00",
       "category": [
+        "top",
         "sports"
       ],
       "country": [
@@ -46,12 +76,70 @@
       ]
     },
     {
-      "title": "Shohei Ohtani is not favored to pitch this regular season again on Kalshi",
-      "description": "Kalshi is near certain that Shohei Ohtani will not pitch again in the regular season.",
-      "link": "https://www.si.com/prediction-markets/shohei-ohtani-pitching-not-in-regular-season-according-to-kalshi-prediction-market-01m23af2bbzg",
-      "source": "Sports Illustrated",
-      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_5013,h_2819,x_0,y_170/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m23ajjd09ghm4530aj.jpg",
-      "published": "2026-09-09 17:33:51",
+      "title": "Daily Volleyball News - September 9: Italy ready for landmark Naples opener",
+      "description": "Italy are preparing to open Men's EuroVolley against Sweden in a specially built arena in Piazza...",
+      "link": "https://www.volleyball.it/2026/09/10/notizie/argomenti/english-1/articolo/daily-volleyball-news-september-9-italy-ready-for-landmark-naples-opener.html",
+      "source": "Volleyball It",
+      "image": "https://www.volleyball.it/fileadmin/archivio/volleyball/2026/07/daily_news.png",
+      "published": "2026-09-09 22:36:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "italy"
+      ]
+    },
+    {
+      "title": "Young Dolphins stepping into the spotlight as Miamis new season and new era begin",
+      "description": "Young Dolphins stepping into the spotlight as Miami's new season and new era begin",
+      "link": "https://www.livemint.com/sports/news/young-dolphins-stepping-into-the-spotlight-as-miamis-new-season-and-new-era-begin-11788993358940.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/sports4_1733466467226_1733466476993.jpg",
+      "published": "2026-09-09 22:35:58",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Fit-again \u00d8degaard orchestrates Arsenal's win over Napoli in Champions League",
+      "description": "Arsenal's perfect start to the season continued in the Champions League on Wednesday thanks to Martin \u00d8degaard\u2019s sudden rush of goals. \u00d8degaard struck with a powerful left-foot shot...",
+      "link": "https://japantoday.com/category/sports/fit-again-%C3%B8degaard-orchestrates-arsenal's-win-over-napoli-in-champions-league",
+      "source": "Japan Today",
+      "image": "https://media.japantoday.com/img/store/34/88/dd7191d3fccb31ebfe6e6be86d5986bef956/download/_w1700.jpg",
+      "published": "2026-09-09 22:35:58",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "In aftermath of Michigan game, NCAA implementing \"standard timing protocol\"",
+      "description": "After a one-second dispute on the NBC broadcast of Saturday's University of Michigan versus Western Michigan University football game, the NCAA is establishing new protocols for timing.",
+      "link": "https://www.michiganpublic.org/sports/2026-09-09/in-aftermath-of-michigan-game-ncaa-implementing-standard-timing-protocol",
+      "source": "Michigan Public",
+      "image": "https://npr.brightspotcdn.com/3e/66/a8eb574640afa05d4b497a42fdd9/w-michigan-michigan-football-26249118512220.jpg",
+      "published": "2026-09-09 22:35:57",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Giants say Malik Nabers fully participated in practice, but not sure if he'll play against Cowboys",
+      "description": "New York Giants No. 1 receiver Malik Nabers was a full participant in practice Wednesday ahead of the season opener this weekend against Dallas. But coach John Harbaugh will not say if Nabers will play Sunday night. Nabers is nearly...",
+      "link": "https://www.cadillacnews.com/ap/sports/giants-say-malik-nabers-fully-participated-in-practice-but-not-sure-if-hell-play-against/article_c890ad8a-f507-541b-a1bb-2111fea2de68.html",
+      "source": "Cadillacnews",
+      "image": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/b45cec82-e266-4ee5-8309-6a16877bc51b.png?resize=600%2C315",
+      "published": "2026-09-09 22:35:54",
       "category": [
         "sports"
       ],

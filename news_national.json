@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Young Dolphins stepping into the spotlight as Miamis new season and new era begin",
-      "description": "Young Dolphins stepping into the spotlight as Miami's new season and new era begin",
-      "link": "https://www.livemint.com/sports/news/young-dolphins-stepping-into-the-spotlight-as-miamis-new-season-and-new-era-begin-11788993358940.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/sports4_1733466467226_1733466476993.jpg",
-      "published": "2026-09-09 22:35:58",
+      "title": "'I knew we'd lose 3-0': Wasim Akram tears into Pakistan cricket setup",
+      "description": "Wasim Akram states Pakistan cricket's deep issues extend beyond the national team. He notes problems exist in batting, bowling, and fielding across the sport. Akram believes the domestic structure lacks necessary systems and stability. Inconsistent decisions by the cricket board have worsened the situation. Fixing Pakistan cricket requires patience and stability throughout the entire system.",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-knew-wed-lose-3-0-wasim-akram-tears-into-pakistan-cricket-setup/articleshow/133990885.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133990931/133990931.jpg",
+      "published": "2026-09-10 02:47:55",
       "category": [
-        "sports"
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Sahaya 3.0: Bengaluru citizens to report civic woes through voice notes",
+      "description": "The minister explained that through an interactive map, citizens will be able to view information on ongoing as well as proposed road works in their vicinity in real time.",
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2026/Sep/10/sahaya-30-bengaluru-citizens-to-report-civic-woes-through-voice-notes",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-09-10/s42k9zad/Sahay.jpg?w=280",
+      "published": "2026-09-10 02:47:51",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Petition in Allahabad HC Challenges Orders for Demolition of Saharanpur Mosque",
+      "description": "A writ petition has been submitted to the Allahabad High Court following the demolition of a mosque in Saharanpur, Uttar Pradesh.",
+      "link": "https://www.timesnownews.com/india/petition-in-allahabad-hc-challenges-orders-for-demolition-of-saharanpur-mosque-article-156130020",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156130116,thumbsize-215085,width-1280,height-720,resizemode-75/156130116.jpg",
+      "published": "2026-09-10 02:47:50",
+      "category": [
+        "top",
+        "crime"
       ],
       "country": [
         "india"

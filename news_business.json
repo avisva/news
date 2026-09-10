@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Trump promises Americans $6900 each if Republicans win midterms",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/world/trump-promises-dividend-payment-if-republicans-hold-house-senate/news-story/60b102b8ff4f1db89d8cc31b2dd6b36d",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-09-10 02:48:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "INBOXpod Unveils Modular Soundproof Office Pods",
+      "description": "FOSHAN, China -- Yinboshi (Guangdong) Acoustic Technology Co., Ltd. (https://www.inboxpod.com/), a specialized Chinese manufacturer of commercial architectural acoustics, has officially announced the global release of its next-generation INBOXpod modular soundproof pods. Engineered for open-plan corporate offices, co-working spaces, healthcare facilities,",
+      "link": "https://www.openpr.com/news/4626887/inboxpod-unveils-modular-soundproof-office-pods",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/L/9/L910161770_k.jpg",
+      "published": "2026-09-10 02:47:54",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Sterling Bank backs Africa\u2019s food push with N331.7bn HEART financing",
+      "description": "Sterling Bank has disclosed that its financing across its priority HEART sectors rose by 39 percent to N331.7 billion in 2025, as the lender renewed its push to position agriculture as a major driver of Africa\u2019s economic growth. The post Sterling Bank backs Africa\u2019s food push with N331.7bn HEART financing appeared first on New Mail Nigeria .",
+      "link": "https://newmail-ng.com/sterling-bank-5/",
+      "source": "New Mail Nigeria",
+      "image": "https://newmail-ng.com/wp-content/uploads/2026/09/Sterling-Bank.webp",
+      "published": "2026-09-10 02:47:53",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

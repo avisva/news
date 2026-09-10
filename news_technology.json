@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Smart city plans high-speed digital backbone",
-      "description": "MIRI: Kenyalang Smart City is set to be equipped with high-capacity fibre and 5G infrastructure under a proposed collaboration between SACOFA Sdn Bhd and its master developer, Imasa Dinasti Sdn Bhd. The two companies signed a memorandum of understanding (MoU) to explore the development of resilient and future-ready telecommunications infrastructure for the integrated development here. [...]",
-      "link": "https://www.sarawaktribune.com/smart-city-plans-high-speed-digital-backbone/",
-      "source": "Sarawak Tribune",
-      "image": "https://www.sarawaktribune.com/wp-content/uploads/2026/09/MYY-sacofa-imasa.jpg",
-      "published": "2026-09-10 02:47:57",
+      "title": "UzAuto Motors starts sales of Chevrolet Equinox PHEV",
+      "description": "UzAuto Motors has launched sales of the Chevrolet Equinox PHEV in Uzbekistan, with two versions offering electric ranges of up to 80 and 120 km.",
+      "link": "https://www.uzdaily.uz/en/uzauto-motors-starts-sales-of-chevrolet-equinox-phev/",
+      "source": "Uzdaily",
+      "image": "https://www.uzdaily.uz/media/filer_public/ca/31/ca317fbc-50cd-45ad-8c5f-e8f7c6991fce/equinoxphev1_20260910060450.webp",
+      "published": "2026-09-10 06:04:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "malaysia"
+        "uzbekistan"
+      ]
+    },
+    {
+      "title": "Enhanced childcare leave details to be announced in early 2027: Indranee Rajah - CNA",
+      "description": "Enhanced childcare leave details to be announced in early 2027: Indranee Rajah CNA Details on when new childcare leave benefits kick in to be shared in early 2027: Indranee The Straits Times Government will consider accreditation, look into sick bays for childcare leave implementation The Business Times Govt exploring support for firms managing child-related leave absences: Indranee , Singapore News AsiaOne Singapore to announce details of expanded childcare leave in early 2027 UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHBtcDlqM3hvMGktZGwwUUx4dEpzYUtCeEd6bkRLci01dmsxdjlsVjBFQWlkM01mNGVjY25iT0V5anhrbm1IS1JYMmZheTlrT0VXT2JhNFk4OWRFdEdKQzlvQjZUR2QzQUxVVDZDZmgwWkp4OTVIU1V1TzhLUHlwcWwwS3J0M1VsZlZGLU1MSUJCZw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-09-10 06:04:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Apple Watch Ultra 4: First impressions",
+      "description": "Apple has launched the new Watch Ultra 4, which incorporates cutting-edge health sensors for enhanced user monitoring. The device boasts superior heart rate tracking and provides readiness insights, making it ideal for fitness enthusiasts. With a notable boost in battery life, users can enjoy extended activity durations. Additionally, enhanced audio features are set to debut later this year, elevating user communication to new heights.",
+      "link": "https://timesofindia.indiatimes.com/technology/reviews/apple-watch-ultra-4-first-impressions/articleshow/133995953.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133996073/133996073.jpg",
+      "published": "2026-09-10 06:03:56",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

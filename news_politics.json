@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Water Rights Dispute",
-      "description": "Several persistent conflicts in South Asian politics are not merely disputes between two countries, but can affect the peace, stability and future of the entire region.",
-      "link": "https://www.nation.com.pk/11-Sep-2026/water-rights-dispute",
+      "title": "China\u2019s Xi to attend BRICS summit in New Delhi in 1st India trip since 2019",
+      "description": "Beijing - Chinese President Xi Jinping will attend a two-day BRICS summit in New Delhi this weekend, marking his first trip to India in seven years, China\u2019s Foreign Ministry confirmed on Thursday.",
+      "link": "https://www.nation.com.pk/11-Sep-2026/china-s-xi-attend-brics-summit-new-delhi-1st-india-trip-since-2019",
       "source": "The Nation",
       "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "published": "2026-09-10 19:58:00",
+      "published": "2026-09-11 00:43:00",
       "category": [
         "top",
         "politics"
@@ -18,33 +18,49 @@
       ]
     },
     {
-      "title": "Alice Marie 'Amy' French",
-      "description": null,
-      "link": "https://www.mississippivalleypublishing.com/daily_gate/alice-marie-amy-french/article_3dcd6100-aead-4bf1-87c0-cd3ff6aab270.html",
-      "source": "Daily Gate City",
-      "image": null,
-      "published": "2026-09-10 19:58:00",
+      "title": "Quebec court rejects Montreal\u2019s appeal to clear homeless encampment",
+      "description": "Quebec\u2019s Court of Appeal rejected the City of Montreal\u2019s request to appeal a judgment on Thursday preventing it from dismantling a homeless encampment in Montreal.",
+      "link": "https://www.ctvnews.ca/montreal/article/quebec-court-rejects-montreals-appeal-to-clear-homeless-encampment/",
+      "source": "Ctv News",
+      "image": "https://www.ctvnews.ca/resizer/v2/HT6TLQDSKRDZXPM74VDMSOYLQ4.jpeg?auth=3ec2236819f4e3c0c8f54fa8cf8d86d76912d2451b0adc507251cf8962195db1&smart=true&width=1920&height=1080",
+      "published": "2026-09-11 00:42:54",
       "category": [
         "top",
+        "crime",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "canada"
       ]
     },
     {
-      "title": "Can Trump Really Give Every Adult American $5K Check?",
-      "description": "President Donald Trump shocked the nation Wednesday night when he promised to send a $5,000 check to every American adult if Republicans win the midterms, but conservative economists say the proposal should not come to fruition. \u201cBecause we\u2019ve done so well, and because our country is making so much money, only I can make this...",
-      "link": "https://www.dailysignal.com/2026/09/10/trump-adult-american-5k-check/",
-      "source": "The Daily Signal",
-      "image": "https://static.dailysignalmedia.org/2026/09/t-1.jpg",
-      "published": "2026-09-10 19:57:57",
+      "title": "BRICS Summit 2026: Vladimir Putin arrives in India, bilateral talks with Modi today",
+      "description": "Russian President Vladimir Putin arrived in India for the BRICS summit. He will meet Prime Minister Narendra Modi to expand bilateral trade and cooperation. The summit focuses on collective resilience and navigating a fragmented geopolitical environment. Several world leaders are attending the two-day event hosted by India. Putin and Modi will hold wide-ranging talks on Friday afternoon.",
+      "link": "https://economictimes.indiatimes.com/news/india/russian-president-vladimir-putin-arrives-in-new-delhi-to-attend-brics-summit/articleshow/134038017.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-134038046,resizemode-4,width-1200,height-900,imgsize-59558,overlay-economictimes/articleshow.jpg",
+      "published": "2026-09-11 00:42:50",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Peruvians protest Rubio visit, reject US-backed security alliance",
+      "description": "Demonstrators in capital Lima reject closer security ties with Washington",
+      "link": "https://www.aa.com.tr/en/americas/peruvians-protest-rubio-visit-reject-us-backed-security-alliance/4053840",
+      "source": "Anadolu Agency",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/09/11/thumbs_b_c_ee50b1a21666382ec6c3d70cd0a80f7a.jpg",
+      "published": "2026-09-11 00:42:40",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "turkey"
       ]
     }
   ]

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Rock legend undergoes brain surgery after frightening health decline",
+      "description": "Billy Joel revealed he underwent brain surgery after normal pressure hydrocephalus affected his memory and balance.",
+      "link": "https://www.masslive.com/entertainment/2026/09/rock-legend-undergoes-brain-surgery-after-frightening-health-decline.html",
+      "source": "Masslive",
+      "image": "https://www.masslive.com/resizer/v2/TKF336DVS5FUTEIVMLE66HSARA.jpg?auth=c7ce71ed84398ba3d1dbd07dc3e99adfcd3b608c73f58e387b2ba7da4f780852&smart=true&height=1200",
+      "published": "2026-09-10 14:58:55",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

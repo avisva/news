@@ -1,19 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Random Motion Technology Publishes 2026 Analysis of AI Music Video Generation Platforms",
-      "description": null,
-      "link": "https://www.financialcontent.com/article/acnnewswire-2026-9-10-random-motion-technology-publishes-2026-analysis-of-ai-music-video-generation-platforms",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-09-10 14:59:00",
+      "title": "RItrain-DIGIT to Train European Research Staff in HPC, Cloud and AI",
+      "description": "Sept. 10, 2026 \u2014 A new European collaborative project, RItrain-DIGIT (Advancing Digital Competencies in European Research Infrastructures), has officially launched to bridge the digital skills gap within Europe\u2019s Research Infrastructures (RIs). Funded under the European Union\u2019s Horizon Europe program (Grant Agreement 101292852 / Call: HORIZON-INFRA-2025-01-DEV-01), the 1.5 million Euro initiative unites leading digital infrastructure providers and [...]",
+      "link": "https://www.hpcwire.com/off-the-wire/ritrain-digit-to-train-european-research-staff-in-hpc-cloud-and-ai/",
+      "source": "Hpcwire",
+      "image": "https://www.hpcwire.com/wp-content/uploads/2026/09/RItrain-DIGIT.png",
+      "published": "2026-09-10 19:57:58",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "4 Spy Groups Used BlueMoon on Chrome, Windows in One Week",
+      "description": "Four spy groups used BlueMoon to chain Chrome and Windows zero-days in one week, showing why fast patching and post-compromise hunting matter. The post 4 Spy Groups Used BlueMoon on Chrome, Windows in One Week appeared first on eSecurity Planet .",
+      "link": "https://www.esecurityplanet.com/threats/news-bluemoon-chrome-windows-exploit-kit/",
+      "source": "Esecurity Planet",
+      "image": "https://assets.esecurityplanet.com/uploads/2026/09/unnamed-80.png",
+      "published": "2026-09-10 19:57:56",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "India's investment in innovation low, we need to develop our own engine for combat aircraft: Ex-DRDO head Saraswat",
+      "description": "India's investment in innovation low, we need to develop our own engine for combat aircraft: Ex-DRDO head Saraswat",
+      "link": "https://timesofindia.indiatimes.com/india/indias-investment-in-innovation-low-we-need-to-develop-our-own-engine-for-combat-aircraft-ex-drdo-head-saraswat/articleshow/134028484.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134028532/134028532.jpg",
+      "published": "2026-09-10 19:57:56",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "iPhone 18 Pro UK: What Is Apple Reference Image and Why Is EU Photo Capture Delayed?",
+      "description": "Apple Reference Image debuts on iPhone 18 Pro in the UK, while EU photo capture is delayed because of regulatory requirements.",
+      "link": "https://www.ibtimes.co.uk/apple-iphone-18-pro-reference-image-eu-delay-1819051",
+      "source": "International Business Times",
+      "image": "https://d.ibtimes.co.uk/en/full/1830592/iphone-18-pro-reference-image-camera-feature.png?w=1600&h=900&q=88&f=c6d47fc839aa7660c1b535fc6720a99a",
+      "published": "2026-09-10 19:57:49",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

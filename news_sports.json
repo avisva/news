@@ -1,91 +1,48 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Embrace the Challenge finish 5th",
-      "description": "Oliver Heer's Embrace the Challenge Team (SUI) sailed across the finishing line in Lorient in fifth place in the early hours of Friday morning, at 01:36:17 UTC / 03:36:17 CEST.",
-      "link": "https://www.sail-world.com/news/299705/",
-      "source": "Sail-world Asia",
-      "image": "http://yandy.co.uk/photos/open60/350/yysw586375.jpg",
-      "published": "2026-09-11 04:54:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Leah Jensen walk-off home run gives Hebron Christian 1-0 region win",
-      "description": null,
-      "link": "https://www.gwinnettdailypost.com/sports/prep/leah-jensen-walk-off-home-run-gives-hebron-christian-1-0-region-win/article_9a018256-9548-4a69-ada9-90af6c690e4a.html",
-      "source": "Gwinnett Daily Post",
-      "image": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/7/f0/7f01af48-ff91-4bc1-b005-8c89fb594be5/6aa389e8430be.image.jpg?resize=417%2C500",
-      "published": "2026-09-11 04:54:00",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Next step taken on funding to bring major 'cricket dome' project to Bolton",
-      "description": "The next step is set to be taken on developing a major new \u201ccricket dome\u201d that was part of a package of improvements for Bolton.",
-      "link": "https://www.theboltonnews.co.uk/news/26523253.bolton-council-decide-next-step-cricket-dome/",
-      "source": "The Bolton News",
-      "image": null,
-      "published": "2026-09-11 04:54:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "AFL Finals Fremantle v Geelong: Seven big reasons Cats can hand Dockers a straight-sets exit - Herald Sun",
-      "description": "AFL Finals Fremantle v Geelong: Seven big reasons Cats can hand Dockers a straight-sets exit Herald Sun Recent finals history is against Freo, but these numbers could save them ABC News & Headlines \u2013 Australian Broadcasting Corporation TEAM: Two changes for Semi Final fremantlefc.com.au FINALS TEAMS: Dockers mid dropped, Crows leader axed, Cats make De Koning call afl.com.au \u2018Something is wrong\u2019: An all-time AFL disaster in on the cards... but two words could flip the script Fox Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNUdKZm41VEdXcGx6NHVkd0h2U24tdUFOYWRhUlBxeG0yamwzemY0MTZiN1N3YkdEUGNRcWtHT3lMbUQ2RkRtVWlLRGlUemtkcTJHUFpjWW1UeTZCZmFjTFl5TldTWU1CR05Ja2syRVdCUjhVVGhGTlBtbXoweDFmb0FsN3BCeFB2OUFKMEtPWGVscTZSY2hiRGlPWkZCcG50ZGtPRzE3WWUyYk91akpXb1hwWVc0TG1NOW9qb2tKTFF1WDExT3BNX05fN1V4UGFzYml5STdUYnoyUU5rMmJORnQtOG1RRnhkd19RdE1R?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-11 04:53:52",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Jared McCain gets honest about how he keeps learning from Russell Westbrook",
-      "description": "Russell Westbrook has made a considerable impact on the new generation of players.",
-      "link": "https://ca.sports.yahoo.com/news/jared-mccain-gets-honest-keeps-045348852.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/e751c6d4d88f12a181fff903c63d181db6b33c6877f736b69f99347fc23f7a94/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F473de18a9b4f5a6d3a2fb36ba3a08398",
-      "published": "2026-09-11 04:53:48",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "'My Rhythm Wasn't Quite There': Siraj On Why He Struggled In Sri Lanka Tests - Rediff",
-      "description": "'My Rhythm Wasn't Quite There': Siraj On Why He Struggled In Sri Lanka Tests Rediff A break that broke Mohammed Siraj and how he rediscovered it The Indian Express \u2018My rhythm wasn't quite there\u2019: Mohammed Siraj reveals what went wrong in Sri Lanka The Times of India 'My body..' Siraj reflects on his Duleep Trophy final struggles NewsBytes 5 big names who flopped in Duleep Trophy 2026 ft. Rajat Patidar Khel Now",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnVJcHBDekgzSVRxNHNCc3BFZ1gzUGpWcEEzdWxhb0Zma1BYOXR4c21OMnNkWFBucGxOYjVrU3hhWDVXN1hTUU53VnhLa21hLWZ3cXdWbVZSOF9KUndfUVdib05STHUxS01lMVlYODdwUXM2M3ZzUGZKZVlJQlFQaHNMWF9UaWdpWDI0dl9fUGREcE9FZE5zVUEzaU1oRENwM2cxNVI4M2lrdGN6MTJuYnBUSEVBbEs0R1p2c2FR?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-11 04:53:45",
+      "title": "Indian 'Dhurandhar' in Pakistan cricket team? Mike Hesson\u2019s 'loyalty' questioned over IPL links",
+      "description": "Pakistan's worsening crisis has now triggered questions over Mike Hesson's loyalty, with former captain Rashid Latif raising concerns about the New Zealander's previous work in the Indian Premier League.",
+      "link": "https://zeenews.india.com/cricket/indian-dhurandhar-in-pakistan-cricket-team-rashid-latif-questions-mike-hesson-s-loyalty-over-ipl-links-3070992.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/09/11/1980748-fotojet-2026-09-10t231752.826.jpg",
+      "published": "2026-09-11 07:27:00",
       "category": [
         "sports"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "India Unfazed by Final Opponent: Confidence High for T20 Asia Cup Clash",
+      "description": "In an assured display of confidence Indias womens cricket team remains unfazed by their prospective opponents in the Womens T20 Asia Cup final all set to unfold on Sunday All-rounder Deepti Sharma emphasized Indias strategy of preparedness regardless of facing either Pakistan or defending champions Sri Lanka Indias track record is impressive having secured a spot in the final for the sixth consecutive time by triumphing over Bangladesh in the semi-final clash",
+      "link": "https://www.devdiscourse.com/article/sports-games/3975878-india-unfazed-by-final-opponent-confidence-high-for-t20-asia-cup-clash",
+      "source": "Devdiscourse",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/11_09_2026_12_56_46_3830414.jpg&amp;width=920",
+      "published": "2026-09-11 07:26:56",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Asian Games: China basketball stars packed in 3 to a container in Japan\u2019s athletes\u2019 village",
+      "description": "China\u2019s men opened their Asian Games basketball campaign by routing Kazakhstan 99-61 on Friday, despite preparing in cramped container housing and having training disrupted by record-breaking rainfall in Japan. Pang Zhenglin led China with 19 points and four assists, while Li Hongquan recorded 16 points and nine rebounds. Yu Jiahao added 15 points, Jacky Cui Yongxi scored 12, and both Liao Sanning and Jiao Boqiao contributed 10 points. The opening victory came against a backdrop of severe...",
+      "link": "https://www.scmp.com/sport/china/article/3367178/asian-games-china-basketball-stars-packed-3-container-japans-athletes-village",
+      "source": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/11/6e09c8a8-e40c-4301-8cf1-6c3cf7ac331e_040ea315.jpg?itok=8ASYp7UB&v=1789111610",
+      "published": "2026-09-11 07:26:55",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "hong kong"
       ]
     }
   ]

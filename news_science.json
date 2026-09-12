@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Heartbeat by sound: Scientists develop non-invasive pacemaker",
+      "description": "Researchers have developed an experimental wearable pacemaker that uses focused ultrasound to stimulate the heart without placing a device The post Heartbeat by sound: Scientists develop non-invasive pacemaker appeared first on Vanguard News .",
+      "link": "https://www.vanguardngr.com/2026/09/heartbeat-by-sound-scientists-develop-non-invasive-pacemaker/",
+      "source": "Vanguard News",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/08/image-307.png",
+      "published": "2026-09-12 04:43:49",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    }
+  ]
 }

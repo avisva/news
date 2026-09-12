@@ -1,43 +1,29 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 12,
   "results": [
     {
-      "title": "Roundup: Spaulding sinks Mill River, 26-7",
-      "description": "BARRE - Spaulding football coach Adam Chase knows that some elements of each game are out of his team\u2019s hands, but controlling the clock is a prime objective this season.",
-      "link": "https://www.timesargus.com/slider/roundup-spaulding-sinks-mill-river-26-7/article_d17c3118-abd1-5fae-be1d-ff0e4c782e36.html",
-      "source": "Times Argus",
-      "image": "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/assets/v3/editorial/2/3c/23c34d9a-7f6f-5a92-9574-e45d731043a5/6aa4b0a9b400c.image.jpg?resize=300%2C210",
-      "published": "2026-09-12 01:51:00",
+      "title": "Lakeside edges Benton 42-41 with 2-point conversion in final seconds",
+      "description": null,
+      "link": "https://www.bentoncourier.com/sports/lakeside-edges-benton-42-41-with-2-point-conversion-in-final-seconds/article_4138e942-39c2-4102-89e6-63279c59315c.html",
+      "source": "Bentoncourier",
+      "image": "https://bloximages.newyork1.vip.townnews.com/bentoncourier.com/content/tncms/assets/v3/editorial/5/db/5db92421-6a6a-4495-8e34-8aedea171f7e/6aa4d8df07819.image.jpg?resize=300%2C301",
+      "published": "2026-09-12 04:44:00",
       "category": [
-        "sports"
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "NBA trade rumor: Miami Heat could send 6-foot-6 star for Dallas Mavericks\u2019 $347million 9x All-Star and NBA champion",
-      "description": "The Dallas Mavericks has been adamant in their stance against trading Kyrie Irving, regardless of the ongoing trade discussions. Yet, some executives speculate that a poor start to the season may prompt a change of heart. The Miami Heat is reportedly keen to acquire Irving, with Andrew Wiggins and Nikola Jovic suggested as possible trade assets that could enhance Miami's roster prospects.",
-      "link": "https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-trade-rumor-miami-heat-could-send-6-foot-6-star-for-dallas-mavericks-347million-9x-all-star-and-nba-champion/articleshow/134101842.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134102134/134102134.jpg",
-      "published": "2026-09-12 01:51:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Knox County football scores: Danville tops Fredericktown, Centerburg wins",
-      "description": "Friday night's Knox County football scores included Danville's 52-7 win over Fredericktown, Centerburg's victory against East Knox and Johnstown-Monroe's win over Mount Vernon.",
-      "link": "https://www.yourohionews.com/knox-county/friday-nights-knox-county-football-scores/1073806",
-      "source": "Your Ohio News",
-      "image": "https://image.yourohionews.com/?imageId=1073809&format=webp&width=1200",
-      "published": "2026-09-12 01:51:00",
+      "title": "Tigers notch first win on homecoming, top Beatrice 27-14",
+      "description": "Senior ball carrier Carter Johnson could hardly wait to play in Hastings High\u2019s homecoming game Friday.",
+      "link": "https://www.hastingstribune.com/sports/tigers-notch-first-win-on-homecoming-top-beatrice-27-14/article_3a66472d-6cb7-470d-9837-3fbe40008d22.html",
+      "source": "Hastingstribune",
+      "image": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/assets/v3/editorial/a/66/a6655fb1-85a7-444e-ac98-8478d3e39657/6aa4e62542f75.image.jpg?resize=300%2C200",
+      "published": "2026-09-12 04:44:00",
       "category": [
         "top",
         "sports"
@@ -47,27 +33,12 @@
       ]
     },
     {
-      "title": "Balanced offensive attack leads Monroe football to road victory over North Brunswick",
-      "description": "Monroe QB and RB account for 5 TDs in road win over North Brunswick.",
-      "link": "https://www.nj.com/highschoolsports/2026/09/balanced-offensive-attack-leads-monroe-football-to-road-victory-over-north-brunswick.html",
-      "source": "Nj",
-      "image": "https://www.nj.com/resizer/v2/IEYADW67JBCVJAZSPY43D7NDJQ.JPG?auth=13edfe934d926aa021fed537f288ec367108324ad16eb0a660157f6541b84223&smart=true&height=1200",
-      "published": "2026-09-12 01:50:59",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Framber Valdez, Tigers send Rockies to fifth consecutive loss",
-      "description": "Dillon Dingler hit a two-run homer, Max Clark supplied a solo shot and the host Detroit Tigers pulled away for a 6-2 home victory over the Colorado Rockies on Friday night.",
-      "link": "https://www.yardbarker.com/mlb/articles/framber_valdez_tigers_send_rockies_to_fifth_consecutive_loss/s1_17044_44292923",
-      "source": "Yardbarker",
-      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
-      "published": "2026-09-12 01:50:50",
+      "title": "HIGH SCHOOL VOLLEYBALL: Lady Panthers fall to A&M Consolidated",
+      "description": "Lufkin dropped a match on the road at A&M Consolidated Friday night.",
+      "link": "https://lufkindailynews.com/sports/high-school-volleyball-lady-panthers-fall-to-a-m-consolidated/article_50206ef2-6aee-5d38-8c50-d05faa19deaf.html",
+      "source": "Lufkindailynews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/1/0e/10edf520-e31d-5393-b63b-b4a8145619e3/69535112b455b.image.png?resize=300%2C168",
+      "published": "2026-09-12 04:44:00",
       "category": [
         "sports"
       ],
@@ -76,33 +47,136 @@
       ]
     },
     {
-      "title": "Alexander Zverev Beats Karen Khachanov To Enter US Open Final",
-      "description": "Alexander Zverev beat Karen Khachanov 6-3, 7-6 (9/7), 7-6 (8/6) to reach his third straight Grand Slam final.",
-      "link": "https://www.news18.com/sports/tennis/alexander-zverev-beats-karen-khachanov-to-enter-us-open-final-ws-kln-10324361.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/alexander-zverev-AP-4-2026-09-d92f00ecfa401f1c91fb67c656730372-1200x800.jpg",
-      "published": "2026-09-12 01:50:50",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Former Oilers goaltender Connor Ingram retires from NHL",
-      "description": "Connor Ingram has called it a career. The 29-year-old goaltender made the announcement on his Instagram page on Friday saying, \"Don\u2019t be sad it\u2019s over, be happy it happened. Thanks hockey, I owe ya.",
-      "link": "https://www.coastreporter.net/national-sports/former-oilers-goaltender-connor-ingram-retires-from-nhl-12771504",
-      "source": "Coast Reporter",
+      "title": "Martinez fans three on nine pitches for D-backs' sixth immaculate inning",
+      "description": "Diamondbacks reliever Justin Martinez made quick work of the Rangers' Wyatt Langford, Evan Carter and Jake Burger, striking the trio out on nine pitches Friday night.",
+      "link": "https://www.espn.com/mlb/story/_/id/49910367/martinez-fans-three-nine-pitches-d-backs-fifth-immaculate-inning",
+      "source": "Entertainment And Sports Programming Network",
       "image": null,
-      "published": "2026-09-12 01:50:42",
+      "published": "2026-09-12 04:43:55",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sep 11, 2026; Lawrence, Kansas, USA; Kansas Jayhawks head coach Lance Leipold talks with an official against the Missouri Tigers during the first half of the game at David Booth Kansas Memorial Stadium. Mandatory Credit: Denny Medley-Imagn Images",
+      "description": "Lance Leipold's track record of losses in rivalry games grew longer after his Kansas Jayhawks fell to No. 23 Missouri for the second consecutive year.",
+      "link": "https://www.si.com/college/kansas/football/lance-leipold-rivalry-game-struggles-continue-after-another-loss-to-missouri",
+      "source": "Sports Illustrated",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_7083,h_3984,x_0,y_215/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/blue_wings_rising/01m29npx5jdez6b0g8ks.jpg",
+      "published": "2026-09-12 04:43:54",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Xavier football turns opening-game jitters into a convincing win over East Haven",
+      "description": "Maxwell Murphy threw three touchdown passes while Xavier's defense took control in the victory.",
+      "link": "https://sports.yahoo.com/articles/xavier-football-turns-opening-game-044354375.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/749ca2bb63b3d1c41d6e512ec21a9cb34410897eaa425d3075e2a724bab33f26/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fct_insider_187%2Fec28fbdf3936bcb48f270e5a243d0556.jpg",
+      "published": "2026-09-12 04:43:54",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\"Everything Different\" As Alexander Zverev Returns To US Open Final",
+      "description": "Six years after an agonizing loss in the US Open final, Alexander Zverev says \"everything is different\" as he returns to the title match in Flushing Meadows.",
+      "link": "https://sports.ndtv.com/tennis/everything-different-as-zverev-returns-to-us-open-final-12035641",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-09/4arjpej8_alexander-zverev-getty_625x300_12_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-09-12 04:43:26",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "FNF Week 2: Edna Karr shuts out Huntington, 50-0",
+      "description": "The Edna Karr Cougars travelled to Shreveport to face Huntington on Friday night.",
+      "link": "https://sports.yahoo.com/articles/fnf-week-2-edna-karr-044321851.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/9b5d94cb18add5a8938dd020b538ea8b27ec21733d71e8a77f191b31d1d1e2ca/lightyear_networkapi/resizefit_w646_h349%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwgno_articles_329%2F20b206e17b3c88ef4c3e902fa58064e4.png",
+      "published": "2026-09-12 04:43:21",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Can you go 16-0? (9-11-26)",
+      "description": "Weekly attempt to go 20-0 on this site: https://www.20-0.com/ Game: Roster: 11-5B Solid OFF 78 DEF91 Can you go perfect? 20-0.com/16-01005 ptsClassic OFFENSE RNQB Ryan Nassib QB \u00b7 Syracuse \u00b7 2012 3749 YDS 26 TD 10 INT BSRB Benny Snell Jr. RB \u00b7 Kentucky \u00b7 2016 1091 RuYDS 13 TD 5.9 YPC LTWR Laquon Treadwell WR [...]",
+      "link": "https://sports.yahoo.com/articles/16-0-9-11-26-044317354.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/9417190ff920a547b19a06e7d32d23cfcaed4e7de7af739544725e93ee341f59/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe4447018935a329717e7c8152d7993b1.jpg",
+      "published": "2026-09-12 04:43:17",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US Open news: Ben Shelton to face Alexander Zverev in Singles Finals",
+      "description": "Ben Shelton is one win away from ending 23 years of waiting for American men\u2019s tennis. The No. 8 seed outlasted good friend and fellow American Frances Tiafoe 4-6, 6-3, 6-3, 7-5 on Friday at Arthur Ashe Stadium to reach his first career Grand Slam final, where he will meet top seed Alexander Zverev on Sunday with the US Open title on the line. The [...] The post US Open news: Ben Shelton to face Alexander Zverev in Singles Finals appeared first on ClutchPoints.",
+      "link": "https://sports.yahoo.com/articles/us-open-news-ben-shelton-044316567.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/375ecf0f82ed3ec02628339a96d4ed345b5e7531ed2bf6bde48c51a8aada447a/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F629e824621535bc62bfb20b5207adc96.jpg",
+      "published": "2026-09-12 04:43:16",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Juelz Carter helps power undefeated Anna past Frisco Panther Creek",
+      "description": "Carter, a senior running back, had four total touchdowns for Anna, finished with 225 yards and two touchdowns on the ground along with six catches for 74 yards",
+      "link": "https://www.dallasnews.com/high-school-sports/football/article/anna-frisco-panther-creek-football-juelz-carter-22425952.php",
+      "source": "Dallas News",
+      "image": "https://s.hdnux.com/photos/01/67/24/53/31279869/3/rawImage.jpg",
+      "published": "2026-09-12 04:43:12",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Not easy\u2019 \u2013 Ben Shelton admits difficulty focusing during his US Open semifinal win amid huge celebrity attendance",
+      "description": "Ben Shelton created history with his win over Frances Tiafoe, as he became the first black American tennis player to reach the US Open Men\u2019s final since Arthur Ashe in 1972. After dropping the first set, the 23-year-old got back into the game in signature Shelton style with jaw-dropping serves and clinched a win to set up a final against Alexander Zverev.",
+      "link": "https://sports.yahoo.com/articles/not-easy-ben-shelton-admits-044310954.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/7c050de276f59f1c77b69a62d9fa4f0eb6bb18094cf4c5f23169f012ff8df510/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Ff6aa59da3ff5cb4296349e0bbd229ead.jpg",
+      "published": "2026-09-12 04:43:10",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

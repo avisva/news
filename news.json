@@ -1,29 +1,189 @@
 {
   "status": "success",
-  "totalResults": 29,
+  "totalResults": 25,
   "results": [
     {
-      "title": "New school uniform rules now in force in England under Andy Burnham government",
-      "description": "The changes are intended to help reduce the cost of school uniform",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/new-school-uniform-rules-now-34562520",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34562570.ece/ALTERNATES/s615/0_uniform.jpg",
-      "published": "2026-09-11 10:14:00",
+      "title": "Moving to France but leaving your money where it is?",
+      "description": "France does not recognise where your money came from - it applies its own tax and inheritance rules",
+      "link": "https://www.connexionfrance.com/mtf-uk-guide/moving-to-france-but-leaving-your-money-where-it-is/787006",
+      "source": "The Connexion",
+      "image": null,
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "In 1959, the first nuclear-powered merchant ship set sail before the world was ready",
+      "description": "The NS 'Savannah' even offered a view into the reactor powering the state-of-the-art ship. The post In 1959, the first nuclear-powered merchant ship set sail before the world was ready appeared first on Popular Science .",
+      "link": "https://www.popsci.com/technology/nuclear-powered-ship-history/",
+      "source": "Popular Science",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/08/nuclear-ship-history.png?quality=85&w=2048",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Hungary announces monthly diesel support for nearly one million car owners",
+      "description": "Owners of eligible diesel cars in Hungary will receive a monthly fuel support up until December. Continue reading: https://dailynewshungary.com/hungary-diesel-support-one-million-car/",
+      "link": "https://dailynewshungary.com/hungary-diesel-support-one-million-car/",
+      "source": "Dailynewshungary",
+      "image": "https://dailynewshungary.b-cdn.net/wp-content/uploads/2026/09/Peter-Magyar-parliament5.webp",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Tata Consultancy Services share price ends at \u20b92,200.80 after 0.15% decline on September 11",
+      "description": "Tata Consultancy Services share price closed September 11 at \u20b92,200.80, down 0.15%, after a \u20b92,186\u2013\u20b92,233 session with 2.78 million shares traded.",
+      "link": "https://www.5paisa.com/blog/tata-consultancy-services-stock-update-11-sep-26",
+      "source": "5paisa",
+      "image": "https://storage.googleapis.com/5paisa-prod-storage/files/2026-09/Tata%20Consultancy%20Services%20-%20B_4.webp",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Avengers: Doomsday Report Makes Doctor Doom Way More Dangerous Than Thanos",
+      "description": "A new report about Avengers: Doomsday has added to rumors that Doctor Doom will be one of the most dangerous villains in the MCU. The new rumor offers a potential glimpse at the scale of danger associated with the character ahead of the highly anticipated movie. The report has further fueled curiosity about what the [...]",
+      "link": "https://www.superherohype.com/news/692570-doctor-doom-avengers-doomsday-more-dangerous-than-thanos",
+      "source": "Superhero Hype",
+      "image": "https://www.superherohype.com/wp-content/uploads/sites/4/2026/09/Doctor-Doom-Avengers-Doomsday.jpg",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bleachers drop new major announcement after Jack Antonoff's divorce",
+      "description": "Bleachers drop new major announcement after Jack Antonoff's divorce Bleachers fans were stopped in their tracks as the band made an exciting announcement about new music release. The rock band which is currently on tour for the promotion of their recently released...",
+      "link": "https://www.geo.tv/latest/681660-bleachers-drop-new-major-announcement-after-jack-antonoffs-divorce",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-09-11/681660_054151_updates.jpg",
+      "published": "2026-09-11 12:54:00",
       "category": [
         "top",
-        "education"
+        "entertainment"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "U.S. Consumer Prices Increase In Line With Estimates In August",
+      "description": "WASHINGTON (dpa-AFX) - A closely watched report released by the Labor Department on Friday showed consumer prices in the U.S. increased in line with economist estimates in the month of August.The ...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69556990-u-s-consumer-prices-increase-in-line-with-estimates-in-august-020.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/content/g/fb.png",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Allarity Acquisition Seeks Nasdaq Listing With Proposed $100 Mln IPO",
+      "description": "WASHINGTON (dpa-AFX) - Friday, Allarity Therapeutics, Inc. (ALLR) announced that Allarity Acquisition Corp., a newly formed special purpose acquisition company, has filed for a proposed initial pu...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69556989-allarity-acquisition-seeks-nasdaq-listing-with-proposed-dollar-100-mln-ipo-020.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-allarity-therapeutics-inc-aktie-intraklein-nasdaq.png",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "What is the UK tourist tax and when could it come into effect?",
+      "description": "BRITS planning a domestic getaway could soon face an extra charge on their hotel bills under government plans to hand regional mayors power over a \"tourist tax\". Formally known as the Overnight Visitor Levy, the charge will allow local leaders across England to add a fee to hotel rooms, bed-and-breakfasts, and holiday lets like Airbnb....",
+      "link": "https://www.thesun.co.uk/news/40348207/uk-tourist-tax-explained/",
+      "source": "The Sun",
+      "image": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F09%2F2026-uk-government-considering-giving-1107099052_c5ca27.jpg?quality%3D90%26strip%3Dall",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "business",
+        "top"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Sept. 11 first responders will attend BC border ceremony on anniversary of attacks",
-      "description": "New York first responders on Sept. 11, 2001, are expected to be among the guests at a British Columbia memorial marking the 25th anniversary of the attacks.",
-      "link": "https://www.nationalobserver.com/2026/09/11/news/sept-11-first-responders-will-attend-bc-border-ceremony-anniversary-attacks",
-      "source": "Canada\u2019s National Observer",
-      "image": "https://www.nationalobserver.com/sites/default/files/img/2026/09/11/c8e2acf916c590e493b996a3eb1f1d5ff9d42a53ffd6f8be4f289741a521729e.jpg",
-      "published": "2026-09-11 10:14:00",
+      "title": "Lalbaugcha Raja 2026: Darshan timings, location, prasad and everything you need to know",
+      "description": "Planning Lalbaugcha Raja 2026 darshan? Check timings, location, online prasad, offerings and other important visitor information.",
+      "link": "https://www.news9live.com/lifestyle/lalbaugcha-raja-2026-darshan-timings-vip-prasad-3006824",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/09/Lalbaugcha-Raja-2026.jpg",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Which Nike backpack is right for you? Top 5 picks by lifestyle",
+      "description": "Find the best Nike backpack for school, sports, commuting or travel with options designed for athletes, students and everyday organization.",
+      "link": "https://www.thespectrum.com/story/shopping/style/accessories/2026/09/11/comparing-the-best-nike-backpacks/91713082007/",
+      "source": "The Spectrum",
+      "image": "https://www.thespectrum.com/gcdn/authoring/authoring-images/2026/09/11/USAT/91714603007-nikehero.png?crop=1999,1124,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lick the Plate Radio Celebrates 15 years and 2,000 Shows with the Scottville Clown Band",
+      "description": "Host David Boylan marks a broadcasting milestone with the original culinary, culture and music program that has connected listeners with an eclectic mix of chefs, restaurateurs, musicians, farmers and other interesting personalities since 2011. The Scottville Clown Band, one of Michigan's...",
+      "link": "https://www.prnewswire.com/news-releases/lick-the-plate-radio-celebrates-15-years-and-2-000-shows-with-the-scottville-clown-band-302875973.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS1986189/David-Boylan-Lick-the-Plate-Radio-host-and-Coast-News-columnist.jpg?id=OA2942524&p=original",
+      "published": "2026-09-11 12:54:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "These acetaminophen tablets are being recalled in Canada over 'foreign material.' Here's what you need to know",
+      "description": "The Novo-Gesic Forte 500 miligram caplets from Teva may contain a substance that could cause digestive \"injury,\" Heath Canada said.",
+      "link": "https://www.thestar.com/news/canada/these-acetaminophen-tablets-are-being-recalled-in-canada-over-foreign-material-here-s-what-you-need-to-know/article_95ac9c15-ffd9-4697-a095-440669d0e396.html",
+      "source": "The Star",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/4f/34fcda89-9fea-56b9-9ba0-d7e4986a46cd/6aa40298485e1.image.jpg?resize=300%2C400",
+      "published": "2026-09-11 12:54:00",
       "category": [
         "top",
         "crime"
@@ -33,56 +193,71 @@
       ]
     },
     {
-      "title": "Prince Harry and Meghan Markle's 'brutal nickname in America' revealed by Piers Morgan",
-      "description": "Prince Harry and Meghan Markle stepped away from America after six years to start a fresh life in the UK and it's sparked much speculation",
-      "link": "https://www.the-express.com/news/royals/215766/prince-harry-meghan-markle-piers-morgan-nickname",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/14/237x141/215766_1.jpg",
-      "published": "2026-09-11 10:14:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Jamie Carragher holds nothing back on Michael Carrick as Man Utd tipped to replace him",
-      "description": "Jamie Carragher has not held back with his verdict of Michael Carrick in the dugout at Manchester United",
-      "link": "https://www.express.co.uk/sport/football/2247650/jamie-carragher-michael-carrick-man-utd",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/67/237x141/2247650_1.jpg",
-      "published": "2026-09-11 10:14:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Huge Budapest traffic changes announced for the weekend",
-      "description": "Drivers and public transport passengers should expect significant traffic changes around Budapest's Heroes' Square. Here's what to know: Continue reading: https://dailynewshungary.com/big-budapest-traffic-changes-this-weekend/",
-      "link": "https://dailynewshungary.com/big-budapest-traffic-changes-this-weekend/",
-      "source": "Dailynewshungary",
-      "image": "https://dailynewshungary.b-cdn.net/wp-content/uploads/2025/12/heroes-square-budapest-at-night.webp",
-      "published": "2026-09-11 10:14:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Bhagwant Mann govt brought Stringent Law against beadbi, life imprisonment & no bail for guilty: Manwinder Singh Giaspura",
-      "description": "AAP MLA Manwinder Singh Giaspura targets BJP-Akali leaders over 2015 beadbi and firing cases, demanding accountability and justice. The post Bhagwant Mann govt brought Stringent Law against beadbi, life imprisonment & no bail for guilty: Manwinder Singh Giaspura appeared first on News24 .",
-      "link": "https://news24online.com/gov-news/giaspura-bjp-akali-2015-beadbi-firing-cases/923154/",
-      "source": "News 24",
+      "title": "Shinde MLAs Cry Foul Over Funds Before Ministers",
+      "description": "A fresh dispute over the allocation of development funds has reportedly surfaced within Maharashtra\u2019s ruling Mahayuti alliance, with legislators from th...",
+      "link": "https://itdcindia.com/shinde-mlas-cry-foul-over-funds-before-ministers/",
+      "source": "Itdc India Epress",
       "image": null,
-      "published": "2026-09-11 10:13:57",
+      "published": "2026-09-11 12:53:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "New Details Emerge On Death Of Catholic Priest Father Regis Chikuni",
+      "description": "Catholic Priest Father Regis Chikuni Was Killed In Hit-And-Run New details have emerged surrounding the death of Roman Catholic priest Father Regis Chikuni, whose whereabouts had been unknown for several days before his body was discovered at the Parirenyatwa Group of Hospitals mortuary. Father Chikuni is believed to have been struck by a Honda Fit [...] The post New Details Emerge On Death Of Catholic Priest Father Regis Chikuni appeared first on iHarare News .",
+      "link": "https://iharare.com/new-details-emerge-on-death-of-catholic-priest-father-regis-chikuni/",
+      "source": "Iharare News",
+      "image": "https://iharare.com/wp-content/uploads/2026/09/MixCollage-11-Sep-2026-02-40-PM-5482.jpg",
+      "published": "2026-09-11 12:53:58",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "zimbabwe"
+      ]
+    },
+    {
+      "title": "2,500 US troops join Indonesia\u2019s 10th air defense battalion for SGS26 live-fire",
+      "description": "Stay informed about the latest advancements in military technology, defense strategies, and global conflicts. Explore the intersection of technology and the military world.",
+      "link": "https://interestingengineering.com/military/super-garuda-shield-26-fim-92-stinger-mistral-3-live-fire-air-defense",
+      "source": "Interesting Engineering",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "published": "2026-09-11 12:53:57",
+      "category": [
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gujarat Rent Bill 2026 Passed in State Assembly",
+      "description": "Gandhinagar: The Gujarat Legislative Assembly on Friday passed the Gujarat Rent Bill-2026, paving the way for a new legal framework to regulate rental housing and commercial properties across the state. The new law will replace the Bombay Rents, Hotel and Lodging House Rates Control Act, 1947, and seeks to balance the rights and responsibilities of landlords and tenants while making rent-related disputes easier to resolve. Urban Development Minister Kanubhai Desai, who introduced the Bill in ...",
+      "link": "https://deshgujarat.com/2026/09/11/gujarat-rent-bill-2026-passed-in-state-assembly/",
+      "source": "Deshgujarat",
+      "image": "https://deshgujarat.com/wp-content/uploads/2018/02/Gujarat-Assembly-Inside.jpg",
+      "published": "2026-09-11 12:53:57",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Satya Niketan Collapse: Absconding PG Operator Shubham Tyagi Sent To 2-Day Police Custody",
+      "description": "Absconding PG operator Shubham Tyagi, who had surrendered before the Patiala House Court in connection with the Delhi building collapse case, was sent to two days of police custody on Friday.",
+      "link": "https://www.timesnownews.com/delhi/satya-niketan-collapse-absconding-delhi-pg-operator-shubham-tyagi-sent-to-2-day-police-custody-article-156140181",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156140132,thumbsize-1078441,width-1280,height-720,resizemode-75/156140132.jpg",
+      "published": "2026-09-11 12:53:56",
       "category": [
         "top",
         "crime"
@@ -92,380 +267,106 @@
       ]
     },
     {
-      "title": "Cooling into the weekend, rain arrives Saturday",
-      "description": "BEND, Ore. (KTVZ) - Happy Friday, everyone! Today looks pleasant with highs topping out in the low to mid 70s. Expect mostly sunny to partly cloudy skies. The cooldown continues into the weekend. Clouds will increase Saturday ahead of rain arriving during the afternoon. Winds could become gusty and continue through the evening. The chance The post Cooling into the weekend, rain arrives Saturday appeared first on KTVZ .",
-      "link": "https://ktvz.com/weather/local-forecast/2026/09/11/cooling-into-the-weekend-rain-arrives-saturday/",
-      "source": "Ktvz",
-      "image": "https://ktvz.b-cdn.net/2025/07/Screenshot-2025-07-06-165036.png",
-      "published": "2026-09-11 10:13:57",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New York: Rybakina rallies past Gauff, sets Sabalenka showdown in US Open final",
-      "description": "Elena Rybakina triumphs over Coco Gauff in a thrilling US Open semi-final, securing her spot against Aryna Sabalenka in the final. Read about her comeback victo \u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 New York: Rybakina rallies past Gauff, sets Sabalenka showdown in US Open final \u043f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u043d\u0430 SportsNewspros .",
-      "link": "https://sportsnewspros.com/rybakina-rallies-past-gauff-sets-sabalenka-us-open-final/",
-      "source": "Sportsnewspros",
-      "image": "https://i.guim.co.uk/img/media/dad76efca22707341ae5c1a5ad73edb7e4842271/380_0_3897_3119/master/3897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b392b27735f7b148d783be1a639c254",
-      "published": "2026-09-11 10:13:57",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Honor Magic 9 Series Specifications Leaked Online",
-      "description": "Honor is gearing up to introduce the latest Honor Magic 9 series in China later this month and today we got a new leak online and it reveals some important details. The source says that the smartphone series will improve the vanilla variant along with the Pro Max, and the Super Power Edition. The key [...]",
-      "link": "https://www.technobugg.com/honor-magic-9-series-specifications-leaked-online/",
-      "source": "Technobugg",
-      "image": "https://www.technobugg.com/wp-content/uploads/2026/09/Honor-Magic-9-Series.jpeg",
-      "published": "2026-09-11 10:13:56",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Capricorn Today\u2019s Horoscope: Daily Horoscope Predictions for Love, Money & Opportunities",
-      "description": "Capricorn today\u2019s horoscope highlights career advancement, discipline, finances, relationships and health. Understand how today\u2019s planetary energies support productivity, planning and practical decisions.",
-      "link": "https://www.myjyotish.com/horoscope/capricorn-daily-horoscope",
-      "source": "Myjyotish",
-      "image": "https://spidercmsstage.amarujala.com/assets/images/2026/02/20/stringer/1VTp3Kq.png?w=100",
-      "published": "2026-09-11 10:13:52",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Germany floats new Ukraine loan backed by frozen Russian assets",
-      "description": "The idea would help to reduce the size of the EU's next long-term budget, per diplomats and officials.",
-      "link": "https://www.politico.eu/article/germany-ukraine-loan-frozen-russia-assets/",
-      "source": "Politico Europe",
-      "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=675,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/09/11/GettyImages-2293636153-scaled.jpg",
-      "published": "2026-09-11 10:13:51",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "hungary",
-        "austria",
-        "netherland",
-        "greece",
-        "ireland",
-        "denmark",
-        "france",
-        "italy",
-        "czech republic",
-        "germany",
-        "spain",
-        "belgium",
-        "sweden",
-        "united kingdom",
-        "portugal",
-        "romania",
-        "norway",
-        "poland",
-        "finland",
-        "switzerland"
-      ]
-    },
-    {
-      "title": "Bayer faces pivotal test of $7.25 billion Roundup settlement in Missouri court",
-      "description": "Bayer's Monsanto unit heads to a Missouri state court on Monday seeking \u200bapproval of a $7.25 billion settlement that could resolve tens of thousands of U.S. lawsuits alleging that its popular weedkiller Roundup \u200ccauses cancer.",
-      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/bayer-faces-pivotal-test-725-billion-roundup-settlement-missouri-court-2026-09-11/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/I5MYCOSH5VNZPI7VMO2N7J36CA.jpg?auth=18fcb7d5b1db432b94f9f8667ab838cef122a5ba89a7bac949d3974cc5b3b602&smart=true&width=1920",
-      "published": "2026-09-11 10:13:51",
+      "title": "Kroger stock slid after beating earnings but cutting its sales outlook",
+      "description": "The grocery chain lowered its full-year identical sales forecast to 0.2%\u20130.8% from 1%\u20132%, citing the Inflation Reduction Act's effect on pharmacy revenue",
+      "link": "https://qz.com/kroger-earnings-same-store-sales-guidance-cut-091126",
+      "source": "Quartz",
+      "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2240031498.jpg",
+      "published": "2026-09-11 12:53:54",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "china",
-        "iran",
-        "ukraine",
-        "israel",
-        "russia",
-        "japan",
-        "india",
-        "south africa",
-        "united kingdom",
         "united states of america"
       ]
     },
     {
-      "title": "Senator Adeola Pledges to Complete Ongoing Projects, Sustain Dapo Abiodun\u2019s Development Agenda",
-      "description": "Senator Adeola Yayi made the pledge on Thursday at a rally organised by an independent campaign group, \u201cCaucus 7202,\u201d in Ijebu-Ode. The rally was organised to declare the group\u2019s support for all APC candidates in the 2027 elections in Ogun State.",
-      "link": "https://pmnewsnigeria.com/2026/09/11/senator-adeola-pledges-to-complete-ongoing-projects-sustain-dapo-abioduns-development-agenda/",
-      "source": "Pm News Nigeria",
-      "image": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2026/09/JPR_7579_1.jpg-scaled.jpeg",
-      "published": "2026-09-11 10:13:50",
+      "title": "Patients ad motorists advised that Lisburn Road entrance to the City Hospital is currently closed",
+      "description": "Road users and those attending Belfast City Hospital are advised that the Lisburn Road entrance to the hospital is currently closed, however access can still be gained via the Donegall Road.",
+      "link": "https://www.farminglife.com/health/patients-ad-motorists-advised-that-lisburn-road-entrance-to-the-city-hospital-is-currently-closed-9021499",
+      "source": "Farming Life",
+      "image": "https://www.farminglife.com/webimg/b25lY21zOmJmZDEyNWJlLTRlODQtNGYzNS1iM2NjLWRhYmJmNWUwZjBlYTplMWY2YmFjYy01YjQ0LTRiYWMtOTZjMi00YzcwODI3MjI5ZTM=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "published": "2026-09-11 12:53:54",
       "category": [
         "top",
-        "politics"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "\u201cThis is about dignity, comfort and safety while at school\u2019 - New guidelines give girls the right to wear trousers in school",
-      "description": "Sinn Fein has described the announcement as an \u2019embarrassing U-turn\u2019 by the Education Minister.",
-      "link": "https://www.irishnews.com/news/northern-ireland/this-is-about-dignity-comfort-and-safety-while-at-school-new-guidelines-give-girls-the-right-to-wear-trousers-in-school-Z6NXI7DCDZF4JFQG7JKULQ6NMU/",
-      "source": "The Irish News",
-      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/47kL3eYrbH2-kZraWbyhVEbdPcw=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/NPFNU2FWWBJQLF7GWZTDPL5JKI.jpg",
-      "published": "2026-09-11 10:13:47",
-      "category": [
-        "top",
-        "politics"
+        "crime"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Heavy rain lashes parts of Delhi-NCR, red alert issued ahead of BRICS Summit",
-      "description": "Several parts of the national capital received rain on Friday, with the India Meteorological Department (IMD) forecasting more spells of showers, thunderstorms, and lightning in Delhi over the coming hours and also issuing a red alert for the city.",
-      "link": "https://munsifdaily.com/heavy-rain-lashes-parts-of-delhi-ncr-red-alert/",
-      "source": "The Munsif Daily",
-      "image": "https://munsifdaily.com/wp-content/uploads/2026/09/121-199.gif",
-      "published": "2026-09-11 10:13:47",
+      "title": "Lawsuit challenges CBRE\u2019s handling of Atlanta executive\u2019s client assignments and termination",
+      "description": "Christopher Gadrix, a 28-year CBRE veteran, sues the Atlanta-based brokerage giant alleging age discrimination and whistleblower retaliation.",
+      "link": "https://hoodline.com/2026/09/lawsuit-challenges-cbre-s-handling-of-atlanta-executive-s-client-assignments-and-termination/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/9/lawsuit-challenges-cbre-s-handling-of-atlanta-executive-s-client-assignments-and-termination.webp",
+      "published": "2026-09-11 12:53:54",
       "category": [
-        "top",
-        "environment"
+        "politics"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Dakota Johnson Takes the Plunge Dress to New Places",
-      "description": "After a summer of denim and Do\u0302en, Dakota Johnson is back in full red carpet mode for the 2026 Kering Foundation Caring for Women dinner.",
-      "link": "https://www.vogue.com/article/dakota-johnson-takes-the-plunge-dress-to-new-places",
-      "source": "Vogue",
+      "title": "Police seek owner of urn left on LNER train from London to Aberdeen",
+      "description": "British Transport Police (BTP) officers in Aberdeen are working to reunite a lost urn with its owner.",
+      "link": "https://www.heraldscotland.com/news/26542674.search-owner-urn-left-train-london-aberdeen/",
+      "source": "The Herald",
+      "image": "https://www.heraldscotland.com/resources/images/21440891/",
+      "published": "2026-09-11 12:53:54",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "GPRTU opposes auction of broken-down vehicles after 21 days",
+      "description": "The Ghana Private Road Transport Union (GPRTU) has called for a review of a provision in the Road Traffic Regulations, 2026 (L.I. 2519), which allows",
+      "link": "https://www.citinewsroom.com/2026/09/gprtu-opposes-auction-of-broken-down-vehicles-after-21-days/",
+      "source": "Citinewsroom - Comprehensive News In Ghana",
+      "image": "https://www.citinewsroom.com/wp-content/uploads/2026/01/Screenshot-2025-08-16-201823-e1785790284881.png",
+      "published": "2026-09-11 12:53:52",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Northrop Grumman: Defense Could Outperform In An AI Unwind, But I Still Prefer Cash",
+      "description": "Northrop Grumman is a Buy, supported by structural defense tailwinds and major roles in US nuclear modernization and space. Click for more on NOC stock.",
+      "link": "https://seekingalpha.com/article/4945482-northrop-grumman-defense-could-outperform-in-an-ai-unwind-but-i-still-prefer-cash",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1745365255/image_1745365255.jpg?io=getty-c-w1280",
+      "published": "2026-09-11 12:53:50",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Is an Extended Warranty Worth the Cost?",
+      "description": "Worried young couple having car problems on a road trip and calling roadside assistance.",
+      "link": "https://www.centredaily.com/living/article317197861.html",
+      "source": "Centre Daily Times",
       "image": null,
-      "published": "2026-09-11 10:13:46",
+      "published": "2026-09-11 12:53:46",
       "category": [
-        "entertainment"
+        "top",
+        "crime"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Russian power for Air Kerala: Agreement reached to purchase 20 aircraft",
-      "description": "NEW DELHI: Reports say Indian companies have started taking steps to purchase more than 100 aircraft from Russia. Air Kerala is also said to be among the companies involved, according to an English media. During the Inno prom exhibition held in Delhi, Indian companies reached agreements to purchase 105 small aircraft.",
-      "link": "https://keralakaumudi.com/en/news/kerala/general/russian-power-for-air-kerala-agreement-reached-to-purchase-20-aircraft-1802043",
-      "source": "Kerala Kaumudi Online",
-      "image": "https://keralakaumudi.com/web-news/en/2026/09/NMAN0703462/image/aircraft.1.4017144.webp",
-      "published": "2026-09-11 10:13:46",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Global Market Jitters: Inflation, Oil Prices, and Bond Yields",
-      "description": "Global financial markets are experiencing high volatility as key economic indicators raise concerns among investors US Treasury yields have surged reflecting fears of rampant inflation and fiscal policies impacting borrowing costs worldwide",
-      "link": "https://www.devdiscourse.com/article/business/3975969-global-market-jitters-inflation-oil-prices-and-bond-yields",
-      "source": "Devdiscourse",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_10_2025_00_23_48_9531374.png&amp;width=920",
-      "published": "2026-09-11 10:13:45",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Trump snubs Saudi Crown Prince\u2019s repeated requests amid raging Houthi attacks on oil facilities in Red Sea",
-      "description": "Despite repeated calls from Saudi Crown Prince Mohammed bin Salman, Trump refused to launch military strikes against Houthis, but opted for intelligence support instead.",
-      "link": "https://www.livemint.com/news/trump-snubs-saudi-crown-prince-s-repeated-requests-amid-raging-houthi-attacks-on-oil-facilities-in-red-sea-11789116903219.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/USA-TRUMP-SAUDI-HOUTHIS-0_1789120704982_9b35399f-a458-4b64-a833-6097165aeb09_1789120729116_424a342b-3460-4c43-8cb8-719525541436_7526b96d-1d4f-492d-a599-3d389fb8bc95_2fdb7101-b337-420a-808f-a6eb75240afe.JPG",
-      "published": "2026-09-11 10:13:45",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Industrial stocks have more room to rise as short-cycle demand returns: UBS India",
-      "description": "Amit Mahawar, Industrial Analyst at UBS India highlights the industrial segments best placed for growth, including data centers, defence, EMS and power infrastructure, while outlining the key risks to margins and earnings.",
-      "link": "https://www.cnbctv18.com/market/capital-goods-industrial-stocks-short-cycle-demand-ubs-india-19989405.htm",
-      "source": "Cnbctv18",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/industrial-ems-defence-chatgptmitz-1600x900-11sep-2026-09-ad9cf210fc036722ecaac00343e47d5e.jpg",
-      "published": "2026-09-11 10:13:44",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "UK Green leader confirmed as candidate for parliament seat vacated by Starmer",
-      "description": "The leader of Britain's left-wing Green Party Zack Polanski was \u200bon Friday confirmed as the party's \u200ccandidate for a seat in parliament vacated by former Labour prime minister Keir Starmer.",
-      "link": "https://www.reuters.com/world/uk-green-leader-confirmed-candidate-parliament-seat-vacated-by-starmer-2026-09-11/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/LJ7EQEUZUNKPZNA4JTORF2N6OI.jpg?auth=fd177d542abb20564a81885a6d3079d9ae202e69e5d92a94f9ed47a16f5dc8f1&smart=true&width=1920",
-      "published": "2026-09-11 10:13:44",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "china",
-        "iran",
-        "ukraine",
-        "israel",
-        "russia",
-        "japan",
-        "india",
-        "south africa",
-        "united kingdom",
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Bitcoin pulls back as another golden cross fails to deliver",
-      "description": "Bitcoin\u2019s golden cross may support the longer-term outlook, but history suggests much of the upside often occurs before the signal appears.",
-      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
-      "source": "Coindesk Indonesia",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b4be15d05038dcd0a114f33cb3a2554d17fcab54-1306x736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "published": "2026-09-11 10:13:44",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "indonesia"
-      ]
-    },
-    {
-      "title": "Mum's heartbreak after boy, 7, killed in 'every parent's worst nightmare'",
-      "description": "Nathan Shaw was driving a BMW X4 in Huddersfield when he hit Jack Rooke, killing the 'loving and happy' seven-year-old",
-      "link": "https://www.mirror.co.uk/news/uk-news/mums-heartbreak-after-boy-7-37651061",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article37651442.ece/ALTERNATES/s615/1_JS417419433.jpg",
-      "published": "2026-09-11 10:13:43",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Josh Taylor delivers final Ryan Garcia vs Conor Benn prediction: \u201cHe can stop him inside six\u201d",
-      "description": "is seeking to pull off a major upset and capture \u2019s WBC welterweight world title on Saturday, and former undisputed super-lightweight ruler Josh Taylor has offered his final prediction for the fight. Benn has not fought as a welterweight in over four years and has already revealed that this will be his final appearance at [...] The post Josh Taylor delivers final Ryan Garcia vs Conor Benn prediction: \u201cHe can stop him inside six\u201d appeared first on Boxing News .",
-      "link": "https://boxingnewsonline.net/news/josh-taylor-final-garcia-benn-prediction/",
-      "source": "Boxingnewsonline Net",
-      "image": "https://cdn-img.boxingnewsonline.net/uploads/content/1789038040502717547/Ryan-Garcia-and-Conor-Benn.jpg",
-      "published": "2026-09-11 10:13:40",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Green Stocks Sep 11- BRICS In Delhi Brings Hope As Markets Pull Back From Lows",
-      "description": "The start of the BRICS summit in Delhi brought some hope of a positive news for India, especially vis a vis relations with China, but overall market response remained muted, weighed down by events elsewhere. Oil is truly on a boil, and that can't be good for India or most of South Asia and the many countries that are significant importers. For the green pack, it is the belief that the government's backing for the green sector will remain strong, along with the increasing proof of delivery in terms of rising manufacturing capacity and installations that inspire optimism. With the Chinese President in India after six years, any softening of ties, especially business to business exchanges where Chinese restrictions have thrown many plans haywire especially in the battery manufacturing space, would be welcomed. Of course, don't expect any wholesale changes in approach, as that is simply not how the Chinese think, or work. In stock specific action, it was the strong support for CleanMax, Emmvee and Acme Solar that continued to stand out, even as Alpex Solar's solar cell plant in UP, set to be inaugurated in the coming week, provided some much needed support for the stock. The broader picture continues to remain one of caution, as investors await clearer signals of stability and moderation in the global situation to place larger, more long term conviction bets.",
-      "link": "https://www.saurenergy.com/solar-energy-news/indian-green-stocks-sep-11-brics-in-delhi-brings-hope-as-markets-pull-back-from-lows-12519505",
-      "source": "Saur Energy",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/saur-energy/media/media_files/2026/09/11/green-stocks-2026-09-11-15-43-33.jpg",
-      "published": "2026-09-11 10:13:40",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "What it was like being the British Home Secretary during 9/11 - David Blunkett",
-      "description": "Yesterday was the 25th anniversary of the tragic death of 3,000 people in the World Trade Center in New York on September 11, 2001. Others were killed in the bringing down of a plane and the attack on the Pentagon.",
-      "link": "https://www.yorkshirepost.co.uk/news/opinion/columnists/what-it-was-like-being-the-british-home-secretary-during-911-david-blunkett-9008178",
-      "source": "Yorkshire Post",
-      "image": "https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkyZDM2ZWYzLTZjNTAtNDg5OS1hNjBlLTg4ZTM1NWFlZjcyMTo0ZTY4NmI4NC1hZGQ5LTQwMTktOTc2OS00NGEwNWYxMzg2NTY=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-09-11 10:13:39",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Drivers warned as key M4 junctions face overnight closures",
-      "description": "The M4 is set for a series of overnight closures this week.",
-      "link": "https://www.southwalesargus.co.uk/news/26541700.m4-overnight-closures-planned-coryton-miskin/",
-      "source": "Southwalesargus Co Uk",
-      "image": "https://www.southwalesargus.co.uk/resources/images/21439266/",
-      "published": "2026-09-11 10:13:39",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Delhi Train Cancelled: EMU, MEMU And Express Services Hit From Sept 11-13, Check Full List",
-      "description": "Delhi train services will be affected from September 11 to 13, with several EMU, MEMU and local trains cancelled and some express services diverted. Check the latest train status before travelling.",
-      "link": "https://newsable.asianetnews.com/india/delhi-train-cancelled-emu-memu-and-express-services-hit-from-sept-11-to-13-check-full-list-articleshow-pdbifrp",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01e83aq65gt65w9wy9h04mvbvw,imgname-9-jpg.jpg",
-      "published": "2026-09-11 10:13:39",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "BRICS Summit 2026: From Vladimir Putin to Xi Jinping, Who\u2019s Coming to Delhi for PM Modi\u2019s Big Summit?",
-      "description": "World leaders and top diplomats from across the expanded BRICS bloc are converging on New Delhi for the 18th BRICS Leaders' Summit, taking place on September 12 and 13 at the Bharat Mandapam venue.",
-      "link": "https://www.latestly.com/india/news/brics-summit-2026-from-vladimir-putin-to-xi-jinping-whos-coming-to-delhi-for-pm-modis-big-summit-7599924.html",
-      "source": "Latestly",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/09/BRICS-1.jpg",
-      "published": "2026-09-11 10:13:36",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
       ]
     }
   ]

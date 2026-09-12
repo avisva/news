@@ -1,19 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Nvidia Unveils DLSS 5, Modders Bring Multi-Frame Generation to RTX 3000 Series - finance.biggo.com",
-      "description": "Nvidia Unveils DLSS 5, Modders Bring Multi-Frame Generation to RTX 3000 Series finance.biggo.com NVIDIA RTX 20-Series \"Turing\" GPUs Can Now Run DLSS Frame Generation Through Mods TechPowerUp I tested Nvidia's leaked DLSS 5 build on my RTX 40-series across 3 games, and it changed what I thought about neural rendering XDA DLSS 5 can be accelerated by 45% right now - gamers found a way ixbt.games This free app tricks DLSS 5 into running on GPUs it\u2019s not built for, and Nvidia has some explaining to do MakeUseOf",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XdVp2anJsbWx6bEpWWV80dmxUNm5IQWYxVmdJeXE1NjI5Umk0blJNM3V3dm5BWFprbVFoSEJROFNwYk1iNXBuS2xrNlhMa0VnRi1vbWdOeVVBM19qb2Y3amVmcXcwYkdlbHFuajhYNUdQazl2VlE?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-11 22:05:00",
+      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
+      "description": "Anthropic said the users did not succeed in \u201cfielding an operational device\u201d but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek .",
+      "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
+      "source": "Securityweek",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Threat_Intelligence.jpg",
+      "published": "2026-09-12 01:50:53",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "singapore"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Samsung Mocks Apple\u2019s First Foldable, But Netizen Hits Back With Video Showing Galaxy Fold Failures",
+      "description": "Samsung\u2019s latest jabs at Apple\u2019s foldable iPhone trigger a viral backlash, as netizens revive Galaxy Fold\u2019s troubled debut and question the company\u2019s confidence in mocking Apple\u2019s foldable journey.",
+      "link": "https://www.newsx.com/tech-and-auto/samsung-mocks-apples-first-foldable-but-netizen-hits-back-with-video-showing-galaxy-fold-failures-270932/",
+      "source": "Newsx",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/representative-image-2026-09-12t071947510.jpg",
+      "published": "2026-09-12 01:50:48",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

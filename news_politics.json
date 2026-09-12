@@ -1,51 +1,36 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "I\u2019m also a hero, tsek!",
-      "description": "Namibians are back at their favourite national sport \u2013 arguing about who is a hero and who is not.This debate never dies. It merely takes a short break until somebody kicks the buc...",
-      "link": "https://www.namibiansun.com/opinion/im-also-a-hero-tsek-nmh017926-1-22110",
-      "source": "Namibian Sun",
-      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/9/11/e76b6d_639247219455738566.jpg",
-      "published": "2026-09-11 22:05:00",
+      "title": "Trump opens up on relationship with President Xi and admits 'we spy on them too'",
+      "description": "President Donald Trump spoke about his unique relationship with China's President Xi during an appearance on Fox News.",
+      "link": "https://www.the-express.com/news/us-news/215817/trump-relationship-president-xi-admits-spy",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/10/237x141/215817_1.jpg",
+      "published": "2026-09-12 01:51:00",
       "category": [
-        "sports",
+        "top",
         "politics"
       ],
       "country": [
-        "namibia"
+        "united states of america"
       ]
     },
     {
-      "title": "The pre-dawn police operation unsettles Osire",
-      "description": "Police and immigration officials arrived at a quarantine area about two kilometres from the Osire Refugee Settlement at around 01:00 on 17 August, where they encountered a security...",
-      "link": "https://www.namibiansun.com/local-news/the-pre-dawn-police-operation-unsettles-osire-nmh017812-1-22084",
-      "source": "Namibian Sun",
-      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/9/9/eeeddf_639245626792241368.jpg",
-      "published": "2026-09-11 22:05:00",
+      "title": "Police vow \u2018strong response\u2019 to any violence ahead of rival protests in Glasgow",
+      "description": "A Pink Ladies protest is expected to take place in Glasgow Green on Saturday afternoon.",
+      "link": "https://www.irishnews.com/news/uk/police-vow-strong-response-to-any-violence-ahead-of-rival-protests-in-glasgow-AF2FN5XRFFLQ7PPJRTLBLELKEQ/",
+      "source": "The Irish News",
+      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/N1qKSEf9uWjoK0EDwvAS7gSKmZA=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/DFQKML5HIVLOHEMMKLXYKESPLA.jpg",
+      "published": "2026-09-12 01:50:50",
       "category": [
         "top",
         "crime",
         "politics"
       ],
       "country": [
-        "namibia"
-      ]
-    },
-    {
-      "title": "Modi, Pezeshkian Urge Safe Seas as BRICS Meets Amid War",
-      "description": "New Delhi: Indian Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian in New Delhi on Friday, pressing for the protection of shipping lanes and the safety of seafarers as the BRICS summit opened against a backdrop of war and economic strain. In a statement, India\u2019s foreign ministry said Modi \u201cunderscored the need to protect [...] The post Modi, Pezeshkian Urge Safe Seas as BRICS Meets Amid War appeared first on Voice of Vienna .",
-      "link": "https://voiceofvienna.org/modi-pezeshkian-urge-safe-seas-as-brics-meets-amid-war/",
-      "source": "Voice Of Vienna",
-      "image": "https://voiceofvienna.org/wp-content/uploads/2025/07/Iran-President-Pezeshkian.jpg",
-      "published": "2026-09-11 22:05:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "austria"
+        "united kingdom"
       ]
     }
   ]

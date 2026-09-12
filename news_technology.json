@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Hungary announces monthly diesel support for nearly one million car owners",
-      "description": "Owners of eligible diesel cars in Hungary will receive a monthly fuel support up until December. Continue reading: https://dailynewshungary.com/hungary-diesel-support-one-million-car/",
-      "link": "https://dailynewshungary.com/hungary-diesel-support-one-million-car/",
-      "source": "Dailynewshungary",
-      "image": "https://dailynewshungary.b-cdn.net/wp-content/uploads/2026/09/Peter-Magyar-parliament5.webp",
-      "published": "2026-09-11 12:54:00",
+      "title": "Fox News AI Newsletter: Researcher delivers extinction warning",
+      "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
+      "link": "https://www.foxnews.com/tech/ai-newsletter-researcher-delivers-extinction-warning",
+      "source": "Fox News",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/JacobCoxon.jpg?ve=1&tl=1",
+      "published": "2026-09-11 17:22:53",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "AI becomes a core professional skill as employees welcome employer-led upskilling, new eDreams ODIGEO research finds",
+      "description": "- - \u2022 Survey of 9,000 people across seven markets finds strong demand for employer-led training, with appetite strongest in Portugal (79%), Spain (73%) and Italy (72%), followed by Germany (68%), the United States (61%), France (55%) and the UK (54%). - \u2022 AI-first credentials increasingly influence job choices, with 57% of respondents in Portugal, 54% in Spain and 48% in Germany saying a company's AI-first reputation would matter when choosing between two similar job offers. - \u2022 One exa... Read the full story at https://www.webwire.com/ViewPressRel.asp?aId=360377",
+      "link": "https://www.webwire.com/ViewPressRel.asp?aId=360377",
+      "source": "Webwire",
+      "image": "https://photos.webwire.com/prmedia/7/360377/360377-1-m.jpg",
+      "published": "2026-09-11 17:22:43",
       "category": [
         "technology",
         "top"

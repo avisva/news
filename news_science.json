@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "PM opens Bangladesh Innovation Fair 2026 | News Flash",
+      "description": "DHAKA, Sept 12, 2026 (BSS) - Prime Minister Tarique Rahman today inaugurated a three-day \u2018Bangladesh Innovation Fair 2026\u2019. He laid importance",
+      "link": "https://bssnews.net/news-flash/423632/PM-opens-Bangladesh-Innovation-Fair-2026",
+      "source": "Bss",
+      "image": "https://www.bssnews.net/cache-images/news_photos/2026/09/12/resize-600x315x1x0-image-423632-1789202474.jpeg",
+      "published": "2026-09-12 11:43:00",
+      "category": [
+        "technology",
+        "top",
+        "science"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Orisha University Opens Bachelor's, Master's & PhD in Ifa\u0301 Studies; LA Herald Covers Oya Enrollment for Los Angeles",
+      "description": "LOS ANGELES, CA - Orisha University (orishauniversity.com) is now enrolling students worldwide in Bachelor's, Master's, and PhD programs in Ifa\u0301 and Orisha Studies, plus Certificate entry, taught online at $99 per month. The Los Angeles Herald is announcing the Southern",
+      "link": "https://www.openpr.com/news/4630037/orisha-university-opens-bachelor-s-master-s-phd-in-ifa",
+      "source": "Openpr.com",
+      "image": null,
+      "published": "2026-09-12 11:42:30",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "germany"
+      ]
+    }
+  ]
 }

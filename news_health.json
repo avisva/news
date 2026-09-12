@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Docs Off The Clock (DOCs): Advocates For Local Healthcare",
-      "description": null,
-      "link": "https://www.estesparknews.com/estes_valley_spotlight/article_942bdc33-7bd2-44f0-bef3-a5f776f91081.html",
-      "source": "Estes Park News",
-      "image": null,
-      "published": "2026-09-11 17:23:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

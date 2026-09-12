@@ -1,15 +1,16 @@
 {
   "status": "success",
-  "totalResults": 28,
+  "totalResults": 20,
   "results": [
     {
-      "title": "Man United vs. Man City history, head to head: All-time records, matchups, recent results in Manchester derby",
-      "description": "Manchester United vs Manchester City is one of the fiercest derby clashes in English football with both sides regularly battling for major honours in the Premier League era. They meet again on January 17.",
-      "link": "https://www.sportingnews.com/us/soccer/news/man-united-vs-man-city-head-to-head-history/zmid4nr4d4lnriggswlmewrd",
-      "source": "Sporting News",
-      "image": "https://ng-sportingnews.com/s3/files/styles/crop_style_16_9_1280_webp/s3/2023-04/GettyImages-661075930.jpg.webp?itok=w44gjsQ5",
-      "published": "2026-09-11 17:23:00",
+      "title": "Loons\u2019 next challenge: Red-hot St. Louis City on the road Saturday",
+      "description": "Minnesota is set to face at St. Louis City squad that is unbeaten in 14 straight matches",
+      "link": "https://www.wadenapj.com/sports/pro/loons-next-challenge-red-hot-st-louis-city-on-the-road-saturday",
+      "source": "Wadena Pioneer Journal",
+      "image": "https://cdn.forumcomm.com/dims4/default/afe0639/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F26%2Fe3%2F5345168c468292bc1dece972573d%2Fwil-trapp-loons-fc.JPG",
+      "published": "2026-09-11 22:05:00",
       "category": [
+        "top",
         "sports"
       ],
       "country": [
@@ -17,55 +18,72 @@
       ]
     },
     {
-      "title": "Commerce library announces September programs, events",
-      "description": "The Commerce Public Library is celebrating Library Card Sign-up Month in September.",
-      "link": "https://www.mainstreetnews.com/jackson/features/commerce-library-announces-september-programs-events/article_1d84c241-f833-418e-9117-0550373f2feb.html",
-      "source": "Mainstreetnews.com",
-      "image": "https://bloximages.newyork1.vip.townnews.com/mainstreetnews.com/content/tncms/assets/v3/editorial/0/71/07188ac9-695b-4c9d-8670-b29e596e2522/6aa43a23f1a9e.image.jpg?crop=637%2C334%2C1%2C71",
-      "published": "2026-09-11 17:23:00",
+      "title": "I\u2019m also a hero, tsek!",
+      "description": "Namibians are back at their favourite national sport \u2013 arguing about who is a hero and who is not.This debate never dies. It merely takes a short break until somebody kicks the buc...",
+      "link": "https://www.namibiansun.com/opinion/im-also-a-hero-tsek-nmh017926-1-22110",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/9/11/e76b6d_639247219455738566.jpg",
+      "published": "2026-09-11 22:05:00",
       "category": [
-        "top"
+        "sports",
+        "politics"
+      ],
+      "country": [
+        "namibia"
+      ]
+    },
+    {
+      "title": "\u2018Onwards and Sideways\u2019 Director John Madden on Returning to TIFF After 16 Years With His Parkinson\u2019s Romantic Drama Starring Laura Linney and Rhys Ifans",
+      "description": "When director John Madden first read Paul Mayhew-Archer\u2019s script that was based on his experience living with Parkinson\u2019s disease, he knew it had a ways to go. But he recognized its potential. Now nearly a decade later, Madden is ready to show \u201cOnwards and Sideways\u201d to buyers at the Toronto Intl. Film Festival. What initially [...]",
+      "link": "https://variety.com/2026/film/news/onwards-and-sideways-director-john-madden-1236859016/",
+      "source": "Variety",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Onwards-and-Sideways_Still_Hero.jpg",
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "entertainment"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Docs Off The Clock (DOCs): Advocates For Local Healthcare",
-      "description": null,
-      "link": "https://www.estesparknews.com/estes_valley_spotlight/article_942bdc33-7bd2-44f0-bef3-a5f776f91081.html",
-      "source": "Estes Park News",
-      "image": null,
-      "published": "2026-09-11 17:23:00",
+      "title": "The pre-dawn police operation unsettles Osire",
+      "description": "Police and immigration officials arrived at a quarantine area about two kilometres from the Osire Refugee Settlement at around 01:00 on 17 August, where they encountered a security...",
+      "link": "https://www.namibiansun.com/local-news/the-pre-dawn-police-operation-unsettles-osire-nmh017812-1-22084",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/9/9/eeeddf_639245626792241368.jpg",
+      "published": "2026-09-11 22:05:00",
       "category": [
-        "health",
-        "top"
+        "top",
+        "crime",
+        "politics"
       ],
       "country": [
-        "united states of america"
+        "namibia"
       ]
     },
     {
-      "title": "Tiny Optical Crystal Paves Way for Faster 6G Communications",
-      "description": "Researchers from Loughborough University and their international partners have developed a rice-grain-sized microchip capable of generating a stable spectrum of light frequencies\u2014known as a microcomb\u2014and converting them into an array of high-frequency electromagnetic signals, specifically millimeter waves. While the chip itself is miniature, the system highlights a fundamental tension in next-generation hardware: the gap between a successful component and a deployable device. The core of the device is the microcomb, which produces a series of light frequencies spaced at precise, equal intervals. Unlike a continuous spectrum, these frequencies are discrete, acting like the teeth of a comb. By using a specialized antenna to convert these optical frequencies into millimeter waves, the system can generate multiple high-frequency channels simultaneously. In theory, this multiplies the data throughput capacity, a requirement for the projected bandwidth of 6G networks. The primary technical hurdle for multi-frequency signals is instability. To solve this, the team moved beyond standard micro-resonators by implementing a hybrid architecture. They coupled the chip-resonator with a large optical fiber loop, allowing light to circulate and accumulate optical states more effectively. This configuration renders the signal resilient to external physical disturbances; the system maintains stability even when the supporting surface is subjected to mechanical vibrations.",
-      "link": "https://english.pravda.ru/news/science/168805-microcomb-signal-chip/",
-      "source": "Pravda",
-      "image": "https://english.pravda.ru/image/preview/article/8/0/5/168805_amp.jpeg",
-      "published": "2026-09-11 17:23:00",
+      "title": "Modi, Pezeshkian Urge Safe Seas as BRICS Meets Amid War",
+      "description": "New Delhi: Indian Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian in New Delhi on Friday, pressing for the protection of shipping lanes and the safety of seafarers as the BRICS summit opened against a backdrop of war and economic strain. In a statement, India\u2019s foreign ministry said Modi \u201cunderscored the need to protect [...] The post Modi, Pezeshkian Urge Safe Seas as BRICS Meets Amid War appeared first on Voice of Vienna .",
+      "link": "https://voiceofvienna.org/modi-pezeshkian-urge-safe-seas-as-brics-meets-amid-war/",
+      "source": "Voice Of Vienna",
+      "image": "https://voiceofvienna.org/wp-content/uploads/2025/07/Iran-President-Pezeshkian.jpg",
+      "published": "2026-09-11 22:05:00",
       "category": [
-        "science"
+        "top",
+        "politics"
       ],
       "country": [
-        "russia"
+        "austria"
       ]
     },
     {
-      "title": "Alternative trading system",
-      "description": "Alternative trading system katy.thorson Fri, 09/11/2026 - 13:23 Alternative trading system An alternative trading system (ATS) is an execution platform that brings together buyers and sellers of securities, similar to how orders are matched on an exchange. The system operator must be a licensed broker-dealer registered under SEC Rule ATS and must comply with various conduct and reporting requirements. (0926-NPF3)",
-      "link": "https://www.schwab.com/node/48376",
-      "source": "Charles Schwab Corporation",
+      "title": "Fifth Circuit Questions Louisiana's Standing In Mifepristone Case",
+      "description": "Fifth Circuit Questions Louisiana's Standing In Mifepristone Case Authored by Matthew Vadum via The Epoch Times , A federal appeals court on Sept. 9 questioned whether Louisiana , which has a near-total ban on abortion, has standing to force a nationwide return of in-person dispensing for abortion drug mifepristone, which patients can now obtain by telehealth and mail. Mifepristone tablets are displayed at a family planning clinic in Rockville, Md., on April 13, 2023. Anna Moneymaker/Getty Images A medication abortion generally involves mifepristone, which blocks the hormone progesterone, and misoprostol, which induces contractions. Louisiana says mifepristone can cause heavy bleeding and, in rare cases, life-threatening infection, and that the U.S. Food and Drug Administration (FDA) should bring back the pre-2023 rule requiring the drug to be dispensed in person at a clinic, office, or hospital. The state argues the Biden-era change, which allows a certified prescriber to order the pills by telehealth services and a pharmacy to mail them, skipped an adequate safety review and undercuts Louisiana's abortion ban. A panel of the U.S. Court of Appeals for the Fifth Circuit temporarily blocked the rule in May, but later that month the Supreme Court lifted that order, allowing the drug to continue to be dispensed through the mail. The FDA, now under President Donald Trump, is currently reviewing safety claims about the drug. If the state ultimately wins its ongoing lawsuit against the FDA to reinstate the requirement for in-person dispensing, demand for medication abortions, which now account for most abortions in the United States, could drop. This is because patients who currently obtain the medication through the mail without visiting a doctor would have to do more legwork to obtain it. Louisiana has been challenging so-called shield laws in places such as California and New York that protect healthcare providers from out-of-state investigations and prosecutions. Louisiana has indicted out-of-state doctors for prescribing mifepristone to Louisiana residents. But mifepristone continues to find its way into Louisiana. Louisiana Solicitor General Ben Aguinaga told a newly constituted three-judge panel of the Fifth Circuit on Sept. 9 that the FDA rule undermines abortion bans enacted by his state and others after the Supreme Court overturned Roe v. Wade . That 2022 ruling held there was no constitutional right to abortion and returned regulation of the practice to the states. \"There's no dispute that Louisiana is experiencing 1,000 abortions a month due to mifepristone mailed into the state,\" Aguinaga said. U.S. Circuit Judges Stephen Higginson and Dana Douglas asked whether the state had legal standing, or a close enough connection to the legal controversy, to sue over the FDA decision, saying Louisiana could not show that abortions taking place in the state were related to the 2023 rule. \"There are too many independent actors to say that actually the government's assessment of safety is what's causing your 1,000 abortions a month,\" Higginson said. Daniel Winik, an attorney for the U.S. Department of Justice, said the FDA's review is still in progress. \"The whole point of our position in this case is that it's the FDA's job in the ongoing consideration of mifepristone to address all these issues,\" Winik said. U.S. Circuit Judge Priscilla Richman asked how many complications \"would not have occurred had the woman seen a physician in person.\" Attorneys for mifepristone makers GenBioPro and Danco have said the drug is safe and that the FDA appropriately considered the drug's risks when making its decision in 2023. \"The FDA's decision was richly supported,\" GenBioPro lawyer John Elwood told the panel. It is unclear when the panel will rule. Tyler Durden Fri, 09/11/2026 - 18:05",
+      "link": "https://www.zerohedge.com/medical/fifth-circuit-questions-louisianas-standing-mifepristone-case",
+      "source": "Zerohedge",
       "image": null,
-      "published": "2026-09-11 17:23:00",
+      "published": "2026-09-11 22:05:00",
       "category": [
         "business"
       ],
@@ -74,324 +92,28 @@
       ]
     },
     {
-      "title": "Photos: Colonie boys' soccer tops Shenendehowa",
-      "description": "COLONIE - Colonie hosted Shenendehowa in Section 2 boys soccer action on Thursday, Sept. 10. The Wolf Pack won the contest 2-0.",
-      "link": "https://www.dailygazette.com/spotlightnews/sports/colonie-shenedehowa-boys-soccer-score/article_a7d4a292-61ad-4d43-b155-730d6866dc9b.html",
-      "source": "Dailygazette.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/7/3c/73c3ea99-ccb5-4ae9-be0d-0f49b052c3a7/6aa43ba1e34da.preview.jpg?resize=300%2C160",
-      "published": "2026-09-11 17:23:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Designer Brands: My Strong Sell Is Over (Rating Upgrade)",
-      "description": "Designer Brands shows a Q3 2025 earnings turnaround with EPS beating estimates, but durability is unproven. Click for this DBI stock update.",
-      "link": "https://seekingalpha.com/article/4945594-designer-brands-my-strong-sell-is-over-rating-upgrade",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408834057/image_1408834057.jpg?io=getty-c-w1280",
-      "published": "2026-09-11 17:22:59",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Top 13 Richest Film Directors in the World (2026): Steven Spielberg Just Topped Forbes Again",
-      "description": "Discover the 13 richest film directors in 2026, led by Steven Spielberg at $7.1 billion, with George Lucas, Peter Jackson and five billionaire filmmakers.",
-      "link": "https://www.legit.ng/ask-legit/top/1730216-top-13-richest-film-directors-world-2026-steven-spielberg-topped-forbes-again/",
-      "source": "Legit Nigeria",
-      "image": "https://cdn.legit.ng/images/1200x675/55bffaa776a9733e.jpeg?v=1",
-      "published": "2026-09-11 17:22:57",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Huge security operation under way for Trump's visit to Ireland",
-      "description": "Gardai\u0301 say this is one of the biggest security operations they have ever put in place.",
-      "link": "https://ca.news.yahoo.com/huge-security-operation-under-way-150617241.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/3a114861f9325a9347c3fd5b5bdf24a07ddda46f33f35c66be81c2aac00d76d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3bb952108fda028740f3f7d3c4c3563b.jpg",
-      "published": "2026-09-11 17:22:56",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Conor Benn at his lightest since 2019 as he and Ryan Garcia make weight",
-      "description": "After all the speculation, worrying and doubts, Conor Benn literally put a cap on it Friday, weighing in at 146lbs \u2013 a full pound below the welterweight limit, and his lightest since June 2019, as he heads to Saturday night\u2019s WBC title fight versus champion Ryan Garcia",
-      "link": "https://www.boxingscene.com/articles/conor-benn-at-his-lightest-since-2019-as-he-and-ryan-garcia-make-weight",
-      "source": "Boxingscene",
-      "image": "https://photo.boxingscene.com/uploads/Conor-Benn-weighs-in-forRyan-Garcia-Sep-2026.jpg",
-      "published": "2026-09-11 17:22:56",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "John Klingberg Retires From NHL At 34, Fans Can't Stop Talking About One Decision",
-      "description": null,
-      "link": "https://sports.ndtv.com/us-nhl/john-klingberg-retires-at-34-fans-cant-stop-talking-about-one-decision-12035017",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-09/65frdue8_john-klingberg-_625x300_11_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "published": "2026-09-11 17:22:55",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
-      "description": "Formula 1 heads into Saturday at Madring with Kimi Antonelli fastest after a tricky second practice session for the Spanish Grand Prix. The Mercedes championship leader pipped Ferrari\u2019s Charles Leclerc in FP2, with Lewis Hamilton third as drivers continued to build confidence around Madrid\u2019s new Formula 1 venue. Arvid Lindblad was an eye-catching fourth for Racing Bulls before crashing at ... Keep reading",
-      "link": "https://au.motorsport.com/f1/news/f1-spanish-gp-at-madring-saturday-schedule-weather-forecast-and-how-to-watch/10854657/",
-      "source": "Motorsport",
-      "image": "https://cdn-4.motorsport.com/images/amp/6VyKmB4Y/s6/carlos-sainz-williams.jpg",
-      "published": "2026-09-11 17:22:55",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Fox News AI Newsletter: Researcher delivers extinction warning",
-      "description": "The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.",
-      "link": "https://www.foxnews.com/tech/ai-newsletter-researcher-delivers-extinction-warning",
-      "source": "Fox News",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/JacobCoxon.jpg?ve=1&tl=1",
-      "published": "2026-09-11 17:22:53",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Greatest Alive Bingo Internet sites British 2026 Best Actual-Time Room casino cruise sign up that have Machines",
-      "description": "Articles Is actually on the internet bingo video game totally free?: casino cruise sign up Greatest United states Bingo Offers to own 2026 #4. Sunlight Bingo \u2013 Necessary Bingo Site Providing 250 Bingo Ball Video game What are and select a knowledgeable Bingo Internet sites The guidelines are often simple to discover, however they are [...]",
-      "link": "https://www.foodprocessingbazaar.com/uncategorized/greatest-alive-bingo-internet-sites-british-2026-best-actual-time-room-casino-cruise-sign-up-that-have-machines/",
-      "source": "Foodprocessingbazaar",
-      "image": null,
-      "published": "2026-09-11 17:22:53",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\u2018Almost feels like this happened yesterday\u2019: Remembering New York\u2019s terrible hour shows better signs of humanity",
-      "description": "9/11 victims\u2019 families visit Ground Zero on 25th anniversary of catastrophe",
-      "link": "https://www.irishtimes.com/world/us/2026/09/11/almost-feels-like-this-happened-yesterday-remembering-new-yorks-terrible-hour-shows-better-signs-of-humanity/",
-      "source": "The Irish Times",
-      "image": "https://www.irishtimes.com/resizer/v2/EBY3K6BTCTVUHIIT33Y7MJENYY.jpg?auth=c80a23c3233c402ec9dfba2ead4b1f37325ff74df1e87eea51de6afc14ec3cc5&smart=true&width=630&height=350",
-      "published": "2026-09-11 17:22:53",
+      "title": "Lula maintains lead over Flavio Bolsonaro ahead of Brazil election, Datafolha poll shows",
+      "description": "SAO PAULO, \u2060Sept 11 (Reuters) - Brazilian \u2060President Luiz Inacio Lula \u200cda Silva maintained the numerical lead over Senator Flavio \u200bBolsonaro in a \u2060potential runoff \u2060of the October election, a \u2060Datafolha \u200cpoll showed on Friday.",
+      "link": "https://www.thestar.com.my/news/world/2026/09/12/lula-maintains-lead-over-flavio-bolsonaro-ahead-of-brazil-election-datafolha-poll-shows",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/12/4106741.jpg",
+      "published": "2026-09-11 22:05:00",
       "category": [
         "world"
       ],
       "country": [
-        "ireland"
+        "malaysia"
       ]
     },
     {
-      "title": "HallOVeen returns in October to benefit Opportunity Village",
-      "description": "HallOVeen at Opportunity Village\u2019s Magical Forest is back, bringing family-friendly fall fun to the valley! Your favorite rides and attractions are returning, a",
-      "link": "https://news3lv.com/news/arc/halloveen-returns-in-october-to-benefit-opportunity-village",
-      "source": "Ksnv",
-      "image": "https://news3lv.com/resources/media2/16x9/1920/1320/center/90/d9d1b743-bf70-4255-b041-daa67aa67d40-167e3c7d7b234a99b7746e660d1c8e86.png",
-      "published": "2026-09-11 17:22:52",
+      "title": "St. Joseph Students Mark 25th Anniversary of 9/11",
+      "description": "Students at St. Joseph School marked the 25th anniversary of September 11th with prayer, reflection and education. The program gave a generation born after the attacks a chance to hear survivor accounts, connect with the 9/11 Memorial and Museum, and better understand the sacrifices and lasting impact of that day.",
+      "link": "https://www.erienewsnow.com/news/st-joseph-students-mark-25th-anniversary-of-9-11/article_07fea002-4162-434e-bdcd-8d5700924600.html",
+      "source": "Erie News Now",
+      "image": "https://bloximages.chicago2.vip.townnews.com/erienewsnow.com/content/tncms/assets/v3/editorial/0/7f/07fea002-4162-434e-bdcd-8d5700924600/6aa47cf74f66d.social.png",
+      "published": "2026-09-11 22:05:00",
       "category": [
-        "tourism",
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Santa Barbara High Girls Volleyball Opens Channel League Play With Five-Set Win Over Ventura",
-      "description": "Santa Barbara will return to action Tuesday at rival San Marcos for a crosstown Channel League matchup. The post Santa Barbara High Girls Volleyball Opens Channel League Play With Five-Set Win Over Ventura appeared first on The Santa Barbara Independent .",
-      "link": "https://www.independent.com/2026/09/11/santa-barbara-high-girls-volleyball-opens-channel-league-play-with-five-set-win-over-ventura/",
-      "source": "The Santa Barbara Independent",
-      "image": "https://www.independent.com/wp-content/uploads/2026/09/ENT_7236.jpg?fit=5568%2C3712",
-      "published": "2026-09-11 17:22:52",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "A bigger BRICS, shaped by India\u2019s vision",
-      "description": "The bigger picture remains that of the BRICS grouping living up to its full potential and the Delhi BRICS Summit ought to make concrete progress towards that end",
-      "link": "https://www.thehindu.com/opinion/op-ed/a-bigger-brics-shaped-by-indias-vision/article71457389.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/ph56s/article71457390.ece/alternates/FREE_1200/20260911223L.jpg",
-      "published": "2026-09-11 17:22:49",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
-      "description": "Food and Drug Administration officials said they are confident that all recalled iceberg lettuce related to this specific outbreak is off the market.",
-      "link": "https://www.pbs.org/newshour/health/u-s-officials-declare-an-end-to-record-setting-cyclospora-outbreak-but-its-origin-is-still-unknown",
-      "source": "Pbs",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26189642009611-1024x533.jpg",
-      "published": "2026-09-11 17:22:48",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lafayette man arrested in July home invasion, sexual assault investigation",
-      "description": "The man faces preliminary charges including rape, aggravated battery, strangulation and residential entry, police said.",
-      "link": "https://www.wthr.com/article/news/crime/lafayette-man-arrested-july-home-invasion-sexual-assault-investigation/531-1043ffbb-f66b-47ad-aa35-a8d88116c095",
-      "source": "Wthr",
-      "image": "https://media.tegna-media.com/assets/WTHR/images/ea6f1c59-a0b7-45b5-ad0d-c64c652e9af6/20260704T014334/ea6f1c59-a0b7-45b5-ad0d-c64c652e9af6_750x422.jpg",
-      "published": "2026-09-11 17:22:48",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "New England Patriots: Reveal Fate of 3x-Pro Bowler",
-      "description": "As previously discussed on Gridiron Heroics, the New England Patriots are expected to sign DaQuan Jones to a one-year, $3.5 million contract worth up to $6 million. However, with the roster already full, New England needed to make a corresponding move to add Jones. Highlighting one possible option is to place A.J. Brown on injured [...] The post New England Patriots: Reveal Fate of 3x-Pro Bowler appeared first on Gridiron Heroics.",
-      "link": "https://ca.sports.yahoo.com/news/england-patriots-reveal-fate-3x-172247412.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/e8a796c8cc9c43799fa4a893a8436c27ea5108a53ed34a720fb9b9eb75a8d842/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F22c4473c97ef80925e3944d6d2692335.jpg",
-      "published": "2026-09-11 17:22:47",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Ronaldo eyes final chance for Asian Champions League glory",
-      "description": "Cristiano Ronaldo will begin what could be his final attempt to win the Asian Champions League on Monday. The 41-year-old Portuguese forward has won five European Champions League titles during his career. However, the Asian title remains missing from his collection of major club honours. Ronaldo said in August that this could probably be his [...]",
-      "link": "https://dailytimes.com.pk/1551572/ronaldo-eyes-final-chance-for-asian-champions-league-glory/",
-      "source": "Daily Times - Latest Pakistan News, World, Busines",
-      "image": "https://dailytimes.com.pk/assets/uploads/2026/09/11/Ronaldo-eyes-final-chance-for-Asian-Champions-League-glory.jpg",
-      "published": "2026-09-11 17:22:46",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "What are MLB magic numbers? Latest division clinching scenarios",
-      "description": "When will MLB's division races be clinched? Here is the latest look at the magic numbers.",
-      "link": "https://www.usatoday.com/story/sports/mlb/2026/09/11/what-is-magic-number-mlb-brewers-dodgers/91711946007/",
-      "source": "Usa Today",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/11/USAT/91712267007-20260910-t-004839-z-1195419111-mt-1-usatoday-29776035-rtrmadp-3-mlbchicagocubsatmilwaukeebrewers.JPG?crop=7237,4071,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
-      "published": "2026-09-11 17:22:46",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "A physical practice and a Connor Bedard sighting highlight Day 1 of Chicago Blackhawks prospect camp",
-      "description": "Chicago Blackhawks hopefuls were put to work in the first practice for the Prospect Showcase \u2014 as was Connor Bedard as he works with trainers during his recovery.",
-      "link": "https://www.chicagotribune.com/2026/09/11/chicago-blackhawks-prospect-camp-connor-bedard/",
-      "source": "Chicago Tribune",
-      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/06/ctc-l-blackhawks-development32.jpg?w=1600&resize=1600,900",
-      "published": "2026-09-11 17:22:45",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hikmat Hajiyev: Azerbaijan and Mexico have great potential for partnership",
-      "description": "Azerbaijan and Mexico have significant potential for close partnership and cooperation within international organizations, Hikmat Hajiyev, Assistant to the President of Azerbaijan and Head of the Foreign Policy Affairs Department of the Presidential Administration, said at a reception marking Mexico's Independence Day.",
-      "link": "https://report.az/en/foreign-politics/hikmat-hajiyev-azerbaijan-and-mexico-have-great-potential-for-partnership",
-      "source": "Report.az",
-      "image": "https://images.report.az/2026/09/11/PduzGEsp1XuhDXdOXFjtnv2mx6fWyF1AzVb3H5mp_1200.jpg",
-      "published": "2026-09-11 17:22:45",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "azerbaijan"
-      ]
-    },
-    {
-      "title": "Bombay high court fumes over \u2018lackadaisical investigation\u2019 into Palghar hospital attack case, tells Konkan division special inspector general of police to supervise probe",
-      "description": "Bombay high court fumes over \u2018lackadaisical investigation\u2019 into Palghar hospital attack case, tells Konkan division special inspector general of police to supervise probe",
-      "link": "https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-fumes-over-lackadaisical-investigation-into-palghar-hospital-attack-case-tells-konkan-division-special-inspector-general-of-police-to-supervise-probe/articleshow/134081588.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133936722/133936722.jpg",
-      "published": "2026-09-11 17:22:43",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "AI becomes a core professional skill as employees welcome employer-led upskilling, new eDreams ODIGEO research finds",
-      "description": "- - \u2022 Survey of 9,000 people across seven markets finds strong demand for employer-led training, with appetite strongest in Portugal (79%), Spain (73%) and Italy (72%), followed by Germany (68%), the United States (61%), France (55%) and the UK (54%). - \u2022 AI-first credentials increasingly influence job choices, with 57% of respondents in Portugal, 54% in Spain and 48% in Germany saying a company's AI-first reputation would matter when choosing between two similar job offers. - \u2022 One exa... Read the full story at https://www.webwire.com/ViewPressRel.asp?aId=360377",
-      "link": "https://www.webwire.com/ViewPressRel.asp?aId=360377",
-      "source": "Webwire",
-      "image": "https://photos.webwire.com/prmedia/7/360377/360377-1-m.jpg",
-      "published": "2026-09-11 17:22:43",
-      "category": [
-        "technology",
+        "lifestyle",
         "top"
       ],
       "country": [
@@ -399,14 +121,177 @@
       ]
     },
     {
-      "title": "North Union wins girls portion of cross country races held during invitational at Fairbanks",
-      "description": "The annual \u201cFarm\u201dbanks High School cross country invitational was held on a hot and humid Tuesday evening. It was hosted by the Fairbanks Panthers. FHS hosted North Union, Marion Harding and Columbus Wellington. North Union captured top team honors in the girls meet with 21 points. -- Ava Lahmers, above, of Fairbanks, and Felix Plouck, below, of North Union respectively placed first and third in the girls and boys races on Tuesday evening during the annual \u201cFarm\u201dbanks Invitational that was held at Fairbanks High School. (Journal-Tribune photos by Tim Miller) -- Fairbanks was the runner-up with 50 and Wellington finished with 51. Marion Harding won the boys meet with 26 points, followed by North Union-45 and Fairbanks-54. The boys and girls races were reduced from a 5K to a two-mile event, due to the ongoing construction at Fairbanks High School. Results for local runners were as follows: Girls -First: Ava Lahmers, 12:49.87, Fairbanks; -Second: Sadie Miller, 12:51.67, Fairbanks; -Third: Kailin McElroy, 13:18.21, North Union; -Fourth: Layney Wilds, 13:26.50, North Union; -Fifth: Hadley Premuda, 14:16.43, Fairbanks; -Seventh: Lilly Smith, 15:39.02, Fairbanks; -Eighth: Allana Smith, 15:55.71, North Union; -Ninth: Analeigh Kelson, 16:05.58, North Union; -10th: Prairie Bailey, 16:08.23, Fairbanks; -13th: Adalee Hunt,...",
-      "link": "https://www.marysvillejt.com/2026/09/11/north-union-wins-girls-portion-cross-country-races-held-invitational-fairbanks/?ta_paidstory=",
-      "source": "Marysvillejt",
-      "image": "https://www.marysvillejt.com/marysvillejt/news/wp-content/uploads/sites/2/2026/09/0910-k.-mcelroy-NU-copy-639x1024.jpg",
-      "published": "2026-09-11 17:22:43",
+      "title": "Big Vinny V: Can Rey Mysterio vs. Omos at AAA TripleMania 34 possibly be good?",
+      "description": "The first night of AAA TripleMania 34 airs this Friday, September 11, from the MGM Grand Garden Arena. The main event of that show pits 5-foot-2 Rey Mysterio Jr. against 7-foot-4 Omos, one of the largest height disparities you\u2019ll ever see in a wrestling match. With believability stretched to its breaking point before the opening [...]",
+      "link": "https://www.f4wonline.com/opinion/big-vinny-v-can-rey-mysterio-vs-omos-at-aaa-triplemania-34-possibly-be-good/",
+      "source": "Won/f4w",
+      "image": "https://www.f4wonline.com/wp-content/uploads/2026/09/Omos-staring-way-down-at-Rey-Mysterio-scaled.png",
+      "published": "2026-09-11 22:05:00",
       "category": [
         "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nigel Farage handed staggering \u00a336m donation in huge Reform UK win",
+      "description": "The sum has been given so that the party can compete on a \"level playing field\".",
+      "link": "https://www.express.co.uk/news/uk/2247889/nigel-farage-staggering-donation-reform-uk",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2247889_1.jpg",
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Kearney police issue 93 citations during Labor Day safety effort",
+      "description": "The campaign was conducted from Aug. 21 to Sept. 7 in conjunction with the national Labor Day impaired-driving enforcement effort.",
+      "link": "https://kearneyhub.com/news/local/crime-courts/article_5b462d39-613b-4b53-9157-8db6309abaf9.html",
+      "source": "Kearney Hub",
+      "image": null,
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nvidia Unveils DLSS 5, Modders Bring Multi-Frame Generation to RTX 3000 Series - finance.biggo.com",
+      "description": "Nvidia Unveils DLSS 5, Modders Bring Multi-Frame Generation to RTX 3000 Series finance.biggo.com NVIDIA RTX 20-Series \"Turing\" GPUs Can Now Run DLSS Frame Generation Through Mods TechPowerUp I tested Nvidia's leaked DLSS 5 build on my RTX 40-series across 3 games, and it changed what I thought about neural rendering XDA DLSS 5 can be accelerated by 45% right now - gamers found a way ixbt.games This free app tricks DLSS 5 into running on GPUs it\u2019s not built for, and Nvidia has some explaining to do MakeUseOf",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XdVp2anJsbWx6bEpWWV80dmxUNm5IQWYxVmdJeXE1NjI5Umk0blJNM3V3dm5BWFprbVFoSEJROFNwYk1iNXBuS2xrNlhMa0VnRi1vbWdOeVVBM19qb2Y3amVmcXcwYkdlbHFuajhYNUdQazl2VlE?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Army Museum Commemorates 25th Anniversary of 9/11",
+      "description": "SEPTEMBER 11, 2026 \u2014 The National Museum of the United States Army is commemorating the 25th anniversary of September 11, 2001, with a new special exhibition and a weekend of commemorative public programs for visitors to remember, reflect and explore how the U.S. Army responded in the wake of a national tragedy. The Army Historical [...] The post Army Museum Commemorates 25th Anniversary of 9/11 appeared first on MilitarySpot.com .",
+      "link": "https://www.militaryspot.com/news/army-museum-commemorates-25th-anniversary-of-9-11",
+      "source": "Military Spot",
+      "image": "https://www.militaryspot.com/wp-content/uploads/2026/09/steel-to-stone.jpg",
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Treasure Trove Assembles the \u201cAvengers of Collectibles\u201d as Advisory Board",
+      "description": "Treasure Trove, the collectibles holding company building the \"Cultural Store of Value,\" today announced an advisory board that reads like an all-star roster of the industry: Ken Goldin, founder of Goldin; Jeremy Padawer, lifelong collector and investor; and Jim Halperin and Steve Ivy, co-founders of Heritage Auctions.",
+      "link": "https://www.financialcontent.com/article/bizwire-2026-9-11-treasure-trove-assembles-the-avengers-of-collectibles-as-advisory-board",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Two schools, one family: brothers lead Northside and Hidden Valley bands",
+      "description": "Tim and Thomas Galyen lead marching bands at different Roanoke County high schools",
+      "link": "https://www.wdbj7.com/2026/09/11/two-schools-one-family-brothers-lead-northside-hidden-valley-bands/",
+      "source": "Https://www.wdbj7.com",
+      "image": "https://gray-wdbj-prod.gtv-cdn.com/resizer/v2/XQVALEXR4RAL5J4V34L3GMYRKQ.png?auth=6fb2d878065d0f593b76aa1359d7fe9a4df2863c2876bc48024e1ccdd9d0bdc9&width=1200&height=600&smart=true",
+      "published": "2026-09-11 22:04:57",
+      "category": [
+        "entertainment",
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Venezuelan Acting President Honors Simon Bolivar\u2019s Legacy in Suriname",
+      "description": "Venezuela\u2019s Acting President Delcy Rodriguez led a solemn floral tribute to Simo\u0301n Boli\u0301var in Paramaribo, Suriname, this Friday, reaffirming regional bonds and diplomatic ties. The ceremony, attended by key diplomatic authorities and official delegations from both nations, underscored the historic bonds of fraternity, cooperation, and integration that unite Venezuela and Suriname under a diplomacy of [...]",
+      "link": "https://www.telesurenglish.net/venezuela-honors-simon-bolivar-suriname/",
+      "source": "Telesurenglish",
+      "image": "https://ikona.telesurenglish.net/content/uploads/2026/09/02_ZC__2211_P-1024x640.jpg.webp",
+      "published": "2026-09-11 22:04:56",
+      "category": [
+        "lifestyle",
+        "top"
+      ],
+      "country": [
+        "venezuela"
+      ]
+    },
+    {
+      "title": "World\u2019s only armless racing driver has a need for speed \u2014 and a dream of Le Mans",
+      "description": "Callum Smith has signed his first driver contract with Team BRIT, the world's only competitive racing team made up entirely of disabled drivers, and is now chasing a place on one of motorsport\u2019s biggest stages.",
+      "link": "https://nypost.com/2026/09/11/lifestyle/worlds-only-armless-racing-driver-23-hits-110-mph-steering-with-his-feet/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fpictured-donington-park-adapted-bmw-139979798.jpg?w%3D1024",
+      "published": "2026-09-11 22:04:54",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Seattle weather: Rain, possible thunderstorms this weekend",
+      "description": "A much wetter weather system is heading toward Seattle, bringing the potential for some significant rain and even a few thunderstorms this weekend.",
+      "link": "https://www.fox13seattle.com/news/seattle-weather-rain-possible-thunderstorms-weekend",
+      "source": "Fox 13 Seattle",
+      "image": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2026/09/931/523/image002-8.png?ve=1&tl=1",
+      "published": "2026-09-11 22:04:52",
+      "category": [
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump ties Iran war to 9/11 attacks, war on terror in Pentagon speech (Video)",
+      "description": "On Friday morning, at the ceremony of remembrance for the 184 who died at the Pentagon when hijacked American Airlines Flight 77 crashed there on 9/11, President Trump put the Iran war in the context... The post Trump ties Iran war to 9/11 attacks, war on terror in Pentagon speech (Video) appeared first on Social News XYZ .",
+      "link": "https://www.socialnews.xyz/2026/09/11/trump-ties-iran-war-to-9-11-attacks-war-on-terror-in-pentagon-speech-video/",
+      "source": "Social News Xyz",
+      "image": "https://s3.socialnews.xyz/wp-content/uploads/2026/09/11/maxresdefault-49.jpg",
+      "published": "2026-09-11 22:04:52",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rolling Meadows Advances Business Expansions, Accessory Dwelling Unit Rules",
+      "description": "Changes for both businesses and housing led the agenda for the Rolling Meadows City Council on Tuesday, Sept. 8. The post Rolling Meadows Advances Business Expansions, Accessory Dwelling Unit Rules first appeared on Journal & Topics Media Group .",
+      "link": "https://www.journal-topics.com/articles/rolling-meadows-advances-business-expansions-accessory-dwelling-unit-rules/",
+      "source": "Journal & Topics Media Group",
+      "image": "https://www.journal-topics.com/wp-content/uploads/2020/01/website_logo.png",
+      "published": "2026-09-11 22:04:51",
+      "category": [
+        "business",
+        "top"
       ],
       "country": [
         "united states of america"

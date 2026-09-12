@@ -1,35 +1,51 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "A bigger BRICS, shaped by India\u2019s vision",
-      "description": "The bigger picture remains that of the BRICS grouping living up to its full potential and the Delhi BRICS Summit ought to make concrete progress towards that end",
-      "link": "https://www.thehindu.com/opinion/op-ed/a-bigger-brics-shaped-by-indias-vision/article71457389.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/ph56s/article71457390.ece/alternates/FREE_1200/20260911223L.jpg",
-      "published": "2026-09-11 17:22:49",
+      "title": "I\u2019m also a hero, tsek!",
+      "description": "Namibians are back at their favourite national sport \u2013 arguing about who is a hero and who is not.This debate never dies. It merely takes a short break until somebody kicks the buc...",
+      "link": "https://www.namibiansun.com/opinion/im-also-a-hero-tsek-nmh017926-1-22110",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/9/11/e76b6d_639247219455738566.jpg",
+      "published": "2026-09-11 22:05:00",
       "category": [
-        "top",
+        "sports",
         "politics"
       ],
       "country": [
-        "india"
+        "namibia"
       ]
     },
     {
-      "title": "Hikmat Hajiyev: Azerbaijan and Mexico have great potential for partnership",
-      "description": "Azerbaijan and Mexico have significant potential for close partnership and cooperation within international organizations, Hikmat Hajiyev, Assistant to the President of Azerbaijan and Head of the Foreign Policy Affairs Department of the Presidential Administration, said at a reception marking Mexico's Independence Day.",
-      "link": "https://report.az/en/foreign-politics/hikmat-hajiyev-azerbaijan-and-mexico-have-great-potential-for-partnership",
-      "source": "Report.az",
-      "image": "https://images.report.az/2026/09/11/PduzGEsp1XuhDXdOXFjtnv2mx6fWyF1AzVb3H5mp_1200.jpg",
-      "published": "2026-09-11 17:22:45",
+      "title": "The pre-dawn police operation unsettles Osire",
+      "description": "Police and immigration officials arrived at a quarantine area about two kilometres from the Osire Refugee Settlement at around 01:00 on 17 August, where they encountered a security...",
+      "link": "https://www.namibiansun.com/local-news/the-pre-dawn-police-operation-unsettles-osire-nmh017812-1-22084",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/9/9/eeeddf_639245626792241368.jpg",
+      "published": "2026-09-11 22:05:00",
+      "category": [
+        "top",
+        "crime",
+        "politics"
+      ],
+      "country": [
+        "namibia"
+      ]
+    },
+    {
+      "title": "Modi, Pezeshkian Urge Safe Seas as BRICS Meets Amid War",
+      "description": "New Delhi: Indian Prime Minister Narendra Modi met Iranian President Masoud Pezeshkian in New Delhi on Friday, pressing for the protection of shipping lanes and the safety of seafarers as the BRICS summit opened against a backdrop of war and economic strain. In a statement, India\u2019s foreign ministry said Modi \u201cunderscored the need to protect [...] The post Modi, Pezeshkian Urge Safe Seas as BRICS Meets Amid War appeared first on Voice of Vienna .",
+      "link": "https://voiceofvienna.org/modi-pezeshkian-urge-safe-seas-as-brics-meets-amid-war/",
+      "source": "Voice Of Vienna",
+      "image": "https://voiceofvienna.org/wp-content/uploads/2025/07/Iran-President-Pezeshkian.jpg",
+      "published": "2026-09-11 22:05:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "azerbaijan"
+        "austria"
       ]
     }
   ]

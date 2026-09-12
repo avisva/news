@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Tiny Optical Crystal Paves Way for Faster 6G Communications",
-      "description": "Researchers from Loughborough University and their international partners have developed a rice-grain-sized microchip capable of generating a stable spectrum of light frequencies\u2014known as a microcomb\u2014and converting them into an array of high-frequency electromagnetic signals, specifically millimeter waves. While the chip itself is miniature, the system highlights a fundamental tension in next-generation hardware: the gap between a successful component and a deployable device. The core of the device is the microcomb, which produces a series of light frequencies spaced at precise, equal intervals. Unlike a continuous spectrum, these frequencies are discrete, acting like the teeth of a comb. By using a specialized antenna to convert these optical frequencies into millimeter waves, the system can generate multiple high-frequency channels simultaneously. In theory, this multiplies the data throughput capacity, a requirement for the projected bandwidth of 6G networks. The primary technical hurdle for multi-frequency signals is instability. To solve this, the team moved beyond standard micro-resonators by implementing a hybrid architecture. They coupled the chip-resonator with a large optical fiber loop, allowing light to circulate and accumulate optical states more effectively. This configuration renders the signal resilient to external physical disturbances; the system maintains stability even when the supporting surface is subjected to mechanical vibrations.",
-      "link": "https://english.pravda.ru/news/science/168805-microcomb-signal-chip/",
-      "source": "Pravda",
-      "image": "https://english.pravda.ru/image/preview/article/8/0/5/168805_amp.jpeg",
-      "published": "2026-09-11 17:23:00",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "russia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Sir Anthony Hopkins: 'I always wanted to be a musician. Now I've finally done it'",
+      "description": "'I wanted to be a musician but I didn't have the skills to apply to be a musician. I became an actor instead. And some music has been with me all my life, you know, been in part of my life.'",
+      "link": "https://www.walesonline.co.uk/news/wales-news/sir-anthony-hopkins-i-always-34610060",
+      "source": "Wales Online",
+      "image": "https://i2-prod.walesonline.co.uk/news/wales-news/article34610058.ece/ALTERNATES/s615/0_Anthony-Hopkins.jpg",
+      "published": "2026-09-13 10:50:59",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Trivikram Srinivas To Present Telugu Version Of Hanuman Ansh, To Release On September 18",
+      "description": "Filmmaker Trivikram Srinivas is set to present the Telugu version of Hanuman Ansh, bringing the devotional drama to Telugu audiences. The film, which hit the theatres on August 7, is...",
+      "link": "https://www.swapupdate.in/trivikram-srinivas-to-present-telugu-version-of-hanuman-ansh-to-release-on-september-18/",
+      "source": "Swapupdate",
+      "image": "https://c.ndtvimg.com/2026-09/bs1lgj0k_trivikram-srinivas-_625x300_13_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-09-13 10:50:59",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

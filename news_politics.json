@@ -1,20 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Beijing bans drone possession in the city after earlier moves to tighten rules",
-      "description": "Beijing is tightening its drone ban to include possession within city limits.",
-      "link": "https://www.wsls.com/tech/2026/09/13/beijing-bans-drone-possession-in-the-city-after-earlier-moves-to-tighten-rules/",
-      "source": "Wsls",
-      "image": "https://www.wsls.com/resizer/3K2EjJczev0_54ohDurvr170JQ4=/cloudfront-us-east-1.images.arcpublishing.com/gmg/6Y5N5ODJ4RBVVPS3NWI3IGK5BA.jpg",
-      "published": "2026-09-13 08:17:58",
+      "title": "The Hidden Cost Of Casual Relationships, According To Experts",
+      "description": "Casual relationships can offer freedom and excitement, but they may also bring emotional uncertainty, mismatched expectations and unexpected challenges that are easy to overlook at first.",
+      "link": "https://www.timesnownews.com/lifestyle/relationships/the-hidden-cost-of-casual-relationships-article-156150439",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156150450,thumbsize-1059293,width-1280,height-720,resizemode-75/156150450.jpg",
+      "published": "2026-09-13 10:50:48",
       "category": [
         "top",
         "politics"
       ],
       "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "VIRGINIA RETIREMENT SYSTEMS ET Al Takes Position in AbbVie Inc. $ABBV",
+      "description": "VIRGINIA RETIREMENT SYSTEMS ET Al bought a new stake in AbbVie Inc. (NYSE:ABBV \u2013 Free Report) in the 2nd quarter, Holdings Channel reports. The firm bought 267,461 shares of the company\u2019s stock, valued at approximately $67,304,000. A number of other institutional investors have also added to or reduced their stakes in ABBV. California State Teachers [...]",
+      "link": "https://www.dailypolitical.com/2026/09/13/virginia-retirement-systems-et-al-takes-position-in-abbvie-inc-abbv.html",
+      "source": "Daily Political",
+      "image": "https://www.marketbeat.com/logos/abbvie-inc-logo-1200x675.jpg",
+      "published": "2026-09-13 10:50:44",
+      "category": [
+        "politics"
+      ],
+      "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "China Threatens to Cancel Xi-Trump Summit Over Taiwan Arms Deal",
+      "description": "China has warned it will cancel the September 24 Trump-Xi summit at the White House if Washington approves a $14 billion arms package for Taiwan, forcing Trump to choose between his prized pre-midterm diplomatic win and America's commitment to Taiwan's defense.",
+      "link": "https://easternherald.com/2026/09/13/china-xi-trump-summit-taiwan-arms-deal/",
+      "source": "The Eastern Herald",
+      "image": null,
+      "published": "2026-09-13 10:50:36",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Court Hands SRC Major Win in Public Servants\u2019 Salary Dispute",
+      "description": "The ruling gives SRC powers over civil servants' salaries and job groups, a move that is likely to affect how salaries and job grades are determined across the public service",
+      "link": "https://www.kenyans.co.ke/news/127020-court-reaffirms-srcs-authority-over-public-sector-salaries",
+      "source": "Kenyans",
+      "image": "https://www.kenyans.co.ke/files/styles/article_style/public/images/media/court-money.jpg.webp?itok=MFBwQHuJ",
+      "published": "2026-09-13 10:50:22",
+      "category": [
+        "business",
+        "top",
+        "politics"
+      ],
+      "country": [
+        "kenya"
       ]
     }
   ]

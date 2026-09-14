@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Cyberpunk: Edgerunners collaboration announced for Overwatch",
-      "description": null,
-      "link": "https://gonintendo.com/contents/64947-cyberpunk-edgerunners-collaboration-announced-for-overwatch",
-      "source": "Gonintendo",
-      "image": "https://gonintendo.com/attachments/image/86217/file/medium-020243ee45c5bddf96b51794d6ef79c5.png",
-      "published": "2026-09-13 17:46:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

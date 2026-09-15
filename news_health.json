@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "What Is Food Noise, and Is There Any Way to Turn It Down?",
+      "description": "The term isn\u2019t new\u2014and you don\u2019t necessarily need a GLP-1 prescription to quiet the volume.",
+      "link": "https://www.prevention.com/food-nutrition/a73725576/what-is-food-noise/",
+      "source": "Prevention",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/81b2922c-71d9-47d9-8e9e-653252617ef6.jpeg?crop=0.666666666667xw:1xh;center,top&resize=1200:*",
+      "published": "2026-09-15 10:50:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cooper appoints \u2018strong and capable\u2019 CQC chair",
+      "description": "The health secretary has named Baroness Julia Neuberger as the Care Quality Commission\u2019s new chair, after MPs said they believed she would be \u201cstrong and capable\u201d.",
+      "link": "https://www.hsj.co.uk/policy-and-regulation/cooper-appoints-strong-and-capable-cqc-chair/8124318.article",
+      "source": "Health Service Journal",
+      "image": "https://d3e6tmgg461bic.cloudfront.net/pictures/280x188/7/3/1/4036731_baronessn_946468_crop.jpg",
+      "published": "2026-09-15 10:50:00",
+      "category": [
+        "politics",
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "How Tan Tock Seng Hospital is taking delirium care to the community",
+      "description": "Delirium often gets missed and is frequently mistaken for normal ageing or a worsening of dementia.",
+      "link": "https://www.straitstimes.com/singapore/health/how-tan-tock-seng-hospital-is-taking-delirium-care-to-the-community",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-09-15 10:50:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    }
+  ]
 }

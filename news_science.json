@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "The \u201cPoet of Physics\u201d Carlo Rovelli on Cosmic Equality",
-      "description": "Ahead of the publication of his latest book, published by Penguin and out tomorrow, the physicist and philosopher speaks to AnOther about quantum mechanics, certainty and the reflections that tie our existence together",
-      "link": "https://www.anothermag.com/design-living/17469/carlo-rovelli-cosmic-equality-metaphysics-penguin",
-      "source": "Anothermag",
-      "image": "https://images-prod.anothermag.com/597/azure/another-prod/470/7/477366.jpg",
-      "published": "2026-09-14 12:16:00",
-      "category": [
-        "top",
-        "science"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

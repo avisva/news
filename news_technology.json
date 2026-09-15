@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "EU is set to propose ban on social media and AI chatbots for under-15s",
+      "description": "The European Union will propose \u200ba ban restricting under-15s from social media, video-sharing platforms, AI chatbots and online games, \u200cin the most sweeping plan yet to protect children from online dangers, a European Commission document seen by Reuters shows.",
+      "link": "https://www.myjoyonline.com/eu-is-set-to-propose-ban-on-social-media-and-ai-chatbots-for-under-15s/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/01/image-557-1024x575.png",
+      "published": "2026-09-15 04:14:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "ghana"
+      ]
+    }
+  ]
 }

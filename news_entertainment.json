@@ -1,35 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Tanz: Florentina Holzinger\u2019s \u2018arresting and shocking\u2019 show",
-      "description": "Dublin Theatre Festival 2026: Controversial performance artist on her show Tanz, walkouts and her creative philosophy",
-      "link": "https://www.irishtimes.com/culture/stage/2026/09/15/irish-audiences-braced-for-florentina-holzingers-arresting-and-shocking-show/",
-      "source": "The Irish Times",
-      "image": "https://www.irishtimes.com/resizer/v2/63NX4SQVZRCVZFCQ5SLV3MUUIU.jpg?auth=727517ad0334958baf37a81d47719d22e1713a6644d493fed961a6e68a2a201e&smart=true&width=630&height=350",
-      "published": "2026-09-15 04:14:00",
+      "title": "Colin from Accounts star on saying goodbye to the hit TV show",
+      "description": "The actor spoke to Seven Sharp\u2019s Hilary Barry about a \"downer\" ending that had been pitched for the series.",
+      "link": "https://www.1news.co.nz/2026/09/15/colin-from-accounts-star-on-saying-goodbye-to-the-hit-tv-show/",
+      "source": "1news",
+      "image": "https://www.1news.co.nz/resizer/v2/2HABY6V52JBDVLW2CGZWIGTF6I.png?auth=8c45088bd1cc7fae12f18e41ed1661271b8d006b443ded660aa0c02a57804e6c&smart=true&width=1280&height=720",
+      "published": "2026-09-15 07:58:55",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "'The Late Show With Stephen Colbert' wins Emmy after ending 11-year run",
-      "description": "\u201cThe Late Show with Stephen Colbert\" won an Emmy for best variety series Monday night, one of six Emmys the show has won this year.",
-      "link": "https://www.koco.com/article/stephen-colbert-emmy-win/73733816",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/9b655a28-d5f8-4cdf-ac49-cb0c5e29ac8c.jpg",
-      "published": "2026-09-15 04:14:00",
-      "category": [
-        "lifestyle",
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
+        "new zealand"
       ]
     }
   ]

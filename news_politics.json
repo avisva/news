@@ -1,35 +1,75 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Letter: Missouri officials show contempt for voters with map controversy",
-      "description": "Over 300,000 Missouri citizens signed a petition to put an initiative on the ballot to repeal the legislature's recent gerrymandered electoral map. The Supreme Court has twice refused to overturn a lower court ruling that the map is unconstitutional.",
-      "link": "https://www.stltoday.com/opinion/letters/article_6529e7ce-cc15-4083-b69c-a0d07eb2164e.html",
-      "source": "Stltoday",
-      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/52/6529e7ce-cc15-4083-b69c-a0d07eb2164e/6aa845e7c390e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-09-15 10:50:00",
+      "title": "How libraries in Philadelphia, Pittsburgh and other Pennsylvania communities evolved from subscription clubs to vital public institutions",
+      "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
+      "link": "https://www.myplainview.com/news/article/how-libraries-in-philadelphia-pittsburgh-and-22432595.php",
+      "source": "Plainview Daily Herald",
+      "image": "https://s.hdnux.com/photos/01/34/02/56/24128442/3/square_large.jpg",
+      "published": "2026-09-15 13:04:00",
       "category": [
-        "politics"
+        "politics",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Cooper appoints \u2018strong and capable\u2019 CQC chair",
-      "description": "The health secretary has named Baroness Julia Neuberger as the Care Quality Commission\u2019s new chair, after MPs said they believed she would be \u201cstrong and capable\u201d.",
-      "link": "https://www.hsj.co.uk/policy-and-regulation/cooper-appoints-strong-and-capable-cqc-chair/8124318.article",
-      "source": "Health Service Journal",
-      "image": "https://d3e6tmgg461bic.cloudfront.net/pictures/280x188/7/3/1/4036731_baronessn_946468_crop.jpg",
-      "published": "2026-09-15 10:50:00",
+      "title": "Federal Constitutional Court Summons Similar Case Records in PTI Founder Hospital Transfer Matter",
+      "description": "Islamabad (HRNW)- The Federal Constitutional Court has sought records of similar cases from courts across the country, including the Supreme Court, concerning the transfer of the PTI founder to Shifa Hospital and the provision of facilities to three prisoners at a private hospital. A three-member bench headed by Chief Justice of the Federal Constitutional Court Justice... <p>The post Federal Constitutional Court Summons Similar Case Records in PTI Founder Hospital Transfer Matter first appeared on Human Rights News Worldwide .</p>",
+      "link": "https://www.hrnww.com/?p=28366",
+      "source": "Human Rights News Worldwide Hrnw News Agency",
+      "image": null,
+      "published": "2026-09-15 13:04:00",
       "category": [
         "politics",
-        "top",
-        "health"
+        "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "In Our View: Local newspapers vital for strong communities",
+      "description": "The benefits of local newspapers are well-documented. Studies have demonstrated that communities with local reporting have lower rates of government corruption, higher rates of voter turnout and increased numbers of political candidates.",
+      "link": "https://www.columbian.com/news/2026/sep/15/in-our-view-local-newspapers-vital-for-strong-communities/",
+      "source": "Columbian",
+      "image": "https://www.columbian.com/wp-content/themes/columbian3/static/img/og/default-2026-2.jpg",
+      "published": "2026-09-15 13:03:55",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Uganda Refugee Response: Gender-based Violence (GBV) dashboard - Quarter 2 2026",
+      "description": "Countries: Uganda, Democratic Republic of the Congo, South Sudan Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
+      "link": "https://reliefweb.int/report/uganda/uganda-refugee-response-gender-based-violence-gbv-dashboard-quarter-2-2026",
+      "source": "Reliefweb",
+      "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/66/a4/66a4db8d-7a43-5f78-b651-2686bc1ab314.png",
+      "published": "2026-09-15 13:03:55",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "somalia",
+        "ukraine",
+        "nigeria",
+        "afghanistan",
+        "syria",
+        "haiti",
+        "yemen",
+        "pakistan",
+        "sudan",
+        "myanmar",
+        "ethiopia"
       ]
     }
   ]

@@ -1,126 +1,92 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Flyte farm stands keep central Wisconsin flush with fresh produce",
-      "description": "A Coloma-based farm runs produce stands in Portage, Baraboo, Madison and throughout central Wisconsin.",
-      "link": "https://wiscnews.com/news/local/business/article_3c67fa3a-570e-4ba0-9000-fe10b7cf7ca0.html",
-      "source": "Wiscnews.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/0/59/05913d10-5656-4aeb-b38f-968092498cde/6aa47e27bee5b.image.jpg?resize=300%2C169",
-      "published": "2026-09-15 10:50:00",
+      "title": "AMA and Atalan Launch Collaboration to Advance Physician Retention Research",
+      "description": "CHICAGO, Sept. 15, 2026 (GLOBE NEWSWIRE) -- The American Medical Association (AMA) and Atalan today announced a new research collaboration focused on advancing understanding of the factors that influence physician retention across U.S. health systems.",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/09/15/3362206/0/en/ama-and-atalan-launch-collaboration-to-advance-physician-retention-research.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Nice Healthcare Supports Employers with Launch of New Health Plan",
+      "description": "MINNEAPOLIS, Sept. 15, 2026 (GLOBE NEWSWIRE) -- Nice Healthcare, the integrated primary care clinic that conveniently brings clinicians to you, today announced the launch of Nice Plan, a health plan designed to work alongside Nice Care, the company\u2019s clinical services,...",
+      "link": "https://www.postregister.com/businessreport/healthcare/nice-healthcare-supports-employers-with-launch-of-new-health-plan/article_2cdb03d3-6d45-5410-8aa4-65a8109f9c57.html",
+      "source": "Postregister",
+      "image": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Claigan Webinar - Budgeting for 2027",
+      "description": "What Restricted Materials Requirements to Prepare for in 2027 OTTAWA, ON, Sept. 14, 2026 /PRNewswire/ -- On September 23rd, Claigan is hosting a webinar on restricted materials compliance budgeting for 2027. This webinar will focus on the major compliance tasks ahead in 2027 and the...",
+      "link": "https://www.prnewswire.com/news-releases/claigan-webinar---budgeting-for-2027-302879093.html",
+      "source": "Pr Newswire",
+      "image": null,
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "DECIMAL AI ANNOUNCES $4 MILLION SEED ROUND TO BRING CUSTOMER ENGINEERING TO SOFTWARE COMPANIES",
+      "description": "Round co-led by Khosla Ventures and Kearny Jackson, Decimal's AI Support Engineer helps Granola, Resilinc, Tealium, BuildOps, and Lucidworks resolve customer issues in minutes SAN FRANCISCO, Sept. 15, 2026 /PRNewswire/ -- Decimal AI, the customer engineering platform for technical support...",
+      "link": "https://www.prnewswire.com/news-releases/decimal-ai-announces-4-million-seed-round-to-bring-customer-engineering-to-software-companies-302879089.html",
+      "source": "Pr Newswire",
+      "image": "https://mmx.prnewswire.com/media/MS1988654/Kevin-Raji-Cherian-CTO-Sanjeet-Hajarnis-CEO-co-founders-of-Decimal-AI.jpg?id=OA2949486&p=original",
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Quantum Health Appoints Dr. Susan Mani as Chief Medical Officer",
+      "description": "What You Should Know Healthcare navigation platform Quantum Health (Dublin, OH) announced on September 15, 2026, the appointment of Dr. Susan Mani as its new Chief Medical Officer (CMO). Dr. Mani brings extensive executive leadership in value-based care and population health, having previously directed clinical and cost-containment initiatives at Humana and regional health system LifeBridge ... Read More",
+      "link": "https://hitconsultant.net/2026/09/15/quantum-health-appoints-dr-susan-mani-chief-medical-officer-healthcare-navigation/",
+      "source": "Hit Consultant",
+      "image": "https://hitconsultant.net/wp-content/uploads/2026/09/Susan-Mani-M.D..jpeg",
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "business",
+        "health",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gas in Florida Tops $4, Diesel Over $6",
+      "description": "By The News Service of Florida An average gallon of gas in Florida leapt over $4 the past week, while diesel surged above $6 for...",
+      "link": "https://tallahasseereports.com/2026/09/15/gas-in-florida-tops-4-diesel-over-6/",
+      "source": "Tallahassee Reports",
+      "image": "https://tallahasseereports.com/wp-content/uploads/2021/06/GasPump.jpg",
+      "published": "2026-09-15 13:03:55",
       "category": [
         "top",
         "business"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "The Buckle, Inc. Reports Quarterly Dividend",
-      "description": "KEARNEY, Neb.--(BUSINESS WIRE)--The Buckle, Inc. Reports Quarterly Dividend",
-      "link": "http://www.businesswire.com/news/home/20260915494652/en/The-Buckle-Inc.-Reports-Quarterly-Dividend/",
-      "source": "Businesswire",
-      "image": "https://mms.businesswire.com/media/20260915494652/en/1444165/21/Logo_2022.jpg",
-      "published": "2026-09-15 10:50:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america",
-        "japan",
-        "canada",
-        "china",
-        "france",
-        "germany",
-        "united kingdom",
-        "australia"
-      ]
-    },
-    {
-      "title": "Genesco Launches Wrangler Footwear Collection",
-      "description": "NASHVILLE, Tenn.--(BUSINESS WIRE)--Genesco Launches Wrangler Footwear Collection; Fall 2026 Collection Brings Wrangler\u2019s Iconic Heritage to Footwear",
-      "link": "http://www.businesswire.com/news/home/20260914296624/en/Genesco-Launches-Wrangler-Footwear-Collection/",
-      "source": "Businesswire",
-      "image": "https://mms.businesswire.com/media/20260914296624/en/2900268/21/Wrangler_Mens_Fargo_70021828_TimberBark_Wrangler_Womens_Myrtle_71011022_SaddleTanIvory.jpg",
-      "published": "2026-09-15 10:50:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america",
-        "japan",
-        "canada",
-        "china",
-        "france",
-        "germany",
-        "united kingdom",
-        "australia"
-      ]
-    },
-    {
-      "title": "Zanaga undergoes bulk sampling programme",
-      "description": "Aim-listed Zanaga Iron Ore Company (ZIOC) has provided an update on the bulk sampling programme at its Zanaga project in Congo-Brazzaville. As part of the programme, about 30 000 t of ore is being extracted to assemble a 100 t composite sample of the hematite zone targeted for Stage 1\u2019s 12-million-tonne-a-year operations.",
-      "link": "https://www.miningweekly.com/article/zanaga-undergoes-bulk-sampling-programme-2026-09-15",
-      "source": "Australasia Global Mining News",
-      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001299576_resized_ziocensep261022.jpeg",
-      "published": "2026-09-15 10:50:00",
-      "category": [
-        "breaking",
-        "business"
-      ],
-      "country": [
-        "ghana",
-        "canada",
-        "australia",
-        "united states of america",
-        "south africa",
-        "namibia",
-        "zimbabwe",
-        "zambia"
-      ]
-    },
-    {
-      "title": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks",
-      "description": "Market Analysis by covering: Brent Oil Futures, Crude Oil WTI Futures. Read 's Market Analysis on Investing.com",
-      "link": "https://www.investing.com/analysis/oil-prices-rise-on-saudi-pipeline-outage-and-rising-red-sea-risks-200687696",
-      "source": "Investing Us",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "published": "2026-09-15 10:50:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Wall Street Breakfast Podcast: Alarm Bells On Wall Street",
-      "description": "One Wall Street firm sees a painful replay of 2018. Verizon, T-Mobile are finally calling a truce in their ad war. One Costco staple just got a lot more expensive and harder to buy.",
-      "link": "https://seekingalpha.com/article/4946397-wall-street-breakfast-podcast-alarm-bells-on-wall-street",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170830123/image_2170830123.jpg?io=getty-c-w1280",
-      "published": "2026-09-15 10:50:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "The Fed Paints itself into a Rate-Hiking Corner - Forex Factory",
-      "description": "The Fed Paints itself into a Rate-Hiking Corner Forex Factory Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years Yahoo Finance Fed's table is set for a rate hike, a first under Warsh Reuters Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike cnbc.com No relief from inflation as Middle East clashes lifts fuel prices to painful levels AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ0p4Z0ZYdTRPMEJVM3VnVWZfbEIxWGhhdE9heVJyWTExTUkyZWpYMXBudklod2tvdU9sSWpJMWc2c1JXX2E5bjNpQ3RBcjZJWS1SYXlhN3ZZLW1yRnNoWnpkYXcwZmFHRnhoel9mTGRMNlEwT3B0TXhqc3JMU284LUlwclJwd0NaVkQ1MEFxUDBueTTSAZgBQVVfeXFMUFhEYjRjWHRzUGxzcHRXTFRobDB3NUp5SHhaSG42RDV5VDkzVUMyQ1dmazhPTEo5Sld4RWN1aUUwUzBEWHVoUDBGTGY1VFQwaFU2eG5EWGNzSUNRUHdSZk5GdHdQWTYzTk9abUcyNzBTd29BQmRMQTAzeS00WnVQLXY5MXJvYndvYzVhXzFLOXF6dEhXdkZvSlk?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-15 10:50:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
       ]
     }
   ]

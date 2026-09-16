@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "CBFC grants \u2018A\u2019 certificate to Kareena Kapoor Khan-Prithviraj Sukumaran film Daayra",
+      "description": "Kareena Kapoor Khan and Prithviraj Sukumaran\u2019s Daayra gets an \u2018A\u2019 certificate from CBFC ahead of its September 18 theatrical release.",
+      "link": "https://www.news9live.com/entertainment/bollywood/daayra-kareena-kapoor-prithviraj-sukumaran-a-certificate-cbfc-runtime-3007860",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/09/Daayra.jpg",
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Harry and Meghan's latest move targets beloved British shop and Kirstie Allsopp is fuming",
+      "description": "The Duchess of Sussex sparked backlash when she shared a glimpse inside her new life in the UK.",
+      "link": "https://www.express.co.uk/celebrity-news/2248782/kirstie-allsopp-takes-aim-at-harry-meghan-next-move",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/79/237x141/2248782_1.jpg",
+      "published": "2026-09-15 13:04:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

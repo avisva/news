@@ -1,183 +1,64 @@
 {
   "status": "success",
-  "totalResults": 12,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Order fiber WiFi like food delivery: GFiber Prepaid expands WiFi-on-demand via GrabMart to Metro Manila, Cebu, Davao",
-      "description": "Getting fiber internet at home can now be as easy as ordering food delivery.",
-      "link": "https://www.philstar.com/technology/2026/09/16/2556231/order-fiber-wifi-food-delivery-gfiber-prepaid-expands-wifi-demand-grabmart-metro-manila-cebu-davao",
-      "source": "Philstar.com",
-      "image": "https://media.philstar.com/photos/2026/09/14/gah-gfp-x-grabmart-kv_2026-09-14_15-44-36.jpg",
-      "published": "2026-09-16 05:57:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "ICICI Prudential India Opportunities Fund Direct Growth NAV Falls to \u20b938.5700 on 15 September; 3-Year CAGR at 12.78%",
-      "description": "ICICI Prudential India Opportunities Fund Direct Growth NAV declined 0.95% to \u20b938.5700 on 15 September 2026. Its exact-date three-year CAGR stood at 12.78%.",
-      "link": "https://www.5paisa.com/blog/icici-prudential-india-opportunities-fund-direct-growth-nav-15-sep-2026",
-      "source": "5paisa",
-      "image": "https://storage.googleapis.com/5paisa-prod-storage/files/2026-09/Banner%20%26%20Thumbnail-17_7.webp",
-      "published": "2026-09-16 05:57:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Lindian Resources (ASX:LIN): Will Kangankunde Reach First Concentrate?",
-      "description": "Lindian Resources has advanced Kangankunde in Malawi toward commissioning, with first monazite concentrate and an expansion study ahead.",
-      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/lindian-resources-asxlin-will-kangankunde-reach-first-concentrate",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_573121573_09_16_2026_05_58_07_886957.jpg",
-      "published": "2026-09-16 05:57:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Meteoric Resources (ASX:MEI): Which Caldeira Milestone Matters Now?",
-      "description": "Meteoric Resources moved a large Caldeira tonnage into higher-confidence categories, though feasibility and financing remain decisive.",
-      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/meteoric-resources-asxmei-which-caldeira-milestone-matters-now",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/Silvermmin_06_18_2026_09_59_56_647978.jpg",
-      "published": "2026-09-16 05:57:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Viridis Mining and Minerals (ASX:VMM): Are Colossus Permits Advancing?",
-      "description": "Viridis Mining is advancing the Colossus ionic clay project in Minas Gerais, where a radiological exemption keeps approvals at state level.",
-      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/viridis-mining-and-minerals-asxvmm-are-colossus-permits-advancing",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/Goldnmini_06_25_2026_06_45_46_634699.jpg",
-      "published": "2026-09-16 05:57:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Brazilian Rare Earths (ASX:BRE): Is Monte Alto Reshaping Plans?",
-      "description": "Brazilian Rare Earths has extended the high-grade envelope at Monte Alto in Bahia and reset its development study around the deposit.",
-      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/brazilian-rare-earths-asxbre-is-monte-alto-reshaping-plans",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/Uranium_07_08_2026_10_31_07_167707.jpg",
-      "published": "2026-09-16 05:57:00",
-      "category": [
-        "environment",
-        "top",
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "The rise of the One Nation-curious CEO",
-      "description": "ANZ Chief Executive Nuno Matos\u2019 comments on migration reflect a change in the mood among Australia\u2019s business leaders.",
-      "link": "https://www.brisbanetimes.com.au/business/companies/the-rise-of-the-one-nation-curious-ceo-20260916-p60xt4.html",
-      "source": "Brisbane Times",
-      "image": "https://static.ffx.io/images/$zoom_0.2031%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_25%2C$y_0/t_crop_custom/q_86%2Cf_auto/2e56f2ecefa1bbedefb069667e815eb4a4b6c50d",
-      "published": "2026-09-16 05:56:59",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "The rise of the One Nation-curious CEO - SMH.com.au",
-      "description": null,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2F5UWtqNklqQTVjWXFGcTdRZEs1OVRTZS1IdGZ3cURla3REYmJGOVNDX2xmaDhVTGtBNENtSHhnZ2phT2tUY2hEaGxyUjlGNVNJcVZYUlZrdmE3MVl2SzVlVGpMUjFwVVl4Q0tHVjZ4S014cnUxRHdOSDZjZmYwNnVlWFpIME1xMDJiSWdxSGRXU1RqblBVRUFoaUtXQjVrOF93?oc=5",
+      "title": "New Tariffs and Bans on Canadian Imports Are Here \u2014 What It Means for Wine, Spirits, and Cheese - Food & Wine",
+      "description": "New Tariffs and Bans on Canadian Imports Are Here \u2014 What It Means for Wine, Spirits, and Cheese Food & Wine Small businesses are feeling the bite of US-Canada trade war Baton Rouge Business Report Geopolitics and grain don't mix, say these Montana farmers NPR The fallout from the US-Canada trade clash transcends economic impact The Hill The US-Canada Rupture Is a Lesson in Declining Leadership Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWERfT3Y2Q2dOMVRMZGFmX1h6bVVIZE9HeXYzenc4YUdlU2tnSTdkbzZVeEZUTTZjY1c1R3RUbURBM3pnQTVITC1vRy01dUN1MDZUeGZPNmUtalNDV0FQMndHemxPNjZXZDBMU2NUaUxDTkNyTFRYdHRvOVkxZ1haMnRuam9SOGxHTkRQVjlVLW55cFJaU3NB?oc=5",
       "source": "Google News",
       "image": null,
-      "published": "2026-09-16 05:56:59",
+      "published": "2026-09-16 09:01:00",
       "category": [
         "business"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     },
     {
-      "title": "The rise of the One Nation-curious CEO - The Age",
-      "description": null,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMmFReEFXc0FxSnZWU2U4MXVNcmFtdWl3V0F1OTlHbEZMTExReVBCM1JoMjFQcjRhMkhlMWVReGN0UjZ4OEZ1QVJzaDFmYW5wV3c2Q2pGTWxjWndFQ3BMUlNIdGJiNEhoVHQ5ZXYyYmlzTHg3bFR6QXphSFZCZnphUFlFcXFkY1F0eTdZcGljOWpLdTBVbnJZdDJJWU15R2czQTltVFZvcw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-16 05:56:59",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "PNP assures fair recruitment as over 7,000 new cops welcomed",
-      "description": "The Philippine National Police on Wednesday assured the public that all police recruits undergo a proper and stringent recruitment process as it welcomed more than 7,000 new personnel nationwide.",
-      "link": "https://www.abs-cbn.com/news/nation/2026/9/16/pnp-assures-fair-recruitment-as-over-7-000-new-cops-welcomed-1356",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/20260916060932/57586a582d1d1b6786ca4681b3975a59fcc83fd676610b9294b6d32ca313a483.jpg",
-      "published": "2026-09-16 05:56:59",
-      "category": [
-        "politics",
-        "top",
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Money maestro | A win for taxpayers, if you know where to look",
-      "description": "A recent Supreme Court of Appeal ruling allows certain financing fees to be tax deductible if linked to obtaining finance, benefiting investors, but each case depends on individual circumstances.",
-      "link": "https://www.dailydispatch.co.za/business/2026-09-16-money-maestro-a-win-for-taxpayers-if-you-know-where-to-look/",
-      "source": "Dispatchlive",
-      "image": null,
-      "published": "2026-09-16 05:56:54",
+      "title": "How small agencies can build the right client rosters",
+      "description": "Industry experts including indie shop principals discuss staffing considerations, portfolio diversity and why landing your second major client can be even harder than your first.",
+      "link": "https://adage.com/agencies/aa-how-small-agencies-can-build-right-client-rosters-advice-from-leaders/",
+      "source": "Adage",
+      "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/Kp0RAMqnmLaGXPQ_kEvTuz-BD_g=/cloudfront-us-east-1.images.arcpublishing.com/crain/USGBSOPY4ZF35NOXULTJONVQYM.png",
+      "published": "2026-09-16 09:01:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "south africa"
+        "united states of america"
       ]
     },
     {
-      "title": "Privatization of Montreal-Trudeau Airport: Fre\u0301chette says she was not consulted",
-      "description": "Christine Fre\u0301chette admitted she had neither been informed nor consulted by the Carney government regarding its intention to hand over the management of Montre\u0301al-Trudeau International Airport to the private sector. READ: Carney wants private investors to run Canada\u2019s four largest airports, including Montreal \u201cIt is a federal asset,\u201d she noted when asked if she should [...] The post Privatization of Montreal-Trudeau Airport: Fre\u0301chette says she was not consulted appeared first on CityNews Montreal .",
-      "link": "https://montreal.citynews.ca/2026/09/16/privatization-montreal-airport-frechette/",
-      "source": "Citynews Montreal",
-      "image": "https://montreal.citynews.ca/wp-content/blogs.dir/sites/19/2026/09/Frechette-3-e1789538141347.png",
-      "published": "2026-09-16 05:56:51",
+      "title": "Seoul rises to 7th in global financial hub ranking",
+      "description": "Seoul ranked seventh among 139 cities in the latest Global Financial Centers Index, rising one notch from the previous report, the Seoul city government announced Wednesday. The capital has ranked among the world\u2019s top 10 for the fourth consecutive year. Published jointly by London-based consultancy Z/Yen Group and the China Development Institute, the Global Financial Centers Index compares the competitiveness of major financial hubs worldwide. The index is published twice a year, in March and S",
+      "link": "https://www.koreaherald.com/article/10875936",
+      "source": "The Korea Herald",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/09/16/news-p.v1.20260916.7011d2d74f714e0ca432c3ee7a630770_T1.png",
+      "published": "2026-09-16 09:01:00",
       "category": [
-        "top",
         "business"
       ],
       "country": [
-        "canada"
+        "south korea"
+      ]
+    },
+    {
+      "title": "Allegheny Smokeworks closing in Blawnox as landlord looks to sell building",
+      "description": "The smoke is clearing soon for a longtime business in Blawnox.",
+      "link": "https://triblive.com/local/valley-news-dispatch/allegheny-smokeworks-closing-in-blawnox-as-landlord-looks-to-sell-building/",
+      "source": "Home | Triblive.com",
+      "image": "https://assets-varnish.triblive.com/2026/09/9944338_web1_her-smokeworks-092426.jpeg",
+      "published": "2026-09-16 09:01:00",
+      "category": [
+        "top",
+        "crime",
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

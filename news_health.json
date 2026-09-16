@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Two Point Hospital: Full Health Collection checks up on Switch 2 owners today",
+      "description": null,
+      "link": "https://gonintendo.com/contents/65039-two-point-hospital-full-health-collection-checks-up-on-switch-2-owners-today",
+      "source": "Gonintendo",
+      "image": "https://gonintendo.com/attachments/image/86324/file/medium-5b0b2bfaaaea89ecd5888d9b40e6e23a.png",
+      "published": "2026-09-16 05:57:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "South Korean Company Rewards Employees For Exercising For Two Months, Indian Worker Shares Why",
+      "description": "Indian woman in South Korea shared how her company motivates fitness by gifting branded products for regular activity, leaving viewers in India wishing for similar workplace culture.",
+      "link": "https://newsable.asianetnews.com/india/south-korean-company-rewards-employees-for-exercising-for-two-months-indian-worker-shares-why-articleshow-h8f2pp1",
+      "source": "Asianet Newsable",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m2mcm2z7e13068m2p4by53mp,imgname-for-2-months-workout-company-give-high-end-branded-gifts-in-korea-1789538208743.jpg",
+      "published": "2026-09-16 05:56:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

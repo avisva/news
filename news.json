@@ -1,284 +1,44 @@
 {
   "status": "success",
-  "totalResults": 27,
+  "totalResults": 30,
   "results": [
     {
-      "title": "Police identify woman, 30, fatally struck on Route 9",
-      "description": "A Framingham, Massachusetts, woman who died after she was struck by an SUV early Saturday has been identified by the Middlesex District Attorney's Office.",
-      "link": "https://www.wcvb.com/article/police-identify-woman-30-killed-route-9-framingham/73746565",
-      "source": "Wcvb",
-      "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/framingham-police-cruiser-1603730798.jpg",
-      "published": "2026-09-15 19:12:00",
+      "title": "US Charges 5 in Russian Intelligence Murder Plots",
+      "description": "Russian intelligence services plotted targeted killings in the United States and European nations supporting Ukraine, federal authorities said Tuesday as they announced charges against five people who remain at large.",
+      "link": "https://www.newsmax.com/newsfront/russia-intelligence-services-murder-plots/2026/09/15/id/1269565",
+      "source": "Newsmax.com",
+      "image": "https://www.newsmax.com/cmspages/getfile.aspx?guid=DD6B36B3-F489-42CA-9ABD-6161E7A494BF",
+      "published": "2026-09-16 01:07:00",
       "category": [
-        "crime",
-        "top"
+        "politics"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Coast Guard identifies missing paddleboarder off Jupiter Beach",
-      "description": "The U.S. Coast Guard is searching for Matt Pawlowski, a 48-year-old paddleboarder last seen Monday morning off Jupiter Beach.",
-      "link": "https://www.wpbf.com/article/matt-pawlowsk-coast-guard-search-missing-paddleboarder-jupiter-beach-florida/73746567",
-      "source": "Wpbf",
-      "image": "https://hips.hearstapps.com/htv-prod/images/c1b6ffb7-bc77-44f9-aac6-965ed339d0ad.png",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Today in History: Sept. 15, Birmingham church bombing",
-      "description": "Today is Tuesday, Sept. 15, the 258th day of 2026. There are 107 days left in the year.",
-      "link": "https://www.eagletribune.com/news/world/today-in-history-sept-15-birmingham-church-bombing/article_4be126e9-7432-43b8-8951-73a11ffbc8b5.html",
-      "source": "Eagletribune",
-      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Osimertinib Keeps Paying Off at 8 Years in Resected EGFR-Mutant NSCLC",
-      "description": "Eight-year phase 3 ADAURA trial data show adjuvant osimertinib boosts survival in patients with resected EGFR-mutant NSCLC.",
-      "link": "https://www.pharmacytimes.com/view/osimertinib-keeps-paying-off-at-8-years-in-resected-egfr-mutant-nsclc",
-      "source": "Pharmacy Times",
-      "image": "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/14bb19b6fb51345edd8fe2bb5886b7def67221f9-3072x1536.jpg",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Oman says searching for two crew members after tanker hit | International",
-      "description": "MUSCAT, Oman, Sept 15, 2026 (BSS/AFP) - Oman on Tuesday said it was searching for two missing crew members who",
-      "link": "https://bssnews.net/international/424834/Oman-says-searching-for-two-crew-members-after-tanker-hit",
-      "source": "Bss",
-      "image": "https://www.bssnews.net/cache-images/news_photos/2026/09/15/resize-600x315x1x0-image-424834-1789478018.webp",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "Killington Town Manager Patrick Cushing submits letter of resignation following months of being on paid administrative leave",
-      "description": "KILLINGTON \u2014 The town manager has resigned a little over two months after being placed on administrative leave.",
-      "link": "https://www.rutlandherald.com/news/local/killington-town-manager-patrick-cushing-submits-letter-of-resignation-following-months-of-being-on-paid/article_94b80010-3e48-5b6c-92ca-e9d1529612a8.html",
-      "source": "Rutland Herald",
-      "image": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "UNITED IN BUILDING CANADA'S FUTURE",
-      "description": "/CNW/ -- At a time when Canada is navigating tariffs amidst a rapidly changing global economy, the strength of our country depends on our ability to stand and...",
-      "link": "https://www.newswire.ca/news-releases/united-in-building-canada-s-future-898229978.html",
-      "source": "Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS1129263/Canada-s-Building-Trades-Unions-UNITED-IN-BUILDING-CANADA-S-FUTU.jpg?id=OA2950750",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "5 Great TV Shows That Kicked Off With Major Character Deaths",
-      "description": "From a post-apocalyptic dram to a superhero series, these five great TV shows shocked viewers by killing off a major character early on in the show.",
-      "link": "https://www.tvline.com/2259128/great-tv-shows-began-major-character-deaths/",
-      "source": "Tvline",
-      "image": "https://www.tvline.com/img/gallery/5-great-tv-shows-that-kicked-off-with-major-character-deaths/l-intro-1789488007.jpg",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Turn Containers Into Garden Art with Atkinson Garden Club",
-      "description": "ATKINSON \u2014Love container gardens? Looking for fresh ideas? Join the Atkinson Garden Club for its open meeting Wednesday, Oct. 7, at the Atkinson Community Center, 4 Main St.",
-      "link": "https://www.eagletribune.com/special_sections/turn-containers-into-garden-art-with-atkinson-garden-club/article_971b69a7-38b1-4f2d-8015-641ecfc2f4d0.html",
-      "source": "Eagletribune",
-      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/f/60/f60710aa-90ed-47cd-8e4d-34fcb8edb05b/6aa9997f3a04e.image.jpg?resize=300%2C392",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "CeeLo Green to play MoonPie drop",
-      "description": "You\u2019re not \u201ccrazy.\u201d Soul artist CeeLo Green will take the main stage in downtown Mobile on New Year\u2019s Eve.",
-      "link": "https://www.lagniappemobile.com/news/mobileal/ceelo-green-to-play-moonpie-drop/article_b8b91f82-02f6-40e8-a4de-31973eda36c0.html",
-      "source": "Lagniappe Weekly",
-      "image": "https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/8/74/874ee74c-b6f1-43d3-93b7-e128a60b38c3/6aa998d28d839.image.jpg?resize=300%2C169",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Franklin Connects seeks community groups to participate in Community Fair on Oct. 17",
-      "description": null,
-      "link": "https://www.williamsonherald.com/news/local_news/franklin-connects-seeks-community-groups-to-participate-in-community-fair-on-oct-17/article_eca2908b-80f1-4072-97f2-6d0773f6017a.html",
-      "source": "Williamson Herald",
+      "title": "Wall Street Falls As Oil Spike, Higher Yields Fuel Rate Hike Fears",
+      "description": "Wall Street ended lower on Tuesday as surging oil prices, rising US Treasury yields and renewed concerns over inflation kept investors cautious ahead of the Federal Reserve\u2019s interest-rate decision. The Dow Jones Industrial Average fell 328.09 points, or 0.63%, to 52,093.11, while the S&P 500 dropped 34.25 points, or 0.45%, to 7,585.73. The Nasdaq Composite [...]",
+      "link": "https://www.businesstoday.com.my/2026/09/16/wall-street-falls-as-oil-spike-higher-yields-fuel-rate-hike-fears/",
+      "source": "Businesstoday | Malaysia",
       "image": null,
-      "published": "2026-09-15 19:12:00",
+      "published": "2026-09-16 01:07:00",
       "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Marguerite McLeod, centenarian",
-      "description": "HANCOCK \u2014 Marguerite \u201cPeg\u201d (Reynolds) McLeod, Aug. 3, 1926-Sept. 14, 2026, 100 years old.",
-      "link": "https://www.unionleader.com/obituaries/marguerite-mcleod-centenarian/article_9b12f0e5-90db-48a4-a6fc-6cabc7da5533.html",
-      "source": "Unionleader",
-      "image": null,
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Singapore Dollar: Downtrend seen limited against US Dollar \u2013 UOB",
-      "description": "UOB\u2019s Quek Ser Leang notes USD/SGD extended gains toward 1.2725 as the US Dollar strengthened broadly and Singapore Dollar (SGD) Nominal Effective Exchange Rate (NEER) stayed around 1.65% above its mid-point.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downtrend-seen-limited-against-us-dollar-uob-202609151912",
-      "source": "Fxstreet",
-      "image": "https://editorial.fxsstatic.com/images/i/Singapore2-18326.png",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "top",
         "business"
       ],
       "country": [
-        "spain"
+        "malaysia"
       ]
     },
     {
-      "title": "2 women arrested at demonstration in downtown Toronto - CityNews Toronto",
-      "description": "2 women arrested at demonstration in downtown Toronto CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlg2Mk1Jd1VEQTJEQ1RpeDhFSzhWNUVObDVBTEVRdlU1OGxGR3Jya3ZZdFZnWFpxQjM3UGRoUGNDYXljNk9sQVd6ZzU5MXlwTDF1dmxUMHd3WEROUTRNY0p3YV9Ib1BLMUFFTzYzb0VQR2dJRk9VY3JPQnBRWnI4VmdsOWhWd3lyeVBLYVg4UWF2N2VaZ1Jucg?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-15 19:12:00",
+      "title": "Five essentials Brits told to keep at home for emergencies",
+      "description": "The UK Government is urging every household to build a home emergency kit",
+      "link": "https://www.bristolpost.co.uk/news/uk-world-news/five-essentials-brits-told-keep-11157494",
+      "source": "Bristolpost Co Uk",
+      "image": "https://i2-prod.bristolpost.co.uk/news/article11157492.ece/ALTERNATES/s615/2_Hands-of-unrecognizable-man-applying-band-aid-to-knee-of-unrecognizable-woman-sitting-on-forest-floor.jpg",
+      "published": "2026-09-16 01:07:00",
       "category": [
         "crime",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "St. Lawrence University Theatre seeks play submissions",
-      "description": null,
-      "link": "https://www.nny360.com/life/st-lawrence-university-theatre-seeks-play-submissions/article_0e5f6c16-96de-54fc-b069-aa411394ce73.html",
-      "source": "Nny360",
-      "image": null,
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Lucena low-income inflation hits 7.2%",
-      "description": "Lucena City recorded CALABARZON\u2019s highest inflation rate for low-income households in August at 7.2 percent, driven by housing costs and food prices.",
-      "link": "https://tribune.net.ph/2026/09/15/lucena-low-income-inflation-hits-72",
-      "source": "Daily Tribune",
-      "image": "https://images.assettype.com/tribune/2026-09-15/hu21zsgj/NewLucenaCityHall.jpg?w=1200&auto=format",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Mistrial declared in ex-YDC worker Jeffrey Buskey's abuse case",
-      "description": "A Superior Court judge declared a mistrial in the case against Jeffrey Buskey, a former Youth Development Center worker accused of physically and sexually assaulting a resident in the 1990s.",
-      "link": "https://www.unionleader.com/news/courts/mistrial-declared-in-ex-ydc-worker-jeffrey-buskeys-abuse-case/article_e2b52930-69bb-4e2d-b503-fe87cb2ce8e9.html",
-      "source": "Unionleader",
-      "image": "http://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/9/06/9067db94-c94d-4b18-b1ad-c412db74d98a/69fce7ca8d37c.image.jpg?resize=300%2C218",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "21 Bail Bonds sets up office in CoSquare building",
-      "description": null,
-      "link": "https://www.caswellmessenger.com/news/article_400b0f4e-fa8c-4043-9951-fb1b1347626c.html",
-      "source": "The Caswell Messenger",
-      "image": "https://bloximages.chicago2.vip.townnews.com/caswellmessenger.com/content/tncms/assets/v3/editorial/8/74/874e7255-4445-4646-8f0f-ad7bf41517d2/6aa998d0d5108.image.jpg?resize=300%2C173",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Princess Kate's sister Pippa wins neighbour dispute over \u00a315m home",
-      "description": "Pippa Middleton has one major thing to celebrate this week.",
-      "link": "https://www.express.co.uk/news/royal/2248894/pippa-middleton-wins-driveway-dispute",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/106/237x141/2248894_1.jpg",
-      "published": "2026-09-15 19:12:00",
-      "category": [
-        "lifestyle",
         "top"
       ],
       "country": [
@@ -286,102 +46,100 @@
       ]
     },
     {
-      "title": "Visit by high-level Libyan Presidential Guard delegation to France focusing on protection of institutions and individuals",
-      "description": "The French Embassy in Tripoli reported today that on 7 and 9 September 2026, the Internal Security Service of the French Embassy in Libya organized a...",
-      "link": "https://libyaherald.com/2026/09/visit-by-high-level-libyan-presidential-guard-delegation-to-france-focusing-on-protection-of-institutions-and-individuals/",
-      "source": "Libyaherald",
-      "image": "https://ct.libyaherald.com/storage/2025/09/post/featured-image/French-Embassy-Libya-030925.png",
-      "published": "2026-09-15 19:12:00",
+      "title": "AI threats confront a Congress far from erecting guardrails",
+      "description": "WASHINGTON \u2014 In the wake of recent dire warnings from industry about the national security risks of frontier artificial intelligence models, lawmakers have been quick to express concern and call for industry or legislative guardrails. But action before the midterm...",
+      "link": "https://thebrunswicknews.com/news/national_news/ai-threats-confront-a-congress-far-from-erecting-guardrails/article_ff2cf603-0554-5b3d-b0bf-6e20043cd210.html",
+      "source": "The Brunswick News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/d/6a/d6a5efd6-55b4-58e5-b798-7bb9a4046b05/6aa9f7bd617f9.image.jpg?resize=300%2C200",
+      "published": "2026-09-16 01:07:00",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "libya"
-      ]
-    },
-    {
-      "title": "Boyle Street Thanksgiving dinner threatened by rising costs",
-      "description": "A 15-year tradition may be at risk as rising costs are impacting an Edmonton non-profit charity\u2019s annual Thanksgiving dinner.",
-      "link": "https://www.ctvnews.ca/edmonton/article/boyle-street-thanksgiving-dinner-threatened-by-rising-costs/",
-      "source": "Ctv News",
-      "image": "https://www.ctvnews.ca/resizer/v2/M3F237L37FEPHBTJQLPXQ5MK6I.png?auth=9c390a130aaac7df117b214bb9abc263175d1418a5957b8ce49b63083ec130e4&smart=true&width=1920&height=1080",
-      "published": "2026-09-15 19:11:56",
-      "category": [
-        "lifestyle",
-        "crime",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "NYC co-op in hot water over $30M parking lot sale after $16M in reserves allegedly vanishes",
-      "description": "Village View resident Sebastian Kot alleges years of governance problems, including missing or inaccurate meeting minutes, and conflicting financial disclosures.",
-      "link": "https://nypost.com/2026/09/15/real-estate/nyc-co-op-faces-court-battle-over-30m-parking-lot-sale/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fblue-white-checkered-shirt-stephen-130588888.jpg?w%3D1024",
-      "published": "2026-09-15 19:11:56",
-      "category": [
-        "crime",
-        "top"
+        "top",
+        "technology"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "New sign of trouble for WA\u2019s economy - The Seattle Times",
-      "description": "New sign of trouble for WA\u2019s economy The Seattle Times WA's business ranking drops from 1st to 11th as Puget Sound region loses nearly 7,000 jobs, report finds mynorthwest.com Microsoft president calls permitting \u2018number one lever\u2019 to aid new housing construction KING5.com Seattle-area leaders launch partnership to fight economic decline KUOW 'The warning signs are flashing': New regional partnership calls for cohesive Seattle-area tech strategy GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1dndDdVeF80RHZqR0Y4TUxnM0xaR3dzbXRXdzV4elh2UUFwb1JUaW1CM2VGN0N2VUt0SXFna0Z1WG5xaDZDQnZObFhMd2sxZkFRRDZhR1BnYW9sLVdBOFFoX1BIc2RsSHZ1YWp2VV9HZnZwN0xkYnltY2lEVFk0bzhoUVUxVi1Gc3BJd09UWmlZTE9iUVRmcmtMOTdScXhreWlVUTJESUFpNkVuNUE?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-15 19:11:53",
+      "title": "Blast Blade Reveals New Trailer and Brings Playable Build to Tokyo Game Show 2026",
+      "description": "Blast Blade Tokyo Game Show 2026 debut is confirmed with a new trailer and a playable build at booth 02-S01, plus exclusive giveaways for attendees.",
+      "link": "https://pokde.net/gaming/game-industry/blast-blade-tokyo-game-show-2026",
+      "source": "Pokde.net",
+      "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/15003646/blast-blade-tokyo-game-show-2026-featured.png",
+      "published": "2026-09-16 01:07:00",
       "category": [
-        "business"
+        "technology"
       ],
       "country": [
-        "united states of america"
+        "malaysia"
       ]
     },
     {
-      "title": "Kennedy Center board votes to close venue immediately as judge again blocks addition of Trump\u2019s name",
-      "description": "The Kennedy Center Board of Trustees voted Tuesday to immediately close the performing arts venue\u2019s main building, a few hours after a federal judge ruled that President Donald Trump\u2019s name could not be restored to its facade, according to sources...",
-      "link": "https://www.union-bulletin.com/news/national/kennedy-center-board-votes-to-close-venue-immediately-as-judge-again-blocks-addition-of-trump/article_44374afb-44c1-518b-8549-b1dcb45074de.html",
-      "source": "Union-bulletin",
-      "image": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403",
-      "published": "2026-09-15 19:11:53",
+      "title": "Haze: Shifting winds bring relief to Sabah, Sarawak, conditions deteriorate across Peninsular",
+      "description": "GEORGE TOWN: The winds of fortune have literally changed as Sabah and Sarawak see a respite from the severe haze that plagued the region earlier this month.",
+      "link": "https://www.thestar.com.my/news/nation/2026/09/16/haze-shifting-winds-bring-relief-to-sabah-sarawak-conditions-deteriorate-across-peninsular",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/16/4112858.jpeg",
+      "published": "2026-09-16 01:07:00",
       "category": [
-        "politics",
-        "top"
+        "domestic"
       ],
       "country": [
-        "united states of america"
+        "malaysia"
       ]
     },
     {
-      "title": "Job security or displacement: MP guest teachers camp outside edu minister\u2019s house over \u2018Fallen-Out\u2019 policy",
-      "description": "Job security or displacement: MP guest teachers camp outside edu minister\u2019s house over \u2018Fallen-Out\u2019 policy",
-      "link": "https://timesofindia.indiatimes.com/city/bhopal/job-security-or-displacement-mp-guest-teachers-camp-outside-edu-ministers-house-over-fallen-out-policy/articleshow/134272501.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-133690189/133690189.jpg",
-      "published": "2026-09-15 19:11:52",
+      "title": "Team India\u2019s Domestic Series Nets A Sponsorship Trio",
+      "description": "Beverage brand Campa, insurer SBI Life and ChatGPT have jumped on the bandwagon of India\u2019s national cricket team by becoming associate partners of the men in blue. The deal which begins from India\u2019s upcoming home series against West Indies later this month and extends until March 2028. According to the BCCI, the three new deals have a collective [...]",
+      "link": "https://asiasponsorshipnews.com/team-indias-domestic-series-nets-a-sponsorship-trio/?latest=",
+      "source": "Asia Sponsorship News \u2013 Asn",
+      "image": "https://asiasponsorshipnews.com/wp-content/uploads/BCCI-Campa-SBI-Life-ChatGPT-copy.png",
+      "published": "2026-09-16 01:06:59",
       "category": [
-        "crime",
+        "top",
+        "sports"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "What was behind the queue on Barton St",
+      "description": "Poke\u0301mon fans queued for hours in Hamilton to get their hands on limited-edition 30th anniversary cards, with some up before dawn.",
+      "link": "https://www.waikatotimes.co.nz/nz-news/361081493/hamilton-pokemon-fans-queue-early-30th-anniversary-cards",
+      "source": "Waikatotimes",
+      "image": "https://www.waikatotimes.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUSeZYZbm+SU0zjMnNqDfql8Yk4r+Ht43oxrl86VwI5IF7k1TZFVP%2FGWCLS2aI+JHH5ABrq3xlzmrcHHF%2FShfHKnwM4Kkhzr5RmdF%2FhlznstYcoK6cByFv9%2FWbFjtCjm1LEl%2FXUGw5EIDDWQx98pMVUHgQ9wVgJ4ndLyKHGz%2F6Lo6MoJl7R%2Fz1cZlm2B4jrkjk=",
+      "published": "2026-09-16 01:06:59",
+      "category": [
+        "entertainment",
         "top"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Real Madrid left Marti\u0301n Anselmi's Elche empty",
+      "description": "Elche had the match 2-2 but a game of Mbappe\u0301 and Carlos Espi\u0301 ended up giving the three points to Mourinho's Madrid.",
+      "link": "https://www.news247plus.com/news/religion/real-madrid-left-martin-anselmi-s-elche-empty-59821",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/59821/real-madrid-left-martin-anselmi-s-elche-empty-news-image-59821.webp",
+      "published": "2026-09-16 01:06:58",
+      "category": [
+        "top",
+        "sports"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Warning signs your debt is no longer manageable",
-      "description": "Feeling uncomfortable about your bills? A debt relief attorney explains the warning signs it may be time to ask for help before your credit score takes a hit.",
-      "link": "https://www.12onyourside.com/2026/09/15/warning-signs-your-debt-is-no-longer-manageable/",
-      "source": "Https://www.12onyourside.com",
-      "image": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2//ED7ZHCFH3FGEHOPNFORK5F6CTM.jpg?auth=500840f287281f628ab20144dca905d6118f01cbfb2ffac1c281159293c514ea&smart=true&width=1280&height=720",
-      "published": "2026-09-15 19:11:50",
+      "title": "Santa Barbara County bans new onshore oil and gas wells",
+      "description": "Passage of the new regulations sets the stage for a proposed full phaseout of all oil and gas drilling on all unincorporated land The post Santa Barbara County bans new onshore oil and gas wells appeared first on Santa Barbara News-Press .",
+      "link": "https://www.newspress.com/2026/09/15/santa-barbara-county-bans-new-onshore-oil-and-gas-wells/",
+      "source": "Santa Barbara News Press",
+      "image": "https://i0.wp.com/www.newspress.com/wp-content/uploads/2026/09/DSC08493.jpeg?fit=1280%2C768&ssl=1",
+      "published": "2026-09-16 01:06:54",
       "category": [
         "top",
         "business"
@@ -391,17 +149,304 @@
       ]
     },
     {
-      "title": "Scholar Rock: Reiterating 'Strong Buy' On FDA Approval SMA And Expansions Now In Play",
-      "description": "FDA approval of Scholar Rock\u2019s ISEMBYLD (apitegromab) for SMA drives a Strong Buy case, with $2B+ market upside and EU/JP catalysts. Click for more on SRRK stock.",
-      "link": "https://seekingalpha.com/article/4946665-scholar-rock-strong-buy-on-fda-approval-sma-and-expansions-now-in-play",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293841769/image_2293841769.jpg?io=getty-c-w1280",
-      "published": "2026-09-15 19:11:50",
+      "title": "The Fed has to walk a fine line Wednesday. How the stock market may react, according to JPMorgan",
+      "description": "The messaging Fed Chairman Kevin Warsh issues at the press conference could have a large effect on how equities respond.",
+      "link": "https://www.cnbctv18.com/access/the-fed-has-to-walk-a-fine-line-wednesday-how-the-stock-market-may-react-according-to-jpmorgan-19991401.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/images_1789520560-scaled.jpeg",
+      "published": "2026-09-16 01:06:53",
       "category": [
+        "top",
         "business"
       ],
       "country": [
-        "canada"
+        "india"
+      ]
+    },
+    {
+      "title": "Chinese defense minister urges deeper cooperation on global security",
+      "description": "The Chinese military is willing to work with all parties to deepen practical cooperation, jointly address global security challenges, and resolutely safeguard world and regional peace and stability, Minister of National Defense Dong Jun said on Tuesday.",
+      "link": "https://news.cgtn.com/news/2026-09-16/Chinese-defense-minister-urges-deeper-cooperation-on-global-security-1QtC5gaVoAg/p.html",
+      "source": "Cgtn",
+      "image": "https://news.cgtn.com/news/2026-09-16/Chinese-defense-minister-urges-deeper-cooperation-on-global-security-1QtC5gaVoAg/img/502e2e27c3244be3ad257e984346f9ac/502e2e27c3244be3ad257e984346f9ac-750.png",
+      "published": "2026-09-16 01:06:52",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "china"
+      ]
+    },
+    {
+      "title": "Nebraska Linebacker Owen Chambliss the Clear Leader of His Squad",
+      "description": "When you listen to Nebraska linebacker Owen Chambliss, you hear a voice that oozes leadership. Chambliss\u2019 words are delivered with deliberation and purpose. Can",
+      "link": "https://us.headtopics.com/news/nebraska-linebacker-owen-chambliss-the-clear-leader-of-his-87782274",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sinow/nebraska-linebacker-owen-chambliss-the-clear-leade-nebraska-linebacker-owen-chambliss-the-clear-leade-CDEC19B4D5F0DF8544233E046197799B-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "5-Star Illinois Target Darius Wabbington Moves Up Visit to Champaign",
+      "description": "What does Wabbington moving his visit date to this weekend mean, and why is he such a key target for the Illini?",
+      "link": "https://us.headtopics.com/news/5-star-illinois-target-darius-wabbington-moves-up-visit-to-87782271",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sinow/5-star-illinois-target-darius-wabbington-moves-up--5-star-illinois-target-darius-wabbington-moves-up--370883220B986D68D4F980C9B8D61F12-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Joe Mazzulla Confuses Mike Conley, And That's a Good Thing for the Boston Celtics",
+      "description": "Mike Conley has been around. \u201cI was part of the league when [Kevin Garnett] and them guys won, and [Rajon] Rondo and them,\u201d he said at his introductory press co",
+      "link": "https://us.headtopics.com/news/joe-mazzulla-confuses-mike-conley-and-that-s-a-good-thing-87782270",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sinow/joe-mazzulla-confuses-mike-conley-and-that-s-a-goo-joe-mazzulla-confuses-mike-conley-and-that-s-a-goo-10B366F62083F0536348962C224F9720-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "9 of the Cutest Couple Moments at the 2026 Emmys",
+      "description": "It\u2019s probably hard to find time for a date night as a celebrity couple\u2014which could explain why so many famous pairs ramped up the PDA at the 2026 Emmys.",
+      "link": "https://us.headtopics.com/news/9-of-the-cutest-couple-moments-at-the-2026-emmys-87782266",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/voguemagazine/9-of-the-cutest-couple-moments-at-the-2026-emmys-9-of-the-cutest-couple-moments-at-the-2026-emmys-2A05C364DC511D350C7461AC0F9166BB-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Luke Lindenmeyer's Catches Are Down, But He's Just as Focused on a Stat That Doesn't Show Up in the Box Score",
+      "description": "Luke Lindenmeyer's receiving numbers are down to start the 2026 season. After a breakout 2025 that included 29 catches, 312 yards and two touchdowns, the fifth-",
+      "link": "https://us.headtopics.com/news/luke-lindenmeyer-s-catches-are-down-but-he-s-just-as-87782265",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sinow/luke-lindenmeyer-s-catches-are-down-but-he-s-just--luke-lindenmeyer-s-catches-are-down-but-he-s-just--762BC2E6595AC6994D2C7663FAF0443F-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Angels\u2019 Ben Joyce still working back into form after shoulder surgery",
+      "description": "Joyce, who missed a season and a half recovering from shoulder surgery, has been back since early August, but he still is trying to get comfortable with his slider and improve his control.",
+      "link": "https://us.headtopics.com/news/angels-ben-joyce-still-working-back-into-form-after-87782258",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/ladailynews/angels-ben-joyce-still-working-back-into-form-afte-angels-ben-joyce-still-working-back-into-form-afte-2F8069A818A61F62616A4012355069B4-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump Goon Quits as White House Exodus Grows",
+      "description": "A high-ranking staffer is the latest member to exit the White House.",
+      "link": "https://us.headtopics.com/news/trump-goon-quits-as-white-house-exodus-grows-87782284",
+      "source": "Headtopics",
+      "image": null,
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "politics",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Sagen MI Canada Inc. to Issue $300 Million of Unsecured Debentures and Announces Redemption on September 25, 2026 of its Outstanding 2.955% Debentures due March 1, 2027",
+      "description": "/THIS PRESS RELEASE MAY NOT BE PUBLISHED, DISTRIBUTED OR TRANSMITTED IN OR INTO THE UNITED STATES OR OVER UNITED STATES WIRE OR NEWS SERVICES./TORONTO,",
+      "link": "https://us.headtopics.com/news/sagen-mi-canada-inc-to-issue-300-million-of-unsecured-87782281",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/statics/images/social_logo.png",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Scouting Report: Aztecs opponent James Madison coming off 87-point performance",
+      "description": "Here\u2019s everything you need to know about the Dukes heading into Saturday\u2019s game at Snapdragon Stadium.",
+      "link": "https://us.headtopics.com/news/scouting-report-aztecs-opponent-james-madison-coming-off-87782297",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sdut/scouting-report-aztecs-opponent-james-madison-comi-scouting-report-aztecs-opponent-james-madison-comi-6FE9A1E741540CAA5E88333FC391E593-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Man recounts leaping from path of speeding car on Pacific Beach boardwalk, helping catch suspect",
+      "description": "The 20-year-recorded footage of himself chasing and catching the suspected driver, who San Diego police arrested. It\u2019s gone viral.",
+      "link": "https://us.headtopics.com/news/man-recounts-leaping-from-path-of-speeding-car-on-pacific-87782295",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sdut/man-recounts-leaping-from-path-of-speeding-car-on--man-recounts-leaping-from-path-of-speeding-car-on--3A20244AC7F7E49147300E65A6CA75F6-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "San Diego City Council adopts Islamophobia definition, months after deadly mosque shooting",
+      "description": "Councilmember Kent Lee said the council's move was the 'bare minimum,' and La Cava said Tuesday's action was 'just the beginning.'",
+      "link": "https://us.headtopics.com/news/san-diego-city-council-adopts-islamophobia-definition-87782292",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/kpbsnews/san-diego-city-council-adopts-islamophobia-definit-san-diego-city-council-adopts-islamophobia-definit-90C9216B0A43CA2ADD77A0E10C14C452-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "San Diego tweaks deal to convert 101 Ash office tower into affordable housing",
+      "description": "The changes increase the number of units in the project and the interest rate the developer will pay the city. The property also has a new address \u2014 107 Ash Street.",
+      "link": "https://us.headtopics.com/news/san-diego-tweaks-deal-to-convert-101-ash-office-tower-into-87782290",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/kpbsnews/san-diego-tweaks-deal-to-convert-101-ash-office-to-san-diego-tweaks-deal-to-convert-101-ash-office-to-8628D253A61B5803E1CADF8A9D0EA2F1-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "More data centers, layoffs and Elon Musk: Mississippi Marketplace",
+      "description": "In February, Amazon estimated that it will spend a total of $200 billion this year in capital projects nationwide, mostly on data centers and chips to power AI. The company spent around $130 billion last year.",
+      "link": "https://us.headtopics.com/news/more-data-centers-layoffs-and-elon-musk-mississippi-87782312",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/statics/images/social_logo.png",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "1940: Roosevelt signs Selective Service Act - Mississippi Today",
+      "description": "On this day in 1940, Black men for the first time could join all U.S. military branches when President Franklin Roosevelt signed the Selective Service Act.",
+      "link": "https://us.headtopics.com/news/1940-roosevelt-signs-selective-service-act-mississippi-87782309",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/statics/images/social_logo.png",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mercedes-AMG\u2019s Sold-Out CLE 646 Spezialanfertigung Packs 637 HP and a 193-MPH Top Speed",
+      "description": "The Mercedes-AMG CLE 646 Spezialanfertigung turns the Mercedes CLE coupe into a wider, lighter, rear-drive track car with 637 hp and extreme cooling upgrades.",
+      "link": "https://us.headtopics.com/news/mercedes-amg-s-sold-out-cle-646-spezialanfertigung-packs-87782307",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/motortrend/mercedes-amg-s-sold-out-cle-646-spezialanfertigung-mercedes-amg-s-sold-out-cle-646-spezialanfertigung-D1009E6B4E1D5E9A2B80B020C62FADB2-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "I've Been Masking So Long I'm Not Sure Who I Actually Am",
+      "description": "When you\u2019ve been who and what you thought everyone need you to be for so long, how much of that is me... and how much is ADHD?",
+      "link": "https://us.headtopics.com/news/i-ve-been-masking-so-long-i-m-not-sure-who-i-actually-am-87782315",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/scarymommy/i-ve-been-masking-so-long-i-m-not-sure-who-i-actua-i-ve-been-masking-so-long-i-m-not-sure-who-i-actua-A2171959A83B666F05B78080860A5EA7-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Marvin Harrison Jr., Alec Pierce, and 6 Other Must-Sit Wide Receivers in Week 2 Fantasy Football",
+      "description": "Do not play any of these wide receivers, such as Marvin Harrison Jr., Alec Pierce, or Jordan Addison, in Week 2 fantasy football.",
+      "link": "https://headtopics.com/news/marvin-harrison-jr-alec-pierce-and-6-other-must-sit-wide-87782275",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/sinow/marvin-harrison-jr-alec-pierce-and-6-other-must-si-marvin-harrison-jr-alec-pierce-and-6-other-must-si-B4CE9155B7F3F6791683A8FFC935EBCE.webp",
+      "published": "2026-09-16 01:06:49",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Jackson Olson's Fiance\u0301e Maggie Sajak Cheers Him on at 'DWTS' Debut: 'I Am So Excited'",
+      "description": "Maggie Sajak, daughter of Pat Sajak and fiance\u0301e of Savannah Bananas player Jackson Olson, expressed her excitement and pride for Olson as he embarks on his journey on Dancing With the Stars. Despite the long distance between them, the couple remains committed to their relationship, cherishing the early stages of their romance. Olson, a lifelong baseball fan and athlete, is thrilled to showcase his passion for dance on the national stage.",
+      "link": "https://headtopics.com/news/jackson-olson-s-fiancee-maggie-sajak-cheers-him-on-at-87782171",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/usweekly/jackson-olson-s-fiancee-maggie-sajak-cheers-him-on-jackson-olson-s-fiancee-maggie-sajak-cheers-him-on-59D358968E91C5B149B823AD871EF733.webp",
+      "published": "2026-09-16 01:06:49",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

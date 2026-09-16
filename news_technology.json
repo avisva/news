@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "AI threats confront a Congress far from erecting guardrails",
+      "description": "WASHINGTON \u2014 In the wake of recent dire warnings from industry about the national security risks of frontier artificial intelligence models, lawmakers have been quick to express concern and call for industry or legislative guardrails. But action before the midterm...",
+      "link": "https://thebrunswicknews.com/news/national_news/ai-threats-confront-a-congress-far-from-erecting-guardrails/article_ff2cf603-0554-5b3d-b0bf-6e20043cd210.html",
+      "source": "The Brunswick News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/d/6a/d6a5efd6-55b4-58e5-b798-7bb9a4046b05/6aa9f7bd617f9.image.jpg?resize=300%2C200",
+      "published": "2026-09-16 01:07:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Blast Blade Reveals New Trailer and Brings Playable Build to Tokyo Game Show 2026",
+      "description": "Blast Blade Tokyo Game Show 2026 debut is confirmed with a new trailer and a playable build at booth 02-S01, plus exclusive giveaways for attendees.",
+      "link": "https://pokde.net/gaming/game-industry/blast-blade-tokyo-game-show-2026",
+      "source": "Pokde.net",
+      "image": "https://cdn.pokde.net/wp-content/uploads/2026/09/15003646/blast-blade-tokyo-game-show-2026-featured.png",
+      "published": "2026-09-16 01:07:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Mercedes-AMG\u2019s Sold-Out CLE 646 Spezialanfertigung Packs 637 HP and a 193-MPH Top Speed",
+      "description": "The Mercedes-AMG CLE 646 Spezialanfertigung turns the Mercedes CLE coupe into a wider, lighter, rear-drive track car with 637 hp and extreme cooling upgrades.",
+      "link": "https://us.headtopics.com/news/mercedes-amg-s-sold-out-cle-646-spezialanfertigung-packs-87782307",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/motortrend/mercedes-amg-s-sold-out-cle-646-spezialanfertigung-mercedes-amg-s-sold-out-cle-646-spezialanfertigung-D1009E6B4E1D5E9A2B80B020C62FADB2-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

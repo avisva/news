@@ -1,29 +1,74 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Visit by high-level Libyan Presidential Guard delegation to France focusing on protection of institutions and individuals",
-      "description": "The French Embassy in Tripoli reported today that on 7 and 9 September 2026, the Internal Security Service of the French Embassy in Libya organized a...",
-      "link": "https://libyaherald.com/2026/09/visit-by-high-level-libyan-presidential-guard-delegation-to-france-focusing-on-protection-of-institutions-and-individuals/",
-      "source": "Libyaherald",
-      "image": "https://ct.libyaherald.com/storage/2025/09/post/featured-image/French-Embassy-Libya-030925.png",
-      "published": "2026-09-15 19:12:00",
+      "title": "US Charges 5 in Russian Intelligence Murder Plots",
+      "description": "Russian intelligence services plotted targeted killings in the United States and European nations supporting Ukraine, federal authorities said Tuesday as they announced charges against five people who remain at large.",
+      "link": "https://www.newsmax.com/newsfront/russia-intelligence-services-murder-plots/2026/09/15/id/1269565",
+      "source": "Newsmax.com",
+      "image": "https://www.newsmax.com/cmspages/getfile.aspx?guid=DD6B36B3-F489-42CA-9ABD-6161E7A494BF",
+      "published": "2026-09-16 01:07:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Chinese defense minister urges deeper cooperation on global security",
+      "description": "The Chinese military is willing to work with all parties to deepen practical cooperation, jointly address global security challenges, and resolutely safeguard world and regional peace and stability, Minister of National Defense Dong Jun said on Tuesday.",
+      "link": "https://news.cgtn.com/news/2026-09-16/Chinese-defense-minister-urges-deeper-cooperation-on-global-security-1QtC5gaVoAg/p.html",
+      "source": "Cgtn",
+      "image": "https://news.cgtn.com/news/2026-09-16/Chinese-defense-minister-urges-deeper-cooperation-on-global-security-1QtC5gaVoAg/img/502e2e27c3244be3ad257e984346f9ac/502e2e27c3244be3ad257e984346f9ac-750.png",
+      "published": "2026-09-16 01:06:52",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "libya"
+        "china"
       ]
     },
     {
-      "title": "Kennedy Center board votes to close venue immediately as judge again blocks addition of Trump\u2019s name",
-      "description": "The Kennedy Center Board of Trustees voted Tuesday to immediately close the performing arts venue\u2019s main building, a few hours after a federal judge ruled that President Donald Trump\u2019s name could not be restored to its facade, according to sources...",
-      "link": "https://www.union-bulletin.com/news/national/kennedy-center-board-votes-to-close-venue-immediately-as-judge-again-blocks-addition-of-trump/article_44374afb-44c1-518b-8549-b1dcb45074de.html",
-      "source": "Union-bulletin",
-      "image": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403",
-      "published": "2026-09-15 19:11:53",
+      "title": "Trump Goon Quits as White House Exodus Grows",
+      "description": "A high-ranking staffer is the latest member to exit the White House.",
+      "link": "https://us.headtopics.com/news/trump-goon-quits-as-white-house-exodus-grows-87782284",
+      "source": "Headtopics",
+      "image": null,
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "politics",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "San Diego City Council adopts Islamophobia definition, months after deadly mosque shooting",
+      "description": "Councilmember Kent Lee said the council's move was the 'bare minimum,' and La Cava said Tuesday's action was 'just the beginning.'",
+      "link": "https://us.headtopics.com/news/san-diego-city-council-adopts-islamophobia-definition-87782292",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/16/kpbsnews/san-diego-city-council-adopts-islamophobia-definit-san-diego-city-council-adopts-islamophobia-definit-90C9216B0A43CA2ADD77A0E10C14C452-16x9.webp",
+      "published": "2026-09-16 01:06:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "1940: Roosevelt signs Selective Service Act - Mississippi Today",
+      "description": "On this day in 1940, Black men for the first time could join all U.S. military branches when President Franklin Roosevelt signed the Selective Service Act.",
+      "link": "https://us.headtopics.com/news/1940-roosevelt-signs-selective-service-act-mississippi-87782309",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/statics/images/social_logo.png",
+      "published": "2026-09-16 01:06:50",
       "category": [
         "politics",
         "top"

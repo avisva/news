@@ -1,75 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "How libraries in Philadelphia, Pittsburgh and other Pennsylvania communities evolved from subscription clubs to vital public institutions",
-      "description": "(The Conversation is an independent and nonprofit source of news, analysis and commentary from academic experts.)",
-      "link": "https://www.myplainview.com/news/article/how-libraries-in-philadelphia-pittsburgh-and-22432595.php",
-      "source": "Plainview Daily Herald",
-      "image": "https://s.hdnux.com/photos/01/34/02/56/24128442/3/square_large.jpg",
-      "published": "2026-09-15 13:04:00",
+      "title": "Visit by high-level Libyan Presidential Guard delegation to France focusing on protection of institutions and individuals",
+      "description": "The French Embassy in Tripoli reported today that on 7 and 9 September 2026, the Internal Security Service of the French Embassy in Libya organized a...",
+      "link": "https://libyaherald.com/2026/09/visit-by-high-level-libyan-presidential-guard-delegation-to-france-focusing-on-protection-of-institutions-and-individuals/",
+      "source": "Libyaherald",
+      "image": "https://ct.libyaherald.com/storage/2025/09/post/featured-image/French-Embassy-Libya-030925.png",
+      "published": "2026-09-15 19:12:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "libya"
+      ]
+    },
+    {
+      "title": "Kennedy Center board votes to close venue immediately as judge again blocks addition of Trump\u2019s name",
+      "description": "The Kennedy Center Board of Trustees voted Tuesday to immediately close the performing arts venue\u2019s main building, a few hours after a federal judge ruled that President Donald Trump\u2019s name could not be restored to its facade, according to sources...",
+      "link": "https://www.union-bulletin.com/news/national/kennedy-center-board-votes-to-close-venue-immediately-as-judge-again-blocks-addition-of-trump/article_44374afb-44c1-518b-8549-b1dcb45074de.html",
+      "source": "Union-bulletin",
+      "image": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/custom/image/742560ca-072e-11eb-8f70-07c5f8794a75.jpg?resize=600%2C403",
+      "published": "2026-09-15 19:11:53",
       "category": [
         "politics",
         "top"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Federal Constitutional Court Summons Similar Case Records in PTI Founder Hospital Transfer Matter",
-      "description": "Islamabad (HRNW)- The Federal Constitutional Court has sought records of similar cases from courts across the country, including the Supreme Court, concerning the transfer of the PTI founder to Shifa Hospital and the provision of facilities to three prisoners at a private hospital. A three-member bench headed by Chief Justice of the Federal Constitutional Court Justice... <p>The post Federal Constitutional Court Summons Similar Case Records in PTI Founder Hospital Transfer Matter first appeared on Human Rights News Worldwide .</p>",
-      "link": "https://www.hrnww.com/?p=28366",
-      "source": "Human Rights News Worldwide Hrnw News Agency",
-      "image": null,
-      "published": "2026-09-15 13:04:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "In Our View: Local newspapers vital for strong communities",
-      "description": "The benefits of local newspapers are well-documented. Studies have demonstrated that communities with local reporting have lower rates of government corruption, higher rates of voter turnout and increased numbers of political candidates.",
-      "link": "https://www.columbian.com/news/2026/sep/15/in-our-view-local-newspapers-vital-for-strong-communities/",
-      "source": "Columbian",
-      "image": "https://www.columbian.com/wp-content/themes/columbian3/static/img/og/default-2026-2.jpg",
-      "published": "2026-09-15 13:03:55",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Uganda Refugee Response: Gender-based Violence (GBV) dashboard - Quarter 2 2026",
-      "description": "Countries: Uganda, Democratic Republic of the Congo, South Sudan Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
-      "link": "https://reliefweb.int/report/uganda/uganda-refugee-response-gender-based-violence-gbv-dashboard-quarter-2-2026",
-      "source": "Reliefweb",
-      "image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/66/a4/66a4db8d-7a43-5f78-b651-2686bc1ab314.png",
-      "published": "2026-09-15 13:03:55",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "somalia",
-        "ukraine",
-        "nigeria",
-        "afghanistan",
-        "syria",
-        "haiti",
-        "yemen",
-        "pakistan",
-        "sudan",
-        "myanmar",
-        "ethiopia"
       ]
     }
   ]

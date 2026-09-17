@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Verapath and GenTrust Launch VIRA, an AI-Native Wealth Management Platform for RIAs",
-      "description": "Joint Venture Consolidates CRM, Planning, Portfolio, Tax and Reporting into One System of Record and One View of Every Client",
-      "link": "https://www.journal-news.net/online_features/press_releases/verapath-and-gentrust-launch-vira-an-ai-native-wealth-management-platform-for-rias/article_3c83548c-4674-51c2-b1e7-d8932f92e493.html",
-      "source": "The Journal",
-      "image": "https://bloximages.newyork1.vip.townnews.com/journal-news.net/content/tncms/assets/v3/editorial/5/e4/5e41b173-d7d9-5a1a-898c-88768a91872a/6aab8dcf7d691.image.jpg?resize=300%2C400",
-      "published": "2026-09-16 22:57:00",
+      "title": "Village passes 12-month data center ban",
+      "description": null,
+      "link": "https://www.wfmj.com/video/news/village-passes-12-month-data-center-ban/video_24d0b2a7-5caf-58af-b43b-fe154526302a.html",
+      "source": "Wfmj Television Station",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wfmj.com/content/tncms/assets/v3/editorial/2/4d/24d0b2a7-5caf-58af-b43b-fe154526302a/6aab5f8332eda.preview.jpg?resize=300%2C169",
+      "published": "2026-09-17 03:27:00",
       "category": [
         "top",
         "technology"
@@ -18,33 +18,18 @@
       ]
     },
     {
-      "title": "House approves bill aimed at putting data center electricity costs on tech companies",
-      "description": "The House on Tuesday passed a bill aimed at shielding Americans from increased electricity costs associated with data centers. The bill requires states to consider taking up standards that would force tech companies to shoulder the electricity cost increases associated with large data centers but doesn't actually require them to regulate. The bipartisan Ratepayer Protection Act,...",
-      "link": "https://thehill.com/homenews/state-watch/6090232-house-passes-data-center-electricity-bill/",
-      "source": "The Hill",
-      "image": "https://thehill.com/wp-content/uploads/sites/2/2024/06/castorkathy_060324gn01_w.jpg?w=900",
-      "published": "2026-09-16 22:56:58",
+      "title": "South Korea's medical device city opens physical AI institute, aiming to train 1,400 workers in five years",
+      "description": "Wonju, a South Korean city of about 360,000, roughly 90 minutes east of Seoul, opened a government-funded institute on Thursday, September 17, to train more than 1,400 workers in artificial intelligence over five years.",
+      "link": "https://www.digitimes.com/news/a20260917VL210/medical-data-robotics-government.html",
+      "source": "Digitimes",
+      "image": "https://img.digitimes.com/newsshow/20260917vl210_files/5_2b.jpg",
+      "published": "2026-09-17 03:26:52",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "2026 top HR products list highlights shift toward agentic AI and hyper-personalized employee experiences",
-      "description": "The 2026 Top HR Products list highlights agentic AI and hyper-personalization, with systems like Insygna's Agentic Workforce Management now autonomously optimizing staffing in real time.",
-      "link": "https://completeaitraining.com/news/2026-top-hr-products-list-highlights-shift-toward-agentic/",
-      "source": "Complete Ai Training",
-      "image": "https://cdn.completeaitraining.com/news_images/2026-top-hr-products-list-highlights-shift-toward-agentic-ai-and-hyper-personali_2026-09-16.jpg",
-      "published": "2026-09-16 22:56:49",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
+        "china"
       ]
     }
   ]

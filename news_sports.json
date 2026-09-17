@@ -1,14 +1,45 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Garrett County high school athletics schedule Sept. 17-23",
-      "description": "Listed below are the game schedules for Southern and Northern Garrett High Schools (Sept. 17 \u2014 Sept. 23)",
-      "link": "https://www.wvnews.com/garrett-county-high-school-athletics-schedule-sept-17-23/article_a7b3354c-3c29-4f6a-87ef-4a648ce19444.html",
-      "source": "Wv News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg",
-      "published": "2026-09-16 17:42:00",
+      "title": "The First Zombie Announced for Switch",
+      "description": null,
+      "link": "https://gonintendo.com/contents/65084-the-first-zombie-announced-for-switch",
+      "source": "Gonintendo",
+      "image": "https://gonintendo.com/attachments/image/86376/file/medium-99adf431c82c22fefcd3f2cacec72e0b.jpg",
+      "published": "2026-09-16 22:57:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Smokey Road rolls past Evans, 38-0",
+      "description": null,
+      "link": "https://www.times-herald.com/sports/smokey-road-rolls-past-evans-38-0/article_59f9d065-161c-40a0-b537-07c84a76bff0.html",
+      "source": "Times-herald.com",
+      "image": null,
+      "published": "2026-09-16 22:57:00",
+      "category": [
+        "crime",
+        "sports",
+        "top"
+      ],
+      "country": [
+        "georgia"
+      ]
+    },
+    {
+      "title": "A look at the top 10 Georgia high school football games for Week 5",
+      "description": "Here are the top Georgia high school football games for Week 5.",
+      "link": "https://www.ajc.com/sports/2026/09/georgia-high-school-football-top-games-week-5/",
+      "source": "Atlanta Journal-constitution",
+      "image": "https://images.ajc.com/resizer/v2/HOXGEAK3OVHV5EY3EJULXKDIRM.JPG?auth=f1f1931bf670d136e94c8bc35d164295b9a70bb425c724d02fb0e00268aedd1f&smart=true&width=6370&height=4247",
+      "published": "2026-09-16 22:56:56",
       "category": [
         "top",
         "sports"

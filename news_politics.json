@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "UK trade unions back motion to boycott and sanction Israel",
+      "description": "Motion demands taking action to oppose the 'catastrophic destruction of Gaza' and Israeli settler violence.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel",
+      "source": "Al Jazeera",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aaacdf14f-1789578737.jpg?resize=1920%2C1440",
+      "published": "2026-09-16 17:42:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "qatar",
+        "united kingdom",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Clarification",
+      "description": "A story on Page A3 of the Sept. 16 edition of the NH Union Leader published secondhand information about testimony during Jeffrey Buskey\u2019s trial. The information should\u2019ve been attributed to WMUR-TV.",
+      "link": "https://www.unionleader.com/clarification/article_f9715833-a9d8-4d02-bdb0-fc9a80d6b43b.html",
+      "source": "Unionleader",
+      "image": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg?resize=600%2C315",
+      "published": "2026-09-16 17:42:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Errata: Decline of Christianity in the U.S. Has Slowed, May Have Leveled Off",
+      "description": null,
+      "link": "https://www.pewresearch.org/2026/09/16/errata-decline-of-christianity-in-the-us-has-slowed-may-have-leveled-off/",
+      "source": "Pew Research Center",
+      "image": null,
+      "published": "2026-09-16 17:41:57",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

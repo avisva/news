@@ -1,34 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Jaffna Bulls taking rugby to a hi-tech level",
-      "description": "Sri Lanka\u2019s inaugural Next XV rugby tournament is set for kick-off and one team calling itself the Jaffna Bulls is carving out a distinct identity driven by modern performance analytics, cutting-edge technology and a deep commitment to developing local talent according to the team\u2019s promoters.",
-      "link": "https://www.dailymirror.lk/sports/Jaffna-Bulls-taking-rugby-to-a-hi-tech-level/322-350602",
-      "source": "Daily Mirror",
-      "image": null,
-      "published": "2026-09-18 07:26:00",
+      "title": "Deaf rapper to headline Athy festival",
+      "description": "The festival, which will take place on Sunday, 27 September from 11am to 6pm at the Dreamland Ballroom in Athy",
+      "link": "https://www.kildare-nationalist.ie/whatson/deaf-rapper-to-headline-athy-festival_arid-111170.html",
+      "source": "Kildare Nationalist",
+      "image": "https://www.kildare-nationalist.ie/cms_media/module_img/7737/3868638_6_articledetail_music_crowd.jpg",
+      "published": "2026-09-18 10:16:00",
       "category": [
         "sports"
       ],
       "country": [
-        "sri lanka"
+        "ireland"
       ]
     },
     {
-      "title": "They're not playing our song! Wrong Korean anthem played at field hockey match at Asian Games",
-      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against...",
-      "link": "https://www.kvue.com/article/syndication/associatedpress/theyre-not-playing-our-song-wrong-korean-anthem-played-at-field-hockey-match-at-asian-games/616-9638b377-9118-4751-b844-10b955c89701",
-      "source": "Kvue",
-      "image": "https://media.tegna-media.com/assets/AssociatedPress/images/c9ecf0e5-c20d-4d1d-89f4-9d6222b1de44/20260918T073008/c9ecf0e5-c20d-4d1d-89f4-9d6222b1de44_750x422.jpg",
-      "published": "2026-09-18 07:25:57",
+      "title": "No confidence crisis as Scales seeks derby win to 'change narrative'",
+      "description": "Celtic defender Liam Scales insists there is no crisis of confidence at the club after Martin O'Neill's side suffered damaging back-to-back defeats. Thursday night's 3-1 Europa League opening loss to Ferencvaros followed the 3-0 Premier Sports Cup exit to Rangers, who visit Celtic Park in the Premiership on Sunday. \"Definitely not, no crisis,\" Scales replied when asked if confidence levels were significantly dented.",
+      "link": "https://sports.yahoo.com/articles/no-confidence-crisis-scales-seeks-101559024.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/009d045e6e5f8eedf2119a834aab6e753fc30f9ed5fb752340467888644b4de7/lightyear_networkapi/resizefit_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff70ab91341adc11c6e3a4eeeee46a04d.jpg",
+      "published": "2026-09-18 10:15:59",
       "category": [
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Michael Langan helps students find \u2018safe space\u2019 through Man United Foundation role",
+      "description": "Donegal midfielder Michael Langan says his role as Manchester United Foundation program delivery officer at Rosses Community School is designed to make the scho...",
+      "link": "https://www.donegaldaily.com/news/michael-langan-helps-students-find-safe-space-through-man-united-foundation-role-650222",
+      "source": "Donegal Daily",
+      "image": "https://storage.donegaldaily.com/prod/uploads/2026/09/copy-of-copy-of-dd-pics-87.png",
+      "published": "2026-09-18 10:15:48",
+      "category": [
+        "lifestyle",
         "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "ireland"
       ]
     }
   ]

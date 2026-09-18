@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Russian elections a \u2018veneer of democracy\u2019 with opposition barred from running",
+      "description": "PRESS REVIEW \u2013 Friday, September 18: Russia holds its first parliamentary elections since the Ukraine war. Since only parties loyal to Vladimir Putin are running, the elections are seen as nothing but a veneer of democracy. In sports: Zinedine Zidane will unveil his first selection as coach of the French football team. Brisbane 2032 Olympic and Paralympic organisers approve a croc-infested river to hold canoe and rowing events. Finally, the first new feline species in a century has been discovered.",
+      "link": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running",
+      "source": "France 24",
+      "image": "https://s.france24.com/media/display/f775775a-b329-11f1-9799-61f6f55d211c/w:1024/p:16x9/Anglais-2026-09-18T05-21-22-519Z.jpg",
+      "published": "2026-09-18 10:16:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "france"
+      ]
+    },
+    {
+      "title": "Russia Parliamentary Election 2026: 111 Million Voters, 450 Duma Seats and A Wartime Test For Putin \u2013 Check Result Date, Total Duma Seats, Political Parties and More",
+      "description": "Russia Parliamentary Election: Russia Election 2026 begins as voters choose 450 State Duma members amid the Ukraine war. Check United Russia, opposition parties, Yabloko, voting dates and what the poll means for Putin. The post Russia Parliamentary Election 2026: 111 Million Voters, 450 Duma Seats and A Wartime Test For Putin \u2013 Check Result Date, Total Duma Seats, Political Parties and More appeared first on The Sunday Guardian .",
+      "link": "https://sundayguardianlive.com/world/russia-parliamentary-election-2026-111-million-voters-450-duma-seats-and-a-wartime-test-for-putin-check-result-date-total-duma-seats-political-parties-and-more-287525/",
+      "source": "The Sunday Guardian",
+      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/09/dusu-election-2026-live-updates-7.png",
+      "published": "2026-09-18 10:15:59",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

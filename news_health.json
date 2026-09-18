@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "University of Michigan Health cardiologist named to U.S. Preventive Services Task Force",
-      "description": "University of Michigan Health cardiologist Venkatesh Murthy, M.D., Ph.D., has been appointed to the U.S. Preventive Services Task Force.",
-      "link": "https://www.newswise.com/articles/university-of-michigan-health-cardiologist-named-to-u-s-preventive-services-task-force/?sc=rsla",
-      "source": "Newswise",
-      "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
-      "published": "2026-09-18 00:40:54",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

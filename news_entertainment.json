@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Brisbane man to run cult chef\u2019s new NYC restaurant",
+      "description": null,
+      "link": "https://www.couriermail.com.au/lifestyle/brisbane-man-brock-heath-to-run-viral-chef-thomas-strakers-new-york-restaurant/news-story/78f0ec914d39a3e7c14a217b35f32106",
+      "source": "The Courier Mail",
+      "image": null,
+      "published": "2026-09-18 04:55:00",
+      "category": [
+        "entertainment",
+        "top",
+        "food"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "House of Cards Had a Much Darker Villain Story That Never Happened",
+      "description": "Cody Fern\u2019s original role on House of Cards was nothing like what audiences eventually saw on screen. The actor revealed the drastic changes his character underwent after the show\u2019s behind-the-scenes implosion reshaped its final season. How Cody Fern\u2019s original role changed after Kevin Spacey\u2019s exit Cody Fern originally landed the role of the main villain in House of [...] The post House of Cards Had a Much Darker Villain Story That Never Happened appeared first on ComingSoon.net - Movie Trailers, TV & Streaming News, and More .",
+      "link": "https://www.comingsoon.net/guides/news/2193360-cody-fern-original-house-of-card-role-jared-kushner-like-villain",
+      "source": "Coming Soon",
+      "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/HouseOfCards1.jpg.webp",
+      "published": "2026-09-18 04:54:52",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

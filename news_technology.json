@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Anthropic flags AI systems\u2019 \u2018self-improvement\u2019; bats for greater transparency in development of models",
+      "description": "California [US], September 18 (ANI): AI frontier lab Anthropic has pitched for greater transparency in the development of AI models. In a blog post the company said that AI systems are becoming exponentially more powerful and have begun to automate more of the process of building themselves, and as the world considers slowing the pace of frontier AI development, the public needs more information.",
+      "link": "https://telecomlive.in/web/2026/09/18/anthropic-flags-ai-systems-self-improvement-bats-for-greater-transparency-in-development-of-models/",
+      "source": "Telecomliveweb",
+      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
+      "published": "2026-09-18 04:54:47",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Dodgers clinch a fifth straight NL West title with an 8-2 win over the Reds",
+      "description": "CINCINNATI (AP) \u2014 The Los Angeles Dodgers clinched their fifth consecutive NL West division title and 13th in the 14 seasons, sparked by four hits from Kyle Tucker that included a first-inning home run in an 8-2 win over the...",
+      "link": "https://www.dailyrecordnews.com/ap_news/sports/dodgers-clinch-a-fifth-straight-nl-west-title-with-an-8-2-win-over-the/article_dfe553bc-4a4d-5a75-9643-e9a891a31dda.html",
+      "source": "Dailyrecordnews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/5/71/5711f6b6-4f5b-5c3c-8774-595d294b4556/6aacb468c298e.image.jpg?resize=300%2C200",
+      "published": "2026-09-18 04:54:45",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

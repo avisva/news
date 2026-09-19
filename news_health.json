@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "How to wear a durag or bonnet properly for overnight hair protection",
+      "description": "Many people wake up with dry strands, broken edges, or a headpiece that slipped off into the bedding",
+      "link": "https://k24.digital/lifestyle/fashion-and-beauty/how-to-wear-a-durag-or-bonnet-properly-for-overnight-hair-protection",
+      "source": "K24 Tv",
+      "image": "https://k24.digital/wp-content/uploads/2026/09/WomanBonnetDurag.jpg",
+      "published": "2026-09-19 10:38:58",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "kenya"
+      ]
+    }
+  ]
 }

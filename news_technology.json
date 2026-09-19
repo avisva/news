@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "The Gates Foundation is spending $400 million on AI in schools. Teachers warn it could \u2018end up widening\u2019 the divide it\u2019s meant to close",
-      "description": "\u201cAI can support teacher expertise, but it cannot replace it,\u201d one educator told Fortune.",
-      "link": "https://fortune.com/2026/09/19/the-gates-foundation-ai-schools-teachers-warn-gap-reading-math/",
-      "source": "Fortune",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2284438101-e1789759975181.jpg?w=2048",
-      "published": "2026-09-19 08:01:00",
-      "category": [
-        "technology",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

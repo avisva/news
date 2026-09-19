@@ -1,35 +1,79 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Before AI Can Understand Property, Property Needs Better Data",
-      "description": "Real estate technology has improved enormously over the past two decades, but much of that progress has happened at the surface. Listings moved online. Photography improved. Maps became interactive. Filters became more precise. Mobile apps made it possible to search for a home from almost anywhere. All of this made property discovery easier. But... Read the full article on TechBullion.",
-      "link": "https://techbullion.com/before-ai-can-understand-property-property-needs-better-data/",
-      "source": "Techbullion",
-      "image": "https://techbullion.com/wp-content/uploads/2025/05/AI.webp",
-      "published": "2026-09-19 02:08:54",
+      "title": "Google's Gemini AI carried out cyberattacks, guessed passwords",
+      "description": null,
+      "link": "https://timesofmalta.com/article/google-gemini-ai-carried-cyberattacks-guessed-passwords.1134343",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/50201ea7c795f85010b8424924f1a38e58f02051-1789796829-0bcc13e2-1920x1280.jpg",
+      "published": "2026-09-19 05:45:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "malta"
       ]
     },
     {
-      "title": "Colorado lawmakers call for new AI safeguards as fears over catastrophic risks grow",
-      "description": "Colorado lawmakers push for AI safeguards with bipartisan backing, as Rep. Brittany Pettersen says the technology now scares her more than Donald Trump. Proposals include mandatory incident reporting, independent audits, and a new federal oversight agency.",
-      "link": "https://completeaitraining.com/news/colorado-lawmakers-call-for-new-ai-safeguards-as-fears-over/",
-      "source": "Complete Ai Training",
-      "image": "https://cdn.completeaitraining.com/news_images/colorado-lawmakers-call-for-new-ai-safeguards-as-fears-over-catastrophic-risks-g_2026-09-18.jpg",
-      "published": "2026-09-19 02:08:07",
+      "title": "NNPC to roll out smart self-service stations nationwide \u2014Ojulari",
+      "description": "NNPC Retail, a subsidiary of the Nigerian National Petroleum Corporation Limited (NNPC Limited), recently launched its first Smart Self Service Station in Abuja. In this interview, NNPC Limited\u2019s Group Chief Executive Officer (GCEO), Engr. Bashir Bayo Ojulari, explains the rationale behind the Smart Self Service Station and its positive impact on customers and the general [...] The post NNPC to roll out smart self-service stations nationwide \u2014Ojulari appeared first on Tribune Online .",
+      "link": "https://tribuneonlineng.com/nnpc-to-roll-out-smart-self-service-stations-nationwide-ojulari/",
+      "source": "Tribune",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/09/Bayo-Ojulari.jpg",
+      "published": "2026-09-19 05:45:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Verizon to phase out copper phone lines across New York; letter sent to customers affected",
+      "description": "Verizon may soon be removing the old-school copper wires that have connected New Yorkers to the phone system for the last 150 years.",
+      "link": "https://www.nny360.com/news/statenews/verizon-to-phase-out-copper-phone-lines-across-new-york-letter-sent-to-customers-affected/article_b1f6185a-7e4d-5610-a1e7-9afc438b095a.html",
+      "source": "Nny360",
+      "image": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/4/68/4687b0ba-a7d7-5913-8f5a-7348acebf7e5/6aadb100e4db7.image.jpg?crop=1748%2C918%2C0%2C133&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-09-19 05:45:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Hello world!",
+      "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+      "link": "https://standard.gm/2026/09/19/hello-world/",
+      "source": "The Standard Newspaper | Gambia",
+      "image": null,
+      "published": "2026-09-19 05:44:54",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "gambia"
+      ]
+    },
+    {
+      "title": "\u2018Delhi a terrifying daily story for women\u2019: Rahul, Priyanka slam Amit Shah over teen\u2019s gangrape-murder | India News",
+      "description": "Rahul directly questioned Shah over the responsibility for women\u2019s safety in Delhi. Priyanka Gandhi further questioned the government\u2019s response to crimes against women. NEW DELHI: Congress leaders Rahul Gandhi and...",
+      "link": "https://www.swapupdate.in/delhi-a-terrifying-daily-story-for-women-rahul-priyanka-slam-amit-shah-over-teens-gangrape-murder-india-news/",
+      "source": "Swapupdate",
+      "image": "https://static.toiimg.com/thumb/msid-134347444,imgsize-72590,width-400,height-225,resizemode-4/new-delhi-sep-15-ani-lok-sabha-lop-rahul-gandhi-and-congress-general-secreta.jpg",
+      "published": "2026-09-19 05:44:52",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

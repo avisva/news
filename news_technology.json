@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "First Responder Drones log 155 flights in first weeks",
-      "description": "New technology recently brought online by the Porterville Police Department has helped officers locate suspects, clear calls, and provide real-time information to first responders, according to a report on the program.",
-      "link": "https://www.recorderonline.com/news/first-responder-drones-log-155-flights-in-first-weeks/article_189b4a70-23c3-4d3b-aaba-80e1698de7d5.html",
-      "source": "Recorderonline",
-      "image": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/custom/image/f1bf91fa-f18c-11e7-b637-f36da3a881fa.jpg?resize=600%2C315",
-      "published": "2026-09-18 17:32:00",
+      "title": "Auto groups urge Trump to keep out Chinese vehicles ahead of Xi visit",
+      "description": "WASHINGTON \u2014 The U.S. automotive industry's top trade groups are urging President Donald Trump to \"keep the door firmly shut\" on Chinese automakers seeking to sell or build vehicles in the United States. \"Chinese automakers have zero market share in...",
+      "link": "https://www.dailygazette.com/tribune/auto-groups-urge-trump-to-keep-out-chinese-vehicles-ahead-of-xi-visit/article_c89257f4-f2fa-5781-9a78-1eef584cbe6f.html",
+      "source": "Dailygazette.com",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/0/73/073490d8-7169-5bfa-809e-2e368bcc6999/6aadba3c84663.image.jpg?resize=300%2C200",
+      "published": "2026-09-18 22:17:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump admin to host UN event on AI next week",
+      "description": "By Jennifer Hansler, CNN (CNN) \u2014 The Trump administration will convene a high-level event on artificial intelligence on the sidelines of the UN General Assembly Wednesday, multiple sources familiar with the matter tell CNN, as the issue is expected to loom large over the global gathering. The US event, to which multiple countries have been The post Trump admin to host UN event on AI next week appeared first on News Channel 3-12 .",
+      "link": "https://keyt.com/politics/cnn-us-politics/2026/09/18/trump-admin-to-host-un-event-on-ai-next-week/",
+      "source": "News Channel 3-12",
+      "image": "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg",
+      "published": "2026-09-18 22:16:57",
       "category": [
         "top",
         "technology"

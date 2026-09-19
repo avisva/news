@@ -1,19 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "B cells may play a role in triggering immunotherapy-related colitis",
-      "description": "Researchers at The University of Texas MD Anderson Cancer Center have identified a previously unknown role for B cells, which are adaptive immune cells, in triggering and sustaining colitis occurring as a side effect of immune checkpoint inhibitors, a widely used form of cancer immunotherapy.",
-      "link": "https://www.news-medical.net/news/20260918/B-cells-may-play-a-role-in-triggering-immunotherapy-related-colitis.aspx",
-      "source": "Medical News",
-      "image": "https://www.news-medical.net/image-handler/picture/2016/6/Chem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg",
-      "published": "2026-09-18 17:31:58",
+      "title": "0918_Zane_KMOV",
+      "description": "An 8-year-old named Zane was born with a limb difference, but that hasn\u2019t stopped him from playing the sports he loves.",
+      "link": "https://www.newschannel10.com/2026/09/18/boy-born-with-limb-difference-pursues-sports-dreams-with-help-shriners-childrens-hospital/",
+      "source": "Https://www.newschannel10.com",
+      "image": "https://gray-kfda-prod.gtv-cdn.com/resizer/v2//TQ57XXGALZDQRKCQO4HAUHPGA4.png?auth=5aa2ac8991501e96229113e89aa191ba2297489e3308431608b8e4db6edcdcbd&smart=true&width=1280&height=720",
+      "published": "2026-09-18 22:16:58",
       "category": [
+        "health",
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Boy born with limb difference pursues sports dreams with help from Shriners Children\u2019s",
+      "description": "An 8-year-old named Zane was born with a limb difference, but that hasn\u2019t stopped him from playing the sports he loves.",
+      "link": "https://www.kotatv.com/2026/09/18/boy-born-with-limb-difference-pursues-sports-dreams-with-help-shriners-childrens-hospital/",
+      "source": "Https://www.kotatv.com",
+      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/TQ57XXGALZDQRKCQO4HAUHPGA4.png?auth=5aa2ac8991501e96229113e89aa191ba2297489e3308431608b8e4db6edcdcbd&width=1200&height=600&smart=true",
+      "published": "2026-09-18 22:16:58",
+      "category": [
+        "top",
         "health"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Former patients reunite with staff at Memorial Rehabilitation Institute who helped them heal",
+      "description": "Over two dozen former patients of the Memorial Rehabilitation Institute reunited on Friday for the facility\u2019s 2026 Rehab Reunion. Former patients and the staff who...",
+      "link": "https://wsvn.com/news/local/broward/former-patients-reunite-with-staff-at-memorial-rehabilitation-institute-who-helped-them-heal/",
+      "source": "Wsvn 7 News",
+      "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/09/091826-Memorial-Rehabiliation-Institute-reunion.jpg?quality=60&strip=color",
+      "published": "2026-09-18 22:16:43",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

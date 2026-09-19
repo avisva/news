@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Stanford researchers release tool that turns scientific papers into AI agents",
+      "description": "Stanford researchers released Paper2Agent, a framework that turns scientific papers into interactive AI agents, successfully converting 74 of 100 computational-biology papers tested.",
+      "link": "https://completeaitraining.com/news/stanford-researchers-release-tool-that-turns-scientific/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/stanford-researchers-release-tool-that-turns-scientific-papers-into-ai-agents_2026-09-18.jpg",
+      "published": "2026-09-18 22:16:58",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

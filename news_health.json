@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Mosquitoes Test Positive For West Nile Virus In Lexington",
+      "description": "The announcement follows positive samples in several other neighboring communities this season.",
+      "link": "https://patch.com/massachusetts/lexington/mosquitoes-test-positive-west-nile-virus-lexington",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/users/22956225/20260918/074008/styles/patch_image/public/mosquito___18073948491.jpg",
+      "published": "2026-09-18 12:55:46",
+      "category": [
+        "top",
+        "crime",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

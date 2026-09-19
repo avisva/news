@@ -1,79 +1,20 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Google's Gemini AI carried out cyberattacks, guessed passwords",
-      "description": null,
-      "link": "https://timesofmalta.com/article/google-gemini-ai-carried-cyberattacks-guessed-passwords.1134343",
-      "source": "Times Of Malta",
-      "image": "https://cdn-attachments.timesofmalta.com/50201ea7c795f85010b8424924f1a38e58f02051-1789796829-0bcc13e2-1920x1280.jpg",
-      "published": "2026-09-19 05:45:00",
+      "title": "The Gates Foundation is spending $400 million on AI in schools. Teachers warn it could \u2018end up widening\u2019 the divide it\u2019s meant to close",
+      "description": "\u201cAI can support teacher expertise, but it cannot replace it,\u201d one educator told Fortune.",
+      "link": "https://fortune.com/2026/09/19/the-gates-foundation-ai-schools-teachers-warn-gap-reading-math/",
+      "source": "Fortune",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2284438101-e1789759975181.jpg?w=2048",
+      "published": "2026-09-19 08:01:00",
       "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "malta"
-      ]
-    },
-    {
-      "title": "NNPC to roll out smart self-service stations nationwide \u2014Ojulari",
-      "description": "NNPC Retail, a subsidiary of the Nigerian National Petroleum Corporation Limited (NNPC Limited), recently launched its first Smart Self Service Station in Abuja. In this interview, NNPC Limited\u2019s Group Chief Executive Officer (GCEO), Engr. Bashir Bayo Ojulari, explains the rationale behind the Smart Self Service Station and its positive impact on customers and the general [...] The post NNPC to roll out smart self-service stations nationwide \u2014Ojulari appeared first on Tribune Online .",
-      "link": "https://tribuneonlineng.com/nnpc-to-roll-out-smart-self-service-stations-nationwide-ojulari/",
-      "source": "Tribune",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/09/Bayo-Ojulari.jpg",
-      "published": "2026-09-19 05:45:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Verizon to phase out copper phone lines across New York; letter sent to customers affected",
-      "description": "Verizon may soon be removing the old-school copper wires that have connected New Yorkers to the phone system for the last 150 years.",
-      "link": "https://www.nny360.com/news/statenews/verizon-to-phase-out-copper-phone-lines-across-new-york-letter-sent-to-customers-affected/article_b1f6185a-7e4d-5610-a1e7-9afc438b095a.html",
-      "source": "Nny360",
-      "image": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/4/68/4687b0ba-a7d7-5913-8f5a-7348acebf7e5/6aadb100e4db7.image.jpg?crop=1748%2C918%2C0%2C133&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-09-19 05:45:00",
-      "category": [
-        "top",
-        "technology"
+        "technology",
+        "business"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Hello world!",
-      "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
-      "link": "https://standard.gm/2026/09/19/hello-world/",
-      "source": "The Standard Newspaper | Gambia",
-      "image": null,
-      "published": "2026-09-19 05:44:54",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "gambia"
-      ]
-    },
-    {
-      "title": "\u2018Delhi a terrifying daily story for women\u2019: Rahul, Priyanka slam Amit Shah over teen\u2019s gangrape-murder | India News",
-      "description": "Rahul directly questioned Shah over the responsibility for women\u2019s safety in Delhi. Priyanka Gandhi further questioned the government\u2019s response to crimes against women. NEW DELHI: Congress leaders Rahul Gandhi and...",
-      "link": "https://www.swapupdate.in/delhi-a-terrifying-daily-story-for-women-rahul-priyanka-slam-amit-shah-over-teens-gangrape-murder-india-news/",
-      "source": "Swapupdate",
-      "image": "https://static.toiimg.com/thumb/msid-134347444,imgsize-72590,width-400,height-225,resizemode-4/new-delhi-sep-15-ani-lok-sabha-lop-rahul-gandhi-and-congress-general-secreta.jpg",
-      "published": "2026-09-19 05:44:52",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
       ]
     }
   ]

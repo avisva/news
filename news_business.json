@@ -1,15 +1,31 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Nvidia, SK Hynix send strong signal to Micron investors",
-      "description": "Nvidia flags extreme memory pricing, and SK Hynix sees no supply balance until 2030. Here's what it signals for Micron stock ahead of Sept. 30 earnings.",
-      "link": "https://www.thestreet.com/investing/stocks/nvidia-sk-hynix-warning-memory-prices-micron-investors",
-      "source": "Thestreet",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTgyMjQw/semiconductor-hearing.jpg?profile=rss",
-      "published": "2026-09-18 22:17:00",
+      "title": "From everyday payments to stock trading: GCash shakes up local finance",
+      "description": "For decades, the local stock market has been out of reach for the average Filipino as they rarely had the disposable capital that the wealthy have to open a traditional brokerage account, much less the financial literacy needed to navigate it. Little surprise, then, that it is essentially the private domain of family conglomerates, real estate empires, institutional funds, and high-net-worth individuals. GCash, the country\u2019s leading digital wallet with more than 90 million registered users, is working to change that trajectory. Through its in-app brokerage feature, GStocks PH, GCash has evolved from a tool for everyday spending into a major force democratizing equity ownership\u2014allowing users to trade Philippine stocks directly from their smartphones. Since its launch three years ago, GStocks PH has already onboarded 1.7 million users, representing around 53 percent of all online retail stock market accounts in the country today. With the upcoming record-breaking listing of GCash parent Globe Fintech Innovations Inc. (Mynt), the platform places a massive financial opportunity within reach of everyday Filipinos who once stood on the sidelines. Mynt is currently preparing for what is set to become the country\u2019s largest initial public offering (IPO), aiming to raise up to \u20b192.3 billion and surpass every previous listing record on the Philippine Stock Exchange (PSE). The debut will bring one of the most successful homegrown fintech stories to the public board, following Mynt\u2019s rise as the country\u2019s first and only $5 billion unicorn. The company plans to offer up to 8.03 billion primary and secondary common shares at an indicative maximum price of \u20b110 each. The base offer represents about 12 percent of the company, with the potential to rise to 13.8 percent through an overallotment option. PSE President and Chief Executive Officer (CEO) Ramon Monzon expects the upcoming debut of Mynt on Oct. 20 to drive strong market activity in an otherwise subdued year for the local bourse. \u201cConsidering that the IPO subscription will also be made available through GStocks in the GCash app, we expect to see a significant uptick in new retail investors,\u201d said Monzon in a statement. By pairing a landmark public listing with an app already installed on tens of millions of phones, Mynt is creating a clear runway to cultivate an entirely new generation of Filipino investors through GStocks PH. Still, the debut arrives against a cautious economic backdrop, with the country\u2019s gross domestic product (GDP) growing just 2.3 percent in the second quarter, which is a sharp drop from 5.4 percent in the same period last year. Headline inflation, meanwhile, is projected to average 6.1 percent for the year, well above the Bangko Sentral ng Pilipinas\u2019 (BSP) 2.0 to 4.0 percent target. Rising fuel prices, driven by renewed tensions in the Middle East, are also lifting domestic logistics costs and adding pressure on businesses and consumer's wallets. As a result, any decision to subscribe to the IPO will require standard fundamental analysis, particularly of how Mynt manages user retention, navigates heightened regulatory oversight, and defends its margins against competing digital banks and wallet providers. Yet for millions of everyday users nationwide, taking part in the listing means something more personal, as it gives them access to a stake in the primary financial engine that has turned the country\u2019s digital financial inclusion aspirations into a genuine reality. This direct access to the local stock market is rewriting the broader narrative of the corporate landscape. What was once the private domain of the ultra-wealthy is slowly opening up to everyday Filipinos\u2014right in the palm of their hands.",
+      "link": "https://mb.com.ph/article/10936665/business/the-stock-market/from-everyday-payments-to-stock-trading-gcash-shakes-up-local-finance",
+      "source": "Manila Bulletin",
+      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/09/19/132578.webp",
+      "published": "2026-09-19 02:09:00",
       "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Berkeley Landlord Doubles Unit Count in New Plan for Southside Backyard Complex",
+      "description": "United Land Power Inc. proposes eight units behind two Victorian homes at 2336 Dwight Way in Berkeley's Southside, up from an earlier three-unit plan.",
+      "link": "https://hoodline.com/2026/09/berkeley-landlord-doubles-unit-count-in-new-plan-for-southside-backyard-complex/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/9/berkeley-landlord-doubles-unit-count-in-new-plan-for-southside-backyard-complex.webp",
+      "published": "2026-09-19 02:08:32",
+      "category": [
+        "top",
         "business"
       ],
       "country": [
@@ -17,17 +33,18 @@
       ]
     },
     {
-      "title": "JPMorgan sends stark warning on $100 oil",
-      "description": "JPMorgan Chase says it cannot model the Iran conflict\u2019s endgame, with oil above $100 and remaining inventories offering only temporary relief.",
-      "link": "https://www.thestreet.com/latest-news/jpmorgan-oil-supply-warning",
-      "source": "Thestreet",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTgxNTYw/pumpjack.jpg?profile=rss",
-      "published": "2026-09-18 22:17:00",
+      "title": "Maha to set up task forces to seize assets of troubled credit societies",
+      "description": "The move comes after authorities reported difficulties in taking possession of properties and putting them up for auction, even after liability was fixed against around 1,949 directors, officials and employees under section 88 of the Maharashtra Cooperative Societies Act, 1960",
+      "link": "https://www.hindustantimes.com/cities/mumbai-news/maha-to-set-up-task-forces-to-seize-assets-of-troubled-credit-societies-101789754869856.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/-p-Maha-to-set-up-task-forces-to-seize-assets-of-t_1789754867799_Qqwn.jpg",
+      "published": "2026-09-19 02:08:00",
       "category": [
+        "top",
         "business"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     }
   ]

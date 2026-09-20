@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "AI cloud provider Nscale files for US IPO",
+      "description": "Nscale, a cloud provider that specializes in infrastructure for artificial intelligence (AI) models, has filed to go public on the New York Stock Exchange.",
+      "link": "https://www.newsbytesapp.com/news/business/ai-cloud-firm-nscale-files-for-us-ipo/story",
+      "source": "Newsbytes",
+      "image": "https://i.cdn.newsbytesapp.com/images/l271_46311789819244.jpg",
+      "published": "2026-09-19 12:36:43",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

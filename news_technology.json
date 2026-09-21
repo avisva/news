@@ -1,20 +1,108 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Label Traxx new features | Amtech at Loupe Americas 2026",
-      "description": "In this interview, recorded at Loupe Americas 2026 in Chicago, Grant Emison, head of label products at Amtech Software, explains three new developments for Label Traxx, the company's software for label converters. The track and trace module treats rolls taken off a press as serialized inventory, shows ticket progress and traces a quality problem from a finished roll back to its source and forward to affected customers. Visual analytics, already used by hundreds of Amtech corrugated customers, brings label converters editable dashboards and scheduled reports.",
-      "link": "http://www.labelsandlabeling.com/video/loupe-formerly-labelexpo/label-traxx-new-features-amtech-loupe-americas-2026",
-      "source": "Labelsandlabeling",
+      "title": "\u6700\u65b0iPhone\u3092\u8cb7\u3063\u305f\u3089\u63c3\u3048\u305f\u3044!\u30ef\u30c3\u30c8\u6570\u3066\u3099\u9078\u3075\u3099\u3001\u304a\u3059\u3059\u3081AC\u30a2\u30bf\u3099\u30d5\u309a\u30bf\u30fc\u30106\u9078\u3011 - contents.online.nojima.co.jp",
+      "description": "\u6700\u65b0iPhone\u3092\u8cb7\u3063\u305f\u3089\u63c3\u3048\u305f\u3044!\u30ef\u30c3\u30c8\u6570\u3066\u3099\u9078\u3075\u3099\u3001\u304a\u3059\u3059\u3081AC\u30a2\u30bf\u3099\u30d5\u309a\u30bf\u30fc\u30106\u9078\u3011 contents.online.nojima.co.jp \u3010\u3084\u3057\u3099\u3046\u307e\u30df\u30cb\u30ec\u30d2\u3099\u30e5\u30fc\u3011\u65e7iPhone 5W\u30a2\u30bf\u3099\u30d5\u309a\u30bf\u3068\u307b\u307b\u3099\u540c\u30b5\u30a4\u30b9\u3099\u3002UGREEN 45W\u5145\u96fb\u5668\u304b\u3099\u9b3c\u3061\u3063\u3061\u3083\u3044 PC Watch \u3010Amazon\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u3011UGREEN 300W 8\u30db\u309a\u30fc\u30c8\u5145\u96fb\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\u304b\u309924%\u30aa\u30d5\u306e19,740\u5186 AppBank",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUWJFdkR4Uk1fU25ra2RieEJDOTBVbmtGWENIdkQtT1U2ZzRXRDJTaktsWkxXMzRiUERXQlRMR2EzWDJvY0J5cEdFWks0bnBXYU51clRTSWEyUGc0M05aMWt6aw?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-09-21 00:21:14",
+      "published": "2026-09-21 06:26:57",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "Apple Bets on iPhone as the Hub of Its Artificial Intelligence Future",
+      "description": "Apple\u2019s artificial intelligence strategy is increasingly being built around a device millions of users already carry every day\u2014the iPhone. The message was reinforced by Apple Chief Executive Officer John Ternus during his first major keynote as CEO, where he outlined what he described as the ideal device for an AI-powered future before revealing that the company already has such a product. Speaking at Apple\u2019s Surprise and Shine event on September 9, 2026, Ternus asked the audience to imagine designing an AI device from the ground up. Such a product, he said, would need an always-on internet connection, a sufficiently large display, high-quality cameras and microphones, long battery life and the ability to work seamlessly with other devices without requiring users to learn an entirely new system. The description sounded, at first, like a preview of a new Apple product. According to Bloomberg technology journalist Mark Gurman in his latest Power On newsletter, some people within Apple also believed the presentation was leading towards the unveiling of a new home-focused AI hub. Instead, Ternus turned the argument back towards the company's most familiar product. \u201cIn other words, you would arrive at something remarkably familiar, because there's no product in the world better designed to be your intelligent personal hub than iPhone.\u201d The statement reflects a broader shift in how Apple is positioning its smartphone. Rather than treating artificial intelligence as a feature added to the iPhone, the company increasingly appears to view the device as the central piece of an AI ecosystem that will eventually include glasses, earbuds and other connected hardware. Why the iPhone matters to Apple's AI strategy Apple's timing is significant. The company is facing growing competition from rivals developing AI-first hardware and services. OpenAI, for example, has been working with former Apple design chief Jony Ive on new AI hardware since 2025. Apple has yet to introduce a completely new mobile product capable of replacing the iPhone as the centre of its ecosystem. That makes the existing smartphone an important foundation for the company's next phase of AI development. Reports indicate that OpenAI's first dedicated device may not arrive before February 2027, with the product reportedly expected to resemble a smart speaker with a camera rather than a direct replacement for the smartphone. That leaves Apple with considerable time to develop its existing hardware-and-software ecosystem while positioning the iPhone as the device through which users interact with its AI services. Apple's own description of the iPhone 18 Pro reinforces that strategy, referring to the smartphone as an \u201cintelligent personal hub\u201d while emphasising privacy and security. Apple and Samsung are pursuing similar ideas Apple is not alone in attempting to make the smartphone the centre of an individual's AI experience. Samsung has taken a similar approach with the Galaxy S26 Ultra, while Google's Pixel range has increasingly incorporated Gemini features designed to work with users' personal information and broader digital activities. The competition, therefore, is no longer simply about which company has the most capable smartphone. It is increasingly about which ecosystem can make artificial intelligence useful across the devices people already use. Apple has one potentially significant advantage: distribution. If AI features are built directly into iPhones and enabled by default, Apple can put its technology in front of an enormous existing user base without requiring consumers to download a separate application or purchase a new category of hardware. That could give Apple an important route to mass adoption of its AI services, even as competitors continue developing dedicated AI devices. The technology behind Apple's AI hub The company's argument is not based entirely on marketing. Apple has designed its AI architecture so that some requests can be processed directly on an iPhone using a relatively small on-device model. More demanding tasks can then be transferred to Apple's Private Cloud Compute system. Private Cloud Compute uses Apple silicon-based servers to process more complex requests while being designed so that the company does not retain the user's request after processing. The approach gives the iPhone two important capabilities: it can handle AI tasks locally when possible while also having access to substantially greater computing resources when a request requires them. That combination helps explain why Apple can present the smartphone as an AI hub. The device already contains the processor, wireless connectivity, battery, cameras, microphones and display needed to serve as the central point of interaction. Other emerging devices, including smart glasses, do not yet have the same combination of capabilities or battery capacity. Apple's AI infrastructure has outside links There is, however, another part of Apple's AI strategy that has received less attention. Apple's June announcement confirmed that Private Cloud Compute would also extend onto Google Cloud. The company has also said its current Apple Foundation Models were developed using technologies associated with Gemini. The development illustrates the increasingly complicated nature of the AI race. Even as Apple, Google and other technology companies compete over AI products and platforms, their underlying infrastructure and technologies can overlap in unexpected ways. For consumers, the important issue is likely to be how effectively those technologies are integrated rather than where every individual AI computation takes place. Future Apple devices may depend on the iPhone The iPhone's role could become even more important as Apple introduces additional AI-enabled hardware. Smart glasses reportedly expected from Apple are designed to work with an iPhone, while camera-equipped AirPods are also expected to rely on the smartphone as part of their functionality. That means Apple's emerging device strategy appears less focused on replacing the iPhone than on extending its capabilities into other products. Rather than each device operating as an independent computer, the iPhone could serve as the central processor, communications link and personal-data gateway connecting the wider Apple ecosystem. For consumers hoping that a future pair of smart glasses might allow them to leave the iPhone behind, that transition may still be several years away. The bigger challenge is Siri Apple's hardware gives it a strong foundation, but the success of the strategy will ultimately depend on software. The company has been under pressure to improve Siri and make its AI capabilities competitive with products such as Google's Gemini. Earlier testing of Apple's AI assistant found it lagging behind Gemini in some areas, including reliability issues that caused the assistant to stop responding in the middle of a request. That leaves Apple with a paradox: it already has the physical device that could serve as the centre of an AI ecosystem, but its software must become capable enough to justify that role. Ternus's argument is therefore less about introducing an entirely new AI gadget and more about transforming an existing product into the foundation for a broader computing platform. The iPhone already has the connectivity, computing power, battery, sensors and ecosystem connections required for the job. The remaining question is whether Apple's AI software can make that hardware feel as indispensable for artificial intelligence as the company believes the device itself already is. For now, Apple's message is clear: the future of its AI strategy is not necessarily a new device sitting beside the iPhone. It may be the iPhone itself.",
+      "link": "http://www.brandiconimage.com/2026/09/apple-bets-on-iphone-as-hub-of-its.html",
+      "source": "Brand Icon Image - Latest Brand, Tech And Business",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoqTnUSKeyMD4Kwkrd3O_Pk4axtSiZTxU5hl7VpnmrwMmoc_zSDV05I9eRmK-xhV4T-zlL9Hg03N4oMlSbh5yg-pCExeYwOZCgf5G-AQs2bSYbsPmBLEOK5iJl87AoILt6yJCWsmVH2gCuPBbe10EWhFRkVTocxcucSIZvtmgFYw4YIB0UxQa4M3qI778/s72-c/1001017447.jpg",
+      "published": "2026-09-21 06:26:55",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "india"
+      ]
+    },
+    {
+      "title": "Dentsu Hackathon 2026 | Hiring Challenge \u2013 Engineering Students & Freshers",
+      "description": "<p>The post Dentsu Hackathon 2026 | Hiring Challenge \u2013 Engineering Students & Freshers first appeared on Job4freshers .</p>",
+      "link": "https://job4freshers.co.in/dentsu-hackathon-freshers/",
+      "source": "Job4freshers",
+      "image": "https://job4freshers.co.in/wp-content/uploads/2026/09/Off-Campus-Recruitment-Drive-2026-09-21T115243.230.webp",
+      "published": "2026-09-21 06:26:53",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Customer Carelessness",
+      "description": "A system created for consumer grievance resolution risks becoming an avenue of protracted justice\u2014where the only thing successfully delivered is \u201cdelay\"",
+      "link": "https://www.asianage.com/360-degree/customer-carelessness-1989207",
+      "source": "The Asian Age",
+      "image": "https://www.asianage.com/h-upload/2026/09/21/2091373-9b6ed172-b8a9-40a4-a20d-262dea1a7679.webp",
+      "published": "2026-09-21 06:26:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Lagos alerts motorists against fake traffic fine messages, malicious links",
+      "description": "The Lagos State Ministry of Transportation has alerted motorists and members of the public against fraudulent text messages and malicious online links falsely accusing recipients of traffic violations. The ministry, in a public advisory, urged residents to exercise caution when receiving unsolicited messages relating to traffic offences, warning them against clicking on unverified links, sharing [...] Lagos alerts motorists against fake traffic fine messages, malicious links",
+      "link": "https://dailypost.ng/2026/09/21/lagos-alerts-motorists-against-fake-traffic-fine-messages-malicious-links/",
+      "source": "Daily Post",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/05/Lagos-bus-1-1200x800.jpg",
+      "published": "2026-09-21 06:26:47",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Krungthai Card is expected to report a net profit of $63.04m (THB2.1b) in Q3 2026, up 9% year-on-year (YoY) but lower by 5% than the previous quarter, according to estimates by UOB Kay Hian",
+      "description": "The Entire Business World on a Single Page with the Web's Most Comprehensive One-Stop Finance News Hub.",
+      "link": "https://biztoc.com/x/59586a5a7f2ea2f8",
+      "source": "Biztoc",
+      "image": "https://biztoc.com/cdn/996/og.png",
+      "published": "2026-09-21 06:26:44",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kalshi faces \u2018fake crypto volume\u2019 allegations as critic flags identical $5,500 trades",
+      "description": "Kalshi faces \u2018fake crypto volume\u2019 allegations as critic flags identical $5,500 trades Kalshi clarified that its inflated headline volume stems from an industry-wide convention tracking maximum potential payouts rather than actual cash spent, emphasizing its public regulatory filings ensure...",
+      "link": "https://biztoc.com/x/425c9df248370066",
+      "source": "Biztoc",
+      "image": "https://cdn.biztoc.com/425c9df248370066_s.webp",
+      "published": "2026-09-21 06:26:41",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

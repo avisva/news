@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Multispecialty Medical Camp Conducted at PHC Baratang",
+      "description": "Baratang, September 19, 2026: A multispecialty medical camp was successfully conducted at the Primary Health Centre (PHC), Baratang,",
+      "link": "https://andamansheekha.com/163098/",
+      "source": "Andamansheekha",
+      "image": null,
+      "published": "2026-09-20 17:56:28",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

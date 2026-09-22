@@ -1,5 +1,78 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 5,
+  "results": [
+    {
+      "title": "'It's my home': the decision that drove Hartley's return to Golden Square",
+      "description": "One of Golden Square's 2023 premiership heroes returns to club.",
+      "link": "https://www.bendigoadvertiser.com.au/story/9354838/ryan-hartley-seals-golden-square-return-for-2027-bfnl-season/?src=rss",
+      "source": "Bendigo, Vic",
+      "image": "https://www.bendigoadvertiser.com.au/images/transform/v1/crop/frm/G3M3FqVFYHjdnjXX9zgHHX/7b9e8d8f-0c19-4988-8049-7d27814acc08.jpg/r0_43_2237_1303_w600_h338_fmax.jpg",
+      "published": "2026-09-22 01:04:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "No. 16 Louisville looks to stay on winning streak against Wake Forest",
+      "description": "No. 16 UofL is back at home this weekend for another ACC matchup, this time hosting Wake Forest.",
+      "link": "https://www.wlky.com/article/uofl-football-wake-forest-preview-how-to-watch/73828386",
+      "source": "Wlky",
+      "image": "https://hips.hearstapps.com/htv-prod/images/4afd656c-bb5d-45ba-9365-65629c0d0fa2.png",
+      "published": "2026-09-22 01:04:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Giants WR Malik Nabers questionable to return vs. Rams with shoulder injury",
+      "description": "Giants WR Malik Nabers had to leave Monday's game against the Rams with an apparent injury.",
+      "link": "https://sny.tv/articles/giants-wr-malik-nabers-questionable-return-vs-rams-shoulder-injury",
+      "source": "Sports New York",
+      "image": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/blt6931f9e2287876f8/6ab1d1da58e0685b19881912/MalikNabers.JPG?fit=bounds&width=1920&height=1080",
+      "published": "2026-09-22 01:03:48",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Infantino proposes consulting federations to reform FIFA",
+      "description": "The consultation would cover transparency, participation and accountability within FIFA",
+      "link": "https://tribune.com.pk/story/2630739/infantino-proposes-consulting-federations-to-reform-fifa",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/img-29901790057114-0/img-29901790057114-0-640x480.webp",
+      "published": "2026-09-22 01:03:47",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    },
+    {
+      "title": "DFW-based movie theater chain Cinemark announces partnership with Dallas Cowboys",
+      "description": "Cinemark partners with the Dallas Cowboys, offering fan-themed activations and branding at AT&T Stadium and theaters, enhancing shared entertainment experiences.",
+      "link": "https://www.wfaa.com/article/news/entertainment-news/dfw-based-movie-theater-chain-cinemark-announces-partnership-with-dallas-cowboys/287-f6db4a19-f60c-4697-b904-f361ad03d603",
+      "source": "Wfaa",
+      "image": "https://media.tegna-media.com/assets/WFAA/images/f2287866-ef02-48db-b6ec-5073fa8c0639/20260922T003331/f2287866-ef02-48db-b6ec-5073fa8c0639_750x422.jpg",
+      "published": "2026-09-22 01:03:40",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

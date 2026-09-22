@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Prince Harry and Meghan Markle's 'prima donna' moment that 'angered' Prince William",
+      "description": "The couple's actions reportedly didn't go down well with the Prince of Wales.",
+      "link": "https://www.express.co.uk/news/royal/2242415/prince-harry-meghan-markle-prince-william",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/106/237x141/2242415_1.jpg",
+      "published": "2026-09-22 01:04:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Book review - 'Incredibly Fast and Not at All Fun'",
+      "description": "Ever wonder how the first rollercoaster was invented? According to \u201cIncredibly Fast and Not at All Fun\u201d by Tadgh Bentley, it was created almost entirely by accident. Bear wants a fast and easy way to get to his beehives. So...",
+      "link": "https://www.register-herald.com/news/life/book-review---incredibly-fast-and-not-at-all-fun/article_55f4778e-ea0d-4956-8583-e509462e0f96.html",
+      "source": "Register-herald",
+      "image": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/bc/2bc8bef1-f48b-481a-be98-945b0ff68860/6ab1727355656.image.jpg?resize=300%2C365",
+      "published": "2026-09-22 01:04:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

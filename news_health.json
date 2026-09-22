@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Diabetes in Toronto: Understanding the Risk, the Reality, and the Path Forward",
+      "description": "Diabetes is a chronic condition in which the body cannot properly regulate blood sugar, either because it does not produce insulin (type 1) or cannot use insulin effectively (type 2). In Toronto and across Ontario, diabetes has become a growing public health challenge. As of 2024, 11% of Ontarians live with diagnosed diabetes, rising to 15% when undiagnosed... Read More \u00bb",
+      "link": "http://www.balita.ca/diabetes-in-toronto-understanding-the-risk-the-reality-and-the-path-forward/",
+      "source": "Balita",
+      "image": null,
+      "published": "2026-09-21 19:17:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    }
+  ]
 }

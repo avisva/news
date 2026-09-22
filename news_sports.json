@@ -1,52 +1,62 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "England Q&A! Send in your questions to be answered live on SSN!",
-      "description": "England football news: Live updates, schedule and analysis of Thomas Tuchels Three Lions",
-      "link": "https://www.skysports.com/football/live-blog/12040/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "source": "Sky Sports",
-      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
-      "published": "2026-09-22 08:55:00",
+      "title": "ONE Championship: Antonia Prifti wants Phetjeeja title shot rebooked after debut win",
+      "description": "Greece\u2019s Antonia Prifti wants her cancelled title shot against Phetjeeja Lukjaoporongtom rebooked after winning her ONE Championship debut.",
+      "link": "https://www.bangkokpost.com/sports/3324213/one-championship-antonia-prifti-wants-phetjeeja-title-shot-rebooked-after-debut-win",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.comhttps//static.bangkokpost.com/media/content/20260922/6237805.jpg",
+      "published": "2026-09-22 11:29:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america",
-        "ireland",
-        "australia",
+        "thailand"
+      ]
+    },
+    {
+      "title": "Roy Keane refuses to apologise to Andy Robertson after backlash to controversial comments",
+      "description": "Roy Keane branded Andy Robertson a 'big baby' on Sky Sports.",
+      "link": "https://www.express.co.uk/sport/football/2250722/roy-keane-apologise-andy-robertson",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/67/237x141/2250722_1.jpg",
+      "published": "2026-09-22 11:29:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Black Stars mentally prepared for Co\u0302te d\u2019Ivoire clash - Kwasi Sibo",
-      "description": "Black Stars midfielder Kwasi Sibo says the team is mentally prepared for the upcoming Africa Cup of Nations (AFCON) qualifier against Co\u0302te d\u2019Ivoire.",
-      "link": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Black-Stars-mentally-prepared-for-C-te-d-Ivoire-clash-Kwasi-Sibo-2053213",
-      "source": "Ghana Web",
-      "image": "https://cdn.ghanaweb.com/imagelib/src/kwasi_sibo.jpeg",
-      "published": "2026-09-22 08:54:56",
+      "title": "Rays' new road uniforms: 'Tampa Bay' is back",
+      "description": "When the Rays take to the field Tuesday, they\u2019ll do so looking to claim the AL East crown. And also do it wearing \u2018Tampa Bay\u2019 on their uniforms.",
+      "link": "http://www.baynews9.com/fl/tampa/news/2026/09/22/rays--new-road-uniforms---tampa-bay--is-back-",
+      "source": "Spectrum Bay News 9",
+      "image": "https://s7d2.scene7.com/is/image/TWCNews/Rays_gray_unis_Caminero",
+      "published": "2026-09-22 11:29:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "ghana"
+        "argentina"
       ]
     },
     {
-      "title": "Sumit Kundu enters Asian Games boxing pre-quarters",
-      "description": "Indian boxer Sumit Kundu made a confident start to his Asian Games campaign, defeating Thailand\u2019s experienced Bunjong Sinsiri by a unanimous 5-0 decision in the opening round of the men\u2019s 70kg category in The post Sumit Kundu enters Asian Games boxing pre-quarters appeared first on News Today | First with the news .",
-      "link": "https://newstodaynet.com/2026/09/22/sumit-kundu-enters-asian-games-boxing-pre-quarters/",
-      "source": "News Today",
-      "image": "https://newstodaynet.com/wp-content/uploads/2026/09/s3-3.jpg",
-      "published": "2026-09-22 08:54:53",
+      "title": "Who is Tatiana Prozorova? Alex Eala's Round of 16 foe at Singapore Tennis Open",
+      "description": "Alex Eala is back in action, opening her Asian swing campaign in the Singapore Tennis Open Round of 16 against a foe familiar to Filipino fans.",
+      "link": "https://www.gmanetwork.com/news/sports/othersports/1003316/who-is-tatiana-prozorova-alex-eala-s-round-of-16-foe-at-singapore-tennis-open/story/",
+      "source": "Gma News Online",
+      "image": "https://images.gmanews.tv/webpics/2026/09/TATIANA_PROZOROVA_2026_09_22_19_23_17.jpg",
+      "published": "2026-09-22 11:29:00",
       "category": [
-        "top",
         "sports"
       ],
       "country": [
-        "india"
+        "philippines"
       ]
     }
   ]

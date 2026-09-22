@@ -1,20 +1,63 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Microscale Announces Build Nigeria 2026 Hardware Challenge",
-      "description": "Microscale opens Build Nigeria 2026 tonight, a national hardware challenge...",
-      "link": "https://techpoint.africa/brandpress/microscale-announces-build-nigeria-2026-hardware-challenge/",
-      "source": "Techpoint Africa",
-      "image": null,
-      "published": "2026-09-21 10:24:59",
+      "title": "Pace Digitek Secures \u20b9488 Crore NTPC GE BESS Order, Strengthens Storage Business",
+      "description": "Pace Digitek secured a \u20b9488.46 crore BESS order from NTPC GE Power Services as it scales battery storage manufacturing capacity to 10 GWh by FY27.",
+      "link": "https://www.5paisa.com/blog/pace-digitek-secures-rs488-crore-bess-order-from-ntpc-ge-power-services-expands-energy-storage",
+      "source": "5paisa",
+      "image": "https://storage.googleapis.com/5paisa-prod-storage/files/2026-09/manufacturing2_2_0.webp",
+      "published": "2026-09-21 13:25:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Lava Virat Curve 5G launched with 6000mAh battery, Check Specs",
+      "description": "Lava's new Virat Curve 5G combines a 6.67-inch curved AMOLED display, 6000mAh battery and a unique rear Mini Display with a Dimensity 7100 chipset, 50MP Sony camera and Android 16. The phone starts at \u20b923,999.",
+      "link": "https://www.newsbricks.com/technology/lava-virat-curve-5g-india-launch-specs-price",
+      "source": "Newsbricks",
+      "image": "https://img.newsbricks.com/news-images/2026/09/newsart7870/lava-virat-curve-5g-hd-7870.webp",
+      "published": "2026-09-21 13:25:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "nigeria"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What's Your Favorite Volvo?",
+      "description": "The Swedish automaker has made so many amazing cars over its 99-year history, but we want to know about which Volvo you love most.",
+      "link": "https://www.jalopnik.com/2263012/whats-your-favorite-volvo-reader-question/",
+      "source": "Jalopnik",
+      "image": "https://www.jalopnik.com/img/gallery/whats-your-favorite-volvo/l-intro-1789769190.jpg",
+      "published": "2026-09-21 13:25:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "New all-glass iPhone 20 Pro rumor reveals another design change - 9to5Mac",
+      "description": "New all-glass iPhone 20 Pro rumor reveals another design change 9to5Mac If You Find the iPhone 18 Pros Boring, You\u2019re Gonna Love the 20th Anniversary iPhone Gizmodo iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch MacRumors Apple may skip the iPhone 19 entirely: Here\u2019s why Gulf Business iPhone 20 Pro screen resolution detailed in new leak AppleInsider",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUFDR3F0TGFWeW0td3FuMjRfc25USEozRkRTWklVODVvbVZKZWswdEstdWxVdVlhdFI2N2NhQ3JHa044WE1RWUxpR3c5RUp1cXNXaWZCVUFZT0FTYWRReWU1dXBuTnRYRnZoTmlzRXZxcmlrTHE4VVZ6SWhKNXlYU1F2V1VWeFRCdzhFRA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-09-21 13:25:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

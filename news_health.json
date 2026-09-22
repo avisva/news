@@ -1,22 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Advita Ortho Introduces Axis, a Surgeon Resource for Clinical Research",
-      "description": null,
-      "link": "https://www.biospace.com/press-releases/advita-ortho-introduces-axis-a-surgeon-resource-for-clinical-research",
-      "source": "Biospace",
-      "image": "https://static.biospace.com/dims4/default/d32393a/2147483647/strip/true/crop/1120x630+40+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-biospace.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F88%2Fa9fddaf440db946b77e1d45d2e26%2Fbiospace-5.png",
-      "published": "2026-09-22 01:03:50",
-      "category": [
-        "top",
-        "health",
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

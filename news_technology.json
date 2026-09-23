@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Can Rising Adoption of Agentic AI Accelerate NET's Revenue Growth?",
-      "description": "Cloudflare's surging AI-agent traffic, Workers adoption and new monetization tools can help accelerate revenue growth as its market expands.",
-      "link": "https://qz.com/can-rising-adoption-of-agentic-ai-accelerate-net-s-revenue-growth",
-      "source": "Quartz",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png",
-      "published": "2026-09-22 21:03:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

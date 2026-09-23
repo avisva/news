@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "House Democrats introduce legislation requiring CISA to assess workforce, resource needs",
+      "description": "Democrats on the House Homeland Security Committee have introduced legislation to require the Cybersecurity and Infrastructure Security Agency to produce an assessment of agency\u2019s ability to carry out its mission with current staffing levels and resources. \u201cAs cyber threats grow more sophisticated and technologies like artificial intelligence and quantum computing reshape the threat landscape, Congress needs a clear accounting of whether CISA has the workforce, skills, and resources required to keep Americans safe and enable mission delivery. This legislation will identify critical gaps and give Congress concrete information to address them,\u201d Rep. James Walkinshaw (D-VA) said in a Sept. 21 release on the bill. Walkinshaw introduced the CISA Force Structure Assessment Act on Sept. 21. The bill is co-sponsored by House Homeland Security ranking member Bennie Thompson (D-MS) and cyber subcommittee Chairwoman Delia Ramirez (D-IL). The bill tasks the CISA Director with producing a \u201cforce structure assessment\u201d on the ability of the agency to carry out its mission and to produce recommendations for the House and Senate Homeland Security Committees to address gaps. CISA was tasked with producing a force assessment in the fiscal 2021 National Defense Authorization Act . That assessment required CISA to evaluate its capabilities and identify gaps where the agency needs more resources and was a priority for former Rep. Jim Langevin (D-RI), who as a significant voice on Capitol Hill for cybersecurity issues. Langevin was a member of the Cyberspace Solarium Commission, which advocated for the 2021 NDAA review and a number of other provisions in the major defense policy law to strengthen CISA. Walkinshaw\u2019s bill builds on the NDAA provision by outlining requirements for CISA to provide information on the \u201cresources and total number of personnel necessary to carry out the mission of CISA, including an assessment of whether all personnel have the needed training and accredited, industry-recognized certifications for existing work roles,\u201d according to the bill text. The legislation would require the CISA Director to provide details on the number of personnel and resources needed to carry out specific responsibilities, including securing federal information systems, support for state and local governments and risks associated with emerging technologies. The bill also requires CISA to assess the workforce and resources the agency needs to provide support for critical infrastructure and operational technology systems, perform threat hunting and engage with international partners, as a part of the force structure assessment. CISA would be required to consult with critical infrastructure owners and operators, federal partners, state and local governments and information-sharing organizations when producing the assessment, according to the bill text. The legislation comes as Democrats have raised concerns over CISA\u2019s workforce reductions since the beginning of the second Trump administration. Walkinshaw led an Aug. 20 letter urging the Government Accountability Office to produce a report on CISA\u2019s workforce cuts since January 2025. Thompson said in a statement, \u201cAfter Trump has spent the past two years targeting and slashing CISA\u2019s workforce, we need the agency to assess if it has right personnel in place to fulfill its mission.\u201d CISA provided details to Thompson in January on the agency\u2019s workforce numbers from Jan. 20, 2025 to Dec. 13, 2025. The chart showed the number of employees dropped from 3,387 employees to 2,389 individuals in the first year of the second Trump administration. CISA announced a hiring spree in June to bring on 329 employees and give out 180 job offers by the end of June. CISA Acting Director Nick Andersen provided an update on a Sept. 9 fireside chat at the Billington Cybersecurity Summit. \u201cWe've got at least 250 people sitting in the wings right now with tentative job offers,\u201d Andersen said at the time, who are just waiting for an official start date while going through the security clearance process. -- Jaden Beard (jbeard@iwpnews.com) Article Type: Daily News Jaden Beard tags: workforce Weight: -20",
+      "link": "https://insidecybersecurity.com/daily-news/house-democrats-introduce-legislation-requiring-cisa-assess-workforce-resource-needs",
+      "source": "Insidecybersecurity",
+      "image": null,
+      "published": "2026-09-23 10:02:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "HEALWELL AI: HEALWELL Expands SMART Summary AI Deployment Across New Brunswick",
+      "description": "HEALWELL AI, through its subsidiary Intrahealth Canada Limited (\"Intrahealth\"), has deployed SMART Summary across New Brunswick, delivering AI-powered clinical summarization directly within Profile...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69653969-healwell-ai-healwell-expands-smart-summary-ai-deployment-across-new-brunswick-296.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://images.newsfilecorp.com/files/10020/315597_e4bfbd171480da63_logo.jpg",
+      "published": "2026-09-23 10:02:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "germany"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Feeling lonely at work? How often you see your colleagues may matter",
+      "description": "In a nationally representative sample of 7,798 employees in Germany aged 25 to 65, about 26% reported lacking companionship from colleagues, 17% felt excluded, and 8% felt lonely at work at least sometimes. Less frequent direct contact with colleagues was consistently associated with all three facets of workplace loneliness, although the cross-sectional study cannot establish cause and effect.",
+      "link": "https://www.news-medical.net/news/20260923/Feeling-lonely-at-work-How-often-you-see-your-colleagues-may-matter.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_847420_17901461289355423.jpg",
+      "published": "2026-09-23 06:49:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

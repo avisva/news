@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Aastha Kunj Park Security Lapses Exposed After Horrific Incident",
-      "description": "Aastha Kunj Park in southeast Delhi is under intense scrutiny following the alleged gangrape of a 17-year-old girl by men posing as police personnel. The incident has brought to light significant security deficiencies, including broken boundary walls, unmanned gates, and poor lighting, raising serious concerns about public safety in the sprawling green space.",
-      "link": "https://www.rediff.com/news/report/aastha-kunj-park-gangrape-security-lapses-exposed/20260922.htm",
-      "source": "Rediff",
-      "image": "https://im.rediff.com/1600-900/news/2026/sep/sexual-offence-case-file-investigation-unit-1.png",
-      "published": "2026-09-22 15:17:58",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

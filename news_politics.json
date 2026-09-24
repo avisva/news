@@ -1,65 +1,49 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "In defiant speech, Pezeshkian calls out Trump and says Iran will fight 'until our last breath' (Farnoush Amiri/Associated Press)",
-      "description": "Farnoush Amiri / Associated Press : In defiant speech, Pezeshkian calls out Trump and says Iran will fight \u2018until our last breath\u2019 \u2014 Iran's president said Wednesday that his people have been \u201cvictims of terrorism\u201d by the United States, delivering a rare wartime speech at the U.N. General Assembly a day after President Donald Trump said he may ...",
-      "link": "https://www.memeorandum.com/260923/p97",
-      "source": "Memeorandum",
-      "image": null,
-      "published": "2026-09-23 19:10:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trump invites Putin to G20 summit in Miami",
-      "description": "Trump is insisting that he is working with both sides to stop the war. File photo: AFP",
-      "link": "https://timesofmalta.com/article/trump-invites-putin-g20-summit-miami.1134540",
-      "source": "Times Of Malta",
-      "image": "https://cdn-attachments.timesofmalta.com/64f9661d8c22845c6cc243de649bae0a0175ec74-1790191012-ea4adeb5-1920x1280.jpg",
-      "published": "2026-09-23 19:10:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "malta"
-      ]
-    },
-    {
-      "title": "Former Philly labor leader John 'Johnny Doc' Dougherty was a longtime Democratic power broker. But his ties to some Republicans helped free him from prison",
-      "description": "PHILADELPHIA \u2014 John Dougherty was for years an unparalleled kingmaker in Philadelphia\u2019s Democratic Party \u2014 a charismatic labor leader and fundraiser who helped anoint a generation of future mayors, City Council members, state and federal legislators, judges, and governors. But...",
-      "link": "https://hanfordsentinel.com/news/national/former-philly-labor-leader-john-johnny-doc-dougherty-was-a-longtime-democratic-power-broker-but/article_559e7f71-f764-5d1e-9ade-7c4073dbf118.html",
-      "source": "Hanford Sentinel",
-      "image": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/1/8f/18f4e692-1d8c-520b-b377-caafdd1c2c60/6ab429e6e64f2.image.jpg?resize=300%2C200",
-      "published": "2026-09-23 19:10:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Nichola O'Reilly",
+      "title": "40 years ago September 24, 1986: Brig Puri\u2019s \u2018killer\u2019 nabbed",
       "description": null,
-      "link": "https://www.iflr.com/iflr1000/practitioners/nichola-oreilly",
-      "source": "Iflr",
-      "image": null,
-      "published": "2026-09-23 19:09:49",
+      "link": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-september-24-1986-brig-puris-killer-nabbed-10891263/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/09/September-24-1986-express-archive.jpg",
+      "published": "2026-09-24 01:10:46",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Former Kansas GOP governor backing Democrat for Senate",
+      "description": "Former Kansas GOP governor explains why he's backing Democrat Adam Hamilton for Senate",
+      "link": "https://www.wskg.org/shows/newshour/clip/one-on-one-1790197876",
+      "source": "Wskg",
+      "image": "https://npr.brightspotcdn.com/dims4/default/024e1ef/2147483647/strip/true/crop/2160x1134+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Fimage.pbs.org%2Fvideo-assets%2Fm65ZdUF-asset-mezzanine-16x9-IFrSIIL.jpg",
+      "published": "2026-09-24 01:10:41",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Moldova's PM on confronting Russia and backing Ukraine",
+      "description": "Moldova's PM on confronting Russian threats and backing Ukraine",
+      "link": "https://www.wskg.org/shows/newshour/clip/the-russia-threat-1790197909",
+      "source": "Wskg",
+      "image": "https://npr.brightspotcdn.com/dims4/default/845e35a/2147483647/strip/true/crop/2160x1134+0+166/resize/1200x630!/quality/90/?url=https%3A%2F%2Fimage.pbs.org%2Fvideo-assets%2FgTTSs7u-asset-mezzanine-16x9-OgpXln7.jpg",
+      "published": "2026-09-24 01:10:40",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

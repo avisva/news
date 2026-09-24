@@ -1,31 +1,45 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Microsoft President Backs Deployment of AI Safety Evaluators",
-      "description": "Microsoft Corp. President Brad Smith said the company backs the use of independent evaluators for artificial intelligence.",
-      "link": "https://www.livemint.com/companies/microsoft-president-backs-deployment-of-ai-safety-evaluators-11790190599798.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_4_1733465206851_1733465215415.png",
-      "published": "2026-09-23 19:09:59",
+      "title": "The two-horse AI talent race | Number Theory",
+      "description": "The race to build AI of that potential is being run with an extremely small pool of human researchers. It is primarily a 2-horse race between the US and China",
+      "link": "https://www.hindustantimes.com/editors-pick/the-two-horse-ai-talent-race-number-theory-101790211965179.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/AI_1790212008543_XJmY_1790212008682_OiJE_057bc8a0-c716-487b-824a-e56b805bda98_eQF6.jpg",
+      "published": "2026-09-24 01:10:57",
       "category": [
-        "business"
+        "technology",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Congested Vijay Nagar stretch of NH-9 set to get overbridge to check jaywalking",
-      "description": "NHAI to build Rs 13 crore foot overbridge with lifts on NH-9 at Vijay Nagar, Ghaziabad, linking Krishan Babu Nagar to curb jaywalking; due in 1 year.",
-      "link": "https://timesofindia.indiatimes.com/city/noida/congested-vijay-nagar-stretch-of-nh-9-set-to-get-overbridge-to-check-jaywalking/articleshow/134445209.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-134445207/134445207.jpg",
-      "published": "2026-09-23 19:09:54",
+      "title": "Minor Girl Missing In Bihar For Over Three Weeks; Police Acts Only After Politician Intervenes",
+      "description": "The girl went missing on September 1. Her family registered an FIR the next day, but the police did not take action for three weeks",
+      "link": "https://www.etvbharat.com/en/bharat/minor-girl-missing-in-bihar-for-over-three-weeks-police-acts-only-after-politician-intervenes-enn26092306713",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/24-09-2026/1200-675-27701712-783-27701712-1790176066831.jpg",
+      "published": "2026-09-24 01:10:56",
       "category": [
-        "top",
         "crime"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "40 years ago September 24, 1986: Brig Puri\u2019s \u2018killer\u2019 nabbed",
+      "description": null,
+      "link": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-september-24-1986-brig-puris-killer-nabbed-10891263/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/09/September-24-1986-express-archive.jpg",
+      "published": "2026-09-24 01:10:46",
+      "category": [
+        "politics"
       ],
       "country": [
         "india"

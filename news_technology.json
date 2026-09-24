@@ -1,20 +1,54 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "7 AI Trends Reshaping Business Technology in 2026",
-      "description": "Explore the key AI trends reshaping business technology in 2026, from agentic AI and robotics to AI infrastructure, security, and measurable ROI.",
-      "link": "https://www.analyticsinsight.net/photo/7-ai-trends-reshaping-business-technology-in-2026",
-      "source": "Analytics And Insight",
-      "image": "https://media.assettype.com/analyticsinsight/2026-09-23/jdk8auje/7-AI-Trends-Reshaping-Business-Technology-in-2026.jpg",
-      "published": "2026-09-23 19:10:00",
+      "title": "State announces $500K settlement with Payless Used Car Sales over hidden dealer fees",
+      "description": "More than 5,000 Alaska car buyers could soon see restitution checks after the State of Alaska reached a settlement topping half a million dollars with Payless Used Car Sales over undisclosed documentation fees, Acting Attorney General Cori Mills announced.",
+      "link": "https://us.headtopics.com/news/state-announces-500k-settlement-with-payless-used-car-88071891",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/24/aknewsnow/state-announces-500k-settlement-with-payless-used--state-announces-500k-settlement-with-payless-used--18782D5B55C6D08CCBFFCAE474BEF3F6-16x9.webp",
+      "published": "2026-09-24 01:11:00",
       "category": [
         "technology",
+        "top",
         "business"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Geely Auto Group Introduces Ultra-Fast AI-Powered Geely Smart Charging",
+      "description": null,
+      "link": "https://www.reuters.com/press-releases/geely-auto-group-ultra-fast-ai-powered-charging-2026-09-23/",
+      "source": "Reuters",
+      "image": null,
+      "published": "2026-09-24 01:10:58",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom",
+        "united states of america",
+        "japan",
+        "india",
+        "china"
+      ]
+    },
+    {
+      "title": "The two-horse AI talent race | Number Theory",
+      "description": "The race to build AI of that potential is being run with an extremely small pool of human researchers. It is primarily a 2-horse race between the US and China",
+      "link": "https://www.hindustantimes.com/editors-pick/the-two-horse-ai-talent-race-number-theory-101790211965179.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/AI_1790212008543_XJmY_1790212008682_OiJE_057bc8a0-c716-487b-824a-e56b805bda98_eQF6.jpg",
+      "published": "2026-09-24 01:10:57",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

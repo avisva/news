@@ -1,35 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Justice Debasish Roy Chowdhury sworn in as HC permanent judge",
-      "description": "The President appointed Additional Judge of the High Court Division Justice Debasish Roy Chowdhury as a permanent judge of the same division.",
-      "link": "https://www.tbsnews.net/bangladesh/justice-debasish-roy-chowdhury-sworn-hc-permanent-judge-1552386",
-      "source": "The Business Standard",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/09/24/image-427768-1790229300.jpg",
-      "published": "2026-09-24 06:10:00",
+      "title": "Trump sees 92% disapproval on top issue with key voting group: \u2018Deep depths of hell\u2019",
+      "description": "The bloc's approval of Trump has sharply declined since 2024.",
+      "link": "https://www.cleveland.com/politics/2026/09/trump-sees-92-disapproval-on-top-issue-with-key-voting-group-deep-depths-of-hell.html",
+      "source": "Cleveland",
+      "image": "https://www.cleveland.com/resizer/v2/5AXUEVWRHFGPNP7BGO6RTJHY3A.jpg?auth=ec8ba02a2cdf2031bc79a958c169d5c37a67421c44afbe6a2b9308141b5f43c6&smart=true&height=1200",
+      "published": "2026-09-24 09:57:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "bangladesh"
+        "united states of america"
       ]
     },
     {
-      "title": "Judge orders White House to restore access to news outlets Trump banned",
-      "description": null,
-      "link": "https://www.independent.ie/world-news/judge-orders-white-house-to-restore-access-to-news-outlets-trump-banned/a/162047688.html",
-      "source": "The Independent",
-      "image": null,
-      "published": "2026-09-24 06:10:00",
+      "title": "John Fetterman\u2019s favorability dips as voters see him more as a Republican than a Democrat",
+      "description": "Three quarters of likely Democratic voters view the Pennsylvania senator as more of a Republican in a poll conducted after Fetterman participated in Donald Trump's midterm convention.",
+      "link": "https://us.headtopics.com/news/john-fetterman-s-favorability-dips-as-voters-see-him-more-88086121",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/24/phillydailynews/john-fetterman-s-favorability-dips-as-voters-see-h-john-fetterman-s-favorability-dips-as-voters-see-h-E4D0195D3D14D0F86C6DD555A1586E12-16x9.webp",
+      "published": "2026-09-24 09:57:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "ireland"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lawsuits cost every American household thousands of dollars. Supreme Court can help",
+      "description": "Supreme Court's October docket tackles climate lawsuits, digital privacy and retirement plan claims as U.S. tort costs approach $1 trillion by 2030.",
+      "link": "https://us.headtopics.com/news/lawsuits-cost-every-american-household-thousands-of-88086110",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/24/foxnews/lawsuits-cost-every-american-household-thousands-o-lawsuits-cost-every-american-household-thousands-o-5B383F97AF39B93DB3924D65D44BA3C6-16x9.webp",
+      "published": "2026-09-24 09:57:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

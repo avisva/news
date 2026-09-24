@@ -1,49 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "40 years ago September 24, 1986: Brig Puri\u2019s \u2018killer\u2019 nabbed",
-      "description": null,
-      "link": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-september-24-1986-brig-puris-killer-nabbed-10891263/",
-      "source": "The Indian Express",
-      "image": "https://images.indianexpress.com/2026/09/September-24-1986-express-archive.jpg",
-      "published": "2026-09-24 01:10:46",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Former Kansas GOP governor backing Democrat for Senate",
-      "description": "Former Kansas GOP governor explains why he's backing Democrat Adam Hamilton for Senate",
-      "link": "https://www.wskg.org/shows/newshour/clip/one-on-one-1790197876",
-      "source": "Wskg",
-      "image": "https://npr.brightspotcdn.com/dims4/default/024e1ef/2147483647/strip/true/crop/2160x1134+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Fimage.pbs.org%2Fvideo-assets%2Fm65ZdUF-asset-mezzanine-16x9-IFrSIIL.jpg",
-      "published": "2026-09-24 01:10:41",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Moldova's PM on confronting Russia and backing Ukraine",
-      "description": "Moldova's PM on confronting Russian threats and backing Ukraine",
-      "link": "https://www.wskg.org/shows/newshour/clip/the-russia-threat-1790197909",
-      "source": "Wskg",
-      "image": "https://npr.brightspotcdn.com/dims4/default/845e35a/2147483647/strip/true/crop/2160x1134+0+166/resize/1200x630!/quality/90/?url=https%3A%2F%2Fimage.pbs.org%2Fvideo-assets%2FgTTSs7u-asset-mezzanine-16x9-OgpXln7.jpg",
-      "published": "2026-09-24 01:10:40",
+      "title": "Justice Debasish Roy Chowdhury sworn in as HC permanent judge",
+      "description": "The President appointed Additional Judge of the High Court Division Justice Debasish Roy Chowdhury as a permanent judge of the same division.",
+      "link": "https://www.tbsnews.net/bangladesh/justice-debasish-roy-chowdhury-sworn-hc-permanent-judge-1552386",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/09/24/image-427768-1790229300.jpg",
+      "published": "2026-09-24 06:10:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Judge orders White House to restore access to news outlets Trump banned",
+      "description": null,
+      "link": "https://www.independent.ie/world-news/judge-orders-white-house-to-restore-access-to-news-outlets-trump-banned/a/162047688.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-09-24 06:10:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "ireland"
       ]
     }
   ]

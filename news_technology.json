@@ -1,16 +1,60 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Kinetic Engineering To Invest \u20b957 Crore, Driven By EV Scooter And Driveline Export Orders",
-      "description": "Kinetic Engineering Limited (KEL) announced on Wednesday an additional investment of \u20b957 crore to boost its electric two-wheeler segment and driveline business for exports. This investment is the final tranche of converting 44.51 lakh warrants issued to promoters in March 2025.",
-      "link": "https://www.freepressjournal.in/business/kinetic-engineering-to-invest-57-crore-driven-by-ev-scooter-and-driveline-export-orders",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-24/ws9sbpkb/kinetic-engineering-1200x675.jpg",
-      "published": "2026-09-24 09:56:55",
+      "title": "Meta unveils the Muse Charm, a tamagotchi-like device that lets you talk to Muse AI",
+      "description": "It was showcased at the end of Meta Connect 2026, but no details about its pricing or release yet, apart from a holiday season release window.",
+      "link": "https://www.hardwarezone.com.sg/lifestyle/ai/meta-muse-charm-ai-meta-connect-2026-announcement",
+      "source": "Hardwarezone",
+      "image": null,
+      "published": "2026-09-24 12:20:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Panasonic expands Budapest electronics manufacturing centre",
+      "description": "Panasonic has expanded Budapest support for electronics manufacturing operations regionally. The 860m\u00b2 centre adds SMT demonstrations, training, engineering, maintenance support and predictive software for Central and Eastern European manufacturers. The post Panasonic expands Budapest electronics manufacturing centre appeared first on Industrial News .",
+      "link": "https://industrialnews.co.uk/panasonic-expands-budapest-electronics-manufacturing-centre/",
+      "source": "Industrial News",
+      "image": "https://industrialnews.co.uk/wp-content/uploads/2026/09/pexels-photo-38264254-scaled.jpeg",
+      "published": "2026-09-24 12:20:00",
       "category": [
         "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "EY Partner Outlines Eight Conditions for AI Ecosystem Growth",
+      "description": "EY partner Timothy Grosser outlined eight conditions for developing a national AI ecosystem from its initial stage to large-scale growth.",
+      "link": "https://www.uzdaily.uz/en/ey-partner-outlines-eight-conditions-for-ai-ecosystem-growth/",
+      "source": "Uzdaily",
+      "image": "https://www.uzdaily.uz/media/filer_public/bb/32/bb32c026-87cc-4169-85a6-41944c240fcc/timotigrosser_20260924113531.webp",
+      "published": "2026-09-24 12:20:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "uzbekistan"
+      ]
+    },
+    {
+      "title": "Scientists Develop Swallowable Paper Battery To Power Medical Devices Inside The Body",
+      "description": "MIT researchers have created a swallowable paper battery that can power medical devices inside the stomach for three days before safely breaking down.",
+      "link": "https://www.etvbharat.com/en/technology/swallowable-paper-battery-giovanni-traverso-massachusetts-institute-of-technology-enn26092406235",
+      "source": "Etv Bharat",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/24-09-2026/1200-675-27710589-873-27710589-1790252327199.jpg",
+      "published": "2026-09-24 12:19:58",
+      "category": [
+        "science",
         "technology"
       ],
       "country": [
@@ -18,12 +62,12 @@
       ]
     },
     {
-      "title": "New $2.9 billion data center proposed in Canton. Here's what to know",
-      "description": "A $2.9 billion data center is proposed for Canton, southeast of Millerton Street and Central Avenue SE. Here's a look at the plan and likely tenant.",
-      "link": "https://www.cantonrep.com/story/news/local/canton/2026/09/24/canton-ohio-data-center-multi-billion-dollar-proposal-corscale-midwest-digital-gateway/91890718007/",
-      "source": "Canton Repository",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/24/NREP/91914525007-img-1817.jpeg?auto=webp&crop=5711,3213,x0,y535&format=pjpg&width=1200",
-      "published": "2026-09-24 09:56:55",
+      "title": "InvestigateTV+: Fraudsters using AI cloning",
+      "description": "Fraudsters use AI technology to create convincing voice clones in a matter of seconds.",
+      "link": "https://www.kotatv.com/2026/09/24/investigatetv-fraudsters-using-ai-cloning/",
+      "source": "Https://www.kotatv.com",
+      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/6LVJYAL2HVD4NGCLXUG22VXFPY.jpg?auth=5b4e1b2bf577ece3921c25091f83b1387a94d3888cd233eb56787b6f0a818c06&width=1200&height=600&smart=true",
+      "published": "2026-09-24 12:19:55",
       "category": [
         "top",
         "technology"

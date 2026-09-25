@@ -1,16 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Grand Rounds: \u201cChemotherapy-Free Therapies for Aggressive Lymphomas Targeting Oncogenic Survival Mechanisms in the Immune Microenvironment\u201d",
-      "description": "Louis Staudt, MD, PhD Branch Chief Lymphoid Malignancies Branch, Center for Cancer Research NCI Category: Events & Seminars Date and Time: Monday, October 5, 2026 - 12:00pm to 1:00pm Event Location: Belfer Research Building Source link: https://events.weill.cornell.edu/event/grand-rounds-chemotherapy-free-therapies-\u2026",
-      "link": "https://research.weill.cornell.edu/about-us/news-updates/grand-rounds-chemotherapy-free-therapies-aggressive-lymphomas-targeting",
-      "source": "Cornell Chronicle",
-      "image": null,
-      "published": "2026-09-24 17:46:51",
+      "title": "Hyundai Hope On Wheels provides $500,000 to UTSA pediatric cancer research group",
+      "description": "A San Antonio research institute dedicated to fighting childhood cancer received a $500,000 grant from Hyundai Hope on Wheels.",
+      "link": "https://www.ksat.com/news/local/2026/09/24/hyundai-hope-on-wheels-provides-dollar500000-to-utsa-pediatric-cancer-research-group/",
+      "source": "Ksat",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/ksat/6bea865f-d5f6-48a3-83eb-c59b489a356d/image.jpg",
+      "published": "2026-09-24 23:06:59",
       "category": [
-        "health"
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "GLP-1s Are Quietly Cutting Into Tobacco & Nicotine Sales",
+      "description": "Convenience store operators need to anticipate the cross-category impact of GLP-1 adoption.",
+      "link": "https://csnews.com/glp-1s-are-quietly-cutting-tobacco-nicotine-sales",
+      "source": "Csnews",
+      "image": null,
+      "published": "2026-09-24 23:06:46",
+      "category": [
+        "health",
+        "top"
       ],
       "country": [
         "united states of america"

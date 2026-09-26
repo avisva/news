@@ -1,355 +1,235 @@
 {
   "status": "success",
-  "totalResults": 26,
+  "totalResults": 30,
   "results": [
     {
-      "title": "I had dinner with Monty Don and he showed his true colours immediately",
-      "description": "Gardener Sasha York met the BBC star and his wife at a private dinner held in June.",
-      "link": "https://www.express.co.uk/celebrity-news/2250486/monty-don-true-colours-revealed",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/79/237x141/2250486_1.jpg",
-      "published": "2026-09-26 06:18:00",
+      "title": "2 dead, 4 missing after explosion collapses Athens building",
+      "description": "Two people were found dead Saturday in the rubble of a building that collapsed after a powerful explosion in Athens\u2019 historic Plaka district, as rescue crews searched for four peop...",
+      "link": "https://www.dailysabah.com/world/europe/2-dead-4-missing-after-explosion-collapses-athens-building",
+      "source": "Daily Sabah",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/09/26/462423.JPG",
+      "published": "2026-09-26 09:48:00",
       "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "turkey"
+      ]
+    },
+    {
+      "title": "Positive outlook: Czechia closes in on first S&P rating upgrade in 15 years",
+      "description": "S&P raised Czechia\u2019s outlook to positive, citing its resilient economy, strong financial buffers and continued convergence with wealthier countries.",
+      "link": "https://www.expats.cz/czech-news/article/czechia-moves-closer-to-first-s-p-rating-upgrade-in-15-years",
+      "source": "Expats",
+      "image": "https://www.expats.cz/images/publishing/articles/2026/09/1280_650/prague-castle-skyline-photo-shutterstock-astor57-vehjn.webp",
+      "published": "2026-09-26 09:48:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "czech republic"
+      ]
+    },
+    {
+      "title": "Southland Symphony Season Opener - \"An American Journey\"",
+      "description": "The Southland Symphony Orchestra opens its 2026\u201327 season with \"An American Journey\", a special concert exploring the stories, ideals, hopes, and experiences that have helped shape the United States. Ontario, CA, September 26, 2026 -- The concert will be presented on Sunday, October 11, 2026, at 4:00 p.m. at Bethel Congregational Church, 536 N. Euclid Ave., Ontario, CA 91762, under the direction of Dr. Sylvia Lee Mann, Music Director and Conductor. At the heart of the program is...",
+      "link": "http://prsync.com/southland-symphony-orchestra/southland-symphony-season-opener---an-american-journey-5205305/",
+      "source": "Pr Sync",
+      "image": null,
+      "published": "2026-09-26 09:48:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Maurice Whitman's Haunting Ghost Comics #1 Cover, at Auction",
+      "description": "Maurice Whitman is an underappreciated star from the late Golden Age, and Fiction House's Ghost Comics 1 is one of his best known covers.",
+      "link": "https://us.headtopics.com/news/maurice-whitman-s-haunting-ghost-comics-1-cover-at-auction-88161626",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/26/bleedingcool/maurice-whitman-s-haunting-ghost-comics-1-cover-at-maurice-whitman-s-haunting-ghost-comics-1-cover-at-63602A642275DECF12EC1A94E80FD860-16x9.webp",
+      "published": "2026-09-26 09:48:00",
+      "category": [
+        "top",
         "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Flooding remains a constant struggle for Sitio Magtalisay, Mabolo residents",
+      "description": "RESIDENTS of Sitio Magtalisay in Barangay Mabolo, Cebu City have learned to live with flooding for decades whenever heavy rains pour over the area.",
+      "link": "https://www.sunstar.com.ph/cebu/flooding-remains-a-constant-struggle-for-sitio-magtalisay-mabolo-residents",
+      "source": "Sunstar",
+      "image": "https://cf-images.assettype.com/sunstar/2026-09-25/hv9409eu/l1.jpg",
+      "published": "2026-09-26 09:48:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Munich picked for Germany's bid to host the Summer Olympics in 2036, 2040 or 2044",
+      "description": "Munich will bid to bring the Olympics back to Germany for the first time in more than 60 years after seeing off a rival bid from Cologne to become the focus of the country's push to host a Summer Games.",
+      "link": "https://theday.com/news/926245/munich-picked-for-germanys-bid-to-host-the-summer-olympics-in-2036-2040-or-2044/",
+      "source": "The Day",
+      "image": "https://d3gouztkx1c1lh.cloudfront.net/360_TheDay_Live/0/0/0/1/163/597/1163597_1",
+      "published": "2026-09-26 09:48:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Asian Games Gold, Bae Jae-min: \"Most Meaningful Day in My 30-Year Gaming Career\"",
+      "description": "\u00a9INVENThe South Korean fighting game national team defeated Japan to claim the gold medal at the 2026 Aichi-Nagoya Asian Games....",
+      "link": "https://www.invenglobal.com/articles/26502/asian-games-gold-bae-jae-min-most-meaningful-day-in-my-30-year-gaming-career",
+      "source": "Inven Global",
+      "image": "https://static.invenglobal.com/upload/image/2026/09/26/i1790416206818324.jpeg",
+      "published": "2026-09-26 09:48:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Justice B V Nagarathna calls for integrated ADR to cut family court backlogs, protect dignity",
+      "description": "Family dispute cases: Supreme Court judge B V Nagarathna highlights balancing alternative dispute resolution and judicial proceedings during an eastern zone conference held in Guwahati.",
+      "link": "https://www.deccanherald.com/india/justice-b-v-nagarathna-calls-for-integrated-adr-to-cut-family-court-backlogs-protect-dignity-4160541",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-04-09/1ev5w9ct/deccanherald2026-02-27f8a8gj9cinsets-10.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-09-26 09:47:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Supreme Court judge Nagarathna stresses integrating adjudication, ADR for resolving family disputes",
+      "description": "Family dispute cases: Supreme Court judge B V Nagarathna highlights balancing alternative dispute resolution and judicial proceedings during an eastern zone conference held in Guwahati recently.",
+      "link": "https://www.deccanherald.com/india/supreme-court-judge-nagarathna-stresses-integrating-adjudication-adr-for-resolving-family-disputes-4160541",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-09-26/nqb7fhqi/file84rbtuuyodf1egyto7ff.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-09-26 09:47:59",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Birmingham city centre street closed 'due to police incident'",
+      "description": null,
+      "link": "https://www.expressandstar.com/news/birmingham-city-centre-street-closed-due-to-police-incident-9188753",
+      "source": "Express & Star",
+      "image": "https://contentstore.nationalworld.com/images/bcc890dd-3b40-4719-a63f-2ae02768cb3c.png",
+      "published": "2026-09-26 09:47:57",
+      "category": [
+        "crime",
+        "top"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "ACC Approves Major Bureaucratic Reshuffle; New CBSE Chairperson and DGH Appointed",
-      "description": "The Appointments Committee of the Cabinet has approved a series of senior-level appointments, including a new Chairperson for CBSE, a new Director General of\u2026",
-      "link": "https://www.psuconnect.in/bureaucracy/acc-approves-major-bureaucratic-reshuffle-new-cbse-chairperson-and-dgh-appointed",
-      "source": "Psu Connect",
-      "image": "https://images.psuconnect.in/ACC_Approves_Major_Bureaucratic_Reshuffle_New_CBSE_Chairperson_and_DGH_Appointed.jpg",
-      "published": "2026-09-26 06:18:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Canadian MP Vis calls for deportation of Bishnoi gang members, flags extortion",
-      "description": "Canada\u2019s Conservative MP Brad Vis has called for the deportation of alleged Lawrence Bishnoi gang members in the country on visas, alleging that the gang has been exploiting the immigration system while targeting business owners and engaging in criminal activities. Vis, who represents British Columbia, recently released a video statement alleging that members of the [\u2026]",
-      "link": "https://www.tribuneindia.com/news/punjab/canadian-mp-vis-calls-for-deportation-of-bishnoi-gang-members-flags-extortion",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/07/ANI-20260707220712.jpg",
-      "published": "2026-09-26 06:17:58",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "From MBBS to IAS: Who is new CBSE chief Mandeep Bhandari?",
-      "description": "Mandeep K Bhandari, a 2001-batch IAS officer with an MBBS background, is the new CBSE chairman. Know his education & career.",
-      "link": "https://newseisamay.com/education/mandeep-k-bhandari-new-cbse-chairman-career",
-      "source": "Newseisamay",
-      "image": "https://d243y9xj05uh4.cloudfront.net/wp-content/uploads/nes/2026/09/26114634/5kwnfkd9.webp",
-      "published": "2026-09-26 06:17:57",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Working in Brazil 2026: Jobs, Work Permits and Starting a Business",
-      "description": "Working in Brazil in 2026: unemployment at a record-low 5.3%, minimum wage R$1,621, VITEM V work permits, digital nomad visa at US$1,500/month, MEI cap R$81,000. What foreigners actually need to know. The post Working in Brazil 2026: Jobs, Work Permits and Starting a Business appeared first on The Rio Times .",
-      "link": "https://www.riotimesonline.com/working-in-brazil-2026/",
-      "source": "The Rio Times",
-      "image": "https://www.riotimesonline.com/wp-content/uploads/2026/09/final_renan_Avenida_Brigadeiro_Faria_Lima8_jpg.jpg",
-      "published": "2026-09-26 06:17:57",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "brazil"
-      ]
-    },
-    {
-      "title": "Ayush Shetty and Unnati Hooda Advance to Round of 16 at Asian Games 2026",
-      "description": "Ayush Shetty and Unnati Hooda secure their spots in the Round of 16 in badminton singles at the Asian Games 2026, showcasing impressive performances. Ayush Shetty and Unnati Hooda Advance to Round of 16 at Asian Games 2026",
-      "link": "https://udaipurkiran.com/ayush-shetty-and-unnati-hooda-advance-to-round-of-16-at-asian-games-2026/",
-      "source": "Udaipur Kiran",
-      "image": "https://udaipurkiran.com/wp-content/uploads/2026/09/ayush-shetty-and-unnati-hooda-advance-to-round-of-16-at-asian-games-2026.jpg",
-      "published": "2026-09-26 06:17:57",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Bengaluru: Man held for allegedly killing wife, dumping body in vacant plot",
-      "description": "Bengaluru, Sep 26 (PTI) A 32-year-old man was arrested for allegedly killing his wife and later dumping her body at a vacant plot here following an argument over a financial dispute, police said on Saturday. The accused, Sagar Chandra Rawat, a native of Odisha, was arrested over three weeks after the highly decomposed body of [\u2026]",
-      "link": "https://theprint.in/india/bengaluru-man-held-for-allegedly-killing-wife-dumping-body-in-vacant-plot/3054055/",
-      "source": "Theprint",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "published": "2026-09-26 06:17:54",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Hichilema Dismisses Talk of Crisis, Warns Social Media Users Against Scaring Off Investors",
-      "description": "Hichilema Dismisses Talk of Crisis, Warns Social Media Users Against Scaring Off Investors President Hakainde Hichilema has rejected claims that Zambia is in crisis after the polls, saying disgruntled and selfish individuals are creating a false impression of tension and scaring off the investors the Government has worked to attract. The President spoke at State [\u2026]",
-      "link": "https://www.lusakatimes.com/2026/09/26/hichilema-dismisses-talk-of-crisis-warns-social-media-users-against-scaring-off-investors/",
-      "source": "Lusaka Times",
-      "image": "https://www.lusakatimes.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=530486&type=gif&hash=4e28ee7c4c5d8e65c0bfbd3132caa698",
-      "published": "2026-09-26 06:17:53",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "zambia"
-      ]
-    },
-    {
-      "title": "Everton Women\u2019s Scott Phelan calls for Matt Beard tribute",
-      "description": "Everton Women boss wants derby recognition for Reds coach",
-      "link": "https://sports.yahoo.com/articles/everton-women-scott-phelan-calls-061750471.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/fd5e2e5dac0fb26ae1c60d6eadf55bc64b4ddfe7d186208635ead8404fffc3a2/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F6c1735c8d78bff572f605e1fd7c23fd5.jpg",
-      "published": "2026-09-26 06:17:50",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The list of nominees for the National Mwalimu Nyerere Award for Creative Writing has been announced by Prof. Penina Mlama ahead of April 13 ceremony.",
-      "description": "The list of nominees for the National Mwalimu Nyerere Award for Creative Writing has been announced by Prof. Penina Mlama ahead of April 13 ceremony.",
-      "link": "https://bongofive.com/en/orodha-ya-wateule-walipendekezwa-kuwania-tuzo-ya-taifa-ya-mwalimu-nyerere-yatangazwa",
-      "source": "Bongo5",
-      "image": "https://cdn.bongofive.com/wp-content/uploads/2026/04/7ef7d904-6117-498f-b210-62f3b18adc9f.jpeg",
-      "published": "2026-09-26 06:17:46",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "tanzania"
-      ]
-    },
-    {
-      "title": "AIIMS NORCET 11 Admit Card 2026 Released at aiimsexams.ac.in: Download CBT 2 Hall Ticket PDF- Direct Link",
-      "description": "AIIMS NORCET 11 Admit Card 2026 has been released for the CBT 2 exam which will be conducted on September 30. Candidates who qualified Stage 1 can download their hall ticket from aiimsexams.ac.in using their login credentials. Check details here.",
-      "link": "https://www.jagranjosh.com/articles/aiims-norcet-11-admit-card-2026-released-at-aiimsexams-ac-in-download-cbt-2-hall-ticket-pdf-direct-link-1800017018-1",
-      "source": "Jagran Josh",
-      "image": "https://img.jagranjosh.com/images/2026/09/26/template/image/AIIMS-NORCET-11-CBT-2-Admit-Card-2026-1790403326794.webp",
-      "published": "2026-09-26 06:17:46",
-      "category": [
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Minnesota vs Washington Prediction: Is This When the Huskies Get Going?",
-      "description": "Last week's blowout was nice, but can Washington step up against someone as good as Minnesota? Here's the CFN preview and prediction.",
-      "link": "https://sports.yahoo.com/articles/minnesota-vs-washington-prediction-huskies-061742248.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/5109c07818d859294910de40efcdb3af3f916304f2c4592661cf94af5699f6be/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_news_725%2F8dbc29678c05697cf3cf448bf924ba56.jpg",
-      "published": "2026-09-26 06:17:42",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "World reaction to Xi-Trump summit in Washington",
-      "description": "The meeting between Chinese and US presidents has drawn close attention internationally, with figures from around the world welcoming closer communication between the two major powers and saying greater cooperation could help address challenges facing the world.",
-      "link": "https://news.cgtn.com/news/2026-09-26/World-reaction-to-Xi-Trump-summit-in-Washington-1QKkcAwqnF6/p.html",
-      "source": "Cgtn",
-      "image": "https://news.cgtn.com/news/2026-09-26/World-reaction-to-Xi-Trump-summit-in-Washington-1QKkcAwqnF6/img/d61e932e2d364957a47e950a32f373bd/d61e932e2d364957a47e950a32f373bd-1280.jpeg",
-      "published": "2026-09-26 06:17:41",
-      "category": [
-        "politics"
-      ],
-      "country": [
-        "china"
-      ]
-    },
-    {
-      "title": "India\u2019s Economy Holds Firm, But RBI Flags These 2 Risks Ahead",
-      "description": "RBI Bulletin says India\u2019s financial and external sectors remain resilient, while geopolitical tensions and weather risks pose key economic challenges.",
-      "link": "https://www.timesnownews.com/business-economy/economy/indias-economy-holds-firm-but-rbi-flags-these-2-risks-ahead-article-156227904",
-      "source": "Times Now News",
-      "image": "https://images.timesnownews.com/thumb/msid-156227902,thumbsize-72954,width-1280,height-720,resizemode-75/156227902.jpg",
-      "published": "2026-09-26 06:17:41",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Indian Consulate General\u2019s Namaste Canada draws 7,500 visitors",
-      "description": "THE Consulate General of India in Vancouver organized the 9th Edition of Namaste Canada 2026 on September 19 at the Vancouver Art Gallery\u2019s North Plaza, bringing the colours, sounds, flavours and traditions of India to the heart of Vancouver. The celebration brought together people from across the community for a day filled with music, dance, [\u2026]",
-      "link": "https://voiceonline.com/indian-consulate-generals-namaste-canada-draws-7500-visitors/",
-      "source": "Indo-canadian Voice",
-      "image": "https://voiceonline.com/wp-content/uploads/2026/09/ii4-768x478.jpg",
-      "published": "2026-09-26 06:17:40",
-      "category": [
-        "top",
-        "tourism"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Religious leaders from Central Zone urge Tanzanians to maintain peace and participate actively in the October 29, 2025 General Election.",
-      "description": "Religious leaders from Central Zone urge Tanzanians to maintain peace and participate actively in the October 29, 2025 General Election.",
-      "link": "https://bongofive.com/en/viongozi-wa-dini-kanda-ya-kati-wataka-amani-uchaguzi-mkuu",
-      "source": "Bongo5",
-      "image": "https://cdn.bongofive.com/wp-content/uploads/2025/10/32370486-75b5-4b50-98b4-8e95f2b9a229.jpeg",
-      "published": "2026-09-26 06:17:39",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "tanzania"
-      ]
-    },
-    {
-      "title": "All Dimasa Students' Union Flags Illegal Riverbed Mining in Dima Hasao",
-      "description": "The All Dimasa Students' Union (ADSU), Dima Hasao District Committee, has lodged a formal complaint with the Chief Conservator of Forests, Haflong, seeking immediate action against what it described as illegal and unregulated riverbed mining across the district.",
-      "link": "https://www.sentinelassam.com/north-east-india-news/assam-news/all-dimasa-students-union-flags-illegal-riverbed-mining-in-dima-hasao",
-      "source": "The Sentinel",
-      "image": "https://media.assettype.com/sentinelassam-english/2026-09-26/s1qd1nlu/ADSU-flags.jpg?w=280",
-      "published": "2026-09-26 06:17:38",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "The $100 Oil Opportunity: What Nigeria Should Do Differently",
-      "description": "Nigeria is once again standing before a river of oil money with a leaking bucket. With Brent crude trading above $100 per barrel, far higher than Nigeria\u2019s 2026 budget benchmark",
-      "link": "https://www.thisdaylive.com/2026/09/26/the-100-oil-opportunity-what-nigeria-should-do-differently/",
-      "source": "Thisdaylive",
-      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Ugo-Inyama.jpg",
-      "published": "2026-09-26 06:17:34",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Rivers Assembly orders arrest of PAMO varsity VC",
-      "description": "Rivers State House of Assembly has ordered the immediate arrest of the Vice Chancellor of PAMO University of Medical Sciences, Professor Smith I. Jaja, over his repeated refusal to appear before the House committee. The House ad hoc committee is probing the disbursement of scholarship funds to the institution. The Assembly issued the warrant of [\u2026] Rivers Assembly orders arrest of PAMO varsity VC",
-      "link": "https://dailypost.ng/2026/09/26/rivers-assembly-orders-arrest-of-pamo-varsity-vc/",
-      "source": "Daily Post",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/01/Rivers-state-house-of-assembly.jpg",
-      "published": "2026-09-26 06:17:34",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Mathira Muhammad Viral MMS: What Did Pakistani TV Host Say About Leaked Intimate Photos And Videos?",
-      "description": "Mathira Muhammad has denied links to allegedly intimate images and videos circulating online, saying her name and photoshoot pictures are being misused and fabricated claims are being added.",
-      "link": "https://www.newsx.com/offbeat/mathira-muhammad-viral-mms-what-did-pakistani-tv-host-say-about-leaked-intimate-photos-and-videos-276079/",
-      "source": "Newsx",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/mathira-mms-video.jpg",
-      "published": "2026-09-26 06:17:34",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Odisha Police cracks theft case, secures conviction in just 17 days",
-      "description": "Bhubaneswar, Sep 26 (PTI) Odisha Police has cracked a mobile theft case and secured a conviction within 17 days of the matter being reported, a senior officer said Saturday. The theft of four mobile phones and two earbuds was registered at Rengali Police Station on September 9, and the accused, Sanatan Kishan (26), was apprehended. [\u2026]",
-      "link": "https://theprint.in/india/odisha-police-cracks-theft-case-secures-conviction-in-just-17-days/3054053/",
-      "source": "Theprint",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "published": "2026-09-26 06:17:33",
-      "category": [
-        "domestic"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Why you should seriously consider adding Barley water to your morning routine",
-      "description": "Barley water has been a staple in various traditional diets and is known for its health benefits. Modern research validates its ability to reduce LDL cholesterol and assist in blood sugar regulation. It also supports digestive health by acting as a prebiotic that promotes beneficial gut bacteria. Additionally, barley water can support hydration and urinary health without depleting key electrolytes.",
-      "link": "https://timesofindia.indiatimes.com/etimes/wellness/why-you-should-seriously-consider-adding-barley-water-to-your-morning-routine/articleshow/134498482.cms",
+      "title": "Maigret Season 2 Trailer : Reda Elazouar, Benjamin Wainwright and Kerrie Hayes Starrer Maigret Season 2 Official Trailer",
+      "description": "Maigret Season 2: Watch the Official trailer from english Web series 'Maigret Season 2' starring Reda Elazouar, Benjamin Wainwright and Kerrie Hayes. Maigret Season 2 is directed by David Evans, Faye Gilbert and Patrick Harbinson. To know more about Maigret Season 2, watch the video. Check out the latest english trailer, new series trailer, trending english series trailer, Reda Elazouar, Benjamin Wainwright and Kerrie Hayes's videos at ETimes - Times of India Entertainment.",
+      "link": "https://timesofindia.indiatimes.com/videos/entertainment/web-series/english/maigret-season-2-trailer-reda-elazouar-benjamin-wainwright-and-kerrie-hayes-starrer-maigret-season-2-official-trailer/videoshow/134501761.cms",
       "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134498641/134498641.jpg",
-      "published": "2026-09-26 06:17:32",
+      "image": "https://static.toiimg.com/photo/imgsize-224278,msid-134501761/134501761.jpg",
+      "published": "2026-09-26 09:47:57",
       "category": [
-        "health",
-        "top"
+        "top",
+        "entertainment"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Worried about cost of retirement? How to give your pension a mid-life MOT",
-      "description": "Over six million people don\u2019t have a plan to pay their rent or mortgage when they retire",
-      "link": "https://www.mirror.co.uk/money/worried-cost-retirement-how-give-37703185",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/money/article37694584.ece/ALTERNATES/s615/1_Grey-haired-Senior-Woman-Reviewing-Paper-Financial-Statements-and-Bills-at-home-Life-on-retirement.jpg",
-      "published": "2026-09-26 06:17:29",
+      "title": "All 50 Bangkok districts declared disaster areas amid heavy rain, flooding",
+      "description": "Declaration enables authorities to respond more quickly and systematically in affected areas",
+      "link": "https://www.aa.com.tr/en/asia-pacific/all-50-bangkok-districts-declared-disaster-areas-amid-heavy-rain-flooding/4069994",
+      "source": "Anadolu Agency",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/09/26/thumbs_b_c_ced1906c3a70d98b8306d9ab05af4941.jpg",
+      "published": "2026-09-26 09:47:53",
       "category": [
-        "top",
-        "business"
+        "world"
       ],
       "country": [
-        "united kingdom"
+        "turkey"
       ]
     },
     {
-      "title": "Allahabad HC discharges Congress MP Rakesh Rathore in rape case, cites consensual relationship",
-      "description": "Justice Subhash Vidyarthi said the allegation that Rathore promised marriage in exchange for a physical relationship did not raise strong suspicion of rape.",
-      "link": "https://www.newindianexpress.com/india/2026/Sep/26/allahabad-hc-discharges-congress-mp-rakesh-rathore-in-rape-case-cites-consensual-relationship",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-09-21/bh5mbezx/202609213949474.jpg?w=280",
-      "published": "2026-09-26 06:17:26",
+      "title": "Minister pledges to strengthen labour commission",
+      "description": "The Minister of Labour, Employment and Job Creation, Emmanuel Kwadwo Agyekum, has pledged to work with the National Labour Commission (NLC) to strengthen its operations and ensure that labour disputes are resolved fairly and, as much as possible, without recourse to the courts. Read More \u2026",
+      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-pledges-to-strengthen-labour-commission.html",
+      "source": "Graphic Online",
+      "image": null,
+      "published": "2026-09-26 09:47:53",
       "category": [
-        "crime",
+        "sports"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Zonyera Zambuzi installed as iNkosi Kachindamoto VIII",
+      "description": "Zonyera Zambuzi has been installed as iNkosi Kachindamoto VIII at a traditional ceremony held at the headquarters of the Kachindamoto chieftaincy in Mtakataka, Dedza. Zonyera Zambuzi, whose official name is Enoch Kalapino Zonyera Zambuzi, is 61 and succeeds the late Teresa Kachindamoto, who died last year. The Kachindamoto chieftaincy is part of the Maseko Ngoni, [\u2026]",
+      "link": "https://www.malawivoice.com/2026/09/26/zonyera-zambuzi-installed-as-inkosi-kachindamoto-viii/",
+      "source": "Malawi Voice",
+      "image": null,
+      "published": "2026-09-26 09:47:52",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "malawi"
+      ]
+    },
+    {
+      "title": "DigiTap Price Prediction: $0.14 Is Only the First Target as Buyers Ask if $0.50 and $1 Could Come Next",
+      "description": "DigiTap has given presale buyers a first price to watch. $TAP costs $0.0589 in Round 4, while the project states a $0.14 listing price. That gap has buyers asking what could happen after trading begins: could the token eventually reach",
+      "link": "https://www.openpr.com/news/4644645/digitap-price-prediction-0-14-is-only-the-first-target-as",
+      "source": "Openpr.com",
+      "image": "https://cdn.open-pr.com/L/9/L926743251_k.jpg",
+      "published": "2026-09-26 09:47:49",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "From Jail Cell to Police Constable: Kolkata Cop Now Helps Underprivileged Aspirants Secure Jobs In Force",
+      "description": "Mohanta Halder, a Kolkata police constable, transformed his life after spending nine days in jail. Motivated by his struggles, he began providing free coaching for government job aspirants.",
+      "link": "https://www.timesnownews.com/kolkata/from-jail-cell-to-police-constable-kolkata-cop-now-helps-underprivileged-aspirants-secure-jobs-in-force-article-156228781",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156228781,thumbsize-252343,width-1280,height-720,resizemode-75/156228781.jpg",
+      "published": "2026-09-26 09:47:48",
+      "category": [
         "top",
         "politics"
       ],
@@ -358,33 +238,217 @@
       ]
     },
     {
-      "title": "(SP)JAPAN-TOKYO-ASIAN GAMES-DIVING-MEN'S SYNCHRONISED 3M SPRINGBOARD-FINAL",
-      "description": "(260926) -- TOKYO, Sept. 26, 2026 (Xinhua) -- Wang Zongyuan (L)/Zheng Jiuyuan of China react before the men's synchronised 3m springboard final of diving at the 20th Asian Games Aichi-Nagoya 2026 in Tokyo, Japan, Sept. 26, 2026. (Xinhua/Wu Zhizun)",
-      "link": "http://www.shanghaisun.com/news/279332813/spjapan-tokyo-asian-games-diving-mens-synchronised-3m-springboard-final",
-      "source": "Shanghai Sun",
-      "image": "https://chitra-api.kreatio.com/api/v1/wps/20270e1/39dff624-cc3f-4fe4-b83c-668b6cda623a/0/XxjpseE000565-20260926-PEPFN0A001-600x315.jpg",
-      "published": "2026-09-26 06:17:24",
+      "title": "Rimbi landslides: 107 evacuated as West Sikkim village faces fresh threat",
+      "description": "Gangtok: Repeated landslides triggered by heavy monsoon rainfall have raised concerns over the safety of Rimbi village in West Sikkim, with authorities warning that the area may no longer be suitable for habitation. The latest incident occurred on Thursday night in the Singlitam-Rimbi belt of Gyalshing district, where a major landslide swept large quantities of [\u2026] The post Rimbi landslides: 107 evacuated as West Sikkim village faces fresh threat appeared first on Northeast News .",
+      "link": "https://nenews.in/politics/rimbi-landslides-107-evacuated-as-west-sikkim-village-faces-fresh-threat/65669/",
+      "source": "Northeast News - Northeast India News 24\u00d77",
+      "image": "https://nenews.in/wp-content/uploads/2026/09/Sikkim-landslide-1200x824.jpg",
+      "published": "2026-09-26 09:47:48",
       "category": [
-        "sports",
+        "environment",
         "top"
       ],
       "country": [
-        "china"
+        "india"
       ]
     },
     {
-      "title": "Over 500 A321neos May Have Fuselage Coating Flaw, But Airbus Says They're Safe To Fly",
-      "description": "The issue involves excessively thin anti-corrosion primer on A321neo stringers.",
-      "link": "https://simpleflying.com/airbus-a321neo-fuselage-coating-flaw-500-jets/",
-      "source": "Simple Flying",
-      "image": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airbus-a321neo-aircraft-on-static-display.jpg",
-      "published": "2026-09-26 06:17:22",
+      "title": "Sennheiser launches MOMENTUM 5 series in India with prices starting at Rs 29,990",
+      "description": "Sennheiser has launched its latest MOMENTUM 5 series in India, introducing the MOMENTUM 5 Wireless headphones and MOMENTUM True Wireless 5 earbuds at",
+      "link": "https://guwahatiobserver.com/sennheiser-launches-momentum-5-series-in-india-with-prices-starting-at-rs-29990/",
+      "source": "Guwahati Observer",
+      "image": "https://guwahatiobserver.com/wp-content/uploads/2026/09/MOMENTUM-1.jpeg",
+      "published": "2026-09-26 09:47:45",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Abuja Court Rejects Bid To Compel Police To Reopen Investigation Into Singer Mohbad\u2019s Death",
+      "description": "The Federal High Court in Abuja has dismissed a suit seeking to compel the Nigeria Police Force to reopen and conduct a fresh investigation into the death of Nigerian singer Ilerioluwa Aloba, popularly known as Mohbad. Justice James Omotosho, in a judgment delivered on Thursday, ruled that the Registered Trustees of Break the Silence Foundation [\u2026] The post Abuja Court Rejects Bid To Compel Police To Reopen Investigation Into Singer Mohbad\u2019s Death appeared first on Information Nigeria .",
+      "link": "https://www.informationng.com/2026/09/abuja-court-rejects-bid-to-compel-police-to-reopen-investigation-into-singer-mohbads-death.html",
+      "source": "Information Nigeria",
+      "image": "https://www.informationng.com/wp-content/uploads/2026/09/IMG_1634-721x425-2.jpeg",
+      "published": "2026-09-26 09:47:44",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Scottish Artist Mark Sib\u2019s Giulia Conti Portrait to Support Young Foilers",
+      "description": "Artwork featuring Italian sailing champion to go on display at Genoa Boat Show ahead of charity auction Scottish artist Mark Sib is bringing Scottish maritime art and high-performance sailing together with a portrait of Italian sailing champion Giulia Conti that will\u2026",
+      "link": "https://afloat.ie/sail/events/maritime-festivals/maritime-art/item/73137-scottish-artist-mark-sib-s-giulia-conti-portrait-to-support-young-foilers",
+      "source": "Afloat",
+      "image": "https://m.psecn.photoshelter.com/img-get/I0000FgsqAUWWYjQ/s/848/I0000FgsqAUWWYjQ.jpg",
+      "published": "2026-09-26 09:47:40",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "Chinese, US Military to Sign Memorandum on Strengthening Contacts in Crisis - Reports",
+      "description": "BEIJING (Sputnik) - The military in China and the United States have agreed to sign a memorandum of understanding as soon as possible to strengthen communication during crises and to prevent them, the China Central Television (CCTV) reported on Saturday.",
+      "link": "https://sputnikglobe.com/20260926/chinese-us-military-to-sign-memorandum-on-strengthening-contacts-in-crisis---reports-1124794066.html",
+      "source": "Sputnik News",
+      "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124794066.jpg?11109666361790416056",
+      "published": "2026-09-26 09:47:36",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "russia"
+      ]
+    },
+    {
+      "title": "WATCH: Disturbing Video Shows Man Brutally Assaulting, \u2018Choking\u2019 Woman Inside UP Family Court",
+      "description": "The woman had arrived at a Family Court in Maharajganj, Uttar Pradesh, for a hearing in a maintenance case. According to the woman, her sister and father, who were with her, were also assaulted.",
+      "link": "https://www.timesnownews.com/city/watch-disturbing-viral-video-shows-man-brutally-assaulting-choking-woman-inside-up-family-court-in-maharajganj-article-156228964",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156228960,thumbsize-614253,width-1280,height-720,resizemode-75/156228960.jpg",
+      "published": "2026-09-26 09:47:36",
       "category": [
         "crime",
         "top"
       ],
       "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Stones, eggs hurled at car of Mamata camp's TMC MLA Kunal Ghosh in Bengal",
+      "description": "Kunal Ghosh, a TMC MLA, faced an attack on his vehicle in Uttarpara while heading to a meeting. Protesters surrounded his car and hurled stones and eggs, leading to a broken rear windshield. Ghosh condemned the incident, claiming it represented lawlessness and lack of police presence. TMC leaders accused the BJP of orchestrating the pre-planned attack, while BJP MLA Dipanjan Chakraborty described it as public response.",
+      "link": "https://economictimes.indiatimes.com/news/politics-and-nation/stones-eggs-hurled-at-car-of-mamata-camps-tmc-mla-kunal-ghosh-in-bengal/articleshow/134501500.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-134501752,resizemode-4,width-1200,height-900,imgsize-61936,overlay-economictimes/articleshow.jpg",
+      "published": "2026-09-26 09:47:34",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\u0b36\u0b3f\u0b36\u0b41\u0b06 \u0b17\u0b4d\u0b30\u0b3e\u0b2e \u0b28\u0b3f\u0b15\u0b1f \u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b4d\u0b5f \u0b28\u0b3f\u0b30\u0b4d\u0b2e\u0b3e\u0b23 \u0b15\u0b3e\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b33\u0b5f \u0b2a\u0b30\u0b3f\u0b38\u0b30 \u0b30\u0b41 \u0b2c\u0b1c\u0b4d\u0b30\u0b15\u0b3e\u0b2a\u0b4d\u0b24\u0b3e \u0b09\u0b26\u0b4d\u0b27\u0b3e\u0b30 \u0b15\u0b32\u0b47 \u0964",
+      "description": "\u0b36\u0b3f\u0b36\u0b41\u0b06 \u0b17\u0b4d\u0b30\u0b3e\u0b2e \u0b28\u0b3f\u0b15\u0b1f \u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b4d\u0b5f \u0b28\u0b3f\u0b30\u0b4d\u0b2e\u0b3e\u0b23 \u0b15\u0b3e\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b33\u0b5f \u0b2a\u0b30\u0b3f\u0b38\u0b30 \u0b30\u0b41 \u0b2c\u0b1c\u0b4d\u0b30\u0b15\u0b3e\u0b2a\u0b4d\u0b24\u0b3e \u0b2c\u0b41\u0b32\u0b41\u0b25\u0b3f\u0b2c\u0b3e \u0b2c\u0b47\u0b33\u0b47 \u0b09\u0b26\u0b4d\u0b27\u0b3e\u0b30 \u0b15\u0b32\u0b47 \u0b38\u0b4d\u0b25\u0b3e\u0b28\u0b40\u0b5f \u0b36\u0b3f\u0b36\u0b41\u0b06 \u0b17\u0b4d\u0b30\u0b3e\u0b2e \u0b30 \u0b2f\u0b41\u0b2c\u0b15 \u0b2e\u0b3e\u0b28\u0b47\u0964 \u0b2c\u0b3e\u0b19\u0b4d\u0b15\u0b40 \u0b2c\u0b28 \u0b2c\u0b3f\u0b2d\u0b3e\u0b17\u0b15\u0b41 \u0b16\u0b2c\u0b30 \u0b26\u0b47\u0b2c\u0b3e \u0b2a\u0b30\u0b47 \u0b2c\u0b28 \u0b2c\u0b3f\u0b2d\u0b3e\u0b17 \u0b15\u0b30\u0b4d\u0b2e\u0b1a\u0b3e\u0b30\u0b40 \u0b2a\u0b39\u0b1e\u0b4d\u0b1a\u0b3f \u0b2c\u0b1c\u0b4d\u0b30\u0b15\u0b3e\u0b2a\u0b4d\u0b24\u0b3e \u0b15\u0b41 \u0b28\u0b47\u0b07 \u0b1b\u0b28\u0b4d\u0b24\u0b3f\u0964 #pangolin #Banki #ForestAnimal #OTVShorts For latest news updates follow us on WhatsApp: https://whatsapp.com/channel/0029VaYNIW78qIzrtKKZiD3M OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Internet and Mobile. Stay tuned for all the breaking news ! Visit Our Website https://odishatv.in/ News In Odia: http://otvkhabar.in/ Android App: https://bit.ly/OTVAndroidApp iOS App: https://bit.ly/OTViOSApp Watch Live: https://odishatv.in/live-tv YouTube: https://goo.gl/Ehz6OP Watch our latest news in English: https://bit.ly/3wTgKxc Facebook: https://www.facebook.com/otvkhabar OTV English Facebook : https://www.facebook.com/otvnews Telegram @otvtelegram @otvkhabar Twitter: https://twitter.com/otvnews Instagram: https://www.instagram.com/otvnews/ #OdishaTV #OTV",
+      "link": "https://otvkhabar.in/videosodisha/%E0%AC%B6%E0%AC%B6%E0%AC%86-%E0%AC%97%E0%AC%B0%E0%AC%AE-%E0%AC%A8%E0%AC%95%E0%AC%9F-%E0%AC%97%E0%AC%B0%E0%AC%AE%E0%AD%9F-%E0%AC%A8%E0%AC%B0%E0%AC%AE%E0%AC%A3-%E0%AC%95%E0%AC%B0%E0%AC%AF%E0%AD%9F%E0%AC%B3%E0%AD%9F-%E0%AC%AA%E0%AC%B0%E0%AC%B8%E0%AC%B0-%E0%AC%B0-%E0%AC%AC%E0%AC%9C%E0%AC%B0%E0%AC%95%E0%AC%AA%E0%AC%A4-%E0%AC%89%E0%AC%A6%E0%AC%A7%E0%AC%B0-%E0%AC%95%E0%AC%B2-12578503",
+      "source": "Otv News",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv-khabar/media/youtube_thumbnails/vi/8_2k8uTvS_0/maxresdefault.jpg",
+      "published": "2026-09-26 09:47:31",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DGP Vinayatosh Mishra Holds Review Meeting on Law and Order in Sambalpur",
+      "description": "#\u0b06\u0b07\u0b28\u0b36 \u0b43\u0b19\u0b4d\u0b16\u0b33\u0b3e\u0b15\u0b41_\u0b28\u0b47\u0b07_\u0b21\u0b3f\u0b1c\u0b3f\u0b2a\u0b3f\u0b19\u0b4d\u0b15_\u0b2c\u0b21\u0b3c_\u0b2c\u0b5f\u0b3e\u0b28 \u0b38\u0b2e\u0b4d\u0b2c\u0b32\u0b2a\u0b41\u0b30\u0b30\u0b47 \u0b2a\u0b4b\u0b32\u0b3f\u0b38 \u0b21\u0b3f\u0b1c\u0b3f \u0b2c\u0b3f\u0b28\u0b5f\u0b24\u0b4b\u0b37 \u0b2e\u0b3f\u0b36\u0b4d\u0b30\u0b19\u0b4d\u0b15 \u0b30\u0b3f\u0b2d\u0b4d\u0b5f\u0b41 \u0b2e\u0b3f\u0b1f\u0b3f\u0b02 \u0964 \u0b38\u0b2e\u0b4d\u0b2c\u0b32\u0b2a\u0b41\u0b30 \u0b09\u0b24\u0b4d\u0b24\u0b30\u0b3e\u0b1e\u0b4d\u0b1a\u0b33 \u0b2a\u0b4b\u0b32\u0b3f\u0b38 \u0b21\u0b3f\u0b06\u0b07\u0b1c\u0b3f\u0b19\u0b4d\u0b15 \u0b15\u0b3e\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b3e\u0b33\u0b5f\u0b30\u0b47 \u0b06\u0b30\u0b2e\u0b4d\u0b2d \u0b39\u0b4b\u0b07\u0b1b\u0b3f \u0b21\u0b3f\u0b1c\u0b3f\u0b2a\u0b3f\u0b19\u0b4d\u0b15 \u0b38\u0b2e\u0b40\u0b15\u0b4d\u0b37\u0b3e \u0b2c\u0b48\u0b20\u0b15 \u0964 \u0b09\u0b24\u0b4d\u0b24\u0b30\u0b3e\u0b1e\u0b4d\u0b1a\u0b33 \u0b2a\u0b4b\u0b32\u0b3f\u0b38 \u0b30\u0b47\u0b1e\u0b4d\u0b1c \u0b05\u0b28\u0b4d\u0b24\u0b30\u0b4d\u0b17\u0b24 \u0b2a\u0b3e\u0b1e\u0b4d\u0b1a\u0b1f\u0b3f \u0b1c\u0b3f\u0b32\u0b4d\u0b32\u0b3e\u0b30 \u0b0f\u0b38\u0b2a\u0b3f\u0b2e\u0b3e\u0b28\u0b47 \u0b0f\u0b39\u0b3f \u0b38\u0b2e\u0b40\u0b15\u0b4d\u0b37\u0b3e \u0b2c\u0b48\u0b20\u0b15\u0b30\u0b47 \u0b2f\u0b4b\u0b17 \u0b26\u0b47\u0b07\u0b1b\u0b28\u0b4d\u0b24\u0b3f \u0964 \u0b30\u0b47\u0b1e\u0b4d\u0b1c\u0b30\u0b47 \u0b06\u0b07\u0b28\u0b36\u0b43\u0b19\u0b4d\u0b16\u0b33\u0b3e \u0b2a\u0b30\u0b3f\u0b38\u0b4d\u0b25\u0b3f\u0b24\u0b3f, \u0b28\u0b3f\u0b36\u0b3e \u0b15\u0b3e\u0b30\u0b2c\u0b3e\u0b30 \u0b13 \u0b2c\u0b3f\u0b2d\u0b3f\u0b28\u0b4d\u0b28 \u0b2a\u0b4d\u0b30\u0b38\u0b19\u0b4d\u0b17\u0b30\u0b47 \u0b1a\u0b3e\u0b32\u0b3f\u0b1b\u0b3f \u0b38\u0b2e\u0b40\u0b15\u0b4d\u0b37\u0b3e \u0964 \u0b05\u0b2a\u0b30\u0b3e\u0b39\u0b4d\u0b28 \u0b6a\u0b1f\u0b3e \u0b2a\u0b30\u0b4d\u0b2f\u0b4d\u0b5f\u0b28\u0b4d\u0b24 \u0b0f\u0b39\u0b3f \u0b38\u0b2e\u0b40\u0b15\u0b4d\u0b37\u0b3e \u0b2c\u0b48\u0b20\u0b15 \u0b05\u0b28\u0b41\u0b37\u0b4d\u0b20\u0b3f\u0b24 \u0b39\u0b47\u0b2c \u0964 Odisha Police DGP Vinayatosh Mishra is holding a review meeting in Sambalpur at the office of the Northern Range Police DIG. SPs from five districts under the Northern Range have joined the meeting. Law and order, drug trafficking and other key issues in the range are being reviewed. The meeting is scheduled to continue until 4 PM. #DGP #VinayatoshMishra #Sambalpur #OdishaPolice #LawAndOrder #DrugTrafficking #PoliceReviewMeeting #OdishaNews #OdishaTV #OTV For latest news updates follow us on WhatsApp: https://whatsapp.com/channel/0029VaYNIW78qIzrtKKZiD3M OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Internet and Mobile. Stay tuned for all the breaking news ! Visit Our Website https://odishatv.in/ News In Odia: http://otvkhabar.in/ Android App: https://bit.ly/OTVAndroidApp iOS App: https://bit.ly/OTViOSApp Watch Live: https://odishatv.in/live-tv YouTube: https://goo.gl/Ehz6OP Watch our latest news in English: https://bit.ly/3wTgKxc Facebook: https://www.facebook.com/otvkhabar OTV English Facebook : https://www.facebook.com/otvnews Telegram @otvtelegram @otvkhabar Twitter: https://twitter.com/otvnews Instagram: https://www.instagram.com/otvnews/ #OdishaTV #OTV",
+      "link": "https://otvkhabar.in/videosodisha/society/dgp-vinayatosh-mishra-holds-review-meeting-on-law-and-order-in-sambalpur-12578500",
+      "source": "Otv News",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv-khabar/media/youtube_thumbnails/vi/FMrNoqrLsrA/maxresdefault.jpg",
+      "published": "2026-09-26 09:47:28",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "How a 95-km railway line is opening up Chhattisgarh's former Maoist strongholds",
+      "description": "The completion of the 95-km Dallirajhara-Rowghat railway line extends rail connectivity into north Bastar, an area formerly affected by Maoist violence, while creating a route for passenger travel, local goods and iron ore.",
+      "link": "https://www.moneycontrol.com/news/business/how-a-95-km-railway-line-is-opening-up-chhattisgarh-s-former-maoist-strongholds-14038862.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260926093906_Dallirajhara-Rowghat-railway-line-in-formerly-naxal-infested-Chhattisgarh-regions.png",
+      "published": "2026-09-26 09:47:27",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rayner criticises visa rules proposals ahead of Labour conference",
+      "description": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o",
+      "source": "The Bbc",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fe/live/2254a9f0-b942-11f1-bc1f-3f186ca4140c.jpg",
+      "published": "2026-09-26 09:47:25",
+      "category": [
+        "politics"
+      ],
+      "country": [
         "united kingdom"
+      ]
+    },
+    {
+      "title": "Rayner criticises visa rule proposals ahead of Labour conference - BBC",
+      "description": "Rayner criticises visa rule proposals ahead of Labour conference BBC Angela Rayner attacks Mahmood\u2019s migrant crackdown The Telegraph Home Secretary tells MPs that earned settlement policy will be set out later this year ein.org.uk I risked my life for the NHS. Now I face five years in migration limbo The i Paper Angela Rayner condemns Labour\u2019s migrant visa crackdown The Times",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vZVdKUDc3Q215WlZabGREZnptUU5tZ0J3MTU1VTRKRFVMQXNhbFpOMkhMbGhTQi14eVJjMjFrQ2w0NjJSdzBhckFIbEM5UzVRSWNpc19UU2t2MkxveHc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-09-26 09:47:25",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Israeli forces use phosphorus shells in southern Lebanon attacks",
+      "description": "Israeli forces used phosphorus munitions while shelling several towns in southern Lebanon on Friday, state news agency NNA reported. Artillery struck the outskirts of Zawtar al-Sharqiyah, Mayfadoun and Nabatieh al-Fawqa in the Nabatieh district. Phosphorus shells were used in Nabatieh al-Fawqa, while Israel later renewed attacks on Zawtar al-Sharqiyah with similar munitions. In the Tyre district, artillery fire also targeted Wadi Zibqin and the outskirts of Haris and Haddatha. READ: Israeli army sets fire to government hospital in southern Lebanon Lebanese army specialists dismantled two unexploded Israeli aerial bombs in Majdal Selm and Al-Ghandouriyah in the Marjayoun and Bint Jbeil districts and moved them to a safe location. The Israeli offensive in Lebanon has killed at least 4,386 victims, wounded 12,407 [\u2026]",
+      "link": "https://www.middleeastmonitor.com/20260926-israeli-forces-use-phosphorus-shells-in-southern-lebanon-attacks/",
+      "source": "Middle East Monitor",
+      "image": "https://www.middleeastmonitor.com/wp-content/uploads/2026/09/AA-20260921-42532560-42532559-ISRAELI_FORCES_ATTACK_LEBANON_DESPITE_CEASEFIRE.jpg",
+      "published": "2026-09-26 09:47:21",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "iraq",
+        "turkey",
+        "syria",
+        "iran",
+        "lebanon",
+        "palestine",
+        "egypt",
+        "united kingdom",
+        "israel",
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Six dead in separate traffic accidents",
+      "description": "September 26, 2026KABUL (AIP): At least six people died and another injured in separate traffic accidents in Khost, Balkh and Herat provinces, police said Saturday (Sept. 26). Spokesman of Khost police Tahir Ahrar told the Afghan Islamic Press (...",
+      "link": "https://www.afghanislamicpress.com/en/news/107701",
+      "source": "Afghan Islamic Press",
+      "image": "https://www.afghanislamicpress.com/en/storage/pictures/wQrryg3L7XLgNN89oBRNdup0cRrgkpuNqmRXJYlI.jpg",
+      "published": "2026-09-26 09:47:18",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "afghanistan"
       ]
     }
   ]

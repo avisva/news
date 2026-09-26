@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Sennheiser launches MOMENTUM 5 series in India with prices starting at Rs 29,990",
+      "description": "Sennheiser has launched its latest MOMENTUM 5 series in India, introducing the MOMENTUM 5 Wireless headphones and MOMENTUM True Wireless 5 earbuds at",
+      "link": "https://guwahatiobserver.com/sennheiser-launches-momentum-5-series-in-india-with-prices-starting-at-rs-29990/",
+      "source": "Guwahati Observer",
+      "image": "https://guwahatiobserver.com/wp-content/uploads/2026/09/MOMENTUM-1.jpeg",
+      "published": "2026-09-26 09:47:45",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

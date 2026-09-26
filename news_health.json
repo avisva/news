@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Amnesty International: It's Time to Abolish ICE",
+      "description": "Amnesty International says Immigration and Customs Enforcement needs to be abolished, not reformed. In a new report titled \"We Had Whistles, They Had Guns,\" the group alleges systemic human rights abuses by ICE during large-scale enforcement operations under President Trump's immigration agenda,\" Le Monde reports. \"ICE is fundamentally broken and...",
+      "link": "https://www.newser.com/story/397058/amnesty-international-its-time-to-abolish-ice.html",
+      "source": "Newser",
+      "image": "http://cdn.newser.com/image/1713952-0-20260925103000.jpeg?width=45&height=45&crop=Y",
+      "published": "2026-09-25 15:30:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

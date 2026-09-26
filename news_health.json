@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Amnesty International: It's Time to Abolish ICE",
-      "description": "Amnesty International says Immigration and Customs Enforcement needs to be abolished, not reformed. In a new report titled \"We Had Whistles, They Had Guns,\" the group alleges systemic human rights abuses by ICE during large-scale enforcement operations under President Trump's immigration agenda,\" Le Monde reports. \"ICE is fundamentally broken and...",
-      "link": "https://www.newser.com/story/397058/amnesty-international-its-time-to-abolish-ice.html",
-      "source": "Newser",
-      "image": "http://cdn.newser.com/image/1713952-0-20260925103000.jpeg?width=45&height=45&crop=Y",
-      "published": "2026-09-25 15:30:00",
+      "title": "Skunk and two raccoons reported to have rabies in St. Lawrence County",
+      "description": "CANTON -- The New York State Department of Health Wadsworth Laboratory has notified the St. Lawrence County Public Health Department (SLCPHD) that two raccoons in Canton and a skunk in the",
+      "link": "https://northcountrynow.com/stories/skunk-and-two-raccoons-reported-to-have-rabies-in-st-lawrence-county,392541",
+      "source": "North Country Now",
+      "image": "https://zeta.creativecirclecdn.com/ncn/large/20260925-161746-5c9-Screenshot%202026-09-25%20095620.png.jpg",
+      "published": "2026-09-25 21:05:00",
+      "category": [
+        "health",
+        "top",
+        "crime"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BMO's Harsh Kumar looks ahead to Micron Q4 results",
+      "description": "Harsh Kumar, BMO analyst, joins 'Closing Bell Overtime' to talk Micron quarterly results.",
+      "link": "https://www.cnbc.com/video/2026/09/25/bmos-harsh-kumar-looks-ahead-to-micron-q4-results.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368351-17903697401790369737-48607058184-1080pnbcnews.jpg?v=1790369739",
+      "published": "2026-09-25 21:04:59",
       "category": [
         "health"
       ],

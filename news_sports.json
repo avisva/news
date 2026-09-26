@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 7,
   "results": [
     {
-      "title": "North Carolina high school football live updates: Bandys @ Newton-Conover, Hickory hosts North Lincoln",
-      "description": "Check back for live updates of tonight's high school football games in the Hickory area and Catawba County.",
-      "link": "https://hickoryrecord.com/sports/high-school/football/article_b50d9c67-4795-47ab-94d4-40ea852b8604.html",
-      "source": "Hickory Daily Record",
-      "image": "https://bloximages.newyork1.vip.townnews.com/hickoryrecord.com/content/tncms/assets/v3/editorial/0/20/0209fdbe-ef68-529b-91f4-1684a50fcf80/6ab6c25758ab4.image.jpg",
-      "published": "2026-09-25 21:05:00",
+      "title": "Kazuma Okamoto powers Blue Jays past Reds 6-5 as Toronto snaps three-game skid",
+      "description": "TORONTO - Kazuma Okamoto hit two doubles, driving in three runs, to power the Toronto Blue Jays past the Cincinnati Reds 6-5 on Friday.",
+      "link": "https://www.thestar.com/sports/blue-jays/kazuma-okamoto-powers-blue-jays-past-reds-6-5-as-toronto-snaps-three-game-skid/article_1cde890f-1013-5475-a8ab-c9be67172c37.html",
+      "source": "The Star",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/74/c7424799-123c-538c-984d-17c4c8f51224/6ab7298bc4d97.image.jpg?resize=300%2C200",
+      "published": "2026-09-26 02:05:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Duke Defeats Wake Forest, 3-2, in Conference Opener",
+      "description": "Duke volleyball opened ACC play by winning a thrilling five-set match, 3-2 (22-25, 29-27, 25-18, 23-25, 15-10), over Wake Forest on Friday night inside Reynolds Gym.",
+      "link": "https://goduke.com/news/2026/9/25/volleyball-duke-defeats-wake-forest-3-2-in-conference-opener",
+      "source": "Goduke Athletics",
+      "image": "https://goduke.com/common/controls/image_handler.aspx?thumb_prefix=rp_system&image_path=/images/2026/9/25/Duke_Volleyball_Huddle.png",
+      "published": "2026-09-26 02:05:00",
       "category": [
         "sports",
         "top"
@@ -18,17 +32,78 @@
       ]
     },
     {
-      "title": "Flames make major roster moves ahead of season",
-      "description": "It was cut day for the Calgary Flames on Friday, with seven players sent to the Wranglers for more AHL seasoning and eight placed on waivers",
-      "link": "https://calgaryherald.com/sports/flames-make-major-roster-moves-ahead-of-season",
-      "source": "Calgary Herald",
-      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/09/calgaryflames-0923dp04.ca_305369561-2.jpg",
-      "published": "2026-09-25 21:04:56",
+      "title": "Cubs vs. Red Sox game relocated to Tampa for Sunday",
+      "description": "The Chicago Cubs and Boston Red Sox will have to play their final regular season game in Florida as a nor\u2019easter batters the East Coast",
+      "link": "https://us.headtopics.com/news/cubs-vs-red-sox-game-relocated-to-tampa-for-sunday-88152759",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/26/nbcchicago/cubs-vs-red-sox-game-relocated-to-tampa-for-sunday-cubs-vs-red-sox-game-relocated-to-tampa-for-sunday-CF50C01512475DE6A3CA25F04D8E25AF-16x9.webp",
+      "published": "2026-09-26 02:05:00",
       "category": [
-        "sports"
+        "sports",
+        "top"
       ],
       "country": [
-        "canada"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bears' injury report: Caleb Williams, Tyson Bagent miss practice",
+      "description": "Caleb Williams and Tyson Bagent were absent from Bears\u2019 practice Friday, and kicker Cairo Santos also remains on the team\u2019s injury report",
+      "link": "https://us.headtopics.com/news/bears-injury-report-caleb-williams-tyson-bagent-miss-88152757",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/26/nbcchicago/bears-injury-report-caleb-williams-tyson-bagent-mi-bears-injury-report-caleb-williams-tyson-bagent-mi-05708555BDD0AF7E68C80DC48A4D19A5-16x9.webp",
+      "published": "2026-09-26 02:05:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Ex-India captain Asunta Lakra leads protest against Hockey India officials | Hockey News",
+      "description": "Ex-India captain Asunta leads protest against Hockey India officials NEW DELHI: Former India women\u2019s captain Asunta Lakra, along with a group of former national and international players, including Olympians, staged a symbolic one-day protest against Hockey India secretary general Bholanath Singh and other office-bearers outside Gate No. 7 of the Major Dhyan Chand National Stadium here on [\u2026] The post Ex-India captain Asunta Lakra leads protest against Hockey India officials | Hockey News appeared first on bdnewstimes.com .",
+      "link": "https://bdnewstimes.com/ex-india-captain-asunta-lakra-leads-protest-against-hockey-india-officials-hockey-news/",
+      "source": "Bdnewstimes.com | All Time Latest News",
+      "image": "https://static.toiimg.com/thumb/msid-134495716,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "published": "2026-09-26 02:05:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Friday football: Shawnee surge lifts Tribe past DHS",
+      "description": "LIMA \u2014 Though Defiance forced a season-best four turnovers, the Bulldogs were unable to shake their losing skid on Friday in Lima as the Shawnee Indians pulled away for a 41-20 win.",
+      "link": "https://www.crescent-news.com/push/friday-football-shawnee-surge-lifts-tribe-past-dhs/article_837b5d5e-13d2-4cf2-a9ac-107a680dce38.html",
+      "source": "Crescent-news",
+      "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/e/3c/e3c06ec9-8e6f-4406-9862-705d1930da9e/67f088623631d.image.jpg?resize=300%2C150",
+      "published": "2026-09-26 02:05:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How to watch Air Force at Nevada late Saturday night",
+      "description": "Air Force plays its first road game of the season at Nevada on Saturday, a place where the teams have consistently played tight games. Air Force (1-1) at Nevada (1-2) Kickoff: 8:30 p.m. Saturday at Mackay Stadium, Reno, Nev. TV/Stream: FS1 \u2013 channel 11.1 in Colorado Springs on Comcast/Infinity (Channel 55/775 HD), DirecTV (Channel 219) and Dish [\u2026]",
+      "link": "https://gazette.com/2026/09/25/how-to-watch-air-force-at-nevada-late-saturday-night-3/",
+      "source": "Gazette",
+      "image": "https://gazette.com/wp-content/uploads/2026/09/JGPHOTO_20260912_776821.jpg",
+      "published": "2026-09-26 02:04:46",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

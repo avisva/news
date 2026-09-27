@@ -1,24 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "WHO recommends 2027 Southern Hemisphere influenza vaccine composition",
-      "description": "WHO bases its recommendations on surveillance data collected through the Global Influenza Surveillance and Response System (GISRS), supported by collaborating centres and essential regulatory laboratories.",
-      "link": "https://www.healthcaremea.com/2026/09/27/who-recommends-2027-southern-hemisphere-influenza-vaccine-composition/",
-      "source": "Healthcaremea",
-      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-27T114753.176.png",
-      "published": "2026-09-27 08:51:46",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "united arab emirates",
-        "jordan",
-        "saudi arabia",
-        "egypt"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

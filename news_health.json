@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Blood test could gauge if a baby has a dangerous infection in 15 minutes",
+      "description": "Feverish babies in hospital are often assumed to have a serious bacterial infection and are treated with antibiotics. But a test that gauges whether the infection is bacterial or viral, which tend to be milder, could prevent unnecessary drug use",
+      "link": "https://us.headtopics.com/news/blood-test-could-gauge-if-a-baby-has-a-dangerous-infection-88177989",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/27/newscientist/blood-test-could-gauge-if-a-baby-has-a-dangerous-i-blood-test-could-gauge-if-a-baby-has-a-dangerous-i-EA5FBDE5EFAF635F07786FF177872259-16x9.webp",
+      "published": "2026-09-27 00:43:00",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

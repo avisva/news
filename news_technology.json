@@ -1,5 +1,23 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Between 70 and 80% of Blood Bowl 3 games were solo",
+      "description": null,
+      "link": "https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/",
+      "source": "Pc Gamer",
+      "image": "https://cdn.mos.cms.futurecdn.net/Yy2zXpTfZYBRZs9tzAxTWS-1920-80.jpg",
+      "published": "2026-09-27 00:42:55",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom",
+        "australia",
+        "canada",
+        "united states of america"
+      ]
+    }
+  ]
 }

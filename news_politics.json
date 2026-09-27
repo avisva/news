@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Prime Minister Andy Burnham appeals for \u2018calm on all sides\u2019 as Drumcree stand-off continues",
+      "description": "Call comes as Garvaghy Road residents gather for protest after Orangemen get permission to parade",
+      "link": "https://www.irishnews.com/news/northern-ireland/prime-minister-andy-burnham-appeals-for-calm-on-all-sides-as-drumcree-stand-off-continues-LJTZVGQ4U5GOJGZP47K7FW77CM/",
+      "source": "The Irish News",
+      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/BEx1cdKJkrKGgusJe2Htb9dpbyM=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/QSCNHAKUXZN5LIEPRGFK3QXJJI.jpg",
+      "published": "2026-09-27 08:51:42",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Her father rejected her for being a girl, but Manasi Mridha overcame poverty, widowhood and hardship to become Kolkata\u2019s first Pink Cab driver",
+      "description": "Enduring a tumultuous childhood characterized by abandonment and a lack of educational resources, Manasi Mridha rose to formidable challenges. After becoming a mother at a young age and facing widowhood, she pursued multiple job opportunities for survival. With the help of the Azad Foundation\u2019s Women on Wheels initiative, she acquired vital driving skills, eventually becoming Kolkata's groundbreaking Pink Cab driver, thus paving the way for women in the transport sector.",
+      "link": "https://timesofindia.indiatimes.com/women/voices-of-power/her-father-rejected-her-for-being-a-girl-but-manasi-mridha-overcame-poverty-widowhood-and-hardship-to-become-kolkatas-first-pink-cab-driver/articleshow/134517325.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134517427/134517427.jpg",
+      "published": "2026-09-27 08:51:31",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

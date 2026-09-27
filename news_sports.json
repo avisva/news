@@ -1,34 +1,79 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "GGC's MaryLove Edwards, Suryanshi Suryanshi reach ITA South Regional finals",
-      "description": null,
-      "link": "https://www.gwinnettdailypost.com/sports/ggcs-marylove-edwards-suryanshi-suryanshi-reach-ita-south-regional-finals/article_9a5255b4-8580-4bee-9888-df5ce7787b1d.html",
-      "source": "Gwinnett Daily Post",
+      "title": "Enforcer\u2019s defining act to leave regrets; injury-ravaged stars fall apart \u2014 Panthers player ratings",
+      "description": "Penrith\u2019s season is over after a dramatic preliminary final loss to the Knights .",
+      "link": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2026-penrith-panthers-player-ratings-from-preliminary-final-vs-knights-stats-analysis-best-and-worst-players-injuries/news-story/bd36b0cdc72aa8ff1003e5e659aa4818",
+      "source": "Fox Sports",
       "image": null,
-      "published": "2026-09-27 05:28:00",
+      "published": "2026-09-27 08:52:00",
       "category": [
-        "top",
+        "sports",
+        "breaking"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Norfolk star Robert Lambert clinches world title",
+      "description": "Norfolk speedway star and former King's Lynn rider Robert Lambert has been crowned world champion.",
+      "link": "https://www.edp24.co.uk/sport/26585009.norfolk-speedway-star-robert-lambert-world-champion/",
+      "source": "Edp24",
+      "image": null,
+      "published": "2026-09-27 08:51:51",
+      "category": [
         "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Ibrahima Diallo breaks Olympia single-game rushing record in rout of Yelm",
+      "description": "It has already been quite the impressive season for Olympia senior running Ibrahima Diallo, but the star speedster added a broken record to his resum\u00e9. Diallo set the school record for rushing",
+      "link": "https://www.yelmonline.com/stories/ibrahima-diallo-breaks-olympia-single-game-rushing-record-in-rout-of-yelm,408957",
+      "source": "Nisqually Valley News",
+      "image": "https://cdn3.creativecirclemedia.com/lafromboise/large/20260926-191452-eff-20260926.YelmOlympiaFB.01.jpg",
+      "published": "2026-09-27 08:51:49",
+      "category": [
+        "sports",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Padres will have home-field advantage in wild-card rematch with Cubs",
-      "description": "SAN DIEGO (AP) \u2014 The San Diego Padres have earned a wild-card rematch with the Chicago Cubs, and this time it will be at home in packed and raucous Petco Park. Manny Machado and the Padres beat the Arizona Diamondbacks 10-7 on Saturday to wrap up the No. 4 seed in the National League playoffs. [...]",
-      "link": "https://www.nwahomepage.com/news/national-sports/ap-padres-will-have-home-field-advantage-in-wild-card-rematch-with-cubs/",
-      "source": "Knwa Fox24",
-      "image": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2026/09/6ab8aa7dc56765.88316626.jpeg?w=900",
-      "published": "2026-09-27 05:27:57",
+      "title": "IND vs AFG: Check India vs Afghanistan Asian Games 2026 Quarterfinal Match Timings, Venue, Squads, Where to Watch on TV, Live Streaming Details | All You Need to Know",
+      "description": "Asian Games 2026: India will begin their campaign at the Asian Games 2026 on Monday (Sep 28), taking on Afghanistan in the second quarterfinal of the men's T20 cricket competition at Korogi Sports Park in Nisshin, Japan. Led by Shreyas Iyer, the defending champions have entered the tournament directly at the quarterfinal stage as one of the top-seeded Full Member teams. Afghanistan secured their place in the last eight from Group A alongside Nepal. Here is everything you need to know about the match, including timings, venue, squads, TV broadcast and live streaming details.",
+      "link": "https://www.newsx.com/sports/ind-vs-afg-check-india-vs-afghanistan-asian-games-2026-quarterfinal-match-timings-venue-squads-where-to-watch-on-tv-live-streaming-details-all-you-need-to-know-and-more-276502/",
+      "source": "Newsx",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/ind-vs-afg-check-india-vs-afghanistan-asian-games-2026-quarterfinal-match-timings-venue-squads-where-to-watch-on-tv-live-streaming-details-all-you-need-to-know.png",
+      "published": "2026-09-27 08:51:30",
       "category": [
-        "sports"
+        "sports",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+      "description": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
+      "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo",
+      "source": "The Bbc",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d92/live/d59735e0-b8ee-11f1-a698-ff5dd8cb1a06.jpg",
+      "published": "2026-09-27 08:51:23",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

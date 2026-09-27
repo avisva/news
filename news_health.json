@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Cardiac Fibrosis Therapy Study Points To Shared Gpcr Signal",
+      "description": "Cardiac fibrosis therapy research from Stanford shows 3 adenosine receptors converge on one scar-driving signal. That could make treatment more effective.",
+      "link": "https://www.btin.co.in/cardiac-fibrosis-therapy-study-points-to-120004",
+      "source": "Business Times India",
+      "image": "https://data.btin.co.in/data/images/full/9146/science.png",
+      "published": "2026-09-26 12:12:53",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

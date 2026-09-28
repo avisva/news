@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Porsche beats Chanel for title of world\u2019s most valuable luxury brand",
-      "description": "Ferrari climbs to seventh in Brand Finance survey as first electric vehicle debuts",
-      "link": "https://www.timeslive.co.za/motoring/2026-09-28-porsche-beats-chanel-for-title-of-worlds-most-valuable-luxury-brand/",
-      "source": "Timeslive",
-      "image": "https://www.timeslive.co.za/resizer/v2/E42AMZAS2BHS3F5J4F5LDTSIBA.jpg?auth=b73e49ce38b893aff4c709a799e3d9a8befb11ca3cf64d11b8c74af1db8b3718&smart=true&width=1200&height=900",
-      "published": "2026-09-28 06:24:50",
+      "title": "Google Web Search Service API Documentation Has Been Removed",
+      "description": "A couple of weeks ago, Google seemed to accidentally publish its Web Search Service API documentation, then pulled it down last week. Google doesn't offer a public Web Search Service API, so we really can't access it, but I assume it does have some partners with access, like Apple.",
+      "link": "https://www.seroundtable.com/google-web-search-service-api-documentation-removed-42168.html",
+      "source": "Search Engine Roundtable",
+      "image": "https://images.seroundtable.com/google-api-hero-SS4LniVm.jpg",
+      "published": "2026-09-28 11:41:00",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "south africa"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nvidia Is Following Apple\u2019s Playbook. A Record Buyback Proves It.",
+      "description": null,
+      "link": "https://www.barrons.com/articles/nvidia-nvda-stock-price-record-high-buyback-d5af1589",
+      "source": "Barron",
+      "image": null,
+      "published": "2026-09-28 11:41:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

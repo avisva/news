@@ -1,21 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Why Man City charges case could still drag on for years",
-      "description": "Manchester City have been embroiled in legal disputes with UEFA and the Premier League for 12 years and they are so determined to clear their name, and the 115 charges case is so big, that it could still be years before the saga is concluded.",
-      "link": "https://www.skysports.com/football/news/12040/13592544/man-city-charges-case-involving-alleged-breaches-of-premier-league-financial-rules-could-drag-on-for-years",
-      "source": "Sky Sports",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-manchester-city-premier-league_7361194.jpg?20260925150441",
-      "published": "2026-09-28 06:25:00",
+      "title": "'Love is Blind' to release Boston season this October",
+      "description": "Netflix recently announced that the Boston season of 'Love is Blind' will hit the streaming platform this October. What to know.",
+      "link": "https://www.milforddailynews.com/story/entertainment/television/2026/09/28/love-is-blind-october-release-date-boston-season-11/91983148007/",
+      "source": "Milford Daily News",
+      "image": "https://www.milforddailynews.com/gcdn/authoring/authoring-images/2026/02/09/USAT/88592876007-love-is-blind-n-s-9-e-13-00-22-47-10-r.jpg?crop=3257,1832,x221,y95&width=1600&height=800&format=pjpg&auto=webp",
+      "published": "2026-09-28 11:41:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united states of america",
-        "australia",
-        "ireland",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018When I first started, we were dodging potholes on a Cherryfield pitch\u2019: 30-year Glentoran Women great reflects on career as she plays last home match",
+      "description": null,
+      "link": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/when-i-first-started-we-were-dodging-potholes-on-a-cherryfield-pitch-30-year-glentoran-women-great-reflects-on-career-as-she-plays-last-home-match/a/162259687.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/pzqprx-glentoran-women-x-kelly-bailie-1.jpg/alternates/BASE_SIXTEEN_NINE/Glentoran%20Women%20x%20Kelly%20Bailie%201.jpg",
+      "published": "2026-09-28 11:41:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
         "united kingdom"
       ]
     }

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Avalanche Hits Camp Before Himalayan Expedition",
+      "description": "At least two people were killed and 12 are missing after an avalanche slammed into a high-altitude staging camp in the Himalayas on Sunday as Nepali mountain guides were preparing for an expedition near the 23,380-foot Himlung Himal peak. Rescuers brought two bodies and 10 survivors down from the...",
+      "link": "https://www.newser.com/story/397144/avalanche-hits-camp-before-himalayan-expedition.html",
+      "source": "Newser",
+      "image": "http://cdn.newser.com/image/1714250-0-20260927111048.jpeg?width=45&height=45&crop=Y",
+      "published": "2026-09-27 15:37:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

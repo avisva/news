@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "IIT Delhi Develops India's Ist Indigenously Designed Micro\u2011GPU",
-      "description": "IIT Delhi has achieved a major milestone by developing India\u2019s first indigenously designed micro\u2011GPU, a compact programmable graphics processor aimed at affordable embedded systems such as e\u2011rickshaw dashboards, industrial displays, and educational devices. This breakthrough reduces India\u2019s dependence on imported GPUs and opens pathways for indigenous chip design. Notably, the key difference between a GPU and a micro-GPU is that a conventional GPU is a high\u2011performance graphics processor designed for intensive parallel workloads like gaming, AI, and scientific computing, while a micro\u2011GPU is a compact, low\u2011power version optimized for basic graphics tasks in embedded systems. GPUs dominate in AI, gaming, and scientific computing, but they are costly and power\u2011hungry. While, micro\u2011GPUs fill the gap for low\u2011cost, socially useful devices, enabling India\u2019s push for indigenous chip design and reducing import dependence. IIT Delhi\u2019s prototype micro\u2011GPU shows how embedded systems can benefit from programmable graphics without needing full\u2011scale GPUs Key Highlights Developed by: IIT Delhi\u2019s Electrical Engineering Department, led by Prof. Jayadeva, Prof. Kaushik Saha, and M.Tech students Nammi Akash and M. Ravi Teja. Platform: Demonstrated on a Spartan\u20117 FPGA using a custom floating\u2011point GPU engine written in Register Transfer Language (RTL). Significance: First working, demonstrable indigenous micro\u2011GPU from an Indian university. Applications: Industrial control displays, Human\u2011machine interfaces, E\u2011rickshaw dashboards, Fishing boat navigation terminals, Educational e\u2011book readers. Technical Details Feature Details Architecture Scalable, programmable graphics processor IP Implementation RTL mapped to Spartan\u20117 FPGA Future Roadmap 8\u201316 core vector\u2011style GPU with optimized compiler & toolchain ASIC Migration Planned proof\u2011of\u2011concept at 65nm process node for economic viability Goal Affordable, socially useful computing platforms bridging the digital divide Why It Matters for India Reduces import dependence: Currently, all GPUs used in India are imported. Supports indigenous hardware ecosystem: Aligns with India\u2019s semiconductor mission and DLI program. Educational impact: Provides a platform for students and researchers to experiment with programmable graphics hardware. Economic viability: Mature nodes like 65nm can make indigenous GPUs cost\u2011effective for mass deployment. Possible Challenges & Trade\u2011offs Performance limitations: Micro\u2011GPUs are not designed for high\u2011end AI/ML workloads; they target basic graphics needs. Scalability risks: Moving from FPGA prototypes to ASIC chips requires significant funding and industry collaboration. Global competition: India must compete with established GPU giants like NVIDIA and AMD, who dominate advanced GPU markets. India\u2019s indigenous GPU ecosystem is accelerating \u2014 beyond IIT Delhi\u2019s micro\u2011GPU, the government and academia are driving multiple initiatives under the IndiaAI Mission and Semicon India Programme to expand domestic GPU design, manufacturing, and compute capacity. Government announced addition of 20,000 GPUs to India\u2019s compute infrastructure in February 2026.Builds on existing 38,000 GPUs made available at subsidized rates (\u20b965/hour) for startups, academia, and public institutions.The government aims to democratize access to high\u2011end compute for AI research and innovation. First Published at www.IndianWeb2.com",
-      "link": "https://www.indianweb2.com/2026/09/iit-delhi-develops-indias-ist.html",
-      "source": "Indianweb2",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ua50yFS8q1p5v7lg5oEbaUv31ETcEoJqL1MSGVF8s2yWdb6DxlMfRhzaYVXJtd3H05yx6SEFOw8e1rbBhCcVDHbAxeFRi0xbIGERbDFpr2NCsCmB35TKFlRdvFjWXRG0ADsK-GcbkWMdv5_3FQt0UXpCa4S7uG5QhaHE66YJ4Qdi7X0655ifDesyAJ0/s72-c/67506.png",
-      "published": "2026-09-27 11:37:25",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

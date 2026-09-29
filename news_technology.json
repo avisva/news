@@ -1,35 +1,19 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Nvidia Unveils Safety Platform to Stop AI Agents from Breaking Containment",
-      "description": "Nvidia announced its new Open Agent Safety Platform on Monday with 100 industry partners, aiming to help AI developers stop their autonomous agents from escaping the systems meant to contain them, representing an industry solution to a problem that has OpenAI and Anthropic begging for government regulation. CNBC reports that the announcement follows disclosures from [\u2026] The post Nvidia Unveils Safety Platform to Stop AI Agents from Breaking Containment appeared first on CBNC .",
-      "link": "https://cbnc.com/nvidia-unveils-safety-platform-to-stop-ai-agents-from-breaking-containment/",
-      "source": "Cbnc",
-      "image": "https://cbnc.com/wp-content/uploads/2026/09/Nvidia-boss-Jensen-Huang-is-the-AI-cop-640x335.jpg",
-      "published": "2026-09-28 16:13:00",
+      "title": "Nvidia Open Agent Safety Platform Launched for In-Silicon AI Agent Security With OpenShell and Sentry",
+      "description": "Nvidia has launched the Open Agent Safety Platform as a new open stack solution for AI agent security and safety, the US-based tech giant has announced. The announcement comes after\u2026",
+      "link": "https://www.swapupdate.in/nvidia-open-agent-safety-platform-launched-for-in-silicon-ai-agent-security-with-openshell-and-sentry/",
+      "source": "Swapupdate",
+      "image": "https://i.gadgets360cdn.com/large/nvidia_open_agent_safety_platform_inline_1790598290353.png",
+      "published": "2026-09-28 23:03:57",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "Insightful perspective points to the difference between regulating AI and trying to stop it",
-      "description": "Longtime Norfolkans may recall that Mike Nolan, a former city administrator, would occasionally refer to Luddites when talking about fears associated with technological or societal changes on the horizon.",
-      "link": "https://norfolkdailynews.com/commentary/insightful-perspective-points-to-the-difference-between-regulating-ai-and-trying-to-stop-it/article_bb6009e8-cffd-4f02-aabe-22626d62ee06.html",
-      "source": "Norfolk Daily News",
-      "image": null,
-      "published": "2026-09-28 16:13:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
       ]
     }
   ]

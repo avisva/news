@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Shabana Mahmood hints she could water down controversial care worker visa plans - The Guardian",
-      "description": "Shabana Mahmood hints she could water down controversial care worker visa plans The Guardian See more headlines and perspectives on Google News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalJnb1pYZUl3bGl0ZS1vWHV5czVWY2RpYzd0VWttWVVvck04ZnFfbTNOanBTMTM1Q1FfcWk0T3Fad1RwQlBZRHR5eFg3cUE1V1BtQm5QV2tXUDlwMENJY2JXRW90alFGeUcybHFqeWFLVHI4cDBua0VnbzdYcEtCRDFkNGNxXzZ5NUNOaXZOdllrT2V5eC1IaDVqR1ZTdGU1cGFNUXlB?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-28 16:13:00",
+      "title": "US revokes visas from Latin American officials, including Bolivia's top prosecutor",
+      "description": "The Trump administration is revoking the visas of 27 Latin American officials and their families, including Bolivia's attorney general, over accusations of corruption",
+      "link": "https://www.koco.com/article/us-revokes-visas-latin-american-officials/73929147",
+      "source": "Koco News Channel Five",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/f2c245ce-f5a6-4755-8e72-0532477dd88b.jpg",
+      "published": "2026-09-28 23:04:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BJP\u2019s hypocrisy will be exposed if it refuses to join all-party delegation: CM",
+      "description": "Speaking to the media near his residence in Sadashivanagar, he was responding to questions about BJP leaders stating that they would not join the all-party delegation on the drought issue.\u201c",
+      "link": "https://www.thehansindia.com/news/cities/bengaluru/bjps-hypocrisy-will-be-exposed-if-it-refuses-to-join-all-party-delegation-cm-1126749",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/09/28/1707233-dk.webp",
+      "published": "2026-09-28 23:03:52",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

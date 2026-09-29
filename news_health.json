@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "White Coat Investor Helps Doctors with Financial Advice",
-      "description": "Dr. James Dahle, an emergency medicine physician, created The White Coat Investor to provide free financial advice to doctors and help them avoid common money mistakes.",
-      "link": "https://us.headtopics.com/news/white-coat-investor-helps-doctors-with-financial-advice-88230539",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/9/28/kslcom/white-coat-investor-helps-doctors-with-financial-a-white-coat-investor-helps-doctors-with-financial-a-C41E4FCDD4454FD5B106FBE3D41BBE07-16x9.webp",
-      "published": "2026-09-28 16:13:00",
+      "title": "University Medical Center G\u00f6ttingen Takes a New Approach to the Use of Clinical Data",
+      "description": "UMG is advancing its data integration center and becomes the first German university hospital to introduce MDClone's internationally established ADAMS model.",
+      "link": "https://www.thetimesnews.com/online_features/press_releases/university-medical-center-g-ttingen-takes-a-new-approach-to-the-use-of-clinical-data/article_c7b5f9c2-7482-5e2f-9d35-312eb37b93b0.html",
+      "source": "The Times News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thetimesnews.com/content/tncms/assets/v3/editorial/b/89/b89c3f51-127a-5391-9e65-e5df271dfeed/6abb5c893dce3.image.jpg?resize=300%2C45",
+      "published": "2026-09-28 23:04:00",
       "category": [
         "health",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "AMY GREEN AND THE GREEN VISION FOUNDATION HOSTED THE FOOTPRINT OF LIFE DURING CLIMATE WEEK NYC",
+      "description": "Adam Met and Planet Reimagined, and Laureus Ambassador Garrett McNamara Honored at Invite-Only Core Club Dinner Adam Met and Planet Reimagined, and Laureus Ambassador Garrett McNamara Honored at Invite-Only Core Club Dinner",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/09/28/3370333/0/en/amy-green-and-the-green-vision-foundation-hosted-the-footprint-of-life-during-climate-week-nyc.html",
+      "source": "Globenewswire_fr",
+      "image": "https://ml.globenewswire.com/Resource/Download/124e45ce-9bcb-45e2-9b3d-67bf260348fd/b60a794c-ab5b-48be-96ea-2b1b89a26517.png",
+      "published": "2026-09-28 23:04:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "france"
       ]
     }
   ]

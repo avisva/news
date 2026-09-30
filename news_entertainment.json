@@ -1,33 +1,64 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "12-million-year-old fossil leaf from the Himalaya reveals a previously unknown fungal species",
-      "description": "Researchers have made a significant find with the identification of Vizellopsidites miocenicus, a previously unknown fungal species, preserved in fossilized leaves from Himachal Pradesh. Dating back to the Late Miocene epoch, about 12 to 8 million years ago, this ectoparasite reveals crucial insights into ancient ecological interactions within tropical Siwalik forests, highlighting the intricate relationships between flora and fungi in prehistoric environments.",
-      "link": "https://timesofindia.indiatimes.com/science/wildlife/12-million-year-old-fossil-leaf-from-the-himalaya-reveals-a-previously-unknown-fungal-species/articleshow/134565911.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134566220/134566220.jpg",
-      "published": "2026-09-30 02:45:00",
+      "title": "Cork comedian Kyla Cobbler announces pregnancy with husband Simon Stewart",
+      "description": "Kyla Cobbler and her husband Simon Stewart are expecting their first baby together in April 2027",
+      "link": "https://www.irishexaminer.com/lifestyle/people/arid-41917612.html",
+      "source": "Irish Examiner",
+      "image": "https://www.irishexaminer.com/cms_media/module_img/10488/5244235_2_articlelarge_My_20Weekend_20Kyla_20Cobbler_1_.jpg",
+      "published": "2026-09-30 07:48:00",
       "category": [
-        "entertainment"
+        "entertainment",
+        "top"
       ],
       "country": [
-        "india"
+        "ireland"
       ]
     },
     {
-      "title": "This 331 Episode TV Franchise Might Be The CW\u2019s Masterpiece, And I Can Prove It",
-      "description": "When people think of The CW and great franchises, there\u2019s probably one that immediately comes to mind and that would be the Arrowverse. It\u2019s a franchise that certainly deserves to be on the list of great television franchises. Spanning six official series between 2012 and 2023, the networks interconnected DC Comics inspired shows completely redefined [\u2026]",
-      "link": "https://comicbook.com/tv-shows/feature/this-331-episode-tv-franchise-might-be-the-cws-masterpiece-and-i-can-prove-it/",
-      "source": "Comic Book",
-      "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/10/the-cw-logo.jpg",
-      "published": "2026-09-30 02:45:00",
+      "title": "A commercial plane traveling from Dubai to Israel is diverted to Saudi Arabia after a distress call",
+      "description": null,
+      "link": "https://www.wsbradio.com/news/world/commercial-plane/V3VMFDIJCUYZJJNUWVQJOZF2JA/",
+      "source": "95.5 Wsb",
+      "image": null,
+      "published": "2026-09-30 07:48:00",
       "category": [
         "entertainment"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Tom Cruise trades stunts for satire in new film",
+      "description": "US actor Tom Cruise at the premiere of Warner Bros\u2019 \u2018Digger\u2019 at the Directors Village in Los Angeles on September 28. Photo: Valerie Macon/AFP",
+      "link": "https://timesofmalta.com/article/tom-cruise-trades-stunts-satire-new-film.1134860",
+      "source": "Times Of Malta",
+      "image": "https://cdn-attachments.timesofmalta.com/8150de3724603a260c99eb0ffc4e10e550632d6c-1790754597-4d17171a-1920x1280.jpg",
+      "published": "2026-09-30 07:48:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "malta"
+      ]
+    },
+    {
+      "title": "The Thing With Feathers: Rajat Kapoor and Mantra on creating a play beyond the script",
+      "description": "The play takes audiences on a journey through history, storytelling and the creative process behind its making. It explores how people hold on to hope and find light during difficult times.",
+      "link": "https://www.thestatesman.com/entertainment/the-thing-with-feathers-rajat-kapoor-and-mantra-on-creating-a-play-beyond-the-script-1503645011.html",
+      "source": "The Statesman",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2026/09/The-Thing-With-Feathers-Rajat-Kapoor-and-Mantra-on-creating-a-play-beyond-the-script.webp",
+      "published": "2026-09-30 07:47:41",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

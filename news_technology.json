@@ -1,36 +1,78 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "What Do Velocity Stacks Do On A Motorcycle?",
-      "description": "A common modification for some motorcycles is the trumpet-shaped piece of metal known as a velocity stack. What does this part actually do?",
-      "link": "https://www.slashgear.com/2267410/what-does-velocity-stack-do-on-a-motorcycle/",
-      "source": "Slashgear",
-      "image": "https://www.slashgear.com/img/gallery/what-do-velocity-stacks-do-on-a-motorcycle/l-intro-1790247293.jpg",
-      "published": "2026-09-30 02:45:00",
+      "title": "Xinhua Silk Road: 5th Changsha Tourism Development Conference opens in Hunan",
+      "description": "BEIJING, Sept. 30, 2026 /PRNewswire/ -- The Fifth Changsha Tourism Development Conference opened in Changsha County, Changsha City, the capital of China's Hunan Province, on September 29. The conference featured a diverse range of tourism offerings, including red-themed study tours,...",
+      "link": "https://www.prnewswire.co.uk/news-releases/xinhua-silk-road-5th-changsha-tourism-development-conference-opens-in-hunan-302894083.html",
+      "source": "Pr Newswire Uk",
+      "image": "https://mmx.prnewswire.com/media/MS1999481/20260930025854EDT_image_1.jpg?id=OA2978991&p=original",
+      "published": "2026-09-30 07:48:00",
+      "category": [
+        "technology",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Aside browser just got 90% lighter and 14x cheaper to run, at least on paper",
+      "description": "If you\u2019ve used Aside in the past few months, you probably noticed how much memory it eats up. The browser offers some cool features, but it often uses so much system memory that your laptop fan sounds like it\u2019s about to take off. This week, Chanhee, one of Aside\u2019s cofounders, posted on X that things [\u2026] The post Aside browser just got 90% lighter and 14x cheaper to run, at least on paper appeared first on PiunikaWeb .",
+      "link": "https://piunikaweb.com/2026/09/30/aside-browser-lighter-cheaper-performance-update/",
+      "source": "Piunikaweb",
+      "image": "https://piunikaweb.com/wp-content/uploads/2026/06/aside-browser-featured.webp",
+      "published": "2026-09-30 07:47:57",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Google Fitbit Air With Continuous Heart Rate Tracking Debuts in India",
+      "description": "Google Fitbit Air has been launched in India, the company announced on Wednesday. This comes weeks after the company showcased its first screen-less fitness tracker in India during the Made by Google...",
+      "link": "https://www.gadgets360.com/wearables/news/google-fitbit-air-india-launch-date-announced-specifications-features-12118745",
+      "source": "Ndtv",
+      "image": "https://i.gadgets360cdn.com/large/google_fitbit_air_india_launch_main_1786607120549.png",
+      "published": "2026-09-30 07:47:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "singapore",
-        "united kingdom",
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "OpenAI DevDay 2026: Dots to Pro 500 plan, check key announcements from ChatGPT maker\u2019s developer conference",
-      "description": "OpenAI DevDay 2026: Dots to Pro 500 plan, check key announcements from ChatGPT maker\u2019s developer conference",
-      "link": "https://www.digit.in/news/general/openai-devday-2026-dots-to-pro-500-plan-check-key-announcements-from-chatgpt-makers-developer-conference.html",
-      "source": "Digit",
-      "image": "https://static.digit.in/chatgpt-create.png",
-      "published": "2026-09-30 02:45:00",
+      "title": "Why the stories we tell could become the unexpected shortcut to managing enterprise agents",
+      "description": "At World of Workato last week in Las Vegas, Ian Thomas thought he was just talking to Persefoni\u2019s Matt Palmer about how he was using Workato for automation and AI. Which he kind of did - but the conversation also went somewhere much stranger, and more interesting.",
+      "link": "https://diginomica.com/stories-we-tell-unexpected-key-managing-enterprise-agents",
+      "source": "Diginomica",
+      "image": "https://diginomica.com/sites/default/files/images/2026-09/Matt%20Palmer%20of%20Persefoni%20introduces%20his%20Jedi-inspired%20agents%20at%20World%20of%20Workato%20780px.jpg",
+      "published": "2026-09-30 07:47:47",
       "category": [
         "technology"
       ],
       "country": [
-        "india"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "ProHance launches governance platform to track contingent workforce metrics",
+      "description": "Analytics firm ProHance launched an enterprise management platform designed to unify cost tracking service delivery and operational performance metrics across contingent project teams",
+      "link": "https://vir.com.vn/prohance-launches-governance-platform-to-track-contingent-workforce-metrics-161797.html",
+      "source": "Vietnam Investment Review - Vir",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/092026/30/14/in_social/prohance-launches-governance-platform-to-track-contingent-workforce-metrics-20260930144635.jpg?randTime=1790755941",
+      "published": "2026-09-30 07:47:45",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "vietnam"
       ]
     }
   ]

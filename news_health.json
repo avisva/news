@@ -1,5 +1,39 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "'I Didn't See the Rules': Ukrainian Fitness Influencer Apologises After Riding Egg-Laying Turtle in Oman",
+      "description": "Ukrainian fitness influencer Vadym Oleynik apologises after footage appeared to show him sitting on a sea turtle at a protected nesting site in Oman.",
+      "link": "https://www.ibtimes.co.uk/ukrainian-influencer-sitting-sea-turtle-oman-1822828",
+      "source": "International Business Times",
+      "image": "https://d.ibtimes.co.uk/en/full/1833976/ukrainian-influencer.png?w=1600&h=900&q=88&f=8e79b9fa730757bc969940a600c8299e",
+      "published": "2026-09-30 07:47:41",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Siemens Healthineers launches INNOVANCE D-Dimer 2.0 globally to support VTE assessment",
+      "description": "D-dimer testing measures fragments produced when blood clots break down and can help assess patients with increased clotting activity.",
+      "link": "https://www.healthcaremea.com/2026/09/30/siemens-healthineers-launches-innovance-d-dimer-2-0-globally-to-support-vte-assessment/",
+      "source": "Healthcaremea",
+      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/09/image-1600x900-2026-09-30T104435.629.png",
+      "published": "2026-09-30 07:47:36",
+      "category": [
+        "health",
+        "top"
+      ],
+      "country": [
+        "saudi arabia",
+        "united arab emirates",
+        "jordan",
+        "egypt"
+      ]
+    }
+  ]
 }

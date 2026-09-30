@@ -1,16 +1,15 @@
 {
   "status": "success",
-  "totalResults": 20,
+  "totalResults": 16,
   "results": [
     {
-      "title": "Protect College Sports Act gains Senate approval in bipartisan vote",
-      "description": "The Protect College Sports Act took its next step forward on Monday, with the Senate voting overwhelmingly 77-22 in favor of the proposed federal legislation reforming college athletics.",
-      "link": "https://theeagle.com/news/national/govt-and-politics/article_aea186a2-b671-46c6-95a2-39ceff2616a6.html",
-      "source": "The Eagle",
-      "image": "https://bloximages.chicago2.vip.townnews.com/theeagle.com/content/tncms/assets/v3/editorial/0/31/031e674a-b886-59de-90a5-59e85e540a68/6abb9bd3f2582.image.jpg",
-      "published": "2026-09-29 19:57:00",
+      "title": "Surf's up - Boy, Was It Ever - During the Nor'easter",
+      "description": "Last weekend's \"perfect storm\" made Ocean City the surfing capital of the East Coast.",
+      "link": "https://www.capemaycountyherald.com/news/decades-worst-storm-was-a-surfers-dream-7410ff0d",
+      "source": "Cape May County Herald",
+      "image": "https://public-assets-prod.pubgen.ai/brand_c51cfbaf-2d61-4dfa-9b08-2f67c5541691/asset_5cf2f70f-9dbb-4f18-8126-24e10939f2b1.png",
+      "published": "2026-09-30 02:45:00",
       "category": [
-        "politics",
         "top",
         "sports"
       ],
@@ -19,14 +18,44 @@
       ]
     },
     {
-      "title": "University Lecturer Removed from Classroom After Viral confrontation with Student",
-      "description": "A California State University San Marcos lecturer is no longer teaching after a viral video showed her ordering a student out of class during a heated exchange about alcoholism rates among Native Americans. The university said on TikTok on September 18 that she is no longer in the classroom, while the incident sparked debate online.",
-      "link": "https://us.headtopics.com/news/university-lecturer-removed-from-classroom-after-viral-88277637",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/9/29/foxnews/university-lecturer-removed-from-classroom-after-v-university-lecturer-removed-from-classroom-after-v-260F957209B564005926132075E89049-16x9.webp",
-      "published": "2026-09-29 19:57:00",
+      "title": "Statesboro receives grants for infrastructure upgrades and senior housing",
+      "description": "Statesboro landed $2.4 million for infrastructure upgrades and $1.18 million in tax credits for 46 new senior homes.",
+      "link": "https://www.wjcl.com/article/statesboro-infrastructure-grant-affordable-housing/73951400",
+      "source": "Wjcl Television",
+      "image": "https://hips.hearstapps.com/htv-prod/images/statesboro-order-1586290430.jpg",
+      "published": "2026-09-30 02:45:00",
       "category": [
-        "crime",
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "From pot washer to culinary director: British expat reflects on 15 years in the UAE",
+      "description": "British expat shares his inspiring rise from pot washer to culinary director and how 15 years in the UAE transformed his life and career.",
+      "link": "https://gulfnews.com/uae-success-stories/from-pot-washer-to-culinary-director-british-expat-reflects-on-15-years-in-the-uae-1.500692162",
+      "source": "Gulf News",
+      "image": "https://media.assettype.com/gulfnews/2026-09-29/fxgnenrr/Chef-Daniel-1.jpg.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-09-30 02:45:00",
+      "category": [
+        "food",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "Federal Judge Ends 23-Year Oversight of Oakland Police Department",
+      "description": "A federal judge has officially terminated the 23-year court monitorship of the Oakland Police Department, marking the end of the longest-running police reform case in U.S. history. The oversight began in 2003 following the Oakland Riders scandal, where officers were accused of corruption and brutality. The case closure transfers full authority over police discipline and policy to the local Oakland Police Commission, though officials note that reform efforts continue.",
+      "link": "https://us.headtopics.com/news/federal-judge-ends-23-year-oversight-of-oakland-police-88285387",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/9/30/abc7newsbayarea/federal-judge-ends-23-year-oversight-of-oakland-po-federal-judge-ends-23-year-oversight-of-oakland-po-115AB74A153DC3AFE8C3D991448A01FB-16x9.webp",
+      "published": "2026-09-30 02:45:00",
+      "category": [
+        "politics",
         "top"
       ],
       "country": [
@@ -34,86 +63,29 @@
       ]
     },
     {
-      "title": "Wolverines bounce back after loss to Edina with win over Alexandria",
-      "description": "CROSBY \u2014 The Rock Ridge girls\u2019 tennis team recently came out of one of the toughest parts of their schedule over the last few days, and earned a split with",
-      "link": "https://www.mesabitribune.com/sports/high_school/wolverines-bounce-back-after-loss-to-edina-with-win-over-alexandria/article_a4548848-a7b1-4a43-8479-e4fe0a910413.html",
-      "source": "Mesabi Tribune",
-      "image": "https://bloximages.chicago2.vip.townnews.com/mesabitribune.com/content/tncms/custom/image/0bbf17d4-13ad-11eb-8fcd-0b90c4591265.jpg?resize=600%2C315",
-      "published": "2026-09-29 19:57:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference",
-      "description": "OpenAI CEO Sam Altman introduced a \u201cremarkably capable, always-on\u201d artificial intelligence agent at an appearance Tuesday where he avoided any reference to security concerns around the company's most advanced models.",
-      "link": "https://www.castanetkamloops.net/news/Business/632807/OpenAI-CEO-announces-new-AI-agent-and-avoids-mention-of-security-concerns-at-developer-conference",
-      "source": "Kamloops This Week",
-      "image": "https://www.castanetkamloops.net/content/2026/9/d34b6b8845b2d16c5516be3d38c8a726cf2708a3462c1369a8edee1dc461eaa6.jpg",
-      "published": "2026-09-29 19:57:00",
+      "title": "What Do Velocity Stacks Do On A Motorcycle?",
+      "description": "A common modification for some motorcycles is the trumpet-shaped piece of metal known as a velocity stack. What does this part actually do?",
+      "link": "https://www.slashgear.com/2267410/what-does-velocity-stack-do-on-a-motorcycle/",
+      "source": "Slashgear",
+      "image": "https://www.slashgear.com/img/gallery/what-do-velocity-stacks-do-on-a-motorcycle/l-intro-1790247293.jpg",
+      "published": "2026-09-30 02:45:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "canada"
+        "singapore",
+        "united kingdom",
+        "united states of america"
       ]
     },
     {
-      "title": "Afghanistan summons Pakistani envoy, lodges strong protest over \u201ccross-border infiltration\u201d in Nuristan",
-      "description": "Kabul [Afghanistan], September 30 (ANI): The Ministry of International Affairs of Afghanistan on Tuesday (native time) summoned the Cost d\u2019Affaires of the Pakistani Embassy in Kabul to lodge a powerful letter of protest in opposition to the \u201cinfiltration of damaging armed parts throughout the Durand Line into Istiqlal in Nuristan.\u201d In an announcement posted on [\u2026] The post Afghanistan summons Pakistani envoy, lodges strong protest over \u201ccross-border infiltration\u201d in Nuristan appeared first on Asia Today .",
-      "link": "https://asiatoday.co/2026/09/30/afghanistan-summons-pakistani-envoy-lodges-strong-protest-over-cross-border-infiltration-in-nuristan/",
-      "source": "Asia Today",
-      "image": null,
-      "published": "2026-09-29 19:57:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "Aloke Satnaliwala Vs. Nirmala Devi Fatehpuria and Ors. \u2013 Calcutta High Court",
-      "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password \ud83d\udc41 Remember [\u2026]",
-      "link": "https://ibclaw.in/aloke-satnaliwala-vs-nirmala-devi-fatehpuria-and-ors-calcutta-high-court/",
-      "source": "Ibclaw",
-      "image": "https://ibclaw.in/wp-content/uploads/2026/08/IBCLaws-logo-schema.webp",
-      "published": "2026-09-29 19:57:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Tamil Nadu Mercantile Bank Ltd. Vs. E. Santhanalakshmi, Liquidator of Swastik Spinners (India) Pvt. Ltd. and Anr. \u2013 NCLAT, Chennai Bench",
-      "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password \ud83d\udc41 Remember [\u2026]",
-      "link": "https://ibclaw.in/tamil-nadu-mercantile-bank-ltd-vs-e-santhanalakshmi-liquidator-of-swastik-spinners-india-pvt-ltd-and-anr-nclat-chennai-bench/",
-      "source": "Ibclaw",
-      "image": "https://ibclaw.in/wp-content/uploads/2026/08/IBCLaws-logo-schema.webp",
-      "published": "2026-09-29 19:57:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "U.S. 73 project to begin in Atchison, Brown counties",
-      "description": "The Kansas Department of Transportation says the project will begin on Wednesday, Sept. 30.",
-      "link": "https://www.wibw.com/2026/09/29/us-73-project-begin-atchison-brown-counties/",
-      "source": "Https://www.wibw.com",
-      "image": "https://gray-wibw-prod.gtv-cdn.com/resizer/v2/67XRUIYHKVD5RHE45SF4BMBOFY.png?auth=8d47d71730b2ba3631f4a776e161e455cb7983f9a42c23a7075db2982da494ea&width=1200&height=600&smart=true",
-      "published": "2026-09-29 19:57:00",
+      "title": "Ontario is reviving its threat to cut electricity exports to the US. What does that mean?",
+      "description": "Amid worsening U.S.-Canada relations, Ontario Premier Doug Ford is once again threatening to cut off electricity to 1.5 million homes and businesses across three neighboring American states: Minnesota, Michigan and New York. The move comes as Canada tries to stave off the impact of U.S. President Donald Trump\u2019s decision to charge \u201cfar WORSE\u201d tariffs after The post Ontario is reviving its threat to cut electricity exports to the US. What does that mean? appeared first on KTVZ .",
+      "link": "https://ktvz.com/stacker-international/2026/09/29/ontario-is-reviving-its-threat-to-cut-electricity-exports-to-the-us-what-does-that-mean/",
+      "source": "Ktvz",
+      "image": "https://ktvz.b-cdn.net/2026/09/The-Narwhal-Ontario-is-reviving-its-threat-to-cut-electricity-exports-to-the-US.-What-does-that-mean.jpg",
+      "published": "2026-09-30 02:45:00",
       "category": [
         "top",
         "business"
@@ -123,12 +95,12 @@
       ]
     },
     {
-      "title": "Raiders defeat the Eagles in a conference game",
-      "description": "SUTTON, W.Va. - In a game played on Roane County's home field last Friday night, the Raiders outscored Braxton County 54-6. For that game, the Eagles were without four starters,",
-      "link": "https://www.wvnews.com/braxtonnews/sports/raiders-defeat-the-eagles-in-a-conference-game/article_9d751df1-b49f-45cb-86d3-eaf49900b1dd.html",
-      "source": "Wv News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/d/65/d652914a-4fca-446c-9f99-7eb680283729/6ab80e9590cbc.image.jpg?crop=1762%2C925%2C0%2C0&resize=1200%2C630&order=crop%2Cresize",
-      "published": "2026-09-29 19:57:00",
+      "title": "'A dream come true': Capital High's James DeMers commits to Gonzaga",
+      "description": "\u201cIt took me a couple days until it hit me, but it was everything I\u2019ve ever wished for.\u201d",
+      "link": "https://helenair.com/sports/baseball/legion/article_67c9d43c-c653-5630-9f09-fa2be1df9f01.html",
+      "source": "Helenair",
+      "image": "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/d/56/d562060f-259f-590a-b14d-8782db18ceaf/69e5af623ee49.image.jpg?resize=300%2C247",
+      "published": "2026-09-30 02:45:00",
       "category": [
         "top",
         "sports"
@@ -138,173 +110,134 @@
       ]
     },
     {
-      "title": "Seattle police leadership promises \u2018proactive\u2019 efforts on gun violence",
-      "description": "Seattle\u2019s interim police chief Andre Sayles says he wants to staff up \"proactive\" gun violence investigations and enforcement. But Sayles says he has to balance those efforts with keeping patrol officers on the streets. The president of the Seattle Police Officers Guild is applauding the move and says the union will be a \"willing participant\" in these efforts.",
-      "link": "https://www.kuow.org/governing/2026-09-29/seattle-police-leadership-promises-proactive-efforts-on-gun-violence",
-      "source": "Kuow",
-      "image": "https://npr.brightspotcdn.com/36/7b/a0c98db34aa0b168a221cce2f119/mf-interimchiefsayles01.jpg",
-      "published": "2026-09-29 19:57:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Florence County Sheriff\u2019s Office - Second suspect charged in teen\u2019s shooting death",
-      "description": "A second suspect has been arrested in connection with the Aug. 28 shooting of a 15-year-old at the Suburban Motel on West Lucas Street.",
-      "link": "https://scnow.com/news/local/crime-courts/article_f7a6774d-9afb-41b5-9043-3cd67729c0e0.html",
-      "source": "Scnow",
-      "image": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/2/2a/22aac846-14ea-40f2-bafd-8cf580a5ee2d/6abc1d40d1919.image.jpg?resize=300%2C375",
-      "published": "2026-09-29 19:57:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hot Wheels Stunt Show Coming To San Diego On First U.S. Tour",
-      "description": "The live arena show will bring full-size Hot Wheels cars, jumps, drifting and a 45-foot loop to Pechanga Arena.",
-      "link": "https://patch.com/california/san-diego/hot-wheels-stunt-show-coming-san-diego-first-u-s-tour",
-      "source": "Patch",
-      "image": "https://patch.com/img/cdn20/shutterstock/54855/20260929/035657/styles/patch_image/public/shutterstock-editorial-16825665a___29155643586.jpg",
-      "published": "2026-09-29 19:56:58",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "UN alarmed by reports that Myanmar air strike killed 50",
-      "description": null,
-      "link": "https://www.reuters.com/world/asia-pacific/un-alarmed-by-reports-that-myanmar-air-strike-killed-50-2026-09-29/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/NSFCWOZJ2JOBPKM7K6PVB4HCOM.jpg?auth=76a493590490138d8f45adabbb2d16b4d9fd0c8d1ed3d35344456544e3741982&smart=true&width=1920",
-      "published": "2026-09-29 19:56:57",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "china",
-        "israel",
-        "united states of america",
-        "south africa",
-        "india",
-        "japan",
-        "ukraine",
-        "united kingdom",
-        "iran",
-        "russia"
-      ]
-    },
-    {
-      "title": "20-year-old killed in motorcycle crash on Route 30 in Westmoreland County",
-      "description": "A 20-year-old motorcyclist died in a Route 30 crash after an SUV driver pulled in front of him, according to investigators.",
-      "link": "https://www.wtae.com/article/unity-township-route-30-motorcycle-crash-kills-20-year-old/73945026",
-      "source": "Wtae-tv",
-      "image": "https://hips.hearstapps.com/vidthumb/0bf8b549-505d-4d2e-a300-add08deb4de9/8adb5ca5-229e-4132-a530-9c67c0627957.jpg",
-      "published": "2026-09-29 19:56:55",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "italy"
-      ]
-    },
-    {
-      "title": "Migrant Children Facing Court Alone: Lapsed Federal Contracts Left Thousands Unrepresented Before Judge",
-      "description": "A 13-year-old was ordered removed without a lawyer in Texas. Here is how funding gaps left migrant children facing U.S. immigration judges alone.",
-      "link": "https://www.latintimes.com/migrant-children-facing-court-alone-lapsed-federal-contracts-left-thousands-unrepresented-before-599670",
-      "source": "Latin Times",
-      "image": "https://d.latintimes.com/en/full/592240/migrant-children-set-lose-immigration-attorney-representation-new.jpg?w=1600&h=900&q=88&f=7a3840def9666333618a12bf72f7bd07",
-      "published": "2026-09-29 19:56:55",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Prime Minister of Saint Vincent and Grenadines meets Minister of State at Ministry of Foreign Affairs",
-      "description": "<p>Kingstown: Prime Minister of Saint Vincent and the Grenadines&nbsp;HE Godwin Friday met in Kingstown on Tuesday with Minister of State at the Ministry of Foreign Affairs&nbsp;HE Dr. Mohammed bin Abdulaziz bin Saleh Al Khulaifi.</p> <p><img src=\"/get/maximage/20260929_1790711368-64561.jpeg?1790711368\" style=\"width: 100%;\" /></p> <p>During the meeting, both sides discussed cooperation between the two countries and ways to deepen and expand it, as well as the latest developments in Latin America and several issues of common interest.</p> <p>HE the Minister of State at the Ministry of Foreign Affairs stressed the importance of strengthening shared international efforts to help consolidate security and stability in Latin America.<br /> HE Director General of the Qatar Fund for Development Fahad bin Hamad Al Sulaiti attended the meeting.</p>",
-      "link": "https://thepeninsulaqatar.com/article/29/09/2026/prime-minister-of-saint-vincent-and-grenadines-meets-minister-of-state-at-ministry-of-foreign-affairs",
-      "source": "The Peninsula Qatar",
-      "image": "https://thepeninsulaqatar.com/get/image/20260929_1790711368-6610-thumb_404.jpg?1790711368",
-      "published": "2026-09-29 19:56:47",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "qatar"
-      ]
-    },
-    {
-      "title": "Education Nonprofit To Develop Campus At Floyd Bennett Field: The N.Y. Deal Sheet",
-      "description": "The National Park Service leased 7 acres in Brooklyn to the nonprofit in a 60-year deal.",
-      "link": "https://www.bisnow.com/news/new-york/deal-sheet/runway-green-develop-campus-floyd-bennett-field",
-      "source": "Bisnow",
-      "image": "https://a-us.storyblok.com/f/571151439874644/1280x960/f179bc2aaa/hangar_floyd_bennett_field.JPG",
-      "published": "2026-09-29 19:56:46",
-      "category": [
-        "education",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Puntland Forces Free Honour 25 From Pirates in Successful Maritime Operation",
-      "description": "PMPF Seizes Control of Hijacked Vessel After Months in Pirate Hands, Rescuing Crew and Cargo Bandarbeyla (WDN) \u2014 Puntland security forces have successfully freed the MT Honour 25, a commercial vessel that had reportedly been held by pirates off the coast of Bandarbayla in the Karkaar region since April, in a major maritime operation hailed... The post Puntland Forces Free Honour 25 From Pirates in Successful Maritime Operation appeared first on WardheerNews .",
-      "link": "https://wardheernews.com/puntland-forces-free-honour-25-from-pirates-in-successful-maritime-operation/",
-      "source": "Wardheernews",
-      "image": "https://wardheernews.com/wp-content/uploads/2026/05/Puntland-Maritime-police-forces.jpg",
-      "published": "2026-09-29 19:56:44",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "somalia"
-      ]
-    },
-    {
-      "title": "Mayor rallies Westlake community to surprise Station 22 firefighters with a crew-sized table",
-      "description": "WPTV reporter Christy Waite recently learned that Westlake firefighters at Station 22 were in need of a bigger table to fit all of their staff.",
-      "link": "https://www.wflx.com/2026/09/29/mayor-rallies-westlake-community-surprise-station-22-firefighters-with-crew-sized-table/",
-      "source": "Wflx Fox 29",
-      "image": "https://gray-wflx-prod.gtv-cdn.com/resizer/v2/XNSQD7NDNRPDXH7TQLYHFQVSBA.jpg?auth=822f416a56821a2b430d6f2ad07efd157c04cfb72d56a7290485ab22e9490104&width=1200&height=600&smart=true",
-      "published": "2026-09-29 19:56:44",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Clean Energy Home Programs Survey",
-      "description": "BEVERLY HILLS\u2014The city of Beverly Hills announced on September 28 that it is asking for the public\u2019s feedback as it pertains to Clean Energy Home Programs. Residents can take the Clean Energy Home Survey to help the city better understand how homeowners are using energy efficiently, what home upgrades they are considering, what resources would [\u2026] The post Clean Energy Home Programs Survey appeared first on Canyon News .",
-      "link": "https://www.canyon-news.com/clean-energy-home-programs-survey/",
-      "source": "Canyon News",
-      "image": "https://www.canyon-news.com/wp-content/uploads/2026/09/825292495_4004274796535577_8956561616124061257_n.jpg",
-      "published": "2026-09-29 19:56:43",
+      "title": "Paw-fect candidate: Australia finds new koala rescue dog",
+      "description": "SYDNEY \u2014 After trawling through dozens of applications, the hunt is over: an Australian animal welfare group has found a successor to a hero hound credited with saving more than 100 koalas from fires.",
+      "link": "https://www.bangkokpost.com/world/3328810/pawfect-candidate-australia-finds-new-koala-rescue-dog",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260930/c1_6247775.jpg",
+      "published": "2026-09-30 02:45:00",
       "category": [
         "environment",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "A third of world population exposed to harmful air pollution",
+      "description": "PARIS \u2014 Heatwaves and wildfires combined with human-caused emissions this year combined to expose one third of the world's population to extremely high levels of ozone pollution, a European Union (EU) report said on Wednesday.",
+      "link": "https://www.bangkokpost.com/world/3328800/one-third-of-world-population-exposed-to-harmful-air-pollution-monitor",
+      "source": "Bangkok Post",
+      "image": "https://static.bangkokpost.com/media/content/20260930/c1_6247755.jpg",
+      "published": "2026-09-30 02:45:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "Supreme Court lets Trump resume deporting migrants to countries not their own",
+      "description": "The court granted the Justice Department\u2019s emergency request to put on hold Boston-based US District Judge Brian Murphy\u2019s ruling that the Department of Homeland Security\u2019s policy to remove migrants to so-called third countries is unlawful.",
+      "link": "https://www.tbsnews.net/worldbiz/usa/supreme-court-lets-trump-resume-deporting-migrants-countries-not-their-own-1558001",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2025/10/02/us_supreme_court.jpg",
+      "published": "2026-09-30 02:45:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "Seylon leads tea exports, expands its domestic footprint",
+      "description": "As lifestyles change and consumers become more particular about what they drink, Bangladesh\u2019s tea market is seeing a quiet shift",
+      "link": "https://www.tbsnews.net/supplement/seylon-leads-tea-exports-expands-its-domestic-footprint-1558006",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/09/30/supplement_made_in_bd_p16.jpg",
+      "published": "2026-09-30 02:45:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "bangladesh"
+      ]
+    },
+    {
+      "title": "The Global Read: Inside Malaysia's gambit to make its pungent durian desirable",
+      "description": "Malaysians' efforts to elevate the industry can be found in the capital, Kuala Lumpur, at a centre devoted exclusively to the fruit and the growing variety of products made from it.",
+      "link": "https://www.waikatotimes.co.nz/business/361090242/global-read-inside-malaysias-gambit-make-its-pungent-durian-most-wanted",
+      "source": "Waikatotimes",
+      "image": "https://www.waikatotimes.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUSeZYZbm+SU0zjMnNqDfql8Yk4r+Ht43oxrl86VwI5IF7k1TZFVP%2FGWCLS2aI+JHFHsHMEGH%2FKcMx9kuL3stuxHnFQhUIT0BfxNKtc7WkFXgga76izuBqHZtGmRjV8NH6HJU6WDwG+%2F99BMtqrxhWSWWrHh6DfhjxjUPloYRjIyFIcVomYQqNsGKy0byckGCw=",
+      "published": "2026-09-30 02:44:59",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "new zealand"
+      ]
+    },
+    {
+      "title": "Vietnam rises one spot to 43rd in Global Innovation Index 2026",
+      "description": "Vietnam has climbed one place to 43rd out of 139 economies in the Global Innovation Index 2026, maintaining its position as the second-ranked lower-middle-income country.",
+      "link": "https://en.sggp.org.vn/vietnam-rises-one-spot-to-43rd-in-global-innovation-index-2026-post130001.html",
+      "source": "B\u00e1o Sa\u0300i Go\u0300n Gia\u0309i Pho\u0301ng",
+      "image": "https://image.sggp.org.vn/1200x630/Uploaded/2026/bhgkqzbtgazs/2026_09_30/anh-chi-so-gii-2026-vipo-4-8251-9384-8069-4508.jpg",
+      "published": "2026-09-30 02:44:58",
+      "category": [
+        "science",
+        "business",
+        "top"
+      ],
+      "country": [
+        "vietnam"
+      ]
+    },
+    {
+      "title": "Robbie Thorpe Loses Appeal in Genocide Case Against King Charles III",
+      "description": "An Australian court rejects Robbie Thorpe's appeal in his genocide case against King Charles III, but his legal fight may not be over.",
+      "link": "https://en.tempo.co/read/2120610/robbie-thorpe-loses-appeal-in-genocide-case-against-king-charles-iii",
+      "source": "Tempo.co",
+      "image": "https://statik.tempo.co/data/2026/04/29/id_1471058/1471058_720.jpg",
+      "published": "2026-09-30 02:44:57",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "indonesia"
+      ]
+    },
+    {
+      "title": "Kabba Day: Monarch rallies indigenes, targets N500m development fund",
+      "description": "Obaro of Kabba, Oba Dele Owoniyi, has called on indigenes at home and in the diaspora to return home for Kabba Day 2026, as the community targets N500 million for critical development projects. The post Kabba Day: Monarch rallies indigenes, targets N500m development fund appeared first on The Sun Nigeria .",
+      "link": "https://thesun.ng/kabba-day-monarch-rallies-indigenes-targets-n500m-development-fund/",
+      "source": "The Sun Nigeria",
+      "image": "https://cdn.thesun.ng/wp-content/uploads/2026/09/IMG-20260927-WA0038.jpg",
+      "published": "2026-09-30 02:44:56",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Mechanic hourly rates by state: What shops charge vs. what techs take home",
+      "description": "As a shop owner, it\u2019s likely that you\u2019re constantly comparing labor rates and hourly wages, especially when a customer does a double-take when you mention that the per-hour rate is $175 or when your tech quits because the pay wasn\u2019t enough. If you search \u201cmechanic hourly rate\u201d online, the numbers you see will be genuinely The post Mechanic hourly rates by state: What shops charge vs. what techs take home appeared first on KTVZ .",
+      "link": "https://ktvz.com/stacker-autos-transportation/2026/09/29/mechanic-hourly-rates-by-state-what-shops-charge-vs-what-techs-take-home/",
+      "source": "Ktvz",
+      "image": "https://ktvz.b-cdn.net/2026/09/Way-Mechanic-hourly-rates-by-state.jpg",
+      "published": "2026-09-30 02:44:56",
+      "category": [
         "top",
         "business"
       ],

@@ -1,78 +1,35 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Uber brings the \u2018business class of back seats\u2019 to Sri Lanka with Uber Black",
-      "description": "New premium ride option expands Uber\u2019s portfolio from affordable Moto and Tuk rides to premium on-demand travel Uber today announced the launch of Uber Black in Sri Lanka, bringing its premium ride experience to the country for the first time. Designed as the \u201cbusiness class of back seats,\u201d Uber Black combines premium vehicles and highly-rated drivers for riders looking for greater comfort, quality and a more elevated travel experience. The launch comes as demand for premium products and experiences grows across Sri Lanka, with consumers seeking greater choice and quality in their everyday experiences. Uber Black brings this choice to on-demand mobility, whether for an airport journey, an important business meeting, a special occasion or simply when riders want to travel in greater comfort. With the introduction of Black, Uber now caters to an even broader spectrum of mobility needs in Sri Lanka \u2013 from affordable everyday rides on Uber Moto and Tuk to cars for daily travel and premium rides with Uber Black. Riders can choose the option that best suits their occasion, preference and budget, all through the same Uber app. Uber Black will feature a wide variety of premium compact SUVs and SUVs and a curated supply of top-rated drivers. Riders can also personalise their trip before it begins \u2013 setting their preferred in-car temperature, requesting assistance with luggage, or opting for a quiet ride if they would prefer to travel without conversation. Kaushalya Gunaratne, Country Manager \u2013 Mobility, Uber Sri Lanka, said: \u201cFor more than a decade, our focus in Sri Lanka has been on making reliable mobility available to more people, across more price points. As the market evolves, our next chapter is also about giving riders more differentiated experiences for different moments in their lives. With options spanning affordable two- and three-wheelers to cars and now a premium offering with Uber Black, we can better serve the diverse mobility needs of locals and tourists alike, while supporting the country\u2019s growing tourism economy. Uber Black is an important step in that journey and reflects our ambition to keep raising the bar for on-demand mobility in Sri Lanka.\u201d",
-      "link": "http://bizenglish.adaderana.lk/uber-brings-the-business-class-of-back-seats-to-sri-lanka-with-uber-black/",
-      "source": "Adaderana News",
-      "image": "http://s3.amazonaws.com/bizenglish/wp-content/uploads/2026/09/29152042/Uber-brings-the-%E2%80%98business-class-of-back-seats%E2%80%99-to-Sri-Lanka-with-Uber-Black-300x200.jpg",
-      "published": "2026-09-29 09:50:59",
+      "title": "Cynthia Luna's \"The Wrong Room\" Debuts on Inside Success TV as Women Reshape the Future of Wealth",
+      "description": "Cynthia Luna, founder of Moonshot Financial Group, shares her story of resilience and reinvention in a new Women in Power feature on Inside Success TV, connecting her personal journey to a historic shift in who controls America's wealth. WAXAHACHIE, Texas, Sept. 29, 2026...",
+      "link": "https://www.prnewswire.com/id/rilis-berita/cynthia-lunas-the-wrong-room-debuts-on-inside-success-tv-as-women-reshape-the-future-of-wealth-302891184.html",
+      "source": "Pr Newswire Indonesia",
+      "image": "https://mmx.prnewswire.com/media/MS1997014/Moonshot-FB-COVER.jpg?id=OA2972604&p=original",
+      "published": "2026-09-29 13:03:00",
+      "category": [
+        "technology",
+        "business"
+      ],
+      "country": [
+        "indonesia"
+      ]
+    },
+    {
+      "title": "eIVF\u00ae Expands AI Innovation with eVA",
+      "description": null,
+      "link": "https://www.eagletribune.com/region/eivf-expands-ai-innovation-with-eva/article_dfeca936-c4b5-5ac0-9d4a-0cf4f12d00d1.html",
+      "source": "Eagletribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+      "published": "2026-09-29 13:03:00",
       "category": [
         "technology",
         "top"
-      ],
-      "country": [
-        "sri lanka"
-      ]
-    },
-    {
-      "title": "Ai Adoption To Speed Up, But Wef Flags Weak Job Gains",
-      "description": "AI adoption is set to rise in the next 12 months, the World Economic Forum\u2019s September 2026 Chief Economists\u2019 Outlook says.",
-      "link": "https://www.btin.co.in/ai-adoption-speed-wef-outlook-120141",
-      "source": "Business Times India",
-      "image": "https://data.btin.co.in/data/images/full/9279/technology.png",
-      "published": "2026-09-29 09:50:58",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Apple squashes zero-day bug exploited in \"extremely sophisticated\" attack (CVE-2026-86950) - Help Net Security",
-      "description": "Apple squashes zero-day bug exploited in \"extremely sophisticated\" attack (CVE-2026-86950) Help Net Security iOS 26.7.1\u2014Update Now Warning Issued To iPhone Users Forbes SlowMist Warns of an Apple Zero-Day That Could Expose Wallet Data, With No Attacks Reported The Crypto Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXFuZDM3aG9yb1hLSHl3LWZ0QkxxNGotV21jYzcxYkV2cG0zblI1QjVLYUFULXZqYkNzTmRSNWYyVHlaQkxtOGJBVmxWbUdHNjFBelVXLVotSk9XdE9tcFgxUnl4RGJiV2QzQmtmYks4dExnM2YxY1czUjBORnBkUUhUenUyZ2hINTJaR1Y1a1ItOWhCNUFacA?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-29 09:50:55",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Apple squashes zero-day bug exploited in \u201cextremely sophisticated\u201d attack (CVE-2026-86950)",
-      "description": "Apple has shipped iOS and macOS security updates to fix an actively exploited zero-day vulnerability (CVE-2026-86950) in the operating systems\u2019 Core Graphics framework. \u201cApple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27,\u201d the company said, but refrained from providing additional details about the attacks or targets. About CVE-2026-86950 Core Graphics handles \u201cpath-based drawing, transformations, color \u2026 More \u2192 The post Apple squashes zero-day bug exploited in \u201cextremely sophisticated\u201d attack (CVE-2026-86950) appeared first on Help Net Security .",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/apple-core-graphics-zero-day-cve-2026-86950-fixed/",
-      "source": "Help Net Security",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/20114617/apple1.webp",
-      "published": "2026-09-29 09:50:55",
-      "category": [
-        "technology"
       ],
       "country": [
         "united states of america"
-      ]
-    },
-    {
-      "title": "Bose Noise Cancelling Wired Earbuds announced at $99 with QuietControl ANC, lossless audio, and 24-bit/48 kHz playback",
-      "description": "Bose Noise Cancelling Wired Earbuds announced, marking the company\u2019s return to wired earbuds. The new model uses a direct USB-C wired connection and combines Bose\u2019s QuietControl noise cancellation technology with lossless audio support, low-latency playback and an in-line physical remote. The earbuds connect directly to compatible USB-C smartphones, tablets and computers, without requiring Bluetooth pairing [\u2026]",
-      "link": "https://www.mobigyaan.com/bose-noise-cancelling-wired-earbuds-usa",
-      "source": "Mobigyaan",
-      "image": "https://www.mobigyaan.com/wp-content/uploads/2026/09/Bose-Noise-Cancelling-Wired-Earbuds.jpg",
-      "published": "2026-09-29 09:50:54",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
       ]
     }
   ]

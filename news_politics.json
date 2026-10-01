@@ -1,34 +1,77 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Trump's Oklahoma rally will take place hours after gubernatorial candidates tape debate",
-      "description": "President Donald Trump is headed to Oklahoma Thursday for a rally in Durant, just hours after gubernatorial nominees Mike Mazzei and Cyndi Munson tape their debate.",
-      "link": "https://www.koco.com/article/trump-rally-durant-oklahoma-gubernatorial-race/73966844",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/88f99679-1bf8-4435-83e5-73b1a51495b4.jpg",
-      "published": "2026-09-30 23:21:00",
+      "title": "David Shoebridge brings a fighting edge to the Greens",
+      "description": "David Shoebridges rise to the Greens leadership offers a chance to challenge Labor from the Left and push for more radical action on inequality, climate change and AI, writes DrMark Beeson. POLITICS IS FAMOUSLY a tough business and everyone gets mixed reviews. Its not a place for shrinking violets, which explains why its generally populated by ego maniacs, self-promoters and chancers. While were not as bad",
+      "link": "http://www.sydneysun.com/news/279344857/david-shoebridge-brings-a-fighting-edge-to-the-greens",
+      "source": "Sydney Sun",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/1f54ed5/4d01f9ef-f027-4425-b03d-a70526a05227/0/ZDhmMDdhOTAtZWU-600x315.jpg",
+      "published": "2026-10-01 06:00:00",
       "category": [
         "politics",
         "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Mitch Kokai: Most NC voters think Cooper would back DSA policies",
+      "description": "By Mitch Kokai Carolina Journal The headline of the most recent Carolina Journal Poll covering North Carolina\u2019s open U.S. Senate race was clearly Democrat Roy Cooper\u2019s 15-point lead over Republican [\u2026]",
+      "link": "https://www.salisburypost.com/2026/10/01/mitch-kokai-most-nc-voters-think-cooper-would-back-dsa-policies/",
+      "source": "Salisbury Post",
+      "image": "https://www.salisburypost.com/wp-content/themes/2024-salisbury-child/media/img/brand/default-logo.png",
+      "published": "2026-10-01 06:00:00",
+      "category": [
+        "politics"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "WisdomTree European Opportunities Fund (NYSEARCA:OPPE) Short Interest Update",
-      "description": "WisdomTree European Opportunities Fund (NYSEARCA:OPPE \u2013 Get Free Report) was the target of a significant increase in short interest during the month of September. As of September 15th, there was short interest totaling 19,185 shares, an increase of 59.9% from the August 31st total of 11,997 shares. Approximately 0.4% of the company\u2019s shares are short [\u2026]",
-      "link": "https://www.dailypolitical.com/2026/09/30/wisdomtree-european-opportunities-fund-nysearcaoppe-short-interest-update.html",
-      "source": "Daily Political",
-      "image": "https://www.marketbeat.com/logos/generic-stocks3.jpg",
-      "published": "2026-09-30 23:20:58",
+      "title": "Gene Nichol: Democracy and N.C. values",
+      "description": "I obsess, I\u2019ll admit, over North Carolina Republicans\u2019 war against democracy. The radical and repeated extreme partisan gerrymandering; the surgically precise moves to disenfranchise Black Tar Heels (continuing with this [\u2026]",
+      "link": "https://www.salisburypost.com/2026/10/01/gene-nichol-democracy-and-n-c-values/",
+      "source": "Salisbury Post",
+      "image": "https://www.salisburypost.com/wp-content/themes/2024-salisbury-child/media/img/brand/default-logo.png",
+      "published": "2026-10-01 06:00:00",
       "category": [
         "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Helene survivor: It\u2019s time to move beyond market-based approaches to climate change",
+      "description": "By Sophie Loeb NC Newsline If you\u2019re a millennial like me, climate anxiety is practically in your DNA. I\u2019ve lived through my fair share of climate change-induced disasters, and 2024\u2019s [\u2026]",
+      "link": "https://www.salisburypost.com/2026/10/01/helene-survivor-its-time-to-move-beyond-market-based-approaches-to-climate-change/",
+      "source": "Salisbury Post",
+      "image": "https://www.salisburypost.com/wp-content/themes/2024-salisbury-child/media/img/brand/default-logo.png",
+      "published": "2026-10-01 06:00:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Why ward councillors are set up to fail",
+      "description": "The structure of local government leaves councillors caught between demanding answers from municipalities and facing frustrated residents.",
+      "link": "https://www.citizen.co.za/news/opinion/why-ward-councillors-are-set-up-to-fail/",
+      "source": "The Citizen",
+      "image": "https://media.citizen.co.za/wp-content/uploads/2026/10/2024-elections-Bosmont-voting-station-ANC-1200x801-1.jpg",
+      "published": "2026-10-01 06:00:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "south africa"
       ]
     }
   ]

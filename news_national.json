@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Scientists deliberately burned an Australian woodland and over 20,000 seedlings emerged",
+      "description": "Fire was reintroduced to a subtropical grassy woodland in southeast Queensland after the area had gone without a recorded fire for at least a decade,",
+      "link": "https://timesofindia.indiatimes.com/science/discovery/scientists-deliberately-burned-an-australian-woodland-after-years-without-recorded-fire-20369-seedlings-revealed-what-survived-underground/articleshow/134596716.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134596966/134596966.jpg",
+      "published": "2026-10-01 06:00:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Essar-Backed Mesabi Metallics Announces $18 Billion US Steel Investment Linking Minnesota Mine With Iowa Plant",
+      "description": "The planned Iowa steel complex will rank among the largest new steel projects in the United States. According to the White House, the facility is expected to produce about 7.5 million tons of steel annually during its first phase before expanding to approximately 10 million tons a year. The White House The post Essar-Backed Mesabi Metallics Announces $18 Billion US Steel Investment Linking Minnesota Mine With Iowa Plant appeared first on Dharmakshethra - India Unabridged | Defence, Diplomacy, Economy, Health, Ayurveda, Heritage .",
+      "link": "https://dharmakshethra.com/essar-backed-mesabi-metallics-announces-18-billion-us-steel-investment-linking-minnesota-mine-with-iowa-plant/",
+      "source": "Dharmakshethra - India Unabridged",
+      "image": "https://dharmakshethra.com/wp-content/uploads/2026/09/Essar-Steel.webp",
+      "published": "2026-10-01 06:00:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

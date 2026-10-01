@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Kobalt Co-Founder Willard Ahdritz Launches Music & Media Tech Venture Firm",
+      "description": "The firm includes banker Stephen Langer and Isabel Keulen, formerly head of Stockholm School of Economics' business incubator and venture capital fund.",
+      "link": "https://www.billboard.com/pro/kobalt-founder-willard-ahdritz-music-tech-venture-firm/",
+      "source": "Billboard",
+      "image": "https://www.billboard.com/wp-content/uploads/2026/09/Willard-Ahdritz-2026-press-billboard-1800.jpg",
+      "published": "2026-10-01 06:00:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,14 +1,28 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Marlborough Country Club member takes home Senior Amateur Golf Championship",
+      "title": "A potpourri of thoughts",
       "description": null,
-      "link": "https://www.communityadvocate.com/marlborough/marlborough-country-club-member-takes-home-senior-amateur-golf-championship/article_0196e57e-a467-4e9e-b617-1dfcb15d320d.html",
-      "source": "Community Advocate",
-      "image": null,
-      "published": "2026-09-30 11:27:00",
+      "link": "https://www.bradfordera.com/2026/09/30/a-potpourri-of-thoughts/?ta_paidstory=",
+      "source": "Bradford Era",
+      "image": "https://www.bradfordera.com/bradfordera/news/wp-content/uploads/sites/4/2025/06/63c044135f986.image_-726x1024.jpg",
+      "published": "2026-09-30 16:07:56",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Panthers place starting CBs Jaycee Horn and Mike Jackson on IR ahead of Lions game",
+      "description": null,
+      "link": "https://www.wsoctv.com/news/local/panthers-place-starting-cbs-jaycee-horn-mike-jackson-ir-ahead-lions-game/Q3PCA4JUZZCSHDIZ47GSNX5ISI/",
+      "source": "Wsoc-tv",
+      "image": "https://www.wsoctv.com/resizer/v2/4KFI423FKFE2TP6XEQNGWMF4RM.jpg?auth=dc0413311282affd611f6907fd08b6e7d049558fbe3820d546bf225101511779&smart=true&width=1024&height=682",
+      "published": "2026-09-30 16:07:53",
       "category": [
         "sports",
         "top"

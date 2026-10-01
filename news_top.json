@@ -1,272 +1,62 @@
 {
   "status": "success",
-  "totalResults": 18,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Court docs: Caseworker charged after allegedly sending abused girls back home",
-      "description": "A caseworker is now facing charges, accused of mishandling a child abuse investigation involving two young girls in northern Kentucky.",
-      "link": "https://www.wlwt.com/article/caseworker-charged-child-abuse-case-gallatin-county-kentucky/73959432",
-      "source": "Wlwt",
-      "image": "https://hips.hearstapps.com/htv-prod/images/55e4a7af-cf2a-454b-bf3b-c6e73c5ab195.png",
-      "published": "2026-09-30 16:08:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Three die in country-made firecracker explosion in Namakkal",
-      "description": "Three killed, three missing after country-made firecrackers explode in Namakkal house; rescuers race to recover victims and assess damage.",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/three-die-in-country-made-firecracker-explosion-in-namakkal/article71529703.ece",
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/9dunwn/article71529809.ece/alternates/FREE_1200/9868_30_9_2026_21_16_10_2_NAMAKKAL_FIRE_2.JPEG",
-      "published": "2026-09-30 16:08:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "CBK approves 29 more digital lenders",
-      "description": "The move comes after the licensing of another 25 digital credit providers in July, further expanding the number of lenders operating under CBK's oversight.",
-      "link": "https://citizen.digital/article/cbk-approves-29-more-digital-lenders-n391183",
-      "source": "Citizen Digital",
-      "image": "https://assets.citizen.digital/174824/conversions/b3e28ecf-b25f-4ba9-85e7-83747b66c46b_Loan-thumbnail.webp",
-      "published": "2026-09-30 16:08:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "kenya"
-      ]
-    },
-    {
-      "title": "Here\u2019s The White House\u2019s 308-Word AI \u2018Accord\u2019 In Full\u2014Including Misspelling - Forbes",
-      "description": "Here\u2019s The White House\u2019s 308-Word AI \u2018Accord\u2019 In Full\u2014Including Misspelling Forbes 'President of the Unites States': White House's AI accord includes spelling error The Guardian Trump posts letter with \u2018Unites States\u2019 typo after AI meeting with tech CEOs The Hill Trump mocked for embarrassing spelling error on \u2018super intelligence\u2019 pact Yahoo Trump's AI \"constitution\" crowns day of accelerating ambition Axios",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVhNRDZKZnZBVEpMc0dhcWVZdkxZTV9yclNmTGRuWUxfNl81d1NlaEFCdWY3OU51VmRJbi1kQW1rZ2xFWWdjREhEY01SZE1qcm1URWRKVnNiMHcwMk9uV281UjcxS2s2dUxJUjlnblhUbnRKQTNBakdIeXlPaE5FdGZIZS1YUFN1b25IaXRzMHRhVUxLR19ybG9pWnBReTZ0bXNKdm5DeXBTMTJYeTVXUGdHV0V0UGtldHdsVGwzVGVuM0E?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-09-30 16:08:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Oak & Stone joins Sizzle Dining finale in Southwest Florida with meals that help local kids",
-      "description": "Oak & Stone is helping close out Sizzle Dining in Southwest Florida, and every meal bought sends $1 to support kids through Blessings in a Backpack.",
-      "link": "https://www.gulfcoastnewsnow.com/article/oak-stone-sizzle-dining-southwest-florida-finale/73957891",
-      "source": "Wbbh",
-      "image": "https://hips.hearstapps.com/vidthumb/9409aabe-65cb-4e3e-a98a-e3f60d2a8734/634d28f8-7452-4266-9c03-9678637e8eba.jpg",
-      "published": "2026-09-30 16:08:00",
-      "category": [
-        "food",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "13 sentenced in Paris over 2021 English Channel boat sinking that killed 31",
-      "description": "Thirteen people have been sentenced to prison terms of up to 10 years in connection with the sinking of a boat in the English Channel nearly five years ago.",
-      "link": "https://www.newsday.com/news/nation/migrants-smugglers-trial-deaths-channel-c17567",
-      "source": "Newsday",
-      "image": null,
-      "published": "2026-09-30 16:07:59",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ferguson launches council to boost WA\u2019s commercial space industry",
-      "description": "Washington Gov. Bob Ferguson hopes the state\u2019s space entrepreneurs can pilot their industry to infinity and beyond. To that end, Ferguson signed an executive order Monday night launching the 23-person [\u2026]",
-      "link": "https://myedmondsnews.com/2026/09/ferguson-launches-council-to-boost-was-commercial-space-industry/",
-      "source": "My Edmonds News",
-      "image": null,
-      "published": "2026-09-30 16:07:57",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "CEA warns the easy part maybe over for India\u2019s GDP",
-      "description": "Chief Economic Adviser V Anantha Nageswaran noted that the second half of the fiscal year would be challenging. Rising oil prices and increased global growth risks create a tougher economic environment for India. The economy saw a 7.8% GDP growth in the first quarter, backed by strong indicators like GST collections and credit growth. Upcoming data suggested a GDP growth rate of around 7.3% for July and August.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/cea-warns-of-looming-oil-and-rate-pressures-in-indias-h2-sees-q2-growth-at-7-3/articleshow/134598183.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-134598508,resizemode-4,width-1200,height-900,imgsize-51836,overlay-economictimes/articleshow.jpg",
-      "published": "2026-09-30 16:07:56",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "US trade chief Greer says new 'Milwaukee Framework' to combat global excess steel capacity",
-      "description": "MILWAUKEE, Sept 30 (Reuters) - US Trade Representative Jamieson Greer said on Wednesday that a new framework for countries to take coordinated action to combat excess steel production capacity will be",
-      "link": "https://lufkindailynews.com/news_reuters/business/us-trade-chief-greer-says-new-milwaukee-framework-to-combat-global-excess-steel-capacity/article_bfb284fe-715a-5bd9-b4d2-c46a5594ee5a.html",
-      "source": "Lufkindailynews",
-      "image": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/2/4b/24bf2886-5548-54be-8dcd-0851367f5d81/6abd34832117f.image.jpg?resize=300%2C200",
-      "published": "2026-09-30 16:07:55",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Panthers place starting CBs Jaycee Horn and Mike Jackson on IR ahead of Lions game",
-      "description": null,
-      "link": "https://www.wsoctv.com/news/local/panthers-place-starting-cbs-jaycee-horn-mike-jackson-ir-ahead-lions-game/Q3PCA4JUZZCSHDIZ47GSNX5ISI/",
-      "source": "Wsoc-tv",
-      "image": "https://www.wsoctv.com/resizer/v2/4KFI423FKFE2TP6XEQNGWMF4RM.jpg?auth=dc0413311282affd611f6907fd08b6e7d049558fbe3820d546bf225101511779&smart=true&width=1024&height=682",
-      "published": "2026-09-30 16:07:53",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ministry signs MoU with Metso to support mineral processing",
-      "description": "This Content Is Only For Paid Subscribers Please subscribe to unlock this content. Enter your details in the Sign-up page. The subscription will auto-renew and you can cancel auto renewal anytime through your account login. Subscribe to unlock Your email address is 100% safe from spam! I consent to processing of my data according to [\u2026]",
-      "link": "https://news.mesteel.com/ministry-signs-mou-with-metso-to-support-mineral-processing/",
-      "source": "Mesteel",
-      "image": null,
-      "published": "2026-09-30 16:07:53",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Talcum Power glimpse interesting",
-      "description": "Shiva Kandukuri is starring in a film titled interestingly as Talcum Powder.",
-      "link": "https://cinejosh.com/news/1/130311/talcum-power-glimpse-interesting.html%7D",
-      "source": "Cinejosh",
-      "image": "https://www.cinejosh.com/newsimg/newsmainimg/talcum-powder-glimpse-released-1790784467525-1790784468157.jpg",
-      "published": "2026-09-30 16:07:51",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "WXYZ child welfare series wins SPJ prize for investigative reporting",
-      "description": "The Detroit chapter of the Society of Professional Journalists named a WXYZ-TV investigation into Children\u2019s Protective Services the winner of the A-Mark Prize for Investigative Journalism.",
-      "link": "https://www.wxyz.com/news/local-news/investigations/wxyz-child-welfare-series-wins-spj-prize-for-investigative-reporting",
-      "source": "Wxyz",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/3c348ed/2147483647/strip/true/crop/1275x669+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd3%2F39%2F4c18be4443d984a4d43846697ee4%2Funprotected.png",
-      "published": "2026-09-30 16:07:50",
+      "title": "Hugh Robert Polson",
+      "description": "Hugh Robert Polson was born to the late Helen Louise Binning and Hugh Kendrick Polson in Sutton, NE on 7/13/1930 and laid to rest on 9/27/26 at the age of",
+      "link": "https://www.times-herald.com/obituaries/hugh-robert-polson/article_cd0b694d-6291-4d57-8312-99a3eb664e56.html",
+      "source": "Times-herald.com",
+      "image": "https://bloximages.chicago2.vip.townnews.com/times-herald.com/content/tncms/assets/v3/editorial/b/a8/ba80de44-1529-4021-9968-126dd5ad1302/6abd99b5989da.image.png?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-09-30 23:21:00",
       "category": [
         "lifestyle",
         "top"
       ],
       "country": [
-        "united states of america"
+        "georgia"
       ]
     },
     {
-      "title": "US amusement park retires famous roller coaster amid reports of brain injuries",
-      "description": "Six Flags Magic Mountain closes attraction after lawsuits, media investigation allege severe brain trauma among riders",
-      "link": "https://www.aa.com.tr/en/americas/us-amusement-park-retires-famous-roller-coaster-amid-reports-of-brain-injuries/4074035",
-      "source": "Anadolu Agency",
-      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/09/30/thumbs_b_c_53b46e0056a237b9b071283c665119db.jpg",
-      "published": "2026-09-30 16:07:50",
+      "title": "Shallow graves yield 2 bodies in remote California desert. Police are searching for more victims",
+      "description": "LOS ANGELES \u2014 Along a desolate stretch of California desert highway, next to a ramshackle home, law enforcement officials dug for a second day on Wednesday in a search for bodies. Detectives working a homicide investigation discovered the remains from\u2026",
+      "link": "https://thebrunswicknews.com/news/business/shallow-graves-yield-2-bodies-in-remote-california-desert-police-are-searching-for-more-victims/article_97137886-2b8a-57aa-848f-e7afb50b39a7.html",
+      "source": "The Brunswick News",
+      "image": null,
+      "published": "2026-09-30 23:21:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "turkey"
+        "united states of america"
       ]
     },
     {
-      "title": "New World Development Buys Time, Takes A Big Mall Write-Down",
-      "description": "A bigger Deutsche Bank loan facility and an April 1st, 2027 handover of the 11 SKIES project eased near-term liquidity, but the deal helped push its annual net loss to HK$28.1 billion.",
-      "link": "https://finimize.com/content/new-world-development-buys-time-takes-a-big-mall-write-down",
-      "source": "Finimize",
-      "image": "https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2Ftag_reuters_com_2026_newsml_L4N45M17U_573632321.jpeg?ixlib=python-3.1.2&s=d4855be5a262bc2be26604d6763f5c8e",
-      "published": "2026-09-30 16:07:50",
+      "title": "Trump's Oklahoma rally will take place hours after gubernatorial candidates tape debate",
+      "description": "President Donald Trump is headed to Oklahoma Thursday for a rally in Durant, just hours after gubernatorial nominees Mike Mazzei and Cyndi Munson tape their debate.",
+      "link": "https://www.koco.com/article/trump-rally-durant-oklahoma-gubernatorial-race/73966844",
+      "source": "Koco News Channel Five",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/88f99679-1bf8-4435-83e5-73b1a51495b4.jpg",
+      "published": "2026-09-30 23:21:00",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Thin MLB crowds in Atlanta, Houston reflect challenge of selling afternoon Wild Card Series tickets",
+      "description": "There has been a noticeable number of empty seats for MLB's Wild Card Series games that are played in the afternoon. The Atlanta Braves drew just over 30,000 fans...",
+      "link": "https://www.khou.com/article/syndication/associatedpress/thin-mlb-crowds-in-atlanta-houston-show-challenge-of-selling-afternoon-wild-card-series-tickets/616-158aa63e-d0a6-4387-900d-3d7854dd90d0",
+      "source": "Khou",
+      "image": "https://media.tegna-media.com/assets/AssociatedPress/images/7d928552-d4c3-4f7b-8638-4b51e3524d8b/20260930T210007/7d928552-d4c3-4f7b-8638-4b51e3524d8b_750x422.jpg",
+      "published": "2026-09-30 23:20:55",
       "category": [
         "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "FREE ADS October 1-7 2026",
-      "description": "GARAGE SALES TAKE HOME HISTORY: Sat., Oct. 10, 12-4pm. Craft sale, books, candles, soaps, winter hats, Halloween items, more. All ages. House of History, 51 Milwaukee St., Malone. 518-483-2750 HOLIDAY FAIR: Sat., Nov. 7, 9am-3pm, St. Mary\u2019s Parish Ctr., 769 Gale Rd., Brushton. Local vendors & food. LEAF PEEPERS JUNK IN THE TRUCK YARD SALE: Sponsored by the Owls Head/Mt. View Community Center. Sun. Oct. 4, 12-4pm. Kids\u2019 activities, hay rides, model train demo, vintage model train sets raffle,...",
-      "link": "https://www.freetraderonline.com/post/free-ads-october-1-7-2026",
-      "source": "Free Trader",
-      "image": "https://static.wixstatic.com/media/14618a_987e845d684c4a37bc1bb0386ebfdf7b~mv2.png/v1/fit/w_1000,h_696,al_c,q_80/file.png",
-      "published": "2026-09-30 16:07:50",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Police hunting 69-year-old wanted over harassment offence",
-      "description": "Police are appealing for information to help locate a 69-year-old man wanted in connection with a harassment offence.",
-      "link": "https://www.westerntelegraph.co.uk/news/26596163.police-appeal-find-man-wanted-harassment-offence/",
-      "source": "The Western Telegraph",
-      "image": "https://www.westerntelegraph.co.uk/resources/images/21521817/",
-      "published": "2026-09-30 16:07:49",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Major defense company lands over $1 billion in fighter jet, missile-defense deals",
-      "description": "Work involves F/A-18 tracking systems, F-35 upgrades, Japan missile-defense warships and F-16 aircraft components.",
-      "link": "https://www.nj.com/news/2026/09/major-defense-company-lands-over-1-billion-in-fighter-jet-missile-defense-deals.html",
-      "source": "Nj",
-      "image": "https://www.nj.com/resizer/v2/VAC3LQ5YUZFNTCHRKEEN3O4TQQ.jpg?auth=dff26d186eaf248e6c8ff9e2dbb579427bf09c1fe3285bcd3df55bf9626273d2&smart=true&height=1200",
-      "published": "2026-09-30 16:07:48",
-      "category": [
-        "technology",
-        "top"
+        "sports"
       ],
       "country": [
         "united states of america"

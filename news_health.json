@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Breast Cancer Awareness Month events in Daytona, Flagler Beach area",
+      "description": null,
+      "link": "https://www.news-journalonline.com/story/entertainment/events/2026/10/02/breast-cancer-awareness-month-events-daytona-nsb/92018365007/",
+      "source": "Daytona Beach News-journal Online",
+      "image": null,
+      "published": "2026-10-02 09:07:47",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

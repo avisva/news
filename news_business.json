@@ -1,48 +1,77 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "New $7M senior center opens to fanfare; regular use won't start until Oct. 19",
-      "description": "Years of effort by city and county officials and members of the Senior Community Center of Owensboro-Daviess County culminated Thursday when leaders from the agencies cut the ribbon and opened the new senior center facility to visitors.",
-      "link": "https://www.messenger-inquirer.com/news/local/new-7m-senior-center-opens-to-fanfare-regular-use-wont-start-until-oct-19/article_1a8af9c5-2fb9-5b04-a2c6-1d6f95bd2e7a.html",
-      "source": "Owensboro Messenger And Inquirer",
-      "image": "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/assets/v3/editorial/c/6d/c6dc4b2f-cf82-58e5-990d-c1372a974ee7/6abecc2d99c2c.image.jpg?resize=300%2C192",
-      "published": "2026-10-01 21:20:00",
+      "title": "Future of Bolton's car parks and CCTV operations decided after NCP collapse",
+      "description": "Bolton Council has decided to move its car park and CCTV services in-house following the collapse of NCP.",
+      "link": "https://www.theboltonnews.co.uk/news/26598300.future-boltons-car-parks-cctv-operations-decided/",
+      "source": "The Bolton News",
+      "image": null,
+      "published": "2026-10-02 04:04:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Tax raid finds Rs 4.34 lakh forex; man wins ITAT case with sister-in-law\u2019s help",
-      "description": "During the operation, officials discovered Rs 1.12 crore in Indian currency and foreign currency worth Rs 4.34 lakh. The man was subsequently taken in for questioning by the tax authorities. Despite the investigation team's acceptance of the explanation, the AO treated both the Indian cash and foreign currency recovered during the search as unexplained money under Section 69A.",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/tax-raid-finds-rs-1-12-crore-cash-and-rs-4-34-lakh-foreign-currency-at-delhi-mans-home-he-fights-case-twice-sister-in-laws-explanation-helps-brother-in-law-win-itat-battle/articleshow/134622084.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134622280/134622280.jpg",
-      "published": "2026-10-01 21:20:00",
+      "title": "Japan does not need excessively loose monetary policy, economy minister says",
+      "description": "Kiuchi made the remarks in response to reporters Read more at The Business Times.",
+      "link": "https://www.businesstimes.com.sg/companies-markets/banking-finance/japan-does-not-need-excessively-loose-monetary-policy-economy-minister-says",
+      "source": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/fead84a3dae5cd1c99601905a346a6e6bbae43bd6501d7bd7c08534eedf25cb2",
+      "published": "2026-10-02 04:03:57",
       "category": [
         "business"
       ],
       "country": [
-        "india"
+        "singapore"
       ]
     },
     {
-      "title": "U.S., South Korea: Trump Unveils Investment Deal, Seoul Disputes Its Terms",
-      "description": "U.S. President Donald Trump announced that South Korea had agreed to invest $200 billion in U.S. projects, including a $22 billion Texas liquefied natural gas project, $120 billion in eight nuclear reactor projects and $54 billion in the Alaska LNG project, Reuters reported on Sept. 30. However, Sou",
-      "link": "https://worldview.ranenetwork.com/content/situational-report/2026-10-01/u-s-south-korea-trump-unveils-investment-deal-seoul-disputes-its-terms/cf974096a94deb7c",
-      "source": "Stratfor Worldview",
-      "image": null,
-      "published": "2026-10-01 21:20:00",
+      "title": "More aggressive China stimulus unlikely for now, BofA says",
+      "description": null,
+      "link": "https://www.investing.com/news/economy-news/more-aggressive-china-stimulus-unlikely-for-now-bofa-says-4928874",
+      "source": "Investing Us",
+      "image": "https://content-media.investing.com/news/LYNXNPEC110N0_M.jpg",
+      "published": "2026-10-02 04:03:51",
       "category": [
         "business"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Attijariwafa Bank to acquire majority stake in Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Ghana",
+      "description": "Morocco\u2019s Attijariwafa Bank has agreed to acquire a 55.22 percent stake in Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Ghana, expanding the North African lender\u2019s read more Attijariwafa Bank to acquire majority stake in Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Ghana",
+      "link": "https://businessday.ng/africa/article/attijariwafa-bank-to-acquire-majority-stake-in-societe-generale-ghana/",
+      "source": "Business News Nigeria",
+      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/10/Untitled-design-22-1.png",
+      "published": "2026-10-02 04:03:41",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "$8.2B acquisition validates AI-picked chip stock: +20% since June",
+      "description": null,
+      "link": "https://ph.investing.com/news/stock-market-news/82b-acquisition-validates-aipicked-chip-stock-20-since-june-2611379",
+      "source": "Investing Philippines",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+      "published": "2026-10-02 04:03:41",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "philippines"
       ]
     }
   ]

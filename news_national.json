@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Samsung Galaxy Watch 9 Review: A Polished Upgrade",
+      "description": "Samsung\u2019s Galaxy Watch series has become synonymous with premium design, seamless software integration, and a wide range of health features. The Galaxy Watch 9 builds on this legacy. The latest\u2026",
+      "link": "https://www.swapupdate.in/samsung-galaxy-watch-9-review-a-polished-upgrade/",
+      "source": "Swapupdate",
+      "image": "https://i.gadgets360cdn.com/large/samsung_galaxy_watch_9_gadgets_360_9_1790854417093.jpg",
+      "published": "2026-10-03 00:12:54",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "DH Toon | Swachhata Diwas!",
+      "description": "Cleanliness drive: A sharp satirical take on Swachhata Diwas initiatives and public sanitation efforts featured in today daily editorial cartoon commentary.",
+      "link": "https://www.deccanherald.com/opinion/cartoon/dh-toon-swachhata-diwas-4168827",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2026-10-03/38hk2y5b/toon16x9.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-10-03 00:12:42",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "ADB grants Rs 1,750 crore loan to Karnataka to implement KPS scheme, performance targets fixed for schools",
+      "description": "Performance targets for schools getting ADB assistance",
+      "link": "https://www.deccanherald.com/india/karnataka/adb-grants-rs-1750-crore-loan-to-karnataka-to-implement-kps-scheme-performance-targets-fixed-for-schools-4168716",
+      "source": "Deccan Herald",
+      "image": "https://media.assettype.com/deccanherald/2025-06-03/49eipf7k/GlQxuWUWcAAPlc.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-10-03 00:12:23",
+      "category": [
+        "education",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

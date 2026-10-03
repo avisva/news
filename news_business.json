@@ -1,20 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Fruit policy shifts towards processing",
-      "description": "The government is revising plans to establish an integrated fruit management centre in Chanthaburi, shifting its focus to a \"market-led production\" approach, advance market planning and greater processing to add value and boost farmers' incomes.",
-      "link": "https://www.bangkokpost.com/thailand/general/3330375/fruit-policy-shifts-towards-processing",
-      "source": "Bangkok Post",
+      "title": "Uber Settles Background Check Sexual Assault Case Less Than 48 Hours After Jury Selection",
+      "description": "Uber Stipulated the Assault Occurred; MDL Co-Leads Call on Company to Pursue Global Resolution for 5,000+ Survivors",
+      "link": "https://www.mohavedailynews.com/online_features/press_releases/uber-settles-background-check-sexual-assault-case-less-than-48-hours-after-jury-selection/article_ed64cce2-c2eb-58be-8ba7-82b1d6706c5a.html",
+      "source": "Mohavedailynews",
       "image": null,
-      "published": "2026-10-02 18:01:00",
+      "published": "2026-10-03 00:13:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "thailand"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Georgia's education prices fall 12.5% in September 2026",
+      "description": null,
+      "link": "https://www.trend.az/scaucasus/georgia/4230512.html",
+      "source": "Trend",
+      "image": "https://www.trend.az/media/2026/10/02/education_concept.jpg",
+      "published": "2026-10-03 00:13:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "UK Diesel Crisis: Kansas Senate Race Could Trigger US Export Ban",
+      "description": "UK diesel prices hit \u00a32 a litre as a potential US export ban, linked to a close Kansas Senate race, threatens to deepen Britain's cost of living crisis.",
+      "link": "https://us.headtopics.com/news/uk-diesel-crisis-kansas-senate-race-could-trigger-us-88400510",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/3/dailymail/uk-diesel-crisis-kansas-senate-race-could-trigger--uk-diesel-crisis-kansas-senate-race-could-trigger--F8EBC06DCD00600819F181549B6DBDCD-16x9.webp",
+      "published": "2026-10-03 00:13:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Brokerages Pay 7 Billion Won for 113 IT Failures in Under Three Years",
+      "description": "South Korea's 10 largest brokerages reported 113 IT failures from 2024 through August, paying nearly 7 billion won to 19,055 affected customers.",
+      "link": "https://en.sedaily.com/finance/2026/10/03/brokerages-pay-7-billion-won-for-113-it-failures-in-under",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/cms/2026/10/03/news-p.v1.20261002.b1b7d08a8f6b4487b5ac513ba16814b4_P1.jpg",
+      "published": "2026-10-03 00:12:46",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "south korea"
       ]
     }
   ]

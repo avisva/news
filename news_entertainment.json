@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Cinema Agency funds five international co-production projects",
-      "description": "Azerbaijan's Cinema Agency has approved funding for five international co-production projects as part of its first-ever Joint Film Production Support Competition.",
-      "link": "https://www.azernews.az/culture/264851.html",
-      "source": "Azernews",
-      "image": "https://www.azernews.az/media/2023/09/15/filmmaker-1-800x533_2.jpg",
-      "published": "2026-10-02 09:08:00",
+      "title": "Eddie Hearn opens up on an unusual episode with Tyson Fury as Gypsy King invited him for tea after brutally trolling him on Instagram",
+      "description": "Tyson Fury and Eddie Hearn have experienced a complex relationship characterized by public hostility and private friendliness. Hearn recalled a meeting where he confronted Fury after an Instagram rant in Las Vegas. They shared a pleasant conversation about boxing during their tea meeting at Fury's hotel room. Their private interactions often reveal a different side to their rivalry.",
+      "link": "https://timesofindia.indiatimes.com/sports/international-sports/eddie-hearn-opens-up-on-an-unusual-episode-with-tyson-fury-as-gypsy-king-invited-him-for-tea-after-brutally-trolling-him-on-instagram/articleshow/134640141.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134640155/134640155.jpg",
+      "published": "2026-10-02 12:53:58",
       "category": [
         "entertainment",
         "top"
       ],
       "country": [
-        "azerbaijan"
+        "india"
+      ]
+    },
+    {
+      "title": "Tickets On Sale Today: Slipknot, Hilary Duff, Lizzy McAlpine & More",
+      "description": "Tickets for a Pink Floyd Legacy tour, Brandi Carlile, A Perfect Circle, and Dropkick Murphys are also up for grabs. Tickets On Sale Today: Slipknot, Hilary Duff, Lizzy McAlpine & More Consequence Staff",
+      "link": "https://consequence.net/2026/10/tickets-on-sale-today-slipknot-hilary-duff-lizzy-mcalpine/",
+      "source": "Consequence",
+      "image": "https://consequence.net/wp-content/uploads/2025/11/Concert-tickets.jpg?quality=80",
+      "published": "2026-10-02 12:53:52",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

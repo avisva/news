@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Michael Hiltzik: Sure, use Meta's Muse bot to help with your chores \u2014 if you want Mark Zuckerberg to know all your secrets",
+      "description": "If Silicon Valley has perfected any business model, it's the one in which it cooks up a new technology and then persuades people they can't live without it. The newest example is Meta Platforms' personal artificial intelligence agent, Muse. Something\u2026",
+      "link": "https://www.dailygazette.com/tribune/michael-hiltzik-sure-use-metas-muse-bot-to-help-with-your-chores-if-you-want/article_d75bd91b-5d66-5213-94e9-3d089f715b9d.html",
+      "source": "Dailygazette.com",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/a/aa/aaae21a1-849c-52f0-801e-d795418b0e38/6abffa1390452.image.jpg?resize=300%2C200",
+      "published": "2026-10-02 18:01:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

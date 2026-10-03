@@ -1,14 +1,43 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "HS Sports Report Games of Week Previews with Palo Verde Cheere & Mustang's Coach Lewis",
-      "description": "HIGH SCHOOL SPORTS REPORT \u2014 GAME OF THE WEEK PREVIEWIt\u2019s another exciting Game of the Week on the High School Sports Report!This week, Bryan Salmond goes behind",
-      "link": "https://news3lv.com/news/the-cw-news-at-ten/hs-sports-report-games-of-week-previews-with-palo-verde-cheere-mustangs-coach-lewis",
-      "source": "Ksnv",
-      "image": "https://news3lv.com/resources/media2/16x9/1180/1320/3x0/90/689b7ffb-f290-4bfa-9bbd-d4649313060c-10226HSSPORTSREPORT.jpg",
-      "published": "2026-10-03 07:42:59",
+      "title": "Davide Ancelotti makes feelings clear on Vinicius Junior amid Real Madrid struggles",
+      "description": "Real Madrid already had one of the most fearsome attacking lines on paper during the last two seasons, boasting some of the very best attacking players in Europe, including the likes of Kylian Mbappe,...",
+      "link": "https://sports.yahoo.com/articles/davide-ancelotti-makes-feelings-clear-104000222.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/f65c826777fd894ed6f7e71918c147d46d0524c78aafb08900188af382b16482/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_voice_articles_898%2F81edb8c9a3b63f27468657f5c003ff04",
+      "published": "2026-10-03 10:40:00",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Shenango remains undefeated with win over South Side Beaver",
+      "description": "HOOKSTOWN \u2014 The Shenango High football team continued its winning ways on Friday.",
+      "link": "https://www.ncnewsonline.com/sports/gridiron/shenango-remains-undefeated-with-win-over-south-side-beaver/article_f3a43368-d374-4798-a981-1d3eff791eb3.html",
+      "source": "Nc News Online",
+      "image": "https://bloximages.chicago2.vip.townnews.com/ncnewsonline.com/content/tncms/assets/v3/editorial/a/ec/aec64294-95d8-4851-834c-21c769bd3979/6a4d3c5edb620.image.jpg?resize=300%2C375",
+      "published": "2026-10-03 10:40:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Big Topic\u2019\u2014Thomas Tuchel Reveals Impact of Man City Guilty Verdict on England Stars",
+      "description": "Two Man City stars are left on the England roster for the remainder of the international break.",
+      "link": "https://us.headtopics.com/news/big-topic-thomas-tuchel-reveals-impact-of-man-city-guilty-88411841",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/3/sinow/big-topic-thomas-tuchel-reveals-impact-of-man-city-big-topic-thomas-tuchel-reveals-impact-of-man-city-7910662FC3FD2FC3AC1EAE582D8A42BC-16x9.webp",
+      "published": "2026-10-03 10:40:00",
       "category": [
         "top",
         "sports"
@@ -18,17 +47,33 @@
       ]
     },
     {
-      "title": "ADDRO builds haven for adolescent mothers, children at Sandema",
-      "description": "For many adolescent mothers, motherhood arrives even before they have had the chance to understand themselves or shape their dreams and it is often more than caring for a baby, as they are sometimes forced to leave school, face stigma and rejection, endure economic hardship and social isolation and put their whole careers on hold. Read More \u2026",
-      "link": "https://www.graphic.com.gh/news/general-news/ghana-news-addro-builds-haven-for-adolescent-mothers-children-at-sandema.html",
-      "source": "Graphic Online",
-      "image": null,
-      "published": "2026-10-03 07:42:24",
+      "title": "NL Division Series Game 1: Dodgers vs. Braves, lineups, starting pitchers, TV info",
+      "description": "The Dodgers\u2019 Tarik Skubal will take the mound in the series opener, while the Braves will use left-hander Dylan Dodd as an opener in scorching temperatures on Saturday afternoon.",
+      "link": "https://www.sbsun.com/2026/10/03/nl-division-series-game-1-dodgers-vs-braves-lineups-starting-pitchers-tv-info/",
+      "source": "San Bernardino Sun",
+      "image": "https://www.sbsun.com/wp-content/uploads/2026/10/NLDS-G1-starters.jpg?w=1600&resize=1600,900",
+      "published": "2026-10-03 10:39:39",
       "category": [
+        "top",
         "sports"
       ],
       "country": [
-        "ghana"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Asian Games 2026 Cricket: Vaibhav Sooryavanshi Sets Unique Record as India Beat Pakistan for Gold Medal",
+      "description": "Vaibhav Sooryavanshi created history at Asian Games 2026 as India defeated Pakistan in the men's cricket final to win gold. The 15-year-old batting prodigy became the youngest Indian to win an Asian Games cricket gold medal, adding another milestone to his record-breaking year.",
+      "link": "https://www.newsx.com/sports/asian-games-2026-cricket-vaibhav-sooryavanshi-sets-unique-record-as-india-beat-pakistan-for-gold-medal-279079/",
+      "source": "Newsx",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/10/indian-team-image-credit-x-at-bcci.jpg",
+      "published": "2026-10-03 10:39:33",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

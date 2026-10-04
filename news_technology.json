@@ -1,20 +1,66 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Trump tariffs a mixed bag for US auto industry",
-      "description": "NEW YORK: President Donald Trump has claimed a \"roaring comeback\" in American auto manufacturing following his aggressive trade policies, but analysts view the cumulative impact as more of a mixed bag.",
-      "link": "https://www.nst.com.my/business/corporate/2026/10/1547269/trump-tariffs-mixed-bag-us-auto-industry",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/E897DF5D556CD9313A7D89FEEF588190_data_0_0.jpg",
-      "published": "2026-10-04 03:06:45",
+      "title": "Iran, China use AI to sway social apps",
+      "description": "SAN FRANCISCO -- Iran, China and groups in Israel used artificial intelligence in novel ways in recent months to create first-of-their-kind influence campaigns on social media, ratcheting up concerns among U.S. officials and security researchers about the fast-evolving technology.",
+      "link": "https://www.nwaonline.com/news/2026/oct/04/iran-china-use-ai-to-sway-social-apps/",
+      "source": "Nwaonline",
+      "image": null,
+      "published": "2026-10-04 07:09:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "malaysia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Lockheed Martin to expand production in India, if it wins transport aircraft bid",
+      "description": "Washington: Lockheed Martin is looking to further expand its production capabilities in India if it wins the bid to supply medium transport aircraft for its armed forces, a senior official of the aerospace company said. In August, India issued a tender for procurement of 60 medium transport aircraft at a cost of USD 10.5 billion.... The post Lockheed Martin to expand production in India, if it wins transport aircraft bid appeared first on OrangeNews9 . The post Lockheed Martin to expand production in India, if it wins transport aircraft bid appeared first on OrangeNews9 .",
+      "link": "https://orangenews9.com/lockheed-martin-to-expand-production-in-india-if-it-wins-transport-aircraft-bid/",
+      "source": "Orangenews9",
+      "image": "https://orangenews9.com/wp-content/uploads/2026/10/Lockheed-Martin.jpg",
+      "published": "2026-10-04 07:08:59",
+      "category": [
+        "technology",
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Lee calls for thorough probe into personal data leaks at financial institutions",
+      "description": "South Korean President Lee Jae Myung orders a thorough probe into recent hacking attacks and personal data leaks at major banks and financial institutions.",
+      "link": "https://www.thehansindia.com/news/international/lee-calls-for-thorough-probe-into-personal-data-leaks-at-financial-institutions-1128691",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/10/04/1709406-lee.webp",
+      "published": "2026-10-04 07:08:51",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Martin Lewis tip to get discounts on online orders from Asda, Morrisons, Ocado",
+      "description": null,
+      "link": "https://www.mirror.co.uk/money/martin-lewis-tip-discounts-online-37719559",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article37719627.ece/ALTERNATES/s615/0_ML-1.jpg",
+      "published": "2026-10-04 07:08:44",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

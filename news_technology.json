@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Trump tariffs a mixed bag for US auto industry",
+      "description": "NEW YORK: President Donald Trump has claimed a \"roaring comeback\" in American auto manufacturing following his aggressive trade policies, but analysts view the cumulative impact as more of a mixed bag.",
+      "link": "https://www.nst.com.my/business/corporate/2026/10/1547269/trump-tariffs-mixed-bag-us-auto-industry",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/E897DF5D556CD9313A7D89FEEF588190_data_0_0.jpg",
+      "published": "2026-10-04 03:06:45",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    }
+  ]
 }

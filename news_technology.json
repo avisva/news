@@ -1,5 +1,55 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "DHS readies major cyber contract",
+      "description": "Justin Doubleday reports: The Department of Homeland Security is preparing this year to award a major cloud, cybersecurity and network services contract aimed at further centralizing the management of IT services across DHS. In a notice posted to Sam.gov last month, DHS laid out the notional timeline for award of the Network, Cloud and Cybersecurity... Source",
+      "link": "https://databreaches.net/2026/10/03/dhs-readies-major-cyber-contract/",
+      "source": "Databreaches",
+      "image": null,
+      "published": "2026-10-03 14:22:55",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "france",
+        "germany",
+        "united states of america",
+        "india",
+        "australia",
+        "united kingdom",
+        "canada"
+      ]
+    },
+    {
+      "title": "Alpine A290 vs Peugeot E-208 GTi - pictures",
+      "description": "Images from our latest Alpine versus Peugeot EV hot hatch road test",
+      "link": "https://www.autoexpress.co.uk/car-group-tests/370566/alpine-a290-vs-peugeot-e-208-gti-pictures",
+      "source": "Auto Express",
+      "image": "https://media.autoexpress.co.uk/image/private/s--1hhU1-u7--/t_rss_image_w_845/v1790934331/autoexpress/2026/10/Alpine%20A290%20vs%20Peugeot%20E-208%20GTi%20-%20front%20end%20static_frp42p.jpg",
+      "published": "2026-10-03 14:22:44",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Atlanta Dream start semifinals against New York Liberty",
+      "description": null,
+      "link": "https://www.wsbtv.com/news/local/atlanta/atlanta-dream-start-semifinals-against-liberty/QBEFNTPUHRHYZOFGUNEDYJMZOM/",
+      "source": "Wsb-tv Channel 2 - Atlanta",
+      "image": "https://www.wsbtv.com/resizer/v2/EKROMOBHEVG6NNRPJTDKIW3YLM.jpg?auth=b95e77fbaddf8c528de0591aa7093e237875a7700864b8a7adb2d22a338d84d1&smart=true&width=4024&height=2683",
+      "published": "2026-10-03 14:22:42",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Longview family goes to D.C. to advocate for people with Down syndrome",
+      "description": "Tiffany Angus is thinking about the future \u2013 specifically for her son, 14-year-old Austin Angus, who has Down syndrome. The Longview mother said she hopes Austin will have access to [\u2026]",
+      "link": "https://news-journal.com/2026/10/04/longview-family-goes-to-d-c-to-advocate-for-people-with-down-syndrome/",
+      "source": "Longview News-journal",
+      "image": "https://news-journal.com/wp-content/uploads/sites/16/2026/09/10062026_lnj_news_angus-e1791082338744.jpg",
+      "published": "2026-10-04 10:42:52",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

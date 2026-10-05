@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Varna Hosts CONNEXUS 2026 - Black Sea Technology Forum",
+      "description": "Varna is hosting CONNEXUS 2026 - Black Sea Technology Forum on October 5-7. The event brings together entrepreneurs, investors and academics from various countries. The forum's three tracks are: AI, IoT, robotics, cybersecurity and other broad-application technologies; marine technologies, biotechnologies, smart agriculture, tourism and industry/manufacturing; and an exhibition and startup section. The forum aims to strengthen the Black Sea region's position as a more visible hub for entrepreneurship and sustainable economic growth. It is organized by ICT Cluster Varna in partnership with Varna Municipality, the Bulgarian Small and Medium Enterprises Promotion Agency, Bulgarian AI Factory BRAIN++ and the Applied Research and Communications Fund (ARCFund). The technology event is held under the patronage of Bulgarian President Iliana Iotova, who will open it on Monday, the President's press secretariat said.",
+      "link": "https://www.bta.bg/en/news/economy/1217602-varna-hosts-connexus-2026-black-sea-technology-forum",
+      "source": "Bulgarian News Agency",
+      "image": "https://www.bta.bg/upload/1632963/IMG_8460-4.jpg",
+      "published": "2026-10-05 05:52:00",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "bulgaria"
+      ]
+    }
+  ]
 }

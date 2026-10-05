@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Varna Hosts CONNEXUS 2026 - Black Sea Technology Forum",
-      "description": "Varna is hosting CONNEXUS 2026 - Black Sea Technology Forum on October 5-7. The event brings together entrepreneurs, investors and academics from various countries. The forum's three tracks are: AI, IoT, robotics, cybersecurity and other broad-application technologies; marine technologies, biotechnologies, smart agriculture, tourism and industry/manufacturing; and an exhibition and startup section. The forum aims to strengthen the Black Sea region's position as a more visible hub for entrepreneurship and sustainable economic growth. It is organized by ICT Cluster Varna in partnership with Varna Municipality, the Bulgarian Small and Medium Enterprises Promotion Agency, Bulgarian AI Factory BRAIN++ and the Applied Research and Communications Fund (ARCFund). The technology event is held under the patronage of Bulgarian President Iliana Iotova, who will open it on Monday, the President's press secretariat said.",
-      "link": "https://www.bta.bg/en/news/economy/1217602-varna-hosts-connexus-2026-black-sea-technology-forum",
-      "source": "Bulgarian News Agency",
-      "image": "https://www.bta.bg/upload/1632963/IMG_8460-4.jpg",
-      "published": "2026-10-05 05:52:00",
+      "title": "Global cruise leaders partner on FIU Cruise Excellence Center",
+      "description": "The university has convened an advisory board of top industry executives to establish an academic hub for research, talent development and innovation that will have worldwide impact.",
+      "link": "https://news.fiu.edu/2026/global-cruise-leaders-and-florida-international-university-join-to-launch-university-wide-fiu-cruise-excellence-center",
+      "source": "Florida International University",
+      "image": "https://res.cloudinary.com/digicomm/image/upload/t_rss/news-magazine/2026/_assets/susannp4-cruise-1578528_1920.jpg",
+      "published": "2026-10-05 11:43:00",
       "category": [
-        "technology",
-        "science"
+        "science",
+        "top"
       ],
       "country": [
-        "bulgaria"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US and German scientists win 2026 Nobel Prize in Medicine for pioneering optogenetics",
+      "description": "Stockholm: American scientist Karl Deisseroth and German researchers Peter Hegemann and Georg Nagel have been awarded the 2026 Nobel Prize in Physiology or Medicine for discoveries that laid the foundations of optogenetics, a technology that allows scientists to control nerve cells using light. The Nobel Assembly at Sweden\u2019s Karolinska Institute said the trio were honoured for their \u201cdiscoveries concerning light-gated ion channels and optogenetics\u201d. Thomas Perlmann, Secretary-General of the Nobel Assembly, said the breakthrough has enabled researchers to switch individual nerve cells on or off inside a living brain. \u201cThis method is now being used in laboratories around the world to reveal the brain\u2019s mysteries,\u201d Perlmann said. Optogenetics has become one of the most important tools in modern neuroscience, allowing researchers to study how specific groups of neurons contribute to behaviour, memory, movement and disease. The technology is already being explored in clinical research. Scientists are working on restoring vision in people affected by retinitis pigmentosa, an inherited eye disease that causes blindness, by inserting light-sensitive proteins into the retina. Researchers also believe the technique could improve cochlear implants by enabling more precise stimulation of the auditory nerve. How the discovery was made The prize-winning work began in the early 1990s, when Hegemann investigated how the alga Chlamydomonas responds to light within milliseconds. He proposed that a single protein both detected light and functioned as an ion channel. Nagel later tested the theory by introducing Chlamydomonas genes into frog eggs, leading to the discovery of channelrhodopsin-2, an ion channel that opens when exposed to light. In 2003, Hegemann and Nagel demonstrated that the protein could be inserted into human and hamster cells to trigger electrical signals using light. Two years later, Deisseroth, working at Stanford University, successfully applied the technique to rat nerve cells. The approach was subsequently named optogenetics, launching a new era in neuroscience research. Shared honour The three laureates will share the 12 million Swedish kronor prize, worth approximately $1.2 million. Perlmann said all three scientists were \u201csurprised and delighted\u201d when informed of their award. \u201cAll three said the same thing, that they thought it was absolutely wonderful to receive the prize with the other two and they call them my friends,\u201d he said. Nobel season begins The medicine prize traditionally opens the annual Nobel Prize announcements, with awards in physics, chemistry, literature, peace and economics set to follow over the coming days. The Nobel Prizes were established under the will of Swedish inventor and industrialist Alfred Nobel and have been awarded since 1901, with only limited interruptions during the two World Wars. The awards ceremony will take place on December 10, the anniversary of Nobel\u2019s death, when recipients will receive their prizes in ceremonies held in Stockholm, while the Nobel Peace Prize will be presented in Oslo.",
+      "link": "https://www.emirates247.com/health/us-and-german-scientists-win-2026-nobel-prize-in-medicine-for-pioneering-optogenetics/6354",
+      "source": "Emirates24|7",
+      "image": "https://api.emirates247.com/emirates247/uploads/images/2026/10/05/9873.webp",
+      "published": "2026-10-05 11:43:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "united arab emirates"
+      ]
+    },
+    {
+      "title": "One of astronomy\u2019s oldest suspected planetary systems has just undergone its most sensitive search yet and the biggest planets scientists might have expected to find are not there",
+      "description": "Astronomers have conducted one of the most detailed searches yet for planets around 70 Ophiuchi AB, a binary system roughly 16 light-years from Earth. Researchers led by the University of Michigan combined more than a century of observations with modern radial-velocity and astrometric measurements. The study found no statistically convincing evidence of giant planets around either star, while stellar activity explained signals that initially appeared potentially planetary. The findings largely exclude Jupiter-mass planets across much of the inner system but do not rule out smaller worlds.",
+      "link": "https://economictimes.indiatimes.com/science/one-of-astronomys-oldest-suspected-planetary-systems-has-just-undergone-its-most-sensitive-search-yet-and-the-biggest-planets-scientists-might-have-expected-to-find-are-not-there/articleshow/134644971.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-134644971,resizemode-4,width-1200,height-900,imgsize-241734,overlay-economictimes/articleshow.jpg",
+      "published": "2026-10-05 11:43:00",
+      "category": [
+        "science",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

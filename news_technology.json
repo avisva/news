@@ -1,20 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "A look at the Automotive Skills Academy that is helping young people with hands-on training and mentorship",
-      "description": "It is offering comprehensive automotive training that guides young people towards qualifications and employment",
-      "link": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/gallery/look-automotive-skills-academy-helping-11177011",
-      "source": "Hull Daily Mail",
-      "image": "https://i2-prod.grimsbytelegraph.co.uk/incoming/article11177075.ece/ALTERNATES/s615/1_automotive-academy3.jpg",
-      "published": "2026-10-04 13:34:49",
+      "title": "OpenAI launches GPT-6 model family with three tiers for varying reasoning needs and costs",
+      "description": "OpenAI launched the GPT-6 model family with three tiers-Astra, Sol, and Luna-giving organizations control over reasoning, speed, and cost. The release adds async tool calling and mid-turn steering, letting developers adjust reasoning effort mid-conversation without breaking the prompt cache.",
+      "link": "https://completeaitraining.com/news/openai-launches-gpt-6-model-family-with-three-tiers-for/",
+      "source": "Complete Ai Training",
+      "image": "https://cdn.completeaitraining.com/news_images/openai-launches-gpt-6-model-family-with-three-tiers-for-varying-reasoning-needs_2026-10-04.jpg",
+      "published": "2026-10-04 20:17:58",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Treat an AI workflow as a state machine with a review boundary",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/treat-an-ai-workflow-as-a-state-machine-with-a-review-boundary-F9F209CD-AD45-55FB-A968-421C8B5EB3CF",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/295dbf91-1713-5e8b-bd61-c8161b5107e1.jpg",
+      "published": "2026-10-04 20:17:47",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Error Tracking API Guide: Choose 4 FastAPI Django SaaS Rollback Checks",
+      "description": null,
+      "link": "https://www.bundle.app/en/technology/error-tracking-api-guide-choose-4-fastapi-django-saas-rollback-checks-404B4EBD-18D9-5DAF-9EF5-31635459CD33",
+      "source": "Bundle",
+      "image": "https://static.bundle.app/news/7db1f039-d094-5008-9e3f-1f9f0f7b73ae.jpg",
+      "published": "2026-10-04 20:17:40",
+      "category": [
+        "technology",
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Could swearing build rapport with patients? - News-Medical",
+      "description": "Could swearing build rapport with patients? News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejhSODVCNE1ZOXZab2tpVEZXLUdJeEgxWkt4YmtDdjIwdXZzdXdHMW9OVkIzdktZSGZOOXpPdFRJRmR0WHF5a2VKZWwzRjZnNkp6TlMwVGFIUlUwZjNMNHFJWmFMQW1lY0Z1SWhPZU0zODhlOWE2NmUzaTlEQkpBZjNUSlFDdDJTYTk5THUtb0t5aU5j?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-06 10:19:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Could swearing build rapport with patients?",
+      "description": "Swearing is often seen as out of place in healthcare, but patients\u2019 experiences suggest the line between unprofessional language and meaningful connection may be more complex.",
+      "link": "https://www.news-medical.net/news/20261006/Could-swearing-build-rapport-with-patients.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/images/news/ImageForNews_848251_17912415969773801.jpg",
+      "published": "2026-10-06 10:19:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

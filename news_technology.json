@@ -1,74 +1,80 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Best compact camera in 2026: these are my top point-and-shoots for photos and video",
-      "description": "Our expert reviewers pick the best compact cameras to buy, from premium compacts like the Lecia Q3, to ultra-cheap beginner cameras. The post Best compact camera in 2026: these are my top point-and-shoots for photos and video appeared first on Amateur Photographer .",
-      "link": "https://amateurphotographer.com/buying-advice/best-compact-camera/",
-      "source": "Amateur Photographer",
-      "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2024/02/Fujifilm_X100IV-17-DSCF2110-acr-Andy-Westlake-AP.jpg",
-      "published": "2026-10-05 16:51:00",
+      "title": "NMDOT seeks public input on US 64 improvements between Tres Piedras and Taos",
+      "description": "The New Mexico Department of Transportation will host an open house Thursday (Oct. 8) to gather public input on potential improvements to US 64 between Tres Piedras and Taos. The department, in cooperation with the Federal Highway Administration,...",
+      "link": "https://www.taosnews.com/news/local-news/nmdot-seeks-public-input-on-us-64-improvements-between-tres-piedras-and-taos/article_315ff43a-7a6a-5b09-bf94-ce00122750c8.html",
+      "source": "The Taos News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/taosnews.com/content/tncms/assets/v3/editorial/f/e0/fe08a004-2f73-5090-9938-0a2fd227b68c/6ac436ac6172d.image.jpg?resize=300%2C200",
+      "published": "2026-10-05 23:46:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "AI chips explained: why Nvidia, Broadcom and Intel react so differently to the same news",
+      "description": "Key takeaways: The AI chip industry has three layers: general-purpose chips, custom chips and manufacturing. General-purpose chipmakers like Nvidia benefit most from broad AI demand. Custom chip designers like Broadcom gain as big AI developers seek alternatives, but carry concentration and financing risks. Foundries need anchor customers to fill costly plants, which is why customer news moves Intel so sharply. Power supply, supplier diversification and concentrated manufacturing are shaping all three layers. GPUs, ASICs and foundries: a reader's guide to the AI chip race Why can one AI headline lift Nvidia to a record while knocking Intel lower on the same day? The answer is that \"AI chips\" is not a single business. Companies compete in different layers of the industry, each with its own economics, risks and drivers of success. Understanding those layers makes it much easier to read news from the sector and to see why investors react so differently to it. Key terms GPU (graphics processing unit): A general-purpose processor that can run many kinds of AI workloads. Nvidia's GPUs are the industry standard for training and running large AI models. ASIC (application-specific integrated circuit): A chip custom-designed for a particular customer or task. It is less flexible than a GPU but can be cheaper or more power-efficient for the job it was built for. TPU (tensor processing unit): Google's custom AI chip, an example of an ASIC, designed with Broadcom. Foundry: A company that manufactures chips designed by others. TSMC is the largest. Anchor customer: A large, committed buyer that fills much of a new factory's capacity, helping justify its cost. Process node: A generation of chip manufacturing technology. Each new node allows more capable chips but requires heavy upfront investment. Layer one: general-purpose AI chips The first layer is the chips that train and run AI models. Nvidia dominates here. Its advantage is not only hardware but software: developers have spent years building on its platform, which makes switching costly. Companies in this layer are rewarded when AI spending is strong and broad-based, because their chips can serve almost any customer. In early October 2026, Nvidia reached a record high as investors focused on strong revenue guidance and a large share buyback. Layer two: custom chips The second layer is custom chips designed for a single large buyer. The biggest AI developers spend so much on computing that it can make sense to design hardware around their own models, potentially cutting costs and reducing dependence on one supplier. Broadcom is a leading designer in this layer. Custom chips are expensive to commit to, so new ways of paying for them are emerging. One example is leasing: a separate investment vehicle buys the chips and rents them to the AI company, spreading the cost over time and bringing in lenders and investors. In early October 2026, Broadcom was reported to be arranging a $60 billion financing of this kind for custom chips used by Anthropic. The key risks in this layer are concentration, since each design depends heavily on one customer, and the complexity of the financing used to fund it. Layer three: manufacturing The third layer is making the chips. Whoever designs a chip, it usually has to be produced by a foundry. Leading-edge factories cost tens of billions of dollars, so foundries need reliable, high-volume customers to fill them and fund the next process node. TSMC dominates this layer. Intel is trying to build a competing foundry business, which is why customer wins matter so much to its share price. In early October 2026, Intel shares fell after Elon Musk confirmed TSMC was in talks to join Terafab, a Texas chip project where Intel had been the only named manufacturing partner. The concern was not a lost contract but a threat to a customer win that investors had already priced in. How to read chip news through the layers The layered view helps explain otherwise confusing market reactions. News about strong AI demand tends to help layer-one companies most, because they sell to everyone. News about a large AI developer designing its own chips can help layer-two designers while raising questions for layer-one suppliers. News about factory partnerships mostly affects layer-three companies, and matters most for those still proving themselves. Valuations add another dimension. Companies with visible, current demand can absorb bad headlines more easily. Companies whose share prices rely on future wins are more sensitive to anything that makes those wins less certain. Forces shaping all three layers Several long-term forces cut across the industry. Power supply is becoming a constraint, so chips that deliver more computing per unit of electricity gain an edge. Large buyers want alternatives to any single supplier, which supports custom chip design. And advanced manufacturing remains concentrated in very few hands, giving the leading foundry significant bargaining power. Watching how these forces develop is often more useful than reacting to any single headline. This article was written by Eamonn Sheridan at investinglive.com.",
+      "link": "https://investinglive.com/education/ai-chips-explained-why-nvidia-broadcom-and-intel-react-so-differently-to-the-same-news/",
+      "source": "Forexlive",
+      "image": "https://investinglive.com/cms/media/Processed/Categories/featured/ai-chip-industry-layers-explained-featured-1791243934.jpg",
+      "published": "2026-10-05 23:45:53",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mount Sinai Tisch Cancer Center Cuts Clinical Trial Data-Entry Time by More Than Half With Real-Time EHR-to-EDC Technology",
+      "description": "The Mount Sinai Tisch Cancer Center has brought its electronic health record (EHR)-to-electronic data capture (EDC) technology into routine use across its cancer research program. Powered by IgniteData's Archer platform and integrated with Epic, the technology has produced early results, reducing clinical trial data-entry time by more than half while improving the efficiency and reliability of research data collection.",
+      "link": "https://www.newswise.com/articles/mount-sinai-tisch-cancer-center-cuts-clinical-trial-data-entry-time-by-more-than-half-with-real-time-ehr-to-edc-technology/?sc=rsla",
+      "source": "Newswise",
+      "image": "https://www.newswise.com/assets/new/img/Newswise-Logo.png",
+      "published": "2026-10-05 23:45:51",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Snag A Gaming Laptop Or Desktop For Less With These Early Amazon Prime Day Deals",
+      "description": "It's not quite time for the big sale on October 6, but we're already tracking down the discounts on powerful PCs for all your gaming needs.",
+      "link": "https://www.pcmag.com/news/gaming-laptop-desktop-deals-early-prime-day-2026-oct-5",
+      "source": "Pcmag",
+      "image": "https://i.pcmag.com/imagery/articles/05sJzBIi8AeKgoIlcjwCoW0-1..v1790621567.jpg",
+      "published": "2026-10-05 23:45:46",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "University of Washington opens first full-time base on Microsoft campus as GIX moves to Redmond",
+      "description": "The 48,500-square-foot facility becomes the permanent home of the Global Innovation Exchange, backed by a $42 million in-kind contribution from Microsoft The University of Washington has opened the permanent home of its Global Innovation Exchange on Microsoft\u2019s Redmond campus The University of Washington has opened its first full-time location on Microsoft \u2019s Redmond campus, moving its Global Innovation Exchange into a dedicated 48,500-square-foot facility designed for teaching, research and professional development in AI and other emerging technologies. The new site, based across two floors of Building 92 on Microsoft\u2019s West Campus, is being provided to the university through a rent-free lease. Microsoft is making a $42 million in-kind contribution to support the facilities. The move gives the University of Washington an academic base directly on the technology company\u2019s campus. GIX students will study alongside Microsoft researchers and employees, while Microsoft staff will also take part in programs delivered through the university. Brad Smith, Vice Chair and President at Microsoft, described the arrangement on LinkedIn as unusual even by university-industry partnership standards: \u201cNo one has ever put a great research university and a leading technology company under the same roof quite like this.\u201d Students and Microsoft staff will share the new GIX base The Global Innovation Exchange launched in 2017 and supports more than 150 students each year through its Master of Science in Technology Innovation program and professional development courses. At the new Redmond site, students will learn from faculty across the University of Washington, take classes taught by Microsoft employees and receive mentoring from technology professionals in the Pacific Northwest. The facility includes six classrooms, prototyping facilities, a distance learning studio, specialist labs, workshops and collaboration spaces. Microsoft employees will also study at GIX. Smith wrote on LinkedIn that an initial cohort of 30 senior technical leaders from the company will attend an evening mini-MBA program, with a goal of running three or four cohorts each year. At the opening, University of Washington President Robert J. Jones says the model is intended to prepare students for leadership as technologies develop rapidly. \u201cAs we face the complex future of emerging and rapidly evolving technologies, our state, region and world will benefit from the training taking place here at the UW in the heart of the Microsoft campus,\u201d he says. AI, robotics and responsible technology The new headquarters will concentrate GIX activity around responsible technology, leadership and innovation across areas including AI and robotics. Microsoft and the university say the proximity between students, faculty, researchers and industry professionals is intended to support applied learning and interdisciplinary collaboration. Smith frames the timing around the growth of AI, writing on LinkedIn: \u201cThe question is whether the people building it understand the world it\u2019s changing.\u201d He added that GIX is designed around a model where students work across disciplines and on practical projects, rather than learning about emerging technology in isolation. Sean Carr, Executive Director and CEO of the Global Innovation Exchange, says the program keeps \u201cpeople, not technology\u201d at the center of its approach. \u201cIts value depends on how people use it to create opportunity, strengthen institutions and contribute to broader social progress,\u201d he says. Microsoft support for GIX passes $100m The $42 million contribution for the new facility follows earlier Microsoft backing for the Global Innovation Exchange. When GIX launched in 2017, Microsoft provided a $10 million founding endowment. The company later contributed $60 million in facility improvements and lease payments at GIX\u2019s previous Bellevue location between 2017 and 2023. GIX operates as a self-sustaining unit of the University of Washington and does not receive direct operational funding from the university or the State of Washington. The Redmond facility is now its permanent home.",
+      "link": "https://www.edtechinnovationhub.com/news/university-of-washington-opens-first-full-time-base-on-microsoft-campus-as-gix-moves-to-redmond",
+      "source": "Edtech Innovation Hub",
+      "image": "https://images.squarespace-cdn.com/content/v1/65a69e0c110a6977ead9741c/4ad68bca-038d-4a38-8a44-e27a2d9ba9be/university-washington-microsoft-gix-redmond.jpg+%281%29.jpg?format=1500w",
+      "published": "2026-10-05 23:45:46",
       "category": [
         "technology",
         "top"
       ],
       "country": [
         "united kingdom"
-      ]
-    },
-    {
-      "title": "Git Will Stop Working in 2100 | HackerNoon",
-      "description": "I put 330,000+ Chilean legal documents into Git and discovered strange limits around historical dates, future timestamps, identities, and parsers.",
-      "link": "https://us.headtopics.com/news/git-will-stop-working-in-2100-hackernoon-88480438",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/hackernoon/git-will-stop-working-in-2100-hackernoon-git-will-stop-working-in-2100-hackernoon-F1A5976FCE47F77F227DA0E765F6C458-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Reflection AI Aims to Disrupt the AI Market by Empowering Enterprises to Build Their Own Models",
-      "description": "Reflection AI, an American startup founded by former Google DeepMind researchers, is challenging the dominance of OpenAI and Anthropic by enabling businesses to create their own custom AI models. With significant investments from Nvidia and SpaceX, the company plans to launch an open-weight model that competes with the best in the field, advocating for a more open and accessible AI ecosystem free from reliance on closed systems or risky Chinese alternatives.",
-      "link": "https://us.headtopics.com/news/reflection-ai-aims-to-disrupt-the-ai-market-by-empowering-88480437",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/gizmodo/reflection-ai-aims-to-disrupt-the-ai-market-by-emp-reflection-ai-aims-to-disrupt-the-ai-market-by-emp-63D6760B908C87E703E43CEFD064E5EC-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Renault appoints Michelin's Carine Damois as CFO after Minto departs",
-      "description": "Renault Chief Financial Officer Duncan Minto is leaving Renault to \"pursue new professional opportunities outside of the Group\" after less than two years in the role, the carmaker said on Monday.",
-      "link": "https://www.reuters.com/business/renault-appoints-michelins-carine-damois-cfo-after-minto-departs-2026-10-05/",
-      "source": "Reuters",
-      "image": "https://www.reuters.com/resizer/v2/FBEUPVREHNIDPHQ3J7HNDEGHV4.jpg?auth=22ca725d649cd37064a321f2349108e016e1065a4670e8de4b278dc2b7fb7058&smart=true&width=1920",
-      "published": "2026-10-05 16:50:59",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "china",
-        "india",
-        "israel",
-        "iran",
-        "united kingdom",
-        "united states of america",
-        "ukraine",
-        "japan",
-        "russia",
-        "south africa"
       ]
     }
   ]

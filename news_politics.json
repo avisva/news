@@ -1,140 +1,95 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Candidates named in all Langley ridings",
-      "description": "No local electoral district has same mix of parties",
-      "link": "https://langleyadvancetimes.com/2026/10/05/candidates-named-in-all-langley-ridings/",
-      "source": "Langley Advance Times",
-      "image": "https://langleyadvancetimes.com/wp-content/uploads/sites/10/2026/10/ballot-file.jpg",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Cannabis Use Linked to Higher Risk of Violence, Study Finds",
-      "description": "A UK meta\u2011analysis shows regular cannabis users are more likely to commit or be victims of violent acts; the link is nuanced and warrants public\u2011health attention.",
-      "link": "https://us.headtopics.com/news/cannabis-use-linked-to-higher-risk-of-violence-study-finds-88480448",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/gizmodo/cannabis-use-linked-to-higher-risk-of-violence-stu-cannabis-use-linked-to-higher-risk-of-violence-stu-E3A240371C55A0C3BE45908B81BE9D37-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Chris Yoosefi, Burbank City Council candidate, 2026 election questionnaire",
-      "description": "Ahead of the election, the Southern California News Group compiled a list of questions to pose to the candidates vying to represent you.",
-      "link": "https://us.headtopics.com/news/chris-yoosefi-burbank-city-council-candidate-2026-88480440",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/ladailynews/chris-yoosefi-burbank-city-council-candidate-2026-chris-yoosefi-burbank-city-council-candidate-2026-23B71BBAFFF2C921B24C4B86B20D8B4B-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cynthia Gonzalez, Cudahy City Council candidate, 2026 election questionnaire",
-      "description": "Ahead of the election, the Southern California News Group compiled a list of questions to pose to the candidates vying to represent you.",
-      "link": "https://us.headtopics.com/news/cynthia-gonzalez-cudahy-city-council-candidate-2026-88480435",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/ladailynews/cynthia-gonzalez-cudahy-city-council-candidate-202-cynthia-gonzalez-cudahy-city-council-candidate-202-54D03CB437548BEF9F90FD549B7CCB1C-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Cynthia Romo, Cudahy City Council candidate, 2026 election questionnaire",
-      "description": "Ahead of the election, the Southern California News Group compiled a list of questions to pose to the candidates vying to represent you.",
-      "link": "https://us.headtopics.com/news/cynthia-romo-cudahy-city-council-candidate-2026-election-88480429",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/ladailynews/cynthia-romo-cudahy-city-council-candidate-2026-el-cynthia-romo-cudahy-city-council-candidate-2026-el-1E725748E274689D21345B985400CC2A-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The Linguistic Survivorship: Why 'Russian-Speaking' Regions are a Stupid Myth",
-      "description": "134 times is the number of recorded attempts by the Russian Empire, the Soviet Union tried to suppress Ukrainian language",
-      "link": "https://us.headtopics.com/news/the-linguistic-survivorship-why-russian-speaking-regions-88480417",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/hackernoon/the-linguistic-survivorship-why-russian-speaking-r-the-linguistic-survivorship-why-russian-speaking-r-4C079FA83C11DFEFAAF79FDEFF467513-16x9.webp",
-      "published": "2026-10-05 16:51:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Former Green leader: I am \"deeply upset\" by Zionism vote - newstatesman.com",
-      "description": "Former Green leader: I am \"deeply upset\" by Zionism vote newstatesman.com Jewish Greens chair says she could leave party over 'Zionism is racism' motion BBC Green party of England and Wales facing ostracism over \u2018Zionism is racism\u2019 vote The Guardian Tensions exposed among Greens by 'Zionism is racism' conference vote BBC Almost everyone is wrong about Zionism and anti-Zionism Prospect Magazine",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajhLRnk0ZUc3dEVrRF9oSUNHci1YTGYtbnBkbFl4T0NVRW1XeGtVRW5heXlySEJ3a0FOZExOR1ZGZUxuY2dOWjltREYwTXNNel9HcVF5aHAyZ0VrbWNDWE5wSk1kMWJJWlZWNHZnOXA3dk1TRlYxTWxWYmUxOUhBQlJ1eFlodUhsTUF0bkpnWXc1WnZqS1ZjNlF1T0FVeUhuRVJCRGhrSWpxdmtxcEQ2Qg?oc=5",
-      "source": "Google News",
+      "title": "Vance says Korea, U.S. must finalize Alaska LNG project details",
+      "description": "U.S. Vice President JD Vance said Korea and the United States still need to resolve details of the proposed Alaska LNG project, citing strong Asian demand for American natural gas.",
+      "link": "https://www.koreajoongangdaily.com/korea/vance-says-us-korea-still-need-to-work-out-details-of-alaska-gas-project/12905770",
+      "source": "Koreajoongangdaily Joins News",
       "image": null,
-      "published": "2026-10-05 16:50:59",
+      "published": "2026-10-05 23:46:00",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "south korea"
       ]
     },
     {
-      "title": "EAM Jaishankar To Visit Ghana To Advance Relations In Pharmaceutical Development",
-      "description": "Accra: External Affairs Minister (EAM) S Jaishankar is set to visit Ghana from tomorrow at the invitation of his Ghanaian counterpart Samuel Okudzeto",
-      "link": "https://ommcomnews.com/world-news/eam-jaishankar-to-visit-ghana-to-advance-relations-in-pharmaceutical-development/",
-      "source": "Odisha News, Odisha Breaking News, Odisha Latest N",
-      "image": "https://ommcomnews.com/wp-content/uploads/2026/10/20250317256F-1-scaled-e1791219033601.jpg",
-      "published": "2026-10-05 16:50:58",
+      "title": "Newburgh Ella by Browns Hotels and Resorts recognised as Sri Lanka\u2019s first certified paperless operation hotel",
+      "description": "Newburgh Ella \u2013 The Tea Factory Resort, by Browns Hotels and Resorts, has been recognised by the National Cleaner Production Centre (NCPC), Sri Lanka, as the first hotel in Sri Lanka to achieve a",
+      "link": "https://www.ft.lk/travel-tourism/Newburgh-Ella-by-Browns-Hotels-and-Resorts-recognised-as-Sri-Lanka-s-first-certified-paperless-operation-hotel/27-798253",
+      "source": "Daily Ft",
+      "image": "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ft.lk/assets/uploads/image_2dcbe8f5db.jpg",
+      "published": "2026-10-05 23:46:00",
       "category": [
-        "politics",
-        "top"
+        "politics"
       ],
       "country": [
-        "india"
+        "sri lanka"
       ]
     },
     {
-      "title": "Coalition for Media Freedom: ANN management\u2019s actions deepen concerns over threats to editorial independence of N1 and Nova.rs",
-      "description": "The Coalition for Media Freedom expressed serious concern over recent actions taken by Adria News Network (ANN) management toward the newsrooms of N1",
-      "link": "https://n1info.rs/english/news/coalition-for-media-freedom-ann-managements-actions-deepen-concerns-over-threats-to-editorial-independence-of-n1-and-novars/",
-      "source": "N1",
-      "image": "https://n1info.rs/media/images/2025/10/1761213470_n1_redakcija_stara_n1.width-1200.jpg",
-      "published": "2026-10-05 16:50:56",
+      "title": "New York City Proves that Affordable Housing Is Possible",
+      "description": "Mayor Zohran Mamdani\u2019s initiatives build on a long history of housing advocacy.",
+      "link": "https://progressive.org/latest/new-york-city-proves-that-affordable-housing-is-possible-rosen-20261005/",
+      "source": "The Progressive",
+      "image": "https://progressive.org/downloads/23280/download/HousingNYC.jpg?cb=728fdb83321837120a4f0ec7ca6d2348",
+      "published": "2026-10-05 23:45:36",
       "category": [
         "politics",
         "top"
       ],
       "country": [
-        "serbia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Judicial Halt on Trump's Multi-Million Dollar Immigration Fines: Cuban Faces $1.8 Million Penalty",
+      "description": "A Cuban immigrant living in Arizona was initially slapped with a staggering $1,820,252 fine for remaining in the United States despite a deportatio...",
+      "link": "https://www.cubaheadlines.com/articles/342038",
+      "source": "Cubaheadlines",
+      "image": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1791243371-freno-judicial-multas-migratorias-millonarias-trump-cubano-habia-sido-sancionado-18.jpg",
+      "published": "2026-10-05 23:45:32",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "cuba"
+      ]
+    },
+    {
+      "title": "Jackson city leaders mull ways to fill vacancies in Public Works",
+      "description": "Jackson has just one engineer on staff, and that's the director of Public Works.",
+      "link": "https://www.wlbt.com/2026/10/05/jackson-city-leaders-mull-ways-fill-vacancies-public-works/",
+      "source": "Wlbt",
+      "image": "https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/L5BKGS44VVBHDFI5UJO7L5HGQE.jpg?auth=362997e37b12b17c659500bfad8530721c6b386a0710ab7aee0b5fa649ffed84&width=1200&height=600&smart=true",
+      "published": "2026-10-05 23:45:24",
+      "category": [
+        "politics",
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Heated exchange erupts at Angie Nixon\u2019s Jacksonville coffee shop over civil rights wall",
+      "description": null,
+      "link": "https://www.actionnewsjax.com/news/local/heated-exchange-erupts-angie-nixons-jacksonville-coffee-shop-over-civil-rights-wall/J42W5VPA55EF7PYGEXXPGCYK7M/",
+      "source": "Action News Jax",
+      "image": null,
+      "published": "2026-10-05 23:45:22",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

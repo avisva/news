@@ -1,48 +1,35 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Dancing With the Stars 'rigged' claims erupt after devastating elimination controversy",
-      "description": "Some Dancing With the Stars fans are accusing the show of rigging the competition in favor of one contestant.",
-      "link": "https://www.the-express.com/entertainment/tv/217388/dwts-rigged-guillermo-rodriguez-controversy",
-      "source": "Daily Express Us",
-      "image": "https://cdn-images.the-express.com/img/dynamic/22/237x141/217388_1.jpg",
-      "published": "2026-10-05 23:46:00",
+      "title": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide",
+      "description": "An absolute monster. Capcom's Monster Hunter series has become an absolute powerhouse over the past two decades and while the company's current focus is on the latest entry Monster Hunter Wilds , it's taken a brief moment this week to provide an update on the sales of the previous release. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
+      "source": "Nintendo Life",
+      "image": "https://images.nintendolife.com/97ab283680207/large.jpg",
+      "published": "2026-10-06 05:55:00",
       "category": [
+        "breaking",
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Global events to mark David Bowie's 80th birthday",
-      "description": "David Bowie, widely regarded as one of the greatest artists of all time, would have turned 80 on January 8 2027.",
-      "link": "https://www.perthnow.com.au/entertainment/global-events-to-mark-david-bowies-80th-birthday-c-22972923",
-      "source": "Perthnow",
-      "image": "https://images.perthnow.com.au/publication/C-22972923/a98d436aa1262b347f55638dec8d90cb140cad86-16x9-x0y0w1280h720.jpg",
-      "published": "2026-10-05 23:45:34",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Afternoon Newscast for October 5, 2026",
-      "description": "A round-up of regional headlines from the KBIA newsroom.",
-      "link": "https://www.kbia.org/podcast/kbia-newscast/2026-10-05/afternoon-newscast-for-october-5-2026",
-      "source": "Kbia",
-      "image": "https://npr.brightspotcdn.com/legacy/sites/kbia/files/201709/kbia_newscast_art_-_1400.jpg",
-      "published": "2026-10-05 23:45:33",
+      "title": "Monster Hunter Rise Surpasses 20 Million Global Sales",
+      "description": "The hunt began as a Switch exclusive. Capcom's Monster Hunter series has become an absolute powerhouse over the past two decades and while the company's current focus is on the latest entry Monster Hunter Wilds , it's taken a brief moment this week to provide an update on the sales of the previous release. Read the full article on nintendolife.com",
+      "link": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-global-sales",
+      "source": "Nintendo Life",
+      "image": "https://images.nintendolife.com/97ab283680207/large.jpg",
+      "published": "2026-10-06 05:55:00",
       "category": [
         "entertainment",
-        "top"
+        "breaking"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     }
   ]

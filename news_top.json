@@ -1,74 +1,29 @@
 {
   "status": "success",
-  "totalResults": 22,
+  "totalResults": 8,
   "results": [
     {
-      "title": "Vance says Korea, U.S. must finalize Alaska LNG project details",
-      "description": "U.S. Vice President JD Vance said Korea and the United States still need to resolve details of the proposed Alaska LNG project, citing strong Asian demand for American natural gas.",
-      "link": "https://www.koreajoongangdaily.com/korea/vance-says-us-korea-still-need-to-work-out-details-of-alaska-gas-project/12905770",
-      "source": "Koreajoongangdaily Joins News",
-      "image": null,
-      "published": "2026-10-05 23:46:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "south korea"
-      ]
-    },
-    {
-      "title": "NMDOT seeks public input on US 64 improvements between Tres Piedras and Taos",
-      "description": "The New Mexico Department of Transportation will host an open house Thursday (Oct. 8) to gather public input on potential improvements to US 64 between Tres Piedras and Taos. The department, in cooperation with the Federal Highway Administration,...",
-      "link": "https://www.taosnews.com/news/local-news/nmdot-seeks-public-input-on-us-64-improvements-between-tres-piedras-and-taos/article_315ff43a-7a6a-5b09-bf94-ce00122750c8.html",
-      "source": "The Taos News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/taosnews.com/content/tncms/assets/v3/editorial/f/e0/fe08a004-2f73-5090-9938-0a2fd227b68c/6ac436ac6172d.image.jpg?resize=300%2C200",
-      "published": "2026-10-05 23:46:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Could CSL (ASX:CSL) Extend Its Healthcare Recovery?",
-      "description": "CSL expands its drug development pipeline through an Alentis Therapeutics partnership, while plasma therapies and newer products remain in focus.",
-      "link": "https://kalkinemedia.com/au/stocks/healthcare/could-csl-asxcsl-extend-its-healthcare-recovery",
-      "source": "Kalkine Media",
-      "image": "https://kalkinemedia.com/storage/uploads/large/Vaccinenco_10_05_2026_23_46_56_850505.jpg",
-      "published": "2026-10-05 23:46:00",
-      "category": [
-        "health",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Balloon Fiesta pilots invest thousands to participate in Albuquerque event",
-      "description": "Pilots at the Albuquerque International Balloon Fiesta spend significant personal funds to attend, with some costs partially covered by the event.",
-      "link": "https://www.koat.com/article/balloon-fiesta-pilots-invest-thousands-to-participate-in-albuquerque-event/74041011",
-      "source": "Koat Action News Seven",
-      "image": "https://hips.hearstapps.com/vidthumb/b0e83172-2174-4673-a90b-2a6ed541cf76/abdbde8b-0031-433f-9df6-bcc6387e0675.jpg",
-      "published": "2026-10-05 23:46:00",
+      "title": "Need for speed: Tigers land Dockers winger in fast-moving deal",
+      "description": "Nathan O'Driscoll has been traded to the Tigers from the Dockers",
+      "link": "https://www.afl.com.au/news/1628864/fremantle-dockers-winger-nathan-odriscoll-traded-to-richmond-tigers",
+      "source": "Afl Au",
+      "image": "https://resources.afl.com.au/photo-resources/2026/10/06/97f81af2-6d2b-42fd-8688-cef60ccf16c5/o4qhlxtL.jpg?width=1000",
+      "published": "2026-10-06 05:55:00",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "australia"
       ]
     },
     {
-      "title": "Wayfair CTO Fiona Tan sells $715,260 of company stock",
-      "description": "Wayfair CTO Fiona Tan sells $715,260 of company stock",
-      "link": "https://www.investing.com/news/insider-trading-news/wayfair-cto-fiona-tan-sells-715260-of-company-stock-93CH-4933101",
-      "source": "Investing Us",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-      "published": "2026-10-05 23:46:00",
+      "title": "XRP Analyst Projects $2.16 Target Based on Reverse Head-and-Shoulder Pattern",
+      "description": "A technical trader outlines a possible price rally for XRP to $2.16, citing a reverse head-and-shoulders formation and comparing it to other major coins while urging risk management.",
+      "link": "https://us.headtopics.com/news/xrp-analyst-projects-2-16-target-based-on-reverse-88497743",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/6/utoday-en/xrp-analyst-projects-2-16-target-based-on-reverse-xrp-analyst-projects-2-16-target-based-on-reverse-7EB9F84E55A98351B77656D954C83AC4-16x9.webp",
+      "published": "2026-10-06 05:55:00",
       "category": [
         "top",
         "business"
@@ -78,72 +33,43 @@
       ]
     },
     {
-      "title": "AI chips explained: why Nvidia, Broadcom and Intel react so differently to the same news",
-      "description": "Key takeaways: The AI chip industry has three layers: general-purpose chips, custom chips and manufacturing. General-purpose chipmakers like Nvidia benefit most from broad AI demand. Custom chip designers like Broadcom gain as big AI developers seek alternatives, but carry concentration and financing risks. Foundries need anchor customers to fill costly plants, which is why customer news moves Intel so sharply. Power supply, supplier diversification and concentrated manufacturing are shaping all three layers. GPUs, ASICs and foundries: a reader's guide to the AI chip race Why can one AI headline lift Nvidia to a record while knocking Intel lower on the same day? The answer is that \"AI chips\" is not a single business. Companies compete in different layers of the industry, each with its own economics, risks and drivers of success. Understanding those layers makes it much easier to read news from the sector and to see why investors react so differently to it. Key terms GPU (graphics processing unit): A general-purpose processor that can run many kinds of AI workloads. Nvidia's GPUs are the industry standard for training and running large AI models. ASIC (application-specific integrated circuit): A chip custom-designed for a particular customer or task. It is less flexible than a GPU but can be cheaper or more power-efficient for the job it was built for. TPU (tensor processing unit): Google's custom AI chip, an example of an ASIC, designed with Broadcom. Foundry: A company that manufactures chips designed by others. TSMC is the largest. Anchor customer: A large, committed buyer that fills much of a new factory's capacity, helping justify its cost. Process node: A generation of chip manufacturing technology. Each new node allows more capable chips but requires heavy upfront investment. Layer one: general-purpose AI chips The first layer is the chips that train and run AI models. Nvidia dominates here. Its advantage is not only hardware but software: developers have spent years building on its platform, which makes switching costly. Companies in this layer are rewarded when AI spending is strong and broad-based, because their chips can serve almost any customer. In early October 2026, Nvidia reached a record high as investors focused on strong revenue guidance and a large share buyback. Layer two: custom chips The second layer is custom chips designed for a single large buyer. The biggest AI developers spend so much on computing that it can make sense to design hardware around their own models, potentially cutting costs and reducing dependence on one supplier. Broadcom is a leading designer in this layer. Custom chips are expensive to commit to, so new ways of paying for them are emerging. One example is leasing: a separate investment vehicle buys the chips and rents them to the AI company, spreading the cost over time and bringing in lenders and investors. In early October 2026, Broadcom was reported to be arranging a $60 billion financing of this kind for custom chips used by Anthropic. The key risks in this layer are concentration, since each design depends heavily on one customer, and the complexity of the financing used to fund it. Layer three: manufacturing The third layer is making the chips. Whoever designs a chip, it usually has to be produced by a foundry. Leading-edge factories cost tens of billions of dollars, so foundries need reliable, high-volume customers to fill them and fund the next process node. TSMC dominates this layer. Intel is trying to build a competing foundry business, which is why customer wins matter so much to its share price. In early October 2026, Intel shares fell after Elon Musk confirmed TSMC was in talks to join Terafab, a Texas chip project where Intel had been the only named manufacturing partner. The concern was not a lost contract but a threat to a customer win that investors had already priced in. How to read chip news through the layers The layered view helps explain otherwise confusing market reactions. News about strong AI demand tends to help layer-one companies most, because they sell to everyone. News about a large AI developer designing its own chips can help layer-two designers while raising questions for layer-one suppliers. News about factory partnerships mostly affects layer-three companies, and matters most for those still proving themselves. Valuations add another dimension. Companies with visible, current demand can absorb bad headlines more easily. Companies whose share prices rely on future wins are more sensitive to anything that makes those wins less certain. Forces shaping all three layers Several long-term forces cut across the industry. Power supply is becoming a constraint, so chips that deliver more computing per unit of electricity gain an edge. Large buyers want alternatives to any single supplier, which supports custom chip design. And advanced manufacturing remains concentrated in very few hands, giving the leading foundry significant bargaining power. Watching how these forces develop is often more useful than reacting to any single headline. This article was written by Eamonn Sheridan at investinglive.com.",
-      "link": "https://investinglive.com/education/ai-chips-explained-why-nvidia-broadcom-and-intel-react-so-differently-to-the-same-news/",
-      "source": "Forexlive",
-      "image": "https://investinglive.com/cms/media/Processed/Categories/featured/ai-chip-industry-layers-explained-featured-1791243934.jpg",
-      "published": "2026-10-05 23:45:53",
+      "title": "Dhaka North administrator inspects Mirpur-10 post-eviction state",
+      "description": "He also inspected tree plantation initiatives undertaken in the evicted areas.",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-administrator-inspects-mirpur-10-post-eviction-state-1564011",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/10/06/9275050.jpg",
+      "published": "2026-10-06 05:55:00",
       "category": [
-        "technology",
-        "top"
+        "environment",
+        "top",
+        "business"
       ],
       "country": [
-        "united states of america"
+        "bangladesh"
       ]
     },
     {
-      "title": "Nobu chef killed after vehicle allegedly crashed into his parked car",
-      "description": "A 16-year-old in a Range Rover allegedly hit and killed a chef sleeping in his car at one of America's top sushi restaurants. Carter Evans reports from Los Angeles.",
-      "link": "https://www.cbsnews.com/video/nobu-chef-killed-vehicle-allegedly-crashed-parked-car/",
-      "source": "Cbs News",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/05/50483ccf-efb5-4685-94f4-d621feddf3cf/thumbnail/1200x630/fff5c4e347b54fba5f2ab65a11ade63b/cbsn-fusion-nobu-chef-killed-vehicle-allegedly-crashed-parked-car-thumbnail.jpg",
-      "published": "2026-10-05 23:45:52",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mount Sinai Tisch Cancer Center Cuts Clinical Trial Data-Entry Time by More Than Half With Real-Time EHR-to-EDC Technology",
-      "description": "The Mount Sinai Tisch Cancer Center has brought its electronic health record (EHR)-to-electronic data capture (EDC) technology into routine use across its cancer research program. Powered by IgniteData's Archer platform and integrated with Epic, the technology has produced early results, reducing clinical trial data-entry time by more than half while improving the efficiency and reliability of research data collection.",
-      "link": "https://www.newswise.com/articles/mount-sinai-tisch-cancer-center-cuts-clinical-trial-data-entry-time-by-more-than-half-with-real-time-ehr-to-edc-technology/?sc=rsla",
-      "source": "Newswise",
-      "image": "https://www.newswise.com/assets/new/img/Newswise-Logo.png",
-      "published": "2026-10-05 23:45:51",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Salvation Army is feeding the need with community support",
-      "description": null,
-      "link": "https://www.actionnewsjax.com/news/local/salvation-army-is-feeding-need-with-community-support/7JECHIUFUNHGNDNQX3CRXZEA4M/",
-      "source": "Action News Jax",
-      "image": null,
-      "published": "2026-10-05 23:45:50",
+      "title": "Bus No. 6: The last remnant of a bygone era",
+      "description": "After more than six decades of service, Bus No. 6 is now the only bus left running on the Kamalapur-Gulistan route, kept alive by one owner\u2019s attachment to a dying route",
+      "link": "https://www.tbsnews.net/features/panorama/bus-no-6-last-remnant-bygone-era-1564026",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/10/06/_yed4961.jpg.jpeg",
+      "published": "2026-10-06 05:55:00",
       "category": [
         "lifestyle",
         "top"
       ],
       "country": [
-        "united states of america"
+        "bangladesh"
       ]
     },
     {
-      "title": "More charges fail as last of the 2024 Newcastle blockade arrestees face court",
-      "description": "October 6 2026 Four more activists have had their charges dismissed after participating in the 2024 people\u2019s blockade where hundreds of people entered the water at Newcastle Harbour \u2013 the site of the world\u2019s largest coal port \u2013 to protest fossil fuel exports and their role in climate change. More than 130 people \u2026 Continued",
-      "link": "https://newshub.medianet.com.au/2026/10/more-charges-fail-as-last-of-the-2024-newcastle-blockade-arrestees-face-court/175041/",
-      "source": "News Hub - Medianet News Hub Archive",
-      "image": "https://newshub-website-data.s3.ap-southeast-2.amazonaws.com/2026/10/06104548/Climate-defenders-Australia-banner.png",
-      "published": "2026-10-05 23:45:47",
+      "title": "Dan Andrews crash victim Ryan Meuleman admits to BP burglary, carjacking",
+      "description": null,
+      "link": "https://www.heraldsun.com.au/truecrimeaustralia/police-courts-victoria/ryan-meuleman-refused-bail-after-pleading-guilty-to-terrifying-pakenham-carjacking/news-story/42a3e21806aa5128f7095b6a4ce991d9",
+      "source": "Herald Sun",
+      "image": null,
+      "published": "2026-10-06 05:55:00",
       "category": [
         "crime",
         "top"
@@ -153,29 +79,29 @@
       ]
     },
     {
-      "title": "Snag A Gaming Laptop Or Desktop For Less With These Early Amazon Prime Day Deals",
-      "description": "It's not quite time for the big sale on October 6, but we're already tracking down the discounts on powerful PCs for all your gaming needs.",
-      "link": "https://www.pcmag.com/news/gaming-laptop-desktop-deals-early-prime-day-2026-oct-5",
-      "source": "Pcmag",
-      "image": "https://i.pcmag.com/imagery/articles/05sJzBIi8AeKgoIlcjwCoW0-1..v1790621567.jpg",
-      "published": "2026-10-05 23:45:46",
+      "title": "Sam Altman: the world should accept \u2018some bad things\u2019 from AI",
+      "description": "Sam Altman says the world should accept some bad things happening in exchange for AI's benefits.",
+      "link": "https://techcentral.co.za/sam-altman-accept-some-bad-things-ai/286912/",
+      "source": "Techcentral",
+      "image": "https://techcentral.co.za/wp-content/uploads/2026/10/re-sam-altman-1500-800.jpg",
+      "published": "2026-10-06 05:54:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "india"
+        "south africa"
       ]
     },
     {
-      "title": "University of Washington opens first full-time base on Microsoft campus as GIX moves to Redmond",
-      "description": "The 48,500-square-foot facility becomes the permanent home of the Global Innovation Exchange, backed by a $42 million in-kind contribution from Microsoft The University of Washington has opened the permanent home of its Global Innovation Exchange on Microsoft\u2019s Redmond campus The University of Washington has opened its first full-time location on Microsoft \u2019s Redmond campus, moving its Global Innovation Exchange into a dedicated 48,500-square-foot facility designed for teaching, research and professional development in AI and other emerging technologies. The new site, based across two floors of Building 92 on Microsoft\u2019s West Campus, is being provided to the university through a rent-free lease. Microsoft is making a $42 million in-kind contribution to support the facilities. The move gives the University of Washington an academic base directly on the technology company\u2019s campus. GIX students will study alongside Microsoft researchers and employees, while Microsoft staff will also take part in programs delivered through the university. Brad Smith, Vice Chair and President at Microsoft, described the arrangement on LinkedIn as unusual even by university-industry partnership standards: \u201cNo one has ever put a great research university and a leading technology company under the same roof quite like this.\u201d Students and Microsoft staff will share the new GIX base The Global Innovation Exchange launched in 2017 and supports more than 150 students each year through its Master of Science in Technology Innovation program and professional development courses. At the new Redmond site, students will learn from faculty across the University of Washington, take classes taught by Microsoft employees and receive mentoring from technology professionals in the Pacific Northwest. The facility includes six classrooms, prototyping facilities, a distance learning studio, specialist labs, workshops and collaboration spaces. Microsoft employees will also study at GIX. Smith wrote on LinkedIn that an initial cohort of 30 senior technical leaders from the company will attend an evening mini-MBA program, with a goal of running three or four cohorts each year. At the opening, University of Washington President Robert J. Jones says the model is intended to prepare students for leadership as technologies develop rapidly. \u201cAs we face the complex future of emerging and rapidly evolving technologies, our state, region and world will benefit from the training taking place here at the UW in the heart of the Microsoft campus,\u201d he says. AI, robotics and responsible technology The new headquarters will concentrate GIX activity around responsible technology, leadership and innovation across areas including AI and robotics. Microsoft and the university say the proximity between students, faculty, researchers and industry professionals is intended to support applied learning and interdisciplinary collaboration. Smith frames the timing around the growth of AI, writing on LinkedIn: \u201cThe question is whether the people building it understand the world it\u2019s changing.\u201d He added that GIX is designed around a model where students work across disciplines and on practical projects, rather than learning about emerging technology in isolation. Sean Carr, Executive Director and CEO of the Global Innovation Exchange, says the program keeps \u201cpeople, not technology\u201d at the center of its approach. \u201cIts value depends on how people use it to create opportunity, strengthen institutions and contribute to broader social progress,\u201d he says. Microsoft support for GIX passes $100m The $42 million contribution for the new facility follows earlier Microsoft backing for the Global Innovation Exchange. When GIX launched in 2017, Microsoft provided a $10 million founding endowment. The company later contributed $60 million in facility improvements and lease payments at GIX\u2019s previous Bellevue location between 2017 and 2023. GIX operates as a self-sustaining unit of the University of Washington and does not receive direct operational funding from the university or the State of Washington. The Redmond facility is now its permanent home.",
-      "link": "https://www.edtechinnovationhub.com/news/university-of-washington-opens-first-full-time-base-on-microsoft-campus-as-gix-moves-to-redmond",
-      "source": "Edtech Innovation Hub",
-      "image": "https://images.squarespace-cdn.com/content/v1/65a69e0c110a6977ead9741c/4ad68bca-038d-4a38-8a44-e27a2d9ba9be/university-washington-microsoft-gix-redmond.jpg+%281%29.jpg?format=1500w",
-      "published": "2026-10-05 23:45:46",
+      "title": "'I Never Have Empty Seats': Trump Cites His Own Camera Crews and Calls for Media Arrests",
+      "description": "Donald Trump disputed media reports about attendance at his rallies, citing video crews and alleging coverage was false while calling for The New York Times and other outlets to be arrested",
+      "link": "https://www.ibtimes.co.uk/i-never-have-empty-seats-trump-cites-his-own-camera-crews-calls-media-arrests-1823835",
+      "source": "International Business Times",
+      "image": "https://d.ibtimes.co.uk/en/full/1834956/donald-trumps-rally-crowd-media-arrest-dispute.png?w=1600&h=900&q=88&f=decc686d5e97e547c5c598cf53967cfe",
+      "published": "2026-10-06 05:54:53",
       "category": [
-        "technology",
+        "politics",
         "top"
       ],
       "country": [
@@ -183,154 +109,18 @@
       ]
     },
     {
-      "title": "Marquette Fire Department shares tips for National Fire Prevention Week",
-      "description": "Firefighters with the MFD say now is a good time of year to check your smoke detector batteries",
-      "link": "https://www.uppermichiganssource.com/2026/10/05/marquette-fire-department-shares-tips-national-fire-prevention-week/",
-      "source": "Upper Michigan's Source",
-      "image": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/GSD4DEDXH5HFJD7LM4SAVSGWX4.jpg?auth=41b68418683c589613de8e8edc24da2243359973c8623ce4cb8f2185cacd2285&width=1200&height=600&smart=true",
-      "published": "2026-10-05 23:45:46",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Councillors to debate future of Edmonton\u2019s single-use bag fee for restaurants",
-      "description": "A city councillor is proposing that Edmonton drop its single-use bag fee requirement for restaurants.",
-      "link": "https://www.ctvnews.ca/edmonton/article/councillors-to-debate-future-of-edmontons-single-use-bag-fee-for-restaurants/",
-      "source": "Ctv News",
-      "image": "https://www.ctvnews.ca/resizer/v2/QC3U36RUAVHCVFFFXDDL6UKKUY.jpg?auth=9ed4aef39cd177fd5e0ffde55920a0a18d2934a8b4f328ec5d260eabbf640790&smart=true&width=1920&height=1080",
-      "published": "2026-10-05 23:45:41",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Bitcoin Cash News: Transaction Utility Returns to Focus as Remittix Tests Bank Settlement",
-      "description": "Bitcoin Cash news often comes back to a simple idea: a digital asset should be useful for payments. Remittix is testing another practical question, what happens when the recipient needs the value\u2026 Read the full article on TechBullion.",
-      "link": "https://techbullion.com/bitcoin-cash-news-transaction-utility-returns-to-focus-as-remittix-tests-bank-settlement/",
-      "source": "Techbullion",
-      "image": "https://techbullion.com/wp-content/uploads/2026/10/Picture37-1.png",
-      "published": "2026-10-05 23:45:40",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "New York City Proves that Affordable Housing Is Possible",
-      "description": "Mayor Zohran Mamdani\u2019s initiatives build on a long history of housing advocacy.",
-      "link": "https://progressive.org/latest/new-york-city-proves-that-affordable-housing-is-possible-rosen-20261005/",
-      "source": "The Progressive",
-      "image": "https://progressive.org/downloads/23280/download/HousingNYC.jpg?cb=728fdb83321837120a4f0ec7ca6d2348",
-      "published": "2026-10-05 23:45:36",
+      "title": "Why BJD MPs Are Marching in New Delhi: A Call for CEC Gyanesh Kumar's Resignation",
+      "description": "In a significant political move, BJD MPs are gearing up to participate in a protest march in New Delhi, demanding the resignation of Chief Election Commissioner Gyanesh Kumar. This action stems from allegations of irregularities in the electoral roll revision process, which reportedly led to the deletion of over 13 crore voters nationwide. The BJD, under the leadership of Naveen Patnaik, aims to address serious concerns regarding the integrity of the electoral process. Join us as we delve into the details of this unfolding political drama and the implications it may have on India's electoral landscape.",
+      "link": "https://gyanhigyan.com/national/why-bjd-mps-are-marching-in-new-delhi-a-call-for-cec/cid19342101.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/4a0da8d8299538b54d5db6779db3fa66.jpg?width=1280&height=720&resizemode=4",
+      "published": "2026-10-06 05:54:52",
       "category": [
         "politics",
         "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Afternoon Newscast for October 5, 2026",
-      "description": "A round-up of regional headlines from the KBIA newsroom.",
-      "link": "https://www.kbia.org/podcast/kbia-newscast/2026-10-05/afternoon-newscast-for-october-5-2026",
-      "source": "Kbia",
-      "image": "https://npr.brightspotcdn.com/legacy/sites/kbia/files/201709/kbia_newscast_art_-_1400.jpg",
-      "published": "2026-10-05 23:45:33",
-      "category": [
-        "entertainment",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Judicial Halt on Trump's Multi-Million Dollar Immigration Fines: Cuban Faces $1.8 Million Penalty",
-      "description": "A Cuban immigrant living in Arizona was initially slapped with a staggering $1,820,252 fine for remaining in the United States despite a deportatio...",
-      "link": "https://www.cubaheadlines.com/articles/342038",
-      "source": "Cubaheadlines",
-      "image": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1791243371-freno-judicial-multas-migratorias-millonarias-trump-cubano-habia-sido-sancionado-18.jpg",
-      "published": "2026-10-05 23:45:32",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "cuba"
-      ]
-    },
-    {
-      "title": "LIV Golf bags BC Partners Credit funding to support restructuring",
-      "description": "BC Partners Credit on Monday made an initial committed investment in LIV Golf and plans to provide up to 300 million in cumulative financing to support the golf circuits restructuring and future growth",
-      "link": "https://www.devdiscourse.com/article/international/3987257-liv-golf-bags-bc-partners-credit-funding-to-support-restructuring",
-      "source": "Devdiscourse",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_59_5183121.jpg&amp;width=920",
-      "published": "2026-10-05 23:45:27",
-      "category": [
-        "top",
-        "business"
       ],
       "country": [
         "india"
-      ]
-    },
-    {
-      "title": "British Airways Flight Drops 28,000 Feet During London-Chicago Journey, Returns to Heathrow",
-      "description": "London (HRNW)- A British Airways flight traveling from London to Chicago suddenly descended approximately 28,000 feet while cruising over Irish airspace, prompting the pilot to declare an emergency and turn the aircraft back toward the United Kingdom. According to international media reports, British Airways flight BA295 departed from London\u2019s Heathrow Airport for Chicago. About an hour...",
-      "link": "https://www.hrnww.com/?p=30198",
-      "source": "Human Rights News Worldwide Hrnw News Agency",
-      "image": null,
-      "published": "2026-10-05 23:45:25",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Jackson city leaders mull ways to fill vacancies in Public Works",
-      "description": "Jackson has just one engineer on staff, and that's the director of Public Works.",
-      "link": "https://www.wlbt.com/2026/10/05/jackson-city-leaders-mull-ways-fill-vacancies-public-works/",
-      "source": "Wlbt",
-      "image": "https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/L5BKGS44VVBHDFI5UJO7L5HGQE.jpg?auth=362997e37b12b17c659500bfad8530721c6b386a0710ab7aee0b5fa649ffed84&width=1200&height=600&smart=true",
-      "published": "2026-10-05 23:45:24",
-      "category": [
-        "politics",
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Heated exchange erupts at Angie Nixon\u2019s Jacksonville coffee shop over civil rights wall",
-      "description": null,
-      "link": "https://www.actionnewsjax.com/news/local/heated-exchange-erupts-angie-nixons-jacksonville-coffee-shop-over-civil-rights-wall/J42W5VPA55EF7PYGEXXPGCYK7M/",
-      "source": "Action News Jax",
-      "image": null,
-      "published": "2026-10-05 23:45:22",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
       ]
     }
   ]

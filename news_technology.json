@@ -1,48 +1,74 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "The AI kill switch \u2013 what actually happens when you press it?",
-      "description": "Switch on the TV, or scroll through the news and you won\u2019t have to look far before you find an AI headline . Some of the stories are inspiring, others are concerning, but what is clear is that a topic that was once the reserve of the technical elite is now a global challenge. The debate around how to use AI safely has so far centred on two fundamental principles \u2013 regulate AI and control it. Approaches to regulating AI vary, from comprehensive European Union (EU) legislation to sector specific regulation, existing legal duties and voluntary standards such as the National Institute of Standards and Technology\u2019s (NIST's) AI Risk Management Framework . But the direction is clear; organisations must be able to oversee, constrain and, where necessary, stop higher-risk AI systems safely. Recent research from OneTrust found that 87% of senior business leaders encourage AI agent use, while only 17% say governance is embedded by design. The gap between adoption and control is becoming increasingly significant. When it comes to controlling AI, there seems to be more of a consensus; we must do more and do it quickly. More organisations are talking about a so-called AI kill switch , a reassuring idea that if an AI system behaves unexpectedly, someone can simply press a button and stop it. But in an agentic world, the switch may be the easy part. The real challenge is the wiring behind it. The reality is that there may be no single system to stop. An AI agent often operates through a model hosted by one provider, an identity managed by another platform, tools connected through APIs, and workflows distributed across several internal and external services. For an agentic AI system, emergency shutdown is not simply a matter of stopping the model from generating another answer. It means containing the entire chain through which the agent can act: its runtime, identity, credentials, tools, network access, queued work and delegated authority. Control must start long before anyone reaches for a kill switch. Organisations need clear governance, decision-making and accountability around what an agent is authorised to do in the first place, and where the boundaries sit. The risk becomes more immediate when AI moves from generating content or recommendations to taking action. Once an agent can transact, communicate, change records or operate systems, controlling what it is authorised to do becomes as important as controlling its outputs. Read more about AI kill switches As lawmakers push to make AI kill switches mandatory, security leaders warn that the big red button may be a dangerous illusion. Here\u2019s why policy doesn't match the technical reality . The NCSC has published interim guidance for operators of agentic systems, advising organisations retain the ability to pull the plug on AI systems . The US AI Kill Switch Act would require powerful AI systems to support shutdowns. A lawyer explains what the bill means for CIOs, vendors and enterprise risk . What would pressing the kill switch actually mean? Having the ability to intervene when needed is an important part of giving organisations the confidence to adopt AI at pace . That confidence, though, will depend on knowing how to correctly wire the kill switch . This includes disabling an agent\u2019s workload or identity, to isolating its network and communications access, and restricting its ability to interact with other tools through application programming interfaces (APIs). You then need to think about how you verify that your actions have been successful and that containment has actually occurred, as well as stopping any queued or scheduled tasks that might be in-flight. It\u2019s important to think about the cleanup and recovery too; an agent that is stopped halfway through a task might leave incomplete transactions, open tickets, partial record changes or inconsistent data. Each of these actions is technically possible, but the challenge is that many of the underlying capabilities needed to enable these actions need to be re-designed for an agentic world. Take identity and access management (IAM). IAM has traditionally concentrated on employees and relatively stable machine identities. Agentic AI introduces a more dynamic challenge; identities that can be created at scale, inherit or delegate authority, use multiple tools, and initiate work across organisational boundaries. Organisations, therefore, need to reconsider how they manage access and maintain control as the use of AI agents grows. And this all assumes we know where agents are deployed and what they\u2019re capable of doing. Whose responsibility that is and the ability of existing governance arrangements to keep pace is another point of debate. Some feel it\u2019s the responsibility of technical teams and the CTO, whilst many feel this is a matter for risk teams and the CRO. There\u2019s no clear answer yet, but a level of independence is needed from those benefiting from the use of AI to make sure there are appropriate checks and balances around safety and security. As AI becomes more autonomous, we need to ensure safety and control keep pace with adoption. It\u2019s time for boards and technology leaders to put these principles at the centre of their AI strategy as they prepare for an agentic world. Practical actions that senior leaders can take include maintaining a live agent inventory and \u2018mapping\u2019 to systems it works with, improving agentic IAM control and rehearsing the shutdown, recovery and cleanup operation. Designing an AI kill switch could be a practical solution that helps firms safely deploy AI and focus investment on responsible AI that delivers the greatest value. The challenge is not, should we create a switch, it\u2019s how ready is the wiring? Adam Stringer is a digital trust and security specialist at PA Consulting",
-      "link": "https://www.computerweekly.com/opinion/The-AI-kill-switch-what-actually-happens-when-you-press-it",
-      "source": "Techtarget",
-      "image": "https://cdn.ttgtmedia.com/visuals/German/Hero-data-governance-AI-Sandwish-AdobeStock_2090227027.jpg",
-      "published": "2026-10-05 11:43:00",
+      "title": "Best compact camera in 2026: these are my top point-and-shoots for photos and video",
+      "description": "Our expert reviewers pick the best compact cameras to buy, from premium compacts like the Lecia Q3, to ultra-cheap beginner cameras. The post Best compact camera in 2026: these are my top point-and-shoots for photos and video appeared first on Amateur Photographer .",
+      "link": "https://amateurphotographer.com/buying-advice/best-compact-camera/",
+      "source": "Amateur Photographer",
+      "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2024/02/Fujifilm_X100IV-17-DSCF2110-acr-Andy-Westlake-AP.jpg",
+      "published": "2026-10-05 16:51:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Build a Clock with Wave Share ESP32 C6 Touch AMOLED 2.16",
-      "description": "Volos Projects demonstrates how the Wave Share ESP32C6 Touch AMOLED 2.16 development board was used to create a functional clock with a sleek design. By combining the ESP32C6\u2019s Wi-Fi and Bluetooth capabilities with an AMOLED touchscreen and the LVGL graphics library, the project achieves a responsive interface. Practical features like push-button adjustable brightness and toggling [\u2026] The post Build a Clock with Wave Share ESP32 C6 Touch AMOLED 2.16 appeared first on Geeky Gadgets .",
-      "link": "https://www.geeky-gadgets.com/diy-esp32-desk-clock/",
-      "source": "Geeky-gadgets",
-      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/10/esp32-desk-clock.jpg",
-      "published": "2026-10-05 11:43:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "NYC Council holding rare hearing on AI risks with top tech executives",
-      "description": "Leading AI experts will be in attendance along with representatives from Anthropic, OpenAI, Google and Meta all expected to testify.",
-      "link": "https://us.headtopics.com/news/nyc-council-holding-rare-hearing-on-ai-risks-with-top-tech-88469848",
+      "title": "Git Will Stop Working in 2100 | HackerNoon",
+      "description": "I put 330,000+ Chilean legal documents into Git and discovered strange limits around historical dates, future timestamps, identities, and parsers.",
+      "link": "https://us.headtopics.com/news/git-will-stop-working-in-2100-hackernoon-88480438",
       "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/5/nbcnewyork/nyc-council-holding-rare-hearing-on-ai-risks-with--nyc-council-holding-rare-hearing-on-ai-risks-with--6591A7F946877BCA82C1A30B12463917-16x9.webp",
-      "published": "2026-10-05 11:43:00",
+      "image": "https://i.headtopics.com/images/2026/10/5/hackernoon/git-will-stop-working-in-2100-hackernoon-git-will-stop-working-in-2100-hackernoon-F1A5976FCE47F77F227DA0E765F6C458-16x9.webp",
+      "published": "2026-10-05 16:51:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Reflection AI Aims to Disrupt the AI Market by Empowering Enterprises to Build Their Own Models",
+      "description": "Reflection AI, an American startup founded by former Google DeepMind researchers, is challenging the dominance of OpenAI and Anthropic by enabling businesses to create their own custom AI models. With significant investments from Nvidia and SpaceX, the company plans to launch an open-weight model that competes with the best in the field, advocating for a more open and accessible AI ecosystem free from reliance on closed systems or risky Chinese alternatives.",
+      "link": "https://us.headtopics.com/news/reflection-ai-aims-to-disrupt-the-ai-market-by-empowering-88480437",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/5/gizmodo/reflection-ai-aims-to-disrupt-the-ai-market-by-emp-reflection-ai-aims-to-disrupt-the-ai-market-by-emp-63D6760B908C87E703E43CEFD064E5EC-16x9.webp",
+      "published": "2026-10-05 16:51:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Renault appoints Michelin's Carine Damois as CFO after Minto departs",
+      "description": "Renault Chief Financial Officer Duncan Minto is leaving Renault to \"pursue new professional opportunities outside of the Group\" after less than two years in the role, the carmaker said on Monday.",
+      "link": "https://www.reuters.com/business/renault-appoints-michelins-carine-damois-cfo-after-minto-departs-2026-10-05/",
+      "source": "Reuters",
+      "image": "https://www.reuters.com/resizer/v2/FBEUPVREHNIDPHQ3J7HNDEGHV4.jpg?auth=22ca725d649cd37064a321f2349108e016e1065a4670e8de4b278dc2b7fb7058&smart=true&width=1920",
+      "published": "2026-10-05 16:50:59",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "china",
+        "india",
+        "israel",
+        "iran",
+        "united kingdom",
+        "united states of america",
+        "ukraine",
+        "japan",
+        "russia",
+        "south africa"
       ]
     }
   ]

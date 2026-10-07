@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "France protests continue",
-      "description": "French high school students are marched together as they demanded better learning conditions at their schools. Several hundred thousand students turned out in cities across France.",
-      "link": "https://www.wamc.org/2026-10-06/france-protests-continue",
-      "source": "Wamc Northeast Public Radio",
-      "image": null,
-      "published": "2026-10-06 21:47:00",
+      "title": "UEFA launches disciplinary probe into alleged spitting incident at Nations League match",
+      "description": "UEFA has opened an investigation after an Israeli player was accused of spitting on Ireland staff member Damien Doyle during the half\u2011time tunnel walk in Serbia.",
+      "link": "https://kenya-today.com/report-uefa-launches-disciplinary-probe-into-alleged-spitting-incident-at-nations-league-match-7649/",
+      "source": "Kenya Today",
+      "image": "https://publish.eastleighvoice.co.ke/mugera_lock/uploads/2026/10/eastleighvoice-co-ke-2026-october-06-174410.webp",
+      "published": "2026-10-07 05:13:59",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "kenya"
+      ]
+    },
+    {
+      "title": "Prabowo Briefs 800 Top Military, Police Officers at Palace",
+      "description": "President Prabowo Subianto is set to deliver directives to top Indonesian Military (TNI) and National Police (Polri) officers.",
+      "link": "https://en.tempo.co/read/2121095/prabowo-briefs-800-top-military-police-officers-at-palace",
+      "source": "Tempo.co",
+      "image": "https://statik.tempo.co/data/2026/10/05/id_1490788/1490788_720.jpg",
+      "published": "2026-10-07 05:13:49",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "indonesia"
       ]
     }
   ]

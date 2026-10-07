@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Bat with broken wing treated with laser therapy - Yahoo News Australia",
+      "description": "Bat with broken wing treated with laser therapy Yahoo News Australia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PLThWVDhRS0pkRDctenZjSmtPRDUybFU5eDB0dnZZRHd0YmdlNUFmVkV1ZFZtdFBheERWbEk0NjNhSTd3YllUY2I0aXhObnRVRnBCX01VU3VCdnRLckZUQmdSdTZxTk5MVGV3S1B1akJFaEFKQUFFS0dn?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-07 05:14:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

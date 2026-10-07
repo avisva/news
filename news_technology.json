@@ -1,28 +1,58 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "'Behold the Xalanyn, Children of Abaddon' \u2014 As Halo Moves to Activision, Halo Studios Writers Tease What Might Have Been - IGN",
-      "description": "'Behold the Xalanyn, Children of Abaddon' \u2014 As Halo Moves to Activision, Halo Studios Writers Tease What Might Have Been IGN Rumours suggest Activision could be eyeing up a full reboot of the Halo series, with Sledgehammer Games heading up the project Eurogamer.net Former Halo Exec Outlines 'Three Paths' That Could Lead To Successful Games In The Future Pure Xbox Halo Studios Shares Final Zeta Halo Lore Dump With Endless TwistedVoxel Halo 7 devs drop official first-look as Activision takes control GAMINGbible",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VM2VVYVF0blJ1eExmS2RYUWdESUstY3V6SnlDUlRZNHhyazJQUTRBMHM3WHJTaGROMG1tVVh6R25YZ2pjWXF4TDl0aG0zeGRsRWZsMGpfV2IwSVhvVDFER3lqY3Q1RlVqYjdIVGpJeEZYZw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-10-06 10:18:54",
+      "title": "New Surface Laptop Ultra release details revealed with up to 128 GB RAM and 20-core RTX Spark",
+      "description": "Microsoft will be officially launching the Surface Laptop Ultra on October 7. In the meantime, multiple sources have revealed release details ahead of schedule.",
+      "link": "https://www.notebookcheck.net/New-Surface-Laptop-Ultra-release-details-revealed-with-up-to-128-GB-RAM-and-20-core-RTX-Spark.1416963.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/microsoft-surface-laptop-ultra-new-info-kv.jpg",
+      "published": "2026-10-06 14:04:00",
       "category": [
-        "technology"
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "How Meta and Microsoft\u2019s \u2018Claude message\u2019 to employees show Anthropic has a \u2018complicated problem\u2019",
-      "description": "Microsoft and Meta are taking steps to limit their internal usage of Anthropic\u2019s Claude models for cost management. Microsoft has reduced its spending projections on Anthropic tools, impacting its developers by lowering budget ceilings. Meta has also seen a decline in usage of Claude Code alongside the introduction of its internal alternatives. Both companies are encouraging engineers to use their proprietary AI tools instead of external ones.",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-meta-and-microsofts-claude-message-to-employees-show-anthropic-has-a-complicated-problem/articleshow/134736714.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134736807/134736807.jpg",
-      "published": "2026-10-06 10:18:48",
+      "title": "New Surface Laptop Ultra release details revealed with up to 128 GB RAM and 20-core RTX Spark - Notebookcheck",
+      "description": "New Surface Laptop Ultra release details revealed with up to 128 GB RAM and 20-core RTX Spark Notebookcheck What to expect at Microsoft's special Windows & Surface event on October 7: Surface Laptop Ultra and RTX Spark revealed, new agentic OS capabilities, and more Windows Central Microsoft Is Betting on Local AI, With Nvidia as Its Wingman. On Oct. 7 We'll See If It Pays Off PCMag Australia Surface was built on a simple rule from Panos Panay. October 7 will show whether Microsoft still follows it. Windows Central Microsoft\u2019s October 7 Windows & Surface showcase could be a major turning point \u2014 here\u2019s how to watch it from anywhere Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOXNKa1oxMUh2Ylc0WS1lV0NBaUVmYUUwMnJhRUluQnpSWGpPLWJDN1IzUVIyS2pJMG9Yb3VtQnNLMjVRZURLX25HZzRGOXoxQ09XZ1NMZWdRbl83em9XQjlMRExlaFQtYmJLLUdUOThycUZjSmtpeVhQYndPSTVpanBfRTg4NmV6am1oNWY0eFVlUWgwQkxpS3VBLVNvTUJMZ2Z1VmVoRFFUX04wSFNwN1pvV0xiZEJnMzFPNnNaTGRWdW5rR2dieGpmZWF6VW54aXppSA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-06 14:04:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "OpenAI to add invisible watermarks to ChatGPT text in EU",
+      "description": "With change required under EU law, company says technology can help identify AI-generated text but warns editing, short passages can weaken detection",
+      "link": "https://www.aa.com.tr/en/europe/openai-to-add-invisible-watermarks-to-chatgpt-text-in-eu/4079917",
+      "source": "Anadolu Agency",
+      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/06/thumbs_b_c_864d38b49043ba2e6484c506afd9aee7.jpg",
+      "published": "2026-10-06 14:03:58",
+      "category": [
+        "science",
+        "technology"
+      ],
+      "country": [
+        "turkey"
+      ]
+    },
+    {
+      "title": "Disabled citizens and the future of AI",
+      "description": "Source: The post \u201cDisabled citizens and the future of AI\u201d has been created based on \u201cDisabled citizens and the future of AI\u201d published in \u201cThe Hindu\u201d on 6th October 2026. UPSC Syllabus: GS-2-Governance Context: Artificial Intelligence (AI) is increasingly being used in government services, recruitment and healthcare. For persons with disabilities, it can provide greater\u2026 Continue reading Disabled citizens and the future of AI The post Disabled citizens and the future of AI appeared first on Free UPSC IAS Preparation Syllabus and Materials For Aspirants .",
+      "link": "https://forumias.com/blog/disabled-citizens-and-the-future-of-ai/",
+      "source": "Free Upsc Ias Preparation Syllabus And Materials F",
+      "image": null,
+      "published": "2026-10-06 14:03:58",
       "category": [
         "technology",
         "top"

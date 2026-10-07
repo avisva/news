@@ -1,67 +1,51 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "PSNI dealing with ongoing incident in Coleraine",
-      "description": "Police are dealing with an ongoing incident in Coleraine this afternoon (Tuesday, October 6).",
-      "link": "https://www.northernirelandworld.com/news/emergency-incident/psni-dealing-with-ongoing-incident-in-coleraine-9270418",
-      "source": "Northern Ireland World",
-      "image": "https://www.northernirelandworld.com/webimg/b25lY21zOmY2MTkwYWUzLWNiMzMtNDllZi1iMzkzLWM2YWY0OGI2NmE3NTo0NjUzMDU2MC03NGQ4LTQzMjYtYTYyNC1lMGFmZTAwZmQ3Y2Q=.jpg?width=1200&auto=webp&crop=3%3A2",
-      "published": "2026-10-06 14:04:00",
-      "category": [
-        "environment",
-        "politics",
-        "business",
-        "health"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Indonesia collects $190 million in fines over forestry violations",
-      "description": "Indonesia has collected $190 million in fines and seized over 6.2 million hectares of land from companies operating illegally in forestry areas.",
-      "link": "https://thesun.my/news/world-news/asia/indonesia-collects-190-million-in-fines-over-forestry-violations/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/10/INDONESIAFORESTRY-reu.webp",
-      "published": "2026-10-06 14:03:59",
+      "title": "ArriVent BioPharma Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into ArriVent BioPharma (AVBP)",
+      "description": "AVBP shareholders are holding stock near a $12.09 52-week low after the Phase 3 FURVENT trial missed its primary endpoint, just five months after ArriVent launched a $250 million at-the-market stock offering.",
+      "link": "https://www.thechronicle.com/online_features/press_releases/arrivent-biopharma-investigation-notice-levi-korsinsky-notifies-investors-of-pending-investigation-into-arrivent-biopharma-avbp/article_69da3e63-01db-5b16-8537-d7fb7e0e9669.html",
+      "source": "The Chronicle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/f/02/f0249120-73b5-5856-b186-56b97fda5d8e/6ac5e8637594f.image.jpg",
+      "published": "2026-10-06 21:47:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "malaysia"
+        "united states of america"
       ]
     },
     {
-      "title": "Festive demand hopes push inventories to record high",
-      "description": null,
-      "link": "https://www.financialexpress.com/business/news-festive-demand-hopes-push-inventories-to-record-high-4354879/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/10/inven.jpg",
-      "published": "2026-10-06 14:03:57",
+      "title": "Top retail trade shows in 2027",
+      "description": "These events feature C-suite speakers who will discuss AI-driven solutions, understanding consumer behavior and leveraging technology, among other subjects.",
+      "link": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
+      "source": "Retaildive",
+      "image": "https://imgproxy.divecdn.com/4CZ1WBJOK-3NVcF5Gb8RY3jIT19VuVpSEVjPxnWpR1o/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OUkZfQmlnX1Nob3dfMjAyNl8tX0phc29uX0RpeHNvbl9QaG90b2dyYXBoeV8tXzI2MDExMF8tXzE4Mzg0NV8tXzE1MTIuanBn.webp",
+      "published": "2026-10-06 21:47:00",
       "category": [
-        "top",
-        "business"
+        "business",
+        "technology",
+        "top"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "NaRRa leases headquarters at Digicel building for $115M annually",
-      "description": "October 6, 2026 Written byIRIEFM NEWS By Clement Reid and Marlene Freeman The National Reconstruction and Resilience Aut...",
-      "link": "https://jamaicainquirer.com/narra-leases-headquarters-at-digicel-building-for-115m-annually/",
-      "source": "Jamaica Inquirer",
-      "image": "https://jamaicainquirer.com/app/uploads/2026/10/DIGI-HQ-HRzzUk.png",
-      "published": "2026-10-06 14:03:55",
+      "title": "Madison Plan Commission approves Wonder Bar demolition permit",
+      "description": "MADISON, Wis. \u2014 The Madison Plan Commission has approved a permit to demolish the former Wonder Bar building on East Olin Avenue.",
+      "link": "https://www.channel3000.com/news/madison-plan-commission-approves-wonder-bar-demolition-permit/article_48b94a84-13b8-42bb-9516-12a78923c6e8.html",
+      "source": "Channel 3000",
+      "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/e/23/e234b7ea-59ab-11ef-8047-0f0af3d49348/69fb21c088b37.preview.png?resize=1396%2C785",
+      "published": "2026-10-06 21:47:00",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "jamaica"
+        "united states of america"
       ]
     }
   ]

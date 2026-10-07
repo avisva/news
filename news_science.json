@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "OpenAI to add invisible watermarks to ChatGPT text in EU",
-      "description": "With change required under EU law, company says technology can help identify AI-generated text but warns editing, short passages can weaken detection",
-      "link": "https://www.aa.com.tr/en/europe/openai-to-add-invisible-watermarks-to-chatgpt-text-in-eu/4079917",
-      "source": "Anadolu Agency",
-      "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/06/thumbs_b_c_864d38b49043ba2e6484c506afd9aee7.jpg",
-      "published": "2026-10-06 14:03:58",
-      "category": [
-        "science",
-        "technology"
-      ],
-      "country": [
-        "turkey"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

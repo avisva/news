@@ -1,29 +1,14 @@
 {
   "status": "success",
-  "totalResults": 19,
+  "totalResults": 12,
   "results": [
     {
-      "title": "FMD testing covers more than 25 000 livestock",
-      "description": "Agriculture minister Inge Zaamwani says Namibia has tested more than 27 000 livestock for foot-and-mouth disease (FMD), including cattle, sheep, goats and pigs, as authorities work...",
-      "link": "https://www.namibiansun.com/local-news/fmd-testing-covers-more-than-25-000-livestock-nmh019473-1-23942-23943",
-      "source": "Namibian Sun",
-      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/10/6/7aa2c2_639268983674308675.jpeg",
-      "published": "2026-10-06 14:04:00",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "namibia"
-      ]
-    },
-    {
-      "title": "Why India-US trade talks stalled again",
-      "description": "NEW DELHI \u2014 Senior officials in India and the United States have indicated long-running efforts to finalize a bilateral trade agreement have stalled, again.",
-      "link": "https://tucson.com/news/nation-world/article_0312d5c2-0682-4997-8fca-8dd3f83bc8b8.html",
-      "source": "Tucson",
-      "image": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/29/82975b04-6a3f-4b0a-a6a9-2da4d1f1fff2/6ac50067c708f.image.jpg?resize=300%2C202",
-      "published": "2026-10-06 14:04:00",
+      "title": "France protests continue",
+      "description": "French high school students are marched together as they demanded better learning conditions at their schools. Several hundred thousand students turned out in cities across France.",
+      "link": "https://www.wamc.org/2026-10-06/france-protests-continue",
+      "source": "Wamc Northeast Public Radio",
+      "image": null,
+      "published": "2026-10-06 21:47:00",
       "category": [
         "top",
         "politics"
@@ -33,12 +18,27 @@
       ]
     },
     {
-      "title": "New Surface Laptop Ultra release details revealed with up to 128 GB RAM and 20-core RTX Spark",
-      "description": "Microsoft will be officially launching the Surface Laptop Ultra on October 7. In the meantime, multiple sources have revealed release details ahead of schedule.",
-      "link": "https://www.notebookcheck.net/New-Surface-Laptop-Ultra-release-details-revealed-with-up-to-128-GB-RAM-and-20-core-RTX-Spark.1416963.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/microsoft-surface-laptop-ultra-new-info-kv.jpg",
-      "published": "2026-10-06 14:04:00",
+      "title": "ArriVent BioPharma Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into ArriVent BioPharma (AVBP)",
+      "description": "AVBP shareholders are holding stock near a $12.09 52-week low after the Phase 3 FURVENT trial missed its primary endpoint, just five months after ArriVent launched a $250 million at-the-market stock offering.",
+      "link": "https://www.thechronicle.com/online_features/press_releases/arrivent-biopharma-investigation-notice-levi-korsinsky-notifies-investors-of-pending-investigation-into-arrivent-biopharma-avbp/article_69da3e63-01db-5b16-8537-d7fb7e0e9669.html",
+      "source": "The Chronicle",
+      "image": "https://bloximages.chicago2.vip.townnews.com/thechronicle.com/content/tncms/assets/v3/editorial/f/02/f0249120-73b5-5856-b186-56b97fda5d8e/6ac5e8637594f.image.jpg",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "UC Berkeley dropout authors report detailing OpenAI hack of Hugging Face",
+      "description": "In July, a swarm of 700 OpenAI agents hacked another AI company, Hugging Face, and gained access to sensitive data. Recently, researchers with web-scraping startup Parse unearthed troves of data",
+      "link": "https://www.dailycal.org/news/national/uc-berkeley-dropout-authors-report-detailing-openai-hack-of-hugging-face/article_2b2a14c3-f3c4-4923-9913-7522632b97a8.html",
+      "source": "Dailycal.org",
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/9/fd/9fdbe6c5-cc91-4850-92f0-d09e98ba3ece/6ac46d0d271a5.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-10-06 21:47:00",
       "category": [
         "technology",
         "top"
@@ -48,12 +48,118 @@
       ]
     },
     {
-      "title": "Meekah and Dove Celebrate All the Amazing Things Our Bodies Can Do With New \"My Body Is Amazing\" Music Video",
-      "description": "Moonbug and the Dove Self-Esteem Project are back with a new Meekah music video encouraging kids to move, express themselves and celebrate what their bodies can do. LOS ANGELES, Oct. 6, 2026 /PRNewswire/ -- Get ready to move with Meekah! Moonbug Entertainment and the Dove Self-Esteem...",
-      "link": "https://www.prnewswire.com/news-releases/meekah-and-dove-celebrate-all-the-amazing-things-our-bodies-can-do-with-new-my-body-is-amazing-music-video-302898866.html",
-      "source": "Pr Newswire",
-      "image": "https://mmx.prnewswire.com/media/MS2001658/Moonbug-Entertainment.jpg?id=OA2985079&p=original",
-      "published": "2026-10-06 14:04:00",
+      "title": "JCPS School Board District 2 election: Hear from the candidates",
+      "description": "A state law passed earlier this year completely changed the Jefferson County School Board. Instead of seven seats, there are now only five, and all will be on the ballot this year.",
+      "link": "https://www.wlky.com/article/jcps-school-board-district-2-election-hear-from-the-candidates/74057337",
+      "source": "Wlky",
+      "image": "https://hips.hearstapps.com/htv-prod/images/7d833cd2-ae07-4ae1-8226-f22bcdbc28a4.jpg",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "top",
+        "education"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Top retail trade shows in 2027",
+      "description": "These events feature C-suite speakers who will discuss AI-driven solutions, understanding consumer behavior and leveraging technology, among other subjects.",
+      "link": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
+      "source": "Retaildive",
+      "image": "https://imgproxy.divecdn.com/4CZ1WBJOK-3NVcF5Gb8RY3jIT19VuVpSEVjPxnWpR1o/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OUkZfQmlnX1Nob3dfMjAyNl8tX0phc29uX0RpeHNvbl9QaG90b2dyYXBoeV8tXzI2MDExMF8tXzE4Mzg0NV8tXzE1MTIuanBn.webp",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "business",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Girls Cross Country: Abington Heights alone at top of league",
+      "description": "Three different clutch victories, spread out throughout September, have the Abington Heights girls cross country team in its usual spot \u2013 unbeaten and alone at the top of the Lackawanna League standings.",
+      "link": "https://www.theabingtonjournal.com/sports/115133/girls-cross-country-abington-heights-alone-at-top-of-league",
+      "source": "The Abington Journal",
+      "image": "https://www.theabingtonjournal.com/wp-content/uploads/2026/10/132698305_web1_running-shoes-1428049_960_720.webp",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "sports",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Madison Plan Commission approves Wonder Bar demolition permit",
+      "description": "MADISON, Wis. \u2014 The Madison Plan Commission has approved a permit to demolish the former Wonder Bar building on East Olin Avenue.",
+      "link": "https://www.channel3000.com/news/madison-plan-commission-approves-wonder-bar-demolition-permit/article_48b94a84-13b8-42bb-9516-12a78923c6e8.html",
+      "source": "Channel 3000",
+      "image": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/e/23/e234b7ea-59ab-11ef-8047-0f0af3d49348/69fb21c088b37.preview.png?resize=1396%2C785",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Top retail conferences in 2027",
+      "description": "These events feature C-suite speakers who will discuss AI-driven solutions, understanding consumer behavior and leveraging technology, among other subjects.",
+      "link": "https://www.retaildive.com/news/top-retail-conferences-in-2027/832294/",
+      "source": "Retaildive",
+      "image": "https://imgproxy.divecdn.com/4CZ1WBJOK-3NVcF5Gb8RY3jIT19VuVpSEVjPxnWpR1o/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OUkZfQmlnX1Nob3dfMjAyNl8tX0phc29uX0RpeHNvbl9QaG90b2dyYXBoeV8tXzI2MDExMF8tXzE4Mzg0NV8tXzE1MTIuanBn.webp",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Prescribed burn underway on Spion Kop (Lake Country)",
+      "description": "A prescribed burn is underway in Lake Country. The BC Wildfire Services along with the Lake Country Fire Department and Okanagan Shuswap Natural Resources District are conducting the burn in the Spion Kop area as part of a risk reduction project. BCWS posted on social media saying the work is par...",
+      "link": "https://www.castanet.net/news/Lake-Country/633520/Prescribed-burn-underway-on-Spion-Kop",
+      "source": "Castanet",
+      "image": "https://www.castanet.net/content/2026/10/large/screenshot_2026-10-06_at_2.42.23pm_p4303808.jpg",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Prescribed burn underway on Spion Kop",
+      "description": null,
+      "link": "https://www.castanetkamloops.net/news/Lake-Country/633520/Prescribed-burn-underway-on-Spion-Kop",
+      "source": "Kamloops This Week",
+      "image": "https://www.castanetkamloops.net/content/2026/10/large/screenshot_2026-10-06_at_2.42.23pm_p4303808.jpg",
+      "published": "2026-10-06 21:47:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Eva Longoria and Eugenio Derbez spotted filming in Chelsea",
+      "description": "Actors Eva Longoria and Eugenio Derbez were spotted in Chelsea, Massachusetts filming for the movie \"Marcelo in the Real World.\u201d",
+      "link": "https://www.cbsnews.com/boston/video/eva-longoria-and-eugenio-derbez-spotted-filming-in-chelsea/",
+      "source": "Cbs Boston",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/06/93c7752e-a9e1-4e1c-b0d9-c9b7c0dde2b1/thumbnail/1024x576/57db4cdc506a3eef16a7df87eb6cb7df/1da9532debf263e2b273a867a662b43b.jpg",
+      "published": "2026-10-06 21:47:00",
       "category": [
         "entertainment",
         "top"
@@ -63,238 +169,18 @@
       ]
     },
     {
-      "title": "Sheriff: Pedestrian killed in crash involving disabled driver whose car was not equipped",
-      "description": "A pedestrian has died after being hit by a vehicle in Mt. Healthy Monday.",
-      "link": "https://www.wlwt.com/article/pedestrian-hit-killed-mt-healthy-double-amputee-driver/74049044",
-      "source": "Wlwt",
-      "image": "https://hips.hearstapps.com/htv-prod/images/27542587-241a-4c1f-b80b-2e14d7900812.jpg",
-      "published": "2026-10-06 14:04:00",
+      "title": "Saudi Film Commission Set to Launch Fourth Edition of Saudi Film Confex 2026",
+      "description": "The fourth edition of Saudi Film Confex 2026 will be held on October 28 and 29 at JAX Film Studios in Riyadh under the patronage of Minister of Culture and Chairman of the Board of Directors of the Saudi Film Commission Prince Bader bin Abdullah bin Farhan. Held under the supervision of the Saudi Film Commission and organized by Benchmark, the event will take place under the theme \"Industry Shapers' Edition,\" bringing together film sector leaders, decision-makers, professionals, and industry specialists.",
+      "link": "https://english.aawsat.com/node/5326785",
+      "source": "Al-sharq Al-awsat",
+      "image": "https://static.srpcdigital.com/styles/414x217/public/2026-10/1814136.jpeg.webp?VersionId=htzBuALFaRuYbO_xGVGgSvC5oaXOwt_K",
+      "published": "2026-10-06 21:46:59",
       "category": [
-        "crime",
+        "entertainment",
         "top"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Alaska Air National Guardsmen rescue plane crash victim north of Anchorage",
-      "description": "JOINT BASE ELMENDORF-RICHARDSON, Alaska \u2013 Alaska Air National Guard rescue personnel of the 176th Wing rescued a downed pilot following a plane crash Oct. 1. On the night of Oct. 1, the Alaska Rescue Coordination Center opened a mission following a call from the Kenai Flight Service Station regarding a crashed aircraft. The AKANG accepted the mission [\u2026]",
-      "link": "https://alaska-native-news.com/alaska-air-national-guardsmen-rescue-plane-crash-victim-north-of-anchorage/86559/",
-      "source": "Alaska Native News",
-      "image": "https://alaska-native-news.com/wp-content/uploads/jolly-green-2.jpg",
-      "published": "2026-10-06 14:04:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Thousands joining French school protests met with teargas, arrests",
-      "description": "Police fired tear gas at protesters blockading French high schools Tuesday as students, teachers and parents held their largest demonstration yet against staff shortages and dilapi...",
-      "link": "https://www.dailysabah.com/world/europe/thousands-joining-french-school-protests-met-with-teargas-arrests",
-      "source": "Daily Sabah",
-      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/06/464278.JPG",
-      "published": "2026-10-06 14:04:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "turkey"
-      ]
-    },
-    {
-      "title": "Solihull women's safety advocate says risks at unstaffed gyms 'are going under the radar'",
-      "description": "Romaine Foster is using his platform to call for improved security at unstaffed gyms in Birmingham and across the UK",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/solihull-womens-safety-advocate-says-34706251",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/incoming/article34716969.ece/ALTERNATES/s615/0_00181825-c5c2-4c73-813b-b13cfe8a6cfd.jpg",
-      "published": "2026-10-06 14:04:00",
-      "category": [
-        "lifestyle",
-        "top"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Indonesia collects $190 million in fines over forestry violations",
-      "description": "Indonesia has collected $190 million in fines and seized over 6.2 million hectares of land from companies operating illegally in forestry areas.",
-      "link": "https://thesun.my/news/world-news/asia/indonesia-collects-190-million-in-fines-over-forestry-violations/",
-      "source": "Thesun",
-      "image": "https://thesun.my/wp-content/uploads/2026/10/INDONESIAFORESTRY-reu.webp",
-      "published": "2026-10-06 14:03:59",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Supreme Court Scrutiny of Voter Deletions \u2018A Welcome Step\u2019: Omar Abdullah",
-      "description": "J&K CM says voter deletions need scrutiny; urges Centre to debate UCC in Parliament",
-      "link": "https://www.deccanchronicle.com/nation/supreme-court-scrutiny-of-voter-deletions-a-welcome-step-omar-abdullah-1993609",
-      "source": "Deccan Chronicle",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/10/06/2097759-ani-20261006115923.webp",
-      "published": "2026-10-06 14:03:59",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Disabled citizens and the future of AI",
-      "description": "Source: The post \u201cDisabled citizens and the future of AI\u201d has been created based on \u201cDisabled citizens and the future of AI\u201d published in \u201cThe Hindu\u201d on 6th October 2026. UPSC Syllabus: GS-2-Governance Context: Artificial Intelligence (AI) is increasingly being used in government services, recruitment and healthcare. For persons with disabilities, it can provide greater\u2026 Continue reading Disabled citizens and the future of AI The post Disabled citizens and the future of AI appeared first on Free UPSC IAS Preparation Syllabus and Materials For Aspirants .",
-      "link": "https://forumias.com/blog/disabled-citizens-and-the-future-of-ai/",
-      "source": "Free Upsc Ias Preparation Syllabus And Materials F",
-      "image": null,
-      "published": "2026-10-06 14:03:58",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "San Marco flood infrastructure improved with LaSalle Street drainage project",
-      "description": null,
-      "link": "https://www.actionnewsjax.com/news/local/san-marco-flood-infrastructure-improved-with-lasalle-street-drainage-project/RGLXHYBZ6ZFABHXJKH3EDGSXR4/",
-      "source": "Action News Jax",
-      "image": null,
-      "published": "2026-10-06 14:03:57",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Festive demand hopes push inventories to record high",
-      "description": null,
-      "link": "https://www.financialexpress.com/business/news-festive-demand-hopes-push-inventories-to-record-high-4354879/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/10/inven.jpg",
-      "published": "2026-10-06 14:03:57",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Two unidentified men fatally shot by police in separate incidents",
-      "description": "Two unidentified men fatally shot by police in separate incidents \u2013 IRIE FM October 6, 2026 Written byClement Reid Two...",
-      "link": "https://jamaicainquirer.com/two-unidentified-men-fatally-shot-by-police-in-separate-incidents/",
-      "source": "Jamaica Inquirer",
-      "image": "https://jamaicainquirer.com/app/uploads/2026/10/CRIME-600x375-ZJocfb.png",
-      "published": "2026-10-06 14:03:57",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "jamaica"
-      ]
-    },
-    {
-      "title": "HAJ criticizes some contractors for not performing efficiently",
-      "description": "HAJ criticizes some contractors for not performing efficiently \u2013 IRIE FM October 6, 2026 Written bySugar Ray Thomas Ma...",
-      "link": "https://jamaicainquirer.com/haj-criticizes-some-contractors-for-not-performing-efficiently/",
-      "source": "Jamaica Inquirer",
-      "image": "https://jamaicainquirer.com/app/uploads/2026/10/HAJ-DOREEN-cCswuS.png",
-      "published": "2026-10-06 14:03:56",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "jamaica"
-      ]
-    },
-    {
-      "title": "NaRRa leases headquarters at Digicel building for $115M annually",
-      "description": "October 6, 2026 Written byIRIEFM NEWS By Clement Reid and Marlene Freeman The National Reconstruction and Resilience Aut...",
-      "link": "https://jamaicainquirer.com/narra-leases-headquarters-at-digicel-building-for-115m-annually/",
-      "source": "Jamaica Inquirer",
-      "image": "https://jamaicainquirer.com/app/uploads/2026/10/DIGI-HQ-HRzzUk.png",
-      "published": "2026-10-06 14:03:55",
-      "category": [
-        "business",
-        "top"
-      ],
-      "country": [
-        "jamaica"
-      ]
-    },
-    {
-      "title": "Islamist group campaigns against Christian West Bank school over hijab restriction on deaf student",
-      "description": "The Popular Movement to Overturn CEDAW claimed that the Ephpheta Paul VI Institute prevented a student from attending classes while wearing an Islamic head covering.",
-      "link": "https://www.jpost.com/middle-east/article-910801",
-      "source": "Jpost",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740755",
-      "published": "2026-10-06 14:03:54",
-      "category": [
-        "top",
-        "lifestyle",
-        "politics"
-      ],
-      "country": [
-        "israel"
-      ]
-    },
-    {
-      "title": "Naxalbari elephant corridors planned to reduce human-wildlife conflict",
-      "description": "Siliguri, October 6 : Naxalbari elephant corridors are being planned in Darjeeling district to provide safer movement routes for wild elephant herds and reduce encounters between people and wildlife in settlements near the India-Nepal border. The proposed initiative focuses on areas around Naxalbari, Kharibari, Bagdogra and adjoining locations that connect forests, tea gardens and river [\u2026] The post Naxalbari elephant corridors planned to reduce human-wildlife conflict appeared first on The Voice Of Sikkim .",
-      "link": "https://www.voiceofsikkim.com/naxalbari-elephant-corridors-planned-to-reduce-human-wildlife-conflict/",
-      "source": "The Voice Of Sikkim",
-      "image": "https://www.voiceofsikkim.com/wp-content/uploads/2026/10/elephant-corridors-to-be-develop.jpg",
-      "published": "2026-10-06 14:03:54",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "DOE offers Vistra loan for reactor upgrades and uprates",
-      "description": "The US Department of Energy has announced a conditional loan commitment of up to USD4.2 billion to finance uprates and modernisation projects at Vistra Corp's Beaver Valley, Davis-Besse and Perry nuclear power plants.",
-      "link": "https://www.world-nuclear-news.org/articles/doe-offers-vistra-loan-for-reactor-upgrades-and-uprates",
-      "source": "World-nuclear-news",
-      "image": "https://world-nuclear-news.org/images/articles/BeaverValley(NRC)_37543.jpg",
-      "published": "2026-10-06 14:03:53",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "canada",
-        "russia",
-        "united kingdom",
-        "sweden",
-        "united states of america",
-        "ukraine",
-        "china",
-        "south korea",
-        "finland",
-        "india",
-        "france"
+        "united arab emirates"
       ]
     }
   ]

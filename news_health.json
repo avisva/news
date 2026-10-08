@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Pfizer's TUKYSA Gets FDA Nod For Front-Line HER2+ Breast Cancer Maintenance",
+      "description": "NEW YORK CITY (dpa-AFX) - Pfizer Inc. (PFE) announced that the U.S. Food and Drug Administration (FDA) approved TUKYSA in combination with trastuzumab and pertuzumab for maintenance treatment of a...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-10/69783372-pfizer-s-tukysa-gets-fda-nod-for-front-line-her2-breast-cancer-maintenance-020.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-pfizer-inc-aktie-intraklein-tradegate.png",
+      "published": "2026-10-08 05:18:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "450 suspected yellow fever cases recorded across Ghana since June \u2013 Health Minister",
+      "description": "Health Minister Kwabena Mintah Akandoh says health authorities have recorded about 450 suspected yellow fever cases across Ghana between June and September 2026, with the Upper West Region accounting for 74 of them.",
+      "link": "https://www.myjoyonline.com/450-suspected-yellow-fever-cases-recorded-across-ghana-since-june-health-minister/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/04/Kwabena-Mintah-Akandoh.webp",
+      "published": "2026-10-08 05:18:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "ghana"
+      ]
+    }
+  ]
 }

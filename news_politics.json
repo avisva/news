@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Latinos are the new swing voters in America's elections | Mary Ellen Klas",
-      "description": "Almost as soon as next month\u2019s elections are over, arguments will begin about the lessons and implications for 2028. But one conclusion is already undeniable: Latinos are America\u2019s new swing voters.",
-      "link": "https://cumberlink.com/opinion/column/article_605f160a-3aca-5206-a1e0-089d38bfa23e.html",
-      "source": "The Sentinel",
-      "image": "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/2/3e/23efc580-59b2-513f-958c-dc2a5ffecb1c/67c8c00acf072.image.jpg?resize=300%2C300",
-      "published": "2026-10-08 14:45:00",
+      "title": "Taliban firmly in control in Afghanistan 25 years after US-led invasion to oust them",
+      "description": "Twenty-five years after the U.S.-led invasion of Afghanistan, the Taliban are firmly in control of the country.",
+      "link": "https://www.wmur.com/article/taliban-in-control-afghanistan-us-invasion/74084540",
+      "source": "Wmur",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/9dded9c3-189f-4cf1-b583-111ade03d092.jpg",
+      "published": "2026-10-08 22:01:00",
       "category": [
         "top",
         "politics"
@@ -18,28 +18,42 @@
       ]
     },
     {
-      "title": "Banff\u2019s off-leash dog rules broken by Parks Canada superintendent",
-      "description": "\u201cWith a commitment to upholding this same standard, Parks Canada has completed an investigation, and the matter is now considered closed.\u201d",
-      "link": "https://www.westernwheel.ca/beyond-local/banffs-off-leash-dog-rules-broken-by-parks-canada-superintendent-12870307",
-      "source": "Western Wheel",
-      "image": null,
-      "published": "2026-10-08 14:45:00",
+      "title": "Iowa election guide: Sample ballots for KCCI's coverage area",
+      "description": null,
+      "link": "https://www.kcci.com/article/iowa-election-guide-sample-ballots-2026-general-election-nov-3/74083749",
+      "source": "Kcci Television",
+      "image": "https://hips.hearstapps.com/htv-prod/images/gettyimages-1241166199-66ff0eb002572.jpg",
+      "published": "2026-10-08 22:01:00",
       "category": [
-        "politics",
-        "environment",
-        "top"
+        "top",
+        "politics"
       ],
       "country": [
-        "canada"
+        "united states of america"
       ]
     },
     {
-      "title": "Northeast board race pits incumbent against former instructor for Norfolk seat",
-      "description": "Two candidates with decades of experience tied to Northeast Community College are vying to represent Norfolk on the college\u2019s board of governors in the Tuesday, Nov. 3, election.",
-      "link": "https://norfolkdailynews.com/news/northeast-board-race-pits-incumbent-against-former-instructor-for-norfolk-seat/article_85cf820b-b8e1-419d-9588-10f9c3f377e5.html",
-      "source": "Norfolk Daily News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/fd/2fdda7bd-254b-49ee-9a32-e5399973c7a5/6ac7b4cba5136.image.jpg?resize=300%2C233",
-      "published": "2026-10-08 14:45:00",
+      "title": "Non-profits face legal compliance update",
+      "description": "California non-profits are facing a major update in how they maintain their legal compliance. The state has retired its legacy charity renewal system, meaning paper forms, physical checks, and the previous online renewal portal are no longer accepted. Moving forward,\u2026",
+      "link": "https://www.thepress.net/news/non-profits-face-legal-compliance-update/article_3d4334f1-0c16-4b89-82f3-c080be8d4b77.html",
+      "source": "The Press",
+      "image": "https://bloximages.newyork1.vip.townnews.com/thepress.net/content/tncms/assets/v3/editorial/c/79/c7939dbf-e4c5-49fb-b555-c68377dd11ed/6ac8267ee6f0d.image.jpg?resize=300%2C124",
+      "published": "2026-10-08 22:01:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Mono County Elections finds error in printed voter info guides",
+      "description": "The Mono County Elections Department announced Friday that it found a printing error affecting local voter information guides mailed to Mono County voters for the Nov. 3 General Election.",
+      "link": "https://www.inyoregister.com/news/mono-county-elections-finds-error-in-printed-voter-info-guides/article_f21418dd-63d4-492d-8040-fcc7926185b3.html",
+      "source": "Inyo Register",
+      "image": null,
+      "published": "2026-10-08 22:01:00",
       "category": [
         "top",
         "politics"

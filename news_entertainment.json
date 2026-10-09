@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "5 powerful kills from around Wisconsin: Week of Sept. 27 edition",
+      "description": null,
+      "link": "https://journaltimes.com/sports/high-school/volleyball/article_6cf8b8a4-7a45-49ee-965d-9291f5cf92b5.html",
+      "source": "Journal Times",
+      "image": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/4/4e/44e886eb-67ca-5526-8040-42fc11b8ecef/6ac501098efb6.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-10-08 22:01:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kate Lawler Defends Alison Hammond and Trans Community - SuaraGarut.ID",
+      "description": "Kate Lawler Defends Alison Hammond and Trans Community SuaraGarut.ID Alison Hammond has classy response to Katie Hopkins \u2018chumba wumba\u2019 comments Extra.ie",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ha2tlbUM0OVdRYjJIbHFUV3JHZDJuOUJiNlFXUjdzcU9OV0drb1ZSaFJnV2c3RTlEcld5MWJTRFBQLXAyd3Y4ZGdXYm10eThPRTNWVHQtYmRHX0FSZDg4SkVHa201TjNjZW5LTGkyNVJsdUFmNUE?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-08 22:01:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "\u2018American Horror Story\u2019 Season 13 airs two new episodes tonight! How to watch for free",
+      "description": "AHS is back, and it's uniting all the previous seasons into one storyline! Here's everything you need to know about how to watch tonight's pair of new episodes, and when they air.",
+      "link": "https://www.nj.com/tv/2026/10/american-horror-story-season-13-airs-two-new-episodes-tonight-how-to-watch-for-free.html",
+      "source": "Nj",
+      "image": "https://www.nj.com/resizer/v2/JC7MORW4ZZGYHOXD5MM27C4MU4.png?auth=0add81d5b1861128bfb49e62fa514af97099930fb6066513dc2abc0ea47ca3e9&smart=true&height=1200",
+      "published": "2026-10-08 22:01:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

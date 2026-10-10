@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Chester County Warns of Measles Exposure at Three Pharmacies",
+      "description": "WEST CHESTER, PA \u2014 Chester County health officials are urging residents who visited three pharmacies in Kennett Square and West Grove on October 4 to verify their measles immunity after \u2026",
+      "link": "https://www.mychesco.com/a/news/health-medical/infectious-diseases/chester-county-warns-of-measles-exposure-at-three-pharmacies/",
+      "source": "Mychesco",
+      "image": "https://www.mychesco.com/wp-content/uploads/2025/11/Chester-County-Health-Department.png",
+      "published": "2026-10-10 11:11:58",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

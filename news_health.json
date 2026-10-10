@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "In med school, Hershey pediatrician thought he\u2019d never see measles. He was wrong",
-      "description": "Pennsylvania's measles outbreak surpassing 1,000 cases has forced young doctors to confront a disease they only knew from textbooks.",
-      "link": "https://www.pennlive.com/health/2026/10/in-med-school-hershey-pediatrician-thought-hed-never-see-measles-he-was-wrong.html",
-      "source": "Pennlive",
-      "image": "https://www.pennlive.com/resizer/v2/JKLGLBVIOVDOZIZWAIGWG634VA.jpg?auth=c67363db5ec514ea1df35d8adbc716437d28a6a3c2471f784fb3f29d31e24535&smart=true&height=1200",
-      "published": "2026-10-09 14:02:59",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Taiwan cherishes peace but will not give up freedom, president says",
-      "description": "Taiwan cherishes peace but will not give up its freedom and there must be respect for the right of Taiwans people to exist President Lai Ching-te said on Saturday in a national day speech adding that boosting defences is not a provocation Democratically governed Taiwan has faced increased military and political pressure from China which views the island as its own territory over the strong objections of the government in Taipei",
-      "link": "https://www.devdiscourse.com/article/international/3990070-taiwan-cherishes-peace-but-will-not-give-up-freedom-president-says",
-      "source": "Devdiscourse",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_24_6979208.jpg&amp;width=920",
-      "published": "2026-10-10 03:41:00",
+      "title": "Prince William's Polo Dilemma: Tradition vs. Modern Royal Expectations",
+      "description": "The heir to the throne's annual polo match sparks debate over royal tradition and contemporary priorities. A senior polo figure critiques perceived elitism, while palace courtiers urge William to focus on environmental and social causes. The story examines the tension between heritage and progress within the monarchy, and the future of royal engagement with sports.",
+      "link": "https://headtopics.com/news/prince-william-s-polo-dilemma-tradition-vs-modern-royal-88657060",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/10/dailymail/prince-william-s-polo-dilemma-tradition-vs-modern--prince-william-s-polo-dilemma-tradition-vs-modern--1E06E7626037CC0CBCD560B4B4732673.webp",
+      "published": "2026-10-10 07:44:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US Sanctions Against ICC Draw UN Chief Guterres' Criticism As Eight Nations Defend Court's Independence & International Justice",
+      "description": "UN chief Antonio Guterres and foreign ministers of eight nations criticised US sanctions against the International Criminal Court (ICC), warning they could undermine international justice. The countries reaffirmed their support for the court's independence and accountability for serious crimes.",
+      "link": "https://www.freepressjournal.in/world/us-sanctions-against-icc-draw-un-chief-guterres-criticism-as-eight-nations-defend-courts-independence-international-justice",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2022-04/b6b644d4-6cd8-4307-882f-564002d0121d/guterres.jpg",
+      "published": "2026-10-10 07:43:53",
       "category": [
         "top",
         "politics"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Tarar lambasts PTI, says \u2018hours meant for governance spent plotting prisoner\u2019s release\u2019",
+      "description": "Asks K-P lawmakers to redirect focus towards development and security issues",
+      "link": "https://tribune.com.pk/story/2634090/tarar-lambasts-pti-says-hours-meant-for-governance-spent-plotting-prisoners-release",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/et-shayan-21791625197-0/et-shayan-21791625197-0-640x480.webp",
+      "published": "2026-10-10 07:43:49",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "pakistan"
       ]
     }
   ]

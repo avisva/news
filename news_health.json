@@ -1,15 +1,31 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Chester County Warns of Measles Exposure at Three Pharmacies",
-      "description": "WEST CHESTER, PA \u2014 Chester County health officials are urging residents who visited three pharmacies in Kennett Square and West Grove on October 4 to verify their measles immunity after \u2026",
-      "link": "https://www.mychesco.com/a/news/health-medical/infectious-diseases/chester-county-warns-of-measles-exposure-at-three-pharmacies/",
-      "source": "Mychesco",
-      "image": "https://www.mychesco.com/wp-content/uploads/2025/11/Chester-County-Health-Department.png",
-      "published": "2026-10-10 11:11:58",
+      "title": "EMPHASIS ON MENTAL HEALTH:",
+      "description": "EMPHASIS ON MENTAL HEALTH: Vice President Lucia Witbooi has called for greater attention to mental health in Namibia, stressing the need to support people living with mental health...",
+      "link": "https://www.namibiansun.com/local-news/emphasis-on-mental-health-nmh019736-1-24239",
+      "source": "Namibian Sun",
+      "image": "https://cdn.nmh.com.na/S3Server/Corridors/Images/2026/10/10/QR_ea9633983d044c47a408dd1fef890f43.png",
+      "published": "2026-10-10 15:58:00",
       "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "namibia"
+      ]
+    },
+    {
+      "title": "Santa Barbara nonprofit works to keep breast cancer support services free",
+      "description": "As Breast Cancer Awareness Month highlights the challenges facing patients and survivors, one Santa Barbara nonprofit is working year-round to provide support to people navigating breast cancer.",
+      "link": "https://www.ksby.com/santa-barbara-south-coast/santa-barbara-nonprofit-works-to-keep-breast-cancer-support-services-free",
+      "source": "Ksby News",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/cf7b143/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F97%2F14%2F5c8181f247f3a4dac028969be64d%2Fbreast-cancer.jpg",
+      "published": "2026-10-10 15:58:00",
+      "category": [
+        "top",
         "health"
       ],
       "country": [

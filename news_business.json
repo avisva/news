@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Cloquet names new community development director",
-      "description": "Daniel Fanning brings public and private-sector experience.",
-      "link": "https://www.pinejournal.com/news/local/cloquet-names-new-community-development-director",
-      "source": "Cloquet Pine Journal",
-      "image": "https://cdn.forumcomm.com/dims4/default/99780b7/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fb2%2Fab%2F38132f2f477d8779613114bfdf4e%2F112622.N.DNT.DowntownDevelopmentC3.jpg",
-      "published": "2026-10-10 11:12:00",
+      "title": "Opinion: Alaska has an energy resource waiting inside our homes",
+      "description": "The energy we save at home can help stretch Alaska\u2019s fuel supplies while delivering benefits for years to come.",
+      "link": "https://us.headtopics.com/news/opinion-alaska-has-an-energy-resource-waiting-inside-our-88668661",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/10/adndotcom/opinion-alaska-has-an-energy-resource-waiting-insi-opinion-alaska-has-an-energy-resource-waiting-insi-342B9CB5D905C6CBCAC7DC63722DA876-16x9.webp",
+      "published": "2026-10-10 15:58:00",
+      "category": [
+        "business",
+        "top",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Editorial: Fifty-four billion reasons to read the fine print",
+      "description": "The proposed gas line gets the presidential treatment but the same stumbling blocks remain.",
+      "link": "https://us.headtopics.com/news/editorial-fifty-four-billion-reasons-to-read-the-fine-print-88668659",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/10/adndotcom/editorial-fifty-four-billion-reasons-to-read-the-f-editorial-fifty-four-billion-reasons-to-read-the-f-1C0007DC69343D72DF2BE55023832B03-16x9.webp",
+      "published": "2026-10-10 15:58:00",
       "category": [
         "business",
         "top"
@@ -18,18 +34,78 @@
       ]
     },
     {
-      "title": "Aditya Birla Renewables Pursues \u20b912,500 Crore Financing to Expand Its Clean Energy Portfolio \u2013 EQ",
-      "description": "In Short : Aditya Birla Renewables is seeking approximately $1.5 billion in rupee-denominated loans to finance its planned $1.8 billion acquisition of Solenergi Power, Shell\u2019s Indian renewable energy business that includes the Sprng Energy group companies. The company is exploring long-term project financing to reduce borrowing costs instead of relying on a previously arranged $1.6 [\u2026]",
-      "link": "https://www.eqmagpro.com/aditya-birla-renewables-pursues-%E2%82%B912500-crore-financing-to-expand-its-clean-energy-portfolio-eq/",
-      "source": "Eqmagpro",
-      "image": "https://www.eqmagpro.com/wp-content/uploads/2020/04/Aditya-Birla-Group-contributes-Rs.-500-crores-towards-Covid-19-relief-measures-Rs.-400-cr.-contribution-to-PM-CARES-Fund.jpg",
-      "published": "2026-10-10 11:11:59",
+      "title": "Military Clarifies Misconceptions Surrounding Implementation of Newly Approved Pension Rates",
+      "description": "Linus Aleke in Abuja The Nigerian military has clarified misconceptions surrounding the implementation of the newly approved pension rates. The Military Pensions Board (MPB) provided these clarifications during a consultative",
+      "link": "https://www.thisdaylive.com/2026/10/10/military-clarifies-misconceptions-surrounding-implementation-of-newly-approved-pension-rates/",
+      "source": "Thisdaylive",
+      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/nigerian-military-logo.gif",
+      "published": "2026-10-10 15:58:00",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Shalini Verma Appointed as BPCL Chief Vigilance Officer",
+      "description": "ACC approves Shalini Verma\u2019s appointment as BPCL CVO in Mumbai for an initial three-year term, with Level 14 pay under the Ministry of Petroleum and Natural Gas.",
+      "link": "https://www.newsip.in/shalini-verma-appointment-bpcl-cvo",
+      "source": "Newsip.in",
+      "image": "https://www.api.newsip.in/wp-content/uploads/2026/10/Bpcl_cvo.webp",
+      "published": "2026-10-10 15:57:47",
       "category": [
         "business",
         "top"
       ],
       "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Telangana Pitches Rice To Global Buyers",
+      "description": "The department aims to transition Telangana from a commodity supplier into a branded, reliable and globally competitive exporter: Reports",
+      "link": "https://www.deccanchronicle.com/southern-states/telangana/telangana-pitches-rice-to-global-buyers-1994715",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/11/2062647-rice.webp",
+      "published": "2026-10-10 15:57:41",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Whataburger Plans Fifth Conroe Location at Hwy 105 and Loop 336",
+      "description": "Whataburger plans a fifth Conroe restaurant at Hwy 105 and Loop 336, with construction starting in November 2026 and opening expected by spring 2027.",
+      "link": "https://hoodline.com/2026/10/whataburger-plans-fifth-conroe-location-at-hwy-105-and-loop-336/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/10/whataburger-plans-fifth-conroe-location-at-hwy-105-and-loop-336.webp",
+      "published": "2026-10-10 15:57:40",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NaRRA CEO gets basic salary of $40 million plus benefits",
+      "description": "The Andrew Holness administration has sought to shed light on the remuneration package of...",
+      "link": "https://radiojamaicanewsonline.com/local/narra-ceo-gets-basic-salary-of-40-million-plus-benefits",
+      "source": "Rjr News",
+      "image": null,
+      "published": "2026-10-10 15:57:38",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "gabon"
       ]
     }
   ]

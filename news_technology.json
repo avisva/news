@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Why countries sometimes need to reinvent the wheel",
-      "description": "With countries increasingly depending on technology imports, worries over control and access to essential systems intensify. This dependence on external vendors can expose nations to risks during times of geopolitical instability or supply chain hiccups. Creating local alternatives may not always be cost-effective, yet it aids in establishing self-reliance. The case of India's UPI underscores the critical need for developing solid financial tech infrastructures.",
-      "link": "https://timesofindia.indiatimes.com/science/why-countries-sometimes-need-to-reinvent-the-wheel/articleshow/134864797.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134864839/134864839.jpg",
-      "published": "2026-10-11 04:31:39",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Medics accused of \u2018misappropriating\u2019 data to set up firm",
+      "description": "A doctor misappropriated confidential documents from a major NHS diagnostics supplier and shared them with his associates to set up a rival private business, it is alleged.",
+      "link": "https://www.hsj.co.uk/policy-and-regulation/medics-accused-of-misappropriating-data-to-set-up-firm/8124440.article",
+      "source": "Health Service Journal",
+      "image": "https://d3e6tmgg461bic.cloudfront.net/pictures/280x188/9/0/5/4036905_documents_657147.jpg",
+      "published": "2026-10-12 11:29:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

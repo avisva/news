@@ -1,20 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Medics accused of \u2018misappropriating\u2019 data to set up firm",
-      "description": "A doctor misappropriated confidential documents from a major NHS diagnostics supplier and shared them with his associates to set up a rival private business, it is alleged.",
-      "link": "https://www.hsj.co.uk/policy-and-regulation/medics-accused-of-misappropriating-data-to-set-up-firm/8124440.article",
-      "source": "Health Service Journal",
-      "image": "https://d3e6tmgg461bic.cloudfront.net/pictures/280x188/9/0/5/4036905_documents_657147.jpg",
-      "published": "2026-10-12 11:29:00",
+      "title": "Dementia cases are set to double by 2050 \u2014 as doctor calls it an \u2018accelerating epidemic crisis\u2019 - New York Post",
+      "description": "Dementia cases are set to double by 2050 \u2014 as doctor calls it an \u2018accelerating epidemic crisis\u2019 New York PostSee more headlines & perspectives on Google News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHBGQndYcVA5VC1IV2U2NVZfZkE0WWhoTjdWeXpoOFBCd3VTNVg2NGM2dHpsc2pUd2dZcEs1UkxWLVR4cTJvSzFiT19SUVUxaEZvdXlIbGI1eFVjTm9kTE1rbE9zZGJRSmVBMGo5d1NLVktTc2pvUlE0YklaRVdYUVhybzVGZElCenZUUW1IWE5mZ0VPSlhhYmI3b3FHVUdpbU13VVNXMjF2cWM1eEN6VzBKUQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-12 17:28:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Zongo Health Campaign screens over 110 Mamobi residents",
+      "description": "More than 110 residents of Mamobi in Accra have benefited from free health screenings under the second edition of the Zongo Health Campaign, which identified three participants with breast lumps, three HIV-positive results and several cases of elevated blood sugar.",
+      "link": "https://www.myjoyonline.com/zongo-health-campaign-screens-over-110-mamobi-residents/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/image-1117-768x1024.png",
+      "published": "2026-10-12 17:27:54",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "united kingdom"
+        "ghana"
       ]
     }
   ]

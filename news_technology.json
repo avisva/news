@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "EXPLAINER | How CAFE-III could bring more small EVs on the roads",
-      "description": "India's CAFE-III norms (2027\u20132032) aim for a 16.7% fuel-efficiency boost. Featuring 3x super credits for BEVs and REEVs, the framework incentivizes high-volume, affordable EVs and hybrids to offset larger SUV emissions across automaker fleets.",
-      "link": "https://www.financialexpress.com/auto/news/explainer-how-cafe-iii-could-bring-more-small-evs-on-the-roads/4359671/",
-      "source": "Financial Express , Read To Lead",
-      "image": "https://images.financialexpressdigital.com/2026/10/ev.canvaaa.jpg",
-      "published": "2026-10-12 17:27:48",
+      "title": "GATE 2027 Correction Window: How To Edit Application, Fix Errors, And Update Documents On GOAPS",
+      "description": "From October 14 to 21, the GATE 2027 rectification window will let applicants fix high\u2011stakes errors. IIT Madras lists the week on its official schedule, and demand will be heavy.\u2026",
+      "link": "https://www.swapupdate.in/gate-2027-correction-window-how-to-edit-application-fix-errors-and-update-documents-on-goaps/",
+      "source": "Swapupdate",
+      "image": "https://images.careerindia.com/img/2026/10/gate-2027-correction-window-how-to-edit-application-fix-errors-and-update-documents_600x280_1791855187070_.jpg",
+      "published": "2026-10-13 01:33:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "BCG sees wider AI execution gap in India as marketers prepare for agentic AI",
+      "description": "BCG sees wider AI execution gap in India as marketers prepare for agentic AI",
+      "link": "https://economictimes.indiatimes.com/industry/services/advertising/bcg-sees-wider-ai-execution-gap-in-india-as-marketers-prepare-for-agentic-ai/articleshow/132398248.cms",
+      "source": "San Francisco Star",
+      "image": "https://img.etimg.com/thumb/msid-132398439,resizemode-4,width-1200,height-900,imgsize-103224,overlay-economictimes/articleshow.jpg",
+      "published": "2026-10-13 01:32:55",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "AI, connected TV, programmatic buying reshape Indias digital ad market",
+      "description": "AI, connected TV, programmatic buying reshape Indias digital ad market",
+      "link": "https://economictimes.indiatimes.com/industry/services/advertising/ai-connected-tv-programmatic-buying-reshape-indias-digital-ad-market/articleshow/130995641.cms",
+      "source": "San Francisco Star",
+      "image": "https://img.etimg.com/thumb/msid-130995777,resizemode-4,width-1200,height-900,imgsize-81066,overlay-economictimes/articleshow.jpg",
+      "published": "2026-10-13 01:32:49",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,66 +1,52 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Court Watch Report finds gender gap, legal help boosts restraining order success",
-      "description": "Domestic Abuse Intervention Services, or DAIS, has released a new court watch report analyzing 739 injunction hearings between October 2024 and October of last year.",
-      "link": "https://www.wmtv15news.com/2026/10/13/court-watch-report-finds-gender-gap-legal-help-boosts-restraining-order-success/",
-      "source": "Https://www.wmtv15news.com",
-      "image": "https://gray-wmtv-prod.gtv-cdn.com/resizer/v2/4ODXYRZFJJH3ZIHI3TLNLQGRGQ.jpg?auth=64a5d4c23b0695fda531332625ebcb4376bcad9a3daad8e909c0af65c7e681ee&width=1200&height=600&smart=true",
-      "published": "2026-10-13 23:10:00",
+      "title": "Pressure mounts on Japan\u2019s farm minister Kazuo Yana ahead of Takaichi meet",
+      "description": "Agriculture Minister Kazuo Yana had reportedly claimed to have cut roadworks funding to municipalities that didn\u2019t support him in February\u2019s general election.",
+      "link": "https://www.straitstimes.com/asia/east-asia/pressure-mounts-on-japans-farm-minister-kazuo-yana-ahead-of-takaichi-meet",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-10-14 04:31:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Preston advocates unpick decades of harmful Black representation in Black History Month talk",
+      "description": "As the Lancashire Post celebrates 140 years, we are looking back at the communities that have helped shape Preston.",
+      "link": "https://www.lep.co.uk/news/i-would-have-faced-racist-abuse-from-adults-five-times-before-school-9285294",
+      "source": "Lancashire Evening Post",
+      "image": "https://www.lep.co.uk/jpim-static/image/2026/10/13/23/10/Ali-Yildirim-and-Adrian-Murrell-with-Preston-Historical-Society.jpeg?width=1200&auto=webp&trim=170%2C0%2C171%2C0",
+      "published": "2026-10-14 04:30:58",
       "category": [
         "top",
         "lifestyle",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Commissioners back BAMC mission, take action on top county positions",
-      "description": "Republican Precinct 3 County Commissioner Grant Moody led the way on the BAMC resolution.",
-      "link": "https://www.tpr.org/government-politics/2026-10-13/commissioners-back-bamc-mission-take-action-on-top-county-positions",
-      "source": "Texas Public Radio | Tpr",
-      "image": "https://npr.brightspotcdn.com/dims4/default/9192411/2147483647/strip/false/crop/4032x3024+0+0/resize/704x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F72%2F9b7d8ce843a4b9f51285242e738d%2Fgrant-moody.jpg",
-      "published": "2026-10-13 23:09:58",
+      "title": "Ukraine's Kyiv faces power cuts amid Russian strikes, mayor says",
+      "description": "Ukraines capital city Kyiv is facing power cuts on Wednesday following Russian strikes on its energy facilities Mayor Vitali Klitschko said on the Telegram messaging app",
+      "link": "https://www.devdiscourse.com/article/international/3991935-ukraines-kyiv-faces-power-cuts-amid-russian-strikes-mayor-says",
+      "source": "Devdiscourse",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&amp;width=920",
+      "published": "2026-10-14 04:30:52",
       "category": [
+        "crime",
         "top",
         "politics"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Tories demand police probes into imams' calls to beat wives",
-      "description": null,
-      "link": "https://www.bundle.app/en/breaking-news/tories-demand-police-probes-into-imams-calls-to-beat-wives-7EA58FC0-B5EC-5EEC-B54A-4BA386ADE9E9",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/39f0344d-caca-54ef-98a4-4a97e1dba90e.jpg",
-      "published": "2026-10-13 23:09:50",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Prasad\u2019s bid to dismiss FICAC case to be heard tomorrow - The Fiji Times",
-      "description": "Former deputy prime minister Professor Biman Prasad\u2019s no-case-to-answer application will be heard in the Suva Magistrates Court tomorrow at 2.30pm. The hearing was scheduled for today [\u2026]",
-      "link": "https://www.fijitimes.com.fj/prasads-bid-to-dismiss-ficac-case-to-be-heard-tomorrow/",
-      "source": "The Fiji Times",
-      "image": "https://www.fijitimes.com.fj/wp-content/uploads/2026/10/899bf677-acbf-4d27-b350-e75ddaf66276-576x1024.jpg",
-      "published": "2026-10-13 23:09:42",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "fiji"
+        "india"
       ]
     }
   ]

@@ -1,35 +1,48 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Boys soccer: Whippets double up Cardinals, 2-1",
-      "description": null,
-      "link": "https://www.dailyunion.com/sports/boys-soccer-whippets-double-up-cardinals-2-1/article_e86446cb-39a4-4286-b876-2e0e2bf9325f.html",
-      "source": "Daily Jefferson County Union",
-      "image": null,
-      "published": "2026-10-14 04:31:00",
+      "title": "Fr. Griffin's \u00c9ire \u00d3g squeeze past Naomh P\u00e1draig An Fhairche",
+      "description": "THE second final of Saturday\u2019s double-header at Pearse Stadium also appeared destined for extra-time before substitute Philip Lennon struck the winning point deep into injury-time to secure a dramatic 0-11 to 0-10 victory for Fr. Griffin\u2019s/\u00c9ire \u00d3g over Naomh P\u00e1draig, An Fhairche.",
+      "link": "https://www.connachttribune.ie/sport/fr-griffins-eire-og-squeeze-past-naomh-padraig-an-fhairche-9286254",
+      "source": "Connacht Tribune",
+      "image": "https://www.connachttribune.ie/jpim-static/image/2026/10/14/8/12/Naomh-Padraig-An-Fhairce-v-Fr-Griffins-Eire-Og-4.JPG?width=1200&auto=webp&trim=157%2C0%2C1127%2C0",
+      "published": "2026-10-14 08:25:58",
       "category": [
-        "sports",
-        "top"
+        "top",
+        "sports"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "NBA Notes: Magic, Blazers, Deni Avdija, Warriors, Yaxel Lendeborg",
+      "description": "The Cavaliers got a pretty good look Tuesday at what Orlando wants its offense to become. They probably would have preferred a less convincing demonstration.",
+      "link": "https://www.yardbarker.com/nba/articles/nba_notes_magic_blazers_deni_avdija_warriors_yaxel_lendeborg/s1_17038_44426092",
+      "source": "Yardbarker",
+      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
+      "published": "2026-10-14 08:25:50",
+      "category": [
+        "sports"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Keion White off to hot start for 49ers in wake of San Francisco shooting",
-      "description": "Keion White\u2019s team-high three sacks and his versatility on the defensive line have been highly valuable for the undefeated 49ers (5-0).",
-      "link": "https://www.paradisepost.com/2026/10/14/keion-white-shooting-49ers-stats-sacks/",
-      "source": "Paradise Post",
-      "image": "https://www.paradisepost.com/wp-content/uploads/2026/10/BNG-L-49ERS-0801-44.jpg?w=1600&resize=1600,900",
-      "published": "2026-10-14 04:30:48",
+      "title": "Lookman relieved to end goal drought in Atletico win over Man United",
+      "description": "Super Eagles forward Ademola Lookman expressed relief and delight after ending his goal drought to seal Atletico Madrid\u2019s 2\u20130 win",
+      "link": "https://businessday.ng/sports/article/lookman-relieved-to-end-goal-drought-in-atletico-win-over-man-united/",
+      "source": "Business News Nigeria",
+      "image": null,
+      "published": "2026-10-14 08:25:49",
       "category": [
-        "top",
         "sports"
       ],
       "country": [
-        "united states of america"
+        "nigeria"
       ]
     }
   ]

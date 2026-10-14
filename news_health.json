@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Researchers assess Hindi YouTube mastitis advice for Indian dairy farmers",
+      "description": "A study published in Scientific Reports evaluated Hindi-language YouTube videos about mastitis, a major dairy disease in India. Most of the 63 videos examined received low scores for quality and clinical completeness.",
+      "link": "https://dairynews.today/news/researchers_assess_hindi_youtube_mastitis_advice_for_indian_dairy_farmers_7609303.html",
+      "source": "Dairynews",
+      "image": "https://dairynews.today/upload/iblock/cd4/q65fhz6k749beaqpi1kpv0y6ihkrto3c/03.jpg",
+      "published": "2026-10-13 23:10:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "netherland"
+      ]
+    }
+  ]
 }

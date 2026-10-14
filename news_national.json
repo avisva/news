@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Champions League: Atletico defeats struggling Manchester United",
+      "description": "Atletico Madrid beat Manchester United 2-0 in the Champions League as United's woes deepen with a red card and mounting late pressure.",
+      "link": "https://www.thehindu.com/sport/football/champions-league-atletico-defeats-struggling-manchester-united/article71581321.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/z8os38/article71581323.ece/alternates/FREE_1200/Spain_Champions_League_Soccer_26371.jpg",
+      "published": "2026-10-13 23:10:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Nifty FIIs open interest analysis Oct 13, 2026",
+      "description": "Buy orders increased to 60%, index long% moved to 10%, put writing increased to 37%, as per these data's FIIs have un-winded some of their short positions and added fresh longs. Nifty bounced ftom 22300 levels to close above 22700, if continued to hold above 22500 then Nifty can move towards 22900-23000 range.",
+      "link": "https://in.tradingview.com/chart/NIFTY/GkzX2YNx-Nifty-FIIs-open-interest-analysis-Oct-13-2026/",
+      "source": "Tradingview",
+      "image": "https://s3.tradingview.com/g/GkzX2YNx_big.png",
+      "published": "2026-10-13 23:09:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "US Treasury fines Bank of America $1.2 billion over money laundering, sanctions violations",
+      "description": null,
+      "link": "https://www.moneycontrol.com/world/us-treasury-fines-bank-of-america-1-2-billion-over-money-laundering-sanctions-violations-article-14051436.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261013230817_Scott-Trump.jpg",
+      "published": "2026-10-13 23:09:51",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

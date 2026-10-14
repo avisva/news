@@ -1,16 +1,37 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "SAASTEPS Secures Key Patent Allowance and Launches CODEN.com",
-      "description": "In an enterprise technology landscape dominated by multi-billion-dollar conglomerates, and AI trillion-dollar valuations, sustainable innovation often emerges from disciplined, bootstrapped challengers. A new strategic perspective published by former ISG Research Director Stephen Hurrell highlights how the Revenue Lifecycle Management (RLM) category is developing to better serve customers\u2019 needs. Organizations are looking for integrated solutions that map to their customers\u2019 revenue journey",
-      "link": "https://www.financialcontent.com/article/bizwire-2026-10-13-saasteps-secures-key-patent-allowance-and-launches-codencom",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-10-13 12:08:00",
+      "title": "The 2D Era Begins to End: Visual Semiconductor and INCERGO Unleash Immersive 3D Without Glasses at CEATEC 2026",
+      "description": "TOKYO--(BUSINESS WIRE)--Visual Semiconductor and INCERGO showcase five GF3D\u2122 glasses-free 3D display categories at CEATEC 2026 in Japan.",
+      "link": "http://www.businesswire.com/news/home/20261013509519/en/The-2D-Era-Begins-to-End-Visual-Semiconductor-and-INCERGO-Unleash-Immersive-3D-Without-Glasses-at-CEATEC-2026/",
+      "source": "Businesswire",
+      "image": "https://mms.businesswire.com/media/20261013509519/en/2932710/21/VSI_New_Image.jpg",
+      "published": "2026-10-13 17:47:00",
       "category": [
-        "business",
+        "technology"
+      ],
+      "country": [
+        "australia",
+        "germany",
+        "china",
+        "japan",
+        "canada",
+        "united kingdom",
+        "france",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Acer officially launches 5G tablet with 10,000 mAh battery and up to 2 TB expandable storage",
+      "description": "Acer has launched a new 5G tablet in India with a 12.2-inch 90 Hz display and a 10,000 mAh battery. It offers 8 GB of RAM and up to 256 GB of storage, while optional bundles include a keyboard and stylus.",
+      "link": "https://www.notebookcheck.net/Acer-officially-launches-5G-tablet-with-10-000-mAh-battery-and-up-to-2-TB-expandable-storage.1422089.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/acer-iconia-tab-12-5g.png",
+      "published": "2026-10-13 17:47:00",
+      "category": [
+        "top",
         "technology"
       ],
       "country": [
@@ -18,14 +39,13 @@
       ]
     },
     {
-      "title": "Trinity Hunt\u2019s Averon Group invests in Utah HVAC controls distributor CEC",
-      "description": "Control Equipment Company supplies boiler controls, VAV systems, testing equipment and replacement parts to contractors and building automation professionals in the Intermountain West. The post Trinity Hunt\u2019s Averon Group invests in Utah HVAC controls distributor CEC appeared first on PE Hub.",
-      "link": "https://www.pehub.com/trinity-hunts-averon-group-invests-in-utah-hvac-controls-distributor-cec/",
-      "source": "Pe Hub",
-      "image": "https://media.pehub.com/uploads/2019/11/PEHub_Industry1.jpg",
-      "published": "2026-10-13 12:07:56",
+      "title": "Data Engineering for Prize Draws: Building an Audit Trail",
+      "description": "A practical data-engineering guide to tracing entries, handling duplicate events and preserving the records behind a prize draw result.",
+      "link": "https://www.smartdatacollective.com/data-engineering-prize-draw-audit-trail/",
+      "source": "Smart Data Collective",
+      "image": "https://www.smartdatacollective.com/wp-content/uploads/2026/10/prize-draw-audit-trail.avif",
+      "published": "2026-10-13 17:46:59",
       "category": [
-        "top",
         "technology"
       ],
       "country": [

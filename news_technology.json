@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "More than 800 UK supermarket fridges at heightened risk of hacking",
-      "description": "The finding comes after hackers commandeered fridge and freezer systems at hundreds of French supermarkets, remotely raising their temperature",
-      "link": "https://www.thegrocer.co.uk/news/more-than-800-uk-supermarket-fridges-at-heightened-risk-of-hacking/724713.article",
-      "source": "The Grocer",
-      "image": "https://dmrqkbkq8el9i.cloudfront.net/pictures/280x188/5/0/4/408504_pexelstowfiqubarbhuiya344068211341890_967714_crop.jpg",
-      "published": "2026-10-13 08:04:00",
+      "title": "SAASTEPS Secures Key Patent Allowance and Launches CODEN.com",
+      "description": "In an enterprise technology landscape dominated by multi-billion-dollar conglomerates, and AI trillion-dollar valuations, sustainable innovation often emerges from disciplined, bootstrapped challengers. A new strategic perspective published by former ISG Research Director Stephen Hurrell highlights how the Revenue Lifecycle Management (RLM) category is developing to better serve customers\u2019 needs. Organizations are looking for integrated solutions that map to their customers\u2019 revenue journey",
+      "link": "https://www.financialcontent.com/article/bizwire-2026-10-13-saasteps-secures-key-patent-allowance-and-launches-codencom",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-10-13 12:08:00",
       "category": [
-        "technology",
-        "top"
+        "business",
+        "technology"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trinity Hunt\u2019s Averon Group invests in Utah HVAC controls distributor CEC",
+      "description": "Control Equipment Company supplies boiler controls, VAV systems, testing equipment and replacement parts to contractors and building automation professionals in the Intermountain West. The post Trinity Hunt\u2019s Averon Group invests in Utah HVAC controls distributor CEC appeared first on PE Hub.",
+      "link": "https://www.pehub.com/trinity-hunts-averon-group-invests-in-utah-hvac-controls-distributor-cec/",
+      "source": "Pe Hub",
+      "image": "https://media.pehub.com/uploads/2019/11/PEHub_Industry1.jpg",
+      "published": "2026-10-13 12:07:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Researchers use genome sequencing to study tuberculosis transmissions in Kaohsiung - Taiwan News",
+      "description": "Researchers use genome sequencing to study tuberculosis transmissions in Kaohsiung Taiwan News",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oMHhBbmwzOE1hUUZSdE10eklnQXV5aFYwVnZXZnBvVkhsT2ktUGdsMzEwNVVWbG9mazBNMEVSV2VMTzJaQ1piRUJVbGdwek90UHVuQXFnNDA?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-14 11:40:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Seragy launches with \u20ac12 million financing to advance quantitative biomarkers for neurodegenerative diseases",
+      "description": "seragy holding GmbH (formerly Prosperodes GmbH), a biomarker strategy company focused on neurodegenerative diseases and other proteopathies, has secured \u20ac12 million in funding to accelerate the development of its SeRAS\u00ae platform (Seed Replication, Analysis and Subtyping) and expand its laboratory and analytical capabilities. The financing is backed by Commerzbank, the Mittelst\u00e4ndische Beteiligungsgesellschaft (MBG), and the State of Lower Saxony.",
+      "link": "https://www.news-medical.net/news/20261014/Seragy-launches-with-e282ac12-million-financing-to-advance-quantitative-biomarkers-for-neurodegenerative-diseases.aspx",
+      "source": "Medical News",
+      "image": "https://www.news-medical.net/image-handler/picture/2014/7/134984011-620x480.jpg",
+      "published": "2026-10-14 11:40:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

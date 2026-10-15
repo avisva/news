@@ -1,35 +1,63 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Greece's Turkish minority sounds alarm over school closures",
-      "description": "Members of the Turkish minority in Greece's Western Thrace region have raised concerns over the continued closure of minority schools, warning that the measures threaten children's...",
-      "link": "https://www.dailysabah.com/politics/greeces-turkish-minority-sounds-alarm-over-school-closures/news",
-      "source": "Daily Sabah",
-      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/14/465597.jpg",
-      "published": "2026-10-14 11:40:00",
+      "title": "St. Maarten hosts its first Human Rights Conference",
+      "description": "Dignitaries in attendance. PHILIPSBURG--The Ministry of Justice and the Council of Europe hosted St. Maarten\u2019s first Human Rights Conference on Friday, October 9, at the University of St. Martin, bringing together government officials, justice institutions, legal professionals, civil society, students and members of the public to discuss human rights and the country\u2019s responsibilities in protecting them.",
+      "link": "https://www.thedailyherald.sx/islands/st-maarten-hosts-its-first-human-rights-conference",
+      "source": "The Daily Herald - Home",
+      "image": "https://www.thedailyherald.sx/images/2026/10/14/page3c106e_large.jpg",
+      "published": "2026-10-14 15:11:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "san marino"
+      ]
+    },
+    {
+      "title": "3 Misconceptions That Sabotage Good Relationships.",
+      "description": "When we cling to these false expectations, we mistake normal shifts for fundamental flaws. We start viewing small misunderstandings as warning signs, or we push our own needs down just to keep the peace.",
+      "link": "https://www.elephantjournal.com/2026/10/3-misconceptions-that-sabotage-good-relationships-elyane-youssef/",
+      "source": "Elephant Journal",
+      "image": "https://img.elephantjournal.com/wp-content/uploads/2026/10/pexels-olga-solo-84330351-9959561.jpg",
+      "published": "2026-10-14 15:11:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "turkey"
+        "united states of america"
       ]
     },
     {
-      "title": "The geographer accused of being a traitor who made the first modern map of Catalonia",
-      "description": "Josep Aparici i Fins is one of the most important geographers of 18th-century Catalonia, and at the same time, he is surrounded by controversy. During the War of the Spanish Succession, the Austrian authorities commissioned him to map Catalonia, and after the war, he entered the service of King Philip V, who granted him the title of His Majesty's geographer. Furthermore, he was one of the main collaborators in the implementation of the cadastre, a measure that was detrimental to the Catalan economy. But, despite everything, his career has been considered ambiguous.",
-      "link": "https://en.ara.cat/culture/the-geographer-accused-of-being-traitor-who-made-the-first-modern-map-of-catalonia_1_5878805.html",
-      "source": "Diari Ara",
-      "image": "https://static1.ara.cat/clip/73f964b2-17ac-4201-9034-d81fe80d24bd_16-9-aspect-ratio_default_0_x1798y1029.jpg",
-      "published": "2026-10-14 11:39:55",
+      "title": "St. Kitts and Nevis Citizenship Unit Completes First Stage of Independent Review by Deloitte",
+      "description": "Basseterre, St. Kitts and Nevis--(Newsfile Corp. - October 14, 2026) - The Citizenship Unit of St. Kitts and Nevis (CIU)...",
+      "link": "https://www.financialcontent.com/article/newsfile-2026-10-14-st-kitts-and-nevis-citizenship-unit-completes-first-stage-of-independent-review-by-deloitte",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-10-14 15:11:00",
       "category": [
-        "politics",
-        "education"
+        "politics"
       ],
       "country": [
-        "spain"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "PM Modi, visiting Canadian Foreign Minister hold \u2018productive discussion\u2019 on further strengthening bilateral ties",
+      "description": "New Delhi, Oct 14: Canadian Foreign Minister Anita Anand called on Prime Minister Narendra Modi in New Delhi on Wednesday, discussing further strengthening of bilateral ties in trade, technology, security, energy, education and people-to-people exchanges. During their conversation, PM Modi expressed India\u2019s commitment to building a constructive and forward-looking strategic partnership with Canada that delivers [\u2026]",
+      "link": "https://theshillongtimes.com/2026/10/14/pm-modi-visiting-canadian-foreign-minister-hold-productive-discussion-on-further-strengthening-bilateral-ties/",
+      "source": "Theshillongtimes",
+      "image": null,
+      "published": "2026-10-14 15:10:55",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

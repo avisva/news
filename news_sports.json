@@ -1,17 +1,62 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "From skating alone to rolling together: Frederick Roll Fest takes shape",
-      "description": "For years, John \u201cBaspy\u201d Johnson had been showing up at Hill Street Skate Park with his rollerblades, skating mostly by himself. Across Frederick, Paige Galloway had started doing much of the same. On Oct. 18, they\u2019re working together to showcase\u2026",
-      "link": "https://www.fredericknewspost.com/news/arts_and_entertainment/from-skating-alone-to-rolling-together-frederick-roll-fest-takes-shape/article_7d23b712-3508-5dcc-bf7a-97dcb12d54ca.html",
-      "source": "The Frederick News-post",
-      "image": "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/c/56/c56891b0-17bb-5beb-a4b6-9e28c81d1ddb/6ac3015825b3d.image.jpg?crop=1009%2C758%2C177%2C585&resize=300%2C225&order=crop%2Cresize",
-      "published": "2026-10-14 15:11:00",
+      "title": "Sports: A Conversation with Athens Hornets Coach Zac Harrell",
+      "description": "The Athens Hornets took command from the outset Friday in a 70-14 win over Brownsboro.",
+      "link": "https://www.weatherforddemocrat.com/texas/sports-a-conversation-with-athens-hornets-coach-zac-harrell/article_7f4f1703-2e0d-5bc2-9879-71aef533fa7b.html",
+      "source": "Weatherforddemocrat",
+      "image": "https://bloximages.chicago2.vip.townnews.com/weatherforddemocrat.com/content/tncms/assets/v3/editorial/d/58/d589d90a-26c1-5d95-9e37-cb6e53648e1a/6acfeddedab5e.image.jpg?resize=300%2C268",
+      "published": "2026-10-14 20:50:00",
       "category": [
         "top",
         "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Man City beaten by PSG in enthralling game as Pep returns to Etihad",
+      "description": "Manchester City were beaten 4-2 by a majestic Paris Saint-Germain side as Pep Guardiola watched on from the stands in an enthralling Champions League encounter.",
+      "link": "https://www.skysports.com/football/manchester-city-vs-paris-saint-germain/report/577628",
+      "source": "Sky Sports",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-erling-haaland-man-city_7377114.jpg?20261014204916",
+      "published": "2026-10-14 20:50:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Aston Villa hit Fenerbahce for six in big win at Villa Park",
+      "description": "Aston Villa dismantled Fenerbahce with Nicolas Jackson and Ross Barkley scoring two each in a 6-0 Champions League win at Villa Park.",
+      "link": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/report/577624",
+      "source": "Sky Sports",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-nicolas-jackson-fenerbahce_7377128.jpg?20261014210659",
+      "published": "2026-10-14 20:50:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "ireland",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "BYU-Notre Dame ranks among college football\u2019s most expensive tickets this weekend",
+      "description": "BYU-Notre Dame tickets rank as college football\u2019s second-most expensive this weekend, with a $429 get-in price and College GameDay coming to Provo.",
+      "link": "https://sports.yahoo.com/articles/byu-notre-dame-ranks-among-204958706.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/6e46279591441b4287a173f1498e656421ff986c024b8e762b41efaf270f8275/lightyear_networkapi/resizefill_w800_h452%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2F69b24ae3417a26aff7a4cfea74eaec81.jpg",
+      "published": "2026-10-14 20:49:58",
+      "category": [
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Your dog can't swim? A Cottage Grove business can help with that",
+      "description": "Despite being the namesake for the \u201cdoggy paddle,\u201d dogs are not born knowing how to properly swim. A dog daycare in Cottage Grove is aiming to teach them.",
+      "link": "https://lacrossetribune.com/news/state-regional/wisconsin/article_10caf9d4-52b7-5e77-8fff-c952b1f25d7d.html",
+      "source": "La Crosse Tribune",
+      "image": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/5/99/5995cb24-7201-54a4-a68b-89c5b1edcc5c/6acfe3031859b.image.jpg?resize=300%2C200",
+      "published": "2026-10-14 20:50:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

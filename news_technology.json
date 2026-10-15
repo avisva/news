@@ -1,36 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "UNSW researchers join Australian Academy of Health and Medical Sciences",
-      "description": "The academics were recognised for outstanding contributions to health and medical science across research, clinical practice, public health, innovation and leadership.",
-      "link": "https://www.unsw.edu.au/newsroom/news/2026/10/unsw-researchers-join-australian-academy-of-health-and-medical-sciences",
-      "source": "Unsw Sydney",
-      "image": "https://www.unsw.edu.au//content/dam/images/unsw-wide/general/stock/2026-08-ndarc/2026-08-hospital-emergency-adobestock_330561954.jpeg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
-      "published": "2026-10-15 01:55:00",
-      "category": [
-        "technology",
-        "science"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Regina Rocket Club takes flight on launch day",
-      "description": "After a series of workshops to build rockets, the countdown was on to launch day for the Regina Rockets club.",
-      "link": "https://www.ctvnews.ca/regina/article/regina-rocket-club-takes-flight-on-launch-day/",
-      "source": "Ctv News",
-      "image": "https://www.ctvnews.ca/resizer/v2/EPNBSQ3ZXFCZFA2EKHJF6ZEMGY.jpg?auth=506ce39f41597418d9311fa06c980c2ca6689edc42fd351f1e0e8bee2a61b15a&smart=true&width=4655&height=2618",
-      "published": "2026-10-15 01:54:55",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "canada"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

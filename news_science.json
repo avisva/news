@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "UNSW researchers join Australian Academy of Health and Medical Sciences",
-      "description": "The academics were recognised for outstanding contributions to health and medical science across research, clinical practice, public health, innovation and leadership.",
-      "link": "https://www.unsw.edu.au/newsroom/news/2026/10/unsw-researchers-join-australian-academy-of-health-and-medical-sciences",
-      "source": "Unsw Sydney",
-      "image": "https://www.unsw.edu.au//content/dam/images/unsw-wide/general/stock/2026-08-ndarc/2026-08-hospital-emergency-adobestock_330561954.jpeg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
-      "published": "2026-10-15 01:55:00",
-      "category": [
-        "technology",
-        "science"
-      ],
-      "country": [
-        "australia"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

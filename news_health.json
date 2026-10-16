@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Danone pushes for earlier malnutrition screening in standard patient care",
-      "description": "Danone\u2019s Magdalena Broseta urges routine malnutrition screening and earlier detection to make medical nutrition a standard part of patient care.",
-      "link": "https://www.nutritioninsight.com/news/danone-malnutrition-screening-medical-nutrition.html",
-      "source": "Nutritioninsight.com",
-      "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639276554460230173Doctor_and_patient_talking.jpg",
-      "published": "2026-10-15 09:55:00",
+      "title": "This Is How to Prevent Neck Wrinkles, According to a Dermatologist",
+      "description": "What can help smooth lines and tighten a crepey neck? Here\u2019s what experts say really works.",
+      "link": "https://www.prevention.com/beauty/skin-care/a74121718/how-to-prevent-neck-wrinkles/",
+      "source": "Prevention",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/64f0bc78-5764-4101-885f-293fa60a6372.jpeg",
+      "published": "2026-10-15 12:04:00",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "netherland"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Simple 10-Minute Exercises to Improve Sleep Quality",
+      "description": "Experts reveal that just ten minutes of daily physical activity, such as brisk walking or simple kitchen workouts, can significantly enhance restorative sleep by regulating body temperature and reducing stress hormones.",
+      "link": "https://us.headtopics.com/news/simple-10-minute-exercises-to-improve-sleep-quality-88839891",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/15/dailymail/simple-10-minute-exercises-to-improve-sleep-qualit-simple-10-minute-exercises-to-improve-sleep-qualit-0B2F6A6D59D1B9AE8877078FF8998BC4-16x9.webp",
+      "published": "2026-10-15 12:04:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

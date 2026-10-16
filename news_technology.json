@@ -1,51 +1,5 @@
 {
   "status": "success",
-  "totalResults": 3,
-  "results": [
-    {
-      "title": "Singapore faces AI-linked ransomware at 1.5 times global",
-      "description": "Identity systems and staff safety are under growing strain as six in 10 Singapore organisations hit by ransomware said attackers used AI.",
-      "link": "https://itbrief.asia/story/singapore-faces-ai-linked-ransomware-at-1-5-times-global",
-      "source": "It Brief Asia",
-      "image": "https://itbrief.asia/uploads/story/2026/10/16/compatible_ransomware-attack-singapore-office-server-room-hacker-hand-story-321649.jpg",
-      "published": "2026-10-16 03:11:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
-      "description": "Meta Platforms on Thursday released an open-weight version of its Muse Spark artificial intelligence model for coding and AI agents, expanding developers\u2019 ability to download and adapt the technology. Open-weight models make trained parameters available for developers to modify, unlike proprietary models that remain under their creators\u2019 control. They can offer businesses a lower-cost alternative to closed systems. Meta said Muse Spark has 816 billion total parameters, with 42 billion active at a time, and can handle a context window of up to 1 million tokens",
-      "link": "https://telecomlive.in/web/2026/10/16/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks/",
-      "source": "Telecomliveweb",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "published": "2026-10-16 03:10:46",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Flying Car? Tesla Car Flies, Drives Upside Down In Stunning Demo | Watch",
-      "description": "Elon Musk shared a video of the demonstration on his social media platform, X, with the caption: \"Turns out the future does have flying cars.\"",
-      "link": "https://www.ndtv.com/offbeat/flying-car-tesla-roadster-flies-drives-upside-down-in-jaw-dropping-demo-watch-12192925",
-      "source": "Ndtv",
-      "image": "https://c.ndtvimg.com/2026-10/eavqkbbs_elon-musk_625x300_16_October_26.jpeg",
-      "published": "2026-10-16 03:10:36",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

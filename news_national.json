@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Sports Can Help Build Drug-Free Society: LG",
+      "description": "Kashmir, Observer, Jammu, Srinagar, Latest Kashmir News, Kashmir News, Kashmir Latest News Lieutenant Governor Manoj Sinha on Thursday congratulated the Jammu and Kashmir Police on the successful completion of Jashn-e-Dal-2026, saying sports can play a significant role in empowering young people and building a healthy, drug-free society. The post Sports Can Help Build Drug-Free Society: LG appeared first on Kashmir Observer.",
+      "link": "https://kashmirobserver.net/2026/10/15/sports-can-help-build-drug-free-society-lg/",
+      "source": "Kashmir Observer",
+      "image": "https://kashmirobserver.net/wp-content/uploads/2025/11/LG-Manoj-Sinha-Security-Meet-1.jpg",
+      "published": "2026-10-15 17:25:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "'You made 140 crore people proud': PM Narendra Modi hails India's Asian Games 2026 participants",
+      "description": "PM Modi heaped praise on the athletes for making the entire nation proud, telling them that true success lies in enhancing the glory of the Tricolour.",
+      "link": "https://zeenews.india.com/other-sports/you-made-140-crore-people-proud-pm-narendra-modi-hails-indias-asian-games-2026-participants-3076151.html",
+      "source": "Zee News",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/10/15/1989642-pm-modi-hails-indias-asian-games-2026-participants.jpg",
+      "published": "2026-10-15 17:25:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

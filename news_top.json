@@ -1,44 +1,90 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 12,
   "results": [
     {
-      "title": "\u2018Feel honoured\u2019: Meet the young gun umpire set for the big leagues",
-      "description": null,
-      "link": "https://www.adelaidenow.com.au/messenger/sport/sanfl-saca-umpire-james-turner-nominated-for-sa-school-sports-award/news-story/081d42e1651d1f71c68e08cdc75b4bbe",
-      "source": "The Advertiser",
-      "image": null,
-      "published": "2026-10-16 07:17:00",
+      "title": "Don\u2019t Look Now",
+      "description": "Exploring life\u2019s unease in three disturbing anecdotes. || Michael Gentile",
+      "link": "https://www.splicetoday.com/writing/don-t-look-now",
+      "source": "Splice Today",
+      "image": "https://splicetoday.imgix.net/uploads/posts/photos/38001/Lola_.jpg?ixlib=rails-2.1.4&w=1200&h=630&s=3dafd8652b62d2ccca5042a986d83ea5",
+      "published": "2026-10-16 10:30:00",
       "category": [
-        "top",
-        "sports"
+        "tourism",
+        "top"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     },
     {
-      "title": "Horror sex attack as men snatch girl, 11, off UK street - offered her cocaine",
-      "description": "The girl has since suffered \"nightmares and flashbacks\" in which she could picture the two men.",
-      "link": "https://www.express.co.uk/news/uk/2257704/horror-sex-attack-men-snatch-girl-uk-street-birmingham",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2257704_1.jpg",
-      "published": "2026-10-16 07:17:00",
+      "title": "\u2018No Kings\u2019 rally to promote early voting set Saturday in Willmar",
+      "description": "Willmar is among communities across the country holding \u2018No Kings: Vote Early\u2019 rallies on Saturday.",
+      "link": "https://www.wctrib.com/news/local/no-kings-rally-to-promote-early-voting-set-saturday-in-willmar",
+      "source": "West Central Tribune",
+      "image": "https://cdn.forumcomm.com/dims4/default/7be3e6d/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F2e%2F6c%2Fcdede48445f3bc66b4435c3a8e4b%2F1000009484.jpg",
+      "published": "2026-10-16 10:30:00",
       "category": [
-        "crime",
-        "top"
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "BBC's new Agatha Christie drama comes to Harry Potter village",
+      "description": "A village became the setting for the new Hercule Poirot series, one year to the day after its use in an upcoming Harry Potter reboot.",
+      "link": "https://www.oxfordmail.co.uk/news/26642854.new-bbc-agatha-christie-series-films-harry-potter-village/",
+      "source": "Oxford Mail",
+      "image": "https://www.oxfordmail.co.uk/resources/images/21559041/",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "entertainment"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "ARIA Chart: Dean Lewis Returns to No. 1 as U2 and Tame Impala Dominate",
-      "description": "ARIA Chart: Dean Lewis returns to No. 1 with his sophomore LP, while U2 announces tour dates, Tame Impala rises, and Jamie Miller debuts at No. 35.",
-      "link": "https://us.headtopics.com/news/aria-chart-dean-lewis-returns-to-no-1-as-u2-and-tame-88868086",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/16/billboard/aria-chart-dean-lewis-returns-to-no-1-as-u2-and-ta-aria-chart-dean-lewis-returns-to-no-1-as-u2-and-ta-20EB88C467F8DDE885B1E1D5EABB61DF-16x9.webp",
-      "published": "2026-10-16 07:17:00",
+      "title": "Transport Ministers Discuss Development of International Corridors",
+      "description": "Transport ministers and international organisations discussed improving cross-border logistics, developing international transport corridors and expanding digitalisation.",
+      "link": "https://www.uzdaily.uz/en/transport-ministers-discuss-development-of-international-corridors/",
+      "source": "Uzdaily",
+      "image": "https://www.uzdaily.uz/media/filer_public/0e/15/0e156d94-eb67-4651-bbc9-cbd8a1420d4b/newsilkway1610_20261016083502.webp",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "business",
+        "top",
+        "technology"
+      ],
+      "country": [
+        "uzbekistan"
+      ]
+    },
+    {
+      "title": "Keys to victory: Virginia football at No. 24 SMU",
+      "description": "Virginia football plays at No. 24 SMU on Saturday at Gerald J. Ford Stadium in Dallas. What are the keys to victory for the Cavaliers and the Mustangs?",
+      "link": "https://newsvirginian.com/sports/college/football/virginia-cavaliers/article_e91a6057-9f8f-51ab-8039-c028dc437708.html",
+      "source": "The News Virginian",
+      "image": "https://bloximages.newyork1.vip.townnews.com/newsvirginian.com/content/tncms/assets/v3/editorial/e/91/e91a6057-9f8f-51ab-8039-c028dc437708/6aceded907208.preview.jpg?crop=1712%2C899%2C0%2C156&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Inspired by Tom Osborne's boldest call, \u2018Going for Two\u2019 tells different kind of Husker story",
+      "description": "The upcoming sports comedy film, \"Going for Two,\" will be released on Oct. 23 in Nebraska and select theaters in Iowa.",
+      "link": "https://theindependent.com/news/state-regional/nebraska/article_06278487-7eb2-59e3-a807-834ad51f3516.html",
+      "source": "The Grand Island Independent",
+      "image": "https://bloximages.chicago2.vip.townnews.com/theindependent.com/content/tncms/assets/v3/editorial/b/5f/b5f2ab8a-9325-5173-abc7-bddd43dd763f/6ad0e76e9cce2.image.jpg?resize=300%2C200",
+      "published": "2026-10-16 10:30:00",
       "category": [
         "top",
         "entertainment"
@@ -48,49 +94,95 @@
       ]
     },
     {
-      "title": "Infantino apologizes for World Cup furor",
-      "description": "ZURICH -- Gianni Infantino apologized to FIFA's ruling council on Thursday for \"mistakes\" in his secretive investment plan for the World Cup but didn't give details sought by his toughest critics who want to oust him as the president of soccer's governing body.",
-      "link": "https://www.nwaonline.com/news/2026/oct/16/infantino-apologizes-for-world-cup-furor/",
-      "source": "Nwaonline",
-      "image": null,
-      "published": "2026-10-16 07:17:00",
+      "title": "Cracking down on animal abuse",
+      "description": "PENN YAN \u2014 In a shorter-than-usual Legislature meeting Tuesday, a Finger Lakes county passed all of its resolutions in less than an hour while also holding a public hearing on a proposed local law.",
+      "link": "https://www.fltimes.com/news/cracking-down-on-animal-abuse/article_a9c97640-95ea-4167-aebb-436689a6a948.html",
+      "source": "Finger Lakes Times",
+      "image": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/5/4e/54ea84de-f9fe-11ef-8ec2-fb3e7627d2ed/67c8b09ed5cbd.image.png?resize=300%2C64",
+      "published": "2026-10-16 10:30:00",
       "category": [
-        "business",
         "top",
-        "sports"
+        "politics"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Delhi Riots 2020: SC Adjourns Athar Khan\u2019s Bail Plea Hearing In UAPA Case For 4 Weeks",
-      "description": "New Delhi, Oct 16 (PTI) The Supreme Court on Friday adjourned for four weeks the hearing on a bail plea filed by Athar Khan in a case under the anti-terror law UAPA concerning the \u201clarger conspiracy\u201d behind the February 2020 riots in northeast Delhi. A bench of Justices Aravind Kumar and Vipul M Pancholi deferred the matter after Additional Solicitor General S V Raju informed it that a reply has been filed in the matter. The top court allowed Khan rejoinder to the reply filed by Delhi police. The apex court had earlier issued a notice to Delhi Police on an appeal filed by Khan challenging a Delhi High Court judgment dated July 7 refusing bail to him. The high court had dismissed Athar's appeal challenging a trial court's January 29 order that denied him relief in the case, stating that he was but \u201cone of the main conspirators who conspired to cause deaths during the riots\u201d and not a \u201cmere local-level operator\u201d. Athar's lawyer had sought bail on the grounds that he was a \u201clocal-level facilitator\u201d who had been in custody for six years, and that similarly placed co-accused had been granted bail by the Supreme Court. The high court bench had considered the Supreme Court's findings on the bail pleas by the co-accused and held that Athar's role was \u201cclearly distinguishable\u201d from those given relief by the apex court. It said the material, including a protected witness statement, showed that while others on a WhatsApp group chat suggested non-violent protests, Athar \u201cpersisted with his objective of engaging in violent protests, to the extent of even causing death\u201d. The high court said that since Athar's prima facie role in causing deaths and destruction of private and public property was established, his case did not pass the strict test for bail under Section 43D(5) of the Unlawful Activities (Prevention) Act (UAPA), 1967. Athar, a former call centre employee, is accused of being one of the main conspirators and organisers of a protest at Chand Bagh in northeast Delhi and allegedly delivering inflammatory speeches there to instigate violence. According to the Delhi Police Special Cell, Athar allegedly participated in secret meetings, in which he said the \"time has come to burn Delhi\" and coordinated the destruction of CCTV cameras. Arrested in July 2020, Athar was booked under the UAPA for being one of the \"masterminds\" of the riots that left 53 people dead and more than 700 injured. The violence erupted during protests against the Citizenship (Amendment) Act, 2019, and the National Register of Citizens. Activists Sharjeel Imam, Khalid Saifi and Umar Khalid, among others, were also booked for their alleged involvement in the larger conspiracy case, which is being investigated by the Delhi Police's Special Cell. (This report has been published as part of the auto-generated syndicate wire feed. Apart from the headline, no editing has been done in the copy by ABP Live.)",
-      "link": "https://news.abplive.com/news/india/delhi-riots-2020-sc-adjourns-athar-khan-s-bail-plea-hearing-in-uapa-case-for-4-weeks-1871714",
-      "source": "Abp News",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/13/140fa0ce367fd25cb5c32d81f9994b7317839366751091324_original.png",
-      "published": "2026-10-16 07:16:57",
+      "title": "What Canadians are watching this weekend: Top 10 titles and new releases on major streaming platforms",
+      "description": "This weekend\u2019s list is headlined by Netflix's \u201cAnimals,\u201d Disney Plus\u2019 \u201cVisionQuest,\u201d Apple TV's \u201cMatchbox: The Movie,\u201d Prime Video's \u201cDisclosure Day\u201d and Crave's \u201cThe Traitors\u201d Canada. Watch the trailers here.",
+      "link": "https://www.insidehalton.com/things-to-do/movies/trending-streaming-guide-canada-oct-15/article_0ae2b600-cf28-5247-a22b-3afc8a2c7d14.html",
+      "source": "Inside Halton",
+      "image": "https://bloximages.chicago2.vip.townnews.com/insidehalton.com/content/tncms/assets/v3/editorial/9/f0/9f05059a-a8cb-52a5-91da-64608e061fb4/6ad1395521f3d.image.jpg?crop=1190%2C625%2C0%2C83",
+      "published": "2026-10-16 10:30:00",
       "category": [
-        "crime",
-        "top"
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Gujarat Opens NEET 2026 Round 4 Stray Vacancy Registration for MBBS, BDS Admissions, Apply by October 17",
+      "description": "Gujarat- The Admission Committee for Professional Undergraduate Medical Educational Courses (ACPUGMEC), Gujarat, has announced the schedule for the fourth online (Stray Vacancy) round of MBBS and BDS...",
+      "link": "https://medicaldialogues.in/news/education/medical-admissions/gujarat-opens-neet-2026-round-4-stray-vacancy-registration-for-mbbs-bds-admissions-apply-by-october-17-181455",
+      "source": "Business Medical Dialogues",
+      "image": "https://medicaldialogues.in/h-upload/2026/03/03/330753-stray-vacancy-round.webp",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "education"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Rain, Thunderstorm Likely In 14 Odisha Dists Over Next 3 Hrs: IMD",
-      "description": "Bhubaneswar: The India Meteorological Department (IMD) on Friday issued a yellow warning for 14 districts of Odisha, forecasting light to moderate rain",
-      "link": "https://ommcomnews.com/odisha-news/rain-thunderstorm-likely-in-14-odisha-dists-over-next-3-hrs-imd/",
-      "source": "Odisha News, Odisha Breaking News, Odisha Latest N",
-      "image": "https://ommcomnews.com/wp-content/uploads/2026/10/New-Project-39-1.jpg",
-      "published": "2026-10-16 07:16:56",
+      "title": "10 Mini Camera Drones That Can Easily Fit In Your Pocket Or Backpack",
+      "description": "Want aerial vacation shots without lugging a bulky drone around? These pocket-sized camera drones fold small, fly smart, and won't eat up your whole backpack.",
+      "link": "https://www.slashgear.com/2285388/mini-camera-drone-can-fit-in-pocket-or-backpack/",
+      "source": "Slashgear",
+      "image": "https://www.slashgear.com/img/gallery/10-mini-camera-drones-that-can-easily-fit-in-your-pocket-or-backpack/l-intro-1791905511.jpg",
+      "published": "2026-10-16 10:30:00",
       "category": [
         "top",
-        "environment"
+        "technology"
       ],
       "country": [
-        "india"
+        "united kingdom",
+        "united states of america",
+        "singapore"
+      ]
+    },
+    {
+      "title": "Can this Democrat crack the code for universal healthcare?",
+      "description": "Twelve years ago, Vermont Democrats tried to make their state the first in the nation to have a single-payer government-financed healthcare system \u2014 a bold experiment to push the limits of American health coverage when Obamacare was just being launched. Their plan failed, and rebooting it became politically impossible, even in Vermont: The Democrats lost [\u2026]",
+      "link": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
+      "source": "Vox",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/GettyImages-2214082467.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Looking for a scare in Columbia? Here are 5 of the best Halloween-themed events",
+      "description": "Boo at the Zoo returns at Riverbanks Zoo and Garden this year.",
+      "link": "https://www.islandpacket.com/news/state/south-carolina/article317633615.html",
+      "source": "Islandpacket",
+      "image": "https://www.thestate.com/public/latest-news/pt06ec/picture317635179/alternates/FREE_1140/Screenshot%202026-10-15%20092105.png",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

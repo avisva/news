@@ -1,5 +1,34 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "The facts matter: this raw data is not fit for purpose",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/nation/forensic-audit-exposes-widespread-copypaste-errors-across-bureau-of-meteorology-raw-climate-data/news-story/bcc5bbe329dbcca8b6b5b23f367d1cc3",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Germany Acrylonitrile Butadiene Styrene (ABS) Market Analysis and Forecast, 2015-2030 | Demand to Hit 474.4 Thousand Tonnes as Automotive and Electronics Fuel 4.41% CAGR",
+      "description": "Investment potential driven by automotive, electronics, consumer goods and construction demand, supported by cloud-based, near real-time market insights.",
+      "link": "https://www.globenewswire.com/fr/news-release/2026/10/16/3382469/28124/en/germany-acrylonitrile-butadiene-styrene-abs-market-analysis-and-forecast-2015-2030-demand-to-hit-474-4-thousand-tonnes-as-automotive-and-electronics-fuel-4-41-cagr.html",
+      "source": "Globenewswire_fr",
+      "image": null,
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "france"
+      ]
+    }
+  ]
 }

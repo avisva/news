@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Can this Democrat crack the code for universal healthcare?",
+      "description": "Twelve years ago, Vermont Democrats tried to make their state the first in the nation to have a single-payer government-financed healthcare system \u2014 a bold experiment to push the limits of American health coverage when Obamacare was just being launched. Their plan failed, and rebooting it became politically impossible, even in Vermont: The Democrats lost [\u2026]",
+      "link": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
+      "source": "Vox",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/GettyImages-2214082467.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Child protection accused of turning a blind eye to evil lurking in Jibson Close",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/nation/everyone-knows-the-house-which-has-become-a-symbol-of-the-scourge-of-child-sex-abuse/news-story/8964d8c557cf61f403e883cc4fff3d82",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "\u2018No Kings\u2019 rally to promote early voting set Saturday in Willmar",
+      "description": "Willmar is among communities across the country holding \u2018No Kings: Vote Early\u2019 rallies on Saturday.",
+      "link": "https://www.wctrib.com/news/local/no-kings-rally-to-promote-early-voting-set-saturday-in-willmar",
+      "source": "West Central Tribune",
+      "image": "https://cdn.forumcomm.com/dims4/default/7be3e6d/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F2e%2F6c%2Fcdede48445f3bc66b4435c3a8e4b%2F1000009484.jpg",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cracking down on animal abuse",
+      "description": "PENN YAN \u2014 In a shorter-than-usual Legislature meeting Tuesday, a Finger Lakes county passed all of its resolutions in less than an hour while also holding a public hearing on a proposed local law.",
+      "link": "https://www.fltimes.com/news/cracking-down-on-animal-abuse/article_a9c97640-95ea-4167-aebb-436689a6a948.html",
+      "source": "Finger Lakes Times",
+      "image": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/5/4e/54ea84de-f9fe-11ef-8ec2-fb3e7627d2ed/67c8b09ed5cbd.image.png?resize=300%2C64",
+      "published": "2026-10-16 10:30:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

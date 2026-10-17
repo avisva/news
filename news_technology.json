@@ -1,20 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "TSA halts gateside program expansion at hundreds of airports, including Tulsa",
-      "description": "TSA has paused the expansion of its gateside program, which allowed non-ticketed individuals to pass through security to say goodbye to travelers at the gate, leaving questions about its future.",
-      "link": "https://www.koco.com/article/tsa-halts-gateside-program-hundreds-of-airports-including-tulsa/74164321",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/vidthumb/227beb9d-8233-4ce6-b2bc-6f03ebe0aa0c/792e2f6b-4bf3-4f78-a663-f087bd65661b.jpg",
-      "published": "2026-10-16 23:21:00",
+      "title": "Explained: China\u2019s Tech Export Controls\u2014Why India Should Care",
+      "description": "China proposes wider technology-export controls while requiring registration now. For India, the key issue is lasting access to technical knowledge and support.",
+      "link": "https://abclive.in/article/china-technology-export-controls-india",
+      "source": "Abc Live",
+      "image": "https://abclive.in/wp-content/uploads/2026/10/china-tech-export-controls-dinesh-singh-rawat.webp",
+      "published": "2026-10-17 02:55:41",
       "category": [
-        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
+      ]
+    },
+    {
+      "title": "Apple debuts its first foldable phone as premium iPhone Duo reservations sell out in minutes - The Standard (HK)",
+      "description": "Apple debuts its first foldable phone as premium iPhone Duo reservations sell out in minutes The Standard (HK) Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test CNBC Apple iPhone Duo Orders Slip Into 2027 Amid Preorder Frenzy Bloomberg.com iPhone Duo Preorders Begin Friday. Is Apple\u2019s First Foldable Phone Reason Alone to Buy the Stock? The Globe and Mail iPhone Duo Prices in Canada: Rogers, Telus, Bell and Freedom Compared iPhone in Canada",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcElKdnYwRTh0Vm1uR2pBNEo3LXNEUlpOeThmbTh6S3dkNHdPVmhpRU9ZQUtGMGdsQ0pyV3daUlpCUW5mS0JIc0l5N0tNSC1oakNRLTVnT05HTXh5OTF2RnNkWTdwRkI3R29JalZ2SDFpWlcyWWEzQXdKZ1RfdHBpdEpmMW9hbHR6Q3ZrX2F5QkdKT2NtTGJtSm1la1BrVEVIM2FBLVV5dWtxRml2NDR2VGZoNDBRSHMwczYybFFIZ21JVmNOdFVQSXBCZmtwcWlFeDJfeHBRYlJ1U2M?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-17 02:55:38",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

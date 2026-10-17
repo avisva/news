@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Can this Democrat crack the code for universal healthcare?",
-      "description": "Twelve years ago, Vermont Democrats tried to make their state the first in the nation to have a single-payer government-financed healthcare system \u2014 a bold experiment to push the limits of American health coverage when Obamacare was just being launched. Their plan failed, and rebooting it became politically impossible, even in Vermont: The Democrats lost [\u2026]",
-      "link": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
-      "source": "Vox",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/GettyImages-2214082467.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "published": "2026-10-16 10:30:00",
+      "title": "Rhelion Life Sciences Corp.: Rhelion Life Sciences' Wholly Owned Subsidiary Filament Health to Supply Belgium's First Psilocybin Compassionate Use Program, to Help Open the Door to Patient Access for Treatment-Resistant Depression",
+      "description": "Filament has signed an agreement to supply PEX010 to Epsylon ASBL for what the Company believes will be the first program in Belgium to give patients access to psilocybin outside a clinical trial.F...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-10/69858821-rhelion-life-sciences-corp-rhelion-life-sciences-wholly-owned-subsidiary-filament-health-to-supply-belgium-s-first-psilocybin-compassionate-use-pro-296.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-rhelion-life-sciences-corp-aktie-intraklein-hamburg.png",
+      "published": "2026-10-16 13:02:00",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "united states of america"
+        "germany"
+      ]
+    },
+    {
+      "title": "CVS Health: CVS Caremark Is Transforming the Health Care Experience",
+      "description": "WOONSOCKET, RI / ACCESS Newswire / October 16, 2026 / Originally published on CVS Health Company NewsroomHealth care consumers increasingly expect the same convenience and connectivity they experie...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-10/69858820-cvs-health-cvs-caremark-is-transforming-the-health-care-experience-200.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-cvs-health-corporation-aktie-intraklein-tradegate.png",
+      "published": "2026-10-16 13:02:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "germany"
       ]
     }
   ]

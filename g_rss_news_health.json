@@ -3,13 +3,6 @@
   "totalResults": 30,
   "results": [
     {
-      "title": "Microplastics Are Chemically Alive and Probably Up to No Good - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdfSWhsVDJWZ3NncXdRWklkQVAwVktDMTk2X1lhYUMwSUN2Zk1RR3ZlNlduOWdSSWRhM1d2TDBUdnBrN3dUNmtuSUZmeEtuOFNtVUUzTFlUWC1MRFJsMUxwR3E5SzNfUXBDRklIM0N3ZHlISkxrMkVWZHNJTmU0clZFQVMxdGREcS1Hb2hNT1BVRzZCUmRn?oc=5",
-      "published": "Fri, 16 Oct 2026 20:00:06 GMT",
-      "source": "Gizmodo",
-      "category": "health"
-    },
-    {
       "title": "New Clinical Standards in Biliary Cancer Management - EMJ",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRm1RaTBCSWVScUdSd0hRNG4tYlBpN2FCWHZfMXFnUHVhNVFsQVlNVTlsdHFkUU1EYVJJQklpVmVTeVczUUp0NDNqMFBvQzRuTUwtMjZiOXNXSWtZYWFWSVl5VEo0ejNvcG1HRmlnemlHVDdaRVAxWTlnbGZrYmlURUFQZFF4VndDRHhMZzJUUk9oX0Z5YWR5Xw?oc=5",
       "published": "Fri, 16 Oct 2026 08:02:00 GMT",
@@ -21,6 +14,13 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU5qZFZkR000WUFiZlQyNVV6VlZwWVpIaC1UdDlVeVNTT0RWNXhXTnUzNDFPcUNiVjBhNW5WOTVTYjhrNnpkbDN1b3FDcVB3RGRkTThfc2lIeU9ZSkFHZTczOVJMOGkzVEF4dkV3eWcwSEVuVlMxLTgxWG9OVWsxNzBpUUU3UFpSWktWSjE5Z1ZjQnBVR2ItZ2FVal9yM3ZEZXB3RGxvTQ?oc=5",
       "published": "Fri, 16 Oct 2026 04:00:00 GMT",
       "source": "Cancer Therapy Advisor",
+      "category": "health"
+    },
+    {
+      "title": "Scientists discover water-triggered reactions that may explain microplastic harm - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFNGdW55cUpGQURkZnJ1LWR5ZDRUYmZWUzBlRlZPandCU0RNeWNLYUNTT205UXZWTmkxX3hWTy05cU5ObWRjWFN0RkdNNjJMT2M2aWwybkF2VHFHcGJlMlNPa0lyd1JkZjk4ejVVb1hySm1iRlZYd0ZOV3Y5VlhuejJrOXhCQ1MtaVZRbzc4Um5xckVnSGJuZzBpS1RoSG55TUhtMHVHdEtwakFUOVNUSGRPTlJsaE5WMUwwejN4Q2lIUm5qYkFB?oc=5",
+      "published": "Fri, 16 Oct 2026 00:47:00 GMT",
+      "source": "News-Medical",
       "category": "health"
     },
     {
@@ -52,10 +52,10 @@
       "category": "health"
     },
     {
-      "title": "Body pain rises most sharply before age 55, study suggests - Awaz The Voice",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcF9CaHpubmw3NXN6VjI2SzVTXzhlNzJYWkpXZUx0aTNkbGN6MGIwYmtTOFZiaE9PWk1JYmRXaGlkbnRYNXViVmp0b0RoQW5FeVNBOUFaNFhtUXozYzBFQUs1MkFyV0pQMFFna211Ri0zVlFUVkFCX0tHTkRKNjhJRU51cVQ0UVhMR0pLQ25CYWg1cFVzbS1RUEFCcW15eTJ2ZG1PX2RXV3o?oc=5",
-      "published": "Fri, 16 Oct 2026 05:34:02 GMT",
-      "source": "Awaz The Voice",
+      "title": "A dengue vaccine is now available for travelers. Here's what you need to know - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvWHJhVy12M1NEcDZhaUQxTFNpcllIckViRjFONm1Qd0V4OFpwOWV1VHAtcGNJVW9MZURXYTYxSDVQOWR1MHVxZFZCQnpsbzFlWFZxaHR0aDdMeXVXajZ5RFFoaHdwaXB2bFE?oc=5",
+      "published": "Fri, 16 Oct 2026 13:40:04 GMT",
+      "source": "Medical Xpress",
       "category": "health"
     },
     {
@@ -66,24 +66,17 @@
       "category": "health"
     },
     {
+      "title": "Body pain rises most sharply before age 55, study suggests - Awaz The Voice",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcF9CaHpubmw3NXN6VjI2SzVTXzhlNzJYWkpXZUx0aTNkbGN6MGIwYmtTOFZiaE9PWk1JYmRXaGlkbnRYNXViVmp0b0RoQW5FeVNBOUFaNFhtUXozYzBFQUs1MkFyV0pQMFFna211Ri0zVlFUVkFCX0tHTkRKNjhJRU51cVQ0UVhMR0pLQ25CYWg1cFVzbS1RUEFCcW15eTJ2ZG1PX2RXV3o?oc=5",
+      "published": "Fri, 16 Oct 2026 05:34:02 GMT",
+      "source": "Awaz The Voice",
+      "category": "health"
+    },
+    {
       "title": "Autoimmune Disease: Women Less Likely to Receive Accurate Diagnosis - Healthline",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmhKdlRkT0VSOEtJTEJNRk80SGxacUVmSWpUUXprSzVMbDFKS3R4VnBEaTF2Z0JDc3VHMzh3cTJHR3plOTlzRG1rQnk4MVFzMUtmWl91N0JJcmZXMFZkdGIxX0RLMmUxcG5idmlndUZLd2I4M2EyMDA3cU9OZk5VdW5tdVg1eElIclJuYjZIczhpZw?oc=5",
       "published": "Fri, 16 Oct 2026 16:12:05 GMT",
       "source": "Healthline",
-      "category": "health"
-    },
-    {
-      "title": "Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds - ScienceAlert",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5",
-      "published": "Fri, 16 Oct 2026 13:00:38 GMT",
-      "source": "ScienceAlert",
-      "category": "health"
-    },
-    {
-      "title": "At least 10 students die as Ebola outbreak spreads in DR Congo - Africanews English",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzRKMWw2aTVPVU9VVXdBUzdITHAwaUF6WmtGVFA0NDU3Qkp2ckZGOHdKR1VGdTROQTA3WkN5RTJyS2ItQmhpN2hQNHNNcUNZVW1kakU0REpobGdQaG9mR0RkRmlud0VSWk9SNi1tRkJtTTFtd2J3RVdhYldscHpvdkxkY1d2dUIycFVDeHJwM1ZZdTh3RllrM2k3WVhiT3g5TEd3?oc=5",
-      "published": "Fri, 16 Oct 2026 04:52:02 GMT",
-      "source": "Africanews English",
       "category": "health"
     },
     {
@@ -94,6 +87,13 @@
       "category": "health"
     },
     {
+      "title": "At least 10 students die as Ebola outbreak spreads in DR Congo - Africanews English",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzRKMWw2aTVPVU9VVXdBUzdITHAwaUF6WmtGVFA0NDU3Qkp2ckZGOHdKR1VGdTROQTA3WkN5RTJyS2ItQmhpN2hQNHNNcUNZVW1kakU0REpobGdQaG9mR0RkRmlud0VSWk9SNi1tRkJtTTFtd2J3RVdhYldscHpvdkxkY1d2dUIycFVDeHJwM1ZZdTh3RllrM2k3WVhiT3g5TEd3?oc=5",
+      "published": "Fri, 16 Oct 2026 04:52:02 GMT",
+      "source": "Africanews English",
+      "category": "health"
+    },
+    {
       "title": "How AI platform allows conversation between patients and medical devices - Medical Buyer",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDBrT2kwYm5QcVgxT3l5NjRNV0k2aFRaMEtLcEVBV0diU25FX2M1amx4N25sS0FVTU05alZGeWJqRFcwTlVBbDgtMTR2OXdPSy1rMTh1RjhlTy1NWHVIekZiZjJIbnE2eXB0ZWlRdjNKRW5qeWYyYjdtbl9XT2lFX0RVTjFlNE96M0p6Ylc3aUwtZ2tZU0lyNGxhcW00U1RKaEE?oc=5",
       "published": "Thu, 15 Oct 2026 17:09:56 GMT",
@@ -101,10 +101,10 @@
       "category": "health"
     },
     {
-      "title": "A dengue vaccine is now available for travelers. Here's what you need to know - Medical Xpress",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvWHJhVy12M1NEcDZhaUQxTFNpcllIckViRjFONm1Qd0V4OFpwOWV1VHAtcGNJVW9MZURXYTYxSDVQOWR1MHVxZFZCQnpsbzFlWFZxaHR0aDdMeXVXajZ5RFFoaHdwaXB2bFE?oc=5",
-      "published": "Fri, 16 Oct 2026 13:40:04 GMT",
-      "source": "Medical Xpress",
+      "title": "Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5",
+      "published": "Fri, 16 Oct 2026 13:00:38 GMT",
+      "source": "ScienceAlert",
       "category": "health"
     },
     {
@@ -129,13 +129,6 @@
       "category": "health"
     },
     {
-      "title": "You look healthy but have fatty liver? Here's why even lean people can develop MASLD - The Week",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObkl5MnpjWE95eDZGZnl3NUJ1b3RLbndreEpEQjJfZVdVcXdtSVFqQlk0RFNSM0tMR0NpdHZjckVSVTZvc0JPM2lXR01oeWFOQUtmX21hYWtHMEVNbUFYd1JwOFhJQ0tsV3BWeXNmNWpDNTA1bVdOVFVBa2FQbHZiZzZDYmI4ZWJ4TmJ6cVRwMHZGMU9UWGw0OHZNbUhXQlZmeTlpWm5rcmcwNmVIT1dDM3NBVUxkUlpCQWxOQnRwb00yVnQ4TGpEeHVjNGlHQdIB0wFBVV95cUxOZ1Blbl9aY1Q0LXBGMTVrMmhTZlRWNE9CRjNCdmRRT1hFVExpMEVvLWVQanlIbzBwb1F0Rk5uUjY4eWJZbEVPcTF1aHZmcjJaQ29PNUJxRk5wNUV1NmNBbWhmTVNTLTRwM2l6blJWRmhMM1VzSTFla2NlN2NMem9SbGZDaHVzVzUwWVFieHFJai1mamxFNldMRHAySDZEclc3VTc1WDlWTkEwNXd3Yi11QkthRkxkaEdGWlNRdlpyZjFsdU82Y3E5TUQ4TFJLR2o4Rklz?oc=5",
-      "published": "Fri, 16 Oct 2026 15:49:31 GMT",
-      "source": "The Week",
-      "category": "health"
-    },
-    {
       "title": "Workshop on HPV vaccination held at Kiphire - Nagaland Tribune",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WSFQ1MG1iUk5Fa1g2S21ZbkNjOFV6d2FHaHdmYkljWDc3RGN5OFRyMWRDRVZyZDJCYVluTHpRU04tY21FbFhaY3Ric3dHcFh3ejV3VDhfam94SmwybXdVYVRibTZPN1BEUUUzb0lkeVZqcm9KbzJfSlVfZw?oc=5",
       "published": "Mon, 12 Oct 2026 14:30:59 GMT",
@@ -143,10 +136,10 @@
       "category": "health"
     },
     {
-      "title": "Has the world escaped COVID-19's grip? - Down To Earth",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbFIydHF5cG5EdTFFZ3hmQ2lpRTE0LS0zVGNfamg1bGY0X0pKa3otalpxUFNOOHdqcTVvcEdaSDJIOVFfRFlIVG5kT0o5Rk9VdS1fNWYwMDZEQlY1LUtEUndsMUNKQ1RvQ3FhaVZXSmNuYlpMMEdSRzAwT0ZRUlnSAYwBQVVfeXFMUHZndXJtcjVfYmFWSDQ3cmFPdWtOd0JlcDcxeG5UQmYtVlVFZVBoZUJnbXZUOHVnQXlRX2FzZUJvb1JNNFM1UVVzbG5NckNYU0M5eDVSZG55Mk1sRlVVVmFScFhpNk55WG5QMmhlS3NuRldON293R2ozckFlRFpLTVVHVnpCczlHbXhJblE?oc=5",
-      "published": "Thu, 15 Oct 2026 11:40:01 GMT",
-      "source": "Down To Earth",
+      "title": "Ageing doesn\u2019t have to slow your knees down, here\u2019s what helps - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5",
+      "published": "Thu, 15 Oct 2026 14:56:42 GMT",
+      "source": "The New Indian Express",
       "category": "health"
     },
     {
@@ -164,6 +157,13 @@
       "category": "health"
     },
     {
+      "title": "You look healthy but have fatty liver? Here's why even lean people can develop MASLD - The Week",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObkl5MnpjWE95eDZGZnl3NUJ1b3RLbndreEpEQjJfZVdVcXdtSVFqQlk0RFNSM0tMR0NpdHZjckVSVTZvc0JPM2lXR01oeWFOQUtmX21hYWtHMEVNbUFYd1JwOFhJQ0tsV3BWeXNmNWpDNTA1bVdOVFVBa2FQbHZiZzZDYmI4ZWJ4TmJ6cVRwMHZGMU9UWGw0OHZNbUhXQlZmeTlpWm5rcmcwNmVIT1dDM3NBVUxkUlpCQWxOQnRwb00yVnQ4TGpEeHVjNGlHQdIB0wFBVV95cUxOZ1Blbl9aY1Q0LXBGMTVrMmhTZlRWNE9CRjNCdmRRT1hFVExpMEVvLWVQanlIbzBwb1F0Rk5uUjY4eWJZbEVPcTF1aHZmcjJaQ29PNUJxRk5wNUV1NmNBbWhmTVNTLTRwM2l6blJWRmhMM1VzSTFla2NlN2NMem9SbGZDaHVzVzUwWVFieHFJai1mamxFNldMRHAySDZEclc3VTc1WDlWTkEwNXd3Yi11QkthRkxkaEdGWlNRdlpyZjFsdU82Y3E5TUQ4TFJLR2o4Rklz?oc=5",
+      "published": "Fri, 16 Oct 2026 15:49:31 GMT",
+      "source": "The Week",
+      "category": "health"
+    },
+    {
       "title": "Childhood pneumonia: A preventable disease that still takes too many young lives - Express Healthcare",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjlOZFdmbDFjMGNMNlF1LVRQM1dPMFR4ck9hZjhvUUY4ZzBPVWlSNHpzUDkxS0daVjJuOV9nWk92Q2E4VjVablBMRVFudWZOZmZITVUzbi1DSjhzM2VEZW15LTBCdW4wY2VhN0k4NF9USDZNTFhXUlVzR0pkdVFZVmJDYnJUZUYxQ3ZvWTNiY3U2cXRaQzFMTm5EcDE5SEVoTDNuY2JYamFtY21ab0w4NnVPdTBhbXJNMW5BLWpUS0dlUU0?oc=5",
       "published": "Thu, 15 Oct 2026 11:50:37 GMT",
@@ -171,10 +171,24 @@
       "category": "health"
     },
     {
+      "title": "Has the world escaped COVID-19's grip? - Down To Earth",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbFIydHF5cG5EdTFFZ3hmQ2lpRTE0LS0zVGNfamg1bGY0X0pKa3otalpxUFNOOHdqcTVvcEdaSDJIOVFfRFlIVG5kT0o5Rk9VdS1fNWYwMDZEQlY1LUtEUndsMUNKQ1RvQ3FhaVZXSmNuYlpMMEdSRzAwT0ZRUlnSAYwBQVVfeXFMUHZndXJtcjVfYmFWSDQ3cmFPdWtOd0JlcDcxeG5UQmYtVlVFZVBoZUJnbXZUOHVnQXlRX2FzZUJvb1JNNFM1UVVzbG5NckNYU0M5eDVSZG55Mk1sRlVVVmFScFhpNk55WG5QMmhlS3NuRldON293R2ozckFlRFpLTVVHVnpCczlHbXhJblE?oc=5",
+      "published": "Thu, 15 Oct 2026 11:40:01 GMT",
+      "source": "Down To Earth",
+      "category": "health"
+    },
+    {
       "title": "Possible HIV Exposure? Why PEP Treatment Must Begin Within 72 Hours - News18",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTlJiUC05WEJIZTV6SEtPZ1BiMXJWaXlwdnFzTUxGck94dTIwcXVfcmRIbU42U0ozWDBKc1A4T3JPMmY3RWVQWW9OVmY0eGxOcGRzc2tYUG9wcDYwV01OVWhpV0VDWlpYVTNnSVVqcm5ZWmxQX0ZQU2lKQ19MNjhJam5ISzhNanVKbWxBNHg0UUg5MmV0WTJIQ1dWUk5ZcHo2ZjJqbzRFTTRHOEZaa0lUdkFXaHN1VmJ5VnBvSklFbHFEajBlTmE0X01vczFpLVRLQzkydjZkMzVwaTQzT1HSAeMBQVVfeXFMTnNYal9DeExJbXd6LXJTTTdnQzY5TU5La1IxOF96d3pEa0FWOHVpa0dpTTBMQWQ5WGNJNHFxWmtLSGJzMkN1a2xPYW9MTGRGdGFxNDU0aGJfQnQ4UXZUdmpVSTFPLXFUUFdSUmNwMVZ2TDFLV0RsZmZyc0tGZ3MzaHV4ckdmUVpXREpZbU5KbzNXMFl2UnlqVVZRU1BnMFN5ZHVFSkswbHdyQm5FSzd5NW1pVHE2ZE5nYVRzV0xSVEVrc3RKeEtjMTFINjljWHRMX1Y4MjdQYWVxbnVJNmpiSEFGRzg?oc=5",
       "published": "Thu, 15 Oct 2026 13:30:59 GMT",
       "source": "News18",
+      "category": "health"
+    },
+    {
+      "title": "Supplement Interactions Common in Patients with Lupus - EMJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkNrOXNOVVpqMVU2cU5vcDVEdDVvUlRfR0xJQ3NNNFhSMW1uN05ld2tHbEtRYnkxbkxZWEl2N0xTanM3S2pMbjFfcXBDVTVmbTM3b2wxLWlQeEhIc2w4eEJxaG9mdklxYzJUOURPbG1EREMxTk51a2Y5TWQyc1FaWXJRTnZoUlB0c2hXSVRqeFNoM2c1NlFwelNEc3Zpd3M?oc=5",
+      "published": "Thu, 15 Oct 2026 12:05:37 GMT",
+      "source": "EMJ",
       "category": "health"
     },
     {
@@ -192,24 +206,10 @@
       "category": "health"
     },
     {
-      "title": "Supplement Interactions Common in Patients with Lupus - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkNrOXNOVVpqMVU2cU5vcDVEdDVvUlRfR0xJQ3NNNFhSMW1uN05ld2tHbEtRYnkxbkxZWEl2N0xTanM3S2pMbjFfcXBDVTVmbTM3b2wxLWlQeEhIc2w4eEJxaG9mdklxYzJUOURPbG1EREMxTk51a2Y5TWQyc1FaWXJRTnZoUlB0c2hXSVRqeFNoM2c1NlFwelNEc3Zpd3M?oc=5",
-      "published": "Thu, 15 Oct 2026 12:05:37 GMT",
-      "source": "EMJ",
-      "category": "health"
-    },
-    {
-      "title": "From gut microbiome to better health-FMT opens new possibilities - Express Healthcare",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWM5ZHU4cWJXbFl4Q253eVdYME03WFlXZDlPYWtjaG5HTTN4aUdhSFpyUWQ1X1ptR2IzR21RVlQ2azNXejE0VXI1SF9QMlR0V2JrVjdDMlVweEZwSXpoc3FaOTBKRHFsMHNpdlFCMXBYWWI2VUlpdUdNU3p0dURtTHBtTHBSbFZGYTdmZWpCZDg1X2RIVW1pNTN0Ym9jZ2RrYzBnaTREWXFqdEtwajg4Qll1Z0lldk0?oc=5",
-      "published": "Thu, 15 Oct 2026 05:38:23 GMT",
-      "source": "Express Healthcare",
-      "category": "health"
-    },
-    {
-      "title": "Surge in West Nile Virus Cases Brings Severe Neurological Risks - EMJ",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1lWbnRaeFFPT1BUMHUtY3hEN0RtZ3drOUJpalMzZk5xOXVGWk8zeWg2ODNidHAwVXpmb3o0dkVIV3RmTUduRGVLcTl3ZEFZVGRnNl9HcUI5dDZScldrMDFQWDhhUWpjRnAyQnpId3lJbjhOM0QxZElzY0FRWjM1NlBSWkxJUmRfczJFVkVmSG1Rb1RmYUFNQTQ3YkhaUFRsaDcwLW4tQ2VuTVdPLS01dVI5WG43RkxuRWw1LXFLNGl5V0NRY3Q4Qg?oc=5",
-      "published": "Wed, 14 Oct 2026 13:33:47 GMT",
-      "source": "EMJ",
+      "title": "Two FDA-approved drugs for MASH: How should doctors choose? - UCLA Health",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0lZVW5RWkZERkdLZ0ZTbmswUWlGcEtXRXQxSTQ2MTZiWlBWSlRpdi1yZ3lBbmMzcHFlV3dGaGgySjhoWEplM3dFSXdMT1EzSDJXR0NWdDBtTU5jSHBVOEdrR01EU2Q4Y2FYTWtIem9LVThNUmN0SGZ0STR0UDRBMjNPNkFyOWxqWVJFam5UUWJfTXV6bWNhVg?oc=5",
+      "published": "Mon, 12 Oct 2026 21:31:57 GMT",
+      "source": "UCLA Health",
       "category": "health"
     }
   ]

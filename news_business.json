@@ -1,20 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Social Security's 2027 COLA Rises 3.6%, but Medicare Costs Could Eat Into Retirees' Extra $75 a Month",
-      "description": "US Social Security benefits are due to rise 3.6% in 2027, adding about $75 monthly for the average retired worker, while higher Medicare costs could reduce the increase.",
-      "link": "https://www.ibtimes.co.uk/social-securitys-2027-cola-rises-36-medicare-costs-could-eat-retirees-extra-75-month-1826209",
-      "source": "International Business Times",
-      "image": "https://d.ibtimes.co.uk/en/full/1837376/social-security-card.png?w=1600&h=900&q=88&f=56d6c5eefc6932a8c4f9118a98e4a785",
-      "published": "2026-10-18 02:16:43",
+      "title": "Interview mit Annchristin Jahnel, HSBC",
+      "description": "https://www.finanzen.net/specials-advertorials/specials/female-finance/interview-mit-annchristin-ja ...",
+      "link": "https://www.finanzen.net/nachricht/aktien/werbung-interview-mit-annchristin-jahnel-hsbc-14252845",
+      "source": "Finanzen",
+      "image": null,
+      "published": "2026-10-18 05:48:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "MediAsas plan to offer financial, health safety net to Malaysia's M40: Dzulkefly",
+      "description": "KUALA LUMPUR: The MediAsas Plan scheme, set to launch in January 2027, will provide a financial and healthcare safety net for Malaysia's middle-income group (M40), who are currently facing medical inflation.",
+      "link": "https://www.nst.com.my/business/economy/2026/10/1558163/mediasas-plan-offer-financial-health-safety-net-malaysias-m40",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/89525A9A0071C9EBDF9E36346548F2AC_data_0.jpg",
+      "published": "2026-10-18 05:47:57",
       "category": [
         "business",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Gold Investment Rebounds as Stock Volatility Grows",
+      "description": "Gold holdings at Korean banks' gold banking accounts rose to 9,184 kg as KRX gold prices fell 33.6% from January's peak.",
+      "link": "https://en.sedaily.com/finance/2026/10/18/gold-investment-rebounds-as-stock-volatility-grows",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/cms/2026/10/18/news-p.v1.20260930.59a887ed072249d19d558b2eb3a5e1e5_P1.jpg",
+      "published": "2026-10-18 05:47:52",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "south korea"
       ]
     }
   ]

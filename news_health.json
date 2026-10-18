@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Vatican says Pope Leo to be released from the hospital Saturday, 4 days after lung cancer surgery",
+      "description": "Pope Leo XIV is being released from the hospital on Saturday after lung cancer surgery.",
+      "link": "https://abc7chicago.com/post/pope-leo-lung-cancer-surgery-update-released-hospital-deliver-noon-blessing-overlooking-st-peters-square/19947567/",
+      "source": "Abc 30",
+      "image": "https://cdn.abcotvs.com/dip/images/19947513_16f96075-67bc-4be0-9f92-9b3976ef037a.jpg",
+      "published": "2026-10-17 12:36:52",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

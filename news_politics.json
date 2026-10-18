@@ -1,14 +1,29 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "CENTCOM Claims Iran Unable to Finance Proxy Militia Amid US Naval Blockade",
-      "description": "While the US claims its control over the Strait, earlier today, Iran\u2019s Islamic Revolutionary Guard Corps stated that an \u201cillegal supertanker\u201d carrying more than two million barrels of crude oil was hit by a sea mine while attempting to pass through the \u201cunauthorised\u201d Strait of Hormuz.",
-      "link": "https://www.republicworld.com/world-news/centcom-claims-iran-unable-to-finance-proxy-militia-amid-us-naval-blockade-2026-10-17-139145",
-      "source": "Republic World",
-      "image": "https://img.republicworld.com/all_images/2026/10/centcom-claims-iran-unable-to-finance-proxy-militia-amid-us-naval-blockade-1792234301520-1280x720.webp",
-      "published": "2026-10-17 10:51:50",
+      "title": "Egypt's Sisi says they are ready to defend Saudi Arabia",
+      "description": "Egyptian President Abdel Fattah el-Sisi said on Saturday that Cairo is prepared to take any action requested by Saudi Arabia to safeguard its security and sovereignty.",
+      "link": "https://www.azernews.az/region/265738.html",
+      "source": "Azernews",
+      "image": "https://www.azernews.az/media/2026/10/17/407931.png",
+      "published": "2026-10-17 12:37:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "title": "In Photos | Gyanesh Kumar Resignation Protests Spread From Delhi To Hyderabad, Srinagar",
+      "description": "Demonstrators took to the streets in New Delhi, Hyderabad and Srinagar on Saturday, October 17, over demands including the resignation of Chief Election Commissioner Gyanesh Kumar. In New Delhi, Justice Morcha members, students and youth activists marched from the Press Club of India to Jantar Mantar under the banner \u2018Reclaim Jantar Mantar\u2019, while police detained demonstrators. Student activists were also detained during a protest in Hyderabad. In Srinagar, Congress workers protested against the election chief and an administrative officer accused of abusing a female colleague. Women in Delhi separately marched against alleged police brutality against women protesters.",
+      "link": "https://www.outlookindia.com/national/in-photos-gyanesh-kumar-resignation-protests-spread-from-delhi-to-hyderabad-srinagar",
+      "source": "Outlook",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-10-17/4hoadcdh/Protest-against-CEC-Gyanesh-kumar1.jpg",
+      "published": "2026-10-17 12:36:59",
       "category": [
         "top",
         "politics"
@@ -18,18 +33,33 @@
       ]
     },
     {
-      "title": "J-K Mahila Congress Workers Stage Protest Against IAS Officer, CEC",
-      "description": "Mahila Congress Leaders Demand Action Following Allegations Against High-Ranking Officials in Jammu & Kashmir",
-      "link": "https://www.outlookindia.com/national/j-k-mahila-congress-workers-stage-protest-against-ias-officer-cec",
-      "source": "Outlook",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-10-12/968l82jh/Protest-in-support-of-CEC-in-Srinagar.jpg",
-      "published": "2026-10-17 10:51:26",
+      "title": "Scuffles break out as protesters rally across France, joining students",
+      "description": "PARIS (AP) \u2014 Scuffles broke out Saturday in Paris between police and small groups of protesters joining a march as part of nationwide demonstrations against rising living costs and in support of high school students\u2019 grievances.",
+      "link": "https://www.local10.com/news/2026/10/17/protesters-across-france-rally-over-rising-living-costs-joining-students-grievances/",
+      "source": "Local 10 News",
+      "image": "https://www.local10.com/resizer/v2/Q5R6RY2USV6PI35JXUNQP3VEBE.jpg?auth=ef52a7e411578a49ea0a0b54d1a6d70eccf1221279879fc736d45deb37742665&smart=true&width=1200&height=900",
+      "published": "2026-10-17 12:36:55",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "india"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "'No Kings' movement seeks to boost early voting",
+      "description": "As Americans begin casting their ballots in the midterm elections, the prominent \"No Kings\" anti-Trump movement is organizing thousands of rallies Saturday to get voters fired up.",
+      "link": "https://www.thestandard.com.hk/world/article/345754/No-Kings-movement-seeks-to-boost-early-voting",
+      "source": "The Standard \u82f1\u6587\u864e\u5831",
+      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/b9693e27bda8e8cb01c268c9a5899456/2026-10/AFP__20261017__2300040401__v1__HighRes__PresidentTrumpSpeaksAtAnRncEventAtMarALago.jpg",
+      "published": "2026-10-17 12:36:54",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "hong kong"
       ]
     }
   ]

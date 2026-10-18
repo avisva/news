@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "KTR extends medical support to 13-year-old boy with brain cancer",
+      "description": "K.T. Rama Rao pledges support as 13-year-old Vinay seeks advanced brain cancer treatment at Sindhu Hospital.",
+      "link": "https://www.thehindu.com/news/national/telangana/ktr-extends-medical-support-to-13-year-old-boy-with-brain-cancer/article71599456.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/6anbi0/article71599455.ece/alternates/FREE_1200/KTR%20medical%20.jpeg",
+      "published": "2026-10-18 10:43:49",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

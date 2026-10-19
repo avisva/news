@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Want To Understand Clare Waight Keller\u2019s Vision For Uniqlo? Look To The Details",
+      "description": "The creative director explains how cut, colour, materiality are shaping her vision for Uniqlo LifeWear",
+      "link": "https://www.elle.com/uk/fashion/a73977101/uniqlo-clare-waight-keller-aw26/",
+      "source": "Elle Uk",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/f36cd681-0d97-4d10-9747-28299aaebbdb.jpg",
+      "published": "2026-10-19 10:51:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "The Wiggles announce huge UK tour with show at M&S Bank Arena",
+      "description": null,
+      "link": "https://www.liverpoolecho.co.uk/whats-on/wiggles-announce-huge-uk-tour-34784028",
+      "source": "Liverpool Echo",
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34384733.ece/ALTERNATES/s615/0_JS311838404.jpg",
+      "published": "2026-10-19 10:50:45",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

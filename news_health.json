@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Scientists discover a surprising hormonal connection between cats and their owners",
-      "description": "Cat owners whose cats had more of a bonding hormone felt fewer bad moods, hinting at a link between cats and people.",
-      "link": "https://www.earth.com/animals/scientists-discover-a-hidden-connection-between-cats-and-their-owners/",
-      "source": "Earth.com",
-      "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/10/18084553/cat-owner-bond.jpg",
-      "published": "2026-10-18 12:46:25",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

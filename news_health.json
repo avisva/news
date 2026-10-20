@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Melania Trump announces White House Women\u2019s health initiative",
+      "description": "Melania Trump, the first lady, made a rare Rose Garden appearance Monday to announce a new White House initiative to advance women\u2019s health, two weeks before a midterm election in which polls show that just one-third of American women express support for President Donald Trump and the Republican Party. The post Melania Trump announces White House Women\u2019s health initiative appeared first on West Hawaii Today.",
+      "link": "https://www.westhawaiitoday.com/2026/10/20/nation-world-news/melania-trump-announces-white-house-womens-health-initiative/",
+      "source": "West Hawaii Today",
+      "image": "https://www.westhawaiitoday.com/wp-content/uploads/sites/8/2026/10/web1_2026-10-19T174841Z_155525593_RC2F6OAH16AM_RTRMADP_3_USA-TRUMP.jpg",
+      "published": "2026-10-20 10:05:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Eagles QB Jalen Hurts has blood clots in lungs, out for season",
+      "description": "Philadelphia Eagles quarterback Jalen Hurts will miss the rest of the season after further testing revealed blood clots in his lungs, the team announced Monday. The post Eagles QB Jalen Hurts has blood clots in lungs, out for season appeared first on West Hawaii Today.",
+      "link": "https://www.westhawaiitoday.com/2026/10/20/sports/eagles-qb-jalen-hurts-has-blood-clots-in-lungs-out-for-season/",
+      "source": "West Hawaii Today",
+      "image": "https://www.westhawaiitoday.com/wp-content/themes/2024-westhawaiitoday-child/media/img/brand/default-logo.png",
+      "published": "2026-10-20 10:05:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

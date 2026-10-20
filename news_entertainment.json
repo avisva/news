@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Filmfare Exclusive: Maya Surendra Pupala: \u201cDeepak Sawant and I Dressed Her Up Like a Bride\u201d | Filmfare.com",
+      "description": "In an exclusive chat with Filmfare, Hairdresser Maya Surendra Pupala remembers her \u2018Mityama\u2019, Smita Patil",
+      "link": "https://www.filmfare.com/news/bollywood/filmfare-exclusive-maya-surendra-pupala-deepak-sawant-and-i-dressed-her-up-like-a-bride-86696.html",
+      "source": "Filmfare",
+      "image": "https://filmfare.wwmindia.com/thumb/content/2026/oct/mayasurendrapupaladeepaksawantandidressedheruplikeabridethuuu1792476294.jpg?width=1280&height=720",
+      "published": "2026-10-20 06:18:57",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

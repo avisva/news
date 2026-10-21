@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Brits forced to ration vital pill after blood pressure medication warning",
+      "description": "A wide range of vital blood pressure and heart medications available to NHS patients are in short supply.",
+      "link": "https://www.express.co.uk/news/uk/2259047/brits-ration-pill-blood-pressure-medication-warning",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2259047_1.jpg",
+      "published": "2026-10-21 10:04:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

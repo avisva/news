@@ -1,63 +1,87 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Digitalist Group structures its financing",
-      "description": "Digitalist Group Plc Inside information 20 October 2026 at 13:05",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/10/20/3384172/0/en/digitalist-group-structures-its-financing.html",
-      "source": "Globenewswire_fr",
+      "title": "BBC to axe key TV channels in cost-cutting drive",
+      "description": "Corporation set to cut BBC Three and BBC Scotland as part of move to save \u00a3500m",
+      "link": "https://www.independent.co.uk/news/uk/home-news/bbc-three-scotland-radio-4-extra-closing-b3069925.html",
+      "source": "The Independent",
       "image": null,
-      "published": "2026-10-20 10:05:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "france"
-      ]
-    },
-    {
-      "title": "Starling Bank founder sold last shares at cut-price \u00a31.7bn valuation",
-      "description": "The founder of Starling Bank offloaded her final shares in the digital lender at a valuation less than half the price it was reportedly seeking in its last major secondary share sale.",
-      "link": "https://news.sky.com/story/starling-bank-founder-sold-last-shares-at-cut-price-17bn-valuation-13601284",
-      "source": "Skynew",
-      "image": "https://e3.365dm.com/22/09/1920x1080/skynews-anne-boden-starling_5907581.jpg?20220922115339",
-      "published": "2026-10-20 10:05:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Xinhua Silk Road: Beijing financial forum highlights openness, cooperation and inclusiveness",
-      "description": "BEIJING, Oct. 20, 2026 /PRNewswire/ -- When the Annual Conference of Financial Street Forum 2026 opened on Monday, a crowd of high-profile guests gathered in Beijing to exchange views and build consensus on financial openness, cooperation and inclusiveness. Under the theme \"Building an...",
-      "link": "https://www.prnewswire.co.uk/news-releases/xinhua-silk-road-beijing-financial-forum-highlights-openness-cooperation-and-inclusiveness-302913816.html",
-      "source": "Pr Newswire Uk",
-      "image": "https://mmx.prnewswire.com/media/MS2016940/20261020051717EDT_image_1.jpg?id=OA3028927&p=original",
-      "published": "2026-10-20 10:05:00",
-      "category": [
-        "technology",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "World Bank Group Mobilises US$1.2 Billion in Uzbekistan",
-      "description": "The World Bank Group mobilised US$1.2 billion in private capital in Uzbekistan in fiscal 2026, supporting energy, industry and small business financing.",
-      "link": "https://www.uzdaily.uz/en/world-bank-group-mobilises-us12-billion-in-uzbekistan/",
-      "source": "Uzdaily",
-      "image": "https://www.uzdaily.uz/media/filer_public/4c/56/4c561d29-c8a5-4d4e-a567-f59ac314e528/usdollarbenscripps_20260613102058.webp",
-      "published": "2026-10-20 10:05:00",
+      "published": "2026-10-20 13:16:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "uzbekistan"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Switzerland\u2019s First Retail Bitcoin ETF Gets Regulatory Green Light",
+      "description": "Switzerland has approved its first retail spot bitcoin exchange-traded fund (ETF), opening a regulated investment vehicle previously unavailable to ordinary investors under Swiss fund law. Announced on Tuesday, the decision includes an exemption from standard diversification requirements, allowing a public fund to concentrate directly on bitcoin. Regulators are simultaneously demanding stronger custody safeguards, investor disclosures, [\u2026]",
+      "link": "https://news.bitcoin.com/regulation-and-legal/switzerlands-first-retail-bitcoin-etf-gets-regulatory-green-light/",
+      "source": "Bitcoin News",
+      "image": null,
+      "published": "2026-10-20 13:15:56",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "japan",
+        "south korea",
+        "singapore",
+        "united states of america",
+        "united kingdom",
+        "china",
+        "canada",
+        "france",
+        "australia",
+        "germany"
+      ]
+    },
+    {
+      "title": "Walkers launches new 'luxury' crisp range with 4 flavours in supermarkets",
+      "description": "Walkers has launched a new premium crisp range which will be available to buy in Morrisons, Tesco and at Ocado.",
+      "link": "https://www.echo-news.co.uk/news/26653701.walkers-launches-new-premium-crisp-range-4-flavours/",
+      "source": "Southend Echo",
+      "image": "https://www.echo-news.co.uk/resources/images/21604660/",
+      "published": "2026-10-20 13:15:50",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Gujarat Dy CM meets Nippon Steel chairman in Tokyo, discusses expansion opportunities",
+      "description": "The meeting is part of the state government\u2019s efforts to attract Japanese investment ahead of the upcoming Vibrant Gujarat Global Summit.",
+      "link": "https://www.thehansindia.com/news/national/gujarat-dy-cm-meets-nippon-steel-chairman-in-tokyo-discusses-expansion-opportunities-1134200",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/10/20/1715577-deputy-chief-minister-harsh-sanghavi-1.webp",
+      "published": "2026-10-20 13:15:50",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Her Hospital\u2019s 403(b) Will Charge a 63-Year-Old Nurse $31,000 to Leave. The Same Money in a 401(k) Would Have Walked Out for Free",
+      "description": "A hospital nurse discovered that leaving her retirement plan comes with a price tag most workers never see until it's too late. Whether paying it makes sense depends on a calculation her plan administrator has no reason to share with her.",
+      "link": "https://247wallst.com/personal-finance/2026/10/20/her-hospitals-403b-will-charge-a-63-year-old-nurse-31000-to-leave-the-same-money-in-a-401k-would-have-walked-out-for-free/",
+      "source": "24/7 Wall St",
+      "image": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock-2661013051-huge-licensed-scaled.jpg",
+      "published": "2026-10-20 13:15:46",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

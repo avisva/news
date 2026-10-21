@@ -1,77 +1,31 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Council to revisit housing incentives bill",
-      "description": "A bill that would require the city to regularly disclose financial and other incentives it provides to affordable housing developers and their projects is raising concerns by the administration over tracking and reporting mandates.",
-      "link": "https://www.staradvertiser.com/2026/10/20/hawaii-news/council-to-revisit-housing-incentives-bill/",
-      "source": "Hawaii News",
-      "image": "https://www.staradvertiser.com/wp-content/uploads/2026/10/web1_CTY-BILL-7-298.jpg",
-      "published": "2026-10-20 10:05:00",
+      "title": "Zelensky says that Trump is intentionally withholding the missiles he needs to defend himself against Russian attacks",
+      "description": "The United States is withholding the shipment to Ukraine of a major batch of Patriot interceptor missiles, as denounced by President Volodymyr Zelenskyy, who has stated that \"there are political agreements that have not been implemented at an operational level.\" A high-ranking Ukrainian official and two military officials from the country, who spoke on condition of anonymity to the portal Kyiv Independent, assert that the Secretary of War, Pete Hegseth, has the sales contracts for Patriot missiles, but is not signing them. These weapons are the only defense Ukraine has to intercept the ballistic missiles that Russia launches against its territory and which have as their main target critical infrastructure, such as energy facilities. The same sources assure that Kyiv has already paid for this weaponry, and that the delay comes when Moscow's attacks are daily. All this adds to the latest crisis in relations between Ukraine and the Trump administration, marked by the US president's criticisms of Kyiv's attacks against Russian oil refineries.",
+      "link": "https://en.ara.cat/international/zelensky-says-that-trump-is-intentionally-withholding-the-missiles-he-needs-to-defend-himself-against-russian-attacks_1_5884857.html",
+      "source": "Diari Ara",
+      "image": "https://static1.ara.cat/clip/e61150ea-4fda-4d00-885e-a8948554c0c6_16-9-aspect-ratio_default_0.jpg",
+      "published": "2026-10-20 13:15:53",
       "category": [
+        "education",
         "politics"
       ],
       "country": [
-        "united states of america"
+        "spain"
       ]
     },
     {
-      "title": "EXCLUSIVE: Mamdani to expand gun violence prevention program in Bushwick, Harlem and Washington Heights",
-      "description": "Mayor Zohran Mamdani is expanding NYC's gun violence prevention program to Bushwick, Harlem and Washington Heights, adding 30 credible messengers with $4.8M.",
-      "link": "https://us.headtopics.com/news/exclusive-mamdani-to-expand-gun-violence-prevention-88999297",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/20/amnewyork/exclusive-mamdani-to-expand-gun-violence-preventio-exclusive-mamdani-to-expand-gun-violence-preventio-09D2B72125EB239601A4D94DD503BFD4-16x9.webp",
-      "published": "2026-10-20 10:05:00",
+      "title": "Russian Strikes on Data Centers Disrupt NATO Intelligence Support for Ukraine \u2013 Expert",
+      "description": "from Sputnik News: The destruction of Datagroup\u2019s data center in Kiev represents a serious blow to intelligence operations supporting the Ukrainian forces, military expert Yan Gagin tells Sputnik. \u201cThis data center was involved in coordinating with NATO, the Ukrainian Armed Forces\u2019 handlers,\u201d Gagin says. \u201d Its primary function was to process intelligence provided by NATO [\u2026]",
+      "link": "https://www.sgtreport.com/2026/10/russian-strikes-on-data-centers-disrupt-nato-intelligence-support-for-ukraine-expert/",
+      "source": "Sgt Report",
+      "image": null,
+      "published": "2026-10-20 13:15:49",
       "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Trump\u2019s bubble is about to burst",
-      "description": "WASHINGTON \u2014 Sometimes a candid photograph captures a moment in a presidency, and the essence of the officeholder, so tellingly that you get a penetrating portrait of an era. The post Trump\u2019s bubble is about to burst appeared first on West Hawaii Today.",
-      "link": "https://www.westhawaiitoday.com/2026/10/20/opinion/trumps-bubble-is-about-to-burst/",
-      "source": "West Hawaii Today",
-      "image": "https://www.westhawaiitoday.com/wp-content/themes/2024-westhawaiitoday-child/media/img/brand/default-logo.png",
-      "published": "2026-10-20 10:05:00",
-      "category": [
-        "lifestyle",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "The questions voters should ask midterm candidates",
-      "description": "As voters approach the midterm elections, each party is eager to make the choice seem simple. Democrats point to the cost of living and argue that Republicans have failed to deliver economic relief. Republicans emphasize immigration, public safety and cultural questions, arguing that Democrats have lost touch with the country\u2019s values. The post The questions voters should ask midterm candidates appeared first on West Hawaii Today.",
-      "link": "https://www.westhawaiitoday.com/2026/10/20/opinion/the-questions-voters-should-ask-midterm-candidates/",
-      "source": "West Hawaii Today",
-      "image": "https://www.westhawaiitoday.com/wp-content/themes/2024-westhawaiitoday-child/media/img/brand/default-logo.png",
-      "published": "2026-10-20 10:05:00",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Man who died in ICE custody was denied medicine, his daughter says",
-      "description": "When Estefani Andrade spoke over video last Friday to her father, who was in an immigration detention center in Texas, he looked pale and unwell, she said. The next day, he was found unconscious in his cell, and she was later told he died. The post Man who died in ICE custody was denied medicine, his daughter says appeared first on West Hawaii Today.",
-      "link": "https://www.westhawaiitoday.com/2026/10/20/nation-world-news/man-who-died-in-ice-custody-was-denied-medicine-his-daughter-says/",
-      "source": "West Hawaii Today",
-      "image": "https://www.westhawaiitoday.com/wp-content/uploads/sites/8/2026/10/web1_IMMIG-CUSTODY-DEATH.jpg",
-      "published": "2026-10-20 10:05:00",
-      "category": [
-        "politics",
-        "top"
+        "politics"
       ],
       "country": [
         "united states of america"

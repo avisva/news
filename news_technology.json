@@ -1,14 +1,14 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "BT outage RECAP: Report levels return to normal after huge spike across UK",
-      "description": "At least 331 reports had been logged as of 1.37am.",
-      "link": "https://www.express.co.uk/news/uk/2259006/bt-outage-live-uk-customers",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2259006_1.jpg",
-      "published": "2026-10-21 01:24:00",
+      "title": "Isuzu powers into new era with electric D-Max pick-up",
+      "description": "THE humble utility truck that once occupied its own space in builders\u2019 yards throughout Britain has come of age. These types of vehicle grumbled their way through life, all the while emitting the guttural sound of a powerful diesel engine. Now there is a new electric kid on the block. Yes, although",
+      "link": "https://www.windsorexpress.co.uk/news/motoring/710157/isuzu-powers-into-new-era-with-electric-d-max-pick-up.html",
+      "source": "Windsor Express",
+      "image": "https://www.windsorexpress.co.uk/resizer/300/200/true/GN4_DAT_6725461.jpg--isuzu_powers_into_new_era_with_electric_d_max_pick_up.jpg",
+      "published": "2026-10-21 06:21:00",
       "category": [
         "technology",
         "top"
@@ -18,19 +18,33 @@
       ]
     },
     {
-      "title": "Samsung Electro-Mechanics wins KRW360.5 billion memory substrate deal as AI demand drives expansion",
-      "description": "Samsung Electro-Mechanics has secured a KRW360.5 billion (US$271.8 million) long-term contract to supply package substrates for memory semiconductors, strengthening its position in the growing AI server component market.",
-      "link": "https://www.digitimes.com/news/a20261021VL201/semco-demand-chips-semiconductors-bga.html",
-      "source": "Digitimes",
-      "image": "https://img.digitimes.com/newsshow/20261021vl201_files/2_2b.jpg",
-      "published": "2026-10-21 01:23:11",
+      "title": "Apple sets October 28 event titled \u2018Pro and tell\u2019",
+      "description": "9to5Mac reports Apple's October 28 \"Pro and tell\" event starts at 10 a.m. Pacific in Los Angeles. The touchscreen MacBook Pro and OLED iPad mini remain rumors. The post Apple sets October 28 event titled \u2018Pro and tell\u2019 appeared first on iGeeksBlog.",
+      "link": "https://www.igeeksblog.com/apple-pro-and-tell-october-28-event/",
+      "source": "Igeeksblog",
+      "image": null,
+      "published": "2026-10-21 06:20:58",
       "category": [
         "technology",
-        "top",
-        "business"
+        "top"
       ],
       "country": [
-        "china"
+        "india"
+      ]
+    },
+    {
+      "title": "John Ternus Is Still Hands-On With Apple\u2019s Design Teams",
+      "description": "Ternus became Apple CEO on September 1. TIME reports he has spent multiple days a week in the studio with Apple's industrial-design and human-interface teams. The post John Ternus Is Still Hands-On With Apple\u2019s Design Teams appeared first on iGeeksBlog.",
+      "link": "https://www.igeeksblog.com/john-ternus-design-teams-hands-on/",
+      "source": "Igeeksblog",
+      "image": null,
+      "published": "2026-10-21 06:20:56",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Shrek 2 Remastered Gets a November Release Date with a GTA 6-Style Trailer",
+      "description": null,
+      "link": "https://80.lv/articles/shrek-2-remastered-gets-a-november-release-date-with-a-gta-6-style-trailer/",
+      "source": "80 Level",
+      "image": "https://cdn.80.lv/api/upload/post/42012/images/6ad859e9198fc/cover_800x800.jpg",
+      "published": "2026-10-21 06:21:00",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "latvia"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,36 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "How Many Miles Are the Right Amount on a Used Car?",
-      "description": "Mileage can tell you a lot about a vehicle\u2019s life, but it\u2019s just one important factor among many.",
-      "link": "https://us.headtopics.com/news/how-many-miles-are-the-right-amount-on-a-used-car-89018749",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/20/caranddriver/how-many-miles-are-the-right-amount-on-a-used-car-how-many-miles-are-the-right-amount-on-a-used-car-8BD3434DA7222E83555084CC0D808AD0-16x9.webp",
-      "published": "2026-10-20 19:02:00",
+      "title": "BT outage RECAP: Report levels return to normal after huge spike across UK",
+      "description": "At least 331 reports had been logged as of 1.37am.",
+      "link": "https://www.express.co.uk/news/uk/2259006/bt-outage-live-uk-customers",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2259006_1.jpg",
+      "published": "2026-10-21 01:24:00",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Samsung Electro-Mechanics wins KRW360.5 billion memory substrate deal as AI demand drives expansion",
+      "description": "Samsung Electro-Mechanics has secured a KRW360.5 billion (US$271.8 million) long-term contract to supply package substrates for memory semiconductors, strengthening its position in the growing AI server component market.",
+      "link": "https://www.digitimes.com/news/a20261021VL201/semco-demand-chips-semiconductors-bga.html",
+      "source": "Digitimes",
+      "image": "https://img.digitimes.com/newsshow/20261021vl201_files/2_2b.jpg",
+      "published": "2026-10-21 01:23:11",
+      "category": [
+        "technology",
+        "top",
+        "business"
+      ],
+      "country": [
+        "china"
       ]
     }
   ]

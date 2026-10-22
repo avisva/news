@@ -1,35 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Casio launching three more square-shaped digital watches",
-      "description": "Casio has revealed three new square-shaped digital watches in listings on one of its official websites. Each of these BGD-565 watches features a different grunge-inspired color scheme and comes with a stopwatch and an alarm.",
-      "link": "https://www.notebookcheck.net/Casio-launching-three-more-square-shaped-digital-watches.1430058.0.html",
-      "source": "Notebookcheck",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-BGD-565FG.jpg",
-      "published": "2026-10-21 19:04:00",
+      "title": "Where Is Macquarie Tech (ASX:MAQ) After NextDC's Power Reset? - Kalkine Media",
+      "description": "Macquarie Technology Group is in focus as NextDC's power-delay guidance cut tests the local data centre and AI infrastructure group.",
+      "link": "https://kalkinemedia.com/au/stocks/artificial-intelligence/where-is-macquarie-tech-asxmaq-after-nextdcs-power-reset",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2307519081_10_22_2026_01_26_38_964439.jpg",
+      "published": "2026-10-22 01:26:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "australia"
       ]
     },
     {
-      "title": "Critical PHP Flaws Threaten Millions of Websites in New AI Security Test",
-      "description": "Some organizations have temporarily taken websites and online services offline rather than leave vulnerable systems exposed.",
-      "link": "https://www.newsweek.com/php-vunerability-php2shell-issue-websites-hack-server-12601225",
-      "source": "Newsweek",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/AP23296700516174.jpg?w=1600&h=900&q=88",
-      "published": "2026-10-21 19:03:58",
+      "title": "Will BrainChip (ASX:BRN) Land a Licence for Its Sequora Core? - Kalkine Media",
+      "description": "BrainChip offers its Sequora edge AI core for licensing while a group of owners pushes for board changes and shares stay soft.",
+      "link": "https://kalkinemedia.com/au/stocks/artificial-intelligence/will-brainchip-asxbrn-land-a-licence-for-its-sequora-core",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2271519663_10_22_2026_01_26_33_399323.jpg",
+      "published": "2026-10-22 01:26:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "australia"
+      ]
+    },
+    {
+      "title": "Can Xero (ASX:XRO) Turn Its Gemini Link-up Into AI Traction? - Kalkine Media",
+      "description": "Xero extends its AI partnerships with a Google Gemini connected app while the share price stays well below last year's levels.",
+      "link": "https://kalkinemedia.com/au/stocks/artificial-intelligence/can-xero-asxxro-turn-its-gemini-link-up-into-ai-traction",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2476580255_10_22_2026_01_26_21_490348.jpg",
+      "published": "2026-10-22 01:26:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

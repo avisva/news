@@ -1,34 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "CISA and partners issue ransomware advisory on SafePay threat actors impacting critical infrastructure sectors",
-      "description": "The Cybersecurity and Infrastructure Security Agency has published a ransomware advisory with the FBI and international partners detailing the activities of SafePay, a threat group hitting businesses and critical infrastructure sectors around the world using legitimate access controls. \u201cSafePay is one of the most active ransomware groups and have affected businesses and critical infrastructure in North America, South America, Europe, and Australia--including at least 600 organizations from multiple critical infrastructure sectors since August 2024,\u201d CISA said in an Oct. 20 alert on the advisory. The advisory says, \u201cSafePay actors typically gain access to networks by stealing or guessing passwords, exploiting vulnerabilities in security systems, and using phishing tactics. Once inside the network, SafePay actors establish control by creating new accounts or taking over existing ones.\u201d \u201cThey then use legitimate system tools to move through the network, identify valuable files, and disable security protections to avoid detection. Following, they encrypt the victim\u2019s files, making them inaccessible, and leave a ransom note demanding payment in cryptocurrency,\u201d according to the advisory. CISA acting cyber chief Chris Butera said in an Oct. 20 release, \u201cPublic-facing devices with known vulnerabilities continue to be frequently targeted by threat actors like SafePay Ransomware group. With our partners, CISA encourages organizations to review and implement recommended mitigations to include urgently patching the known exploited vulnerabilities in this advisory and conducting forensic triage to determine if systems have been compromised.\u201d The advisory contains indicators of compromise, as well as tactics and techniques mapped to the MITRE ATT&CK framework. To mitigate the threat, the advisory provides a series of recommendations aligned with CISA\u2019s cross-sector performance goals. The recommendations include regularly patching and updating systems, implementing zero trust principles and to restrict access to administrative tools and \u201cprivileges to necessary users only.\u201d CISA also recommends taking steps to \u201c[s]trengthen account security by implementing identity, credential, and access management (ICAM) policies and multifactor authentication (MFA).\u201d \u201cToday, the FBI and our partners are giving network defenders clear, actionable guidance to protect their organizations from one of 2026\u2019s most active ransomware groups,\u201d Brett Leatherman, assistant director of the FBI\u2019s Cyber Division, said in the release. The advisory is supported by the FBI, the Secret Service and cyber agencies in Germany and the United Kingdom. -- Sara Friedman (sfriedman@iwpnews.com) Article Type: Daily News Sara Friedman tags: ransomware Weight: -20",
-      "link": "https://insidecybersecurity.com/daily-news/cisa-and-partners-issue-ransomware-advisory-safepay-threat-actors-impacting-critical",
-      "source": "Insidecybersecurity",
-      "image": null,
-      "published": "2026-10-21 10:04:00",
+      "title": "Night Bus Hubs launched in Glasgow city centre in bid to improve late-night travel services",
+      "description": "The three hubs will be located on Sauchiehall Street, Hope Street and Union Street",
+      "link": "https://news.stv.tv/west-central/night-bus-hubs-launched-in-glasgow-city-centre-in-bid-to-improve-late-night-travel-services",
+      "source": "Stv News",
+      "image": "https://news.stv.tv/wp-content/uploads/2026/10/30920204083332361f9f03d919b0af5d-1792585738-1280x720.jpeg",
+      "published": "2026-10-21 13:11:00",
       "category": [
+        "top",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Vote Krywanczyk for county legislator",
-      "description": "To the Editor: Times are changing! Technology is changing at rates that are difficult to keep up with. St. Lawrence County, as well as many other counties, need to include the younger ...",
-      "link": "https://northcountrynow.com/stories/vote-krywanczyk-for-county-legislator,396585",
-      "source": "North Country Now",
-      "image": "https://zeta.creativecirclecdn.com/ncn/large/20250904-061216-8a2-Letter.jpg",
-      "published": "2026-10-21 10:04:00",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "united states of america"
+        "united kingdom"
       ]
     }
   ]

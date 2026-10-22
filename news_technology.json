@@ -1,20 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Night Bus Hubs launched in Glasgow city centre in bid to improve late-night travel services",
-      "description": "The three hubs will be located on Sauchiehall Street, Hope Street and Union Street",
-      "link": "https://news.stv.tv/west-central/night-bus-hubs-launched-in-glasgow-city-centre-in-bid-to-improve-late-night-travel-services",
-      "source": "Stv News",
-      "image": "https://news.stv.tv/wp-content/uploads/2026/10/30920204083332361f9f03d919b0af5d-1792585738-1280x720.jpeg",
-      "published": "2026-10-21 13:11:00",
+      "title": "Casio launching three more square-shaped digital watches",
+      "description": "Casio has revealed three new square-shaped digital watches in listings on one of its official websites. Each of these BGD-565 watches features a different grunge-inspired color scheme and comes with a stopwatch and an alarm.",
+      "link": "https://www.notebookcheck.net/Casio-launching-three-more-square-shaped-digital-watches.1430058.0.html",
+      "source": "Notebookcheck",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-BGD-565FG.jpg",
+      "published": "2026-10-21 19:04:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Critical PHP Flaws Threaten Millions of Websites in New AI Security Test",
+      "description": "Some organizations have temporarily taken websites and online services offline rather than leave vulnerable systems exposed.",
+      "link": "https://www.newsweek.com/php-vunerability-php2shell-issue-websites-hack-server-12601225",
+      "source": "Newsweek",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/AP23296700516174.jpg?w=1600&h=900&q=88",
+      "published": "2026-10-21 19:03:58",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Special counsel says deceased NEC official's note did not allege coercion",
+      "description": "South Korea's special counsel said a deceased National Election Commission official's suicide note did not mention coercive questioning, despite claims from his lawyer.",
+      "link": "https://www.koreajoongangdaily.com/korea/special-counsel-says-deceased-election-officials-note-cites-no-coercion/12935480",
+      "source": "Koreajoongangdaily Joins News",
+      "image": null,
+      "published": "2026-10-23 05:41:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "US, South Korean officials see little chance of Trump-Kim meeting this year",
+      "description": "Washington and Seoul say there has been no response from Pyongyang to a proposed meeting",
+      "link": "https://english.aaj.tv/news/330477636/us-south-korean-officials-see-little-chance-of-trump-kim-meeting-this-year",
+      "source": "Aaj English Tv",
+      "image": "https://i.aaj.tv/large/2026/10/23104016e0bd5ea.webp",
+      "published": "2026-10-23 05:40:36",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

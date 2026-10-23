@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Eminem\u2019s Former Employee Pleads Guilty to Leaking Rapper\u2019s Unreleased Music",
+      "description": "Joseph Strange, who worked for rapper for 14 years, faces five years in prison on charge of criminal infringement of a copyright The post Eminem\u2019s Former Employee Pleads Guilty to Leaking Rapper\u2019s Unreleased Music appeared first on Rolling Stone India.",
+      "link": "https://rollingstoneindia.com/eminems-former-employee-pleads-guilty-to-leaking-rappers-unreleased-music/",
+      "source": "Rolling Stone India",
+      "image": "https://rollingstoneindia.com/wp-content/uploads/2026/10/GettyImages-2248970739.jpg",
+      "published": "2026-10-23 05:40:54",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "China's first AI film hits cinemas, but ticket sales lag",
+      "description": "Country's first AI film faces weak presales, testing whether audiences will pay to watch AI-made cinema",
+      "link": "https://tribune.com.pk/story/2636504/chinas-first-ai-film-hits-cinemas-but-ticket-sales-lag",
+      "source": "The Express Tribune",
+      "image": "https://i.tribune.com.pk/media/images/china-ai-film1792752321-0/china-ai-film1792752321-0-640x480.webp",
+      "published": "2026-10-23 05:40:49",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

@@ -1,84 +1,43 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 2,
   "results": [
     {
-      "title": "The made-in-China Elexio is Hyundai\u2019s answer to the EV challenge",
-      "description": "It delivers on affordability, cabin space and usability, making it Hyundai\u2019s best bet to beat the Chinese brands at their own game.",
-      "link": "https://www.straitstimes.com/life/motoring/the-made-in-china-elexio-is-hyundais-answer-to-the-ev-challenge",
-      "source": "Straitstimes",
+      "title": "NOXNOX Expands Pillow Range With Pocket-Spring Designs Made in Italy",
+      "description": "The European sleep brand is broadening its pillow assortment with a patented spring system, adjustable designs, cooling constructions and other function-led pillow technologies.",
+      "link": "https://www.financialcontent.com/article/newsfile-2026-10-23-noxnox-expands-pillow-range-with-pocket-spring-designs-made-in-italy",
+      "source": "Financialcontent",
       "image": null,
-      "published": "2026-10-23 05:41:00",
+      "published": "2026-10-23 08:58:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Vehicle does not lose control, it\u2019s the poor driver who does!",
+      "description": "In our Friday, October 16 edition, we expressed concern over excessive use of abbreviations in...",
+      "link": "https://www.thecitizen.co.tz/tanzania/oped/vehicle-does-not-lose-control-it-s-the-poor-driver-who-does--5642794",
+      "source": "The Citizen",
+      "image": "https://www.thecitizen.co.tz/resource/image/5642804/landscape_ratio16x9/1600/900/73ab4b0514e963444f135951c4ab75f5/Ic/sultan-pc.jpg",
+      "published": "2026-10-23 08:57:49",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Mystery as iconic pub shuts \u2018indefinitely\u2019 - Yahoo News Australia",
-      "description": "Mystery as iconic pub shuts \u2018indefinitely\u2019 Yahoo News Australia",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnNOZGFxMXY5VUpHQkdVLWpCY2lneVpXeG9fU3JxeHlXVTRZd0x0eTQ3c2ExZ1Z1RHpDNGZzY0JRcnVUMTdJbnNOZEdoXzUxU2E1RHV3N25pdjkzbFZQcDdVU3JMd19WaUJfdmdnbHJWbkhkSWFkanRKTjhFYlZTSXFfRHM?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-10-23 05:41:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Azul patches Java after eMudhra certificate compromise",
-      "description": "The patch closes a gap that could let unpatched Java runtimes trust forged certificates on servers, containers and software pipelines.",
-      "link": "https://securitybrief.co.uk/story/azul-patches-java-after-emudhra-certificate-compromise",
-      "source": "Securitybrief Uk",
-      "image": "https://securitybrief.co.uk/uploads/story/2026/10/23/compatible_secure-java-runtime-shield-patch-enterprise-infrastructure-illustration-story-322256.jpg",
-      "published": "2026-10-23 05:41:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "WhatsApp, Telegram users to face mandatory SIM binding from Jan 2027",
-      "description": "Daijiworld Media Network - New Delhi New Delhi, Oct 23: Millions of Indians using WhatsApp, Telegram and other messaging platforms will have to comply with new SIM-binding rules from January 1, 2027, following a directive issued by the Department of Telecommunications (DoT).",
-      "link": "https://daijiworld.com/news/newsDisplay?newsID=1332228",
-      "source": "Daijiworld",
-      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/whtpptele_231026_1.jpg",
-      "published": "2026-10-23 05:40:48",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Soulog Sense Launches as a Pocket AI Agent That Actually Remembers Your Conversations",
-      "description": "Soulog has launched the Sense, a compact AI-powered wearable that the company is positioning less as a voice recorder and more as a \u201cPocket AI Agent\u201d \u2014 a device designed to capture real-world context, connect it into a persistent personal memory system, and generate usable outputs from it. The device is now available through Soulog\u2019s [\u2026] The post Soulog Sense Launches as a Pocket AI Agent That Actually Remembers Your Conversations appeared first on Gizmochina.",
-      "link": "https://www.gizmochina.com/2026/10/23/soulog-sense-launches-as-a-pocket-ai-agent-that-actually-remembers-your-conversations/",
-      "source": "Gizmochina",
-      "image": "https://www.gizmochina.com/wp-content/uploads/2026/10/soulog-sense-16.jpg",
-      "published": "2026-10-23 05:40:42",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "australia",
-        "singapore",
-        "india",
-        "united states of america",
-        "canada",
-        "china",
-        "united kingdom"
+        "uganda",
+        "zambia",
+        "rwanda",
+        "kenya",
+        "burundi",
+        "tanzania",
+        "ethiopia",
+        "south africa",
+        "mozambique",
+        "nigeria"
       ]
     }
   ]

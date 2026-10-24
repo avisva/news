@@ -1,15 +1,30 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "VC funding deals: Cuttable, Hive",
-      "description": "The latest VC funding deals include announcements on Cuttable, Hive, Airtree Ventures, Square Peg, Rampersand, Glitch Capital, and others.",
-      "link": "https://infotechlead.com/tech/vc-funding-deals-cuttable-hive-99161",
-      "source": "Infotech Lead",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg",
-      "published": "2026-10-24 08:11:46",
+      "title": "AI tools may flag H-1B visa filings discrepancies as US immigration checks get more stringent",
+      "description": "US immigration authorities are set to intensify their review of H-1B visa records by utilizing artificial intelligence technology. This will allow them to detect any mismatches between the addresses reported and the actual worksite locations. Both employers and employees must diligently maintain accurate and consistent immigration documents, alerting agencies to any address modifications. As AI further develops, keeping immigration filings exact will be increasingly important for H-1B visa professionals.",
+      "link": "https://timesofindia.indiatimes.com/world/us/ai-tools-may-flag-h-1b-visa-filings-discrepancies-as-us-immigration-checks-get-more-stringent/articleshow/135168275.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135168671/135168671.jpg",
+      "published": "2026-10-24 10:51:53",
       "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy Book4 Pro gets 41% discount on Flipkart: Check price, bank offers and more",
+      "description": "The Samsung Galaxy Book4 Pro is available at Rs 89,990 on Flipkart, down from its listed price of Rs 1,51,789. This translates to a discount of Rs 61,799, or around 41%, on the laptop. Buyers can also avail of an additional Rs 8,000 discount through an eligible HDFC Bank card offer, bringing the effective price down further.",
+      "link": "https://www.moneycontrol.com/technology/samsung-galaxy-book4-pro-gets-41-discount-on-flipkart-check-price-bank-offers-and-more-article-14059171.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2024/09/20240905140445_Samsung-Galaxy-Book4-Edge.jpg",
+      "published": "2026-10-24 10:51:48",
+      "category": [
+        "top",
         "technology"
       ],
       "country": [

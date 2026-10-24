@@ -1,28 +1,56 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "DOJ Seeks Conditional Pause in Alaska Senate Election Certification",
-      "description": "The complaint seeks a pause only if Sen. Dan S. Sullivan loses the initial count but would win under a hypothetical ranked-choice tally treating every vote for Daniel J. Sullivan Jr. as a vote for the senator.",
-      "link": "https://econotimes.com/DOJ-Seeks-Conditional-Pause-in-Alaska-Senate-Election-Certification-1762211",
-      "source": "Econotimes",
-      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/d62d524df277c2eae0808da4d3700b64a351ba086c8d7e6424b82efb1885dd21.webp",
-      "published": "2026-10-24 08:11:36",
+      "title": "WAPDA signs Rs133 billion accord for Diamer Bhasha Dam HM-1 contract",
+      "description": "The Water and Power Development Authority (WAPDA) has signed the agreement for HM-1 Contract of Diamer Basha Dam Project at a ceremony held at WAPDA House.",
+      "link": "https://www.24newshd.tv/24-Oct-2026/wapda-signs-rs133-billion-accord-diamer-bhasha-dam-hm-1-contract",
+      "source": "24 News Hd",
+      "image": "https://www.24newshd.tv/digital_images/small/2026-10-24/video-grab-1792838898-2849.png",
+      "published": "2026-10-24 10:51:54",
       "category": [
         "business"
       ],
       "country": [
-        "germany",
-        "japan",
-        "canada",
-        "china",
-        "united states of america",
-        "south korea",
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Israel\u2019s Oct. 27 Election Highlights Divisions Over Palestinian Statehood",
+      "description": "Netanyahu and several other leaders oppose statehood or say it is not feasible soon, while Ra\u2019am chairman Mansour Abbas is urging Israel and the United States to recognize a Palestinian state.",
+      "link": "https://econotimes.com/Israel-s-Oct-27-Election-Highlights-Divisions-Over-Palestinian-Statehood-1762347",
+      "source": "Econotimes",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/4bcc043ebc957f4075f3c05effed72c9a2c5932d3e6a27fd0be9611b5879f0bb.webp",
+      "published": "2026-10-24 10:51:51",
+      "category": [
+        "business"
+      ],
+      "country": [
         "united kingdom",
-        "australia",
         "france",
-        "india"
+        "canada",
+        "germany",
+        "australia",
+        "south korea",
+        "united states of america",
+        "china",
+        "india",
+        "japan"
+      ]
+    },
+    {
+      "title": "Crocs Flash Sale: Extra 50% off in cart + free shipping w/ $44.99",
+      "description": "Crocs is running a great flash sale right now, knocking an extra 50% off clogs, slippers, and slides for women, men, and kids. The classic Crocs Baya Clogs are $20 in cart, down from $50, and the kids' version drops to $15. Crocs Toddlers' Classic clogs start at $12.50. The discounts apply in cart and shipping is free over $44.99. Shop Now at Crocs Features 149 styles on sale for women, men, and kids Clogs, platform clogs, slippers, and slides included Kids' Baya Clogs from $30, down from $40 Toddler Classic Clogs from $25 Select styles marked for an extra 50% off",
+      "link": "https://www.dealnews.com/Crocs-Flash-Sale-Extra-50-off-in-cart-free-shipping-w-44-99/22310332.html?iref=rss",
+      "source": "Dealnews",
+      "image": "https://d.dlnws.com/64599/1792839103-1786022201-product-trimmed.png?h=141&w=250",
+      "published": "2026-10-24 10:51:48",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

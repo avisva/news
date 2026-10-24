@@ -1,16 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Jio Platforms IPO: Investors pump nearly 2% of India\u2019s GDP as bids; know the details",
-      "description": "Jio Platforms IPO, the first public issue of a consumer-facing business from the Reliance empire, was received with unprecedented enthusiasm. The numbers indicating participation is astounding, especially considering against a falling market ravaged by rising crude oil prices, falling rupee and geopolitical crisis.",
-      "link": "https://www.news9live.com/business/markets/jio-platforms-ipo-investors-pump-nearly-2-of-indias-gdp-as-bids-know-the-details-3018523",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/10/Jio-IPO-Getty3-2.png",
-      "published": "2026-10-24 01:05:00",
+      "title": "Us Intelligence Warns Of Advanced Iranian Plots Targeting Officials",
+      "description": "US intelligence chief warned Secretary Rubio of advanced lethal Iranian plots against American officials amid embassy staff cuts.",
+      "link": "https://www.btin.co.in/us-intelligence-warns-of-advanced-iranian-plots-targeting-officials-121472",
+      "source": "Business Times India",
+      "image": "https://data.btin.co.in/data/images/full/10506/us-intelligence-warns-of-advanced-iranian-plots-targeting-officials.jpg",
+      "published": "2026-10-24 05:11:00",
       "category": [
-        "business"
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Bengal Congress rules out seat sharing in upcoming urban civic polls",
+      "description": "Kolkata, Oct 24 (SocialNews.XYZ) The West Bengal Congress has ruled out any seat-sharing arrangement with either the Mamata Banerjee-led Trinamool Congress faction or the CPI(M)-led Left Front in the state's upcoming elections for seven urban... The post Bengal Congress rules out seat sharing in upcoming urban civic polls appeared first on Social News XYZ.",
+      "link": "https://www.socialnews.xyz/2026/10/24/bengal-congress-rules-out-seat-sharing-in-upcoming-urban-civic-polls/",
+      "source": "Social News Xyz",
+      "image": "https://s3.socialnews.xyz/wp-content/uploads/2026/10/24/202610243989800.jpg",
+      "published": "2026-10-24 05:10:57",
+      "category": [
+        "top",
+        "politics"
       ],
       "country": [
         "india"

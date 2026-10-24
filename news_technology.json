@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
-      "description": "Websites across the world went offline this week after the disclosure of critical vulnerabilities in the widely used programming language.",
-      "link": "https://www.japantimes.co.jp/news/2026/10/24/japan/japan-cyberattack-simulation/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/570238.jpg",
-      "published": "2026-10-24 01:05:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "japan"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

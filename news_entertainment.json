@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Inside exact moment Monty Don knew it was time to quit Gardeners' World",
+      "description": "The BBC star is leaving Gardeners' World after 23 years.",
+      "link": "https://www.express.co.uk/celebrity-news/2258584/monty-don-reason-quitting-gardeners-world",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/79/237x141/2258584_1.jpg",
+      "published": "2026-10-24 05:11:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

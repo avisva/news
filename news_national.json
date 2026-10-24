@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Tibet earthquake: CTA asks China to ensure transparent relief ops",
+      "description": "Tibet earthquake: CTA asks China to ensure transparent relief ops",
+      "link": "https://timesofindia.indiatimes.com/city/chandigarh/tibet-earthquake-cta-asks-china-to-ensure-transparent-relief-ops/articleshow/135155509.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135155508/135155508.jpg",
+      "published": "2026-10-23 20:37:00",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,63 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Susie McCabe urges women to 'expose' male comedians after Vittorio Angelone row",
-      "description": "SCOTTISH comedian Susie McCabe has called on women in comedy to record and expose inappropriate comments and behaviour by male comedians after saying she was inundated with messages following the backlash surrounding Vittorio Angelone's rape \"joke\" about a sexual assault victim",
-      "link": "https://www.thenational.scot/news/26665245.susie-mccabe-calls-male-comedians-amid-vittorio-angelone-row/",
-      "source": "Thenational Scot",
-      "image": null,
-      "published": "2026-10-23 15:16:00",
+      "title": "Weber County Judge Fights to Keep Seat After Utah's Only Negative Review",
+      "description": "Utah's Judicial Performance Evaluation Commission says Weber County Justice Court Judge Trent Nelson should go. He's asking voters to decide instead.",
+      "link": "https://hoodline.com/2026/10/weber-county-judge-fights-to-keep-seat-after-utah-s-only-negative-review/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/10/weber-county-judge-fights-to-keep-seat-after-utah-s-only-negative-review-1.webp",
+      "published": "2026-10-23 20:36:58",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "J.K. Rowling Refuses to Back Down After Years of Gender Debate",
+      "description": "J.K. Rowling Refuses to Back Down After Years of Gender Debate",
+      "link": "https://ijr.com/journals/andrew-powell/j-k-rowling-refuses-to-back-down-after-years-of-gender-debate-6fde8806",
+      "source": "Ijr",
+      "image": "https://6pwlv5vzvfnbrzqk.public.blob.vercel-storage.com/GettyImages-1388427445-KXU340pv5MWQFXrbfsrSG54H27sJjR.jpg",
+      "published": "2026-10-23 20:36:58",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Trump Rips Judge Overseeing Charlie Kirk Murder Trial",
+      "description": "President Donald Trump is not happy with the judge overseeing the Charlie Kirk murder trial. On his Truth Social account, Trump blasted Utah District Court Judge Tony Graf for saying he would hold a hearing to consider delaying the trial of Tyler Robinson until 2029.",
+      "link": "https://www.newsmax.com/newsfront/donald-trump-charlie-kirk-tyler-robinson/2026/10/23/id/1273831",
+      "source": "Newsmax.com",
+      "image": "https://www.newsmax.com/cmspages/getfile.aspx?guid=9B2D6505-5EC4-4AD1-B186-7478BB24E2F7",
+      "published": "2026-10-23 20:36:53",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Constantino gets Fraternal Order of Police endorsement for Congress",
+      "description": "Anthony T. Constantino has earned the endorsement of the New York State Fraternal Order of Police in the NY-21 Congressional race, adding onto his endorsement from the International Union of",
+      "link": "https://www.nny360.com/news/jeffersoncounty/constantino-gets-fraternal-order-of-police-endorsement-for-congress/article_d64960d1-b63a-5fa9-9fc9-77f056d156f9.html",
+      "source": "Nny360",
+      "image": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/a/16/a16b1fec-7ec8-50f0-a368-ed1dacb9a353/6abd77350efec.image.jpg?crop=1247%2C655%2C0%2C504&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-10-23 20:36:52",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

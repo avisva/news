@@ -1,34 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "\u2018My head hit first\u2019: Officer speaks for first time after being dragged by suspect",
-      "description": null,
-      "link": "https://www.wsbtv.com/news/local/clayton-county/my-head-hit-first-officer-speaks-first-time-after-being-dragged-by-suspect/HH3NEDEMGZCXNHI6HMJTTMX6BU/",
-      "source": "Wsb-tv Channel 2 - Atlanta",
-      "image": "https://www.wsbtv.com/resizer/v2/JSIEMTUCKBDEPDVMRKK44OW2BE.jpg?auth=c0b98dc4545edf99cfe99bc6d4e782378dcf7c575433d91eca25fa326cf5314f&smart=true&width=1280&height=720",
-      "published": "2026-10-23 20:36:52",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Apple celebrates iPod\u2019s 25th anniversary with virtual music player",
-      "description": "Apple celebrates 25 years of iPod with a virtual version of its original music player, complete with a library of tunes (and a hidden game). (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-      "link": "https://www.cultofmac.com/news/ipod-25th-anniversary-virtual-music-player",
-      "source": "Cultofmac",
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/iPod-25th-anniversary-virtual-player.jpg.webp",
-      "published": "2026-10-23 20:36:52",
+      "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+      "description": "Websites across the world went offline this week after the disclosure of critical vulnerabilities in the widely used programming language.",
+      "link": "https://www.japantimes.co.jp/news/2026/10/24/japan/japan-cyberattack-simulation/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/570238.jpg",
+      "published": "2026-10-24 01:05:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "san marino"
+        "japan"
       ]
     }
   ]

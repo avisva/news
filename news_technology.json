@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "VC funding deals: Cuttable, Hive",
+      "description": "The latest VC funding deals include announcements on Cuttable, Hive, Airtree Ventures, Square Peg, Rampersand, Glitch Capital, and others.",
+      "link": "https://infotechlead.com/tech/vc-funding-deals-cuttable-hive-99161",
+      "source": "Infotech Lead",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg",
+      "published": "2026-10-24 08:11:46",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

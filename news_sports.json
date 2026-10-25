@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 15,
+  "totalResults": 11,
   "results": [
     {
-      "title": "WATCH: Gearlds, players reflect on exhibition win",
-      "description": "Geralds speaks on the UIC exhibition match on Saturday.",
-      "link": "https://www.purdueexponent.org/sports/womens/basketball/watch-gearlds-players-reflect-on-exhibition-win/article_bdd9d12c-1930-47da-832c-d35a89e2fe01.html",
-      "source": "Purdue Exponent",
-      "image": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/2/44/244c55f1-de7b-5e51-b64e-2379b5529d86/6add1ffd04514.image.jpg",
-      "published": "2026-10-24 22:42:00",
+      "title": "Simone Biles cries following sale of million-dollar home",
+      "description": "The 29-year-old Olympic gold medalist said that her 3,998-square-foot property in Texas sold after the home was on the market for only four days.",
+      "link": "https://www.wcvb.com/article/simone-biles-sale-of-million-dollar-home/74239242",
+      "source": "Wcvb",
+      "image": "https://kubrick.htvapps.com/vidthumb/e7ba8620-cbe0-43c3-ab11-f77505c6fba4/c5c992ed-bc9e-47bb-9546-a82288325b78.jpg",
+      "published": "2026-10-25 02:47:00",
+      "category": [
+        "top",
+        "sports",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Badgers take down No. 16 USC, 24-7",
+      "description": "Badgers' defense stifles Trojans at Camp Randall Stadium",
+      "link": "https://uwbadgers.com/news/2026/10/24/football-badgers-take-down-no-16-usc-24-7",
+      "source": "Wisconsin Badgers Athletics",
+      "image": "https://uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/10/24/A52BAFDB-EE2B-4598-894C-97D2B96584A6__1__vVtMU.jpeg",
+      "published": "2026-10-25 02:47:00",
       "category": [
         "top",
         "sports"
@@ -18,12 +34,27 @@
       ]
     },
     {
-      "title": "Warriors snap losing streak in blasting Northern Illinois",
-      "description": "DEKALB, ILL. >> The University of Hawaii football team broke out of an offensive slump to break away to a 56-21 victory over winless Northern Illinois.",
-      "link": "https://www.staradvertiser.com/2026/10/24/sports/sports-breaking/warriors-snap-losing-streak-in-blasting-northern-illinois/",
-      "source": "Hawaii News",
-      "image": "https://www.staradvertiser.com/wp-content/themes/hsa-redesign/images/thumbnail-default-850x520.jpg",
-      "published": "2026-10-24 22:42:00",
+      "title": "Ami Nakai captures second consecutive title at Grand Prix de France",
+      "description": "She was only third in the short program, but she leapfrogged both Anastasiia Gubanova and Yuna Aoki to take gold.",
+      "link": "https://www.japantimes.co.jp/sports/2026/10/25/more-sports/ami-nakai-wins-grand-prix-france/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/570300.JPG",
+      "published": "2026-10-25 02:47:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "How to watch the men's Almaty Open: Streaming options for the Final",
+      "description": "Find out how to watch the men's Almaty Open, with time, TV channel and streaming information.",
+      "link": "https://www.nytimes.com/athletic/7721650/2026/10/24/mens-almaty-open-stream-how-to-watch-october-25/",
+      "source": "Theathleticuk",
+      "image": "https://static01.nyt.com/athletic/uploads/wp/2026/10/24224656/iBvpECi.jpg",
+      "published": "2026-10-25 02:46:57",
       "category": [
         "sports"
       ],
@@ -32,70 +63,56 @@
       ]
     },
     {
-      "title": "Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333 - ESPN",
-      "description": "Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333 ESPN UFC 333 results: Volkanovski and Yan win to retain titles ESPN Here\u2019s How to Watch UFC 333 Live Online for Free Billboard UFC 333 predictions: Expert picks, odds for Alexander Volkanovski vs. Movsar Evloev fight card in Abu Dhabi CBS Sports UFC 333 results: Alexander Volkanovski destroys Movsar Evloev in historic win to surpass Jose Aldo's all-time record Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnM2SlUzLXVpSV9pdmtWWWJrazJHcGhEcTlkR1dJVlE5TXFzUjJqZk5FU2piSE1NVEEzZDNXNEJsQlVZX2tDQnVlTEZqNFIzZFBHcE5IQWY1ZUx6OVI4UEtGOWlSVWU3SUxvaTYteGpYeEMyVm9nQlZHOVpyUF8zRVJmdGM?oc=5",
-      "source": "Google News",
+      "title": "Kochetkov makes 24 saves to help the Hurricanes beat the Blues 4-0",
+      "description": "ST. LOUIS (AP) \u2014 Pyotr Kochetkov made 24 saves for his first shutout of the season and 12th in the NHL in the Carolina Hurricanes\u2019 4-0 victory over the St. Louis Blues on Saturday night. Kochetkov has won all seven of his starts this season, giving him the NHL\u2019s longest active winning streak and moving...",
+      "link": "https://mymotherlode.com/sports/hockey-game-stories/11250210/kochetkov-makes-24-saves-to-help-the-hurricanes-beat-the-blues-4-0.html",
+      "source": "Mymotherlode.com - The Mother Lode's Local News, S",
+      "image": "https://mymotherlode.com/wp-content/uploads/2026/10/AP_12074b66b5aa470f9bc81754cefa8ed6_608f34552f.jpg",
+      "published": "2026-10-25 02:46:55",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "USC suffers humiliating Wisconsin loss as Lincoln Riley\u2019s seat heats up",
+      "description": "The Trojans have been a disaster this season. USC needed to beat unranked Wisconsin Saturday in order to keep their College Football Playoff hopes alive. That did not happen as the Badgers stunned USC, 24-7. Wisconsin Badgers outside linebacker Sebastian Cheeks and linebacker Cooper Catalano celebrate after tackling USC Trojans running back King Miller as...",
+      "link": "https://nypost.com/2026/10/24/sports/usc-suffers-humiliating-wisconsin-loss-as-lincoln-rileys-seat-heats-up/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FMT1USATODAY30177662-1288695556-3.jpg?w%3D1024",
+      "published": "2026-10-25 02:46:54",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "PV Sindhu reaches French Open final",
+      "description": "Paris, Oct 24: Two-time Olympic medallist P V Sindhu advanced to her second Super 750 final of the year with a thrilling win over Japan\u2019s Hina Akechi at the French Open here on Saturday. The 31-year-old Indian, who won the Japan Open Super 750 in July, displayed immaculate temperament to register a 21-10, 20-22, 21-16 [\u2026]",
+      "link": "https://theshillongtimes.com/2026/10/25/pv-sindhu-reaches-french-open-final/",
+      "source": "Theshillongtimes",
       "image": null,
-      "published": "2026-10-24 22:42:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Antonelli storms to US Grand Prix pole",
-      "description": "Kimi Antonelli\u2019s lap of 1min 34.035sec earned him his seventh pole position of the season, bringing him closer to securing his maiden F1 world title.",
-      "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/25/antonelli-storms-to-us-grand-prix-pole",
-      "source": "Free Malaysia Today",
-      "image": "https://media.freemalaysiatoday.com/v3/2026/10/acf78d4d-a84c-4350-9279-e7b69674f4df-EPA-Images---Andrea-Kimi---US-Grand-Prix---Pole---25102026.webp",
-      "published": "2026-10-24 22:41:57",
+      "published": "2026-10-25 02:46:48",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "malaysia"
+        "india"
       ]
     },
     {
-      "title": "Brown confirms McLaren has forgiven Norris and Piastri after Singapore Sprint clash",
+      "title": "NBA Highlights (Oct. 24)",
       "description": null,
-      "link": "https://www.planetf1.com/news/zak-brown-mclaren-forgives-norris-piastri-singapore-sprint-crash",
-      "source": "Planet F1",
-      "image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2026/10/14092014/lando-norris-oscar-piastri-mclaren-baku-2026-planetf1.jpg",
-      "published": "2026-10-24 22:41:51",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "N.C. State fires football coach Dave Doeren midway through his 14th season",
-      "description": "Doeren, 54, had a 98-74 record with the Wolfpack and became the program\u2019s winningest coach with a 2023 victory over Miami.",
-      "link": "https://sports.yahoo.com/articles/n-c-state-fires-football-224150692.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/7c9532fd6c2e8aa18736b89801abe83f8a97678c389aa2b74e544189f1fab373/lightyear_networkapi/resizefill_w1000_h563%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Fdfeacbafa2a0c6b218bbaf8d17aca95d.jpg",
-      "published": "2026-10-24 22:41:50",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Toronto FC Latest, Oct. 24",
-      "description": null,
-      "link": "https://www.sportsnet.ca/?sn-collection=toronto-fc-latest-oct-24",
+      "link": "https://www.sportsnet.ca/?sn-collection=nba-highlights-oct-24-5",
       "source": "Sportsnet",
       "image": "https://www.sportsnet.ca/_next/static/media/sn_logo_512x512_bg_white.84fb1e2a.svg",
-      "published": "2026-10-24 22:41:49",
+      "published": "2026-10-25 02:46:43",
       "category": [
         "sports"
       ],
@@ -104,12 +121,12 @@
       ]
     },
     {
-      "title": "Winless Knicks face Magic without Paolo Banchero",
-      "description": "The New York Knicks waited 53 years to win the NBA title. But the honeymoon period is already endangered two games into the championship defense. The Knicks will look to snap their early skid Sunday night, when they host the Orlando Magic in a battle of winless Eastern Conference contenders.",
-      "link": "https://www.yardbarker.com/nba/articles/winless_knicks_face_magic_without_paolo_banchero/s1_17045_44469676",
-      "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/5/b/5baf2232db5c0d151de88818aba82702e382df66/thumb_16x9/27811358.jpg",
-      "published": "2026-10-24 22:41:44",
+      "title": "2 Things We Learned About 76ers in 3rd Game of Season",
+      "description": "Looking at two things we learned about the Philadelphia 76ers in their third game of the 2026-27 NBA season.",
+      "link": "https://www.si.com/nba/76ers/onsi/2-things-we-learned-about-76ers-3rd-game-of-season-01m5rbdpc2bk",
+      "source": "Sports Illustrated",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3716,h_2090,x_0,y_83/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_76ers/01m5ren80n8gyavgyvas.jpg",
+      "published": "2026-10-25 02:46:43",
       "category": [
         "sports"
       ],
@@ -118,102 +135,30 @@
       ]
     },
     {
-      "title": "MLB Labor Talks: Why Both Sides Still Believe a Deal Is Possible",
-      "description": "Regular bargaining is continuing even as philosophical divides remain.",
-      "link": "https://sports.yahoo.com/articles/mlb-labor-talks-why-both-224135699.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/9e7c69b6e34ce8a25fa1691e2982e1a062efbb70c2f71de41340d11972d54daa/lightyear_networkapi/resizefill_w682_h365%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffront_office_sports_190%2Fcebf94ceba56d963d48a7fac262ac847.jpg",
-      "published": "2026-10-24 22:41:35",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Philip Rivers Reportedly Potential NC State HC Candidate with Son Gunner Committed to Wolfpack",
-      "description": "North Carolina State will reportedly consider former Wolfpack quarterback Philip Rivers for their open football head coach position after firing longtime program leader Dave Doeren on Saturday night, according to ESPN's Pete Thamel.",
-      "link": "https://bleacherreport.com/articles/25519842-philip-rivers-reportedly-potential-nc-state-hc-candidate-son-gunner-committed-wolfpack",
-      "source": "Bleacherreport",
-      "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-10/7c5bfbd25a7641b2b17ce3c3f893a3b4/Jaguars_Colts_Football_40796_5446x3064_(0,567).jpg",
-      "published": "2026-10-24 22:41:30",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Freshman Michael Clayton II, Illinois defeat Oregon",
-      "description": "Michael Clayton II's 23-yard touchdown pass to Collin Dixon with 2:29 to play sealed Illinois's 21-10 win over Oregon on Saturday in Champaign, Ill.,I",
-      "link": "https://deadspin.com/freshman-michael-clayton-ii-illinois-defeat-oregon/",
-      "source": "Deadspin",
-      "image": "https://images.deadspin.com/30052094.jpg?tr=w-1200,h-675,fo-auto,f-jpg",
-      "published": "2026-10-24 22:41:28",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Alexander Volkanovski stuns the world with epic KO win over Movsar Evloev at UFC 333 - News.com.au",
-      "description": "Alexander Volkanovski stuns the world with epic KO win over Movsar Evloev at UFC 333 News.com.au Main Card Results | UFC 333: Volkanovski vs Evloev UFC.com BREAKING: Volk\u2019s \u2018unreal\u2019 title statement as Aussie makes good on hilarious promise Fox Sports \u2018Unreal\u2019 Volkanovski retains title, honours promise to stressed wife Nine.com.au UFC 333 results: Volkanovski and Yan win to retain titles ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnNXQ2REVjJkSjhyU1c4MVMwdi1nUHVUQl9HVHIxYW5LM0wzZjNRM0NzdmJMczlCdElkaE94VWxXRHpUWGdGZ3FhNktBQUlqMHpDaWhVWWFSWTJpdkh6WUhVdUl3LXlPNU1GZUhXLU5HS3hHLXd1dDl3Wkhsd3hxT3NqNGJ6VEN1MmNhUHVzOHZFOGhqN05ZYlFCQWp1MGJ4d0xEa0dwYmdGeUI1VTFBX3hmSE1iNHZlN3Exd2ZjbzlOb3B5LV9EY1RVY0xzck9HZzVvbUlpRQ?oc=5",
-      "source": "Google News",
+      "title": "Greco Roman wrestlers struggle badly, only Lalit manages a win",
+      "description": "Astana, Oct 24: India expectedly endured a tough outing on the opening day of the World Wrestling Championship with only Lalit managing a win before bowing out against Iran\u2019s Payam Farzad Ahmadi in the 55kg quarterfinals here on Saturday. Three other Indian Greco-Roman wrestlers in action on the day suffered defeats in their respective Qualification [\u2026]",
+      "link": "https://theshillongtimes.com/2026/10/25/greco-roman-wrestlers-struggle-badly-only-lalit-manages-a-win/",
+      "source": "Theshillongtimes",
       "image": null,
-      "published": "2026-10-24 22:41:15",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "WWE Rumors: Rey Mysterio Retirement, Crown Jewel Update, Nikki Bella & More",
-      "description": "Fresh off Friday\u2019s episode of SmackDown, WWE is inching closer to its next Premium Live Event, which is Crown Jewel on November 7 in Saudi Arabia. The latest WWE rumors feature retirement plans for Rey Mysterio, an update on Crown Jewel amid threats of attacks in Saudi Arabia, a possible Nikki Bella push and more. Rey Mysterio [\u2026] The post WWE Rumors: Rey Mysterio Retirement, Crown Jewel Update, Nikki Bella & More appeared first on HEAVY.",
-      "link": "https://sports.yahoo.com/articles/wwe-rumors-rey-mysterio-retirement-224104340.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/5380a982ab4fef3f074f74952f6c6f41808317cb6f0f593cf84c8ed4026af9f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Ff66741b12afbb35d7adaf152174f2e4a.png",
-      "published": "2026-10-24 22:41:04",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Flyers Could Have, & Probably Should Have Beat Ducks on Saturday",
-      "description": "\u201cI think I thought we played well enough to win the game, and I don\u2019t think I played well enough [\u2026]",
-      "link": "https://sports.yahoo.com/articles/flyers-could-probably-beat-ducks-224100671.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/a05b84060e520a1a5051f1c12a5114dacbc772e9e6e4e7902bad6e85d0ee2512/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fphilly_hockey_now_articles_579%2F174967d28f1c613b238b4b5a4f562c1f.jpg",
-      "published": "2026-10-24 22:41:00",
-      "category": [
-        "breaking",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "SOCCER: Oakwood soars past Saints",
-      "description": "The OCA Elementary soccer team continued its winning ways this past Thursday with a 7-3 conference home win over St. Jude.",
-      "link": "https://www.northwestgeorgianews.com/catoosa_walker_news/soccer-oakwood-soars-past-saints/article_f5b22b68-1282-40b3-b8e9-e0a946babafa.html",
-      "source": "The Rome News-tribune",
-      "image": "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/6/dd/6dda95d5-a844-4701-b629-436ca699390a/6ab6db6c2e7da.image.jpg?resize=300%2C228",
-      "published": "2026-10-24 22:41:00",
+      "published": "2026-10-25 02:46:33",
       "category": [
         "top",
         "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Brewers' 50-50 raffle prize record broken for a second night in a row",
+      "description": "The 50-50 raffle at American Family Field set another record for the second night in a row.",
+      "link": "https://sports.yahoo.com/articles/brewers-50-50-raffle-prize-024623556.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/4f4d65453efb51af2b4ad99644784f4eae8535fe86a12a886f8b32738a9f5c90/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilwaukee_journal_sentinel_natl_articles_362%2Fb9982c273e3015a3dfb04c9ec1efa047.jpg",
+      "published": "2026-10-25 02:46:23",
+      "category": [
+        "sports",
+        "breaking"
       ],
       "country": [
         "united states of america"

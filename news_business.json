@@ -1,21 +1,72 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Simone Biles cries following sale of million-dollar home",
-      "description": "The 29-year-old Olympic gold medalist said that her 3,998-square-foot property in Texas sold after the home was on the market for only four days.",
-      "link": "https://www.wcvb.com/article/simone-biles-sale-of-million-dollar-home/74239242",
-      "source": "Wcvb",
-      "image": "https://kubrick.htvapps.com/vidthumb/e7ba8620-cbe0-43c3-ab11-f77505c6fba4/c5c992ed-bc9e-47bb-9546-a82288325b78.jpg",
-      "published": "2026-10-25 02:47:00",
+      "title": "Ariston Announces Major Brand Relaunch Across the MEA Region Headlined by Italian Chef Massimo Bottura",
+      "description": "Ariston Announces Major Brand Relaunch Across the MEA Region Headlined by Italian Chef Massimo BotturaAs a brand of the leading global home appliance manufacturer Beko, Ariston is rolling out an ex...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-10/69927289-ariston-announces-major-brand-relaunch-across-the-mea-region-headlined-by-italian-chef-massimo-bottura-008.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-ariston-holding-nv-aktie-intraklein-tradegate.png",
+      "published": "2026-10-25 06:06:00",
       "category": [
         "top",
-        "sports",
         "business"
       ],
       "country": [
-        "united states of america"
+        "germany"
+      ]
+    },
+    {
+      "title": "Surprise data reveals the Aussies leading our \u2018buy local\u2019 charge - Herald Sun",
+      "description": "Surprise data reveals the Aussies leading our \u2018buy local\u2019 charge Herald Sun Queenslanders answer the call as Back Australia returns The Courier Mail Top End chooses local as Back Australia campaign fights on in NT NT News Why backing local is survival for proud Tasmanians The Mercury \u2018Aussies answered the call \u2014 it\u2019s the simple switch driving a $16bn boom\u2019 Herald Sun",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaGFuRnlHbV9IVUprcUFWQXZtVmpKSHhidnBVdkF3NkRUZS1LVEcyYlZrZ2g4Y1B1V0tzN054TGUtR2V3dDFhTFZTYmJNX2plNGlFVU81TjF3ZUE4WTNWQzRfQ3RLNnpIbHVoTTNkVEpfQmItaGs2eXYzQm1MdG80T1phZUpCU2EzMFV1VDRrODh3a2hkYURicGlwUkRGdjQ3TUt6bWRrMS1EYUFaeFlNdWhhN0JvR19kbm5kcXJaeHktNzh2bVlsSVNrcGZZS3owNS1uWnR2a2N2TUdHdE9ZUUNkRC1zM2JQVGc2elVxeGdlOGI1dkxhOElfQUMyajFJZWx6bGVSbENjYlE4eDBUTUF5Y1E?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-25 06:05:56",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Mercuria Seeks UK Ruling on Baltic Exchange Tanker-Rate Assessments",
+      "description": "The dispute concerns TD3C, a tanker index used in derivatives worth billions of dollars. The hearing is scheduled to begin Monday, Oct. 26.",
+      "link": "https://econotimes.com/Mercuria-Seeks-UK-Ruling-on-Baltic-Exchange-Tanker-Rate-Assessments-1762840",
+      "source": "Econotimes",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/5ed056d5ec36030e94cf53de30b42c66c39caa35995e60baf5182e870951e38f.webp",
+      "published": "2026-10-25 06:05:40",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia",
+        "germany",
+        "india",
+        "japan",
+        "france",
+        "united states of america",
+        "canada",
+        "china",
+        "united kingdom",
+        "south korea"
+      ]
+    },
+    {
+      "title": "LG minister directs timely completion of development schemes in 51 cities",
+      "description": "LAHORE - Punjab Local Government and Community Development Minister Zeeshan Rafiq has directed the timely completion of Punjab Development Programme (PDP) schemes in 51 cities, saying that construction of drains and underground tanks is nearing completion.",
+      "link": "https://www.nation.com.pk/25-Oct-2026/lg-minister-directs-timely-completion-development-schemes-51-cities",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-10-25 06:05:40",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "pakistan"
       ]
     }
   ]

@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "I lost my job in a primary school due to endometriosis - Yahoo News Canada",
+      "description": "I lost my job in a primary school due to endometriosis Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHY3hTRXpkZVg1VDQzNGx2dHViMTkzMDJpR2tjMGkwR2VRQ3dvVkMyVTRyS0FaTVVIVGFXQWMxVEJHLWZIWUZBM3hCeENvQmpjd2RBNEJRc1NFOUdyS2RlMl9Eb0J1aWVWSWFyR0w1VlB2OWFUbmpj?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-25 06:06:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Understanding Mental Health",
+      "description": "I want to explore an important mental-health issue: how symptoms associated with schizophrenia, psychosis, hallucinations and catatonia can sometimes be misunderstood as supernatural experiences, particularly in societies where beliefs about jinn and possession are deeply rooted.",
+      "link": "https://www.nation.com.pk/25-Oct-2026/understanding-mental-health",
+      "source": "The Nation",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "published": "2026-10-25 06:05:40",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "pakistan"
+      ]
+    }
+  ]
 }

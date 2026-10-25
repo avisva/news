@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "2026 40 Under 40 honoree: Alyssa Mazur Hulbert",
+      "description": null,
+      "link": "https://www.autonews.com/awards/retail-40-under-40/2026/an-40-under-40-alyssa-mazur-hulbert-1025/",
+      "source": "Automotive News",
+      "image": "https://crain-crain-prod.web.arc-cdn.net/resizer/0sfaoCBxzR5plp07RLRUD0HSxd4=/cloudfront-us-east-1.images.arcpublishing.com/crain/LUFIUJETXNFGZLHAB3AAPCPULE.png",
+      "published": "2026-10-25 09:24:00",
+      "category": [
+        "technology",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Volkswagen to Build $4.2 Billion Audi Plant in Georgia",
+      "description": "Volkswagen will invest $4.2 billion in Macon, Georgia, to build a plant producing 200,000 Audi SUVs a year, the largest single U.S. auto investment ever.",
+      "link": "https://en.sedaily.com/international/2026/10/25/volkswagen-to-build-42-billion-audi-plant-in-georgia",
+      "source": "\uc11c\uc6b8\uacbd\uc81c",
+      "image": "https://wimg.sedaily.com/news/cms/2026/10/25/news-p.v1.20261022.7884ddebf7da473ca3d74d1616b56a3b_P1.jpg",
+      "published": "2026-10-25 09:23:18",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "south korea"
+      ]
+    }
+  ]
 }

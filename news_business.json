@@ -1,28 +1,80 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Interior Ministry Estimates 110,000 at Paris March Before Clashes",
-      "description": "The ministry counted 410,000 participants nationwide, while the CGT union put the total near 800,000, according to the Associated Press.",
-      "link": "https://econotimes.com/Interior-Ministry-Estimates-110-000-at-Paris-March-Before-Clashes-1762657",
-      "source": "Econotimes",
-      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/320258935fc32c90728c97dc94f6db68d694c7d1b23489f54bcd5b5a24922cc9.webp",
-      "published": "2026-10-24 17:39:36",
+      "title": "Kalispell approves new tiny home building code that could expand housing options for families",
+      "description": "Kalispell's City Council unanimously approved a new building code for tiny homes that could expand housing options across the city",
+      "link": "https://www.kpax.com/news/kalispell-approves-new-tiny-home-building-code-that-could-expand-housing-options-for-families",
+      "source": "Kpax News",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/f1aac16/2147483647/strip/true/crop/1097x576+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5e%2Fdb%2F2bcbadf846daa493c387002b3f45%2Fscreenshot-2026-04-22-at-4-14-14-pm.png",
+      "published": "2026-10-24 22:41:50",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "bet365 Bonus Code: Bet $10, Get $200 in Bonus Bets for Ole Miss vs. Texas",
+      "description": "New users who sign up with our bet365 bonus code and bet $10 on Ole Miss vs. Texas unlock $200 in bonus bets when their first wager settles, win or lose.",
+      "link": "https://www.actionnetwork.com/news/bet365-bonus-code-bet-10-get-200-in-bonus-bets-for-ole-miss-vs-texas",
+      "source": "Action Network",
+      "image": null,
+      "published": "2026-10-24 22:41:37",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "NYC coffee shop serves up pumpkin spice lattes \u2014 inside real pumpkins",
+      "description": "The Coffee Lab in Astoria went viral for serving $15 pumpkin spice lattes inside real pumpkins, selling over 400 drinks since October.",
+      "link": "https://nypost.com/2026/10/24/us-news/queens-coffee-shop-goes-viral-for-serving-pumpkin-spice-lattes-in-real-pumpkins/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fastoria-coffee-shop-going-viral-146213741.jpg?w%3D768",
+      "published": "2026-10-24 22:41:27",
+      "category": [
+        "top",
+        "business",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Is Berkshire Bending the Rules With Bending Spoons?",
+      "description": "When you think \u201ccompanies Berkshire Hathaway likes\u201d, often we think of mature, almost iconic businesses that have produced consistent results for years. Bending Spoons, an acquirer of legacy digital assets, doesn\u2019t really fit the mold. Today, though, Matt, Jon, and Tyler take a closer look at why Berkshire is buying this Milan-based business and why it may be closer to the prototypical Berkshire business. Plus, emptying the analyst notebook on earnings and distressed debt is hitting neoclouds",
+      "link": "https://www.fool.com/investing/2026/10/24/is-berkshire-bending-the-rules-with-bending-spoons/",
+      "source": "Fool",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a1e6e973bbef156c5809fd8878ba65bb83fc8aa5-1280x720.jpg",
+      "published": "2026-10-24 22:41:17",
       "category": [
         "business"
       ],
       "country": [
-        "south korea",
-        "united kingdom",
-        "germany",
-        "india",
-        "japan",
-        "france",
-        "canada",
-        "australia",
-        "united states of america",
-        "china"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The business of service",
+      "description": "Exposes deceptive marketing in services, showing coercive upselling harms, and calls for compassionate, value-driven client-focused approaches.",
+      "link": "https://www.thehindu.com/opinion/open-page/the-business-of-service/article71612825.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/news/national/loac7j/article71612832.ece/alternates/FREE_1200/iStock-490753280.jpg",
+      "published": "2026-10-24 22:41:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,29 +1,14 @@
 {
   "status": "success",
-  "totalResults": 23,
+  "totalResults": 16,
   "results": [
     {
-      "title": "\u2018Sent videos of himself with sex toys\u2019: Serial abuser jailed",
-      "description": null,
-      "link": "https://www.couriermail.com.au/news/queensland/rockhampton/police-courts/stalker-granted-immediate-parole-after-bombarding-expartner-with-1800-abusive-texts/news-story/3bb4b4b9148ba08bad3544f705114369",
-      "source": "The Courier Mail",
-      "image": null,
-      "published": "2026-10-26 04:28:00",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Police find 91 foreigners working illegally at Dong Nai firm",
-      "description": "DONG NAI (Vietnam): Police in the southern city of Dong Nai said they found 91 foreigners, without elaborating on their nationalities, working without permits at a company and have begun administrative proceedings against the firm and individuals involved.",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/police-find-91-foreigners-working-illegally-at-dong-nai-firm",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/26/4180947.jpg",
-      "published": "2026-10-26 04:28:00",
+      "title": "Israeli strike in Gaza kills three including child",
+      "description": "Israeli gunfire and airstrikes killed 11 people and wounded 50 in Gaza over the past 24 hours.",
+      "link": "https://www.freemalaysiatoday.com/category/world/2026/10/26/israeli-strike-in-gaza-kills-three-including-child-civil-defence",
+      "source": "Free Malaysia Today",
+      "image": "https://media.freemalaysiatoday.com/v3/2026/10/8b67de0d-83b2-4cf5-9b88-b75ee459e0a0-Gaza-attack-deaths-AFP-26_10_26-.webp",
+      "published": "2026-10-26 09:20:00",
       "category": [
         "crime",
         "top"
@@ -33,14 +18,77 @@
       ]
     },
     {
-      "title": "Suspected DUI driver arrested after 2 cyclists killed in Montclair",
-      "description": "New surveillance video from neighbors shows the moments after a car crashed into a crowd of cyclists. Keenan Willard reports for the NBC4 News on Sunday, Oct.\u2026",
-      "link": "https://www.nbclosangeles.com/video/news/local/suspected-dui-driver-arrested-after-2-cyclists-killed-in-montclair/3960608/",
-      "source": "Nbc Los Angeles",
-      "image": "https://media.nbclosangeles.com/2026/10/52205293487-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-      "published": "2026-10-26 04:27:51",
+      "title": "Twenty\u2011Five Years After Patriot Act: A Legacy of Surveillance and the Ongoing Debate Over Privacy",
+      "description": "Examining the legacy of the USA PATRIOT Act 25 years after its enactment: the balance between national security and civil liberties, recent reforms, and the urgent need to address rapid technological advances.",
+      "link": "https://us.headtopics.com/news/twenty-five-years-after-patriot-act-a-legacy-of-89203883",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/26/newsweek/twenty-five-years-after-patriot-act-a-legacy-of-twenty-five-years-after-patriot-act-a-legacy-of-E48568D1239A4E90902E30BEF628C4DD-16x9.webp",
+      "published": "2026-10-26 09:20:00",
       "category": [
-        "crime",
+        "top",
+        "technology",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Morning Digest: New vision for Cleveland's lakefront could reshape area around Huntington Bank Field",
+      "description": "Good morning, Cleveland! Here's what you need to know about today's stories on GMC, traffic and weather.",
+      "link": "https://us.headtopics.com/news/morning-digest-new-vision-for-cleveland-s-lakefront-could-89203861",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/26/wews/morning-digest-new-vision-for-cleveland-s-lakefron-morning-digest-new-vision-for-cleveland-s-lakefron-6697CB3A3F21FE21A3003061E2A07EF1-16x9.webp",
+      "published": "2026-10-26 09:20:00",
+      "category": [
+        "top",
+        "tourism",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Black Minnesotans rally for affordable, equitable health care",
+      "description": "Black Minnesotans gathered at Greater Friendship Missionary Baptist Church two weeks before the midterms to demand affordable, quality health care. Faith in Minnesota\u2019s \u201cOur Lives, Not Their Profits\u201d rally featured Attorney General Keith Ellison and state Rep. Cedrick Frazier. Contributing writer Izzy Canizares has the story. The post Black Minnesotans rally for affordable, equitable health care appeared first on Minnesota Spokesman-Recorder.",
+      "link": "https://spokesman-recorder.com/2026/10/26/black-minnesotans-health-care-rally-faith-in-minnesotav/",
+      "source": "Minnesota Spokesman-recorder",
+      "image": "https://i0.wp.com/spokesman-recorder.com/wp-content/uploads/2026/10/Health1-scaled.jpg?fit=2560%2C1707&ssl=1",
+      "published": "2026-10-26 09:20:00",
+      "category": [
+        "top",
+        "health",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Black Friday is coming, 5 things to know before the deals start",
+      "description": "Black Friday now stretches across much of November, with retailers, payment providers and online gambling platforms competing for consumers\u2019 attention. Here are five ways South African shoppers can prepare, protect their budget and avoid missing the fine print.",
+      "link": "https://capetimes.co.za/partnered/2026-10-26-black-friday-is-coming-5-things-to-know-before-the-deals-start/",
+      "source": "Cape Times",
+      "image": null,
+      "published": "2026-10-26 09:20:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "south africa"
+      ]
+    },
+    {
+      "title": "Next Weather: WBZ morning forecast for Oct. 26, 2026",
+      "description": null,
+      "link": "https://www.cbsnews.com/boston/video/next-weather-wbz-morning-forecast-for-oct-26-2026/",
+      "source": "Cbs Boston",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/26/dd658d9c-ebfb-47ff-8c46-d63d498e64a8/thumbnail/1024x576/be6821ae8335ba720f0f4bb8b901bb26/99015085759bd4fdca60ab86602c9b9c.jpg",
+      "published": "2026-10-26 09:20:00",
+      "category": [
+        "environment",
         "top"
       ],
       "country": [
@@ -48,43 +96,28 @@
       ]
     },
     {
-      "title": "Seventeen people narrowly escape as massive fire guts homes in Seremban",
-      "description": "SEREMBAN, Oct 26 \u2014 Four semi-permanent houses located behind UTC Ampangan here was 80 per cent destroyed in a fire...",
-      "link": "https://www.malaymail.com/news/malaysia/2026/10/26/seventeen-people-narrowly-escape-as-massive-fire-guts-homes-in-seremban/240626",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/26/370519.jpg",
-      "published": "2026-10-26 04:27:50",
+      "title": "Worcestershire restaurant shortlisted for major British Bangladeshi cuisine award",
+      "description": "Worcestershire restaurant Entouraj in Cutnall Green, has been shortlisted for Restaurant of the Year at the 2026 BCA Awards",
+      "link": "https://www.worcesternews.co.uk/news/26668367.entouraj-shortlisted-bca-restaurant-year-2026/",
+      "source": "The Worcester News",
+      "image": "https://www.worcesternews.co.uk/resources/images/21628744/",
+      "published": "2026-10-26 09:20:00",
       "category": [
-        "crime",
-        "top"
+        "top",
+        "lifestyle",
+        "food"
       ],
       "country": [
-        "singapore",
-        "malaysia"
+        "united kingdom"
       ]
     },
     {
-      "title": "Minor girl allegedly raped and murdered in Bengal\u2019s Gaighata, relative detained",
-      "description": "Kolkata: In a tragic incident, a 17-year-old minor girl was found dead in the outskirts of a relative\u2019s house at Gaighata in North 24 Parganas district on Sunday morning. Police suspect rape and murder and has arrested a relative. As per reports, the girl attended a musical programme with her friends on the Saturday night [\u2026] The post Minor girl allegedly raped and murdered in Bengal\u2019s Gaighata, relative detained appeared first on KalingaTV.",
-      "link": "https://kalingatv.com/nation/minor-girl-allegedly-raped-and-murdered-in-bengals-gaighata-relative-detained/",
-      "source": "Kalinga Tv",
+      "title": "Mumbai-Bengaluru, Delhi-Varanasi Vande Bharat Sleeper trains: Routes, timings, fares and key details - The Times of India",
+      "description": "Mumbai-Bengaluru, Delhi-Varanasi Vande Bharat Sleeper trains: Routes, timings, fares and key details The Times of India Delhi-Varanasi Vande Bharat Sleeper likely to launch on October 31, offering faster overnight travel betwe The Economic Times Bengaluru\u2013Mumbai Vande Bharat sleeper train launch date The Hindu Varanasi-Delhi Vande Bharat sleeper bookings to open on Oct 27 | Tap to know more | Inshorts Inshorts Vande Bharat Sleeper gets Nov. 1 launch for 16-hour Bengaluru\u2013Mumbai run Railway Supply",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNN2QzZlI4OGRmS3A0RGZ0ZGExTXhFRHhvUGZPSXp2SnZFZF9XNWNOdUp5ZEVES3ZVXzV1NDRTaEl5UGZmaFRoQTJiVEEtWFZ4OTIyVFRuOC1oeW1RZWF0SHlDcHRWQUdHYUZjT09lRXVDc2loMl93TmlEMzl4WFhPQkwwWWFBMTUyNmhxWDU3UXROYzA4dUN0MkRBa2Y4dmtVZV8ybEV6cUpkY2NvRnNyVjNwWmFoNVhOay1hZmxIdzNmbUJYN2VyR1NmaC1yQnNsVTdFOFA3ODJVaTBYZjlaLVpJUF9aODlyaU5aNTJDNVNzeXE4NUVyVFBOMUstVjBaUzE5UUN6Y2pGNmNvVVJj?oc=5",
+      "source": "Google News",
       "image": null,
-      "published": "2026-10-26 04:27:47",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Fake Instagram Profiles To AI Deepfakes: 5 Online Scams Gen Z Should Not Ignore",
-      "description": "The internet has become integral to daily life, especially for Gen Z, who often encounter online scams. A McAfee report highlights that over one-third of Gen Z adults in the US lost money to scams last year.",
-      "link": "https://www.timesnownews.com/technology-science/fake-instagram-profiles-to-ai-deepfakes-5-online-scams-gen-z-should-not-ignore-article-156406149",
-      "source": "Times Now News",
-      "image": "https://images.timesnownews.com/thumb/msid-156406151,thumbsize-2119110,width-1280,height-720,resizemode-75/156406151.jpg",
-      "published": "2026-10-26 04:27:46",
+      "published": "2026-10-26 09:20:00",
       "category": [
         "top",
         "technology"
@@ -94,89 +127,75 @@
       ]
     },
     {
-      "title": "Season Pass Ep. 10 highlighted by multiple separate four touchdown performances",
-      "description": "SAN ANGELO, Texas (Concho Valley Homepage) \u2014 Week nine of the High school football season is in the books which means episode nine of Season Pass is out. High school football officially sees every team partake in district action. ASU fall sports closed out a successful week at home for all three sports before two [...]",
-      "link": "https://www.conchovalleyhomepage.com/season-pass/season-pass-ep-10-highlighted-by-multiple-separate-four-touchdown-performances/",
-      "source": "Conchovalleyhomepage.com",
-      "image": "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2026/02/KLST-SEASON-PASS.jpg?w=900",
-      "published": "2026-10-26 04:27:45",
+      "title": "Koreans' U.S. visitor visa rejection rate jumps to 24.7%",
+      "description": "The U.S. visitor visa rejection rate for South Korean applicants surged to 24.73% in fiscal 2025, raising concerns over stricter screening and impacts on travel and business.",
+      "link": "https://www.koreajoongangdaily.com/opinion/koreas-soaring-us-visa-rejection-rate-demands-answers/12939170",
+      "source": "Koreajoongangdaily Joins News",
+      "image": null,
+      "published": "2026-10-26 09:20:00",
       "category": [
         "top",
-        "sports"
+        "politics"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Electricity worth nearly Rs 100 billion exported",
+      "description": "Kathmandu, Oct 26: Nepal, once plagued by power cuts lasting up to 18 hours a day, has earned nearly Rs 100 billion from electricity exports over the past decade, marking a major shift in its energy sector. Expanded hydropower generation has reduced the country\u2019s reliance on imported electricity and enabled it to sell surplus power [\u2026] The post Electricity worth nearly Rs 100 billion exported appeared first on Peoples' Review.",
+      "link": "https://peoplesreview.com.np/2026/10/26/electricity-worth-nearly-rs-100-billion-exported/",
+      "source": "Peoples Review",
+      "image": "https://peoplesreview.com.np/wp-content/uploads/2026/01/Electricity.jpg",
+      "published": "2026-10-26 09:20:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "nepal"
+      ]
+    },
+    {
+      "title": "'Black Swan' Author Nassim Taleb Says AI Will Trigger a \u2018Collapse in Hiring\u2019 Before Mass Layoffs: \u2018Existing Jobs Are Sticky\u2019",
+      "description": null,
+      "link": "https://www.benzinga.com/markets/economic-data/26/10/62582963/black-swan-author-nassim-taleb-says-ai-will-trigger-a-collapse-in-hiring-before-mass-layoffs-existing-jobs-are-sticky",
+      "source": "Benzinga",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/10/26/Nassim-Nicholas-Taleb.jpg?crop=600:400,smart&optimize=medium",
+      "published": "2026-10-26 09:19:58",
+      "category": [
+        "technology",
+        "top"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "KJSEA & KPSEA: Govt must strengthen examination security beyond threats of cancellation",
-      "description": "As the Kenya Junior School Education Assessment (KJSEA) begins today on Monday, October 26, 2026, the government faces a critical test: protecting the credibility of national assessments while ensuring that learners are not unfairly penalised by examination malpractice. The Kenya National Examinations Council (KNEC) has warned that candidates who commit examination irregularities risk having results [\u2026]",
-      "link": "https://peopledaily.digital/insights/kjsea-kpsea-govt-must-strengthen-examination-security-beyond-threats-of-cancellation",
-      "source": "People Daily",
-      "image": "https://peopledaily.digital/wp-content/uploads/2024/10/OGAMBA-kpsea.png",
-      "published": "2026-10-26 04:27:40",
+      "title": "STL Capital Group, COPE partner for breast cancer awareness walk, offer free screening",
+      "description": "STL Capital Group, in partnership with the Care Organisation Public Enlightenment (COPE), has intensified efforts to promote breast cancer awareness",
+      "link": "https://businessday.ng/companies/article/stl-capital-group-cope-partner-for-breast-cancer-awareness-walk-offer-free-screening/",
+      "source": "Business News Nigeria",
+      "image": null,
+      "published": "2026-10-26 09:19:56",
       "category": [
         "top",
-        "education"
+        "health"
       ],
       "country": [
-        "kenya"
+        "nigeria"
       ]
     },
     {
-      "title": "Paya Terubong landslide site needs close monitoring, says MBPP",
-      "description": "Mayor A Rajendran says prolonged rainfall could weaken the soil and increase the risk of another landslide, despite no signs of further instability since the rain stopped.",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/paya-terubong-landslide-site-needs-close-monitoring-says-mbpp",
-      "source": "Free Malaysia Today",
-      "image": "https://media.freemalaysiatoday.com/v3/2026/10/e6ee05ac-5140-47af-98e3-d03cb6cee5a8-tanah-runtuh-pulau-pinang-fb-261026-2.jpg",
-      "published": "2026-10-26 04:27:38",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "15 Suspects Fatally Shot Following Daytime Armed Robbery in Kimbe",
-      "description": "A daylight armed robbery in the heart of Kimbe town turned deadly this morning after 15 suspects were shot dead by police following a vehicle crash during their getaway. To access this post, you must purchase Web, Web \u2013 One-Day, Web \u2013 14-Day, Web \u2013 One-Month, Web \u2013 Three-Month, Web \u2013 Six-Month, Web \u2013 Annual, Web & eBook, Web & eBook \u2013 One-Day, Web & eBook \u2013 14-Day, Web & eBook \u2013 One-Month, Web & eBook \u2013 Three-Month, Web & eBook \u2013 Six-Month or Web & eBook \u2013 Annual. The post 15 Suspects Fatally Shot Following Daytime Armed Robbery in Kimbe appeared first on Post Courier.",
-      "link": "https://www.postcourier.com.pg/15-suspects-fatally-shot-following-daytime-armed-robbery-in-kimbe/",
-      "source": "Post Courier",
-      "image": "https://www.postcourier.com.pg/wp-content/uploads/2026/10/PC-Online-feature-image-2026-10-26T142655.683.png",
-      "published": "2026-10-26 04:27:36",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "papua new guinea"
-      ]
-    },
-    {
-      "title": "Earthquake Shakes Afghanistan\u2019s Capital, Kabul",
-      "description": "A magnitude 5.2 earthquake struck Afghanistan\u2019s Hindu Kush region on Sunday, with tremors felt in parts of Kabul, according to seismic agencies. The United States Geological Survey (USGS) and the European-Mediterranean Seismological Centre (EMSC) reported the earthquake on October 25, locating its epicentre about 59 kilometres southwest of Ashkasham in northeastern Afghanistan. The earthquake occurred [\u2026] The post Earthquake Shakes Afghanistan\u2019s Capital, Kabul appeared first on Khaama Press.",
-      "link": "https://www.khaama.com/magnitude-5-2-earthquake-hindu-kush-afghanistan/",
-      "source": "Khaama Press",
-      "image": "https://www.khaama.com/wp-content/uploads/2023/03/Takhar-earthquake.jpg",
-      "published": "2026-10-26 04:27:35",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "afghanistan"
-      ]
-    },
-    {
-      "title": "PV Sindhu\u2019s Bengaluru home is a masterclass in modern-meets-traditional design: From a Mahabharata chessboard to a gallery wall of her achievements, decor inspirations to steal",
-      "description": "Filmmaker Farah Khan took a deep dive into the serene abode of badminton champion PV Sindhu in Bengaluru, unraveling her personal life through her decor choices. The spacious living room, adorned in soft pastels, includes cherished items like an exquisite chessboard. Sindhu\u2019s home also hosts a poolside dining area and a contemporary kitchen, exuding warmth and intimacy that celebrate both their journey and sporting success.",
-      "link": "https://timesofindia.indiatimes.com/life-style/home-garden/pv-sindhus-bengaluru-home-is-a-masterclass-in-modern-meets-traditional-design-from-a-mahabharata-chessboard-to-a-gallery-wall-of-her-achievements-decor-inspirations-to-steal/articleshow/135202514.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135202647/135202647.jpg",
-      "published": "2026-10-26 04:27:35",
+      "title": "Raksha Mantri to lead Indian delegation at 13th ADMM-Plus in Philippines",
+      "description": "New Delhi, Oct 26: Raksha Mantri Shri Rajnath Singh will lead the Indian delegation at the 13th Association of Southeast Asian Nations (ASEAN) Defence Ministers\u2019 Meeting (ADMM) \u2013 Plus at Cebu, Philippines from October 28 to 29, 2026. He will address the forum on \u2018Exchange of Views on Regional and International Security Issues\u2019. On the [\u2026]",
+      "link": "https://roshankashmir.net/2026/10/26/raksha-mantri-to-lead-indian-delegation-at-13th-admm-plus-in-philippines/",
+      "source": "Roshan Kashmir",
+      "image": "https://i0.wp.com/roshankashmir.net/wp-content/uploads/2026/10/IMG_a9237dec-3aae-40aa-bc2f-e4a55a8de495.jpg",
+      "published": "2026-10-26 09:19:56",
       "category": [
         "top",
+        "politics",
         "lifestyle"
       ],
       "country": [
@@ -184,12 +203,27 @@
       ]
     },
     {
-      "title": "Coforge slips 3% even as Jefferies, Nomura, others raise targets after Q2 earnings. Why are they bullish?",
-      "description": "Coforge shares fell despite strong Q2 results and brokerages raising target prices. Net profit surged 56.5% year-on-year to Rs 588.1 crore, while revenue jumped 54% to Rs 6,170.8 crore. EBITDA rose 67% to Rs 1,269.7 crore, with margins expanding 168 basis points to 20.6%. The company raised its FY27 EBIT margin guidance to 16%, while its 12-month order book grew 45% to $2.38 billion.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-slips-3-even-as-jefferies-nomura-others-raise-targets-after-q2-earnings-why-are-they-bullish/articleshow/135202672.cms",
-      "source": "The Economic Times",
-      "image": "https://img.etimg.com/thumb/msid-135202740,resizemode-4,width-1200,height-900,imgsize-1810018,overlay-etmarkets/articleshow.jpg",
-      "published": "2026-10-26 04:27:33",
+      "title": "Number of Asian packages delivered via PostNL falls by a third",
+      "description": "In the third quarter, PostNL delivered 32% fewer packages from Asia. The new European import duty on small shipments is clearly having an impact on the Dutch package delivery company. The number of packages delivered via the airport has also already dropped significantly.",
+      "link": "https://www.retaildetail.eu/news/general/number-of-asian-packages-delivered-via-postnl-falls-by-a-third-due-to-package-tax/",
+      "source": "Retaildetail Eu",
+      "image": "https://i0.wp.com/www.retaildetail.eu/wp-content/uploads/sites/2/2026/10/postnl.jpg",
+      "published": "2026-10-26 09:19:55",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Admatazz appoints Darrell Fernandes as EVP - Growth & Client Partnerships",
+      "description": "Admatazz has appointed Darrell Fernandes as Executive Vice President, Growth & Client Partnerships. In his new role, Fernandes will focus on business development, strengthening relationships with existing clients and building partnerships with prospective clients. Fernandes joins the agency after spending over five years at White Rivers Media as Senior Vice President. During his tenure, he worked across brands including Dream11, Glenmark, Raymond, Hero MotoCorp and ITC Foods, and managed projects for Netflix and Dettol. Before White Rivers Media, Fernandes was Associate Vice President at Red Fuse, part of WPP, where he was part of the leadership team working on Colgate-Palmolive\u2019s Indian business. His previous agency stints include Publicis Ambience, MullenLowe, Rediffusion Y&R and Bates 141. At Admatazz, Fernandes will work on identifying business opportunities, expanding brand partnerships and addressing clients\u2019 marketing needs through integrated advertising solutions. Commenting on the appointment, Yash Chandiramani, Founder, Admatazz, said, \u201cAs Admatazz enters its next phase of growth, we are focused on building a team that can take on larger challenges and create greater value for our clients. Darrell brings over two decades of experience across some of the leading names in advertising, with a strong understanding of both traditional and digital domains. His experience and perspective will be valuable as we strengthen our existing partnerships, build new relationships and continue to grow the business. We are excited to have him join our leadership team.\u201d Speaking on his new role, Darrell Fernandes said, \u201cGood advertising starts with understanding a brand\u2019s business challenge and developing a strategic and creative response that delivers outcomes that matter. What drew me to Admatazz is the opportunity to work with a team that brings these capabilities together, backed by a strong body of work. I look forward to building meaningful partnerships with clients, understanding their business challenges and identifying opportunities where we can create real value. I\u2019m delighted to join Yash, Samyaak and the rest of the team at this exciting stage of Admatazz\u2019s journey.\u201d",
+      "link": "https://www.socialsamosa.com/industry-updates/admatazz-darrell-fernandes-evp-growth-client-partnerships-12753042",
+      "source": "Social Samosa",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/socialsamosa/media/media_files/2026/10/26/28-18-2026-10-26-14-49-48.jpg",
+      "published": "2026-10-26 09:19:55",
       "category": [
         "top",
         "business"
@@ -199,153 +233,18 @@
       ]
     },
     {
-      "title": "Himanta Biswa Sarma\u2019s AI \u2018Gangnam Style\u2019 dance video with Assam ministers viral",
-      "description": "An AI-generated clip featuring Assam Chief Minister Himanta Biswa Sarma and ministers Pijush Hazarika and Jayanta Mallabaruah dancing to PSY\u2019s hit song has attracted millions of views on Instagram.",
-      "link": "https://www.cnbctv18.com/india/himanta-biswa-sarma-ai-gangnam-style-dance-video-with-assam-ministers-viral-20019018.htm",
-      "source": "Cnbctv18",
-      "image": "https://images.cnbctv18.com/uploads/2026/10/sarma-gangnam-dance-ai-2026-10-21e83a8ee95b34bcd0131f512bb3f9bd.jpg",
-      "published": "2026-10-26 04:27:32",
+      "title": "Kazakhstan's oil exports to Netherlands fall 16.5% in Jan-Aug",
+      "description": null,
+      "link": "https://www.trend.az/casia/kazakhstan/4239131.html",
+      "source": "Trend",
+      "image": "https://www.trend.az/media/2025/09/17/kazmunaygas_resumes_oil_exports_via_baku-tbilisi-ceyhan_pipeline.jpg",
+      "published": "2026-10-26 09:19:52",
       "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "SpiceJet Staff's 'Cheap Airline' Remark At Delhi Airport Goes Viral After Heated Passenger Clash: 'Sasta Hai Isliye...'",
-      "description": "A viral video showing a SpiceJet employee calling the airline cheap during a passenger dispute at Delhi airport has sparked debate over customer service and accountability",
-      "link": "https://www.news18.com/viral/spicejet-staffs-cheap-airline-remark-at-delhi-airport-goes-viral-after-heated-passenger-clash-sasta-hai-isliye-ws-l-10397439.html",
-      "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-9-2026-10-ef849afc6e7ede937149db922bf89986-1200x800.png",
-      "published": "2026-10-26 04:27:30",
-      "category": [
-        "breaking",
+        "business",
         "top"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "We do not support our own, but we watch horrible Hollywood movies \u2013 Yvonne Okoro",
-      "description": "Ghanaian actor and film producer Yvonne Okoro has bemoaned the lack of support for local films",
-      "link": "https://www.myjoyonline.com/we-do-not-support-our-own-but-we-watch-horrible-hollywood-movies-yvonne-okoro/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/eda52eb3-221c-477b-87a0-864aaa0deadb.jpeg",
-      "published": "2026-10-26 04:27:30",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Odisha deploys 60 ODRAF teams to tackle cyclone Arnab landfall",
-      "description": "Odisha has 20 ODRAF teams active and plans to deploy 60 in three phases as Cyclone Arnab is expected to make landfall on the Andhra Pradesh-Odisha coast.",
-      "link": "https://thenewsmill.com/2026/10/odisha-deploys-60-odraf-teams-to-tackle-cyclone-arnab-landfall/",
-      "source": "The News Mill",
-      "image": "https://thenewsmill.com/wp-content/uploads/2026/10/odisha-deploys-60-odraf-teams-to-tackle-cyclone-arnab-landfall.jpg",
-      "published": "2026-10-26 04:27:22",
-      "category": [
-        "environment",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "International & World News \u2013 26 October 2026",
-      "description": "\u2708\ufe0f INTERNATIONAL NEWS \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 1. The 12th BRICS Parliamentary Forum begins in New Delhi today on the theme \u201cFostering Parliaments for People-Centric Development\u201d, with PM Modi to grace the event. Eleven BRICS members and 10 partner countries have been invited; Lok Sabha Speaker Om Birla will chair it. 2. Ahead of the forum, Om Birla [\u2026]",
-      "link": "https://saachibaat.com/international-news/international-world-news-26-october-2026/",
-      "source": "Saachi Baat",
-      "image": "https://saachibaat.com/wp-content/uploads/2026/10/Piyush.jpg",
-      "published": "2026-10-26 04:27:19",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Kendrapara Gajalaxmi Puja begins, recalling Goddess Lakshmi\u2019s emergence during Samudra Manthan",
-      "description": "The famous Gajalaxmi Puja of Kendrapara has begun, bringing the town alive with festive fervour as devotees gather to worship Goddess Lakshmi. Decorative arches, colourful illuminations and beautifully adorned pandals have transformed the town, drawing large crowds from the first day of the seven-day celebration. The festival is being observed at 68 puja pandals across Kendrapara town and more than 100 pandals in the surrounding areas this year. Among the major attractions is the Ganga Bhagirathi Puja Mandap at Madhial, where Goddess Lakshmi is adorned with a gold crown and a magnificent silver backdrop. The festival also brings families and relatives together, with many people looking forward to visiting the pandals throughout the week. A devotee said, \u201cWe eagerly wait for Gajalaxmi Puja every year. Our relatives come to visit, and we spend all seven days enjoying the celebrations and visiting different pandals. The arrival of the Goddess fills the entire town with happiness, and we believe her blessings make these days especially joyful.\u201d Why Is Gajalaxmi Puja Celebrated? According to a priest, the festival is associated with the appearance of Goddess Lakshmi during the churning of the cosmic ocean, known as Samudra Manthan in Hindu mythology. \u201cAccording to tradition, Goddess Lakshmi emerged during the churning of the ocean. Her appearance is associated with the full moon day of the Hindu month of Ashwin, which is observed as an auspicious occasion to worship her. Devotees across the country offer prayers to the Goddess, seeking prosperity, wealth and well-being,\u201d the priest said. Elaborate Security Arrangements In Kendrapara Meanwhile, the district administration has made extensive arrangements to ensure that the celebrations are held peacefully. Around 25 platoons of police personnel have been deployed at various locations across Kendrapara town, while CCTV cameras are keeping watch over sensitive areas. On the other hand, Dhenkanal is also bustling with religious fervour and festivities, where Goddess Lakshmi is being worshipped at 41 puja pandals.",
-      "link": "https://odishatv.in/odisha/kendrapara-gajalaxmi-puja-begins-recalling-goddess-lakshmis-emergence-during-samudra-manthan-12751854",
-      "source": "Odisha Tv",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv/media/media_files/2026/10/26/kendrapara-gajalaxmi-puja-2026-10-26-09-57-02.jpg",
-      "published": "2026-10-26 04:27:18",
-      "category": [
-        "top",
-        "tourism"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\u0f55\u0f42\u0f54\u0f0b\u0f42\u0f66\u0f7c\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f60\u0f50\u0f56\u0f0b\u0f58\u0f72\u0f0b\u0f5a\u0f74\u0f0b\u0f63\u0f74\u0f0b \u0f51\u0f40\u0f60\u0f0b\u0f44\u0f63\u0f0b\u0f51\u0f44\u0f0b \u0f42\u0f51\u0f7c\u0f44\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f56\u0f5e\u0f72\u0f53\u0f0b\u0f51\u0f74\u0f0b\u0f61\u0f7c\u0f51\u0f54\u0f0d",
-      "description": "\u0f09 \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0b\u0f53\u0f44\u0f0b \u0f66\u0f92\u0f7c\u0f0b\u0f53\u0f7c\u0f62\u0f0b\u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f45\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f42\u0f7c\u0f44\u0f0b\u0f5a\u0f51\u0f0b\u0f58\u0f62\u0f0b\u0f56\u0f56\u0f66\u0f0b\u0f66\u0f7c\u0f44\u0f0b\u0f58\u0f72\u0f0b\u0f51\u0f44\u0f0b \u0f46\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f42\u0f7c\u0f44\u0f0b\u0f5a\u0f51\u0f0b\u0f61\u0f62\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f60\u0f42\u0fb1\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f63\u0f74\u0f0b\u0f56\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f5a\u0f7c\u0f44\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f60\u0f50\u0f56\u0f0b\u0f53\u0f72\u0f0b\u0f63\u0f74\u0f0b \u0f63\u0f71\u0f0b\u0f41\u0f42\u0f0b\u0f62\u0f90\u0fb1\u0f56\u0f0b\u0f51\u0f7c\u0f0b\u0f61\u0f7c\u0f51\u0f54\u0f0b\u0f51\u0f0b \u0f51\u0f7a\u0f0b\u0f42\u0f72\u0f66\u0f0b \u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f41\u0f0b\u0f50\u0f74\u0f42\u0f0b\u0f63\u0f66\u0f0b \u0f42\u0f7c\u0f44\u0f0b\u0f5a\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f56\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f62\u0f0b\u0f60\u0f56\u0f51\u0f0b\u0f58\u0f72\u0f0b\u0f51\u0f44\u0f0b \u0f58\u0f72\u0f0b\u0f66\u0f7a\u0f62\u0f0b\u0f66\u0f7c\u0f0b\u0f53\u0f58\u0f0b\u0f54\u0f0b\u0f5a\u0f74\u0f0b\u0f42\u0f72\u0f66\u0f0b \u0f66\u0fa4\u0fb1\u0f72\u0f62\u0f0b\u0f56\u0f4f\u0f44\u0f0b\u0f60\u0f7c\u0f44\u0f0b\u0f60\u0f56\u0f56\u0f0b\u0f56\u0f5f\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f42\u0f72\u0f0b\u0f56\u0f62\u0f0b\u0f53\u0f0b \u0f41\u0fb1\u0f51\u0f0b\u0f54\u0f62\u0f0b\u0f5e\u0f74\u0f42\u0f66\u0f0b\u0f51\u0f7c\u0f0b\u0f61\u0f7c\u0f51\u0f54\u0f0b\u0f68\u0f72\u0f53\u0f0b\u0f54\u0f66\u0f0d",
-      "link": "https://kuenselonline.com/news/91-118",
-      "source": "Kuensel Online",
-      "image": "http://bucket.kuenselonline.com/cis.kuenselonline/piggery-1.jpg",
-      "published": "2026-10-26 04:27:17",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "bhutan"
-      ]
-    },
-    {
-      "title": "How Mumbai man who studied till Class 12 posed as doctor for nearly 30 years, used trusts and companies to secure CSR funds, routed 188 crore through 30 bank accounts",
-      "description": "Dharmendrakumar Singh posed as a doctor for nearly thirty years and allegedly misappropriated funds totaling around Rs 188 crore. He operated through multiple trusts and companies, diverting money from CSR initiatives into personal accounts. A significant percentage of beneficiary data from a tuberculosis screening project was found to be fabricated during investigations. Additionally, police recovered numerous items, including expired medicines and medical equipment, during a recent search.",
-      "link": "https://timesofindia.indiatimes.com/city/mumbai/how-mumbai-man-who-studied-till-class-12-posed-as-doctor-for-nearly-30-years-used-trusts-and-companies-to-secure-csr-funds-routed-188-crore-through-30-bank-accounts/articleshow/135202544.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135202714/135202714.jpg",
-      "published": "2026-10-26 04:27:15",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "PM Le Minh Hung hosts welcome ceremony for Polish counterpart",
-      "description": "Prime Minister Le Minh Hung presided over an official welcome ceremony in Ha Noi on October 26 morning for his Polish counterpart Donald Tusk, who is paying an official visit to Viet Nam from October 24 to 26. Expanding substantive and effective cooperation between Viet Nam and Poland Broader horizons for Viet Nam\u2013Poland cooperation Viet Nam opens honorary consulate in Krakow, Poland",
-      "link": "https://en.nhandan.vn/pm-le-minh-hung-hosts-welcome-ceremony-for-polish-counterpart-post168226.html",
-      "source": "B\u00e1o Nh\u00e2n D\u00e2n \u0110i\u1ec7n T\u1eed",
-      "image": "https://en-cdn.nhandan.vn/images/PGsdfWzXfw3FSVNqQeLLm8Bva_qIYx_UxRjhN3C9jLRUXO9iNN2WXHdsqti8oYd-YeVzgnbM3AnYUuTpQhE-lA/base64.png.webp",
-      "published": "2026-10-26 04:27:14",
-      "category": [
-        "top",
-        "lifestyle"
-      ],
-      "country": [
-        "vietnam"
-      ]
-    },
-    {
-      "title": "Mecca pact countries\u2019 top officials to meet Iranian officials",
-      "description": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
-      "link": "https://bdnews24.com/world/61vd768wga",
-      "source": "Bdnews24.com",
-      "image": "https://media.assettype.com/bdnews24-english/2026-10-26/ki07hy7l/mecca-defence-pact-meeting-261026-01.jpg",
-      "published": "2026-10-26 04:27:14",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "bangladesh"
+        "azerbaijan"
       ]
     }
   ]

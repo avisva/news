@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Black Minnesotans rally for affordable, equitable health care",
+      "description": "Black Minnesotans gathered at Greater Friendship Missionary Baptist Church two weeks before the midterms to demand affordable, quality health care. Faith in Minnesota\u2019s \u201cOur Lives, Not Their Profits\u201d rally featured Attorney General Keith Ellison and state Rep. Cedrick Frazier. Contributing writer Izzy Canizares has the story. The post Black Minnesotans rally for affordable, equitable health care appeared first on Minnesota Spokesman-Recorder.",
+      "link": "https://spokesman-recorder.com/2026/10/26/black-minnesotans-health-care-rally-faith-in-minnesotav/",
+      "source": "Minnesota Spokesman-recorder",
+      "image": "https://i0.wp.com/spokesman-recorder.com/wp-content/uploads/2026/10/Health1-scaled.jpg?fit=2560%2C1707&ssl=1",
+      "published": "2026-10-26 09:20:00",
+      "category": [
+        "top",
+        "health",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "STL Capital Group, COPE partner for breast cancer awareness walk, offer free screening",
+      "description": "STL Capital Group, in partnership with the Care Organisation Public Enlightenment (COPE), has intensified efforts to promote breast cancer awareness",
+      "link": "https://businessday.ng/companies/article/stl-capital-group-cope-partner-for-breast-cancer-awareness-walk-offer-free-screening/",
+      "source": "Business News Nigeria",
+      "image": null,
+      "published": "2026-10-26 09:19:56",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Big oil market fixes reveal an even bigger problem: Analyst",
+      "description": "XAnalysts\u2018 Chief Oil Analyst Mukesh Sahdev discusses why large policy responses can signal deeper market stress, with depleted inventories, refining constraints and high freight costs limiting their impact. He says there is a growing probability of Brent reaching $150, especially if fresh shocks were to hit the market.",
+      "link": "https://www.cnbc.com/video/2026/10/26/big-oil-market-fixes-reveal-an-even-bigger-problem-analyst.html",
+      "source": "Cnbc",
+      "image": "https://image.cnbcfm.com/api/v1/image/108462771-17929968571792996855-49237996820-1080pnbcnews.jpg?v=1792996857",
+      "published": "2026-10-26 09:19:52",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

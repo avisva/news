@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "KMC Hospital Mangaluru to mark World Stroke Day with Initiative on early recognition",
+      "description": "Media Release Mangaluru, Oct 25: KMC Hospital, B.R. Ambedkar Circle, Mangaluru to organise a World Stroke Day awareness session on Saturday, October 31, 2026, from 12 PM to 1 PM at Tower 2, Ground Floor, KMC Hospital, Dr. B. R. Ambedkar Circle, Mangaluru. The session will focus on recogn....",
+      "link": "https://daijiworld.com/news/newsDisplay?newsID=1333463",
+      "source": "Daijiworld",
+      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_251026_KMC1.jpg",
+      "published": "2026-10-25 15:10:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

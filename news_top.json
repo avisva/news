@@ -1,199 +1,351 @@
 {
   "status": "success",
-  "totalResults": 13,
+  "totalResults": 23,
   "results": [
     {
-      "title": "United States Grand Prix: Kimi Antonelli delivers Champion's drive, maiden Formula 1 Title has to wait",
-      "description": "Kimi Antonelli won the 2026 United States Grand Prix in Austin but will have to wait to celebrate his maiden Formula 1 Title based on the outcome of the race.",
-      "link": "https://www.grandprix247.com/formula-1-news/united-states-grand-prix-kimi-antonelli-delivers-champions-drive-maiden-formula-1-title-has-to-wait",
-      "source": "Grand Prix 247",
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgrandprix247.com%2Fimages%2F2026-10%2Fantonelli-austin-2-2026-6ade725081b91.jpg",
-      "published": "2026-10-25 21:41:00",
+      "title": "\u2018Sent videos of himself with sex toys\u2019: Serial abuser jailed",
+      "description": null,
+      "link": "https://www.couriermail.com.au/news/queensland/rockhampton/police-courts/stalker-granted-immediate-parole-after-bombarding-expartner-with-1800-abusive-texts/news-story/3bb4b4b9148ba08bad3544f705114369",
+      "source": "The Courier Mail",
+      "image": null,
+      "published": "2026-10-26 04:28:00",
+      "category": [
+        "top",
+        "crime"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Police find 91 foreigners working illegally at Dong Nai firm",
+      "description": "DONG NAI (Vietnam): Police in the southern city of Dong Nai said they found 91 foreigners, without elaborating on their nationalities, working without permits at a company and have begun administrative proceedings against the firm and individuals involved.",
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/police-find-91-foreigners-working-illegally-at-dong-nai-firm",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/26/4180947.jpg",
+      "published": "2026-10-26 04:28:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Suspected DUI driver arrested after 2 cyclists killed in Montclair",
+      "description": "New surveillance video from neighbors shows the moments after a car crashed into a crowd of cyclists. Keenan Willard reports for the NBC4 News on Sunday, Oct.\u2026",
+      "link": "https://www.nbclosangeles.com/video/news/local/suspected-dui-driver-arrested-after-2-cyclists-killed-in-montclair/3960608/",
+      "source": "Nbc Los Angeles",
+      "image": "https://media.nbclosangeles.com/2026/10/52205293487-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "published": "2026-10-26 04:27:51",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Seventeen people narrowly escape as massive fire guts homes in Seremban",
+      "description": "SEREMBAN, Oct 26 \u2014 Four semi-permanent houses located behind UTC Ampangan here was 80 per cent destroyed in a fire...",
+      "link": "https://www.malaymail.com/news/malaysia/2026/10/26/seventeen-people-narrowly-escape-as-massive-fire-guts-homes-in-seremban/240626",
+      "source": "Malay Mail",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/26/370519.jpg",
+      "published": "2026-10-26 04:27:50",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "singapore",
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Minor girl allegedly raped and murdered in Bengal\u2019s Gaighata, relative detained",
+      "description": "Kolkata: In a tragic incident, a 17-year-old minor girl was found dead in the outskirts of a relative\u2019s house at Gaighata in North 24 Parganas district on Sunday morning. Police suspect rape and murder and has arrested a relative. As per reports, the girl attended a musical programme with her friends on the Saturday night [\u2026] The post Minor girl allegedly raped and murdered in Bengal\u2019s Gaighata, relative detained appeared first on KalingaTV.",
+      "link": "https://kalingatv.com/nation/minor-girl-allegedly-raped-and-murdered-in-bengals-gaighata-relative-detained/",
+      "source": "Kalinga Tv",
+      "image": null,
+      "published": "2026-10-26 04:27:47",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Fake Instagram Profiles To AI Deepfakes: 5 Online Scams Gen Z Should Not Ignore",
+      "description": "The internet has become integral to daily life, especially for Gen Z, who often encounter online scams. A McAfee report highlights that over one-third of Gen Z adults in the US lost money to scams last year.",
+      "link": "https://www.timesnownews.com/technology-science/fake-instagram-profiles-to-ai-deepfakes-5-online-scams-gen-z-should-not-ignore-article-156406149",
+      "source": "Times Now News",
+      "image": "https://images.timesnownews.com/thumb/msid-156406151,thumbsize-2119110,width-1280,height-720,resizemode-75/156406151.jpg",
+      "published": "2026-10-26 04:27:46",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Season Pass Ep. 10 highlighted by multiple separate four touchdown performances",
+      "description": "SAN ANGELO, Texas (Concho Valley Homepage) \u2014 Week nine of the High school football season is in the books which means episode nine of Season Pass is out. High school football officially sees every team partake in district action. ASU fall sports closed out a successful week at home for all three sports before two [...]",
+      "link": "https://www.conchovalleyhomepage.com/season-pass/season-pass-ep-10-highlighted-by-multiple-separate-four-touchdown-performances/",
+      "source": "Conchovalleyhomepage.com",
+      "image": "https://www.conchovalleyhomepage.com/wp-content/uploads/sites/83/2026/02/KLST-SEASON-PASS.jpg?w=900",
+      "published": "2026-10-26 04:27:45",
       "category": [
         "top",
         "sports"
       ],
       "country": [
-        "germany"
+        "united states of america"
       ]
     },
     {
-      "title": "United States Grand Prix: Kimi Antonelli wins after a Champion's drive, maiden Formula 1 Title has to wait",
-      "description": "Kimi Antonelli won the 2026 United States Grand Prix in Austin but will have to wait to celebrate his maiden Formula 1 Title based on the outcome of the race.",
-      "link": "https://www.grandprix247.com/formula-1-news/united-states-grand-prix-kimi-antonelli-wins-after-a-champions-drive-maiden-formula-1-title-has-to-wait",
-      "source": "Grand Prix 247",
-      "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgrandprix247.com%2Fimages%2F2026-10%2Fantonelli-austin-2-2026-6ade725081b91.jpg",
-      "published": "2026-10-25 21:41:00",
+      "title": "KJSEA & KPSEA: Govt must strengthen examination security beyond threats of cancellation",
+      "description": "As the Kenya Junior School Education Assessment (KJSEA) begins today on Monday, October 26, 2026, the government faces a critical test: protecting the credibility of national assessments while ensuring that learners are not unfairly penalised by examination malpractice. The Kenya National Examinations Council (KNEC) has warned that candidates who commit examination irregularities risk having results [\u2026]",
+      "link": "https://peopledaily.digital/insights/kjsea-kpsea-govt-must-strengthen-examination-security-beyond-threats-of-cancellation",
+      "source": "People Daily",
+      "image": "https://peopledaily.digital/wp-content/uploads/2024/10/OGAMBA-kpsea.png",
+      "published": "2026-10-26 04:27:40",
       "category": [
         "top",
-        "sports"
+        "education"
       ],
       "country": [
-        "germany"
+        "kenya"
       ]
     },
     {
-      "title": "Lyles Station Corn Maze",
-      "description": "Click here to view this article from pdclarion.com.",
-      "link": "https://www.pdclarion.com/news/lyles-station-corn-maze/article_319d2fd0-bf42-5eb7-9d26-9bece0452293.html",
-      "source": "Princeton Clarion",
-      "image": "https://bloximages.chicago2.vip.townnews.com/pdclarion.com/content/tncms/assets/v3/editorial/9/5e/95e76dcd-cc8d-5e69-b65f-fd170a1300e2/6adeca73e28ad.image.jpg?resize=300%2C279",
-      "published": "2026-10-25 21:41:00",
+      "title": "Paya Terubong landslide site needs close monitoring, says MBPP",
+      "description": "Mayor A Rajendran says prolonged rainfall could weaken the soil and increase the risk of another landslide, despite no signs of further instability since the rain stopped.",
+      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/paya-terubong-landslide-site-needs-close-monitoring-says-mbpp",
+      "source": "Free Malaysia Today",
+      "image": "https://media.freemalaysiatoday.com/v3/2026/10/e6ee05ac-5140-47af-98e3-d03cb6cee5a8-tanah-runtuh-pulau-pinang-fb-261026-2.jpg",
+      "published": "2026-10-26 04:27:38",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "15 Suspects Fatally Shot Following Daytime Armed Robbery in Kimbe",
+      "description": "A daylight armed robbery in the heart of Kimbe town turned deadly this morning after 15 suspects were shot dead by police following a vehicle crash during their getaway. To access this post, you must purchase Web, Web \u2013 One-Day, Web \u2013 14-Day, Web \u2013 One-Month, Web \u2013 Three-Month, Web \u2013 Six-Month, Web \u2013 Annual, Web & eBook, Web & eBook \u2013 One-Day, Web & eBook \u2013 14-Day, Web & eBook \u2013 One-Month, Web & eBook \u2013 Three-Month, Web & eBook \u2013 Six-Month or Web & eBook \u2013 Annual. The post 15 Suspects Fatally Shot Following Daytime Armed Robbery in Kimbe appeared first on Post Courier.",
+      "link": "https://www.postcourier.com.pg/15-suspects-fatally-shot-following-daytime-armed-robbery-in-kimbe/",
+      "source": "Post Courier",
+      "image": "https://www.postcourier.com.pg/wp-content/uploads/2026/10/PC-Online-feature-image-2026-10-26T142655.683.png",
+      "published": "2026-10-26 04:27:36",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "papua new guinea"
+      ]
+    },
+    {
+      "title": "Earthquake Shakes Afghanistan\u2019s Capital, Kabul",
+      "description": "A magnitude 5.2 earthquake struck Afghanistan\u2019s Hindu Kush region on Sunday, with tremors felt in parts of Kabul, according to seismic agencies. The United States Geological Survey (USGS) and the European-Mediterranean Seismological Centre (EMSC) reported the earthquake on October 25, locating its epicentre about 59 kilometres southwest of Ashkasham in northeastern Afghanistan. The earthquake occurred [\u2026] The post Earthquake Shakes Afghanistan\u2019s Capital, Kabul appeared first on Khaama Press.",
+      "link": "https://www.khaama.com/magnitude-5-2-earthquake-hindu-kush-afghanistan/",
+      "source": "Khaama Press",
+      "image": "https://www.khaama.com/wp-content/uploads/2023/03/Takhar-earthquake.jpg",
+      "published": "2026-10-26 04:27:35",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "afghanistan"
+      ]
+    },
+    {
+      "title": "PV Sindhu\u2019s Bengaluru home is a masterclass in modern-meets-traditional design: From a Mahabharata chessboard to a gallery wall of her achievements, decor inspirations to steal",
+      "description": "Filmmaker Farah Khan took a deep dive into the serene abode of badminton champion PV Sindhu in Bengaluru, unraveling her personal life through her decor choices. The spacious living room, adorned in soft pastels, includes cherished items like an exquisite chessboard. Sindhu\u2019s home also hosts a poolside dining area and a contemporary kitchen, exuding warmth and intimacy that celebrate both their journey and sporting success.",
+      "link": "https://timesofindia.indiatimes.com/life-style/home-garden/pv-sindhus-bengaluru-home-is-a-masterclass-in-modern-meets-traditional-design-from-a-mahabharata-chessboard-to-a-gallery-wall-of-her-achievements-decor-inspirations-to-steal/articleshow/135202514.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135202647/135202647.jpg",
+      "published": "2026-10-26 04:27:35",
       "category": [
         "top",
         "lifestyle"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Woman busted in NYC rabbi syringe attack allegedly stabbed another Jewish man hours earlier: report",
-      "description": "Anna Mochalova allegedly stalked a rabbi before stabbing him with a syringe in Manhattan's Diamond District, hours after attacking another man.",
-      "link": "https://headtopics.com/news/woman-busted-in-nyc-rabbi-syringe-attack-allegedly-stabbed-89190388",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/25/foxnews/woman-busted-in-nyc-rabbi-syringe-attack-allegedly-woman-busted-in-nyc-rabbi-syringe-attack-allegedly-A4B5CC485434D067119D3E227BFCE7F5.webp",
-      "published": "2026-10-25 21:41:00",
+      "title": "Coforge slips 3% even as Jefferies, Nomura, others raise targets after Q2 earnings. Why are they bullish?",
+      "description": "Coforge shares fell despite strong Q2 results and brokerages raising target prices. Net profit surged 56.5% year-on-year to Rs 588.1 crore, while revenue jumped 54% to Rs 6,170.8 crore. EBITDA rose 67% to Rs 1,269.7 crore, with margins expanding 168 basis points to 20.6%. The company raised its FY27 EBIT margin guidance to 16%, while its 12-month order book grew 45% to $2.38 billion.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-slips-3-even-as-jefferies-nomura-others-raise-targets-after-q2-earnings-why-are-they-bullish/articleshow/135202672.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-135202740,resizemode-4,width-1200,height-900,imgsize-1810018,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-10-26 04:27:33",
       "category": [
-        "crime",
-        "top"
+        "top",
+        "business"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Man sentenced after assaulting federal officer during Lincoln arrest",
-      "description": "The man who was detained by Immigration and Customs Enforcement in Lincoln earlier this year was sentenced in federal court.",
-      "link": "https://www.ketv.com/article/man-sentenced-after-assaulting-federal-officer/74242342",
-      "source": "Ketv",
-      "image": "https://hips.hearstapps.com/htv-prod/images/fed4c500-f21e-4409-9e55-b788b692c51e.jpg",
-      "published": "2026-10-25 21:41:00",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Kobalt 18-Piece Screwdriver Set Just $19.98 Shipped on Lowes.com (Reg. $33)",
-      "description": "Head over to Lowes.com where you can score this Kobalt 18-Piece Magnetic Screwdriver Set for just $19.98 (regularly $32.98)! Plus, MyLowe\u2019s Rewards members (free to join) score free shipping. Kobalt 18-Piece Magnetic Screwdriver Set $19.98 (reg. $32.98) Shipping is free for MyLowe\u2019s Rewards members Final cost $19.98 shipped! Keep a screwdriver handy for fixes big [\u2026]",
-      "link": "https://hip2save.com/deals/kobalt-screwdriver-set/",
-      "source": "Hip2save",
-      "image": "https://hip2save.com/wp-content/uploads/2026/10/kobalt-screwdriver-set.jpg?w=912",
-      "published": "2026-10-25 21:40:55",
+      "title": "Himanta Biswa Sarma\u2019s AI \u2018Gangnam Style\u2019 dance video with Assam ministers viral",
+      "description": "An AI-generated clip featuring Assam Chief Minister Himanta Biswa Sarma and ministers Pijush Hazarika and Jayanta Mallabaruah dancing to PSY\u2019s hit song has attracted millions of views on Instagram.",
+      "link": "https://www.cnbctv18.com/india/himanta-biswa-sarma-ai-gangnam-style-dance-video-with-assam-ministers-viral-20019018.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/10/sarma-gangnam-dance-ai-2026-10-21e83a8ee95b34bcd0131f512bb3f9bd.jpg",
+      "published": "2026-10-26 04:27:32",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Mary Peltola in Car Crash During Final Sprint",
-      "description": "\u201cAlaska Senate Democratic hopeful Mary Peltola suffered minor injuries in a car crash Saturday, temporarily sidelining her campaign,\u201d the New York Post reports. \u201cPeltola, 53, was en route to the Alaska Federation of Natives Annual Banquet when her vehicle was hit by another car, forcing her to reschedule her campaign events slated for Sunday and [\u2026]",
-      "link": "https://politicalwire.com/2026/10/25/mary-peltola-in-car-crash-during-final-sprint/",
-      "source": "Political Wire",
-      "image": "https://politicalwire.com/wp-content/uploads/pw-social-cards/2020301-791e7e71.png",
-      "published": "2026-10-25 21:40:45",
+      "title": "SpiceJet Staff's 'Cheap Airline' Remark At Delhi Airport Goes Viral After Heated Passenger Clash: 'Sasta Hai Isliye...'",
+      "description": "A viral video showing a SpiceJet employee calling the airline cheap during a passenger dispute at Delhi airport has sparked debate over customer service and accountability",
+      "link": "https://www.news18.com/viral/spicejet-staffs-cheap-airline-remark-at-delhi-airport-goes-viral-after-heated-passenger-clash-sasta-hai-isliye-ws-l-10397439.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-9-2026-10-ef849afc6e7ede937149db922bf89986-1200x800.png",
+      "published": "2026-10-26 04:27:30",
       "category": [
-        "crime",
+        "breaking",
         "top"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "AP Entertainment SummaryBrief at 5:40 p.m. EDT",
-      "description": "'You Can See Everything' surges with $19.5M at box office; 'Clayface' takes No. 1",
-      "link": "https://www.dailyrecordnews.com/ap_news/entertainment/ap-entertainment-summarybrief-at-5-40-p-m-edt/article_28b5717d-ed0b-5ea9-979e-6ad8fb8b413e.html",
-      "source": "Dailyrecordnews",
-      "image": null,
-      "published": "2026-10-25 21:40:44",
+      "title": "We do not support our own, but we watch horrible Hollywood movies \u2013 Yvonne Okoro",
+      "description": "Ghanaian actor and film producer Yvonne Okoro has bemoaned the lack of support for local films",
+      "link": "https://www.myjoyonline.com/we-do-not-support-our-own-but-we-watch-horrible-hollywood-movies-yvonne-okoro/",
+      "source": "Myjoyonline",
+      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/10/eda52eb3-221c-477b-87a0-864aaa0deadb.jpeg",
+      "published": "2026-10-26 04:27:30",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "ghana"
       ]
     },
     {
-      "title": "Hundreds join anti-migrant march near planned immigration removal centre",
-      "description": "Demonstrators marched through Gosport, with many waving England and Union flags.",
-      "link": "https://www.irishnews.com/news/uk/hundreds-join-anti-migrant-march-near-planned-immigration-removal-centre-D7PR6MSAMNJMXMKYCWPQ722NOQ/",
-      "source": "The Irish News",
-      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/bLAeukEfu5b3sRVxVhB_n8wD4yg=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/WVJOHS77K5MCDLTKF3PQSEI5QI.jpg",
-      "published": "2026-10-25 21:40:44",
+      "title": "Odisha deploys 60 ODRAF teams to tackle cyclone Arnab landfall",
+      "description": "Odisha has 20 ODRAF teams active and plans to deploy 60 in three phases as Cyclone Arnab is expected to make landfall on the Andhra Pradesh-Odisha coast.",
+      "link": "https://thenewsmill.com/2026/10/odisha-deploys-60-odraf-teams-to-tackle-cyclone-arnab-landfall/",
+      "source": "The News Mill",
+      "image": "https://thenewsmill.com/wp-content/uploads/2026/10/odisha-deploys-60-odraf-teams-to-tackle-cyclone-arnab-landfall.jpg",
+      "published": "2026-10-26 04:27:22",
+      "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "International & World News \u2013 26 October 2026",
+      "description": "\u2708\ufe0f INTERNATIONAL NEWS \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 1. The 12th BRICS Parliamentary Forum begins in New Delhi today on the theme \u201cFostering Parliaments for People-Centric Development\u201d, with PM Modi to grace the event. Eleven BRICS members and 10 partner countries have been invited; Lok Sabha Speaker Om Birla will chair it. 2. Ahead of the forum, Om Birla [\u2026]",
+      "link": "https://saachibaat.com/international-news/international-world-news-26-october-2026/",
+      "source": "Saachi Baat",
+      "image": "https://saachibaat.com/wp-content/uploads/2026/10/Piyush.jpg",
+      "published": "2026-10-26 04:27:19",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "united kingdom"
+        "india"
       ]
     },
     {
-      "title": "Iowa women\u2019s soccer defeats USC, 3-1, during Senior Day to earn third straight win",
-      "description": "Iowa women\u2019s soccer beat USC 3-1 on Senior Day at the Iowa Soccer Complex on Sunday. Before the match, Iowa honored Sara Batchadji, Sofia Bush, Abby Skiff, Lucia Englund, Millie Greer, and Reilly Heman with a Senior Day ceremony. Two of those seniors, Heman and Bush, made their mark on the match with a goal... The post Iowa women\u2019s soccer defeats USC, 3-1, during Senior Day to earn third straight win appeared first on The Daily Iowan.",
-      "link": "https://dailyiowan.com/2026/10/25/iowa-womens-soccer-defeats-usc-3-1-during-senior-day-to-earn-third-straight-win/",
-      "source": "The Daily Iowan",
-      "image": "https://dailyiowan.com/wp-content/uploads/2026/10/2026_10_25_USCUISoccer_TC001.jpg",
-      "published": "2026-10-25 21:40:30",
+      "title": "Kendrapara Gajalaxmi Puja begins, recalling Goddess Lakshmi\u2019s emergence during Samudra Manthan",
+      "description": "The famous Gajalaxmi Puja of Kendrapara has begun, bringing the town alive with festive fervour as devotees gather to worship Goddess Lakshmi. Decorative arches, colourful illuminations and beautifully adorned pandals have transformed the town, drawing large crowds from the first day of the seven-day celebration. The festival is being observed at 68 puja pandals across Kendrapara town and more than 100 pandals in the surrounding areas this year. Among the major attractions is the Ganga Bhagirathi Puja Mandap at Madhial, where Goddess Lakshmi is adorned with a gold crown and a magnificent silver backdrop. The festival also brings families and relatives together, with many people looking forward to visiting the pandals throughout the week. A devotee said, \u201cWe eagerly wait for Gajalaxmi Puja every year. Our relatives come to visit, and we spend all seven days enjoying the celebrations and visiting different pandals. The arrival of the Goddess fills the entire town with happiness, and we believe her blessings make these days especially joyful.\u201d Why Is Gajalaxmi Puja Celebrated? According to a priest, the festival is associated with the appearance of Goddess Lakshmi during the churning of the cosmic ocean, known as Samudra Manthan in Hindu mythology. \u201cAccording to tradition, Goddess Lakshmi emerged during the churning of the ocean. Her appearance is associated with the full moon day of the Hindu month of Ashwin, which is observed as an auspicious occasion to worship her. Devotees across the country offer prayers to the Goddess, seeking prosperity, wealth and well-being,\u201d the priest said. Elaborate Security Arrangements In Kendrapara Meanwhile, the district administration has made extensive arrangements to ensure that the celebrations are held peacefully. Around 25 platoons of police personnel have been deployed at various locations across Kendrapara town, while CCTV cameras are keeping watch over sensitive areas. On the other hand, Dhenkanal is also bustling with religious fervour and festivities, where Goddess Lakshmi is being worshipped at 41 puja pandals.",
+      "link": "https://odishatv.in/odisha/kendrapara-gajalaxmi-puja-begins-recalling-goddess-lakshmis-emergence-during-samudra-manthan-12751854",
+      "source": "Odisha Tv",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/odishatv/media/media_files/2026/10/26/kendrapara-gajalaxmi-puja-2026-10-26-09-57-02.jpg",
+      "published": "2026-10-26 04:27:18",
       "category": [
         "top",
-        "sports"
+        "tourism"
       ],
       "country": [
-        "united states of america"
+        "india"
       ]
     },
     {
-      "title": "Boy, 17, arrested after teenager dies in crash following police chase - Sky News",
-      "description": "Boy, 17, arrested after teenager dies in crash following police chase Sky News Teen dies in crash following police pursuit on A37 Wells Road BBC Passenger dies in car pursued by police Bristol24/7 Drivers urged to avoid busy south Bristol road after serious crash Bristol Live Teenager dies in car crash after police chase in early hours of the morning LBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTlndXlackNBSHF5YmQ3aWptNU9iTGo3UzdOcjFXNHZIaTFKb3l4Zk9KdlVqNW1VQTJwTDk5bTliU3lXd0pLdHhVR0xZc3hoam1TM09zYXFsTHEzblFUNzlmLXE2eFNVNUw4aV9MOXFXQllla1JNMUFoaHEyWEJfSE9ZWVJRN3VkeHdYVjYxWXVNODYwWTBFb0VseHlzOHZQNjhvWFhn?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-10-25 21:40:17",
+      "title": "\u0f55\u0f42\u0f54\u0f0b\u0f42\u0f66\u0f7c\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f60\u0f50\u0f56\u0f0b\u0f58\u0f72\u0f0b\u0f5a\u0f74\u0f0b\u0f63\u0f74\u0f0b \u0f51\u0f40\u0f60\u0f0b\u0f44\u0f63\u0f0b\u0f51\u0f44\u0f0b \u0f42\u0f51\u0f7c\u0f44\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f56\u0f5e\u0f72\u0f53\u0f0b\u0f51\u0f74\u0f0b\u0f61\u0f7c\u0f51\u0f54\u0f0d",
+      "description": "\u0f09 \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0b\u0f53\u0f44\u0f0b \u0f66\u0f92\u0f7c\u0f0b\u0f53\u0f7c\u0f62\u0f0b\u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f45\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f42\u0f7c\u0f44\u0f0b\u0f5a\u0f51\u0f0b\u0f58\u0f62\u0f0b\u0f56\u0f56\u0f66\u0f0b\u0f66\u0f7c\u0f44\u0f0b\u0f58\u0f72\u0f0b\u0f51\u0f44\u0f0b \u0f46\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f42\u0f7c\u0f44\u0f0b\u0f5a\u0f51\u0f0b\u0f61\u0f62\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f60\u0f42\u0fb1\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f63\u0f74\u0f0b\u0f56\u0f62\u0f9f\u0f7a\u0f53\u0f0b \u0f5a\u0f7c\u0f44\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f60\u0f50\u0f56\u0f0b\u0f53\u0f72\u0f0b\u0f63\u0f74\u0f0b \u0f63\u0f71\u0f0b\u0f41\u0f42\u0f0b\u0f62\u0f90\u0fb1\u0f56\u0f0b\u0f51\u0f7c\u0f0b\u0f61\u0f7c\u0f51\u0f54\u0f0b\u0f51\u0f0b \u0f51\u0f7a\u0f0b\u0f42\u0f72\u0f66\u0f0b \u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f41\u0f0b\u0f50\u0f74\u0f42\u0f0b\u0f63\u0f66\u0f0b \u0f42\u0f7c\u0f44\u0f0b\u0f5a\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f56\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f62\u0f0b\u0f60\u0f56\u0f51\u0f0b\u0f58\u0f72\u0f0b\u0f51\u0f44\u0f0b \u0f58\u0f72\u0f0b\u0f66\u0f7a\u0f62\u0f0b\u0f66\u0f7c\u0f0b\u0f53\u0f58\u0f0b\u0f54\u0f0b\u0f5a\u0f74\u0f0b\u0f42\u0f72\u0f66\u0f0b \u0f66\u0fa4\u0fb1\u0f72\u0f62\u0f0b\u0f56\u0f4f\u0f44\u0f0b\u0f60\u0f7c\u0f44\u0f0b\u0f60\u0f56\u0f56\u0f0b\u0f56\u0f5f\u0f7c\u0f0b\u0f58\u0f72\u0f0b\u0f42\u0f72\u0f0b\u0f56\u0f62\u0f0b\u0f53\u0f0b \u0f41\u0fb1\u0f51\u0f0b\u0f54\u0f62\u0f0b\u0f5e\u0f74\u0f42\u0f66\u0f0b\u0f51\u0f7c\u0f0b\u0f61\u0f7c\u0f51\u0f54\u0f0b\u0f68\u0f72\u0f53\u0f0b\u0f54\u0f66\u0f0d",
+      "link": "https://kuenselonline.com/news/91-118",
+      "source": "Kuensel Online",
+      "image": "http://bucket.kuenselonline.com/cis.kuenselonline/piggery-1.jpg",
+      "published": "2026-10-26 04:27:17",
+      "category": [
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "bhutan"
+      ]
+    },
+    {
+      "title": "How Mumbai man who studied till Class 12 posed as doctor for nearly 30 years, used trusts and companies to secure CSR funds, routed 188 crore through 30 bank accounts",
+      "description": "Dharmendrakumar Singh posed as a doctor for nearly thirty years and allegedly misappropriated funds totaling around Rs 188 crore. He operated through multiple trusts and companies, diverting money from CSR initiatives into personal accounts. A significant percentage of beneficiary data from a tuberculosis screening project was found to be fabricated during investigations. Additionally, police recovered numerous items, including expired medicines and medical equipment, during a recent search.",
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/how-mumbai-man-who-studied-till-class-12-posed-as-doctor-for-nearly-30-years-used-trusts-and-companies-to-secure-csr-funds-routed-188-crore-through-30-bank-accounts/articleshow/135202544.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135202714/135202714.jpg",
+      "published": "2026-10-26 04:27:15",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "united kingdom"
+        "india"
       ]
     },
     {
-      "title": "Suspects Identified In Oct. 23 Assaults on Local Sheriff's Deputies",
-      "description": "BELTON (FOX 44) -- Two individuals have been detained in connection with assaults on Bell County Sheriff's Department Deputies on Friday (10/23/2026). The Bell County Sheriff's Office said in a news release that Edrick Holcombe Dickerson and Ethan Holcombe were arrested and are facing multiple charges. The Bell County Sheriff's office added that on Friday, [...]",
-      "link": "https://www.fox44news.com/news/suspects-identified-in-oct-23-assaults-on-local-sheriffs-deputies/",
-      "source": "Kwkt - Fox 44",
-      "image": "https://www.fox44news.com/wp-content/uploads/sites/82/2026/10/Bell-County-Sheriffs-Office-badge-2026.jpg?w=751",
-      "published": "2026-10-25 21:40:16",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "1971 Triumph Blazer 250 SS at No Reserve",
-      "description": "This 1971 Triumph Blazer 250 SS was acquired by the seller's father in 2021, and ownership later passed to the seller. The bike is finished in orange with black accents and powered by a 247cc four-stroke single mated to a four-speed gearbox with right-side shifting. Details include a two-up vinyl seat, a kick starter, an Amal carburetor, an upswept exhaust system, oil-in-frame lubrication, a grab handle, a chrome handlebar, a skid plate, a Smiths speedometer, street lighting, and 18\" wire-spoke wheels. This Blazer 250 SS is now offered at no reserve with a Minnesota title in the seller's name.",
-      "link": "https://bringatrailer.com/listing/1971-triumph-blazer-ss-t25ss/",
-      "source": "Bring A Trailer",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/1000036965-scaled-copy-2026-10-13-yf5-copy-2026-10-14-276-0c34159e9fcc856b872ebc9050213819.jpg?w=940",
-      "published": "2026-10-25 21:40:09",
+      "title": "PM Le Minh Hung hosts welcome ceremony for Polish counterpart",
+      "description": "Prime Minister Le Minh Hung presided over an official welcome ceremony in Ha Noi on October 26 morning for his Polish counterpart Donald Tusk, who is paying an official visit to Viet Nam from October 24 to 26. Expanding substantive and effective cooperation between Viet Nam and Poland Broader horizons for Viet Nam\u2013Poland cooperation Viet Nam opens honorary consulate in Krakow, Poland",
+      "link": "https://en.nhandan.vn/pm-le-minh-hung-hosts-welcome-ceremony-for-polish-counterpart-post168226.html",
+      "source": "B\u00e1o Nh\u00e2n D\u00e2n \u0110i\u1ec7n T\u1eed",
+      "image": "https://en-cdn.nhandan.vn/images/PGsdfWzXfw3FSVNqQeLLm8Bva_qIYx_UxRjhN3C9jLRUXO9iNN2WXHdsqti8oYd-YeVzgnbM3AnYUuTpQhE-lA/base64.png.webp",
+      "published": "2026-10-26 04:27:14",
       "category": [
         "top",
-        "technology"
+        "lifestyle"
       ],
       "country": [
-        "united states of america"
+        "vietnam"
+      ]
+    },
+    {
+      "title": "Mecca pact countries\u2019 top officials to meet Iranian officials",
+      "description": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+      "link": "https://bdnews24.com/world/61vd768wga",
+      "source": "Bdnews24.com",
+      "image": "https://media.assettype.com/bdnews24-english/2026-10-26/ki07hy7l/mecca-defence-pact-meeting-261026-01.jpg",
+      "published": "2026-10-26 04:27:14",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "bangladesh"
       ]
     }
   ]

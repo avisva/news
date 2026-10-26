@@ -1,5 +1,77 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 5,
+  "results": [
+    {
+      "title": "Up 28% since June - the wealth manager our AI models picked is still running",
+      "description": null,
+      "link": "https://in.investing.com/news/stock-market-news/up-28-since-june--the-wealth-manager-our-ai-models-picked-is-still-running-5653064",
+      "source": "Investing India",
+      "image": "https://content-media.investing.com/news/LYNXMPEA62089_M.jpg",
+      "published": "2026-10-26 04:27:38",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Coforge slips 3% even as Jefferies, Nomura, others raise targets after Q2 earnings. Why are they bullish?",
+      "description": "Coforge shares fell despite strong Q2 results and brokerages raising target prices. Net profit surged 56.5% year-on-year to Rs 588.1 crore, while revenue jumped 54% to Rs 6,170.8 crore. EBITDA rose 67% to Rs 1,269.7 crore, with margins expanding 168 basis points to 20.6%. The company raised its FY27 EBIT margin guidance to 16%, while its 12-month order book grew 45% to $2.38 billion.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-slips-3-even-as-jefferies-nomura-others-raise-targets-after-q2-earnings-why-are-they-bullish/articleshow/135202672.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-135202740,resizemode-4,width-1200,height-900,imgsize-1810018,overlay-etmarkets/articleshow.jpg",
+      "published": "2026-10-26 04:27:33",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rising global demand, lower price of Indian rice than competitors to boost exports: IREF",
+      "description": "In the first six months of the fiscal year, India experienced a remarkable 13 percent boost in rice exports. The Indian Rice Exporters Federation predicts further growth fueled by strong worldwide demand and pricing advantages over rivals.",
+      "link": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/rising-global-demand-lower-price-of-indian-rice-than-competitors-to-boost-exports-iref/articleshow/135202340.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-135202368,resizemode-4,width-1200,height-900,imgsize-213278,overlay-etrise/articleshow.jpg",
+      "published": "2026-10-26 04:27:18",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Sonowal to pitch India's shipbuilding opportunity to Korean industry",
+      "description": "The visit of Union Minister Sarbananda Sonowal to South Korea spans four days, focusing on maritime collaboration. In his address in Busan, he brought attention to the significance of Indian professionals in the shipbuilding arena of Korea.",
+      "link": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/sonowal-to-pitch-indias-shipbuilding-opportunity-to-korean-industry/articleshow/135202381.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-135202388,resizemode-4,width-1200,height-900,imgsize-62278,overlay-etrise/articleshow.jpg",
+      "published": "2026-10-26 04:27:17",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Builder missing or bankrupt? What homebuyers can do about the home loan, RERA and the IBC",
+      "description": "Still paying EMIs on a flat that may never be delivered? Here is what homebuyers can do about the loan, the police, RERA and insolvency court.",
+      "link": "https://economictimes.indiatimes.com/wealth/real-estate/builder-absconded-or-gone-bankrupt-your-rights-as-a-homebuyer-under-rera-and-the-ibc/slideshow/135202761.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/msid-135202761,width-1200,height-900,overlay-etwealth/slideshow.jpg",
+      "published": "2026-10-26 04:27:16",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

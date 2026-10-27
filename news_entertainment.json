@@ -1,14 +1,30 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "The Best Movies to See in Regal's Deep Cuts Series",
-      "description": "Regal's Deep Cuts series offers a chance to see cult classics and overlooked gems on the big screen. Here are 15 standout titles, including 'Oldboy,' 'Under the Skin,' and 'The World's End,' that deserve a theatrical re-viewing.",
-      "link": "https://us.headtopics.com/news/the-best-movies-to-see-in-regal-s-deep-cuts-series-89224282",
+      "title": "It's official! Jay-Z will headline the 2027 Super Bowl halftime show",
+      "description": "Jay-Z will headline the Super Bowl LXI halftime show at Inglewood's SoFi Stadium on Valentine's Day.",
+      "link": "https://us.headtopics.com/news/it-s-official-jay-z-will-headline-the-2027-super-bowl-89232149",
       "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/26/gizmodo/the-best-movies-to-see-in-regal-s-deep-cuts-series-the-best-movies-to-see-in-regal-s-deep-cuts-series-9E09B9E6093E77F704E54D4971FE31E6-16x9.webp",
-      "published": "2026-10-26 19:17:00",
+      "image": "https://i.headtopics.com/images/2026/10/27/latimes/it-s-official-jay-z-will-headline-the-2027-super-b-it-s-official-jay-z-will-headline-the-2027-super-b-645145D6AB5BB10B4D3F789247BAE786-16x9.webp",
+      "published": "2026-10-27 01:56:00",
+      "category": [
+        "top",
+        "sports",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Neil Young Sues Trump Committee for $10 Million Over Use of 'Rockin' in the Free World'",
+      "description": "Neil Young sues Trump committee for $10 million for playing 'Rockin in the Free World' at a rally despite a settlement barring use without permission.",
+      "link": "https://us.headtopics.com/news/neil-young-sues-trump-committee-for-10-million-over-use-of-89232142",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/27/rollingstone/neil-young-sues-trump-committee-for-10-million-ove-neil-young-sues-trump-committee-for-10-million-ove-F28DB47334D9997E4C94BF6860E10D5D-16x9.webp",
+      "published": "2026-10-27 01:56:00",
       "category": [
         "top",
         "entertainment"
@@ -18,14 +34,15 @@
       ]
     },
     {
-      "title": "Chrishell Stause Announces Split from G Flip: 'I Will Always Love G'",
-      "description": "Chrishell Stause reveals her separation from G Flip, expressing deep love and respect despite the breakup. The couple's relationship, which followed Stause's split from Jason Oppenheim, was highlighted on Selling Sunset before concluding. Stause discusses the challenges of moving forward while maintaining positive feelings for G Flip.",
-      "link": "https://us.headtopics.com/news/chrishell-stause-announces-split-from-g-flip-i-will-89224274",
+      "title": "Jay-Z to Headline Super Bowl LXI Halftime Show",
+      "description": "Jay-Z is set to headline the Super Bowl LXI Halftime Show, which will take place in Los Angeles on Feb. 14, 2027.",
+      "link": "https://us.headtopics.com/news/jay-z-to-headline-super-bowl-lxi-halftime-show-89232140",
       "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/26/usweekly/chrishell-stause-announces-split-from-g-flip-i-wil-chrishell-stause-announces-split-from-g-flip-i-wil-3B35E25A211A052C391EA71A4F73798C-16x9.webp",
-      "published": "2026-10-26 19:17:00",
+      "image": "https://i.headtopics.com/images/2026/10/27/rollingstone/jay-z-to-headline-super-bowl-lxi-halftime-show-jay-z-to-headline-super-bowl-lxi-halftime-show-A9F467211A4DBF09DBFB5A4257D75307-16x9.webp",
+      "published": "2026-10-27 01:56:00",
       "category": [
         "top",
+        "sports",
         "entertainment"
       ],
       "country": [
@@ -33,18 +50,35 @@
       ]
     },
     {
-      "title": "Sara Foster Reveals She's Not Dating After Two\u2011Year Split, Still Lives With Ex",
-      "description": "The former relationship and living situation of Sara Foster are laid out as she speaks on Kristin Cavallari's \"Let's Be Honest\" podcast, revealing that for two years after the breakup with Tommy Haas she has not dated anyone, remains in their shared home, and prefers to only date people she knows well. The conversation also briefly covers her earlier comment that her relationships always started as friendships.",
-      "link": "https://us.headtopics.com/news/sara-foster-reveals-she-s-not-dating-after-two-year-split-89224269",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/26/usweekly/sara-foster-reveals-she-s-not-dating-after-two-yea-sara-foster-reveals-she-s-not-dating-after-two-yea-F9A528D1F37068A82A414B410F7970EF-16x9.webp",
-      "published": "2026-10-26 19:17:00",
+      "title": "Jay-Z to headline Super Bowl LXI halftime show in Inglewood",
+      "description": "Rapper Jay-Z will headline the Super Bowl LXI halftime performance in Inglewood, he announced Monday.",
+      "link": "https://www.nbclosangeles.com/news/local/jay-z-super-bowl-lxi-halftime-show/3961258/",
+      "source": "Nbc Los Angeles",
+      "image": "https://media.nbclosangeles.com/2021/03/AP_21063475989794.jpg?quality=85&strip=all&crop=47px%2C67px%2C5241px%2C2948px&resize=1200%2C675",
+      "published": "2026-10-27 01:55:45",
       "category": [
         "top",
+        "sports",
         "entertainment"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Prince Harry shares how he feels connected to his late mom Princess Diana through his charity work",
+      "description": "Pricne Harry explains that the charitable causes he has chosen to support have allowed him to feel a connection to his mother.",
+      "link": "https://www.abs-cbn.com/entertainment/showbiz/celebrities/2026/10/27/prince-harry-shares-how-he-feels-connected-to-his-late-mom-princess-diana-through-his-charity-work-0955",
+      "source": "Abs-cbn",
+      "image": "https://od2-image-api.abs-cbn.com/prod/20261027011052/05e1e9a94042a9084698e901dd76ac689c04493026a3b5ed6142f4f06bc610ab.png",
+      "published": "2026-10-27 01:55:39",
+      "category": [
+        "top",
+        "lifestyle",
+        "entertainment"
+      ],
+      "country": [
+        "philippines"
       ]
     }
   ]

@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Q2 results: Adani Enterprises, APSEZ, Hero MotoCorp, 141 more on Oct 28",
+      "description": "Q2FY27 company results: Firms including Hyundai Motor India, Meesho, Info Edge (India) (Naukri), Pidilite Industries, and Vedanta are also to release their July-September earnings today",
+      "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-adani-enterprises-apsez-hero-motocorp-141-more-on-oct-28-126102800329_1.html",
+      "source": "Business Standard",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/full/1787894930-8896.jpg",
+      "published": "2026-10-28 04:57:42",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,20 +1,66 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Q2 results: Adani Enterprises, APSEZ, Hero MotoCorp, 141 more on Oct 28",
-      "description": "Q2FY27 company results: Firms including Hyundai Motor India, Meesho, Info Edge (India) (Naukri), Pidilite Industries, and Vedanta are also to release their July-September earnings today",
-      "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-adani-enterprises-apsez-hero-motocorp-141-more-on-oct-28-126102800329_1.html",
-      "source": "Business Standard",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/full/1787894930-8896.jpg",
-      "published": "2026-10-28 04:57:42",
+      "title": "FCC Launches Cyber Trust Mark to Simplify Home Cybersecurity",
+      "description": "The FCC's new Cyber Trust Mark program will introduce a shield\u2011shaped label that helps consumers quickly identify IoT products that meet baseline security standards, steering them toward safer smart home devices.",
+      "link": "https://us.headtopics.com/news/fcc-launches-cyber-trust-mark-to-simplify-home-cybersecurity-89283686",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/28/foxnews/fcc-launches-cyber-trust-mark-to-simplify-home-cyb-fcc-launches-cyber-trust-mark-to-simplify-home-cyb-B077473A78986DFF5EC891BBEE44EF44-16x9.webp",
+      "published": "2026-10-28 09:34:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "AI an economic equaliser, tech at its best when inclusive, democratic: Google India's Preeti Lobana",
+      "description": "Google underscores the pivotal role of artificial intelligence in promoting economic equality and inclusivity among businesses. Preeti Lobana pointed out the essential need for small and medium enterprises to embrace digital platforms as a catalyst for India's economic growth. The article further discusses the significance of ongoing intelligence engines in refining business operations.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-an-economic-equaliser-tech-at-its-best-when-inclusive-democratic-google-indias-preeti-lobana/articleshow/135259722.cms",
+      "source": "The Economic Times",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3802436,resizemode-75,msid-135259722/tech/artificial-intelligence/ai-an-economic-equaliser-tech-at-its-best-when-inclusive-democratic-google-indias-preeti-lobana.jpg",
+      "published": "2026-10-28 09:33:57",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
         "india"
+      ]
+    },
+    {
+      "title": "Electrical company that worked with British Airways to close as it enters liquidation",
+      "description": "UK electrical contractor Freemantle Projects Ltd, that worked with Heathrow Airport, British Airways, and Jet2, has entered liquidation and is set to close.",
+      "link": "https://www.wandsworthguardian.co.uk/news/national/uk-today/26676322.uk-electrical-company-close-enters-liquidation/",
+      "source": "Wandsworth Times",
+      "image": "https://www.wandsworthguardian.co.uk/resources/images/21639966/",
+      "published": "2026-10-28 09:33:49",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Reports: 10 dead in crash between 2 Spanish trains in Toledo province",
+      "description": null,
+      "link": "https://www.wsbtv.com/news/world/spanish-media-say/KJ7OSWAGGM53BISUMBW5PIDYG4/",
+      "source": "Wsb-tv Channel 2 - Atlanta",
+      "image": null,
+      "published": "2026-10-28 09:33:49",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

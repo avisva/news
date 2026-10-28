@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Growth forecasts to be revised higher \u2014 but only for this year",
+      "description": null,
+      "link": "https://www.ft.com/content/479aeb46-e5d5-44e1-a767-2360cdaa4bc8",
+      "source": "Financial Times",
+      "image": null,
+      "published": "2026-10-28 09:33:55",
+      "category": [
+        "business",
+        "science",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

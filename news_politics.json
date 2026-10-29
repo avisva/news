@@ -1,100 +1,34 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Pew: YouTube, Facebook remain America's leading social media platforms",
-      "description": "New research reveals sharp generational, gender and political differences in how Americans use social media",
-      "link": "https://www.mainstreetnews.com/pew-youtube-facebook-remain-americas-leading-social-media-platforms/article_89e2b02e-9d82-45d6-9280-b17c6e5c5e94.html",
-      "source": "Mainstreetnews.com",
+      "title": "30-year sentence imposed for fatal shooting of a man in a tent in Bonner",
+      "description": "The defendant had argued the victim was strangling his girlfriend at the time of the fatal shooting, but a jury found him guilty of mitigated deliberate homicide in August.",
+      "link": "https://billingsgazette.com/news/local/crime-courts/article_9a2cda45-a126-5c60-8dc8-a46cdef3b6d4.html",
+      "source": "Billings Gazette",
+      "image": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/b/db/bdbbc490-5769-5983-832b-2ef3d710a879/6a74fcf561c74.image.jpg?resize=300%2C200",
+      "published": "2026-10-28 20:00:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Local races to be decided on Nov. 3",
+      "description": "As of Oct. 23, Teton County had 4,326 registered voters (including active and inactive) who could take part in the Nov. 3 general election, according to Teton County Election Administrator Sarah Clarke.",
+      "link": "https://www.choteauacantha.com/news/article_1790d5ff-48a1-4148-a8e5-967a4fce230d.html",
+      "source": "Choteau Acantha",
       "image": null,
-      "published": "2026-10-28 13:31:00",
-      "category": [
-        "top",
-        "politics",
-        "science"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Election 2026: California\u2019s Proposition 40 wealth tax faces double threat from competing measures 41 and 42",
-      "description": "Winning a simple majority might not be enough, and that poses a \u201ctriple challenge\u201d for Proposition 40\u2019s proponents.",
-      "link": "https://us.headtopics.com/news/election-2026-california-s-proposition-40-wealth-tax-faces-89292496",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/28/oaktribnews/election-2026-california-s-proposition-40-wealth-t-election-2026-california-s-proposition-40-wealth-t-4F4419DED4A98E684D2F57EFCE7EB936-16x9.webp",
-      "published": "2026-10-28 13:31:00",
-      "category": [
-        "top",
-        "politics",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Gov Fubara Vows Justice Must Prevail Over Death Of 10 Persons In Kula Community",
-      "description": "Governor Siminalayi Fubara has vowed that anyone found culpable in the circumstances surrounding the deaths of 10 persons in Kula community, Akuku-Toru Local Government Area of the state, will face th",
-      "link": "https://nationalnetworkonline.com/2026/10/28/gov-fubara-vows-justice-must-prevail-over-death-of-10-persons-in-kula-community/",
-      "source": "National Network",
-      "image": "https://nationalnetworkonline.com/wp-content/uploads/2026/10/Honour-Sirawoo.gif",
-      "published": "2026-10-28 13:31:00",
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Hegseth calls for stronger US-Asean defence cooperation",
-      "description": "United States (US) Defence Secretary Pete Hegseth on Wednesday proposed a new defence cooperation framework between the US and Asean.",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/28/hegseth-calls-for-stronger-us-asean-defence-cooperation",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4185185.jpg",
-      "published": "2026-10-28 13:31:00",
+      "published": "2026-10-28 20:00:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Ukrainian forces deny Russian claims of capturing Barylivka in Sumy region",
-      "description": "The village of Barylivka in the Myropillia community remains under the control of Ukraine's Defense Forces.",
-      "link": "https://www.ukrinform.net/rubric-ato/4179016-ukrainian-forces-deny-russian-claims-of-capturing-barylivka-in-sumy-region.html",
-      "source": "Ukrinform",
-      "image": "https://static.ukrinform.com/photos/2026_06/thumb_files/630_360_1781523408-878.png",
-      "published": "2026-10-28 13:31:00",
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ukraine"
-      ]
-    },
-    {
-      "title": "The Speaker \u2013 October 28, 2026",
-      "description": "The post The Speaker \u2013 October 28, 2026 appeared first on The Temiskaming Speaker.",
-      "link": "https://speaker.northernontario.ca/the-speaker-october-28-2026/",
-      "source": "The Temiskaming Speaker",
-      "image": "https://speaker.northernontario.ca/wp-content/uploads/2020/05/TS.jpg",
-      "published": "2026-10-28 13:30:56",
-      "category": [
-        "top",
-        "politics",
-        "lifestyle"
-      ],
-      "country": [
-        "canada"
+        "united states of america"
       ]
     }
   ]

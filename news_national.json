@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "HUL shares gain as analysts maintain 'buy' recommendation, see up to 29% upside post Q2 results",
+      "description": "Of the 42 analysts who have coverage on the HUL stock, 30 have \"buy\" ratings, nine have \"hold\" ratings and three have \"sell\" ratings.",
+      "link": "https://www.cnbctv18.com/market/hindustan-unilever-hul-share-price-brokerages-rating-target-price-upside-nomura-jefferies-q2-results-20022030.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/hindustan-unilever-limited-hul-ltd-2025-04-7b7016059443ebc53baa779206296c8c-2026-09-08fcba12336dc17aa1d1ee44c337da27.jpg",
+      "published": "2026-10-29 03:49:58",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

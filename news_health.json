@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "GCL Executive Board Meeting",
+      "description": null,
+      "link": "http://ysu.edu/events/gcl-executive-board-meeting-11",
+      "source": "Youngstown State University",
+      "image": null,
+      "published": "2026-10-29 03:50:00",
+      "category": [
+        "business",
+        "health",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

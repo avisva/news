@@ -1,21 +1,98 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 6,
   "results": [
     {
-      "title": "Russia attacks Ukraine with ballistic and aircraft missiles, air defence downs three Kh-59/69s",
-      "description": "Russian forces have attacked Ukraine with ballistic and guided missiles, alongside 113 UAVs. Ukrainian defenders successfully intercepted 99 aerial targets.",
-      "link": "https://www.pravda.com.ua/eng/news/2026/10/30/8060391/",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/b/946873/7b548a17f8ba6b14ddbbea515f5fd008.jpeg",
-      "published": "2026-10-30 06:58:00",
+      "title": "Pakistan, Singapore discuss resumption of direct flights, boost in bilateral ties",
+      "description": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar meets Minister for Foreign Affairs of the Republic of Singapore Dr Vivian Balakrishnan. \u2014 X@ForeignOfficePkPakistan and Singapore mark 60 years of diplomatic relations. Both sides discuss Islamabad's engagement...",
+      "link": "https://www.geo.tv/latest/688979-pakistan-singapore-agree-to-boost-cooperation-in-multiple-sectors",
+      "source": "Geo Tv",
+      "image": "https://www.geo.tv/assets/uploads/updates/2026-10-30/688979_023834_updates.jpg",
+      "published": "2026-10-30 10:53:00",
       "category": [
-        "crime",
+        "top",
         "politics",
-        "top"
+        "business"
       ],
       "country": [
-        "ukraine"
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Dockworkers stage international strikes to denounce arms shipments and demand better conditions",
+      "description": "Dockworkers across Europe and beyond are staging strikes as part of an international campaign against arms shipments and to demand better working conditions.",
+      "link": "https://headtopics.com/news/dockworkers-stage-international-strikes-to-denounce-arms-89367063",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/30/wjxt4/dockworkers-stage-international-strikes-to-denounc-dockworkers-stage-international-strikes-to-denounc-0AD149208DA02099D30CCDB5714DA80F.webp",
+      "published": "2026-10-30 10:53:00",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "This book could be an ofrenda this Dia de los Muertos",
+      "description": "\u201cMonstrillio\u201d details the experience of a family deeply affected by loss, writes Izabella Garcia.",
+      "link": "https://www.dailybulletin.com/2026/10/30/this-book-could-be-an-ofrenda-this-dia-de-los-muertos/",
+      "source": "Inland Valley Daily Bulletin",
+      "image": "https://www.dailybulletin.com/wp-content/uploads/2026/10/RPE-L-INLANDIA-1101-01.jpg?w=1600&resize=1600,900",
+      "published": "2026-10-30 10:52:56",
+      "category": [
+        "top",
+        "politics",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Netanyahu Escalates Incitement Against Arab Parties After Historic Election Gains",
+      "description": "Israeli Prime Minister Benjamin Netanyahu has continued his incitement against Arab parties that achieved historic gains in the Knesset elections, amid concerns that they might support the formation of an alternative government one that would oust him and relegate him to the opposition. In a post on the platform X, Netanyahu stated, referring to the \u2026",
+      "link": "https://english.almanar.com.lb/article/144832/",
+      "source": "\u0627\u0644\u0645\u0646\u0627\u0631",
+      "image": "https://english.almanar.com.lb/uploads/2026/10/manar-98615a5e6e0a2636.jpg",
+      "published": "2026-10-30 10:52:52",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "lebanon"
+      ]
+    },
+    {
+      "title": "Ilhan Omar : A Test of Democracy and Political Intimidation",
+      "description": null,
+      "link": "https://alquds.com/en/posts/267368-ilhan-omar-a-test-of-democracy-and-political-intimidation",
+      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
+      "image": "https://cdn.alquds.com/uploads/34c61fac52bc0cfb2c16906813980bfe.jpg",
+      "published": "2026-10-30 10:52:47",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "palestine"
+      ]
+    },
+    {
+      "title": "Former MK party SG Nomvalo denies working with Ramaphosa, plotting to remove Zuma",
+      "description": "According to Nomvalo, there was a plot to get rid of him.",
+      "link": "https://www.citizen.co.za/news/south-africa/politics/nomvalo-says-he-was-accused-of-plotting-to-remove-zuma-as-mk-party-president/",
+      "source": "The Citizen",
+      "image": "https://media.citizen.co.za/wp-content/uploads/2026/10/NOMVALO.jpg",
+      "published": "2026-10-30 10:52:47",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "south africa"
       ]
     }
   ]

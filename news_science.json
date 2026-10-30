@@ -1,5 +1,37 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Key oddity of quantum physics may run even deeper than anticipated",
+      "description": "Quantum mechanics stands out by being probabilistic and a new analysis suggests that this property can be traced unexpectedly deep into the theory\u2019s mathematical foundations",
+      "link": "https://us.headtopics.com/news/key-oddity-of-quantum-physics-may-run-even-deeper-than-89330953",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/29/newscientist/key-oddity-of-quantum-physics-may-run-even-deeper--key-oddity-of-quantum-physics-may-run-even-deeper--A4D07C9759E5DD5E464C1BE2CDD8AE86-16x9.webp",
+      "published": "2026-10-29 12:35:00",
+      "category": [
+        "top",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "JardogsHealth Launches Its AI-Powered Care Platform to Connect Fragmented Healthcare Workflows",
+      "description": "The JardogsHealth Care Platform carries the work from the first patient interaction to the final charge, across patient access, engagement, clinical intelligence, operations and revenue, working above the EHR and practice management systems without replacing them. HILLSBORO, Ill., Oct. 29, 2026 /PRNewswire/ \u2014 JardogsHealth, the AI operating layer for healthcare, today announced the launch of [\u2026]",
+      "link": "https://nynewsly.com/jardogshealth-launches-its-ai-powered-care-platform-to-connect-fragmented-healthcare-workflows/56615/",
+      "source": "Ny Newsly",
+      "image": "https://nynewsly.com/wp-content/uploads/2026/10/favicon-442.png",
+      "published": "2026-10-29 12:35:00",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

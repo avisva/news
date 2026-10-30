@@ -1,21 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Bring a crispy healthy taste to every meal",
-      "description": "If you are looking for something healthy to munch on between meals, roasted seaweed is another option to add to your snack stash.",
-      "link": "https://www.abs-cbn.com/lifestyle/food-travel/2026/10/29/bring-a-crispy-healthy-taste-to-every-meal-1650",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/20261029041020/dfbd9fb5e1f150f33908ba05db9a76a09fea5ba1732b0cf82179bfd49d1ad619.jpg",
-      "published": "2026-10-29 08:50:41",
+      "title": "Don\u2019t Let Conventional Wisdom Lead You Off A Cliff!",
+      "description": "Don\u2019t Let Conventional Wisdom Lead You Off A Cliff! Guest Post by Dennis Miller at Miller On The Money For years, I\u2019ve tried to do my best Paul Revere imitation, warning readers about out-of-control government spending, and the disastrous effects of never-ending inflation. I\u2019ve emphasized that we are living on borrowed money, borrowed time, and\u2026 [\u2026] The post Don\u2019t Let Conventional Wisdom Lead You Off A Cliff! appeared first on CBNC.",
+      "link": "https://cbnc.com/dont-let-conventional-wisdom-lead-you-off-a-cliff/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/10/1793294168_FRED-Inflation-Consumer-prices-for-the-United-States.jpg",
+      "published": "2026-10-29 12:35:00",
+      "category": [
+        "health",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Inhaling CO2 may rescue nerves\u2019 ability to regrow",
+      "description": "Breathing out after birth switches off the ability of tissues to regenerate, a study in mice suggests. But the pathway seems to be reversible",
+      "link": "https://us.headtopics.com/news/inhaling-co2-may-rescue-nerves-ability-to-regrow-89330950",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/29/newscientist/inhaling-co2-may-rescue-nerves-ability-to-regrow-inhaling-co2-may-rescue-nerves-ability-to-regrow-E9B1FF4751583D48CB4F52FAB7F1673F-16x9.webp",
+      "published": "2026-10-29 12:35:00",
       "category": [
         "top",
-        "business",
         "health"
       ],
       "country": [
-        "philippines"
+        "united states of america"
       ]
     }
   ]

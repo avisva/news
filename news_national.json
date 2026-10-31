@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "\u2018I was channelled into writing by forces that took me hostage as a receptacle\u2019",
+      "description": "An excerpt from the Preface to the new edition of \u2018The Book of Shadows\u2019, by Namita Gokhale. The novel was first published in 1999.",
+      "link": "https://scroll.in/article/1096649/i-was-channelled-into-writing-by-forces-that-took-me-hostage-as-a-receptacle",
+      "source": "Scroll.in",
+      "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/article/209125-wcunckspsb-1756786725.jpg",
+      "published": "2026-10-31 03:00:00",
+      "category": [
+        "top",
+        "education",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

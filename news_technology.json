@@ -1,38 +1,5 @@
 {
   "status": "success",
-  "totalResults": 2,
-  "results": [
-    {
-      "title": "North Korean hackers steal over $6 billion from the largest cryptocurrency exchange",
-      "description": "Hackers from North Korea stole $6.3 billion from the world\u2019s largest cryptocurrency exchange, Binance.",
-      "link": "https://us.headtopics.com/news/north-korean-hackers-steal-over-6-billion-from-the-largest-89373469",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/30/komonews/north-korean-hackers-steal-over-6-billion-from-the-north-korean-hackers-steal-over-6-billion-from-the-474973C365CDA1FF5499CCCE1152E49F-16x9.webp",
-      "published": "2026-10-30 13:59:00",
-      "category": [
-        "top",
-        "business",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Performance remained strong: SAP CFO Dominik Asam on why company is switching to cheaper AI models from Google, OpenAI and Anthropic",
-      "description": "SAP aims to enhance its profit margins by replacing costly AI models with more affordable options. The company believes that these changes could generate significant efficiency gains exceeding \u20ac2 billion. While performance remains satisfactory, overall AI spending is expected to increase as adoption grows. Regulatory requirements are influencing SAP's AI model selections, particularly for customers in Europe. Companies are now demanding AI solutions that align with local regulations and standards.",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/performance-remained-strong-sap-cfo-dominik-asam-on-why-company-is-switching-to-cheaper-ai-models-from-google-openai-and-anthropic/articleshow/135364997.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135365244/135365244.jpg",
-      "published": "2026-10-30 13:58:54",
-      "category": [
-        "top",
-        "business",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "China tests powerful AI that could one day be used on submarines",
+      "description": "Breakthrough in China's race with the US over exploration of applying AI to military operations amid deep-sea trials in Philippine Basin",
+      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/china-tests-powerful-ai-that-could-one-day-be-used-on-submarines",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/31/4189509.jpg",
+      "published": "2026-10-31 11:03:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "One million risk losing landline as digital switchover looms",
+      "description": null,
+      "link": "https://www.telegraph.co.uk/money/consumer-affairs/one-million-risk-losing-landline-digital-switchover/",
+      "source": "The Telegraph",
+      "image": null,
+      "published": "2026-10-31 11:03:00",
+      "category": [
+        "technology",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Big Tech's AI bill comes due, but Michigan automakers see a rebound",
+      "description": "General Motors Co. gained about 14%, its biggest weekly rise since October 2025. Ford Motor saw gains, too, as investors sold off tech stocks.",
+      "link": "https://www.freep.com/story/money/business/2026/10/31/artificial-intelligence-bill-volatile-market/92513106007/",
+      "source": "Detroit Free Press",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/10/02/PDTF/92057504007-20261001-t-231500-z-1795511202-rc-2-nunai-1-ser-rtrmadp-3-dealswrap.jpg",
+      "published": "2026-10-31 11:02:56",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

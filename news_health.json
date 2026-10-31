@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Kent GP's verdict on 'American Covid' and the symptoms to look for",
+      "description": "We answer the key questions about the \u2018new\u2019 Covid strain as thousands across Kent suffer with symptoms.",
+      "link": "https://www.kentonline.co.uk/kent/news/kent-gps-verdict-on-american-covid-and-the-symptoms-to-lo-346838/",
+      "source": "Kentonline",
+      "image": "https://www.kentonline.co.uk/_media/img/330x0/O4QKIW88SDD0GKEYUOXF.jpg",
+      "published": "2026-10-30 13:58:52",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

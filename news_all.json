@@ -1,105 +1,211 @@
 {
   "status": "success",
-  "totalResults": 27,
+  "totalResults": 30,
   "results": [
     {
-      "title": "Bike crash leaves cyclist, 75, seriously injured in hospital",
-      "description": "Police are investigating after the cyclist was seriously injured in a crash with another bike at Littlemore Roundabout in Oxford.",
-      "link": "https://www.oxfordmail.co.uk/news/26683950.oxford-bike-crash-leaves-cyclist-75-seriously-injured/",
-      "source": "Oxford Mail",
-      "image": "https://www.oxfordmail.co.uk/resources/images/9469854/",
-      "published": "2026-10-30 10:53:00",
+      "title": "CNN, MSNOW and Politico ask court to make Trump access order permanent",
+      "description": "Three news outlets are telling a federal court that the White House is defying a judge's orders by refusing to let them return to covering President Donald Trump. CNN, MSNOW, and Politico say the president is retaliating against them for\u2026",
+      "link": "https://www.mtairynews.com/ap/business/cnn-msnow-and-politico-ask-court-to-make-trump-access-order-permanent/article_a7bccd2e-0b1f-56dd-ba93-26e48334556a.html",
+      "source": "Mtairynews",
+      "image": "https://bloximages.chicago2.vip.townnews.com/mtairynews.com/content/tncms/assets/v3/editorial/5/83/5837232e-5fd7-573e-b69b-5a6e0c9e41fc/6ae368f007467.image.jpg?resize=300%2C195",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Padres Notes: SD Loses 9 Players, Michael King Makes Opt-Out Decision, Ty France Contract Projection",
+      "description": "The San Diego Padres lost nine players to free agency, Michael King made his opt-out decision and Ty France has a contract prediction.",
+      "link": "https://www.si.com/mlb/padres/onsi/padres-notes-sd-loses-9-players-michael-king-makes-opt-out-decision-ty-france-contract-projection",
+      "source": "Sports Illustrated",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4491,h_2526,x_0,y_95/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/inside_the_padres/01m657kd92vfjbkfe71t.jpg",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Woman convicted of torturing and killing victim says she\u2019s in constant pain after botched execution",
+      "description": "In her first public statement since her botched execution, Christa Pike said she\u2019s experienced constant pain since she woke up in a hospital bed surprised to still be alive. Pike\u2019s statement on Friday was dictated to her legal team from the infirmary at the prison where she is housed, the Associated Press reported. In 1995, [\u2026] The post Woman convicted of torturing and killing victim says she\u2019s in constant pain after botched execution appeared first on CBNC.",
+      "link": "https://cbnc.com/woman-convicted-of-torturing-and-killing-victim-says-shes-in-constant-pain-after-botched-execution/",
+      "source": "Cbnc",
+      "image": "https://cbnc.com/wp-content/uploads/2026/10/GettyImages-543894970.jpg",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mondel\u0113z lifts Q3 margins as costs ease and snack volumes rise",
+      "description": "Mondel\u0113z International\u2019s third-quarter results point to improving snack demand and easing production costs, with organic revenue rising 2.1% year-on-year.",
+      "link": "https://www.foodingredientsfirst.com/news/mondelez-q3-sales-snack-growth.html",
+      "source": "Food Ingredients First",
+      "image": "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/639289659936034610Mondelez_slider_image.jpg",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Lizzie Borden acquittal still echoes as Fall River murders remain 'A Forever Mystery'",
+      "description": "The brutal murder of a married couple, the trial, and the acquittal kept Fall River -- and the nation -- glued to their newspapers.",
+      "link": "https://us.headtopics.com/news/lizzie-borden-acquittal-still-echoes-as-fall-river-murders-89373475",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/30/komonews/lizzie-borden-acquittal-still-echoes-as-fall-river-lizzie-borden-acquittal-still-echoes-as-fall-river-6600EEB5097EB2728E7DFB1F2E06B10A-16x9.webp",
+      "published": "2026-10-30 13:59:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pope Leo XIV becomes the first pope in history to vote in a US general election",
+      "description": "The Vatican said he was 'keeping with his long-standing practice of civic participation.'",
+      "link": "https://us.headtopics.com/news/pope-leo-xiv-becomes-the-first-pope-in-history-to-vote-in-a-89373470",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/30/komonews/pope-leo-xiv-becomes-the-first-pope-in-history-to--pope-leo-xiv-becomes-the-first-pope-in-history-to--1B65505E7E84776563408535B0291867-16x9.webp",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "North Korean hackers steal over $6 billion from the largest cryptocurrency exchange",
+      "description": "Hackers from North Korea stole $6.3 billion from the world\u2019s largest cryptocurrency exchange, Binance.",
+      "link": "https://us.headtopics.com/news/north-korean-hackers-steal-over-6-billion-from-the-largest-89373469",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/10/30/komonews/north-korean-hackers-steal-over-6-billion-from-the-north-korean-hackers-steal-over-6-billion-from-the-474973C365CDA1FF5499CCCE1152E49F-16x9.webp",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pakistan\u2019s Trump Bet Meets the US Midterms",
+      "description": "The weeks after November 3 will test whether Pakistan\u2019s moment in Washington was a strategy or a stroke of luck.",
+      "link": "https://thediplomat.com/2026/10/pakistans-trump-bet-meets-the-us-midterms/",
+      "source": "The Diplomat",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/12/thediplomat_2025-12-24-175513.webp",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "japan"
+      ]
+    },
+    {
+      "title": "$34 Million Los Angeles School Sits Vacant and Vandalized Since 2021",
+      "description": "In 2003, the Los Angeles Unified School District (LAUSD) had 703,000 students. \"The district had been running year-round schedules, with...",
+      "link": "https://pjmedia.com/rick-moran/2026/10/30/34-million-los-angeles-school-never-occupied-sits-vacant-and-vandalized-n4958839",
+      "source": "Pjmedia.com",
+      "image": "https://media.townhall.com/cdn/hodl/2015/157/065de03d-92a7-4f99-a42e-78b143d29049.jpg",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "education"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Aaloo se sona\u2019 jibe returns: PM Narendra Modi takes swipe at Rahul Gandhi at Banaskantha - The Times of India",
+      "description": "\u2018Aaloo se sona\u2019 jibe returns: PM Narendra Modi takes swipe at Rahul Gandhi at Banaskantha The Times of India PM Modi lays the foundation stone, inaugurates and dedicates to the Nation development projects worth over \u20b914,000 Crore in Banaskantha, Gujarat NarendraModi.in 'Modi nahi jayenge' slogan raised at PM's Gujarat event; Congress retorts, 'you wish!' The Times of India \u2018Some out to create chaos in country, defame Modi\u2019: PM slams Opposition The Indian Express Will serve people of India till...: Modi amid 'baap barb' Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQR2ZYVUdLSjJCd1ZzRTlESjQ2by1ENFd3QzFRNUVRa2x0MTFxdFVONDJUNERjcEhsbnl1THhmZDM2SWprTW0yTlpsaTA3QncxZkx2U0xCeFAxLU1nbTA3b0staDNadTlyQ2Nfb2xoakVFOTB0Szd4cDdKN0EyT3YzbHk0QnY2VWt0NU4xeFRxUGlqQmJPVXNIamtMMFJVRVFCenR3aGxfcllJTWxObWYycm0xMHdrekpCRGt4c0UxOEZFaUs1Y2tTSE9DellKNmlqbFB1SEVObnZLQVZhUHlfMzFKcmdyQ09FRkFPdk4tbVlqSXB0OGfSAfsBQVVfeXFMTkpEZVFZaEo1VzliMWFqRlZYTUVrWnRjWkg5d181eEltOXlJZ1FrUUUyWENpZS16UVljaFRleDUwX0Q2SlhaemJCYmFXZVNmWGcwSV9LX3k3Q0c5TTl3SVNldUdVSm5HQlRtQnNycXBfTWdodzFHaVNYdXJfREl1d3pGUW01cVRveTU2Y1ZrZWg1SFRNd0xKNm1teWZ3TDBJOVBWUk9QbXlUYXlWMUNKa094NnpGVmhNVlR0MXZuZ3ZJdDY4UlpUbEsxa1VteFBxNVJlNjllaU9MVWFqQXd6eGNpME1rWW80aHRJRXhES3dlMDRWWHppRndyR0E?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump administration has slow-walked 380K potential immigrant voters",
+      "description": "The Trump administration cut naturalization sharply over the past year, leading to accusations it\u2019s holding back hundreds of thousands of people who might have voted in the midterms.",
+      "link": "https://www.montrosepress.com/news/trump-administration-has-slow-walked-380k-potential-immigrant-voters/article_c70181ca-b903-4e9c-be6b-134d846dcf9d.html",
+      "source": "Montrosepress",
+      "image": "https://bloximages.chicago2.vip.townnews.com/montrosepress.com/content/tncms/assets/v3/editorial/b/62/b6246167-9357-4d54-bdc7-e72e867e219d/6ae4acd6e3d40.image.png?resize=300%2C199",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Melting glaciers expose hundreds of unexploded World War I bombs",
+      "description": "Melting glaciers in the Italian mountains are revealing hundreds of unexploded bombs from the First World War.",
+      "link": "https://metro.co.uk/2026/10/30/melting-glaciers-expose-hundreds-unexploded-world-war-bombs-29748695/",
+      "source": "Metro",
+      "image": "https://metro.co.uk/wp-content/uploads/2026/10/coverimages56108561-9c9b.jpg?quality=90&strip=all",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "crime",
+        "top",
+        "environment"
+      ],
+      "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "NatWest boss Paul Thwaite calls for 'greater ambition' to turbocharge UK economy",
-      "description": "NatWest chief executive Paul Thwaite has criticised the UK government's maiden budget for lacking the necessary ambition to drive economic growth. While acknowledging the country's resilience, he argues that a true growth strategy requires a longer-term vision encompassing tax, spending, and regulation. This comes as NatWest reports solid third-quarter profits, benefiting from high interest rates and cost-saving measures.",
-      "link": "https://us.headtopics.com/news/natwest-boss-paul-thwaite-calls-for-greater-ambition-to-89367080",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/30/dailymail/natwest-boss-paul-thwaite-calls-for-greater-ambiti-natwest-boss-paul-thwaite-calls-for-greater-ambiti-E8D125BE29A3FA86FDAA8F0B2EB72A35-16x9.webp",
-      "published": "2026-10-30 10:53:00",
+      "title": "'Chaotic mess': House speaker pushes to pause construction of state prison",
+      "description": "Kay Ivey responds after the house speaker called managing the construction of the Kay Ivey Correctional Facility a \"chaotic mess.\"",
+      "link": "https://www.wvtm13.com/article/prison-kay-ivey-construction-delay-alabama/74294930",
+      "source": "Wvtm13",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/3b1b9a16-b393-414f-8519-644f0e9860c6.jpg",
+      "published": "2026-10-30 13:59:00",
       "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Scary holiday airfare: Best and worst days to fly for Thanksgiving and Christmas",
-      "description": "Airfares this Thanksgiving and Christmas season are up more than 20 percent over last year. But before you fork over hundreds of dollars, here are the dates with the lowest fares.",
-      "link": "https://us.headtopics.com/news/scary-holiday-airfare-best-and-worst-days-to-fly-for-89367071",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/30/10news/scary-holiday-airfare-best-and-worst-days-to-fly-f-scary-holiday-airfare-best-and-worst-days-to-fly-f-F1741E7AC7BE36784CA0D06EF0DA877C-16x9.webp",
-      "published": "2026-10-30 10:53:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Uzbekistan signs deals to expand mineral exploration and mining technology",
-      "description": null,
-      "link": "https://www.trend.az/casia/uzbekistan/4241176.html",
-      "source": "Trend",
-      "image": "https://www.trend.az/media/2026/10/30/uzbekistan_geology.jpg",
-      "published": "2026-10-30 10:53:00",
-      "category": [
-        "business",
+        "crime",
+        "politics",
         "top"
       ],
       "country": [
-        "azerbaijan"
+        "united states of america"
       ]
     },
     {
-      "title": "Pakistan, Singapore discuss resumption of direct flights, boost in bilateral ties",
-      "description": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar meets Minister for Foreign Affairs of the Republic of Singapore Dr Vivian Balakrishnan. \u2014 X@ForeignOfficePkPakistan and Singapore mark 60 years of diplomatic relations. Both sides discuss Islamabad's engagement...",
-      "link": "https://www.geo.tv/latest/688979-pakistan-singapore-agree-to-boost-cooperation-in-multiple-sectors",
-      "source": "Geo Tv",
-      "image": "https://www.geo.tv/assets/uploads/updates/2026-10-30/688979_023834_updates.jpg",
-      "published": "2026-10-30 10:53:00",
-      "category": [
-        "top",
-        "politics",
-        "business"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "Shepherd Neame plans \u00a315m Faversham brewery rebuild",
-      "description": "Shepherd Neame plans a smaller brewery at its Faversham site. The \u00a315 million programme will convert the existing bottling hall, with current brewing continuing during construction and completion targeted for the end of 2029. The post Shepherd Neame plans \u00a315m Faversham brewery rebuild appeared first on Industrial News.",
-      "link": "https://industrialnews.co.uk/shepherd-neame-plans-15m-faversham-brewery-rebuild/",
-      "source": "Industrial News",
-      "image": "https://industrialnews.co.uk/wp-content/uploads/2026/10/pexels-photo-7598915.webp",
-      "published": "2026-10-30 10:53:00",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Tottenham Hotspur vs. Crystal Palace: How to watch, date, time, live stream and TV channel for Premier League clash",
-      "description": "Sports Mole provides everything you need to know about how to watch the Premier League contest between Tottenham Hotspur and Crystal Palace.",
-      "link": "https://www.sportsmole.co.uk/football/spurs/how-to-watch/how-to-watch-tottenham-vs-palace-date-time-live-stream-and-tv-channel_608007.html",
-      "source": "Sports Mole",
-      "image": "https://www.sportsmole.co.uk/thumbor/LFsou7mQNyQIblaPJxWJVlZZs3o=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F10%2Faaa-cg-6ada4a65350c4319657069.jpg",
-      "published": "2026-10-30 10:53:00",
+      "title": "Hyrox athlete reacts to fierce backlash after soiling herself midway through event",
+      "description": "WARNING - GRAPHIC CONTENT: The Hyrox competitor has come under heavy criticism.",
+      "link": "https://www.express.co.uk/sport/othersport/2261937/joanna-wietrzyk-apologises-hyrox-poo",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/4/237x141/2261937_1.jpg",
+      "published": "2026-10-30 13:59:00",
       "category": [
         "sports"
       ],
@@ -108,120 +214,27 @@
       ]
     },
     {
-      "title": "NatWest axes 1,400 jobs in \u00a3420million cost-cutting drive while bosses celebrate soaring profits - The Sun",
-      "description": "NatWest axes 1,400 jobs in \u00a3420million cost-cutting drive while bosses celebrate soaring profits The Sun NatWest slashes 1,000 jobs amid AI overhaul The Telegraph BP profits hit 18-year high as NatWest the latest bank to make billions Sky News Q3 2026 NatWest Group Results NatWest Group NatWest posts weakest profit growth among big UK banks Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSOUl0RzdsMkxEN2xrSzZlSmZvYWZpV0NvRm42NjNsRzRsX1JnamdTVmpDN1ZXR1I3dnlabGk0MkFHYWsxS2p2ZE9Md3pWLTJTV29ocEt1SHo4bjVienFNY05ua21YSlZ3VzV2YTcwblNuZlhuQ29hcjFFYw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-10-30 10:53:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Dockworkers stage international strikes to denounce arms shipments and demand better conditions",
-      "description": "Dockworkers across Europe and beyond are staging strikes as part of an international campaign against arms shipments and to demand better working conditions.",
-      "link": "https://headtopics.com/news/dockworkers-stage-international-strikes-to-denounce-arms-89367063",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/10/30/wjxt4/dockworkers-stage-international-strikes-to-denounc-dockworkers-stage-international-strikes-to-denounc-0AD149208DA02099D30CCDB5714DA80F.webp",
-      "published": "2026-10-30 10:53:00",
-      "category": [
-        "top",
-        "politics",
-        "business"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ethiopia receives first Su-35s",
-      "description": "Ethiopia\u2019s Air Force has taken delivery of the first of a dozen Sukhoi Su-35 fighter jets from Russia as it [...]",
-      "link": "https://defenceweb.co.za/aerospace/aerospace-aerospace/ethiopia-receives-first-su-35s/",
-      "source": "Defence Web",
-      "image": "https://defenceweb.co.za/wp-content/uploads/aerospace/aerospace/Ethiopian_Su-35_Abiy_Ahmed_Ali.jpg",
-      "published": "2026-10-30 10:52:59",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "Cyclone Devastates Uppada Beach Road | \u0c24\u0c41\u0c2b\u0c3e\u0c28\u0c41 \u0c2c\u0c40\u0c2d\u0c24\u0c4d\u0c38\u0c02.. \u0c27\u0c4d\u0c35\u0c02\u0c38\u0c2e\u0c48\u0c28 \u0c09\u0c2a\u0c4d\u0c2a\u0c3e\u0c21 \u0c2c\u0c40\u0c1a\u0c4d \u0c30\u0c4b\u0c21\u0c4d\u0c21\u0c41!",
-      "description": "\u0c24\u0c41\u0c2b\u0c3e\u0c28\u0c41 \u0c2a\u0c4d\u0c30\u0c2d\u0c3e\u0c35\u0c02\u0c24\u0c4b \u0c09\u0c2a\u0c4d\u0c2a\u0c3e\u0c21 \u0c2c\u0c40\u0c1a\u0c4d \u0c30\u0c4b\u0c21\u0c4d\u0c21\u0c41 \u0c1b\u0c3f\u0c26\u0c4d\u0c30\u0c2e\u0c48 \u0c30\u0c3e\u0c15\u0c2a\u0c4b\u0c15\u0c32\u0c41 \u0c28\u0c3f\u0c32\u0c3f\u0c1a\u0c3f\u0c2a\u0c4b\u0c2f\u0c3e\u0c2f\u0c3f. \u0c24\u0c40\u0c30\u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24 \u0c2e\u0c24\u0c4d\u0c38\u0c4d\u0c2f\u0c15\u0c3e\u0c30\u0c41\u0c32 \u0c07\u0c33\u0c4d\u0c32\u0c41 \u0c26\u0c46\u0c2c\u0c4d\u0c2c\u0c24\u0c3f\u0c28\u0c17\u0c3e, \u0c39\u0c4b\u0c02\u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f \u0c35\u0c02\u0c17\u0c32\u0c2a\u0c42\u0c21\u0c3f \u0c05\u0c28\u0c3f\u0c24, \u0c0e\u0c02\u0c2a\u0c40 \u0c24\u0c02\u0c17\u0c46\u0c33\u0c4d\u0c32 \u0c09\u0c26\u0c2f\u0c4d \u0c36\u0c4d\u0c30\u0c40\u0c28\u0c3f\u0c35\u0c3e\u0c38\u0c4d \u0c2a\u0c30\u0c3f\u0c36\u0c40\u0c32\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41.",
-      "link": "https://telugu.news18.com/videos/kakinada/cyclone-devastates-uppada-beach-road-cyclone-devastates-uppada-beach-road-kvr-3257117.html",
-      "source": "Telugu News 18",
-      "image": "https://images.news18.com/telugu/uploads/2026/10/1793357584_KfcU8Q8au8-thumbnail1793357364705jpg-iIAXq6ZVFK-1200x720.jpg",
-      "published": "2026-10-30 10:52:58",
+      "title": "Blunt Cuts and Tonal Depth for Fine Hair Density",
+      "description": "Thin hair presents a specific structural challenge: the low density of strands means that standard volume-building techniques often backfire, leaving the ends looking sparse rather than lush. For clients with this starting condition, the primary goal is not to add physical mass, which the hair cannot support, but to manage the visual weight and direction of the existing strands. The error most often cited by stylists is an excess of layering, a technique that works for thick, heavy hair by removing weight but destroys the perceived density of fine hair. When a stylist cuts too many distinct levels, the result is a jagged, see-through perimeter that highlights the lack of volume rather than creating it. The professional correction begins with a shift from discrete layers to continuous, blended shapes. Sam McKnight's approach to structure emphasizes how direction and texture create the finished shape; in this context, that means avoiding the \"ruffled\" look of over-thinning. Instead, stylists recommend a uniform, blunt cut. By keeping the bottom edge straight and heavy, the hair falls together, creating a solid line that tricks the eye into perceiving greater density. If movement is required, the technique shifts to \"invisible\" layers-long, graduated transitions that maintain the weight at the ends while adding lift at the crown. This creates volume where it is needed most without sacrificing the optical thickness of the perimeter. Shade and Surface Texture Color plays a critical role in how light interacts with the hair shaft, a factor Tracey Cunningham identifies as the limiting variable in any coloring result. A single, flat shade offers no depth, allowing the eye to see through the thin sections of hair. Conversely, contrasting tonal depth-alternating slightly darker and lighter pieces-interrupts the visual line of the strand. This contrast creates the illusion of shadow and dimension, making the mass of hair appear more substantial without changing its physical weight. The starting base color dictates how much contrast is visible; on very light or very dark bases, subtle variations may be lost, requiring more pronounced tonal shifts to achieve the same perceptual density.",
+      "link": "https://english.pravda.ru/news/women/171159-fine-hair-volume-technique/",
+      "source": "Pravda",
+      "image": "https://english.pravda.ru/image/preview/article/1/5/9/171159_amp.jpeg",
+      "published": "2026-10-30 13:59:00",
       "category": [
         "top",
         "environment"
       ],
       "country": [
-        "india"
+        "russia"
       ]
     },
     {
-      "title": "Viaplay completes \u20ac142m sale of Dutch operations to Videoland",
-      "description": "Viaplay Group has completed the sale of its Dutch streaming and broadcasting operations to DPG Media-owned Videoland for \u20ac142 million, bringing its withdrawal from the Netherlands to a close. The [\u2026]",
-      "link": "https://www.broadbandtvnews.com/2026/10/30/viaplay-completes-e142m-sale-of-dutch-operations-to-videoland/",
-      "source": "Broadband Tv News",
-      "image": null,
-      "published": "2026-10-30 10:52:58",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "canada",
-        "germany",
-        "france",
-        "italy",
-        "united kingdom",
-        "australia",
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Shop closed over alleged illegal vape and cigarette sales, including to children",
-      "description": "GMP says Atherton business shut for three months after alleged illegal vape and cigarette sales, including to children, following Wigan court action on October 30.",
-      "link": "https://www.leighjournal.co.uk/news/26683991.atherton-business-shut-three-months-vape-claims/",
-      "source": "Leigh Journal",
-      "image": null,
-      "published": "2026-10-30 10:52:58",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Jharkhand School Holiday November 2026: Check Full List of Holidays, Diwali Break Dates",
-      "description": "Jharkhand School Holiday November 2026: Check the complete holiday list, including Diwali, Govardhan Puja, Bhai Dooj, Chhath Puja, Guru Nanak Jayanti and Sundays, along with school reopening dates for students and teachers in the article below.",
-      "link": "https://www.jagranjosh.com/articles/jharkhand-school-holiday-november-2026-check-full-list-of-holidays-diwali-break-dates-1800018416-1",
-      "source": "Jagran Josh",
-      "image": "https://img.jagranjosh.com/images/2026/10/30/template/image/Jharkhand-School-Holiday-November-2026-1793355104701.webp",
-      "published": "2026-10-30 10:52:57",
-      "category": [
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Meghan Markle & Netflix\u2019s Bond Gets Brutal 3-Word Verdict From Expert",
-      "description": "An expert has delivered a brutal three-word verdict on Meghan Markle and Netflix\u2019s partnership. The news comes amid reports of the Duchess of Sussex\u2019s strained ties with the media giant. Ari Emanuel reportedly stopped personally handling her account, although his agency, WME, continues to represent her and Archewell. Expert suggests Meghan Markle and Netflix\u2019s relationship [\u2026] The post Meghan Markle & Netflix\u2019s Bond Gets Brutal 3-Word Verdict From Expert appeared first on Mandatory.",
-      "link": "https://www.mandatory.com/news/1881788-meghan-markle-netflix-relationship-in-the-toilet-expert-verdict",
-      "source": "Mandatory",
-      "image": null,
-      "published": "2026-10-30 10:52:57",
+      "title": "Catherine Zeta-Jones\u2019 ultimatum to Michael Douglas over their romance revealed",
+      "description": "Douglas and Zeta-Jones famously got together after he was dating multiple other women at once.",
+      "link": "https://pagesix.com/2026/10/30/celebrity-news/catherine-zeta-jones-ultimatum-to-michael-douglas-over-their-romance-revealed/",
+      "source": "Page Six",
+      "image": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F10%2F2013-vanity-fair-oscar-party-143856668_b8964a.jpg",
+      "published": "2026-10-30 13:59:00",
       "category": [
         "top",
         "entertainment"
@@ -231,183 +244,216 @@
       ]
     },
     {
-      "title": "Will you need an umbrella for trick-or-treating? Latest Halloween forecast for Chicago area",
-      "description": "Chances for rain on Halloween in the Chicago area have been looming over the forecast over the past week.",
-      "link": "https://www.nbcchicago.com/weather/chicago-halloween-weather-outlook-rain-forecast/4009609/",
-      "source": "Nbc Chicago",
-      "image": "https://media.nbcchicago.com/2026/10/GettyImages-599598738.jpg?quality=85&strip=all&resize=1200%2C675",
-      "published": "2026-10-30 10:52:56",
-      "category": [
-        "top",
-        "environment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "This book could be an ofrenda this Dia de los Muertos",
-      "description": "\u201cMonstrillio\u201d details the experience of a family deeply affected by loss, writes Izabella Garcia.",
-      "link": "https://www.dailybulletin.com/2026/10/30/this-book-could-be-an-ofrenda-this-dia-de-los-muertos/",
-      "source": "Inland Valley Daily Bulletin",
-      "image": "https://www.dailybulletin.com/wp-content/uploads/2026/10/RPE-L-INLANDIA-1101-01.jpg?w=1600&resize=1600,900",
-      "published": "2026-10-30 10:52:56",
-      "category": [
-        "top",
-        "politics",
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Warning period over as speed cameras go live along final stretch of Rt. 13 in Southwest Philadelphia",
-      "description": "Ticketing is now live for the speed cameras along the final stretch of Route 13, which cuts through the city from Northeast Philadelphia to West Philadelphia.",
-      "link": "https://6abc.com/post/warning-period-speed-cameras-go-live-final-stretch-route-13-southwest-philadelphia/19999276/",
-      "source": "6abc",
-      "image": "https://cdn.abcotvs.com/dip/images/19999431_103026-wpvi-rt13-speed-cams-530a-pkg-video--vid.jpg",
-      "published": "2026-10-30 10:52:55",
+      "title": "Welsh Ambulance Service urges safe Halloween as it expects another busy weekend",
+      "description": "More than 7,000 emergency calls were made to the Welsh Ambulance Service between Halloween and Bonfire Night last year. The Trust said that between 31...",
+      "link": "https://wrexham.com/news/welsh-ambulance-service-urges-safe-halloween-as-it-expects-another-busy-weekend-301601.html",
+      "source": "Wrexham",
+      "image": "https://wrexham.com/wp-content/uploads/2022/10/HalloweenPumpkin-840x429-840x429.jpg",
+      "published": "2026-10-30 13:59:00",
       "category": [
         "crime",
         "top",
-        "technology"
+        "environment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Len Hanley: If Christian, don't feel tempted to participate in Halloween",
+      "description": null,
+      "link": "https://www.laconiadailysun.com/opinion/letters_to_editor/len-hanley-if-christian-dont-feel-tempted-to-participate-in-halloween/article_0d216463-e52a-4c03-a974-dd54e836c4c1.html",
+      "source": "Laconiadailysun",
+      "image": "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/custom/image/fe78d7b4-18c2-11e8-a1cd-ef05368d5f9b.jpg?resize=600%2C315",
+      "published": "2026-10-30 13:59:00",
+      "category": [
+        "top",
+        "lifestyle"
       ],
       "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Assam down town University inaugurates Techno Management Fest 2026",
-      "description": "Assam down town University launched its three-day Techno Management Fest 2026, attracting over 2,500 registered students from its campus and other institutions.",
-      "link": "https://www.sentinelassam.com/cities/guwahati-city/assam-down-town-university-inaugurates-techno-management-fest-2026",
-      "source": "The Sentinel",
-      "image": "https://media.assettype.com/english-sentinelassam/import/h-upload/2021/08/09/246970-assa-do.webp",
-      "published": "2026-10-30 10:52:54",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "ITAT Condones 388 Day Delay by 94 Year Old Farmer, Remands \u20b948.81 Lakh Demonetization Addition [Read Order]",
-      "description": "ITAT condones delay due to farmer\u2019s advanced age and unfamiliarity with online proceedings, remanding the case for fresh adjudication.",
-      "link": "https://www.taxscan.in/income-tax/itat-condones-388-day-delay-by-94-year-old-farmer-remands-4881-lakh-demonetization-addition-read-order",
-      "source": "Taxscan",
-      "image": "https://documents.taxscan.in/cms/media/itat-condones-388-day-delay-by-94-year-old-farmer-remands-4881-lakh-demonetizati-1bb14b.jpg",
-      "published": "2026-10-30 10:52:52",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Netanyahu Escalates Incitement Against Arab Parties After Historic Election Gains",
-      "description": "Israeli Prime Minister Benjamin Netanyahu has continued his incitement against Arab parties that achieved historic gains in the Knesset elections, amid concerns that they might support the formation of an alternative government one that would oust him and relegate him to the opposition. In a post on the platform X, Netanyahu stated, referring to the \u2026",
-      "link": "https://english.almanar.com.lb/article/144832/",
-      "source": "\u0627\u0644\u0645\u0646\u0627\u0631",
-      "image": "https://english.almanar.com.lb/uploads/2026/10/manar-98615a5e6e0a2636.jpg",
-      "published": "2026-10-30 10:52:52",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "lebanon"
-      ]
-    },
-    {
-      "title": "Ares Capital: NII Slips Below The Dividend And A Discounted Acquisition Looms - HOLD",
-      "description": "Ares Capital stock is rated Hold as falling NII, dividend coverage pressure, and NAV declines offset MFIC deal upside. Read here for an analysis of ARCC stock.",
-      "link": "https://seekingalpha.com/article/4960092-ares-capital-nii-slips-below-the-dividend-and-a-discounted-acquisition-looms-hold",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972348165/image_1972348165.jpg?io=getty-c-w1280",
-      "published": "2026-10-30 10:52:52",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Gladstone Land: The Farmland Discount Needs Stronger Earnings To Close",
-      "description": "Gladstone Land stock offers recovery potential, an NAV discount, and a 6.31% yield. Read here for a detailed analysis of LAND stock.",
-      "link": "https://seekingalpha.com/article/4960091-gladstone-land-the-farmland-discount-needs-stronger-earnings-to-close",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229842260/image_2229842260.jpg?io=getty-c-w1280",
-      "published": "2026-10-30 10:52:50",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Ibrahim Ali Khan and Palak Tiwari: What Led to Their Rumored Breakup?",
-      "description": "The relationship between Ibrahim Ali Khan and Palak Tiwari has reportedly come to an end after three years. While they were frequently seen together, neither has confirmed their romance publicly. Sources indicate that the split was mutual and amicable, with both focusing on their careers. Despite the breakup, they continue to follow each other on social media, hinting at a strategic decision to maintain a connection. As of now, no official statements have been made regarding their relationship status, leaving fans curious about their next moves in the entertainment industry.",
-      "link": "https://gyanhigyan.com/entertainment/ibrahim-ali-khan-and-palak-tiwari-what-led-to-their-rumored/cid19467932.htm",
-      "source": "Gyanhigyan",
-      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/7aea1a114c6bc1a8b0ae6dea3f3f7985.jpg?width=1280&height=720&resizemode=4",
-      "published": "2026-10-30 10:52:49",
+      "title": "GHOST RIDER Writer Wants Ryan Gosling's MCU Reboot to Go Full R-Rated Horror as Placeholder Synopsis Surfaces",
+      "description": "Marvel Studios has big plans for Ryan Gosling as Ghost Rider, and comic book writer Benjamin Percy thinks the upcoming MCU reboot should take the character somewhere seriously dark. We're talking melting flesh, chains pulled from mouths, and enough supernatural horror to make this feel like a trip straight into Hell. Percy, who wrote Marvel's Ghost Rider comic series from 2022 to 2023, wants the new movie to embrace the character's darker side rather than follow the usual Marvel superhero formula. Speaking with ComicBook, Percy explained why he believes an R-rated approach would be the right move: \u201cLet me say that as a horror head, this is my time, right? I\u2019m in my zone right now. \"I\u2019m sure whatever Marvel conjures up is going to be great, but I would lean towards the R-rated horror version of the character and not do the standard cape and spandex, MCU type, which can be very effective if you\u2019re doing a Doomsday storyline, or an X-Men storyline. \u201cBut in this case, I would really lean into, like, Johnny pulling hot chains out of his mouth, Hellraiser style, or his skin melting right off of him with a halo of flames around. Like, give us the body horror. Give us a really hellish iteration of Ghost Rider on the screen.\u201d I'm on board with that approach! Ghost Rider is a flaming skeleton who makes deals with demons and savagely punishes the wicked. There's plenty of room to make an awesome supernatural horror movie here, especially if Marvel is willing to let the filmmakers get a little crazy with the character. While most MCU films stick with a PG-13 rating, the success of Deadpool and Wolverine proved that Marvel can deliver an R-rated comic book movie and still bring in a massive audience. An adult-oriented Ghost Rider movie could be a great way to explore the MCU's supernatural corner. Marvel officially announced Gosling's casting during its San Diego Comic-Con presentation in July. The actor will headline a solo Ghost Rider movie directed by Shawn Levy, whose credits include Deadpool & Wolverine and the upcoming Star Wars: Starfighter. The film is scheduled to arrive in theaters in 2028, with Starfighter screenwriter Jonathan Tropper handling the script. Heated Rivalry star Connor Storrie is also reportedly in talks to play the movie's villain, although details about the character remain under wraps. Gosling's Ghost Rider is also expected to have a role in Marvel's planned Midnight Sons movie, which would bring together some of the MCU's supernatural heroes. In addition to Percy's comments, a placeholder synopsis for the reboot has surfaced, and it offers an interesting possibility for the story. The description comes directly from Volume 10 of Marvel's Ghost Rider comic, so it shouldn't be treated as confirmation of the movie's plot. Still, it could offer a clue about the direction Marvel is considering. \u201cJohnny Blaze has the perfect life: a wife and two kids, a job at an auto repair shop, and a small-town community that supports him\u2026 But Johnny isn\u2019t doing well. He has nightmares of monsters when he sleeps. And he sees bloody visions when he\u2019s awake. This life is beginning to feel like a prison. And there\u2019s a spirit in him that\u2019s begging to break out.\u201d Gosling played a major role in getting the project off the ground. During a previously interview, Feige revealed that the actor was the one who developed the concept and convinced Levy to get involved. \u201cIt was Gosling who had the vision. It was Gosling who had the pitch that won over Shawn, that had them come and pitch us this idea, which led to us on stage today.\u201d Gosling clearly passionate about the character, and the fact that he approached Marvel with a specific take tells us he completely invested in telling a great story that he\u2019s excited about. Whether that vision matches Percy's desire for a full-on R-rated horror movie remains to be seen. Personally, I'd love to see Marvel embrace the frightening side of Ghost Rider. Give us the demonic imagery, the terrifying transformations, the hellfire, and the brutal consequences of being possessed by a supernatural force. The MCU has an opportunity to do something different with this character, and hopefully Gosling and Levy take full advantage of it. Would you rather see an R-rated Ghost Rider horror movie, or do you think Marvel can pull off the character with a PG-13 rating?",
+      "link": "https://geektyrant.com/news/ghost-rider-writer-wants-ryan-goslings-mcu-reboot-to-go-full-r-rated-horror-as-placeholder-synopsis-surfaces",
+      "source": "Geektyrant",
+      "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1793280819108-5037WXLG6LIUBZDX7EG1/Ryan%2BGosling%2BJoins%2BMCU%2Bas%2BGHOST%2BRIDER%2BWith%2BDEADPOOL%2B%26%2BWOLVERINE%2BDirector%2BShawn%2BLevy.webp?format=1500w",
+      "published": "2026-10-30 13:59:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "Donald Glover to star, write and direct live-action 'PUBG' series",
-      "description": "Netflix is diving into the world of gaming with a live-action adaptation of the iconic video game \u2018PlayerUnknown\u2019s Battlegrounds.\u2019 The talented Donald Glover will not only take on a lead role but also serve as writer and executive producer. While the storyline is yet to be revealed, fans can anticipate a thrilling experience inspired by the game's intense last-man-standing gameplay.",
-      "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/donald-glover-to-star-write-and-direct-live-action-pubg-series/articleshow/135357353.cms",
-      "source": "The Times Of India",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135357353/135357353.jpg",
-      "published": "2026-10-30 10:52:49",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Ilhan Omar : A Test of Democracy and Political Intimidation",
+      "title": "Mastech Digital Q3 2026 Earnings Call Transcript",
       "description": null,
-      "link": "https://alquds.com/en/posts/267368-ilhan-omar-a-test-of-democracy-and-political-intimidation",
-      "source": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-      "image": "https://cdn.alquds.com/uploads/34c61fac52bc0cfb2c16906813980bfe.jpg",
-      "published": "2026-10-30 10:52:47",
+      "link": "https://www.benzinga.com/news/26/10/62740353/mastech-digital-q3-2026-earnings-call-transcript",
+      "source": "Benzinga",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/10/30/Stock-market-chart-with-green-candlestic.jpg?crop=600:400,smart&optimize=medium",
+      "published": "2026-10-30 13:58:59",
       "category": [
-        "top",
-        "politics"
+        "business",
+        "top"
       ],
       "country": [
-        "palestine"
+        "united states of america"
       ]
     },
     {
-      "title": "Former MK party SG Nomvalo denies working with Ramaphosa, plotting to remove Zuma",
-      "description": "According to Nomvalo, there was a plot to get rid of him.",
-      "link": "https://www.citizen.co.za/news/south-africa/politics/nomvalo-says-he-was-accused-of-plotting-to-remove-zuma-as-mk-party-president/",
-      "source": "The Citizen",
-      "image": "https://media.citizen.co.za/wp-content/uploads/2026/10/NOMVALO.jpg",
-      "published": "2026-10-30 10:52:47",
+      "title": "Ultra Lotto 6/58, Mega Lotto 6/45 draw results on Friday, Oct. 30",
+      "description": "MANILA, Philippines\u2014No bettor won the \u20b1460.91 million Ultra Lotto 6/58 jackpot or the \u20b115 million Mega Lotto 6/45 jackpot on Friday, Oct. 30, 2026, according to the Philippine Charity Sweepstakes Office. Ultra Lotto 6/58 draw result: 51-57-35-54-29-45. Jackpot prize: \u20b1460.91 million Mega Lotto 6/45 draw result: 09-37-34-18-27-44 Jackpot prize: \u20b115 million Minor games The results for the other PCSO lottery games on Friday were: Draw schedule Ultra Lotto 6/58 draws are held every Tuesday, Friday and Sunday, while Mega Lotto 6/45 draws take place every Monday, Wednesday and Friday.... Keep on reading: Ultra Lotto 6/58, Mega Lotto 6/45 draw results on Friday, Oct. 30",
+      "link": "https://newsinfo.inquirer.net/2333242/ultra-lotto-6-58-mega-lotto-6-45-draw-results-on-friday-oct-30",
+      "source": "Inquirer",
+      "image": "https://newsinfo.inquirer.net/files/2025/05/lotto-pcso-620x382.jpeg",
+      "published": "2026-10-30 13:58:58",
+      "category": [
+        "top",
+        "business",
+        "entertainment"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Cojuangco opposes Bataan plant privatization",
+      "description": "Pangasinan Rep. Mark Cojuangco and Alpas Pinas are pushing to revive the Bataan Nuclear Power Plant under government ownership, citing the potential of nuclear energy to lower electricity costs, address power shortages and provide reliable energy for Filipinos.",
+      "link": "https://tribune.net.ph/2026/10/30/cojuangco-opposes-bataan-plant-privatization",
+      "source": "Daily Tribune",
+      "image": "https://images.assettype.com/tribune/2026-10-30/57kw33dc/86280587325825923889058845867070877256128197n.jpg?w=940&auto=format&q=70&rect=0%2C0%2C940%2C529&h=529&fit=crop",
+      "published": "2026-10-30 13:58:58",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Death Row inmate Christa Pike speaks out after botched execution",
+      "description": "Christa Pike survived two doses of the lethal injection after she was supposed to be put to death in Tennessee last month",
+      "link": "https://www.birminghammail.co.uk/news/world-news/death-row-inmate-christa-pike-34840472",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/world-news/article34840471.ece/ALTERNATES/s615/0_Christa-Pike-is-now-able-to-speak-in-full-sentences-according-to-her-attorney.jpg",
+      "published": "2026-10-30 13:58:56",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "UK Offshore Gaming List 2026 Verified & Ranked",
+      "description": "UK Offshore Gaming List 2026 Verified & Ranked It\u2019s also crucial to read the bonus terms to understand the restrictions before proceeding. Depending on the operator, the offer may be available to new customers or existing users. For the same reason, these deals usually include just 5 to 10 spins and a maximum win cap. [\u2026] The post UK Offshore Gaming List 2026 Verified & Ranked appeared first on Sanjhi Soch Worldwide Newspaper.",
+      "link": "https://sanjhisoch.com/uk-offshore-gaming-list-2026-verified-ranked/",
+      "source": "Sanjhi Soch Worldwide Newspaper",
+      "image": "https://sanjhisoch.com/wp-content/uploads/2020/07/cropped-sanjhi-soch-logo-1-2-png-1499%C3%97215-.png",
+      "published": "2026-10-30 13:58:55",
+      "category": [
+        "top",
+        "business",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "A new chapter of K-State men\u2019s basketball tips off",
+      "description": "Early exhibition tests offer a glimpse of the Wildcats\u2019 potential and the work still ahead.",
+      "link": "https://kstatecollegian.com/2026/10/30/a-new-chapter-of-k-state-mens-basketball-tips-off/",
+      "source": "Kansas State Collegian",
+      "image": "https://kstatecollegian.com/wp-content/uploads/2026/10/MBB_Evan-Gnagy.png",
+      "published": "2026-10-30 13:58:55",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Performance remained strong: SAP CFO Dominik Asam on why company is switching to cheaper AI models from Google, OpenAI and Anthropic",
+      "description": "SAP aims to enhance its profit margins by replacing costly AI models with more affordable options. The company believes that these changes could generate significant efficiency gains exceeding \u20ac2 billion. While performance remains satisfactory, overall AI spending is expected to increase as adoption grows. Regulatory requirements are influencing SAP's AI model selections, particularly for customers in Europe. Companies are now demanding AI solutions that align with local regulations and standards.",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/performance-remained-strong-sap-cfo-dominik-asam-on-why-company-is-switching-to-cheaper-ai-models-from-google-openai-and-anthropic/articleshow/135364997.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135365244/135365244.jpg",
+      "published": "2026-10-30 13:58:54",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "More Convenience Stores Stop Taking SNAP Benefits",
+      "description": "New restrictions on purchases with SNAP benefits in some states mean fewer convenience stores are accepting them",
+      "link": "https://now.tufts.edu/2026/10/30/more-convenience-stores-stop-taking-snap-benefits",
+      "source": "Tufts Now",
+      "image": "https://now.tufts.edu/sites/default/files/uploaded-assets/images/2026-10/261029_snap_convenience_stores_lg.jpg",
+      "published": "2026-10-30 13:58:53",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US and Japan Strike Deal to Build Missile Plant as China Tensions Mount",
+      "description": "The US and Japan finalized a deal to build a missile-assembly facility in Japan, part of Operation Supercharge amid rising China tensions.",
+      "link": "https://hoodline.com/2026/10/us-and-japan-strike-deal-to-build-missile-plant-as-china-tensions-mount/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/10/us-and-japan-strike-deal-to-build-missile-plant-as-china-tensions-mount-1.webp",
+      "published": "2026-10-30 13:58:53",
       "category": [
         "top",
         "politics"
       ],
       "country": [
-        "south africa"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Kent GP's verdict on 'American Covid' and the symptoms to look for",
+      "description": "We answer the key questions about the \u2018new\u2019 Covid strain as thousands across Kent suffer with symptoms.",
+      "link": "https://www.kentonline.co.uk/kent/news/kent-gps-verdict-on-american-covid-and-the-symptoms-to-lo-346838/",
+      "source": "Kentonline",
+      "image": "https://www.kentonline.co.uk/_media/img/330x0/O4QKIW88SDD0GKEYUOXF.jpg",
+      "published": "2026-10-30 13:58:52",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Packers Defense Leads the Way in Win Over Panthers at Lambeau Field",
+      "description": "The Green Bay Packers beat the Carolina Panthers 27-19 at Lambeau Field as Jordan Love threw three touchdowns and the defense recorded six sacks.",
+      "link": "https://deadspin.com/packers-defense-leads-the-way-in-win-over-panthers-at-lambeau-field/",
+      "source": "Deadspin",
+      "image": "https://images.deadspin.com/cms-1793368647636-3ddb7ffc-4708-45c0-8699-18550887238f.jpg?tr=w-1200,h-675,fo-auto,f-jpg",
+      "published": "2026-10-30 13:58:52",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

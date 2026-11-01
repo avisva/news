@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Des Moines Ambulance Blood Program Goes Statewide After Saving Lives in Pilot",
+      "description": "Des Moines and West Des Moines EMS saved trauma patients with pre-hospital blood; Iowa departments can opt into the program starting November 1, 2026.",
+      "link": "https://hoodline.com/2026/10/des-moines-ambulance-blood-program-goes-statewide-after-saving-lives-in-pilot/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/10/des-moines-ambulance-blood-program-goes-statewide-after-saving-lives-in-pilot.webp",
+      "published": "2026-10-31 16:22:36",
+      "category": [
+        "crime",
+        "top",
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

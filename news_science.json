@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Earliest Solar System Bodies Formed Primarily from Chondrules",
+      "description": "A new study reveals that planetesimals formed within the first million years of the Solar System were composed of 83 to 92 percent chondrules with minimal ice. Analysis of iron meteorites indicates that these high-temperature rock beads dominated early accretion, contrasting with later objects that contained more volatile-rich dust and water ice.",
+      "link": "https://us.headtopics.com/news/earliest-solar-system-bodies-formed-primarily-from-89424440",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/1/sciencealert/earliest-solar-system-bodies-formed-primarily-from-earliest-solar-system-bodies-formed-primarily-from-C6607793A66EC39E2D86D494E7ABACFA-16x9.webp",
+      "published": "2026-11-01 09:41:00",
+      "category": [
+        "top",
+        "science",
+        "environment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

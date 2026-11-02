@@ -1,17 +1,32 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "US University accelerates closure of chinese joint programme amid Pentagon scrutiny",
-      "description": "US university fast-tracks closure of joint programme with Chinese institution as Pentagon scrutiny mounts",
-      "link": "https://www.edexlive.com/news/us-university-accelerates-closure-of-chinese-joint-programme-amid-pentagon-scrutiny",
-      "source": "Edex Live",
-      "image": "https://cf-images.assettype.com/edexlive/2026-10-27/ob8c23ut/e2e8f7e7d44704d8e6929f78849355e4.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "published": "2026-11-01 13:15:00",
+      "title": "BRS leader prescribes remedy to rein in crimes against eves",
+      "description": "Calls for collective vigilance to protect girls from harassment and violence",
+      "link": "https://www.thehansindia.com/news/cities/hyderabad/brs-leader-prescribes-remedy-to-rein-in-crimes-against-eves-1138295",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/11/01/1720128-rs-praveen.webp",
+      "published": "2026-11-01 20:51:48",
       "category": [
         "top",
         "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "State machinery must remain on high alert: Minister Anitha",
+      "description": "The Minister advised people in coastal districts to remain vigilant on Monday and Tuesday, as heavy to extremely heavy rainfall was likely under the influence of Cyclone Murasu",
+      "link": "https://www.thehansindia.com/news/cities/amaravati/state-machinery-must-remain-on-high-alert-minister-anitha-1138294",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/11/01/1720127-ni.webp",
+      "published": "2026-11-01 20:51:45",
+      "category": [
+        "top",
+        "environment"
       ],
       "country": [
         "india"

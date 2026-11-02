@@ -1,22 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "David Sovka: Air Canada the best airline in North America? So funny!",
-      "description": "For the benefit of regular Air Canada passengers, we should probably pause for a minute to let everybody to regain consciousness.",
-      "link": "https://www.timescolonist.com/opinion/david-sovka-air-canada-the-best-airline-in-north-america-so-funny-12948492",
-      "source": "Times Colonist",
-      "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/10/web1_11012026-vtc-isl-sovka.jpg",
-      "published": "2026-11-01 13:15:00",
-      "category": [
-        "top",
-        "business",
-        "health"
-      ],
-      "country": [
-        "canada"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

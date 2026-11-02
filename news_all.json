@@ -1,270 +1,416 @@
 {
   "status": "success",
-  "totalResults": 18,
+  "totalResults": 26,
   "results": [
     {
-      "title": "Antiguan PM says UK should pay slavery reparations after meeting with King Charles",
-      "description": "His comments come after Mr Burnham said that he would be open to offering an apology.",
-      "link": "https://www.express.co.uk/news/royal/2262360/antigua-king-charles-meeting-slavery-reparations",
-      "source": "Express",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/106/237x141/2262360_1.jpg",
-      "published": "2026-11-01 20:52:00",
+      "title": "America Inc is turning away from Trump",
+      "description": "With the president\u2019s grip on Washington set to be much weaker after the midterms, US bosses are desperately trying to de-MAGAfy their companies.",
+      "link": "https://www.brisbanetimes.com.au/business/companies/america-inc-is-turning-away-from-trump-20261102-p6195o.html",
+      "source": "Brisbane Times",
+      "image": "https://static.ffx.io/images/$zoom_0.3555%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/92217f4053924df9c6d6c5d0cf9e2962b3d11f4e",
+      "published": "2026-11-02 07:10:00",
       "category": [
         "top",
-        "politics"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Recruits React: Where FSU commits and targets stand after Mike Norvell's firing",
-      "description": "Florida State recruiting faces uncertainty following Mike Norvells firing with FSU commits and top targets reacting to the coaching change and its potential impact on the Seminoles 2027 class",
-      "link": "https://247sports.com/LongFormArticle/recruits-fsu-commits-targets-mike-norvell-firing-292069894/",
-      "source": "Twenty Four Seven Sports",
-      "image": "https://s3media.247sports.com/Uploads/Assets/831/621/13621831.jpg",
-      "published": "2026-11-01 20:52:00",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "5 Big Bang Theory Jokes That Didn't Age Well",
-      "description": "Sheldon and Howard's attitudes towards women were already pretty questionable in the late 2000s. In the 2020s, they're the epitome of cringe.",
-      "link": "https://www.tvline.com/2300276/big-bang-theory-jokes-not-age-well/",
-      "source": "Tvline",
-      "image": "https://www.tvline.com/img/gallery/5-big-bang-theory-jokes-that-didnt-age-well/l-intro-1793215016.jpg",
-      "published": "2026-11-01 20:52:00",
-      "category": [
-        "entertainment"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "CNN Flashes a Warning on Foreign Influences",
-      "description": "CNN gives a heads-up on the topic of foreign powers seeking to gain a foothold in U.S. elections.US intelligence officials...",
-      "link": "https://twitchy.com/jacobb/2026/11/01/cnn-flashes-a-warning-on-foreign-influences-n2433990",
-      "source": "Twitchy",
-      "image": "https://media.townhall.com/cdn/hodl/2026/134/21af90af-d84d-4cdc-b085-92b082e92954.jpg",
-      "published": "2026-11-01 20:52:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Business jet carrying 9 people crashed in a Florida neighborhood, erupting in a massive fireball",
-      "description": "A business jet carrying 9 people crashed in a Florida neighborhood Sunday, erupting in a massive fireball.",
-      "link": "https://www.wfsb.com/2026/11/01/business-jet-carrying-9-people-crashed-florida-neighborhood-erupting-massive-fireball/",
-      "source": "Wfsb Channel 3",
-      "image": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/KKCBUX42GZB6NJ3TXFUWOYGF5I.jpg?auth=fee548910a142110001105a57c1d143667714bdc33a37ca7ce40a083d3cfabbe&width=1200&height=600&smart=false&focal=643%2C483",
-      "published": "2026-11-01 20:51:58",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "All 9 people died on a jet that crashed into a Florida neighborhood, transportation secretary says",
-      "description": "A business jet carrying 9 people crashed in a Florida neighborhood Sunday, erupting in a massive fireball.",
-      "link": "https://www.wbko.com/2026/11/01/all-9-people-died-jet-that-crashed-into-florida-neighborhood-transportation-secretary-says/",
-      "source": "Wbko",
-      "image": "https://gray-wbko-prod.gtv-cdn.com/resizer/v2/3VVQPBRABVHMJFYSHMQGDX5QR4.jpg?auth=2ce244cc22583a303e9e5847beb17add39c0d05e5696f45e64e24af260aa3c3c&width=1200&height=600&smart=true",
-      "published": "2026-11-01 20:51:58",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-      "description": "A rare humanitarian ceasefire in Ukraine's Kherson region, that has allowed civilians to evacuate the Russian-occupied city of Oleshky, is due to end on Sunday night.",
-      "link": "https://www.myjoyonline.com/russian-strikes-cut-power-to-thousands-in-ukraine-as-kherson-ceasefire-to-end/",
-      "source": "Myjoyonline",
-      "image": "https://www.myjoyonline.com/wp-content/uploads/2026/11/image-54.png",
-      "published": "2026-11-01 20:51:55",
-      "category": [
-        "crime",
         "politics",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Rockies Face Immediate Roster Crunch With 6 Players and Looming Deadline",
-      "description": "November 2 is the deadline to move players from the 60-day injured list, and there are some serious decisions to be made.",
-      "link": "https://www.si.com/mlb/rockies/onsi/rockies-face-immediate-roster-crunch-6-players-looming-deadline",
-      "source": "Sports Illustrated",
-      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4522,h_2543,x_0,y_664/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/colorado_rockies_on_si/01m6cd6pe2rb3y9e40z4.jpg",
-      "published": "2026-11-01 20:51:55",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Deputies, medics respond to reported shooting in Harrison Twp",
-      "description": null,
-      "link": "https://www.whio.com/news/local/deputies-medics-respond-reported-shooting-harrison-twp/G4ZKTGD6JRDRBMFKIRZJRLPLSE/",
-      "source": "Whio News Center Seven",
-      "image": "https://www.whio.com/resizer/v2/WM2VITOVGFFVRCGJLSIJ5ZYIZQ.jpeg?auth=6964f41649dc7f602633629c87504e829d32a9ce6dd5d14411a06c03275ac06d&smart=true&width=5376&height=3024",
-      "published": "2026-11-01 20:51:54",
-      "category": [
-        "top",
-        "crime"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Overreactions From Buccaneers' Run-Heavy Win Over Falcons",
-      "description": "The Tampa Bay Buccaneers turned back the clock yet again against the Atlanta Falcons.",
-      "link": "https://www.si.com/nfl/buccaneers/onsi/overreactions-from-buccaneers-run-heavy-win-over-falcons-2026",
-      "source": "Sports Illustrated",
-      "image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4431,h_2492,x_465,y_62/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/bucs_gameday/01m6cdcf1jhr5nz7mj2j.jpg",
-      "published": "2026-11-01 20:51:53",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Belfast man working in dream job after leaving school thinking he had missed out",
-      "description": "\"Now I\u2019ve met so many other people that also don\u2019t have degrees. I realised wow, it's actually possible.\u201d",
-      "link": "https://www.belfastlive.co.uk/news/northern-ireland/belfast-man-working-dream-job-34847612",
-      "source": "Belfastlive",
-      "image": "https://i2-prod.belfastlive.co.uk//article34847706.ece/ALTERNATES/s615/0_Peter-Mullan.png",
-      "published": "2026-11-01 20:51:52",
-      "category": [
-        "top",
-        "education"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "BRS leader prescribes remedy to rein in crimes against eves",
-      "description": "Calls for collective vigilance to protect girls from harassment and violence",
-      "link": "https://www.thehansindia.com/news/cities/hyderabad/brs-leader-prescribes-remedy-to-rein-in-crimes-against-eves-1138295",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/11/01/1720128-rs-praveen.webp",
-      "published": "2026-11-01 20:51:48",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Bulgaria's acting president takes lead in runoff vote",
-      "description": null,
-      "link": "https://www.kyfreepress.com.au/world/bulgarias-acting-president-takes-lead-in-runoff-vote/",
-      "source": "Kyabram Free Press",
-      "image": null,
-      "published": "2026-11-01 20:51:48",
-      "category": [
-        "world"
+        "business"
       ],
       "country": [
         "australia"
       ]
     },
     {
-      "title": "\u2018It\u2019s Not Lost on Me\u2019: Golf Influencer Shares Special Tiger Woods Experience After Unexpected Golf Journey",
-      "description": "Actor and golf content creator Hannah Aslesen initially had little interest in golf. Having grown up playing hockey and basketball, she couldn\u2019t quite understand the appeal of chasing a ball around a course and getting mad at nature.",
-      "link": "https://www.yardbarker.com/golf/articles/its_not_lost_on_me_golf_influencer_shares_special_tiger_woods_experience_after_unexpected_golf_journey/s1_17730_44503557",
-      "source": "Yardbarker",
-      "image": "http://www.yardbarker.com/media/1/6/165a0447b5b80937ee934d1010753a50c2a824db/thumb_16x9/Tiger-Woods-during-the-second-round-of-the-2020-Zozo-Championship-playing-1080x720.jpg",
-      "published": "2026-11-01 20:51:46",
+      "title": "Tankers explode in Strait of Hormuz: will Trump launch another war?",
+      "description": null,
+      "link": "https://www.tbsnews.net/videos/tankers-explode-strait-hormuz-will-trump-launch-another-war-1590096",
+      "source": "The Business Standard",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/11/02/hrmuje_aabaaro_ttyaankaare_bisphornn.jpg",
+      "published": "2026-11-02 07:10:00",
       "category": [
-        "sports"
+        "politics",
+        "top",
+        "crime"
       ],
       "country": [
-        "united states of america"
+        "bangladesh"
       ]
     },
     {
-      "title": "State machinery must remain on high alert: Minister Anitha",
-      "description": "The Minister advised people in coastal districts to remain vigilant on Monday and Tuesday, as heavy to extremely heavy rainfall was likely under the influence of Cyclone Murasu",
-      "link": "https://www.thehansindia.com/news/cities/amaravati/state-machinery-must-remain-on-high-alert-minister-anitha-1138294",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/11/01/1720127-ni.webp",
-      "published": "2026-11-01 20:51:45",
+      "title": "Here\u2019s how \u00a310,000 of Legal & General shares could make me a \u00a3670 monthly passive income!",
+      "description": "Legal & General shares offer a stunning forecast yield approaching 8%, but the real surprise may be how much income \u00a310,000 could generate over time. The post Here\u2019s how \u00a310,000 of Legal & General shares could make me a \u00a3670 monthly passive income! appeared first on The Twelfth Magpie.",
+      "link": "https://www.twelfthmagpie.com/2026/11/02/heres-how-10000-of-legal-general-shares-could-make-me-a-670-monthly-passive-income/",
+      "source": "Fool Uk",
+      "image": "https://www.twelfthmagpie.com/wp-content/uploads/2022/03/Passive-income-concept.jpg",
+      "published": "2026-11-02 07:10:00",
       "category": [
         "top",
-        "environment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Bengals WR Ja'Marr Chase Joins Elite NFL Group With Milestone TD vs Titans",
-      "description": "Bengals star receiver Ja'Marr Chase joined an exclusive group of NFL legends with a milestone touchdown against the Titans.",
-      "link": "https://www.newsweek.com/sports/nfl/bengals-wr-jamarr-chase-joins-elite-nfl-group-with-milestone-td-vs-titans-12647109",
-      "source": "Newsweek",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2303008066.jpg?w=1600&h=900&q=88",
-      "published": "2026-11-01 20:51:41",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Day of the Dead brings ghouls and apparitions to Swansea",
-      "description": "All the best photos as D\u00eda de los Muertos event transformed St David's Place into a sea of vibrant colour with music and entertainment for people of all ages",
-      "link": "https://www.walesonline.co.uk/news/wales-news/gallery/day-dead-brings-ghouls-apparitions-34847082",
-      "source": "Wales Online",
-      "image": "https://i2-prod.walesonline.co.uk/incoming/article34846962.ece/ALTERNATES/s615/0_AW311026spooks26004JPG.jpg",
-      "published": "2026-11-01 20:51:40",
-      "category": [
-        "top",
-        "entertainment",
-        "tourism"
+        "business"
       ],
       "country": [
         "united kingdom"
       ]
     },
     {
-      "title": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
-      "description": "Charles Leclerc was given a five-second penalty for gaining an advantage after his battle with Lewis Hamilton, and social media could not agree on whether it was fair",
-      "link": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/",
-      "source": "Motorsport.com",
-      "image": "https://cdn-6.motorsport.com/images/amp/0qgKRyBY/s6/motorsport-com-graphics-55.jpg",
-      "published": "2026-11-01 20:51:35",
+      "title": "RACING FORCE S.P.A : Racing Force Group: world title success with Kimi Antonelli",
+      "description": null,
+      "link": "https://www.financialcontent.com/article/actus-2026-11-2-racing-force-spa-racing-force-group-world-title-success-with-kimi-antonelli",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-11-02 07:10:00",
       "category": [
         "sports"
       ],
       "country": [
-        "hungary"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "\u2018Schools of Sanctuary take respect and inclusion to another level\u2019: EA award scheme reaches 100-school milestone",
+      "description": null,
+      "link": "https://www.belfasttelegraph.co.uk/news/schools-of-sanctuary-take-respect-and-inclusion-to-another-level-ea-award-scheme-reaches-100-school-milestone/a/163080237.html",
+      "source": "Belfast Telegraph",
+      "image": "https://prod-img.belfasttelegraph.co.uk/public/incoming/p7qkj7-sanct-aec0b9b2-a51c-4cb6-a214-a287d0c4c17b.jpg/alternates/BASE_SIXTEEN_NINE/SANCT%20aec0b9b2-a51c-4cb6-a214-a287d0c4c17b.jpg",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "education",
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Theatre on the Singapore River? Time travel to 1967 in a new bumboat show opening Nov 20",
+      "description": "River Of Luck! plays six shows a week and features glove puppetry.",
+      "link": "https://www.straitstimes.com/life/arts/theatre-on-the-singapore-river-time-travel-to-1967-in-a-new-bumboat-show-opening-nov-20",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Comlux Kazakhstan retires Challenger 605, PC-24",
+      "description": "This article is only available with a subscription for Commercial Aviation News, Operator & Airport Data",
+      "link": "https://www.ch-aviation.com/news/173311-comlux-kazakhstan-retires-challenger-605-pc-24",
+      "source": "Ch Aviation",
+      "image": "https://www.ch-aviation.com/images/stockPhotos/7611/dce7d01a38d44a62746b296f36461933cf218af3.jpg",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "switzerland"
+      ]
+    },
+    {
+      "title": "Gold Weekly: When the Safe Haven Becomes the ATM",
+      "description": null,
+      "link": "https://www.investing.com/analysis/gold-weekly-when-the-safe-haven-becomes-the-atm-200690661",
+      "source": "Investing Us",
+      "image": null,
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Villa drop legal action threat against Carragher",
+      "description": "Aston Villa have dropped their threat of legal action against Sky Sports pundit Jamie Carragher. On Friday, Villa had said they would initiate legal action against the former England defender for what they described as \u201cunacceptable insults\u201d made by Carragher on the Stick to Football podcast. The former Liverpool defender linked Villa boss Unai Emery [\u2026]",
+      "link": "https://www.adomonline.com/villa-drop-legal-action-threat-against-carragher/",
+      "source": "Adomonline.com",
+      "image": "https://www.adomonline.com/wp-content/uploads/2026/11/99523b00-d6af-11f1-ac90-f7afd947062e.jpg",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "business",
+        "sports"
+      ],
+      "country": [
+        "ghana"
+      ]
+    },
+    {
+      "title": "Love Affair frontman behind iconic Everlasting Love song dies aged 76 - The Sun",
+      "description": "Love Affair frontman behind iconic Everlasting Love song dies aged 76 The Sun Steve Ellis: Making Peace with Everlasting Love The Strange Brew Steve Ellis Passed Away DMME.net Love Affair Singer Steve Ellis Has Died Clash Magazine Steve Ellis, Soul Rock Singer Who Took Love Affair\u2019s \u201cEverlasting Love\u201d to #1, Dies at 76 That Eric Alper",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByMDNYeUxFbXJCRzJVNTZ1ZE1tZUR6RTR3OFU2dnBxeWhUSW1yQjRTWEU3SDZqbk5HSU9oY3kzRU8zQlpMQl9sRGc3UGJ1UEtvc3VqRVNRaFJXbk95amxPNmt6SmYtMXNOdzk3WEJwZm82ZllpYXBF?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Self-Care Momentum Builds Across Asia-Pacific: Regional collaboration drives progress across health literacy, Regulatory streamlining and Leveraging Digital Solutions",
+      "description": "BALI, Indonesia, Nov. 2, 2026 /PRNewswire/ -- Self-care is gaining momentum across Asia-Pacific, with more than 140 self-care initiatives aligned with the 2024 Bangkok Joint Initiative reported across the region in 2025 and 2026. Spanning health literacy, digital solutions, collaboration...",
+      "link": "https://www.prnewswire.com/apac/news-releases/self-care-momentum-builds-across-asia-pacific-regional-collaboration-drives-progress-across-health-literacy-regulatory-streamlining-and-leveraging-digital-solutions-302926086.html",
+      "source": "Pr Newswire Apac",
+      "image": "https://mmx.prnewswire.com/media/MS2025159/20261101233410EST_image1.jpg?id=OA3051722&p=original",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "breaking",
+        "business"
+      ],
+      "country": [
+        "bangladesh",
+        "fiji",
+        "maldives",
+        "sri lanka",
+        "afghanistan",
+        "brunei",
+        "bhutan",
+        "south korea",
+        "thailand",
+        "new zealand",
+        "philippines",
+        "malaysia",
+        "india",
+        "japan",
+        "mongolia",
+        "indonesia",
+        "australia",
+        "nepal",
+        "cambodia",
+        "singapore",
+        "hong kong",
+        "china",
+        "pakistan"
+      ]
+    },
+    {
+      "title": "Cherokee Nation Tribal Council committee opposes Inola smelter",
+      "description": "The Cherokee Nation Rules Committee has unanimously...",
+      "link": "https://nit.com.au/02-11-2026/27285/cherokee-nation-tribal-council-committee-opposes-inola-smelter",
+      "source": "National Indigenous Times",
+      "image": "https://cdn.nit.com.au/storage/gnUUfvFK29usWVNUfloc0Z9jOEGAz2dVYxEfLPcA.jpg",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Business Jet Crashes in Florida Killing Nine People",
+      "description": "A private jet crashed in Florida killing all nine on board. Authorities cite severe weather and steep dive data as key factors in the tragedy.",
+      "link": "https://us.headtopics.com/news/business-jet-crashes-in-florida-killing-nine-people-89448014",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/2/npr/business-jet-crashes-in-florida-killing-nine-peopl-business-jet-crashes-in-florida-killing-nine-peopl-C2C360CB246E516CF15F93A46BA064CC-16x9.webp",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Uzbekistan Completes Nearly 68,000 Apartments in Nine Months",
+      "description": "Uzbekistan completed 67,859 apartments in January\u2013September 2026, up 88.8% year on year, while mortgage lending reached 20.9 trillion soums.",
+      "link": "https://www.uzdaily.uz/en/uzbekistan-completes-nearly-68000-apartments-in-nine-months/",
+      "source": "Uzdaily",
+      "image": "https://www.uzdaily.uz/media/filer_public/9f/b5/9fb5652c-97d7-4e67-a431-67a01defe66e/dom1_20260909155323.webp",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "uzbekistan"
+      ]
+    },
+    {
+      "title": "Financial Health Network: H.M. Queen M\u00e1xima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
+      "description": "EMERGE Europe marks the Financial Health Network's first European convening and will bring more than 200 senior leaders from financial services, fintech, policy, and researchCHICAGO and AMSTERDAM, ...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70001499-financial-health-network-h-m-queen-maxima-of-the-netherlands-and-european-central-bank-president-christine-lagarde-to-speak-at-emerge-europe-399.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://ml.globenewswire.com/media/OWEyYjY3OWYtMThmYy00N2VlLTgyYjYtZGI5ZTYwMWI4MzFmLTEyMTgwODEtMjAyNi0xMS0wMi1lbg==/tiny/Financial-Health-Network.png",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Aspo Plc's Interim Report, January 1 - September 30, 2026: Demerger preparations progressed",
+      "description": "Aspo Plc Interim Report November 2, 2026 at 9.00 EETAspo Plc's Interim Report, January 1 - September 30, 2026: Demerger preparations progressed This is a summary of the Interim Report January 1 - S...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70001498-aspo-plc-s-interim-report-january-1-september-30-2026-demerger-preparations-progressed-399.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://ml-eu.globenewswire.com/media/MGEyYWM4NDktY2U0NS00MjA4LTk5YjctZTM0NTRhYjVmNDFjLTEwMTM0MjYtMjAyNi0xMS0wMi1lbg==/tiny/Aspo-Plc.png",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Juniper Research: CPaaS Market Value to Exceed $50 Billion Globally by 2031, as Infobip, Twilio, and Sinch Identified as Market Leaders",
+      "description": "BASINGSTOKE, United Kingdom, Nov. 02, 2026 (GLOBE NEWSWIRE) -- A new study by global tech strategists Juniper Research predicts that total CPaaS revenue will more than double over the next five yea...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70001497-juniper-research-cpaas-market-value-to-exceed-dollar-50-billion-globally-by-2031-as-infobip-twilio-and-sinch-identified-as-market-leaders-399.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://ml-eu.globenewswire.com/media/N2YxM2Q1OGItNWU1MS00YTE4LWI5NzAtMGNmN2Q5YzBkZDkwLTEwOTIwODMtMjAyNi0xMS0wMi1lbg==/tiny/Juniper-Research.png",
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "(LEAD) POSCO Holdings Q3 net falls 1.8 pct amid lower lithium prices",
+      "description": "SEOUL, Nov. 2 (Yonhap) -- POSCO Holdings Inc., South Korea's leading steelmaker,...",
+      "link": "https://en.yna.co.kr/view/AEN20261102006551320",
+      "source": "Yonhap News Agency",
+      "image": "https://img.yna.co.kr/etc/inner/EN/2026/11/02/AEN20261102006551320_01_i_P2.jpg",
+      "published": "2026-11-02 07:09:59",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "2027: South-East Has No Presidential Candidate \u2014 Umahi",
+      "description": "Minister of Works David Umahi has declared that the South-East has no viable presidential candidate for the 2027 general election, dismissing Nigeria Democratic Congress (NDC) candidate Peter Obi as \u201cnobody\u201d and urging the region to back President Bola Tinubu\u2019s re-election bid. Umahi made the remarks on Sunday during a town hall meeting in Abakaliki, Ebonyi State, organised by the Directorate of Infrastructure, Mobilisation and Sensitisation of the All Progressives Congress (APC) Presidential Campaign Council. \u201cLet us stop deceiving ourselves. We do not have a presidential candidate in the South-East for 2027. We only have aspirants, and Ebonyi has the right to make its own choice,\u201d he said. The former Ebonyi governor questioned Obi\u2019s credentials relative to other prominent South-East figures. \u201cWho is Peter Obi better than? Is he better than Sam Egwu? Is he better than Elias Mbam? Is he better than the Lion of the South-East, myself? Is he better than Anyim Pius? Who is he better than?\u201d Umahi asked, referring to former Education Minister Senator Sam Egwu, former Revenue Mobilisation Allocation and Fiscal Commission chairman Chief Elias Mbam, and former Senate President Anyim Pius Anyim. He argued that supporting Tinubu for a second term would strategically position the South-East to gain backing from other regions when the presidency eventually rotates to the zone. An Igbo president, he said, would need more than one term after decades of waiting. \u201cThere is no way an Igbo man, after staying for 60 years, will want to be President for four years. There is nobody that can accept that. The North has not accepted to be President for four years,\u201d Umahi stated. \u201cIgbo man needs wisdom, not sentiments.\u201dHe claimed the region has seen greater inclusion under the Tinubu administration, citing appointments such as the Chief of Air Staff, the Minister of Works, other ministers, and senior special assistants. Umahi also noted improved ease of doing business and ongoing road projects. The minister appealed to traditional rulers and religious leaders, including the Christian Association of Nigeria (CAN), not to remain neutral. \u201cTraditional fathers, do not stay on the fence; religious leaders, do not stay on the fence\u2026 Guide our people, let them know that.\u201dOn the state level, Umahi pledged to deliver at least 1.3 million votes for Tinubu and Governor Francis Nwifuru out of Ebonyi\u2019s approximately 1.8 million registered voters. He dismissed those hoping to unseat Nwifuru as \u201cjokers,\u201d saying he would not allow another party to take the governorship.",
+      "link": "https://www.nigerianeye.com/2026/11/2027-south-east-has-no-presidential.html",
+      "source": "Nigeria News",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYdmX4LiXCtva1v9PmKlfbKNsKQ3AZ5jN9W6qIyv7qaOVif0Y1Lbqm_0oxL7ZMdYSM1-2jW4evO2CmZeX9tgYCNe0J5BhaY1x_artk-Nf4gS2pq0FMf41QsiPuE9GwdF3leT9gG9jClwoSkwSodruojzicmj2hGIcOzDbYVeXr49uXE10vCCd7MJoKxYI/s72-w400-h225-c/1002419089.jpg",
+      "published": "2026-11-02 07:09:56",
+      "category": [
+        "domestic"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work",
+      "description": "Deepseek released a research prototype of dsh-superagent, a coding agent that does work on a GitHub repository for you. Who can ask for work The agent gets to work in two situations: an allowed user asks for something, or a rule your team wrote covers it. You can also open up a chat or GitHub scope, and then anyone in it can request work just by mentioning the agent. A message, comment or quoted document \u2026 More \u2192 The post DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work appeared first on Help Net Security.",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/",
+      "source": "Help Net Security",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/02065650/deepseek-1500.webp",
+      "published": "2026-11-02 07:09:55",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Dutch charges against Philip Morris for misleading youth with heated tobacco claims",
+      "description": "Pulmonologist Wanda de Kanter and her anti-smoking foundation are once again filing criminal charges against Philip Morris.",
+      "link": "https://nltimes.nl/2026/11/02/dutch-charges-philip-morris-misleading-youth-heated-tobacco-claims",
+      "source": "Nl Times",
+      "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2026-03/1920px-IQOS_-_heated_tobacco_products.jpg?h=e5aec6c8",
+      "published": "2026-11-02 07:09:55",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "netherland"
+      ]
+    },
+    {
+      "title": "Video: Woman found dead in Tilburg home; Crime suspected",
+      "description": "The police discovered the body of a woman in a home on Berkenrodelaan in Tilburg on Sunday. Investigators suspect foul play.",
+      "link": "https://nltimes.nl/2026/11/02/video-woman-found-dead-tilburg-home-crime-suspected",
+      "source": "Nl Times",
+      "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2024-10/Screenshot%202024-10-31%20at%2014.40.52.png?h=8481932c",
+      "published": "2026-11-02 07:09:55",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "netherland"
+      ]
+    },
+    {
+      "title": "Opinion: Opinion | How US Midterms Could Give Trump A Very Different 2027",
+      "description": "The President isn't on the ballot. But his room to manoeuvre certainly is.",
+      "link": "https://www.ndtv.com/opinion/how-us-midterms-could-give-trump-a-very-different-2027-12270047",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2025-03/n8ja6rs_donald-trump_625x300_20_March_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-11-02 07:09:55",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "CBFC Tightens Certification Rules: No More Rough Cuts and Last-Minute Requests",
+      "description": "The Central Board of Film Certification (CBFC) has issued a new advisory to filmmakers over last-minute certification requests. The advisory, signed by\u2026 The post CBFC Tightens Certification Rules: No More Rough Cuts and Last-Minute Requests first appeared on Latest Telugu cinema news | Movie reviews | OTT Updates, OTT.",
+      "link": "https://www.123telugu.com/mnews/cbfc-tightens-certification-rules-no-more-rough-cuts-and-last-minute-requests-hk.html",
+      "source": "123telugu.com",
+      "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/11/cbfc.webp",
+      "published": "2026-11-02 07:09:53",
+      "category": [
+        "top",
+        "politics",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Nigeria: Naira Holds Steady As Bonny Light Hits $115 and Reserves Reach $55bn",
+      "description": "[Leadership] The naira enters November on firm ground, backed by higher crude prices, a four-year high in oil output and a sharp rise in external reserves.",
+      "link": "https://allafrica.com/stories/202611020115.html",
+      "source": "Allafrica Tanzania",
+      "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "published": "2026-11-02 07:09:52",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "tanzania"
+      ]
+    },
+    {
+      "title": "Andy Burnham government considering partial fireworks ban for households",
+      "description": "Government consultation follows growing calls from campaigners, vets and National Farmers\u2019 Union for tighter regulation.",
+      "link": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-government-considering-partial-34847961",
+      "source": "Birmingham Live",
+      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34847980.ece/ALTERNATES/s615/0_fireworks.jpg",
+      "published": "2026-11-02 07:09:52",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

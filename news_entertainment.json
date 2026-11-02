@@ -1,35 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "5 Big Bang Theory Jokes That Didn't Age Well",
-      "description": "Sheldon and Howard's attitudes towards women were already pretty questionable in the late 2000s. In the 2020s, they're the epitome of cringe.",
-      "link": "https://www.tvline.com/2300276/big-bang-theory-jokes-not-age-well/",
-      "source": "Tvline",
-      "image": "https://www.tvline.com/img/gallery/5-big-bang-theory-jokes-that-didnt-age-well/l-intro-1793215016.jpg",
-      "published": "2026-11-01 20:52:00",
+      "title": "Theatre on the Singapore River? Time travel to 1967 in a new bumboat show opening Nov 20",
+      "description": "River Of Luck! plays six shows a week and features glove puppetry.",
+      "link": "https://www.straitstimes.com/life/arts/theatre-on-the-singapore-river-time-travel-to-1967-in-a-new-bumboat-show-opening-nov-20",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-11-02 07:10:00",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Love Affair frontman behind iconic Everlasting Love song dies aged 76 - The Sun",
+      "description": "Love Affair frontman behind iconic Everlasting Love song dies aged 76 The Sun Steve Ellis: Making Peace with Everlasting Love The Strange Brew Steve Ellis Passed Away DMME.net Love Affair Singer Steve Ellis Has Died Clash Magazine Steve Ellis, Soul Rock Singer Who Took Love Affair\u2019s \u201cEverlasting Love\u201d to #1, Dies at 76 That Eric Alper",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByMDNYeUxFbXJCRzJVNTZ1ZE1tZUR6RTR3OFU2dnBxeWhUSW1yQjRTWEU3SDZqbk5HSU9oY3kzRU8zQlpMQl9sRGc3UGJ1UEtvc3VqRVNRaFJXbk95amxPNmt6SmYtMXNOdzk3WEJwZm82ZllpYXBF?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-02 07:10:00",
       "category": [
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "Day of the Dead brings ghouls and apparitions to Swansea",
-      "description": "All the best photos as D\u00eda de los Muertos event transformed St David's Place into a sea of vibrant colour with music and entertainment for people of all ages",
-      "link": "https://www.walesonline.co.uk/news/wales-news/gallery/day-dead-brings-ghouls-apparitions-34847082",
-      "source": "Wales Online",
-      "image": "https://i2-prod.walesonline.co.uk/incoming/article34846962.ece/ALTERNATES/s615/0_AW311026spooks26004JPG.jpg",
-      "published": "2026-11-01 20:51:40",
+      "title": "CBFC Tightens Certification Rules: No More Rough Cuts and Last-Minute Requests",
+      "description": "The Central Board of Film Certification (CBFC) has issued a new advisory to filmmakers over last-minute certification requests. The advisory, signed by\u2026 The post CBFC Tightens Certification Rules: No More Rough Cuts and Last-Minute Requests first appeared on Latest Telugu cinema news | Movie reviews | OTT Updates, OTT.",
+      "link": "https://www.123telugu.com/mnews/cbfc-tightens-certification-rules-no-more-rough-cuts-and-last-minute-requests-hk.html",
+      "source": "123telugu.com",
+      "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/11/cbfc.webp",
+      "published": "2026-11-02 07:09:53",
       "category": [
         "top",
-        "entertainment",
-        "tourism"
+        "politics",
+        "entertainment"
       ],
       "country": [
-        "united kingdom"
+        "india"
       ]
     }
   ]

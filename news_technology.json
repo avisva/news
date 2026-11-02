@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work",
+      "description": "Deepseek released a research prototype of dsh-superagent, a coding agent that does work on a GitHub repository for you. Who can ask for work The agent gets to work in two situations: an allowed user asks for something, or a rule your team wrote covers it. You can also open up a chat or GitHub scope, and then anyone in it can request work just by mentioning the agent. A message, comment or quoted document \u2026 More \u2192 The post DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work appeared first on Help Net Security.",
+      "link": "https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/",
+      "source": "Help Net Security",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/02065650/deepseek-1500.webp",
+      "published": "2026-11-02 07:09:55",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

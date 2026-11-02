@@ -1,35 +1,53 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Replit Auth and Replit storage don't work outside Replit",
-      "description": "An app built by Replit's Agent signs people in with their Replit accounts and keeps files in Replit's storage. Moved anywhere else, nobody can sign in. Change both first. What you see Deployed outside Replit, sign-in fails (REPLIT_DOMAINS isn't set), and saving or loading files errors. Why it happens server/replitAuth.ts signs people in through Replit's login service, and @replit/object-storage and @replit/database are Replit's own services. None of them exist outside Replit. How to fix it Ask Replit's Agent, or your AI tool, to switch sign-in to Clerk or Supabase Auth. Move files to Cloudflare R2 or Supabase Storage, and Replit Database records into Postgres. Bring the Postgres data along: in Replit's Shell, pg_dump -Fc --no-owner --no-privileges \"$DATABASE_URL\" > replit.dump. Or ask your AI tool to fix it Paste this into Lovable, Bolt, v0, Replit or Cursor: This app has to run outside Replit. Replace sign-in with Replit accounts (server/replitAuth.ts, REPLIT_DOMAINS) with Clerk, and replace @replit/object-storage and @replit/database with S3-compatible storage (Cloudflare R2) and Postgres. Keep every page and API route working the same way. The full page, with the request ready to copy, is at launchpad.axonscape.com/fix/replit-auth-outside-replit. I work on Launchpad by Axonscape, which runs a free launch check for apps built with AI tools: it finds this and the other things that break at launch, from a public GitHub repo or a .zip of the code, and keeps nothing.",
-      "link": "https://dev.to/axonscape/replit-auth-and-replit-storage-dont-work-outside-replit-15mh",
-      "source": "Dev Community",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw05qfmv8sbndvv5rzeps.png",
-      "published": "2026-11-01 09:40:53",
+      "title": "How to clear the cache on your Android device",
+      "description": "Your apps and browsers may be overdue for some tidying up.",
+      "link": "https://www.engadget.com/2300269/how-to-clear-cache-android/",
+      "source": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-android-device/l-intro-1792951353.jpg",
+      "published": "2026-11-01 13:15:00",
       "category": [
         "technology"
       ],
       "country": [
+        "singapore",
+        "united states of america",
+        "india",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "This Is Considered The Best Used Toyota RAV4 Model To Buy In 2026",
+      "description": "The Toyota RAV4 holds its value so well that used ones aren't cheap. Here's the model year that balances strong ratings with a fair asking price.",
+      "link": "https://www.slashgear.com/2297554/best-used-toyota-rav4-model-2026/",
+      "source": "Slashgear",
+      "image": "https://www.slashgear.com/img/gallery/this-is-considered-the-best-used-toyota-rav4-model-to-buy-in-2026/l-intro-1792730222.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "singapore",
+        "united kingdom",
         "united states of america"
       ]
     },
     {
-      "title": "EKA Mobility expands manufacturing footprint",
-      "description": "The company said the six plants in Pune and Pithampur are part of an 11-facility network spread across 120 acres, with annual capacity for more than 40,000 electric vehicles and investment exceeding Rs 3,500 crore.",
-      "link": "https://yourstory.com/2026/11/eka-mobility-expands-manufacturing-footprint",
-      "source": "Yourstory",
-      "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/EKA-1793523065213.png",
-      "published": "2026-11-01 09:40:30",
+      "title": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It - Forbes",
+      "description": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It Forbes Apple Shares Fix for Apple Watch Showing Wrong Time After Daylight Saving Change iClarified",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkN3Yk4ta0RoOUtPVWpGblNjTFVZUjlCRU44UXJnaUF1a0YxY2w5MHVSbHZRdHRJZmJQR2RIMktYMDU4WlNtMXMtYVVZcDlaWWkxMnFTZHdpeEYzTG1qeWE3bkxQZ3Y4WjgxR2FrZ0RwRzR3V0JtNFE1UklkM2IyNnVVVVZPT2NfeWtNa0pwdmRBRi1WcnNwWkJzR19SS2x6M2NwZE9MZWtFNERvYWs3OVZBTGtHX1FjRGtYcXg3TDQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-01 13:15:00",
       "category": [
-        "top",
-        "business",
         "technology"
       ],
       "country": [
-        "india"
+        "canada"
       ]
     }
   ]

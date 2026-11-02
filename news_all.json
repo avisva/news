@@ -1,77 +1,31 @@
 {
   "status": "success",
-  "totalResults": 30,
+  "totalResults": 27,
   "results": [
     {
-      "title": "Nearly 300,000 entrepreneurs receive RM10.7bil in financing, says Sim",
-      "description": "KAJANG: The Entrepreneur Development and Cooperatives Ministry disbursed RM10.7bil in financing to nearly 300,000 entrepreneurs, including hawkers and petty traders, from January to September this year.",
-      "link": "https://www.thestar.com.my/news/nation/2026/11/01/nearly-300000-entrepreneurs-receive-rm107bil-in-financing-says-sim",
+      "title": "Top Entertainment stories of the week: HK legends come together; Aaron Kwok turns 61; Ray Lui travels in style",
+      "description": null,
+      "link": "https://www.thestar.com.my/lifestyle/entertainment/2026/11/01/top-entertainment-stories-of-the-week-hk-legends-come-together-aaron-kwok-turns-61-ray-lui-travels-in-style",
       "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/01/4191282.jpg",
-      "published": "2026-11-01 09:41:00",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4188633.jpg",
+      "published": "2026-11-01 13:15:00",
       "category": [
-        "domestic"
+        "lifestyle"
       ],
       "country": [
         "malaysia"
       ]
     },
     {
-      "title": "Real Madrid face daunting test at El Sardinero as Racing boast impressive home record",
-      "description": "Real Madrid head into Sunday\u2019s La Liga clash against Racing Santander looking to build on the momentum of their impressive victory over Barcelona. However, Jose Mourinho\u2019s side face a difficult mat...",
-      "link": "https://sports.yahoo.com/articles/real-madrid-face-daunting-test-094100119.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/c5de67bc97771f6f144a5ed07c96ed43ef540f22ac7445f9a50077bef07a70fd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fb430fb90f514c8db1d48e61aaa1eeb7a.jpg",
-      "published": "2026-11-01 09:41:00",
+      "title": "400-year-old tree is at risk. Will Tumwater pay $100,000 for emergency pruning?",
+      "description": "The historic Davis-Meeker Garry oak tree in Tumwater near Old Highway 99 was damaged in Friday morning\u2019s windstorm.",
+      "link": "https://www.theolympian.com/news/local/article317853518.html",
+      "source": "Theolympian",
+      "image": "https://www.theolympian.com/public/latest-news/k8mj40/picture317390990/alternates/FREE_1140/2026-09-25%20Southwest%20Branch-Tanya%20Nozawa.jpeg",
+      "published": "2026-11-01 13:15:00",
       "category": [
-        "sports",
-        "breaking"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "How Short Should You Cut Your Grass for the Last Fall Mow? The Ideal Height Explained",
-      "description": null,
-      "link": "https://www.bhg.com/mow-lawn-short-or-long-in-fall-12189982",
-      "source": "Better Homes & Gardens",
-      "image": "https://www.bhg.com/thmb/t-iGGJ6hmZjQ1OI6f_GY2E1WoYw=/6000x4000/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2184439590-a83a611a545a42f3b229391e80de39a9.jpg",
-      "published": "2026-11-01 09:41:00",
-      "category": [
-        "environment",
+        "crime",
         "top",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "F1 driver threatens to boycott Mexican GP",
-      "description": "Lewis Hamilton starts from pole position for the Mexican Grand Prix as he eyes a record-extending 107th Formula One victory.",
-      "link": "https://www.news.com.au/sport/motorsport/formula-one/f1-mexican-grand-prix-live-driver-threatens-to-boycott-race-after-qualifying-disaster/live-coverage/325629aa21b7b40b7c265674a80a62df",
-      "source": "News",
-      "image": "https://content.api.news/v3/images/bin/4673cc934bcab1457c6836d93bfe6c56",
-      "published": "2026-11-01 09:41:00",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Earliest Solar System Bodies Formed Primarily from Chondrules",
-      "description": "A new study reveals that planetesimals formed within the first million years of the Solar System were composed of 83 to 92 percent chondrules with minimal ice. Analysis of iron meteorites indicates that these high-temperature rock beads dominated early accretion, contrasting with later objects that contained more volatile-rich dust and water ice.",
-      "link": "https://us.headtopics.com/news/earliest-solar-system-bodies-formed-primarily-from-89424440",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/11/1/sciencealert/earliest-solar-system-bodies-formed-primarily-from-earliest-solar-system-bodies-formed-primarily-from-C6607793A66EC39E2D86D494E7ABACFA-16x9.webp",
-      "published": "2026-11-01 09:41:00",
-      "category": [
-        "top",
-        "science",
         "environment"
       ],
       "country": [
@@ -79,377 +33,389 @@
       ]
     },
     {
-      "title": "UK's Royal Navy and RAF branded 'terrorist': Iran's fresh move also targets MI6",
-      "description": "In a major development in the Middle East conflict, Iran has escalated tensions with the UK by designating Britain's Royal Navy and Royal Air Force as terrorist organisations.",
-      "link": "https://www.dnaindia.com/world/report-uk-royal-navy-and-raf-branded-terrorist-iran-fresh-move-also-targets-mi6-3223401",
-      "source": "Dna",
-      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/11/01/2761308-iran-vs-uk.jpg",
-      "published": "2026-11-01 09:41:00",
+      "title": "A Greek Professor Just Found That the Solid Earth Is Getting Rounder, and the Change Is Speeding Up",
+      "description": "Our Earth isn\u2019t quite what it seems. Scientists have found a new way to measure its hidden shifts, and the results come with a surprising twist depending on what you choose to count.",
+      "link": "https://dailygalaxy.com/2026/11/solid-earth-is-getting-rounder-faster/",
+      "source": "The Daily Galaxy",
+      "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Greek-Professor-Just-Found-That-the-Solid-Earth-Is-Getting-Rounder-and-the-Change-Is-Speeding-Up-scaled.jpg",
+      "published": "2026-11-01 13:15:00",
       "category": [
-        "top",
-        "politics"
+        "science"
       ],
       "country": [
-        "india"
+        "australia",
+        "russia",
+        "canada",
+        "united states of america",
+        "india",
+        "china"
       ]
     },
     {
-      "title": "Dakar 2026: Nwankwo Leads 19 Nigerian Athletes At Colourful Youth Olympic Games Opening Ceremony",
-      "description": "Nigeria\u2019s 19-member contingent joined athletes from across the world at the colourful opening ceremony of the Dakar 2026 Youth Olympic Games in Senegal on Saturday, as Africa\u2019s first Olympic sporting event officially got under way. Led by athletics sensation Rosemary Chigozie Nwankwo, who served as flagbearer, Team Nigeria marched into the packed Abdoulaye Wade Stadium [\u2026]",
-      "link": "https://leadership.ng/dakar-2026-nwankwo-leads-19-nigerian-athletes-at-colourful-youth-olympic-games-opening-ceremony/",
-      "source": "Leadership",
-      "image": "https://leadership.ng/wp-content/uploads/2026/11/5e2d2958-a3c0-4cad-b58c-f3629678ce6a.jpeg",
-      "published": "2026-11-01 09:40:58",
+      "title": "Police appeal after motorcyclist sustains life-threatening injuries in crash",
+      "description": "A motorcyclist sustained life-threatening injuries and remains in critical condition in hospital after a crash at the junction of Windsor Road and Fifield Road.",
+      "link": "https://www.maidenhead-advertiser.co.uk/gallery/appeals-and-information/710430/police-appeal-after-motorcyclist-sustains-life-threatening-injuries-in-crash.html",
+      "source": "Maidenhead Advertiser",
+      "image": "https://maidenhead-advertiser.cdn.m33cloud.com/resizer/-1/-1/true/2023_07_17/2023-07-17_16_55_40_gn4_dat_2614380-jpg-1689605762150_1727792035.jpg--.webp",
+      "published": "2026-11-01 13:15:00",
       "category": [
-        "top",
-        "lifestyle",
+        "crime",
+        "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "People Who Actually Manifest Exactly What They Want Do 6 Things Everyone Else Forgets",
+      "description": "People who use manifestation to turn their dreams into reality pay attention to small aspects of manifesting, despite other people forgetting all about them.",
+      "link": "https://www.yourtango.com/self/things-people-do-manifest-what-they-want",
+      "source": "Yourtango Relationships Magazine",
+      "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-10/people-manifest-what-want-do-things-everyone-else-forgets.png",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Procter & Gamble Company (The) $PG Shares Sold by Sumitomo Mitsui Trust Group Inc.",
+      "description": "Sumitomo Mitsui Trust Group Inc. cut its position in shares of Procter & Gamble Company (The) (NYSE:PG \u2013 Free Report) by 3.0% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 5,386,805 shares of the company\u2019s stock after selling 164,702 shares during [\u2026]",
+      "link": "https://baseballnewssource.com/2026/11/01/procter-gamble-company-the-pg-shares-sold-by-sumitomo-mitsui-trust-group-inc/11329448.html",
+      "source": "Bbns",
+      "image": "https://www.marketbeat.com/logos/procter--gamble-company-(the)-logo-1200x675.png?v=20261007110104",
+      "published": "2026-11-01 13:15:00",
+      "category": [
         "sports"
       ],
       "country": [
-        "nigeria"
+        "united states of america"
       ]
     },
     {
-      "title": "YSRCP Alleges Discrepancy in Pulivendula Voting Data and Procedures",
-      "description": "YSRCP alleges voting data discrepancies and widespread electoral irregularities, including voter intimidation and booth capturing by TDP workers, during the municipal polling process in Pulivendula, Andhra Pradesh.",
-      "link": "https://newsable.asianetnews.com/india/ysrcp-alleges-discrepancy-in-pulivendula-voting-data-and-procedures-articleshow-8q5asx8",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-7c701c54-7a17-4e45-ab6b-6fd802849b85.jpg",
-      "published": "2026-11-01 09:40:58",
+      "title": "David Sovka: Air Canada the best airline in North America? So funny!",
+      "description": "For the benefit of regular Air Canada passengers, we should probably pause for a minute to let everybody to regain consciousness.",
+      "link": "https://www.timescolonist.com/opinion/david-sovka-air-canada-the-best-airline-in-north-america-so-funny-12948492",
+      "source": "Times Colonist",
+      "image": "https://www.vmcdn.ca/f/files/victoriatimescolonist/json/2026/10/web1_11012026-vtc-isl-sovka.jpg",
+      "published": "2026-11-01 13:15:00",
       "category": [
         "top",
-        "politics"
+        "business",
+        "health"
       ],
       "country": [
-        "india"
+        "canada"
       ]
     },
     {
-      "title": "Bollywood Expresses Grief Over the Shocking Passing of Sanjay Gupta",
-      "description": "Bollywood pays tribute to director Sanjay Gupta, who passed away after a head injury. Stars like Farhan Akhtar and Sanjay Dutt expressed deep grief, remembering his significant contributions to Indian crime-thriller cinema.",
-      "link": "https://newsable.asianetnews.com/entertainment/bollywood-expresses-grief-over-the-shocking-passing-of-sanjay-gupta-articleshow-hvttk30",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-5ad7d37d-126e-4139-b561-ca6543434ee3.jpg",
-      "published": "2026-11-01 09:40:58",
+      "title": "How to clear the cache on your Android device",
+      "description": "Your apps and browsers may be overdue for some tidying up.",
+      "link": "https://www.engadget.com/2300269/how-to-clear-cache-android/",
+      "source": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-the-cache-on-your-android-device/l-intro-1792951353.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore",
+        "united states of america",
+        "india",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Today ONLY: Holiday Barbie & Ken Dolls Just $24.99 on Macys.com (Reg. $49)",
+      "description": "Today, November 1st only, you can snag the 2026 Holiday Barbie or Ken Doll for just $24.99 on Macys.com when you use the promo code FRIEND at checkout! Barbie 2026 Holiday Doll $27.77 (reg. $48.99) Use promo code FRIEND Final cost $24.99! Choose from 4 styles: Dark Brown Hair Brown Hair Black Hair Blonde Hair [\u2026]",
+      "link": "https://hip2save.com/deals/holiday-barbie-dolls/",
+      "source": "Hip2save",
+      "image": "https://hip2save.com/wp-content/uploads/2026/02/2026-holiday-barbie.jpg?w=912",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "business",
+        "lifestyle"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Longtime Louisiana traditions honor, light the way for deceased loved ones on All Saints Day",
+      "description": "Ruby DuCre-Gethers makes the evening trek with her family from Sacred Heart of Jesus Catholic Church to Williams Cemetery every year on All Saints Day.",
+      "link": "https://www.nola.com/entertainment_life/all-saints-day-louisiana/article_169cccb8-81fa-57d1-a1ed-5a94b16bbc74.html",
+      "source": "Nola.com",
+      "image": "http://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/57/a57949b3-a296-5705-aacc-0c13ea4b0d71/6ae23ce612a8c.image.jpg?resize=300%2C172",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "This Is Considered The Best Used Toyota RAV4 Model To Buy In 2026",
+      "description": "The Toyota RAV4 holds its value so well that used ones aren't cheap. Here's the model year that balances strong ratings with a fair asking price.",
+      "link": "https://www.slashgear.com/2297554/best-used-toyota-rav4-model-2026/",
+      "source": "Slashgear",
+      "image": "https://www.slashgear.com/img/gallery/this-is-considered-the-best-used-toyota-rav4-model-to-buy-in-2026/l-intro-1792730222.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "singapore",
+        "united kingdom",
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Violence after Germany\u2019s Gen Z demos slammed by politicians",
+      "description": "On Oct 31, tens of thousands of people participated in the protests organised to demand attention to youth priorities.",
+      "link": "https://www.straitstimes.com/world/europe/violence-after-germanys-gen-z-demos-slammed-by-politicians",
+      "source": "Straitstimes",
+      "image": null,
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "world"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "10 Costco Japan Foods We Wish We Had In The US",
+      "description": "Curious about Costco in Japan? From crab cream croquettes to burdock chips, we take a look at all the amazing food available at Costco Japan.",
+      "link": "https://www.chowhound.com/2296701/foods-only-buy-costco-japan/",
+      "source": "Chowhound",
+      "image": "https://www.chowhound.com/img/gallery/10-costco-japan-foods-we-wish-we-had-in-the-us/l-intro-1792508243.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "food"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Opening Week 10 College Football Odds, Spreads & Lines: BYU vs Utah & More",
+      "description": "BYU at Utah leads the early Week 10 college football odds, with the Utes laying 4.5 in the Holy War. Kickoff is noon ET on Nov. 7, and BYU\u2019s official schedule still lists the network as ABC or ESPN. The Week 10 board runs from Tuesday MACtion through Saturday\u2019s rivalry games. More spreads, totals and \u2026 Continued The post Opening Week 10 College Football Odds, Spreads & Lines: BYU vs Utah & More appeared first on Sports Betting Dime.",
+      "link": "https://www.sportsbettingdime.com/news/college-football/opening-week-10-odds-spreads-lines-byu-vs-utah-2026/",
+      "source": "Sports Betting Dime",
+      "image": "https://www.sportsbettingdime.com/app/uploads/2026/10/2026-10-25T033416Z_1556665357_MT1USATODAY30181244_RTRMADP_3_NCAA-FOOTBALL-HOUSTON-AT-UTAH-scaled.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It - Forbes",
+      "description": "Apple Watch Showing The Wrong Time After Daylight Saving? How To Fix It Forbes Apple Shares Fix for Apple Watch Showing Wrong Time After Daylight Saving Change iClarified",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkN3Yk4ta0RoOUtPVWpGblNjTFVZUjlCRU44UXJnaUF1a0YxY2w5MHVSbHZRdHRJZmJQR2RIMktYMDU4WlNtMXMtYVVZcDlaWWkxMnFTZHdpeEYzTG1qeWE3bkxQZ3Y4WjgxR2FrZ0RwRzR3V0JtNFE1UklkM2IyNnVVVVZPT2NfeWtNa0pwdmRBRi1WcnNwWkJzR19SS2x6M2NwZE9MZWtFNERvYWs3OVZBTGtHX1FjRGtYcXg3TDQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "canada"
+      ]
+    },
+    {
+      "title": "3 Takeaways from the Canadiens\u2019 5-4 Victory Over the Penguins",
+      "description": "The Montreal Canadiens returned to the Bell Centre on Halloween night to face a frightful challenge: Sidney Crosby and the Pittsburgh Penguins. Earlier",
+      "link": "https://www.yardbarker.com/nhl/articles/3_takeaways_from_the_canadiens_5_4_victory_over_the_penguins/s1_16448_44501378",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/a/1/a160b199b4fd90331c2d774ea0b46f11ad74e5a6/thumb_16x9/Josh-Anderson-Canadiens-1200x800.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "From car salesman to congressman, Frank Mrvan Jr. never forgot where he came from",
+      "description": "Frank Mrvan Jr. has learned that politics is ultimately about people, from his early campaign lessons to his family life, fitness routine, and even encounters at dog parks.",
+      "link": "https://nwitimes.com/opinion/columnists/jerry-davich/article_02eb3ba8-ae9b-48b0-97db-3990c1b93c1f.html",
+      "source": "The Times Of Northwest Indiana | Breaking News | R",
+      "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/31/a314dd82-99b1-4009-8a8b-f1869481cb42/6ae52abc6e914.image.jpg?resize=300%2C400",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Gonzaga men adjust on the fly after whirlwind offseason - Sun, 01 Nov 2026 PST",
+      "description": "Anyone trying to get a feel for what Gonzaga\u2019s strengths and weaknesses will be in 2026-27 may feel slightly better knowing the highly qualified coaches observing and analyzing practices inside the Volkar Center still aren\u2019t totally sure, either.",
+      "link": "http://www.spokesman.com/stories/2026/nov/01/gonzaga-men-adjust-on-the-fly-after-whirlwind-offs/",
+      "source": "Spokesman",
+      "image": "https://thumb.spokesman.com/fDQtG6xzCNcdH6ychUujRRQ01Vo=/2500x1405/smart/media.spokesman.com/photos/2026/10/26/6adfe32fe9a30.hires.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Tomorrow, Today Releases Interview With Surfer and Survivor Alvaro Vizcaino on Fear, Acceptance and Purpose",
+      "description": "Alvaro Vizcaino recounts surviving a cliff fall and two days stranded on a remote beach, and how acceptance and gratitude changed his life.",
+      "link": "https://www.einpresswire.com/article/952087948/tomorrow-today-releases-interview-with-surfer-and-survivor-alvaro-vizcaino-on-fear-acceptance-and-purpose",
+      "source": "Ein Presswire",
+      "image": "https://img.einnews.com/ampsize/1229139/alvaro-vizcaino.jpeg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada",
+        "india",
+        "china",
+        "united states of america",
+        "france",
+        "australia",
+        "japan",
+        "germany",
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "2 Brilliant ETFs I'm Stocking Up On if a Bear Market Is Coming",
+      "description": "If a downturn is coming, I want to own good companies and focus on dividends rather than stock prices.",
+      "link": "https://www.fool.com/investing/2026/11/01/2-brilliant-etfs-im-stocking-up-on-if-a-bear-marke/",
+      "source": "Fool",
+      "image": "https://g.foolcdn.com/editorial/images/891571/26_10_06-a-warning-sign-with-a-bear-on-it-_mf-dload-gettyimages-1206570049-1281x921-3d5305a.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Watch: YouTuber Separates Conjoined Turtle Twins, Ends with 'Heartbreaking' Result",
+      "description": "Sometimes, even the best intentions cannot guarantee a happy ending. That was the unfortunate lesson learned by New Jersey reptile expert and YouTuber Chris Leone, who recently faced a difficult [\u2026] The post Watch: YouTuber Separates Conjoined Turtle Twins, Ends with 'Heartbreaking' Result appeared first on The Western Journal.",
+      "link": "https://www.westernjournal.com/watch-youtuber-separates-conjoined-turtle-twins-ends-heartbreaking-result/",
+      "source": "The Western Journal",
+      "image": "https://www.westernjournal.com/wp-content/uploads/2026/10/Ben-Working-Feature-Image-2026-10-29T220046.380.jpg",
+      "published": "2026-11-01 13:15:00",
       "category": [
         "top",
         "entertainment"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     },
     {
-      "title": "BJP MLA Claims Moon Belongs To Sanatan Dharma Ignites New Controversy",
-      "description": "BJP MLA Rameshwar Sharma sparks controversy by claiming the moon belongs to Sanatan Dharma, drawing sharp criticism from Muslim leader Abbas Hafeez who dismissed the remarks as nonsensical and unbecoming of a political representative.",
-      "link": "https://newsable.asianetnews.com/india/bjp-mla-claims-moon-belongs-to-sanatan-dharma-ignites-new-controversy-articleshow-nmm52ht",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-f1efbff6-df24-460a-8097-9e5067fe3f9d.jpg",
-      "published": "2026-11-01 09:40:57",
+      "title": "Deeds optimistic of Democrats' outlook in midterms during Nelson visit",
+      "description": "Sen. Creigh Deeds, D-Charlottesville, recently visited Rockfish Presbyterian Church in Nellysford to participate in a gathering of Blue Ridge Respite, a program for local seniors that provides social and self-enrichment activities.",
+      "link": "https://newsadvance.com/news/community/nelson-county-times/article_96aa2418-acf3-44e3-a490-71178d2b20dc.html",
+      "source": "Lynchburg News And Advance",
+      "image": "https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/7/a4/7a4ef643-2a48-4d14-98cf-9ffba981c3ad/6ae50df6cb21f.image.jpg?resize=300%2C159",
+      "published": "2026-11-01 13:15:00",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Ondo arrests 30 residents over sanitation violations",
-      "description": "By Ado Oyeyemi No fewer than 30 residents have been arrested in Ondo State for allegedly violating environmental sanitation regulations during the state\u2019s monthly clean-up exercise. The arrests were made on Saturday by environmental health officers during the sanitation exercise across the state. The Senior Special Assistant to Governor Lucky Aiyedatiwa on Environmental Health and [...]",
-      "link": "https://promptnewsonline.com/ondo-arrests-30-residents-over-sanitation-violations/",
-      "source": "Prompt News",
-      "image": "https://promptnewsonline.com/wp-content/uploads/2023/07/Ondo-community.jpeg",
-      "published": "2026-11-01 09:40:56",
-      "category": [
-        "crime",
-        "top",
-        "environment"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "INDIA Bloc Leaders Demand CEC Resignation Over Alleged Electoral Errors",
-      "description": "Opposition leaders at a massive Delhi rally demanded the resignation of CEC Gyanesh Kumar, citing electoral roll irregularities, with Kapil Sibal calling the gathering the beginning of the end for the ruling BJP government at the Centre.",
-      "link": "https://newsable.asianetnews.com/india/india-bloc-leaders-demand-cec-resignation-over-alleged-electoral-errors-articleshow-odidm5e",
-      "source": "Asianet Newsable",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-71698db9-59ed-463e-ae98-8829b12fb579.jpg",
-      "published": "2026-11-01 09:40:56",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Rahul Gandhi Targets BJP Over Closed Shops As Opposition Leaders Head To Ramlila Maidan - VIDEO",
-      "description": "Referring to his appeal a day earlier asking rally participants to shop from local businesses, Rahul Gandhi said they had encouraged people attending the march and rally to support traders.",
-      "link": "https://www.freepressjournal.in/india/rahul-gandhi-targets-bjp-over-closed-shops-as-opposition-leaders-head-to-ramlila-maidan-video",
-      "source": "The Free Press Journal",
-      "image": "https://media.assettype.com/freepressjournal/2024-11-18/sgisrd4y/rahul-gandhi-pic.jpg",
-      "published": "2026-11-01 09:40:55",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "\u2018Never seen anything like this\u2019: Wild scenes after \u2018gobsmacking\u2019 World Cup finish - Fox Sports",
-      "description": "\u2018Never seen anything like this\u2019: Wild scenes after \u2018gobsmacking\u2019 World Cup finish Fox Sports RLWC live updates: Wild golden point finish leads to \u2018one of the great moments\u2019 in World Cup history Nine.com.au Miski gets Lebanon home in golden point thriller NRL.com Epic scenes as Lebanon claim golden point win The Age Lebanon edge France in crazy World Cup golden point win The Canberra Times",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ3RkZ25JWTFDTVh6RFpsV0ZuR3psX0EtSmdXNFlEZlJlOWplNGY0SkN5UmVIQlhQTXVwc1NneDQ0U3BuM0xENVhaSWZUZ0pIWEt3Mm1TUmlud25TMkRFY3RhOEpEZ3ZmYjZuaTI2TDA1ZGRCeHRNQlZBWHgwNWFTNnZEU2tMZVlTa2ZBczZCYV9CR1hTMGtlM2ZwNURYR0g0WldEWlNWdGc2WkdrTm13X1RNaEIyV2docnlwOUxlR0VpSFNrbnF2ZjNxV3M0MjFLRng1dUNXcFpYWGkzdHhrWGtjbUNEenZLU1haQ3daVEFrUmVUa3BMVTg3RmhTbFlNd0d1THhkVG1JTW1PcTZSTng2N1dCYXc?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-11-01 09:40:54",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Replit Auth and Replit storage don't work outside Replit",
-      "description": "An app built by Replit's Agent signs people in with their Replit accounts and keeps files in Replit's storage. Moved anywhere else, nobody can sign in. Change both first. What you see Deployed outside Replit, sign-in fails (REPLIT_DOMAINS isn't set), and saving or loading files errors. Why it happens server/replitAuth.ts signs people in through Replit's login service, and @replit/object-storage and @replit/database are Replit's own services. None of them exist outside Replit. How to fix it Ask Replit's Agent, or your AI tool, to switch sign-in to Clerk or Supabase Auth. Move files to Cloudflare R2 or Supabase Storage, and Replit Database records into Postgres. Bring the Postgres data along: in Replit's Shell, pg_dump -Fc --no-owner --no-privileges \"$DATABASE_URL\" > replit.dump. Or ask your AI tool to fix it Paste this into Lovable, Bolt, v0, Replit or Cursor: This app has to run outside Replit. Replace sign-in with Replit accounts (server/replitAuth.ts, REPLIT_DOMAINS) with Clerk, and replace @replit/object-storage and @replit/database with S3-compatible storage (Cloudflare R2) and Postgres. Keep every page and API route working the same way. The full page, with the request ready to copy, is at launchpad.axonscape.com/fix/replit-auth-outside-replit. I work on Launchpad by Axonscape, which runs a free launch check for apps built with AI tools: it finds this and the other things that break at launch, from a public GitHub repo or a .zip of the code, and keeps nothing.",
-      "link": "https://dev.to/axonscape/replit-auth-and-replit-storage-dont-work-outside-replit-15mh",
-      "source": "Dev Community",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw05qfmv8sbndvv5rzeps.png",
-      "published": "2026-11-01 09:40:53",
-      "category": [
-        "technology"
-      ],
-      "country": [
         "united states of america"
       ]
     },
     {
-      "title": "Epic updates Unreal Engine license to allow AI training on Unreal Engine and MetaHuman projects",
-      "description": "The revised terms cover source code and MetaHuman outputs; existing users can choose to accept them.",
-      "link": "https://digg.com/ai/5ngjinvr",
-      "source": "Digg",
-      "image": null,
-      "published": "2026-11-01 09:40:51",
-      "category": [
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Five Killed in Fresh Ethnic Violence in India's Manipur State",
-      "description": "By Tora AgarwalaNEW DELHI, Nov 1 (Reuters) - Five people were killed in two separate incidents in India's northeastern state of Manipur, police...",
-      "link": "https://www.usnews.com/news/world/articles/2026-11-01/five-killed-in-fresh-ethnic-violence-in-indias-manipur-state",
-      "source": "Usnews",
-      "image": "https://www.usnews.com/object/image/000001a0-59ea-d60c-a5aa-7deaf9cc0000/weekly1.jpg?update-time=1788216186313&size=responsiveSquare150",
-      "published": "2026-11-01 09:40:47",
-      "category": [
-        "world"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Mexican media shows interest in Vietnam\u2019s development path",
-      "description": "Regarding strategic goals, the diplomat shared that Vietnam aims to become a developing country with modern industry and upper-middle income by 2030, and a developed, high-income nation by 2045. Vietnam, Mexico step up trade connectivity President Ho Chi Minh monument in Acapulco symbolises Vietnam\u2013Mexico friendship Vietnam shares development vision, promotes cooperation in Mexico",
-      "link": "https://en.vietnamplus.vn/mexican-media-shows-interest-in-vietnams-development-path-post354648.vnp",
-      "source": "Vietnam+",
-      "image": "https://mediaen.vietnamplus.vn/images/9XmmeM-ekIeVQXUgc8JgBZmV3UGr9mOUmrHN3HCso7sNKW9ePxzqroatMU6iEVub0QUeTo0q6uYzJn5Sji0afg/vnanet-mexican-media.jpg.webp",
-      "published": "2026-11-01 09:40:45",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "vietnam"
-      ]
-    },
-    {
-      "title": "Cancer in your 30s and 40s: What you should know about \u2018early-onset cancer\u2019",
-      "description": "Cancer diagnoses among people under 50 are raising concern among doctors",
-      "link": "https://english.mathrubhumi.com/lifestyle/health/cancer-in-your-30s-and-40s-what-you-should-know-about-early-onset-cancer-n40109go",
-      "source": "Mathrubhumi English",
-      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1utrwglz9ts5hnuvgli/0/cancer-jpg.jpg?w=384",
-      "published": "2026-11-01 09:40:44",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "France: 115 yachts will sail out of Sain-Malo for Route du Rhum race",
-      "description": "In Saint-Malo, in France's Brittany region, the legendary Route du Rhum is preparing to set sail. Billed as the world's biggest solo transatlantic race, it sees skippers sail alone from France's northern coast to the Caribbean island of Guadeloupe. It's a high-speed, high-risk crossing that takes place every four years.",
-      "link": "https://www.france24.com/en/france-115-yachts-will-sail-out-of-sain-malo-for-route-du-rhum-race",
-      "source": "France 24",
-      "image": "https://s.france24.com/media/display/39642666-d5d5-11f1-8eed-695cb59fade5/w:1024/p:16x9/EN-20261101-091113-091428-CS.jpg",
-      "published": "2026-11-01 09:40:42",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "france"
-      ]
-    },
-    {
-      "title": "Moicano On Tsarukyan's Title Shot Vs Volkanovski Bout",
-      "description": "Renato Moicano believes Arman Tsarukyan will become the next UFC lightweight champion, but would prefer to see Justin Gaethje take a different fight first.",
-      "link": "https://www.yardbarker.com/mma/articles/moicano_on_tsarukyans_title_shot_vs_volkanovski_bout/s1_17349_44500883",
-      "source": "Yardbarker",
-      "image": "https://us-west-2-gw-2.yardbarker.com/images/yb_white_on_black_medium.jpg",
-      "published": "2026-11-01 09:40:35",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Illinois residents encouraged to search for unclaimed funds",
-      "description": "Illinois residents can search ICash online to determine whether unclaimed property belongs to them or their families.",
-      "link": "https://www.sj-r.com/story/news/local/2026/11/01/illinois-treasurer-urges-residents-to-check-icash-for-unclaimed-property/92447718007/",
-      "source": "The State Journal-register",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/27/NSJR/91497186007-getty-images-919003034-1.jpg",
-      "published": "2026-11-01 09:40:35",
-      "category": [
-        "top",
-        "politics",
-        "lifestyle"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Samoa captain Junior Paulo \u2018in trouble\u2019 after ironing out Dallin Watene-Zelezniak with shoulder charge",
-      "description": "The enforcer \u2018missed the memo by about five years\u2019 and is on report ahead of the World Cup semi-finals.",
-      "link": "https://7news.com.au/sport/rugby-league/samoa-captain-junior-paulo-in-hot-water-after-ironing-out-dallin-watene-zelezniak-with-shoulder-charge-c-23100771",
-      "source": "7news",
-      "image": "https://images.7news.com.au/publication/C-23100771/d2dc240e99cbb6c19eb24386ee0f3effa82655ce-16x9-x0y0w1280h720.jpg",
-      "published": "2026-11-01 09:40:35",
-      "category": [
-        "top",
-        "sports"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Halloween Unrest in Vienna: Five Arrested After Scattered Violence",
-      "description": "Halloween in Vienna ended with flashes of disorder rather than a citywide outbreak. Police said five people were provisionally arrested during gatherings in the city centre, while the night as a whole passed without serious rioting. According to the Vienna police, the arrests were made on suspicion of resisting officers or damaging property. The announcement [\u2026] The post Halloween Unrest in Vienna: Five Arrested After Scattered Violence appeared first on Voice of Vienna.",
-      "link": "https://voiceofvienna.org/halloween-unrest-in-vienna-five-arrested-after-scattered-violence/",
-      "source": "Voice Of Vienna",
-      "image": "https://voiceofvienna.org/wp-content/uploads/2026/11/Gen-Z-protest-Vienna-vov.jpg",
-      "published": "2026-11-01 09:40:35",
+      "title": "Six Cape teachers struck off, five for sexual offences",
+      "description": "SACE\u2019s 2025/26 annual report lists six Western Cape educators removed from its register, including five cases involving sexual misconduct against learners. The ANC has called for an investigation into oversight by the provincial education department.",
+      "link": "https://dailyvoice.co.za/daily-voice/news/2026-11-01-six-cape-teachers-struck-off-five-for-sexual-offences/",
+      "source": "Dailyvoice Co Za",
+      "image": "https://iol-prod.appspot.com/image/5a9ab2337e09d9e65c183bbc8a457102c133d808",
+      "published": "2026-11-01 13:15:00",
       "category": [
         "crime",
         "top"
       ],
       "country": [
-        "austria"
+        "south africa"
       ]
     },
     {
-      "title": "Afghanistan clinch maiden Hong Kong Sixes title with four-wicket win over Australia",
-      "description": "Afghanistan defeated Australia by four wickets to win their maiden Hong Kong Sixes title, while Pakistan beat Oman to claim the Plate championship.",
-      "link": "https://cricketaddictor.com/cricket-news/afghanistan-clinch-maiden-hong-kong-sixes-title-with-four-wicket-win-over-australia-465533/",
-      "source": "Cricket Addictor",
-      "image": "https://static.cricketaddictor.com/images/posts/2026/Afghanistan.webp?q=80",
-      "published": "2026-11-01 09:40:35",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Govt to generate 4,000 MW of solar power in 3 months: Faridul",
-      "description": "DU and Stockholm University jointly arranaged a seminar titled \u2018Science Policy Dialogue on Black Carbon and Other Short-Lived Climate Pollutants.",
-      "link": "https://www.daily-sun.com/bangladesh/906574",
-      "source": "Daily Sun",
-      "image": "https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/01/State-Minister-for-Environment,-Forest-and-Climate-Change-Shaikh-Faridul-Islam-6ae709117cff8.jpg",
-      "published": "2026-11-01 09:40:33",
+      "title": "'Who knows where I\u2019d be': The winding road that brought Alan Huss home to Creighton",
+      "description": "Alan Huss tried insurance, then construction before a coaching career that started as a high school assistant and took him all over the country before leading back home, to Creighton.",
+      "link": "https://journalstar.com/article_677b8487-b9f2-59d7-8d05-969de1b0a561.html",
+      "source": "Lincoln Journal Star",
+      "image": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/2/64/26484a41-58ba-5258-82ff-e5d33bad9a77/6ae6cc2aaa28a.image.jpg?resize=300%2C169",
+      "published": "2026-11-01 13:15:00",
       "category": [
         "top",
         "business",
-        "environment"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "Dementia sufferer, 90, suspected over 80-year-old wife\u2019s death",
-      "description": "A 90-year-old dementia sufferer has been formally arrested over the death of his wife in the elderly couple\u2019s home in Thessaloniki, reports said.",
-      "link": "https://www.ekathimerini.com/news/1319958/dementia-sufferer-90-suspected-over-80-year-old-wifes-death/",
-      "source": "Ekathimerini.com",
-      "image": "https://www.ekathimerini.com/wp-content/uploads/2026/06/police_thessaloniki.jpg",
-      "published": "2026-11-01 09:40:32",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "greece"
-      ]
-    },
-    {
-      "title": "EKA Mobility expands manufacturing footprint",
-      "description": "The company said the six plants in Pune and Pithampur are part of an 11-facility network spread across 120 acres, with annual capacity for more than 40,000 electric vehicles and investment exceeding Rs 3,500 crore.",
-      "link": "https://yourstory.com/2026/11/eka-mobility-expands-manufacturing-footprint",
-      "source": "Yourstory",
-      "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/EKA-1793523065213.png",
-      "published": "2026-11-01 09:40:30",
-      "category": [
-        "top",
-        "business",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "St Paul\u2019s Institutions celebrate Karnataka Rajyotsava",
-      "description": "Media Release Belagavi, Nov 1: St Paul\u2019s Institutions, Camp, celebrated Karnataka Rajyotsava with great pride, joy and patriotic enthusiasm, paying tribute to the rich cultural heritage, language, history and traditions of Karnataka. The celebra....",
-      "link": "https://daijiworld.com/news/newsDisplay?newsID=1334071",
-      "source": "Daijiworld",
-      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ASM_spikr_01012026_1.jpg",
-      "published": "2026-11-01 09:40:27",
-      "category": [
-        "top",
         "lifestyle"
       ],
       "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "US University accelerates closure of chinese joint programme amid Pentagon scrutiny",
+      "description": "US university fast-tracks closure of joint programme with Chinese institution as Pentagon scrutiny mounts",
+      "link": "https://www.edexlive.com/news/us-university-accelerates-closure-of-chinese-joint-programme-amid-pentagon-scrutiny",
+      "source": "Edex Live",
+      "image": "https://cf-images.assettype.com/edexlive/2026-10-27/ob8c23ut/e2e8f7e7d44704d8e6929f78849355e4.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
         "india"
       ]
     },
     {
-      "title": "Udupi: Rajyotsava celebrated with grandeur; \u2018religious harmony is our culture': Rizwan Arshad",
-      "description": "Pics: Suprith Daijiworld Media Network - Udupi (TP)",
-      "link": "https://daijiworld.com/news/newsDisplay?newsID=1334072",
-      "source": "Daijiworld",
-      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ub_011126_rajyotsava_18.jpg",
-      "published": "2026-11-01 09:40:27",
+      "title": "Western Cape electoral chief assures readiness ahead of municipal polls",
+      "description": "Michael Hendrickse says teams are working hard to ensure that voting stations are prepared and materials are in place.",
+      "link": "https://www.ewn.co.za/western-cape-electoral-chief-assures-readiness-ahead-of-municipal-polls/",
+      "source": "Ewn",
+      "image": "https://media-cache.primedia-service.com/media/sgzhrqe1/240522-iec-midrand2.jpeg",
+      "published": "2026-11-01 13:15:00",
       "category": [
         "top",
-        "lifestyle"
+        "politics"
       ],
       "country": [
-        "india"
+        "south africa"
+      ]
+    },
+    {
+      "title": "Oliver, Carter face off in District 76 race",
+      "description": "PORT CHARLOTTE \u2014 After defeating Julie McCormack in the Florida House District 76 race, incumbent Florida Rep. Vanessa Oliver will face Phillip Carter in the general election.",
+      "link": "https://www.yoursun.com/elections/oliver-carter-face-off-in-district-76-race/article_3903731c-c2d2-4572-8f10-b144beb95149.html",
+      "source": "Yoursun.com",
+      "image": "https://bloximages.newyork1.vip.townnews.com/yoursun.com/content/tncms/assets/v3/editorial/5/dc/5dc7c172-4595-4132-aa48-ff7caa557b13/6a75cfc3d8b5b.image.jpg",
+      "published": "2026-11-01 13:15:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,37 +1,50 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Bahrain EDB: On the Sidelines of Gateway Gulf 2026, Tamkeen Signs MoU with EY MENA to Establish an EY Talent Hub in Bahrain and Create 125 Jobs, Supporting MENA",
-      "description": "On the Sidelines of Gateway Gulf 2026, Tamkeen Signs MoU with EY MENA to Establish an EY Talent Hub in Bahrain and Create 125 Jobs, Supporting MENA MANAMA, Bahrain, Nov. 2, 2026 /PRNewswire/ -- On ...",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70011523-bahrain-edb-on-the-sidelines-of-gateway-gulf-2026-tamkeen-signs-mou-with-ey-mena-to-establish-an-ey-talent-hub-in-bahrain-and-create-125-jobs-suppo-008.htm",
-      "source": "Finanznachrichten.de",
-      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN87075&Transmission_Id=202611021618PR_NEWS_EURO_ND__EN87075&DateId=20261102",
-      "published": "2026-11-02 21:24:00",
+      "title": "Persistent Identity Theft Raises Difficult Documentation Questions",
+      "description": "People experiencing continuing misuse of their identifying information may need records showing the harm and the steps already taken to address fraudulent activity. Washington, DC, [\u2026] The post Persistent Identity Theft Raises Difficult Documentation Questions appeared first on Capitol Hill Times.",
+      "link": "https://capitolhilltimes.com/persistent-identity-theft-raises-difficult-documentation-questions/",
+      "source": "Capitol Hill Times",
+      "image": "https://capitolhilltimes.com/wp-content/uploads/2026/11/persistent-identity-theft-raises-difficult-documentation-questions.webp",
+      "published": "2026-11-03 05:30:59",
       "category": [
         "top",
-        "business",
+        "politics",
         "technology"
       ],
       "country": [
-        "germany"
+        "united states of america"
       ]
     },
     {
-      "title": "Where to watch \u201910 Things I Hate About You\u2019 online free",
-      "description": "Find out where to stream 10 Things I Hate About You online free, including platform availability and options for watching without a paid subscription. The post Where to watch \u201910 Things I Hate About You\u2019 online free appeared first on Film Daily.",
-      "link": "https://filmdaily.co/news/where-to-watch-10-things-i-hate-about-you-online-free/",
-      "source": "Film Daily",
-      "image": "https://filmdaily.co/wp-content/uploads/2026/11/2250_compressed-1.jpg",
-      "published": "2026-11-02 21:23:53",
+      "title": "Fireperf: Open-source network testing tool for firewalls and routers",
+      "description": "The IPFire project has released fireperf, an open-source measurement tool that opens connections at a fixed rate and reports what the device in the middle did with each one. It is free software aimed at administrators, developers and testers who evaluate firewalls, routers and other systems that keep a state for every connection. What fireperf does iperf3, the widely used bandwidth tester, measures how much data two computers can push between them. A firewall has \u2026 More \u2192 The post Fireperf: Open-source network testing tool for firewalls and routers appeared first on Help Net Security.",
+      "link": "https://www.helpnetsecurity.com/2026/11/03/fireperf-open-source-network-testing-tool/",
+      "source": "Help Net Security",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/02083505/fireperf-1500.webp",
+      "published": "2026-11-03 05:30:59",
       "category": [
-        "top",
-        "technology",
-        "entertainment"
+        "technology"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Ahold Delhaize USA ramps up in-store technology modernisation push with NCR Voyix technology",
+      "description": "Ahold Delhaize USA is expanding its work with NCR Voyix as it looks to modernise key in-store capabilities across Point of Sale, self-checkout, pharmacy and fuel operations. The multi-year roll-out is now underway, with new PoS technology now available in 100 stores and additional deployment planned",
+      "link": "https://retailtechinnovationhub.com/home/2026/11/3/ahold-delhaize-usa-ramps-up-in-store-technology-modernisation-push-with-ncr-voyix-technology",
+      "source": "Retail Technology Innovation Hub",
+      "image": "https://storage.googleapis.com/rtih-storage/31995/Ahold-Delhaize-USA.png",
+      "published": "2026-11-03 05:30:54",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

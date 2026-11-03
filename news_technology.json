@@ -1,19 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work",
-      "description": "Deepseek released a research prototype of dsh-superagent, a coding agent that does work on a GitHub repository for you. Who can ask for work The agent gets to work in two situations: an allowed user asks for something, or a rule your team wrote covers it. You can also open up a chat or GitHub scope, and then anyone in it can request work just by mentioning the agent. A message, comment or quoted document \u2026 More \u2192 The post DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work appeared first on Help Net Security.",
-      "link": "https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/",
-      "source": "Help Net Security",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/11/02065650/deepseek-1500.webp",
-      "published": "2026-11-02 07:09:55",
+      "title": "Hundreds of Industry Leaders to Convene in Austin, Texas for the NatGas To Power Forum, Exploring Solutions to AI Data Center Energy Demand",
+      "description": null,
+      "link": "https://www.financialcontent.com/article/acnnewswire-2026-11-2-hundreds-of-industry-leaders-to-convene-in-austin-texas-for-the-natgas-to-power-forum-exploring-solutions-to-ai-data-center-energy-demand",
+      "source": "Financialcontent",
+      "image": null,
+      "published": "2026-11-02 13:59:00",
       "category": [
         "technology"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Marvell's AI Megadeal Hands Wall Street Multiple M&A Milestones",
+      "description": null,
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-s-ai-megadeal-hands-wall-street-multiple-m-a-milestones",
+      "source": "Bloomberg",
+      "image": null,
+      "published": "2026-11-02 13:58:59",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How Ukraine and Russia air raid apps were hacked to send fake radiation alert",
+      "description": "Ukraine and Russia both claimed their emergency alert apps were hacked on Sunday (November 1) and were made to send false alerts to residents warning of air raids and fake radiation. The notifications startled people in both nations, but authorities said they cleared up the confusion in under an hour",
+      "link": "https://www.firstpost.com/explainers/how-ukraine-and-russia-air-raid-apps-were-hacked-to-send-fake-radiation-alert-14057189.html",
+      "source": "Firstpost",
+      "image": "https://images.firstpost.com/uploads/2026/11/EXCLUSIVE-59-2026-11-62df5eb5c517aa493b92cc22554ebefc-1200x675.jpg",
+      "published": "2026-11-02 13:58:56",
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

@@ -1,5 +1,48 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "South Korean TV drama production at risk of collapse, industry groups warn",
+      "description": "SEOUL: Twelve South Korean industry groups urged the government on Wednesday (Nov 5) to invest in and support production of Korean television dramas, known as K-dramas, warning that the country's production base risked collapse.K-dramas have been hugely popular globally, but the number produced has fallen abo",
+      "link": "https://www.channelnewsasia.com/east-asia/south-korean-tv-drama-production-risk-collapse-industry-groups-warn-6520186",
+      "source": "Channel Newsasia",
+      "image": "https://dam.mediacorp.sg/image/upload/s--htRINYSt--/c_crop,h_576,w_1024,x_0,y_53/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/19/000_d3cn7ry.jpg?itok=6M9YOKEG",
+      "published": "2026-11-04 06:26:58",
+      "category": [
+        "crime",
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "mongolia",
+        "bangladesh",
+        "philippines",
+        "thailand",
+        "nepal",
+        "cambodia",
+        "afghanistan",
+        "china",
+        "pakistan",
+        "israel",
+        "japan",
+        "kuwait",
+        "taiwan",
+        "india",
+        "vietnam",
+        "singapore",
+        "bahrain",
+        "indonesia",
+        "hong kong",
+        "sri lanka",
+        "myanmar",
+        "malaysia",
+        "south korea",
+        "bhutan",
+        "maldives",
+        "turkey",
+        "north korea"
+      ]
+    }
+  ]
 }

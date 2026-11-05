@@ -1,5 +1,52 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions",
+      "description": "One of NASA's premier space telescopes has plunged to Earth, ending its 22-year investigation of the universe's biggest explosions. The Swift Observatory's demise on Wednesday came less than three months after a long-shot rescue mission failed. The U.S. Space Force\u2026",
+      "link": "https://www.tribstar.com/region/nasa-space-telescope-plunges-to-earth-after-two-decades-studying-cosmic-explosions/article_e61f6ec4-ae33-541b-b824-a0243867112a.html",
+      "source": "Tribune Star",
+      "image": "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/assets/v3/editorial/d/56/d56702bb-91c7-55b7-9910-ae6d71f5ab10/6aea33a3771c5.image.jpg?resize=300%2C200",
+      "published": "2026-11-04 19:41:00",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Why removing your data online may still leave your family exposed",
+      "description": "Data broker opt-out forms may not protect your family. People search sites can still expose your info through a spouse's or parent's profile.",
+      "link": "https://headtopics.com/news/why-removing-your-data-online-may-still-leave-your-family-89550785",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/4/foxnews/why-removing-your-data-online-may-still-leave-your-why-removing-your-data-online-may-still-leave-your-D96A9613714ADACFEB6CE399F5F6D961.webp",
+      "published": "2026-11-04 19:41:00",
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The results are in: More of you are using premium Gemini than we expected",
+      "description": "Our poll found that more readers use premium Gemini than expected, with Google AI Pro emerging as the clear favourite.",
+      "link": "https://www.androidauthority.com/google-ai-pro-most-popular-gemini-tier-3731774/",
+      "source": "Androidauthority",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/New-Gemini-app-2026-design-refresh-scaled.jpg",
+      "published": "2026-11-04 19:40:51",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,22 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Oxi-Tech and Warwick develop electrochemical water treatment",
+      "description": "Oxi-Tech and Warwick will develop industrial electrochemical water disinfection systems. Their Innovate UK-backed partnership will investigate ozone-generation efficiency, electrode life, manufacturing cost and electrical monitoring for water treatment and clean-in-place equipment. The post Oxi-Tech and Warwick develop electrochemical water treatment appeared first on Industrial News.",
+      "link": "https://industrialnews.co.uk/oxi-tech-and-warwick-develop-electrochemical-water-treatment/",
+      "source": "Industrial News",
+      "image": "https://industrialnews.co.uk/wp-content/uploads/2026/11/Oxi-Tech-and-University-of-Warwick-Secure-Innovate-UK-Funding.webp",
+      "published": "2026-11-05 10:31:00",
+      "category": [
+        "top",
+        "science",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    }
+  ]
 }

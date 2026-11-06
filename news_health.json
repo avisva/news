@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "CMS proposes rollbacks of 'excessively burdensome' Conditions of Participation",
+      "description": "The proposed changes, estimated to save $320 million, include reversals of Biden-era requirements for hospital emergency departments related to obstetric care.",
+      "link": "https://www.fiercehealthcare.com/providers/cms-proposes-rollbacks-excessively-burdensome-conditions-participation",
+      "source": "Fierce Healthcare",
+      "image": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-02-06T152229.917.jpg?VersionId=9F0OYxK9TrIX9d8r_Ygtm1rlknDAdJ3J",
+      "published": "2026-11-06 11:38:00",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

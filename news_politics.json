@@ -1,14 +1,46 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "When will North Carolina's newest elected officials take office? Key dates",
-      "description": "Democratic U.S. Senate candidate Roy Cooper thanks supporters as his wife, Kristin Cooper, looks on during an election night watch party at the Raleigh Marriott, Tuesday, Nov. 3, 2026. Former Gov. Roy Cooper defeated Republican candidate Michael Whatley.",
-      "link": "https://www.newsobserver.com/news/local/asked-and-answered/article317922867.html",
-      "source": "Raleigh News &amp; Observer",
-      "image": "https://www.newsobserver.com/public/latest-news/onw1t8/picture317912949/alternates/FREE_1140/RAL_110326-ELECTION-TEL-11.JPG",
-      "published": "2026-11-05 10:31:00",
+      "title": "DRDO successfully tests Pralay missile off Odisha coast, induction imminent",
+      "description": "The Pralay quasi-ballistic missile met all objectives during user evaluation trials, bringing the indigenously developed system closer to induction.",
+      "link": "https://www.news9live.com/india/drdo-successfully-tests-pralay-missile-off-odisha-coast-induction-imminent-3022184",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/11/DRDO-Pralay-missile.jpg",
+      "published": "2026-11-05 15:08:00",
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "KRA warns against fake Whatsapp job advert",
+      "description": "The Kenya Revenue Authority (KRA) has warned Kenyans against a fraudulent job advertisement circulating on WhatsApp, cautioning job seekers against falling victim to recruitment scams. In a public notice issued on Thursday, November 5, 2026, the tax agency dismissed a message advertising purported internal job vacancies, clarifying that the recruitment notice was fake and did [\u2026]",
+      "link": "https://peopledaily.digital/news/kra-warns-against-fake-whatsapp-job-advert",
+      "source": "People Daily",
+      "image": "https://peopledaily.digital/wp-content/uploads/2026/08/Times-Tower-the-head-offices-of-Kenya-Revenue-Authority.jpg",
+      "published": "2026-11-05 15:08:00",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "kenya"
+      ]
+    },
+    {
+      "title": "Inglewood mayor accused of groping teen storms out of interview as reelection hangs by a thread",
+      "description": "The longtime mayor was speaking with CBS Los Angeles about his bid for another term when the interview took a contentious.",
+      "link": "https://headtopics.com/news/inglewood-mayor-accused-of-groping-teen-storms-out-of-89582331",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/5/nypost/inglewood-mayor-accused-of-groping-teen-storms-out-inglewood-mayor-accused-of-groping-teen-storms-out-4B85BEA32CB684B326AD369CE82A60F2.webp",
+      "published": "2026-11-05 15:08:00",
       "category": [
         "top",
         "politics"
@@ -18,18 +50,19 @@
       ]
     },
     {
-      "title": "Saudi-led coalition intercepts ballistic missile fired toward Medina region",
-      "description": "RIYADH: The Saudi-led Coalition to Restore Legitimacy in Yemen said on Thursday its air defenses had intercepted and destroyed a ballistic missile launched by the terrorist Houthi...",
-      "link": "https://kuwaittimes.com/article/53072/world/saudi-led-coalition-intercepts-ballistic-missile-fired-toward-medina-region/",
-      "source": "Kuwait Times",
-      "image": "https://kuwaittimes.com/kuwaittimes/uploads/images/2026/11/05/467804.jpg",
-      "published": "2026-11-05 10:31:00",
+      "title": "From Katy Perry to drug addiction: What the Russell Brand rape trial jury didn't hear",
+      "description": "The matters were deemed to be \u2018sensitive\u2019 and were removed from the prosecutor\u2019s speech",
+      "link": "https://www.independent.co.uk/news/uk/crime/russell-brand-guilty-verdict-katy-perry-b3079865.html",
+      "source": "The Independent",
+      "image": null,
+      "published": "2026-11-05 15:07:56",
       "category": [
-        "top",
-        "politics"
+        "crime",
+        "politics",
+        "top"
       ],
       "country": [
-        "kuwait"
+        "united kingdom"
       ]
     }
   ]

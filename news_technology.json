@@ -1,42 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "From Global Growth to Cultural Connection: OMODA & JAECOO Resonates with a New Generation",
-      "description": "WUHU, China, Nov. 6, 2026 /PRNewswire/ -- In just three and a half years, OMODA & JAECOO has surpassed 1.4 million cumulative global sales, doubling year after year for three consecutive years. In September 2026, global sales reached 73,421 vehicles, up 123% year-on-year. What stands out...",
-      "link": "https://www.prnewswire.com/apac/news-releases/from-global-growth-to-cultural-connection-omoda--jaecoo-resonates-with-a-new-generation-302931992.html",
-      "source": "Pr Newswire Apac",
-      "image": "https://mmx.prnewswire.com/media/MS2028992/20261106042019EST_image_1.jpg?id=OA3062664&p=original",
-      "published": "2026-11-06 11:38:00",
+      "title": "Data center protesters break into Microsoft site in Amsterdam",
+      "description": "Protesters are demanding a pause in data center construction in Europe. Campaigners planning protests in 16 countries say the AI building boom threatens water supplies, power grids and climate goals.",
+      "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
+      "source": "Dw Akademie",
+      "image": "https://static.dw.com/image/79879753_804.jpg",
+      "published": "2026-11-06 16:38:00",
+      "category": [
+        "top",
+        "politics",
+        "technology"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "AI Cloud Crash Puts CoreWeave and Nebius on Sale. Their Next Reports Decide What Happens Next",
+      "description": "Both neoclouds lost roughly half their value in a month, and two earnings dates now decide whether the selloff was an overreaction or an accurate warning. One company has far less room for error than the other.",
+      "link": "https://247wallst.com/investing/2026/11/06/ai-cloud-crash-puts-coreweave-and-nebius-on-sale-their-next-reports-decide-what-happens-next/",
+      "source": "24/7 Wall St",
+      "image": "https://247wallst.com/wp-content/uploads/2026/11/ai-cloud-crash-puts-coreweave-and-nebius-on-sale-their-next-reports-dec-0d797500.jpg",
+      "published": "2026-11-06 16:38:00",
       "category": [
         "business",
         "technology"
       ],
       "country": [
-        "bhutan",
-        "india",
-        "china",
-        "south korea",
-        "afghanistan",
-        "cambodia",
-        "fiji",
-        "hong kong",
-        "philippines",
-        "singapore",
-        "thailand",
-        "australia",
-        "pakistan",
-        "brunei",
-        "nepal",
-        "sri lanka",
-        "mongolia",
-        "bangladesh",
-        "new zealand",
-        "maldives",
-        "malaysia",
-        "japan",
-        "indonesia"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Amazon\u2019s ultra-fast portable car tire pump is 40% off for cold fall mornings",
+      "description": "If you're already getting those low tire pressure alerts like me, you'll want this palm-sized inflator ready whenever you need it",
+      "link": "https://www.nj.com/shopping-deals/2026/11/amazons-ultra-fast-portable-car-tire-pump-is-40-off-for-cold-fall-mornings.html",
+      "source": "Nj",
+      "image": "https://www.nj.com/resizer/v2/OPWLOAPFCZD7PBVH5JKKQZRTEI.png?auth=f8bcbb3d0acc0a0edb7d3c957a07559d97e3d30862790cb5c50bee3bf88a10dc&smart=true&height=1200",
+      "published": "2026-11-06 16:37:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

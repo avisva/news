@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Their View: Trump plays politics with U.S. census",
+      "description": "Conducted once every 10 years, the U.S. census is the most reliable source of U.S. population data.",
+      "link": "https://www.heraldbulletin.com/opinion/their-view-trump-plays-politics-with-u-s-census/article_37c2168d-1b82-428e-9155-f5147460e152.html",
+      "source": "Herald Bulletin",
+      "image": null,
+      "published": "2026-11-06 16:38:00",
+      "category": [
+        "politics",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Cometary Impacts An Unlikely Pathway Towards The Origins Of Life On Earth",
+      "description": "[astro-ph.EP] An early period of cometary bombardment has long been speculated to provide an important source of prebiotic feedstock molecules, required for the origins of life on Earth. In support [\u2026] The post Cometary Impacts An Unlikely Pathway Towards The Origins Of Life On Earth appeared first on Astrobiology.",
+      "link": "https://astrobiology.com/2026/11/06/cometary-impacts-an-unlikely-pathway-towards-the-origins-of-life-on-earth/",
+      "source": "Astrobiology Web",
+      "image": "https://i0.wp.com/astrobiology.com/wp-content/uploads/2026/11/Cometary-.png?fit=1275%2C720&ssl=1",
+      "published": "2026-11-06 16:38:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

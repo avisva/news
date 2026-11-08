@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Report ranks nation's 20 most overweight and obese states as doctors warn of diabetes risks",
+      "description": "Just in time for National Diabetes Awareness Month, a new study has identified the 20 states that rank with the highest number of overweight and obese residents.",
+      "link": "https://www.fox4news.com/news/report-ranks-nations-20-most-overweight-obese-states-doctors-warn-diabetes-risks",
+      "source": "Fox 4 News Dallas-fort Worth",
+      "image": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/11/1107_getty-obesity-scaled.jpg",
+      "published": "2026-11-08 03:45:37",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

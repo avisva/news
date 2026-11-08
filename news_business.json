@@ -1,21 +1,49 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Anna's House Sets Nov. 16 Opening in Grand Blanc After Power Delay",
-      "description": "Anna's House will open its Grand Blanc, Michigan restaurant on Nov. 16, 2026, after a delay tied to electrical infrastructure work.",
-      "link": "https://hoodline.com/2026/11/anna-s-house-sets-nov-16-opening-in-grand-blanc-after-power-delay/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/11/anna-s-house-sets-nov-16-opening-in-grand-blanc-after-power-delay.webp",
-      "published": "2026-11-07 20:33:28",
+      "title": "20 Under 40 Rising Star - Melissa Zaremba",
+      "description": "Editor\u2019s note: This profile of the 20 Under 40 award winner first appeared in BIZ magazine, a publication of the Yuma Sun. The 20 Under 40 Rising Stars Awards, a partnership between BIZ and NexGen Leadership Council, recognizes 20 community\u2026",
+      "link": "https://www.yumasun.com/business/20-under-40-rising-star---melissa-zaremba/article_adf57c9f-d94d-4e24-9f64-7cbf642ad3bc.html",
+      "source": "Yuma Sun",
+      "image": "https://bloximages.newyork1.vip.townnews.com/yumasun.com/content/tncms/assets/v3/editorial/c/66/c66db6ef-0bd8-47c5-a932-b6d8d7968886/6a45df4fc157d.image.jpg?resize=300%2C200",
+      "published": "2026-11-08 03:46:00",
       "category": [
-        "crime",
-        "top",
         "business"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Wyandotte County voters reject sales tax proposals as residents weigh needs, costs",
+      "description": "Voters on Tuesday rejected two separate sales tax proposals: a countywide measure for health and homelessness services and a Kansas City, Kansas, measure for parks and infrastructure.",
+      "link": "https://www.kctv5.com/2026/11/08/wyandotte-county-voters-reject-sales-tax-proposals-residents-weigh-needs-costs/",
+      "source": "Kctv5 News",
+      "image": "https://gray-kctv-prod.gtv-cdn.com/resizer/v2/RIBBYJKDABEBHL2VJTX65CVIIM.png?auth=613921e69157530669fe7bee24b49c4b736185d099a42de3437cc6dc29de4b9c&width=1200&height=600&smart=true",
+      "published": "2026-11-08 03:45:35",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Pre-election polls understated right in NZ, with overhang skewing preliminary results",
+      "description": "Preliminary results from Saturday\u2019s New Zealand election indicate there are a total of 11 overhang seats , with parliament expanded from its nominal",
+      "link": "https://www.nationaltribune.com.au/pre-election-polls-understated-right-in-nz-with-overhang-skewing-preliminary-results/",
+      "source": "The National Tribune",
+      "image": null,
+      "published": "2026-11-08 03:45:27",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "australia"
       ]
     }
   ]

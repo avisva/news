@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Tesla plans to wind down Cybertruck production after sales slump",
+      "description": "Tesla Cybertruck production is winding down at Gigafactory Texas to make room for Cybercab robotaxi manufacturing, but key questions remain for owners.",
+      "link": "https://www.foxnews.com/tech/tesla-plans-wind-down-cybertruck-production-after-sales-slump",
+      "source": "Fox News",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tesla-cybertrucks-starbase-texas.jpg?ve=1&tl=1",
+      "published": "2026-11-08 12:30:56",
+      "category": [
+        "technology",
+        "science"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

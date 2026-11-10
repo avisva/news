@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Why prediction markets and Wall Street pros so often fail to see what\u2019s coming",
+      "description": "The probabilities make it almost certain that macro forecasts will be wrong far more often than right.",
+      "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
+      "source": "Marketwatch",
+      "image": "https://images.mktw.net/im-22442261",
+      "published": "2026-11-09 21:14:00",
+      "category": [
+        "top",
+        "science",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Researchers recreate the Lycurgus Cup's green-to-red glass shift",
+      "description": "Two thousand years ago, Roman glassmakers produced a chalice that defied simple observation. When light bounces off its surface, the Lycurgus Cup appears a vivid, toxic green. But if you shine a light through its thick walls, the glass transforms into a deep, ruby red. This is not a chemical trick or a trick of the eye; it is a specific physical behavior known as dichroism, where the material absorbs and transmits different wavelengths of light depending on the direction of the beam. For centuries, modern artisans could see the effect but could not replicate it. The recipe was lost, and the precise conditions required to suspend gold and silver nanoparticles in a molten glass matrix remained a mystery until a specific set of experimental trials at the University of Sheffield cracked the code. The Nanoscale Filter The mechanism behind the color shift relies on particles of gold and silver so small they are invisible to the naked eye. These nanoparticles act as filters. Their size and the way they are arranged within the glass determine which parts of the light spectrum are absorbed and which are allowed to pass. When light reflects off the exterior, the nanoparticles scatter and absorb the blue and green frequencies, leaving the green reflection dominant. However, when light passes *through* the material, the interaction shifts. The red wavelengths penetrate the structure, creating that intense crimson glow. Understanding the physics of this light-particle interaction is straightforward in theory, but achieving it in a furnace is an entirely different matter. It requires exact control over the melt temperature, the oxygen levels in the kiln, and the specific chemical mix of the raw materials, or the nanoparticles will clump together, ruin the transparency, or fail to produce the dichroic effect entirely. Mastering the Melt The breakthrough came not from a theoretical model alone, but from the hands-on expertise of Lisa Hollands, a technical specialist with over 25 years of experience working with glass. Working for the LightFest festival project, Hollands undertook a systematic series of tests. She did not simply add metals to a standard glass mix; she varied the oxygen levels in the furnace and tweaked the composition of the base materials to mimic ancient formulations. Supported by Professor Caroline Jackson, an expert in Roman glass analysis, Hollands moved through dozens of iterations. The goal was not just to make colorful glass, but to create a stable structure where the gold and silver particles remained dispersed at the nanoscale. Her success was measured in the consistency of the result: batches of glass that reliably showed the same opaque green in reflection and the same deep red in transmission, proving that the physical properties had been successfully replicated under laboratory-controlled conditions.",
+      "link": "https://english.pravda.ru/news/science/172090-lycurgus-cup-glass-recreation/",
+      "source": "Pravda",
+      "image": "https://english.pravda.ru/pix/logo200.png",
+      "published": "2026-11-09 21:14:00",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "russia"
+      ]
+    }
+  ]
 }

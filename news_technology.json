@@ -1,66 +1,35 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Belfast Rockers Unquiet Nights Return With New Single \u201cLast Days Of Rome\u201d",
-      "description": "Spotify I YouTube I Soundcloud I Website I Wikipedia I Bandcamp I Facebook I Instagram I TikTok BELFAST, Northern Ireland, Nov. 9, 2026 /PRNewswire/ \u2014 Unquiet Nights are marking the next chapter of their story with \u201cLast Days of Rome,\u201d a standalone single out now, and one that carries the weight of six years the band spent [\u2026]",
-      "link": "https://celebrityhint.com/belfast-rockers-unquiet-nights-return-with-new-single-last-days-of-rome/",
-      "source": "Celebrity Hint",
-      "image": "https://celebrityhint.com/wp-content/uploads/2026/11/Unquiet-Nights-Last_Days_of_Rome.jpg",
-      "published": "2026-11-09 13:52:00",
-      "category": [
-        "top",
-        "technology",
-        "entertainment"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Livingyards contracts KONE via Middle East Partner United Elevators to supply and install elevators and escalators across real estate projects",
-      "description": "This approach supports its expansion plans and elevates the level of technical and technological solutions within its residential, commercial, administrative, and service projects",
-      "link": "https://www.zawya.com/en/press-release/companies-news/livingyards-contracts-kone-via-middle-east-partner-united-elevators-to-supply-and-install-elevators-and-escalators-across-real-estate-projects-2138228",
-      "source": "Zawya",
-      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/3844a88b7e61-00.webp",
-      "published": "2026-11-09 13:52:00",
+      "title": "American Vanguard Reports Third Quarter 2026 Results",
+      "description": "Strategic Deals in Quarter Expand U.S. Product PortfolioConsolidation Driving Manufacturing Efficiency GainsEl Nino and Geopolitics Pressure Global Agricultural Markets IRVINE, CA / ACCESS Newswire...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70079684-american-vanguard-reports-third-quarter-2026-results-200.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-american-vanguard-corporation-aktie-intraklein-frankfurt.png",
+      "published": "2026-11-09 21:14:00",
       "category": [
         "top",
         "business",
         "technology"
       ],
       "country": [
-        "united arab emirates"
+        "germany"
       ]
     },
     {
-      "title": "12 Unusual Jobs That Disappeared When Cars Became Common",
-      "description": "Discover 12 unusual historical jobs that completely disappeared when cars and trucks replaced horse-drawn transportation in the early 20th century.",
-      "link": "https://us.headtopics.com/news/12-unusual-jobs-that-disappeared-when-cars-became-common-89690366",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/11/9/aollifestyle/12-unusual-jobs-that-disappeared-when-cars-became--12-unusual-jobs-that-disappeared-when-cars-became--72DEC82658579D0019342FBBF60685E5-16x9.webp",
-      "published": "2026-11-09 13:52:00",
-      "category": [
-        "top",
-        "technology"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Xcode 27 requirement: what breaks before April 2027",
-      "description": "Originally published on AppRanker. The Xcode 27 requirement lands in April 2027, and it is not just \"bump Xcode and archive.\" From that month, App Store Connect rejects uploads built with older SDKs, your iOS minimum moves to 15, and the Info.plist key that kept your app out of Liquid Glass stops doing anything. Here is what changes, the commands to audit each app in a few minutes, and a month-by-month plan so the cutoff never blocks a hotfix. What Apple actually requires Apple announced the rule on September 9, 2026, the same day iOS 27 submissions opened. It applies to every upload, TestFlight builds included, not just App Store releases. Platform From April 2027 iOS and iPadOS iOS & iPadOS 27 SDK or later, deployment target iOS 15 or later tvOS tvOS 27 SDK or later visionOS visionOS 27 SDK or later watchOS watchOS 27 SDK or later macOS apps are not on the list. The exact day has not been published, and an Apple DTS engineer declined to give one on the developer forums. History is a decent guide, though: the Xcode 15 cutoff started on April 29, 2024 and the Xcode 26 cutoff on April 28, 2026. Treat the last week of April as the wall and plan to be done well before it. One nuance on the deployment target: it rises twice. Since September 9, 2026 the floor is iOS 13. In April 2027 it becomes iOS 15. Before you drop iOS 14 and older, check your analytics to see how many active users are still on them. Three things that will surprise you 1. The Liquid Glass opt-out goes away. Building against the iOS 27 SDK (and the matching iPadOS, Mac Catalyst, macOS and tvOS 27 SDKs) makes the system ignore UIDesignRequiresCompatibility. Your shipped binaries keep their current look until you rebuild, but the first upload after you switch to Xcode 27 gets the new design whether you planned for it or not. If your team leaned on that key to postpone a redesign, the postponement ends here. 2. Your Mac or CI runner may be too old. Xcode 27, 27.1 and the 27.2 RC need macOS Tahoe 26.6 or newer. Xcode 26 through 26.3 ran on macOS Sequoia 15.6, so a release machine that has been fine for a year can suddenly be unable to archive. Xcode 27 also ships the Swift 6.4 compiler, so expect a round of new warnings and errors. 3. Other rules arrive in the same window. iPhone Duo screenshots become required in April 2027 according to App Store Connect release notes from October 15, 2026. Apps with social media features must also say so in the age rating questions. And macOS 27 drops Intel Macs entirely, which matters if any of your build hardware is still Intel. Audit every app in five minutes Start by confirming what each machine and project actually uses: xcodebuild -version xcodebuild -showsdks xcrun --sdk iphoneos --show-sdk-version # point the command line tools at Xcode 27 sudo xcode-select -s /Applications/Xcode_27.app # list every deployment target in the project xcodebuild -showBuildSettings -project MyApp.xcodeproj \\ | grep IPHONEOS_DEPLOYMENT_TARGET | sort -u Then look for the compatibility key and inspect what a built app reports. DTSDKName and DTXcode show the SDK and Xcode used, and MinimumOSVersion shows the real floor: grep -rl \"UIDesignRequiresCompatibility\" --include=\"*.plist\" . plutil -p MyApp.app/Info.plist \\ | grep -E \"UIDesignRequiresCompatibility|DTSDKName|DTXcode|MinimumOSVersion\" Raising the floor to iOS 15 The target has to move everywhere, not just on the main app. Extensions and widgets are the usual misses. Xcode project or xcconfig: IPHONEOS_DEPLOYMENT_TARGET = 15.0 on every target. Swift packages you own: platforms: [.iOS(.v15)] in Package.swift. CocoaPods: platform :ios, '15.0' in the Podfile, plus a hook that lifts any pod still below 15: post_install do |installer| installer.pods_project.targets.each do |target| target.build_configurations.each do |config| if config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'].to_f < 15.0 config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.0' end If you ship with React Native or Flutter, check your framework's release notes for official Xcode 27 support first. Do the upgrade on a branch and get the native iOS CI build green before anyone starts feature work on top of it, because early community reports already mention breakage on both. A month-by-month plan Month Do this Now to Nov 2026 Audit Xcode, SDKs, deployment targets and the compatibility key. Move Macs and CI to macOS Tahoe 26.6+ Dec 2026 Build with Xcode 27 on a branch, fix errors, raise targets to iOS 15, update dependencies Jan 2027 Remove the opt-out key, finish the design pass, test on real devices including iPhone Duo Feb 2027 Ship the first Xcode 27 build to TestFlight, then the App Store. Prepare iPhone Duo screenshots Mar 2027 Hold a buffer for rejections and hotfixes. Every release is now an Xcode 27 build Apr 2027 Cutoff. Uploads from older SDKs stop being accepted Keep big launches and marketing pushes out of March and April so a surprise rejection does not collide with them. What if you miss it? Your live version stays up, since the rule governs uploads. But you lose the ability to ship anything: no bug fixes, no features, no TestFlight builds until you move to Xcode 27. That is a bad place to be when a crash report comes in. Key takeaways From April 2027, every App Store Connect upload, TestFlight included, needs the version 27 SDKs. iOS and iPadOS apps must target iOS 15 or later; today's floor is iOS 13. UIDesignRequiresCompatibility is ignored with the iOS 27 SDK, so plan your Liquid Glass pass now. Xcode 27 needs macOS Tahoe 26.6+, so update release Macs and CI images early. Ship your first Xcode 27 build by March 2027 to leave room for rejections. The full Xcode 27 requirement prep guide on AppRanker has the complete checklist and FAQ, and you can browse more App Store and Google Play release guides for app makers there too. Have you already built with Xcode 27, and what broke first for you: the Liquid Glass switch, Swift 6.4, or your CI image?",
-      "link": "https://dev.to/extensionbooster/xcode-27-requirement-what-breaks-before-april-2027-1kh1",
-      "source": "Dev Community",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fappranker.net%2Fblog%2Fxcode-27-requirement%2Fcover.jpg",
-      "published": "2026-11-09 13:51:53",
+      "title": "This $63 AI Deal Gives You Lifetime Access to Claude, Gemini and 20+ AI Models Ahead of Black Friday - CNET",
+      "description": "This $63 AI Deal Gives You Lifetime Access to Claude, Gemini and 20+ AI Models Ahead of Black Friday CNET AskAnyModel Puts Six AI Responses Side by Side for Just $39.99 TechPowerUp Bring ChatGPT, Gemini, and more into one lifetime workspace for just $79 Mashable Hopkinsville readers: Explore the $69.97 1min.AI lifetime deal Christian County Now Get GPT, Claude & Gemini access through 1min.AI for only $79.99 BleepingComputer",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qYWtac29yWkltc2pEaWNRbzZtTnNSb1RQN2poc01hRGtveG13LXhNNnlvRWp3dUt0b3JEdnUyUXVCU2hLcU1IaEt2eDNpRnN6UHRJdDVpdTVUbW85ZU1DNEF2THc0QQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-09 21:14:00",
       "category": [
         "technology"
       ],
       "country": [
-        "united states of america"
+        "singapore"
       ]
     }
   ]

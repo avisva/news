@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "FDA adds warning about rare vision loss to popular GLP-1s",
-      "description": "The FDA will now require makers of GLP-1s like Ozempic and Zepbound to add a warning about a rare condition causing vision loss to the drugs' labels.",
-      "link": "https://www.mor-tv.com/article/fda-glp-1-vision-loss-naion/74379027",
-      "source": "Mor Tv",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/e24c496e-71a0-4186-8708-f392ea76ca59.jpg",
-      "published": "2026-11-09 21:14:00",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

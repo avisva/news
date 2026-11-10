@@ -1,21 +1,35 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "JUSAG, SSAJUG suspend strike from November 10",
-      "description": "According to the statement, the leadership of JUSAG and SSAJUG on Monday received official correspondence from the Office of the President regarding the outstanding issues on the review of salaries and related allowances for staff.",
-      "link": "https://3news.com/news/jusag-ssajug-suspend-strike-from-november-10",
-      "source": "3news",
-      "image": "https://media.3news.com/r16-x5-logo-of-the-judicial-service-staff-association-of--v2-1200x630.webp",
-      "published": "2026-11-09 21:13:54",
+      "title": "G7 diplomats speak out on Taiwan as China ramps up military drills",
+      "description": "Taiwan said Tuesday that Beijing is carrying out \"area denial\" drills in the western Pacific involving an aircraft carrier and other naval formations.",
+      "link": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/japan-g7-china-taiwan-military/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573157.JPG",
+      "published": "2026-11-10 05:28:00",
       "category": [
         "top",
-        "politics",
-        "business"
+        "politics"
       ],
       "country": [
-        "ghana"
+        "japan"
+      ]
+    },
+    {
+      "title": "Rivers community that forbids female dogs explains tradition to NYSC members",
+      "description": "In the past, the King would order it killed. But in this modern society, you cannot order the killing of the female dog\"The post Rivers community that forbids female dogs explains tradition to NYSC members appeared first on Vanguard News.",
+      "link": "https://www.latestnigeriannews.com/p/457513/rivers-community-that-forbids-female-dogs-explains-tradition-to-nysc-members.html",
+      "source": "Latest Nigerian News",
+      "image": null,
+      "published": "2026-11-10 05:27:51",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "nigeria"
       ]
     }
   ]

@@ -1,35 +1,51 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "G7 diplomats speak out on Taiwan as China ramps up military drills",
-      "description": "Taiwan said Tuesday that Beijing is carrying out \"area denial\" drills in the western Pacific involving an aircraft carrier and other naval formations.",
-      "link": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/japan-g7-china-taiwan-military/",
-      "source": "The Japan Times",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/10/573157.JPG",
-      "published": "2026-11-10 05:28:00",
+      "title": "EFF, ActionSA and ANC kick off coalition talks as fight for Johannesburg, Tshwane and Ekurhuleni metros intensifies",
+      "description": "ActionSA has met with the EFF to kickoff coalitions talks on Monday.",
+      "link": "https://iol.co.za/news/politics/2026-11-10-eff-actionsa-and-anc-kick-off-coalition-talks-as-fight-for-johannesburg-tshwane-and-ekurhuleni-metros-intensifies/",
+      "source": "Iol",
+      "image": "https://iol-prod.appspot.com/image/8ba4240cf887bf91cd6edc670776710532cb964d",
+      "published": "2026-11-10 10:49:00",
       "category": [
-        "top",
         "politics"
       ],
       "country": [
-        "japan"
+        "south africa"
       ]
     },
     {
-      "title": "Rivers community that forbids female dogs explains tradition to NYSC members",
-      "description": "In the past, the King would order it killed. But in this modern society, you cannot order the killing of the female dog\"The post Rivers community that forbids female dogs explains tradition to NYSC members appeared first on Vanguard News.",
-      "link": "https://www.latestnigeriannews.com/p/457513/rivers-community-that-forbids-female-dogs-explains-tradition-to-nysc-members.html",
-      "source": "Latest Nigerian News",
-      "image": null,
-      "published": "2026-11-10 05:27:51",
+      "title": "Falkland Islands row explode as Argentina calls for court to block major project",
+      "description": null,
+      "link": "https://www.express.co.uk/news/world/2264907/falkland-islands-argentina-Sea-Lion-project",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/78/237x141/2264907_1.jpg",
+      "published": "2026-11-10 10:49:00",
       "category": [
         "top",
-        "politics"
+        "politics",
+        "business"
       ],
       "country": [
-        "nigeria"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Peru gets ready to welcome Pope Leo XIV on his South America tour",
+      "description": "Pope Leo XIV continued his South American tour on Wednesday, November 11, with a visit to Peru, after stops in Uruguay and Argentina. The American-born pontiff lived in Peru for several years and even became a Peruvian citizen. Ahead of his arrival, the country unveiled a giant statue in his honour.",
+      "link": "https://www.france24.com/en/video/20261110-peru-gets-ready-to-welcome-pope-leo-xiv-on-his-south-america-tour",
+      "source": "France 24",
+      "image": "https://s.france24.com/media/display/00e3970e-dcf1-11f1-a046-29048b396e03/w:1024/p:16x9/2026-11-10T025534Z-1494237382-RC2KKOA1WTJ1-RTRMADP-3-POPE-LATAM-ARGENTINA.jpg",
+      "published": "2026-11-10 10:48:57",
+      "category": [
+        "top",
+        "politics",
+        "lifestyle"
+      ],
+      "country": [
+        "france"
       ]
     }
   ]

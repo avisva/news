@@ -1,5 +1,43 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Vector\u2019s CANoe Emulation Package EV emulates charging stations from recorded sessions",
+      "description": "Vector Informatik has introduced the CANoe Emulation Package EV, which uses recorded charging sessions to recreate charging station behavior in the lab for EV charging communication and interoperability testing. Key... Read more \u00bb",
+      "link": "https://chargedevs.com/newswire/vectors-canoe-emulation-package-ev-emulates-charging-stations-from-recorded-sessions/",
+      "source": "Charged Electric Vehicles Magazine",
+      "image": "https://chargedevs.com/wp-content/uploads/2026/11/Vector_CANoe_Emulation_Package_EV_PressRelease_202611_Graphic1.jpg",
+      "published": "2026-11-10 14:30:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "The Witcher 3\u2019s New Expansion Has Me Wondering if BioWare Should Have Focused on Dragon Age and Mass Effect DLC Rather Than Big New Games",
+      "description": "The studio should\u2019ve been developing more short stories rather than experimental epics. This is an opinion piece from writer Jess Kinghorn. IGN's opinion columns represent the personal viewpoints of the writer, drawing on their own experiences and research to explore the exciting world of video games. Unless you\u2019ve been camping out on some far flung space rock, you\u2019ll have heard that EA \u2026",
+      "link": "https://sea.ign.com/mass-effect-legendary-edition/251758/the-witcher-3s-new-expansion-has-me-wondering-if-bioware-should-have-focused-on-dragon-age-and-mass",
+      "source": "Ign Southeast Asia",
+      "image": "https://sm.ign.com/ign_ap/feature/t/the-witche/the-witcher-3s-new-expansion-has-me-wondering-if-bioware-sho_7cgc.jpg",
+      "published": "2026-11-10 14:30:00",
+      "category": [
+        "entertainment",
+        "technology"
+      ],
+      "country": [
+        "philippines",
+        "vietnam",
+        "myanmar",
+        "indonesia",
+        "cambodia",
+        "malaysia",
+        "brunei",
+        "thailand",
+        "singapore"
+      ]
+    }
+  ]
 }

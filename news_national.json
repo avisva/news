@@ -1,5 +1,21 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "Bulls on Parade: Physical Natural Gas Prices March Higher",
+      "description": "Looming weather-driven consumption, strong export demand and softer output sustained upward momentum across much of the natural gas spot market on Tuesday.",
+      "link": "https://naturalgasintel.com/news/bulls-on-parade-physical-natural-gas-prices-march-higher/",
+      "source": "Naturalgasintel",
+      "image": "https://apppack-app-naturalgasintel-prod-publics3bucket-8jv5bxjtvpgq.s3.amazonaws.com/images/NGI_Daily_Prices_19.width-900.format-webp.webp",
+      "published": "2026-11-10 22:17:52",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

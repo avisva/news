@@ -1,21 +1,122 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 8,
   "results": [
     {
-      "title": "Funeral service announced for Bob Mills, founder of Oklahoma furniture stores",
-      "description": "A public funeral service for Bob Mills, founder of furniture stores across several states, is set for Tuesday in Oklahoma City.",
-      "link": "https://www.koco.com/article/bob-mills-funeral-service-oklahoma-city/74403481",
-      "source": "Koco News Channel Five",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/5b38f592-1f33-4a4d-9d7a-8e6ac9ef59dd.png",
-      "published": "2026-11-11 21:16:00",
+      "title": "StarHub Q3 Profit, EBITDA Drop, Sales Rise; Updates FY26 EBITDA View",
+      "description": "SINGAPUR (dpa-AFX) - Singapore telecom company StarHub Ltd (SRHBF, CC3.SI) reported Thursday sharply lower profit and EBITDA, a key earnings metric, in its third quarter, despite growth in revenue...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70106241-starhub-q3-profit-ebitda-drop-sales-rise-updates-fy26-ebitda-view-020.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-starhub-ltd-aktie-intraday-frankfurt.png",
+      "published": "2026-11-12 05:54:00",
       "category": [
         "top",
-        "business",
-        "lifestyle"
+        "business"
       ],
       "country": [
-        "united states of america"
+        "germany"
+      ]
+    },
+    {
+      "title": "Tennessee American Water Issues Another PFAS Settlement Credit To Customers",
+      "description": "WASHINGTON (dpa-AFX) - Tennessee American Water, a unit of water and wastewater utility firm American Water Works Company, Inc. (AWK), said that customers will receive additional bill credits from...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70106240-tennessee-american-water-issues-another-pfas-settlement-credit-to-customers-020.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://www.finanznachrichten.de/chart-american-water-works-company-inc-aktie-intraklein-tradegate.png",
+      "published": "2026-11-12 05:54:00",
+      "category": [
+        "business",
+        "top",
+        "environment"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "Why Is Core Lithium (ASX:CXO) Seeking a Bigger Board Fee Pool? - Kalkine Media",
+      "description": "Core Lithium will ask owners to lift its non-executive fee pool and adopt a new constitution as Finniss nears its initial shipment.",
+      "link": "https://kalkinemedia.com/au/stocks/lithium/why-is-core-lithium-asxcxo-seeking-a-bigger-board-fee-pool",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_573121573_11_12_2026_05_58_36_033569.jpg",
+      "published": "2026-11-12 05:54:00",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "BERNOS: SUBSIDIZE SOLAR POWER INSTALLATIONS",
+      "description": "\u201cBaka naman pwede rin gayahin.\u201d This was Abra lone district Rep. JB Bernos\u2019 response to news that a neighboring country is set to help finance a shift to solar energy for its residents. Thailand recently launched a THB 50-billion (around USD 1.48 billion) nationwide home solar program that will allow households to receive support for [\u2026] The post BERNOS: SUBSIDIZE SOLAR POWER INSTALLATIONS appeared first on IKOT.PH.",
+      "link": "https://www.ikot.ph/bernos-subsidize-solar-power-installations/",
+      "source": "Ikot",
+      "image": "https://www.ikot.ph/wp-content/uploads/2026/11/3-REC_11-12-2026_jbernos.jpg",
+      "published": "2026-11-12 05:53:59",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Indonesia Vice-President Gibran hands in his resignation to upper house",
+      "description": "Parliamentary leaders will now convene to discuss the next steps, upper house speaker says",
+      "link": "https://www.businesstimes.com.sg/international/asean/indonesia-vice-president-gibran-hands-his-resignation-upper-house",
+      "source": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/6ba3eb30771db99c0037dbbba816e7e48bb1fa43268edcca6732df92cc11b2f5",
+      "published": "2026-11-12 05:53:58",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Unfazed by Taiwan suspending investment talks, Anwar says numbers going up",
+      "description": "PARLIAMENT | PM says bilateral trade remains strong, with both exports and imports increasing.",
+      "link": "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up",
+      "source": "Malaysiakini",
+      "image": "https://s.malaysiakini.com/i/dm6kf9giUTW_rQb0coIUvs9Dy2Y=/900x0/filters:strip_exif()/file/attachments/889/melako_388113.jpeg",
+      "published": "2026-11-12 05:53:58",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "Telegram CEO Pavel Durov Mocks Jensen Huang Affair Row: 'Not One Spy Girl Sent My Way'",
+      "description": "Durov holds Russian, French and UAE citizenship, and Telegram is based in the UAE.",
+      "link": "https://www.ndtvprofit.com/trending/telegram-ceo-pavel-durov-mocks-jensen-huang-affair-row-not-one-spy-girl-sent-my-way-12315767",
+      "source": "Ndtv Profit",
+      "image": "https://c.ndtvimg.com/2024-07/t2tb1nrg_durov_625x300_30_July_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "published": "2026-11-12 05:53:57",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "China\u2019s central bank vows ample liquidity and yuan stability in Q3 monetary policy report",
+      "description": "China's PBoC pledges counter-cyclical support, ample liquidity and targeted credit for demand, tech and small businesses; Shanghai shares gain 0.1%.",
+      "link": "https://seekingalpha.com/news/4671106-chinas-central-bank-vows-ample-liquidity-and-yuan-stability-in-q3-monetary-policy-report?feed_item_type=news",
+      "source": "Seeking Alpha",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322520591/image_1322520591.jpg?io=getty-c-w1280",
+      "published": "2026-11-12 05:53:56",
+      "category": [
+        "business"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

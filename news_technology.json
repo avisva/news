@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Batu Kawa eyes 12km ART Yellow Line to serve over 300,000 potential riders",
+      "description": "By Karen Bong KUCHING, Nov 12: The proposed 12-kilometre expansion of Sarawak\u2019s Autonomous Rapid Transit (ART) system to Batu Kawa, designated as the Yellow Line, could serve more than 300,000 potential riders, Deputy Premier Datuk Amar Dr Sim Kui Hian said. He said the proposed expansion was crucial as Batu Kawa continued to experience rapid [\u2026]",
+      "link": "https://dayakdaily.com/batu-kawa-eyes-12km-art-yellow-line-to-serve-over-300000-potential-riders/",
+      "source": "Dayakdaily",
+      "image": "https://i0.wp.com/dayakdaily.com/wp-content/uploads/2026/11/900606506_1075921245489795_6327812510545332328_n.jpg?fit=800%2C600&ssl=1",
+      "published": "2026-11-12 05:53:56",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "OpenAI launches Business Hub beta, letting firms claim ChatGPT profiles",
+      "description": "OpenAI\u2019s new Business Hub, launched on 10 November, enables eligible businesses to claim, edit and monitor their ChatGPT listings, though Kenyan physical stores must wait for US\u2011based listings.",
+      "link": "https://kenya-today.com/report-openai-launches-business-hub-beta-letting-firms-claim-chatgpt-profiles-25634/",
+      "source": "Kenya Today",
+      "image": "https://tech-ish.com/wp-content/uploads/2026/11/chatgpt-business-hub-hero.jpg",
+      "published": "2026-11-12 05:53:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "kenya"
+      ]
+    }
+  ]
 }

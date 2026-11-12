@@ -1,20 +1,112 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 7,
   "results": [
     {
-      "title": "Democrats face backlash after missing Hegseth impeachment vote",
-      "description": null,
-      "link": "https://www.bundle.app/en/breaking-news/democrats-face-backlash-after-missing-hegseth-impeachment-vote-403E5EBC-E42D-55D8-AC72-14187A0F743C",
-      "source": "Bundle",
-      "image": "https://static.bundle.app/news/1a15bb19-8a2c-50b1-b4a1-81adfc2cdfdd.jpg",
-      "published": "2026-11-11 21:15:55",
+      "title": "Minister Matawalle urges Seyi Tinubu to sustain Renewed Hope campaign",
+      "description": "The Minister of State for Defence, Bello Matawalle, has urged President Bola Tinubu\u2019s son, Seyi Tinubu, to sustain the promotion of the Renewed Hope Agenda and maintain the momentum of the City Boy Movement. Matawalle made the call when he received Seyi on a courtesy visit to his Abuja residence... The post Minister Matawalle urges Seyi Tinubu to sustain Renewed Hope campaign appeared first on THE AUTHORITY NEWS.",
+      "link": "https://authorityngr.com/2026/11/12/minister-matawalle-urges-seyi-tinubu-to-sustain-renewed-hope-campaign/",
+      "source": "The Authority News",
+      "image": "https://authorityngr.com/wp-content/uploads/2026/11/1001619330.jpg",
+      "published": "2026-11-12 05:54:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "South Korea watches possible Trump-Xi-Putin summit at APEC",
+      "description": "South Korea is closely monitoring a possible trilateral meeting between Donald Trump, Xi Jinping and Vladimir Putin at the APEC summit, citing potential talks on North Korea and the Korean Peninsula.",
+      "link": "https://www.koreajoongangdaily.com/korea/seoul-watches-possible-trumpxiputin-summit-at-apec/12969737",
+      "source": "Koreajoongangdaily Joins News",
+      "image": null,
+      "published": "2026-11-12 05:54:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "south korea"
+      ]
+    },
+    {
+      "title": "Voters back referendum for Markham to take control of separate park district amid financial woes",
+      "description": "A referendum on the midterm ballot asked voters if the city should take over the park district, with 92% voting in favor.",
+      "link": "https://us.headtopics.com/news/voters-back-referendum-for-markham-to-take-control-of-89776064",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/12/cbschicago/voters-back-referendum-for-markham-to-take-control-voters-back-referendum-for-markham-to-take-control-841AC4D9D14C60A6B8718286D887C554-16x9.webp",
+      "published": "2026-11-12 05:54:00",
       "category": [
         "top",
         "politics"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "USF Nursing Professor Detained by ICE for Nearly Two Months",
+      "description": "University of San Francisco professor Dr. Ann Lawani remains in federal immigration custody despite a judge's order, sparking concern among colleagues and lawmakers.",
+      "link": "https://us.headtopics.com/news/usf-nursing-professor-detained-by-ice-for-nearly-two-months-89776058",
+      "source": "Headtopics",
+      "image": null,
+      "published": "2026-11-12 05:54:00",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Indonesia\u2019s Vice-President Gibran hands resignation to parliament as Jokowi backs Prabowo",
+      "description": "Parliamentary leaders will now convene to discuss next steps, upper house speaker says",
+      "link": "https://www.businesstimes.com.sg/international/asean/indonesias-vice-president-gibran-hands-resignation-parliament-jokowi-backs-prabowo",
+      "source": "The Business Times",
+      "image": "https://cassette.sphdigital.com.sg/image/businesstimes/665c98bcf65aacd5717d3fcc15c0c7e0f3f655c42a26352ceb7423e391726ebf",
+      "published": "2026-11-12 05:53:58",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "State development body shuts down council approved homeless park",
+      "description": "The park was given the council tick of approval in August. On Thursday, the state voiced its displeasure.",
+      "link": "https://www.watoday.com.au/national/queensland/state-development-body-shuts-down-council-approved-homeless-park-20261112-p61dq0.html",
+      "source": "Watoday",
+      "image": "https://static.ffx.io/images/$zoom_1.1461%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_1065/t_crop_custom/q_86%2Cf_auto/667c525dce2d38550e1b9c20c0b14c49c7488763",
+      "published": "2026-11-12 05:53:57",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Manipur: 80-kg Rocket, Chinese Mortars and IEDs Recovered in Churachandpur",
+      "description": "The recovery was made during a joint operation conducted by district police and the Army in a forested area near P Geljang village under Kangvai sub-division",
+      "link": "https://www.sentinelassam.com/breakingnews/manipur-80-kg-rocket-chinese-mortars-and-ieds-recovered-in-churachandpur",
+      "source": "The Sentinel",
+      "image": "https://media.assettype.com/sentinelassam-english/2026-11-12/5u6ts5fl/image-2026-11-12T112155.775.png",
+      "published": "2026-11-12 05:53:55",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

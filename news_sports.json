@@ -1,16 +1,17 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 5,
   "results": [
     {
-      "title": "GTA 6 isn't out yet. Presales have topped $1 billion",
-      "description": "GTA 6 isn't even out yet, but presales have already topped $1 billion. Here's what to know before the game's release.",
-      "link": "https://www.dailycomet.com/story/tech/gaming/2026/11/12/gta-6-presales-1-billion-release-date/92738910007/",
-      "source": "Daily Comet",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/11/06/USAT/92642462007-jason-and-lucia-17117-b-11-r-13-mg-5.jpg?auto=webp&crop=3839,2159,x0,y0&format=pjpg&width=1200",
-      "published": "2026-11-12 11:12:00",
+      "title": "Bears fans of the United Kingdom",
+      "description": "Bears fans of the United Kingdom Story by Gabby Hajduk In October, the Bears embarked on their first-ever UK Grand Tour, visiting all four nations of the United Kingdom during a three-week trip. The organization hosted brand pop-ups and fan events in Bournemouth, Cardiff, Leeds, Glasgow and Belfast, getting more than a thousand fans to turn out during the tour. ChicagoBears.com spoke",
+      "link": "http://www.miamimirror.com/news/279429107/bears-fans-of-the-united-kingdom",
+      "source": "Miami Mirror",
+      "image": "https://chitra-api.kreatio.com/api/v1/wps/191d632/df243a92-08c4-4ff0-8538-3cb1b32f44e1/0/ZDU3YTc1ZDUtOTE-600x315.jpg",
+      "published": "2026-11-12 17:02:00",
       "category": [
         "top",
+        "entertainment",
         "sports"
       ],
       "country": [
@@ -18,17 +19,61 @@
       ]
     },
     {
-      "title": "Gary Neville fumes at \u2018classless\u2019 Man Utd handling of Michael Carrick",
-      "description": "Carrick has taken training this week despite appearing to be on the verge of the sack.",
-      "link": "https://www.countypress.co.uk/sport/national/26722520.gary-neville-fumes-classless-man-utd-handling-michael-carrick/",
-      "source": "County Press",
-      "image": null,
-      "published": "2026-11-12 11:11:59",
+      "title": "Stephen Curry Injury Update, Latest News and Timeline to Return for Warriors Star",
+      "description": "Golden State Warriors star Stephen Curry will miss at least two weeks with an oblique abdominal tear, the team announced Thursday:",
+      "link": "https://bleacherreport.com/articles/25513035-stephen-curry-injury-update-latest-news-and-timeline-return-warriors-star",
+      "source": "Bleacherreport",
+      "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300577550_large_cropped.jpg",
+      "published": "2026-11-12 17:02:00",
       "category": [
         "sports"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "ATP Finals groups revealed as Alcaraz, Zverev and Shelton discover their opponents",
+      "description": "The groups for the 2026 ATP Finals have been confirmed, with Carlos Alcaraz, Alexander Zverev, Ben Shelton and Daniil Medvedev discovering their round-robin opponents ahead of the season-ending tournament in Turin.",
+      "link": "https://www.yardbarker.com/tennis/articles/atp_finals_groups_revealed_as_alcaraz_zverev_and_shelton_discover_their_opponents/s1_17460_44552304",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/c/f/cf5b0a2e9e999f60dfb380ad4b525ce7a4de350f/thumb_16x9/tennis-open-flushing-meadows-new-york-united.jpg?v=1",
+      "published": "2026-11-12 17:02:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "EPL: Manchester United \u2018s Amad Diallo fails to score under Carrick",
+      "description": "Ivory Coast international Amad Diallo is yet to score a goal under Manchester United head coach Michael Carrick, both during the Englishman\u2019s initial caretaker spell [...]",
+      "link": "https://blueprint.ng/epl-manchester-united-s-amad-diallo-fails-to-score-under-carrick/",
+      "source": "Blueprint Newspapers",
+      "image": "https://blueprint.ng/wp-content/uploads/2026/11/1794502320760.jpg",
+      "published": "2026-11-12 17:02:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "More Than Half of Video Game Workers Laid Off Over the Past Two Years Are Still Unemployed, GDC Industry Report Finds",
+      "description": "One third of video game industry workers say they have been laid off over the past 24 months, and more than half of those surveyed haven't found a new job.",
+      "link": "https://us.headtopics.com/news/more-than-half-of-video-game-workers-laid-off-over-the-past-89795965",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/12/variety/more-than-half-of-video-game-workers-laid-off-over-more-than-half-of-video-game-workers-laid-off-over-220B9F901074791EBFE17F9565ED03EC-16x9.webp",
+      "published": "2026-11-12 17:02:00",
+      "category": [
+        "top",
+        "politics",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

@@ -1,83 +1,20 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Gut bacteria plays a huge role in vaccine side effects",
-      "description": "Gut bacteria that make a protein called flagellin keep low-grade inflammation going, and the people carrying more of them ran a fever.",
-      "link": "https://www.earth.com/science/gut-bacteria-plays-a-huge-role-in-vaccine-side-effects/",
-      "source": "Earth.com",
-      "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/10/11204904/vaccine-side-effects-mrna_1m.jpg",
-      "published": "2026-11-12 11:12:00",
+      "title": "BODYWELLE: Men's Health Matters: A Night of Wellness, Education & Connection",
+      "description": "Community health initiative highlights the connections between metabolic function, nutrition, hormonal balance, and sexual health in men. MIAMI BEACH, FL / ACCESS Newswire / November 12, 2026 / BOD...",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-11/70116011-bodywelle-men-s-health-matters-a-night-of-wellness-education-connection-200.htm",
+      "source": "Finanznachrichten.de",
+      "image": "https://app.accessnewswire.com/imagelibrary/e8272840-7aac-4f90-b5ee-2a39872f4316/1250187/bodywelle-pr-november-event-2026.jpg",
+      "published": "2026-11-12 17:02:00",
       "category": [
         "top",
         "health"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Brigham nurses reach tentative contract deal, averting open-ended strike",
-      "description": "The tentative agreement means nurses will report to work as usual Thursday instead of picketing. Hospital officials will not use the hundreds of temporary workers they had hired and begun training to keep the hospital open during the strike.",
-      "link": "https://us.headtopics.com/news/brigham-nurses-reach-tentative-contract-deal-averting-89784758",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/11/12/wbur/brigham-nurses-reach-tentative-contract-deal-avert-brigham-nurses-reach-tentative-contract-deal-avert-066A0BEB8162A69E6B9C731D39E85864-16x9.webp",
-      "published": "2026-11-12 11:12:00",
-      "category": [
-        "top",
-        "business",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Ohio State Wexner Medical Center and Microsoft Announce Five-Year Partnership to Develop Smart Hospitals",
-      "description": "The initiative will initially focus on deploying connected hospital operations and migrating 70% to 80% of the medical center\u2019s enterprise storage and compute workloads to Microsoft Azure. The Ohio State University Wexner Medical Center and Microsoft Corp. have announced a five-year strategic partnership to co-develop a Smart Hospital model, combining clinical systems, facility management, cloud infrastructure and artificial intelligence (AI). The initiative will initially focus on deploying connected hospital operations and migrating 70% to 80% of the medical center\u2019s enterprise storage and compute workloads to Microsoft Azure. The partnership will integrate Microsoft Azure, Internet of Things (IoT) technology and AI to improve hospital operations, optimize resource utilization and support clinical care. The smart hospital architecture is already operational at the Richard M. Ross Heart Hospital and James Outpatient Care facility, where it is being used to optimize energy consumption, room occupancy and medical asset distribution. The operational model will also serve as a blueprint for Ohio State\u2019s new University Hospital inpatient tower and provide a framework for expansion across its regional outpatient network. Cloud Migration and Enterprise Data Integration As part of the partnership, Ohio State Wexner Medical Center is transitioning 70% to 80% of its enterprise storage and compute workloads to Microsoft Azure. The migration will include digital pathology image stores, diagnostic radiology archives and academic research computing workloads. The medical center is also establishing a secondary cloud backup environment on Azure for its primary electronic health record (EHR) system to strengthen disaster recovery, system availability and business continuity. Another focus is building a centralized enterprise data platform using Microsoft Fabric and OneLake. The platform will integrate clinical, operational and financial data across academic colleges, inpatient facilities and outpatient locations. Initial applications include predictive analytics for operating room utilization, emergency department flow management and clinical nurse staffing requirements. The infrastructure will also provide secure, HIPAA-compliant research environments where researchers can access standardized, de-identified clinical datasets. AI Deployment in Clinical Workflows The partnership will also expand the use of generative AI and ambient documentation across clinical settings. Care teams at Wexner Medical Center are using Dragon Copilot, which integrates Nuance DAX technology, to draft structured clinical notes from patient-provider conversations. Physicians review and attest to the generated documentation. Additionally, Microsoft and Ohio State clinical teams are developing AI-supported oncology workflows for multidisciplinary tumor boards. These will bring together digital pathology, radiology imaging, genomic sequencing reports and longitudinal patient histories in a consolidated workspace. John J. Warner, MD, Chief Executive Officer of The Ohio State University Wexner Medical Center and Executive Vice President at Ohio State, said, \u201cArtificial intelligence represents one of the most significant opportunities to transform and improve how hospitals care for patients. Through this collaboration, we have an opportunity to help reimagine the future of healthcare as we bring together Ohio State\u2019s academic medical expertise with Microsoft\u2019s technological capabilities to accelerate the pace of innovation across patient care, research and education.\u201d",
-      "link": "https://www.digitalhealthnews.com/ohio-state-wexner-medical-center-and-microsoft-announce-five-year-partnership-to-develop-smart-hospitals",
-      "source": "Digital Health News",
-      "image": "https://d33xmv9j3wn8v0.cloudfront.net/uploads/2026/11/ohio-state-wexner-medical-center-feature.jpg",
-      "published": "2026-11-12 11:12:00",
-      "category": [
-        "top",
-        "technology",
-        "health"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Mentor Public Library to give tips on bringing calmness to the holidays",
-      "description": "People can learn how to release the worry and stress that comes with the holidays during a free program at 6 p.m. Dec. 1 at Mentor Public Library\u2019s Lake Branch, 5642 Andrews Road in Mentor-on-the-Lake. Jennifer Kovalchik Langsdale, a c\u2026",
-      "link": "https://www.news-herald.com/2026/11/12/mentor-public-library-to-give-tips-on-bringing-calmness-to-the-holidays/",
-      "source": "News-herald",
-      "image": "https://www.news-herald.com/wp-content/uploads/2021/07/Mentor_Public_Library_hosts_online_program_from_Toledo_Zoo_1.jpg?w=1600&resize=1600,900",
-      "published": "2026-11-12 11:11:58",
-      "category": [
-        "top",
-        "education",
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Winter warning for NHS as more than 3,500 people a day receive corridor care",
-      "description": "Officials said this autumn has been the \u2018busiest ever\u2019 for the health service, with record numbers attending A&E departments.",
-      "link": "https://www.dorsetecho.co.uk/news/national/26722809.winter-warning-nhs-3-500-people-day-receive-corridor-care/",
-      "source": "Dorset Echo",
-      "image": null,
-      "published": "2026-11-12 11:11:54",
-      "category": [
-        "top",
-        "health"
-      ],
-      "country": [
-        "united kingdom"
+        "germany"
       ]
     }
   ]

@@ -1,35 +1,53 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "How to Build a Better Joystick",
-      "description": "Users need to feel comfortable and confident when controlling machinery with a joystick. Here\u2019s how engineers can craft joystick control that feels natural and appropriate for a given application.",
-      "link": "https://www.designnews.com/industrial-machinery/how-to-build-a-better-joystick",
-      "source": "Design News",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt0bbd1b20253587c0/blt716a5d990114bc58/6af7da24b1981c7c842171ae/20260902-202428-Bailey-2_copy.jpg?width=720&quality=80&disable=upscale",
-      "published": "2026-11-14 03:31:58",
+      "title": "The Hardest Part of Innovation Is Getting Someone to Say Yes",
+      "description": "The Hardest Part of Innovation Is Getting Someone to Say Yes In 2013, American contractor DPR Construction was working with surveying technology specialist Trimble on an unusual piece of construction equipment. Known as Project Lion, the collaboration produced a robotic layout machine capable of transferring information from digital drawings directly onto concrete floors, marking the ... The post The Hardest Part of Innovation Is Getting Someone to Say Yes appeared first on Highways Today.",
+      "link": "https://highways.today/2026/11/14/the-hardest-part-of-innovation/",
+      "source": "Highways Today",
+      "image": "https://highways.today/wp-content/uploads/2026/11/Construction-Crew-Inspecting-Excavator-Attachment.jpg",
+      "published": "2026-11-14 08:23:56",
       "category": [
-        "technology"
+        "top",
+        "technology",
+        "science"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
       ]
     },
     {
-      "title": "DC driverless-car bill lacks support to pass this year, post says",
-      "description": "@aleximm criticizes the reported setback, quoting Ro\u2019s CEO saying jobs must not take priority over lives.",
-      "link": "https://digg.com/ai/u3id1ezo",
-      "source": "Digg",
-      "image": null,
-      "published": "2026-11-14 03:31:47",
+      "title": "Nvidia Scandal Looms Over US-China AI Talks",
+      "description": "The US and Chinese presidents are set to discuss a tech crisis hotline at the Asia-Pacific Economic Cooperation (APEC) meeting in the Chinese city of Shenzhen, as experts worldwide stress-test artificial intelligence models to see if they will deceive or disobey users, or divulge how to build a bioweapon. The post Nvidia Scandal Looms Over US-China AI Talks appeared first on Channels Television.",
+      "link": "https://www.channelstv.com/2026/11/14/nvidia-scandal-looms-over-us-china-ai-talks/",
+      "source": "Channels Television",
+      "image": "https://www.channelstv.com/wp-content/uploads/2026/11/Nvidia-founder-and-CEO-Jensen-Huang.jpg",
+      "published": "2026-11-14 08:23:41",
       "category": [
-        "top",
-        "business",
-        "technology"
+        "politics",
+        "technology",
+        "top"
       ],
       "country": [
-        "united states of america"
+        "nigeria"
+      ]
+    },
+    {
+      "title": "MoSPI Committee Recommends Dedicated Accounts For AI, Data And R&D Economy",
+      "description": "MoSPI Committee Recommends Dedicated Accounts For AI, Data And R&D Economy New Delhi, Nov 14 (KNN) A committee constituted by the Ministry of Statistics and Programme Implementation (MoSPI) has recommended involving sectoral ministries, State governments and research institutions in measuring India's knowledge economy. In its policy paper, Framework for Measuring the Contribution of Knowledge and Knowledge Products to the Economy, the Committee on Knowledge Systems proposed a federated model to develop dedicated accounts for areas such as artificial intelligence (AI), data, research and development (R&D), and human capital. The panel recommended thematic accounts aligned with the System of National Accounts (SNA) 2025, instead of a single aggregate measure, to enable more targeted policymaking, Business Standard reported. It identified seven priority areas: human capital, R&D, the creative economy, AI systems, data and databases, high-tech products and frontier technologies, and the digital economy. The committee recommended beginning with three areas. States To Play Key Role In Knowledge Measurement Framework Under the proposed model, three categories of institutions would have distinct roles. System integrators would establish a common framework, while sectoral ministries and departments would measure specialised components. State governments, regulators and research institutions would support the process through data, pilot projects and studies. The committee stressed the importance of State-level participation, noting that knowledge-based products such as Darjeeling Tea and Kancheepuram Silk are closely associated with specific geographical locations. States should therefore be treated as institutional partners in identifying, measuring and validating geographically distributed knowledge capabilities, activities and products, rather than merely as data providers. The framework identifies eight interconnected components of the knowledge ecosystem: knowledge, capabilities and assets, enabling infrastructure, knowledge creation activities, knowledge products, knowledge-embedded products, knowledge-intensive entrepreneurship and knowledge application. It also proposes five guiding principles for identifying knowledge products: knowledge as an input, knowledge content, identifiability, codification and economic value. These are intended as broad principles, not rigid criteria, to accommodate the evolving nature of knowledge products. Committee Recommends Phased Approach To Knowledge Measurement The committee said conventional official statistics fail to capture the full economic contribution of knowledge, which is embedded in people, firms, capital and products across traditional industry classifications. It advised against measuring the entire knowledge ecosystem at once, recommending a phased approach instead. Priority areas should be identified based on four criteria: contribution to economic growth, promotion of inclusion, future relevance, including AI's impact, and feasibility of measurement at a reasonable cost. AI And Knowledge Capabilities Linked To National Security The ministry highlighted the growing complexity of measuring knowledge creation as advanced AI systems increasingly generate knowledge beyond conventional human-led processes. It also flagged AI's strategic implications, particularly its expanding defence applications, which could shift the balance of power among nations. The paper said a framework to track knowledge capabilities would be crucial for India's long-term national security. (KNN Bureau)",
+      "link": "https://knnindia.co.in/news/newsdetails/economy/mospi-committee-recommends-dedicated-accounts-for-ai-data-and-rd-economy",
+      "source": "Knn India",
+      "image": "https://knnindia.co.in/uploads/newsfiles/AI-DATA-RnD-14-11-2026.jpg",
+      "published": "2026-11-14 08:23:36",
+      "category": [
+        "business",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

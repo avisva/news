@@ -1,43 +1,76 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 10,
   "results": [
     {
-      "title": "New light-powered technique offers wireless control of living cell alignment - Interesting Engineering",
-      "description": "New light-powered technique offers wireless control of living cell alignment Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWFNbjREN01pOHNnVkUzZzFUZEh6b0pUN282eFN6bEtucjhBVWxBd1Ffd1dhUk5sMDRHTjBvV2V4S012ZzRiWTJPNjBCbmZnZnltVlU2MGZlUlBuMEQtQTBtSmNIVUZIZ2lBcXdyUUMzYldkMlgzamFYdHNEUlhwSXlJY1haUjR4WksxZ2F5YTRxTWRjNUxEUg?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-11-14 03:32:00",
+      "title": "1,600 Kg Rotten Meat Seized at Budgam Railway Station in Major Late-Night Operation",
+      "description": "Authorities seized approximately 1,600 kg of rotten meat at Budgam Railway Station in Kashmir during a late-night joint operation.",
+      "link": "https://www.dynamitenews.com/national/1600-kg-rotten-meat-seized-at-budgam-railway-station-in-major-late-night-operation",
+      "source": "Dynamite News",
+      "image": "https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/2026/11/Rotten-Meat.jpg",
+      "published": "2026-11-14 08:24:00",
       "category": [
-        "science"
+        "crime",
+        "top"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "India Records 20,620 Green Building Projects Across 16.55 Billion Sq Ft: IGBC",
-      "description": "India has emerged as the world\u2019s second-largest green building market, with more\u2026 The post India Records 20,620 Green Building Projects Across 16.55 Billion Sq Ft: IGBC appeared first on Square Feat India.",
-      "link": "https://squarefeatindia.com/india-records-20620-green-building-projects-across-16-55-billion-sq-ft-igbc/",
-      "source": "Square Feat India",
-      "image": "https://squarefeatindia.com/wp-content/uploads/2026/11/DSC_7870.jpg",
-      "published": "2026-11-14 03:32:00",
+      "title": "Milk, Butter, Cheese And More To Carry 'White Milk Drop' Logo From 2028",
+      "description": "The move is aimed at bringing better uniformity to the labelling of milk products.",
+      "link": "https://food.ndtv.com/news/milk-butter-cheese-and-more-to-carry-white-milk-drop-logo-from-2028-12325590",
+      "source": "Ndtv",
+      "image": "https://c.ndtvimg.com/2026-11/fe297iko_milk-logo_625x300_14_November_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "published": "2026-11-14 08:23:57",
       "category": [
-        "entertainment"
+        "entertainment",
+        "food"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Why Children Need To Hear \u2018No\u2019: The Importance Of Setting Boundaries Without Guilt",
-      "description": "This Children's Day, let's talk about a parenting lesson that doesn't always come with smiles: why children need to hear no, and why parents shouldn't feel guilty about it.",
-      "link": "https://www.news18.com/lifestyle/parenting/why-children-need-to-hear-no-the-importance-of-setting-boundaries-without-guilt-ws-l-10425088.html",
+      "title": "KPSC scam: Enforcement Directorate names ex-chief, IAS officer in 585-page chargesheet",
+      "description": null,
+      "link": "https://indianexpress.com/article/cities/bangalore/kpsc-recruitment-scam-ed-chargesheet-sahukar-gangwar-10962893/",
+      "source": "The Indian Express",
+      "image": "https://images.indianexpress.com/2026/11/14KPSCED.jpg",
+      "published": "2026-11-14 08:23:55",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Food Near Toilets, Dosa Tawa Beside Washroom: Pune's Vaishali And Roopali Lose FDA Licences",
+      "description": "Food stored beside toilets, dosa batter prepared in open areas and cooked items kept in corridors - these are among the violations reported at two iconic Pune eateries.",
+      "link": "https://www.news18.com/cities/pune/food-near-toilets-dosa-tawa-beside-washroom-punes-vaishali-and-roopali-lose-fda-licences-ws-el-10425408.html",
       "source": "News 18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/11/1-24-2026-11-be1c2c82ca02b5c05ffc4babf4df0fb7-1200x800.png",
-      "published": "2026-11-14 03:31:49",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/FDA-crackdown-pune-Vaishali-And-Rupali-hotel-roopali-restaurant-shut-down-2026-11-64ffcf375776d3da5f57df5b230610c0-1200x800.png",
+      "published": "2026-11-14 08:23:46",
       "category": [
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Vishal Mishra Pledges To Help Devotees Reach Home For Chhath Puja: 'Har Saal Lakhon Shraddhaluon...'",
+      "description": "Vishal Mishra has pledged to help devotees reach home for Chhath Puja from next year, ensuring that no one has to stay away from their families during the festival.",
+      "link": "https://www.news18.com/movies/bollywood/vishal-mishra-pledges-to-help-devotees-reach-home-for-chhath-puja-har-saal-lakhon-shraddhaluon-ws-l-10425239.html",
+      "source": "News 18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/08/FotoJet-2026-08-29T154348.928-2026-08-6c2aaa9567b28d87909803682e6c3a13-1200x800.jpg",
+      "published": "2026-11-14 08:23:43",
+      "category": [
+        "top",
         "lifestyle"
       ],
       "country": [
@@ -45,12 +78,73 @@
       ]
     },
     {
-      "title": "Mathura: Narrow escape for 40 passengers as bus catches fire on Yamuna Expressway",
-      "description": "Digital Desk | Mathura, Nov 14 (IANS) Panic gripped passengers after a moving bus suddenly caught fire on the Raya Cut Bridge of the Yamuna Expressway in Uttar Pradesh's Mathura district during...",
-      "link": "https://bhaskarlive.in/national/mathura-narrow-escape-for-40-passengers-as-bus-catches-fire-on-yamuna-expressway-2165316",
-      "source": "Bhaskarlive",
-      "image": "https://assets.bhaskarlive.in/h-upload/2026/11/14/1433400-202611144012057.webp",
-      "published": "2026-11-14 03:31:43",
+      "title": "MoSPI Committee Recommends Dedicated Accounts For AI, Data And R&D Economy",
+      "description": "MoSPI Committee Recommends Dedicated Accounts For AI, Data And R&D Economy New Delhi, Nov 14 (KNN) A committee constituted by the Ministry of Statistics and Programme Implementation (MoSPI) has recommended involving sectoral ministries, State governments and research institutions in measuring India's knowledge economy. In its policy paper, Framework for Measuring the Contribution of Knowledge and Knowledge Products to the Economy, the Committee on Knowledge Systems proposed a federated model to develop dedicated accounts for areas such as artificial intelligence (AI), data, research and development (R&D), and human capital. The panel recommended thematic accounts aligned with the System of National Accounts (SNA) 2025, instead of a single aggregate measure, to enable more targeted policymaking, Business Standard reported. It identified seven priority areas: human capital, R&D, the creative economy, AI systems, data and databases, high-tech products and frontier technologies, and the digital economy. The committee recommended beginning with three areas. States To Play Key Role In Knowledge Measurement Framework Under the proposed model, three categories of institutions would have distinct roles. System integrators would establish a common framework, while sectoral ministries and departments would measure specialised components. State governments, regulators and research institutions would support the process through data, pilot projects and studies. The committee stressed the importance of State-level participation, noting that knowledge-based products such as Darjeeling Tea and Kancheepuram Silk are closely associated with specific geographical locations. States should therefore be treated as institutional partners in identifying, measuring and validating geographically distributed knowledge capabilities, activities and products, rather than merely as data providers. The framework identifies eight interconnected components of the knowledge ecosystem: knowledge, capabilities and assets, enabling infrastructure, knowledge creation activities, knowledge products, knowledge-embedded products, knowledge-intensive entrepreneurship and knowledge application. It also proposes five guiding principles for identifying knowledge products: knowledge as an input, knowledge content, identifiability, codification and economic value. These are intended as broad principles, not rigid criteria, to accommodate the evolving nature of knowledge products. Committee Recommends Phased Approach To Knowledge Measurement The committee said conventional official statistics fail to capture the full economic contribution of knowledge, which is embedded in people, firms, capital and products across traditional industry classifications. It advised against measuring the entire knowledge ecosystem at once, recommending a phased approach instead. Priority areas should be identified based on four criteria: contribution to economic growth, promotion of inclusion, future relevance, including AI's impact, and feasibility of measurement at a reasonable cost. AI And Knowledge Capabilities Linked To National Security The ministry highlighted the growing complexity of measuring knowledge creation as advanced AI systems increasingly generate knowledge beyond conventional human-led processes. It also flagged AI's strategic implications, particularly its expanding defence applications, which could shift the balance of power among nations. The paper said a framework to track knowledge capabilities would be crucial for India's long-term national security. (KNN Bureau)",
+      "link": "https://knnindia.co.in/news/newsdetails/economy/mospi-committee-recommends-dedicated-accounts-for-ai-data-and-rd-economy",
+      "source": "Knn India",
+      "image": "https://knnindia.co.in/uploads/newsfiles/AI-DATA-RnD-14-11-2026.jpg",
+      "published": "2026-11-14 08:23:36",
+      "category": [
+        "business",
+        "technology",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "8th Pay Commission: Will retirees get higher pension and arrears?",
+      "description": "The 8th Pay Commission was constituted to review the salaries, allowances and pensions of central government employees. Its terms of reference (ToR) were issued on November 3, 2025, and the commission was given 18 months to submit its report. Twelve months of that period have elapsed.",
+      "link": "https://www.cnbctv18.com/personal-finance/8th-pay-commission-employees-retiring-before-january-2026-higher-pension-arrears-retirees-eligibility-20034005.htm",
+      "source": "Cnbctv18",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/gareema-feature-images-2026-11-14t134359518-2026-11-1e82fbd0a2f91bfc4021244e707d309c.jpg",
+      "published": "2026-11-14 08:23:27",
+      "category": [
+        "business",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Will Young says Jasprit Bumrah\u2019s return will make India-New Zealand Test series challenging",
+      "description": "New Zealand batter Will Young believes Jasprit Bumrah's return will pose a major challenge in the upcoming Test series against India. However, he backed his team's bowling attack to test the visitors, recalling the confidence gained from their 2024 series win.",
+      "link": "https://telanganatoday.com/will-young-says-jasprit-bumrahs-return-will-make-india-new-zealand-test-series-challenging",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/11/Will-Young-says-Jasprit-Bumrahs-return-will-make-India-New-Zealand-Test-series-challenging.jpg",
+      "published": "2026-11-14 08:23:23",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "\u201cBecause Of Your D***?\u201d Australian PM\u2019s Hot Mic Moment At Climate Summit",
+      "description": "In the footage, first broadcast by Australia\u2019s Channel Seven on Friday, Albanese and top climate envoy Chris Bowen chat on the sidelines of the COP31 climate summit in Antalya, Turkey. Australian leader Anthony Albanese and his climate minister joked about their genitalia in a crude exchange captured on a hot mic. In the footage, first broadcast by\u2026 The post \u201cBecause Of Your D***?\u201d Australian PM\u2019s Hot Mic Moment At Climate Summit appeared first on Read Selective.",
+      "link": "https://www.readselective.com/because-of-your-d-australian-pms-hot-mic-moment-at-climate-summit/",
+      "source": "Read Selective",
+      "image": "https://i0.wp.com/www.readselective.com/wp-content/uploads/2026/11/Screenshot-2026-11-14-134958.png?fit=953%2C533&ssl=1",
+      "published": "2026-11-14 08:23:23",
+      "category": [
+        "entertainment",
+        "environment",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Kaziranga Crash: Driver May Have Suffered Stroke or Heart Attack, Says Assam CM",
+      "description": "Assam: Assam Chief Minister Himanta Biswa Sarma announced on Saturday, November 14, that the family of each of the 26 people killed in the Kaziranga road accident would receive Rs 9 lakh in financial assistance. He also said the government would enforce traffic rules strictly, whatever the public reaction, as investigators examined the driver's health, overloading and speeding as possible causes of the crash. Talking about the compensation while speaking to reporters, CM Sarma said, \u201cFrom the state government\u2019s side, for every deceased person\u2019s family, in some families three people died from a single household, we will provide Rs 5 lakh, and the Department of Relief and Disaster, Revenue Disaster, will provide another Rs 2 lakh.\u201d \u201cRs 5 lakh from the Chief Minister\u2019s Relief Fund, and Rs 2 lakh given for road accidents from the Revenue Department, making it Rs 7 lakh. And the Prime Minister will give Rs 2 lakh, totalling Rs 9 lakh,\u201d he added. Prime Minister Narendra Modi had already expressed grief over the tragedy and sanctioned Rs 2 lakh for each family from his relief fund. \u201cBut this death cannot be measured with money, it is an unprecedented loss,\u201d CM Sarma said. He said that once the post-mortems and last rites were over, ministers would go directly to the families' homes and hand over the assistance. \u201cAfter the post-mortems or last rites, at some point I will also come and meet the family members,\u201d he said. Reporting on the injured, Assam CM said several people were still seriously ill or injured. \u201cOf the 20 injured persons who were at Jorhat Medical College, three have passed away. Ten of them have been stated to be stable. Six are in the ICU and one is on a ventilator. So we can hope that the 10 will recover and return. We will certainly wish long life and speedy recovery for the remaining seven as well. Specialist doctors from Guwahati Medical College have already arrived in Jorhat, and they will assist in the treatment,\u201d he said. He said ministers had been at the scene since the crash. \u201cYesterday at the time of the incident, Atul Bora was also on this road, and he arrived immediately. By night Ranoj Pegu also came, and Keshab Mahanta also came,\u201d he said. \u201cToday the Transport Minister is also present here with me. Ajanta Neog has arrived, and Biswajit Daimary is also there. All our colleagues have arrived here. They have inquired about the treatment, and have also visited the families of the deceased.\u201d On the post-mortems, he said doctors capable of conducting them had been brought from Guwahati and other hospitals so that the work could be done very quickly. \u201cOtherwise, completing the post-mortems of 26 bodies would have taken us at least two days. That is why we have made arrangements so that we can conduct the post-mortems today itself, even by bringing doctors from outside. And as I have been informed, post-mortems for most of them have already been completed,\u201d he said. \u201cTen of our post-mortems have already been completed, and we hope that by around 2 PM we will be able to complete all of them. Right after the post-mortem, we will take the bodies to the families in our vehicles,\u201d he added. On identification, he said one person suspected to be from Bihar had not yet been fully identified. \u201cWe have obtained the identities of all the other deceased persons, and you have also received the names,\u201d he said. CM Sarma said the investigation into the entire incident was under way. Pointing to the footage of the crash, he said, \u201cIn Kaziranga, vehicles are supposed to travel at 40 kilometres per hour, but after seeing the vehicle, it came at a speed exceeding 120 kilometres.\u201d He added, \u201cUsually, when we travel in cars in Kaziranga, or when the people of Assam reach the borders of Kaziranga, whether there is a speed limit or not, they reduce the vehicle speed to 40. This is something that most people do voluntarily.\u201d On the dashcam video that went viral, he said, \u201cIt is not fake; dashcams are installed in such vehicles. From there it goes to the cloud, and from the cloud it comes to the company\u2019s camera. The company gave it to a group, and the SP looked at it and told me it is genuine footage.\u201d He asked Golaghat Superintendent of Police Swapnaneel Deka to confirm this. \u201cFrom the cloud it went to social media; they had put it in their own group, and from there it came to social media. But the way we are seeing it, there is nothing to doubt about it,\u201d he said. CM Sarma said the minibus had been plying on the same road for a long time. \u201cFrom Golaghat to Nagaon, challans are being issued; it is said that 10 or 12 challans have been issued previously. Why is this happening? As a result of doing these things, the driver himself also dies. It\u2019s not like someone else dies and the driver manages to survive,\u201d he said. He said the vehicle was badly overloaded. \u201cIf 26 can sit, he seated about 40 or 41 people; that itself is a crime,\u201d he said. On the driver, he said, \u201cCertainly, one should not speak negatively about a deceased person. But his vehicle used to ply in this area regularly. So even if others did not know the rules, he certainly knew them. But I will think about one thing slightly, as it appears from television that he lost control of the steering. Therefore, did he suffer a heart attack or a stroke? We must certainly look into those perspectives.\u201d \u201cIn the investigation, we have especially asked for his body to undergo a proper post-mortem, so that the question of consuming intoxicating substances does not arise. At 3 PM in the daytime, such a suspicion is not there. There could be two suspicions: that something went wrong with his steering, but the vehicle\u2019s fitness was valid. Secondly, he might have suffered a stroke or a heart attack where he lost control,\u201d he said. He said Education Minister Ranoj Pegu had also initially suggested that the driver may have suffered a heart attack or a stroke. \u201cIf that happened, then there is no alternative, but I went to check; he had a sugar problem, and sugar drops very quickly. It could be that sugar drops. He could have had a heart attack,\u201d Assam CM said. \u201cIf, while giving a pass to a vehicle, he got stuck, that is a different matter. Or if there was a contradiction with another vehicle in between, that is a different matter. But this video, if it is true, shows that he directly lost control over the steering of the vehicle. If it had not collided with another vehicle, even then he would have lost control and the vehicle would have overturned by the roadside,\u201d he said. \u201cSo could this be some incurable illness, or, you said a good thing, sugar levels drop; perhaps that could be it too. These things will definitely come out in the doctors\u2019 and police investigation. We have instructed specialist doctors to perform the post-mortem of his body, so that we can find out the details of the incident,\u201d he added. \u201cBut this particular incident, I will say once again, what mental condition the driver was experiencing; along with that, we can accept that he had excess passengers,\u201d he said. Turning to the wider problem, CM Sarma said, \u201cIn Assam, traffic deaths or road accident deaths have increased in the past two years. We also know some of the problems with traffic, such as not wearing helmets, driving under the influence of intoxicating substances, or disregarding the speed limit that is set. Many such incidents are taking place in traffic.\u201d \u201cBut whenever we become strict regarding traffic or vehicles, a reaction immediately arises among the general public, and the public does not receive it very well. Especially when we compel people to take fitness certificates and others, compel them to wear helmets, or when we catch them on the road for consuming intoxicating substances and levy fines, or take them to the police station. The public protests against it strongly and does not take the matter lightly. Today, I will appeal once again to the people of Assam,\u201d he said. \u201cDue to the crisis that has fallen upon us in Assam because of this collision, we will definitely have to reconsider the Nalbari cabinet decision. And especially since several such accidents have occurred in the last two months, we will also have to review our policies, and I think we will have to strictly enforce traffic rules,\u201d he said. He said vehicle owners often pushed back when the government tightened rules. \u201cThe owners put a lot of pressure on our drivers to drive at high speeds and take more passengers. And when we bring this up with the owners, they say they have to pay bank instalments. They also bring immense political pressure when we tighten things up and become strict. And they take it to a level where they claim the government has no money, so it collects money by issuing traffic fines. They want to push the situation to that extent,\u201d he said. \u201cOverloading, driving under the influence of intoxicating substances, breaking speed limits, many such events are happening right before our eyes. We have to be strict; there is no other alternative,\u201d he said. Speaking about speed governors, he said, \u201cThe speed limit device is installed in most vehicles in Assam, as you will see if you check the vehicle portal. But they can disconnect a wire, and once it is disconnected, it becomes free. The speed governor is installed, but they disconnect its wire so that the vehicle can be driven at high speed. But in Kaziranga, the question of a governor does not arise; in Kaziranga it is 40.\u201d He said the government had paid a political price for strict enforcement in the past. \u201cLast time, you all remember, during the Jorhat election in the last Lok Sabha elections, this was the exact criticism: that the government is strict on traffic, but at that time deaths were going down in Assam,\u201d he said. \u201cWhen we lost Jorhat in the Lok Sabha elections, our internal review revealed that because we made traffic regulations too strict, the young people got upset with us. In the Nalbari cabinet, we changed all those decisions, yet my mind felt very bad, that we actually should not do certain things under political pressure. But you all know a government cannot remain detached from the public; sometimes certain decisions have to be made.\u201d He said the accident was the second such tragedy in Golaghat district, after a picnic bus crash at Dergaon. \u201cIf the public cooperates slightly, we will be strict,\u201d he said. \u201cWhen we become slightly strict about these things, you cooperate; when the government becomes strict, such talks emerge: that the government has no money, so it wants to take money from us by issuing fines.\u201d CM Sarma said enforcement drew resentment by its very nature. \u201cEveryone will become powerful, and the traffic branch becoming powerful means catching vehicles. And when vehicles are caught, people get annoyed. That is the biggest problem,\u201d he said. On owners' complaints, he added, \u201cIt is very quick to control, but after controlling, what happens is the owners create an environment in Assam where their income has decreased, they are unable to return bank interest, and taking that up, the incident slowly grows larger.\u201d Hospital demand along the stretch Asked about the demand for a hospital along the highway, Sarma said local people had raised the question for the long stretch between Kaliabor and Bokakhat. \u201cAs many hospitals as can be built in Assam, we have built them: Golaghat Medical College, Jorhat Medical College, Nagaon Medical College. There is a limit, how many hospitals you can open? We are opening hospitals too. In the future, discussions are under way for a medical college in Dergaon as well,\u201d he said. \u201cTherefore, opening hospitals is not a problem for us. But when such a major accident happens all at once, small hospitals cannot cater to it,\u201d he said. \u201cIt is not possible to know in advance where an accident will occur. But there is no shortage of hospitals here: Golaghat Medical College is running, Jorhat Medical College is running, Nagaon Medical College is running. Within such a short radius there are three medical colleges along the road. Nagaon Civil Hospital is there, Bokakhat Civil Hospital is there, and the Kaziranga hospital is also an FRU. But in this type of massive accident, no hospital can cater to the required demand; patients must be taken to three or four hospitals,\u201d he said. On follow-up visits, Assam CM said he would return to Guwahati but that one minister would stay in Jorhat and another in Guwahati. \u201cFor the post-mortems and the return of the bodies today, I do not want to trouble the families. After two or three days, I will go to every deceased person\u2019s family, to the home of every family. I will definitely come myself within two or three days to meet everyone,\u201d he said. \u201cIn the meantime, Ranoj Pegu and Atul Bora will be at Jorhat Medical College, and Keshab Mahanta will stay in Kaliabor, Nagaon. So we have all divided the responsibility. And a few days later I will come to every family\u2019s home.\u201d \u201cThere is no other way; we have to be strict. I will only request the public for cooperation,\u201d he said. \u201cAnyway, I have just stated the problems, but causing pain to someone by hitting out will not help. The responsibility lies with the government, the responsibility lies with the Chief Minister, the responsibility lies with the Transport Minister, so definitely we must do our work.\u201d He prayed for the salvation of the souls of the departed and expressed his condolences to the families. \u201cThe state government will make every possible effort to help the families of the deceased,\u201d he said.",
+      "link": "https://www.pratidintime.com/latest-assam-news-breaking-news-assam/kaziranga-crash-driver-may-have-suffered-stroke-or-heart-attack-says-assam-cm-12808804",
+      "source": "Pratidin",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/pratidin/media/media_files/2026/11/14/791ab413-b53b-4b95-862b-722aef68192a-2026-11-14-13-52-48.jpg",
+      "published": "2026-11-14 08:23:21",
       "category": [
         "crime",
         "top"

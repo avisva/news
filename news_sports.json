@@ -1,21 +1,65 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Outlook problemer verden over",
-      "description": null,
-      "link": "https://www.saltenposten.no/nyheter/outlook-problemer-verden-over/545188",
-      "source": "Saltenposten",
-      "image": null,
-      "published": "2026-11-13 08:44:00",
+      "title": "Local soccer prodigy: 16-year-old Hudson native Logan Azar called up to U.S. U-17 National Team",
+      "description": "Earlier last week, the Hudson teenager was named the 2025-26 New England Revolution Academy Player of the Year. He became the 12th recipient of the honor, which the Revolution Technical Staff awards annually to the most exceptional amateur talent developing in the club's Professional Player Pathway.",
+      "link": "https://www.communityadvocate.com/hudson/local-soccer-prodigy-16-year-old-hudson-native-logan-azar-called-up-to-u-s/article_5b9f8c67-4bf8-4b7a-8c24-1eba98ac3eae.html",
+      "source": "Community Advocate",
+      "image": "https://bloximages.chicago2.vip.townnews.com/communityadvocate.com/content/tncms/assets/v3/editorial/9/02/902fef27-996e-419a-bdf8-7a10791485dd/6af70e40529a9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "published": "2026-11-13 13:16:00",
       "category": [
-        "sports",
         "top",
-        "crime"
+        "sports"
       ],
       "country": [
-        "norway"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "What To Watch For: North Carolina Tar Heels",
+      "description": "LINCOLN KEINHOLZ WILL HAVE TO HAVE A GREAT GAME Louisville has been fortunate this year to have nailed their transfer portal gamble at quarterback with Lincoln Keinholz playing very well for them. They\u2019ll need him to be at his best this weekend. UNC doesn\u2019t have a dominant defense, but they do some things well that [\u2026]",
+      "link": "https://sports.yahoo.com/articles/watch-north-carolina-tar-heels-131600304.html",
+      "source": "Yahoo! News",
+      "image": "https://s.yimg.com/lo/mysterio/api/5d396fd4fe1f460daf4516d0f3b32f87e49808800b20856d08f40baeb990b340/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fda5ca8d5ba8559fbc40fcfb1eaeba17d.jpg",
+      "published": "2026-11-13 13:16:00",
+      "category": [
+        "breaking",
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Virat Kohli Gifts Indian Jersey To Matt Henry After New Zealand Pacer Destroys India's Batting Line-Up | VIDEO",
+      "description": "Virat Kohli won hearts with a heartwarming gesture towards New Zealand pacer Matt Henry after India's defeat. Following Henry's career-best figures of 6/27, which helped bowl India out for just 89 while chasing 334, Kohli gifted him an Indian team jersey. The moment, shared by the Blackcaps on Instagram, highlighted the spirit of sportsmanship and mutual respect.",
+      "link": "https://www.freepressjournal.in/sports/virat-kohli-gifts-indian-jersey-to-matt-henry-after-new-zealand-pacer-destroys-indias-batting-line-up-video",
+      "source": "The Free Press Journal",
+      "image": "https://media.assettype.com/freepressjournal/2026-11-13/eodmxdza/Kohli-Henry.jpg",
+      "published": "2026-11-13 13:16:00",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "French, Brazilian scouts discover four talents at Victoria FA scouting programme\u2026Edo football talents need quality academies, conducive environment for development \u2013 Kontostavlos",
+      "description": "Four promising young footballers have been identified for possible international opportunities following the successful conclusion of the 2026 Victoria Football Academy (VFA) Scouting Tournament in Benin City, Edo State. The three-day scouting programme, which brought together football scouts and agents from France and Brazil, was organised by the Benin-based Victoria Football Academy from November 3 [\u2026]",
+      "link": "https://nigerianobservernews.com/2026/11/french-brazilian-scouts-discover-four-talents-at-victoria-fa-scouting-programme-edo-football-talents-need-quality-academies-conducive-environment-for-development-kontostavlos/",
+      "source": "Nigerian Observer",
+      "image": "https://nigerianobservernews.com/wp-content/uploads/2026/11/IMG-20261112-WA0478.jpg",
+      "published": "2026-11-13 13:15:53",
+      "category": [
+        "top",
+        "sports"
+      ],
+      "country": [
+        "nigeria"
       ]
     }
   ]

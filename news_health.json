@@ -1,5 +1,50 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "\u2018Pandit Nehru was symbol of peace, secularism\u2019",
+      "description": "City Congress in Prayagraj pays tribute to Jawaharlal Nehru on 137th birth anniversary, calling him a symbol of peace, secularism, and nation-building.",
+      "link": "https://timesofindia.indiatimes.com/city/allahabad/pandit-nehru-was-symbol-of-peace-secularism/articleshow/135841868.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135841865/135841865.jpg",
+      "published": "2026-11-14 19:30:55",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Recovery agents cannot forcibly take away financed vehicles for payment default: HC",
+      "description": "Allahabad HC: Finance firms can\u2019t use recovery agents or force to seize vehicles for loan defaults; repossession must be through court/arbitration, vehicle released.",
+      "link": "https://timesofindia.indiatimes.com/city/allahabad/recovery-agents-cannot-forcibly-take-away-financed-vehicles-for-payment-default-hc/articleshow/135841863.cms",
+      "source": "The Times Of India",
+      "image": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135662496/135662496.jpg",
+      "published": "2026-11-14 19:30:52",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "National Insurance Dialogue: Exploring Reform, Innovation, and Protection for All",
+      "description": "Major stakeholders in Saint Lucia\u2019s insurance industry are taking proactive steps to enhance the sector\u2019s foundations, ensuring it better serves \u2026 The post National Insurance Dialogue: Exploring Reform, Innovation, and Protection for All appeared first on The Voice St. Lucia News.",
+      "link": "https://thevoiceslu.com/2026/11/national-insurance-dialogue-exploring-reform-innovation-and-protection-for-all/",
+      "source": "The Voice",
+      "image": "https://thevoiceslu.com/wp-content/uploads/2022/06/insurance-policy.jpg",
+      "published": "2026-11-14 19:30:36",
+      "category": [
+        "business",
+        "health",
+        "top"
+      ],
+      "country": [
+        "saint lucia"
+      ]
+    }
+  ]
 }

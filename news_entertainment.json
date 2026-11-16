@@ -1,5 +1,35 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Saturday Night Live Recap: John Mulaney Is Confident at the Wheel",
+      "description": "John Mulaney returns to Studio 8H and pulls SNL out of its recent slump with a rock-solid episode.",
+      "link": "http://www.vulture.com/article/saturday-night-live-recap-snl-season-52-episode-6-john-mulaney.html",
+      "source": "Vulture",
+      "image": "https://pyxis.nymag.com/v1/imgs/328/d70/2e37291f5350f841ab55cbc693aceaf12e-NUP-212334-00001.1x.rsocial.w1200.jpg",
+      "published": "2026-11-15 19:37:33",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Rihanna Squashes EJ Johnson Feud Talk, Seemingly Floats a Fenty Runway Spot: 'There's No Beef'",
+      "description": "Rihanna told TMZ she felt bad for Johnson after a Paris hotel video set off speculation.",
+      "link": "https://www.complex.com/pop-culture/a/treyalston/rihanna-ej-johnson-no-beef-fenty-runway",
+      "source": "Complex",
+      "image": "https://images.complex.com/complex/image/upload/c_crop,h_1083,w_1919,x_0,y_0/g_auto:aoi_768_434_384_217,ar_1.91,c_fill,q_auto,f_auto,w_1200/sanity-new/jyjihsfjggcdownlzdlf",
+      "published": "2026-11-15 19:37:23",
+      "category": [
+        "entertainment",
+        "top"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

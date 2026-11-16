@@ -1,65 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Chinese electric passenger plane completes first crewed flight",
-      "description": "The plane, a CE-25A, took off and landed in Binzhou, Shandong Province, and reportedly flew for around 60 kilometres.",
-      "link": "https://www.euronews.com/2026/11/15/chinese-electric-passenger-plane-completes-first-crewed-flight",
-      "source": "Euronews",
-      "image": "https://images.euronews.com/articles/stories/09/99/31/28/1440x810_cmsv2_41543da1-d558-5ae5-a4ba-961b36a0adcd-9993128.jpg",
-      "published": "2026-11-15 12:43:41",
+      "title": "Finalmouse Starlight X (SLX Nightfall) Review \u2013 Extreme Lightness",
+      "description": "In this review, we try out the new Finalmouse Starlight X (also known as SLX Nightfall) gaming mouse and find out how many boxes it can tick.",
+      "link": "https://pokde.net/review/finalmouse-starlight-x-slx-nightfall-review",
+      "source": "Pokde.net",
+      "image": "https://cdn.pokde.net/wp-content/uploads/2026/11/16033105/finalmousestarlightxreviewcover.jpg",
+      "published": "2026-11-15 19:38:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "malaysia"
+      ]
+    },
+    {
+      "title": "AI and the consciousness illusion",
+      "description": "Explores AI\u2019s illusion of consciousness, debunking myths, and urging regulation amid powerful, language-driven intelligence.",
+      "link": "https://www.thehindu.com/opinion/op-ed/ai-and-the-consciousness-illusion/article71704748.ece",
+      "source": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/wqeivu/article71705805.ece/alternates/FREE_1200/2026-11-09T110015Z_859933148_RC2B6OA8SP5B_RTRMADP_3_AI-BANKS-FINANCING.JPG",
+      "published": "2026-11-15 19:37:54",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "san marino",
-        "iceland",
-        "portugal",
-        "latvia",
-        "sweden",
-        "united kingdom",
-        "czech republic",
-        "vatican",
-        "belgium",
-        "france",
-        "monaco",
-        "denmark",
-        "liechtenstein",
-        "serbia",
-        "germany",
-        "netherland",
-        "italy",
-        "switzerland",
-        "macedonia",
-        "slovakia",
-        "montenegro",
-        "spain",
-        "bulgaria",
-        "lithuania",
-        "estonia",
-        "malta",
-        "andorra",
-        "austria",
-        "belarus",
-        "croatia",
-        "kosovo",
-        "ireland",
-        "poland",
-        "norway",
-        "bosnia and herzegovina",
-        "slovenia",
-        "finland",
-        "ukraine",
-        "luxembourg",
-        "russia",
-        "romania",
-        "greece",
-        "hungary",
-        "albania",
-        "cyprus",
-        "moldova"
+        "india"
       ]
     }
   ]

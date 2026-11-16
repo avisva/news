@@ -1,51 +1,65 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 1,
   "results": [
     {
-      "title": "Guwahati-bound IndiGo flight returns to Pune due to technical snag; all passengers safe \u2014 Here's all you need to know",
-      "description": "IndiGo reportedly arranged an alternate aircraft from Bengaluru to Pune to facilitate the affected passengers' onward journey to Guwahati.",
-      "link": "https://www.livemint.com/news/india/guwahatibound-indigo-flight-returns-to-pune-due-to-technical-snag-all-passengers-safe-heres-all-you-need-to-know-11794729353995.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/15/1600x900/logo/INDIGO-ORDER--0_1794730895253_37Er_1794730921125_aHCk_acd135e2-ec04-42ab-ada9-763005cccac4_xE9X.JPG",
-      "published": "2026-11-15 08:47:30",
-      "category": [
-        "crime",
-        "technology",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "SpaceX makes history with first successful Starship catch",
-      "description": "spacecraft returned to Earth on Saturday after surviving the extreme heat of atmospheric re-entry",
-      "link": "https://www.dialoguepakistan.com/en/sci-tech/spacex-makes-history-with-first-successful-starship-catch",
-      "source": "Dialogue Pakistan",
-      "image": "https://www.dialoguepakistan.com/en/upload/media/posts/2026-11/15/spacex-makes-history-with-first-successful-starship-catch_1794731773-b.jpg",
-      "published": "2026-11-15 08:47:21",
+      "title": "Chinese electric passenger plane completes first crewed flight",
+      "description": "The plane, a CE-25A, took off and landed in Binzhou, Shandong Province, and reportedly flew for around 60 kilometres.",
+      "link": "https://www.euronews.com/2026/11/15/chinese-electric-passenger-plane-completes-first-crewed-flight",
+      "source": "Euronews",
+      "image": "https://images.euronews.com/articles/stories/09/99/31/28/1440x810_cmsv2_41543da1-d558-5ae5-a4ba-961b36a0adcd-9993128.jpg",
+      "published": "2026-11-15 12:43:41",
       "category": [
         "technology",
         "top"
       ],
       "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "From supermarket freezers to critical infrastructure: How cyberattacks threaten everyday life in Cyprus",
-      "description": "How vulnerable is our everyday life to the growing threat of cyberattacks? Recent incidents across Europe, where hackers remotely took control of supermarket refrigeration systems, offer a glimpse of how a malicious digital attack can disrupt things we have taken for granted for decades. Cyberattacks are no longer confined to stealing personal data, committing online [\u2026]",
-      "link": "https://en.philenews.com/local/cyprus-cyberattacks-supermarket-freezers-critical-infrastructure/",
-      "source": "Latest News In Cyprus",
-      "image": "https://en.philenews.com/wp-content/uploads/2026/11/image-296.png",
-      "published": "2026-11-15 08:47:08",
-      "category": [
-        "technology",
-        "top"
-      ],
-      "country": [
-        "cyprus"
+        "san marino",
+        "iceland",
+        "portugal",
+        "latvia",
+        "sweden",
+        "united kingdom",
+        "czech republic",
+        "vatican",
+        "belgium",
+        "france",
+        "monaco",
+        "denmark",
+        "liechtenstein",
+        "serbia",
+        "germany",
+        "netherland",
+        "italy",
+        "switzerland",
+        "macedonia",
+        "slovakia",
+        "montenegro",
+        "spain",
+        "bulgaria",
+        "lithuania",
+        "estonia",
+        "malta",
+        "andorra",
+        "austria",
+        "belarus",
+        "croatia",
+        "kosovo",
+        "ireland",
+        "poland",
+        "norway",
+        "bosnia and herzegovina",
+        "slovenia",
+        "finland",
+        "ukraine",
+        "luxembourg",
+        "russia",
+        "romania",
+        "greece",
+        "hungary",
+        "albania",
+        "cyprus",
+        "moldova"
       ]
     }
   ]

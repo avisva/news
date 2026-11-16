@@ -1,68 +1,52 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "results": [
     {
-      "title": "FBI-wanted American linked to human trafficking caught in Phuket",
-      "description": "An American man wanted in the United States in connection with a human trafficking case was detained at a luxury villa in Phuket after the FBI asked Thai immigration police to locate him. The suspect, identified as 33 year old Ronald, was found at a villa in Chalong subdistrict, Mueang Phuket district, on November 13. \u2026 The story FBI-wanted American linked to human trafficking caught in Phuket as seen on Thaiger News.",
-      "link": "https://thethaiger.com/news/phuket/fbi-wanted-american-human-trafficking-phuket",
-      "source": "Thaiger",
-      "image": "https://thethaiger.com/wp-content/uploads/2026/11/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87-23-34-21-2.jpg",
-      "published": "2026-11-15 08:47:55",
+      "title": "Kuwait, GCC states condemn continued Iranian attacks on Bahrain",
+      "description": "KUWAIT CITY, Nov 15: Kuwait, the United Arab Emirates, Saudi Arabia and Qatar on Sunday condemned the continued Iranian attacks targeting Bahrain, describing them as a violation of...",
+      "link": "https://www.arabtimesonline.com/news/kuwait-gcc-states-condemn-continued-iranian-attacks-on-bahrain/",
+      "source": "Kuwait News",
+      "image": "https://www.arabtimesonline.com/arabtimes/uploads/images/2026/11/15/150554.webp",
+      "published": "2026-11-15 12:44:00",
       "category": [
         "crime",
         "politics",
         "top"
       ],
       "country": [
-        "thailand"
+        "kuwait"
       ]
     },
     {
-      "title": "World Day of Remembrance for road traffic victims",
-      "description": "A number of events are set to take place, north and south, today to mark the World Day of Remembrance for road traffic victims.",
-      "link": "https://www.rte.ie/news/ireland/2026/1115/1599266-road-traffic-victims/",
-      "source": "Rte.ie",
-      "image": "https://www.rte.ie/images/00141d12-800.jpg",
-      "published": "2026-11-15 08:47:46",
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ireland"
-      ]
-    },
-    {
-      "title": "NDC regional elections: Here are the elected chairpersons",
-      "description": "The National Democratic Congress (NDC) has elected new regional chairmen in 14 of Ghana\u2019s 16 regions following its 2026 regional executive elections held on",
-      "link": "https://www.citinewsroom.com/2026/11/ndc-regional-elections-here-are-the-elected-chairpersons/",
-      "source": "Citinewsroom - Comprehensive News In Ghana",
-      "image": "https://www.citinewsroom.com/wp-content/uploads/2026/11/collage-YELLO-IN-THE-MIX.png",
-      "published": "2026-11-15 08:47:39",
-      "category": [
-        "politics",
-        "top"
-      ],
-      "country": [
-        "ghana"
-      ]
-    },
-    {
-      "title": "Palestine marks 38th anniversary of statehood declaration",
-      "description": "RAMALLAH: Today marks the 38th anniversary of the declaration of the State of Palestine, proclaimed by late Palestinian leader Yasser Arafat in Algiers on Nov 15, 1988, Palestine News and Info Agency (WAFA) reported.",
-      "link": "https://www.nst.com.my/world/world/2026/11/1578393/palestine-marks-38th-anniversary-statehood-declaration",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/F9F5C86F0034A7A2218DD3B3A2BC6A83_data_0.jpg",
-      "published": "2026-11-15 08:47:30",
+      "title": "Amir says he discussed opportunities to strengthen bilateral cooperation with president of Venezuela",
+      "description": "DOHAHis Highness the Amir of the State of Qatar Sheikh Tamim bin Hamad Al Thani said that he discussed with President of Venezuela HE Dr Delcy Rodriguez opportunities to promote bi...",
+      "link": "https://www.qatar-tribune.com/article/264447/latest-news/amir-says-he-discussed-opportunities-to-strengthen-bilateral-cooperation-with-president-of-venezuela",
+      "source": "Qatar Tribune",
+      "image": "https://www.qatar-tribune.com/watanqatartribune/uploads/images/2026/11/15/404090.jpg",
+      "published": "2026-11-15 12:44:00",
       "category": [
         "politics",
         "top",
         "lifestyle"
       ],
       "country": [
-        "malaysia"
+        "qatar"
+      ]
+    },
+    {
+      "title": "Congress-SP seat-sharing talks continue ahead of crucial UP elections",
+      "description": "Congress and Samajwadi Party leaders expressed confidence about contesting the Uttar Pradesh Assembly elections together, even as seat-sharing talks continue. The BJP dismissed the alliance's prospects, claiming that the coming together of more Opposition parties would benefit it",
+      "link": "https://telanganatoday.com/congress-sp-seat-sharing-talks-continue-ahead-of-crucial-up-elections",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/11/SP-leaders-.jpg",
+      "published": "2026-11-15 12:43:50",
+      "category": [
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

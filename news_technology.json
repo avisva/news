@@ -1,20 +1,50 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Three US aircraft carriers now operating in the Middle East",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/world/three-us-aircraft-carriers-now-operating-in-the-middle-east/news-story/bdae4b03492aace8b58df7c5cd40d541",
-      "source": "The Australian",
-      "image": null,
-      "published": "2026-11-16 22:10:00",
+      "title": "ASX 200 Reece (ASX:REH) Chart Review After Its AGM Rebound - Kalkine Media",
+      "description": "Reece rebounded from its longer-run average after the AGM; a look at support, resistance and momentum.",
+      "link": "https://kalkinemedia.com/au/stocks/technical-analysis/asx-200-reece-asxreh-chart-review-after-its-agm-rebound",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2444243061_11_17_2026_07_36_52_066062.jpg",
+      "published": "2026-11-17 07:36:00",
       "category": [
-        "technology",
-        "business"
+        "sports",
+        "top",
+        "technology"
       ],
       "country": [
         "australia"
+      ]
+    },
+    {
+      "title": "Razer Launches Soma Pro Gaming Chair with Vibration-Feedback Seat in Japan - BigGo Finance",
+      "description": "Razer Launches Soma Pro Gaming Chair with Vibration-Feedback Seat in Japan BigGo Finance It Moves! It Sounds! It Glows! Razer Announces New Gaming Chairs, Razer Soma Pro and Razer Soma Sensa HD Haptics Saiga NAK Razer Soma Pro Review - Dreams Do Come True MMORPG.com Razer Soma Pro Gaming Chair Combines Haptics, THX Spatial Audio And Chroma RGB In One Seat Pokde. Net Razer's New Gaming Chair Rattles Your Spine and Blasts Your Ears in Pursuit of 'Immersion' Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVlFLS0RnM3pqTV8zTmFYZDlwTXlBaU55dkxHRmxLMnh1Y3NMcTRKV1NONm1Xd1RHU1JYUl8tV3Y1dEQycV9YQ1Z5ZVBFamYwZUYwTWNHTGJpTElYNEFudHRjNklFOGttSG1GMXYwaUtKVjBIZGc?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-17 07:36:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Autodesk and Neilsoft Unveil BIM & Digital Twin-Powered Center of Excellence for the Future of the Built Environment",
+      "description": "Autodesk, Inc. and Neilsoft Limited today announced a strategic partnership to jointly establish India\u2019s premier BIM and Digital Twin powered Built Environment and Architecture Engineering Construction Operations (AECO) Centre of Excellence (COE) in Pune, India. The partnership will combine Autodesk Forma, the end-to-end AECO industry cloud platform, with Neilsoft\u2019s industry-leading Digital Twin capabilities and 30-year [\u2026] The post Autodesk and Neilsoft Unveil BIM & Digital Twin-Powered Center of Excellence for the Future of the Built Environment appeared first on CXOToday.com.",
+      "link": "https://cxotoday.com/media-coverage/autodesk-and-neilsoft-unveil-bim-digital-twin-powered-center-of-excellence-for-the-future-of-the-built-environment/",
+      "source": "Cxotoday",
+      "image": "https://cxotoday.com/wp-content/uploads/2022/09/Autodesk.png",
+      "published": "2026-11-17 07:35:48",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

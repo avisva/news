@@ -1,5 +1,36 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "expert reaction to RCT on acupuncture-based treatment for weight loss in women with overweight or obesity",
+      "description": "Scientist reacts to RCT published in Annals of Internal Medicine* on acupuncture-based treatment for weight loss in women with overweight \u2026 read more",
+      "link": "https://www.sciencemediacentre.org/expert-reaction-to-rct-on-acupuncture-based-treatment-for-weight-loss-in-women-with-overweight-or-obesity/",
+      "source": "Science Media Centre",
+      "image": null,
+      "published": "2026-11-16 22:10:00",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "A safer, more compassionate approach to severe hoarding",
+      "description": "UNSW Professor Jessica Grisham is sharing practical strategies to help health professionals support people with severe hoarding who are not ready to engage in conventional treatment. For people experiencing severe hoarding, the prospect of having their possessions removed can prevent them from seeking help, even when their living conditions pose serious health and safety risks. \u2026 Continued",
+      "link": "https://newshub.medianet.com.au/2026/11/a-safer-more-compassionate-approach-to-severe-hoarding/182064/",
+      "source": "News Hub - Medianet News Hub Archive",
+      "image": null,
+      "published": "2026-11-16 22:09:57",
+      "category": [
+        "top",
+        "health"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

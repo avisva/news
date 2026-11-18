@@ -3,34 +3,14 @@
   "totalResults": 3,
   "results": [
     {
-      "title": "Qumulo Turns Long-Term Archives Into a Searchable, AI-Ready Asset at Archive-Tier Cost",
-      "description": "SAN FRANCISCO--(BUSINESS WIRE)--At Microsoft Ignite today, Qumulo introduced ANQ Frozen, a new tier for Azure Native Qumulo (ANQ) that stores data at offline archive-tier cost while keeping every file pathway discoverable, searchable, and retrievable. It gives organizations a modern alternative to tape for data they must keep for years or decades. Enterprises in energy, media, and life sciences retain tens to hundreds of petabytes, and that data is gaining new value: seismic surveys, medical im",
-      "link": "http://www.businesswire.com/news/home/20261117753548/en/Qumulo-Turns-Long-Term-Archives-Into-a-Searchable-AI-Ready-Asset-at-Archive-Tier-Cost/",
-      "source": "Businesswire",
-      "image": null,
-      "published": "2026-11-17 14:05:00",
+      "title": "Greater Cincinnati tech specialists weigh in on recent outages, disruptions",
+      "description": "A series of technology outages affecting email, banking and travel has raised questions about how prepared people and businesses are when systems fail.",
+      "link": "https://www.wlwt.com/article/cincinnati-cybersecurity-experts-outages-disruptions/74458054",
+      "source": "Wlwt",
+      "image": "https://hips.hearstapps.com/htv-prod/images/5f4e05bf-6472-4146-b9b4-424ebe0a865b.jpg",
+      "published": "2026-11-17 23:07:00",
       "category": [
-        "technology"
-      ],
-      "country": [
-        "canada",
-        "germany",
-        "china",
-        "australia",
-        "united states of america",
-        "france",
-        "japan",
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "ZenaTech Inc. (NASDAQ: ZENA) Is \u2018One to Watch\u2019",
-      "description": "ZenaTech (NASDAQ: ZENA) is a technology company developing AI-autonomous drone platforms and services for commercial, government, and defense customers. Its portfolio combines aerial technology with enterprise software to help organizations improve mission-critical operations through automation, precision, and more useful operational data.",
-      "link": "https://www.financialcontent.com/article/nnwire-2026-11-17-zenatech-inc-nasdaq-zena-is-one-to-watch",
-      "source": "Financialcontent",
-      "image": null,
-      "published": "2026-11-17 14:05:00",
-      "category": [
+        "top",
         "technology"
       ],
       "country": [
@@ -38,18 +18,33 @@
       ]
     },
     {
-      "title": "Makerverse launches pan-African platform to improve music royalty payments",
-      "description": "Music technology company Makerverse has launched a platform aimed at helping independent artists, record labels and distributors across Africa distribute music globally and receive royalties through local bank accounts.",
-      "link": "https://musicinafrica.net/magazine/makerverse-launches-pan-african-platform-to-improve-music-royalty-payments/",
-      "source": "Music In Africa",
-      "image": "https://musicinafrica.net/wp-content/uploads/2026/11/Tobie-van-Zy-e1794924839478.jpeg",
-      "published": "2026-11-17 14:05:00",
+      "title": "Tech paranoia intensifies after outages roil public trust",
+      "description": "Breakdowns over the past week have caused enough havoc to spur American consumers into a panic-buying spree.",
+      "link": "https://www.japantimes.co.jp/business/2026/11/18/tech/tech-paranoia-outages-public-trust/",
+      "source": "The Japan Times",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/18/574601.jpg",
+      "published": "2026-11-17 23:07:00",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "south africa"
+        "japan"
+      ]
+    },
+    {
+      "title": "Google Makes Gemini Tasks Free in Canada",
+      "description": "Google is making Gemini Tasks free in Canada, with tools to manage Gmail, create spreadsheets and schedule calendar events. The post Google Makes Gemini Tasks Free in Canada first appeared on iPhone in Canada.",
+      "link": "https://www.iphoneincanada.ca/2026/11/17/google-gemini-tasks-free-canada/",
+      "source": "Iphone In Canada",
+      "image": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/01/new-Gemini-icon-cover.webp",
+      "published": "2026-11-17 23:06:59",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "canada"
       ]
     }
   ]

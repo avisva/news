@@ -1,5 +1,37 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Modi's unmissable tricolour gesture",
+      "description": "During the Quad Leaders\u2019 Summit photo-op in Manila on the sidelines of the ASEAN Summit, PM Narendra Modi picked up an Indian flag marker from the floor, prompting US President Donald Trump to say, \u201cSave it.\u201d",
+      "link": "https://www.thehansindia.com/news/national/modis-unmissable-tricolour-gesture-1143114",
+      "source": "The Hans India",
+      "image": "https://assets.thehansindia.com/h-upload/2026/11/17/1725718-modi.webp",
+      "published": "2026-11-17 23:06:57",
+      "category": [
+        "top",
+        "politics",
+        "lifestyle"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump's proposal to leave thousands of immigrant families homeless",
+      "description": "HUD seeks to restrict thousands of families with mixed migrant status access to federal rental assistance",
+      "link": "https://www.news247plus.com/news/Politics/trump-s-proposal-to-leave-thousands-of-immigrant-families-homeless-64477",
+      "source": "News247plus - Only News That Matters",
+      "image": "https://www.news247plus.com/images/64477/trump-s-proposal-to-leave-thousands-of-immigrant-families-homeless-news-image-64477.webp",
+      "published": "2026-11-17 23:06:53",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

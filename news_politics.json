@@ -1,36 +1,66 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Modi's unmissable tricolour gesture",
-      "description": "During the Quad Leaders\u2019 Summit photo-op in Manila on the sidelines of the ASEAN Summit, PM Narendra Modi picked up an Indian flag marker from the floor, prompting US President Donald Trump to say, \u201cSave it.\u201d",
-      "link": "https://www.thehansindia.com/news/national/modis-unmissable-tricolour-gesture-1143114",
-      "source": "The Hans India",
-      "image": "https://assets.thehansindia.com/h-upload/2026/11/17/1725718-modi.webp",
-      "published": "2026-11-17 23:06:57",
+      "title": "CA can start its flimsy forum by issuing apology to Steve Smith",
+      "description": null,
+      "link": "https://www.theaustralian.com.au/sport/cricket/ca-can-start-its-flimsy-forum-by-apologising-to-steve-smith-for-getting-his-suspension-wrong/news-story/dfaabd6704c9509347f8aaef32d864b2",
+      "source": "The Australian",
+      "image": null,
+      "published": "2026-11-18 07:57:00",
+      "category": [
+        "business",
+        "politics"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "PM Anutin arrives in Shenzhen for APEC leaders\u2019 meeting and trade talks",
+      "description": "Anutin Charnvirakul is due to meet Hong Kong\u2019s chief executive and the leaders of New Zealand and Russia, then sign a free trade agreement with Peru on Thursday.",
+      "link": "https://www.nationthailand.com/news/politics/40073636",
+      "source": "Nation Thailand",
+      "image": "https://media.nationthailand.com/2026/11/I7rCpuwV14Y2Ydi2JExL.webp",
+      "published": "2026-11-18 07:57:00",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "thailand"
+      ]
+    },
+    {
+      "title": "2027 elections: Ex-NPHCDA boss inaugurates Nasarawa West campaign council, mobilises support for Tinubu",
+      "description": "Former Executive Director of the National Primary Health Care Development Agency and All Progressives Congress (APC) candidate for Nasarawa West Senatorial District, Dr. Faisal Shuaib, [...]",
+      "link": "https://blueprint.ng/2027-elections-ex-nphcda-boss-inaugurates-nasarawa-west-campaign-council-mobilises-support-for-tinubu/",
+      "source": "Blueprint Newspapers",
+      "image": "https://blueprint.ng/wp-content/uploads/2026/01/Bola-Tinubu-1-768x576-1.jpg",
+      "published": "2026-11-18 07:56:54",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "nigeria"
+      ]
+    },
+    {
+      "title": "Fountain of Life: Board shares what Jimmy Odukoya allegedly did with church's social media accounts",
+      "description": "Fountain of Life Church\u2019s board alleges Jimmy Odukoya took over its social media without approval, a day after withdrawing recognition of him as senior pastor.",
+      "link": "https://www.legit.ng/entertainment/celebrities/1741961-fountain-life-board-shares-what-jimmy-odukoya-allegedly-churchs-social-media-accounts/",
+      "source": "Legit Nigeria",
+      "image": "https://cdn.legit.ng/images/1200x675/09321ede0027864c.jpeg?v=1",
+      "published": "2026-11-18 07:56:52",
       "category": [
         "top",
         "politics",
         "lifestyle"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Trump's proposal to leave thousands of immigrant families homeless",
-      "description": "HUD seeks to restrict thousands of families with mixed migrant status access to federal rental assistance",
-      "link": "https://www.news247plus.com/news/Politics/trump-s-proposal-to-leave-thousands-of-immigrant-families-homeless-64477",
-      "source": "News247plus - Only News That Matters",
-      "image": "https://www.news247plus.com/images/64477/trump-s-proposal-to-leave-thousands-of-immigrant-families-homeless-news-image-64477.webp",
-      "published": "2026-11-17 23:06:53",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
+        "nigeria"
       ]
     }
   ]

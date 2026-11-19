@@ -1,168 +1,51 @@
 {
   "status": "success",
-  "totalResults": 11,
+  "totalResults": 3,
   "results": [
     {
-      "title": "CA can start its flimsy forum by issuing apology to Steve Smith",
-      "description": null,
-      "link": "https://www.theaustralian.com.au/sport/cricket/ca-can-start-its-flimsy-forum-by-apologising-to-steve-smith-for-getting-his-suspension-wrong/news-story/dfaabd6704c9509347f8aaef32d864b2",
-      "source": "The Australian",
-      "image": null,
-      "published": "2026-11-18 07:57:00",
-      "category": [
-        "business",
-        "politics"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "PM Anutin arrives in Shenzhen for APEC leaders\u2019 meeting and trade talks",
-      "description": "Anutin Charnvirakul is due to meet Hong Kong\u2019s chief executive and the leaders of New Zealand and Russia, then sign a free trade agreement with Peru on Thursday.",
-      "link": "https://www.nationthailand.com/news/politics/40073636",
-      "source": "Nation Thailand",
-      "image": "https://media.nationthailand.com/2026/11/I7rCpuwV14Y2Ydi2JExL.webp",
-      "published": "2026-11-18 07:57:00",
-      "category": [
-        "top",
-        "politics",
-        "business"
-      ],
-      "country": [
-        "thailand"
-      ]
-    },
-    {
-      "title": "youniqx Identity launches fully public EUDI Sandbox",
-      "description": "youniqx Identity now delivers its own public playground offering a unified testing ground for the European Digital Identity wallet.",
-      "link": "https://www.globenewswire.com/fr/news-release/2026/11/18/3405399/0/en/youniqx-identity-launches-fully-public-eudi-sandbox.html",
-      "source": "Globenewswire_fr",
-      "image": null,
-      "published": "2026-11-18 07:57:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "france"
-      ]
-    },
-    {
-      "title": "Nvidia taps Heidrick & Struggles for CEO search, Arm chief Rene Haas among prospects - report",
-      "description": "Nvidia hires Heidrick & Struggles to lead its CEO search, with Arm CEO Rene Haas among potential candidates, the WSJ reports.",
-      "link": "https://seekingalpha.com/news/4674005-nvidia-taps-heidrick-struggles-for-ceo-search-arm-chief-rene-haas-among-prospects---report?feed_item_type=news",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "published": "2026-11-18 07:56:56",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "SpiceJet shares hit upper circuit as board to consider fundraise - Moneycontrol.com",
-      "description": "SpiceJet shares hit upper circuit as board to consider fundraise Moneycontrol.com SpiceJet board approves up to Rs 5,500 crore fundraise amid operational challenges; stock hits 5% upper ci The Economic Times SpiceJet approves fundraising of Rs 5,500 crore, increasing authorised share capital to Rs 7,500 Crore The New Indian Express SpiceJet Gets A Rs 5,500 Crore Lifeline After Its Toughest Year Yet NDTV Profit SpiceJet hits 5% upper band as board to mull fundraise; up 30% in 6 days Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXRMTS16OU5DSDNXOGwtZzg3MTdtdmd5WnFmWXNqUFcwcUhpOExqZUNyYXpyOE52THpPcFFSVDFKUzVCMERvV21DMTBGVkplVjU4dUg3UDVNTTJhNEEwamJjTXVDcWxKOTFnUHJtNlBUU19SWXNVZDUwMndQamxDU3UyeHl3bFVWYmlrWk5hTHBnazlVY01WM0xIUDdsV1BJbHdIc2dXejk5VHA1ODF0eWNFY3ZfbHFuLTl4eDF0bENNV01pU0ppSNIBzgFBVV95cUxOa1FQbjdjNWhYTjNleUpEM1Z5bzlFSzhNa0RRaUFtcDNISWhtRGozeXNJdUlkTGF6V3BldVpuZ3dxNTVMQjY1NUQ1YzNOSFZ6Y1dZMDJMWHdYZVY1YzFoVVFKTFRtTXlJaWM3d2xtMGVEYklseFYyZ0NFM2hvMDZqNjRsLVlMMHRTMEo1VVNvbThqTHg4VFFFd204elQ4S1ZfS3Y3UktOb196UDBFMW1vdmxPTHVMa2JBWVQ5QWJiWDJKUTFLRlhHckZ2MHdxdw?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-11-18 07:56:55",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "SpiceJet shares hit upper circuit as board approves up to Rs 5,500 crore fundraise",
-      "description": "The company said it is in discussions with potential new investors.",
-      "link": "https://www.moneycontrol.com/news/business/markets/spicejet-shares-hit-upper-circuit-as-board-to-consider-fundraise-14083333.html",
-      "source": "Moneycontrol",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/08/20250813042600_spicejet.jpg",
-      "published": "2026-11-18 07:56:55",
+      "title": "Portugal parties propose fuel tax reductions and price controls",
+      "description": "Proposed amendments to the 2027 State Budget include fuel tax reductions, price caps and additional support for consumers and farmers.",
+      "link": "https://www.theportugalnews.com/news/2026-11-18/portugal-parties-propose-fuel-tax-reductions-and-price-controls/1118272",
+      "source": "The Portugal News",
+      "image": "https://d1mnxluw9mpf9w.cloudfront.net/media/1792181781/WhatsApp-Image-2026-10-16-at-21.04.53.jpeg",
+      "published": "2026-11-18 13:47:00",
       "category": [
         "top",
         "business"
       ],
       "country": [
-        "india"
+        "portugal"
       ]
     },
     {
-      "title": "Nigeria: Govt Moves to Unlock $9.3bn Economic Potential of Nigeria's Care Sector",
-      "description": "[Vanguard] The Federal Government has intensified efforts to transform Nigeria's care economy into an organised and investable sector, following the Federal Executive Council's approval of the National Care Policy and Implementation Plan 2026-2030, Minister of Women Affairs and Social Development, Hajiya Imaan Suleiman-Ibrahim has disclosed.",
-      "link": "https://allafrica.com/stories/202611180102.html",
-      "source": "Allafrica Tanzania",
-      "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "published": "2026-11-18 07:56:54",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "tanzania"
-      ]
-    },
-    {
-      "title": "Earnix Wins Chartis Research Insurance Decisioning and Pricing Award, Ranks #15 in Insurance Risk Analytics50",
-      "description": "Recognition highlights Earnix\u2019s insurance analytics capabilities and its approach to connecting data, models and business decisions through a common platform Earnix, the first AI company purpose-built for insurance decisioning, announced that it has won the Insurance Decisioning and Pricing category in Chartis Research\u2019s STORM: Insurance Risk Analytics50 2026, ranking #15... The post Earnix Wins Chartis Research Insurance Decisioning and Pricing Award, Ranks #15 in Insurance Risk Analytics50 appeared first on GlobalFinTechSeries.",
-      "link": "https://globalfintechseries.com/insurtech/earnix-wins-chartis-research-insurance-decisioning-and-pricing-award-ranks-15-in-insurance-risk-analytics50/",
-      "source": "Globalfintechseries",
-      "image": "https://globalfintechseries.com/wp-content/uploads/Earnix-Wins-Chartis-Research-Insurance-Decisioning-and-Pricing-Award-Ranks-15-in-Insurance-Risk-Analytics50.jpg",
-      "published": "2026-11-18 07:56:53",
+      "title": "Ruto Credits Fertiliser Subsidies for Doubling Maize Production to 71 Million Bags",
+      "description": "President William Ruto has attributed a sharp increase in Kenya\u2019s maize production to the government\u2019s fertiliser subsidy programme, saying output rose from 34.3 million bags in 2022 to 71 million bags in 2025. The President said the government had distributed more than 38 million bags of subsidised fertiliser to nearly two million farmers since 2022, [\u2026]",
+      "link": "https://businesstoday.co.ke/ruto-credits-fertiliser-subsidies-for-doubling-maize-production-to-71-million-bags/",
+      "source": "Business Today Kenya",
+      "image": "https://businesstoday.co.ke/wp-content/uploads/2026/09/President-Ruto-1024x576.jpg",
+      "published": "2026-11-18 13:47:00",
       "category": [
         "top",
-        "lifestyle",
         "business"
       ],
       "country": [
-        "united states of america"
+        "kenya"
       ]
     },
     {
-      "title": "South Africa: Why Trade Unions Have Shifted to the Public Sector",
-      "description": "[GroundUp] Mining and factory jobs have shrunk while government jobs have grown",
-      "link": "https://allafrica.com/stories/202611180100.html",
-      "source": "Allafrica Tanzania",
-      "image": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "published": "2026-11-18 07:56:52",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "tanzania"
-      ]
-    },
-    {
-      "title": "Sri Lanka\u2019s Financial Security Faces Catastrophic Cyberattack Threat: Ravi K.",
-      "description": "Formerr Finance Minster and MP Ravi Karunanayake exposes dangerous weaknesses in national financial infrastructure Sri Lanka\u2019s hard-earned foreign reserves, painstakingly rebuilt following the country\u2019s devastating economic collapse, could be exposed to catastrophic losses within minutes if cybercriminals successfully penetrate the country\u2019s financial infrastructure, Opposition MP Ravi Karunanayake warned in Parliament on November 16. Raising a 10-point [\u2026] The post Sri Lanka\u2019s Financial Security Faces Catastrophic Cyberattack Threat: Ravi K. appeared first on LNW Lanka News Web.",
-      "link": "https://lankanewsweb.net/archives/302662/sri-lankas-financial-security-faces-catastrophic-cyberattack-threat-ravi-k/",
-      "source": "Lnw Lanka",
-      "image": "https://lankanewsweb.net/wp-content/uploads/2024/07/No-Turning-Back-for-Sri-Lanka-from-economic-revival-and-brain-gain-Ravi-K.webp",
-      "published": "2026-11-18 07:56:50",
+      "title": "North Korea completes external works on enrichment facility extension, says IAEA",
+      "description": "A new extension to North Korea's Yongbyon enrichment facility has been \"externally complete\" since mid-October, according to the International Atomic Energy Agency (IAEA), which relies on satellite imagery and open sources to monitor the country's nuclear programme. IAEA chief Rafael Grossi on Wednesday said expansion of Pyongyang's enrichment programme remains \"cause for serious concern\".",
+      "link": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
+      "source": "France 24",
+      "image": "https://s.france24.com/media/display/7f75f314-e354-11f1-b7f3-c5c0357b2a0c/w:1024/p:16x9/000-B4XF9KF.jpg",
+      "published": "2026-11-18 13:46:57",
       "category": [
         "top",
         "business",
         "technology"
       ],
       "country": [
-        "sri lanka"
-      ]
-    },
-    {
-      "title": "Anyang Proposes 2.01 Trillion Won Budget for 2027, Up 8%",
-      "description": "Anyang submitted a proposed 2027 budget of 2.0136 trillion won, up 8.02% from this year, focused on welfare, youth, transit and carbon neutrality.",
-      "link": "https://en.sedaily.com/society/2026/11/18/anyang-proposes-201-trillion-won-budget-for-2027-up-8",
-      "source": "\uc11c\uc6b8\uacbd\uc81c",
-      "image": "https://wimg.sedaily.com/news/cms/2026/11/18/news-p.v1.20261118.cae0e611bc464e05aae0e473da706081_P1.jpg",
-      "published": "2026-11-18 07:56:50",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "south korea"
+        "france"
       ]
     }
   ]

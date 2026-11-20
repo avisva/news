@@ -1,21 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Ottawa men sought for Perth homicide added to list of Canada's most wanted",
-      "description": "Joseph Madore and Brayton Kennedy are wanted on first-degree murder charges in the death of Christo Allison Richards this past spring.",
-      "link": "https://ottawacitizen.com/news/ottawa-men-perth-homicide-most-wanted",
-      "source": "Ottawa Citizen",
-      "image": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2024/04/1015-homicide-02.jpg",
-      "published": "2026-11-19 21:38:48",
-      "category": [
-        "health",
-        "world"
-      ],
-      "country": [
-        "canada"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

@@ -1,5 +1,20 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 1,
+  "results": [
+    {
+      "title": "A Man's Missing Arm Suddenly Hurt and His Tinnitus Surged, and the Cause Was a Heart Attack",
+      "description": "A 56-year-old amputee developed intense phantom arm pain and worsening tinnitus during a heart attack caused by a completely blocked coronary artery. His symptoms improved after two stents.",
+      "link": "https://www.medicaldaily.com/phantom-arm-pain-tinnitus-heart-attack-case-481550",
+      "source": "Medical Daily",
+      "image": "https://d.medicaldaily.com/en/full/488937/man-during-heart-attack.jpg?w=1600&h=900&q=88&f=317fb1966505e15e08ab31edca251fed",
+      "published": "2026-11-21 03:58:56",
+      "category": [
+        "health"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,96 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 6,
+  "results": [
+    {
+      "title": "'Look at India': Trump says US could hit 20% GDP growth if Fed cuts interest rates",
+      "description": "Speaking to reporters at the White House, Trump cited India\u2019s lower interest rates and 7% growth as an example.",
+      "link": "https://www.businesstoday.in/world/us/story/look-at-india-trump-says-us-could-hit-20-gdp-growth-if-fed-cuts-interest-rates-568867-2026-11-21",
+      "source": "Business News India",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/us-president-donald-trump-says-attacking-iran-doesnt-seen-necessary-at-this-point-101855881-original-sixteen-to-nine.jpeg?size=1280:720",
+      "published": "2026-11-21 03:58:57",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Claude solved a 150-year-old maths mystery, claims Anthropic researcher: What is Riemann hypothesis? Why does it matter?",
+      "description": "The Riemann hypothesis is a longstanding problem in number theory that concerns the distribution of prime numbers.",
+      "link": "https://www.livemint.com/ai/artificial-intelligence/claude-solved-a-150-year-old-maths-mystery-claims-anthropic-researcher-what-is-riemann-hypothesis-why-does-it-matter-11795228798613.html",
+      "source": "Mint",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/ANTHROPIC-IPO-2_1795232398094_7NeH_1795232457563_ehnJ_f9735470-0266-4d07-bec3-097057095000_Lz7G.jpg",
+      "published": "2026-11-21 03:58:56",
+      "category": [
+        "science"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Tragic Incident in Manipur: 11 Lives Lost Due to Adulterated Liquor",
+      "description": "In a heartbreaking incident in Manipur's Chandel district, 11 people have died and over 180 are hospitalized after consuming adulterated liquor. Chief Minister Y Khemachand Singh has visited the affected patients and assured thorough investigations. A health advisory has been issued, urging the public to avoid questionable alcoholic beverages and seek medical help for any symptoms. The government is taking steps to ensure accountability and improve public safety. This tragic event highlights the urgent need for awareness regarding the dangers of consuming unverified liquor.",
+      "link": "https://gyanhigyan.com/national/tragic-incident-in-manipur-11-lives-lost-due-to-adulterated/cid19557778.htm",
+      "source": "Gyanhigyan",
+      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/4348878c6177ff027b4c48c9cb9ecdde.jfif?width=1280&height=720&resizemode=4",
+      "published": "2026-11-21 03:58:54",
+      "category": [
+        "crime",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "India\u2019s GDP growth projected at 7 pc for FY27, 25 bps rate hike likely in Dec: Report",
+      "description": "Digital Desk | Mumbai, Nov 21 (IANS) India\u2019s real GDP growth is projected at approximately 7 per cent for FY27, supported by sustained public capital expenditure, resilient domestic demand and...",
+      "link": "https://bhaskarlive.in/others/indias-gdp-growth-projected-at-7-pc-for-fy27-25-bps-rate-hike-likely-in-dec-report-2168232",
+      "source": "Bhaskarlive",
+      "image": "https://assets.bhaskarlive.in/h-upload/2026/11/21/1436222-202611214019963.webp",
+      "published": "2026-11-21 03:58:45",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Akvan: Odisha Assembly adjourned to allow MLAs to visit their areas",
+      "description": "Earlier in the day, the House had witnessed noisy scenes as BJD and Congress members continued protests from the beginning of question hour.",
+      "link": "https://www.newindianexpress.com/states/odisha/2026/Nov/21/akvan-odisha-assembly-adjourned-to-allow-mlas-to-visit-their-areas",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2025-12-10/8q7smpis/New-Project-2025-12-10T081755.161.jpg",
+      "published": "2026-11-21 03:58:45",
+      "category": [
+        "crime",
+        "politics",
+        "top"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mumbai CCTV network to get AI upgrade with facial recognition, number plate detection",
+      "description": "Hyderabad-based GVPR Engineers will implement the third phase of Mumbai\u2019s CCTV project, introducing AI-based video analytics and advanced surveillance features by February 2027",
+      "link": "https://www.hindustantimes.com/cities/mumbai-news/mumbai-cctv-network-to-get-ai-upgrade-with-facial-recognition-number-plate-detection-101795233517883.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Mumbai-s--2-098-92-crore-CCTV-upgrade-will-introdu_1795233514427_T3X1.jpg",
+      "published": "2026-11-21 03:58:37",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,51 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Nvidia affair puts Chinese spies in spotlight",
+      "description": "Western officials and analysts say China\u2019s Ministry of State Security is formidable in scale and technological capability",
+      "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "image": null,
+      "published": "2026-11-21 03:58:46",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Marcos orders pilot testing of barrier-less system in expressways",
+      "description": "President Ferdinand Marcos Jr. has ordered the pilot testing of a barrier-less system across all expressways before the end of 2026, the Department of Transportation (DOTr) said on Saturday.",
+      "link": "https://www.abs-cbn.com/news/business/2026/11/21/marcos-orders-pilot-testing-of-barrier-less-system-in-expressways-1158",
+      "source": "Abs-cbn",
+      "image": "https://od2-image-api.abs-cbn.com/prod/20261121031152/ccfab798f02b6eb66abd4c0cdb0fc2286b568f1a2e6412157f921f7ef0fdb690.jpg",
+      "published": "2026-11-21 03:58:45",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "philippines"
+      ]
+    },
+    {
+      "title": "Mumbai CCTV network to get AI upgrade with facial recognition, number plate detection",
+      "description": "Hyderabad-based GVPR Engineers will implement the third phase of Mumbai\u2019s CCTV project, introducing AI-based video analytics and advanced surveillance features by February 2027",
+      "link": "https://www.hindustantimes.com/cities/mumbai-news/mumbai-cctv-network-to-get-ai-upgrade-with-facial-recognition-number-plate-detection-101795233517883.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Mumbai-s--2-098-92-crore-CCTV-upgrade-will-introdu_1795233514427_T3X1.jpg",
+      "published": "2026-11-21 03:58:37",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    }
+  ]
 }

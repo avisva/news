@@ -1,92 +1,63 @@
 {
   "status": "success",
-  "totalResults": 6,
+  "totalResults": 4,
   "results": [
     {
-      "title": "'Look at India': Trump says US could hit 20% GDP growth if Fed cuts interest rates",
-      "description": "Speaking to reporters at the White House, Trump cited India\u2019s lower interest rates and 7% growth as an example.",
-      "link": "https://www.businesstoday.in/world/us/story/look-at-india-trump-says-us-could-hit-20-gdp-growth-if-fed-cuts-interest-rates-568867-2026-11-21",
-      "source": "Business News India",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/us-president-donald-trump-says-attacking-iran-doesnt-seen-necessary-at-this-point-101855881-original-sixteen-to-nine.jpeg?size=1280:720",
-      "published": "2026-11-21 03:58:57",
+      "title": "\u2018Not just a picture, has deep significance\u2019: Hindu seer\u2019s open letter to \u2018blessed\u2019 Rahul, Priyanka Gandhi on Shiva-Parvati image",
+      "description": "In his letter, Saraswati said the depiction was not merely a religious image but represented deeper teachings of the Upanishads concerning Brahman, Maya and the relationship between Shiva and Shakti.",
+      "link": "https://www.moneycontrol.com/news/india/not-just-a-picture-has-deep-significance-hindu-seer-s-open-letter-to-blessed-rahul-priyanka-gandhi-on-shiva-parvati-image-14086140.html",
+      "source": "Moneycontrol",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251208093909_Rahul-Priyanka.png",
+      "published": "2026-11-21 09:34:00",
       "category": [
         "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Claude solved a 150-year-old maths mystery, claims Anthropic researcher: What is Riemann hypothesis? Why does it matter?",
-      "description": "The Riemann hypothesis is a longstanding problem in number theory that concerns the distribution of prime numbers.",
-      "link": "https://www.livemint.com/ai/artificial-intelligence/claude-solved-a-150-year-old-maths-mystery-claims-anthropic-researcher-what-is-riemann-hypothesis-why-does-it-matter-11795228798613.html",
-      "source": "Mint",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/ANTHROPIC-IPO-2_1795232398094_7NeH_1795232457563_ehnJ_f9735470-0266-4d07-bec3-097057095000_Lz7G.jpg",
-      "published": "2026-11-21 03:58:56",
-      "category": [
-        "science"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Tragic Incident in Manipur: 11 Lives Lost Due to Adulterated Liquor",
-      "description": "In a heartbreaking incident in Manipur's Chandel district, 11 people have died and over 180 are hospitalized after consuming adulterated liquor. Chief Minister Y Khemachand Singh has visited the affected patients and assured thorough investigations. A health advisory has been issued, urging the public to avoid questionable alcoholic beverages and seek medical help for any symptoms. The government is taking steps to ensure accountability and improve public safety. This tragic event highlights the urgent need for awareness regarding the dangers of consuming unverified liquor.",
-      "link": "https://gyanhigyan.com/national/tragic-incident-in-manipur-11-lives-lost-due-to-adulterated/cid19557778.htm",
-      "source": "Gyanhigyan",
-      "image": "https://gyanhigyan.com/static/c1e/client/99589/downloaded/4348878c6177ff027b4c48c9cb9ecdde.jfif?width=1280&height=720&resizemode=4",
-      "published": "2026-11-21 03:58:54",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "India\u2019s GDP growth projected at 7 pc for FY27, 25 bps rate hike likely in Dec: Report",
-      "description": "Digital Desk | Mumbai, Nov 21 (IANS) India\u2019s real GDP growth is projected at approximately 7 per cent for FY27, supported by sustained public capital expenditure, resilient domestic demand and...",
-      "link": "https://bhaskarlive.in/others/indias-gdp-growth-projected-at-7-pc-for-fy27-25-bps-rate-hike-likely-in-dec-report-2168232",
-      "source": "Bhaskarlive",
-      "image": "https://assets.bhaskarlive.in/h-upload/2026/11/21/1436222-202611214019963.webp",
-      "published": "2026-11-21 03:58:45",
-      "category": [
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Akvan: Odisha Assembly adjourned to allow MLAs to visit their areas",
-      "description": "Earlier in the day, the House had witnessed noisy scenes as BJD and Congress members continued protests from the beginning of question hour.",
-      "link": "https://www.newindianexpress.com/states/odisha/2026/Nov/21/akvan-odisha-assembly-adjourned-to-allow-mlas-to-visit-their-areas",
-      "source": "The New Indian Express",
-      "image": "https://cf-images.assettype.com/newindianexpress/2025-12-10/8q7smpis/New-Project-2025-12-10T081755.161.jpg",
-      "published": "2026-11-21 03:58:45",
-      "category": [
-        "crime",
         "politics",
-        "top"
+        "lifestyle"
       ],
       "country": [
         "india"
       ]
     },
     {
-      "title": "Mumbai CCTV network to get AI upgrade with facial recognition, number plate detection",
-      "description": "Hyderabad-based GVPR Engineers will implement the third phase of Mumbai\u2019s CCTV project, introducing AI-based video analytics and advanced surveillance features by February 2027",
-      "link": "https://www.hindustantimes.com/cities/mumbai-news/mumbai-cctv-network-to-get-ai-upgrade-with-facial-recognition-number-plate-detection-101795233517883.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/21/1600x900/logo/Mumbai-s--2-098-92-crore-CCTV-upgrade-will-introdu_1795233514427_T3X1.jpg",
-      "published": "2026-11-21 03:58:37",
+      "title": "'Will find way forward through dialogue': Amit Shah assures Arunachal locals amid Siang dam protests - The Times of India",
+      "description": "'Will find way forward through dialogue': Amit Shah assures Arunachal locals amid Siang dam protests The Times of India Concerns of Siang Valley people over dam project to be addressed through dialogue: Amit Shah The Hindu Shah assures 'dialogue' to address concerns on Siang Dam project; says no Kashmiri youth involved in terrorism The New Indian Express \"Traditions Won't Be Compromised\": Amit Shah To Arunachal Dam Protestors NDTV Amit Shah promises talks and rehabilitation package over Arunachal\u2019s Siang dam in Arunachal Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZFlCQ1RxeWV2WmlQZzhVNkdfYUxURHhUbTA4OFRWSTJXaDQ4SWhUb183NHltNDJnakpwYnY1cUp4SkNUTHc0Tmh0MHowNVg1cHBJZnlzVEl1cENwMzJzUk1zdUFDUnBkRkUzMlRBb29fbXA4NWpKMnExMm80SEluaE91d1VDZVZRaTZqZFhmVHBsNEx1QUlzV2JKQ3VoSVNYWDZuZWxNbmZTVzB2cmJHenY2XzJyNXRzS0tKN1FHSlZkd1Z3My1pS3o4ekdNZFpaWGppQi1xM3RhVWpiYUV0VllKOE5lcWNMWjg2MHJTSTZQV1FvRFlzeQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-21 09:34:00",
       "category": [
         "top",
-        "technology"
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Yung DSA\u2014The Rising Rap Star Making His Mark In Bigg Boss 20",
+      "description": "From winning the season's first captaincy task to bringing Pune's Desi Hip-Hop music to national television, rapper Yung DSA has emerged as one of Bigg Boss 20's most talked-about contestants.",
+      "link": "https://www.iwmbuzz.com/television/news/yung-dsa-the-rising-rap-star-making-his-mark-in-bigg-boss-20/2026/11/21",
+      "source": "Iwmbuzz",
+      "image": "https://www.iwmbuzz.com/wp-content/uploads/2026/11/yung-dsa-the-rising-rap-star-making-his-mark-in-bigg-boss-20.jpg",
+      "published": "2026-11-21 09:33:49",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Odisha suspends 3 Govt doctors over social media remarks, absence during cyclone Arnab",
+      "description": "Odisha: The Odisha Health and Family Welfare Department has suspended three government doctors, two for allegedly remaining on unauthorised leave during Cyclone Arnab and another for allegedly making...",
+      "link": "https://medicaldialogues.in/news/health/doctors/odisha-suspends-3-govt-doctors-over-social-media-remarks-absence-during-cyclone-arnab-183715",
+      "source": "Business Medical Dialogues",
+      "image": "https://medicaldialogues.in/h-upload/2026/04/30/344599-suspended.webp",
+      "published": "2026-11-21 09:33:44",
+      "category": [
+        "environment",
+        "top"
       ],
       "country": [
         "india"

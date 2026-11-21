@@ -1,65 +1,37 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 2,
   "results": [
     {
-      "title": "'Look at India': Trump says US could hit 20% GDP growth if Fed cuts interest rates",
-      "description": "Speaking to reporters at the White House, Trump cited India\u2019s lower interest rates and 7% growth as an example.",
-      "link": "https://www.businesstoday.in/world/us/story/look-at-india-trump-says-us-could-hit-20-gdp-growth-if-fed-cuts-interest-rates-568867-2026-11-21",
-      "source": "Business News India",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/us-president-donald-trump-says-attacking-iran-doesnt-seen-necessary-at-this-point-101855881-original-sixteen-to-nine.jpeg?size=1280:720",
-      "published": "2026-11-21 03:58:57",
+      "title": "From eggshells to paddleboards, the surprising ways Islington is helping the planet",
+      "description": "From paddleboard litter-picking to turning eggshells into useful materials, Nicola Baird celebrates Islington's imaginative approach to tackling climate change.",
+      "link": "https://www.islingtongazette.co.uk/news/26732496.nicola-baird-islington-volunteers-tackling-climate-change/",
+      "source": "Islington Gazette",
+      "image": "https://www.islingtongazette.co.uk/resources/images/21722609/",
+      "published": "2026-11-21 09:34:00",
       "category": [
+        "environment",
         "top",
         "business"
       ],
       "country": [
-        "india"
+        "united kingdom"
       ]
     },
     {
-      "title": "US stocks plunge as AI fears deepen, markets enter correction",
-      "description": "Anthropic\u2019s debut fails to calm investors, while Nvidia and tech stocks suffer heavy losses",
-      "link": "https://english.aaj.tv/news/330481479/us-stocks-plunge-as-ai-fears-deepen-markets-enter-correction",
-      "source": "Aaj English Tv",
-      "image": "https://i.aaj.tv/large/2026/11/210858091c772a7.webp",
-      "published": "2026-11-21 03:58:46",
+      "title": "Fossil fuel row stalls COP31 climate deal",
+      "description": "COP31 climate talks spilled into Saturday as nations remained deadlocked after a draft deal dropped all mention of fossil fuels, angering the EU and others",
+      "link": "https://punchng.com/fossil-fuel-row-stalls-cop31-climate-deal/",
+      "source": "Punch",
+      "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
+      "published": "2026-11-21 09:33:48",
       "category": [
-        "business"
-      ],
-      "country": [
-        "pakistan"
-      ]
-    },
-    {
-      "title": "India\u2019s GDP growth projected at 7 pc for FY27, 25 bps rate hike likely in Dec: Report",
-      "description": "Digital Desk | Mumbai, Nov 21 (IANS) India\u2019s real GDP growth is projected at approximately 7 per cent for FY27, supported by sustained public capital expenditure, resilient domestic demand and...",
-      "link": "https://bhaskarlive.in/others/indias-gdp-growth-projected-at-7-pc-for-fy27-25-bps-rate-hike-likely-in-dec-report-2168232",
-      "source": "Bhaskarlive",
-      "image": "https://assets.bhaskarlive.in/h-upload/2026/11/21/1436222-202611214019963.webp",
-      "published": "2026-11-21 03:58:45",
-      "category": [
+        "environment",
         "top",
         "business"
       ],
       "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Marcos orders pilot testing of barrier-less system in expressways",
-      "description": "President Ferdinand Marcos Jr. has ordered the pilot testing of a barrier-less system across all expressways before the end of 2026, the Department of Transportation (DOTr) said on Saturday.",
-      "link": "https://www.abs-cbn.com/news/business/2026/11/21/marcos-orders-pilot-testing-of-barrier-less-system-in-expressways-1158",
-      "source": "Abs-cbn",
-      "image": "https://od2-image-api.abs-cbn.com/prod/20261121031152/ccfab798f02b6eb66abd4c0cdb0fc2286b568f1a2e6412157f921f7ef0fdb690.jpg",
-      "published": "2026-11-21 03:58:45",
-      "category": [
-        "top",
-        "business",
-        "technology"
-      ],
-      "country": [
-        "philippines"
+        "nigeria"
       ]
     }
   ]

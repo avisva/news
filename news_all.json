@@ -1,253 +1,420 @@
 {
   "status": "success",
-  "totalResults": 29,
+  "totalResults": 30,
   "results": [
     {
-      "title": "Dacoits snatch mobile phones from trader in Karachi",
-      "description": "Robbers snatched mobile phones worth Rs7 million from a trader in Karachi, reported 24NewsHD TV channel on Sunday.",
-      "link": "https://www.24newshd.tv/22-Nov-2026/dacoits-snatch-mobile-phones-worth-rs7m-trader-karachi",
-      "source": "24 News Hd",
-      "image": "https://www.24newshd.tv/digital_images/small/2026-11-22/dacoits-snatch-mobile-phones-worth-rs7m-trader-karachi-1795325676-2158.jpg",
-      "published": "2026-11-22 05:36:00",
+      "title": "What Does MAGA Even Mean Anymore?",
+      "description": "Trump made MAGA a movement bigger than himself, but its survival may depend on who can inherit it.",
+      "link": "https://us.headtopics.com/news/what-does-maga-even-mean-anymore-90079065",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/22/newsweek/what-does-maga-even-mean-anymore-what-does-maga-even-mean-anymore-0F8558DB5662F5E16C6119F2AAE326FD-16x9.webp",
+      "published": "2026-11-22 11:13:00",
+      "category": [
+        "top",
+        "politics",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Transfer rumors, news: Antonee Robinson latest USMNT star linked with Man United - ESPN",
+      "description": "Transfer rumors, news: Antonee Robinson latest USMNT star linked with Man United ESPN Man United eye Fulham\u2019s Antonee Robinson as Mauricio Pochettino\u2019s first signing The Peoples Person Man Utd turn to new 'solution' for problem position as chances of INEOS sealing 'dream' signing revealed Football365 Gossip: Balogun and Robinson among several potential targets AOL.com Mauricio Pochettino plotting to lure Antonee Robinson to Man United Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkc0eGNhZWxnYWlrVDFCYS04d2tCd0pWVmRObkYyU2Y2bjdaWkd3My11b3ZzcFhFZFY3NWJMNzVVSHpzelduN1JuTWQ3S2lacUNxWEl0QnQ2NHk0Vm1DcldmM0tSYnFwSmtOUWdCeWR5S3EzQkFsZkRKS055ZHhtOXZCVGZtVXUzc0dEcUQxcFo3dVFGUE1mdVI2b2J6eUR0a3Q3LQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-22 11:13:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "singapore"
+      ]
+    },
+    {
+      "title": "Strictly's Dianne Buswell hits emotional milestone with son Bowie",
+      "description": "The Strictly star welcomed her adorable baby boy in March.",
+      "link": "https://www.express.co.uk/celebrity-news/2268296/strictly-dianne-buswell-emotional-milestone",
+      "source": "Express",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/79/237x141/2268296_1.jpg",
+      "published": "2026-11-22 11:13:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Arsenal vs Borussia Dortmund - prediction, team news, lineups",
+      "description": "Sports Mole previews Tuesday's Champions League clash between Arsenal and Borussia Dortmund, including predictions, team news and possible lineups.",
+      "link": "https://www.sportsmole.co.uk/football/arsenal/champions-league/preview/arsenal-vs-dortmund-prediction-team-news-lineups_609605.html",
+      "source": "Sports Mole",
+      "image": "https://www.sportsmole.co.uk/thumbor/xLrMo1AH9OyCb2nnyfkLTgVTN_A=/1200x0/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F11%2Fimago1086178671h-1-6b01e2d21b012028343267.jpg",
+      "published": "2026-11-22 11:13:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "The Case for Being Ungrateful: When Toxic Positivity Harms",
+      "description": "This article examines the growing trend of gratitude practices, from journals to apps, while highlighting arguments from a Wall Street Journal column that suggests gratitude can become performative or toxic. It explores the concept of anti-gratitude journaling as a counter-movement to toxic positivity, which denies negative experiences, and questions whether forced thankfulness helps or hinders authentic emotional processing.",
+      "link": "https://headtopics.com/news/the-case-for-being-ungrateful-when-toxic-positivity-harms-90079043",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/22/aollifestyle/the-case-for-being-ungrateful-when-toxic-positivit-the-case-for-being-ungrateful-when-toxic-positivit-5451B907D3AEF373EC1476CF0FB3FC26.webp",
+      "published": "2026-11-22 11:13:00",
+      "category": [
+        "top",
+        "science",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Armed police called to North East street after reports of incident involving firearm - Chronicle Live",
+      "description": "Armed police called to North East street after reports of incident involving firearm Chronicle Live",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHN1MTNpcnMyRTZJQ2FicWlWNGFlcXgzQ1NjNTJqYWVaUDQzNEIzcF9PQ2JIVEhMdklNVkpwYXF5TldPdHBaNnVSb0NtMEJfOVF1MVp4VktQYmV6RWNwV2hkcVJZUU5tY29yVzBiaUJZSUtrRGZEMmdFdHFjcVA2bWdGeXVJZEJVSENCQWtfdnp2bkc1VzhN0gGcAUFVX3lxTE8yeWROZE9wS1B3SVMyNlNvU1RVMjVkbEZHMUpJVHY5MjJteE4xd25IdnRNT19OcE5xUDFVS184Rkxic3ZYVXIxRVAxTUhSREtJYWxyT1d2Nnp6aDd2Zl9jUVhOM0YwVzluMDM4ZElLMmRYYXlKZjFPUE54ZHFPUTJOV0Vyd1VHN1pwQkN6QURmdEVrQ2I4Yk1YRXctRw?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-22 11:13:00",
       "category": [
         "crime",
         "top"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Mauricio Pochettino makes instant changes to Man Utd training with warning to players - The Mirror",
+      "description": "Mauricio Pochettino makes instant changes to Man Utd training with warning to players The Mirror Mauricio Pochettino's Man United moment has arrived. Is he ready? ESPN India Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson The Guardian Manchester United: Can Mauricio Pochettino stop Premier League relegation? Al Jazeera Mauricio Pochettino promises brave football as he gets Manchester United\u2019s latest new era underway - The Athletic The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRpbWVaV3RZYTNacVZyWk5jSFRyREdzVDZDcktUZVYwNjNvMjBIOGc1V1pTemVVQld3WnVKbndwWmxtUzZpclpXSk94LU5qOWFPS3VzQnJMdDNzWjVfZmY3ZXUxa2pMR3NOaFNoRlJoRWxDY2pSMlVjVG9JMFczMWRjdjg5c1VWVVdieEN4ZVMycmN0RGR6UzZxZXQzTzRuTlHSAacBQVVfeXFMTVdvXzdzOWt1dEE2WGUzbGRBaTFtT3JQb1NoVV9ybHJ0RVhqQ09pVmgxZGMtYm52UXN2REpFVkV0emhjYzdUOW8yalNKR1RWaWwtVjl4bVNqVGNmUUJ2ZkxmNXAwUTNGZEhyQTc2MEtKU2ZVZHVOT0p2cDhyM0lOdFVqeGljXzNQbHlRdTEyQzk5bkFXazJZWUZndktGUnAwMWROTS1LaDQ?oc=5",
+      "source": "Google News",
+      "image": null,
+      "published": "2026-11-22 11:13:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Octopus says 99p item makes home feel warmer and knocks money off heating bills",
+      "description": "Energy supplier Octopus Energy has shared a simple tip that could help UK households save",
+      "link": "https://www.mirror.co.uk/money/household-bills/octopus-says-99p-item-makes-37903352",
+      "source": "Mirror",
+      "image": "https://i2-prod.mirror.co.uk/news/uk-news/article37903350.ece/ALTERNATES/s615/0_A-commercial-van-painted-in-the-corporate-livery-of-Octopus-Energy-parked-outside-a-residential-property-in-Essex-UK.jpg",
+      "published": "2026-11-22 11:12:58",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Tom Hardy\u2019s cult classic crime drama is on TV tonight",
+      "description": "Our TV movie pick for tonight (Sunday, 22 November) is Lawless, the 2012 crime thriller starring Tom Hardy (The Drop, Warrior).",
+      "link": "https://www.joe.ie/movies-tv/lawless-movies-on-tv-sunday-22-november-2026-best-crime-thriller-889994",
+      "source": "Joe",
+      "image": "https://assets.joe.ie/uploads/2026/11/Website-Image-_-Full-Bleed-10-2.png",
+      "published": "2026-11-22 11:12:57",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "ireland"
+      ]
+    },
+    {
+      "title": "How India\u2019s investment is growing despite higher interest rates",
+      "description": "New Delhi, Nov 22 (SocialNews.XYZ) The decade of cheap money that facilitated corporate expansion in the global economy appears to have changed with loans turning more expensive due to higher interest. The challenge for businesses... The post How India\u2019s investment is growing despite higher interest rates appeared first on Social News XYZ.",
+      "link": "https://www.socialnews.xyz/2026/11/22/how-indias-investment-is-growing-despite-higher-interest-rates/",
+      "source": "Social News Xyz",
+      "image": "https://s3.socialnews.xyz/wp-content/uploads/2026/11/22/202611224021427.jpg",
+      "published": "2026-11-22 11:12:56",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Compass Diversified erzielt nach Fair-Value-Signal 64 % Rendite",
+      "description": null,
+      "link": "https://de.investing.com/news/investment-ideas/compass-diversified-erzielt-nach-fairvaluesignal-64--rendite-93CH-3781039",
+      "source": "Investing - Ihr",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+      "published": "2026-11-22 11:12:56",
+      "category": [
+        "crime",
+        "top",
+        "lifestyle"
+      ],
+      "country": [
+        "germany"
+      ]
+    },
+    {
+      "title": "The negotiation meeting between Yashar representatives and Likud representatives has begun",
+      "description": "The negotiation meeting between Yashar representatives and Likud representatives has begun",
+      "link": "https://www.israelnationalnews.com/flashes/698193",
+      "source": "Israelnationalnews",
+      "image": "https://www.israelnationalnews.com/files/pictures/0/0.jpg",
+      "published": "2026-11-22 11:12:56",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "israel"
+      ]
+    },
+    {
+      "title": "More than 5,000 serious patient safety incidents recorded across Scotland\u2019s NHS since 2020",
+      "description": "718 Category 1 incidents, meaning contributing to or resulting in permanent harm or death, were logged in 2026",
+      "link": "https://news.stv.tv/west-central/more-than-5000-serious-patient-safety-incidents-recorded-across-scotlands-nhs-since-2020",
+      "source": "Stv News",
+      "image": "https://news.stv.tv/wp-content/uploads/2026/04/51bcef27b715c0a4b6e89fbcd3e4e0a5-1776688453-1079x720.jpeg",
+      "published": "2026-11-22 11:12:56",
+      "category": [
+        "crime",
+        "top",
+        "health"
+      ],
+      "country": [
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Intel Corporation $INTC Stake Lessened by State Farm Mutual Automobile Insurance Co.",
+      "description": "State Farm Mutual Automobile Insurance Co. lessened its stake in shares of Intel Corporation (NASDAQ:INTC - Free Report) by 1.0% during the third quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The firm owned 23,815,724 shares of the chip maker's s",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-intel-corporation-intc-stake-lessened-by-state-farm-mutual-automobile-insurance-co-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/intel-co-logo-1200x675.png?v=20250605133156",
+      "published": "2026-11-22 11:12:52",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "39,307,004 Shares in Builders FirstSource, Inc. $BLDR Bought by State Farm Mutual Automobile Insurance Co.",
+      "description": "State Farm Mutual Automobile Insurance Co. acquired a new stake in Builders FirstSource, Inc. (NYSE:BLDR - Free Report) during the 3rd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The institutional investor acquired 39,307,004 shares",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-39307004-shares-in-builders-firstsource-inc-bldr-bought-by-state-farm-mutual-automobile-insurance-co-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/builders-firstsource-inc-logo-1200x675.png?v=20240105170621",
+      "published": "2026-11-22 11:12:52",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Iridium Communications Inc $IRDM Shares Sold by Silver Heights Capital Management Inc",
+      "description": "Silver Heights Capital Management Inc lowered its stake in shares of Iridium Communications Inc (NASDAQ:IRDM - Free Report) by 18.7% in the third quarter, according to its most recent disclosure with the SEC. The fund owned 2,663,293 shares of the technology company's stock after selling 611,654 sha",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-iridium-communications-inc-irdm-shares-sold-by-silver-heights-capital-management-inc-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/iridium-communications-inc-logo-1200x675.png?v=20221114145307",
+      "published": "2026-11-22 11:12:51",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Silver Heights Capital Management Inc Purchases 197,625 Shares of Heico Corporation $HEI",
+      "description": "Silver Heights Capital Management Inc acquired a new stake in shares of Heico Corporation (NYSE:HEI - Free Report) during the third quarter, according to its most recent filing with the SEC. The fund acquired 197,625 shares of the aerospace company's stock, valued at approximately $45,124,000. Heico",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-silver-heights-capital-management-inc-purchases-197625-shares-of-heico-corporation-hei-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/heico-corp-logo-1200x675.jpg",
+      "published": "2026-11-22 11:12:51",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Caterpillar Inc. $CAT Stake Cut by State Farm Mutual Automobile Insurance Co.",
+      "description": "State Farm Mutual Automobile Insurance Co. decreased its holdings in shares of Caterpillar Inc. (NYSE:CAT - Free Report) by 0.6% during the third quarter, according to its most recent filing with the SEC. The firm owned 14,421,823 shares of the industrial products company's stock after selling 87,48",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-caterpillar-inc-cat-stake-cut-by-state-farm-mutual-automobile-insurance-co-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/Caterpillar-logo-web-1200x675.jpg",
+      "published": "2026-11-22 11:12:51",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Thalapathy Vijay's Estranged Wife Sangeetha Arrives Separately At Anirudh Ravichander- Kavya Maran's Wedding Reception",
+      "description": "In February 2026, Thalapathy Vijay's wife, Sangeetha Sornalingam, filed a divorce petition at the Chengalpattu court",
+      "link": "https://www.outlookindia.com/art-entertainment/thalapathy-vijays-estranged-wife-sangeetha-arrives-separately-at-anirudh-ravichander-kavya-marans-wedding-reception",
+      "source": "Outlook",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-11-22/tlq06wxm/Untitled-Design-71.png",
+      "published": "2026-11-22 11:12:39",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Guadagnino\u2019s \u2018American Psycho\u2019 Remake Is Not Happening",
+      "description": "Luca Guadagnino says the American Psycho adaptation he set up at Lionsgate in 2024 is dead: \"Unfortunately for me, as we speak, it's not happening.\" The post Guadagnino\u2019s \u2018American Psycho\u2019 Remake Is Not Happening appeared first on iHorror.",
+      "link": "https://ihorror.com/guadagnino-american-psycho-remake-not-happening-lionsgate/",
+      "source": "Ihorror",
+      "image": "https://ihorror.com/wp-content/uploads/2026/11/Christian-Bale-as-Patrick-Bateman-in-American-Psycho.webp",
+      "published": "2026-11-22 11:12:37",
+      "category": [
+        "top",
+        "entertainment"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Akali Dal (Waris Punjab De) & BSP eye 2027 Punjab Assembly poll tie-up",
+      "description": "Yesterday\u2019s three-hour brief homecoming of Amritpal Singh on his grandmother\u2019s cremation offered a rare opportunity to re-connect with supporters and reinforce his political relevance and inject fresh movement into his outfit.",
+      "link": "https://www.newindianexpress.com/india/2026/Nov/22/akali-dal-waris-punjab-de-bsp-eye-2027-punjab-assembly-poll-tie-up",
+      "source": "The New Indian Express",
+      "image": "https://cf-images.assettype.com/newindianexpress/2026-11-22/msvmvko5/20260928133f.jpg",
+      "published": "2026-11-22 11:12:36",
+      "category": [
+        "top",
+        "politics",
+        "lifestyle"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mixed trend in cement prices",
+      "description": "A mixed trend in cement prices was observed over the past week, with a decline recorded in the northern regions and an increase in the southern regions. In the northern regions, the average price per bag of cement fell by Rs 19 (1.25%) to Rs 1,569, down from Rs 1,588 the previous week. Conversely, in [\u2026] The post Mixed trend in cement prices appeared first on Daily The Patriot.",
+      "link": "https://dailythepatriot.com/mixed-trend-in-cement-prices/",
+      "source": "Daily The Patriot",
+      "image": "https://dailythepatriot.com/wp-content/uploads/2026/11/%D8%B3%DB%8C%D9%85%D9%86%D9%B9.jpg",
+      "published": "2026-11-22 11:12:34",
+      "category": [
+        "business"
       ],
       "country": [
         "pakistan"
       ]
     },
     {
-      "title": "Eagles flag hero Rioli reveals shock health diagnosis - The West Australian",
-      "description": "Eagles flag hero Rioli reveals shock health diagnosis The West Australian",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWEJKSVpGT3V0TjJaaFdDcEpWSF9LTk1WeUs1NGRHeW9pck5VYmR1M3FTLVZCUVcya0RfdkxSalluSVpfMkNQc1IzLW82eV85ZFJIRm9VVmJXNE1mcEtVWEdZNmxXTkpGVUY0NEdRS1NHVnpjQjJqU0s3a01hZnlJeFhuN083ejVtSTh5S2c1bURQREQyMEUyT3NMREZMbGJ4bTNzWnNBdk54QW5YS2M2U0Y0Z09BT0V0a0VPbFFOa3F4dFpqZnBiUlNfc1JJV2NqdDFJ?oc=5",
-      "source": "Google News",
-      "image": null,
-      "published": "2026-11-22 05:36:00",
+      "title": "Ukrainian authorities warn people may be trapped under rubble after Russian drone attack",
+      "description": "A Russian attack struck an apartment building in a village near Ukraine's capital on Sunday, killing at least two people and wounding four others, authorities said.",
+      "link": "https://apnews.com/video/ukrainian-authorities-warn-people-may-be-trapped-under-rubble-after-russian-drone-attack-bba96f8b07e24ba5b938da5de8a26337",
+      "source": "Apnews",
+      "image": "https://assets.apnews.com/d2/78/ea1ce29c112bc4356ca355bafc3c/ukr-war-kyiv-attack-20261122cr-1920x1080.jpg",
+      "published": "2026-11-22 11:12:34",
       "category": [
-        "sports"
+        "environment"
       ],
       "country": [
-        "australia"
+        "united states of america"
       ]
     },
     {
-      "title": "What CCTV revealed about AKA and Anele Tembe\u2019s final hours",
-      "description": "CCTV footage, evidence of an apparent struggle, inconclusive DNA results and previously unfiled domestic violence reports came under scrutiny as the Anele Tembe inquest examined what happened before the 22-year-old plunged from the 10th floor of Cape Town\u2019s Pepper Club Hotel.",
-      "link": "https://iol.co.za/news/crime-and-courts/2026-11-22-what-cctv-revealed-about-aka-and-anele-tembes-final-hours/",
-      "source": "Iol",
-      "image": "https://iol-prod.appspot.com/image/cbf28dc9298fc0f8fcf0916a01cfcfcc8eff216d",
-      "published": "2026-11-22 05:36:00",
-      "category": [
-        "crime",
-        "politics",
-        "top"
-      ],
-      "country": [
-        "south africa"
-      ]
-    },
-    {
-      "title": "Amazing Spider-Man #1004 Details Itsy Bitsy Kidnapping of J. Jonah Jameson",
-      "description": "Joe Kelly's Amazing Spider-Man 1004 releases on November 25, 2026. The issue follows Peter Parker's desperate rescue of J. Jonah Jameson from Itsy Bitsy while managing Avengers duties.",
-      "link": "https://us.headtopics.com/news/amazing-spider-man-1004-details-itsy-bitsy-kidnapping-of-90072907",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/11/22/bleedingcool/amazing-spider-man-1004-details-itsy-bitsy-kidnapp-amazing-spider-man-1004-details-itsy-bitsy-kidnapp-87F2445D58C436E6F6C345B91D3CB836-16x9.webp",
-      "published": "2026-11-22 05:36:00",
+      "title": "Texas Yale Capital Corp. Sells 2,850 Shares of International Business Machines Corporation $IBM",
+      "description": "Texas Yale Capital Corp. decreased its stake in International Business Machines Corporation (NYSE:IBM - Free Report) by 34.7% in the third quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The institutional investor owned 5,371 shares of the t",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-texas-yale-capital-corp-sells-2850-shares-of-international-business-machines-corporation-ibm-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/international-business-machines-co-logo-1200x675.png?v=20221020160751",
+      "published": "2026-11-22 11:12:34",
       "category": [
         "top",
+        "business"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "India's oil, gas import bill jumps to $16 billion in October",
+      "description": "Daijiworld Media Network - New Delhi New Delhi, Nov 22: India's net import bill for oil and gas surged to $16 billion in October 2026, compared to $10 billion in the corresponding month last year, driven by a sharp rise in global crude oil prices, according to data compiled by the Petrol....",
+      "link": "https://daijiworld.com/news/newsDisplay?newsID=1336005",
+      "source": "Daijiworld",
+      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_221126_Buiss1.jpg",
+      "published": "2026-11-22 11:12:33",
+      "category": [
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Mamata-led TMC faction files police complaint over alleged forged ECI affidavits",
+      "description": "Daijiworld Media Network - Kolkata Kolkata, Nov 22: The Mamata All India Trinamool Congress (MAITC), led by former West Bengal Chief Minister Mamata Banerjee and her nephew Abhishek Banerjee, has lodged a police complaint against the Democratic Trinamool Congress (DTC), led by Leader of....",
+      "link": "https://daijiworld.com/news/newsDisplay?newsID=1336006",
+      "source": "Daijiworld",
+      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_221126_TMC.jpg",
+      "published": "2026-11-22 11:12:33",
+      "category": [
+        "top",
+        "politics"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Tanveer Sait unhappy with CM\u2019s political secy post; Belur Gopalakrishna, Bhandary named chief whips",
+      "description": "Daijiworld Media Network \u2013 Bengaluru/Mysuru Bengaluru / Mysuru, Nov 22: In a major exercise to accommodate disgruntled leaders following the Cabinet expansion, the Congress high command has approved the appointment of 18 party leaders to key government posi....",
+      "link": "https://daijiworld.com/news/newsDisplay?newsID=1336007",
+      "source": "Daijiworld",
+      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ASM_tanbelman_22112026_1.jpg",
+      "published": "2026-11-22 11:12:33",
+      "category": [
+        "top",
+        "politics",
         "entertainment"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Bolton's Sophie Willan takes on heartfelt Christmas mission for BBC show",
-      "description": "Bolton-born actress and comedian Sophie Willan is set to appear on BBC's The Repair Shop for a special Christmas episode close to her heart.",
-      "link": "https://www.theboltonnews.co.uk/news/26741521.boltons-sophie-willan-joins-repair-shop-christmas-special/",
-      "source": "The Bolton News",
-      "image": null,
-      "published": "2026-11-22 05:36:00",
-      "category": [
-        "top",
-        "entertainment"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Emergency crews race to dual motorbike crashes on regional roads",
-      "description": null,
-      "link": "https://www.couriermail.com.au/news/queensland/mackay/police-courts/rescue-helicopter-lands-after-motorbike-hits-cow-in-one-of-two-mackay-crashes/news-story/81f69f495c240dc28870deb43501bbd7",
-      "source": "The Courier Mail",
-      "image": null,
-      "published": "2026-11-22 05:36:00",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "australia"
-      ]
-    },
-    {
-      "title": "Inside community's daily battle to reclaim famous Birmingham streets from the Soho Road 'kings'",
-      "description": "Birmingham's Soho Road is facing huge challenges - but the future is looking bright, say shopkeepers",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/inside-communitys-daily-battle-reclaim-34933539",
-      "source": "Birmingham Live",
-      "image": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34943957.ece/ALTERNATES/s615/0_sohoroad.jpg",
-      "published": "2026-11-22 05:36:00",
-      "category": [
-        "top",
-        "politics",
-        "lifestyle"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "Manila police confirm 19 arrests during anti-ASEAN protests",
-      "description": "The Manila Police District (MPD) confirmed that they arrested 19 individuals during protest rallies held in Manila on Nov. 15 and 16 in connection with the 49th ASEAN Summit, including five minors, police said. In a statement, the MPD said the arrests were made in Plaza Lawton, Malate, and Sta. Mesa. Of the 19 individuals, four were identified as minors who were rescued, while another was classified as a child in conflict with the law (CICL). In Plaza Lawton, nine individuals were presented for inquest proceedings. Six were charged by the Manila City Prosecutor's Office with violating Article 151 of the Revised Penal Code (RPC), or resistance and disobedience to a person in authority or to agents of such a person. The six were subsequently released after the Regional Trial Court (RTC) of Manila granted their bail on Nov. 20. The remaining three were referred for further investigation. The CICL was turned over to the Manila Youth Reception Center (MYRC) for appropriate intervention. In Malate, two individuals were also presented for inquest proceedings for alleged violations of Articles 151 and 153 of the RPC, as well as Batas Pambansa (B.P.) Blg. 880, or the Public Assembly Act of 1985. Their bail was granted before the Manila City Prosecutor's Office issued a resolution referring their cases for further investigation. Meanwhile, eight individuals were arrested in Sta. Mesa for alleged violations of Articles 151 and 153 of the RPC, B.P. Blg. 880, and Manila City Ordinance No. 8609, or the Anti-Vandalism Ordinance. Four of the eight were identified as minors and turned over to the Manila Department of Social Welfare's Reception and Action Center (RAC), while the other four were released from police custody on Nov. 19. The MPD said it remains committed to upholding the rule of law, protecting public safety, safeguarding minors, and respecting the constitutional right to peaceful assembly.",
-      "link": "https://mb.com.ph/article/10945705/philippines/metro-manila/manila-police-confirm-19-arrests-during-anti-asean-protests",
-      "source": "Manila Bulletin",
-      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/11/22/148245.webp",
-      "published": "2026-11-22 05:36:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "philippines"
-      ]
-    },
-    {
-      "title": "Japan plans to register foreign agents, but will the system be effective?",
-      "description": "TOKYO: As part of the government's initiative to strengthen the nation's intelligence capabilities, it is speeding up efforts to hammer out the details of a system to prevent foreign interference. The government aims to submit a bill on the system to the Diet next year.",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/japan-plans-to-register-foreign-agents-but-will-the-system-be-effective",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/22/4225456.JPG",
-      "published": "2026-11-22 05:36:00",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "malaysia"
-      ]
-    },
-    {
-      "title": "Suffering is not the end of the story, Pope Leo urges Christians",
-      "description": ",,, As WYD 2027 offers sign language versions of theme song Pope Leo XIV has rekindled his message of hope read more Suffering is not the end of the story, Pope Leo urges Christians",
-      "link": "https://businessday.ng/life/article/suffering-is-not-the-end-of-the-story-pope-leo-urges-christians/",
-      "source": "Business News Nigeria",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/11/Untitled-Design-2026-11-15T074310.753.png",
-      "published": "2026-11-22 05:35:57",
-      "category": [
-        "top",
-        "politics",
-        "lifestyle"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Objections in Court: Common Trial Objections and How to Make Them",
-      "description": "The most common objections in court, the federal rules behind them, how to make one, how to preserve it for appeal and how depositions and UK practice differ. The post Objections in Court: Common Trial Objections and How to Make Them appeared first on Legal Desire Media and Insights.",
-      "link": "https://legaldesire.com/objections-in-court/",
-      "source": "Legal Desire Media And Insights",
-      "image": "https://legaldesire.com/wp-content/uploads/2026/11/objections-in-court-lawyer-addressing-judge.jpg",
-      "published": "2026-11-22 05:35:55",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
         "india"
       ]
     },
     {
-      "title": "4-time F1 champion Max Verstappen holds off several contenders to win Las Vegas Grand Prix for the 3rd time in 4 years.",
-      "description": "LAS VEGAS (AP) \u2014 4-time F1 champion Max Verstappen holds off several contenders to win Las Vegas Grand Prix for the 3rd time in 4 years. The Associated Press The post 4-time F1 champion Max Verstappen holds off several contenders to win Las Vegas Grand Prix for the 3rd time in 4 years. appeared first on Medicine Hat News.",
-      "link": "https://medicinehatnews.com/sports/national-sports/2026/11/21/4-time-f1-champion-max-verstappen-holds-off-several-contenders-to-win-las-vegas-grand-prix-for-the-3rd-time-in-4-years/",
-      "source": "Medicine Hat News",
-      "image": "https://medicinehatnews.com/wp-content/uploads/cp/2026/11/cee28f1d6c5608a6b4515c41abf3120d5640ca45faa13e04b8e7910a471e794b.jpg",
-      "published": "2026-11-22 05:35:55",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Why GTA 6 renders at 720p on the Xbox Series S and still shows a 1080p picture: what FSR 4 upscaling does, and why all four console versions are upscaled",
-      "description": "GTA 6 renders at 720p on Xbox Series S and FSR 4 scales it to 1080p. The other three versions are also upscaled. Digital Foundry saw mid-20s drops on Series S.",
-      "link": "https://maketecheasier.com/gta-6-series-s-720p-fsr-4-upscaling/",
-      "source": "Maketecheasier",
-      "image": "https://maketecheasier.com/wp-content/uploads/2026/11/gta-6-series-s-720p-fsr-4-upscaling-featured-scaled.jpg",
-      "published": "2026-11-22 05:35:51",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Watts\u2019 16 lead UTSA past Air Force 90-68",
-      "description": "SAN ANTONIO (AP) \u2014 Isaiah Watts\u2019 16 points helped UTSA defeat Air Force 90-68 on Saturday. Watts also contributed six rebounds for the Roadrunners (4-2). J.J. Kelly added 15 points while finishing 7 of 9 from the floor while they also had five assists and three blocks. Isaiah Coleman had 14 points and shot 5 The post Watts\u2019 16 lead UTSA past Air Force 90-68 appeared first on Medicine Hat News.",
-      "link": "https://medicinehatnews.com/sports/national-sports/2026/11/21/watts-16-lead-utsa-past-air-force-90-68/",
-      "source": "Medicine Hat News",
-      "image": null,
-      "published": "2026-11-22 05:35:48",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "canada"
-      ]
-    },
-    {
-      "title": "Special Lok Adalat settles 52 cheque-bounce cases in Sangrur",
-      "description": "A total of 52 cases were settled by mutual consent at a special Lok Adalat held in Sangrur on Saturday to resolve pending cases under the Negotiable Instruments Act, 1881. The Lok Adalat was organised in accordance with the directions of Justice Deepak Sibal, Judge of the Punjab and Haryana High Court and Executive Chairman [\u2026]",
-      "link": "https://www.tribuneindia.com/news/punjab/special-lok-adalat-settles-52-cheque-bounce-cases-in-sangrur",
-      "source": "The Tribune India",
-      "image": "https://publish.tribuneindia.com/wp-content/uploads/2026/11/6b027eb7eff5e-PHOTO-2026-11-21-17-50-33.jpg",
-      "published": "2026-11-22 05:35:43",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "PANI project to connect Andaman's eight islands through undersea cable network",
-      "description": "PANI project to connect Andaman's eight islands through undersea cable network",
-      "link": "https://www.hindustantimes.com/india-news/pani-project-to-connect-andaman-s-eight-islands-through-undersea-cable-network-101795325743696.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india1_1751287243850_1751287256749.jpg",
-      "published": "2026-11-22 05:35:43",
-      "category": [
-        "top",
-        "business",
-        "technology"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-      "description": "An American Express card is shown, Jan. 18, 2024, in Atlanta.",
-      "link": "https://www.nbcnewyork.com/news/national-international/trump-work-with-democrats-cap-credit-card-interest-rates/6575177/",
-      "source": "Nbc 4 New York",
-      "image": "https://media.nbcnewyork.com/2026/11/AP26325637911235.jpg?quality=85&strip=all&fit=5017,3345",
-      "published": "2026-11-22 05:35:42",
+      "title": "9,850 Alibaba Group Holding Limited $BABA Shares Acquired by Texas Yale Capital Corp.",
+      "description": "Texas Yale Capital Corp. boosted its position in Alibaba Group Holding Limited (NYSE:BABA - Free Report) by 147.2% during the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The fund owned 16,543 shares of the specialty retailer's stock after buyin",
+      "link": "https://www.marketbeat.com/instant-alerts/filing-9850-alibaba-group-holding-limited-baba-shares-acquired-by-texas-yale-capital-corp-2026-11-22/",
+      "source": "Market Beat",
+      "image": "https://www.marketbeat.com/logos/alibaba-group-holding-limited-logo-1200x675.png?v=20221020143329",
+      "published": "2026-11-22 11:12:31",
       "category": [
         "top",
         "business"
@@ -257,181 +424,33 @@
       ]
     },
     {
-      "title": "Injury concerns grow for Bills ahead of Week 11 clash with Dolphins",
-      "description": "\u2018The Bills on Saturday announced that defensive lineman Ed Oliver has an oblique injury and is listed as questionable. Buffalo hosts the Miami Dolphins at 1 p.m. Sunday at Highmark Stadium.\u2019",
-      "link": "https://www.twobillsdrive.com/2026/11/22/injury-concerns-grow-for-bills-ahead-of-week-11-clash-with-dolphins/",
-      "source": "Two Bills Drive",
-      "image": null,
-      "published": "2026-11-22 05:35:41",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Josh Allen closes in on 2 historic NFL milestones against Miami",
-      "description": "\u2018First, he could can become the fourth quarterback in NFL history with at least 25 total touchdowns \u2014 that\u2019s passing and rushing combined \u2014 in eight of his first nine career seasons. He enters Sunday\u2019s 1 p.m. game with 13 touchdown passes and 11 more on the ground.\u2019",
-      "link": "https://www.twobillsdrive.com/2026/11/22/josh-allen-closes-in-on-2-historic-nfl-milestones-against-miami/",
-      "source": "Two Bills Drive",
-      "image": null,
-      "published": "2026-11-22 05:35:34",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Fuel leak forces Liam Lawson to miss Las Vegas Grand Prix start, ending top-10 streak",
-      "description": "Last-minute repairs left the Racing Bulls driver a lap down before hitting the track, recovering to finish 15th in Max Verstappen's win",
-      "link": "https://www.stuff.co.nz/sport/361059852/fuel-leak-forces-liam-lawson-miss-las-vegas-grand-prix-start-ending-top-10-streak",
-      "source": "Stuff",
-      "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYendiPcoMFQT1eAXcaWPrhCv5pljvf2QGejdGejy5TBnR5buwvUlhqrlMA3JtbdvT9TzhooDJ64e%2FzKBFoTr9VEEX05p707hzLEcDlSm4e9QfKh5jgFS4EVoNri9D1ZqejIkZ0gDfPW3fFnJcLQYmB4=",
-      "published": "2026-11-22 05:35:28",
-      "category": [
-        "sports",
-        "crime",
-        "top"
-      ],
-      "country": [
-        "new zealand"
-      ]
-    },
-    {
-      "title": "GTA 6 pushed UK PlayStation download requests to 8.6 times their normal level at launch, Cloudflare says, and New Zealand peaked at 14.8 times shortly before its own midnight unlock, which the BBC reads as players switching regions to start early",
-      "description": "Cloudflare says UK PlayStation download requests hit 8.6x at GTA 6 launch. New Zealand hit 14.8x shortly before unlock, which the BBC reads as region switching.",
-      "link": "https://maketecheasier.com/gta-6-playstation-download-request-spike/",
-      "source": "Maketecheasier",
-      "image": "https://maketecheasier.com/wp-content/uploads/2026/11/gta-6-playstation-download-request-spike-featured-scaled.jpg",
-      "published": "2026-11-22 05:35:27",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "singapore"
-      ]
-    },
-    {
-      "title": "Man shot to death near San Leandro High",
-      "description": "(BCN) -- A man was found shot to death Saturday morning in the Halcyon Foothill neighborhood near San Leandro High School, police said. The victim was discovered about 8:21 a.m. His identity hadn't been confirmed Saturday afternoon, police said. It appeared to be an isolated incident, according to police. Anyone with knowledge of [...]",
-      "link": "https://www.kron4.com/news/bay-area/man-shot-to-death-near-san-leandro-high/",
-      "source": "Kron4",
-      "image": "https://www.kron4.com/wp-content/uploads/sites/11/2024/07/san-leandro-police-department-pd-patrol-vehicle-car-shield.jpg?w=888",
-      "published": "2026-11-22 05:35:21",
-      "category": [
-        "crime",
-        "top"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "Real level with Barca after edging Celta Vigo",
-      "description": "Espi spares Mbappe's blushes as Real Madrid beat Celta Vigo",
-      "link": "https://bdnews24.com/sport/95etbb974c",
-      "source": "Bdnews24.com",
-      "image": "https://media.assettype.com/bdnews24-english/2026-11-22/z1y0htdg/real-madrid-espi-221126.jpg",
-      "published": "2026-11-22 05:35:17",
-      "category": [
-        "sports",
-        "top"
-      ],
-      "country": [
-        "bangladesh"
-      ]
-    },
-    {
-      "title": "Aaditya Thackeray targets BJP over jobs, drought relief",
-      "description": "Thackeray said the party's plan to establish 100 branches in Pune would include helping residents exercise their voting rights, irrespective of their political preferences",
-      "link": "https://www.mid-day.com/mumbai/mumbai-news/article/aaditya-thackeray-targets-bjp-over-jobs-drought-relief-says-shiv-sena-ubt-monitoring-voter-list-complaints-23660890",
-      "source": "Mid-day",
-      "image": "https://images.mid-day.com/images/images/2026/nov/AadityaThackerayNewX_1795324254884_d.jpg",
-      "published": "2026-11-22 05:35:16",
+      "title": "KNRUHS reopens BHMS Management Quota applications for 2026-27",
+      "description": "Kaloji Narayana Rao University of Health Sciences has reopened online applications for BHMS Management Quota Category B and C/NRI admissions in Telangana private homoeopathic colleges for 2026-27. Registration closes at 4 pm Monday.",
+      "link": "https://telanganatoday.com/knruhs-reopens-bhms-quota-registration-34465da5",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/11/knruhs-reopens-bhms-quota-registration-34465da5-640a8798.jpg",
+      "published": "2026-11-22 11:12:27",
       "category": [
         "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Maharashtra scales down tree plantation drive amid severe drought, says Fadnavis",
-      "description": "The chief minister said planting trees on farmland could help prevent soil erosion and recharge groundwater, making it an important part of the state's water and soil conservation efforts",
-      "link": "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-scales-down-tree-plantation-drive-amid-severe-drought-over-310-talukas-declared-drought-hit-devendra-fadnavis-23660891",
-      "source": "Mid-day",
-      "image": "https://images.mid-day.com/images/images/2026/nov/DevendraFadnavisNewDec_1795324777208_d.jpg",
-      "published": "2026-11-22 05:35:16",
-      "category": [
-        "environment",
-        "top",
-        "business"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Euromatch NPFL: Ogunmodede Celebrates Pillars\u2019 Hard-Fought Win Over Ikorodu City",
-      "description": "Kano Pillars technical adviser Daniel Ogunmodede has reflected on his team\u2019s 1-0 victory over Ikorodu City. The Sai Masu Gida secured their first away win of the campaign at the Mobolaji Johnson Arena, Onikan, thanks to Garba Shuaibu\u2019s 18th-minute strike. Ogunmodede Lauds Players, Backroom Staff Ogunmodede expressed satisfaction with his players\u2019 ability to execute the [...] The post Euromatch NPFL: Ogunmodede Celebrates Pillars\u2019 Hard-Fought Win Over Ikorodu City appeared first on Complete Sports.",
-      "link": "https://www.completesports.com/euromatch-npfl-ogunmodede-celebrates-pillars-hard-fought-win-over-ikorodu-city/",
-      "source": "Complete Sports",
-      "image": "https://www.completesports.com/wp-content/uploads/2026/10/Daniel-Ogunmodede.jpg",
-      "published": "2026-11-22 05:35:15",
-      "category": [
-        "sports"
-      ],
-      "country": [
-        "nigeria"
-      ]
-    },
-    {
-      "title": "Trump-class battleships add to US Navy's cost burden as Iran war stretches fleet",
-      "description": "This comes at a time when the Iran war is stretching the Navy's operational capacity, with ships staying at sea longer and maintenance being deferred.",
-      "link": "https://www.hindustantimes.com/world-news/trumpclass-battleships-add-to-us-navys-cost-burden-as-iran-war-stretches-fleet-report-101795324400149.html",
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/Koreas-Tensions-0_1795324488977_lLLl_1795324500804_xuSJ_6db63780-2a26-40a2-9b12-62dc53a7e83c_tNgR.jpg",
-      "published": "2026-11-22 05:35:15",
-      "category": [
-        "top",
-        "politics"
-      ],
-      "country": [
-        "india"
-      ]
-    },
-    {
-      "title": "Rising medical costs put healthcare protection under pressure, says Bank Negara governor",
-      "description": "KUALA LUMPUR: Malaysia needs a coordinated overhaul of its healthcare system to contain rising medical costs, improve treatment outcomes and ensure affordable medical protection remains accessible to households.",
-      "link": "https://www.nst.com.my/business/economy/2026/11/1583168/rising-medical-costs-put-healthcare-protection-under-pressure-says",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/BCD7AF3A826CF32A09364F00B78B0D14_data_0_1.jpg",
-      "published": "2026-11-22 05:35:14",
-      "category": [
-        "business",
-        "top",
+        "education",
         "health"
       ],
       "country": [
-        "malaysia"
+        "india"
       ]
     },
     {
-      "title": "Have You Heard? Dia Mirza, Nawazuddin Siddiqui strike a pose after public spat",
-      "description": "Dia Mirza and Nawazuddin Siddiqui's reunion comes a day after the actress called him a 'nightmare to work with' and an 'offensive character' in a social media post. Their sudden turnaround has raised eyebrows, with netizens questioning whether the public fallout was a publicity stunt.",
-      "link": "https://www.mid-day.com/entertainment/bollywood-news/article/have-you-heard-dia-mirza-poses-with-nawazuddin-siddiqui-after-calling-him-offensive-23660842",
-      "source": "Mid-day",
-      "image": "https://images.mid-day.com/images/images/2026/nov/Entertainment_-_2026-11-22T103414_1795323868210_d.jpg",
-      "published": "2026-11-22 05:35:11",
+      "title": "Miley Cyrus weds drummer Maxx Morando in California, People magazine reports",
+      "description": null,
+      "link": "https://www.investing.com/news/world-news/miley-cyrus-weds-drummer-maxx-morando-in-california-people-magazine-reports-5043900",
+      "source": "Investing Us",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAL06R_L.jpg",
+      "published": "2026-11-22 11:12:22",
       "category": [
-        "entertainment"
+        "world"
       ],
       "country": [
-        "india"
+        "united states of america"
       ]
     }
   ]

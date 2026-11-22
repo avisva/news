@@ -1,21 +1,37 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Rising medical costs put healthcare protection under pressure, says Bank Negara governor",
-      "description": "KUALA LUMPUR: Malaysia needs a coordinated overhaul of its healthcare system to contain rising medical costs, improve treatment outcomes and ensure affordable medical protection remains accessible to households.",
-      "link": "https://www.nst.com.my/business/economy/2026/11/1583168/rising-medical-costs-put-healthcare-protection-under-pressure-says",
-      "source": "New Straits Times",
-      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/BCD7AF3A826CF32A09364F00B78B0D14_data_0_1.jpg",
-      "published": "2026-11-22 05:35:14",
+      "title": "More than 5,000 serious patient safety incidents recorded across Scotland\u2019s NHS since 2020",
+      "description": "718 Category 1 incidents, meaning contributing to or resulting in permanent harm or death, were logged in 2026",
+      "link": "https://news.stv.tv/west-central/more-than-5000-serious-patient-safety-incidents-recorded-across-scotlands-nhs-since-2020",
+      "source": "Stv News",
+      "image": "https://news.stv.tv/wp-content/uploads/2026/04/51bcef27b715c0a4b6e89fbcd3e4e0a5-1776688453-1079x720.jpeg",
+      "published": "2026-11-22 11:12:56",
       "category": [
-        "business",
+        "crime",
         "top",
         "health"
       ],
       "country": [
-        "malaysia"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "KNRUHS reopens BHMS Management Quota applications for 2026-27",
+      "description": "Kaloji Narayana Rao University of Health Sciences has reopened online applications for BHMS Management Quota Category B and C/NRI admissions in Telangana private homoeopathic colleges for 2026-27. Registration closes at 4 pm Monday.",
+      "link": "https://telanganatoday.com/knruhs-reopens-bhms-quota-registration-34465da5",
+      "source": "Telangana Today",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/11/knruhs-reopens-bhms-quota-registration-34465da5-640a8798.jpg",
+      "published": "2026-11-22 11:12:27",
+      "category": [
+        "top",
+        "education",
+        "health"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

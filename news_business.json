@@ -1,49 +1,82 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 5,
   "results": [
     {
-      "title": "Deposit Costs Climb As Banks Brace For Tougher Competition",
-      "description": "US banks' deposit costs rose in the third quarter, already grappling with fierce funding competition and now staring down higher-for-longer rates.",
-      "link": "https://seekingalpha.com/article/4970860-deposit-costs-climb-as-banks-brace-for-tougher-competition",
-      "source": "Seeking Alpha",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1426365098/image_1426365098.jpg?io=getty-c-w1280",
-      "published": "2026-11-21 21:20:00",
+      "title": "Manila police confirm 19 arrests during anti-ASEAN protests",
+      "description": "The Manila Police District (MPD) confirmed that they arrested 19 individuals during protest rallies held in Manila on Nov. 15 and 16 in connection with the 49th ASEAN Summit, including five minors, police said. In a statement, the MPD said the arrests were made in Plaza Lawton, Malate, and Sta. Mesa. Of the 19 individuals, four were identified as minors who were rescued, while another was classified as a child in conflict with the law (CICL). In Plaza Lawton, nine individuals were presented for inquest proceedings. Six were charged by the Manila City Prosecutor's Office with violating Article 151 of the Revised Penal Code (RPC), or resistance and disobedience to a person in authority or to agents of such a person. The six were subsequently released after the Regional Trial Court (RTC) of Manila granted their bail on Nov. 20. The remaining three were referred for further investigation. The CICL was turned over to the Manila Youth Reception Center (MYRC) for appropriate intervention. In Malate, two individuals were also presented for inquest proceedings for alleged violations of Articles 151 and 153 of the RPC, as well as Batas Pambansa (B.P.) Blg. 880, or the Public Assembly Act of 1985. Their bail was granted before the Manila City Prosecutor's Office issued a resolution referring their cases for further investigation. Meanwhile, eight individuals were arrested in Sta. Mesa for alleged violations of Articles 151 and 153 of the RPC, B.P. Blg. 880, and Manila City Ordinance No. 8609, or the Anti-Vandalism Ordinance. Four of the eight were identified as minors and turned over to the Manila Department of Social Welfare's Reception and Action Center (RAC), while the other four were released from police custody on Nov. 19. The MPD said it remains committed to upholding the rule of law, protecting public safety, safeguarding minors, and respecting the constitutional right to peaceful assembly.",
+      "link": "https://mb.com.ph/article/10945705/philippines/metro-manila/manila-police-confirm-19-arrests-during-anti-asean-protests",
+      "source": "Manila Bulletin",
+      "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/11/22/148245.webp",
+      "published": "2026-11-22 05:36:00",
       "category": [
         "business"
       ],
       "country": [
-        "canada"
+        "philippines"
       ]
     },
     {
-      "title": "How will Britain\u2019s new EU reset deal affect cross-border trade?",
-      "description": null,
-      "link": "https://www.thetimes.com/world/ireland-world/article/how-britain-eu-reset-deal-affect-cross-border-trade-p07675q8s",
-      "source": "The Times",
-      "image": null,
-      "published": "2026-11-21 21:20:00",
-      "category": [
-        "business"
-      ],
-      "country": [
-        "united kingdom"
-      ]
-    },
-    {
-      "title": "The Real Winners of the Jensen Huang Affair",
-      "description": "On 29 October, a New York Times exclusive revealed how Chinese businesswoman Alice Huang had developed a \u2018close relationship\u2019 with...",
-      "link": "https://hotair.com/headlines/2026/11/21/the-real-winners-of-the-jensen-huang-affair-n3821192",
-      "source": "Hotair",
-      "image": "https://cdn.townhall.com/web/thm/hotair-opengraph-default.jpg",
-      "published": "2026-11-21 21:20:00",
+      "title": "PANI project to connect Andaman's eight islands through undersea cable network",
+      "description": "PANI project to connect Andaman's eight islands through undersea cable network",
+      "link": "https://www.hindustantimes.com/india-news/pani-project-to-connect-andaman-s-eight-islands-through-undersea-cable-network-101795325743696.html",
+      "source": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india1_1751287243850_1751287256749.jpg",
+      "published": "2026-11-22 05:35:43",
       "category": [
         "top",
         "business",
-        "entertainment"
+        "technology"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+      "description": "An American Express card is shown, Jan. 18, 2024, in Atlanta.",
+      "link": "https://www.nbcnewyork.com/news/national-international/trump-work-with-democrats-cap-credit-card-interest-rates/6575177/",
+      "source": "Nbc 4 New York",
+      "image": "https://media.nbcnewyork.com/2026/11/AP26325637911235.jpg?quality=85&strip=all&fit=5017,3345",
+      "published": "2026-11-22 05:35:42",
+      "category": [
+        "top",
+        "business"
       ],
       "country": [
         "united states of america"
+      ]
+    },
+    {
+      "title": "Maharashtra scales down tree plantation drive amid severe drought, says Fadnavis",
+      "description": "The chief minister said planting trees on farmland could help prevent soil erosion and recharge groundwater, making it an important part of the state's water and soil conservation efforts",
+      "link": "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-scales-down-tree-plantation-drive-amid-severe-drought-over-310-talukas-declared-drought-hit-devendra-fadnavis-23660891",
+      "source": "Mid-day",
+      "image": "https://images.mid-day.com/images/images/2026/nov/DevendraFadnavisNewDec_1795324777208_d.jpg",
+      "published": "2026-11-22 05:35:16",
+      "category": [
+        "environment",
+        "top",
+        "business"
+      ],
+      "country": [
+        "india"
+      ]
+    },
+    {
+      "title": "Rising medical costs put healthcare protection under pressure, says Bank Negara governor",
+      "description": "KUALA LUMPUR: Malaysia needs a coordinated overhaul of its healthcare system to contain rising medical costs, improve treatment outcomes and ensure affordable medical protection remains accessible to households.",
+      "link": "https://www.nst.com.my/business/economy/2026/11/1583168/rising-medical-costs-put-healthcare-protection-under-pressure-says",
+      "source": "New Straits Times",
+      "image": "https://storage.googleapis.com/origin-awsassets.nst.com.my/images/listing-featured/BCD7AF3A826CF32A09364F00B78B0D14_data_0_1.jpg",
+      "published": "2026-11-22 05:35:14",
+      "category": [
+        "business",
+        "top",
+        "health"
+      ],
+      "country": [
+        "malaysia"
       ]
     }
   ]

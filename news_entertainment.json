@@ -1,16 +1,15 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 3,
   "results": [
     {
-      "title": "Lonnie Ray Johnson, 84, of Temple died Monday, Nov. 2",
-      "description": "Services for Lonnie Ray Johnson, 84, of Temple will be 2 p.m. Tuesday at Central Texas State Veterans Cemetery in Killeen.",
-      "link": "https://www.tdtnews.com/obituaries/article_ba034bd4-945a-4aeb-99fa-2ab4de952310.html",
-      "source": "Tdtnews.com",
-      "image": null,
-      "published": "2026-11-21 21:20:00",
+      "title": "Amazing Spider-Man #1004 Details Itsy Bitsy Kidnapping of J. Jonah Jameson",
+      "description": "Joe Kelly's Amazing Spider-Man 1004 releases on November 25, 2026. The issue follows Peter Parker's desperate rescue of J. Jonah Jameson from Itsy Bitsy while managing Avengers duties.",
+      "link": "https://us.headtopics.com/news/amazing-spider-man-1004-details-itsy-bitsy-kidnapping-of-90072907",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/22/bleedingcool/amazing-spider-man-1004-details-itsy-bitsy-kidnapp-amazing-spider-man-1004-details-itsy-bitsy-kidnapp-87F2445D58C436E6F6C345B91D3CB836-16x9.webp",
+      "published": "2026-11-22 05:36:00",
       "category": [
-        "crime",
         "top",
         "entertainment"
       ],
@@ -19,19 +18,32 @@
       ]
     },
     {
-      "title": "The Real Winners of the Jensen Huang Affair",
-      "description": "On 29 October, a New York Times exclusive revealed how Chinese businesswoman Alice Huang had developed a \u2018close relationship\u2019 with...",
-      "link": "https://hotair.com/headlines/2026/11/21/the-real-winners-of-the-jensen-huang-affair-n3821192",
-      "source": "Hotair",
-      "image": "https://cdn.townhall.com/web/thm/hotair-opengraph-default.jpg",
-      "published": "2026-11-21 21:20:00",
+      "title": "Bolton's Sophie Willan takes on heartfelt Christmas mission for BBC show",
+      "description": "Bolton-born actress and comedian Sophie Willan is set to appear on BBC's The Repair Shop for a special Christmas episode close to her heart.",
+      "link": "https://www.theboltonnews.co.uk/news/26741521.boltons-sophie-willan-joins-repair-shop-christmas-special/",
+      "source": "The Bolton News",
+      "image": null,
+      "published": "2026-11-22 05:36:00",
       "category": [
         "top",
-        "business",
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Have You Heard? Dia Mirza, Nawazuddin Siddiqui strike a pose after public spat",
+      "description": "Dia Mirza and Nawazuddin Siddiqui's reunion comes a day after the actress called him a 'nightmare to work with' and an 'offensive character' in a social media post. Their sudden turnaround has raised eyebrows, with netizens questioning whether the public fallout was a publicity stunt.",
+      "link": "https://www.mid-day.com/entertainment/bollywood-news/article/have-you-heard-dia-mirza-poses-with-nawazuddin-siddiqui-after-calling-him-offensive-23660842",
+      "source": "Mid-day",
+      "image": "https://images.mid-day.com/images/images/2026/nov/Entertainment_-_2026-11-22T103414_1795323868210_d.jpg",
+      "published": "2026-11-22 05:35:11",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]

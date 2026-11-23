@@ -1,21 +1,38 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Octopus says 99p item makes home feel warmer and knocks money off heating bills",
-      "description": "Energy supplier Octopus Energy has shared a simple tip that could help UK households save",
-      "link": "https://www.mirror.co.uk/money/household-bills/octopus-says-99p-item-makes-37903352",
-      "source": "Mirror",
-      "image": "https://i2-prod.mirror.co.uk/news/uk-news/article37903350.ece/ALTERNATES/s615/0_A-commercial-van-painted-in-the-corporate-livery-of-Octopus-Energy-parked-outside-a-residential-property-in-Essex-UK.jpg",
-      "published": "2026-11-22 11:12:58",
+      "title": "The Ninja SLUSHi Twist is the ultimate holiday hosting flex, and it\u2019s on sale right now",
+      "description": "The Ninja SLUSHi Twist makes 2 frozen drinks at once \u2014 and it just hit its lowest price ever during Amazon's Black Friday sale. Don't wait to snag it.",
+      "link": "https://www.lehighvalleylive.com/shopping/2026/11/amazon-slashes-60-off-the-ninja-slushi-twist-for-black-friday.html",
+      "source": "Lehighvalleylive",
+      "image": "https://www.lehighvalleylive.com/resizer/v2/OHEAFWT725FJZD6RRQGFSSP4OE.png?auth=bc3b57f3d969fb25824f1f46ad6ec1f837526ff8e754193e7019e470cdd42434&smart=true&height=1200",
+      "published": "2026-11-22 17:45:00",
       "category": [
         "top",
         "business",
         "technology"
       ],
       "country": [
-        "united kingdom"
+        "united states of america"
+      ]
+    },
+    {
+      "title": "You can mass-delete all of your emails on Gmail in only a few clicks",
+      "description": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
+      "link": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
+      "source": "Engadget",
+      "image": "https://www.engadget.com/img/gallery/you-can-mass-delete-all-of-your-emails-on-gmail-in-only-a-few-clicks/l-intro-1794781970.jpg",
+      "published": "2026-11-22 17:45:00",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "india",
+        "united states of america",
+        "united kingdom",
+        "singapore"
       ]
     }
   ]

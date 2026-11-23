@@ -1,38 +1,20 @@
 {
   "status": "success",
-  "totalResults": 2,
+  "totalResults": 1,
   "results": [
     {
-      "title": "The Ninja SLUSHi Twist is the ultimate holiday hosting flex, and it\u2019s on sale right now",
-      "description": "The Ninja SLUSHi Twist makes 2 frozen drinks at once \u2014 and it just hit its lowest price ever during Amazon's Black Friday sale. Don't wait to snag it.",
-      "link": "https://www.lehighvalleylive.com/shopping/2026/11/amazon-slashes-60-off-the-ninja-slushi-twist-for-black-friday.html",
-      "source": "Lehighvalleylive",
-      "image": "https://www.lehighvalleylive.com/resizer/v2/OHEAFWT725FJZD6RRQGFSSP4OE.png?auth=bc3b57f3d969fb25824f1f46ad6ec1f837526ff8e754193e7019e470cdd42434&smart=true&height=1200",
-      "published": "2026-11-22 17:45:00",
+      "title": "WhatsApp\u2019s new iPhone feature makes text messages disappear after one read: Here\u2019s how it works",
+      "description": "WhatsApp is testing View Once text messages for iPhone users, allowing text to disappear after being read. The feature blocks screenshots, copying and forwarding within the app. Here\u2019s how it works, who can access it and when a wider release could happen.",
+      "link": "https://www.news9live.com/technology/tech-news/whatsapp-view-once-text-messages-ios-iphone-how-it-works-3026833",
+      "source": "News9live",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/07/whatsapp-new-features.png",
+      "published": "2026-11-23 05:23:00",
       "category": [
         "top",
-        "business",
         "technology"
       ],
       "country": [
-        "united states of america"
-      ]
-    },
-    {
-      "title": "You can mass-delete all of your emails on Gmail in only a few clicks",
-      "description": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
-      "link": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
-      "source": "Engadget",
-      "image": "https://www.engadget.com/img/gallery/you-can-mass-delete-all-of-your-emails-on-gmail-in-only-a-few-clicks/l-intro-1794781970.jpg",
-      "published": "2026-11-22 17:45:00",
-      "category": [
-        "technology"
-      ],
-      "country": [
-        "india",
-        "united states of america",
-        "united kingdom",
-        "singapore"
+        "india"
       ]
     }
   ]

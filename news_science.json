@@ -1,5 +1,38 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 2,
+  "results": [
+    {
+      "title": "Encounter (ASX:ENR) Extends Higher-Grade Niobium at Aileron - Kalkine Media",
+      "description": "Encounter Resources reported thick, higher-grade niobium east of the Green SW zone at Aileron, extending mineralisation beyond the current resource.",
+      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/encounter-asxenr-extends-higher-grade-niobium-at-aileron",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2344114597_11_23_2026_05_23_51_595927.jpg",
+      "published": "2026-11-23 05:23:00",
+      "category": [
+        "environment",
+        "science",
+        "top"
+      ],
+      "country": [
+        "australia"
+      ]
+    },
+    {
+      "title": "Can Australian Mines (ASX:AUZ) Fast-Track Scandium at Sconi? - Kalkine Media",
+      "description": "Australian Mines has launched a review of shallow, high-grade scandium at Sconi in Queensland, targeting a faster route from mine to oxide.",
+      "link": "https://kalkinemedia.com/au/stocks/rare-earth-minerals/can-australian-mines-asxauz-fast-track-scandium-at-sconi",
+      "source": "Kalkine Media",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2344114597_11_23_2026_05_23_46_231743.jpg",
+      "published": "2026-11-23 05:23:00",
+      "category": [
+        "top",
+        "science",
+        "business"
+      ],
+      "country": [
+        "australia"
+      ]
+    }
+  ]
 }

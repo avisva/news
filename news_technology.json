@@ -1,20 +1,51 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 3,
   "results": [
     {
-      "title": "WhatsApp\u2019s new iPhone feature makes text messages disappear after one read: Here\u2019s how it works",
-      "description": "WhatsApp is testing View Once text messages for iPhone users, allowing text to disappear after being read. The feature blocks screenshots, copying and forwarding within the app. Here\u2019s how it works, who can access it and when a wider release could happen.",
-      "link": "https://www.news9live.com/technology/tech-news/whatsapp-view-once-text-messages-ios-iphone-how-it-works-3026833",
-      "source": "News9live",
-      "image": "https://images.news9live.com/wp-content/uploads/2026/07/whatsapp-new-features.png",
-      "published": "2026-11-23 05:23:00",
+      "title": "Kevin O\u2019Leary warns Anthropic IPO buyers to brace for 2030",
+      "description": "The billionaire investor sees a longer wait before any payoff.",
+      "link": "https://www.thestreet.com/investing/kevin-oleary-anthropic-ipo-warning",
+      "source": "Thestreet",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjU4MTE1/key-speakers-at-dc-blockchain-summit.jpg?profile=rss",
+      "published": "2026-11-23 15:47:00",
+      "category": [
+        "top",
+        "business",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Fastned opens UK\u2019s first \u2018Autonomous Pit Stop\u2019",
+      "description": "Self-service convenience store and coffee shop is located near ultra-rapid chargers.",
+      "link": "https://www.irishnews.com/life/fastned-opens-uks-first-autonomous-pit-stop-CJZF7IPPCRJHJJI5YWRN6ICWUE/",
+      "source": "The Irish News",
+      "image": "https://irishnews-irishnews-prod.web.arc-cdn.net/resizer/-KVpp0Yn2AKUGu04nPcBiyI2d8s=/cloudfront-eu-central-1.images.arcpublishing.com/irishnews/SNX3QAXMW5JYNBTVCNR3BCR4YQ.jpg",
+      "published": "2026-11-23 15:46:57",
       "category": [
         "top",
         "technology"
       ],
       "country": [
-        "india"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Piper Sandler upgrades MiniMed, downgrades Insulet after doctor calls",
+      "description": null,
+      "link": "https://www.investing.com/news/stock-market-news/piper-sandler-upgrades-minimed-downgrades-insulet-after-doctor-calls-5046012",
+      "source": "Investing Us",
+      "image": "https://content-media.investing.com/news/LYNXMPEC9T0EK_M.jpg",
+      "published": "2026-11-23 15:46:52",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
       ]
     }
   ]

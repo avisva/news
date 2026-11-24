@@ -1,17 +1,58 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 4,
   "results": [
     {
-      "title": "Dan Orlovsky stumped by Mina Kimes\u2019 Alamo reference",
-      "description": "Dan Orlovsky is an NFL analyst across ESPN platforms, most prominently on the award-winning NFL Live. He\u2019s also a professional oversharer. Orlovsky has made a habit out of captivating the nation with his unique habits, leading to a bland grilled chicken birthday cake, and his character arc regarding pedicures. Just in the past month, Orlovsky asked The\u2026",
-      "link": "https://sports.yahoo.com/articles/dan-orlovsky-stumped-mina-kimes-023049734.html",
-      "source": "Yahoo! News",
-      "image": "https://s.yimg.com/lo/mysterio/api/72a85a2ed52ca25174828960eadaf588b733275f5cd8c6e99b773596b0ea2dcb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2F70691d663bbd5fda01939706622ad0c0.jpg",
-      "published": "2026-11-24 02:30:49",
+      "title": "LeBron James\u2019 Redemption Goes to Waste as Tyrese Maxey, Nick Nurse Reveal 76ers\u2019 Biggest Problem After Blowout Loss",
+      "description": "For the first time in his Philadelphia 76ers career, LeBron James scored at least 20 points in three straight games. However, the four-time NBA champion\u2019s effort fell short as the Sixers lost 128-111 to the Portland Trail Blazers.",
+      "link": "https://www.yardbarker.com/nba/articles/lebron_james_redemption_goes_to_waste_as_tyrese_maxey_nick_nurse_reveal_76ers_biggest_problem_after_blowout_loss/s1_17730_44610901",
+      "source": "Yardbarker",
+      "image": "http://www.yardbarker.com/media/f/9/f972992a1192e902a0821a6118bd3caa07932448/thumb_16x9/GettyImages-2301222557.jpg-1080x720.jpg",
+      "published": "2026-11-24 11:45:00",
       "category": [
-        "sports",
-        "breaking"
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Nvidia proves nobody knows anything about the stock market",
+      "description": "Nvidia\u2019s rally proves the market is nearly impossible to predict.",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/24/nvidia-proves-nobody-knows-anything-about-stock-market/",
+      "source": "The Washington Post",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/67C625ASULGMQZ2FPHB6CCWECQ.JPG&w=1600&h=900",
+      "published": "2026-11-24 11:45:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How RFK Jr.\u2019s vaccine policies could cause a spike in liver cancer",
+      "description": "New research shows how vaccine recommendation changes could leave millions more Americans vulnerable to a dangerous virus.",
+      "link": "https://www.washingtonpost.com/opinions/2026/11/24/how-kennedy-hepatitis-b-vaccine-policy-could-increase-liver-cancer/",
+      "source": "The Washington Post",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GNOFOREKTDLESWC2LSORPPUBMQ_size-normalized.JPG&w=1600&h=900",
+      "published": "2026-11-24 11:45:00",
+      "category": [
+        "sports"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Bengals vs Commanders MNF game halted by power outage as lights go out",
+      "description": "The Washington Commanders' game against the Cincinnati Bengals on Monday Night Football was abruptly stopped after the lights went out at Northwest Stadium",
+      "link": "https://www.the-express.com/sport/american-football/220335/Bengals-Commanders-MNF-power-outage",
+      "source": "Daily Express Us",
+      "image": "https://cdn-images.the-express.com/img/dynamic/47/237x141/220335_1.jpg",
+      "published": "2026-11-24 11:45:00",
+      "category": [
+        "sports"
       ],
       "country": [
         "united states of america"

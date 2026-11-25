@@ -1,20 +1,5 @@
 {
   "status": "success",
-  "totalResults": 1,
-  "results": [
-    {
-      "title": "Air Quality (PM2.5)-Premature Death Claims Analyzed in the Journal of American Physicians and Surgeons (AAPS)",
-      "description": "Costly environmental rules as for air pollution (tiny particles or PM2.5s) are based on research with serious flaws that produce false-positive results.",
-      "link": "https://www.globenewswire.com/news-release/2026/11/24/3409814/22503/en/air-quality-pm2-5-premature-death-claims-analyzed-in-the-journal-of-american-physicians-and-surgeons-aaps.html",
-      "source": "Globe Newswire",
-      "image": null,
-      "published": "2026-11-24 18:58:00",
-      "category": [
-        "health"
-      ],
-      "country": [
-        "united states of america"
-      ]
-    }
-  ]
+  "totalResults": 0,
+  "results": []
 }

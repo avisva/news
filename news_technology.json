@@ -1,5 +1,49 @@
 {
   "status": "success",
-  "totalResults": 0,
-  "results": []
+  "totalResults": 3,
+  "results": [
+    {
+      "title": "Poll: Is text selection still too finicky on Android phones?",
+      "description": "Selecting text on Android always feels more miss than hit.",
+      "link": "https://www.androidauthority.com/android-text-selection-poll-3739460/",
+      "source": "Androidauthority",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/text-selection-shortcuts-android-3.jpg",
+      "published": "2026-11-26 07:57:58",
+      "category": [
+        "top",
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "Amazon Black Friday LIVE: Latest updates on the lowest prices for iPads, Garmin smartwatches, Bose headphones, everyday essentials and more",
+      "description": "Amazon's Black Friday sale is going strong. We're live blogging the best deals on Ninja, Skechers, Garmin, Asics, and more.",
+      "link": "https://www.tomsguide.com/live/news/best-amazon-black-friday-deals-november-26-2026",
+      "source": "Tom's Guide",
+      "image": "https://cdn.mos.cms.futurecdn.net/uPipaYA8VpgxtmLqZBt9SS-1920-80.png",
+      "published": "2026-11-26 07:57:45",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "united states of america"
+      ]
+    },
+    {
+      "title": "How US-China tech rivalry has been reset by Jensen Huang saga",
+      "description": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm\u2019s tech wing. Before her current role, she worked at Gavekal Fathom China from its founding in 2009, developing broad expertise in China\u2019s corporate landscape. A graduate of Beijing Foreign Studies University and Harvard University, she is currently based in Miami. In this interview, Khawaja discusses the whirlwind dismissal and restoration of Nvidia CEO Jensen Huang, how that saga and other...",
+      "link": "https://www.scmp.com/plus/tech/tech-war/article/3375892/how-us-china-tech-rivalry-has-been-reset-jensen-huang-saga",
+      "source": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/0ac66684-09e5-47d8-af10-b135675c4d1a_efeb4358.jpg?itok=el8IDiER&v=1795679498",
+      "published": "2026-11-26 07:57:45",
+      "category": [
+        "technology"
+      ],
+      "country": [
+        "hong kong"
+      ]
+    }
+  ]
 }

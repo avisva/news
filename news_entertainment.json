@@ -1,19 +1,33 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Twitch streamer reportedly pauses \u2018GTA 6\u2019 to use bathroom, returns to find room filled with smoke: \u2018some people have called me crazy\u2019",
-      "description": null,
-      "link": "https://wegotthiscovered.com/gaming/twitch-streamer-reportedly-pauses-gta-6-to-use-bathroom-returns-to-find-room-filled-with-smoke-some-people-have-called-me-crazy/",
-      "source": "We Got This Covered",
-      "image": "https://wegotthiscovered.com/wp-content/uploads/2026/11/Gamurs-Imager-11-26-2026-22-45-playstation-dualsense-controller.jpg",
-      "published": "2026-11-26 23:45:00",
+      "title": "Stacey Solomon reveals Joe Swash's tea break almost made him miss their baby's birth",
+      "description": "Stacey Solomon and Joe Swash revisit a memorable moment from labour, with Joe explaining why he thought he had time to put the kettle on.",
+      "link": "https://www.walesonline.co.uk/lifestyle/tv/stacey-solomon-reveals-joe-swashs-34963235",
+      "source": "Wales Online",
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34963258.ece/ALTERNATES/s615/0_582946.jpg",
+      "published": "2026-11-27 08:40:00",
       "category": [
         "entertainment"
       ],
       "country": [
-        "united states of america"
+        "united kingdom"
+      ]
+    },
+    {
+      "title": "Meta whistleblower: I feel like I\u2019m living in Orwell\u2019s 1984",
+      "description": null,
+      "link": "https://www.thetimes.com/culture/books/article/meta-whistleblower-sarah-wynn-williams-orwell-lecture-censorship-bcjggjh7m",
+      "source": "The Times",
+      "image": null,
+      "published": "2026-11-27 08:40:00",
+      "category": [
+        "entertainment"
+      ],
+      "country": [
+        "united kingdom"
       ]
     }
   ]

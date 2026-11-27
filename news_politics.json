@@ -1,21 +1,34 @@
 {
   "status": "success",
-  "totalResults": 1,
+  "totalResults": 2,
   "results": [
     {
-      "title": "Ford says gambling ads are \u2018out of control,\u2019 but his government is resisting calls for a quick ban",
-      "description": "Days after Premier Doug Ford said online gambling ads are \"out of control\" and need to be curbed, his government is resisting a push to ban them by the end of the year.",
-      "link": "https://www.thestar.com/news/ontario/ford-says-gambling-ads-are-out-of-control-but-his-government-is-resisting-calls-for-a-quick-ban/article_1aff3f8a-6a0a-49c8-b283-72219d67334e.html",
-      "source": "The Star",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/62/162f30bf-0d13-5b15-8173-cd2cf4a6f330/6b08c38db7f5f.image.jpg?resize=300%2C200",
-      "published": "2026-11-26 23:45:00",
+      "title": "Zelensky compares Trump\u2019s friendship with Putin to being friends with Hitler during World War Two",
+      "description": "Ukraine\u2019s leader says US not pushing Russia hard enough in peace talks",
+      "link": "https://www.independent.ie/world-news/zelensky-compares-trumps-friendship-with-putin-to-being-friends-with-hitler-during-world-war-two/a/165184306.html",
+      "source": "The Independent",
+      "image": "https://prod-img.independent.ie/public/incoming/yi2z90-ab25335b-ad3a-4687-8b1b-fda48e3482d8.jpg/alternates/BASE_SIXTEEN_NINE/ab25335b-ad3a-4687-8b1b-fda48e3482d8.jpg",
+      "published": "2026-11-27 08:40:00",
       "category": [
         "top",
-        "politics",
-        "business"
+        "politics"
       ],
       "country": [
-        "canada"
+        "ireland"
+      ]
+    },
+    {
+      "title": "Delimitation Bill: MK Stalin warns Centre, says 'Tamil Nadu will not compromise'",
+      "description": "Reiterating the party's position, the Stalin said there was no change in its stand and ruled out any compromise on the demands.\"The DMK stands firm on these two demands and will continue to do so. There is no change in our position, and there is no question of any compromise!\" he said.",
+      "link": "https://www.dnaindia.com/india/report-delimitation-bill-mk-stalin-warns-centre-says-tamil-nadu-will-not-compromise-3224706",
+      "source": "Dna",
+      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/11/27/2762652-former-tamil-nadu-chief-minister-mk-stalin-file-photoani.jpg",
+      "published": "2026-11-27 08:40:00",
+      "category": [
+        "politics"
+      ],
+      "country": [
+        "india"
       ]
     }
   ]
